@@ -1,10 +1,10 @@
 # Project of Data Visualization (COM-480)
 
-| Student's name | SCIPER |
-| -------------- | ------ |
-| | |
-| | |
-| | |
+| Student's name               | SCIPER |
+| ---------------------------- | ------ |
+| Beuchat Bastien              | 257117 |
+| Jollès Eric Michel Alexandre | 269708 |
+| Mamie Robin Georges Francis  | 257234 |
 
 [Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-1st-may-5pm) • [Milestone 3](#milestone-3-thursday-28th-may-5pm)
 
