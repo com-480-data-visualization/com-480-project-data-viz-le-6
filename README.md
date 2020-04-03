@@ -30,11 +30,11 @@ An example entry:
 
 An entry is uniquely indexable using the *gender*, the *date* of the race, its *event type* (Slalom, Downhill, etc.) and the *name* of the athlete.
 If a run was cancelled for one reason or another, it is still present with a (unique) blank athlete name.
-The times are in hundredth of seconds to keep them as integers.
+The times are in hundredths of seconds to keep them as integers.
 Times taken for the 1st and 2nd runs (for relevant events) always equal the total time.
 `ath_diff` refers to the time difference w.r.t the race winner.
 The `ath_ski` column refers to the ski brand used by the athlete, if the data exists.
-The `ath_id` links back to the [athlete's profile](https://ski-db.com/db/profiles/daniel_yule_sui_511996.php) on Ski-DB, which provides additional information (birth-date, etc.)
+The `ath_id` links back to the [athlete's profile](https://ski-db.com/db/profiles/daniel_yule_sui_511996.php) on Ski-DB, which provides additional information (birth date, etc.)
 
 ### 1.2 Problematic
 
@@ -46,7 +46,7 @@ With our historical dataset, we would like to visualize:
 
 - The results of all ski races over the years.
 - Skier profiles (i.e. in which events they participated) and their evolution through the years.
-- The geographical representation of the WC races (here is a demo [ski map](https://com-480-project-data-viz-le-6.github.io/ski_map/)).
+- The geographical representation of the WC races ([here is a demo](https://com-480-project-data-viz-le-6.github.io/ski_map/)).
 - The evolutive global ranking through seasons, using WC-points won by the athletes.
 - Direct comparisons between any skier/races of any era.
 - The evolution of the typical profile (age, type of events, etc.) of a race/World Cup winner.
@@ -57,14 +57,14 @@ With our project, we plan on filling this gap by providing fans and enthusiasts 
 
 ### 1.3 Exploratory data analysis
 
-We scraped the data from the women and men world cup and we get those entities:
+We scraped the data from the women and men world cup, getting those entities:
 
-- Number of seasons: 54 (all seasons since the beginning of the WC)
+- Number of seasons: 54 (all seasons since the beginning of the AS-WC)
 - Number of races: 3477
 - Number of athletes: 3137
 - Number of countries: 77
 
-For each race, we have the ranking and the time measurement for each athlete.
+For each race, we have the rankings and the time measurements for each athlete.
 However, we only have detailed time measurements for both runs (for events that require two runs) only from 1998.
 
 Plotting the number of races per season shows that the ski world cup has evolved and is still evolving during the recent years.
@@ -76,17 +76,19 @@ Distribution of AS events for both genders, per decade, from 1970 to 2019:
 
 ![events per decades](./analysis/events_per_decades.png)
 
-We can see that the type of events and their proportion evolved over the years.
-The three classic types of events (downhill, giant slalom and slalom) were always there, whereas Super G only emerged during the 80's and the parallel slalom even disappeared for a time.
+We can see that the types of events and their proportion evolved over the years.
+The three classic types of events (downhill, giant slalom and slalom) were always there, whereas super Gs only emerged during the 80s and the parallel slalom even disappeared for a time during the 00s.
+
+The exploratory data analyis is available in this [Jupyter notebook](/analysis/data_exploratory.ipynb).
 
 ### 1.4 Related work
 
 There is data available for results, rankings and athletes profiles.
 However, they are only shown as static tables and charts which are not really reader-friendly.
-We did not find something similar to what we want to do.
+We did not find anything similar to what we want to do.
 We would like to create dynamic visualizations that smoothly explore our data.
 
-- https://www.fis-ski.com : the FIS records all results, rankings and athlete information since the beginning of the AS-WC competitions (there are also various other sports).
+- https://www.fis-ski.com : the FIS records all results, rankings and athlete information since the beginning of the AS-WC competitions (there are also various other winter sports).
 - https://www.ski-db.com/ : the website on which we scraped the data also shows cool stats and rankings.
   For example: all-time greatest skier ranking.
 - http://ski-reference.com/ : a website that allows to query FIS website to compare two athletes or analyse the results of one run.
