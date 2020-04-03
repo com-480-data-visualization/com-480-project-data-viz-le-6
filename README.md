@@ -73,7 +73,7 @@ Distribution of AS events for both genders, per decade, from 1970 to 2019:
 
 ![events per decades](./analysis/events_per_decades.png)
 
-We can see that new type of events 
+We can see that the type of events evolved over the years. The three classic type of events (downhill, Giant slalom and slalom) were always there. Super G only emerged during the 80's and the parallel slalom disappeared for a time. 
 
 ### 1.4 Related work
 
