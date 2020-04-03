@@ -73,6 +73,8 @@ Distribution of AS events for both genders, per decade, from 1970 to 2019:
 
 ![events per decades](./analysis/events_per_decades.png)
 
+We can see that new type of events 
+
 ### 1.4 Related work
 
 There is data available for results, rankings and athletes profiles, but all are static tables not really reader-friendly and some basic static charts.
