@@ -64,6 +64,8 @@ We scraped the data from the women and men world cup and we get those entities:
 - Number of athletes: 3137
 - Number of countries: 77
 
+For every races, we have the ranking and the time measurement for each athletes, but we have detailed time measurements for both runs (for events that require two runs) only from 1998.
+
 Plotting the number of races per season shows that the ski world cup evolved and is still evolving during the recent years.
 The number of races growed during the first 10 seasons but still continue to fluctuate as new event and new ephemeral locations are added to and removed from the FIS calendar.
 
@@ -73,7 +75,7 @@ Distribution of AS events for both genders, per decade, from 1970 to 2019:
 
 ![events per decades](./analysis/events_per_decades.png)
 
-We can see that the type of events evolved over the years. The three classic type of events (downhill, Giant slalom and slalom) were always there. Super G only emerged during the 80's and the parallel slalom disappeared for a time. 
+We can see that the type of events evolved over the years. The three classic type of events (downhill, Giant slalom and slalom) were always there whereas Super G only emerged during the 80's and the parallel slalom even disappeared for a time.
 
 ### 1.4 Related work
 
