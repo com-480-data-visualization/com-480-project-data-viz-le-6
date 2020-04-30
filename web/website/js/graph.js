@@ -1,8 +1,14 @@
 // code based on https://bl.ocks.org/heybignick/3faf257bbbbc7743bb72310d03b86ee8
 function create_graph(container, dataFile) {
-    var svg = d3.select(container),
-        width = +svg.attr("width"),
-        height = +svg.attr("height");
+    $(container).width($(container).parent().width())
+    $(container).height($(container).parent().height())
+    
+    var svg = d3.select(container)
+    var width = $(container).width()//+svg.attr("width"),
+    var height = $(container).height()//+svg.attr("height");
+
+    console.log("width : "+width+" height : "+height)
+    //console.log(svg.attr("width"))
 
    // var color = d3.scaleOrdinal(d3.schemeCategory20);
     var simulation = d3.forceSimulation()

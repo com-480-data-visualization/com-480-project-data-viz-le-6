@@ -1,15 +1,36 @@
 
-var height = 400;
-var width = 500;
+var rankingId = "#ranking"
+$(rankingId).width($(rankingId).parent().width())
+$(rankingId).height($(rankingId).parent().height())
+
+var width = $(rankingId).width()
+var height = $(rankingId).height()
 
 // Feel free to change or delete any of the code you see in this editor!
-var svg = d3.select("#ranking").append("svg")
+var svg = d3.select(rankingId).append("svg")
     .attr("width", width)
-    .attr("height",height);
+    .attr("height", height);
+
+function formatDate(date) {
+    var d = new Date(date),
+        month = '' + (d.getMonth() + 1),
+        day = '' + d.getDate(),
+        year = d.getFullYear();
+
+    if (month.length < 2)
+        month = '0' + month;
+    if (day.length < 2)
+        day = '0' + day;
+
+    return [day, month, year].join('-');
+}
+
 
 var tickDuration = 2000;
 
 var top_n = 12;
+/*var height = 600;
+var width  = 960;*/
 
 const margin = {
     top: 80,
@@ -30,12 +51,6 @@ let subTitle = svg.append("text")
     .attr("y", 55)
     .html("WC points");
 
-let caption = svg.append('text')
-    .attr('class', 'caption')
-    .attr('x', width)
-    .attr('y', height - 5)
-    .style('text-anchor', 'end')
-    .html('Source: Interbrand');
 
 let index = 0;
 
@@ -94,6 +109,9 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
         .tickSize(-(height - margin.top - margin.bottom))
         .tickFormat(d => d3.format(',')(d));
 
+
+
+
     svg.append('g')
         .attr('class', 'axis xAxis')
         .attr('transform', `translate(0, ${margin.top})`)
@@ -131,22 +149,33 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
         .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
         .text(d => d3.format(',.0f')(d.lastValue));
 
+
+    svg.selectAll("skier_picture.pp")
+        .data(yearSlice)
+        .enter()
+        .append('svg:image')
+        .attr('class', 'pp')
+        .attr('xlink:href', '../img/placeholder.png')
+        .attr('width', y(1) - y(0) - barPadding - 2)
+        .attr('height', y(1) - y(0) - barPadding - 2)
+        .attr('x', d => 2)
+        .attr('y', d => y(d.rank) + 6);
+
     let yearText = svg.append('text')
         .attr('class', 'yearText')
         .attr('x', width - margin.right)
-        .attr('y', height - 25)
+        .attr('y', height - 5)
         .style('text-anchor', 'end')
-        .html(~~datevalues[index][0])
+        .html(formatDate(datevalues[index][0]))
         .call(halo, 10);
 
-    let ticker = d3.interval(e => {
-
+    //let ticker = d3.interval(e => {
+    function callback(index) {
         //yearSlice = data.filter(d => d.year == year && !isNaN(d.value))
         //  .sort((a,b) => b.value - a.value)
         //  .slice(0,top_n);
 
         //yearSlice.forEach((d,i) => d.rank = i);
-
 
         //console.log(datevalues)
         yearSlice = datevalues[index][1]
@@ -228,7 +257,54 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
             .remove();
 
 
+        let pp = svg.selectAll('.pp')
+            .data(yearSlice, d => d.name);
 
+        pp
+            .enter()
+            .append('svg:image')
+            .attr('class', 'pp')
+            .attr('xlink:href', 'pp.png')
+            .attr('width', y(1) - y(0) - barPadding - 2)
+            .attr('height', y(1) - y(0) - barPadding - 2)
+            .attr('x', d => 2)
+            .attr('y', d => y(top_n + 1) + 6)
+            .html(d => d.name)
+            .transition()
+            .duration(tickDuration)
+            .ease(d3.easeLinear)
+            .attr('y', d => y(d.rank) + 6);
+
+
+        pp
+            .transition()
+            .duration(tickDuration)
+            .ease(d3.easeLinear)
+            .attr('y', d => y(d.rank) + 6);
+
+        pp
+            .exit()
+            .transition()
+            .duration(tickDuration)
+            .ease(d3.easeLinear)
+            .attr('y', d => y(top_n + 1) + 6)
+            .remove();
+
+
+
+
+        var value = d3
+            .sliderBottom()
+            .min(d3.min(data))
+            .max(d3.max(data))
+            .width(300)
+            .tickFormat(d3.format('.2%'))
+            .ticks(5)
+            .step(0.005)
+            .default(0.015)
+            .on('onchange', val => {
+                d3.select('p#value-step').text(d3.format('.2%')(val));
+            });
         let valueLabels = svg.selectAll('.valueLabel').data(yearSlice, d => d.name);
 
         valueLabels
@@ -266,11 +342,53 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
             .attr('y', d => y(top_n + 1) + 5)
             .remove();
 
-        yearText.html(~~datevalues[index][0]);
+        yearText.html(formatDate(datevalues[index][0]));
 
-        if (index == 32) ticker.stop();
-        index = index + 1;
-    }, tickDuration);
+        //if(index == datevalues.length) ticker.stop();
+    }
+    //}, tickDuration);
+
+
+
+    var sliderStep = d3
+        .sliderBottom()
+        .min(1)
+        .max(datevalues.length)
+        .width(300)
+        .tickFormat(d3.format('d'))
+        .ticks(5)
+        .step(1)
+        .on('onchange', val => {
+            callback(val - 1);
+        });
+
+    var gStep = d3
+        .select('div#slider-step')
+        .append('svg')
+        .attr('width', 500)
+        .attr('height', 100)
+        .append('g')
+        .attr('transform', 'translate(30,30)');
+
+    gStep.call(sliderStep);
+
+    var myTimer;
+    d3.select("#start").on("click", function () {
+        clearInterval(myTimer);
+        myTimer = setInterval(function () {
+            if (sliderStep.value() >= datevalues.length) {
+                clearInterval(myTimer);
+            } else {
+                sliderStep.value((sliderStep.value() + 1));
+            }
+            callback(sliderStep.value() - 1);
+        }, tickDuration + 50);
+    });
+
+    d3.select("#stop").on("click", function () {
+        clearInterval(myTimer);
+    });
+
 
 });
 
@@ -282,4 +400,4 @@ const halo = function (text, strokeWidth) {
         .style('stroke-linejoin', 'round')
         .style('opacity', 1);
 
-}   
+}

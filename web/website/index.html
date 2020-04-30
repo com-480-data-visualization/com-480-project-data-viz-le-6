@@ -11,6 +11,7 @@
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
 
+    <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/graph.css">
     <link rel="stylesheet" href="./css/map.css">
     <link rel="stylesheet" href="./css/ranking.css">
@@ -19,42 +20,54 @@
 </head>
 
 <body>
-    <main role="main" class="container my-5">
-        <h1>Alpine skiing - evolution dashboard</h1>
-        <nav>
-            <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                <a class="nav-item nav-link active" id="nav-map-tab" data-toggle="tab" href="#nav-map" role="tab"
-                    aria-controls="nav-map" aria-selected="true">Map</a>
-                <a class="nav-item nav-link" id="nav-graph-tab" data-toggle="tab" href="#nav-graph" role="tab"
-                    aria-controls="nav-graph" aria-selected="false">Graph</a>
+    <div class="container-fluid full_height">
+        <div class="headline row my-3">
+            <div class="mx-auto">
+                <h1>Alpine skiing - evolution dashboard</h1>
             </div>
-        </nav>
-        <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="nav-map" role="tabpanel" aria-labelledby="nav-map-tab">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-6">
-                            <div id="ranking"></div>
-                        </div>
-                        <div class="col-6">
-                            <div id="mapid"></div>  
-                        </div>
-                    </div>
-                </div>   
+        </div>
+        <div class="first_row row my-2">
+            <div class="full_height col-3">
+                <div class="full_height col-12 border rounded mx-2">
+                    <div id="ranking"></div>
+                </div>
             </div>
-            <div class="tab-pane fade" id="nav-graph" role="tabpanel" aria-labelledby="nav-graph-tab">
-                <select id="season">
-                </select>
-
-                <div id="graph_area">
-                    <svg id="graph" width="960" height="600"></svg>
+            <div class="full_height col-6">
+                <div class="full_height col-12 border rounded mx-2">
+                    <div id="mapid"></div>
+                </div>
+            </div>
+            <div class="full_height col-3">
+                <div class="full_height col-12 border rounded mx-2">
+                    <select id="season"></select>
                 </div>
             </div>
         </div>
-    </main>
+        <div class="second_row row my-2">
+            <div class="full_height col-3">
+                <div class="full_height col-12 border rounded mx-2">
+                    <div class="col-sm">
+                        <div id="slider-step"></div>
+                    </div>
+                    <button type="button" id="start">start</button>
+                    <button type="button" id="stop">stop</button>
+                </div>
+            </div>
+            <div class="full_height col-6">
+                <div class="full_height col-12 border rounded mx-2" id="graph_area">
+                    <svg id="graph"></svg>
+                </div>
+            </div>
+            <div class="full_height col-3">
+                <div class="full_height col-12 border rounded mx-2">
 
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"
-        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous">
+        </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
         integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
         crossorigin="anonymous"></script>
@@ -65,6 +78,8 @@
         integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
         crossorigin=""></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+
 
     <script type="text/javascript" src="./js/oam_head.js"></script>
     <script src="./js/map.js"></script>
@@ -81,7 +96,7 @@
 
         $('#season').on('change', function () {
             $('#graph').remove()
-            $('#graph_area').html('<svg id="graph"width="960" height="600"></svg>')
+            $('#graph_area').html('<svg id="graph"></svg>')
             create_graph("#graph", "./data/graph_M_" + this.value + ".json")
         })
     </script>
