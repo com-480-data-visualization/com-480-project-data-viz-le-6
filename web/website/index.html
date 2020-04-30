@@ -60,7 +60,13 @@
             </div>
             <div class="full_height col-3">
                 <div class="full_height col-12 border rounded mx-2">
-
+                    <div class="media">
+                        <img class="align-self-start mr-3 img-thumbnail" id="athtlete_img" src="./img/placeholder.png"
+                            alt="">
+                        <div class="media-body">
+                            <h5 class="mt-0" id="athlete">Unknown</h5>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -91,13 +97,13 @@
             //seasons.reverse().forEach(val => { $('#season').append('<option value="' + val + '">' + val + '</option>') });
             seasons.forEach(val => { $('#season').append('<option value="' + val + '">' + val + '</option>') });
 
-            create_graph("#graph", "./data/graph_M_" + $('#season').val() + ".json")
+            create_graph("#graph", "#athlete","./data/graph_M_" + $('#season').val() + ".json")
         });
 
         $('#season').on('change', function () {
             $('#graph').remove()
             $('#graph_area').html('<svg id="graph"></svg>')
-            create_graph("#graph", "./data/graph_M_" + this.value + ".json")
+            create_graph("#graph", "#athlete","./data/graph_M_" + this.value + ".json")
         })
     </script>
 </body>

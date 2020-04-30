@@ -1,14 +1,11 @@
 // code based on https://bl.ocks.org/heybignick/3faf257bbbbc7743bb72310d03b86ee8
-function create_graph(container, dataFile) {
+function create_graph(container, detailContainer,dataFile) {
     $(container).width($(container).parent().width())
     $(container).height($(container).parent().height())
     
     var svg = d3.select(container)
-    var width = $(container).width()//+svg.attr("width"),
-    var height = $(container).height()//+svg.attr("height");
-
-    console.log("width : "+width+" height : "+height)
-    //console.log(svg.attr("width"))
+    var width = $(container).width()
+    var height = $(container).height()
 
    // var color = d3.scaleOrdinal(d3.schemeCategory20);
     var simulation = d3.forceSimulation()
@@ -16,8 +13,7 @@ function create_graph(container, dataFile) {
         .force("charge", d3.forceManyBody())
         .force("center", d3.forceCenter(width / 2, height / 2));
 
-        console.log(dataFile)
-    d3.json(dataFile).then( function (graph) {
+    d3.json(dataFile).then(function (graph) {
 
         var link = svg.append("g")
             .attr("class", "links")
@@ -31,6 +27,8 @@ function create_graph(container, dataFile) {
             .selectAll("g")
             .data(graph.nodes)
             .enter().append("g")
+            .on("click", showInfos)
+
 
         var circles = node.append("circle")
             .attr("r", 5)
@@ -38,7 +36,8 @@ function create_graph(container, dataFile) {
             .call(d3.drag()
                 .on("start", dragstarted)
                 .on("drag", dragged)
-                .on("end", dragended));
+                .on("end", dragended))
+            
 
         var labels = node.append("text")
             .text(function (d) {
@@ -86,5 +85,9 @@ function create_graph(container, dataFile) {
         if (!d3.event.active) simulation.alphaTarget(0);
         d.fx = null;
         d.fy = null;
+    }
+
+    function showInfos(d){
+        $(detailContainer).html('<h1>'+d.id+'</h1>')
     }
 }

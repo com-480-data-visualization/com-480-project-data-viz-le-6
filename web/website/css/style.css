@@ -17,3 +17,8 @@ html, body {
 .second_row{
     height: 40%;
 }
+
+#athtlete_img{
+    height: 64px;
+    width: 64px;
+}
