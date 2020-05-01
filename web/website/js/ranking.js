@@ -264,7 +264,7 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
             .enter()
             .append('svg:image')
             .attr('class', 'pp')
-            .attr('xlink:href', 'pp.png')
+            .attr('xlink:href', '../img/placeholder.png')
             .attr('width', y(1) - y(0) - barPadding - 2)
             .attr('height', y(1) - y(0) - barPadding - 2)
             .attr('x', d => 2)
