@@ -7,7 +7,7 @@ html, body {
 }
 
 .headline{
-    height: 10%;
+    height: 5%;
 }
 
 .first_row{
@@ -16,6 +16,10 @@ html, body {
 
 .second_row{
     height: 40%;
+}
+
+.timeline_row{
+    height: 5%;
 }
 
 #athtlete_img{
