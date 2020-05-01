@@ -79,7 +79,7 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
         })
         .entries(data).map(elem => [new Date(elem["key"]), elem["value"]]);
 
-    //console.log(datevalues[index][1])
+    //console.log(data[1])
 
     let yearSlice = datevalues[index][1]
     yearSlice.forEach((d, i) => d.rank = i);
@@ -155,10 +155,10 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
         .enter()
         .append('svg:image')
         .attr('class', 'pp')
-        .attr('xlink:href', '../img/placeholder.png')
+        .attr('xlink:href',d =>  "https://www.countryflags.io/"+d.ath_country+"/flat/64.png")
         .attr('width', y(1) - y(0) - barPadding - 2)
         .attr('height', y(1) - y(0) - barPadding - 2)
-        .attr('x', d => 2)
+        .attr('x', d => 3)
         .attr('y', d => y(d.rank) + 6);
 
     let yearText = svg.append('text')
@@ -264,10 +264,10 @@ d3.csv('../data/wcm2020.csv').then(function (data) {
             .enter()
             .append('svg:image')
             .attr('class', 'pp')
-            .attr('xlink:href', '../img/placeholder.png')
+            .attr('xlink:href',d =>  "https://www.countryflags.io/"+d.ath_country+"/flat/64.png")
             .attr('width', y(1) - y(0) - barPadding - 2)
             .attr('height', y(1) - y(0) - barPadding - 2)
-            .attr('x', d => 2)
+            .attr('x', d => 3)
             .attr('y', d => y(top_n + 1) + 6)
             .html(d => d.name)
             .transition()
