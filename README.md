@@ -46,7 +46,7 @@ With our historical dataset, we would like to visualize:
 
 - The results of all ski races over the years.
 - Skier profiles (i.e. in which events they participated) and their evolution through the years.
-- The geographical representation of the WC races ([here is a demo](https://com-480-project-data-viz-le-6.github.io/ski_map/)).
+- The geographical representation of the WC races.
 - The evolutive global ranking through seasons, using WC-points won by the athletes.
 - Direct comparisons between any skier/races of any era.
 - The evolution of the typical profile (age, type of events, etc.) of a race/World Cup winner.
@@ -100,6 +100,11 @@ We would like to create dynamic visualizations that smoothly explore our data.
 ## Milestone 2 (Friday 1st May, 5pm)
 
 - **10% of the final grade**
+
+Our mockup webiste is available under [this link](https://com-480-project-data-viz-le-6.github.io/ski_map/).
+You can enable a webserver using the following command:
+
+    python -m http.server 4001 --bind 127.0.0.1
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
