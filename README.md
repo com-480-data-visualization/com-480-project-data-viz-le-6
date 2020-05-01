@@ -103,7 +103,7 @@ We would like to create dynamic visualizations that smoothly explore our data.
 
 [Report](/doc/milestone2.pdf)
 
-Our mockup webiste is available under [this link](https://com-480-project-data-viz-le-6.github.io/ski_map/).
+Our mockup website is available under [this link](https://com-480-project-data-viz-le-6.github.io/ski_map/).
 
 If you want to run our website locally (present under `web/website`), you can enable a webserver using e.g. the following command:
 
