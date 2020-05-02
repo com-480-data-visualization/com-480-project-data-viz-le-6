@@ -47,7 +47,7 @@
             <div class="full_height col-3">
                 <div class="full_height col-12 border rounded mx-2">
                     <p>CONTROL BOX</p>
-                    <div class="col-sm">
+                    <div class="col-sm" id="slider_box">
                         <div id="slider-step"></div>
                     </div>
                     <button type="button" id="start">start</button>
@@ -117,6 +117,8 @@
             
             $('#ranking').remove()
             $('#ranking_box').html('<div id="ranking"></div>')
+            $('#slider-step').remove()
+            $('#slider_box').html('<div id="slider-step"></div>')
             create_ranking("#ranking", "../data/wcm_Downhill_ranking_"+$('#season').val()+".csv", this.value )
         })
     </script>
