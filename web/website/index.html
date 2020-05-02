@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css"/>
 
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/graph.css">
@@ -32,21 +33,21 @@
                     <div class="nav nav-tabs ml-2" id="nav-tab" role="tablist">
                         <a class="nav-item nav-link active" id="nav-overall-tab" data-toggle="tab" href="#nav-overall"
                             role="tab" aria-controls="nav-overall" aria-selected="true">Overall</a>
-                        <a class="nav-item nav-link" id="nav-dh-tab" data-toggle="tab" href="#nav-dh"
-                            role="tab" aria-controls="nav-dh" aria-selected="false">DH</a>
-                        <a class="nav-item nav-link" id="nav-sg-tab" data-toggle="tab" href="#nav-sg"
-                            role="tab" aria-controls="nav-sg" aria-selected="false">SG</a>
-                        <a class="nav-item nav-link" id="nav-gs-tab" data-toggle="tab" href="#nav-gs"
-                            role="tab" aria-controls="nav-gs" aria-selected="false">GS</a>
-                        <a class="nav-item nav-link" id="nav-sl-tab" data-toggle="tab" href="#nav-sl"
-                            role="tab" aria-controls="nav-sl" aria-selected="false">SL</a>
-                        <a class="nav-item nav-link" id="nav-ac-tab" data-toggle="tab" href="#nav-ac"
-                            role="tab" aria-controls="nav-ac" aria-selected="false">AC</a>
-                        <a class="nav-item nav-link" id="nav-par-tab" data-toggle="tab" href="#nav-par"
-                            role="tab" aria-controls="nav-par" aria-selected="false">PAR</a>
+                        <a class="nav-item nav-link" id="nav-dh-tab" data-toggle="tab" href="#nav-dh" role="tab"
+                            aria-controls="nav-dh" aria-selected="false">DH</a>
+                        <a class="nav-item nav-link" id="nav-sg-tab" data-toggle="tab" href="#nav-sg" role="tab"
+                            aria-controls="nav-sg" aria-selected="false">SG</a>
+                        <a class="nav-item nav-link" id="nav-gs-tab" data-toggle="tab" href="#nav-gs" role="tab"
+                            aria-controls="nav-gs" aria-selected="false">GS</a>
+                        <a class="nav-item nav-link" id="nav-sl-tab" data-toggle="tab" href="#nav-sl" role="tab"
+                            aria-controls="nav-sl" aria-selected="false">SL</a>
+                        <a class="nav-item nav-link" id="nav-ac-tab" data-toggle="tab" href="#nav-ac" role="tab"
+                            aria-controls="nav-ac" aria-selected="false">AC</a>
+                        <a class="nav-item nav-link" id="nav-par-tab" data-toggle="tab" href="#nav-par" role="tab"
+                            aria-controls="nav-par" aria-selected="false">PAR</a>
                     </div>
                 </nav>
-                <div class="full_height col-12 border rounded mx-2">    
+                <div class="full_height col-12 border rounded mx-2">
                     <div class="full_height tab-content" id="nav-tabContent">
                         <div class="full_height tab-pane fade show active" id="nav-overall" role="tabpanel"
                             aria-labelledby="nav-overall-tab">
@@ -79,7 +80,8 @@
                                 <div id="combined-rank"></div>
                             </div>
                         </div>
-                        <div class="full_height tab-pane fade" id="nav-par" role="tabpanel" aria-labelledby="nav-par-tab">
+                        <div class="full_height tab-pane fade" id="nav-par" role="tabpanel"
+                            aria-labelledby="nav-par-tab">
                             <div class="full_height" id="parallel-rank-box">
                                 <div id="parallel-rank"></div>
                             </div>
@@ -129,9 +131,8 @@
             </div>
         </div>
         <div class="timeline_row">
-            <div class="col-12 row border rounded mx-2">
-                <p>MAIN TIMELINE</p>
-                <p><select id="season"></select></p>
+            <div class="col-12 border rounded mx-2">
+                <input id="timeline" type="text" class="js-range-slider" name="my_range" value="" />
             </div>
         </div>
     </div>
@@ -149,6 +150,7 @@
         crossorigin=""></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://unpkg.com/d3-simple-slider"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/js/ion.rangeSlider.min.js"></script>
 
 
     <script type="text/javascript" src="./js/oam_head.js"></script>
@@ -159,39 +161,46 @@
         var currentRanking = ''
         var tabToRaceType = {}
         var raceTypeToDatafileSuffix = {}
-        $(document).ready(function () {
-            seasons = [1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
-           
-            tabToRaceType = {'nav-overall-tab':'overall','nav-dh-tab':'downhill', 'nav-sg-tab':'superg', 'nav-gs-tab':'giant', 'nav-sl-tab':'slalom','nav-ac-tab':'combined','nav-par-tab':'parallel'}
-            raceTypeToDatafileSuffix = {'overall':'', 'downhill':'Downhill_', 'superg':'Super G_','giant':'Giant Slalom_', 'slalom':'Slalom_','combined':'Combined_','parallel':'Parallel_'}
-
-            seasons.forEach(val => { $('#season').append('<option value="' + val + '">' + val + '</option>') });
-
-            create_graph("#graph", "#athlete", "./data/graph_M_" + $('#season').val() + ".json")
-            currentRanking='overall'
-            refresh_ranking(currentRanking)
-        });
-
-        $('#season').on('change', function () {
-            $('#graph').remove()
-            $('#graph-box').html('<svg id="graph"></svg>')
-            create_graph("#graph", "#athlete", "./data/graph_M_" + this.value + ".json")
-
-            refresh_ranking(currentRanking)
-        })
 
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-            currentRanking=tabToRaceType[e.target.id]
-            refresh_ranking(currentRanking)
+            currentRanking = tabToRaceType[e.target.id]
+            refresh_ranking(currentRanking,getCurrentYear())
         })
 
-        function refresh_ranking(ranking, year){
-            $('#'+ranking+'-rank').remove()
-            $('#'+ranking+'-rank-box').html('<div id="'+ranking+'-rank"></div>')
+        function refresh_ranking(ranking, year) {
+            $('#' + ranking + '-rank').remove()
+            $('#' + ranking + '-rank-box').html('<div id="' + ranking + '-rank"></div>')
             $('#slider-step').remove()
             $('#slider-box').html('<div id="slider-step"></div>')
-            create_ranking('#'+ranking+'-rank', '../data/wcm_'+raceTypeToDatafileSuffix[currentRanking]+'ranking_'+ $('#season').val() + '.csv', $('#season').val())
+            create_ranking('#' + ranking + '-rank', '../data/wcm_' + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year)
         }
+
+        function getCurrentYear(){
+            return $("#timeline").data("ionRangeSlider").result.from
+        }
+
+        $("#timeline").ionRangeSlider({
+            type: "single",
+            min: 1967,
+            max: 2020,
+            from: 1967,
+            grid: true,
+            prettify_enabled: false,
+            grid_snap: true,
+            onStart:function(data){
+                tabToRaceType = { 'nav-overall-tab': 'overall', 'nav-dh-tab': 'downhill', 'nav-sg-tab': 'superg', 'nav-gs-tab': 'giant', 'nav-sl-tab': 'slalom', 'nav-ac-tab': 'combined', 'nav-par-tab': 'parallel' }
+                raceTypeToDatafileSuffix = { 'overall': '', 'downhill': 'Downhill_', 'superg': 'Super G_', 'giant': 'Giant Slalom_', 'slalom': 'Slalom_', 'combined': 'Combined_', 'parallel': 'Parallel_' }
+                create_graph("#graph", "#athlete", "./data/graph_M_" + data.from + ".json")
+                currentRanking = 'overall'
+                refresh_ranking(currentRanking, data.from)
+            },
+            onChange: function (data) {
+                $('#graph').remove()
+                $('#graph-box').html('<svg id="graph"></svg>')
+                create_graph("#graph", "#athlete", "./data/graph_M_" + data.from + ".json")
+                refresh_ranking(currentRanking, data.from)
+            }
+        });
     </script>
 </body>
 
