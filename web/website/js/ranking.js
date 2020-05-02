@@ -54,7 +54,7 @@ let subTitle = svg.append("text")
 
 let index = 0;
 
-d3.csv('../data/wcm_Parallel_ranking_2020.csv').then(function (data) {
+d3.csv('../data/wcm_Giant Slalom_ranking_1973.csv').then(function (data) {
     //if (error) throw error;
 
 
