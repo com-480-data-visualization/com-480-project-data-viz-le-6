@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1983-03-21,Anne Flore Rey,FR,25
-1983-03-21,Hanni Wenzel,LI,20
-1983-03-21,Anni Kronbichler,AT,15
-1983-03-21,Perrine Pelen,FR,12
-1983-03-21,Cindy Nelson,US,11
-1983-03-21,Erika Hess,CH,10
-1983-03-21,Maria Epple,DE,9
-1983-03-21,Maria Walliser,CH,8
-1983-03-21,Tamara McKinney,US,7
-1983-03-21,Petra Wenzel,LI,6
-1983-03-21,Daniela Zini,IT,5
-1983-03-21,Olga Charvatova,SK,4
-1983-03-21,Michaela Gerg-Leitner,DE,3
-1983-03-21,Elisabeth Kirchler,AT,2
-1983-03-21,Roswitha Steiner,AT,1
+date,name,ath_country,value,specialty
+1983-03-21,Anne Flore Rey,FR,25,Giant Slalom
+1983-03-21,Hanni Wenzel,LI,20,Slalom
+1983-03-21,Anni Kronbichler,AT,15,Slalom
+1983-03-21,Perrine Pelen,FR,12,Slalom
+1983-03-21,Cindy Nelson,US,11,Giant Slalom
+1983-03-21,Erika Hess,CH,10,Slalom
+1983-03-21,Maria Epple,DE,9,Giant Slalom
+1983-03-21,Maria Walliser,CH,8,Downhill
+1983-03-21,Tamara McKinney,US,7,Giant Slalom
+1983-03-21,Petra Wenzel,LI,6,Slalom
+1983-03-21,Daniela Zini,IT,5,Slalom
+1983-03-21,Olga Charvatova,SK,4,Slalom
+1983-03-21,Michaela Gerg-Leitner,DE,3,Downhill
+1983-03-21,Elisabeth Kirchler,AT,2,Downhill
+1983-03-21,Roswitha Steiner,AT,1,Slalom

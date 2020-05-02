@@ -1,49 +1,49 @@
-date,name,ath_country,value
-2002-01-13,Renate Goetschl,AT,100
-2002-01-13,Chemmy Alcott,GB,13
-2002-01-13,Jenny Owens,AU,14
-2002-01-13,Pia Kaeyhkoe,FI,15
-2002-01-13,Alice Jones,AU,16
-2002-01-13,Catherine Borghi,CH,18
-2002-01-13,Britt Janyk,CA,0
-2002-01-13,Isabelle Huber,DE,20
-2002-01-13,Elena Tagliabue,IT,0
-2002-01-13,Daniela Ceccarelli,IT,22
-2002-01-13,Anna Prchal,CA,0
-2002-01-13,Julia Mancuso,US,24
-2002-01-13,Alexandra Meissnitzer,AT,0
-2002-01-13,Stefanie Schuster,AT,26
-2002-01-13,Janette Hargin,SE,0
-2002-01-13,Astrid Vierthaler,AT,29
-2002-01-13,Brigitte Obermoser,AT,32
-2002-01-13,Janica Kostelic,HR,80
-2002-01-13,Michaela Dorfmeister,AT,60
-2002-01-13,Hilde Gerg,DE,50
-2002-01-13,Pernilla Wiberg,SE,45
-2002-01-13,Selina Heregger,AT,0
-2002-01-13,Petra Haltmayr,DE,36
-2002-01-13,Caroline Lalive,US,40
-2002-02-03,Petra Haltmayr,DE,36
-2002-02-03,Caroline Lalive,US,40
-2002-02-03,Hilde Gerg,DE,50
-2002-02-03,Julia Mancuso,US,24
-2002-02-03,Pernilla Wiberg,SE,45
-2002-02-03,Alice Jones,AU,16
-2002-02-03,Janica Kostelic,HR,80
-2002-02-03,Pia Kaeyhkoe,FI,15
-2002-02-03,Astrid Vierthaler,AT,29
-2002-02-03,Anna Prchal,CA,22
-2002-02-03,Jenny Owens,AU,14
-2002-02-03,Elena Tagliabue,IT,24
-2002-02-03,Isabelle Huber,DE,46
-2002-02-03,Catherine Borghi,CH,47
-2002-02-03,Daniela Ceccarelli,IT,54
-2002-02-03,Michaela Dorfmeister,AT,96
-2002-02-03,Stefanie Schuster,AT,66
-2002-02-03,Britt Janyk,CA,45
-2002-02-03,Brigitte Obermoser,AT,82
-2002-02-03,Selina Heregger,AT,60
-2002-02-03,Janette Hargin,SE,80
-2002-02-03,Renate Goetschl,AT,200
-2002-02-03,Alexandra Meissnitzer,AT,20
-2002-02-03,Chemmy Alcott,GB,13
+date,name,ath_country,value,specialty
+2002-01-13,Renate Goetschl,AT,100,Downhill
+2002-01-13,Julia Mancuso,US,24,Downhill
+2002-01-13,Astrid Vierthaler,AT,29,Downhill
+2002-01-13,Daniela Ceccarelli,IT,22,Downhill
+2002-01-13,Chemmy Alcott,GB,13,Combined
+2002-01-13,Petra Haltmayr,DE,36,Super G
+2002-01-13,Stefanie Schuster,AT,26,Super G
+2002-01-13,Elena Tagliabue,IT,0,Downhill
+2002-01-13,Caroline Lalive,US,40,Downhill
+2002-01-13,Britt Janyk,CA,0,Combined
+2002-01-13,Anna Prchal,CA,0,Combined
+2002-01-13,Catherine Borghi,CH,18,Downhill
+2002-01-13,Pernilla Wiberg,SE,45,Downhill
+2002-01-13,Isabelle Huber,DE,20,Combined
+2002-01-13,Alexandra Meissnitzer,AT,0,Super G
+2002-01-13,Janica Kostelic,HR,80,Slalom
+2002-01-13,Jenny Owens,AU,14,Combined
+2002-01-13,Brigitte Obermoser,AT,32,Downhill
+2002-01-13,Michaela Dorfmeister,AT,60,Giant Slalom
+2002-01-13,Pia Kaeyhkoe,FI,15,Combined
+2002-01-13,Janette Hargin,SE,0,Combined
+2002-01-13,Selina Heregger,AT,0,Downhill
+2002-01-13,Hilde Gerg,DE,50,Downhill
+2002-01-13,Alice Jones,AU,16,Combined
+2002-02-03,Alice Jones,AU,16,Combined
+2002-02-03,Pia Kaeyhkoe,FI,15,Combined
+2002-02-03,Elena Tagliabue,IT,24,Downhill
+2002-02-03,Julia Mancuso,US,24,Downhill
+2002-02-03,Jenny Owens,AU,14,Combined
+2002-02-03,Anna Prchal,CA,22,Combined
+2002-02-03,Alexandra Meissnitzer,AT,20,Super G
+2002-02-03,Petra Haltmayr,DE,36,Super G
+2002-02-03,Catherine Borghi,CH,47,Downhill
+2002-02-03,Astrid Vierthaler,AT,29,Downhill
+2002-02-03,Daniela Ceccarelli,IT,54,Downhill
+2002-02-03,Stefanie Schuster,AT,66,Super G
+2002-02-03,Caroline Lalive,US,40,Downhill
+2002-02-03,Britt Janyk,CA,45,Combined
+2002-02-03,Pernilla Wiberg,SE,45,Downhill
+2002-02-03,Brigitte Obermoser,AT,82,Downhill
+2002-02-03,Hilde Gerg,DE,50,Downhill
+2002-02-03,Selina Heregger,AT,60,Downhill
+2002-02-03,Michaela Dorfmeister,AT,96,Giant Slalom
+2002-02-03,Janette Hargin,SE,80,Combined
+2002-02-03,Janica Kostelic,HR,80,Slalom
+2002-02-03,Renate Goetschl,AT,200,Downhill
+2002-02-03,Isabelle Huber,DE,46,Combined
+2002-02-03,Chemmy Alcott,GB,13,Combined

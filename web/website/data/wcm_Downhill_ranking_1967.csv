@@ -1,96 +1,96 @@
-date,name,ath_country,value
-1967-01-14,Jean Claude Killy,FR,25
-1967-01-14,Gerhard Mussner,IT,3
-1967-01-14,Bernard Orcel,FR,2
-1967-01-14,Jos Minsch,CH,6
-1967-01-14,Gerhard Nenning,AT,1
-1967-01-14,Franz Vogler,DE,1
-1967-01-14,Karl Schranz,AT,0
-1967-01-14,Ivo Mahlknecht,IT,8
-1967-01-14,Guy Perillat,FR,0
-1967-01-14,Hans Peter Rohr,CH,0
-1967-01-14,Peter Rohr,CH,0
-1967-01-14,Werner Bleiner,AT,0
-1967-01-14,Stefan Sodat,AT,0
-1967-01-14,Egon Zimmermann,AT,11
-1967-01-14,Jim Barrows,US,0
-1967-01-14,Andreas Sprecher,CH,0
-1967-01-14,Jean Daniel Daetwyler,CH,15
-1967-01-14,Leo Lacroix,FR,20
-1967-01-14,Heini Messner,AT,4
-1967-01-21,Jos Minsch,CH,6
-1967-01-21,Gerhard Mussner,IT,3
-1967-01-21,Hans Peter Rohr,CH,0
-1967-01-21,Peter Rohr,CH,0
-1967-01-21,Jean Daniel Daetwyler,CH,19
-1967-01-21,Werner Bleiner,AT,0
-1967-01-21,Guy Perillat,FR,2
-1967-01-21,Stefan Sodat,AT,0
-1967-01-21,Andreas Sprecher,CH,0
-1967-01-21,Karl Schranz,AT,3
-1967-01-21,Jim Barrows,US,0
-1967-01-21,Ivo Mahlknecht,IT,8
-1967-01-21,Leo Lacroix,FR,21
-1967-01-21,Franz Vogler,DE,21
-1967-01-21,Gerhard Nenning,AT,12
-1967-01-21,Heini Messner,AT,19
-1967-01-21,Jean Claude Killy,FR,50
-1967-01-21,Bernard Orcel,FR,8
-1967-01-21,Egon Zimmermann,AT,19
-1967-01-27,Guy Perillat,FR,2
-1967-01-27,Karl Schranz,AT,3
-1967-01-27,Werner Bleiner,AT,0
-1967-01-27,Gerhard Nenning,AT,23
-1967-01-27,Egon Zimmermann,AT,19
-1967-01-27,Stefan Sodat,AT,0
-1967-01-27,Jean Claude Killy,FR,75
-1967-01-27,Hans Peter Rohr,CH,20
-1967-01-27,Andreas Sprecher,CH,0
-1967-01-27,Franz Vogler,DE,36
-1967-01-27,Jim Barrows,US,0
-1967-01-27,Peter Rohr,CH,0
-1967-01-27,Gerhard Mussner,IT,3
-1967-01-27,Jos Minsch,CH,10
-1967-01-27,Heini Messner,AT,25
-1967-01-27,Jean Daniel Daetwyler,CH,20
-1967-01-27,Ivo Mahlknecht,IT,16
-1967-01-27,Leo Lacroix,FR,24
-1967-01-27,Bernard Orcel,FR,10
-1967-03-04,Ivo Mahlknecht,IT,16
-1967-03-04,Egon Zimmermann,AT,19
-1967-03-04,Jean Daniel Daetwyler,CH,20
-1967-03-04,Leo Lacroix,FR,24
-1967-03-04,Werner Bleiner,AT,4
-1967-03-04,Karl Schranz,AT,3
-1967-03-04,Peter Rohr,CH,6
-1967-03-04,Hans Peter Rohr,CH,20
-1967-03-04,Stefan Sodat,AT,3
-1967-03-04,Jim Barrows,US,0
-1967-03-04,Jos Minsch,CH,12
-1967-03-04,Jean Claude Killy,FR,100
-1967-03-04,Heini Messner,AT,33
-1967-03-04,Bernard Orcel,FR,30
-1967-03-04,Guy Perillat,FR,17
-1967-03-04,Andreas Sprecher,CH,1
-1967-03-04,Gerhard Nenning,AT,34
-1967-03-04,Gerhard Mussner,IT,3
-1967-03-04,Franz Vogler,DE,36
-1967-03-10,Egon Zimmermann,AT,19
-1967-03-10,Leo Lacroix,FR,24
-1967-03-10,Ivo Mahlknecht,IT,16
-1967-03-10,Gerhard Mussner,IT,3
-1967-03-10,Bernard Orcel,FR,30
-1967-03-10,Franz Vogler,DE,36
-1967-03-10,Werner Bleiner,AT,4
-1967-03-10,Hans Peter Rohr,CH,31
-1967-03-10,Jos Minsch,CH,13
-1967-03-10,Jean Daniel Daetwyler,CH,23
-1967-03-10,Heini Messner,AT,41
-1967-03-10,Gerhard Nenning,AT,36
-1967-03-10,Jean Claude Killy,FR,125
-1967-03-10,Karl Schranz,AT,9
-1967-03-10,Guy Perillat,FR,37
-1967-03-10,Stefan Sodat,AT,3
-1967-03-10,Jim Barrows,US,15
-1967-03-10,Peter Rohr,CH,10
-1967-03-10,Andreas Sprecher,CH,1
+date,name,ath_country,value,specialty
+1967-01-14,Jean Claude Killy,FR,25,Downhill
+1967-01-14,Egon Zimmermann,AT,11,Downhill
+1967-01-14,Bernard Orcel,FR,2,Downhill
+1967-01-14,Guy Perillat,FR,0,Slalom
+1967-01-14,Karl Schranz,AT,0,Slalom
+1967-01-14,Jean Daniel Daetwyler,CH,15,Downhill
+1967-01-14,Hans Peter Rohr,CH,0,Downhill
+1967-01-14,Werner Bleiner,AT,0,Giant Slalom
+1967-01-14,Jos Minsch,CH,6,Downhill
+1967-01-14,Gerhard Mussner,IT,3,Downhill
+1967-01-14,Franz Vogler,DE,1,Downhill
+1967-01-14,Ivo Mahlknecht,IT,8,Downhill
+1967-01-14,Stefan Sodat,AT,0,Downhill
+1967-01-14,Gerhard Nenning,AT,1,Downhill
+1967-01-14,Heini Messner,AT,4,Slalom
+1967-01-14,Leo Lacroix,FR,20,Giant Slalom
+1967-01-14,Jim Barrows,US,0,Downhill
+1967-01-14,Andreas Sprecher,CH,0,Slalom
+1967-01-14,Peter Rohr,CH,0,Downhill
+1967-01-21,Ivo Mahlknecht,IT,8,Downhill
+1967-01-21,Guy Perillat,FR,2,Slalom
+1967-01-21,Jean Daniel Daetwyler,CH,19,Downhill
+1967-01-21,Jos Minsch,CH,6,Downhill
+1967-01-21,Jim Barrows,US,0,Downhill
+1967-01-21,Gerhard Nenning,AT,12,Downhill
+1967-01-21,Heini Messner,AT,19,Slalom
+1967-01-21,Karl Schranz,AT,3,Slalom
+1967-01-21,Egon Zimmermann,AT,19,Downhill
+1967-01-21,Bernard Orcel,FR,8,Downhill
+1967-01-21,Hans Peter Rohr,CH,0,Downhill
+1967-01-21,Werner Bleiner,AT,0,Giant Slalom
+1967-01-21,Jean Claude Killy,FR,50,Downhill
+1967-01-21,Andreas Sprecher,CH,0,Slalom
+1967-01-21,Gerhard Mussner,IT,3,Downhill
+1967-01-21,Franz Vogler,DE,21,Downhill
+1967-01-21,Peter Rohr,CH,0,Downhill
+1967-01-21,Leo Lacroix,FR,21,Giant Slalom
+1967-01-21,Stefan Sodat,AT,0,Downhill
+1967-01-27,Andreas Sprecher,CH,0,Slalom
+1967-01-27,Stefan Sodat,AT,0,Downhill
+1967-01-27,Peter Rohr,CH,0,Downhill
+1967-01-27,Gerhard Mussner,IT,3,Downhill
+1967-01-27,Werner Bleiner,AT,0,Giant Slalom
+1967-01-27,Jos Minsch,CH,10,Downhill
+1967-01-27,Karl Schranz,AT,3,Slalom
+1967-01-27,Gerhard Nenning,AT,23,Downhill
+1967-01-27,Ivo Mahlknecht,IT,16,Downhill
+1967-01-27,Egon Zimmermann,AT,19,Downhill
+1967-01-27,Bernard Orcel,FR,10,Downhill
+1967-01-27,Jean Claude Killy,FR,75,Downhill
+1967-01-27,Jim Barrows,US,0,Downhill
+1967-01-27,Guy Perillat,FR,2,Slalom
+1967-01-27,Leo Lacroix,FR,24,Giant Slalom
+1967-01-27,Heini Messner,AT,25,Slalom
+1967-01-27,Hans Peter Rohr,CH,20,Downhill
+1967-01-27,Franz Vogler,DE,36,Downhill
+1967-01-27,Jean Daniel Daetwyler,CH,20,Downhill
+1967-03-04,Hans Peter Rohr,CH,20,Downhill
+1967-03-04,Karl Schranz,AT,3,Slalom
+1967-03-04,Werner Bleiner,AT,4,Giant Slalom
+1967-03-04,Gerhard Mussner,IT,3,Downhill
+1967-03-04,Bernard Orcel,FR,30,Downhill
+1967-03-04,Stefan Sodat,AT,3,Downhill
+1967-03-04,Leo Lacroix,FR,24,Giant Slalom
+1967-03-04,Andreas Sprecher,CH,1,Slalom
+1967-03-04,Jean Claude Killy,FR,100,Downhill
+1967-03-04,Franz Vogler,DE,36,Downhill
+1967-03-04,Jim Barrows,US,0,Downhill
+1967-03-04,Egon Zimmermann,AT,19,Downhill
+1967-03-04,Ivo Mahlknecht,IT,16,Downhill
+1967-03-04,Guy Perillat,FR,17,Slalom
+1967-03-04,Peter Rohr,CH,6,Downhill
+1967-03-04,Gerhard Nenning,AT,34,Downhill
+1967-03-04,Jos Minsch,CH,12,Downhill
+1967-03-04,Heini Messner,AT,33,Slalom
+1967-03-04,Jean Daniel Daetwyler,CH,20,Downhill
+1967-03-10,Egon Zimmermann,AT,19,Downhill
+1967-03-10,Jim Barrows,US,15,Downhill
+1967-03-10,Stefan Sodat,AT,3,Downhill
+1967-03-10,Jean Claude Killy,FR,125,Downhill
+1967-03-10,Gerhard Nenning,AT,36,Downhill
+1967-03-10,Heini Messner,AT,41,Slalom
+1967-03-10,Gerhard Mussner,IT,3,Downhill
+1967-03-10,Bernard Orcel,FR,30,Downhill
+1967-03-10,Guy Perillat,FR,37,Slalom
+1967-03-10,Ivo Mahlknecht,IT,16,Downhill
+1967-03-10,Werner Bleiner,AT,4,Giant Slalom
+1967-03-10,Franz Vogler,DE,36,Downhill
+1967-03-10,Jean Daniel Daetwyler,CH,23,Downhill
+1967-03-10,Hans Peter Rohr,CH,31,Downhill
+1967-03-10,Jos Minsch,CH,13,Downhill
+1967-03-10,Peter Rohr,CH,10,Downhill
+1967-03-10,Karl Schranz,AT,9,Slalom
+1967-03-10,Leo Lacroix,FR,24,Giant Slalom
+1967-03-10,Andreas Sprecher,CH,1,Slalom

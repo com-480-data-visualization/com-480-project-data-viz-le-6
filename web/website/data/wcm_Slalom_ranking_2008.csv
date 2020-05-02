@@ -1,1508 +1,1508 @@
-date,name,ath_country,value
-2007-11-11,Marc Gini,CH,100
-2007-11-11,Oscar Andersson,SE,0
-2007-11-11,Alexandre Anselmet,FR,0
-2007-11-11,Noel Baxter,GB,0
-2007-11-11,Alain Baxter,GB,0
-2007-11-11,Marc Berthod,CH,0
-2007-11-11,Bjoergvin Bjoergvinnson,IS,0
-2007-11-11,Jens Byggmark,SE,0
-2007-11-11,Joel Chenal,FR,0
-2007-11-11,Martin Hansson,SE,0
-2007-11-11,Mattias Hargin,SE,0
-2007-11-11,Alexandr Horoshilov,RU,0
-2007-11-11,Yasuhiro Ikuta,JP,0
-2007-11-11,Urs Imboden,CH,0
-2007-11-11,Carlo Janka,CH,0
-2007-11-11,Timothy Kelley,US,0
-2007-11-11,Krystof Kryzl,CZ,0
-2007-11-11,Anton Lahdenperae,SE,0
-2007-11-11,Thomas Mermillod,FR,0
-2007-11-11,Kentaro Minagawa,JP,0
-2007-11-11,Steve Missillier,FR,0
-2007-11-11,Andre Myhrer,SE,0
-2007-11-11,Sebastien Pichot,FR,0
-2007-11-11,Giorgio Rocca,IT,0
-2007-11-11,Jean Philippe Roy,CA,0
-2007-11-11,Dalibor Samsal,HR,0
-2007-11-11,Marcus Sandell,FI,0
-2007-11-11,Ryan Semple,CA,0
-2007-11-11,Cristian Javier Simari Birkner,AR,0
-2007-11-11,Fredrik Nordh,SE,0
-2007-11-11,Naoki Yuasa,JP,0
-2007-11-11,Peter Fill,IT,0
-2007-11-11,Bernard Vajdic,SK,16
-2007-11-11,Silvan Zurbriggen,CH,15
-2007-11-11,Andreas Omminger,AT,14
-2007-11-11,Cristian Deville,IT,13
-2007-11-11,Sandro Viletta,CH,12
-2007-11-11,Ivica Kostelic,HR,11
-2007-11-11,Truls Ove Karlsen,NO,10
-2007-11-11,Akira Sasaki,JP,9
-2007-11-11,Romed Baumann,AT,8
-2007-11-11,Lars Elton Myhre,NO,7
-2007-11-11,Reinfried Herbst,AT,6
-2007-11-11,Bode Miller,US,5
-2007-11-11,Daniel Albrecht,CH,4
-2007-11-11,Dominik Stehle,DE,0
-2007-11-11,Paul Stutz,CA,3
-2007-11-11,Johan Brolenius,SE,0
-2007-11-11,Cody B Marshall,US,0
-2007-11-11,Kurt Engl,AT,0
-2007-11-11,Giuliano Razzoli,IT,0
-2007-11-11,Filip Trejbal,CZ,0
-2007-11-11,Ted Ligety,US,0
-2007-11-11,Thomas Fanara,FR,0
-2007-11-11,Christoph Dreier,AT,0
-2007-11-11,Ondrej Bank,CZ,0
-2007-11-11,Mitja Dragsic,SK,0
-2007-11-11,Matic Skube,SK,0
-2007-11-11,Jonathon Brauer,AU,0
-2007-11-11,Maxime Tissot,FR,0
-2007-11-11,Kilian Albrecht,BG,0
-2007-11-11,Jimmy Cochran,US,18
-2007-11-11,Patrick Thaler,IT,0
-2007-11-11,Alois Vogl,DE,0
-2007-11-11,Andrej Jerman,SK,0
-2007-11-11,Niklas Rainer,SE,0
-2007-11-11,Tim Jitloff,US,0
-2007-11-11,Michael Walchhofer,AT,0
-2007-11-11,Natko Zrncic-Dim,HR,0
-2007-11-11,Adrien Theaux,FR,0
-2007-11-11,Alwin De Quartel,NL,0
-2007-11-11,Patrick Staudacher,IT,0
-2007-11-11,Werner Heel,IT,0
-2007-11-11,Will Brandenburg,US,0
-2007-11-11,Didier Defago,CH,0
-2007-11-11,Mario Scheiber,AT,0
-2007-11-11,Andrej Sporn,SK,0
-2007-11-11,Jeroen Van Den Bogaert,BE,0
-2007-11-11,Lucas Falcoz,FR,0
-2007-11-11,Alexandru Barbu,RO,0
-2007-11-11,Guillem Capdevilla,ES,0
-2007-11-11,Calle Enocson,SE,0
-2007-11-11,Kai Alaerts,BE,0
-2007-11-11,Petter Brenna,NO,0
-2007-11-11,Ivan Ratkic,HR,0
-2007-11-11,Matija Zavirsek,SK,0
-2007-11-11,Jacopo Di Ronco,IT,0
-2007-11-11,Kristian Haug,NO,0
-2007-11-11,Magnus Andersson,SE,0
-2007-11-11,Mauro Caviezel,CH,0
-2007-11-11,Ales Gorza,SK,0
-2007-11-11,Trevor White,CA,0
-2007-11-11,Wolfgang Hoerl,AT,0
-2007-11-11,Andrej Krizaj,SK,0
-2007-11-11,Didier Cuche,CH,0
-2007-11-11,Kjetil Jansrud,NO,0
-2007-11-11,Marcel Hirscher,AT,0
-2007-11-11,John Kucera,CA,0
-2007-11-11,Paul McDonald,US,0
-2007-11-11,Min Heuk Kang,KR,0
-2007-11-11,Patrick Biggs,CA,0
-2007-11-11,Julien Cousineau,CA,0
-2007-11-11,Stefan Georgiev,BG,0
-2007-11-11,Tuukka Kaukoniemi,FI,0
-2007-11-11,Anthony Obert,FR,0
-2007-11-11,Pierre Paquin,FR,0
-2007-11-11,Manuel Pescollderungg,IT,0
-2007-11-11,Michael Janyk,CA,0
-2007-11-11,Mitja Valencic,SK,0
-2007-11-11,Jukka Leino,FI,0
-2007-11-11,Stefan Kogler,DE,0
-2007-11-11,Patrick Bechter,AT,0
-2007-11-11,Hannes Brenner,AT,0
-2007-11-11,Christof Innerhofer,IT,0
-2007-11-11,Peter Bylund,SE,0
-2007-11-11,Martin Vrablik,CZ,0
-2007-11-11,Fritzi Dopfer,DE,0
-2007-11-11,Kurt Pittschieler,IT,0
-2007-11-11,Christophe Roux,MD,0
-2007-11-11,Markus Vogel,CH,0
-2007-11-11,Christian Wanninger,DE,0
-2007-11-11,Edoardo Zardini,IT,0
-2007-11-11,Dominik Gschwenter,AT,0
-2007-11-11,Urs Imboden,MD,0
-2007-11-11,Aksel-Lund Svindal,NO,20
-2007-11-11,Scott Barrett,CA,0
-2007-11-11,Felix Neureuther,DE,24
-2007-11-11,Markus Larsson,SE,40
-2007-11-11,Mario Matt,AT,45
-2007-11-11,Jean-Baptiste Grange,FR,50
-2007-11-11,Julien Lizeroux,FR,32
-2007-11-11,Benjamin Raich,AT,36
-2007-11-11,Manfred Moelgg,IT,60
-2007-11-11,Manfred Pranger,AT,26
-2007-11-11,Alexander Koll,AT,22
-2007-11-11,Rainer Schoenfelder,AT,29
-2007-11-11,Kalle Palander,FI,80
-2007-12-09,Michael Walchhofer,AT,0
-2007-12-09,Natko Zrncic-Dim,HR,0
-2007-12-09,Tim Jitloff,US,0
-2007-12-09,Niklas Rainer,SE,0
-2007-12-09,Andrej Jerman,SK,0
-2007-12-09,Trevor White,CA,0
-2007-12-09,Wolfgang Hoerl,AT,0
-2007-12-09,Andrej Krizaj,SK,0
-2007-12-09,Jens Byggmark,SE,80
-2007-12-09,Edoardo Zardini,IT,0
-2007-12-09,Dominik Gschwenter,AT,0
-2007-12-09,Manfred Moelgg,IT,120
-2007-12-09,Christian Wanninger,DE,0
-2007-12-09,Markus Vogel,CH,0
-2007-12-09,Christophe Roux,MD,0
-2007-12-09,Kurt Pittschieler,IT,0
-2007-12-09,Fritzi Dopfer,DE,0
-2007-12-09,Benjamin Raich,AT,136
-2007-12-09,Kalle Palander,FI,80
-2007-12-09,Mario Matt,AT,45
-2007-12-09,Rainer Schoenfelder,AT,29
-2007-12-09,Alexander Koll,AT,22
-2007-12-09,Aksel-Lund Svindal,NO,20
-2007-12-09,Didier Cuche,CH,0
-2007-12-09,Adrien Theaux,FR,0
-2007-12-09,Truls Ove Karlsen,NO,10
-2007-12-09,Patrick Staudacher,IT,0
-2007-12-09,Jean-Baptiste Grange,FR,76
-2007-12-09,Christof Innerhofer,IT,0
-2007-12-09,Manfred Pranger,AT,55
-2007-12-09,Silvan Zurbriggen,CH,47
-2007-12-09,Ivica Kostelic,HR,47
-2007-12-09,Reinfried Herbst,AT,46
-2007-12-09,Ales Gorza,SK,0
-2007-12-09,Mauro Caviezel,CH,0
-2007-12-09,Magnus Andersson,SE,0
-2007-12-09,Kristian Haug,NO,0
-2007-12-09,Jacopo Di Ronco,IT,0
-2007-12-09,Cristian Deville,IT,58
-2007-12-09,Matija Zavirsek,SK,0
-2007-12-09,Ivan Ratkic,HR,0
-2007-12-09,Petter Brenna,NO,0
-2007-12-09,Kai Alaerts,BE,0
-2007-12-09,Calle Enocson,SE,0
-2007-12-09,Guillem Capdevilla,ES,0
-2007-12-09,Alexandru Barbu,RO,0
-2007-12-09,Lucas Falcoz,FR,0
-2007-12-09,Jeroen Van Den Bogaert,BE,0
-2007-12-09,Patrick Thaler,IT,50
-2007-12-09,Andrej Sporn,SK,0
-2007-12-09,Mario Scheiber,AT,0
-2007-12-09,Didier Defago,CH,0
-2007-12-09,Jimmy Cochran,US,18
-2007-12-09,Werner Heel,IT,0
-2007-12-09,Alwin De Quartel,NL,0
-2007-12-09,Will Brandenburg,US,0
-2007-12-09,Andreas Omminger,AT,14
-2007-12-09,Martin Vrablik,CZ,0
-2007-12-09,Anton Lahdenperae,SE,0
-2007-12-09,Thomas Mermillod,FR,0
-2007-12-09,Steve Missillier,FR,0
-2007-12-09,Sebastien Pichot,FR,0
-2007-12-09,Giorgio Rocca,IT,0
-2007-12-09,Jean Philippe Roy,CA,0
-2007-12-09,Dalibor Samsal,HR,0
-2007-12-09,Marcus Sandell,FI,0
-2007-12-09,Ryan Semple,CA,0
-2007-12-09,Dominik Stehle,DE,0
-2007-12-09,Mitja Valencic,SK,0
-2007-12-09,Alois Vogl,DE,0
-2007-12-09,John Kucera,CA,0
-2007-12-09,Paul McDonald,US,0
-2007-12-09,Min Heuk Kang,KR,0
-2007-12-09,Scott Barrett,CA,0
-2007-12-09,Patrick Biggs,CA,0
-2007-12-09,Julien Cousineau,CA,0
-2007-12-09,Stefan Georgiev,BG,0
-2007-12-09,Tuukka Kaukoniemi,FI,0
-2007-12-09,Anthony Obert,FR,0
-2007-12-09,Pierre Paquin,FR,0
-2007-12-09,Manuel Pescollderungg,IT,0
-2007-12-09,Michael Janyk,CA,0
-2007-12-09,Jukka Leino,FI,0
-2007-12-09,Urs Imboden,MD,0
-2007-12-09,Stefan Kogler,DE,0
-2007-12-09,Patrick Bechter,AT,0
-2007-12-09,Hannes Brenner,AT,0
-2007-12-09,Krystof Kryzl,CZ,0
-2007-12-09,Timothy Kelley,US,0
-2007-12-09,Carlo Janka,CH,0
-2007-12-09,Urs Imboden,CH,0
-2007-12-09,Lars Elton Myhre,NO,7
-2007-12-09,Bode Miller,US,5
-2007-12-09,Paul Stutz,CA,3
-2007-12-09,Kilian Albrecht,BG,0
-2007-12-09,Johan Brolenius,SE,0
-2007-12-09,Cody B Marshall,US,0
-2007-12-09,Kurt Engl,AT,0
-2007-12-09,Giuliano Razzoli,IT,0
-2007-12-09,Filip Trejbal,CZ,0
-2007-12-09,Ted Ligety,US,0
-2007-12-09,Thomas Fanara,FR,0
-2007-12-09,Christoph Dreier,AT,0
-2007-12-09,Ondrej Bank,CZ,0
-2007-12-09,Matic Skube,SK,0
-2007-12-09,Bernard Vajdic,SK,16
-2007-12-09,Jonathon Brauer,AU,0
-2007-12-09,Peter Fill,IT,0
-2007-12-09,Naoki Yuasa,JP,0
-2007-12-09,Fredrik Nordh,SE,0
-2007-12-09,Cristian Javier Simari Birkner,AR,0
-2007-12-09,Oscar Andersson,SE,0
-2007-12-09,Alexandre Anselmet,FR,0
-2007-12-09,Noel Baxter,GB,0
-2007-12-09,Alain Baxter,GB,0
-2007-12-09,Bjoergvin Bjoergvinnson,IS,0
-2007-12-09,Joel Chenal,FR,0
-2007-12-09,Martin Hansson,SE,0
-2007-12-09,Mattias Hargin,SE,0
-2007-12-09,Alexandr Horoshilov,RU,0
-2007-12-09,Yasuhiro Ikuta,JP,0
-2007-12-09,Maxime Tissot,FR,0
-2007-12-09,Felix Neureuther,DE,48
-2007-12-09,Peter Bylund,SE,0
-2007-12-09,Marcel Hirscher,AT,7
-2007-12-09,Kjetil Jansrud,NO,11
-2007-12-09,Marc Gini,CH,113
-2007-12-09,Mitja Dragsic,SK,12
-2007-12-09,Sandro Viletta,CH,20
-2007-12-09,Kentaro Minagawa,JP,15
-2007-12-09,Daniel Albrecht,CH,19
-2007-12-09,Akira Sasaki,JP,18
-2007-12-09,Markus Larsson,SE,62
-2007-12-09,Romed Baumann,AT,26
-2007-12-09,Marc Berthod,CH,10
-2007-12-09,Andre Myhrer,SE,20
-2007-12-09,Julien Lizeroux,FR,48
-2007-12-17,Tim Jitloff,US,0
-2007-12-17,Dominik Gschwenter,AT,0
-2007-12-17,Didier Cuche,CH,0
-2007-12-17,Andrej Krizaj,SK,0
-2007-12-17,Wolfgang Hoerl,AT,0
-2007-12-17,Ted Ligety,US,60
-2007-12-17,Mitja Valencic,SK,0
-2007-12-17,Niklas Rainer,SE,0
-2007-12-17,Michael Walchhofer,AT,0
-2007-12-17,Daniel Albrecht,CH,29
-2007-12-17,Trevor White,CA,0
-2007-12-17,Dominik Stehle,DE,0
-2007-12-17,Reinfried Herbst,AT,96
-2007-12-17,Edoardo Zardini,IT,0
-2007-12-17,Christian Wanninger,DE,0
-2007-12-17,Natko Zrncic-Dim,HR,0
-2007-12-17,Markus Vogel,CH,0
-2007-12-17,Christophe Roux,MD,0
-2007-12-17,Kurt Pittschieler,IT,0
-2007-12-17,Fritzi Dopfer,DE,0
-2007-12-17,Martin Vrablik,CZ,0
-2007-12-17,Peter Bylund,SE,0
-2007-12-17,Michael Janyk,CA,8
-2007-12-17,Christof Innerhofer,IT,0
-2007-12-17,Hannes Brenner,AT,0
-2007-12-17,Patrick Bechter,AT,0
-2007-12-17,Andre Myhrer,SE,29
-2007-12-17,Adrien Theaux,FR,0
-2007-12-17,Will Brandenburg,US,0
-2007-12-17,Patrick Staudacher,IT,0
-2007-12-17,Pierre Paquin,FR,22
-2007-12-17,Patrick Thaler,IT,72
-2007-12-17,Ivica Kostelic,HR,65
-2007-12-17,Johan Brolenius,SE,16
-2007-12-17,Alexander Koll,AT,37
-2007-12-17,Giorgio Rocca,IT,14
-2007-12-17,Ondrej Bank,CZ,13
-2007-12-17,Ales Gorza,SK,0
-2007-12-17,Mauro Caviezel,CH,0
-2007-12-17,Magnus Andersson,SE,0
-2007-12-17,Kristian Haug,NO,0
-2007-12-17,Jacopo Di Ronco,IT,0
-2007-12-17,Matija Zavirsek,SK,0
-2007-12-17,Ivan Ratkic,HR,0
-2007-12-17,Alwin De Quartel,NL,0
-2007-12-17,Petter Brenna,NO,0
-2007-12-17,Kai Alaerts,BE,0
-2007-12-17,Calle Enocson,SE,0
-2007-12-17,Jean-Baptiste Grange,FR,176
-2007-12-17,Guillem Capdevilla,ES,0
-2007-12-17,Alexandru Barbu,RO,0
-2007-12-17,Lucas Falcoz,FR,0
-2007-12-17,Jeroen Van Den Bogaert,BE,0
-2007-12-17,Andrej Sporn,SK,0
-2007-12-17,Mario Scheiber,AT,0
-2007-12-17,Manfred Moelgg,IT,131
-2007-12-17,Didier Defago,CH,0
-2007-12-17,Bernard Vajdic,SK,61
-2007-12-17,Felix Neureuther,DE,128
-2007-12-17,Werner Heel,IT,0
-2007-12-17,Anton Lahdenperae,SE,12
-2007-12-17,Stefan Kogler,DE,0
-2007-12-17,Andrej Jerman,SK,0
-2007-12-17,Jukka Leino,FI,0
-2007-12-17,Joel Chenal,FR,0
-2007-12-17,Jens Byggmark,SE,80
-2007-12-17,Akira Sasaki,JP,44
-2007-12-17,Marcel Hirscher,AT,7
-2007-12-17,John Kucera,CA,0
-2007-12-17,Bjoergvin Bjoergvinnson,IS,0
-2007-12-17,Marc Berthod,CH,10
-2007-12-17,Alain Baxter,GB,0
-2007-12-17,Noel Baxter,GB,0
-2007-12-17,Alexandre Anselmet,FR,0
-2007-12-17,Oscar Andersson,SE,0
-2007-12-17,Cristian Deville,IT,82
-2007-12-17,Fredrik Nordh,SE,0
-2007-12-17,Julien Lizeroux,FR,77
-2007-12-17,Paul McDonald,US,0
-2007-12-17,Martin Hansson,SE,0
-2007-12-17,Min Heuk Kang,KR,0
-2007-12-17,Mattias Hargin,SE,0
-2007-12-17,Yasuhiro Ikuta,JP,0
-2007-12-17,Alois Vogl,DE,0
-2007-12-17,Ryan Semple,CA,0
-2007-12-17,Marcus Sandell,FI,0
-2007-12-17,Dalibor Samsal,HR,0
-2007-12-17,Jean Philippe Roy,CA,0
-2007-12-17,Sebastien Pichot,FR,0
-2007-12-17,Steve Missillier,FR,0
-2007-12-17,Kjetil Jansrud,NO,11
-2007-12-17,Kentaro Minagawa,JP,15
-2007-12-17,Thomas Mermillod,FR,0
-2007-12-17,Krystof Kryzl,CZ,0
-2007-12-17,Timothy Kelley,US,0
-2007-12-17,Urs Imboden,MD,0
-2007-12-17,Carlo Janka,CH,0
-2007-12-17,Urs Imboden,CH,0
-2007-12-17,Alexandr Horoshilov,RU,0
-2007-12-17,Naoki Yuasa,JP,0
-2007-12-17,Cristian Javier Simari Birkner,AR,0
-2007-12-17,Maxime Tissot,FR,0
-2007-12-17,Romed Baumann,AT,26
-2007-12-17,Truls Ove Karlsen,NO,10
-2007-12-17,Sandro Viletta,CH,20
-2007-12-17,Andreas Omminger,AT,14
-2007-12-17,Silvan Zurbriggen,CH,47
-2007-12-17,Peter Fill,IT,0
-2007-12-17,Manfred Pranger,AT,55
-2007-12-17,Rainer Schoenfelder,AT,29
-2007-12-17,Kalle Palander,FI,120
-2007-12-17,Tuukka Kaukoniemi,FI,0
-2007-12-17,Benjamin Raich,AT,136
-2007-12-17,Markus Larsson,SE,62
-2007-12-17,Mario Matt,AT,45
-2007-12-17,Anthony Obert,FR,0
-2007-12-17,Manuel Pescollderungg,IT,0
-2007-12-17,Lars Elton Myhre,NO,7
-2007-12-17,Stefan Georgiev,BG,0
-2007-12-17,Aksel-Lund Svindal,NO,20
-2007-12-17,Marc Gini,CH,149
-2007-12-17,Filip Trejbal,CZ,0
-2007-12-17,Mitja Dragsic,SK,12
-2007-12-17,Christoph Dreier,AT,0
-2007-12-17,Thomas Fanara,FR,0
-2007-12-17,Matic Skube,SK,0
-2007-12-17,Cody B Marshall,US,0
-2007-12-17,Giuliano Razzoli,IT,0
-2007-12-17,Jonathon Brauer,AU,0
-2007-12-17,Julien Cousineau,CA,0
-2007-12-17,Patrick Biggs,CA,0
-2007-12-17,Scott Barrett,CA,0
-2007-12-17,Jimmy Cochran,US,50
-2007-12-17,Kilian Albrecht,BG,0
-2007-12-17,Paul Stutz,CA,3
-2007-12-17,Bode Miller,US,5
-2007-12-17,Kurt Engl,AT,0
-2008-01-06,Noel Baxter,GB,0
-2008-01-06,Alain Baxter,GB,0
-2008-01-06,Marc Berthod,CH,10
-2008-01-06,Oscar Andersson,SE,0
-2008-01-06,Yasuhiro Ikuta,JP,0
-2008-01-06,Alexandr Horoshilov,RU,0
-2008-01-06,Cristian Javier Simari Birkner,AR,0
-2008-01-06,Urs Imboden,CH,0
-2008-01-06,Carlo Janka,CH,0
-2008-01-06,Timothy Kelley,US,0
-2008-01-06,Krystof Kryzl,CZ,0
-2008-01-06,Anton Lahdenperae,SE,12
-2008-01-06,Kentaro Minagawa,JP,15
-2008-01-06,Sebastien Pichot,FR,0
-2008-01-06,Jean Philippe Roy,CA,0
-2008-01-06,Dalibor Samsal,HR,0
-2008-01-06,Marcus Sandell,FI,0
-2008-01-06,Ryan Semple,CA,0
-2008-01-06,Bjoergvin Bjoergvinnson,IS,0
-2008-01-06,Fredrik Nordh,SE,0
-2008-01-06,Jonathon Brauer,AU,0
-2008-01-06,Maxime Tissot,FR,0
-2008-01-06,Kalle Palander,FI,120
-2008-01-06,Jean-Baptiste Grange,FR,176
-2008-01-06,Manfred Pranger,AT,55
-2008-01-06,Alexander Koll,AT,37
-2008-01-06,Aksel-Lund Svindal,NO,20
-2008-01-06,Silvan Zurbriggen,CH,47
-2008-01-06,Andreas Omminger,AT,14
-2008-01-06,Cristian Deville,IT,82
-2008-01-06,Sandro Viletta,CH,20
-2008-01-06,Romed Baumann,AT,26
-2008-01-06,Lars Elton Myhre,NO,7
-2008-01-06,Reinfried Herbst,AT,96
-2008-01-06,Bode Miller,US,5
-2008-01-06,Daniel Albrecht,CH,29
-2008-01-06,Paul Stutz,CA,3
-2008-01-06,Johan Brolenius,SE,16
-2008-01-06,Cody B Marshall,US,0
-2008-01-06,Kurt Engl,AT,0
-2008-01-06,Filip Trejbal,CZ,0
-2008-01-06,Ted Ligety,US,60
-2008-01-06,Thomas Fanara,FR,0
-2008-01-06,Christoph Dreier,AT,0
-2008-01-06,Matic Skube,SK,0
-2008-01-06,Peter Fill,IT,0
-2008-01-06,Marc Gini,CH,149
-2008-01-06,Patrick Thaler,IT,72
-2008-01-06,Mario Matt,AT,145
-2008-01-06,Kilian Albrecht,BG,7
-2008-01-06,Bernard Vajdic,SK,85
-2008-01-06,Hannes Brenner,AT,0
-2008-01-06,Christof Innerhofer,IT,0
-2008-01-06,Peter Bylund,SE,0
-2008-01-06,Martin Vrablik,CZ,0
-2008-01-06,Fritzi Dopfer,DE,0
-2008-01-06,Kurt Pittschieler,IT,0
-2008-01-06,Truls Ove Karlsen,NO,18
-2008-01-06,Christophe Roux,MD,0
-2008-01-06,Markus Vogel,CH,0
-2008-01-06,Christian Wanninger,DE,0
-2008-01-06,Edoardo Zardini,IT,0
-2008-01-06,Dominik Gschwenter,AT,0
-2008-01-06,Didier Cuche,CH,0
-2008-01-06,Patrick Bechter,AT,0
-2008-01-06,Stefan Kogler,DE,0
-2008-01-06,Joel Chenal,FR,22
-2008-01-06,Jukka Leino,FI,0
-2008-01-06,Alois Vogl,DE,0
-2008-01-06,Mitja Dragsic,SK,16
-2008-01-06,Kjetil Jansrud,NO,11
-2008-01-06,John Kucera,CA,0
-2008-01-06,Paul McDonald,US,0
-2008-01-06,Min Heuk Kang,KR,0
-2008-01-06,Scott Barrett,CA,0
-2008-01-06,Alexandre Anselmet,FR,9
-2008-01-06,Akira Sasaki,JP,49
-2008-01-06,Julien Cousineau,CA,0
-2008-01-06,Stefan Georgiev,BG,0
-2008-01-06,Tuukka Kaukoniemi,FI,0
-2008-01-06,Anthony Obert,FR,0
-2008-01-06,Michael Janyk,CA,14
-2008-01-06,Pierre Paquin,FR,22
-2008-01-06,Manuel Pescollderungg,IT,0
-2008-01-06,Patrick Biggs,CA,0
-2008-01-06,Andrej Krizaj,SK,0
-2008-01-06,Wolfgang Hoerl,AT,0
-2008-01-06,Trevor White,CA,0
-2008-01-06,Calle Enocson,SE,0
-2008-01-06,Kai Alaerts,BE,0
-2008-01-06,Petter Brenna,NO,0
-2008-01-06,Ivan Ratkic,HR,0
-2008-01-06,Markus Larsson,SE,75
-2008-01-06,Matija Zavirsek,SK,0
-2008-01-06,Jacopo Di Ronco,IT,0
-2008-01-06,Guillem Capdevilla,ES,0
-2008-01-06,Kristian Haug,NO,0
-2008-01-06,Mauro Caviezel,CH,0
-2008-01-06,Ales Gorza,SK,0
-2008-01-06,Steve Missillier,FR,14
-2008-01-06,Ondrej Bank,CZ,28
-2008-01-06,Jens Byggmark,SE,96
-2008-01-06,Giuliano Razzoli,IT,18
-2008-01-06,Andre Myhrer,SE,49
-2008-01-06,Magnus Andersson,SE,0
-2008-01-06,Mitja Valencic,SK,0
-2008-01-06,Alexandru Barbu,RO,0
-2008-01-06,Lucas Falcoz,FR,0
-2008-01-06,Andrej Jerman,SK,0
-2008-01-06,Niklas Rainer,SE,0
-2008-01-06,Tim Jitloff,US,0
-2008-01-06,Martin Hansson,SE,10
-2008-01-06,Michael Walchhofer,AT,0
-2008-01-06,Natko Zrncic-Dim,HR,0
-2008-01-06,Adrien Theaux,FR,0
-2008-01-06,Naoki Yuasa,JP,12
-2008-01-06,Alwin De Quartel,NL,0
-2008-01-06,Werner Heel,IT,0
-2008-01-06,Mattias Hargin,SE,11
-2008-01-06,Will Brandenburg,US,0
-2008-01-06,Didier Defago,CH,0
-2008-01-06,Mario Scheiber,AT,0
-2008-01-06,Andrej Sporn,SK,0
-2008-01-06,Jeroen Van Den Bogaert,BE,0
-2008-01-06,Patrick Staudacher,IT,0
-2008-01-06,Thomas Mermillod,FR,3
-2008-01-06,Urs Imboden,MD,0
-2008-01-06,Ivica Kostelic,HR,105
-2008-01-06,Felix Neureuther,DE,188
-2008-01-06,Manfred Moelgg,IT,181
-2008-01-06,Rainer Schoenfelder,AT,79
-2008-01-06,Julien Lizeroux,FR,113
-2008-01-06,Giorgio Rocca,IT,40
-2008-01-06,Benjamin Raich,AT,216
-2008-01-06,Marcel Hirscher,AT,36
-2008-01-06,Jimmy Cochran,US,82
-2008-01-06,Dominik Stehle,DE,0
-2008-01-12,Mario Matt,AT,145
-2008-01-12,Markus Larsson,SE,75
-2008-01-12,Kentaro Minagawa,JP,15
-2008-01-12,Kalle Palander,FI,120
-2008-01-12,Manfred Pranger,AT,55
-2008-01-12,Alexander Koll,AT,37
-2008-01-12,Aksel-Lund Svindal,NO,20
-2008-01-12,Benjamin Raich,AT,216
-2008-01-12,Martin Hansson,SE,10
-2008-01-12,Ivan Ratkic,HR,0
-2008-01-12,Matija Zavirsek,SK,0
-2008-01-12,Kristian Haug,NO,0
-2008-01-12,Petter Brenna,NO,0
-2008-01-12,Kai Alaerts,BE,0
-2008-01-12,Calle Enocson,SE,0
-2008-01-12,Alexandr Horoshilov,RU,0
-2008-01-12,Guillem Capdevilla,ES,0
-2008-01-12,Alexandru Barbu,RO,0
-2008-01-12,Lucas Falcoz,FR,0
-2008-01-12,Jeroen Van Den Bogaert,BE,0
-2008-01-12,Andrej Sporn,SK,0
-2008-01-12,Jacopo Di Ronco,IT,0
-2008-01-12,Jimmy Cochran,US,82
-2008-01-12,Truls Ove Karlsen,NO,18
-2008-01-12,Sandro Viletta,CH,20
-2008-01-12,Bjoergvin Bjoergvinnson,IS,0
-2008-01-12,Noel Baxter,GB,0
-2008-01-12,Alexandre Anselmet,FR,9
-2008-01-12,Cristian Javier Simari Birkner,AR,0
-2008-01-12,Fredrik Nordh,SE,0
-2008-01-12,Naoki Yuasa,JP,12
-2008-01-12,Ales Gorza,SK,0
-2008-01-12,Peter Fill,IT,0
-2008-01-12,Maxime Tissot,FR,0
-2008-01-12,Jonathon Brauer,AU,0
-2008-01-12,Matic Skube,SK,0
-2008-01-12,Mitja Dragsic,SK,16
-2008-01-12,Ondrej Bank,CZ,28
-2008-01-12,Christoph Dreier,AT,0
-2008-01-12,Mauro Caviezel,CH,0
-2008-01-12,Thomas Fanara,FR,0
-2008-01-12,Filip Trejbal,CZ,0
-2008-01-12,Giuliano Razzoli,IT,18
-2008-01-12,Kurt Engl,AT,0
-2008-01-12,Johan Brolenius,SE,16
-2008-01-12,Kilian Albrecht,BG,7
-2008-01-12,Paul Stutz,CA,3
-2008-01-12,Magnus Andersson,SE,0
-2008-01-12,Lars Elton Myhre,NO,7
-2008-01-12,Romed Baumann,AT,26
-2008-01-12,Akira Sasaki,JP,49
-2008-01-12,Mario Scheiber,AT,0
-2008-01-12,Silvan Zurbriggen,CH,47
-2008-01-12,Yasuhiro Ikuta,JP,0
-2008-01-12,Alwin De Quartel,NL,0
-2008-01-12,Will Brandenburg,US,0
-2008-01-12,Stefan Kogler,DE,0
-2008-01-12,Urs Imboden,MD,0
-2008-01-12,Jukka Leino,FI,0
-2008-01-12,Manuel Pescollderungg,IT,0
-2008-01-12,Pierre Paquin,FR,22
-2008-01-12,Anthony Obert,FR,0
-2008-01-12,Tuukka Kaukoniemi,FI,0
-2008-01-12,Stefan Georgiev,BG,0
-2008-01-12,Julien Cousineau,CA,0
-2008-01-12,Patrick Biggs,CA,0
-2008-01-12,Scott Barrett,CA,0
-2008-01-12,Min Heuk Kang,KR,0
-2008-01-12,Paul McDonald,US,0
-2008-01-12,John Kucera,CA,0
-2008-01-12,Marcel Hirscher,AT,36
-2008-01-12,Kjetil Jansrud,NO,11
-2008-01-12,Alois Vogl,DE,0
-2008-01-12,Mitja Valencic,SK,0
-2008-01-12,Dominik Stehle,DE,0
-2008-01-12,Ryan Semple,CA,0
-2008-01-12,Marcus Sandell,FI,0
-2008-01-12,Dalibor Samsal,HR,0
-2008-01-12,Jean Philippe Roy,CA,0
-2008-01-12,Thomas Mermillod,FR,3
-2008-01-12,Sebastien Pichot,FR,0
-2008-01-12,Patrick Bechter,AT,0
-2008-01-12,Didier Defago,CH,0
-2008-01-12,Hannes Brenner,AT,0
-2008-01-12,Krystof Kryzl,CZ,0
-2008-01-12,Werner Heel,IT,0
-2008-01-12,Patrick Staudacher,IT,0
-2008-01-12,Steve Missillier,FR,14
-2008-01-12,Urs Imboden,CH,0
-2008-01-12,Adrien Theaux,FR,0
-2008-01-12,Natko Zrncic-Dim,HR,0
-2008-01-12,Michael Walchhofer,AT,0
-2008-01-12,Tim Jitloff,US,0
-2008-01-12,Niklas Rainer,SE,0
-2008-01-12,Andrej Jerman,SK,0
-2008-01-12,Trevor White,CA,0
-2008-01-12,Carlo Janka,CH,0
-2008-01-12,Wolfgang Hoerl,AT,0
-2008-01-12,Andrej Krizaj,SK,0
-2008-01-12,Didier Cuche,CH,0
-2008-01-12,Dominik Gschwenter,AT,0
-2008-01-12,Edoardo Zardini,IT,0
-2008-01-12,Christian Wanninger,DE,0
-2008-01-12,Markus Vogel,CH,0
-2008-01-12,Timothy Kelley,US,0
-2008-01-12,Christophe Roux,MD,0
-2008-01-12,Kurt Pittschieler,IT,0
-2008-01-12,Fritzi Dopfer,DE,0
-2008-01-12,Martin Vrablik,CZ,0
-2008-01-12,Peter Bylund,SE,0
-2008-01-12,Christof Innerhofer,IT,0
-2008-01-12,Joel Chenal,FR,22
-2008-01-12,Alain Baxter,GB,0
-2008-01-12,Julien Lizeroux,FR,153
-2008-01-12,Anton Lahdenperae,SE,21
-2008-01-12,Andre Myhrer,SE,99
-2008-01-12,Oscar Andersson,SE,10
-2008-01-12,Bode Miller,US,50
-2008-01-12,Felix Neureuther,DE,199
-2008-01-12,Cody B Marshall,US,12
-2008-01-12,Andreas Omminger,AT,27
-2008-01-12,Daniel Albrecht,CH,65
-2008-01-12,Michael Janyk,CA,28
-2008-01-12,Giorgio Rocca,IT,72
-2008-01-12,Rainer Schoenfelder,AT,94
-2008-01-12,Reinfried Herbst,AT,125
-2008-01-12,Marc Gini,CH,165
-2008-01-12,Mattias Hargin,SE,29
-2008-01-12,Ivica Kostelic,HR,131
-2008-01-12,Bernard Vajdic,SK,105
-2008-01-12,Manfred Moelgg,IT,205
-2008-01-12,Ted Ligety,US,120
-2008-01-12,Patrick Thaler,IT,80
-2008-01-12,Cristian Deville,IT,104
-2008-01-12,Jens Byggmark,SE,176
-2008-01-12,Jean-Baptiste Grange,FR,276
-2008-01-12,Marc Berthod,CH,17
-2008-01-20,Dalibor Samsal,HR,0
-2008-01-20,Ivica Kostelic,HR,160
-2008-01-20,Markus Larsson,SE,75
-2008-01-20,Marc Gini,CH,165
-2008-01-20,Jean Philippe Roy,CA,0
-2008-01-20,Giorgio Rocca,IT,72
-2008-01-20,Sebastien Pichot,FR,0
-2008-01-20,Kentaro Minagawa,JP,15
-2008-01-20,Thomas Mermillod,FR,3
-2008-01-20,Ted Ligety,US,152
-2008-01-20,Jean-Baptiste Grange,FR,376
-2008-01-20,Anton Lahdenperae,SE,21
-2008-01-20,Krystof Kryzl,CZ,0
-2008-01-20,Marcus Sandell,FI,0
-2008-01-20,Ryan Semple,CA,0
-2008-01-20,Christoph Dreier,AT,0
-2008-01-20,Dominik Stehle,DE,0
-2008-01-20,Julien Cousineau,CA,0
-2008-01-20,Scott Barrett,CA,0
-2008-01-20,Min Heuk Kang,KR,0
-2008-01-20,Steve Missillier,FR,38
-2008-01-20,Jimmy Cochran,US,82
-2008-01-20,Paul McDonald,US,0
-2008-01-20,Aksel-Lund Svindal,NO,20
-2008-01-20,John Kucera,CA,0
-2008-01-20,Marcel Hirscher,AT,36
-2008-01-20,Kjetil Jansrud,NO,11
-2008-01-20,Alois Vogl,DE,0
-2008-01-20,Manfred Moelgg,IT,231
-2008-01-20,Alexander Koll,AT,37
-2008-01-20,Manfred Pranger,AT,55
-2008-01-20,Mitja Valencic,SK,0
-2008-01-20,Timothy Kelley,US,0
-2008-01-20,Carlo Janka,CH,0
-2008-01-20,Benjamin Raich,AT,252
-2008-01-20,Thomas Fanara,FR,0
-2008-01-20,Fredrik Nordh,SE,0
-2008-01-20,Naoki Yuasa,JP,12
-2008-01-20,Jens Byggmark,SE,256
-2008-01-20,Peter Fill,IT,0
-2008-01-20,Julien Lizeroux,FR,203
-2008-01-20,Maxime Tissot,FR,0
-2008-01-20,Cristian Javier Simari Birkner,AR,0
-2008-01-20,Jonathon Brauer,AU,0
-2008-01-20,Matic Skube,SK,0
-2008-01-20,Mitja Dragsic,SK,16
-2008-01-20,Ondrej Bank,CZ,28
-2008-01-20,Mario Matt,AT,205
-2008-01-20,Kurt Engl,AT,0
-2008-01-20,Filip Trejbal,CZ,0
-2008-01-20,Cody B Marshall,US,12
-2008-01-20,Oscar Andersson,SE,10
-2008-01-20,Kilian Albrecht,BG,7
-2008-01-20,Rainer Schoenfelder,AT,139
-2008-01-20,Romed Baumann,AT,26
-2008-01-20,Urs Imboden,CH,0
-2008-01-20,Yasuhiro Ikuta,JP,0
-2008-01-20,Alexandr Horoshilov,RU,0
-2008-01-20,Lars Elton Myhre,NO,7
-2008-01-20,Mattias Hargin,SE,29
-2008-01-20,Martin Hansson,SE,10
-2008-01-20,Joel Chenal,FR,22
-2008-01-20,Felix Neureuther,DE,239
-2008-01-20,Stefan Georgiev,BG,0
-2008-01-20,Daniel Albrecht,CH,65
-2008-01-20,Bjoergvin Bjoergvinnson,IS,0
-2008-01-20,Marc Berthod,CH,17
-2008-01-20,Alain Baxter,GB,0
-2008-01-20,Noel Baxter,GB,0
-2008-01-20,Truls Ove Karlsen,NO,18
-2008-01-20,Alexandre Anselmet,FR,9
-2008-01-20,Jukka Leino,FI,0
-2008-01-20,Andre Myhrer,SE,121
-2008-01-20,Patrick Staudacher,IT,0
-2008-01-20,Werner Heel,IT,0
-2008-01-20,Sandro Viletta,CH,33
-2008-01-20,Will Brandenburg,US,0
-2008-01-20,Didier Defago,CH,0
-2008-01-20,Mario Scheiber,AT,0
-2008-01-20,Andrej Sporn,SK,0
-2008-01-20,Tuukka Kaukoniemi,FI,0
-2008-01-20,Jeroen Van Den Bogaert,BE,0
-2008-01-20,Lucas Falcoz,FR,0
-2008-01-20,Alexandru Barbu,RO,0
-2008-01-20,Guillem Capdevilla,ES,0
-2008-01-20,Wolfgang Hoerl,AT,11
-2008-01-20,Calle Enocson,SE,0
-2008-01-20,Kai Alaerts,BE,0
-2008-01-20,Petter Brenna,NO,0
-2008-01-20,Ivan Ratkic,HR,0
-2008-01-20,Patrick Biggs,CA,10
-2008-01-20,Matija Zavirsek,SK,0
-2008-01-20,Jacopo Di Ronco,IT,0
-2008-01-20,Kristian Haug,NO,0
-2008-01-20,Magnus Andersson,SE,0
-2008-01-20,Patrick Thaler,IT,89
-2008-01-20,Mauro Caviezel,CH,0
-2008-01-20,Ales Gorza,SK,0
-2008-01-20,Johan Brolenius,SE,24
-2008-01-20,Kalle Palander,FI,127
-2008-01-20,Paul Stutz,CA,9
-2008-01-20,Giuliano Razzoli,IT,23
-2008-01-20,Alwin De Quartel,NL,0
-2008-01-20,Adrien Theaux,FR,0
-2008-01-20,Cristian Deville,IT,116
-2008-01-20,Natko Zrncic-Dim,HR,0
-2008-01-20,Anthony Obert,FR,0
-2008-01-20,Pierre Paquin,FR,22
-2008-01-20,Manuel Pescollderungg,IT,0
-2008-01-20,Silvan Zurbriggen,CH,47
-2008-01-20,Urs Imboden,MD,0
-2008-01-20,Bernard Vajdic,SK,119
-2008-01-20,Reinfried Herbst,AT,145
-2008-01-20,Patrick Bechter,AT,0
-2008-01-20,Hannes Brenner,AT,0
-2008-01-20,Christof Innerhofer,IT,0
-2008-01-20,Peter Bylund,SE,0
-2008-01-20,Martin Vrablik,CZ,0
-2008-01-20,Bode Miller,US,68
-2008-01-20,Fritzi Dopfer,DE,0
-2008-01-20,Kurt Pittschieler,IT,0
-2008-01-20,Stefan Kogler,DE,0
-2008-01-20,Markus Vogel,CH,0
-2008-01-20,Michael Walchhofer,AT,0
-2008-01-20,Tim Jitloff,US,0
-2008-01-20,Niklas Rainer,SE,0
-2008-01-20,Christophe Roux,MD,0
-2008-01-20,Andrej Jerman,SK,0
-2008-01-20,Akira Sasaki,JP,64
-2008-01-20,Trevor White,CA,0
-2008-01-20,Andreas Omminger,AT,27
-2008-01-20,Didier Cuche,CH,0
-2008-01-20,Dominik Gschwenter,AT,0
-2008-01-20,Christian Wanninger,DE,0
-2008-01-20,Edoardo Zardini,IT,0
-2008-01-20,Michael Janyk,CA,44
-2008-01-20,Andrej Krizaj,SK,0
-2008-01-22,Cody B Marshall,US,12
-2008-01-22,Johan Brolenius,SE,24
-2008-01-22,Paul Stutz,CA,9
-2008-01-22,Daniel Albrecht,CH,65
-2008-01-22,Bode Miller,US,68
-2008-01-22,Reinfried Herbst,AT,145
-2008-01-22,Lars Elton Myhre,NO,7
-2008-01-22,Romed Baumann,AT,26
-2008-01-22,Truls Ove Karlsen,NO,18
-2008-01-22,Sandro Viletta,CH,33
-2008-01-22,Cristian Deville,IT,116
-2008-01-22,Andreas Omminger,AT,27
-2008-01-22,Aksel-Lund Svindal,NO,20
-2008-01-22,Alexander Koll,AT,37
-2008-01-22,Manfred Pranger,AT,55
-2008-01-22,Kalle Palander,FI,127
-2008-01-22,Marc Gini,CH,165
-2008-01-22,Thomas Fanara,FR,0
-2008-01-22,Silvan Zurbriggen,CH,47
-2008-01-22,Alain Baxter,GB,0
-2008-01-22,Christoph Dreier,AT,0
-2008-01-22,Kentaro Minagawa,JP,28
-2008-01-22,Natko Zrncic-Dim,HR,0
-2008-01-22,Michael Walchhofer,AT,0
-2008-01-22,Tim Jitloff,US,0
-2008-01-22,Patrick Thaler,IT,103
-2008-01-22,Niklas Rainer,SE,0
-2008-01-22,Andrej Jerman,SK,0
-2008-01-22,Trevor White,CA,0
-2008-01-22,Andrej Krizaj,SK,0
-2008-01-22,Wolfgang Hoerl,AT,26
-2008-01-22,Didier Cuche,CH,0
-2008-01-22,Dominik Gschwenter,AT,0
-2008-01-22,Edoardo Zardini,IT,0
-2008-01-22,Christian Wanninger,DE,0
-2008-01-22,Bernard Vajdic,SK,135
-2008-01-22,Markus Vogel,CH,0
-2008-01-22,Christophe Roux,MD,0
-2008-01-22,Kurt Pittschieler,IT,0
-2008-01-22,Fritzi Dopfer,DE,0
-2008-01-22,Steve Missillier,FR,56
-2008-01-22,Martin Vrablik,CZ,0
-2008-01-22,Peter Bylund,SE,0
-2008-01-22,Christof Innerhofer,IT,0
-2008-01-22,Hannes Brenner,AT,0
-2008-01-22,Mario Matt,AT,305
-2008-01-22,Adrien Theaux,FR,0
-2008-01-22,Alwin De Quartel,NL,0
-2008-01-22,Patrick Staudacher,IT,0
-2008-01-22,Filip Trejbal,CZ,12
-2008-01-22,Kilian Albrecht,BG,12
-2008-01-22,Ales Gorza,SK,0
-2008-01-22,Michael Janyk,CA,50
-2008-01-22,Mauro Caviezel,CH,0
-2008-01-22,Magnus Andersson,SE,0
-2008-01-22,Kristian Haug,NO,0
-2008-01-22,Naoki Yuasa,JP,19
-2008-01-22,Jacopo Di Ronco,IT,0
-2008-01-22,Matija Zavirsek,SK,0
-2008-01-22,Ivan Ratkic,HR,0
-2008-01-22,Patrick Biggs,CA,18
-2008-01-22,Petter Brenna,NO,0
-2008-01-22,Patrick Bechter,AT,0
-2008-01-22,Kai Alaerts,BE,0
-2008-01-22,Oscar Andersson,SE,19
-2008-01-22,Guillem Capdevilla,ES,0
-2008-01-22,Alexandru Barbu,RO,0
-2008-01-22,Lucas Falcoz,FR,0
-2008-01-22,Anton Lahdenperae,SE,31
-2008-01-22,Jeroen Van Den Bogaert,BE,0
-2008-01-22,Andrej Sporn,SK,0
-2008-01-22,Mario Scheiber,AT,0
-2008-01-22,Marcel Hirscher,AT,47
-2008-01-22,Didier Defago,CH,0
-2008-01-22,Will Brandenburg,US,0
-2008-01-22,Werner Heel,IT,0
-2008-01-22,Calle Enocson,SE,0
-2008-01-22,Stefan Kogler,DE,0
-2008-01-22,Rainer Schoenfelder,AT,159
-2008-01-22,Jukka Leino,FI,0
-2008-01-22,Urs Imboden,MD,0
-2008-01-22,Julien Lizeroux,FR,243
-2008-01-22,Urs Imboden,CH,0
-2008-01-22,Yasuhiro Ikuta,JP,0
-2008-01-22,Alexandr Horoshilov,RU,0
-2008-01-22,Mattias Hargin,SE,29
-2008-01-22,Felix Neureuther,DE,284
-2008-01-22,Martin Hansson,SE,10
-2008-01-22,Joel Chenal,FR,22
-2008-01-22,Jens Byggmark,SE,256
-2008-01-22,Bjoergvin Bjoergvinnson,IS,0
-2008-01-22,Ted Ligety,US,202
-2008-01-22,Kurt Engl,AT,0
-2008-01-22,Noel Baxter,GB,0
-2008-01-22,Alexandre Anselmet,FR,9
-2008-01-22,Cristian Javier Simari Birkner,AR,0
-2008-01-22,Manfred Moelgg,IT,291
-2008-01-22,Fredrik Nordh,SE,0
-2008-01-22,Peter Fill,IT,0
-2008-01-22,Maxime Tissot,FR,0
-2008-01-22,Jonathon Brauer,AU,0
-2008-01-22,Jean-Baptiste Grange,FR,456
-2008-01-22,Matic Skube,SK,0
-2008-01-22,Mitja Dragsic,SK,16
-2008-01-22,Ondrej Bank,CZ,28
-2008-01-22,Timothy Kelley,US,0
-2008-01-22,Krystof Kryzl,CZ,0
-2008-01-22,Carlo Janka,CH,0
-2008-01-22,Andre Myhrer,SE,121
-2008-01-22,Jimmy Cochran,US,104
-2008-01-22,Manuel Pescollderungg,IT,0
-2008-01-22,Pierre Paquin,FR,22
-2008-01-22,Anthony Obert,FR,0
-2008-01-22,Tuukka Kaukoniemi,FI,0
-2008-01-22,Stefan Georgiev,BG,0
-2008-01-22,Marc Berthod,CH,41
-2008-01-22,Julien Cousineau,CA,0
-2008-01-22,Scott Barrett,CA,0
-2008-01-22,Min Heuk Kang,KR,0
-2008-01-22,Thomas Mermillod,FR,3
-2008-01-22,Akira Sasaki,JP,90
-2008-01-22,John Kucera,CA,0
-2008-01-22,Paul McDonald,US,0
-2008-01-22,Alois Vogl,DE,0
-2008-01-22,Markus Larsson,SE,111
-2008-01-22,Sebastien Pichot,FR,0
-2008-01-22,Kjetil Jansrud,NO,11
-2008-01-22,Jean Philippe Roy,CA,0
-2008-01-22,Benjamin Raich,AT,284
-2008-01-22,Giorgio Rocca,IT,72
-2008-01-22,Marcus Sandell,FI,0
-2008-01-22,Ryan Semple,CA,0
-2008-01-22,Dominik Stehle,DE,0
-2008-01-22,Ivica Kostelic,HR,189
-2008-01-22,Mitja Valencic,SK,0
-2008-01-22,Dalibor Samsal,HR,0
-2008-01-22,Giuliano Razzoli,IT,23
-2008-02-09,Romed Baumann,AT,26
-2008-02-09,Akira Sasaki,JP,90
-2008-02-09,Truls Ove Karlsen,NO,18
-2008-02-09,Sandro Viletta,CH,33
-2008-02-09,Andreas Omminger,AT,27
-2008-02-09,Christian Wanninger,DE,4
-2008-02-09,Lars Elton Myhre,NO,7
-2008-02-09,Niklas Rainer,SE,0
-2008-02-09,Andrej Jerman,SK,0
-2008-02-09,Trevor White,CA,0
-2008-02-09,Andrej Krizaj,SK,0
-2008-02-09,Didier Cuche,CH,0
-2008-02-09,Dominik Gschwenter,AT,0
-2008-02-09,Edoardo Zardini,IT,0
-2008-02-09,Markus Vogel,CH,0
-2008-02-09,Christophe Roux,MD,0
-2008-02-09,Tim Jitloff,US,0
-2008-02-09,Kurt Pittschieler,IT,0
-2008-02-09,Martin Vrablik,CZ,0
-2008-02-09,Peter Bylund,SE,0
-2008-02-09,Christof Innerhofer,IT,0
-2008-02-09,Hannes Brenner,AT,0
-2008-02-09,Patrick Bechter,AT,0
-2008-02-09,Stefan Kogler,DE,0
-2008-02-09,Urs Imboden,MD,0
-2008-02-09,Michael Janyk,CA,50
-2008-02-09,Manuel Pescollderungg,IT,0
-2008-02-09,Fritzi Dopfer,DE,0
-2008-02-09,Michael Walchhofer,AT,0
-2008-02-09,Natko Zrncic-Dim,HR,0
-2008-02-09,Adrien Theaux,FR,0
-2008-02-09,Ales Gorza,SK,0
-2008-02-09,Mauro Caviezel,CH,0
-2008-02-09,Magnus Andersson,SE,0
-2008-02-09,Kristian Haug,NO,0
-2008-02-09,Jacopo Di Ronco,IT,0
-2008-02-09,Matija Zavirsek,SK,0
-2008-02-09,Ivan Ratkic,HR,0
-2008-02-09,Petter Brenna,NO,0
-2008-02-09,Kai Alaerts,BE,0
-2008-02-09,Calle Enocson,SE,0
-2008-02-09,Guillem Capdevilla,ES,0
-2008-02-09,Alexandru Barbu,RO,0
-2008-02-09,Lucas Falcoz,FR,0
-2008-02-09,Jeroen Van Den Bogaert,BE,0
-2008-02-09,Andrej Sporn,SK,0
-2008-02-09,Mario Scheiber,AT,0
-2008-02-09,Didier Defago,CH,0
-2008-02-09,Will Brandenburg,US,0
-2008-02-09,Werner Heel,IT,0
-2008-02-09,Patrick Staudacher,IT,0
-2008-02-09,Alwin De Quartel,NL,0
-2008-02-09,Pierre Paquin,FR,22
-2008-02-09,Silvan Zurbriggen,CH,47
-2008-02-09,Anthony Obert,FR,0
-2008-02-09,Stefan Georgiev,BG,0
-2008-02-09,Bjoergvin Bjoergvinnson,IS,0
-2008-02-09,Marc Berthod,CH,41
-2008-02-09,Alain Baxter,GB,0
-2008-02-09,Noel Baxter,GB,0
-2008-02-09,Alexandre Anselmet,FR,9
-2008-02-09,Oscar Andersson,SE,19
-2008-02-09,Cristian Javier Simari Birkner,AR,0
-2008-02-09,Naoki Yuasa,JP,19
-2008-02-09,Peter Fill,IT,0
-2008-02-09,Jens Byggmark,SE,256
-2008-02-09,Maxime Tissot,FR,0
-2008-02-09,Matic Skube,SK,0
-2008-02-09,Ondrej Bank,CZ,28
-2008-02-09,Christoph Dreier,AT,0
-2008-02-09,Thomas Fanara,FR,0
-2008-02-09,Kurt Engl,AT,0
-2008-02-09,Cody B Marshall,US,12
-2008-02-09,Paul Stutz,CA,9
-2008-02-09,Daniel Albrecht,CH,65
-2008-02-09,Bode Miller,US,68
-2008-02-09,Jonathon Brauer,AU,0
-2008-02-09,Joel Chenal,FR,22
-2008-02-09,Alexandr Horoshilov,RU,0
-2008-02-09,Yasuhiro Ikuta,JP,0
-2008-02-09,Julien Cousineau,CA,0
-2008-02-09,Patrick Biggs,CA,18
-2008-02-09,Scott Barrett,CA,0
-2008-02-09,Min Heuk Kang,KR,0
-2008-02-09,Paul McDonald,US,0
-2008-02-09,John Kucera,CA,0
-2008-02-09,Marcel Hirscher,AT,47
-2008-02-09,Kjetil Jansrud,NO,11
-2008-02-09,Alois Vogl,DE,0
-2008-02-09,Dominik Stehle,DE,0
-2008-02-09,Ryan Semple,CA,0
-2008-02-09,Marcus Sandell,FI,0
-2008-02-09,Dalibor Samsal,HR,0
-2008-02-09,Jean Philippe Roy,CA,0
-2008-02-09,Sebastien Pichot,FR,0
-2008-02-09,Andre Myhrer,SE,121
-2008-02-09,Steve Missillier,FR,56
-2008-02-09,Thomas Mermillod,FR,3
-2008-02-09,Timothy Kelley,US,0
-2008-02-09,Carlo Janka,CH,0
-2008-02-09,Urs Imboden,CH,0
-2008-02-09,Tuukka Kaukoniemi,FI,0
-2008-02-09,Jimmy Cochran,US,104
-2008-02-09,Fredrik Nordh,SE,0
-2008-02-09,Alexander Koll,AT,37
-2008-02-09,Ted Ligety,US,238
-2008-02-09,Johan Brolenius,SE,56
-2008-02-09,Mitja Valencic,SK,29
-2008-02-09,Mattias Hargin,SE,55
-2008-02-09,Benjamin Raich,AT,308
-2008-02-09,Bernard Vajdic,SK,157
-2008-02-09,Patrick Thaler,IT,123
-2008-02-09,Giorgio Rocca,IT,88
-2008-02-09,Anton Lahdenperae,SE,46
-2008-02-09,Felix Neureuther,DE,298
-2008-02-09,Wolfgang Hoerl,AT,39
-2008-02-09,Kentaro Minagawa,JP,40
-2008-02-09,Martin Hansson,SE,21
-2008-02-09,Giuliano Razzoli,IT,33
-2008-02-09,Markus Larsson,SE,120
-2008-02-09,Jukka Leino,FI,8
-2008-02-09,Krystof Kryzl,CZ,7
-2008-02-09,Jean-Baptiste Grange,FR,462
-2008-02-09,Kilian Albrecht,BG,17
-2008-02-09,Mitja Dragsic,SK,56
-2008-02-09,Julien Lizeroux,FR,288
-2008-02-09,Filip Trejbal,CZ,30
-2008-02-09,Manfred Moelgg,IT,371
-2008-02-09,Manfred Pranger,AT,55
-2008-02-09,Mario Matt,AT,305
-2008-02-09,Ivica Kostelic,HR,249
-2008-02-09,Kalle Palander,FI,127
-2008-02-09,Marc Gini,CH,165
-2008-02-09,Reinfried Herbst,AT,245
-2008-02-09,Cristian Deville,IT,166
-2008-02-09,Rainer Schoenfelder,AT,159
-2008-02-09,Aksel-Lund Svindal,NO,20
-2008-02-17,Jean Philippe Roy,CA,0
-2008-02-17,Mauro Caviezel,CH,0
-2008-02-17,Julien Cousineau,CA,0
-2008-02-17,Patrick Biggs,CA,18
-2008-02-17,Dalibor Samsal,HR,0
-2008-02-17,Marcus Sandell,FI,0
-2008-02-17,Ales Gorza,SK,0
-2008-02-17,Paul McDonald,US,0
-2008-02-17,Scott Barrett,CA,0
-2008-02-17,Alois Vogl,DE,0
-2008-02-17,Sebastien Pichot,FR,0
-2008-02-17,Marcel Hirscher,AT,47
-2008-02-17,Min Heuk Kang,KR,0
-2008-02-17,John Kucera,CA,0
-2008-02-17,Dominik Stehle,DE,0
-2008-02-17,Ryan Semple,CA,0
-2008-02-17,Andre Myhrer,SE,121
-2008-02-17,Kentaro Minagawa,JP,40
-2008-02-17,Jonathon Brauer,AU,0
-2008-02-17,Maxime Tissot,FR,0
-2008-02-17,Peter Fill,IT,0
-2008-02-17,Fredrik Nordh,SE,0
-2008-02-17,Cristian Javier Simari Birkner,AR,0
-2008-02-17,Oscar Andersson,SE,19
-2008-02-17,Alexandre Anselmet,FR,9
-2008-02-17,Noel Baxter,GB,0
-2008-02-17,Alain Baxter,GB,0
-2008-02-17,Stefan Georgiev,BG,0
-2008-02-17,Bjoergvin Bjoergvinnson,IS,0
-2008-02-17,Joel Chenal,FR,22
-2008-02-17,Alexandr Horoshilov,RU,0
-2008-02-17,Yasuhiro Ikuta,JP,0
-2008-02-17,Urs Imboden,CH,0
-2008-02-17,Carlo Janka,CH,0
-2008-02-17,Timothy Kelley,US,0
-2008-02-17,Krystof Kryzl,CZ,7
-2008-02-17,Anton Lahdenperae,SE,46
-2008-02-17,Thomas Mermillod,FR,3
-2008-02-17,Jens Byggmark,SE,256
-2008-02-17,Tuukka Kaukoniemi,FI,0
-2008-02-17,Guillem Capdevilla,ES,0
-2008-02-17,Anthony Obert,FR,0
-2008-02-17,Trevor White,CA,0
-2008-02-17,Ivan Ratkic,HR,0
-2008-02-17,Andrej Jerman,SK,0
-2008-02-17,Niklas Rainer,SE,0
-2008-02-17,Tim Jitloff,US,0
-2008-02-17,Petter Brenna,NO,0
-2008-02-17,Michael Walchhofer,AT,0
-2008-02-17,Natko Zrncic-Dim,HR,0
-2008-02-17,Adrien Theaux,FR,0
-2008-02-17,Andrej Krizaj,SK,0
-2008-02-17,Alwin De Quartel,NL,0
-2008-02-17,Kai Alaerts,BE,0
-2008-02-17,Werner Heel,IT,0
-2008-02-17,Will Brandenburg,US,0
-2008-02-17,Didier Defago,CH,0
-2008-02-17,Mario Scheiber,AT,0
-2008-02-17,Calle Enocson,SE,0
-2008-02-17,Andrej Sporn,SK,0
-2008-02-17,Jeroen Van Den Bogaert,BE,0
-2008-02-17,Lucas Falcoz,FR,0
-2008-02-17,Patrick Staudacher,IT,0
-2008-02-17,Didier Cuche,CH,0
-2008-02-17,Matija Zavirsek,SK,0
-2008-02-17,Dominik Gschwenter,AT,0
-2008-02-17,Pierre Paquin,FR,22
-2008-02-17,Manuel Pescollderungg,IT,0
-2008-02-17,Magnus Andersson,SE,0
-2008-02-17,Michael Janyk,CA,50
-2008-02-17,Jukka Leino,FI,8
-2008-02-17,Urs Imboden,MD,0
-2008-02-17,Kristian Haug,NO,0
-2008-02-17,Stefan Kogler,DE,0
-2008-02-17,Patrick Bechter,AT,0
-2008-02-17,Hannes Brenner,AT,0
-2008-02-17,Matic Skube,SK,0
-2008-02-17,Christof Innerhofer,IT,0
-2008-02-17,Peter Bylund,SE,0
-2008-02-17,Martin Vrablik,CZ,0
-2008-02-17,Jacopo Di Ronco,IT,0
-2008-02-17,Fritzi Dopfer,DE,0
-2008-02-17,Kurt Pittschieler,IT,0
-2008-02-17,Christophe Roux,MD,0
-2008-02-17,Markus Vogel,CH,0
-2008-02-17,Christian Wanninger,DE,4
-2008-02-17,Edoardo Zardini,IT,0
-2008-02-17,Alexandru Barbu,RO,0
-2008-02-17,Ondrej Bank,CZ,28
-2008-02-17,Christoph Dreier,AT,0
-2008-02-17,Thomas Fanara,FR,0
-2008-02-17,Mattias Hargin,SE,64
-2008-02-17,Martin Hansson,SE,31
-2008-02-17,Kilian Albrecht,BG,28
-2008-02-17,Jimmy Cochran,US,116
-2008-02-17,Wolfgang Hoerl,AT,52
-2008-02-17,Mitja Valencic,SK,43
-2008-02-17,Cristian Deville,IT,181
-2008-02-17,Naoki Yuasa,JP,35
-2008-02-17,Patrick Thaler,IT,141
-2008-02-17,Manfred Moelgg,IT,391
-2008-02-17,Cody B Marshall,US,20
-2008-02-17,Steve Missillier,FR,78
-2008-02-17,Felix Neureuther,DE,327
-2008-02-17,Julien Lizeroux,FR,320
-2008-02-17,Akira Sasaki,JP,126
-2008-02-17,Marc Berthod,CH,81
-2008-02-17,Mitja Dragsic,SK,101
-2008-02-17,Kjetil Jansrud,NO,15
-2008-02-17,Giorgio Rocca,IT,138
-2008-02-17,Reinfried Herbst,AT,305
-2008-02-17,Ivica Kostelic,HR,329
-2008-02-17,Mario Matt,AT,405
-2008-02-17,Bernard Vajdic,SK,181
-2008-02-17,Sandro Viletta,CH,40
-2008-02-17,Johan Brolenius,SE,82
-2008-02-17,Silvan Zurbriggen,CH,47
-2008-02-17,Kurt Engl,AT,0
-2008-02-17,Paul Stutz,CA,9
-2008-02-17,Filip Trejbal,CZ,30
-2008-02-17,Daniel Albrecht,CH,65
-2008-02-17,Bode Miller,US,68
-2008-02-17,Lars Elton Myhre,NO,7
-2008-02-17,Romed Baumann,AT,26
-2008-02-17,Truls Ove Karlsen,NO,18
-2008-02-17,Ted Ligety,US,238
-2008-02-17,Andreas Omminger,AT,27
-2008-02-17,Aksel-Lund Svindal,NO,20
-2008-02-17,Alexander Koll,AT,37
-2008-02-17,Manfred Pranger,AT,55
-2008-02-17,Rainer Schoenfelder,AT,159
-2008-02-17,Giuliano Razzoli,IT,33
-2008-02-17,Benjamin Raich,AT,313
-2008-02-17,Marc Gini,CH,171
-2008-02-17,Kalle Palander,FI,127
-2008-02-17,Markus Larsson,SE,120
-2008-02-17,Jean-Baptiste Grange,FR,462
-2008-03-09,Anthony Obert,FR,0
-2008-03-09,Timothy Kelley,US,0
-2008-03-09,Pierre Paquin,FR,22
-2008-03-09,Carlo Janka,CH,0
-2008-03-09,Manuel Pescollderungg,IT,0
-2008-03-09,Michael Janyk,CA,50
-2008-03-09,Sebastien Pichot,FR,0
-2008-03-09,Tuukka Kaukoniemi,FI,0
-2008-03-09,Ales Gorza,SK,0
-2008-03-09,Mauro Caviezel,CH,0
-2008-03-09,Urs Imboden,CH,0
-2008-03-09,Yasuhiro Ikuta,JP,0
-2008-03-09,Magnus Andersson,SE,0
-2008-03-09,Alexandr Horoshilov,RU,0
-2008-03-09,Jukka Leino,FI,8
-2008-03-09,Krystof Kryzl,CZ,7
-2008-03-09,Julien Cousineau,CA,0
-2008-03-09,Jean Philippe Roy,CA,0
-2008-03-09,Dalibor Samsal,HR,0
-2008-03-09,Marcus Sandell,FI,0
-2008-03-09,Ryan Semple,CA,0
-2008-03-09,Dominik Stehle,DE,0
-2008-03-09,Kentaro Minagawa,JP,40
-2008-03-09,Patrick Thaler,IT,141
-2008-03-09,Mitja Valencic,SK,43
-2008-03-09,Stefan Georgiev,BG,0
-2008-03-09,Alois Vogl,DE,0
-2008-03-09,Kristian Haug,NO,0
-2008-03-09,John Kucera,CA,0
-2008-03-09,Paul McDonald,US,0
-2008-03-09,Min Heuk Kang,KR,0
-2008-03-09,Thomas Mermillod,FR,3
-2008-03-09,Scott Barrett,CA,0
-2008-03-09,Patrick Biggs,CA,18
-2008-03-09,Kjetil Jansrud,NO,15
-2008-03-09,Christof Innerhofer,IT,0
-2008-03-09,Calle Enocson,SE,0
-2008-03-09,Matija Zavirsek,SK,0
-2008-03-09,Niklas Rainer,SE,0
-2008-03-09,Andrej Jerman,SK,0
-2008-03-09,Trevor White,CA,0
-2008-03-09,Andrej Krizaj,SK,0
-2008-03-09,Didier Cuche,CH,0
-2008-03-09,Dominik Gschwenter,AT,0
-2008-03-09,Edoardo Zardini,IT,0
-2008-03-09,Tim Jitloff,US,0
-2008-03-09,Christian Wanninger,DE,4
-2008-03-09,Christophe Roux,MD,0
-2008-03-09,Kurt Pittschieler,IT,0
-2008-03-09,Stefan Kogler,DE,0
-2008-03-09,Fritzi Dopfer,DE,0
-2008-03-09,Martin Vrablik,CZ,0
-2008-03-09,Patrick Bechter,AT,0
-2008-03-09,Peter Bylund,SE,0
-2008-03-09,Markus Vogel,CH,0
-2008-03-09,Jacopo Di Ronco,IT,0
-2008-03-09,Michael Walchhofer,AT,0
-2008-03-09,Adrien Theaux,FR,0
-2008-03-09,Ivan Ratkic,HR,0
-2008-03-09,Petter Brenna,NO,0
-2008-03-09,Kai Alaerts,BE,0
-2008-03-09,Hannes Brenner,AT,0
-2008-03-09,Guillem Capdevilla,ES,0
-2008-03-09,Alexandru Barbu,RO,0
-2008-03-09,Lucas Falcoz,FR,0
-2008-03-09,Natko Zrncic-Dim,HR,0
-2008-03-09,Jeroen Van Den Bogaert,BE,0
-2008-03-09,Mario Scheiber,AT,0
-2008-03-09,Didier Defago,CH,0
-2008-03-09,Will Brandenburg,US,0
-2008-03-09,Martin Hansson,SE,31
-2008-03-09,Werner Heel,IT,0
-2008-03-09,Patrick Staudacher,IT,0
-2008-03-09,Alwin De Quartel,NL,0
-2008-03-09,Andrej Sporn,SK,0
-2008-03-09,Joel Chenal,FR,22
-2008-03-09,Bernard Vajdic,SK,181
-2008-03-09,Bjoergvin Bjoergvinnson,IS,0
-2008-03-09,Marc Gini,CH,171
-2008-03-09,Urs Imboden,MD,5
-2008-03-09,Kilian Albrecht,BG,34
-2008-03-09,Sandro Viletta,CH,47
-2008-03-09,Johan Brolenius,SE,91
-2008-03-09,Giuliano Razzoli,IT,43
-2008-03-09,Daniel Albrecht,CH,76
-2008-03-09,Oscar Andersson,SE,31
-2008-03-09,Steve Missillier,FR,91
-2008-03-09,Mitja Dragsic,SK,115
-2008-03-09,Wolfgang Hoerl,AT,67
-2008-03-09,Mattias Hargin,SE,80
-2008-03-09,Kalle Palander,FI,127
-2008-03-09,Naoki Yuasa,JP,53
-2008-03-09,Jens Byggmark,SE,256
-2008-03-09,Mario Matt,AT,427
-2008-03-09,Marc Berthod,CH,105
-2008-03-09,Giorgio Rocca,IT,164
-2008-03-09,Julien Lizeroux,FR,349
-2008-03-09,Cristian Deville,IT,213
-2008-03-09,Ted Ligety,US,274
-2008-03-09,Felix Neureuther,DE,367
-2008-03-09,Reinfried Herbst,AT,350
-2008-03-09,Jean-Baptiste Grange,FR,512
-2008-03-09,Manfred Moelgg,IT,491
-2008-03-09,Marcel Hirscher,AT,107
-2008-03-09,Andre Myhrer,SE,141
-2008-03-09,Markus Larsson,SE,120
-2008-03-09,Anton Lahdenperae,SE,54
-2008-03-09,Rainer Schoenfelder,AT,159
-2008-03-09,Alain Baxter,GB,0
-2008-03-09,Noel Baxter,GB,0
-2008-03-09,Alexandre Anselmet,FR,9
-2008-03-09,Cristian Javier Simari Birkner,AR,0
-2008-03-09,Fredrik Nordh,SE,0
-2008-03-09,Peter Fill,IT,0
-2008-03-09,Maxime Tissot,FR,0
-2008-03-09,Jonathon Brauer,AU,0
-2008-03-09,Matic Skube,SK,0
-2008-03-09,Ondrej Bank,CZ,28
-2008-03-09,Christoph Dreier,AT,0
-2008-03-09,Benjamin Raich,AT,313
-2008-03-09,Filip Trejbal,CZ,30
-2008-03-09,Kurt Engl,AT,0
-2008-03-09,Cody B Marshall,US,20
-2008-03-09,Thomas Fanara,FR,0
-2008-03-09,Ivica Kostelic,HR,409
-2008-03-09,Paul Stutz,CA,9
-2008-03-09,Manfred Pranger,AT,55
-2008-03-09,Alexander Koll,AT,37
-2008-03-09,Bode Miller,US,68
-2008-03-09,Lars Elton Myhre,NO,7
-2008-03-09,Aksel-Lund Svindal,NO,20
-2008-03-09,Romed Baumann,AT,26
-2008-03-09,Jimmy Cochran,US,116
-2008-03-09,Akira Sasaki,JP,126
-2008-03-09,Truls Ove Karlsen,NO,18
-2008-03-09,Silvan Zurbriggen,CH,47
-2008-03-09,Andreas Omminger,AT,27
-2008-03-15,Anthony Obert,FR,0
-2008-03-15,Pierre Paquin,FR,22
-2008-03-15,Manuel Pescollderungg,IT,0
-2008-03-15,Peter Bylund,SE,0
-2008-03-15,Tuukka Kaukoniemi,FI,0
-2008-03-15,Martin Vrablik,CZ,0
-2008-03-15,Urs Imboden,MD,5
-2008-03-15,Stefan Kogler,DE,0
-2008-03-15,Patrick Bechter,AT,0
-2008-03-15,Hannes Brenner,AT,0
-2008-03-15,Fritzi Dopfer,DE,0
-2008-03-15,Christof Innerhofer,IT,0
-2008-03-15,Michael Janyk,CA,50
-2008-03-15,Jukka Leino,FI,8
-2008-03-15,Dalibor Samsal,HR,0
-2008-03-15,Julien Cousineau,CA,0
-2008-03-15,Jean Philippe Roy,CA,0
-2008-03-15,Kurt Pittschieler,IT,0
-2008-03-15,Marcus Sandell,FI,0
-2008-03-15,Ryan Semple,CA,0
-2008-03-15,Dominik Stehle,DE,0
-2008-03-15,Patrick Thaler,IT,141
-2008-03-15,Stefan Georgiev,BG,0
-2008-03-15,Mitja Valencic,SK,43
-2008-03-15,Kjetil Jansrud,NO,15
-2008-03-15,John Kucera,CA,0
-2008-03-15,Paul McDonald,US,0
-2008-03-15,Min Heuk Kang,KR,0
-2008-03-15,Scott Barrett,CA,0
-2008-03-15,Patrick Biggs,CA,18
-2008-03-15,Alois Vogl,DE,0
-2008-03-15,Christophe Roux,MD,0
-2008-03-15,Lucas Falcoz,FR,0
-2008-03-15,Christian Wanninger,DE,4
-2008-03-15,Magnus Andersson,SE,0
-2008-03-15,Kristian Haug,NO,0
-2008-03-15,Jacopo Di Ronco,IT,0
-2008-03-15,Matija Zavirsek,SK,0
-2008-03-15,Ivan Ratkic,HR,0
-2008-03-15,Petter Brenna,NO,0
-2008-03-15,Kai Alaerts,BE,0
-2008-03-15,Calle Enocson,SE,0
-2008-03-15,Guillem Capdevilla,ES,0
-2008-03-15,Alexandru Barbu,RO,0
-2008-03-15,Sebastien Pichot,FR,0
-2008-03-15,Jeroen Van Den Bogaert,BE,0
-2008-03-15,Andrej Sporn,SK,0
-2008-03-15,Mario Scheiber,AT,0
-2008-03-15,Didier Defago,CH,0
-2008-03-15,Will Brandenburg,US,0
-2008-03-15,Werner Heel,IT,0
-2008-03-15,Edoardo Zardini,IT,0
-2008-03-15,Dominik Gschwenter,AT,0
-2008-03-15,Didier Cuche,CH,0
-2008-03-15,Andrej Krizaj,SK,0
-2008-03-15,Wolfgang Hoerl,AT,67
-2008-03-15,Trevor White,CA,0
-2008-03-15,Markus Vogel,CH,0
-2008-03-15,Andrej Jerman,SK,0
-2008-03-15,Tim Jitloff,US,0
-2008-03-15,Michael Walchhofer,AT,0
-2008-03-15,Natko Zrncic-Dim,HR,0
-2008-03-15,Adrien Theaux,FR,0
-2008-03-15,Alwin De Quartel,NL,0
-2008-03-15,Patrick Staudacher,IT,0
-2008-03-15,Niklas Rainer,SE,0
-2008-03-15,Steve Missillier,FR,91
-2008-03-15,Filip Trejbal,CZ,30
-2008-03-15,Thomas Mermillod,FR,3
-2008-03-15,Akira Sasaki,JP,126
-2008-03-15,Truls Ove Karlsen,NO,18
-2008-03-15,Sandro Viletta,CH,47
-2008-03-15,Andreas Omminger,AT,27
-2008-03-15,Silvan Zurbriggen,CH,47
-2008-03-15,Jimmy Cochran,US,116
-2008-03-15,Aksel-Lund Svindal,NO,20
-2008-03-15,Alexander Koll,AT,37
-2008-03-15,Manfred Pranger,AT,55
-2008-03-15,Rainer Schoenfelder,AT,159
-2008-03-15,Markus Larsson,SE,120
-2008-03-15,Mario Matt,AT,427
-2008-03-15,Kalle Palander,FI,127
-2008-03-15,Marc Gini,CH,171
-2008-03-15,Reinfried Herbst,AT,450
-2008-03-15,Daniel Albrecht,CH,156
-2008-03-15,Marcel Hirscher,AT,167
-2008-03-15,Jean-Baptiste Grange,FR,527
-2008-03-15,Ivica Kostelic,HR,425
-2008-03-15,Andre Myhrer,SE,159
-2008-03-15,Felix Neureuther,DE,387
-2008-03-15,Cristian Deville,IT,235
-2008-03-15,Mauro Caviezel,CH,0
-2008-03-15,Romed Baumann,AT,26
-2008-03-15,Johan Brolenius,SE,115
-2008-03-15,Bernard Vajdic,SK,210
-2008-03-15,Giorgio Rocca,IT,196
-2008-03-15,Julien Lizeroux,FR,389
-2008-03-15,Manfred Moelgg,IT,531
-2008-03-15,Benjamin Raich,AT,358
-2008-03-15,Mitja Dragsic,SK,165
-2008-03-15,Marc Berthod,CH,131
-2008-03-15,Kentaro Minagawa,JP,40
-2008-03-15,Lars Elton Myhre,NO,7
-2008-03-15,Paul Stutz,CA,9
-2008-03-15,Anton Lahdenperae,SE,54
-2008-03-15,Krystof Kryzl,CZ,7
-2008-03-15,Timothy Kelley,US,0
-2008-03-15,Carlo Janka,CH,0
-2008-03-15,Urs Imboden,CH,5
-2008-03-15,Yasuhiro Ikuta,JP,0
-2008-03-15,Alexandr Horoshilov,RU,0
-2008-03-15,Mattias Hargin,SE,80
-2008-03-15,Martin Hansson,SE,31
-2008-03-15,Joel Chenal,FR,22
-2008-03-15,Jens Byggmark,SE,256
-2008-03-15,Bjoergvin Bjoergvinnson,IS,0
-2008-03-15,Alain Baxter,GB,0
-2008-03-15,Noel Baxter,GB,0
-2008-03-15,Alexandre Anselmet,FR,9
-2008-03-15,Oscar Andersson,SE,31
-2008-03-15,Cristian Javier Simari Birkner,AR,0
-2008-03-15,Kilian Albrecht,BG,34
-2008-03-15,Cody B Marshall,US,20
-2008-03-15,Kurt Engl,AT,0
-2008-03-15,Giuliano Razzoli,IT,43
-2008-03-15,Ted Ligety,US,274
-2008-03-15,Thomas Fanara,FR,0
-2008-03-15,Bode Miller,US,68
-2008-03-15,Christoph Dreier,AT,0
-2008-03-15,Matic Skube,SK,0
-2008-03-15,Jonathon Brauer,AU,0
-2008-03-15,Maxime Tissot,FR,0
-2008-03-15,Peter Fill,IT,0
-2008-03-15,Naoki Yuasa,JP,53
-2008-03-15,Fredrik Nordh,SE,0
-2008-03-15,Ondrej Bank,CZ,28
-2008-03-15,Ales Gorza,SK,0
+date,name,ath_country,value,specialty
+2007-11-11,Marc Gini,CH,100,Slalom
+2007-11-11,Ondrej Bank,CZ,0,Combined
+2007-11-11,Stefan Kogler,DE,0,Combined
+2007-11-11,Alexandru Barbu,RO,0,Combined
+2007-11-11,Kentaro Minagawa,JP,0,Slalom
+2007-11-11,Patrick Bechter,AT,0,Combined
+2007-11-11,Marcel Hirscher,AT,0,Slalom
+2007-11-11,Michael Janyk,CA,0,Slalom
+2007-11-11,Hannes Brenner,AT,0,Combined
+2007-11-11,Lucas Falcoz,FR,0,Combined
+2007-11-11,Naoki Yuasa,JP,0,Slalom
+2007-11-11,Christof Innerhofer,IT,0,Super G
+2007-11-11,Filip Trejbal,CZ,0,Slalom
+2007-11-11,Peter Bylund,SE,0,Combined
+2007-11-11,Patrick Thaler,IT,0,Slalom
+2007-11-11,Giuliano Razzoli,IT,0,Slalom
+2007-11-11,Jeroen Van Den Bogaert,BE,0,Combined
+2007-11-11,Martin Vrablik,CZ,0,Combined
+2007-11-11,Ted Ligety,US,0,Giant Slalom
+2007-11-11,Manuel Pescollderungg,IT,0,Combined
+2007-11-11,Wolfgang Hoerl,AT,0,Slalom
+2007-11-11,Guillem Capdevilla,ES,0,Combined
+2007-11-11,Paul McDonald,US,0,Combined
+2007-11-11,Kjetil Jansrud,NO,0,Slalom
+2007-11-11,Felix Neureuther,DE,24,Slalom
+2007-11-11,Min Heuk Kang,KR,0,Combined
+2007-11-11,Kai Alaerts,BE,0,Combined
+2007-11-11,Oscar Andersson,SE,0,Slalom
+2007-11-11,Scott Barrett,CA,0,Combined
+2007-11-11,Cody B Marshall,US,0,Slalom
+2007-11-11,Rainer Schoenfelder,AT,29,Combined
+2007-11-11,Julien Cousineau,CA,0,Combined
+2007-11-11,Calle Enocson,SE,0,Combined
+2007-11-11,Ivica Kostelic,HR,11,Slalom
+2007-11-11,Stefan Georgiev,BG,0,Combined
+2007-11-11,Andreas Omminger,AT,14,Slalom
+2007-11-11,Tuukka Kaukoniemi,FI,0,Combined
+2007-11-11,Bode Miller,US,5,Downhill
+2007-11-11,Anton Lahdenperae,SE,0,Slalom
+2007-11-11,Anthony Obert,FR,0,Combined
+2007-11-11,Sandro Viletta,CH,12,Slalom
+2007-11-11,Martin Hansson,SE,0,Slalom
+2007-11-11,Romed Baumann,AT,8,Combined
+2007-11-11,Aksel-Lund Svindal,NO,20,Giant Slalom
+2007-11-11,Johan Brolenius,SE,0,Slalom
+2007-11-11,Andrej Jerman,SK,0,Downhill
+2007-11-11,Jimmy Cochran,US,18,Slalom
+2007-11-11,Giorgio Rocca,IT,0,Slalom
+2007-11-11,Niklas Rainer,SE,0,Combined
+2007-11-11,Werner Heel,IT,0,Downhill
+2007-11-11,Silvan Zurbriggen,CH,15,Slalom
+2007-11-11,Tim Jitloff,US,0,Combined
+2007-11-11,Akira Sasaki,JP,9,Slalom
+2007-11-11,Mitja Dragsic,SK,0,Slalom
+2007-11-11,Michael Walchhofer,AT,0,Downhill
+2007-11-11,Marc Berthod,CH,0,Giant Slalom
+2007-11-11,Patrick Staudacher,IT,0,Super G
+2007-11-11,Natko Zrncic-Dim,HR,0,Combined
+2007-11-11,Markus Larsson,SE,40,Slalom
+2007-11-11,Adrien Theaux,FR,0,Downhill
+2007-11-11,Bernard Vajdic,SK,16,Slalom
+2007-11-11,Will Brandenburg,US,0,Combined
+2007-11-11,Trevor White,CA,0,Combined
+2007-11-11,Cristian Deville,IT,13,Slalom
+2007-11-11,Manfred Pranger,AT,26,Slalom
+2007-11-11,Kurt Pittschieler,IT,0,Combined
+2007-11-11,Andrej Sporn,SK,0,Combined
+2007-11-11,Joel Chenal,FR,0,Giant Slalom
+2007-11-11,Christophe Roux,MD,0,Combined
+2007-11-11,Pierre Paquin,FR,0,Combined
+2007-11-11,Markus Vogel,CH,0,Combined
+2007-11-11,Andre Myhrer,SE,0,Slalom
+2007-11-11,Mario Scheiber,AT,0,Super G
+2007-11-11,Fritzi Dopfer,DE,0,Combined
+2007-11-11,Alexander Koll,AT,22,Slalom
+2007-11-11,Steve Missillier,FR,0,Slalom
+2007-11-11,Dominik Gschwenter,AT,0,Combined
+2007-11-11,Julien Lizeroux,FR,32,Slalom
+2007-11-11,Didier Defago,CH,0,Super G
+2007-11-11,Mattias Hargin,SE,0,Slalom
+2007-11-11,Didier Cuche,CH,0,Downhill
+2007-11-11,Mitja Valencic,SK,0,Slalom
+2007-11-11,Andrej Krizaj,SK,0,Combined
+2007-11-11,Edoardo Zardini,IT,0,Combined
+2007-11-11,Petter Brenna,NO,0,Combined
+2007-11-11,Daniel Albrecht,CH,4,Giant Slalom
+2007-11-11,Alwin De Quartel,NL,0,Combined
+2007-11-11,Benjamin Raich,AT,36,Giant Slalom
+2007-11-11,Dalibor Samsal,HR,0,Combined
+2007-11-11,Lars Elton Myhre,NO,7,Combined
+2007-11-11,Magnus Andersson,SE,0,Combined
+2007-11-11,Noel Baxter,GB,0,Combined
+2007-11-11,Manfred Moelgg,IT,60,Slalom
+2007-11-11,Jean Philippe Roy,CA,0,Giant Slalom
+2007-11-11,Krystof Kryzl,CZ,0,Combined
+2007-11-11,Jacopo Di Ronco,IT,0,Combined
+2007-11-11,Thomas Fanara,FR,0,Giant Slalom
+2007-11-11,Mauro Caviezel,CH,0,Combined
+2007-11-11,Reinfried Herbst,AT,6,Slalom
+2007-11-11,Sebastien Pichot,FR,0,Giant Slalom
+2007-11-11,Alain Baxter,GB,0,Combined
+2007-11-11,Paul Stutz,CA,3,Combined
+2007-11-11,Kurt Engl,AT,0,Combined
+2007-11-11,Timothy Kelley,US,0,Combined
+2007-11-11,Urs Imboden,CH,0,Slalom
+2007-11-11,Urs Imboden,MD,0,Slalom
+2007-11-11,Jean-Baptiste Grange,FR,50,Slalom
+2007-11-11,Kristian Haug,NO,0,Combined
+2007-11-11,John Kucera,CA,0,Giant Slalom
+2007-11-11,Bjoergvin Bjoergvinnson,IS,0,Combined
+2007-11-11,Carlo Janka,CH,0,Giant Slalom
+2007-11-11,Mario Matt,AT,45,Slalom
+2007-11-11,Yasuhiro Ikuta,JP,0,Combined
+2007-11-11,Thomas Mermillod,FR,0,Giant Slalom
+2007-11-11,Alexandr Horoshilov,RU,0,Combined
+2007-11-11,Christian Wanninger,DE,0,Slalom
+2007-11-11,Matija Zavirsek,SK,0,Combined
+2007-11-11,Jukka Leino,FI,0,Giant Slalom
+2007-11-11,Christoph Dreier,AT,0,Combined
+2007-11-11,Cristian Javier Simari Birkner,AR,0,Combined
+2007-11-11,Kilian Albrecht,BG,0,Slalom
+2007-11-11,Maxime Tissot,FR,0,Combined
+2007-11-11,Jens Byggmark,SE,0,Slalom
+2007-11-11,Peter Fill,IT,0,Downhill
+2007-11-11,Alois Vogl,DE,0,Combined
+2007-11-11,Truls Ove Karlsen,NO,10,Giant Slalom
+2007-11-11,Ivan Ratkic,HR,0,Combined
+2007-11-11,Kalle Palander,FI,80,Giant Slalom
+2007-11-11,Dominik Stehle,DE,0,Combined
+2007-11-11,Patrick Biggs,CA,0,Slalom
+2007-11-11,Fredrik Nordh,SE,0,Combined
+2007-11-11,Ryan Semple,CA,0,Combined
+2007-11-11,Jonathon Brauer,AU,0,Combined
+2007-11-11,Alexandre Anselmet,FR,0,Slalom
+2007-11-11,Matic Skube,SK,0,Combined
+2007-11-11,Marcus Sandell,FI,0,Giant Slalom
+2007-11-11,Ales Gorza,SK,0,Super G
+2007-12-09,Markus Larsson,SE,62,Slalom
+2007-12-09,Jimmy Cochran,US,18,Slalom
+2007-12-09,Mattias Hargin,SE,0,Slalom
+2007-12-09,Christoph Dreier,AT,0,Combined
+2007-12-09,Dominik Gschwenter,AT,0,Combined
+2007-12-09,Bjoergvin Bjoergvinnson,IS,0,Combined
+2007-12-09,Johan Brolenius,SE,0,Slalom
+2007-12-09,Cristian Javier Simari Birkner,AR,0,Combined
+2007-12-09,Steve Missillier,FR,0,Slalom
+2007-12-09,Edoardo Zardini,IT,0,Combined
+2007-12-09,Niklas Rainer,SE,0,Combined
+2007-12-09,Maxime Tissot,FR,0,Combined
+2007-12-09,Adrien Theaux,FR,0,Downhill
+2007-12-09,Bode Miller,US,5,Downhill
+2007-12-09,Natko Zrncic-Dim,HR,0,Combined
+2007-12-09,Thomas Mermillod,FR,0,Giant Slalom
+2007-12-09,Marc Berthod,CH,10,Giant Slalom
+2007-12-09,Andrej Jerman,SK,0,Downhill
+2007-12-09,Akira Sasaki,JP,18,Slalom
+2007-12-09,Noel Baxter,GB,0,Combined
+2007-12-09,Thomas Fanara,FR,0,Giant Slalom
+2007-12-09,Matic Skube,SK,0,Combined
+2007-12-09,Fredrik Nordh,SE,0,Combined
+2007-12-09,Manfred Pranger,AT,55,Slalom
+2007-12-09,Trevor White,CA,0,Combined
+2007-12-09,Peter Fill,IT,0,Downhill
+2007-12-09,Michael Walchhofer,AT,0,Downhill
+2007-12-09,Andrej Krizaj,SK,0,Combined
+2007-12-09,Silvan Zurbriggen,CH,47,Slalom
+2007-12-09,Alain Baxter,GB,0,Combined
+2007-12-09,Jonathon Brauer,AU,0,Combined
+2007-12-09,Mitja Valencic,SK,0,Slalom
+2007-12-09,Didier Cuche,CH,0,Downhill
+2007-12-09,Kurt Engl,AT,0,Combined
+2007-12-09,Tim Jitloff,US,0,Combined
+2007-12-09,Alexander Koll,AT,22,Slalom
+2007-12-09,John Kucera,CA,0,Giant Slalom
+2007-12-09,Alexandr Horoshilov,RU,0,Combined
+2007-12-09,Dalibor Samsal,HR,0,Combined
+2007-12-09,Anthony Obert,FR,0,Combined
+2007-12-09,Jukka Leino,FI,0,Giant Slalom
+2007-12-09,Wolfgang Hoerl,AT,0,Slalom
+2007-12-09,Anton Lahdenperae,SE,0,Slalom
+2007-12-09,Tuukka Kaukoniemi,FI,0,Combined
+2007-12-09,Marcus Sandell,FI,0,Giant Slalom
+2007-12-09,Alexandre Anselmet,FR,0,Slalom
+2007-12-09,Andreas Omminger,AT,14,Slalom
+2007-12-09,Stefan Georgiev,BG,0,Combined
+2007-12-09,Ryan Semple,CA,0,Combined
+2007-12-09,Patrick Biggs,CA,0,Slalom
+2007-12-09,Sandro Viletta,CH,20,Slalom
+2007-12-09,Julien Cousineau,CA,0,Combined
+2007-12-09,Cody B Marshall,US,0,Slalom
+2007-12-09,Scott Barrett,CA,0,Combined
+2007-12-09,Dominik Stehle,DE,0,Combined
+2007-12-09,Oscar Andersson,SE,0,Slalom
+2007-12-09,Truls Ove Karlsen,NO,10,Giant Slalom
+2007-12-09,Min Heuk Kang,KR,0,Combined
+2007-12-09,Kjetil Jansrud,NO,11,Slalom
+2007-12-09,Paul McDonald,US,0,Combined
+2007-12-09,Alois Vogl,DE,0,Combined
+2007-12-09,Kilian Albrecht,BG,0,Slalom
+2007-12-09,Martin Hansson,SE,0,Slalom
+2007-12-09,Manuel Pescollderungg,IT,0,Combined
+2007-12-09,Markus Vogel,CH,0,Combined
+2007-12-09,Ondrej Bank,CZ,0,Combined
+2007-12-09,Stefan Kogler,DE,0,Combined
+2007-12-09,Christian Wanninger,DE,0,Slalom
+2007-12-09,Pierre Paquin,FR,0,Combined
+2007-12-09,Christophe Roux,MD,0,Combined
+2007-12-09,Kurt Pittschieler,IT,0,Combined
+2007-12-09,Yasuhiro Ikuta,JP,0,Combined
+2007-12-09,Carlo Janka,CH,0,Giant Slalom
+2007-12-09,Aksel-Lund Svindal,NO,20,Giant Slalom
+2007-12-09,Fritzi Dopfer,DE,0,Combined
+2007-12-09,Urs Imboden,MD,0,Slalom
+2007-12-09,Urs Imboden,CH,0,Slalom
+2007-12-09,Martin Vrablik,CZ,0,Combined
+2007-12-09,Giuliano Razzoli,IT,0,Slalom
+2007-12-09,Timothy Kelley,US,0,Combined
+2007-12-09,Peter Bylund,SE,0,Combined
+2007-12-09,Paul Stutz,CA,3,Combined
+2007-12-09,Filip Trejbal,CZ,0,Slalom
+2007-12-09,Christof Innerhofer,IT,0,Super G
+2007-12-09,Sebastien Pichot,FR,0,Giant Slalom
+2007-12-09,Naoki Yuasa,JP,0,Slalom
+2007-12-09,Hannes Brenner,AT,0,Combined
+2007-12-09,Krystof Kryzl,CZ,0,Combined
+2007-12-09,Michael Janyk,CA,0,Slalom
+2007-12-09,Patrick Bechter,AT,0,Combined
+2007-12-09,Kentaro Minagawa,JP,15,Slalom
+2007-12-09,Jean Philippe Roy,CA,0,Giant Slalom
+2007-12-09,Lars Elton Myhre,NO,7,Combined
+2007-12-09,Romed Baumann,AT,26,Combined
+2007-12-09,Joel Chenal,FR,0,Giant Slalom
+2007-12-09,Calle Enocson,SE,0,Combined
+2007-12-09,Lucas Falcoz,FR,0,Combined
+2007-12-09,Patrick Thaler,IT,50,Slalom
+2007-12-09,Patrick Staudacher,IT,0,Super G
+2007-12-09,Kai Alaerts,BE,0,Combined
+2007-12-09,Alexandru Barbu,RO,0,Combined
+2007-12-09,Mario Matt,AT,45,Slalom
+2007-12-09,Magnus Andersson,SE,0,Combined
+2007-12-09,Mauro Caviezel,CH,0,Combined
+2007-12-09,Giorgio Rocca,IT,0,Slalom
+2007-12-09,Felix Neureuther,DE,48,Slalom
+2007-12-09,Mitja Dragsic,SK,12,Slalom
+2007-12-09,Jean-Baptiste Grange,FR,76,Slalom
+2007-12-09,Werner Heel,IT,0,Downhill
+2007-12-09,Will Brandenburg,US,0,Combined
+2007-12-09,Jacopo Di Ronco,IT,0,Combined
+2007-12-09,Andre Myhrer,SE,20,Slalom
+2007-12-09,Petter Brenna,NO,0,Combined
+2007-12-09,Guillem Capdevilla,ES,0,Combined
+2007-12-09,Jeroen Van Den Bogaert,BE,0,Combined
+2007-12-09,Reinfried Herbst,AT,46,Slalom
+2007-12-09,Ales Gorza,SK,0,Super G
+2007-12-09,Kalle Palander,FI,80,Giant Slalom
+2007-12-09,Cristian Deville,IT,58,Slalom
+2007-12-09,Bernard Vajdic,SK,16,Slalom
+2007-12-09,Alwin De Quartel,NL,0,Combined
+2007-12-09,Didier Defago,CH,0,Super G
+2007-12-09,Kristian Haug,NO,0,Combined
+2007-12-09,Andrej Sporn,SK,0,Combined
+2007-12-09,Daniel Albrecht,CH,19,Giant Slalom
+2007-12-09,Ted Ligety,US,0,Giant Slalom
+2007-12-09,Julien Lizeroux,FR,48,Slalom
+2007-12-09,Marc Gini,CH,113,Slalom
+2007-12-09,Marcel Hirscher,AT,7,Slalom
+2007-12-09,Matija Zavirsek,SK,0,Combined
+2007-12-09,Rainer Schoenfelder,AT,29,Combined
+2007-12-09,Jens Byggmark,SE,80,Slalom
+2007-12-09,Mario Scheiber,AT,0,Super G
+2007-12-09,Benjamin Raich,AT,136,Giant Slalom
+2007-12-09,Ivica Kostelic,HR,47,Slalom
+2007-12-09,Ivan Ratkic,HR,0,Combined
+2007-12-09,Manfred Moelgg,IT,120,Slalom
+2007-12-17,Stefan Georgiev,BG,0,Combined
+2007-12-17,Kurt Pittschieler,IT,0,Combined
+2007-12-17,Magnus Andersson,SE,0,Combined
+2007-12-17,Joel Chenal,FR,0,Giant Slalom
+2007-12-17,Krystof Kryzl,CZ,0,Combined
+2007-12-17,Thomas Mermillod,FR,0,Giant Slalom
+2007-12-17,Tuukka Kaukoniemi,FI,0,Combined
+2007-12-17,Jean Philippe Roy,CA,0,Giant Slalom
+2007-12-17,Didier Defago,CH,0,Super G
+2007-12-17,Scott Barrett,CA,0,Combined
+2007-12-17,Steve Missillier,FR,0,Slalom
+2007-12-17,Alain Baxter,GB,0,Combined
+2007-12-17,Alexander Koll,AT,37,Slalom
+2007-12-17,Cody B Marshall,US,0,Slalom
+2007-12-17,Kurt Engl,AT,0,Combined
+2007-12-17,Ivica Kostelic,HR,65,Slalom
+2007-12-17,Calle Enocson,SE,0,Combined
+2007-12-17,Mario Scheiber,AT,0,Super G
+2007-12-17,Andre Myhrer,SE,29,Slalom
+2007-12-17,Pierre Paquin,FR,22,Combined
+2007-12-17,Julien Cousineau,CA,0,Combined
+2007-12-17,Bjoergvin Bjoergvinnson,IS,0,Combined
+2007-12-17,Sandro Viletta,CH,20,Slalom
+2007-12-17,Christophe Roux,MD,0,Combined
+2007-12-17,Markus Vogel,CH,0,Combined
+2007-12-17,Andrej Sporn,SK,0,Combined
+2007-12-17,Martin Vrablik,CZ,0,Combined
+2007-12-17,Andreas Omminger,AT,14,Slalom
+2007-12-17,Patrick Thaler,IT,72,Slalom
+2007-12-17,Carlo Janka,CH,0,Giant Slalom
+2007-12-17,Anthony Obert,FR,0,Combined
+2007-12-17,Naoki Yuasa,JP,0,Slalom
+2007-12-17,Hannes Brenner,AT,0,Combined
+2007-12-17,Lucas Falcoz,FR,0,Combined
+2007-12-17,Manuel Pescollderungg,IT,0,Combined
+2007-12-17,Timothy Kelley,US,0,Combined
+2007-12-17,Michael Janyk,CA,8,Slalom
+2007-12-17,Reinfried Herbst,AT,96,Slalom
+2007-12-17,Marcel Hirscher,AT,7,Slalom
+2007-12-17,Alexandru Barbu,RO,0,Combined
+2007-12-17,Patrick Bechter,AT,0,Combined
+2007-12-17,Ondrej Bank,CZ,13,Combined
+2007-12-17,Urs Imboden,MD,0,Slalom
+2007-12-17,Urs Imboden,CH,0,Slalom
+2007-12-17,Kentaro Minagawa,JP,15,Slalom
+2007-12-17,Mario Matt,AT,45,Slalom
+2007-12-17,Aksel-Lund Svindal,NO,20,Giant Slalom
+2007-12-17,Christof Innerhofer,IT,0,Super G
+2007-12-17,Filip Trejbal,CZ,0,Slalom
+2007-12-17,Fritzi Dopfer,DE,0,Combined
+2007-12-17,Rainer Schoenfelder,AT,29,Combined
+2007-12-17,Alexandr Horoshilov,RU,0,Combined
+2007-12-17,Romed Baumann,AT,26,Combined
+2007-12-17,Daniel Albrecht,CH,29,Giant Slalom
+2007-12-17,Sebastien Pichot,FR,0,Giant Slalom
+2007-12-17,Guillem Capdevilla,ES,0,Combined
+2007-12-17,Christian Wanninger,DE,0,Slalom
+2007-12-17,Anton Lahdenperae,SE,12,Slalom
+2007-12-17,Giuliano Razzoli,IT,0,Slalom
+2007-12-17,Jacopo Di Ronco,IT,0,Combined
+2007-12-17,Peter Bylund,SE,0,Combined
+2007-12-17,Kristian Haug,NO,0,Combined
+2007-12-17,Jeroen Van Den Bogaert,BE,0,Combined
+2007-12-17,Yasuhiro Ikuta,JP,0,Combined
+2007-12-17,Wolfgang Hoerl,AT,0,Slalom
+2007-12-17,Ted Ligety,US,60,Giant Slalom
+2007-12-17,Paul Stutz,CA,3,Combined
+2007-12-17,Lars Elton Myhre,NO,7,Combined
+2007-12-17,Edoardo Zardini,IT,0,Combined
+2007-12-17,Stefan Kogler,DE,0,Combined
+2007-12-17,Giorgio Rocca,IT,14,Slalom
+2007-12-17,Werner Heel,IT,0,Downhill
+2007-12-17,Michael Walchhofer,AT,0,Downhill
+2007-12-17,Kalle Palander,FI,120,Giant Slalom
+2007-12-17,Andrej Jerman,SK,0,Downhill
+2007-12-17,Martin Hansson,SE,0,Slalom
+2007-12-17,Matic Skube,SK,0,Combined
+2007-12-17,Felix Neureuther,DE,128,Slalom
+2007-12-17,Cristian Javier Simari Birkner,AR,0,Combined
+2007-12-17,Manfred Moelgg,IT,131,Slalom
+2007-12-17,Johan Brolenius,SE,16,Slalom
+2007-12-17,Trevor White,CA,0,Combined
+2007-12-17,Jens Byggmark,SE,80,Slalom
+2007-12-17,Jukka Leino,FI,0,Giant Slalom
+2007-12-17,Truls Ove Karlsen,NO,10,Giant Slalom
+2007-12-17,Jean-Baptiste Grange,FR,176,Slalom
+2007-12-17,Bernard Vajdic,SK,61,Slalom
+2007-12-17,Jimmy Cochran,US,50,Slalom
+2007-12-17,Kilian Albrecht,BG,0,Slalom
+2007-12-17,Mitja Dragsic,SK,12,Slalom
+2007-12-17,Alois Vogl,DE,0,Combined
+2007-12-17,Ales Gorza,SK,0,Super G
+2007-12-17,Tim Jitloff,US,0,Combined
+2007-12-17,Patrick Staudacher,IT,0,Super G
+2007-12-17,Alexandre Anselmet,FR,0,Slalom
+2007-12-17,Fredrik Nordh,SE,0,Combined
+2007-12-17,Silvan Zurbriggen,CH,47,Slalom
+2007-12-17,Marc Berthod,CH,10,Giant Slalom
+2007-12-17,Marcus Sandell,FI,0,Giant Slalom
+2007-12-17,Petter Brenna,NO,0,Combined
+2007-12-17,John Kucera,CA,0,Giant Slalom
+2007-12-17,Jonathon Brauer,AU,0,Combined
+2007-12-17,Niklas Rainer,SE,0,Combined
+2007-12-17,Paul McDonald,US,0,Combined
+2007-12-17,Natko Zrncic-Dim,HR,0,Combined
+2007-12-17,Akira Sasaki,JP,44,Slalom
+2007-12-17,Markus Larsson,SE,62,Slalom
+2007-12-17,Min Heuk Kang,KR,0,Combined
+2007-12-17,Dominik Stehle,DE,0,Combined
+2007-12-17,Adrien Theaux,FR,0,Downhill
+2007-12-17,Didier Cuche,CH,0,Downhill
+2007-12-17,Oscar Andersson,SE,0,Slalom
+2007-12-17,Dalibor Samsal,HR,0,Combined
+2007-12-17,Thomas Fanara,FR,0,Giant Slalom
+2007-12-17,Benjamin Raich,AT,136,Giant Slalom
+2007-12-17,Maxime Tissot,FR,0,Combined
+2007-12-17,Matija Zavirsek,SK,0,Combined
+2007-12-17,Patrick Biggs,CA,0,Slalom
+2007-12-17,Julien Lizeroux,FR,77,Slalom
+2007-12-17,Mattias Hargin,SE,0,Slalom
+2007-12-17,Dominik Gschwenter,AT,0,Combined
+2007-12-17,Bode Miller,US,5,Downhill
+2007-12-17,Mitja Valencic,SK,0,Slalom
+2007-12-17,Cristian Deville,IT,82,Slalom
+2007-12-17,Alwin De Quartel,NL,0,Combined
+2007-12-17,Mauro Caviezel,CH,0,Combined
+2007-12-17,Marc Gini,CH,149,Slalom
+2007-12-17,Ivan Ratkic,HR,0,Combined
+2007-12-17,Andrej Krizaj,SK,0,Combined
+2007-12-17,Kai Alaerts,BE,0,Combined
+2007-12-17,Ryan Semple,CA,0,Combined
+2007-12-17,Will Brandenburg,US,0,Combined
+2007-12-17,Peter Fill,IT,0,Downhill
+2007-12-17,Manfred Pranger,AT,55,Slalom
+2007-12-17,Noel Baxter,GB,0,Combined
+2007-12-17,Kjetil Jansrud,NO,11,Slalom
+2007-12-17,Christoph Dreier,AT,0,Combined
+2008-01-06,Ted Ligety,US,60,Giant Slalom
+2008-01-06,Paul Stutz,CA,3,Combined
+2008-01-06,Manuel Pescollderungg,IT,0,Combined
+2008-01-06,Jacopo Di Ronco,IT,0,Combined
+2008-01-06,Ondrej Bank,CZ,28,Combined
+2008-01-06,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-01-06,Kalle Palander,FI,120,Giant Slalom
+2008-01-06,Alexandru Barbu,RO,0,Combined
+2008-01-06,Ivan Ratkic,HR,0,Combined
+2008-01-06,Anthony Obert,FR,0,Combined
+2008-01-06,Timothy Kelley,US,0,Combined
+2008-01-06,Alexandre Anselmet,FR,9,Slalom
+2008-01-06,Dominik Stehle,DE,0,Combined
+2008-01-06,Matija Zavirsek,SK,0,Combined
+2008-01-06,Petter Brenna,NO,0,Combined
+2008-01-06,Calle Enocson,SE,0,Combined
+2008-01-06,Manfred Moelgg,IT,181,Slalom
+2008-01-06,Scott Barrett,CA,0,Combined
+2008-01-06,Lars Elton Myhre,NO,7,Combined
+2008-01-06,Cody B Marshall,US,0,Slalom
+2008-01-06,Ivica Kostelic,HR,105,Slalom
+2008-01-06,Oscar Andersson,SE,0,Slalom
+2008-01-06,Min Heuk Kang,KR,0,Combined
+2008-01-06,Jean Philippe Roy,CA,0,Giant Slalom
+2008-01-06,Sandro Viletta,CH,20,Slalom
+2008-01-06,Dalibor Samsal,HR,0,Combined
+2008-01-06,Kai Alaerts,BE,0,Combined
+2008-01-06,Julien Cousineau,CA,0,Combined
+2008-01-06,Kjetil Jansrud,NO,11,Slalom
+2008-01-06,Reinfried Herbst,AT,96,Slalom
+2008-01-06,Paul McDonald,US,0,Combined
+2008-01-06,Jukka Leino,FI,0,Giant Slalom
+2008-01-06,Wolfgang Hoerl,AT,0,Slalom
+2008-01-06,Alois Vogl,DE,0,Combined
+2008-01-06,Marcus Sandell,FI,0,Giant Slalom
+2008-01-06,Kilian Albrecht,BG,7,Slalom
+2008-01-06,Tuukka Kaukoniemi,FI,0,Combined
+2008-01-06,Guillem Capdevilla,ES,0,Combined
+2008-01-06,Jens Byggmark,SE,96,Slalom
+2008-01-06,Anton Lahdenperae,SE,12,Slalom
+2008-01-06,Sebastien Pichot,FR,0,Giant Slalom
+2008-01-06,Felix Neureuther,DE,188,Slalom
+2008-01-06,Andreas Omminger,AT,14,Slalom
+2008-01-06,Krystof Kryzl,CZ,0,Combined
+2008-01-06,Stefan Georgiev,BG,0,Combined
+2008-01-06,Martin Hansson,SE,10,Slalom
+2008-01-06,John Kucera,CA,0,Giant Slalom
+2008-01-06,Daniel Albrecht,CH,29,Giant Slalom
+2008-01-06,Peter Bylund,SE,0,Combined
+2008-01-06,Ryan Semple,CA,0,Combined
+2008-01-06,Julien Lizeroux,FR,113,Slalom
+2008-01-06,Mitja Dragsic,SK,16,Slalom
+2008-01-06,Edoardo Zardini,IT,0,Combined
+2008-01-06,Steve Missillier,FR,14,Slalom
+2008-01-06,Didier Defago,CH,0,Super G
+2008-01-06,Stefan Kogler,DE,0,Combined
+2008-01-06,Alain Baxter,GB,0,Combined
+2008-01-06,Alexander Koll,AT,37,Slalom
+2008-01-06,Tim Jitloff,US,0,Combined
+2008-01-06,Kurt Engl,AT,0,Combined
+2008-01-06,Ales Gorza,SK,0,Super G
+2008-01-06,Markus Vogel,CH,0,Combined
+2008-01-06,Mario Scheiber,AT,0,Super G
+2008-01-06,Pierre Paquin,FR,22,Combined
+2008-01-06,Magnus Andersson,SE,0,Combined
+2008-01-06,Christophe Roux,MD,0,Combined
+2008-01-06,Andre Myhrer,SE,49,Slalom
+2008-01-06,Joel Chenal,FR,22,Giant Slalom
+2008-01-06,Andrej Jerman,SK,0,Downhill
+2008-01-06,Dominik Gschwenter,AT,0,Combined
+2008-01-06,Mattias Hargin,SE,11,Slalom
+2008-01-06,Thomas Fanara,FR,0,Giant Slalom
+2008-01-06,Akira Sasaki,JP,49,Slalom
+2008-01-06,Werner Heel,IT,0,Downhill
+2008-01-06,Giorgio Rocca,IT,40,Slalom
+2008-01-06,Benjamin Raich,AT,216,Giant Slalom
+2008-01-06,Trevor White,CA,0,Combined
+2008-01-06,Cristian Javier Simari Birkner,AR,0,Combined
+2008-01-06,Niklas Rainer,SE,0,Combined
+2008-01-06,Matic Skube,SK,0,Combined
+2008-01-06,Johan Brolenius,SE,16,Slalom
+2008-01-06,Christoph Dreier,AT,0,Combined
+2008-01-06,Maxime Tissot,FR,0,Combined
+2008-01-06,Silvan Zurbriggen,CH,47,Slalom
+2008-01-06,Manfred Pranger,AT,55,Slalom
+2008-01-06,Fredrik Nordh,SE,0,Combined
+2008-01-06,Mauro Caviezel,CH,0,Combined
+2008-01-06,Andrej Krizaj,SK,0,Combined
+2008-01-06,Will Brandenburg,US,0,Combined
+2008-01-06,Noel Baxter,GB,0,Combined
+2008-01-06,Mitja Valencic,SK,0,Slalom
+2008-01-06,Patrick Staudacher,IT,0,Super G
+2008-01-06,Didier Cuche,CH,0,Downhill
+2008-01-06,Cristian Deville,IT,82,Slalom
+2008-01-06,Marc Gini,CH,149,Slalom
+2008-01-06,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-01-06,Michael Walchhofer,AT,0,Downhill
+2008-01-06,Marc Berthod,CH,10,Giant Slalom
+2008-01-06,Yasuhiro Ikuta,JP,0,Combined
+2008-01-06,Jeroen Van Den Bogaert,BE,0,Combined
+2008-01-06,Peter Fill,IT,0,Downhill
+2008-01-06,Filip Trejbal,CZ,0,Slalom
+2008-01-06,Christof Innerhofer,IT,0,Super G
+2008-01-06,Carlo Janka,CH,0,Giant Slalom
+2008-01-06,Naoki Yuasa,JP,12,Slalom
+2008-01-06,Markus Larsson,SE,75,Slalom
+2008-01-06,Patrick Thaler,IT,72,Slalom
+2008-01-06,Hannes Brenner,AT,0,Combined
+2008-01-06,Adrien Theaux,FR,0,Downhill
+2008-01-06,Urs Imboden,MD,0,Slalom
+2008-01-06,Michael Janyk,CA,14,Slalom
+2008-01-06,Urs Imboden,CH,0,Slalom
+2008-01-06,Patrick Bechter,AT,0,Combined
+2008-01-06,Lucas Falcoz,FR,0,Combined
+2008-01-06,Marcel Hirscher,AT,36,Slalom
+2008-01-06,Bode Miller,US,5,Downhill
+2008-01-06,Kentaro Minagawa,JP,15,Slalom
+2008-01-06,Alwin De Quartel,NL,0,Combined
+2008-01-06,Patrick Biggs,CA,0,Slalom
+2008-01-06,Kristian Haug,NO,0,Combined
+2008-01-06,Bernard Vajdic,SK,85,Slalom
+2008-01-06,Kurt Pittschieler,IT,0,Combined
+2008-01-06,Andrej Sporn,SK,0,Combined
+2008-01-06,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-01-06,Jonathon Brauer,AU,0,Combined
+2008-01-06,Thomas Mermillod,FR,3,Giant Slalom
+2008-01-06,Jean-Baptiste Grange,FR,176,Slalom
+2008-01-06,Fritzi Dopfer,DE,0,Combined
+2008-01-06,Natko Zrncic-Dim,HR,0,Combined
+2008-01-06,Mario Matt,AT,145,Slalom
+2008-01-06,Jimmy Cochran,US,82,Slalom
+2008-01-06,Giuliano Razzoli,IT,18,Slalom
+2008-01-06,Rainer Schoenfelder,AT,79,Combined
+2008-01-06,Alexandr Horoshilov,RU,0,Combined
+2008-01-06,Christian Wanninger,DE,0,Slalom
+2008-01-06,Martin Vrablik,CZ,0,Combined
+2008-01-06,Romed Baumann,AT,26,Combined
+2008-01-12,Kalle Palander,FI,120,Giant Slalom
+2008-01-12,Marcus Sandell,FI,0,Giant Slalom
+2008-01-12,Ivan Ratkic,HR,0,Combined
+2008-01-12,Peter Fill,IT,0,Downhill
+2008-01-12,Jonathon Brauer,AU,0,Combined
+2008-01-12,Fredrik Nordh,SE,0,Combined
+2008-01-12,Marc Gini,CH,165,Slalom
+2008-01-12,Alexandre Anselmet,FR,9,Slalom
+2008-01-12,Matic Skube,SK,0,Combined
+2008-01-12,Ales Gorza,SK,0,Super G
+2008-01-12,Jacopo Di Ronco,IT,0,Combined
+2008-01-12,Cristian Javier Simari Birkner,AR,0,Combined
+2008-01-12,Mario Matt,AT,145,Slalom
+2008-01-12,Urs Imboden,CH,0,Slalom
+2008-01-12,Urs Imboden,MD,0,Slalom
+2008-01-12,Carlo Janka,CH,0,Giant Slalom
+2008-01-12,Timothy Kelley,US,0,Combined
+2008-01-12,Paul Stutz,CA,3,Combined
+2008-01-12,Yasuhiro Ikuta,JP,0,Combined
+2008-01-12,Kristian Haug,NO,0,Combined
+2008-01-12,Reinfried Herbst,AT,125,Slalom
+2008-01-12,Christian Wanninger,DE,0,Slalom
+2008-01-12,Alexandr Horoshilov,RU,0,Combined
+2008-01-12,Sebastien Pichot,FR,0,Giant Slalom
+2008-01-12,Krystof Kryzl,CZ,0,Combined
+2008-01-12,Manfred Moelgg,IT,205,Slalom
+2008-01-12,Thomas Mermillod,FR,3,Giant Slalom
+2008-01-12,Matija Zavirsek,SK,0,Combined
+2008-01-12,Magnus Andersson,SE,0,Combined
+2008-01-12,Jean Philippe Roy,CA,0,Giant Slalom
+2008-01-12,Lars Elton Myhre,NO,7,Combined
+2008-01-12,Kurt Engl,AT,0,Combined
+2008-01-12,Alain Baxter,GB,0,Combined
+2008-01-12,Benjamin Raich,AT,216,Giant Slalom
+2008-01-12,Thomas Fanara,FR,0,Giant Slalom
+2008-01-12,Noel Baxter,GB,0,Combined
+2008-01-12,Mauro Caviezel,CH,0,Combined
+2008-01-12,Dalibor Samsal,HR,0,Combined
+2008-01-12,Jukka Leino,FI,0,Giant Slalom
+2008-01-12,Christoph Dreier,AT,0,Combined
+2008-01-12,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-01-12,Jean-Baptiste Grange,FR,276,Slalom
+2008-01-12,Maxime Tissot,FR,0,Combined
+2008-01-12,Ryan Semple,CA,0,Combined
+2008-01-12,Giuliano Razzoli,IT,18,Slalom
+2008-01-12,Patrick Thaler,IT,80,Slalom
+2008-01-12,Johan Brolenius,SE,16,Slalom
+2008-01-12,Christof Innerhofer,IT,0,Super G
+2008-01-12,Jeroen Van Den Bogaert,BE,0,Combined
+2008-01-12,Filip Trejbal,CZ,0,Slalom
+2008-01-12,Giorgio Rocca,IT,72,Slalom
+2008-01-12,Hannes Brenner,AT,0,Combined
+2008-01-12,Naoki Yuasa,JP,12,Slalom
+2008-01-12,Marcel Hirscher,AT,36,Slalom
+2008-01-12,Patrick Biggs,CA,0,Slalom
+2008-01-12,Werner Heel,IT,0,Downhill
+2008-01-12,Patrick Bechter,AT,0,Combined
+2008-01-12,Lucas Falcoz,FR,0,Combined
+2008-01-12,Trevor White,CA,0,Combined
+2008-01-12,Stefan Kogler,DE,0,Combined
+2008-01-12,Kentaro Minagawa,JP,15,Slalom
+2008-01-12,Jimmy Cochran,US,82,Slalom
+2008-01-12,Ondrej Bank,CZ,28,Combined
+2008-01-12,Steve Missillier,FR,14,Slalom
+2008-01-12,Manuel Pescollderungg,IT,0,Combined
+2008-01-12,Alexandru Barbu,RO,0,Combined
+2008-01-12,Michael Janyk,CA,28,Slalom
+2008-01-12,Anthony Obert,FR,0,Combined
+2008-01-12,Peter Bylund,SE,0,Combined
+2008-01-12,Andrej Krizaj,SK,0,Combined
+2008-01-12,Julien Lizeroux,FR,153,Slalom
+2008-01-12,Didier Defago,CH,0,Super G
+2008-01-12,Dominik Gschwenter,AT,0,Combined
+2008-01-12,Mattias Hargin,SE,29,Slalom
+2008-01-12,Alexander Koll,AT,37,Slalom
+2008-01-12,Markus Vogel,CH,0,Combined
+2008-01-12,Mario Scheiber,AT,0,Super G
+2008-01-12,Pierre Paquin,FR,22,Combined
+2008-01-12,Christophe Roux,MD,0,Combined
+2008-01-12,Mitja Valencic,SK,0,Slalom
+2008-01-12,Manfred Pranger,AT,55,Slalom
+2008-01-12,Joel Chenal,FR,22,Giant Slalom
+2008-01-12,Didier Cuche,CH,0,Downhill
+2008-01-12,Kurt Pittschieler,IT,0,Combined
+2008-01-12,Andre Myhrer,SE,99,Slalom
+2008-01-12,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-01-12,Fritzi Dopfer,DE,0,Combined
+2008-01-12,Rainer Schoenfelder,AT,94,Combined
+2008-01-12,Andrej Sporn,SK,0,Combined
+2008-01-12,Romed Baumann,AT,26,Combined
+2008-01-12,Cristian Deville,IT,104,Slalom
+2008-01-12,Martin Vrablik,CZ,0,Combined
+2008-01-12,Will Brandenburg,US,0,Combined
+2008-01-12,Niklas Rainer,SE,0,Combined
+2008-01-12,Andrej Jerman,SK,0,Downhill
+2008-01-12,Wolfgang Hoerl,AT,0,Slalom
+2008-01-12,Calle Enocson,SE,0,Combined
+2008-01-12,Marc Berthod,CH,17,Giant Slalom
+2008-01-12,Oscar Andersson,SE,10,Slalom
+2008-01-12,Ted Ligety,US,120,Giant Slalom
+2008-01-12,Michael Walchhofer,AT,0,Downhill
+2008-01-12,Felix Neureuther,DE,199,Slalom
+2008-01-12,Kjetil Jansrud,NO,11,Slalom
+2008-01-12,Paul McDonald,US,0,Combined
+2008-01-12,Kai Alaerts,BE,0,Combined
+2008-01-12,John Kucera,CA,0,Giant Slalom
+2008-01-12,Scott Barrett,CA,0,Combined
+2008-01-12,Markus Larsson,SE,75,Slalom
+2008-01-12,Natko Zrncic-Dim,HR,0,Combined
+2008-01-12,Alois Vogl,DE,0,Combined
+2008-01-12,Petter Brenna,NO,0,Combined
+2008-01-12,Alwin De Quartel,NL,0,Combined
+2008-01-12,Kilian Albrecht,BG,7,Slalom
+2008-01-12,Jens Byggmark,SE,176,Slalom
+2008-01-12,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-01-12,Bernard Vajdic,SK,105,Slalom
+2008-01-12,Dominik Stehle,DE,0,Combined
+2008-01-12,Adrien Theaux,FR,0,Downhill
+2008-01-12,Martin Hansson,SE,10,Slalom
+2008-01-12,Mitja Dragsic,SK,16,Slalom
+2008-01-12,Min Heuk Kang,KR,0,Combined
+2008-01-12,Cody B Marshall,US,12,Slalom
+2008-01-12,Tuukka Kaukoniemi,FI,0,Combined
+2008-01-12,Anton Lahdenperae,SE,21,Slalom
+2008-01-12,Bode Miller,US,50,Downhill
+2008-01-12,Guillem Capdevilla,ES,0,Combined
+2008-01-12,Andreas Omminger,AT,27,Slalom
+2008-01-12,Stefan Georgiev,BG,0,Combined
+2008-01-12,Daniel Albrecht,CH,65,Giant Slalom
+2008-01-12,Patrick Staudacher,IT,0,Super G
+2008-01-12,Silvan Zurbriggen,CH,47,Slalom
+2008-01-12,Edoardo Zardini,IT,0,Combined
+2008-01-12,Tim Jitloff,US,0,Combined
+2008-01-12,Ivica Kostelic,HR,131,Slalom
+2008-01-12,Sandro Viletta,CH,20,Slalom
+2008-01-12,Akira Sasaki,JP,49,Slalom
+2008-01-12,Julien Cousineau,CA,0,Combined
+2008-01-20,Andrej Jerman,SK,0,Downhill
+2008-01-20,Niklas Rainer,SE,0,Combined
+2008-01-20,Fredrik Nordh,SE,0,Combined
+2008-01-20,Werner Heel,IT,0,Downhill
+2008-01-20,Dominik Gschwenter,AT,0,Combined
+2008-01-20,Natko Zrncic-Dim,HR,0,Combined
+2008-01-20,Will Brandenburg,US,0,Combined
+2008-01-20,Cristian Javier Simari Birkner,AR,0,Combined
+2008-01-20,Michael Walchhofer,AT,0,Downhill
+2008-01-20,Mauro Caviezel,CH,0,Combined
+2008-01-20,Ales Gorza,SK,0,Super G
+2008-01-20,Andrej Krizaj,SK,0,Combined
+2008-01-20,Tim Jitloff,US,0,Combined
+2008-01-20,Alwin De Quartel,NL,0,Combined
+2008-01-20,Didier Cuche,CH,0,Downhill
+2008-01-20,Peter Fill,IT,0,Downhill
+2008-01-20,Patrick Staudacher,IT,0,Super G
+2008-01-20,Trevor White,CA,0,Combined
+2008-01-20,Noel Baxter,GB,0,Combined
+2008-01-20,Alexandr Horoshilov,RU,0,Combined
+2008-01-20,Didier Defago,CH,0,Super G
+2008-01-20,Timothy Kelley,US,0,Combined
+2008-01-20,Stefan Georgiev,BG,0,Combined
+2008-01-20,Guillem Capdevilla,ES,0,Combined
+2008-01-20,Matija Zavirsek,SK,0,Combined
+2008-01-20,Sebastien Pichot,FR,0,Giant Slalom
+2008-01-20,Julien Cousineau,CA,0,Combined
+2008-01-20,Jean Philippe Roy,CA,0,Giant Slalom
+2008-01-20,Scott Barrett,CA,0,Combined
+2008-01-20,Min Heuk Kang,KR,0,Combined
+2008-01-20,Tuukka Kaukoniemi,FI,0,Combined
+2008-01-20,Calle Enocson,SE,0,Combined
+2008-01-20,Kai Alaerts,BE,0,Combined
+2008-01-20,John Kucera,CA,0,Giant Slalom
+2008-01-20,Dalibor Samsal,HR,0,Combined
+2008-01-20,Ivan Ratkic,HR,0,Combined
+2008-01-20,Alois Vogl,DE,0,Combined
+2008-01-20,Marcus Sandell,FI,0,Giant Slalom
+2008-01-20,Petter Brenna,NO,0,Combined
+2008-01-20,Dominik Stehle,DE,0,Combined
+2008-01-20,Ryan Semple,CA,0,Combined
+2008-01-20,Paul McDonald,US,0,Combined
+2008-01-20,Alexandru Barbu,RO,0,Combined
+2008-01-20,Anthony Obert,FR,0,Combined
+2008-01-20,Manuel Pescollderungg,IT,0,Combined
+2008-01-20,Alain Baxter,GB,0,Combined
+2008-01-20,Markus Vogel,CH,0,Combined
+2008-01-20,Magnus Andersson,SE,0,Combined
+2008-01-20,Christophe Roux,MD,0,Combined
+2008-01-20,Mario Scheiber,AT,0,Super G
+2008-01-20,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-01-20,Kurt Pittschieler,IT,0,Combined
+2008-01-20,Fritzi Dopfer,DE,0,Combined
+2008-01-20,Martin Vrablik,CZ,0,Combined
+2008-01-20,Andrej Sporn,SK,0,Combined
+2008-01-20,Peter Bylund,SE,0,Combined
+2008-01-20,Kristian Haug,NO,0,Combined
+2008-01-20,Christof Innerhofer,IT,0,Super G
+2008-01-20,Yasuhiro Ikuta,JP,0,Combined
+2008-01-20,Jeroen Van Den Bogaert,BE,0,Combined
+2008-01-20,Hannes Brenner,AT,0,Combined
+2008-01-20,Patrick Bechter,AT,0,Combined
+2008-01-20,Stefan Kogler,DE,0,Combined
+2008-01-20,Lucas Falcoz,FR,0,Combined
+2008-01-20,Jacopo Di Ronco,IT,0,Combined
+2008-01-20,Carlo Janka,CH,0,Giant Slalom
+2008-01-20,Edoardo Zardini,IT,0,Combined
+2008-01-20,Adrien Theaux,FR,0,Downhill
+2008-01-20,Maxime Tissot,FR,0,Combined
+2008-01-20,Bode Miller,US,68,Downhill
+2008-01-20,Urs Imboden,CH,0,Slalom
+2008-01-20,Urs Imboden,MD,0,Slalom
+2008-01-20,Jens Byggmark,SE,256,Slalom
+2008-01-20,Andreas Omminger,AT,27,Slalom
+2008-01-20,Mitja Dragsic,SK,16,Slalom
+2008-01-20,Anton Lahdenperae,SE,21,Slalom
+2008-01-20,Kalle Palander,FI,127,Giant Slalom
+2008-01-20,Bernard Vajdic,SK,119,Slalom
+2008-01-20,Wolfgang Hoerl,AT,11,Slalom
+2008-01-20,Sandro Viletta,CH,33,Slalom
+2008-01-20,Christian Wanninger,DE,0,Slalom
+2008-01-20,Ondrej Bank,CZ,28,Combined
+2008-01-20,Markus Larsson,SE,75,Slalom
+2008-01-20,Kentaro Minagawa,JP,15,Slalom
+2008-01-20,Thomas Mermillod,FR,3,Giant Slalom
+2008-01-20,Reinfried Herbst,AT,145,Slalom
+2008-01-20,Marc Berthod,CH,17,Giant Slalom
+2008-01-20,Michael Janyk,CA,44,Slalom
+2008-01-20,Kurt Engl,AT,0,Combined
+2008-01-20,Naoki Yuasa,JP,12,Slalom
+2008-01-20,Manfred Moelgg,IT,231,Slalom
+2008-01-20,Akira Sasaki,JP,64,Slalom
+2008-01-20,Giorgio Rocca,IT,72,Slalom
+2008-01-20,Cristian Deville,IT,116,Slalom
+2008-01-20,Ted Ligety,US,152,Giant Slalom
+2008-01-20,Marcel Hirscher,AT,36,Slalom
+2008-01-20,Patrick Biggs,CA,10,Slalom
+2008-01-20,Jukka Leino,FI,0,Giant Slalom
+2008-01-20,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-01-20,Patrick Thaler,IT,89,Slalom
+2008-01-20,Kilian Albrecht,BG,7,Slalom
+2008-01-20,Daniel Albrecht,CH,65,Giant Slalom
+2008-01-20,Rainer Schoenfelder,AT,139,Combined
+2008-01-20,Cody B Marshall,US,12,Slalom
+2008-01-20,Lars Elton Myhre,NO,7,Combined
+2008-01-20,Ivica Kostelic,HR,160,Slalom
+2008-01-20,Andre Myhrer,SE,121,Slalom
+2008-01-20,Steve Missillier,FR,38,Slalom
+2008-01-20,Krystof Kryzl,CZ,0,Combined
+2008-01-20,Kjetil Jansrud,NO,11,Slalom
+2008-01-20,Julien Lizeroux,FR,203,Slalom
+2008-01-20,Oscar Andersson,SE,10,Slalom
+2008-01-20,Felix Neureuther,DE,239,Slalom
+2008-01-20,Paul Stutz,CA,9,Combined
+2008-01-20,Martin Hansson,SE,10,Slalom
+2008-01-20,Mario Matt,AT,205,Slalom
+2008-01-20,Alexandre Anselmet,FR,9,Slalom
+2008-01-20,Silvan Zurbriggen,CH,47,Slalom
+2008-01-20,Matic Skube,SK,0,Combined
+2008-01-20,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-01-20,Joel Chenal,FR,22,Giant Slalom
+2008-01-20,Benjamin Raich,AT,252,Giant Slalom
+2008-01-20,Johan Brolenius,SE,24,Slalom
+2008-01-20,Jean-Baptiste Grange,FR,376,Slalom
+2008-01-20,Mitja Valencic,SK,0,Slalom
+2008-01-20,Romed Baumann,AT,26,Combined
+2008-01-20,Christoph Dreier,AT,0,Combined
+2008-01-20,Pierre Paquin,FR,22,Combined
+2008-01-20,Jimmy Cochran,US,82,Slalom
+2008-01-20,Jonathon Brauer,AU,0,Combined
+2008-01-20,Giuliano Razzoli,IT,23,Slalom
+2008-01-20,Mattias Hargin,SE,29,Slalom
+2008-01-20,Marc Gini,CH,165,Slalom
+2008-01-20,Manfred Pranger,AT,55,Slalom
+2008-01-20,Thomas Fanara,FR,0,Giant Slalom
+2008-01-20,Filip Trejbal,CZ,0,Slalom
+2008-01-20,Alexander Koll,AT,37,Slalom
+2008-01-22,Dominik Stehle,DE,0,Combined
+2008-01-22,Kurt Pittschieler,IT,0,Combined
+2008-01-22,Paul McDonald,US,0,Combined
+2008-01-22,Didier Defago,CH,0,Super G
+2008-01-22,Mattias Hargin,SE,29,Slalom
+2008-01-22,Julien Lizeroux,FR,243,Slalom
+2008-01-22,Marcel Hirscher,AT,47,Slalom
+2008-01-22,Joel Chenal,FR,22,Giant Slalom
+2008-01-22,Oscar Andersson,SE,19,Slalom
+2008-01-22,Edoardo Zardini,IT,0,Combined
+2008-01-22,Min Heuk Kang,KR,0,Combined
+2008-01-22,Manfred Pranger,AT,55,Slalom
+2008-01-22,Will Brandenburg,US,0,Combined
+2008-01-22,Lucas Falcoz,FR,0,Combined
+2008-01-22,Didier Cuche,CH,0,Downhill
+2008-01-22,Kjetil Jansrud,NO,11,Slalom
+2008-01-22,Patrick Biggs,CA,18,Slalom
+2008-01-22,Andre Myhrer,SE,121,Slalom
+2008-01-22,Alexander Koll,AT,37,Slalom
+2008-01-22,Dominik Gschwenter,AT,0,Combined
+2008-01-22,Kilian Albrecht,BG,12,Slalom
+2008-01-22,Andrej Sporn,SK,0,Combined
+2008-01-22,Christophe Roux,MD,0,Combined
+2008-01-22,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-01-22,Alois Vogl,DE,0,Combined
+2008-01-22,Patrick Thaler,IT,103,Slalom
+2008-01-22,Rainer Schoenfelder,AT,159,Combined
+2008-01-22,Jeroen Van Den Bogaert,BE,0,Combined
+2008-01-22,Mario Scheiber,AT,0,Super G
+2008-01-22,Pierre Paquin,FR,22,Combined
+2008-01-22,John Kucera,CA,0,Giant Slalom
+2008-01-22,Mitja Valencic,SK,0,Slalom
+2008-01-22,Ryan Semple,CA,0,Combined
+2008-01-22,Markus Vogel,CH,0,Combined
+2008-01-22,Cody B Marshall,US,12,Slalom
+2008-01-22,Martin Hansson,SE,10,Slalom
+2008-01-22,Andrej Krizaj,SK,0,Combined
+2008-01-22,Scott Barrett,CA,0,Combined
+2008-01-22,Peter Bylund,SE,0,Combined
+2008-01-22,Manuel Pescollderungg,IT,0,Combined
+2008-01-22,Natko Zrncic-Dim,HR,0,Combined
+2008-01-22,Markus Larsson,SE,111,Slalom
+2008-01-22,Jimmy Cochran,US,104,Slalom
+2008-01-22,Giuliano Razzoli,IT,23,Slalom
+2008-01-22,Kentaro Minagawa,JP,28,Slalom
+2008-01-22,Stefan Kogler,DE,0,Combined
+2008-01-22,Michael Walchhofer,AT,0,Downhill
+2008-01-22,Ondrej Bank,CZ,28,Combined
+2008-01-22,Marc Berthod,CH,41,Giant Slalom
+2008-01-22,Christof Innerhofer,IT,0,Super G
+2008-01-22,Michael Janyk,CA,50,Slalom
+2008-01-22,Filip Trejbal,CZ,12,Slalom
+2008-01-22,Patrick Bechter,AT,0,Combined
+2008-01-22,Tim Jitloff,US,0,Combined
+2008-01-22,Naoki Yuasa,JP,19,Slalom
+2008-01-22,Akira Sasaki,JP,90,Slalom
+2008-01-22,Silvan Zurbriggen,CH,47,Slalom
+2008-01-22,Hannes Brenner,AT,0,Combined
+2008-01-22,Andrej Jerman,SK,0,Downhill
+2008-01-22,Bode Miller,US,68,Downhill
+2008-01-22,Trevor White,CA,0,Combined
+2008-01-22,Marcus Sandell,FI,0,Giant Slalom
+2008-01-22,Werner Heel,IT,0,Downhill
+2008-01-22,Sandro Viletta,CH,33,Slalom
+2008-01-22,Niklas Rainer,SE,0,Combined
+2008-01-22,Fritzi Dopfer,DE,0,Combined
+2008-01-22,Julien Cousineau,CA,0,Combined
+2008-01-22,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-01-22,Giorgio Rocca,IT,72,Slalom
+2008-01-22,Patrick Staudacher,IT,0,Super G
+2008-01-22,Andreas Omminger,AT,27,Slalom
+2008-01-22,Johan Brolenius,SE,24,Slalom
+2008-01-22,Stefan Georgiev,BG,0,Combined
+2008-01-22,Mitja Dragsic,SK,16,Slalom
+2008-01-22,Alwin De Quartel,NL,0,Combined
+2008-01-22,Martin Vrablik,CZ,0,Combined
+2008-01-22,Anton Lahdenperae,SE,31,Slalom
+2008-01-22,Tuukka Kaukoniemi,FI,0,Combined
+2008-01-22,Bernard Vajdic,SK,135,Slalom
+2008-01-22,Romed Baumann,AT,26,Combined
+2008-01-22,Adrien Theaux,FR,0,Downhill
+2008-01-22,Wolfgang Hoerl,AT,26,Slalom
+2008-01-22,Anthony Obert,FR,0,Combined
+2008-01-22,Cristian Deville,IT,116,Slalom
+2008-01-22,Maxime Tissot,FR,0,Combined
+2008-01-22,Steve Missillier,FR,56,Slalom
+2008-01-22,Alexandr Horoshilov,RU,0,Combined
+2008-01-22,Lars Elton Myhre,NO,7,Combined
+2008-01-22,Matic Skube,SK,0,Combined
+2008-01-22,Fredrik Nordh,SE,0,Combined
+2008-01-22,Felix Neureuther,DE,284,Slalom
+2008-01-22,Reinfried Herbst,AT,145,Slalom
+2008-01-22,Ivica Kostelic,HR,189,Slalom
+2008-01-22,Urs Imboden,MD,0,Slalom
+2008-01-22,Magnus Andersson,SE,0,Combined
+2008-01-22,Jacopo Di Ronco,IT,0,Combined
+2008-01-22,Urs Imboden,CH,0,Slalom
+2008-01-22,Sebastien Pichot,FR,0,Giant Slalom
+2008-01-22,Christoph Dreier,AT,0,Combined
+2008-01-22,Jean Philippe Roy,CA,0,Giant Slalom
+2008-01-22,Cristian Javier Simari Birkner,AR,0,Combined
+2008-01-22,Krystof Kryzl,CZ,0,Combined
+2008-01-22,Carlo Janka,CH,0,Giant Slalom
+2008-01-22,Calle Enocson,SE,0,Combined
+2008-01-22,Jean-Baptiste Grange,FR,456,Slalom
+2008-01-22,Alain Baxter,GB,0,Combined
+2008-01-22,Kurt Engl,AT,0,Combined
+2008-01-22,Kristian Haug,NO,0,Combined
+2008-01-22,Timothy Kelley,US,0,Combined
+2008-01-22,Paul Stutz,CA,9,Combined
+2008-01-22,Thomas Fanara,FR,0,Giant Slalom
+2008-01-22,Noel Baxter,GB,0,Combined
+2008-01-22,Mario Matt,AT,305,Slalom
+2008-01-22,Jens Byggmark,SE,256,Slalom
+2008-01-22,Guillem Capdevilla,ES,0,Combined
+2008-01-22,Petter Brenna,NO,0,Combined
+2008-01-22,Daniel Albrecht,CH,65,Giant Slalom
+2008-01-22,Christian Wanninger,DE,0,Slalom
+2008-01-22,Alexandre Anselmet,FR,9,Slalom
+2008-01-22,Ivan Ratkic,HR,0,Combined
+2008-01-22,Ted Ligety,US,202,Giant Slalom
+2008-01-22,Ales Gorza,SK,0,Super G
+2008-01-22,Kalle Palander,FI,127,Giant Slalom
+2008-01-22,Alexandru Barbu,RO,0,Combined
+2008-01-22,Marc Gini,CH,165,Slalom
+2008-01-22,Manfred Moelgg,IT,291,Slalom
+2008-01-22,Thomas Mermillod,FR,3,Giant Slalom
+2008-01-22,Jonathon Brauer,AU,0,Combined
+2008-01-22,Dalibor Samsal,HR,0,Combined
+2008-01-22,Peter Fill,IT,0,Downhill
+2008-01-22,Matija Zavirsek,SK,0,Combined
+2008-01-22,Kai Alaerts,BE,0,Combined
+2008-01-22,Jukka Leino,FI,0,Giant Slalom
+2008-01-22,Benjamin Raich,AT,284,Giant Slalom
+2008-01-22,Mauro Caviezel,CH,0,Combined
+2008-01-22,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-01-22,Yasuhiro Ikuta,JP,0,Combined
+2008-02-09,Matija Zavirsek,SK,0,Combined
+2008-02-09,Christian Wanninger,DE,4,Slalom
+2008-02-09,Niklas Rainer,SE,0,Combined
+2008-02-09,Thomas Mermillod,FR,3,Giant Slalom
+2008-02-09,Natko Zrncic-Dim,HR,0,Combined
+2008-02-09,Akira Sasaki,JP,90,Slalom
+2008-02-09,Hannes Brenner,AT,0,Combined
+2008-02-09,Mario Matt,AT,305,Slalom
+2008-02-09,Jacopo Di Ronco,IT,0,Combined
+2008-02-09,Kurt Engl,AT,0,Combined
+2008-02-09,Stefan Kogler,DE,0,Combined
+2008-02-09,Naoki Yuasa,JP,19,Slalom
+2008-02-09,Kentaro Minagawa,JP,40,Slalom
+2008-02-09,Tim Jitloff,US,0,Combined
+2008-02-09,Patrick Bechter,AT,0,Combined
+2008-02-09,Michael Walchhofer,AT,0,Downhill
+2008-02-09,Ondrej Bank,CZ,28,Combined
+2008-02-09,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-02-09,Marc Berthod,CH,41,Giant Slalom
+2008-02-09,Alain Baxter,GB,0,Combined
+2008-02-09,Manuel Pescollderungg,IT,0,Combined
+2008-02-09,Michael Janyk,CA,50,Slalom
+2008-02-09,Markus Larsson,SE,120,Slalom
+2008-02-09,Reinfried Herbst,AT,245,Slalom
+2008-02-09,Manfred Moelgg,IT,371,Slalom
+2008-02-09,Alexandre Anselmet,FR,9,Slalom
+2008-02-09,Filip Trejbal,CZ,30,Slalom
+2008-02-09,Matic Skube,SK,0,Combined
+2008-02-09,Kurt Pittschieler,IT,0,Combined
+2008-02-09,Didier Cuche,CH,0,Downhill
+2008-02-09,Mauro Caviezel,CH,0,Combined
+2008-02-09,Mitja Valencic,SK,29,Slalom
+2008-02-09,Marc Gini,CH,165,Slalom
+2008-02-09,Pierre Paquin,FR,22,Combined
+2008-02-09,Peter Fill,IT,0,Downhill
+2008-02-09,Joel Chenal,FR,22,Giant Slalom
+2008-02-09,Christophe Roux,MD,0,Combined
+2008-02-09,Jonathon Brauer,AU,0,Combined
+2008-02-09,Mattias Hargin,SE,55,Slalom
+2008-02-09,Alexander Koll,AT,37,Slalom
+2008-02-09,Ales Gorza,SK,0,Super G
+2008-02-09,Markus Vogel,CH,0,Combined
+2008-02-09,Edoardo Zardini,IT,0,Combined
+2008-02-09,Maxime Tissot,FR,0,Combined
+2008-02-09,Steve Missillier,FR,56,Slalom
+2008-02-09,Dominik Gschwenter,AT,0,Combined
+2008-02-09,Manfred Pranger,AT,55,Slalom
+2008-02-09,Fredrik Nordh,SE,0,Combined
+2008-02-09,Fritzi Dopfer,DE,0,Combined
+2008-02-09,Thomas Fanara,FR,0,Giant Slalom
+2008-02-09,Christof Innerhofer,IT,0,Super G
+2008-02-09,Silvan Zurbriggen,CH,47,Slalom
+2008-02-09,Andrej Jerman,SK,0,Downhill
+2008-02-09,Kristian Haug,NO,0,Combined
+2008-02-09,Anthony Obert,FR,0,Combined
+2008-02-09,Jean-Baptiste Grange,FR,462,Slalom
+2008-02-09,Peter Bylund,SE,0,Combined
+2008-02-09,Jimmy Cochran,US,104,Slalom
+2008-02-09,Trevor White,CA,0,Combined
+2008-02-09,Cristian Javier Simari Birkner,AR,0,Combined
+2008-02-09,Romed Baumann,AT,26,Combined
+2008-02-09,Christoph Dreier,AT,0,Combined
+2008-02-09,Martin Vrablik,CZ,0,Combined
+2008-02-09,Johan Brolenius,SE,56,Slalom
+2008-02-09,Magnus Andersson,SE,0,Combined
+2008-02-09,Andrej Krizaj,SK,0,Combined
+2008-02-09,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-02-09,Benjamin Raich,AT,308,Giant Slalom
+2008-02-09,Noel Baxter,GB,0,Combined
+2008-02-09,Giuliano Razzoli,IT,33,Slalom
+2008-02-09,Bode Miller,US,68,Downhill
+2008-02-09,Felix Neureuther,DE,298,Slalom
+2008-02-09,Martin Hansson,SE,21,Slalom
+2008-02-09,Ivica Kostelic,HR,249,Slalom
+2008-02-09,John Kucera,CA,0,Giant Slalom
+2008-02-09,Sebastien Pichot,FR,0,Giant Slalom
+2008-02-09,Kjetil Jansrud,NO,11,Slalom
+2008-02-09,Krystof Kryzl,CZ,7,Combined
+2008-02-09,Didier Defago,CH,0,Super G
+2008-02-09,Paul McDonald,US,0,Combined
+2008-02-09,Guillem Capdevilla,ES,0,Combined
+2008-02-09,Calle Enocson,SE,0,Combined
+2008-02-09,Alexandr Horoshilov,RU,0,Combined
+2008-02-09,Oscar Andersson,SE,19,Slalom
+2008-02-09,Timothy Kelley,US,0,Combined
+2008-02-09,Min Heuk Kang,KR,0,Combined
+2008-02-09,Will Brandenburg,US,0,Combined
+2008-02-09,Cristian Deville,IT,166,Slalom
+2008-02-09,Paul Stutz,CA,9,Combined
+2008-02-09,Cody B Marshall,US,12,Slalom
+2008-02-09,Julien Lizeroux,FR,288,Slalom
+2008-02-09,Kai Alaerts,BE,0,Combined
+2008-02-09,Mario Scheiber,AT,0,Super G
+2008-02-09,Lars Elton Myhre,NO,7,Combined
+2008-02-09,Marcus Sandell,FI,0,Giant Slalom
+2008-02-09,Lucas Falcoz,FR,0,Combined
+2008-02-09,Ted Ligety,US,238,Giant Slalom
+2008-02-09,Marcel Hirscher,AT,47,Slalom
+2008-02-09,Patrick Biggs,CA,18,Slalom
+2008-02-09,Alexandru Barbu,RO,0,Combined
+2008-02-09,Dalibor Samsal,HR,0,Combined
+2008-02-09,Ryan Semple,CA,0,Combined
+2008-02-09,Rainer Schoenfelder,AT,159,Combined
+2008-02-09,Jeroen Van Den Bogaert,BE,0,Combined
+2008-02-09,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-02-09,Jukka Leino,FI,8,Giant Slalom
+2008-02-09,Dominik Stehle,DE,0,Combined
+2008-02-09,Daniel Albrecht,CH,65,Giant Slalom
+2008-02-09,Andrej Sporn,SK,0,Combined
+2008-02-09,Kilian Albrecht,BG,17,Slalom
+2008-02-09,Jean Philippe Roy,CA,0,Giant Slalom
+2008-02-09,Alois Vogl,DE,0,Combined
+2008-02-09,Patrick Thaler,IT,123,Slalom
+2008-02-09,Scott Barrett,CA,0,Combined
+2008-02-09,Andre Myhrer,SE,121,Slalom
+2008-02-09,Tuukka Kaukoniemi,FI,0,Combined
+2008-02-09,Yasuhiro Ikuta,JP,0,Combined
+2008-02-09,Stefan Georgiev,BG,0,Combined
+2008-02-09,Urs Imboden,MD,0,Slalom
+2008-02-09,Petter Brenna,NO,0,Combined
+2008-02-09,Urs Imboden,CH,0,Slalom
+2008-02-09,Andreas Omminger,AT,27,Slalom
+2008-02-09,Anton Lahdenperae,SE,46,Slalom
+2008-02-09,Mitja Dragsic,SK,56,Slalom
+2008-02-09,Kalle Palander,FI,127,Giant Slalom
+2008-02-09,Patrick Staudacher,IT,0,Super G
+2008-02-09,Julien Cousineau,CA,0,Combined
+2008-02-09,Carlo Janka,CH,0,Giant Slalom
+2008-02-09,Bernard Vajdic,SK,157,Slalom
+2008-02-09,Alwin De Quartel,NL,0,Combined
+2008-02-09,Adrien Theaux,FR,0,Downhill
+2008-02-09,Wolfgang Hoerl,AT,39,Slalom
+2008-02-09,Sandro Viletta,CH,33,Slalom
+2008-02-09,Giorgio Rocca,IT,88,Slalom
+2008-02-09,Werner Heel,IT,0,Downhill
+2008-02-09,Ivan Ratkic,HR,0,Combined
+2008-02-09,Jens Byggmark,SE,256,Slalom
+2008-02-17,Daniel Albrecht,CH,65,Giant Slalom
+2008-02-17,Edoardo Zardini,IT,0,Combined
+2008-02-17,Petter Brenna,NO,0,Combined
+2008-02-17,Adrien Theaux,FR,0,Downhill
+2008-02-17,Bernard Vajdic,SK,181,Slalom
+2008-02-17,Markus Larsson,SE,120,Slalom
+2008-02-17,Lucas Falcoz,FR,0,Combined
+2008-02-17,Michael Walchhofer,AT,0,Downhill
+2008-02-17,Didier Cuche,CH,0,Downhill
+2008-02-17,Andrej Sporn,SK,0,Combined
+2008-02-17,Alexandru Barbu,RO,0,Combined
+2008-02-17,Mauro Caviezel,CH,0,Combined
+2008-02-17,Ales Gorza,SK,0,Super G
+2008-02-17,Natko Zrncic-Dim,HR,0,Combined
+2008-02-17,Kalle Palander,FI,127,Giant Slalom
+2008-02-17,Ted Ligety,US,238,Giant Slalom
+2008-02-17,Patrick Thaler,IT,141,Slalom
+2008-02-17,Manfred Pranger,AT,55,Slalom
+2008-02-17,Jeroen Van Den Bogaert,BE,0,Combined
+2008-02-17,Dominik Gschwenter,AT,0,Combined
+2008-02-17,Bode Miller,US,68,Downhill
+2008-02-17,Marcel Hirscher,AT,47,Slalom
+2008-02-17,Manfred Moelgg,IT,391,Slalom
+2008-02-17,Marc Gini,CH,171,Slalom
+2008-02-17,Mattias Hargin,SE,64,Slalom
+2008-02-17,Mitja Valencic,SK,43,Slalom
+2008-02-17,Jacopo Di Ronco,IT,0,Combined
+2008-02-17,Benjamin Raich,AT,313,Giant Slalom
+2008-02-17,Rainer Schoenfelder,AT,159,Combined
+2008-02-17,Kristian Haug,NO,0,Combined
+2008-02-17,Julien Lizeroux,FR,320,Slalom
+2008-02-17,Tim Jitloff,US,0,Combined
+2008-02-17,Felix Neureuther,DE,327,Slalom
+2008-02-17,Andrej Jerman,SK,0,Downhill
+2008-02-17,Silvan Zurbriggen,CH,47,Slalom
+2008-02-17,Jean-Baptiste Grange,FR,462,Slalom
+2008-02-17,Will Brandenburg,US,0,Combined
+2008-02-17,Cristian Deville,IT,181,Slalom
+2008-02-17,Giorgio Rocca,IT,138,Slalom
+2008-02-17,Jens Byggmark,SE,256,Slalom
+2008-02-17,Mario Matt,AT,405,Slalom
+2008-02-17,Niklas Rainer,SE,0,Combined
+2008-02-17,Kai Alaerts,BE,0,Combined
+2008-02-17,Akira Sasaki,JP,126,Slalom
+2008-02-17,Alwin De Quartel,NL,0,Combined
+2008-02-17,Calle Enocson,SE,0,Combined
+2008-02-17,Patrick Staudacher,IT,0,Super G
+2008-02-17,Mario Scheiber,AT,0,Super G
+2008-02-17,Werner Heel,IT,0,Downhill
+2008-02-17,Magnus Andersson,SE,0,Combined
+2008-02-17,Guillem Capdevilla,ES,0,Combined
+2008-02-17,Andrej Krizaj,SK,0,Combined
+2008-02-17,Matija Zavirsek,SK,0,Combined
+2008-02-17,Jimmy Cochran,US,116,Slalom
+2008-02-17,Johan Brolenius,SE,82,Slalom
+2008-02-17,Ivica Kostelic,HR,329,Slalom
+2008-02-17,Andre Myhrer,SE,121,Slalom
+2008-02-17,Didier Defago,CH,0,Super G
+2008-02-17,Reinfried Herbst,AT,305,Slalom
+2008-02-17,Mitja Dragsic,SK,101,Slalom
+2008-02-17,Trevor White,CA,0,Combined
+2008-02-17,Marc Berthod,CH,81,Giant Slalom
+2008-02-17,Ivan Ratkic,HR,0,Combined
+2008-02-17,Kurt Pittschieler,IT,0,Combined
+2008-02-17,Hannes Brenner,AT,0,Combined
+2008-02-17,Alexandre Anselmet,FR,9,Slalom
+2008-02-17,Dalibor Samsal,HR,0,Combined
+2008-02-17,Jukka Leino,FI,8,Giant Slalom
+2008-02-17,Kentaro Minagawa,JP,40,Slalom
+2008-02-17,Stefan Kogler,DE,0,Combined
+2008-02-17,Jean Philippe Roy,CA,0,Giant Slalom
+2008-02-17,Lars Elton Myhre,NO,7,Combined
+2008-02-17,Michael Janyk,CA,50,Slalom
+2008-02-17,Patrick Bechter,AT,0,Combined
+2008-02-17,Sebastien Pichot,FR,0,Giant Slalom
+2008-02-17,Krystof Kryzl,CZ,7,Combined
+2008-02-17,Naoki Yuasa,JP,35,Slalom
+2008-02-17,Timothy Kelley,US,0,Combined
+2008-02-17,Paul Stutz,CA,9,Combined
+2008-02-17,Filip Trejbal,CZ,30,Slalom
+2008-02-17,Christof Innerhofer,IT,0,Super G
+2008-02-17,Carlo Janka,CH,0,Giant Slalom
+2008-02-17,Yasuhiro Ikuta,JP,0,Combined
+2008-02-17,Urs Imboden,CH,0,Slalom
+2008-02-17,Giuliano Razzoli,IT,33,Slalom
+2008-02-17,Peter Bylund,SE,0,Combined
+2008-02-17,Manuel Pescollderungg,IT,0,Combined
+2008-02-17,Urs Imboden,MD,0,Slalom
+2008-02-17,Ondrej Bank,CZ,28,Combined
+2008-02-17,Patrick Biggs,CA,18,Slalom
+2008-02-17,Scott Barrett,CA,0,Combined
+2008-02-17,Min Heuk Kang,KR,0,Combined
+2008-02-17,Oscar Andersson,SE,19,Slalom
+2008-02-17,Sandro Viletta,CH,40,Slalom
+2008-02-17,Julien Cousineau,CA,0,Combined
+2008-02-17,Paul McDonald,US,0,Combined
+2008-02-17,Kjetil Jansrud,NO,15,Slalom
+2008-02-17,Steve Missillier,FR,78,Slalom
+2008-02-17,Andreas Omminger,AT,27,Slalom
+2008-02-17,John Kucera,CA,0,Giant Slalom
+2008-02-17,Stefan Georgiev,BG,0,Combined
+2008-02-17,Martin Hansson,SE,31,Slalom
+2008-02-17,Anton Lahdenperae,SE,46,Slalom
+2008-02-17,Alois Vogl,DE,0,Combined
+2008-02-17,Kilian Albrecht,BG,28,Slalom
+2008-02-17,Tuukka Kaukoniemi,FI,0,Combined
+2008-02-17,Dominik Stehle,DE,0,Combined
+2008-02-17,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-02-17,Wolfgang Hoerl,AT,52,Slalom
+2008-02-17,Anthony Obert,FR,0,Combined
+2008-02-17,Ryan Semple,CA,0,Combined
+2008-02-17,Marcus Sandell,FI,0,Giant Slalom
+2008-02-17,Alexandr Horoshilov,RU,0,Combined
+2008-02-17,Cody B Marshall,US,20,Slalom
+2008-02-17,Christian Wanninger,DE,4,Slalom
+2008-02-17,Cristian Javier Simari Birkner,AR,0,Combined
+2008-02-17,Joel Chenal,FR,22,Giant Slalom
+2008-02-17,Christoph Dreier,AT,0,Combined
+2008-02-17,Pierre Paquin,FR,22,Combined
+2008-02-17,Thomas Fanara,FR,0,Giant Slalom
+2008-02-17,Noel Baxter,GB,0,Combined
+2008-02-17,Christophe Roux,MD,0,Combined
+2008-02-17,Fredrik Nordh,SE,0,Combined
+2008-02-17,Kurt Engl,AT,0,Combined
+2008-02-17,Fritzi Dopfer,DE,0,Combined
+2008-02-17,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-02-17,Matic Skube,SK,0,Combined
+2008-02-17,Alexander Koll,AT,37,Slalom
+2008-02-17,Markus Vogel,CH,0,Combined
+2008-02-17,Alain Baxter,GB,0,Combined
+2008-02-17,Thomas Mermillod,FR,3,Giant Slalom
+2008-02-17,Martin Vrablik,CZ,0,Combined
+2008-02-17,Peter Fill,IT,0,Downhill
+2008-02-17,Maxime Tissot,FR,0,Combined
+2008-02-17,Romed Baumann,AT,26,Combined
+2008-02-17,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-02-17,Jonathon Brauer,AU,0,Combined
+2008-03-09,Marc Gini,CH,171,Slalom
+2008-03-09,Patrick Thaler,IT,141,Slalom
+2008-03-09,Dominik Stehle,DE,0,Combined
+2008-03-09,Magnus Andersson,SE,0,Combined
+2008-03-09,Oscar Andersson,SE,31,Slalom
+2008-03-09,Maxime Tissot,FR,0,Combined
+2008-03-09,Andrej Sporn,SK,0,Combined
+2008-03-09,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-03-09,Min Heuk Kang,KR,0,Combined
+2008-03-09,Ryan Semple,CA,0,Combined
+2008-03-09,Jeroen Van Den Bogaert,BE,0,Combined
+2008-03-09,Cristian Deville,IT,213,Slalom
+2008-03-09,Christoph Dreier,AT,0,Combined
+2008-03-09,Kilian Albrecht,BG,34,Slalom
+2008-03-09,Will Brandenburg,US,0,Combined
+2008-03-09,Fredrik Nordh,SE,0,Combined
+2008-03-09,Kjetil Jansrud,NO,15,Slalom
+2008-03-09,Didier Defago,CH,0,Super G
+2008-03-09,Andre Myhrer,SE,141,Slalom
+2008-03-09,Mauro Caviezel,CH,0,Combined
+2008-03-09,Peter Fill,IT,0,Downhill
+2008-03-09,Matic Skube,SK,0,Combined
+2008-03-09,Benjamin Raich,AT,313,Giant Slalom
+2008-03-09,Martin Hansson,SE,31,Slalom
+2008-03-09,Mario Scheiber,AT,0,Super G
+2008-03-09,Jonathon Brauer,AU,0,Combined
+2008-03-09,Rainer Schoenfelder,AT,159,Combined
+2008-03-09,Alois Vogl,DE,0,Combined
+2008-03-09,Julien Lizeroux,FR,349,Slalom
+2008-03-09,Paul McDonald,US,0,Combined
+2008-03-09,Jean-Baptiste Grange,FR,512,Slalom
+2008-03-09,Patrick Biggs,CA,18,Slalom
+2008-03-09,Lucas Falcoz,FR,0,Combined
+2008-03-09,Marcus Sandell,FI,0,Giant Slalom
+2008-03-09,Timothy Kelley,US,0,Combined
+2008-03-09,Felix Neureuther,DE,367,Slalom
+2008-03-09,Reinfried Herbst,AT,350,Slalom
+2008-03-09,Thomas Mermillod,FR,3,Giant Slalom
+2008-03-09,Paul Stutz,CA,9,Combined
+2008-03-09,Kai Alaerts,BE,0,Combined
+2008-03-09,Jens Byggmark,SE,256,Slalom
+2008-03-09,Matija Zavirsek,SK,0,Combined
+2008-03-09,Calle Enocson,SE,0,Combined
+2008-03-09,Carlo Janka,CH,0,Giant Slalom
+2008-03-09,Yasuhiro Ikuta,JP,0,Combined
+2008-03-09,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-03-09,Petter Brenna,NO,0,Combined
+2008-03-09,Kalle Palander,FI,127,Giant Slalom
+2008-03-09,Manfred Moelgg,IT,491,Slalom
+2008-03-09,Christian Wanninger,DE,4,Slalom
+2008-03-09,Urs Imboden,CH,0,Slalom
+2008-03-09,Alexandr Horoshilov,RU,0,Combined
+2008-03-09,Urs Imboden,MD,5,Slalom
+2008-03-09,Cody B Marshall,US,20,Slalom
+2008-03-09,Krystof Kryzl,CZ,7,Combined
+2008-03-09,Alain Baxter,GB,0,Combined
+2008-03-09,Cristian Javier Simari Birkner,AR,0,Combined
+2008-03-09,Kristian Haug,NO,0,Combined
+2008-03-09,Ivan Ratkic,HR,0,Combined
+2008-03-09,Thomas Fanara,FR,0,Giant Slalom
+2008-03-09,Alexandre Anselmet,FR,9,Slalom
+2008-03-09,Ted Ligety,US,274,Giant Slalom
+2008-03-09,Dalibor Samsal,HR,0,Combined
+2008-03-09,Alexandru Barbu,RO,0,Combined
+2008-03-09,Noel Baxter,GB,0,Combined
+2008-03-09,Mario Matt,AT,427,Slalom
+2008-03-09,Jukka Leino,FI,8,Giant Slalom
+2008-03-09,Jean Philippe Roy,CA,0,Giant Slalom
+2008-03-09,Daniel Albrecht,CH,76,Giant Slalom
+2008-03-09,Jacopo Di Ronco,IT,0,Combined
+2008-03-09,Kurt Engl,AT,0,Combined
+2008-03-09,Lars Elton Myhre,NO,7,Combined
+2008-03-09,Guillem Capdevilla,ES,0,Combined
+2008-03-09,Sebastien Pichot,FR,0,Giant Slalom
+2008-03-09,Ivica Kostelic,HR,409,Slalom
+2008-03-09,Marcel Hirscher,AT,107,Slalom
+2008-03-09,Steve Missillier,FR,91,Slalom
+2008-03-09,John Kucera,CA,0,Giant Slalom
+2008-03-09,Joel Chenal,FR,22,Giant Slalom
+2008-03-09,Markus Larsson,SE,120,Slalom
+2008-03-09,Andrej Krizaj,SK,0,Combined
+2008-03-09,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-03-09,Kentaro Minagawa,JP,40,Slalom
+2008-03-09,Fritzi Dopfer,DE,0,Combined
+2008-03-09,Manuel Pescollderungg,IT,0,Combined
+2008-03-09,Ondrej Bank,CZ,28,Combined
+2008-03-09,Natko Zrncic-Dim,HR,0,Combined
+2008-03-09,Manfred Pranger,AT,55,Slalom
+2008-03-09,Bode Miller,US,68,Downhill
+2008-03-09,Didier Cuche,CH,0,Downhill
+2008-03-09,Anthony Obert,FR,0,Combined
+2008-03-09,Ales Gorza,SK,0,Super G
+2008-03-09,Wolfgang Hoerl,AT,67,Slalom
+2008-03-09,Adrien Theaux,FR,0,Downhill
+2008-03-09,Michael Walchhofer,AT,0,Downhill
+2008-03-09,Stefan Kogler,DE,0,Combined
+2008-03-09,Johan Brolenius,SE,91,Slalom
+2008-03-09,Marc Berthod,CH,105,Giant Slalom
+2008-03-09,Silvan Zurbriggen,CH,47,Slalom
+2008-03-09,Christof Innerhofer,IT,0,Super G
+2008-03-09,Filip Trejbal,CZ,30,Slalom
+2008-03-09,Giuliano Razzoli,IT,43,Slalom
+2008-03-09,Peter Bylund,SE,0,Combined
+2008-03-09,Hannes Brenner,AT,0,Combined
+2008-03-09,Niklas Rainer,SE,0,Combined
+2008-03-09,Bernard Vajdic,SK,181,Slalom
+2008-03-09,Jimmy Cochran,US,116,Slalom
+2008-03-09,Naoki Yuasa,JP,53,Slalom
+2008-03-09,Trevor White,CA,0,Combined
+2008-03-09,Patrick Bechter,AT,0,Combined
+2008-03-09,Tim Jitloff,US,0,Combined
+2008-03-09,Romed Baumann,AT,26,Combined
+2008-03-09,Martin Vrablik,CZ,0,Combined
+2008-03-09,Michael Janyk,CA,50,Slalom
+2008-03-09,Akira Sasaki,JP,126,Slalom
+2008-03-09,Kurt Pittschieler,IT,0,Combined
+2008-03-09,Andrej Jerman,SK,0,Downhill
+2008-03-09,Dominik Gschwenter,AT,0,Combined
+2008-03-09,Julien Cousineau,CA,0,Combined
+2008-03-09,Patrick Staudacher,IT,0,Super G
+2008-03-09,Pierre Paquin,FR,22,Combined
+2008-03-09,Sandro Viletta,CH,47,Slalom
+2008-03-09,Andreas Omminger,AT,27,Slalom
+2008-03-09,Mitja Dragsic,SK,115,Slalom
+2008-03-09,Giorgio Rocca,IT,164,Slalom
+2008-03-09,Stefan Georgiev,BG,0,Combined
+2008-03-09,Christophe Roux,MD,0,Combined
+2008-03-09,Mattias Hargin,SE,80,Slalom
+2008-03-09,Edoardo Zardini,IT,0,Combined
+2008-03-09,Alwin De Quartel,NL,0,Combined
+2008-03-09,Markus Vogel,CH,0,Combined
+2008-03-09,Alexander Koll,AT,37,Slalom
+2008-03-09,Werner Heel,IT,0,Downhill
+2008-03-09,Tuukka Kaukoniemi,FI,0,Combined
+2008-03-09,Scott Barrett,CA,0,Combined
+2008-03-09,Mitja Valencic,SK,43,Slalom
+2008-03-09,Anton Lahdenperae,SE,54,Slalom
+2008-03-15,Giuliano Razzoli,IT,43,Slalom
+2008-03-15,Steve Missillier,FR,91,Slalom
+2008-03-15,Mauro Caviezel,CH,0,Combined
+2008-03-15,Bjoergvin Bjoergvinnson,IS,0,Combined
+2008-03-15,Christian Wanninger,DE,4,Slalom
+2008-03-15,Manfred Moelgg,IT,531,Slalom
+2008-03-15,Marc Gini,CH,171,Slalom
+2008-03-15,Mattias Hargin,SE,80,Slalom
+2008-03-15,Romed Baumann,AT,26,Combined
+2008-03-15,Edoardo Zardini,IT,0,Combined
+2008-03-15,Urs Imboden,CH,5,Slalom
+2008-03-15,Ivan Ratkic,HR,0,Combined
+2008-03-15,Markus Vogel,CH,0,Combined
+2008-03-15,Trevor White,CA,0,Combined
+2008-03-15,Petter Brenna,NO,0,Combined
+2008-03-15,Kalle Palander,FI,127,Giant Slalom
+2008-03-15,Jimmy Cochran,US,116,Slalom
+2008-03-15,Maxime Tissot,FR,0,Combined
+2008-03-15,Alexandr Horoshilov,RU,0,Combined
+2008-03-15,Urs Imboden,MD,5,Slalom
+2008-03-15,Peter Bylund,SE,0,Combined
+2008-03-15,Jonathon Brauer,AU,0,Combined
+2008-03-15,Pierre Paquin,FR,22,Combined
+2008-03-15,Thomas Mermillod,FR,3,Giant Slalom
+2008-03-15,Martin Vrablik,CZ,0,Combined
+2008-03-15,Kurt Pittschieler,IT,0,Combined
+2008-03-15,Jean-Baptiste Grange,FR,527,Slalom
+2008-03-15,Cristian Javier Simari Birkner,AR,0,Combined
+2008-03-15,Kristian Haug,NO,0,Combined
+2008-03-15,Christoph Dreier,AT,0,Combined
+2008-03-15,Fredrik Nordh,SE,0,Combined
+2008-03-15,Thomas Fanara,FR,0,Giant Slalom
+2008-03-15,Mitja Valencic,SK,43,Slalom
+2008-03-15,Magnus Andersson,SE,0,Combined
+2008-03-15,Didier Cuche,CH,0,Downhill
+2008-03-15,Manfred Pranger,AT,55,Slalom
+2008-03-15,Dominik Gschwenter,AT,0,Combined
+2008-03-15,Noel Baxter,GB,0,Combined
+2008-03-15,Christof Innerhofer,IT,0,Super G
+2008-03-15,Kurt Engl,AT,0,Combined
+2008-03-15,Mario Matt,AT,427,Slalom
+2008-03-15,Jacopo Di Ronco,IT,0,Combined
+2008-03-15,Joel Chenal,FR,22,Giant Slalom
+2008-03-15,Fritzi Dopfer,DE,0,Combined
+2008-03-15,Christophe Roux,MD,0,Combined
+2008-03-15,Alexander Koll,AT,37,Slalom
+2008-03-15,Benjamin Raich,AT,358,Giant Slalom
+2008-03-15,Reinfried Herbst,AT,450,Slalom
+2008-03-15,Alain Baxter,GB,0,Combined
+2008-03-15,Matic Skube,SK,0,Combined
+2008-03-15,Andrej Krizaj,SK,0,Combined
+2008-03-15,Peter Fill,IT,0,Downhill
+2008-03-15,Aksel-Lund Svindal,NO,20,Giant Slalom
+2008-03-15,Matija Zavirsek,SK,0,Combined
+2008-03-15,Johan Brolenius,SE,115,Slalom
+2008-03-15,Cody B Marshall,US,20,Slalom
+2008-03-15,Timothy Kelley,US,0,Combined
+2008-03-15,Yasuhiro Ikuta,JP,0,Combined
+2008-03-15,Rainer Schoenfelder,AT,159,Combined
+2008-03-15,Stefan Georgiev,BG,0,Combined
+2008-03-15,Alois Vogl,DE,0,Combined
+2008-03-15,Anton Lahdenperae,SE,54,Slalom
+2008-03-15,Bernard Vajdic,SK,210,Slalom
+2008-03-15,Kilian Albrecht,BG,34,Slalom
+2008-03-15,Dominik Stehle,DE,0,Combined
+2008-03-15,Mario Scheiber,AT,0,Super G
+2008-03-15,Tuukka Kaukoniemi,FI,0,Combined
+2008-03-15,Patrick Thaler,IT,141,Slalom
+2008-03-15,Adrien Theaux,FR,0,Downhill
+2008-03-15,Wolfgang Hoerl,AT,67,Slalom
+2008-03-15,Truls Ove Karlsen,NO,18,Giant Slalom
+2008-03-15,Ryan Semple,CA,0,Combined
+2008-03-15,Anthony Obert,FR,0,Combined
+2008-03-15,Jeroen Van Den Bogaert,BE,0,Combined
+2008-03-15,Andrej Sporn,SK,0,Combined
+2008-03-15,Ondrej Bank,CZ,28,Combined
+2008-03-15,Martin Hansson,SE,31,Slalom
+2008-03-15,Andre Myhrer,SE,159,Slalom
+2008-03-15,Cristian Deville,IT,235,Slalom
+2008-03-15,Min Heuk Kang,KR,0,Combined
+2008-03-15,Scott Barrett,CA,0,Combined
+2008-03-15,Sandro Viletta,CH,47,Slalom
+2008-03-15,Giorgio Rocca,IT,196,Slalom
+2008-03-15,Will Brandenburg,US,0,Combined
+2008-03-15,Julien Lizeroux,FR,389,Slalom
+2008-03-15,Alwin De Quartel,NL,0,Combined
+2008-03-15,Oscar Andersson,SE,31,Slalom
+2008-03-15,Patrick Staudacher,IT,0,Super G
+2008-03-15,Julien Cousineau,CA,0,Combined
+2008-03-15,Andreas Omminger,AT,27,Slalom
+2008-03-15,Didier Defago,CH,0,Super G
+2008-03-15,Kjetil Jansrud,NO,15,Slalom
+2008-03-15,John Kucera,CA,0,Giant Slalom
+2008-03-15,Mitja Dragsic,SK,165,Slalom
+2008-03-15,Paul McDonald,US,0,Combined
+2008-03-15,Bode Miller,US,68,Downhill
+2008-03-15,Patrick Biggs,CA,18,Slalom
+2008-03-15,Marcel Hirscher,AT,167,Slalom
+2008-03-15,Sebastien Pichot,FR,0,Giant Slalom
+2008-03-15,Patrick Bechter,AT,0,Combined
+2008-03-15,Naoki Yuasa,JP,53,Slalom
+2008-03-15,Krystof Kryzl,CZ,7,Combined
+2008-03-15,Calle Enocson,SE,0,Combined
+2008-03-15,Werner Heel,IT,0,Downhill
+2008-03-15,Felix Neureuther,DE,387,Slalom
+2008-03-15,Lars Elton Myhre,NO,7,Combined
+2008-03-15,Akira Sasaki,JP,126,Slalom
+2008-03-15,Hannes Brenner,AT,0,Combined
+2008-03-15,Paul Stutz,CA,9,Combined
+2008-03-15,Carlo Janka,CH,0,Giant Slalom
+2008-03-15,Filip Trejbal,CZ,30,Slalom
+2008-03-15,Kai Alaerts,BE,0,Combined
+2008-03-15,Jens Byggmark,SE,256,Slalom
+2008-03-15,Silvan Zurbriggen,CH,47,Slalom
+2008-03-15,Niklas Rainer,SE,0,Combined
+2008-03-15,Ivica Kostelic,HR,425,Slalom
+2008-03-15,Guillem Capdevilla,ES,0,Combined
+2008-03-15,Tim Jitloff,US,0,Combined
+2008-03-15,Natko Zrncic-Dim,HR,0,Combined
+2008-03-15,Marcus Sandell,FI,0,Giant Slalom
+2008-03-15,Lucas Falcoz,FR,0,Combined
+2008-03-15,Ted Ligety,US,274,Giant Slalom
+2008-03-15,Manuel Pescollderungg,IT,0,Combined
+2008-03-15,Kentaro Minagawa,JP,40,Slalom
+2008-03-15,Alexandre Anselmet,FR,9,Slalom
+2008-03-15,Dalibor Samsal,HR,0,Combined
+2008-03-15,Markus Larsson,SE,120,Slalom
+2008-03-15,Michael Walchhofer,AT,0,Downhill
+2008-03-15,Alexandru Barbu,RO,0,Combined
+2008-03-15,Jukka Leino,FI,8,Giant Slalom
+2008-03-15,Jean Philippe Roy,CA,0,Giant Slalom
+2008-03-15,Stefan Kogler,DE,0,Combined
+2008-03-15,Marc Berthod,CH,131,Giant Slalom
+2008-03-15,Daniel Albrecht,CH,156,Giant Slalom
+2008-03-15,Michael Janyk,CA,50,Slalom
+2008-03-15,Andrej Jerman,SK,0,Downhill
+2008-03-15,Ales Gorza,SK,0,Super G

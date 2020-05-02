@@ -1,40 +1,40 @@
-date,name,ath_country,value
-2015-03-01,Anna Veith Fenninger,AT,100
-2015-03-01,Priska Nufer,CH,9
-2015-03-01,Ana Bucik,SK,8
-2015-03-01,Klara Krizova,CZ,7
-2015-03-01,Greta Small,AU,6
-2015-03-01,Jacqueline Wiles,US,5
-2015-03-01,Nevena Ignjatovic,RS,4
-2015-03-01,Nicole Hosp,AT,0
-2015-03-01,Mirjam Puchner,AT,10
-2015-03-01,Ragnhild Mowinckel,NO,0
-2015-03-01,Alexandra Coletti,MC,0
-2015-03-01,Jasmine Flury,CH,0
-2015-03-01,Lara Gut,CH,0
-2015-03-01,Maria Kirkova,BG,0
-2015-03-01,Marion Pellissier,FR,0
-2015-03-01,Carolina Ruiz Castillo,ES,0
-2015-03-01,Ilka Stuhec,SK,0
-2015-03-01,Federica Brignone,IT,0
-2015-03-01,Fabienne Suter,CH,0
-2015-03-01,Anne Sophie Barthet,FR,11
-2015-03-01,Elena Curtoni,IT,13
-2015-03-01,Tina Maze,SK,80
-2015-03-01,Kathrin Zettel,AT,60
-2015-03-01,Margot Bailet,FR,50
-2015-03-01,Marie-Michele Gagnon,CA,45
-2015-03-01,Dominique Gisin,CH,40
-2015-03-01,Wendy Holdener,CH,36
-2015-03-01,Michaela Kirchgasser,AT,32
-2015-03-01,Cornelia Huetter,AT,12
-2015-03-01,Romane Miradoli,FR,29
-2015-03-01,Denise Feierabend,CH,24
-2015-03-01,Julia Mancuso,US,22
-2015-03-01,Ramona Siebenhofer,AT,20
-2015-03-01,Elisabeth Goergl,AT,18
-2015-03-01,Johanna Schnarf,IT,16
-2015-03-01,Vanja Brodnik,SK,15
-2015-03-01,Laurenne Ross,US,14
-2015-03-01,Francesca Marsaglia,IT,26
-2015-03-01,Michaela Wenig,DE,0
+date,name,ath_country,value,specialty
+2015-03-01,Anna Veith Fenninger,AT,100,Giant Slalom
+2015-03-01,Priska Nufer,CH,9,Super G
+2015-03-01,Ana Bucik,SK,8,Slalom
+2015-03-01,Klara Krizova,CZ,7,Super G
+2015-03-01,Greta Small,AU,6,Combined
+2015-03-01,Jacqueline Wiles,US,5,Downhill
+2015-03-01,Nevena Ignjatovic,RS,4,Combined
+2015-03-01,Nicole Hosp,AT,0,Super G
+2015-03-01,Mirjam Puchner,AT,10,Super G
+2015-03-01,Ragnhild Mowinckel,NO,0,Giant Slalom
+2015-03-01,Alexandra Coletti,MC,0,Downhill
+2015-03-01,Jasmine Flury,CH,0,Combined
+2015-03-01,Lara Gut,CH,0,Downhill
+2015-03-01,Maria Kirkova,BG,0,Combined
+2015-03-01,Marion Pellissier,FR,0,Super G
+2015-03-01,Carolina Ruiz Castillo,ES,0,Downhill
+2015-03-01,Ilka Stuhec,SK,0,Downhill
+2015-03-01,Federica Brignone,IT,0,Giant Slalom
+2015-03-01,Fabienne Suter,CH,0,Downhill
+2015-03-01,Anne Sophie Barthet,FR,11,Slalom
+2015-03-01,Elena Curtoni,IT,13,Super G
+2015-03-01,Tina Maze,SK,80,Slalom
+2015-03-01,Kathrin Zettel,AT,60,Slalom
+2015-03-01,Margot Bailet,FR,50,Super G
+2015-03-01,Marie-Michele Gagnon,CA,45,Slalom
+2015-03-01,Dominique Gisin,CH,40,Downhill
+2015-03-01,Wendy Holdener,CH,36,Slalom
+2015-03-01,Michaela Kirchgasser,AT,32,Slalom
+2015-03-01,Cornelia Huetter,AT,12,Super G
+2015-03-01,Romane Miradoli,FR,29,Combined
+2015-03-01,Denise Feierabend,CH,24,Slalom
+2015-03-01,Julia Mancuso,US,22,Downhill
+2015-03-01,Ramona Siebenhofer,AT,20,Combined
+2015-03-01,Elisabeth Goergl,AT,18,Downhill
+2015-03-01,Johanna Schnarf,IT,16,Downhill
+2015-03-01,Vanja Brodnik,SK,15,Combined
+2015-03-01,Laurenne Ross,US,14,Downhill
+2015-03-01,Francesca Marsaglia,IT,26,Super G
+2015-03-01,Michaela Wenig,DE,0,Super G

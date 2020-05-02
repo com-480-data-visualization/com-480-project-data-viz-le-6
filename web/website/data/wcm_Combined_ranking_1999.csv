@@ -1,39 +1,39 @@
-date,name,ath_country,value
-1999-01-17,Lasse Kjus,NO,100
-1999-01-17,Paul Schwarzacher-j.,IE,0
-1999-01-17,Darin McBeath,CA,0
-1999-01-17,Gregor Sparovec,SK,0
-1999-01-17,Patrik Jaerbyn,SE,0
-1999-01-17,Antoine Deneriaz,FR,0
-1999-01-17,Fritz Strobl,AT,0
-1999-01-17,Juerg Gruenenfelder,CH,0
-1999-01-17,Paul Accola,CH,0
-1999-01-17,Luca Cattaneo,IT,24
-1999-01-17,Fredrik Nyberg,SE,29
-1999-01-17,Markus Herrmann,CH,32
-1999-01-17,Hannes Trinkl,AT,26
-1999-01-17,Bruno Kernen,CH,40
-1999-01-17,Kristian Ghedina,IT,45
-1999-01-17,Kjetil Andre Aamodt,NO,80
-1999-01-17,Werner Franz,AT,50
-1999-01-17,Didier Cuche,CH,36
-1999-01-17,Hermann Maier,AT,60
-1999-01-24,Fritz Strobl,AT,36
-1999-01-24,Luca Cattaneo,IT,42
-1999-01-24,Hannes Trinkl,AT,46
-1999-01-24,Fredrik Nyberg,SE,29
-1999-01-24,Bruno Kernen,CH,40
-1999-01-24,Kristian Ghedina,IT,45
-1999-01-24,Hermann Maier,AT,60
-1999-01-24,Kjetil Andre Aamodt,NO,180
-1999-01-24,Paul Accola,CH,60
-1999-01-24,Werner Franz,AT,100
-1999-01-24,Gregor Sparovec,SK,24
-1999-01-24,Didier Cuche,CH,81
-1999-01-24,Patrik Jaerbyn,SE,26
-1999-01-24,Darin McBeath,CA,22
-1999-01-24,Antoine Deneriaz,FR,29
-1999-01-24,Markus Herrmann,CH,64
-1999-01-24,Juerg Gruenenfelder,CH,40
-1999-01-24,Lasse Kjus,NO,180
-1999-01-24,Paul Schwarzacher-j.,IE,16
+date,name,ath_country,value,specialty
+1999-01-17,Lasse Kjus,NO,100,Downhill
+1999-01-17,Hannes Trinkl,AT,26,Downhill
+1999-01-17,Markus Herrmann,CH,32,Downhill
+1999-01-17,Fritz Strobl,AT,0,Downhill
+1999-01-17,Paul Schwarzacher-j.,IE,0,Combined
+1999-01-17,Juerg Gruenenfelder,CH,0,Downhill
+1999-01-17,Bruno Kernen,CH,40,Downhill
+1999-01-17,Didier Cuche,CH,36,Downhill
+1999-01-17,Patrik Jaerbyn,SE,0,Downhill
+1999-01-17,Fredrik Nyberg,SE,29,Giant Slalom
+1999-01-17,Luca Cattaneo,IT,24,Downhill
+1999-01-17,Werner Franz,AT,50,Downhill
+1999-01-17,Paul Accola,CH,0,Giant Slalom
+1999-01-17,Gregor Sparovec,SK,0,Combined
+1999-01-17,Hermann Maier,AT,60,Super G
+1999-01-17,Kjetil Andre Aamodt,NO,80,Downhill
+1999-01-17,Darin McBeath,CA,0,Combined
+1999-01-17,Kristian Ghedina,IT,45,Downhill
+1999-01-17,Antoine Deneriaz,FR,0,Downhill
+1999-01-24,Luca Cattaneo,IT,42,Downhill
+1999-01-24,Gregor Sparovec,SK,24,Combined
+1999-01-24,Patrik Jaerbyn,SE,26,Downhill
+1999-01-24,Hannes Trinkl,AT,46,Downhill
+1999-01-24,Darin McBeath,CA,22,Combined
+1999-01-24,Fritz Strobl,AT,36,Downhill
+1999-01-24,Fredrik Nyberg,SE,29,Giant Slalom
+1999-01-24,Markus Herrmann,CH,64,Downhill
+1999-01-24,Juerg Gruenenfelder,CH,40,Downhill
+1999-01-24,Bruno Kernen,CH,40,Downhill
+1999-01-24,Didier Cuche,CH,81,Downhill
+1999-01-24,Kristian Ghedina,IT,45,Downhill
+1999-01-24,Werner Franz,AT,100,Downhill
+1999-01-24,Paul Accola,CH,60,Giant Slalom
+1999-01-24,Hermann Maier,AT,60,Super G
+1999-01-24,Kjetil Andre Aamodt,NO,180,Downhill
+1999-01-24,Lasse Kjus,NO,180,Downhill
+1999-01-24,Antoine Deneriaz,FR,29,Downhill
+1999-01-24,Paul Schwarzacher-j.,IE,16,Combined

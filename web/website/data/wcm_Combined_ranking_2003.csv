@@ -1,31 +1,31 @@
-date,name,ath_country,value
-2003-01-19,Kjetil Andre Aamodt,NO,100
-2003-01-19,Marco Buechel,LI,0
-2003-01-19,Stephan Eberharter,AT,0
-2003-01-19,Christoph Gruber,AT,0
-2003-01-19,Didier Defago,CH,0
-2003-01-19,Aksel-Lund Svindal,NO,0
-2003-01-19,Michael Walchhofer,AT,0
-2003-01-19,Michal Rajcan,SK,29
-2003-01-19,Ambrosi Hoffmann,CH,36
-2003-01-19,Bruno Kernen,CH,40
-2003-01-19,Scott Macartney,US,32
-2003-01-19,Lasse Kjus,NO,60
-2003-01-19,Andrej Jerman,SK,45
-2003-01-19,Gaetan Llorach,FR,50
-2003-01-19,Bode Miller,US,80
-2003-01-26,Andrej Jerman,SK,45
-2003-01-26,Gaetan Llorach,FR,50
-2003-01-26,Lasse Kjus,NO,60
-2003-01-26,Kjetil Andre Aamodt,NO,100
-2003-01-26,Michael Walchhofer,AT,100
-2003-01-26,Aksel-Lund Svindal,NO,80
-2003-01-26,Stephan Eberharter,AT,40
-2003-01-26,Didier Defago,CH,60
-2003-01-26,Marco Buechel,LI,29
-2003-01-26,Christoph Gruber,AT,50
-2003-01-26,Bruno Kernen,CH,72
-2003-01-26,Scott Macartney,US,32
-2003-01-26,Ambrosi Hoffmann,CH,72
-2003-01-26,Bode Miller,US,125
-2003-01-26,Michal Rajcan,SK,29
+date,name,ath_country,value,specialty
+2003-01-19,Kjetil Andre Aamodt,NO,100,Downhill
+2003-01-19,Michal Rajcan,SK,29,Combined
+2003-01-19,Scott Macartney,US,32,Combined
+2003-01-19,Ambrosi Hoffmann,CH,36,Downhill
+2003-01-19,Stephan Eberharter,AT,0,Downhill
+2003-01-19,Bruno Kernen,CH,40,Downhill
+2003-01-19,Andrej Jerman,SK,45,Downhill
+2003-01-19,Christoph Gruber,AT,0,Giant Slalom
+2003-01-19,Gaetan Llorach,FR,50,Combined
+2003-01-19,Didier Defago,CH,0,Super G
+2003-01-19,Marco Buechel,LI,0,Super G
+2003-01-19,Lasse Kjus,NO,60,Super G
+2003-01-19,Aksel-Lund Svindal,NO,0,Combined
+2003-01-19,Michael Walchhofer,AT,0,Downhill
+2003-01-19,Bode Miller,US,80,Giant Slalom
+2003-01-26,Lasse Kjus,NO,60,Super G
+2003-01-26,Michal Rajcan,SK,29,Combined
+2003-01-26,Kjetil Andre Aamodt,NO,100,Downhill
+2003-01-26,Scott Macartney,US,32,Combined
+2003-01-26,Michael Walchhofer,AT,100,Downhill
+2003-01-26,Ambrosi Hoffmann,CH,72,Downhill
+2003-01-26,Stephan Eberharter,AT,40,Downhill
+2003-01-26,Bruno Kernen,CH,72,Downhill
+2003-01-26,Bode Miller,US,125,Giant Slalom
+2003-01-26,Andrej Jerman,SK,45,Downhill
+2003-01-26,Aksel-Lund Svindal,NO,80,Combined
+2003-01-26,Marco Buechel,LI,29,Super G
+2003-01-26,Gaetan Llorach,FR,50,Combined
+2003-01-26,Didier Defago,CH,60,Super G
+2003-01-26,Christoph Gruber,AT,50,Giant Slalom

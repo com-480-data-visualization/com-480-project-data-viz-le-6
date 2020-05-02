@@ -1,604 +1,604 @@
-date,name,ath_country,value
-1995-12-01,Luc Alphand,FR,100
-1995-12-01,Hans Knauss,AT,0
-1995-12-01,Chad Fleischer,US,0
-1995-12-01,Urs Lehmann,CH,0
-1995-12-01,Kenneth Sivertsen,NO,29
-1995-12-01,David Pretot,FR,0
-1995-12-01,Maurizio Feller,IT,0
-1995-12-01,Luke Sauder,CA,0
-1995-12-01,Craig Thrasher,US,0
-1995-12-01,Daniel Brunner,CH,0
-1995-12-01,Markus Herrmann,CH,0
-1995-12-01,Daniel Mahrer,CH,0
-1995-12-01,Cary Mullen,CA,0
-1995-12-01,Graydon Oldfield,CA,0
-1995-12-01,Franco Cavegn,CH,32
-1995-12-01,Jean Luc Cretier,FR,0
-1995-12-01,Marc Girardelli,LU,0
-1995-12-01,Adrien Duvillard,FR,0
-1995-12-01,Darren Thorburn,CA,0
-1995-12-01,Graham Bell,GB,0
-1995-12-01,Rob Boyd,CA,0
-1995-12-01,Ralf Socher,CA,0
-1995-12-01,Guenther Mader,AT,36
-1995-12-01,Didier Cuche,CH,0
-1995-12-01,Xavier Fournier,FR,0
-1995-12-01,Berni Huber,DE,0
-1995-12-01,Josef Strobl,AT,0
-1995-12-01,Luca Cattaneo,IT,16
-1995-12-01,Peter Rzehak,AT,15
-1995-12-01,Werner Franz,AT,14
-1995-12-01,Juergen Hasler,LI,13
-1995-12-01,Asgeir Linberg,NO,12
-1995-12-01,Rainer Salzgeber,AT,20
-1995-12-01,A.J. Kitt,US,11
-1995-12-01,Christophe Ple',FR,11
-1995-12-01,William Besse,CH,9
-1995-12-01,Atle Skaardal,NO,8
-1995-12-01,Werner Perathoner,IT,0
-1995-12-01,Peter Runggaldier,IT,22
-1995-12-01,Pietro Vitalini,IT,6
-1995-12-01,Christian Greber,AT,5
-1995-12-01,Andrej Filischkin,RU,4
-1995-12-01,Brian Stemmle,CA,24
-1995-12-01,Stefan Krauss,DE,3
-1995-12-01,Markus Foser,LI,2
-1995-12-01,Kyle Rasmussen,US,1
-1995-12-01,Andreas Schifferer,AT,0
-1995-12-01,Ed Podivinsky,CA,26
-1995-12-01,Bruno Kernen,CH,0
-1995-12-01,Hannes Trinkl,AT,7
-1995-12-01,Patrik Jaerbyn,SE,0
-1995-12-01,Alessandro Fattori,IT,0
-1995-12-01,Paul Accola,CH,0
-1995-12-01,Lasse Kjus,NO,80
-1995-12-01,Alberto Senigagliesi,IT,0
-1995-12-01,Xavier Gigandet,CH,50
-1995-12-01,Fredrik Nyberg,SE,45
-1995-12-01,Norbert Holzknecht,AT,0
-1995-12-01,Heinrich Rupp,CH,0
-1995-12-01,Patrick Ortlieb,AT,60
-1995-12-01,Kevin Wert,CA,0
-1995-12-01,Max Rauffer,DE,0
-1995-12-01,Aane Saeter,NO,0
-1995-12-01,Kjetil Andre Aamodt,NO,0
-1995-12-01,Roland Assinger,AT,40
-1995-12-01,Kristian Ghedina,IT,18
-1995-12-01,Denis Rey,FR,0
-1995-12-09,Kristian Ghedina,IT,18
-1995-12-09,Urs Lehmann,CH,6
-1995-12-09,Xavier Fournier,FR,0
-1995-12-09,Fredrik Nyberg,SE,52
-1995-12-09,Patrik Jaerbyn,SE,0
-1995-12-09,Alberto Senigagliesi,IT,0
-1995-12-09,Chad Fleischer,US,8
-1995-12-09,Paul Accola,CH,0
-1995-12-09,Peter Rzehak,AT,24
-1995-12-09,Max Rauffer,DE,0
-1995-12-09,Aane Saeter,NO,0
-1995-12-09,Kyle Rasmussen,US,13
-1995-12-09,Luca Cattaneo,IT,28
-1995-12-09,Kjetil Andre Aamodt,NO,0
-1995-12-09,Denis Rey,FR,0
-1995-12-09,Hans Knauss,AT,13
-1995-12-09,Kevin Wert,CA,0
-1995-12-09,Daniel Mahrer,CH,14
-1995-12-09,Heinrich Rupp,CH,0
-1995-12-09,Patrick Ortlieb,AT,75
-1995-12-09,Norbert Holzknecht,AT,0
-1995-12-09,Werner Franz,AT,30
-1995-12-09,Peter Runggaldier,IT,32
-1995-12-09,Ralf Socher,CA,0
-1995-12-09,David Pretot,FR,5
-1995-12-09,Rob Boyd,CA,0
-1995-12-09,Maurizio Feller,IT,4
-1995-12-09,Brian Stemmle,CA,24
-1995-12-09,Asgeir Linberg,NO,12
-1995-12-09,A.J. Kitt,US,11
-1995-12-09,Christophe Ple',FR,11
-1995-12-09,William Besse,CH,9
-1995-12-09,Pietro Vitalini,IT,6
-1995-12-09,Christian Greber,AT,5
-1995-12-09,Andrej Filischkin,RU,4
-1995-12-09,Stefan Krauss,DE,3
-1995-12-09,Kenneth Sivertsen,NO,29
-1995-12-09,Markus Herrmann,CH,0
-1995-12-09,Rainer Salzgeber,AT,20
-1995-12-09,Cary Mullen,CA,0
-1995-12-09,Graydon Oldfield,CA,0
-1995-12-09,Jean Luc Cretier,FR,0
-1995-12-09,Marc Girardelli,LU,0
-1995-12-09,Adrien Duvillard,FR,0
-1995-12-09,Daniel Brunner,CH,1
-1995-12-09,Lasse Kjus,NO,80
-1995-12-09,Craig Thrasher,US,2
-1995-12-09,Alessandro Fattori,IT,0
-1995-12-09,Luke Sauder,CA,3
-1995-12-09,Ed Podivinsky,CA,44
-1995-12-09,Graham Bell,GB,0
-1995-12-09,Didier Cuche,CH,0
-1995-12-09,Darren Thorburn,CA,0
-1995-12-09,Markus Foser,LI,2
-1995-12-09,Atle Skaardal,NO,30
-1995-12-09,Roland Assinger,AT,120
-1995-12-09,Berni Huber,DE,20
-1995-12-09,Hannes Trinkl,AT,67
-1995-12-09,Guenther Mader,AT,86
-1995-12-09,Xavier Gigandet,CH,95
-1995-12-09,Andreas Schifferer,AT,40
-1995-12-09,Bruno Kernen,CH,32
-1995-12-09,Juergen Hasler,LI,42
-1995-12-09,Franco Cavegn,CH,68
-1995-12-09,Luc Alphand,FR,200
-1995-12-09,Werner Perathoner,IT,24
-1995-12-09,Josef Strobl,AT,26
-1995-12-16,Hans Knauss,AT,42
-1995-12-16,Kenneth Sivertsen,NO,29
-1995-12-16,Roland Assinger,AT,120
-1995-12-16,Fredrik Nyberg,SE,52
-1995-12-16,Patrick Ortlieb,AT,175
-1995-12-16,Atle Skaardal,NO,35
-1995-12-16,Xavier Gigandet,CH,175
-1995-12-16,Kristian Ghedina,IT,42
-1995-12-16,Luc Alphand,FR,260
-1995-12-16,Markus Foser,LI,52
-1995-12-16,Lasse Kjus,NO,125
-1995-12-16,Markus Herrmann,CH,45
-1995-12-16,Stefan Krauss,DE,6
-1995-12-16,Peter Runggaldier,IT,32
-1995-12-16,Pietro Vitalini,IT,42
-1995-12-16,Graydon Oldfield,CA,3
-1995-12-16,Brian Stemmle,CA,56
-1995-12-16,Bruno Kernen,CH,33
-1995-12-16,Kyle Rasmussen,US,42
-1995-12-16,Daniel Mahrer,CH,18
-1995-12-16,Rainer Salzgeber,AT,20
-1995-12-16,Luke Sauder,CA,21
-1995-12-16,Juergen Hasler,LI,42
-1995-12-16,Didier Cuche,CH,10
-1995-12-16,Heinrich Rupp,CH,0
-1995-12-16,Kevin Wert,CA,0
-1995-12-16,Denis Rey,FR,0
-1995-12-16,Kjetil Andre Aamodt,NO,0
-1995-12-16,Aane Saeter,NO,0
-1995-12-16,Max Rauffer,DE,0
-1995-12-16,Paul Accola,CH,0
-1995-12-16,Alberto Senigagliesi,IT,0
-1995-12-16,Patrik Jaerbyn,SE,0
-1995-12-16,Xavier Fournier,FR,0
-1995-12-16,Ralf Socher,CA,0
-1995-12-16,Rob Boyd,CA,0
-1995-12-16,Graham Bell,GB,0
-1995-12-16,Chad Fleischer,US,14
-1995-12-16,Darren Thorburn,CA,0
-1995-12-16,Adrien Duvillard,FR,0
-1995-12-16,Marc Girardelli,LU,0
-1995-12-16,Jean Luc Cretier,FR,0
-1995-12-16,Daniel Brunner,CH,1
-1995-12-16,Craig Thrasher,US,2
-1995-12-16,Maurizio Feller,IT,4
-1995-12-16,David Pretot,FR,5
-1995-12-16,Josef Strobl,AT,26
-1995-12-16,Andreas Schifferer,AT,40
-1995-12-16,Andrej Filischkin,RU,4
-1995-12-16,Christian Greber,AT,5
-1995-12-16,Christophe Ple',FR,11
-1995-12-16,A.J. Kitt,US,11
-1995-12-16,Asgeir Linberg,NO,12
-1995-12-16,Alessandro Fattori,IT,0
-1995-12-16,Luca Cattaneo,IT,28
-1995-12-16,Norbert Holzknecht,AT,0
-1995-12-16,Franco Cavegn,CH,77
-1995-12-16,Werner Franz,AT,39
-1995-12-16,William Besse,CH,18
-1995-12-16,Ed Podivinsky,CA,59
-1995-12-16,Urs Lehmann,CH,26
-1995-12-16,Hannes Trinkl,AT,80
-1995-12-16,Guenther Mader,AT,108
-1995-12-16,Werner Perathoner,IT,36
-1995-12-16,Berni Huber,DE,34
-1995-12-16,Peter Rzehak,AT,35
-1995-12-16,Cary Mullen,CA,18
-1995-12-29,Kenneth Sivertsen,NO,41
-1995-12-29,Adrien Duvillard,FR,11
-1995-12-29,Patrik Jaerbyn,SE,0
-1995-12-29,Alberto Senigagliesi,IT,0
-1995-12-29,Paul Accola,CH,0
-1995-12-29,Guenther Mader,AT,144
-1995-12-29,Max Rauffer,DE,0
-1995-12-29,Kristian Ghedina,IT,62
-1995-12-29,William Besse,CH,18
-1995-12-29,Peter Runggaldier,IT,72
-1995-12-29,Hans Knauss,AT,55
-1995-12-29,Aane Saeter,NO,0
-1995-12-29,Kjetil Andre Aamodt,NO,0
-1995-12-29,Denis Rey,FR,0
-1995-12-29,Werner Franz,AT,53
-1995-12-29,Heinrich Rupp,CH,0
-1995-12-29,Norbert Holzknecht,AT,0
-1995-12-29,Andreas Schifferer,AT,120
-1995-12-29,Atle Skaardal,NO,80
-1995-12-29,Ed Podivinsky,CA,119
-1995-12-29,Werner Perathoner,IT,86
-1995-12-29,Lasse Kjus,NO,225
-1995-12-29,Kevin Wert,CA,0
-1995-12-29,Xavier Fournier,FR,0
-1995-12-29,Christophe Ple',FR,11
-1995-12-29,A.J. Kitt,US,11
-1995-12-29,Asgeir Linberg,NO,12
-1995-12-29,Juergen Hasler,LI,42
-1995-12-29,Peter Rzehak,AT,35
-1995-12-29,Luca Cattaneo,IT,28
-1995-12-29,Rainer Salzgeber,AT,20
-1995-12-29,Xavier Gigandet,CH,175
-1995-12-29,Patrick Ortlieb,AT,175
-1995-12-29,Andrej Filischkin,RU,4
-1995-12-29,Markus Foser,LI,52
-1995-12-29,Kyle Rasmussen,US,42
-1995-12-29,Daniel Mahrer,CH,18
-1995-12-29,Chad Fleischer,US,14
-1995-12-29,Urs Lehmann,CH,26
-1995-12-29,Bruno Kernen,CH,49
-1995-12-29,David Pretot,FR,5
-1995-12-29,Maurizio Feller,IT,4
-1995-12-29,Luke Sauder,CA,21
-1995-12-29,Craig Thrasher,US,2
-1995-12-29,Daniel Brunner,CH,1
-1995-12-29,Cary Mullen,CA,18
-1995-12-29,Graydon Oldfield,CA,3
-1995-12-29,Marc Girardelli,LU,15
-1995-12-29,Rob Boyd,CA,0
-1995-12-29,Ralf Socher,CA,0
-1995-12-29,Jean Luc Cretier,FR,32
-1995-12-29,Hannes Trinkl,AT,100
-1995-12-29,Stefan Krauss,DE,35
-1995-12-29,Pietro Vitalini,IT,42
-1995-12-29,Christian Greber,AT,27
-1995-12-29,Graham Bell,GB,1
-1995-12-29,Brian Stemmle,CA,58
-1995-12-29,Luc Alphand,FR,263
-1995-12-29,Darren Thorburn,CA,4
-1995-12-29,Didier Cuche,CH,15
-1995-12-29,Alessandro Fattori,IT,9
-1995-12-29,Franco Cavegn,CH,101
-1995-12-29,Berni Huber,DE,40
-1995-12-29,Roland Assinger,AT,146
-1995-12-29,Fredrik Nyberg,SE,62
-1995-12-29,Markus Herrmann,CH,52
-1995-12-29,Josef Strobl,AT,34
-1996-01-13,Xavier Gigandet,CH,175
-1996-01-13,Fredrik Nyberg,SE,62
-1996-01-13,Luc Alphand,FR,343
-1996-01-13,Franco Cavegn,CH,101
-1996-01-13,Kenneth Sivertsen,NO,41
-1996-01-13,Ed Podivinsky,CA,119
-1996-01-13,Jean Luc Cretier,FR,38
-1996-01-13,Rainer Salzgeber,AT,20
-1996-01-13,Luca Cattaneo,IT,28
-1996-01-13,Bruno Kernen,CH,75
-1996-01-13,Peter Runggaldier,IT,132
-1996-01-13,Juergen Hasler,LI,42
-1996-01-13,Asgeir Linberg,NO,12
-1996-01-13,Lasse Kjus,NO,225
-1996-01-13,Patrik Jaerbyn,SE,2
-1996-01-13,Guenther Mader,AT,244
-1996-01-13,Didier Cuche,CH,24
-1996-01-13,Adrien Duvillard,FR,27
-1996-01-13,Kyle Rasmussen,US,66
-1996-01-13,Berni Huber,DE,47
-1996-01-13,Xavier Fournier,FR,18
-1996-01-13,Graham Bell,GB,6
-1996-01-13,David Pretot,FR,20
-1996-01-13,Stefan Krauss,DE,43
-1996-01-13,Pietro Vitalini,IT,62
-1996-01-13,William Besse,CH,32
-1996-01-13,A.J. Kitt,US,11
-1996-01-13,Ralf Socher,CA,22
-1996-01-13,Atle Skaardal,NO,90
-1996-01-13,Darren Thorburn,CA,7
-1996-01-13,Daniel Mahrer,CH,31
-1996-01-13,Werner Franz,AT,57
-1996-01-13,Roland Assinger,AT,146
-1996-01-13,Rob Boyd,CA,40
-1996-01-13,Alessandro Fattori,IT,21
-1996-01-13,Cary Mullen,CA,18
-1996-01-13,Graydon Oldfield,CA,3
-1996-01-13,Marc Girardelli,LU,15
-1996-01-13,Alberto Senigagliesi,IT,0
-1996-01-13,Heinrich Rupp,CH,0
-1996-01-13,Paul Accola,CH,0
-1996-01-13,Christophe Ple',FR,11
-1996-01-13,Hans Knauss,AT,87
-1996-01-13,Max Rauffer,DE,0
-1996-01-13,Patrick Ortlieb,AT,207
-1996-01-13,Werner Perathoner,IT,122
-1996-01-13,Aane Saeter,NO,0
-1996-01-13,Kjetil Andre Aamodt,NO,0
-1996-01-13,Denis Rey,FR,0
-1996-01-13,Kevin Wert,CA,0
-1996-01-13,Markus Herrmann,CH,53
-1996-01-13,Daniel Brunner,CH,1
-1996-01-13,Norbert Holzknecht,AT,0
-1996-01-13,Brian Stemmle,CA,69
-1996-01-13,Chad Fleischer,US,14
-1996-01-13,Craig Thrasher,US,2
-1996-01-13,Markus Foser,LI,52
-1996-01-13,Andrej Filischkin,RU,4
-1996-01-13,Peter Rzehak,AT,80
-1996-01-13,Urs Lehmann,CH,26
-1996-01-13,Josef Strobl,AT,34
-1996-01-13,Maurizio Feller,IT,4
-1996-01-13,Christian Greber,AT,27
-1996-01-13,Hannes Trinkl,AT,100
-1996-01-13,Kristian Ghedina,IT,112
-1996-01-13,Luke Sauder,CA,21
-1996-01-13,Andreas Schifferer,AT,120
-1996-01-19,Aane Saeter,NO,0
-1996-01-19,Kenneth Sivertsen,NO,41
-1996-01-19,Luca Cattaneo,IT,28
-1996-01-19,Juergen Hasler,LI,42
-1996-01-19,Daniel Brunner,CH,11
-1996-01-19,Denis Rey,FR,0
-1996-01-19,Franco Cavegn,CH,101
-1996-01-19,Kevin Wert,CA,0
-1996-01-19,Heinrich Rupp,CH,0
-1996-01-19,Norbert Holzknecht,AT,0
-1996-01-19,Max Rauffer,DE,0
-1996-01-19,Lasse Kjus,NO,225
-1996-01-19,Roland Assinger,AT,146
-1996-01-19,Kjetil Andre Aamodt,NO,0
-1996-01-19,Paul Accola,CH,0
-1996-01-19,Graydon Oldfield,CA,3
-1996-01-19,Asgeir Linberg,NO,12
-1996-01-19,Pietro Vitalini,IT,62
-1996-01-19,Christian Greber,AT,27
-1996-01-19,Kristian Ghedina,IT,112
-1996-01-19,Andrej Filischkin,RU,4
-1996-01-19,Markus Foser,LI,52
-1996-01-19,Andreas Schifferer,AT,120
-1996-01-19,Hans Knauss,AT,87
-1996-01-19,Chad Fleischer,US,14
-1996-01-19,Urs Lehmann,CH,26
-1996-01-19,Hannes Trinkl,AT,100
-1996-01-19,David Pretot,FR,20
-1996-01-19,Craig Thrasher,US,2
-1996-01-19,Cary Mullen,CA,18
-1996-01-19,Didier Cuche,CH,24
-1996-01-19,Marc Girardelli,LU,15
-1996-01-19,Christophe Ple',FR,11
-1996-01-19,Graham Bell,GB,6
-1996-01-19,Xavier Fournier,FR,18
-1996-01-19,A.J. Kitt,US,11
-1996-01-19,Patrik Jaerbyn,SE,2
-1996-01-19,Rainer Salzgeber,AT,20
-1996-01-19,Luc Alphand,FR,352
-1996-01-19,Patrick Ortlieb,AT,239
-1996-01-19,Peter Rzehak,AT,87
-1996-01-19,William Besse,CH,112
-1996-01-19,Ralf Socher,CA,44
-1996-01-19,Atle Skaardal,NO,126
-1996-01-19,Maurizio Feller,IT,28
-1996-01-19,Bruno Kernen,CH,175
-1996-01-19,Rob Boyd,CA,52
-1996-01-19,Guenther Mader,AT,250
-1996-01-19,Josef Strobl,AT,47
-1996-01-19,Ed Podivinsky,CA,125
-1996-01-19,Jean Luc Cretier,FR,40
-1996-01-19,Fredrik Nyberg,SE,73
-1996-01-19,Daniel Mahrer,CH,91
-1996-01-19,Darren Thorburn,CA,21
-1996-01-19,Werner Franz,AT,86
-1996-01-19,Markus Herrmann,CH,54
-1996-01-19,Stefan Krauss,DE,69
-1996-01-19,Adrien Duvillard,FR,35
-1996-01-19,Brian Stemmle,CA,114
-1996-01-19,Xavier Gigandet,CH,225
-1996-01-19,Werner Perathoner,IT,138
-1996-01-19,Luke Sauder,CA,25
-1996-01-19,Alberto Senigagliesi,IT,20
-1996-01-19,Alessandro Fattori,IT,41
-1996-01-19,Berni Huber,DE,62
-1996-01-19,Peter Runggaldier,IT,135
-1996-01-19,Kyle Rasmussen,US,106
-1996-01-20,Luca Cattaneo,IT,28
-1996-01-20,Ed Podivinsky,CA,125
-1996-01-20,Kenneth Sivertsen,NO,41
-1996-01-20,Franco Cavegn,CH,101
-1996-01-20,Alessandro Fattori,IT,59
-1996-01-20,Fredrik Nyberg,SE,73
-1996-01-20,Lasse Kjus,NO,225
-1996-01-20,Rainer Salzgeber,AT,27
-1996-01-20,David Pretot,FR,44
-1996-01-20,Chad Fleischer,US,20
-1996-01-20,Adrien Duvillard,FR,40
-1996-01-20,Hans Knauss,AT,91
-1996-01-20,Max Rauffer,DE,3
-1996-01-20,William Besse,CH,138
-1996-01-20,Roland Assinger,AT,146
-1996-01-20,Peter Rzehak,AT,87
-1996-01-20,Atle Skaardal,NO,126
-1996-01-20,Asgeir Linberg,NO,12
-1996-01-20,Paul Accola,CH,10
-1996-01-20,Marc Girardelli,LU,25
-1996-01-20,Xavier Fournier,FR,26
-1996-01-20,Norbert Holzknecht,AT,0
-1996-01-20,Heinrich Rupp,CH,0
-1996-01-20,Kevin Wert,CA,0
-1996-01-20,Denis Rey,FR,0
-1996-01-20,Kjetil Andre Aamodt,NO,0
-1996-01-20,Alberto Senigagliesi,IT,20
-1996-01-20,Patrik Jaerbyn,SE,2
-1996-01-20,Graham Bell,GB,6
-1996-01-20,Darren Thorburn,CA,21
-1996-01-20,Jean Luc Cretier,FR,40
-1996-01-20,Juergen Hasler,LI,42
-1996-01-20,Graydon Oldfield,CA,3
-1996-01-20,Cary Mullen,CA,18
-1996-01-20,Craig Thrasher,US,2
-1996-01-20,Luke Sauder,CA,25
-1996-01-20,Maurizio Feller,IT,28
-1996-01-20,Urs Lehmann,CH,26
-1996-01-20,Berni Huber,DE,62
-1996-01-20,Josef Strobl,AT,47
-1996-01-20,Andreas Schifferer,AT,120
-1996-01-20,Markus Foser,LI,52
-1996-01-20,Christian Greber,AT,27
-1996-01-20,Pietro Vitalini,IT,62
-1996-01-20,Christophe Ple',FR,11
-1996-01-20,A.J. Kitt,US,11
-1996-01-20,Didier Cuche,CH,24
-1996-01-20,Stefan Krauss,DE,71
-1996-01-20,Andrej Filischkin,RU,4
-1996-01-20,Peter Runggaldier,IT,151
-1996-01-20,Markus Herrmann,CH,66
-1996-01-20,Daniel Mahrer,CH,136
-1996-01-20,Werner Perathoner,IT,178
-1996-01-20,Patrick Ortlieb,AT,319
-1996-01-20,Luc Alphand,FR,432
-1996-01-20,Rob Boyd,CA,74
-1996-01-20,Brian Stemmle,CA,150
-1996-01-20,Bruno Kernen,CH,275
-1996-01-20,Daniel Brunner,CH,22
-1996-01-20,Kyle Rasmussen,US,119
-1996-01-20,Guenther Mader,AT,282
-1996-01-20,Kristian Ghedina,IT,127
-1996-01-20,Aane Saeter,NO,1
-1996-01-20,Ralf Socher,CA,64
-1996-01-20,Xavier Gigandet,CH,254
-1996-01-20,Hannes Trinkl,AT,114
-1996-01-20,Werner Franz,AT,136
-1996-02-02,Andrej Filischkin,RU,4
-1996-02-02,Stefan Krauss,DE,71
-1996-02-02,Luke Sauder,CA,25
-1996-02-02,Rainer Salzgeber,AT,27
-1996-02-02,Hannes Trinkl,AT,114
-1996-02-02,Juergen Hasler,LI,42
-1996-02-02,Kenneth Sivertsen,NO,41
-1996-02-02,Markus Foser,LI,52
-1996-02-02,Andreas Schifferer,AT,120
-1996-02-02,Chad Fleischer,US,20
-1996-02-02,Franco Cavegn,CH,101
-1996-02-02,Urs Lehmann,CH,26
-1996-02-02,A.J. Kitt,US,11
-1996-02-02,Kyle Rasmussen,US,121
-1996-02-02,Christian Greber,AT,27
-1996-02-02,Asgeir Linberg,NO,12
-1996-02-02,Maurizio Feller,IT,28
-1996-02-02,Daniel Brunner,CH,22
-1996-02-02,Lasse Kjus,NO,243
-1996-02-02,Xavier Gigandet,CH,274
-1996-02-02,Werner Franz,AT,144
-1996-02-02,Peter Rzehak,AT,111
-1996-02-02,Norbert Holzknecht,AT,0
-1996-02-02,Heinrich Rupp,CH,0
-1996-02-02,Kevin Wert,CA,0
-1996-02-02,Aane Saeter,NO,1
-1996-02-02,Paul Accola,CH,10
-1996-02-02,Alberto Senigagliesi,IT,20
-1996-02-02,Patrik Jaerbyn,SE,2
-1996-02-02,Xavier Fournier,FR,26
-1996-02-02,Ralf Socher,CA,64
-1996-02-02,Graham Bell,GB,6
-1996-02-02,Darren Thorburn,CA,21
-1996-02-02,Alessandro Fattori,IT,59
-1996-02-02,Adrien Duvillard,FR,40
-1996-02-02,Marc Girardelli,LU,25
-1996-02-02,Jean Luc Cretier,FR,40
-1996-02-02,Roland Assinger,AT,146
-1996-02-02,Markus Herrmann,CH,66
-1996-02-02,Craig Thrasher,US,2
-1996-02-02,Graydon Oldfield,CA,3
-1996-02-02,David Pretot,FR,54
-1996-02-02,Pietro Vitalini,IT,78
-1996-02-02,Fredrik Nyberg,SE,73
-1996-02-02,Hans Knauss,AT,95
-1996-02-02,Josef Strobl,AT,76
-1996-02-02,Berni Huber,DE,67
-1996-02-02,Kjetil Andre Aamodt,NO,6
-1996-02-02,Max Rauffer,DE,35
-1996-02-02,Didier Cuche,CH,31
-1996-02-02,Patrick Ortlieb,AT,359
-1996-02-02,Guenther Mader,AT,327
-1996-02-02,Christophe Ple',FR,23
-1996-02-02,Kristian Ghedina,IT,177
-1996-02-02,Daniel Mahrer,CH,146
-1996-02-02,Peter Runggaldier,IT,211
-1996-02-02,Atle Skaardal,NO,162
-1996-02-02,William Besse,CH,160
-1996-02-02,Ed Podivinsky,CA,140
-1996-02-02,Bruno Kernen,CH,289
-1996-02-02,Denis Rey,FR,3
-1996-02-02,Rob Boyd,CA,87
-1996-02-02,Cary Mullen,CA,19
-1996-02-02,Luca Cattaneo,IT,39
-1996-02-02,Luc Alphand,FR,532
-1996-02-02,Brian Stemmle,CA,230
-1996-02-02,Werner Perathoner,IT,204
-1996-03-06,Craig Thrasher,US,2
-1996-03-06,Maurizio Feller,IT,28
-1996-03-06,Daniel Brunner,CH,22
-1996-03-06,Marc Girardelli,LU,25
-1996-03-06,David Pretot,FR,54
-1996-03-06,Cary Mullen,CA,19
-1996-03-06,Urs Lehmann,CH,26
-1996-03-06,Didier Cuche,CH,31
-1996-03-06,Chad Fleischer,US,20
-1996-03-06,Graydon Oldfield,CA,3
-1996-03-06,Jean Luc Cretier,FR,40
-1996-03-06,Luke Sauder,CA,25
-1996-03-06,Adrien Duvillard,FR,40
-1996-03-06,Atle Skaardal,NO,180
-1996-03-06,Darren Thorburn,CA,21
-1996-03-06,Graham Bell,GB,6
-1996-03-06,Rob Boyd,CA,87
-1996-03-06,Denis Rey,FR,3
-1996-03-06,Ralf Socher,CA,64
-1996-03-06,Xavier Fournier,FR,26
-1996-03-06,Hans Knauss,AT,95
-1996-03-06,Patrik Jaerbyn,SE,2
-1996-03-06,Alberto Senigagliesi,IT,20
-1996-03-06,Paul Accola,CH,10
-1996-03-06,Werner Perathoner,IT,233
-1996-03-06,Ed Podivinsky,CA,164
-1996-03-06,Max Rauffer,DE,35
-1996-03-06,Aane Saeter,NO,1
-1996-03-06,Alessandro Fattori,IT,59
-1996-03-06,Berni Huber,DE,67
-1996-03-06,Asgeir Linberg,NO,12
-1996-03-06,Andreas Schifferer,AT,120
-1996-03-06,Bruno Kernen,CH,325
-1996-03-06,Daniel Mahrer,CH,186
-1996-03-06,Heinrich Rupp,CH,12
-1996-03-06,Luc Alphand,FR,577
-1996-03-06,Peter Runggaldier,IT,261
-1996-03-06,Kristian Ghedina,IT,237
-1996-03-06,Markus Herrmann,CH,98
-1996-03-06,Kjetil Andre Aamodt,NO,26
-1996-03-06,Werner Franz,AT,166
-1996-03-06,Kevin Wert,CA,13
-1996-03-06,Lasse Kjus,NO,343
-1996-03-06,Fredrik Nyberg,SE,87
-1996-03-06,Hannes Trinkl,AT,130
-1996-03-06,William Besse,CH,176
-1996-03-06,Guenther Mader,AT,407
-1996-03-06,Roland Assinger,AT,172
-1996-03-06,Patrick Ortlieb,AT,359
-1996-03-06,Xavier Gigandet,CH,274
-1996-03-06,Kyle Rasmussen,US,121
-1996-03-06,Markus Foser,LI,52
-1996-03-06,Stefan Krauss,DE,71
-1996-03-06,Andrej Filischkin,RU,4
-1996-03-06,Christian Greber,AT,27
-1996-03-06,Pietro Vitalini,IT,78
-1996-03-06,Christophe Ple',FR,23
-1996-03-06,A.J. Kitt,US,11
-1996-03-06,Juergen Hasler,LI,42
-1996-03-06,Peter Rzehak,AT,111
-1996-03-06,Luca Cattaneo,IT,39
-1996-03-06,Rainer Salzgeber,AT,27
-1996-03-06,Brian Stemmle,CA,230
-1996-03-06,Kenneth Sivertsen,NO,41
-1996-03-06,Franco Cavegn,CH,101
-1996-03-06,Josef Strobl,AT,76
-1996-03-06,Norbert Holzknecht,AT,11
+date,name,ath_country,value,specialty
+1995-12-01,Luc Alphand,FR,100,Downhill
+1995-12-01,Asgeir Linberg,NO,12,Downhill
+1995-12-01,Hannes Trinkl,AT,7,Downhill
+1995-12-01,Christian Greber,AT,5,Downhill
+1995-12-01,Christophe Ple',FR,11,Downhill
+1995-12-01,Peter Rzehak,AT,15,Downhill
+1995-12-01,Brian Stemmle,CA,24,Downhill
+1995-12-01,Heinrich Rupp,CH,0,Downhill
+1995-12-01,David Pretot,FR,0,Downhill
+1995-12-01,Alberto Senigagliesi,IT,0,Downhill
+1995-12-01,A.J. Kitt,US,11,Downhill
+1995-12-01,Maurizio Feller,IT,0,Downhill
+1995-12-01,Daniel Brunner,CH,0,Downhill
+1995-12-01,Norbert Holzknecht,AT,0,Downhill
+1995-12-01,Rob Boyd,CA,0,Downhill
+1995-12-01,Andreas Schifferer,AT,0,Downhill
+1995-12-01,Josef Strobl,AT,0,Giant Slalom
+1995-12-01,Didier Cuche,CH,0,Downhill
+1995-12-01,Xavier Gigandet,CH,50,Downhill
+1995-12-01,Chad Fleischer,US,0,Super G
+1995-12-01,Atle Skaardal,NO,8,Super G
+1995-12-01,Ed Podivinsky,CA,26,Downhill
+1995-12-01,Kevin Wert,CA,0,Downhill
+1995-12-01,Ralf Socher,CA,0,Downhill
+1995-12-01,Werner Perathoner,IT,0,Downhill
+1995-12-01,Werner Franz,AT,14,Downhill
+1995-12-01,Kjetil Andre Aamodt,NO,0,Super G
+1995-12-01,Alessandro Fattori,IT,0,Super G
+1995-12-01,Fredrik Nyberg,SE,45,Giant Slalom
+1995-12-01,Urs Lehmann,CH,0,Downhill
+1995-12-01,Luke Sauder,CA,0,Downhill
+1995-12-01,Cary Mullen,CA,0,Downhill
+1995-12-01,Markus Foser,LI,2,Downhill
+1995-12-01,Stefan Krauss,DE,3,Super G
+1995-12-01,Kristian Ghedina,IT,18,Downhill
+1995-12-01,Berni Huber,DE,0,Downhill
+1995-12-01,Luca Cattaneo,IT,16,Downhill
+1995-12-01,Daniel Mahrer,CH,0,Downhill
+1995-12-01,Adrien Duvillard,FR,0,Downhill
+1995-12-01,Markus Herrmann,CH,0,Downhill
+1995-12-01,Peter Runggaldier,IT,22,Downhill
+1995-12-01,Rainer Salzgeber,AT,20,Giant Slalom
+1995-12-01,Marc Girardelli,LU,0,Slalom
+1995-12-01,Darren Thorburn,CA,0,Downhill
+1995-12-01,Xavier Fournier,FR,0,Downhill
+1995-12-01,Graham Bell,GB,0,Downhill
+1995-12-01,William Besse,CH,9,Downhill
+1995-12-01,Craig Thrasher,US,0,Downhill
+1995-12-01,Juergen Hasler,LI,13,Downhill
+1995-12-01,Guenther Mader,AT,36,Downhill
+1995-12-01,Roland Assinger,AT,40,Downhill
+1995-12-01,Aane Saeter,NO,0,Combined
+1995-12-01,Patrick Ortlieb,AT,60,Downhill
+1995-12-01,Franco Cavegn,CH,32,Downhill
+1995-12-01,Patrik Jaerbyn,SE,0,Super G
+1995-12-01,Max Rauffer,DE,0,Downhill
+1995-12-01,Graydon Oldfield,CA,0,Downhill
+1995-12-01,Hans Knauss,AT,0,Giant Slalom
+1995-12-01,Andrej Filischkin,RU,4,Super G
+1995-12-01,Denis Rey,FR,0,Downhill
+1995-12-01,Paul Accola,CH,0,Giant Slalom
+1995-12-01,Kenneth Sivertsen,NO,29,Downhill
+1995-12-01,Bruno Kernen,CH,0,Downhill
+1995-12-01,Lasse Kjus,NO,80,Giant Slalom
+1995-12-01,Kyle Rasmussen,US,1,Downhill
+1995-12-01,Jean Luc Cretier,FR,0,Downhill
+1995-12-01,Pietro Vitalini,IT,6,Super G
+1995-12-09,Rainer Salzgeber,AT,20,Giant Slalom
+1995-12-09,Ed Podivinsky,CA,44,Downhill
+1995-12-09,Atle Skaardal,NO,30,Super G
+1995-12-09,Peter Runggaldier,IT,32,Downhill
+1995-12-09,Patrik Jaerbyn,SE,0,Super G
+1995-12-09,Darren Thorburn,CA,0,Downhill
+1995-12-09,Adrien Duvillard,FR,0,Downhill
+1995-12-09,Markus Herrmann,CH,0,Downhill
+1995-12-09,Ralf Socher,CA,0,Downhill
+1995-12-09,Marc Girardelli,LU,0,Slalom
+1995-12-09,Patrick Ortlieb,AT,75,Downhill
+1995-12-09,Jean Luc Cretier,FR,0,Downhill
+1995-12-09,Xavier Fournier,FR,0,Downhill
+1995-12-09,Berni Huber,DE,20,Downhill
+1995-12-09,Alberto Senigagliesi,IT,0,Downhill
+1995-12-09,Luc Alphand,FR,200,Downhill
+1995-12-09,Alessandro Fattori,IT,0,Super G
+1995-12-09,Werner Perathoner,IT,24,Downhill
+1995-12-09,Kjetil Andre Aamodt,NO,0,Super G
+1995-12-09,Paul Accola,CH,0,Giant Slalom
+1995-12-09,Hans Knauss,AT,13,Giant Slalom
+1995-12-09,Luke Sauder,CA,3,Downhill
+1995-12-09,Fredrik Nyberg,SE,52,Giant Slalom
+1995-12-09,Markus Foser,LI,2,Downhill
+1995-12-09,Max Rauffer,DE,0,Downhill
+1995-12-09,Urs Lehmann,CH,6,Downhill
+1995-12-09,Cary Mullen,CA,0,Downhill
+1995-12-09,Kristian Ghedina,IT,18,Downhill
+1995-12-09,Aane Saeter,NO,0,Combined
+1995-12-09,Luca Cattaneo,IT,28,Downhill
+1995-12-09,Pietro Vitalini,IT,6,Super G
+1995-12-09,Daniel Mahrer,CH,14,Downhill
+1995-12-09,Lasse Kjus,NO,80,Giant Slalom
+1995-12-09,Roland Assinger,AT,120,Downhill
+1995-12-09,Craig Thrasher,US,2,Downhill
+1995-12-09,A.J. Kitt,US,11,Downhill
+1995-12-09,Kevin Wert,CA,0,Downhill
+1995-12-09,Daniel Brunner,CH,1,Downhill
+1995-12-09,Maurizio Feller,IT,4,Downhill
+1995-12-09,Andrej Filischkin,RU,4,Super G
+1995-12-09,Bruno Kernen,CH,32,Downhill
+1995-12-09,Andreas Schifferer,AT,40,Downhill
+1995-12-09,Norbert Holzknecht,AT,0,Downhill
+1995-12-09,Rob Boyd,CA,0,Downhill
+1995-12-09,Franco Cavegn,CH,68,Downhill
+1995-12-09,Didier Cuche,CH,0,Downhill
+1995-12-09,Xavier Gigandet,CH,95,Downhill
+1995-12-09,Josef Strobl,AT,26,Giant Slalom
+1995-12-09,Graham Bell,GB,0,Downhill
+1995-12-09,Chad Fleischer,US,8,Super G
+1995-12-09,Stefan Krauss,DE,3,Super G
+1995-12-09,Kyle Rasmussen,US,13,Downhill
+1995-12-09,David Pretot,FR,5,Downhill
+1995-12-09,Graydon Oldfield,CA,0,Downhill
+1995-12-09,Werner Franz,AT,30,Downhill
+1995-12-09,William Besse,CH,9,Downhill
+1995-12-09,Kenneth Sivertsen,NO,29,Downhill
+1995-12-09,Asgeir Linberg,NO,12,Downhill
+1995-12-09,Christian Greber,AT,5,Downhill
+1995-12-09,Denis Rey,FR,0,Downhill
+1995-12-09,Brian Stemmle,CA,24,Downhill
+1995-12-09,Christophe Ple',FR,11,Downhill
+1995-12-09,Guenther Mader,AT,86,Downhill
+1995-12-09,Juergen Hasler,LI,42,Downhill
+1995-12-09,Hannes Trinkl,AT,67,Downhill
+1995-12-09,Peter Rzehak,AT,24,Downhill
+1995-12-09,Heinrich Rupp,CH,0,Downhill
+1995-12-16,Urs Lehmann,CH,26,Downhill
+1995-12-16,Atle Skaardal,NO,35,Super G
+1995-12-16,Stefan Krauss,DE,6,Super G
+1995-12-16,Pietro Vitalini,IT,42,Super G
+1995-12-16,David Pretot,FR,5,Downhill
+1995-12-16,Kyle Rasmussen,US,42,Downhill
+1995-12-16,Werner Franz,AT,39,Downhill
+1995-12-16,Hans Knauss,AT,42,Giant Slalom
+1995-12-16,Kenneth Sivertsen,NO,29,Downhill
+1995-12-16,Christian Greber,AT,5,Downhill
+1995-12-16,Ralf Socher,CA,0,Downhill
+1995-12-16,Max Rauffer,DE,0,Downhill
+1995-12-16,Rob Boyd,CA,0,Downhill
+1995-12-16,Berni Huber,DE,34,Downhill
+1995-12-16,Fredrik Nyberg,SE,52,Giant Slalom
+1995-12-16,Rainer Salzgeber,AT,20,Giant Slalom
+1995-12-16,Markus Herrmann,CH,45,Downhill
+1995-12-16,Franco Cavegn,CH,77,Downhill
+1995-12-16,Josef Strobl,AT,26,Giant Slalom
+1995-12-16,Peter Rzehak,AT,35,Downhill
+1995-12-16,Juergen Hasler,LI,42,Downhill
+1995-12-16,Maurizio Feller,IT,4,Downhill
+1995-12-16,Jean Luc Cretier,FR,0,Downhill
+1995-12-16,Werner Perathoner,IT,36,Downhill
+1995-12-16,Christophe Ple',FR,11,Downhill
+1995-12-16,Brian Stemmle,CA,56,Downhill
+1995-12-16,Heinrich Rupp,CH,0,Downhill
+1995-12-16,William Besse,CH,18,Downhill
+1995-12-16,Alessandro Fattori,IT,0,Super G
+1995-12-16,Daniel Brunner,CH,1,Downhill
+1995-12-16,Andreas Schifferer,AT,40,Downhill
+1995-12-16,Norbert Holzknecht,AT,0,Downhill
+1995-12-16,Didier Cuche,CH,10,Downhill
+1995-12-16,Xavier Gigandet,CH,175,Downhill
+1995-12-16,Chad Fleischer,US,14,Super G
+1995-12-16,Roland Assinger,AT,120,Downhill
+1995-12-16,Bruno Kernen,CH,33,Downhill
+1995-12-16,Graham Bell,GB,0,Downhill
+1995-12-16,Andrej Filischkin,RU,4,Super G
+1995-12-16,Graydon Oldfield,CA,3,Downhill
+1995-12-16,Guenther Mader,AT,108,Downhill
+1995-12-16,Denis Rey,FR,0,Downhill
+1995-12-16,Lasse Kjus,NO,125,Giant Slalom
+1995-12-16,Craig Thrasher,US,2,Downhill
+1995-12-16,Patrik Jaerbyn,SE,0,Super G
+1995-12-16,Patrick Ortlieb,AT,175,Downhill
+1995-12-16,Aane Saeter,NO,0,Combined
+1995-12-16,Luc Alphand,FR,260,Downhill
+1995-12-16,Paul Accola,CH,0,Giant Slalom
+1995-12-16,Asgeir Linberg,NO,12,Downhill
+1995-12-16,Hannes Trinkl,AT,80,Downhill
+1995-12-16,A.J. Kitt,US,11,Downhill
+1995-12-16,Kristian Ghedina,IT,42,Downhill
+1995-12-16,Peter Runggaldier,IT,32,Downhill
+1995-12-16,Daniel Mahrer,CH,18,Downhill
+1995-12-16,Adrien Duvillard,FR,0,Downhill
+1995-12-16,Luca Cattaneo,IT,28,Downhill
+1995-12-16,Xavier Fournier,FR,0,Downhill
+1995-12-16,Kevin Wert,CA,0,Downhill
+1995-12-16,Kjetil Andre Aamodt,NO,0,Super G
+1995-12-16,Cary Mullen,CA,18,Downhill
+1995-12-16,Alberto Senigagliesi,IT,0,Downhill
+1995-12-16,Markus Foser,LI,52,Downhill
+1995-12-16,Darren Thorburn,CA,0,Downhill
+1995-12-16,Ed Podivinsky,CA,59,Downhill
+1995-12-16,Marc Girardelli,LU,0,Slalom
+1995-12-16,Luke Sauder,CA,21,Downhill
+1995-12-29,Graydon Oldfield,CA,3,Downhill
+1995-12-29,Luke Sauder,CA,21,Downhill
+1995-12-29,Denis Rey,FR,0,Downhill
+1995-12-29,Kenneth Sivertsen,NO,41,Downhill
+1995-12-29,Kevin Wert,CA,0,Downhill
+1995-12-29,Max Rauffer,DE,0,Downhill
+1995-12-29,Andrej Filischkin,RU,4,Super G
+1995-12-29,Kjetil Andre Aamodt,NO,0,Super G
+1995-12-29,Patrik Jaerbyn,SE,0,Super G
+1995-12-29,Alessandro Fattori,IT,9,Super G
+1995-12-29,Aane Saeter,NO,0,Combined
+1995-12-29,Hans Knauss,AT,55,Giant Slalom
+1995-12-29,Alberto Senigagliesi,IT,0,Downhill
+1995-12-29,Paul Accola,CH,0,Giant Slalom
+1995-12-29,Urs Lehmann,CH,26,Downhill
+1995-12-29,Craig Thrasher,US,2,Downhill
+1995-12-29,Graham Bell,GB,1,Downhill
+1995-12-29,Juergen Hasler,LI,42,Downhill
+1995-12-29,Asgeir Linberg,NO,12,Downhill
+1995-12-29,Christian Greber,AT,27,Downhill
+1995-12-29,Darren Thorburn,CA,4,Downhill
+1995-12-29,Christophe Ple',FR,11,Downhill
+1995-12-29,David Pretot,FR,5,Downhill
+1995-12-29,Ralf Socher,CA,0,Downhill
+1995-12-29,Marc Girardelli,LU,15,Slalom
+1995-12-29,Heinrich Rupp,CH,0,Downhill
+1995-12-29,A.J. Kitt,US,11,Downhill
+1995-12-29,Daniel Brunner,CH,1,Downhill
+1995-12-29,Adrien Duvillard,FR,11,Downhill
+1995-12-29,Norbert Holzknecht,AT,0,Downhill
+1995-12-29,Didier Cuche,CH,15,Downhill
+1995-12-29,Josef Strobl,AT,34,Giant Slalom
+1995-12-29,Rainer Salzgeber,AT,20,Giant Slalom
+1995-12-29,Xavier Fournier,FR,0,Downhill
+1995-12-29,Chad Fleischer,US,14,Super G
+1995-12-29,Berni Huber,DE,40,Downhill
+1995-12-29,Stefan Krauss,DE,35,Super G
+1995-12-29,Cary Mullen,CA,18,Downhill
+1995-12-29,Luca Cattaneo,IT,28,Downhill
+1995-12-29,Maurizio Feller,IT,4,Downhill
+1995-12-29,Peter Runggaldier,IT,72,Downhill
+1995-12-29,Patrick Ortlieb,AT,175,Downhill
+1995-12-29,Werner Perathoner,IT,86,Downhill
+1995-12-29,William Besse,CH,18,Downhill
+1995-12-29,Franco Cavegn,CH,101,Downhill
+1995-12-29,Werner Franz,AT,53,Downhill
+1995-12-29,Lasse Kjus,NO,225,Giant Slalom
+1995-12-29,Kyle Rasmussen,US,42,Downhill
+1995-12-29,Brian Stemmle,CA,58,Downhill
+1995-12-29,Andreas Schifferer,AT,120,Downhill
+1995-12-29,Rob Boyd,CA,0,Downhill
+1995-12-29,Xavier Gigandet,CH,175,Downhill
+1995-12-29,Markus Herrmann,CH,52,Downhill
+1995-12-29,Atle Skaardal,NO,80,Super G
+1995-12-29,Guenther Mader,AT,144,Downhill
+1995-12-29,Roland Assinger,AT,146,Downhill
+1995-12-29,Bruno Kernen,CH,49,Downhill
+1995-12-29,Fredrik Nyberg,SE,62,Giant Slalom
+1995-12-29,Markus Foser,LI,52,Downhill
+1995-12-29,Peter Rzehak,AT,35,Downhill
+1995-12-29,Ed Podivinsky,CA,119,Downhill
+1995-12-29,Daniel Mahrer,CH,18,Downhill
+1995-12-29,Pietro Vitalini,IT,42,Super G
+1995-12-29,Kristian Ghedina,IT,62,Downhill
+1995-12-29,Jean Luc Cretier,FR,32,Downhill
+1995-12-29,Luc Alphand,FR,263,Downhill
+1995-12-29,Hannes Trinkl,AT,100,Downhill
+1996-01-13,Norbert Holzknecht,AT,0,Downhill
+1996-01-13,Berni Huber,DE,47,Downhill
+1996-01-13,Didier Cuche,CH,24,Downhill
+1996-01-13,Daniel Mahrer,CH,31,Downhill
+1996-01-13,Ed Podivinsky,CA,119,Downhill
+1996-01-13,Rainer Salzgeber,AT,20,Giant Slalom
+1996-01-13,Peter Runggaldier,IT,132,Downhill
+1996-01-13,Asgeir Linberg,NO,12,Downhill
+1996-01-13,Darren Thorburn,CA,7,Downhill
+1996-01-13,Chad Fleischer,US,14,Super G
+1996-01-13,Ralf Socher,CA,22,Downhill
+1996-01-13,Graham Bell,GB,6,Downhill
+1996-01-13,Adrien Duvillard,FR,27,Downhill
+1996-01-13,Christian Greber,AT,27,Downhill
+1996-01-13,Marc Girardelli,LU,15,Slalom
+1996-01-13,Atle Skaardal,NO,90,Super G
+1996-01-13,Peter Rzehak,AT,80,Downhill
+1996-01-13,Luca Cattaneo,IT,28,Downhill
+1996-01-13,Roland Assinger,AT,146,Downhill
+1996-01-13,Fredrik Nyberg,SE,62,Giant Slalom
+1996-01-13,Andreas Schifferer,AT,120,Downhill
+1996-01-13,Markus Foser,LI,52,Downhill
+1996-01-13,Cary Mullen,CA,18,Downhill
+1996-01-13,Luke Sauder,CA,21,Downhill
+1996-01-13,Brian Stemmle,CA,69,Downhill
+1996-01-13,Christophe Ple',FR,11,Downhill
+1996-01-13,Kjetil Andre Aamodt,NO,0,Super G
+1996-01-13,Hannes Trinkl,AT,100,Downhill
+1996-01-13,Werner Perathoner,IT,122,Downhill
+1996-01-13,Xavier Fournier,FR,18,Downhill
+1996-01-13,William Besse,CH,32,Downhill
+1996-01-13,Heinrich Rupp,CH,0,Downhill
+1996-01-13,Bruno Kernen,CH,75,Downhill
+1996-01-13,A.J. Kitt,US,11,Downhill
+1996-01-13,Kristian Ghedina,IT,112,Downhill
+1996-01-13,Kevin Wert,CA,0,Downhill
+1996-01-13,Werner Franz,AT,57,Downhill
+1996-01-13,Alessandro Fattori,IT,21,Super G
+1996-01-13,Daniel Brunner,CH,1,Downhill
+1996-01-13,Urs Lehmann,CH,26,Downhill
+1996-01-13,Xavier Gigandet,CH,175,Downhill
+1996-01-13,Alberto Senigagliesi,IT,0,Downhill
+1996-01-13,Markus Herrmann,CH,53,Downhill
+1996-01-13,Luc Alphand,FR,343,Downhill
+1996-01-13,Pietro Vitalini,IT,62,Super G
+1996-01-13,Kenneth Sivertsen,NO,41,Downhill
+1996-01-13,Max Rauffer,DE,0,Downhill
+1996-01-13,Josef Strobl,AT,34,Giant Slalom
+1996-01-13,Denis Rey,FR,0,Downhill
+1996-01-13,Kyle Rasmussen,US,66,Downhill
+1996-01-13,Aane Saeter,NO,0,Combined
+1996-01-13,Patrik Jaerbyn,SE,2,Super G
+1996-01-13,Lasse Kjus,NO,225,Giant Slalom
+1996-01-13,Guenther Mader,AT,244,Downhill
+1996-01-13,Graydon Oldfield,CA,3,Downhill
+1996-01-13,Rob Boyd,CA,40,Downhill
+1996-01-13,Paul Accola,CH,0,Giant Slalom
+1996-01-13,Patrick Ortlieb,AT,207,Downhill
+1996-01-13,Maurizio Feller,IT,4,Downhill
+1996-01-13,Hans Knauss,AT,87,Giant Slalom
+1996-01-13,Franco Cavegn,CH,101,Downhill
+1996-01-13,Craig Thrasher,US,2,Downhill
+1996-01-13,Stefan Krauss,DE,43,Super G
+1996-01-13,Jean Luc Cretier,FR,38,Downhill
+1996-01-13,Andrej Filischkin,RU,4,Super G
+1996-01-13,David Pretot,FR,20,Downhill
+1996-01-13,Juergen Hasler,LI,42,Downhill
+1996-01-19,Franco Cavegn,CH,101,Downhill
+1996-01-19,Juergen Hasler,LI,42,Downhill
+1996-01-19,Markus Foser,LI,52,Downhill
+1996-01-19,Heinrich Rupp,CH,0,Downhill
+1996-01-19,Kenneth Sivertsen,NO,41,Downhill
+1996-01-19,Christophe Ple',FR,11,Downhill
+1996-01-19,Kjetil Andre Aamodt,NO,0,Super G
+1996-01-19,Patrick Ortlieb,AT,239,Downhill
+1996-01-19,Brian Stemmle,CA,114,Downhill
+1996-01-19,Luke Sauder,CA,25,Downhill
+1996-01-19,Peter Rzehak,AT,87,Downhill
+1996-01-19,Cary Mullen,CA,18,Downhill
+1996-01-19,Asgeir Linberg,NO,12,Downhill
+1996-01-19,Paul Accola,CH,0,Giant Slalom
+1996-01-19,Marc Girardelli,LU,15,Slalom
+1996-01-19,Peter Runggaldier,IT,135,Downhill
+1996-01-19,Daniel Mahrer,CH,91,Downhill
+1996-01-19,Adrien Duvillard,FR,35,Downhill
+1996-01-19,Darren Thorburn,CA,21,Downhill
+1996-01-19,Jean Luc Cretier,FR,40,Downhill
+1996-01-19,Luca Cattaneo,IT,28,Downhill
+1996-01-19,Ed Podivinsky,CA,125,Downhill
+1996-01-19,Hans Knauss,AT,87,Giant Slalom
+1996-01-19,Hannes Trinkl,AT,100,Downhill
+1996-01-19,Xavier Fournier,FR,18,Downhill
+1996-01-19,Aane Saeter,NO,0,Combined
+1996-01-19,Kevin Wert,CA,0,Downhill
+1996-01-19,Luc Alphand,FR,352,Downhill
+1996-01-19,Pietro Vitalini,IT,62,Super G
+1996-01-19,Werner Perathoner,IT,138,Downhill
+1996-01-19,Max Rauffer,DE,0,Downhill
+1996-01-19,Kristian Ghedina,IT,112,Downhill
+1996-01-19,Patrik Jaerbyn,SE,2,Super G
+1996-01-19,Werner Franz,AT,86,Downhill
+1996-01-19,William Besse,CH,112,Downhill
+1996-01-19,Craig Thrasher,US,2,Downhill
+1996-01-19,Berni Huber,DE,62,Downhill
+1996-01-19,Rob Boyd,CA,52,Downhill
+1996-01-19,Alberto Senigagliesi,IT,20,Downhill
+1996-01-19,Rainer Salzgeber,AT,20,Giant Slalom
+1996-01-19,Graydon Oldfield,CA,3,Downhill
+1996-01-19,Markus Herrmann,CH,54,Downhill
+1996-01-19,Xavier Gigandet,CH,225,Downhill
+1996-01-19,Maurizio Feller,IT,28,Downhill
+1996-01-19,Josef Strobl,AT,47,Giant Slalom
+1996-01-19,Atle Skaardal,NO,126,Super G
+1996-01-19,Ralf Socher,CA,44,Downhill
+1996-01-19,Chad Fleischer,US,14,Super G
+1996-01-19,Guenther Mader,AT,250,Downhill
+1996-01-19,Christian Greber,AT,27,Downhill
+1996-01-19,Andrej Filischkin,RU,4,Super G
+1996-01-19,Graham Bell,GB,6,Downhill
+1996-01-19,Bruno Kernen,CH,175,Downhill
+1996-01-19,David Pretot,FR,20,Downhill
+1996-01-19,Roland Assinger,AT,146,Downhill
+1996-01-19,Kyle Rasmussen,US,106,Downhill
+1996-01-19,Didier Cuche,CH,24,Downhill
+1996-01-19,Alessandro Fattori,IT,41,Super G
+1996-01-19,Norbert Holzknecht,AT,0,Downhill
+1996-01-19,A.J. Kitt,US,11,Downhill
+1996-01-19,Lasse Kjus,NO,225,Giant Slalom
+1996-01-19,Fredrik Nyberg,SE,73,Giant Slalom
+1996-01-19,Daniel Brunner,CH,11,Downhill
+1996-01-19,Denis Rey,FR,0,Downhill
+1996-01-19,Urs Lehmann,CH,26,Downhill
+1996-01-19,Andreas Schifferer,AT,120,Downhill
+1996-01-19,Stefan Krauss,DE,69,Super G
+1996-01-20,Andreas Schifferer,AT,120,Downhill
+1996-01-20,Craig Thrasher,US,2,Downhill
+1996-01-20,Guenther Mader,AT,282,Downhill
+1996-01-20,Norbert Holzknecht,AT,0,Downhill
+1996-01-20,Ed Podivinsky,CA,125,Downhill
+1996-01-20,Andrej Filischkin,RU,4,Super G
+1996-01-20,A.J. Kitt,US,11,Downhill
+1996-01-20,Marc Girardelli,LU,25,Slalom
+1996-01-20,William Besse,CH,138,Downhill
+1996-01-20,Graham Bell,GB,6,Downhill
+1996-01-20,Bruno Kernen,CH,275,Downhill
+1996-01-20,Daniel Brunner,CH,22,Downhill
+1996-01-20,Heinrich Rupp,CH,0,Downhill
+1996-01-20,Chad Fleischer,US,20,Super G
+1996-01-20,Darren Thorburn,CA,21,Downhill
+1996-01-20,Lasse Kjus,NO,225,Giant Slalom
+1996-01-20,Asgeir Linberg,NO,12,Downhill
+1996-01-20,Brian Stemmle,CA,150,Downhill
+1996-01-20,Patrik Jaerbyn,SE,2,Super G
+1996-01-20,Aane Saeter,NO,1,Combined
+1996-01-20,Xavier Gigandet,CH,254,Downhill
+1996-01-20,Luc Alphand,FR,432,Downhill
+1996-01-20,Denis Rey,FR,0,Downhill
+1996-01-20,Patrick Ortlieb,AT,319,Downhill
+1996-01-20,Graydon Oldfield,CA,3,Downhill
+1996-01-20,Kevin Wert,CA,0,Downhill
+1996-01-20,Didier Cuche,CH,24,Downhill
+1996-01-20,Christophe Ple',FR,11,Downhill
+1996-01-20,Roland Assinger,AT,146,Downhill
+1996-01-20,Hannes Trinkl,AT,114,Downhill
+1996-01-20,Luca Cattaneo,IT,28,Downhill
+1996-01-20,Paul Accola,CH,10,Giant Slalom
+1996-01-20,Luke Sauder,CA,25,Downhill
+1996-01-20,Kristian Ghedina,IT,127,Downhill
+1996-01-20,Stefan Krauss,DE,71,Super G
+1996-01-20,Josef Strobl,AT,47,Giant Slalom
+1996-01-20,Berni Huber,DE,62,Downhill
+1996-01-20,Markus Foser,LI,52,Downhill
+1996-01-20,Rob Boyd,CA,74,Downhill
+1996-01-20,Kjetil Andre Aamodt,NO,0,Super G
+1996-01-20,Werner Perathoner,IT,178,Downhill
+1996-01-20,Maurizio Feller,IT,28,Downhill
+1996-01-20,Kyle Rasmussen,US,119,Downhill
+1996-01-20,David Pretot,FR,44,Downhill
+1996-01-20,Alberto Senigagliesi,IT,20,Downhill
+1996-01-20,Atle Skaardal,NO,126,Super G
+1996-01-20,Christian Greber,AT,27,Downhill
+1996-01-20,Werner Franz,AT,136,Downhill
+1996-01-20,Ralf Socher,CA,64,Downhill
+1996-01-20,Rainer Salzgeber,AT,27,Giant Slalom
+1996-01-20,Alessandro Fattori,IT,59,Super G
+1996-01-20,Markus Herrmann,CH,66,Downhill
+1996-01-20,Urs Lehmann,CH,26,Downhill
+1996-01-20,Peter Rzehak,AT,87,Downhill
+1996-01-20,Cary Mullen,CA,18,Downhill
+1996-01-20,Fredrik Nyberg,SE,73,Giant Slalom
+1996-01-20,Jean Luc Cretier,FR,40,Downhill
+1996-01-20,Xavier Fournier,FR,26,Downhill
+1996-01-20,Daniel Mahrer,CH,136,Downhill
+1996-01-20,Juergen Hasler,LI,42,Downhill
+1996-01-20,Max Rauffer,DE,3,Downhill
+1996-01-20,Adrien Duvillard,FR,40,Downhill
+1996-01-20,Hans Knauss,AT,91,Giant Slalom
+1996-01-20,Peter Runggaldier,IT,151,Downhill
+1996-01-20,Kenneth Sivertsen,NO,41,Downhill
+1996-01-20,Pietro Vitalini,IT,62,Super G
+1996-01-20,Franco Cavegn,CH,101,Downhill
+1996-02-02,Christian Greber,AT,27,Downhill
+1996-02-02,Chad Fleischer,US,20,Super G
+1996-02-02,Hans Knauss,AT,95,Giant Slalom
+1996-02-02,Atle Skaardal,NO,162,Super G
+1996-02-02,Lasse Kjus,NO,243,Giant Slalom
+1996-02-02,Roland Assinger,AT,146,Downhill
+1996-02-02,Bruno Kernen,CH,289,Downhill
+1996-02-02,Luc Alphand,FR,532,Downhill
+1996-02-02,Xavier Gigandet,CH,274,Downhill
+1996-02-02,Didier Cuche,CH,31,Downhill
+1996-02-02,Norbert Holzknecht,AT,0,Downhill
+1996-02-02,Berni Huber,DE,67,Downhill
+1996-02-02,Paul Accola,CH,10,Giant Slalom
+1996-02-02,Fredrik Nyberg,SE,73,Giant Slalom
+1996-02-02,Ralf Socher,CA,64,Downhill
+1996-02-02,Markus Herrmann,CH,66,Downhill
+1996-02-02,David Pretot,FR,54,Downhill
+1996-02-02,Peter Rzehak,AT,111,Downhill
+1996-02-02,Kyle Rasmussen,US,121,Downhill
+1996-02-02,Juergen Hasler,LI,42,Downhill
+1996-02-02,Craig Thrasher,US,2,Downhill
+1996-02-02,Kenneth Sivertsen,NO,41,Downhill
+1996-02-02,Stefan Krauss,DE,71,Super G
+1996-02-02,Josef Strobl,AT,76,Giant Slalom
+1996-02-02,Denis Rey,FR,3,Downhill
+1996-02-02,Graydon Oldfield,CA,3,Downhill
+1996-02-02,Aane Saeter,NO,1,Combined
+1996-02-02,Rob Boyd,CA,87,Downhill
+1996-02-02,Guenther Mader,AT,327,Downhill
+1996-02-02,Patrik Jaerbyn,SE,2,Super G
+1996-02-02,Patrick Ortlieb,AT,359,Downhill
+1996-02-02,Pietro Vitalini,IT,78,Super G
+1996-02-02,Andrej Filischkin,RU,4,Super G
+1996-02-02,Maurizio Feller,IT,28,Downhill
+1996-02-02,Max Rauffer,DE,35,Downhill
+1996-02-02,Graham Bell,GB,6,Downhill
+1996-02-02,Franco Cavegn,CH,101,Downhill
+1996-02-02,Peter Runggaldier,IT,211,Downhill
+1996-02-02,Rainer Salzgeber,AT,27,Giant Slalom
+1996-02-02,Christophe Ple',FR,23,Downhill
+1996-02-02,Heinrich Rupp,CH,0,Downhill
+1996-02-02,Alberto Senigagliesi,IT,20,Downhill
+1996-02-02,Kjetil Andre Aamodt,NO,6,Super G
+1996-02-02,Brian Stemmle,CA,230,Downhill
+1996-02-02,Markus Foser,LI,52,Downhill
+1996-02-02,Asgeir Linberg,NO,12,Downhill
+1996-02-02,Luke Sauder,CA,25,Downhill
+1996-02-02,Cary Mullen,CA,19,Downhill
+1996-02-02,William Besse,CH,160,Downhill
+1996-02-02,Kevin Wert,CA,0,Downhill
+1996-02-02,Xavier Fournier,FR,26,Downhill
+1996-02-02,Hannes Trinkl,AT,114,Downhill
+1996-02-02,Darren Thorburn,CA,21,Downhill
+1996-02-02,Daniel Mahrer,CH,146,Downhill
+1996-02-02,Ed Podivinsky,CA,140,Downhill
+1996-02-02,Luca Cattaneo,IT,39,Downhill
+1996-02-02,Marc Girardelli,LU,25,Slalom
+1996-02-02,Adrien Duvillard,FR,40,Downhill
+1996-02-02,Kristian Ghedina,IT,177,Downhill
+1996-02-02,Werner Perathoner,IT,204,Downhill
+1996-02-02,Jean Luc Cretier,FR,40,Downhill
+1996-02-02,Urs Lehmann,CH,26,Downhill
+1996-02-02,Alessandro Fattori,IT,59,Super G
+1996-02-02,Daniel Brunner,CH,22,Downhill
+1996-02-02,Andreas Schifferer,AT,120,Downhill
+1996-02-02,Werner Franz,AT,144,Downhill
+1996-02-02,A.J. Kitt,US,11,Downhill
+1996-03-06,Chad Fleischer,US,20,Super G
+1996-03-06,Kevin Wert,CA,13,Downhill
+1996-03-06,Ed Podivinsky,CA,164,Downhill
+1996-03-06,Xavier Fournier,FR,26,Downhill
+1996-03-06,Urs Lehmann,CH,26,Downhill
+1996-03-06,Kenneth Sivertsen,NO,41,Downhill
+1996-03-06,Franco Cavegn,CH,101,Downhill
+1996-03-06,Craig Thrasher,US,2,Downhill
+1996-03-06,Kyle Rasmussen,US,121,Downhill
+1996-03-06,Kristian Ghedina,IT,237,Downhill
+1996-03-06,Rainer Salzgeber,AT,27,Giant Slalom
+1996-03-06,Juergen Hasler,LI,42,Downhill
+1996-03-06,Patrick Ortlieb,AT,359,Downhill
+1996-03-06,Darren Thorburn,CA,21,Downhill
+1996-03-06,Max Rauffer,DE,35,Downhill
+1996-03-06,Lasse Kjus,NO,343,Giant Slalom
+1996-03-06,Markus Herrmann,CH,98,Downhill
+1996-03-06,Daniel Brunner,CH,22,Downhill
+1996-03-06,Daniel Mahrer,CH,186,Downhill
+1996-03-06,Hans Knauss,AT,95,Giant Slalom
+1996-03-06,Luca Cattaneo,IT,39,Downhill
+1996-03-06,Aane Saeter,NO,1,Combined
+1996-03-06,Luc Alphand,FR,577,Downhill
+1996-03-06,Pietro Vitalini,IT,78,Super G
+1996-03-06,Marc Girardelli,LU,25,Slalom
+1996-03-06,Norbert Holzknecht,AT,11,Downhill
+1996-03-06,Fredrik Nyberg,SE,87,Giant Slalom
+1996-03-06,Jean Luc Cretier,FR,40,Downhill
+1996-03-06,Adrien Duvillard,FR,40,Downhill
+1996-03-06,Patrik Jaerbyn,SE,2,Super G
+1996-03-06,Peter Runggaldier,IT,261,Downhill
+1996-03-06,Denis Rey,FR,3,Downhill
+1996-03-06,Alessandro Fattori,IT,59,Super G
+1996-03-06,Werner Perathoner,IT,233,Downhill
+1996-03-06,Maurizio Feller,IT,28,Downhill
+1996-03-06,Ralf Socher,CA,64,Downhill
+1996-03-06,Peter Rzehak,AT,111,Downhill
+1996-03-06,Bruno Kernen,CH,325,Downhill
+1996-03-06,David Pretot,FR,54,Downhill
+1996-03-06,Heinrich Rupp,CH,12,Downhill
+1996-03-06,Graham Bell,GB,6,Downhill
+1996-03-06,Alberto Senigagliesi,IT,20,Downhill
+1996-03-06,Werner Franz,AT,166,Downhill
+1996-03-06,Atle Skaardal,NO,180,Super G
+1996-03-06,William Besse,CH,176,Downhill
+1996-03-06,Roland Assinger,AT,172,Downhill
+1996-03-06,Christian Greber,AT,27,Downhill
+1996-03-06,Kjetil Andre Aamodt,NO,26,Super G
+1996-03-06,Cary Mullen,CA,19,Downhill
+1996-03-06,Andrej Filischkin,RU,4,Super G
+1996-03-06,Paul Accola,CH,10,Giant Slalom
+1996-03-06,Hannes Trinkl,AT,130,Downhill
+1996-03-06,Andreas Schifferer,AT,120,Downhill
+1996-03-06,Luke Sauder,CA,25,Downhill
+1996-03-06,Stefan Krauss,DE,71,Super G
+1996-03-06,Didier Cuche,CH,31,Downhill
+1996-03-06,Rob Boyd,CA,87,Downhill
+1996-03-06,Christophe Ple',FR,23,Downhill
+1996-03-06,Guenther Mader,AT,407,Downhill
+1996-03-06,Asgeir Linberg,NO,12,Downhill
+1996-03-06,Xavier Gigandet,CH,274,Downhill
+1996-03-06,Josef Strobl,AT,76,Giant Slalom
+1996-03-06,Brian Stemmle,CA,230,Downhill
+1996-03-06,A.J. Kitt,US,11,Downhill
+1996-03-06,Markus Foser,LI,52,Downhill
+1996-03-06,Graydon Oldfield,CA,3,Downhill
+1996-03-06,Berni Huber,DE,67,Downhill

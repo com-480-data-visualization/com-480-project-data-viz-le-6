@@ -1,386 +1,386 @@
-date,name,ath_country,value
-1999-11-28,Hermann Maier,AT,100
-1999-11-28,Ed Podivinsky,CA,1
-1999-11-28,Pierre Emmanuel Dalcin,FR,2
-1999-11-28,Patrice Manuel,FR,3
-1999-11-28,Chad Fleischer,US,4
-1999-11-28,Peter Runggaldier,IT,5
-1999-11-28,Kjetil Andre Aamodt,NO,6
-1999-11-28,Bruno Kernen,CH,7
-1999-11-28,Bjarne Solbakken,NO,9
-1999-11-28,Didier Defago,CH,10
-1999-11-28,Kristian Ghedina,IT,0
-1999-11-28,Alessandro Fattori,IT,11
-1999-11-28,Marco Buechel,LI,13
-1999-11-28,Fritz Strobl,AT,15
-1999-11-28,Christian Greber,AT,15
-1999-11-28,Patrik Jaerbyn,SE,16
-1999-11-28,Daron Rahlves,US,18
-1999-11-28,Rainer Salzgeber,AT,20
-1999-11-28,Didier Cuche,CH,22
-1999-11-28,Patrick Wirth,AT,24
-1999-11-28,Josef Strobl,AT,26
-1999-11-28,Steve Locher,CH,12
-1999-11-28,Christophe Saioni,FR,0
-1999-11-28,Sebastien Fournier-Bidoz,FR,0
-1999-11-28,Luca Cattaneo,IT,0
-1999-11-28,Hannes Trinkl,AT,0
-1999-11-28,Jernej Rebersak,SK,0
-1999-11-28,Roland Fischnaller,IT,0
-1999-11-28,Juergen Hasler,LI,0
-1999-11-28,Lorenzo Galli,IT,0
-1999-11-28,Gregor Sparovec,SK,0
-1999-11-28,Max Rauffer,DE,0
-1999-11-28,Konrad Hari,CH,0
-1999-11-28,Claude Cretier,FR,0
-1999-11-28,Stefan Stankalla,DE,0
-1999-11-28,Vincent Millet,FR,0
-1999-11-28,Jakub Fiala,US,0
-1999-11-28,Lasse Paulsen,NO,0
-1999-11-28,Iwan Bormolini,IT,0
-1999-11-28,Juerg Gruenenfelder,CH,0
-1999-11-28,Kenneth Sivertsen,NO,0
-1999-11-28,Darin McBeath,CA,0
-1999-11-28,P Casey Puckett,US,0
-1999-11-28,Kurt Sulzenbacher,IT,0
-1999-11-28,Christoph Gruber,AT,0
-1999-11-28,Jernej Koblar,SK,0
-1999-11-28,Paul Accola,CH,29
-1999-11-28,Werner Franz,AT,32
-1999-11-28,Bode Miller,US,8
-1999-11-28,Christian Mayer,AT,45
-1999-11-28,Hans Knauss,AT,40
-1999-11-28,Stephan Eberharter,AT,80
-1999-11-28,Lasse Kjus,NO,60
-1999-11-28,Andreas Schifferer,AT,50
-1999-11-28,Fredrik Nyberg,SE,36
-1999-12-05,Sebastien Fournier-Bidoz,FR,16
-1999-12-05,Bruno Kernen,CH,7
-1999-12-05,Juerg Gruenenfelder,CH,2
-1999-12-05,Hannes Trinkl,AT,0
-1999-12-05,Bode Miller,US,8
-1999-12-05,Christophe Saioni,FR,18
-1999-12-05,Jernej Rebersak,SK,0
-1999-12-05,Chad Fleischer,US,5
-1999-12-05,Juergen Hasler,LI,0
-1999-12-05,Steve Locher,CH,32
-1999-12-05,Kurt Sulzenbacher,IT,8
-1999-12-05,Patrice Manuel,FR,3
-1999-12-05,Stefan Stankalla,DE,0
-1999-12-05,Christoph Gruber,AT,9
-1999-12-05,Pierre Emmanuel Dalcin,FR,2
-1999-12-05,Paul Accola,CH,44
-1999-12-05,Ed Podivinsky,CA,1
-1999-12-05,Lasse Paulsen,NO,0
-1999-12-05,Jernej Koblar,SK,10
-1999-12-05,Luca Cattaneo,IT,13
-1999-12-05,Iwan Bormolini,IT,0
-1999-12-05,Alessandro Fattori,IT,14
-1999-12-05,Kristian Ghedina,IT,40
-1999-12-05,Rainer Salzgeber,AT,32
-1999-12-05,Peter Runggaldier,IT,16
-1999-12-05,Jakub Fiala,US,0
-1999-12-05,Bjarne Solbakken,NO,9
-1999-12-05,Roland Fischnaller,IT,0
-1999-12-05,Christian Greber,AT,15
-1999-12-05,Daron Rahlves,US,50
-1999-12-05,Darin McBeath,CA,5
-1999-12-05,Fritz Strobl,AT,60
-1999-12-05,Fredrik Nyberg,SE,116
-1999-12-05,Claude Cretier,FR,0
-1999-12-05,Konrad Hari,CH,0
-1999-12-05,Werner Franz,AT,61
-1999-12-05,Vincent Millet,FR,0
-1999-12-05,Kjetil Andre Aamodt,NO,20
-1999-12-05,Josef Strobl,AT,86
-1999-12-05,P Casey Puckett,US,6
-1999-12-05,Marco Buechel,LI,13
-1999-12-05,Max Rauffer,DE,0
-1999-12-05,Hermann Maier,AT,200
-1999-12-05,Lasse Kjus,NO,60
-1999-12-05,Hans Knauss,AT,66
-1999-12-05,Christian Mayer,AT,45
-1999-12-05,Kenneth Sivertsen,NO,4
-1999-12-05,Patrick Wirth,AT,46
-1999-12-05,Didier Defago,CH,34
-1999-12-05,Andreas Schifferer,AT,86
-1999-12-05,Lorenzo Galli,IT,0
-1999-12-05,Gregor Sparovec,SK,0
-1999-12-05,Stephan Eberharter,AT,130
-1999-12-05,Didier Cuche,CH,29
-1999-12-05,Patrik Jaerbyn,SE,16
-2000-01-21,Lasse Kjus,NO,60
-2000-01-21,Pierre Emmanuel Dalcin,FR,2
-2000-01-21,Peter Runggaldier,IT,27
-2000-01-21,Patrice Manuel,FR,3
-2000-01-21,Bode Miller,US,8
-2000-01-21,Christophe Saioni,FR,28
-2000-01-21,Stephan Eberharter,AT,130
-2000-01-21,Bjarne Solbakken,NO,9
-2000-01-21,Alessandro Fattori,IT,14
-2000-01-21,Paul Accola,CH,50
-2000-01-21,Rainer Salzgeber,AT,32
-2000-01-21,P Casey Puckett,US,14
-2000-01-21,Jernej Koblar,SK,17
-2000-01-21,Patrick Wirth,AT,46
-2000-01-21,Bruno Kernen,CH,16
-2000-01-21,Lasse Paulsen,NO,4
-2000-01-21,Ed Podivinsky,CA,1
-2000-01-21,Chad Fleischer,US,5
-2000-01-21,Kurt Sulzenbacher,IT,8
-2000-01-21,Christoph Gruber,AT,9
-2000-01-21,Sebastien Fournier-Bidoz,FR,34
-2000-01-21,Juerg Gruenenfelder,CH,3
-2000-01-21,Christian Greber,AT,35
-2000-01-21,Marco Buechel,LI,63
-2000-01-21,Josef Strobl,AT,136
-2000-01-21,Fritz Strobl,AT,84
-2000-01-21,Jakub Fiala,US,2
-2000-01-21,Andreas Schifferer,AT,110
-2000-01-21,Daron Rahlves,US,76
-2000-01-21,Didier Cuche,CH,89
-2000-01-21,Hermann Maier,AT,300
-2000-01-21,Christian Mayer,AT,74
-2000-01-21,Werner Franz,AT,141
-2000-01-21,Kenneth Sivertsen,NO,18
-2000-01-21,Kristian Ghedina,IT,72
-2000-01-21,Didier Defago,CH,70
-2000-01-21,Hannes Trinkl,AT,0
-2000-01-21,Gregor Sparovec,SK,0
-2000-01-21,Jernej Rebersak,SK,0
-2000-01-21,Luca Cattaneo,IT,16
-2000-01-21,Hans Knauss,AT,78
-2000-01-21,Darin McBeath,CA,5
-2000-01-21,Vincent Millet,FR,0
-2000-01-21,Stefan Stankalla,DE,0
-2000-01-21,Fredrik Nyberg,SE,129
-2000-01-21,Kjetil Andre Aamodt,NO,60
-2000-01-21,Steve Locher,CH,48
-2000-01-21,Konrad Hari,CH,0
-2000-01-21,Claude Cretier,FR,0
-2000-01-21,Patrik Jaerbyn,SE,21
-2000-01-21,Iwan Bormolini,IT,15
-2000-01-21,Lorenzo Galli,IT,0
-2000-01-21,Juergen Hasler,LI,0
-2000-01-21,Roland Fischnaller,IT,0
-2000-01-21,Max Rauffer,DE,0
-2000-02-12,Stephan Eberharter,AT,190
-2000-02-12,P Casey Puckett,US,17
-2000-02-12,Werner Franz,AT,191
-2000-02-12,Jakub Fiala,US,4
-2000-02-12,Didier Cuche,CH,169
-2000-02-12,Luca Cattaneo,IT,18
-2000-02-12,Ed Podivinsky,CA,5
-2000-02-12,Hannes Trinkl,AT,0
-2000-02-12,Jernej Koblar,SK,23
-2000-02-12,Kjetil Andre Aamodt,NO,82
-2000-02-12,Chad Fleischer,US,5
-2000-02-12,Pierre Emmanuel Dalcin,FR,2
-2000-02-12,Christoph Gruber,AT,9
-2000-02-12,Kurt Sulzenbacher,IT,8
-2000-02-12,Andreas Schifferer,AT,134
-2000-02-12,Darin McBeath,CA,5
-2000-02-12,Kenneth Sivertsen,NO,18
-2000-02-12,Iwan Bormolini,IT,15
-2000-02-12,Bruno Kernen,CH,16
-2000-02-12,Rainer Salzgeber,AT,58
-2000-02-12,Lasse Paulsen,NO,4
-2000-02-12,Konrad Hari,CH,0
-2000-02-12,Max Rauffer,DE,0
-2000-02-12,Paul Accola,CH,79
-2000-02-12,Gregor Sparovec,SK,0
-2000-02-12,Lorenzo Galli,IT,0
-2000-02-12,Juergen Hasler,LI,0
-2000-02-12,Roland Fischnaller,IT,0
-2000-02-12,Didier Defago,CH,102
-2000-02-12,Christian Mayer,AT,110
-2000-02-12,Patrik Jaerbyn,SE,26
-2000-02-12,Bode Miller,US,8
-2000-02-12,Bjarne Solbakken,NO,9
-2000-02-12,Fredrik Nyberg,SE,174
-2000-02-12,Claude Cretier,FR,7
-2000-02-12,Patrice Manuel,FR,11
-2000-02-12,Jernej Rebersak,SK,0
-2000-02-12,Stefan Stankalla,DE,9
-2000-02-12,Sebastien Fournier-Bidoz,FR,44
-2000-02-12,Vincent Millet,FR,14
-2000-02-12,Alessandro Fattori,IT,25
-2000-02-12,Christophe Saioni,FR,40
-2000-02-12,Hans Knauss,AT,98
-2000-02-12,Juerg Gruenenfelder,CH,16
-2000-02-12,Fritz Strobl,AT,124
-2000-02-12,Peter Runggaldier,IT,43
-2000-02-12,Hermann Maier,AT,300
-2000-02-12,Lasse Kjus,NO,60
-2000-02-12,Patrick Wirth,AT,46
-2000-02-12,Steve Locher,CH,66
-2000-02-12,Daron Rahlves,US,76
-2000-02-12,Christian Greber,AT,35
-2000-02-12,Marco Buechel,LI,63
-2000-02-12,Kristian Ghedina,IT,87
-2000-02-12,Josef Strobl,AT,236
-2000-02-13,Steve Locher,CH,66
-2000-02-13,Fritz Strobl,AT,224
-2000-02-13,Patrick Wirth,AT,56
-2000-02-13,Darin McBeath,CA,5
-2000-02-13,Kenneth Sivertsen,NO,18
-2000-02-13,Juerg Gruenenfelder,CH,16
-2000-02-13,Werner Franz,AT,291
-2000-02-13,Patrice Manuel,FR,23
-2000-02-13,Rainer Salzgeber,AT,70
-2000-02-13,Jakub Fiala,US,4
-2000-02-13,Vincent Millet,FR,14
-2000-02-13,Christophe Saioni,FR,53
-2000-02-13,Claude Cretier,FR,7
-2000-02-13,Lorenzo Galli,IT,0
-2000-02-13,Juergen Hasler,LI,0
-2000-02-13,Alessandro Fattori,IT,40
-2000-02-13,Andreas Schifferer,AT,174
-2000-02-13,Roland Fischnaller,IT,0
-2000-02-13,Jernej Rebersak,SK,0
-2000-02-13,Patrik Jaerbyn,SE,42
-2000-02-13,Hannes Trinkl,AT,0
-2000-02-13,Bjarne Solbakken,NO,27
-2000-02-13,Paul Accola,CH,99
-2000-02-13,Daron Rahlves,US,98
-2000-02-13,Josef Strobl,AT,260
-2000-02-13,Sebastien Fournier-Bidoz,FR,70
-2000-02-13,Marco Buechel,LI,92
-2000-02-13,Kjetil Andre Aamodt,NO,118
-2000-02-13,Stephan Eberharter,AT,222
-2000-02-13,P Casey Puckett,US,17
-2000-02-13,Kurt Sulzenbacher,IT,8
-2000-02-13,Lasse Paulsen,NO,4
-2000-02-13,Kristian Ghedina,IT,96
-2000-02-13,Jernej Koblar,SK,37
-2000-02-13,Hermann Maier,AT,360
-2000-02-13,Fredrik Nyberg,SE,224
-2000-02-13,Hans Knauss,AT,98
-2000-02-13,Iwan Bormolini,IT,18
-2000-02-13,Bruno Kernen,CH,19
-2000-02-13,Christian Mayer,AT,110
-2000-02-13,Christian Greber,AT,35
-2000-02-13,Luca Cattaneo,IT,22
-2000-02-13,Gregor Sparovec,SK,1
-2000-02-13,Stefan Stankalla,DE,14
-2000-02-13,Max Rauffer,DE,6
-2000-02-13,Konrad Hari,CH,7
-2000-02-13,Didier Cuche,CH,214
-2000-02-13,Bode Miller,US,8
-2000-02-13,Peter Runggaldier,IT,43
-2000-02-13,Chad Fleischer,US,5
-2000-02-13,Pierre Emmanuel Dalcin,FR,10
-2000-02-13,Lasse Kjus,NO,60
-2000-02-13,Ed Podivinsky,CA,5
-2000-02-13,Christoph Gruber,AT,9
-2000-02-13,Didier Defago,CH,102
-2000-03-05,Chad Fleischer,US,5
-2000-03-05,Max Rauffer,DE,6
-2000-03-05,Patrice Manuel,FR,23
-2000-03-05,Ed Podivinsky,CA,5
-2000-03-05,Gregor Sparovec,SK,1
-2000-03-05,Bode Miller,US,8
-2000-03-05,Christoph Gruber,AT,9
-2000-03-05,Hannes Trinkl,AT,0
-2000-03-05,Pierre Emmanuel Dalcin,FR,10
-2000-03-05,Konrad Hari,CH,7
-2000-03-05,Stephan Eberharter,AT,222
-2000-03-05,Didier Defago,CH,102
-2000-03-05,Patrik Jaerbyn,SE,42
-2000-03-05,Didier Cuche,CH,214
-2000-03-05,Patrick Wirth,AT,56
-2000-03-05,Lasse Kjus,NO,60
-2000-03-05,Kenneth Sivertsen,NO,18
-2000-03-05,Vincent Millet,FR,14
-2000-03-05,Iwan Bormolini,IT,18
-2000-03-05,Stefan Stankalla,DE,14
-2000-03-05,Kurt Sulzenbacher,IT,8
-2000-03-05,Jakub Fiala,US,4
-2000-03-05,Bjarne Solbakken,NO,27
-2000-03-05,Darin McBeath,CA,5
-2000-03-05,Jernej Koblar,SK,39
-2000-03-05,Lasse Paulsen,NO,5
-2000-03-05,Peter Runggaldier,IT,61
-2000-03-05,Werner Franz,AT,311
-2000-03-05,Juerg Gruenenfelder,CH,38
-2000-03-05,Sebastien Fournier-Bidoz,FR,94
-2000-03-05,Christian Mayer,AT,136
-2000-03-05,Josef Strobl,AT,289
-2000-03-05,Paul Accola,CH,115
-2000-03-05,Hans Knauss,AT,130
-2000-03-05,Kjetil Andre Aamodt,NO,158
-2000-03-05,Jernej Rebersak,SK,1
-2000-03-05,Fritz Strobl,AT,274
-2000-03-05,Andreas Schifferer,AT,234
-2000-03-05,Hermann Maier,AT,440
-2000-03-05,Kristian Ghedina,IT,196
-2000-03-05,Steve Locher,CH,102
-2000-03-05,Alessandro Fattori,IT,55
-2000-03-05,Daron Rahlves,US,143
-2000-03-05,Lorenzo Galli,IT,14
-2000-03-05,Marco Buechel,LI,101
-2000-03-05,Christophe Saioni,FR,59
-2000-03-05,Christian Greber,AT,45
-2000-03-05,Rainer Salzgeber,AT,75
-2000-03-05,Claude Cretier,FR,15
-2000-03-05,Juergen Hasler,LI,11
-2000-03-05,P Casey Puckett,US,25
-2000-03-05,Bruno Kernen,CH,32
-2000-03-05,Luca Cattaneo,IT,34
-2000-03-05,Roland Fischnaller,IT,4
-2000-03-05,Fredrik Nyberg,SE,227
-2000-03-16,Luca Cattaneo,IT,34
-2000-03-16,Christoph Gruber,AT,9
-2000-03-16,P Casey Puckett,US,25
-2000-03-16,Darin McBeath,CA,5
-2000-03-16,Ed Podivinsky,CA,5
-2000-03-16,Kenneth Sivertsen,NO,18
-2000-03-16,Juerg Gruenenfelder,CH,38
-2000-03-16,Jernej Koblar,SK,39
-2000-03-16,Kurt Sulzenbacher,IT,8
-2000-03-16,Jakub Fiala,US,4
-2000-03-16,Lasse Paulsen,NO,5
-2000-03-16,Pierre Emmanuel Dalcin,FR,10
-2000-03-16,Vincent Millet,FR,14
-2000-03-16,Stefan Stankalla,DE,14
-2000-03-16,Claude Cretier,FR,15
-2000-03-16,Konrad Hari,CH,7
-2000-03-16,Max Rauffer,DE,6
-2000-03-16,Gregor Sparovec,SK,1
-2000-03-16,Lorenzo Galli,IT,14
-2000-03-16,Juergen Hasler,LI,11
-2000-03-16,Roland Fischnaller,IT,4
-2000-03-16,Jernej Rebersak,SK,1
-2000-03-16,Hermann Maier,AT,540
-2000-03-16,Iwan Bormolini,IT,18
-2000-03-16,Patrice Manuel,FR,23
-2000-03-16,Rainer Salzgeber,AT,90
-2000-03-16,Kjetil Andre Aamodt,NO,158
-2000-03-16,Didier Cuche,CH,229
-2000-03-16,Christian Greber,AT,58
-2000-03-16,Josef Strobl,AT,305
-2000-03-16,Christophe Saioni,FR,77
-2000-03-16,Sebastien Fournier-Bidoz,FR,106
-2000-03-16,Kristian Ghedina,IT,216
-2000-03-16,Steve Locher,CH,113
-2000-03-16,Marco Buechel,LI,125
-2000-03-16,Stephan Eberharter,AT,246
-2000-03-16,Christian Mayer,AT,162
-2000-03-16,Didier Defago,CH,112
-2000-03-16,Hans Knauss,AT,159
-2000-03-16,Chad Fleischer,US,5
-2000-03-16,Peter Runggaldier,IT,93
-2000-03-16,Hannes Trinkl,AT,36
-2000-03-16,Daron Rahlves,US,183
-2000-03-16,Fredrik Nyberg,SE,272
-2000-03-16,Alessandro Fattori,IT,63
-2000-03-16,Werner Franz,AT,371
-2000-03-16,Andreas Schifferer,AT,294
-2000-03-16,Fritz Strobl,AT,354
-2000-03-16,Lasse Kjus,NO,60
-2000-03-16,Patrick Wirth,AT,56
-2000-03-16,Patrik Jaerbyn,SE,42
-2000-03-16,Bode Miller,US,8
-2000-03-16,Bruno Kernen,CH,32
-2000-03-16,Paul Accola,CH,124
-2000-03-16,Bjarne Solbakken,NO,27
+date,name,ath_country,value,specialty
+1999-11-28,Hermann Maier,AT,100,Downhill
+1999-11-28,Steve Locher,CH,12,Giant Slalom
+1999-11-28,Didier Defago,CH,10,Giant Slalom
+1999-11-28,P Casey Puckett,US,0,Super G
+1999-11-28,Pierre Emmanuel Dalcin,FR,2,Downhill
+1999-11-28,Kjetil Andre Aamodt,NO,6,Slalom
+1999-11-28,Hans Knauss,AT,40,Downhill
+1999-11-28,Konrad Hari,CH,0,Super G
+1999-11-28,Daron Rahlves,US,18,Downhill
+1999-11-28,Kurt Sulzenbacher,IT,0,Downhill
+1999-11-28,Max Rauffer,DE,0,Downhill
+1999-11-28,Darin McBeath,CA,0,Downhill
+1999-11-28,Marco Buechel,LI,13,Giant Slalom
+1999-11-28,Chad Fleischer,US,4,Downhill
+1999-11-28,Andreas Schifferer,AT,50,Downhill
+1999-11-28,Kenneth Sivertsen,NO,0,Downhill
+1999-11-28,Lasse Kjus,NO,60,Super G
+1999-11-28,Lasse Paulsen,NO,0,Downhill
+1999-11-28,Didier Cuche,CH,22,Downhill
+1999-11-28,Christian Mayer,AT,45,Giant Slalom
+1999-11-28,Fredrik Nyberg,SE,36,Giant Slalom
+1999-11-28,Hannes Trinkl,AT,0,Downhill
+1999-11-28,Stefan Stankalla,DE,0,Super G
+1999-11-28,Patrik Jaerbyn,SE,16,Downhill
+1999-11-28,Iwan Bormolini,IT,0,Super G
+1999-11-28,Bjarne Solbakken,NO,9,Giant Slalom
+1999-11-28,Christophe Saioni,FR,0,Giant Slalom
+1999-11-28,Alessandro Fattori,IT,11,Downhill
+1999-11-28,Luca Cattaneo,IT,0,Downhill
+1999-11-28,Christian Greber,AT,15,Downhill
+1999-11-28,Bruno Kernen,CH,7,Downhill
+1999-11-28,Bode Miller,US,8,Giant Slalom
+1999-11-28,Juerg Gruenenfelder,CH,0,Downhill
+1999-11-28,Patrick Wirth,AT,24,Super G
+1999-11-28,Sebastien Fournier-Bidoz,FR,0,Super G
+1999-11-28,Juergen Hasler,LI,0,Super G
+1999-11-28,Rainer Salzgeber,AT,20,Giant Slalom
+1999-11-28,Jernej Koblar,SK,0,Super G
+1999-11-28,Christoph Gruber,AT,0,Giant Slalom
+1999-11-28,Paul Accola,CH,29,Giant Slalom
+1999-11-28,Peter Runggaldier,IT,5,Downhill
+1999-11-28,Patrice Manuel,FR,3,Super G
+1999-11-28,Ed Podivinsky,CA,1,Downhill
+1999-11-28,Claude Cretier,FR,0,Downhill
+1999-11-28,Werner Franz,AT,32,Super G
+1999-11-28,Kristian Ghedina,IT,0,Downhill
+1999-11-28,Josef Strobl,AT,26,Downhill
+1999-11-28,Lorenzo Galli,IT,0,Downhill
+1999-11-28,Stephan Eberharter,AT,80,Downhill
+1999-11-28,Vincent Millet,FR,0,Giant Slalom
+1999-11-28,Fritz Strobl,AT,15,Downhill
+1999-11-28,Gregor Sparovec,SK,0,Super G
+1999-11-28,Jakub Fiala,US,0,Super G
+1999-11-28,Jernej Rebersak,SK,0,Super G
+1999-11-28,Roland Fischnaller,IT,0,Downhill
+1999-12-05,Jernej Rebersak,SK,0,Super G
+1999-12-05,Konrad Hari,CH,0,Super G
+1999-12-05,Kristian Ghedina,IT,40,Downhill
+1999-12-05,Jakub Fiala,US,0,Super G
+1999-12-05,Claude Cretier,FR,0,Downhill
+1999-12-05,Hans Knauss,AT,66,Downhill
+1999-12-05,Patrik Jaerbyn,SE,16,Downhill
+1999-12-05,Patrick Wirth,AT,46,Super G
+1999-12-05,Peter Runggaldier,IT,16,Downhill
+1999-12-05,Werner Franz,AT,61,Super G
+1999-12-05,Vincent Millet,FR,0,Giant Slalom
+1999-12-05,Stefan Stankalla,DE,0,Super G
+1999-12-05,Hannes Trinkl,AT,0,Downhill
+1999-12-05,Christoph Gruber,AT,9,Giant Slalom
+1999-12-05,Pierre Emmanuel Dalcin,FR,2,Downhill
+1999-12-05,Bode Miller,US,8,Giant Slalom
+1999-12-05,Sebastien Fournier-Bidoz,FR,16,Super G
+1999-12-05,Daron Rahlves,US,50,Downhill
+1999-12-05,Paul Accola,CH,44,Giant Slalom
+1999-12-05,Didier Defago,CH,34,Giant Slalom
+1999-12-05,Fritz Strobl,AT,60,Downhill
+1999-12-05,P Casey Puckett,US,6,Super G
+1999-12-05,Jernej Koblar,SK,10,Super G
+1999-12-05,Steve Locher,CH,32,Giant Slalom
+1999-12-05,Rainer Salzgeber,AT,32,Giant Slalom
+1999-12-05,Gregor Sparovec,SK,0,Super G
+1999-12-05,Kurt Sulzenbacher,IT,8,Downhill
+1999-12-05,Juergen Hasler,LI,0,Super G
+1999-12-05,Kjetil Andre Aamodt,NO,20,Slalom
+1999-12-05,Ed Podivinsky,CA,1,Downhill
+1999-12-05,Alessandro Fattori,IT,14,Downhill
+1999-12-05,Fredrik Nyberg,SE,116,Giant Slalom
+1999-12-05,Hermann Maier,AT,200,Downhill
+1999-12-05,Iwan Bormolini,IT,0,Super G
+1999-12-05,Lasse Paulsen,NO,0,Downhill
+1999-12-05,Roland Fischnaller,IT,0,Downhill
+1999-12-05,Didier Cuche,CH,29,Downhill
+1999-12-05,Bjarne Solbakken,NO,9,Giant Slalom
+1999-12-05,Lasse Kjus,NO,60,Super G
+1999-12-05,Lorenzo Galli,IT,0,Downhill
+1999-12-05,Bruno Kernen,CH,7,Downhill
+1999-12-05,Stephan Eberharter,AT,130,Downhill
+1999-12-05,Kenneth Sivertsen,NO,4,Downhill
+1999-12-05,Christophe Saioni,FR,18,Giant Slalom
+1999-12-05,Luca Cattaneo,IT,13,Downhill
+1999-12-05,Chad Fleischer,US,5,Downhill
+1999-12-05,Patrice Manuel,FR,3,Super G
+1999-12-05,Juerg Gruenenfelder,CH,2,Downhill
+1999-12-05,Christian Greber,AT,15,Downhill
+1999-12-05,Christian Mayer,AT,45,Giant Slalom
+1999-12-05,Max Rauffer,DE,0,Downhill
+1999-12-05,Andreas Schifferer,AT,86,Downhill
+1999-12-05,Marco Buechel,LI,13,Giant Slalom
+1999-12-05,Josef Strobl,AT,86,Downhill
+1999-12-05,Darin McBeath,CA,5,Downhill
+2000-01-21,Bjarne Solbakken,NO,9,Giant Slalom
+2000-01-21,Patrick Wirth,AT,46,Super G
+2000-01-21,Luca Cattaneo,IT,16,Downhill
+2000-01-21,Juerg Gruenenfelder,CH,3,Downhill
+2000-01-21,Hermann Maier,AT,300,Downhill
+2000-01-21,Christoph Gruber,AT,9,Giant Slalom
+2000-01-21,Iwan Bormolini,IT,15,Super G
+2000-01-21,Jernej Rebersak,SK,0,Super G
+2000-01-21,Paul Accola,CH,50,Giant Slalom
+2000-01-21,Patrice Manuel,FR,3,Super G
+2000-01-21,Werner Franz,AT,141,Super G
+2000-01-21,Lorenzo Galli,IT,0,Downhill
+2000-01-21,Jernej Koblar,SK,17,Super G
+2000-01-21,Rainer Salzgeber,AT,32,Giant Slalom
+2000-01-21,Christophe Saioni,FR,28,Giant Slalom
+2000-01-21,Juergen Hasler,LI,0,Super G
+2000-01-21,Bruno Kernen,CH,16,Downhill
+2000-01-21,Christian Greber,AT,35,Downhill
+2000-01-21,Sebastien Fournier-Bidoz,FR,34,Super G
+2000-01-21,Alessandro Fattori,IT,14,Downhill
+2000-01-21,Josef Strobl,AT,136,Downhill
+2000-01-21,Vincent Millet,FR,0,Giant Slalom
+2000-01-21,Gregor Sparovec,SK,0,Super G
+2000-01-21,Peter Runggaldier,IT,27,Downhill
+2000-01-21,Kristian Ghedina,IT,72,Downhill
+2000-01-21,Daron Rahlves,US,76,Downhill
+2000-01-21,Konrad Hari,CH,0,Super G
+2000-01-21,Max Rauffer,DE,0,Downhill
+2000-01-21,Christian Mayer,AT,74,Giant Slalom
+2000-01-21,Jakub Fiala,US,2,Super G
+2000-01-21,Darin McBeath,CA,5,Downhill
+2000-01-21,Marco Buechel,LI,63,Giant Slalom
+2000-01-21,Andreas Schifferer,AT,110,Downhill
+2000-01-21,Chad Fleischer,US,5,Downhill
+2000-01-21,Kenneth Sivertsen,NO,18,Downhill
+2000-01-21,Lasse Kjus,NO,60,Super G
+2000-01-21,Roland Fischnaller,IT,0,Downhill
+2000-01-21,Lasse Paulsen,NO,4,Downhill
+2000-01-21,Stephan Eberharter,AT,130,Downhill
+2000-01-21,Didier Cuche,CH,89,Downhill
+2000-01-21,Fredrik Nyberg,SE,129,Giant Slalom
+2000-01-21,Claude Cretier,FR,0,Downhill
+2000-01-21,Hans Knauss,AT,78,Downhill
+2000-01-21,Patrik Jaerbyn,SE,21,Downhill
+2000-01-21,Steve Locher,CH,48,Giant Slalom
+2000-01-21,Kjetil Andre Aamodt,NO,60,Slalom
+2000-01-21,Ed Podivinsky,CA,1,Downhill
+2000-01-21,Kurt Sulzenbacher,IT,8,Downhill
+2000-01-21,Hannes Trinkl,AT,0,Downhill
+2000-01-21,Bode Miller,US,8,Giant Slalom
+2000-01-21,Stefan Stankalla,DE,0,Super G
+2000-01-21,P Casey Puckett,US,14,Super G
+2000-01-21,Didier Defago,CH,70,Giant Slalom
+2000-01-21,Fritz Strobl,AT,84,Downhill
+2000-01-21,Pierre Emmanuel Dalcin,FR,2,Downhill
+2000-02-12,Ed Podivinsky,CA,5,Downhill
+2000-02-12,Kenneth Sivertsen,NO,18,Downhill
+2000-02-12,Lorenzo Galli,IT,0,Downhill
+2000-02-12,Iwan Bormolini,IT,15,Super G
+2000-02-12,Gregor Sparovec,SK,0,Super G
+2000-02-12,Bode Miller,US,8,Giant Slalom
+2000-02-12,Alessandro Fattori,IT,25,Downhill
+2000-02-12,Christoph Gruber,AT,9,Giant Slalom
+2000-02-12,Lasse Paulsen,NO,4,Downhill
+2000-02-12,Chad Fleischer,US,5,Downhill
+2000-02-12,Claude Cretier,FR,7,Downhill
+2000-02-12,Roland Fischnaller,IT,0,Downhill
+2000-02-12,Jernej Koblar,SK,23,Super G
+2000-02-12,Luca Cattaneo,IT,18,Downhill
+2000-02-12,Darin McBeath,CA,5,Downhill
+2000-02-12,Vincent Millet,FR,14,Giant Slalom
+2000-02-12,Kurt Sulzenbacher,IT,8,Downhill
+2000-02-12,Jakub Fiala,US,4,Super G
+2000-02-12,Max Rauffer,DE,0,Downhill
+2000-02-12,Juergen Hasler,LI,0,Super G
+2000-02-12,Stefan Stankalla,DE,9,Super G
+2000-02-12,Bruno Kernen,CH,16,Downhill
+2000-02-12,Patrice Manuel,FR,11,Super G
+2000-02-12,P Casey Puckett,US,17,Super G
+2000-02-12,Pierre Emmanuel Dalcin,FR,2,Downhill
+2000-02-12,Jernej Rebersak,SK,0,Super G
+2000-02-12,Konrad Hari,CH,0,Super G
+2000-02-12,Patrik Jaerbyn,SE,26,Downhill
+2000-02-12,Stephan Eberharter,AT,190,Downhill
+2000-02-12,Christian Mayer,AT,110,Giant Slalom
+2000-02-12,Andreas Schifferer,AT,134,Downhill
+2000-02-12,Patrick Wirth,AT,46,Super G
+2000-02-12,Peter Runggaldier,IT,43,Downhill
+2000-02-12,Daron Rahlves,US,76,Downhill
+2000-02-12,Lasse Kjus,NO,60,Super G
+2000-02-12,Juerg Gruenenfelder,CH,16,Downhill
+2000-02-12,Didier Cuche,CH,169,Downhill
+2000-02-12,Fredrik Nyberg,SE,174,Giant Slalom
+2000-02-12,Hans Knauss,AT,98,Downhill
+2000-02-12,Rainer Salzgeber,AT,58,Giant Slalom
+2000-02-12,Christian Greber,AT,35,Downhill
+2000-02-12,Marco Buechel,LI,63,Giant Slalom
+2000-02-12,Kjetil Andre Aamodt,NO,82,Slalom
+2000-02-12,Kristian Ghedina,IT,87,Downhill
+2000-02-12,Sebastien Fournier-Bidoz,FR,44,Super G
+2000-02-12,Steve Locher,CH,66,Giant Slalom
+2000-02-12,Didier Defago,CH,102,Giant Slalom
+2000-02-12,Christophe Saioni,FR,40,Giant Slalom
+2000-02-12,Fritz Strobl,AT,124,Downhill
+2000-02-12,Hannes Trinkl,AT,0,Downhill
+2000-02-12,Werner Franz,AT,191,Super G
+2000-02-12,Paul Accola,CH,79,Giant Slalom
+2000-02-12,Hermann Maier,AT,300,Downhill
+2000-02-12,Bjarne Solbakken,NO,9,Giant Slalom
+2000-02-12,Josef Strobl,AT,236,Downhill
+2000-02-13,Christian Mayer,AT,110,Giant Slalom
+2000-02-13,Bode Miller,US,8,Giant Slalom
+2000-02-13,Max Rauffer,DE,6,Downhill
+2000-02-13,Daron Rahlves,US,98,Downhill
+2000-02-13,Pierre Emmanuel Dalcin,FR,10,Downhill
+2000-02-13,P Casey Puckett,US,17,Super G
+2000-02-13,Konrad Hari,CH,7,Super G
+2000-02-13,Kurt Sulzenbacher,IT,8,Downhill
+2000-02-13,Claude Cretier,FR,7,Downhill
+2000-02-13,Kjetil Andre Aamodt,NO,118,Slalom
+2000-02-13,Didier Defago,CH,102,Giant Slalom
+2000-02-13,Steve Locher,CH,66,Giant Slalom
+2000-02-13,Patrik Jaerbyn,SE,42,Downhill
+2000-02-13,Lasse Kjus,NO,60,Super G
+2000-02-13,Darin McBeath,CA,5,Downhill
+2000-02-13,Lorenzo Galli,IT,0,Downhill
+2000-02-13,Hermann Maier,AT,360,Downhill
+2000-02-13,Vincent Millet,FR,14,Giant Slalom
+2000-02-13,Josef Strobl,AT,260,Downhill
+2000-02-13,Jernej Rebersak,SK,0,Super G
+2000-02-13,Werner Franz,AT,291,Super G
+2000-02-13,Fritz Strobl,AT,224,Downhill
+2000-02-13,Gregor Sparovec,SK,1,Super G
+2000-02-13,Jakub Fiala,US,4,Super G
+2000-02-13,Kristian Ghedina,IT,96,Downhill
+2000-02-13,Roland Fischnaller,IT,0,Downhill
+2000-02-13,Stephan Eberharter,AT,222,Downhill
+2000-02-13,Ed Podivinsky,CA,5,Downhill
+2000-02-13,Fredrik Nyberg,SE,224,Giant Slalom
+2000-02-13,Lasse Paulsen,NO,4,Downhill
+2000-02-13,Didier Cuche,CH,214,Downhill
+2000-02-13,Kenneth Sivertsen,NO,18,Downhill
+2000-02-13,Chad Fleischer,US,5,Downhill
+2000-02-13,Andreas Schifferer,AT,174,Downhill
+2000-02-13,Marco Buechel,LI,92,Giant Slalom
+2000-02-13,Hannes Trinkl,AT,0,Downhill
+2000-02-13,Hans Knauss,AT,98,Downhill
+2000-02-13,Patrice Manuel,FR,23,Super G
+2000-02-13,Juergen Hasler,LI,0,Super G
+2000-02-13,Christophe Saioni,FR,53,Giant Slalom
+2000-02-13,Rainer Salzgeber,AT,70,Giant Slalom
+2000-02-13,Christoph Gruber,AT,9,Giant Slalom
+2000-02-13,Jernej Koblar,SK,37,Super G
+2000-02-13,Alessandro Fattori,IT,40,Downhill
+2000-02-13,Christian Greber,AT,35,Downhill
+2000-02-13,Bjarne Solbakken,NO,27,Giant Slalom
+2000-02-13,Bruno Kernen,CH,19,Downhill
+2000-02-13,Peter Runggaldier,IT,43,Downhill
+2000-02-13,Patrick Wirth,AT,56,Super G
+2000-02-13,Stefan Stankalla,DE,14,Super G
+2000-02-13,Iwan Bormolini,IT,18,Super G
+2000-02-13,Luca Cattaneo,IT,22,Downhill
+2000-02-13,Juerg Gruenenfelder,CH,16,Downhill
+2000-02-13,Sebastien Fournier-Bidoz,FR,70,Super G
+2000-02-13,Paul Accola,CH,99,Giant Slalom
+2000-03-05,Lasse Paulsen,NO,5,Downhill
+2000-03-05,Stefan Stankalla,DE,14,Super G
+2000-03-05,Juerg Gruenenfelder,CH,38,Downhill
+2000-03-05,Kenneth Sivertsen,NO,18,Downhill
+2000-03-05,Fredrik Nyberg,SE,227,Giant Slalom
+2000-03-05,Lasse Kjus,NO,60,Super G
+2000-03-05,Andreas Schifferer,AT,234,Downhill
+2000-03-05,Patrick Wirth,AT,56,Super G
+2000-03-05,Darin McBeath,CA,5,Downhill
+2000-03-05,Patrice Manuel,FR,23,Super G
+2000-03-05,Didier Cuche,CH,214,Downhill
+2000-03-05,Bruno Kernen,CH,32,Downhill
+2000-03-05,Luca Cattaneo,IT,34,Downhill
+2000-03-05,Roland Fischnaller,IT,4,Downhill
+2000-03-05,Patrik Jaerbyn,SE,42,Downhill
+2000-03-05,Hermann Maier,AT,440,Downhill
+2000-03-05,Vincent Millet,FR,14,Giant Slalom
+2000-03-05,Bjarne Solbakken,NO,27,Giant Slalom
+2000-03-05,Josef Strobl,AT,289,Downhill
+2000-03-05,Iwan Bormolini,IT,18,Super G
+2000-03-05,Werner Franz,AT,311,Super G
+2000-03-05,Jernej Rebersak,SK,1,Super G
+2000-03-05,Gregor Sparovec,SK,1,Super G
+2000-03-05,Alessandro Fattori,IT,55,Downhill
+2000-03-05,Fritz Strobl,AT,274,Downhill
+2000-03-05,Christophe Saioni,FR,59,Giant Slalom
+2000-03-05,Jakub Fiala,US,4,Super G
+2000-03-05,Kristian Ghedina,IT,196,Downhill
+2000-03-05,Marco Buechel,LI,101,Giant Slalom
+2000-03-05,Christian Greber,AT,45,Downhill
+2000-03-05,Stephan Eberharter,AT,222,Downhill
+2000-03-05,Ed Podivinsky,CA,5,Downhill
+2000-03-05,Juergen Hasler,LI,11,Super G
+2000-03-05,Chad Fleischer,US,5,Downhill
+2000-03-05,Max Rauffer,DE,6,Downhill
+2000-03-05,Hannes Trinkl,AT,0,Downhill
+2000-03-05,Peter Runggaldier,IT,61,Downhill
+2000-03-05,Bode Miller,US,8,Giant Slalom
+2000-03-05,Christoph Gruber,AT,9,Giant Slalom
+2000-03-05,Steve Locher,CH,102,Giant Slalom
+2000-03-05,Kurt Sulzenbacher,IT,8,Downhill
+2000-03-05,Didier Defago,CH,102,Giant Slalom
+2000-03-05,P Casey Puckett,US,25,Super G
+2000-03-05,Paul Accola,CH,115,Giant Slalom
+2000-03-05,Jernej Koblar,SK,39,Super G
+2000-03-05,Pierre Emmanuel Dalcin,FR,10,Downhill
+2000-03-05,Claude Cretier,FR,15,Downhill
+2000-03-05,Hans Knauss,AT,130,Downhill
+2000-03-05,Rainer Salzgeber,AT,75,Giant Slalom
+2000-03-05,Kjetil Andre Aamodt,NO,158,Slalom
+2000-03-05,Lorenzo Galli,IT,14,Downhill
+2000-03-05,Sebastien Fournier-Bidoz,FR,94,Super G
+2000-03-05,Christian Mayer,AT,136,Giant Slalom
+2000-03-05,Konrad Hari,CH,7,Super G
+2000-03-05,Daron Rahlves,US,143,Downhill
+2000-03-16,Patrik Jaerbyn,SE,42,Downhill
+2000-03-16,Alessandro Fattori,IT,63,Downhill
+2000-03-16,Didier Defago,CH,112,Giant Slalom
+2000-03-16,Andreas Schifferer,AT,294,Downhill
+2000-03-16,Fritz Strobl,AT,354,Downhill
+2000-03-16,Stefan Stankalla,DE,14,Super G
+2000-03-16,Kurt Sulzenbacher,IT,8,Downhill
+2000-03-16,Gregor Sparovec,SK,1,Super G
+2000-03-16,Christian Mayer,AT,162,Giant Slalom
+2000-03-16,Darin McBeath,CA,5,Downhill
+2000-03-16,Hermann Maier,AT,540,Downhill
+2000-03-16,Marco Buechel,LI,125,Giant Slalom
+2000-03-16,Werner Franz,AT,371,Super G
+2000-03-16,Steve Locher,CH,113,Giant Slalom
+2000-03-16,Jakub Fiala,US,4,Super G
+2000-03-16,Josef Strobl,AT,305,Downhill
+2000-03-16,Christoph Gruber,AT,9,Giant Slalom
+2000-03-16,Bode Miller,US,8,Giant Slalom
+2000-03-16,Sebastien Fournier-Bidoz,FR,106,Super G
+2000-03-16,Hannes Trinkl,AT,36,Downhill
+2000-03-16,Vincent Millet,FR,14,Giant Slalom
+2000-03-16,Patrice Manuel,FR,23,Super G
+2000-03-16,Bjarne Solbakken,NO,27,Giant Slalom
+2000-03-16,Iwan Bormolini,IT,18,Super G
+2000-03-16,Jernej Rebersak,SK,1,Super G
+2000-03-16,Bruno Kernen,CH,32,Downhill
+2000-03-16,P Casey Puckett,US,25,Super G
+2000-03-16,Daron Rahlves,US,183,Downhill
+2000-03-16,Kenneth Sivertsen,NO,18,Downhill
+2000-03-16,Juergen Hasler,LI,11,Super G
+2000-03-16,Claude Cretier,FR,15,Downhill
+2000-03-16,Didier Cuche,CH,229,Downhill
+2000-03-16,Lasse Kjus,NO,60,Super G
+2000-03-16,Hans Knauss,AT,159,Downhill
+2000-03-16,Juerg Gruenenfelder,CH,38,Downhill
+2000-03-16,Lasse Paulsen,NO,5,Downhill
+2000-03-16,Rainer Salzgeber,AT,90,Giant Slalom
+2000-03-16,Fredrik Nyberg,SE,272,Giant Slalom
+2000-03-16,Lorenzo Galli,IT,14,Downhill
+2000-03-16,Konrad Hari,CH,7,Super G
+2000-03-16,Luca Cattaneo,IT,34,Downhill
+2000-03-16,Chad Fleischer,US,5,Downhill
+2000-03-16,Ed Podivinsky,CA,5,Downhill
+2000-03-16,Pierre Emmanuel Dalcin,FR,10,Downhill
+2000-03-16,Peter Runggaldier,IT,93,Downhill
+2000-03-16,Stephan Eberharter,AT,246,Downhill
+2000-03-16,Max Rauffer,DE,6,Downhill
+2000-03-16,Patrick Wirth,AT,56,Super G
+2000-03-16,Jernej Koblar,SK,39,Super G
+2000-03-16,Roland Fischnaller,IT,4,Downhill
+2000-03-16,Kjetil Andre Aamodt,NO,158,Slalom
+2000-03-16,Christophe Saioni,FR,77,Giant Slalom
+2000-03-16,Kristian Ghedina,IT,216,Downhill
+2000-03-16,Christian Greber,AT,58,Downhill
+2000-03-16,Paul Accola,CH,124,Giant Slalom

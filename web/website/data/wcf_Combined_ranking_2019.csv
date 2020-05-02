@@ -1,35 +1,35 @@
-date,name,ath_country,value
-2019-02-24,Federica Brignone,IT,100
-2019-02-24,Michaela Heider,AT,0
-2019-02-24,Luana Fluetsch,CH,0
-2019-02-24,Marusa Ferk,SK,0
-2019-02-24,Alice Merryweather,US,2
-2019-02-24,Nina Ortlieb,AT,3
-2019-02-24,Margot Bailet,FR,4
-2019-02-24,Nadia Delago,IT,5
-2019-02-24,Macarena Simari-Birkner,AR,6
-2019-02-24,Tifany Roux,FR,7
-2019-02-24,Elisabeth Reisinger,AT,8
-2019-02-24,Greta Small,AU,9
-2019-02-24,Lisa Hoernblad,SE,10
-2019-02-24,Jasmina Suter,CH,11
-2019-02-24,Ariane Raedler,AT,12
-2019-02-24,Nicole Delago,IT,13
-2019-02-24,Ramona Siebenhofer,AT,14
-2019-02-24,Nathalie Groebli,CH,15
-2019-02-24,Roni Remme,CA,80
-2019-02-24,Wendy Holdener,CH,60
-2019-02-24,Rahel Kopp,CH,50
-2019-02-24,Patrizia Dorsch,DE,45
-2019-02-24,Christina Ager,AT,40
-2019-02-24,Romane Miradoli,FR,36
-2019-02-24,Anne Sophie Barthet,FR,0
-2019-02-24,Priska Nufer,CH,32
-2019-02-24,Ragnhild Mowinckel,NO,26
-2019-02-24,Nevena Ignjatovic,RS,24
-2019-02-24,Ricarda Haaser,AT,22
-2019-02-24,Marie-Michele Gagnon,CA,20
-2019-02-24,Franziska Gritsch,AT,18
-2019-02-24,Kajsa Vickhoff Lie,NO,16
-2019-02-24,Marta Bassino,IT,29
-2019-02-24,Alexandra Coletti,MC,0
+date,name,ath_country,value,specialty
+2019-02-24,Federica Brignone,IT,100,Giant Slalom
+2019-02-24,Michaela Heider,AT,0,Combined
+2019-02-24,Luana Fluetsch,CH,0,Downhill
+2019-02-24,Marusa Ferk,SK,0,Slalom
+2019-02-24,Alice Merryweather,US,2,Downhill
+2019-02-24,Nina Ortlieb,AT,3,Downhill
+2019-02-24,Margot Bailet,FR,4,Combined
+2019-02-24,Nadia Delago,IT,5,Combined
+2019-02-24,Macarena Simari-Birkner,AR,6,Combined
+2019-02-24,Tifany Roux,FR,7,Combined
+2019-02-24,Elisabeth Reisinger,AT,8,Combined
+2019-02-24,Greta Small,AU,9,Combined
+2019-02-24,Lisa Hoernblad,SE,10,Downhill
+2019-02-24,Jasmina Suter,CH,11,Super G
+2019-02-24,Ariane Raedler,AT,12,Super G
+2019-02-24,Nicole Delago,IT,13,Downhill
+2019-02-24,Ramona Siebenhofer,AT,14,Downhill
+2019-02-24,Nathalie Groebli,CH,15,Combined
+2019-02-24,Roni Remme,CA,80,Slalom
+2019-02-24,Wendy Holdener,CH,60,Slalom
+2019-02-24,Rahel Kopp,CH,50,Combined
+2019-02-24,Patrizia Dorsch,DE,45,Combined
+2019-02-24,Christina Ager,AT,40,Downhill
+2019-02-24,Romane Miradoli,FR,36,Downhill
+2019-02-24,Anne Sophie Barthet,FR,0,Combined
+2019-02-24,Priska Nufer,CH,32,Combined
+2019-02-24,Ragnhild Mowinckel,NO,26,Giant Slalom
+2019-02-24,Nevena Ignjatovic,RS,24,Combined
+2019-02-24,Ricarda Haaser,AT,22,Giant Slalom
+2019-02-24,Marie-Michele Gagnon,CA,20,Super G
+2019-02-24,Franziska Gritsch,AT,18,Slalom
+2019-02-24,Kajsa Vickhoff Lie,NO,16,Super G
+2019-02-24,Marta Bassino,IT,29,Giant Slalom
+2019-02-24,Alexandra Coletti,MC,0,Combined

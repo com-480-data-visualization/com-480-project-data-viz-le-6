@@ -1,11 +1,11 @@
-date,name,ath_country,value
-1977-03-26,Christa Zechmeister,DE,25
-1977-03-26,Marie Therese Nadig,CH,20
-1977-03-26,Annemarie Proell,AT,15
-1977-03-26,Ingrid Eberle,AT,11
-1977-03-26,Lise Marie Morerod,CH,8
-1977-03-26,Monika Kaserer,AT,6
-1977-03-26,Brigitte Totschnig,AT,4
-1977-03-26,Bernadette Zurbriggen,CH,3
-1977-03-26,Nicola Spiss,AT,2
-1977-03-26,Kathy Kreiner,CA,1
+date,name,ath_country,value,specialty
+1977-03-26,Christa Zechmeister,DE,25,Slalom
+1977-03-26,Marie Therese Nadig,CH,20,Downhill
+1977-03-26,Annemarie Proell,AT,15,Downhill
+1977-03-26,Ingrid Eberle,AT,11,Giant Slalom
+1977-03-26,Lise Marie Morerod,CH,8,Giant Slalom
+1977-03-26,Monika Kaserer,AT,6,Giant Slalom
+1977-03-26,Brigitte Totschnig,AT,4,Downhill
+1977-03-26,Bernadette Zurbriggen,CH,3,Downhill
+1977-03-26,Nicola Spiss,AT,2,Downhill
+1977-03-26,Kathy Kreiner,CA,1,Giant Slalom

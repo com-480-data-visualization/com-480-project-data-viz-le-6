@@ -1,31 +1,31 @@
-date,name,ath_country,value
-2005-02-27,Janica Kostelic,HR,100
-2005-02-27,Maria Belen Simari-Birkner,AR,3
-2005-02-27,Verena Stuffer,IT,4
-2005-02-27,Sherry Lawrence,CA,5
-2005-02-27,Isolde Kostner,IT,6
-2005-02-27,Daniela Ceccarelli,IT,7
-2005-02-27,Hilde Gerg,DE,8
-2005-02-27,Jelena Lolovic,RS,9
-2005-02-27,Brigitte Obermoser,AT,10
-2005-02-27,Macarena Simari-Birkner,AR,11
-2005-02-27,Britt Janyk,CA,12
-2005-02-27,Marlies Oester,CH,13
-2005-02-27,Sarka Strachova Zahrobska,CZ,14
-2005-02-27,Kaylin L Richardson,US,15
-2005-02-27,Michaela Dorfmeister,AT,16
-2005-02-27,Caroline Lalive,US,18
-2005-02-27,Janette Hargin,SE,20
-2005-02-27,Monika Bergmann,DE,22
-2005-02-27,Elisabeth Goergl,AT,24
-2005-02-27,Brigitte Acton,CA,26
-2005-02-27,Marlies Schild,AT,29
-2005-02-27,Resi Stiegler,US,32
-2005-02-27,Renate Goetschl,AT,36
-2005-02-27,Julia Mancuso,US,40
-2005-02-27,Lindsey Vonn,US,45
-2005-02-27,Nicole Hosp,AT,50
-2005-02-27,Emily Brydon,CA,60
-2005-02-27,Anja Paerson,SE,80
-2005-02-27,Chiara May,IT,0
-2005-02-27,Martina Ertl,DE,0
+date,name,ath_country,value,specialty
+2005-02-27,Janica Kostelic,HR,100,Slalom
+2005-02-27,Maria Belen Simari-Birkner,AR,3,Combined
+2005-02-27,Verena Stuffer,IT,4,Combined
+2005-02-27,Sherry Lawrence,CA,5,Combined
+2005-02-27,Isolde Kostner,IT,6,Downhill
+2005-02-27,Daniela Ceccarelli,IT,7,Downhill
+2005-02-27,Hilde Gerg,DE,8,Downhill
+2005-02-27,Jelena Lolovic,RS,9,Combined
+2005-02-27,Brigitte Obermoser,AT,10,Downhill
+2005-02-27,Macarena Simari-Birkner,AR,11,Combined
+2005-02-27,Britt Janyk,CA,12,Slalom
+2005-02-27,Marlies Oester,CH,13,Giant Slalom
+2005-02-27,Sarka Strachova Zahrobska,CZ,14,Slalom
+2005-02-27,Kaylin L Richardson,US,15,Combined
+2005-02-27,Michaela Dorfmeister,AT,16,Super G
+2005-02-27,Caroline Lalive,US,18,Downhill
+2005-02-27,Janette Hargin,SE,20,Downhill
+2005-02-27,Monika Bergmann,DE,22,Slalom
+2005-02-27,Elisabeth Goergl,AT,24,Giant Slalom
+2005-02-27,Brigitte Acton,CA,26,Giant Slalom
+2005-02-27,Marlies Schild,AT,29,Slalom
+2005-02-27,Resi Stiegler,US,32,Slalom
+2005-02-27,Renate Goetschl,AT,36,Downhill
+2005-02-27,Julia Mancuso,US,40,Giant Slalom
+2005-02-27,Lindsey Vonn,US,45,Super G
+2005-02-27,Nicole Hosp,AT,50,Giant Slalom
+2005-02-27,Emily Brydon,CA,60,Downhill
+2005-02-27,Anja Paerson,SE,80,Giant Slalom
+2005-02-27,Chiara May,IT,0,Combined
+2005-02-27,Martina Ertl,DE,0,Giant Slalom

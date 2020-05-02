@@ -1,532 +1,532 @@
-date,name,ath_country,value
-1997-10-26,Michael von Gruenigen,CH,100
-1997-10-26,Bode Miller,US,0
-1997-10-26,Jeff Piccard,FR,1
-1997-10-26,Ian Piccard,FR,2
-1997-10-26,Bruno Kernen,CH,3
-1997-10-26,Tom Stiansen,NO,4
-1997-10-26,Joel Chenal,FR,5
-1997-10-26,Harald Chr. Strand Nilsen,NO,6
-1997-10-26,Alois Vogl,DE,7
-1997-10-26,Marco Buechel,LI,8
-1997-10-26,Siegfried Voglreiter,AT,9
-1997-10-26,Iwan Bormolini,IT,10
-1997-10-26,Lasse Kjus,NO,12
-1997-10-26,Tobias Barnerssoi,DE,12
-1997-10-26,Paul Accola,CH,13
-1997-10-26,Alberto Tomba,IT,14
-1997-10-26,Thomas Grandi,CA,15
-1997-10-26,Guenther Mader,AT,16
-1997-10-26,Christian Mayer,AT,18
-1997-10-26,Josef Strobl,AT,20
-1997-10-26,Heinz Schilchegger,AT,22
-1997-10-26,Patrick Holzer,IT,24
-1997-10-26,Gerhard Koenigsrainer,IT,26
-1997-10-26,Kjetil Andre Aamodt,NO,29
-1997-10-26,Christophe Saioni,FR,0
-1997-10-26,Andreas Schifferer,AT,32
-1997-10-26,Markus Eberle,DE,0
-1997-10-26,Arnold Rieder,IT,0
-1997-10-26,Nicolas Burtin,FR,0
-1997-10-26,Werner Franz,AT,0
-1997-10-26,Didier Cuche,CH,0
-1997-10-26,Frederic Covili,FR,0
-1997-10-26,Didier Defago,CH,0
-1997-10-26,Thomas Loedler,HR,0
-1997-10-26,Patrick Thaler,IT,0
-1997-10-26,Jernej Koblar,SK,0
-1997-10-26,Thomas Bergamelli,IT,0
-1997-10-26,Sebastien Amiez,FR,0
-1997-10-26,Andreas Ertl,DE,0
-1997-10-26,Didier Plaschy,CH,0
-1997-10-26,Sami Uotila,FI,0
-1997-10-26,Vincent Millet,FR,0
-1997-10-26,Sergio Bergamelli,IT,0
-1997-10-26,Mitja Kunc,SK,0
-1997-10-26,Giorgio Rocca,IT,0
-1997-10-26,Jure Kosir,SK,0
-1997-10-26,Fredrik Nyberg,SE,0
-1997-10-26,Hans Petter Buraas,NO,0
-1997-10-26,Patrice Manuel,FR,0
-1997-10-26,Patrik Jaerbyn,SE,0
-1997-10-26,Bernhard Knauss,SK,0
-1997-10-26,Matteo Nana,IT,0
-1997-10-26,Rainer Salzgeber,AT,36
-1997-10-26,Benjamin Raich,AT,0
-1997-10-26,Urs Kaelin,CH,45
-1997-10-26,Steve Locher,CH,80
-1997-10-26,Hans Knauss,AT,40
-1997-10-26,Hermann Maier,AT,60
-1997-10-26,Stephan Eberharter,AT,50
-1997-11-20,Jernej Koblar,SK,0
-1997-11-20,Tobias Barnerssoi,DE,12
-1997-11-20,Lasse Kjus,NO,12
-1997-11-20,Iwan Bormolini,IT,10
-1997-11-20,Joel Chenal,FR,23
-1997-11-20,Alois Vogl,DE,7
-1997-11-20,Harald Chr. Strand Nilsen,NO,6
-1997-11-20,Tom Stiansen,NO,4
-1997-11-20,Fredrik Nyberg,SE,0
-1997-11-20,Jure Kosir,SK,0
-1997-11-20,Giorgio Rocca,IT,0
-1997-11-20,Mitja Kunc,SK,0
-1997-11-20,Markus Eberle,DE,20
-1997-11-20,Josef Strobl,AT,60
-1997-11-20,Vincent Millet,FR,0
-1997-11-20,Sami Uotila,FI,0
-1997-11-20,Didier Plaschy,CH,0
-1997-11-20,Andreas Ertl,DE,0
-1997-11-20,Alberto Tomba,IT,14
-1997-11-20,Patrick Holzer,IT,24
-1997-11-20,Rainer Salzgeber,AT,36
-1997-11-20,Sebastien Amiez,FR,0
-1997-11-20,Patrik Jaerbyn,SE,10
-1997-11-20,Christian Mayer,AT,63
-1997-11-20,Guenther Mader,AT,29
-1997-11-20,Bruno Kernen,CH,12
-1997-11-20,Patrice Manuel,FR,8
-1997-11-20,Hans Petter Buraas,NO,7
-1997-11-20,Siegfried Voglreiter,AT,15
-1997-11-20,Urs Kaelin,CH,59
-1997-11-20,Gerhard Koenigsrainer,IT,26
-1997-11-20,Jeff Piccard,FR,6
-1997-11-20,Stephan Eberharter,AT,100
-1997-11-20,Matteo Nana,IT,15
-1997-11-20,Thomas Grandi,CA,75
-1997-11-20,Kjetil Andre Aamodt,NO,109
-1997-11-20,Hermann Maier,AT,160
-1997-11-20,Michael von Gruenigen,CH,100
-1997-11-20,Steve Locher,CH,96
-1997-11-20,Hans Knauss,AT,40
-1997-11-20,Ian Piccard,FR,6
-1997-11-20,Thomas Bergamelli,IT,0
-1997-11-20,Sergio Bergamelli,IT,0
-1997-11-20,Patrick Thaler,IT,0
-1997-11-20,Marco Buechel,LI,44
-1997-11-20,Paul Accola,CH,45
-1997-11-20,Christophe Saioni,FR,22
-1997-11-20,Heinz Schilchegger,AT,51
-1997-11-20,Bernhard Knauss,SK,11
-1997-11-20,Andreas Schifferer,AT,58
-1997-11-20,Bode Miller,US,24
-1997-11-20,Arnold Rieder,IT,12
-1997-11-20,Werner Franz,AT,0
-1997-11-20,Thomas Loedler,HR,0
-1997-11-20,Frederic Covili,FR,0
-1997-11-20,Benjamin Raich,AT,0
-1997-11-20,Didier Cuche,CH,0
-1997-11-20,Didier Defago,CH,0
-1997-11-20,Nicolas Burtin,FR,0
-1997-12-14,Urs Kaelin,CH,109
-1997-12-14,Bode Miller,US,27
-1997-12-14,Mitja Kunc,SK,4
-1997-12-14,Jernej Koblar,SK,0
-1997-12-14,Giorgio Rocca,IT,5
-1997-12-14,Patrick Thaler,IT,0
-1997-12-14,Siegfried Voglreiter,AT,21
-1997-12-14,Joel Chenal,FR,30
-1997-12-14,Didier Defago,CH,0
-1997-12-14,Guenther Mader,AT,37
-1997-12-14,Frederic Covili,FR,0
-1997-12-14,Benjamin Raich,AT,0
-1997-12-14,Thomas Grandi,CA,84
-1997-12-14,Didier Cuche,CH,0
-1997-12-14,Werner Franz,AT,0
-1997-12-14,Nicolas Burtin,FR,0
-1997-12-14,Jure Kosir,SK,10
-1997-12-14,Steve Locher,CH,141
-1997-12-14,Thomas Loedler,HR,0
-1997-12-14,Thomas Bergamelli,IT,0
-1997-12-14,Andreas Ertl,DE,0
-1997-12-14,Didier Plaschy,CH,0
-1997-12-14,Hermann Maier,AT,160
-1997-12-14,Kjetil Andre Aamodt,NO,109
-1997-12-14,Gerhard Koenigsrainer,IT,26
-1997-12-14,Tobias Barnerssoi,DE,12
-1997-12-14,Iwan Bormolini,IT,10
-1997-12-14,Alois Vogl,DE,7
-1997-12-14,Harald Chr. Strand Nilsen,NO,6
-1997-12-14,Tom Stiansen,NO,4
-1997-12-14,Bruno Kernen,CH,12
-1997-12-14,Sebastien Amiez,FR,0
-1997-12-14,Fredrik Nyberg,SE,12
-1997-12-14,Markus Eberle,DE,20
-1997-12-14,Arnold Rieder,IT,12
-1997-12-14,Patrik Jaerbyn,SE,10
-1997-12-14,Patrice Manuel,FR,8
-1997-12-14,Hans Petter Buraas,NO,7
-1997-12-14,Michael von Gruenigen,CH,200
-1997-12-14,Vincent Millet,FR,0
-1997-12-14,Stephan Eberharter,AT,180
-1997-12-14,Sami Uotila,FI,0
-1997-12-14,Jeff Piccard,FR,6
-1997-12-14,Sergio Bergamelli,IT,0
-1997-12-14,Hans Knauss,AT,100
-1997-12-14,Paul Accola,CH,74
-1997-12-14,Patrick Holzer,IT,48
-1997-12-14,Christophe Saioni,FR,35
-1997-12-14,Lasse Kjus,NO,26
-1997-12-14,Marco Buechel,LI,84
-1997-12-14,Bernhard Knauss,SK,33
-1997-12-14,Heinz Schilchegger,AT,71
-1997-12-14,Matteo Nana,IT,26
-1997-12-14,Ian Piccard,FR,32
-1997-12-14,Josef Strobl,AT,76
-1997-12-14,Alberto Tomba,IT,46
-1997-12-14,Andreas Schifferer,AT,73
-1997-12-14,Christian Mayer,AT,99
-1997-12-14,Rainer Salzgeber,AT,54
-1997-12-21,Alois Vogl,DE,18
-1997-12-21,Patrick Holzer,IT,77
-1997-12-21,Josef Strobl,AT,108
-1997-12-21,Heinz Schilchegger,AT,107
-1997-12-21,Hans Knauss,AT,145
-1997-12-21,Guenther Mader,AT,61
-1997-12-21,Siegfried Voglreiter,AT,61
-1997-12-21,Steve Locher,CH,141
-1997-12-21,Rainer Salzgeber,AT,76
-1997-12-21,Sergio Bergamelli,IT,20
-1997-12-21,Fredrik Nyberg,SE,30
-1997-12-21,Vincent Millet,FR,16
-1997-12-21,Michael von Gruenigen,CH,280
-1997-12-21,Hermann Maier,AT,220
-1997-12-21,Christophe Saioni,FR,50
-1997-12-21,Kjetil Andre Aamodt,NO,135
-1997-12-21,Andreas Schifferer,AT,73
-1997-12-21,Gerhard Koenigsrainer,IT,26
-1997-12-21,Alberto Tomba,IT,46
-1997-12-21,Nicolas Burtin,FR,0
-1997-12-21,Werner Franz,AT,0
-1997-12-21,Didier Cuche,CH,0
-1997-12-21,Benjamin Raich,AT,0
-1997-12-21,Frederic Covili,FR,0
-1997-12-21,Didier Defago,CH,0
-1997-12-21,Thomas Loedler,HR,0
-1997-12-21,Patrick Thaler,IT,0
-1997-12-21,Jernej Koblar,SK,0
-1997-12-21,Thomas Bergamelli,IT,0
-1997-12-21,Sebastien Amiez,FR,0
-1997-12-21,Giorgio Rocca,IT,5
-1997-12-21,Hans Petter Buraas,NO,7
-1997-12-21,Stephan Eberharter,AT,230
-1997-12-21,Patrice Manuel,FR,8
-1997-12-21,Bernhard Knauss,SK,33
-1997-12-21,Arnold Rieder,IT,12
-1997-12-21,Matteo Nana,IT,26
-1997-12-21,Markus Eberle,DE,20
-1997-12-21,Bode Miller,US,27
-1997-12-21,Jeff Piccard,FR,6
-1997-12-21,Ian Piccard,FR,32
-1997-12-21,Bruno Kernen,CH,12
-1997-12-21,Tom Stiansen,NO,4
-1997-12-21,Joel Chenal,FR,30
-1997-12-21,Harald Chr. Strand Nilsen,NO,6
-1997-12-21,Iwan Bormolini,IT,10
-1997-12-21,Tobias Barnerssoi,DE,12
-1997-12-21,Patrik Jaerbyn,SE,10
-1997-12-21,Andreas Ertl,DE,4
-1997-12-21,Christian Mayer,AT,199
-1997-12-21,Paul Accola,CH,81
-1997-12-21,Sami Uotila,FI,14
-1997-12-21,Lasse Kjus,NO,38
-1997-12-21,Thomas Grandi,CA,89
-1997-12-21,Marco Buechel,LI,98
-1997-12-21,Urs Kaelin,CH,119
-1997-12-21,Didier Plaschy,CH,10
-1997-12-21,Mitja Kunc,SK,12
-1997-12-21,Jure Kosir,SK,16
-1998-01-03,Kjetil Andre Aamodt,NO,161
-1998-01-03,Arnold Rieder,IT,12
-1998-01-03,Alberto Tomba,IT,91
-1998-01-03,Bernhard Knauss,SK,33
-1998-01-03,Patrik Jaerbyn,SE,10
-1998-01-03,Patrice Manuel,FR,8
-1998-01-03,Giorgio Rocca,IT,5
-1998-01-03,Urs Kaelin,CH,159
-1998-01-03,Markus Eberle,DE,26
-1998-01-03,Thomas Grandi,CA,111
-1998-01-03,Mitja Kunc,SK,12
-1998-01-03,Vincent Millet,FR,16
-1998-01-03,Sami Uotila,FI,14
-1998-01-03,Didier Plaschy,CH,30
-1998-01-03,Thomas Bergamelli,IT,0
-1998-01-03,Hans Petter Buraas,NO,7
-1998-01-03,Bode Miller,US,27
-1998-01-03,Patrick Holzer,IT,101
-1998-01-03,Jure Kosir,SK,23
-1998-01-03,Lasse Kjus,NO,38
-1998-01-03,Tobias Barnerssoi,DE,12
-1998-01-03,Paul Accola,CH,81
-1998-01-03,Gerhard Koenigsrainer,IT,26
-1998-01-03,Stephan Eberharter,AT,230
-1998-01-03,Rainer Salzgeber,AT,88
-1998-01-03,Steve Locher,CH,154
-1998-01-03,Fredrik Nyberg,SE,40
-1998-01-03,Andreas Schifferer,AT,82
-1998-01-03,Siegfried Voglreiter,AT,69
-1998-01-03,Ian Piccard,FR,68
-1998-01-03,Alois Vogl,DE,18
-1998-01-03,Tom Stiansen,NO,4
-1998-01-03,Bruno Kernen,CH,12
-1998-01-03,Heinz Schilchegger,AT,121
-1998-01-03,Joel Chenal,FR,62
-1998-01-03,Jeff Piccard,FR,6
-1998-01-03,Guenther Mader,AT,72
-1998-01-03,Jernej Koblar,SK,0
-1998-01-03,Sergio Bergamelli,IT,49
-1998-01-03,Patrick Thaler,IT,0
-1998-01-03,Marco Buechel,LI,98
-1998-01-03,Michael von Gruenigen,CH,340
-1998-01-03,Hermann Maier,AT,300
-1998-01-03,Nicolas Burtin,FR,0
-1998-01-03,Werner Franz,AT,0
-1998-01-03,Christian Mayer,AT,299
-1998-01-03,Didier Cuche,CH,0
-1998-01-03,Sebastien Amiez,FR,3
-1998-01-03,Andreas Ertl,DE,20
-1998-01-03,Christophe Saioni,FR,65
-1998-01-03,Hans Knauss,AT,195
-1998-01-03,Iwan Bormolini,IT,10
-1998-01-03,Frederic Covili,FR,0
-1998-01-03,Matteo Nana,IT,44
-1998-01-03,Benjamin Raich,AT,0
-1998-01-03,Thomas Loedler,HR,0
-1998-01-03,Josef Strobl,AT,112
-1998-01-03,Didier Defago,CH,0
-1998-01-03,Harald Chr. Strand Nilsen,NO,11
-1998-01-06,Rainer Salzgeber,AT,148
-1998-01-06,Tom Stiansen,NO,4
-1998-01-06,Harald Chr. Strand Nilsen,NO,25
-1998-01-06,Thomas Bergamelli,IT,11
-1998-01-06,Andreas Schifferer,AT,118
-1998-01-06,Bruno Kernen,CH,12
-1998-01-06,Nicolas Burtin,FR,0
-1998-01-06,Patrick Thaler,IT,8
-1998-01-06,Ian Piccard,FR,68
-1998-01-06,Joel Chenal,FR,62
-1998-01-06,Arnold Rieder,IT,12
-1998-01-06,Hans Petter Buraas,NO,7
-1998-01-06,Matteo Nana,IT,44
-1998-01-06,Steve Locher,CH,199
-1998-01-06,Jernej Koblar,SK,10
-1998-01-06,Mitja Kunc,SK,14
-1998-01-06,Hans Knauss,AT,245
-1998-01-06,Jeff Piccard,FR,6
-1998-01-06,Patrik Jaerbyn,SE,10
-1998-01-06,Andreas Ertl,DE,33
-1998-01-06,Fredrik Nyberg,SE,52
-1998-01-06,Bode Miller,US,27
-1998-01-06,Christophe Saioni,FR,65
-1998-01-06,Patrice Manuel,FR,12
-1998-01-06,Tobias Barnerssoi,DE,21
-1998-01-06,Didier Defago,CH,3
-1998-01-06,Werner Franz,AT,0
-1998-01-06,Urs Kaelin,CH,191
-1998-01-06,Thomas Loedler,HR,5
-1998-01-06,Sami Uotila,FI,30
-1998-01-06,Frederic Covili,FR,0
-1998-01-06,Sebastien Amiez,FR,3
-1998-01-06,Michael von Gruenigen,CH,340
-1998-01-06,Patrick Holzer,IT,116
-1998-01-06,Jure Kosir,SK,47
-1998-01-06,Hermann Maier,AT,400
-1998-01-06,Alois Vogl,DE,24
-1998-01-06,Guenther Mader,AT,94
-1998-01-06,Bernhard Knauss,SK,33
-1998-01-06,Vincent Millet,FR,16
-1998-01-06,Giorgio Rocca,IT,5
-1998-01-06,Thomas Grandi,CA,131
-1998-01-06,Sergio Bergamelli,IT,67
-1998-01-06,Kjetil Andre Aamodt,NO,161
-1998-01-06,Gerhard Koenigsrainer,IT,26
-1998-01-06,Markus Eberle,DE,26
-1998-01-06,Benjamin Raich,AT,0
-1998-01-06,Siegfried Voglreiter,AT,69
-1998-01-06,Iwan Bormolini,IT,10
-1998-01-06,Lasse Kjus,NO,38
-1998-01-06,Didier Plaschy,CH,70
-1998-01-06,Christian Mayer,AT,299
-1998-01-06,Stephan Eberharter,AT,256
-1998-01-06,Heinz Schilchegger,AT,121
-1998-01-06,Marco Buechel,LI,127
-1998-01-06,Didier Cuche,CH,0
-1998-01-06,Paul Accola,CH,88
-1998-01-06,Alberto Tomba,IT,171
-1998-01-06,Josef Strobl,AT,112
-1998-01-13,Christian Mayer,AT,299
-1998-01-13,Bernhard Knauss,SK,33
-1998-01-13,Arnold Rieder,IT,12
-1998-01-13,Matteo Nana,IT,44
-1998-01-13,Jeff Piccard,FR,6
-1998-01-13,Bode Miller,US,27
-1998-01-13,Steve Locher,CH,199
-1998-01-13,Stephan Eberharter,AT,256
-1998-01-13,Bruno Kernen,CH,12
-1998-01-13,Alois Vogl,DE,24
-1998-01-13,Gerhard Koenigsrainer,IT,26
-1998-01-13,Iwan Bormolini,IT,10
-1998-01-13,Lasse Kjus,NO,38
-1998-01-13,Josef Strobl,AT,112
-1998-01-13,Alberto Tomba,IT,171
-1998-01-13,Christophe Saioni,FR,65
-1998-01-13,Siegfried Voglreiter,AT,69
-1998-01-13,Hans Petter Buraas,NO,7
-1998-01-13,Guenther Mader,AT,105
-1998-01-13,Sergio Bergamelli,IT,67
-1998-01-13,Sami Uotila,FI,30
-1998-01-13,Harald Chr. Strand Nilsen,NO,41
-1998-01-13,Vincent Millet,FR,23
-1998-01-13,Michael von Gruenigen,CH,420
-1998-01-13,Didier Plaschy,CH,70
-1998-01-13,Andreas Ertl,DE,33
-1998-01-13,Tom Stiansen,NO,13
-1998-01-13,Patrik Jaerbyn,SE,10
-1998-01-13,Paul Accola,CH,148
-1998-01-13,Sebastien Amiez,FR,3
-1998-01-13,Thomas Bergamelli,IT,11
-1998-01-13,Rainer Salzgeber,AT,184
-1998-01-13,Jernej Koblar,SK,10
-1998-01-13,Thomas Loedler,HR,5
-1998-01-13,Didier Defago,CH,3
-1998-01-13,Thomas Grandi,CA,146
-1998-01-13,Hermann Maier,AT,500
-1998-01-13,Frederic Covili,FR,0
-1998-01-13,Mitja Kunc,SK,14
-1998-01-13,Hans Knauss,AT,295
-1998-01-13,Joel Chenal,FR,102
-1998-01-13,Fredrik Nyberg,SE,84
-1998-01-13,Jure Kosir,SK,76
-1998-01-13,Andreas Schifferer,AT,144
-1998-01-13,Patrice Manuel,FR,20
-1998-01-13,Ian Piccard,FR,92
-1998-01-13,Markus Eberle,DE,40
-1998-01-13,Patrick Thaler,IT,20
-1998-01-13,Urs Kaelin,CH,236
-1998-01-13,Giorgio Rocca,IT,5
-1998-01-13,Nicolas Burtin,FR,0
-1998-01-13,Werner Franz,AT,0
-1998-01-13,Kjetil Andre Aamodt,NO,181
-1998-01-13,Heinz Schilchegger,AT,134
-1998-01-13,Tobias Barnerssoi,DE,31
-1998-01-13,Patrick Holzer,IT,134
-1998-01-13,Didier Cuche,CH,0
-1998-01-13,Marco Buechel,LI,149
-1998-01-13,Benjamin Raich,AT,0
-1998-02-28,Markus Eberle,DE,40
-1998-02-28,Tobias Barnerssoi,DE,31
-1998-02-28,Iwan Bormolini,IT,10
-1998-02-28,Siegfried Voglreiter,AT,69
-1998-02-28,Alois Vogl,DE,24
-1998-02-28,Tom Stiansen,NO,13
-1998-02-28,Bruno Kernen,CH,12
-1998-02-28,Bode Miller,US,27
-1998-02-28,Jeff Piccard,FR,6
-1998-02-28,Christophe Saioni,FR,65
-1998-02-28,Alberto Tomba,IT,171
-1998-02-28,Patrik Jaerbyn,SE,10
-1998-02-28,Patrick Holzer,IT,134
-1998-02-28,Werner Franz,AT,0
-1998-02-28,Didier Cuche,CH,0
-1998-02-28,Benjamin Raich,AT,0
-1998-02-28,Didier Defago,CH,3
-1998-02-28,Thomas Loedler,HR,5
-1998-02-28,Patrick Thaler,IT,20
-1998-02-28,Jernej Koblar,SK,10
-1998-02-28,Guenther Mader,AT,105
-1998-02-28,Thomas Bergamelli,IT,11
-1998-02-28,Vincent Millet,FR,23
-1998-02-28,Mitja Kunc,SK,14
-1998-02-28,Giorgio Rocca,IT,5
-1998-02-28,Patrice Manuel,FR,20
-1998-02-28,Matteo Nana,IT,44
-1998-02-28,Hans Knauss,AT,295
-1998-02-28,Gerhard Koenigsrainer,IT,26
-1998-02-28,Sebastien Amiez,FR,3
-1998-02-28,Nicolas Burtin,FR,0
-1998-02-28,Arnold Rieder,IT,52
-1998-02-28,Harald Chr. Strand Nilsen,NO,52
-1998-02-28,Hans Petter Buraas,NO,23
-1998-02-28,Jure Kosir,SK,96
-1998-02-28,Rainer Salzgeber,AT,229
-1998-02-28,Thomas Grandi,CA,161
-1998-02-28,Sami Uotila,FI,44
-1998-02-28,Ian Piccard,FR,114
-1998-02-28,Kjetil Andre Aamodt,NO,194
-1998-02-28,Urs Kaelin,CH,248
-1998-02-28,Fredrik Nyberg,SE,108
-1998-02-28,Lasse Kjus,NO,48
-1998-02-28,Joel Chenal,FR,112
-1998-02-28,Marco Buechel,LI,175
-1998-02-28,Heinz Schilchegger,AT,142
-1998-02-28,Sergio Bergamelli,IT,74
-1998-02-28,Didier Plaschy,CH,88
-1998-02-28,Paul Accola,CH,198
-1998-02-28,Michael von Gruenigen,CH,520
-1998-02-28,Andreas Schifferer,AT,180
-1998-02-28,Andreas Ertl,DE,39
-1998-02-28,Christian Mayer,AT,379
-1998-02-28,Josef Strobl,AT,117
-1998-02-28,Steve Locher,CH,228
-1998-02-28,Bernhard Knauss,SK,37
-1998-02-28,Hermann Maier,AT,560
-1998-02-28,Frederic Covili,FR,3
-1998-02-28,Stephan Eberharter,AT,288
-1998-03-14,Patrice Manuel,FR,20
-1998-03-14,Jeff Piccard,FR,6
-1998-03-14,Patrik Jaerbyn,SE,10
-1998-03-14,Bode Miller,US,27
-1998-03-14,Bernhard Knauss,SK,37
-1998-03-14,Christophe Saioni,FR,65
-1998-03-14,Hans Petter Buraas,NO,23
-1998-03-14,Matteo Nana,IT,44
-1998-03-14,Markus Eberle,DE,40
-1998-03-14,Arnold Rieder,IT,52
-1998-03-14,Sebastien Amiez,FR,3
-1998-03-14,Mitja Kunc,SK,14
-1998-03-14,Vincent Millet,FR,23
-1998-03-14,Sami Uotila,FI,44
-1998-03-14,Andreas Ertl,DE,39
-1998-03-14,Bruno Kernen,CH,12
-1998-03-14,Thomas Bergamelli,IT,11
-1998-03-14,Jernej Koblar,SK,10
-1998-03-14,Patrick Thaler,IT,20
-1998-03-14,Thomas Loedler,HR,5
-1998-03-14,Didier Defago,CH,3
-1998-03-14,Frederic Covili,FR,3
-1998-03-14,Urs Kaelin,CH,277
-1998-03-14,Kjetil Andre Aamodt,NO,226
-1998-03-14,Andreas Schifferer,AT,216
-1998-03-14,Giorgio Rocca,IT,5
-1998-03-14,Tom Stiansen,NO,13
-1998-03-14,Josef Strobl,AT,141
-1998-03-14,Alois Vogl,DE,24
-1998-03-14,Stephan Eberharter,AT,388
-1998-03-14,Hans Knauss,AT,375
-1998-03-14,Hermann Maier,AT,620
-1998-03-14,Nicolas Burtin,FR,4
-1998-03-14,Didier Plaschy,CH,93
-1998-03-14,Sergio Bergamelli,IT,80
-1998-03-14,Werner Franz,AT,7
-1998-03-14,Christian Mayer,AT,429
-1998-03-14,Fredrik Nyberg,SE,116
-1998-03-14,Didier Cuche,CH,10
-1998-03-14,Patrick Holzer,IT,144
-1998-03-14,Joel Chenal,FR,124
-1998-03-14,Rainer Salzgeber,AT,242
-1998-03-14,Harald Chr. Strand Nilsen,NO,52
-1998-03-14,Guenther Mader,AT,119
-1998-03-14,Paul Accola,CH,214
-1998-03-14,Marco Buechel,LI,220
-1998-03-14,Steve Locher,CH,246
-1998-03-14,Heinz Schilchegger,AT,162
-1998-03-14,Ian Piccard,FR,136
-1998-03-14,Michael von Gruenigen,CH,560
-1998-03-14,Benjamin Raich,AT,26
-1998-03-14,Gerhard Koenigsrainer,IT,26
-1998-03-14,Alberto Tomba,IT,171
-1998-03-14,Tobias Barnerssoi,DE,31
-1998-03-14,Lasse Kjus,NO,48
-1998-03-14,Iwan Bormolini,IT,10
-1998-03-14,Siegfried Voglreiter,AT,69
-1998-03-14,Jure Kosir,SK,112
-1998-03-14,Thomas Grandi,CA,172
+date,name,ath_country,value,specialty
+1997-10-26,Michael von Gruenigen,CH,100,Giant Slalom
+1997-10-26,Markus Eberle,DE,0,Slalom
+1997-10-26,Bernhard Knauss,SK,0,Giant Slalom
+1997-10-26,Guenther Mader,AT,16,Giant Slalom
+1997-10-26,Bode Miller,US,0,Giant Slalom
+1997-10-26,Benjamin Raich,AT,0,Giant Slalom
+1997-10-26,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1997-10-26,Jure Kosir,SK,0,Slalom
+1997-10-26,Sergio Bergamelli,IT,0,Giant Slalom
+1997-10-26,Patrick Holzer,IT,24,Giant Slalom
+1997-10-26,Fredrik Nyberg,SE,0,Giant Slalom
+1997-10-26,Andreas Schifferer,AT,32,Downhill
+1997-10-26,Ian Piccard,FR,2,Giant Slalom
+1997-10-26,Heinz Schilchegger,AT,22,Giant Slalom
+1997-10-26,Arnold Rieder,IT,0,Giant Slalom
+1997-10-26,Joel Chenal,FR,5,Slalom
+1997-10-26,Didier Plaschy,CH,0,Giant Slalom
+1997-10-26,Siegfried Voglreiter,AT,9,Slalom
+1997-10-26,Josef Strobl,AT,20,Downhill
+1997-10-26,Marco Buechel,LI,8,Giant Slalom
+1997-10-26,Urs Kaelin,CH,45,Giant Slalom
+1997-10-26,Paul Accola,CH,13,Giant Slalom
+1997-10-26,Rainer Salzgeber,AT,36,Giant Slalom
+1997-10-26,Thomas Grandi,CA,15,Giant Slalom
+1997-10-26,Matteo Nana,IT,0,Giant Slalom
+1997-10-26,Hans Knauss,AT,40,Giant Slalom
+1997-10-26,Vincent Millet,FR,0,Giant Slalom
+1997-10-26,Sami Uotila,FI,0,Giant Slalom
+1997-10-26,Thomas Bergamelli,IT,0,Giant Slalom
+1997-10-26,Frederic Covili,FR,0,Giant Slalom
+1997-10-26,Didier Defago,CH,0,Giant Slalom
+1997-10-26,Sebastien Amiez,FR,0,Slalom
+1997-10-26,Nicolas Burtin,FR,0,Downhill
+1997-10-26,Thomas Loedler,HR,0,Giant Slalom
+1997-10-26,Giorgio Rocca,IT,0,Giant Slalom
+1997-10-26,Jeff Piccard,FR,1,Giant Slalom
+1997-10-26,Werner Franz,AT,0,Downhill
+1997-10-26,Alois Vogl,DE,7,Slalom
+1997-10-26,Mitja Kunc,SK,0,Giant Slalom
+1997-10-26,Patrice Manuel,FR,0,Giant Slalom
+1997-10-26,Tom Stiansen,NO,4,Slalom
+1997-10-26,Bruno Kernen,CH,3,Downhill
+1997-10-26,Didier Cuche,CH,0,Downhill
+1997-10-26,Jernej Koblar,SK,0,Giant Slalom
+1997-10-26,Patrik Jaerbyn,SE,0,Super G
+1997-10-26,Iwan Bormolini,IT,10,Giant Slalom
+1997-10-26,Patrick Thaler,IT,0,Giant Slalom
+1997-10-26,Tobias Barnerssoi,DE,12,Giant Slalom
+1997-10-26,Lasse Kjus,NO,12,Downhill
+1997-10-26,Hans Petter Buraas,NO,0,Slalom
+1997-10-26,Harald Chr. Strand Nilsen,NO,6,Giant Slalom
+1997-10-26,Andreas Ertl,DE,0,Giant Slalom
+1997-10-26,Alberto Tomba,IT,14,Slalom
+1997-10-26,Christophe Saioni,FR,0,Giant Slalom
+1997-10-26,Hermann Maier,AT,60,Giant Slalom
+1997-10-26,Steve Locher,CH,80,Giant Slalom
+1997-10-26,Kjetil Andre Aamodt,NO,29,Downhill
+1997-10-26,Christian Mayer,AT,18,Giant Slalom
+1997-10-26,Stephan Eberharter,AT,50,Giant Slalom
+1997-11-20,Sergio Bergamelli,IT,0,Giant Slalom
+1997-11-20,Josef Strobl,AT,60,Downhill
+1997-11-20,Bruno Kernen,CH,12,Downhill
+1997-11-20,Jure Kosir,SK,0,Slalom
+1997-11-20,Didier Cuche,CH,0,Downhill
+1997-11-20,Marco Buechel,LI,44,Giant Slalom
+1997-11-20,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1997-11-20,Nicolas Burtin,FR,0,Downhill
+1997-11-20,Urs Kaelin,CH,59,Giant Slalom
+1997-11-20,Jernej Koblar,SK,0,Giant Slalom
+1997-11-20,Steve Locher,CH,96,Giant Slalom
+1997-11-20,Bode Miller,US,24,Giant Slalom
+1997-11-20,Patrik Jaerbyn,SE,10,Super G
+1997-11-20,Thomas Loedler,HR,0,Giant Slalom
+1997-11-20,Kjetil Andre Aamodt,NO,109,Downhill
+1997-11-20,Sami Uotila,FI,0,Giant Slalom
+1997-11-20,Stephan Eberharter,AT,100,Giant Slalom
+1997-11-20,Werner Franz,AT,0,Downhill
+1997-11-20,Hermann Maier,AT,160,Giant Slalom
+1997-11-20,Heinz Schilchegger,AT,51,Giant Slalom
+1997-11-20,Joel Chenal,FR,23,Slalom
+1997-11-20,Jeff Piccard,FR,6,Giant Slalom
+1997-11-20,Alois Vogl,DE,7,Slalom
+1997-11-20,Didier Plaschy,CH,0,Giant Slalom
+1997-11-20,Patrick Holzer,IT,24,Giant Slalom
+1997-11-20,Mitja Kunc,SK,0,Giant Slalom
+1997-11-20,Andreas Schifferer,AT,58,Downhill
+1997-11-20,Patrice Manuel,FR,8,Giant Slalom
+1997-11-20,Michael von Gruenigen,CH,100,Giant Slalom
+1997-11-20,Giorgio Rocca,IT,0,Giant Slalom
+1997-11-20,Siegfried Voglreiter,AT,15,Slalom
+1997-11-20,Fredrik Nyberg,SE,0,Giant Slalom
+1997-11-20,Tom Stiansen,NO,4,Slalom
+1997-11-20,Ian Piccard,FR,6,Giant Slalom
+1997-11-20,Sebastien Amiez,FR,0,Slalom
+1997-11-20,Benjamin Raich,AT,0,Giant Slalom
+1997-11-20,Paul Accola,CH,45,Giant Slalom
+1997-11-20,Alberto Tomba,IT,14,Slalom
+1997-11-20,Andreas Ertl,DE,0,Giant Slalom
+1997-11-20,Harald Chr. Strand Nilsen,NO,6,Giant Slalom
+1997-11-20,Hans Petter Buraas,NO,7,Slalom
+1997-11-20,Thomas Bergamelli,IT,0,Giant Slalom
+1997-11-20,Christian Mayer,AT,63,Giant Slalom
+1997-11-20,Vincent Millet,FR,0,Giant Slalom
+1997-11-20,Hans Knauss,AT,40,Giant Slalom
+1997-11-20,Lasse Kjus,NO,12,Downhill
+1997-11-20,Matteo Nana,IT,15,Giant Slalom
+1997-11-20,Frederic Covili,FR,0,Giant Slalom
+1997-11-20,Tobias Barnerssoi,DE,12,Giant Slalom
+1997-11-20,Markus Eberle,DE,20,Slalom
+1997-11-20,Bernhard Knauss,SK,11,Giant Slalom
+1997-11-20,Didier Defago,CH,0,Giant Slalom
+1997-11-20,Thomas Grandi,CA,75,Giant Slalom
+1997-11-20,Arnold Rieder,IT,12,Giant Slalom
+1997-11-20,Patrick Thaler,IT,0,Giant Slalom
+1997-11-20,Iwan Bormolini,IT,10,Giant Slalom
+1997-11-20,Christophe Saioni,FR,22,Giant Slalom
+1997-11-20,Guenther Mader,AT,29,Giant Slalom
+1997-11-20,Rainer Salzgeber,AT,36,Giant Slalom
+1997-12-14,Patrik Jaerbyn,SE,10,Super G
+1997-12-14,Patrice Manuel,FR,8,Giant Slalom
+1997-12-14,Mitja Kunc,SK,4,Giant Slalom
+1997-12-14,Guenther Mader,AT,37,Giant Slalom
+1997-12-14,Harald Chr. Strand Nilsen,NO,6,Giant Slalom
+1997-12-14,Bode Miller,US,27,Giant Slalom
+1997-12-14,Vincent Millet,FR,0,Giant Slalom
+1997-12-14,Hermann Maier,AT,160,Giant Slalom
+1997-12-14,Alois Vogl,DE,7,Slalom
+1997-12-14,Heinz Schilchegger,AT,71,Giant Slalom
+1997-12-14,Andreas Ertl,DE,0,Giant Slalom
+1997-12-14,Christian Mayer,AT,99,Giant Slalom
+1997-12-14,Sami Uotila,FI,0,Giant Slalom
+1997-12-14,Arnold Rieder,IT,12,Giant Slalom
+1997-12-14,Ian Piccard,FR,32,Giant Slalom
+1997-12-14,Benjamin Raich,AT,0,Giant Slalom
+1997-12-14,Tobias Barnerssoi,DE,12,Giant Slalom
+1997-12-14,Bernhard Knauss,SK,33,Giant Slalom
+1997-12-14,Jure Kosir,SK,10,Slalom
+1997-12-14,Didier Cuche,CH,0,Downhill
+1997-12-14,Sergio Bergamelli,IT,0,Giant Slalom
+1997-12-14,Patrick Thaler,IT,0,Giant Slalom
+1997-12-14,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1997-12-14,Stephan Eberharter,AT,180,Giant Slalom
+1997-12-14,Jernej Koblar,SK,0,Giant Slalom
+1997-12-14,Fredrik Nyberg,SE,12,Giant Slalom
+1997-12-14,Bruno Kernen,CH,12,Downhill
+1997-12-14,Christophe Saioni,FR,35,Giant Slalom
+1997-12-14,Iwan Bormolini,IT,10,Giant Slalom
+1997-12-14,Tom Stiansen,NO,4,Slalom
+1997-12-14,Patrick Holzer,IT,48,Giant Slalom
+1997-12-14,Lasse Kjus,NO,26,Downhill
+1997-12-14,Steve Locher,CH,141,Giant Slalom
+1997-12-14,Matteo Nana,IT,26,Giant Slalom
+1997-12-14,Markus Eberle,DE,20,Slalom
+1997-12-14,Hans Petter Buraas,NO,7,Slalom
+1997-12-14,Andreas Schifferer,AT,73,Downhill
+1997-12-14,Frederic Covili,FR,0,Giant Slalom
+1997-12-14,Josef Strobl,AT,76,Downhill
+1997-12-14,Thomas Loedler,HR,0,Giant Slalom
+1997-12-14,Thomas Grandi,CA,84,Giant Slalom
+1997-12-14,Siegfried Voglreiter,AT,21,Slalom
+1997-12-14,Giorgio Rocca,IT,5,Giant Slalom
+1997-12-14,Didier Defago,CH,0,Giant Slalom
+1997-12-14,Marco Buechel,LI,84,Giant Slalom
+1997-12-14,Michael von Gruenigen,CH,200,Giant Slalom
+1997-12-14,Nicolas Burtin,FR,0,Downhill
+1997-12-14,Jeff Piccard,FR,6,Giant Slalom
+1997-12-14,Thomas Bergamelli,IT,0,Giant Slalom
+1997-12-14,Werner Franz,AT,0,Downhill
+1997-12-14,Didier Plaschy,CH,0,Giant Slalom
+1997-12-14,Hans Knauss,AT,100,Giant Slalom
+1997-12-14,Sebastien Amiez,FR,0,Slalom
+1997-12-14,Joel Chenal,FR,30,Slalom
+1997-12-14,Rainer Salzgeber,AT,54,Giant Slalom
+1997-12-14,Kjetil Andre Aamodt,NO,109,Downhill
+1997-12-14,Alberto Tomba,IT,46,Slalom
+1997-12-14,Paul Accola,CH,74,Giant Slalom
+1997-12-14,Urs Kaelin,CH,109,Giant Slalom
+1997-12-21,Josef Strobl,AT,108,Downhill
+1997-12-21,Didier Defago,CH,0,Giant Slalom
+1997-12-21,Kjetil Andre Aamodt,NO,135,Downhill
+1997-12-21,Iwan Bormolini,IT,10,Giant Slalom
+1997-12-21,Guenther Mader,AT,61,Giant Slalom
+1997-12-21,Thomas Grandi,CA,89,Giant Slalom
+1997-12-21,Didier Cuche,CH,0,Downhill
+1997-12-21,Marco Buechel,LI,98,Giant Slalom
+1997-12-21,Bruno Kernen,CH,12,Downhill
+1997-12-21,Thomas Loedler,HR,0,Giant Slalom
+1997-12-21,Hermann Maier,AT,220,Giant Slalom
+1997-12-21,Paul Accola,CH,81,Giant Slalom
+1997-12-21,Patrik Jaerbyn,SE,10,Super G
+1997-12-21,Tobias Barnerssoi,DE,12,Giant Slalom
+1997-12-21,Urs Kaelin,CH,119,Giant Slalom
+1997-12-21,Christophe Saioni,FR,50,Giant Slalom
+1997-12-21,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1997-12-21,Bernhard Knauss,SK,33,Giant Slalom
+1997-12-21,Michael von Gruenigen,CH,280,Giant Slalom
+1997-12-21,Jernej Koblar,SK,0,Giant Slalom
+1997-12-21,Sergio Bergamelli,IT,20,Giant Slalom
+1997-12-21,Nicolas Burtin,FR,0,Downhill
+1997-12-21,Rainer Salzgeber,AT,76,Giant Slalom
+1997-12-21,Bode Miller,US,27,Giant Slalom
+1997-12-21,Stephan Eberharter,AT,230,Giant Slalom
+1997-12-21,Benjamin Raich,AT,0,Giant Slalom
+1997-12-21,Patrick Thaler,IT,0,Giant Slalom
+1997-12-21,Jure Kosir,SK,16,Slalom
+1997-12-21,Christian Mayer,AT,199,Giant Slalom
+1997-12-21,Werner Franz,AT,0,Downhill
+1997-12-21,Mitja Kunc,SK,12,Giant Slalom
+1997-12-21,Jeff Piccard,FR,6,Giant Slalom
+1997-12-21,Patrice Manuel,FR,8,Giant Slalom
+1997-12-21,Markus Eberle,DE,20,Slalom
+1997-12-21,Ian Piccard,FR,32,Giant Slalom
+1997-12-21,Didier Plaschy,CH,10,Giant Slalom
+1997-12-21,Steve Locher,CH,141,Giant Slalom
+1997-12-21,Harald Chr. Strand Nilsen,NO,6,Giant Slalom
+1997-12-21,Thomas Bergamelli,IT,0,Giant Slalom
+1997-12-21,Andreas Ertl,DE,4,Giant Slalom
+1997-12-21,Alberto Tomba,IT,46,Slalom
+1997-12-21,Heinz Schilchegger,AT,107,Giant Slalom
+1997-12-21,Alois Vogl,DE,18,Slalom
+1997-12-21,Sami Uotila,FI,14,Giant Slalom
+1997-12-21,Arnold Rieder,IT,12,Giant Slalom
+1997-12-21,Joel Chenal,FR,30,Slalom
+1997-12-21,Hans Petter Buraas,NO,7,Slalom
+1997-12-21,Vincent Millet,FR,16,Giant Slalom
+1997-12-21,Sebastien Amiez,FR,0,Slalom
+1997-12-21,Patrick Holzer,IT,77,Giant Slalom
+1997-12-21,Andreas Schifferer,AT,73,Downhill
+1997-12-21,Siegfried Voglreiter,AT,61,Slalom
+1997-12-21,Hans Knauss,AT,145,Giant Slalom
+1997-12-21,Frederic Covili,FR,0,Giant Slalom
+1997-12-21,Fredrik Nyberg,SE,30,Giant Slalom
+1997-12-21,Matteo Nana,IT,26,Giant Slalom
+1997-12-21,Giorgio Rocca,IT,5,Giant Slalom
+1997-12-21,Lasse Kjus,NO,38,Downhill
+1997-12-21,Tom Stiansen,NO,4,Slalom
+1998-01-03,Sami Uotila,FI,14,Giant Slalom
+1998-01-03,Thomas Grandi,CA,111,Giant Slalom
+1998-01-03,Guenther Mader,AT,72,Giant Slalom
+1998-01-03,Matteo Nana,IT,44,Giant Slalom
+1998-01-03,Alberto Tomba,IT,91,Slalom
+1998-01-03,Markus Eberle,DE,26,Slalom
+1998-01-03,Lasse Kjus,NO,38,Downhill
+1998-01-03,Rainer Salzgeber,AT,88,Giant Slalom
+1998-01-03,Harald Chr. Strand Nilsen,NO,11,Giant Slalom
+1998-01-03,Tobias Barnerssoi,DE,12,Giant Slalom
+1998-01-03,Thomas Bergamelli,IT,0,Giant Slalom
+1998-01-03,Bernhard Knauss,SK,33,Giant Slalom
+1998-01-03,Patrick Thaler,IT,0,Giant Slalom
+1998-01-03,Andreas Ertl,DE,20,Giant Slalom
+1998-01-03,Christian Mayer,AT,299,Giant Slalom
+1998-01-03,Kjetil Andre Aamodt,NO,161,Downhill
+1998-01-03,Frederic Covili,FR,0,Giant Slalom
+1998-01-03,Hans Petter Buraas,NO,7,Slalom
+1998-01-03,Vincent Millet,FR,16,Giant Slalom
+1998-01-03,Hans Knauss,AT,195,Giant Slalom
+1998-01-03,Christophe Saioni,FR,65,Giant Slalom
+1998-01-03,Didier Defago,CH,0,Giant Slalom
+1998-01-03,Urs Kaelin,CH,159,Giant Slalom
+1998-01-03,Giorgio Rocca,IT,5,Giant Slalom
+1998-01-03,Marco Buechel,LI,98,Giant Slalom
+1998-01-03,Bruno Kernen,CH,12,Downhill
+1998-01-03,Sergio Bergamelli,IT,49,Giant Slalom
+1998-01-03,Heinz Schilchegger,AT,121,Giant Slalom
+1998-01-03,Josef Strobl,AT,112,Downhill
+1998-01-03,Ian Piccard,FR,68,Giant Slalom
+1998-01-03,Iwan Bormolini,IT,10,Giant Slalom
+1998-01-03,Patrick Holzer,IT,101,Giant Slalom
+1998-01-03,Siegfried Voglreiter,AT,69,Slalom
+1998-01-03,Fredrik Nyberg,SE,40,Giant Slalom
+1998-01-03,Tom Stiansen,NO,4,Slalom
+1998-01-03,Mitja Kunc,SK,12,Giant Slalom
+1998-01-03,Patrice Manuel,FR,8,Giant Slalom
+1998-01-03,Andreas Schifferer,AT,82,Downhill
+1998-01-03,Jeff Piccard,FR,6,Giant Slalom
+1998-01-03,Hermann Maier,AT,300,Giant Slalom
+1998-01-03,Didier Cuche,CH,0,Downhill
+1998-01-03,Joel Chenal,FR,62,Slalom
+1998-01-03,Stephan Eberharter,AT,230,Giant Slalom
+1998-01-03,Sebastien Amiez,FR,3,Slalom
+1998-01-03,Arnold Rieder,IT,12,Giant Slalom
+1998-01-03,Bode Miller,US,27,Giant Slalom
+1998-01-03,Paul Accola,CH,81,Giant Slalom
+1998-01-03,Steve Locher,CH,154,Giant Slalom
+1998-01-03,Patrik Jaerbyn,SE,10,Super G
+1998-01-03,Benjamin Raich,AT,0,Giant Slalom
+1998-01-03,Nicolas Burtin,FR,0,Downhill
+1998-01-03,Jure Kosir,SK,23,Slalom
+1998-01-03,Werner Franz,AT,0,Downhill
+1998-01-03,Alois Vogl,DE,18,Slalom
+1998-01-03,Jernej Koblar,SK,0,Giant Slalom
+1998-01-03,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1998-01-03,Michael von Gruenigen,CH,340,Giant Slalom
+1998-01-03,Thomas Loedler,HR,0,Giant Slalom
+1998-01-03,Didier Plaschy,CH,30,Giant Slalom
+1998-01-06,Hermann Maier,AT,400,Giant Slalom
+1998-01-06,Alois Vogl,DE,24,Slalom
+1998-01-06,Michael von Gruenigen,CH,340,Giant Slalom
+1998-01-06,Werner Franz,AT,0,Downhill
+1998-01-06,Mitja Kunc,SK,14,Giant Slalom
+1998-01-06,Harald Chr. Strand Nilsen,NO,25,Giant Slalom
+1998-01-06,Iwan Bormolini,IT,10,Giant Slalom
+1998-01-06,Frederic Covili,FR,0,Giant Slalom
+1998-01-06,Sebastien Amiez,FR,3,Slalom
+1998-01-06,Nicolas Burtin,FR,0,Downhill
+1998-01-06,Didier Defago,CH,3,Giant Slalom
+1998-01-06,Patrik Jaerbyn,SE,10,Super G
+1998-01-06,Jernej Koblar,SK,10,Giant Slalom
+1998-01-06,Patrick Thaler,IT,8,Giant Slalom
+1998-01-06,Didier Cuche,CH,0,Downhill
+1998-01-06,Bruno Kernen,CH,12,Downhill
+1998-01-06,Thomas Loedler,HR,5,Giant Slalom
+1998-01-06,Tobias Barnerssoi,DE,21,Giant Slalom
+1998-01-06,Lasse Kjus,NO,38,Downhill
+1998-01-06,Giorgio Rocca,IT,5,Giant Slalom
+1998-01-06,Hans Petter Buraas,NO,7,Slalom
+1998-01-06,Tom Stiansen,NO,4,Slalom
+1998-01-06,Jeff Piccard,FR,6,Giant Slalom
+1998-01-06,Patrice Manuel,FR,12,Giant Slalom
+1998-01-06,Alberto Tomba,IT,171,Slalom
+1998-01-06,Matteo Nana,IT,44,Giant Slalom
+1998-01-06,Sami Uotila,FI,30,Giant Slalom
+1998-01-06,Christophe Saioni,FR,65,Giant Slalom
+1998-01-06,Guenther Mader,AT,94,Giant Slalom
+1998-01-06,Bode Miller,US,27,Giant Slalom
+1998-01-06,Benjamin Raich,AT,0,Giant Slalom
+1998-01-06,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1998-01-06,Stephan Eberharter,AT,256,Giant Slalom
+1998-01-06,Jure Kosir,SK,47,Slalom
+1998-01-06,Sergio Bergamelli,IT,67,Giant Slalom
+1998-01-06,Patrick Holzer,IT,116,Giant Slalom
+1998-01-06,Fredrik Nyberg,SE,52,Giant Slalom
+1998-01-06,Steve Locher,CH,199,Giant Slalom
+1998-01-06,Andreas Schifferer,AT,118,Downhill
+1998-01-06,Ian Piccard,FR,68,Giant Slalom
+1998-01-06,Heinz Schilchegger,AT,121,Giant Slalom
+1998-01-06,Arnold Rieder,IT,12,Giant Slalom
+1998-01-06,Joel Chenal,FR,62,Slalom
+1998-01-06,Didier Plaschy,CH,70,Giant Slalom
+1998-01-06,Siegfried Voglreiter,AT,69,Slalom
+1998-01-06,Josef Strobl,AT,112,Downhill
+1998-01-06,Marco Buechel,LI,127,Giant Slalom
+1998-01-06,Urs Kaelin,CH,191,Giant Slalom
+1998-01-06,Paul Accola,CH,88,Giant Slalom
+1998-01-06,Rainer Salzgeber,AT,148,Giant Slalom
+1998-01-06,Thomas Grandi,CA,131,Giant Slalom
+1998-01-06,Hans Knauss,AT,245,Giant Slalom
+1998-01-06,Bernhard Knauss,SK,33,Giant Slalom
+1998-01-06,Markus Eberle,DE,26,Slalom
+1998-01-06,Thomas Bergamelli,IT,11,Giant Slalom
+1998-01-06,Christian Mayer,AT,299,Giant Slalom
+1998-01-06,Vincent Millet,FR,16,Giant Slalom
+1998-01-06,Andreas Ertl,DE,33,Giant Slalom
+1998-01-06,Kjetil Andre Aamodt,NO,161,Downhill
+1998-01-13,Andreas Schifferer,AT,144,Downhill
+1998-01-13,Sebastien Amiez,FR,3,Slalom
+1998-01-13,Christian Mayer,AT,299,Giant Slalom
+1998-01-13,Patrice Manuel,FR,20,Giant Slalom
+1998-01-13,Fredrik Nyberg,SE,84,Giant Slalom
+1998-01-13,Rainer Salzgeber,AT,184,Giant Slalom
+1998-01-13,Vincent Millet,FR,23,Giant Slalom
+1998-01-13,Harald Chr. Strand Nilsen,NO,41,Giant Slalom
+1998-01-13,Hermann Maier,AT,500,Giant Slalom
+1998-01-13,Tom Stiansen,NO,13,Slalom
+1998-01-13,Bruno Kernen,CH,12,Downhill
+1998-01-13,Thomas Grandi,CA,146,Giant Slalom
+1998-01-13,Stephan Eberharter,AT,256,Giant Slalom
+1998-01-13,Sergio Bergamelli,IT,67,Giant Slalom
+1998-01-13,Didier Cuche,CH,0,Downhill
+1998-01-13,Jure Kosir,SK,76,Slalom
+1998-01-13,Thomas Loedler,HR,5,Giant Slalom
+1998-01-13,Ian Piccard,FR,92,Giant Slalom
+1998-01-13,Mitja Kunc,SK,14,Giant Slalom
+1998-01-13,Lasse Kjus,NO,38,Downhill
+1998-01-13,Marco Buechel,LI,149,Giant Slalom
+1998-01-13,Giorgio Rocca,IT,5,Giant Slalom
+1998-01-13,Josef Strobl,AT,112,Downhill
+1998-01-13,Steve Locher,CH,199,Giant Slalom
+1998-01-13,Siegfried Voglreiter,AT,69,Slalom
+1998-01-13,Jeff Piccard,FR,6,Giant Slalom
+1998-01-13,Andreas Ertl,DE,33,Giant Slalom
+1998-01-13,Urs Kaelin,CH,236,Giant Slalom
+1998-01-13,Nicolas Burtin,FR,0,Downhill
+1998-01-13,Didier Plaschy,CH,70,Giant Slalom
+1998-01-13,Joel Chenal,FR,102,Slalom
+1998-01-13,Werner Franz,AT,0,Downhill
+1998-01-13,Arnold Rieder,IT,12,Giant Slalom
+1998-01-13,Michael von Gruenigen,CH,420,Giant Slalom
+1998-01-13,Alois Vogl,DE,24,Slalom
+1998-01-13,Paul Accola,CH,148,Giant Slalom
+1998-01-13,Heinz Schilchegger,AT,134,Giant Slalom
+1998-01-13,Hans Petter Buraas,NO,7,Slalom
+1998-01-13,Didier Defago,CH,3,Giant Slalom
+1998-01-13,Patrick Holzer,IT,134,Giant Slalom
+1998-01-13,Jernej Koblar,SK,10,Giant Slalom
+1998-01-13,Benjamin Raich,AT,0,Giant Slalom
+1998-01-13,Hans Knauss,AT,295,Giant Slalom
+1998-01-13,Patrick Thaler,IT,20,Giant Slalom
+1998-01-13,Patrik Jaerbyn,SE,10,Super G
+1998-01-13,Alberto Tomba,IT,171,Slalom
+1998-01-13,Iwan Bormolini,IT,10,Giant Slalom
+1998-01-13,Thomas Bergamelli,IT,11,Giant Slalom
+1998-01-13,Bernhard Knauss,SK,33,Giant Slalom
+1998-01-13,Bode Miller,US,27,Giant Slalom
+1998-01-13,Markus Eberle,DE,40,Slalom
+1998-01-13,Christophe Saioni,FR,65,Giant Slalom
+1998-01-13,Sami Uotila,FI,30,Giant Slalom
+1998-01-13,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1998-01-13,Guenther Mader,AT,105,Giant Slalom
+1998-01-13,Matteo Nana,IT,44,Giant Slalom
+1998-01-13,Frederic Covili,FR,0,Giant Slalom
+1998-01-13,Tobias Barnerssoi,DE,31,Giant Slalom
+1998-01-13,Kjetil Andre Aamodt,NO,181,Downhill
+1998-02-28,Alois Vogl,DE,24,Slalom
+1998-02-28,Patrick Thaler,IT,20,Giant Slalom
+1998-02-28,Harald Chr. Strand Nilsen,NO,52,Giant Slalom
+1998-02-28,Arnold Rieder,IT,52,Giant Slalom
+1998-02-28,Joel Chenal,FR,112,Slalom
+1998-02-28,Nicolas Burtin,FR,0,Downhill
+1998-02-28,Heinz Schilchegger,AT,142,Giant Slalom
+1998-02-28,Hans Petter Buraas,NO,23,Slalom
+1998-02-28,Paul Accola,CH,198,Giant Slalom
+1998-02-28,Jernej Koblar,SK,10,Giant Slalom
+1998-02-28,Christophe Saioni,FR,65,Giant Slalom
+1998-02-28,Marco Buechel,LI,175,Giant Slalom
+1998-02-28,Christian Mayer,AT,379,Giant Slalom
+1998-02-28,Josef Strobl,AT,117,Downhill
+1998-02-28,Urs Kaelin,CH,248,Giant Slalom
+1998-02-28,Giorgio Rocca,IT,5,Giant Slalom
+1998-02-28,Markus Eberle,DE,40,Slalom
+1998-02-28,Werner Franz,AT,0,Downhill
+1998-02-28,Andreas Ertl,DE,39,Giant Slalom
+1998-02-28,Siegfried Voglreiter,AT,69,Slalom
+1998-02-28,Jeff Piccard,FR,6,Giant Slalom
+1998-02-28,Tobias Barnerssoi,DE,31,Giant Slalom
+1998-02-28,Guenther Mader,AT,105,Giant Slalom
+1998-02-28,Bernhard Knauss,SK,37,Giant Slalom
+1998-02-28,Alberto Tomba,IT,171,Slalom
+1998-02-28,Thomas Bergamelli,IT,11,Giant Slalom
+1998-02-28,Didier Plaschy,CH,88,Giant Slalom
+1998-02-28,Mitja Kunc,SK,14,Giant Slalom
+1998-02-28,Lasse Kjus,NO,48,Downhill
+1998-02-28,Kjetil Andre Aamodt,NO,194,Downhill
+1998-02-28,Thomas Grandi,CA,161,Giant Slalom
+1998-02-28,Bruno Kernen,CH,12,Downhill
+1998-02-28,Patrik Jaerbyn,SE,10,Super G
+1998-02-28,Patrick Holzer,IT,134,Giant Slalom
+1998-02-28,Matteo Nana,IT,44,Giant Slalom
+1998-02-28,Sergio Bergamelli,IT,74,Giant Slalom
+1998-02-28,Hans Knauss,AT,295,Giant Slalom
+1998-02-28,Didier Cuche,CH,0,Downhill
+1998-02-28,Michael von Gruenigen,CH,520,Giant Slalom
+1998-02-28,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1998-02-28,Jure Kosir,SK,96,Slalom
+1998-02-28,Didier Defago,CH,3,Giant Slalom
+1998-02-28,Hermann Maier,AT,560,Giant Slalom
+1998-02-28,Frederic Covili,FR,3,Giant Slalom
+1998-02-28,Rainer Salzgeber,AT,229,Giant Slalom
+1998-02-28,Fredrik Nyberg,SE,108,Giant Slalom
+1998-02-28,Stephan Eberharter,AT,288,Giant Slalom
+1998-02-28,Benjamin Raich,AT,0,Giant Slalom
+1998-02-28,Ian Piccard,FR,114,Giant Slalom
+1998-02-28,Bode Miller,US,27,Giant Slalom
+1998-02-28,Steve Locher,CH,228,Giant Slalom
+1998-02-28,Vincent Millet,FR,23,Giant Slalom
+1998-02-28,Sebastien Amiez,FR,3,Slalom
+1998-02-28,Patrice Manuel,FR,20,Giant Slalom
+1998-02-28,Tom Stiansen,NO,13,Slalom
+1998-02-28,Thomas Loedler,HR,5,Giant Slalom
+1998-02-28,Iwan Bormolini,IT,10,Giant Slalom
+1998-02-28,Sami Uotila,FI,44,Giant Slalom
+1998-02-28,Andreas Schifferer,AT,180,Downhill
+1998-03-14,Alberto Tomba,IT,171,Slalom
+1998-03-14,Hans Knauss,AT,375,Giant Slalom
+1998-03-14,Paul Accola,CH,214,Giant Slalom
+1998-03-14,Urs Kaelin,CH,277,Giant Slalom
+1998-03-14,Sebastien Amiez,FR,3,Slalom
+1998-03-14,Andreas Ertl,DE,39,Giant Slalom
+1998-03-14,Thomas Grandi,CA,172,Giant Slalom
+1998-03-14,Rainer Salzgeber,AT,242,Giant Slalom
+1998-03-14,Marco Buechel,LI,220,Giant Slalom
+1998-03-14,Frederic Covili,FR,3,Giant Slalom
+1998-03-14,Nicolas Burtin,FR,4,Downhill
+1998-03-14,Didier Defago,CH,3,Giant Slalom
+1998-03-14,Sami Uotila,FI,44,Giant Slalom
+1998-03-14,Lasse Kjus,NO,48,Downhill
+1998-03-14,Kjetil Andre Aamodt,NO,226,Downhill
+1998-03-14,Jure Kosir,SK,112,Slalom
+1998-03-14,Hans Petter Buraas,NO,23,Slalom
+1998-03-14,Didier Cuche,CH,10,Downhill
+1998-03-14,Jernej Koblar,SK,10,Giant Slalom
+1998-03-14,Gerhard Koenigsrainer,IT,26,Giant Slalom
+1998-03-14,Hermann Maier,AT,620,Giant Slalom
+1998-03-14,Benjamin Raich,AT,26,Giant Slalom
+1998-03-14,Patrik Jaerbyn,SE,10,Super G
+1998-03-14,Christian Mayer,AT,429,Giant Slalom
+1998-03-14,Iwan Bormolini,IT,10,Giant Slalom
+1998-03-14,Bode Miller,US,27,Giant Slalom
+1998-03-14,Guenther Mader,AT,119,Giant Slalom
+1998-03-14,Patrick Thaler,IT,20,Giant Slalom
+1998-03-14,Thomas Bergamelli,IT,11,Giant Slalom
+1998-03-14,Stephan Eberharter,AT,388,Giant Slalom
+1998-03-14,Christophe Saioni,FR,65,Giant Slalom
+1998-03-14,Tobias Barnerssoi,DE,31,Giant Slalom
+1998-03-14,Markus Eberle,DE,40,Slalom
+1998-03-14,Bernhard Knauss,SK,37,Giant Slalom
+1998-03-14,Sergio Bergamelli,IT,80,Giant Slalom
+1998-03-14,Thomas Loedler,HR,5,Giant Slalom
+1998-03-14,Bruno Kernen,CH,12,Downhill
+1998-03-14,Matteo Nana,IT,44,Giant Slalom
+1998-03-14,Josef Strobl,AT,141,Downhill
+1998-03-14,Michael von Gruenigen,CH,560,Giant Slalom
+1998-03-14,Giorgio Rocca,IT,5,Giant Slalom
+1998-03-14,Jeff Piccard,FR,6,Giant Slalom
+1998-03-14,Siegfried Voglreiter,AT,69,Slalom
+1998-03-14,Vincent Millet,FR,23,Giant Slalom
+1998-03-14,Didier Plaschy,CH,93,Giant Slalom
+1998-03-14,Joel Chenal,FR,124,Slalom
+1998-03-14,Harald Chr. Strand Nilsen,NO,52,Giant Slalom
+1998-03-14,Werner Franz,AT,7,Downhill
+1998-03-14,Arnold Rieder,IT,52,Giant Slalom
+1998-03-14,Alois Vogl,DE,24,Slalom
+1998-03-14,Steve Locher,CH,246,Giant Slalom
+1998-03-14,Heinz Schilchegger,AT,162,Giant Slalom
+1998-03-14,Ian Piccard,FR,136,Giant Slalom
+1998-03-14,Patrice Manuel,FR,20,Giant Slalom
+1998-03-14,Andreas Schifferer,AT,216,Downhill
+1998-03-14,Tom Stiansen,NO,13,Slalom
+1998-03-14,Fredrik Nyberg,SE,116,Giant Slalom
+1998-03-14,Patrick Holzer,IT,144,Giant Slalom
+1998-03-14,Mitja Kunc,SK,14,Giant Slalom

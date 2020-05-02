@@ -1,14 +1,14 @@
-date,name,ath_country,value
-2000-02-12,Renate Goetschl,AT,100
-2000-02-12,Caroline Lalive,US,80
-2000-02-12,Andrine Flemmen,NO,60
-2000-02-12,Stefanie Schuster,AT,50
-2000-02-12,Michaela Dorfmeister,AT,45
-2000-02-12,Karen Putzer,IT,40
-2000-02-12,Janette Hargin,SE,36
-2000-02-12,Brigitte Obermoser,AT,32
-2000-02-12,Sibylle Brauner,DE,29
-2000-02-12,Regine Cavagnoud,FR,26
-2000-02-12,Isolde Kostner,IT,24
-2000-02-12,Ingeborg H. Marken,NO,22
-2000-02-12,Jonna Mendes,US,20
+date,name,ath_country,value,specialty
+2000-02-12,Renate Goetschl,AT,100,Super G
+2000-02-12,Caroline Lalive,US,80,Combined
+2000-02-12,Andrine Flemmen,NO,60,Giant Slalom
+2000-02-12,Stefanie Schuster,AT,50,Downhill
+2000-02-12,Michaela Dorfmeister,AT,45,Giant Slalom
+2000-02-12,Karen Putzer,IT,40,Giant Slalom
+2000-02-12,Janette Hargin,SE,36,Combined
+2000-02-12,Brigitte Obermoser,AT,32,Giant Slalom
+2000-02-12,Sibylle Brauner,DE,29,Downhill
+2000-02-12,Regine Cavagnoud,FR,26,Downhill
+2000-02-12,Isolde Kostner,IT,24,Downhill
+2000-02-12,Ingeborg H. Marken,NO,22,Downhill
+2000-02-12,Jonna Mendes,US,20,Downhill

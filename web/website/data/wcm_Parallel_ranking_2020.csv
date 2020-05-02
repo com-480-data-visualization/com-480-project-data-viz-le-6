@@ -1,89 +1,89 @@
-date,name,ath_country,value
-2019-12-23,Rasmus Windingstad,NO,100
-2019-12-23,Alexander Schmid,DE,13
-2019-12-23,Bastian Meisen,DE,12
-2019-12-23,Christian Hirschbuehel,AT,12
-2019-12-23,Fabian Wilkens Solheim,NO,10
-2019-12-23,Michael Matt,AT,10
-2019-12-23,Atle Lie McGrath,NO,7
-2019-12-23,Filip Zubcic,HR,6
-2019-12-23,Alexis Pinturault,FR,5
-2019-12-23,Mauro Caviezel,CH,4
-2019-12-23,Hannes Zingerle,IT,3
-2019-12-23,Simon Maurberger,IT,2
-2019-12-23,Samu Torsti,FI,1
-2019-12-23,Matts Olsson,SE,1
-2019-12-23,Stefan Hadalin,SK,1
-2019-12-23,Thomas Tumler,CH,0
-2019-12-23,Fabio Gstrein,AT,0
-2019-12-23,Luca De Aliprandini,IT,0
-2019-12-23,Giovanni Borsotti,IT,0
-2019-12-23,Linus Strasser,DE,0
-2019-12-23,Erik Read,CA,0
-2019-12-23,Kristoffer Jakobsen,SE,0
-2019-12-23,Marco Schwarz,AT,0
-2019-12-23,Victor Muffat Jeandet,FR,0
-2019-12-23,Trevor Philp,CA,0
-2019-12-23,Cyprien Sarrazin,FR,0
-2019-12-23,Tanguy Nef,CH,0
-2019-12-23,Timon Haugan,NO,0
-2019-12-23,Zan Kranjec,SK,14
-2019-12-23,Pavel Trikhichev,RU,15
-2019-12-23,Tommy Ford,US,8
-2019-12-23,Henrik Kristoffersen,NO,36
-2019-12-23,Mattias Roenngren,SE,40
-2019-12-23,Ryan Cochran-Siegle,US,22
-2019-12-23,Roland Leitinger,AT,60
-2019-12-23,Thibaut Favrot,FR,26
-2019-12-23,Leif Kristian Haugen,NO,50
-2019-12-23,Stefan Luitz,DE,80
-2019-12-23,Aleksander Aamodt Kilde,NO,20
-2019-12-23,Lucas Braathen,NO,45
-2019-12-23,River Radamus,US,18
-2019-12-23,Loic Meillard,CH,29
-2019-12-23,Justin Murisier,CH,32
-2019-12-23,Mathieu Faivre,FR,16
-2019-12-23,Dominik Raschner,AT,24
-2020-02-09,Alexander Schmid,DE,73
-2020-02-09,Zan Kranjec,SK,59
-2020-02-09,Thomas Tumler,CH,80
-2020-02-09,Tommy Ford,US,58
-2020-02-09,Erik Read,CA,15
-2020-02-09,Mattias Roenngren,SE,40
-2020-02-09,Dominik Raschner,AT,24
-2020-02-09,Ryan Cochran-Siegle,US,22
-2020-02-09,River Radamus,US,18
-2020-02-09,Bastian Meisen,DE,12
-2020-02-09,Christian Hirschbuehel,AT,12
-2020-02-09,Michael Matt,AT,10
-2020-02-09,Atle Lie McGrath,NO,7
-2020-02-09,Mauro Caviezel,CH,4
-2020-02-09,Hannes Zingerle,IT,3
-2020-02-09,Samu Torsti,FI,1
-2020-02-09,Loic Meillard,CH,129
-2020-02-09,Justin Murisier,CH,32
-2020-02-09,Simon Maurberger,IT,34
-2020-02-09,Aleksander Aamodt Kilde,NO,56
-2020-02-09,Lucas Braathen,NO,59
-2020-02-09,Giovanni Borsotti,IT,18
-2020-02-09,Roland Leitinger,AT,73
-2020-02-09,Alexis Pinturault,FR,25
-2020-02-09,Kristoffer Jakobsen,SE,12
-2020-02-09,Filip Zubcic,HR,28
-2020-02-09,Pavel Trikhichev,RU,25
-2020-02-09,Stefan Hadalin,SK,11
-2020-02-09,Matts Olsson,SE,1
-2020-02-09,Mathieu Faivre,FR,24
-2020-02-09,Marco Schwarz,AT,7
-2020-02-09,Luca De Aliprandini,IT,24
-2020-02-09,Victor Muffat Jeandet,FR,6
-2020-02-09,Trevor Philp,CA,5
-2020-02-09,Henrik Kristoffersen,NO,62
-2020-02-09,Cyprien Sarrazin,FR,4
-2020-02-09,Rasmus Windingstad,NO,103
-2020-02-09,Fabio Gstrein,AT,29
-2020-02-09,Stefan Luitz,DE,82
-2020-02-09,Fabian Wilkens Solheim,NO,12
-2020-02-09,Linus Strasser,DE,16
-2020-02-09,Thibaut Favrot,FR,66
-2020-02-09,Leif Kristian Haugen,NO,61
+date,name,ath_country,value,specialty
+2019-12-23,Rasmus Windingstad,NO,100,Parallel
+2019-12-23,Dominik Raschner,AT,24,Parallel
+2019-12-23,Luca De Aliprandini,IT,0,Giant Slalom
+2019-12-23,Ryan Cochran-Siegle,US,22,Downhill
+2019-12-23,Filip Zubcic,HR,6,Giant Slalom
+2019-12-23,Tanguy Nef,CH,0,Slalom
+2019-12-23,River Radamus,US,18,Parallel
+2019-12-23,Giovanni Borsotti,IT,0,Giant Slalom
+2019-12-23,Mathieu Faivre,FR,16,Giant Slalom
+2019-12-23,Linus Strasser,DE,0,Slalom
+2019-12-23,Pavel Trikhichev,RU,15,Combined
+2019-12-23,Erik Read,CA,0,Giant Slalom
+2019-12-23,Bastian Meisen,DE,12,Parallel
+2019-12-23,Fabio Gstrein,AT,0,Slalom
+2019-12-23,Christian Hirschbuehel,AT,12,Slalom
+2019-12-23,Fabian Wilkens Solheim,NO,10,Giant Slalom
+2019-12-23,Michael Matt,AT,10,Slalom
+2019-12-23,Stefan Hadalin,SK,1,Slalom
+2019-12-23,Atle Lie McGrath,NO,7,Slalom
+2019-12-23,Marco Schwarz,AT,0,Slalom
+2019-12-23,Victor Muffat Jeandet,FR,0,Giant Slalom
+2019-12-23,Trevor Philp,CA,0,Giant Slalom
+2019-12-23,Mauro Caviezel,CH,4,Super G
+2019-12-23,Cyprien Sarrazin,FR,0,Giant Slalom
+2019-12-23,Hannes Zingerle,IT,3,Giant Slalom
+2019-12-23,Samu Torsti,FI,1,Parallel
+2019-12-23,Matts Olsson,SE,1,Giant Slalom
+2019-12-23,Kristoffer Jakobsen,SE,0,Slalom
+2019-12-23,Simon Maurberger,IT,2,Slalom
+2019-12-23,Alexis Pinturault,FR,5,Giant Slalom
+2019-12-23,Timon Haugan,NO,0,Slalom
+2019-12-23,Alexander Schmid,DE,13,Giant Slalom
+2019-12-23,Tommy Ford,US,8,Giant Slalom
+2019-12-23,Lucas Braathen,NO,45,Giant Slalom
+2019-12-23,Roland Leitinger,AT,60,Giant Slalom
+2019-12-23,Thomas Tumler,CH,0,Parallel
+2019-12-23,Zan Kranjec,SK,14,Giant Slalom
+2019-12-23,Mattias Roenngren,SE,40,Parallel
+2019-12-23,Thibaut Favrot,FR,26,Giant Slalom
+2019-12-23,Stefan Luitz,DE,80,Parallel
+2019-12-23,Leif Kristian Haugen,NO,50,Giant Slalom
+2019-12-23,Henrik Kristoffersen,NO,36,Slalom
+2019-12-23,Justin Murisier,CH,32,Combined
+2019-12-23,Aleksander Aamodt Kilde,NO,20,Downhill
+2019-12-23,Loic Meillard,CH,29,Giant Slalom
+2020-02-09,Michael Matt,AT,10,Slalom
+2020-02-09,Stefan Hadalin,SK,11,Slalom
+2020-02-09,Alexander Schmid,DE,73,Giant Slalom
+2020-02-09,Matts Olsson,SE,1,Giant Slalom
+2020-02-09,Roland Leitinger,AT,73,Giant Slalom
+2020-02-09,Atle Lie McGrath,NO,7,Slalom
+2020-02-09,Marco Schwarz,AT,7,Slalom
+2020-02-09,Rasmus Windingstad,NO,103,Parallel
+2020-02-09,Samu Torsti,FI,1,Parallel
+2020-02-09,Loic Meillard,CH,129,Giant Slalom
+2020-02-09,Hannes Zingerle,IT,3,Giant Slalom
+2020-02-09,Fabian Wilkens Solheim,NO,12,Giant Slalom
+2020-02-09,Thomas Tumler,CH,80,Parallel
+2020-02-09,Stefan Luitz,DE,82,Parallel
+2020-02-09,Mauro Caviezel,CH,4,Super G
+2020-02-09,Cyprien Sarrazin,FR,4,Giant Slalom
+2020-02-09,Victor Muffat Jeandet,FR,6,Giant Slalom
+2020-02-09,Trevor Philp,CA,5,Giant Slalom
+2020-02-09,Simon Maurberger,IT,34,Slalom
+2020-02-09,Kristoffer Jakobsen,SE,12,Slalom
+2020-02-09,Fabio Gstrein,AT,29,Slalom
+2020-02-09,Aleksander Aamodt Kilde,NO,56,Downhill
+2020-02-09,Dominik Raschner,AT,24,Parallel
+2020-02-09,Luca De Aliprandini,IT,24,Giant Slalom
+2020-02-09,Henrik Kristoffersen,NO,62,Slalom
+2020-02-09,Ryan Cochran-Siegle,US,22,Downhill
+2020-02-09,Filip Zubcic,HR,28,Giant Slalom
+2020-02-09,Alexis Pinturault,FR,25,Giant Slalom
+2020-02-09,Thibaut Favrot,FR,66,Giant Slalom
+2020-02-09,Mattias Roenngren,SE,40,Parallel
+2020-02-09,River Radamus,US,18,Parallel
+2020-02-09,Giovanni Borsotti,IT,18,Giant Slalom
+2020-02-09,Mathieu Faivre,FR,24,Giant Slalom
+2020-02-09,Linus Strasser,DE,16,Slalom
+2020-02-09,Zan Kranjec,SK,59,Giant Slalom
+2020-02-09,Lucas Braathen,NO,59,Giant Slalom
+2020-02-09,Pavel Trikhichev,RU,25,Combined
+2020-02-09,Erik Read,CA,15,Giant Slalom
+2020-02-09,Bastian Meisen,DE,12,Parallel
+2020-02-09,Justin Murisier,CH,32,Combined
+2020-02-09,Christian Hirschbuehel,AT,12,Slalom
+2020-02-09,Leif Kristian Haugen,NO,61,Giant Slalom
+2020-02-09,Tommy Ford,US,58,Giant Slalom

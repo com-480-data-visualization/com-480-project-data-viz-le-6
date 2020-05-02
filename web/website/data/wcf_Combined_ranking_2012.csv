@@ -1,98 +1,98 @@
-date,name,ath_country,value
-2012-01-27,Lindsey Vonn,US,100
-2012-01-27,Maria Riesch Hoefl,DE,10
-2012-01-27,Marie-Michele Gagnon,CA,9
-2012-01-27,Regina Mader Sterz,AT,8
-2012-01-27,Tessa Worley,FR,7
-2012-01-27,Margret Altacher,AT,5
-2012-01-27,Margot Bailet,FR,4
-2012-01-27,Taina Barioz,FR,3
-2012-01-27,Mariella Voglreiter,AT,2
-2012-01-27,Edith Miklos,HU,1
-2012-01-27,Fabienne Suter,CH,0
-2012-01-27,Elisabeth Goergl,AT,0
-2012-01-27,Alexandra Coletti,MC,0
-2012-01-27,Julia Ford,US,0
-2012-01-27,Lara Gut,CH,0
-2012-01-27,Lotte Smiseth Sejersted,NO,0
-2012-01-27,Tina Weirather,LI,0
-2012-01-27,Johanna Schnarf,IT,0
-2012-01-27,Carolina Ruiz Castillo,ES,0
-2012-01-27,Nadja Kamer,CH,0
-2012-01-27,Stacey J Cook,US,0
-2012-01-27,Michaela Kirchgasser,AT,0
-2012-01-27,Marie-Pier Prefontaine,CA,0
-2012-01-27,Marine Gauthier,FR,0
-2012-01-27,Laurenne Ross,US,11
-2012-01-27,Elena Yakovishina,RU,0
-2012-01-27,Lena Duerr,DE,0
-2012-01-27,Daniela Merighetti,IT,0
-2012-01-27,Veronique Hronek,DE,0
-2012-01-27,Andrea Fischbacher,AT,0
-2012-01-27,Fraenzi Aufdenblatten,CH,0
-2012-01-27,Marie Marchand-Arvier,FR,0
-2012-01-27,Priska Nufer,CH,0
-2012-01-27,Elena Curtoni,IT,12
-2012-01-27,Lisa Magdalena Agerer,IT,6
-2012-01-27,Anne Sophie Barthet,FR,18
-2012-01-27,Camilla Borsotti,IT,32
-2012-01-27,Anja Paerson,SE,29
-2012-01-27,Leanne Smith,US,13
-2012-01-27,Marion Pellissier,FR,26
-2012-01-27,Marusa Ferk,SK,45
-2012-01-27,Elena Fanchini,IT,24
-2012-01-27,Federica Brignone,IT,22
-2012-01-27,Kathrin Zettel,AT,50
-2012-01-27,Nicole Hosp,AT,60
-2012-01-27,Julia Mancuso,US,20
-2012-01-27,Tina Maze,SK,80
-2012-01-27,Denise Feierabend,CH,40
-2012-01-27,Anna Veith Fenninger,AT,36
-2012-01-27,Stefanie Moser,AT,14
-2012-01-27,Wendy Holdener,CH,16
-2012-01-27,Francesca Marsaglia,IT,15
-2012-01-29,Leanne Smith,US,13
-2012-01-29,Stacey J Cook,US,0
-2012-01-29,Tina Maze,SK,125
-2012-01-29,Michaela Kirchgasser,AT,0
-2012-01-29,Veronique Hronek,DE,0
-2012-01-29,Andrea Fischbacher,AT,0
-2012-01-29,Fraenzi Aufdenblatten,CH,0
-2012-01-29,Elisabeth Goergl,AT,50
-2012-01-29,Fabienne Suter,CH,0
-2012-01-29,Nicole Hosp,AT,120
-2012-01-29,Ilka Stuhec,SK,0
-2012-01-29,Maria Belen Simari-Birkner,AR,0
-2012-01-29,Lindsey Vonn,US,180
-2012-01-29,Maria Riesch Hoefl,DE,110
-2012-01-29,Klara Krizova,CZ,0
-2012-01-29,Julia Mancuso,US,20
-2012-01-29,Anne Sophie Barthet,FR,18
-2012-01-29,Mariella Voglreiter,AT,2
-2012-01-29,Marion Pellissier,FR,39
-2012-01-29,Kathrin Zettel,AT,79
-2012-01-29,Marie-Michele Gagnon,CA,45
-2012-01-29,Daniela Merighetti,IT,14
-2012-01-29,Margret Altacher,AT,17
-2012-01-29,Tessa Worley,FR,18
-2012-01-29,Camilla Borsotti,IT,47
-2012-01-29,Lisa Magdalena Agerer,IT,16
-2012-01-29,Lara Gut,CH,9
-2012-01-29,Francesca Marsaglia,IT,31
-2012-01-29,Wendy Holdener,CH,24
-2012-01-29,Stefanie Moser,AT,21
-2012-01-29,Nadja Kamer,CH,0
-2012-01-29,Lotte Smiseth Sejersted,NO,40
-2012-01-29,Lena Duerr,DE,6
-2012-01-29,Tina Weirather,LI,5
-2012-01-29,Elena Fanchini,IT,28
-2012-01-29,Anna Veith Fenninger,AT,56
-2012-01-29,Marie Marchand-Arvier,FR,3
-2012-01-29,Laurenne Ross,US,13
-2012-01-29,Denise Feierabend,CH,62
-2012-01-29,Priska Nufer,CH,1
-2012-01-29,Elena Curtoni,IT,36
-2012-01-29,Anja Paerson,SE,55
-2012-01-29,Johanna Schnarf,IT,32
-2012-01-29,Marusa Ferk,SK,63
-2012-01-29,Carolina Ruiz Castillo,ES,0
+date,name,ath_country,value,specialty
+2012-01-27,Lindsey Vonn,US,100,Downhill
+2012-01-27,Elena Curtoni,IT,12,Super G
+2012-01-27,Federica Brignone,IT,22,Giant Slalom
+2012-01-27,Julia Mancuso,US,20,Super G
+2012-01-27,Fraenzi Aufdenblatten,CH,0,Super G
+2012-01-27,Anne Sophie Barthet,FR,18,Slalom
+2012-01-27,Julia Ford,US,0,Downhill
+2012-01-27,Wendy Holdener,CH,16,Slalom
+2012-01-27,Alexandra Coletti,MC,0,Downhill
+2012-01-27,Francesca Marsaglia,IT,15,Super G
+2012-01-27,Stefanie Moser,AT,14,Super G
+2012-01-27,Fabienne Suter,CH,0,Super G
+2012-01-27,Priska Nufer,CH,0,Combined
+2012-01-27,Daniela Merighetti,IT,0,Downhill
+2012-01-27,Leanne Smith,US,13,Super G
+2012-01-27,Edith Miklos,HU,1,Combined
+2012-01-27,Margret Altacher,AT,5,Super G
+2012-01-27,Laurenne Ross,US,11,Downhill
+2012-01-27,Mariella Voglreiter,AT,2,Downhill
+2012-01-27,Tessa Worley,FR,7,Giant Slalom
+2012-01-27,Marie Marchand-Arvier,FR,0,Downhill
+2012-01-27,Lisa Magdalena Agerer,IT,6,Giant Slalom
+2012-01-27,Lara Gut,CH,0,Super G
+2012-01-27,Regina Mader Sterz,AT,8,Super G
+2012-01-27,Taina Barioz,FR,3,Giant Slalom
+2012-01-27,Lena Duerr,DE,0,Slalom
+2012-01-27,Margot Bailet,FR,4,Combined
+2012-01-27,Elena Fanchini,IT,24,Downhill
+2012-01-27,Andrea Fischbacher,AT,0,Super G
+2012-01-27,Stacey J Cook,US,0,Downhill
+2012-01-27,Maria Riesch Hoefl,DE,10,Downhill
+2012-01-27,Tina Maze,SK,80,Slalom
+2012-01-27,Carolina Ruiz Castillo,ES,0,Super G
+2012-01-27,Nicole Hosp,AT,60,Super G
+2012-01-27,Kathrin Zettel,AT,50,Slalom
+2012-01-27,Nadja Kamer,CH,0,Downhill
+2012-01-27,Elisabeth Goergl,AT,0,Downhill
+2012-01-27,Marusa Ferk,SK,45,Downhill
+2012-01-27,Marion Pellissier,FR,26,Downhill
+2012-01-27,Denise Feierabend,CH,40,Slalom
+2012-01-27,Michaela Kirchgasser,AT,0,Slalom
+2012-01-27,Lotte Smiseth Sejersted,NO,0,Super G
+2012-01-27,Tina Weirather,LI,0,Downhill
+2012-01-27,Anna Veith Fenninger,AT,36,Giant Slalom
+2012-01-27,Marie-Pier Prefontaine,CA,0,Giant Slalom
+2012-01-27,Marine Gauthier,FR,0,Downhill
+2012-01-27,Marie-Michele Gagnon,CA,9,Slalom
+2012-01-27,Camilla Borsotti,IT,32,Combined
+2012-01-27,Veronique Hronek,DE,0,Super G
+2012-01-27,Elena Yakovishina,RU,0,Combined
+2012-01-27,Anja Paerson,SE,29,Super G
+2012-01-27,Johanna Schnarf,IT,0,Downhill
+2012-01-29,Klara Krizova,CZ,0,Combined
+2012-01-29,Carolina Ruiz Castillo,ES,0,Super G
+2012-01-29,Marie Marchand-Arvier,FR,3,Downhill
+2012-01-29,Fraenzi Aufdenblatten,CH,0,Super G
+2012-01-29,Veronique Hronek,DE,0,Super G
+2012-01-29,Fabienne Suter,CH,0,Super G
+2012-01-29,Mariella Voglreiter,AT,2,Downhill
+2012-01-29,Stacey J Cook,US,0,Downhill
+2012-01-29,Priska Nufer,CH,1,Combined
+2012-01-29,Michaela Kirchgasser,AT,0,Slalom
+2012-01-29,Nadja Kamer,CH,0,Downhill
+2012-01-29,Andrea Fischbacher,AT,0,Super G
+2012-01-29,Leanne Smith,US,13,Super G
+2012-01-29,Lena Duerr,DE,6,Slalom
+2012-01-29,Lindsey Vonn,US,180,Downhill
+2012-01-29,Maria Riesch Hoefl,DE,110,Downhill
+2012-01-29,Tina Maze,SK,125,Slalom
+2012-01-29,Nicole Hosp,AT,120,Super G
+2012-01-29,Kathrin Zettel,AT,79,Slalom
+2012-01-29,Elisabeth Goergl,AT,50,Downhill
+2012-01-29,Marusa Ferk,SK,63,Downhill
+2012-01-29,Denise Feierabend,CH,62,Slalom
+2012-01-29,Lotte Smiseth Sejersted,NO,40,Super G
+2012-01-29,Anna Veith Fenninger,AT,56,Giant Slalom
+2012-01-29,Marie-Michele Gagnon,CA,45,Slalom
+2012-01-29,Camilla Borsotti,IT,47,Combined
+2012-01-29,Johanna Schnarf,IT,32,Downhill
+2012-01-29,Anja Paerson,SE,55,Super G
+2012-01-29,Marion Pellissier,FR,39,Downhill
+2012-01-29,Elena Fanchini,IT,28,Downhill
+2012-01-29,Elena Curtoni,IT,36,Super G
+2012-01-29,Julia Mancuso,US,20,Super G
+2012-01-29,Anne Sophie Barthet,FR,18,Slalom
+2012-01-29,Wendy Holdener,CH,24,Slalom
+2012-01-29,Francesca Marsaglia,IT,31,Super G
+2012-01-29,Stefanie Moser,AT,21,Super G
+2012-01-29,Daniela Merighetti,IT,14,Downhill
+2012-01-29,Maria Belen Simari-Birkner,AR,0,Combined
+2012-01-29,Margret Altacher,AT,17,Super G
+2012-01-29,Laurenne Ross,US,13,Downhill
+2012-01-29,Tessa Worley,FR,18,Giant Slalom
+2012-01-29,Lisa Magdalena Agerer,IT,16,Giant Slalom
+2012-01-29,Lara Gut,CH,9,Super G
+2012-01-29,Tina Weirather,LI,5,Downhill
+2012-01-29,Ilka Stuhec,SK,0,Downhill

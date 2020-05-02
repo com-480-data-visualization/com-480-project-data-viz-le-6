@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1984-03-25,Hans Enn,AT,25
-1984-03-25,Anton Steiner,AT,20
-1984-03-25,Ingemar Stenmark,SE,15
-1984-03-25,Franz Gruber,AT,12
-1984-03-25,Andreas Wenzel,LI,11
-1984-03-25,Jure Franko,SK,10
-1984-03-25,Thomas Buergler,CH,9
-1984-03-25,Martin Hangl,CH,9
-1984-03-25,Guido Hinterseer,AT,7
-1984-03-25,Max Julen,CH,6
-1984-03-25,Marc Girardelli,LU,5
-1984-03-25,Alex Giorgi,IT,4
-1984-03-25,Franz Heinzer,CH,4
-1984-03-25,Robert Zoller,AT,4
-1984-03-25,Pirmin Zurbriggen,CH,4
+date,name,ath_country,value,specialty
+1984-03-25,Hans Enn,AT,25,Giant Slalom
+1984-03-25,Anton Steiner,AT,20,Downhill
+1984-03-25,Ingemar Stenmark,SE,15,Slalom
+1984-03-25,Franz Gruber,AT,12,Slalom
+1984-03-25,Andreas Wenzel,LI,11,Combined
+1984-03-25,Jure Franko,SK,10,Giant Slalom
+1984-03-25,Thomas Buergler,CH,9,Giant Slalom
+1984-03-25,Martin Hangl,CH,9,Super G
+1984-03-25,Guido Hinterseer,AT,7,Giant Slalom
+1984-03-25,Max Julen,CH,6,Giant Slalom
+1984-03-25,Marc Girardelli,LU,5,Slalom
+1984-03-25,Alex Giorgi,IT,4,Giant Slalom
+1984-03-25,Franz Heinzer,CH,4,Downhill
+1984-03-25,Robert Zoller,AT,4,Slalom
+1984-03-25,Pirmin Zurbriggen,CH,4,Giant Slalom

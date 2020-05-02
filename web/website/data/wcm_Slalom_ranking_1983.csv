@@ -1,529 +1,529 @@
-date,name,ath_country,value
-1982-12-14,Ingemar Stenmark,SE,25
-1982-12-14,Florian Beck,DE,0
-1982-12-14,Hannes Spiss,AT,0
-1982-12-14,Alex Giorgi,IT,0
-1982-12-14,Paul Arne Skajem,NO,0
-1982-12-14,Odd Sorli,NO,0
-1982-12-14,Joze Kuralt,SK,0
-1982-12-14,Oswald Toetsch,IT,0
-1982-12-14,Joakim Wallner,SE,0
-1982-12-14,Helmuth Gstrein,AT,0
-1982-12-14,Max Julen,CH,7
-1982-12-14,Joel Gaspoz,CH,0
-1982-12-14,Yves Tavernier,FR,0
-1982-12-14,Robert Erlacher,IT,0
-1982-12-14,Naomine Iwatani,JP,0
-1982-12-14,Hiroaki Ohtaka,JP,0
-1982-12-14,Wataru Mizuatani,JP,0
-1982-12-14,Pirmin Zurbriggen,CH,8
-1982-12-14,Paolo De Chiesa,IT,9
-1982-12-14,Joergen Sundqvist,SE,0
-1982-12-14,Marc Girardelli,LU,6
-1982-12-14,Paul Frommelt,LI,0
-1982-12-14,Tomaz Cerkovnik,SK,0
-1982-12-14,Jacques Luethy,CH,2
-1982-12-14,Peter Mally,IT,4
-1982-12-14,Bengt Fjaellberg,SE,1
-1982-12-14,Franz Gruber,AT,0
-1982-12-14,Michel Canac,FR,0
-1982-12-14,Petar Popangelov,BG,0
-1982-12-14,Vladimir Andreev,RU,0
-1982-12-14,Andreas Wenzel,LI,0
-1982-12-14,Hans Pieren,CH,0
-1982-12-14,Franck Woerndl,DE,0
-1982-12-14,Marco Tonazzi,IT,0
-1982-12-14,Lars Goeran Halvarsson,SE,5
-1982-12-14,Klaus Heidegger,AT,0
-1982-12-14,Jure Franko,SK,0
-1982-12-14,Daniel Mougel,FR,0
-1982-12-14,Toshihiro Kaiwa,JP,0
-1982-12-14,Daniel Fontaine,FR,0
-1982-12-14,Michel Vion,FR,0
-1982-12-14,Didier Bouvet,FR,0
-1982-12-14,Christian Orlainsky,AT,10
-1982-12-14,Bojan Krizaj,SK,11
-1982-12-14,Ivano Edalini,IT,3
-1982-12-14,Steve Mahre,US,12
-1982-12-14,Stig Strand,SE,20
-1982-12-14,Phil Mahre,US,15
-1982-12-21,Franck Woerndl,DE,0
-1982-12-21,Hans Pieren,CH,0
-1982-12-21,Andreas Wenzel,LI,0
-1982-12-21,Bengt Fjaellberg,SE,1
-1982-12-21,Peter Mally,IT,4
-1982-12-21,Wataru Mizuatani,JP,0
-1982-12-21,Steve Mahre,US,20
-1982-12-21,Marc Girardelli,LU,6
-1982-12-21,Max Julen,CH,7
-1982-12-21,Bojan Krizaj,SK,23
-1982-12-21,Robert Erlacher,IT,0
-1982-12-21,Michel Canac,FR,7
-1982-12-21,Phil Mahre,US,30
-1982-12-21,Ivano Edalini,IT,9
-1982-12-21,Ingemar Stenmark,SE,45
-1982-12-21,Pirmin Zurbriggen,CH,13
-1982-12-21,Vladimir Andreev,RU,1
-1982-12-21,Petar Popangelov,BG,4
-1982-12-21,Jacques Luethy,CH,4
-1982-12-21,Stig Strand,SE,45
-1982-12-21,Marco Tonazzi,IT,0
-1982-12-21,Klaus Heidegger,AT,0
-1982-12-21,Paolo De Chiesa,IT,20
-1982-12-21,Daniel Mougel,FR,0
-1982-12-21,Yves Tavernier,FR,0
-1982-12-21,Joel Gaspoz,CH,0
-1982-12-21,Joergen Sundqvist,SE,0
-1982-12-21,Joakim Wallner,SE,0
-1982-12-21,Oswald Toetsch,IT,0
-1982-12-21,Joze Kuralt,SK,0
-1982-12-21,Odd Sorli,NO,0
-1982-12-21,Jure Franko,SK,0
-1982-12-21,Alex Giorgi,IT,0
-1982-12-21,Naomine Iwatani,JP,0
-1982-12-21,Christian Orlainsky,AT,20
-1982-12-21,Hannes Spiss,AT,0
-1982-12-21,Florian Beck,DE,0
-1982-12-21,Paul Arne Skajem,NO,0
-1982-12-21,Toshihiro Kaiwa,JP,0
-1982-12-21,Didier Bouvet,FR,0
-1982-12-21,Franz Gruber,AT,9
-1982-12-21,Hiroaki Ohtaka,JP,0
-1982-12-21,Michel Vion,FR,0
-1982-12-21,Lars Goeran Halvarsson,SE,8
-1982-12-21,Daniel Fontaine,FR,0
-1982-12-21,Tomaz Cerkovnik,SK,0
-1982-12-21,Paul Frommelt,LI,0
-1982-12-21,Helmuth Gstrein,AT,0
-1983-01-04,Joze Kuralt,SK,0
-1983-01-04,Oswald Toetsch,IT,0
-1983-01-04,Joakim Wallner,SE,0
-1983-01-04,Joergen Sundqvist,SE,0
-1983-01-04,Yves Tavernier,FR,0
-1983-01-04,Robert Erlacher,IT,0
-1983-01-04,Naomine Iwatani,JP,0
-1983-01-04,Toshihiro Kaiwa,JP,2
-1983-01-04,Hiroaki Ohtaka,JP,0
-1983-01-04,Vladimir Andreev,RU,3
-1983-01-04,Daniel Mougel,FR,3
-1983-01-04,Joel Gaspoz,CH,0
-1983-01-04,Odd Sorli,NO,0
-1983-01-04,Bojan Krizaj,SK,23
-1983-01-04,Alex Giorgi,IT,0
-1983-01-04,Phil Mahre,US,30
-1983-01-04,Pirmin Zurbriggen,CH,13
-1983-01-04,Stig Strand,SE,45
-1983-01-04,Marc Girardelli,LU,6
-1983-01-04,Lars Goeran Halvarsson,SE,8
-1983-01-04,Peter Mally,IT,4
-1983-01-04,Ivano Edalini,IT,9
-1983-01-04,Bengt Fjaellberg,SE,1
-1983-01-04,Christian Orlainsky,AT,20
-1983-01-04,Petar Popangelov,BG,4
-1983-01-04,Michel Vion,FR,0
-1983-01-04,Ingemar Stenmark,SE,45
-1983-01-04,Didier Bouvet,FR,0
-1983-01-04,Tomaz Cerkovnik,SK,0
-1983-01-04,Paul Frommelt,LI,0
-1983-01-04,Helmuth Gstrein,AT,0
-1983-01-04,Florian Beck,DE,0
-1983-01-04,Hannes Spiss,AT,0
-1983-01-04,Daniel Fontaine,FR,0
-1983-01-04,Paul Arne Skajem,NO,0
-1983-01-04,Wataru Mizuatani,JP,0
-1983-01-04,Max Julen,CH,13
-1983-01-04,Steve Mahre,US,45
-1983-01-04,Michel Canac,FR,16
-1983-01-04,Jacques Luethy,CH,24
-1983-01-04,Jure Franko,SK,4
-1983-01-04,Klaus Heidegger,AT,5
-1983-01-04,Andreas Wenzel,LI,15
-1983-01-04,Hans Pieren,CH,10
-1983-01-04,Marco Tonazzi,IT,7
-1983-01-04,Paolo De Chiesa,IT,32
-1983-01-04,Franck Woerndl,DE,8
-1983-01-04,Franz Gruber,AT,20
-1983-01-23,Hiroaki Ohtaka,JP,0
-1983-01-23,Naomine Iwatani,JP,0
-1983-01-23,Joakim Wallner,SE,0
-1983-01-23,Robert Erlacher,IT,0
-1983-01-23,Yves Tavernier,FR,0
-1983-01-23,Joel Gaspoz,CH,0
-1983-01-23,Joergen Sundqvist,SE,0
-1983-01-23,Wataru Mizuatani,JP,0
-1983-01-23,Michel Vion,FR,5
-1983-01-23,Oswald Toetsch,IT,0
-1983-01-23,Marco Tonazzi,IT,7
-1983-01-23,Joze Kuralt,SK,0
-1983-01-23,Odd Sorli,NO,0
-1983-01-23,Paul Arne Skajem,NO,0
-1983-01-23,Alex Giorgi,IT,0
-1983-01-23,Hannes Spiss,AT,0
-1983-01-23,Florian Beck,DE,0
-1983-01-23,Helmuth Gstrein,AT,0
-1983-01-23,Michel Canac,FR,23
-1983-01-23,Paul Frommelt,LI,0
-1983-01-23,Toshihiro Kaiwa,JP,2
-1983-01-23,Petar Popangelov,BG,10
-1983-01-23,Franck Woerndl,DE,8
-1983-01-23,Andreas Wenzel,LI,15
-1983-01-23,Daniel Fontaine,FR,8
-1983-01-23,Paolo De Chiesa,IT,43
-1983-01-23,Marc Girardelli,LU,18
-1983-01-23,Daniel Mougel,FR,6
-1983-01-23,Phil Mahre,US,45
-1983-01-23,Christian Orlainsky,AT,40
-1983-01-23,Steve Mahre,US,55
-1983-01-23,Bengt Fjaellberg,SE,5
-1983-01-23,Didier Bouvet,FR,2
-1983-01-23,Hans Pieren,CH,10
-1983-01-23,Bojan Krizaj,SK,23
-1983-01-23,Ingemar Stenmark,SE,70
-1983-01-23,Max Julen,CH,13
-1983-01-23,Stig Strand,SE,54
-1983-01-23,Lars Goeran Halvarsson,SE,8
-1983-01-23,Tomaz Cerkovnik,SK,1
-1983-01-23,Peter Mally,IT,4
-1983-01-23,Ivano Edalini,IT,9
-1983-01-23,Jacques Luethy,CH,24
-1983-01-23,Franz Gruber,AT,20
-1983-01-23,Vladimir Andreev,RU,3
-1983-01-23,Jure Franko,SK,4
-1983-01-23,Pirmin Zurbriggen,CH,13
-1983-01-23,Klaus Heidegger,AT,5
-1983-01-30,Franz Gruber,AT,45
-1983-01-30,Stig Strand,SE,74
-1983-01-30,Michel Canac,FR,38
-1983-01-30,Wataru Mizuatani,JP,0
-1983-01-30,Phil Mahre,US,45
-1983-01-30,Hiroaki Ohtaka,JP,0
-1983-01-30,Naomine Iwatani,JP,0
-1983-01-30,Robert Erlacher,IT,0
-1983-01-30,Yves Tavernier,FR,0
-1983-01-30,Joel Gaspoz,CH,0
-1983-01-30,Joergen Sundqvist,SE,0
-1983-01-30,Joakim Wallner,SE,0
-1983-01-30,Oswald Toetsch,IT,0
-1983-01-30,Joze Kuralt,SK,0
-1983-01-30,Odd Sorli,NO,0
-1983-01-30,Michel Vion,FR,5
-1983-01-30,Toshihiro Kaiwa,JP,2
-1983-01-30,Daniel Mougel,FR,6
-1983-01-30,Jure Franko,SK,4
-1983-01-30,Marco Tonazzi,IT,7
-1983-01-30,Franck Woerndl,DE,8
-1983-01-30,Hans Pieren,CH,10
-1983-01-30,Andreas Wenzel,LI,15
-1983-01-30,Vladimir Andreev,RU,3
-1983-01-30,Bengt Fjaellberg,SE,5
-1983-01-30,Jacques Luethy,CH,24
-1983-01-30,Ivano Edalini,IT,9
-1983-01-30,Peter Mally,IT,4
-1983-01-30,Marc Girardelli,LU,18
-1983-01-30,Max Julen,CH,13
-1983-01-30,Pirmin Zurbriggen,CH,13
-1983-01-30,Christian Orlainsky,AT,40
-1983-01-30,Bojan Krizaj,SK,23
-1983-01-30,Steve Mahre,US,55
-1983-01-30,Ingemar Stenmark,SE,70
-1983-01-30,Paolo De Chiesa,IT,55
-1983-01-30,Daniel Fontaine,FR,8
-1983-01-30,Tomaz Cerkovnik,SK,2
-1983-01-30,Helmuth Gstrein,AT,8
-1983-01-30,Hannes Spiss,AT,4
-1983-01-30,Klaus Heidegger,AT,14
-1983-01-30,Alex Giorgi,IT,3
-1983-01-30,Paul Arne Skajem,NO,2
-1983-01-30,Lars Goeran Halvarsson,SE,18
-1983-01-30,Didier Bouvet,FR,9
-1983-01-30,Paul Frommelt,LI,11
-1983-01-30,Petar Popangelov,BG,15
-1983-01-30,Florian Beck,DE,6
-1983-02-06,Joze Kuralt,SK,3
-1983-02-06,Franck Woerndl,DE,12
-1983-02-06,Joergen Sundqvist,SE,0
-1983-02-06,Ingemar Stenmark,SE,70
-1983-02-06,Marc Girardelli,LU,27
-1983-02-06,Joel Gaspoz,CH,0
-1983-02-06,Yves Tavernier,FR,0
-1983-02-06,Bengt Fjaellberg,SE,13
-1983-02-06,Naomine Iwatani,JP,0
-1983-02-06,Paul Frommelt,LI,21
-1983-02-06,Hiroaki Ohtaka,JP,0
-1983-02-06,Wataru Mizuatani,JP,0
-1983-02-06,Jacques Luethy,CH,26
-1983-02-06,Petar Popangelov,BG,22
-1983-02-06,Odd Sorli,NO,5
-1983-02-06,Paul Arne Skajem,NO,3
-1983-02-06,Oswald Toetsch,IT,0
-1983-02-06,Robert Erlacher,IT,0
-1983-02-06,Franz Gruber,AT,51
-1983-02-06,Joakim Wallner,SE,0
-1983-02-06,Bojan Krizaj,SK,23
-1983-02-06,Alex Giorgi,IT,3
-1983-02-06,Hannes Spiss,AT,4
-1983-02-06,Michel Canac,FR,50
-1983-02-06,Florian Beck,DE,6
-1983-02-06,Ivano Edalini,IT,20
-1983-02-06,Helmuth Gstrein,AT,8
-1983-02-06,Tomaz Cerkovnik,SK,2
-1983-02-06,Didier Bouvet,FR,9
-1983-02-06,Michel Vion,FR,5
-1983-02-06,Daniel Fontaine,FR,8
-1983-02-06,Phil Mahre,US,60
-1983-02-06,Toshihiro Kaiwa,JP,2
-1983-02-06,Stig Strand,SE,74
-1983-02-06,Daniel Mougel,FR,6
-1983-02-06,Klaus Heidegger,AT,14
-1983-02-06,Marco Tonazzi,IT,7
-1983-02-06,Hans Pieren,CH,10
-1983-02-06,Vladimir Andreev,RU,3
-1983-02-06,Peter Mally,IT,4
-1983-02-06,Andreas Wenzel,LI,35
-1983-02-06,Lars Goeran Halvarsson,SE,18
-1983-02-06,Max Julen,CH,13
-1983-02-06,Pirmin Zurbriggen,CH,13
-1983-02-06,Paolo De Chiesa,IT,55
-1983-02-06,Christian Orlainsky,AT,40
-1983-02-06,Jure Franko,SK,4
-1983-02-06,Steve Mahre,US,80
-1983-02-11,Michel Canac,FR,50
-1983-02-11,Petar Popangelov,BG,22
-1983-02-11,Joze Kuralt,SK,4
-1983-02-11,Klaus Heidegger,AT,18
-1983-02-11,Peter Mally,IT,4
-1983-02-11,Lars Goeran Halvarsson,SE,18
-1983-02-11,Pirmin Zurbriggen,CH,13
-1983-02-11,Christian Orlainsky,AT,40
-1983-02-11,Alex Giorgi,IT,5
-1983-02-11,Stig Strand,SE,77
-1983-02-11,Vladimir Andreev,RU,3
-1983-02-11,Ivano Edalini,IT,20
-1983-02-11,Hans Pieren,CH,10
-1983-02-11,Max Julen,CH,13
-1983-02-11,Marco Tonazzi,IT,7
-1983-02-11,Joergen Sundqvist,SE,0
-1983-02-11,Joel Gaspoz,CH,0
-1983-02-11,Yves Tavernier,FR,0
-1983-02-11,Franz Gruber,AT,60
-1983-02-11,Robert Erlacher,IT,0
-1983-02-11,Naomine Iwatani,JP,0
-1983-02-11,Joakim Wallner,SE,0
-1983-02-11,Hiroaki Ohtaka,JP,0
-1983-02-11,Jacques Luethy,CH,36
-1983-02-11,Ingemar Stenmark,SE,95
-1983-02-11,Paolo De Chiesa,IT,75
-1983-02-11,Marc Girardelli,LU,38
-1983-02-11,Phil Mahre,US,75
-1983-02-11,Andreas Wenzel,LI,47
-1983-02-11,Franck Woerndl,DE,12
-1983-02-11,Bengt Fjaellberg,SE,21
-1983-02-11,Wataru Mizuatani,JP,0
-1983-02-11,Odd Sorli,NO,5
-1983-02-11,Jure Franko,SK,4
-1983-02-11,Steve Mahre,US,85
-1983-02-11,Daniel Mougel,FR,6
-1983-02-11,Toshihiro Kaiwa,JP,2
-1983-02-11,Oswald Toetsch,IT,0
-1983-02-11,Michel Vion,FR,5
-1983-02-11,Bojan Krizaj,SK,29
-1983-02-11,Daniel Fontaine,FR,8
-1983-02-11,Tomaz Cerkovnik,SK,2
-1983-02-11,Paul Arne Skajem,NO,3
-1983-02-11,Helmuth Gstrein,AT,8
-1983-02-11,Florian Beck,DE,6
-1983-02-11,Hannes Spiss,AT,4
-1983-02-11,Paul Frommelt,LI,28
-1983-02-11,Didier Bouvet,FR,9
-1983-02-12,Steve Mahre,US,85
-1983-02-12,Paul Frommelt,LI,28
-1983-02-12,Tomaz Cerkovnik,SK,2
-1983-02-12,Didier Bouvet,FR,9
-1983-02-12,Michel Vion,FR,5
-1983-02-12,Toshihiro Kaiwa,JP,2
-1983-02-12,Daniel Mougel,FR,6
-1983-02-12,Jure Franko,SK,4
-1983-02-12,Franck Woerndl,DE,12
-1983-02-12,Hans Pieren,CH,10
-1983-02-12,Vladimir Andreev,RU,3
-1983-02-12,Franz Gruber,AT,60
-1983-02-12,Peter Mally,IT,4
-1983-02-12,Marc Girardelli,LU,38
-1983-02-12,Max Julen,CH,13
-1983-02-12,Pirmin Zurbriggen,CH,13
-1983-02-12,Paolo De Chiesa,IT,75
-1983-02-12,Hannes Spiss,AT,4
-1983-02-12,Marco Tonazzi,IT,7
-1983-02-12,Ivano Edalini,IT,20
-1983-02-12,Michel Canac,FR,53
-1983-02-12,Lars Goeran Halvarsson,SE,22
-1983-02-12,Stig Strand,SE,89
-1983-02-12,Christian Orlainsky,AT,55
-1983-02-12,Phil Mahre,US,86
-1983-02-12,Bengt Fjaellberg,SE,41
-1983-02-12,Bojan Krizaj,SK,54
-1983-02-12,Ingemar Stenmark,SE,105
-1983-02-12,Andreas Wenzel,LI,56
-1983-02-12,Jacques Luethy,CH,44
-1983-02-12,Alex Giorgi,IT,5
-1983-02-12,Joze Kuralt,SK,11
-1983-02-12,Petar Popangelov,BG,28
-1983-02-12,Klaus Heidegger,AT,23
-1983-02-12,Florian Beck,DE,6
-1983-02-12,Joergen Sundqvist,SE,0
-1983-02-12,Robert Erlacher,IT,0
-1983-02-12,Oswald Toetsch,IT,2
-1983-02-12,Naomine Iwatani,JP,0
-1983-02-12,Joel Gaspoz,CH,0
-1983-02-12,Odd Sorli,NO,5
-1983-02-12,Yves Tavernier,FR,0
-1983-02-12,Hiroaki Ohtaka,JP,0
-1983-02-12,Wataru Mizuatani,JP,0
-1983-02-12,Daniel Fontaine,FR,9
-1983-02-12,Helmuth Gstrein,AT,8
-1983-02-12,Paul Arne Skajem,NO,3
-1983-02-12,Joakim Wallner,SE,0
-1983-02-23,Hannes Spiss,AT,4
-1983-02-23,Odd Sorli,NO,5
-1983-02-23,Florian Beck,DE,6
-1983-02-23,Helmuth Gstrein,AT,8
-1983-02-23,Joze Kuralt,SK,11
-1983-02-23,Ingemar Stenmark,SE,105
-1983-02-23,Joel Gaspoz,CH,0
-1983-02-23,Yves Tavernier,FR,0
-1983-02-23,Robert Erlacher,IT,0
-1983-02-23,Naomine Iwatani,JP,0
-1983-02-23,Hiroaki Ohtaka,JP,0
-1983-02-23,Wataru Mizuatani,JP,0
-1983-02-23,Oswald Toetsch,IT,2
-1983-02-23,Joergen Sundqvist,SE,0
-1983-02-23,Toshihiro Kaiwa,JP,2
-1983-02-23,Daniel Fontaine,FR,9
-1983-02-23,Phil Mahre,US,86
-1983-02-23,Steve Mahre,US,85
-1983-02-23,Christian Orlainsky,AT,55
-1983-02-23,Pirmin Zurbriggen,CH,13
-1983-02-23,Max Julen,CH,13
-1983-02-23,Lars Goeran Halvarsson,SE,22
-1983-02-23,Jacques Luethy,CH,44
-1983-02-23,Bengt Fjaellberg,SE,41
-1983-02-23,Michel Canac,FR,53
-1983-02-23,Vladimir Andreev,RU,3
-1983-02-23,Hans Pieren,CH,10
-1983-02-23,Marco Tonazzi,IT,7
-1983-02-23,Klaus Heidegger,AT,23
-1983-02-23,Jure Franko,SK,4
-1983-02-23,Daniel Mougel,FR,6
-1983-02-23,Didier Bouvet,FR,9
-1983-02-23,Franck Woerndl,DE,12
-1983-02-23,Marc Girardelli,LU,50
-1983-02-23,Ivano Edalini,IT,31
-1983-02-23,Alex Giorgi,IT,12
-1983-02-23,Bojan Krizaj,SK,69
-1983-02-23,Petar Popangelov,BG,37
-1983-02-23,Paul Frommelt,LI,34
-1983-02-23,Peter Mally,IT,9
-1983-02-23,Michel Vion,FR,10
-1983-02-23,Franz Gruber,AT,70
-1983-02-23,Tomaz Cerkovnik,SK,3
-1983-02-23,Paolo De Chiesa,IT,83
-1983-02-23,Andreas Wenzel,LI,81
-1983-02-23,Joakim Wallner,SE,2
-1983-02-23,Stig Strand,SE,109
-1983-02-23,Paul Arne Skajem,NO,8
-1983-02-27,Petar Popangelov,BG,37
-1983-02-27,Christian Orlainsky,AT,55
-1983-02-27,Steve Mahre,US,85
-1983-02-27,Max Julen,CH,13
-1983-02-27,Jacques Luethy,CH,44
-1983-02-27,Alex Giorgi,IT,12
-1983-02-27,Phil Mahre,US,98
-1983-02-27,Ingemar Stenmark,SE,120
-1983-02-27,Michel Canac,FR,53
-1983-02-27,Pirmin Zurbriggen,CH,13
-1983-02-27,Joel Gaspoz,CH,4
-1983-02-27,Andreas Wenzel,LI,81
-1983-02-27,Franck Woerndl,DE,12
-1983-02-27,Marco Tonazzi,IT,7
-1983-02-27,Klaus Heidegger,AT,23
-1983-02-27,Jure Franko,SK,4
-1983-02-27,Daniel Mougel,FR,6
-1983-02-27,Toshihiro Kaiwa,JP,2
-1983-02-27,Daniel Fontaine,FR,9
-1983-02-27,Michel Vion,FR,10
-1983-02-27,Didier Bouvet,FR,9
-1983-02-27,Tomaz Cerkovnik,SK,3
-1983-02-27,Paul Frommelt,LI,34
-1983-02-27,Helmuth Gstrein,AT,8
-1983-02-27,Vladimir Andreev,RU,3
-1983-02-27,Hans Pieren,CH,10
-1983-02-27,Oswald Toetsch,IT,2
-1983-02-27,Stig Strand,SE,129
-1983-02-27,Ivano Edalini,IT,34
-1983-02-27,Peter Mally,IT,11
-1983-02-27,Lars Goeran Halvarsson,SE,27
-1983-02-27,Yves Tavernier,FR,1
-1983-02-27,Joze Kuralt,SK,17
-1983-02-27,Paul Arne Skajem,NO,8
-1983-02-27,Franz Gruber,AT,77
-1983-02-27,Hiroaki Ohtaka,JP,0
-1983-02-27,Joergen Sundqvist,SE,8
-1983-02-27,Wataru Mizuatani,JP,0
-1983-02-27,Bengt Fjaellberg,SE,50
-1983-02-27,Robert Erlacher,IT,0
-1983-02-27,Paolo De Chiesa,IT,93
-1983-02-27,Joakim Wallner,SE,2
-1983-02-27,Marc Girardelli,LU,75
-1983-02-27,Florian Beck,DE,6
-1983-02-27,Odd Sorli,NO,5
-1983-02-27,Bojan Krizaj,SK,80
-1983-02-27,Naomine Iwatani,JP,0
-1983-02-27,Hannes Spiss,AT,4
-1983-03-20,Klaus Heidegger,AT,23
-1983-03-20,Marco Tonazzi,IT,7
-1983-03-20,Franck Woerndl,DE,12
-1983-03-20,Hans Pieren,CH,10
-1983-03-20,Vladimir Andreev,RU,3
-1983-03-20,Petar Popangelov,BG,37
-1983-03-20,Michel Vion,FR,10
-1983-03-20,Daniel Fontaine,FR,9
-1983-03-20,Tomaz Cerkovnik,SK,3
-1983-03-20,Toshihiro Kaiwa,JP,2
-1983-03-20,Daniel Mougel,FR,6
-1983-03-20,Paul Frommelt,LI,34
-1983-03-20,Helmuth Gstrein,AT,8
-1983-03-20,Florian Beck,DE,6
-1983-03-20,Hannes Spiss,AT,4
-1983-03-20,Paul Arne Skajem,NO,8
-1983-03-20,Odd Sorli,NO,5
-1983-03-20,Oswald Toetsch,IT,2
-1983-03-20,Bengt Fjaellberg,SE,50
-1983-03-20,Joakim Wallner,SE,2
-1983-03-20,Joergen Sundqvist,SE,8
-1983-03-20,Didier Bouvet,FR,9
-1983-03-20,Jacques Luethy,CH,44
-1983-03-20,Naomine Iwatani,JP,4
-1983-03-20,Peter Mally,IT,11
-1983-03-20,Hiroaki Ohtaka,JP,3
-1983-03-20,Joze Kuralt,SK,22
-1983-03-20,Jure Franko,SK,6
-1983-03-20,Wataru Mizuatani,JP,1
-1983-03-20,Robert Erlacher,IT,6
-1983-03-20,Christian Orlainsky,AT,62
-1983-03-20,Alex Giorgi,IT,20
-1983-03-20,Michel Canac,FR,62
-1983-03-20,Phil Mahre,US,108
-1983-03-20,Franz Gruber,AT,88
-1983-03-20,Paolo De Chiesa,IT,105
-1983-03-20,Bojan Krizaj,SK,95
-1983-03-20,Andreas Wenzel,LI,101
-1983-03-20,Stig Strand,SE,154
-1983-03-20,Joel Gaspoz,CH,4
-1983-03-20,Ingemar Stenmark,SE,120
-1983-03-20,Steve Mahre,US,85
-1983-03-20,Pirmin Zurbriggen,CH,13
-1983-03-20,Max Julen,CH,13
-1983-03-20,Marc Girardelli,LU,75
-1983-03-20,Lars Goeran Halvarsson,SE,27
-1983-03-20,Ivano Edalini,IT,34
-1983-03-20,Yves Tavernier,FR,1
+date,name,ath_country,value,specialty
+1982-12-14,Ingemar Stenmark,SE,25,Giant Slalom
+1982-12-14,Franck Woerndl,DE,0,Slalom
+1982-12-14,Pirmin Zurbriggen,CH,8,Giant Slalom
+1982-12-14,Joakim Wallner,SE,0,Slalom
+1982-12-14,Petar Popangelov,BG,0,Slalom
+1982-12-14,Klaus Heidegger,AT,0,Slalom
+1982-12-14,Lars Goeran Halvarsson,SE,5,Slalom
+1982-12-14,Hans Pieren,CH,0,Slalom
+1982-12-14,Ivano Edalini,IT,3,Slalom
+1982-12-14,Daniel Fontaine,FR,0,Slalom
+1982-12-14,Paul Frommelt,LI,0,Slalom
+1982-12-14,Tomaz Cerkovnik,SK,0,Slalom
+1982-12-14,Phil Mahre,US,15,Giant Slalom
+1982-12-14,Bengt Fjaellberg,SE,1,Slalom
+1982-12-14,Paolo De Chiesa,IT,9,Slalom
+1982-12-14,Yves Tavernier,FR,0,Giant Slalom
+1982-12-14,Christian Orlainsky,AT,10,Slalom
+1982-12-14,Jacques Luethy,CH,2,Slalom
+1982-12-14,Marc Girardelli,LU,6,Slalom
+1982-12-14,Michel Canac,FR,0,Slalom
+1982-12-14,Andreas Wenzel,LI,0,Slalom
+1982-12-14,Helmuth Gstrein,AT,0,Slalom
+1982-12-14,Joergen Sundqvist,SE,0,Slalom
+1982-12-14,Daniel Mougel,FR,0,Slalom
+1982-12-14,Naomine Iwatani,JP,0,Slalom
+1982-12-14,Joel Gaspoz,CH,0,Slalom
+1982-12-14,Hannes Spiss,AT,0,Combined
+1982-12-14,Jure Franko,SK,0,Giant Slalom
+1982-12-14,Paul Arne Skajem,NO,0,Slalom
+1982-12-14,Vladimir Andreev,RU,0,Slalom
+1982-12-14,Peter Mally,IT,4,Slalom
+1982-12-14,Oswald Toetsch,IT,0,Slalom
+1982-12-14,Odd Sorli,NO,0,Giant Slalom
+1982-12-14,Robert Erlacher,IT,0,Giant Slalom
+1982-12-14,Florian Beck,DE,0,Slalom
+1982-12-14,Joze Kuralt,SK,0,Slalom
+1982-12-14,Toshihiro Kaiwa,JP,0,Slalom
+1982-12-14,Didier Bouvet,FR,0,Slalom
+1982-12-14,Marco Tonazzi,IT,0,Slalom
+1982-12-14,Max Julen,CH,7,Giant Slalom
+1982-12-14,Alex Giorgi,IT,0,Giant Slalom
+1982-12-14,Michel Vion,FR,0,Slalom
+1982-12-14,Bojan Krizaj,SK,11,Slalom
+1982-12-14,Hiroaki Ohtaka,JP,0,Slalom
+1982-12-14,Wataru Mizuatani,JP,0,Slalom
+1982-12-14,Steve Mahre,US,12,Slalom
+1982-12-14,Franz Gruber,AT,0,Slalom
+1982-12-14,Stig Strand,SE,20,Slalom
+1982-12-21,Tomaz Cerkovnik,SK,0,Slalom
+1982-12-21,Helmuth Gstrein,AT,0,Slalom
+1982-12-21,Jacques Luethy,CH,4,Slalom
+1982-12-21,Max Julen,CH,7,Giant Slalom
+1982-12-21,Klaus Heidegger,AT,0,Slalom
+1982-12-21,Hiroaki Ohtaka,JP,0,Slalom
+1982-12-21,Oswald Toetsch,IT,0,Slalom
+1982-12-21,Yves Tavernier,FR,0,Giant Slalom
+1982-12-21,Joze Kuralt,SK,0,Slalom
+1982-12-21,Christian Orlainsky,AT,20,Slalom
+1982-12-21,Franz Gruber,AT,9,Slalom
+1982-12-21,Toshihiro Kaiwa,JP,0,Slalom
+1982-12-21,Daniel Fontaine,FR,0,Slalom
+1982-12-21,Ivano Edalini,IT,9,Slalom
+1982-12-21,Didier Bouvet,FR,0,Slalom
+1982-12-21,Peter Mally,IT,4,Slalom
+1982-12-21,Paolo De Chiesa,IT,20,Slalom
+1982-12-21,Hannes Spiss,AT,0,Combined
+1982-12-21,Phil Mahre,US,30,Giant Slalom
+1982-12-21,Naomine Iwatani,JP,0,Slalom
+1982-12-21,Marco Tonazzi,IT,0,Slalom
+1982-12-21,Lars Goeran Halvarsson,SE,8,Slalom
+1982-12-21,Bengt Fjaellberg,SE,1,Slalom
+1982-12-21,Hans Pieren,CH,0,Slalom
+1982-12-21,Joakim Wallner,SE,0,Slalom
+1982-12-21,Michel Canac,FR,7,Slalom
+1982-12-21,Wataru Mizuatani,JP,0,Slalom
+1982-12-21,Stig Strand,SE,45,Slalom
+1982-12-21,Joel Gaspoz,CH,0,Slalom
+1982-12-21,Vladimir Andreev,RU,1,Slalom
+1982-12-21,Odd Sorli,NO,0,Giant Slalom
+1982-12-21,Paul Frommelt,LI,0,Slalom
+1982-12-21,Paul Arne Skajem,NO,0,Slalom
+1982-12-21,Daniel Mougel,FR,0,Slalom
+1982-12-21,Andreas Wenzel,LI,0,Slalom
+1982-12-21,Pirmin Zurbriggen,CH,13,Giant Slalom
+1982-12-21,Petar Popangelov,BG,4,Slalom
+1982-12-21,Steve Mahre,US,20,Slalom
+1982-12-21,Jure Franko,SK,0,Giant Slalom
+1982-12-21,Joergen Sundqvist,SE,0,Slalom
+1982-12-21,Alex Giorgi,IT,0,Giant Slalom
+1982-12-21,Florian Beck,DE,0,Slalom
+1982-12-21,Franck Woerndl,DE,0,Slalom
+1982-12-21,Michel Vion,FR,0,Slalom
+1982-12-21,Ingemar Stenmark,SE,45,Giant Slalom
+1982-12-21,Marc Girardelli,LU,6,Slalom
+1982-12-21,Bojan Krizaj,SK,23,Slalom
+1982-12-21,Robert Erlacher,IT,0,Giant Slalom
+1983-01-04,Franz Gruber,AT,20,Slalom
+1983-01-04,Paul Frommelt,LI,0,Slalom
+1983-01-04,Bengt Fjaellberg,SE,1,Slalom
+1983-01-04,Marco Tonazzi,IT,7,Slalom
+1983-01-04,Ivano Edalini,IT,9,Slalom
+1983-01-04,Stig Strand,SE,45,Slalom
+1983-01-04,Peter Mally,IT,4,Slalom
+1983-01-04,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-01-04,Alex Giorgi,IT,0,Giant Slalom
+1983-01-04,Paul Arne Skajem,NO,0,Slalom
+1983-01-04,Joel Gaspoz,CH,0,Slalom
+1983-01-04,Oswald Toetsch,IT,0,Slalom
+1983-01-04,Joergen Sundqvist,SE,0,Slalom
+1983-01-04,Michel Canac,FR,16,Slalom
+1983-01-04,Hans Pieren,CH,10,Slalom
+1983-01-04,Max Julen,CH,13,Giant Slalom
+1983-01-04,Wataru Mizuatani,JP,0,Slalom
+1983-01-04,Tomaz Cerkovnik,SK,0,Slalom
+1983-01-04,Phil Mahre,US,30,Giant Slalom
+1983-01-04,Paolo De Chiesa,IT,32,Slalom
+1983-01-04,Hannes Spiss,AT,0,Combined
+1983-01-04,Michel Vion,FR,0,Slalom
+1983-01-04,Bojan Krizaj,SK,23,Slalom
+1983-01-04,Petar Popangelov,BG,4,Slalom
+1983-01-04,Robert Erlacher,IT,0,Giant Slalom
+1983-01-04,Andreas Wenzel,LI,15,Slalom
+1983-01-04,Toshihiro Kaiwa,JP,2,Slalom
+1983-01-04,Odd Sorli,NO,0,Giant Slalom
+1983-01-04,Franck Woerndl,DE,8,Slalom
+1983-01-04,Florian Beck,DE,0,Slalom
+1983-01-04,Marc Girardelli,LU,6,Slalom
+1983-01-04,Joakim Wallner,SE,0,Slalom
+1983-01-04,Jacques Luethy,CH,24,Slalom
+1983-01-04,Jure Franko,SK,4,Giant Slalom
+1983-01-04,Helmuth Gstrein,AT,0,Slalom
+1983-01-04,Joze Kuralt,SK,0,Slalom
+1983-01-04,Daniel Mougel,FR,3,Slalom
+1983-01-04,Ingemar Stenmark,SE,45,Giant Slalom
+1983-01-04,Hiroaki Ohtaka,JP,0,Slalom
+1983-01-04,Christian Orlainsky,AT,20,Slalom
+1983-01-04,Vladimir Andreev,RU,3,Slalom
+1983-01-04,Steve Mahre,US,45,Slalom
+1983-01-04,Klaus Heidegger,AT,5,Slalom
+1983-01-04,Lars Goeran Halvarsson,SE,8,Slalom
+1983-01-04,Didier Bouvet,FR,0,Slalom
+1983-01-04,Daniel Fontaine,FR,0,Slalom
+1983-01-04,Yves Tavernier,FR,0,Giant Slalom
+1983-01-04,Naomine Iwatani,JP,0,Slalom
+1983-01-23,Steve Mahre,US,55,Slalom
+1983-01-23,Jure Franko,SK,4,Giant Slalom
+1983-01-23,Helmuth Gstrein,AT,0,Slalom
+1983-01-23,Ivano Edalini,IT,9,Slalom
+1983-01-23,Hannes Spiss,AT,0,Combined
+1983-01-23,Hans Pieren,CH,10,Slalom
+1983-01-23,Joergen Sundqvist,SE,0,Slalom
+1983-01-23,Petar Popangelov,BG,10,Slalom
+1983-01-23,Joakim Wallner,SE,0,Slalom
+1983-01-23,Franck Woerndl,DE,8,Slalom
+1983-01-23,Klaus Heidegger,AT,5,Slalom
+1983-01-23,Daniel Fontaine,FR,8,Slalom
+1983-01-23,Lars Goeran Halvarsson,SE,8,Slalom
+1983-01-23,Paul Arne Skajem,NO,0,Slalom
+1983-01-23,Oswald Toetsch,IT,0,Slalom
+1983-01-23,Tomaz Cerkovnik,SK,1,Slalom
+1983-01-23,Vladimir Andreev,RU,3,Slalom
+1983-01-23,Toshihiro Kaiwa,JP,2,Slalom
+1983-01-23,Christian Orlainsky,AT,40,Slalom
+1983-01-23,Jacques Luethy,CH,24,Slalom
+1983-01-23,Joze Kuralt,SK,0,Slalom
+1983-01-23,Yves Tavernier,FR,0,Giant Slalom
+1983-01-23,Daniel Mougel,FR,6,Slalom
+1983-01-23,Naomine Iwatani,JP,0,Slalom
+1983-01-23,Ingemar Stenmark,SE,70,Giant Slalom
+1983-01-23,Florian Beck,DE,0,Slalom
+1983-01-23,Odd Sorli,NO,0,Giant Slalom
+1983-01-23,Andreas Wenzel,LI,15,Slalom
+1983-01-23,Robert Erlacher,IT,0,Giant Slalom
+1983-01-23,Bojan Krizaj,SK,23,Slalom
+1983-01-23,Michel Vion,FR,5,Slalom
+1983-01-23,Franz Gruber,AT,20,Slalom
+1983-01-23,Marc Girardelli,LU,18,Slalom
+1983-01-23,Didier Bouvet,FR,2,Slalom
+1983-01-23,Paolo De Chiesa,IT,43,Slalom
+1983-01-23,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-01-23,Max Julen,CH,13,Giant Slalom
+1983-01-23,Michel Canac,FR,23,Slalom
+1983-01-23,Peter Mally,IT,4,Slalom
+1983-01-23,Phil Mahre,US,45,Giant Slalom
+1983-01-23,Alex Giorgi,IT,0,Giant Slalom
+1983-01-23,Joel Gaspoz,CH,0,Slalom
+1983-01-23,Hiroaki Ohtaka,JP,0,Slalom
+1983-01-23,Stig Strand,SE,54,Slalom
+1983-01-23,Bengt Fjaellberg,SE,5,Slalom
+1983-01-23,Wataru Mizuatani,JP,0,Slalom
+1983-01-23,Marco Tonazzi,IT,7,Slalom
+1983-01-23,Paul Frommelt,LI,0,Slalom
+1983-01-30,Florian Beck,DE,6,Slalom
+1983-01-30,Robert Erlacher,IT,0,Giant Slalom
+1983-01-30,Jure Franko,SK,4,Giant Slalom
+1983-01-30,Joergen Sundqvist,SE,0,Slalom
+1983-01-30,Alex Giorgi,IT,3,Giant Slalom
+1983-01-30,Odd Sorli,NO,0,Giant Slalom
+1983-01-30,Marco Tonazzi,IT,7,Slalom
+1983-01-30,Peter Mally,IT,4,Slalom
+1983-01-30,Oswald Toetsch,IT,0,Slalom
+1983-01-30,Joze Kuralt,SK,0,Slalom
+1983-01-30,Wataru Mizuatani,JP,0,Slalom
+1983-01-30,Stig Strand,SE,74,Slalom
+1983-01-30,Toshihiro Kaiwa,JP,2,Slalom
+1983-01-30,Vladimir Andreev,RU,3,Slalom
+1983-01-30,Paul Arne Skajem,NO,2,Slalom
+1983-01-30,Daniel Fontaine,FR,8,Slalom
+1983-01-30,Helmuth Gstrein,AT,8,Slalom
+1983-01-30,Didier Bouvet,FR,9,Slalom
+1983-01-30,Ingemar Stenmark,SE,70,Giant Slalom
+1983-01-30,Max Julen,CH,13,Giant Slalom
+1983-01-30,Franck Woerndl,DE,8,Slalom
+1983-01-30,Hannes Spiss,AT,4,Combined
+1983-01-30,Joakim Wallner,SE,0,Slalom
+1983-01-30,Christian Orlainsky,AT,40,Slalom
+1983-01-30,Joel Gaspoz,CH,0,Slalom
+1983-01-30,Steve Mahre,US,55,Slalom
+1983-01-30,Paolo De Chiesa,IT,55,Slalom
+1983-01-30,Lars Goeran Halvarsson,SE,18,Slalom
+1983-01-30,Naomine Iwatani,JP,0,Slalom
+1983-01-30,Bengt Fjaellberg,SE,5,Slalom
+1983-01-30,Hans Pieren,CH,10,Slalom
+1983-01-30,Phil Mahre,US,45,Giant Slalom
+1983-01-30,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-01-30,Michel Canac,FR,38,Slalom
+1983-01-30,Ivano Edalini,IT,9,Slalom
+1983-01-30,Franz Gruber,AT,45,Slalom
+1983-01-30,Hiroaki Ohtaka,JP,0,Slalom
+1983-01-30,Tomaz Cerkovnik,SK,2,Slalom
+1983-01-30,Jacques Luethy,CH,24,Slalom
+1983-01-30,Klaus Heidegger,AT,14,Slalom
+1983-01-30,Paul Frommelt,LI,11,Slalom
+1983-01-30,Bojan Krizaj,SK,23,Slalom
+1983-01-30,Daniel Mougel,FR,6,Slalom
+1983-01-30,Andreas Wenzel,LI,15,Slalom
+1983-01-30,Michel Vion,FR,5,Slalom
+1983-01-30,Yves Tavernier,FR,0,Giant Slalom
+1983-01-30,Petar Popangelov,BG,15,Slalom
+1983-01-30,Marc Girardelli,LU,18,Slalom
+1983-02-06,Tomaz Cerkovnik,SK,2,Slalom
+1983-02-06,Phil Mahre,US,60,Giant Slalom
+1983-02-06,Bojan Krizaj,SK,23,Slalom
+1983-02-06,Jacques Luethy,CH,26,Slalom
+1983-02-06,Robert Erlacher,IT,0,Giant Slalom
+1983-02-06,Joel Gaspoz,CH,0,Slalom
+1983-02-06,Vladimir Andreev,RU,3,Slalom
+1983-02-06,Peter Mally,IT,4,Slalom
+1983-02-06,Alex Giorgi,IT,3,Giant Slalom
+1983-02-06,Daniel Mougel,FR,6,Slalom
+1983-02-06,Michel Canac,FR,50,Slalom
+1983-02-06,Andreas Wenzel,LI,35,Slalom
+1983-02-06,Bengt Fjaellberg,SE,13,Slalom
+1983-02-06,Marco Tonazzi,IT,7,Slalom
+1983-02-06,Ingemar Stenmark,SE,70,Giant Slalom
+1983-02-06,Toshihiro Kaiwa,JP,2,Slalom
+1983-02-06,Paolo De Chiesa,IT,55,Slalom
+1983-02-06,Yves Tavernier,FR,0,Giant Slalom
+1983-02-06,Florian Beck,DE,6,Slalom
+1983-02-06,Didier Bouvet,FR,9,Slalom
+1983-02-06,Naomine Iwatani,JP,0,Slalom
+1983-02-06,Christian Orlainsky,AT,40,Slalom
+1983-02-06,Marc Girardelli,LU,27,Slalom
+1983-02-06,Joze Kuralt,SK,3,Slalom
+1983-02-06,Wataru Mizuatani,JP,0,Slalom
+1983-02-06,Franz Gruber,AT,51,Slalom
+1983-02-06,Odd Sorli,NO,5,Giant Slalom
+1983-02-06,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-02-06,Max Julen,CH,13,Giant Slalom
+1983-02-06,Michel Vion,FR,5,Slalom
+1983-02-06,Lars Goeran Halvarsson,SE,18,Slalom
+1983-02-06,Stig Strand,SE,74,Slalom
+1983-02-06,Joakim Wallner,SE,0,Slalom
+1983-02-06,Oswald Toetsch,IT,0,Slalom
+1983-02-06,Helmuth Gstrein,AT,8,Slalom
+1983-02-06,Klaus Heidegger,AT,14,Slalom
+1983-02-06,Hannes Spiss,AT,4,Combined
+1983-02-06,Daniel Fontaine,FR,8,Slalom
+1983-02-06,Petar Popangelov,BG,22,Slalom
+1983-02-06,Steve Mahre,US,80,Slalom
+1983-02-06,Franck Woerndl,DE,12,Slalom
+1983-02-06,Hans Pieren,CH,10,Slalom
+1983-02-06,Paul Frommelt,LI,21,Slalom
+1983-02-06,Jure Franko,SK,4,Giant Slalom
+1983-02-06,Joergen Sundqvist,SE,0,Slalom
+1983-02-06,Hiroaki Ohtaka,JP,0,Slalom
+1983-02-06,Paul Arne Skajem,NO,3,Slalom
+1983-02-06,Ivano Edalini,IT,20,Slalom
+1983-02-11,Daniel Mougel,FR,6,Slalom
+1983-02-11,Joze Kuralt,SK,4,Slalom
+1983-02-11,Franz Gruber,AT,60,Slalom
+1983-02-11,Lars Goeran Halvarsson,SE,18,Slalom
+1983-02-11,Jacques Luethy,CH,36,Slalom
+1983-02-11,Klaus Heidegger,AT,18,Slalom
+1983-02-11,Wataru Mizuatani,JP,0,Slalom
+1983-02-11,Steve Mahre,US,85,Slalom
+1983-02-11,Michel Vion,FR,5,Slalom
+1983-02-11,Bojan Krizaj,SK,29,Slalom
+1983-02-11,Jure Franko,SK,4,Giant Slalom
+1983-02-11,Marc Girardelli,LU,38,Slalom
+1983-02-11,Florian Beck,DE,6,Slalom
+1983-02-11,Franck Woerndl,DE,12,Slalom
+1983-02-11,Andreas Wenzel,LI,47,Slalom
+1983-02-11,Vladimir Andreev,RU,3,Slalom
+1983-02-11,Yves Tavernier,FR,0,Giant Slalom
+1983-02-11,Robert Erlacher,IT,0,Giant Slalom
+1983-02-11,Petar Popangelov,BG,22,Slalom
+1983-02-11,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-02-11,Oswald Toetsch,IT,0,Slalom
+1983-02-11,Alex Giorgi,IT,5,Giant Slalom
+1983-02-11,Christian Orlainsky,AT,40,Slalom
+1983-02-11,Paul Frommelt,LI,28,Slalom
+1983-02-11,Michel Canac,FR,50,Slalom
+1983-02-11,Peter Mally,IT,4,Slalom
+1983-02-11,Joergen Sundqvist,SE,0,Slalom
+1983-02-11,Ivano Edalini,IT,20,Slalom
+1983-02-11,Hiroaki Ohtaka,JP,0,Slalom
+1983-02-11,Max Julen,CH,13,Giant Slalom
+1983-02-11,Joel Gaspoz,CH,0,Slalom
+1983-02-11,Phil Mahre,US,75,Giant Slalom
+1983-02-11,Stig Strand,SE,77,Slalom
+1983-02-11,Hannes Spiss,AT,4,Combined
+1983-02-11,Daniel Fontaine,FR,8,Slalom
+1983-02-11,Hans Pieren,CH,10,Slalom
+1983-02-11,Marco Tonazzi,IT,7,Slalom
+1983-02-11,Bengt Fjaellberg,SE,21,Slalom
+1983-02-11,Tomaz Cerkovnik,SK,2,Slalom
+1983-02-11,Naomine Iwatani,JP,0,Slalom
+1983-02-11,Didier Bouvet,FR,9,Slalom
+1983-02-11,Paolo De Chiesa,IT,75,Slalom
+1983-02-11,Joakim Wallner,SE,0,Slalom
+1983-02-11,Paul Arne Skajem,NO,3,Slalom
+1983-02-11,Toshihiro Kaiwa,JP,2,Slalom
+1983-02-11,Helmuth Gstrein,AT,8,Slalom
+1983-02-11,Ingemar Stenmark,SE,95,Giant Slalom
+1983-02-11,Odd Sorli,NO,5,Giant Slalom
+1983-02-12,Joel Gaspoz,CH,0,Slalom
+1983-02-12,Jure Franko,SK,4,Giant Slalom
+1983-02-12,Hannes Spiss,AT,4,Combined
+1983-02-12,Ingemar Stenmark,SE,105,Giant Slalom
+1983-02-12,Wataru Mizuatani,JP,0,Slalom
+1983-02-12,Naomine Iwatani,JP,0,Slalom
+1983-02-12,Michel Vion,FR,5,Slalom
+1983-02-12,Paul Arne Skajem,NO,3,Slalom
+1983-02-12,Peter Mally,IT,4,Slalom
+1983-02-12,Odd Sorli,NO,5,Giant Slalom
+1983-02-12,Hiroaki Ohtaka,JP,0,Slalom
+1983-02-12,Daniel Mougel,FR,6,Slalom
+1983-02-12,Bojan Krizaj,SK,54,Slalom
+1983-02-12,Vladimir Andreev,RU,3,Slalom
+1983-02-12,Helmuth Gstrein,AT,8,Slalom
+1983-02-12,Franz Gruber,AT,60,Slalom
+1983-02-12,Daniel Fontaine,FR,9,Slalom
+1983-02-12,Franck Woerndl,DE,12,Slalom
+1983-02-12,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-02-12,Klaus Heidegger,AT,23,Slalom
+1983-02-12,Lars Goeran Halvarsson,SE,22,Slalom
+1983-02-12,Hans Pieren,CH,10,Slalom
+1983-02-12,Steve Mahre,US,85,Slalom
+1983-02-12,Joakim Wallner,SE,0,Slalom
+1983-02-12,Joergen Sundqvist,SE,0,Slalom
+1983-02-12,Ivano Edalini,IT,20,Slalom
+1983-02-12,Michel Canac,FR,53,Slalom
+1983-02-12,Phil Mahre,US,86,Giant Slalom
+1983-02-12,Bengt Fjaellberg,SE,41,Slalom
+1983-02-12,Paolo De Chiesa,IT,75,Slalom
+1983-02-12,Tomaz Cerkovnik,SK,2,Slalom
+1983-02-12,Christian Orlainsky,AT,55,Slalom
+1983-02-12,Jacques Luethy,CH,44,Slalom
+1983-02-12,Marc Girardelli,LU,38,Slalom
+1983-02-12,Andreas Wenzel,LI,56,Slalom
+1983-02-12,Yves Tavernier,FR,0,Giant Slalom
+1983-02-12,Paul Frommelt,LI,28,Slalom
+1983-02-12,Oswald Toetsch,IT,2,Slalom
+1983-02-12,Petar Popangelov,BG,28,Slalom
+1983-02-12,Max Julen,CH,13,Giant Slalom
+1983-02-12,Toshihiro Kaiwa,JP,2,Slalom
+1983-02-12,Joze Kuralt,SK,11,Slalom
+1983-02-12,Marco Tonazzi,IT,7,Slalom
+1983-02-12,Robert Erlacher,IT,0,Giant Slalom
+1983-02-12,Stig Strand,SE,89,Slalom
+1983-02-12,Florian Beck,DE,6,Slalom
+1983-02-12,Alex Giorgi,IT,5,Giant Slalom
+1983-02-12,Didier Bouvet,FR,9,Slalom
+1983-02-23,Tomaz Cerkovnik,SK,3,Slalom
+1983-02-23,Joze Kuralt,SK,11,Slalom
+1983-02-23,Didier Bouvet,FR,9,Slalom
+1983-02-23,Phil Mahre,US,86,Giant Slalom
+1983-02-23,Paul Frommelt,LI,34,Slalom
+1983-02-23,Joel Gaspoz,CH,0,Slalom
+1983-02-23,Bengt Fjaellberg,SE,41,Slalom
+1983-02-23,Michel Canac,FR,53,Slalom
+1983-02-23,Alex Giorgi,IT,12,Giant Slalom
+1983-02-23,Franz Gruber,AT,70,Slalom
+1983-02-23,Odd Sorli,NO,5,Giant Slalom
+1983-02-23,Florian Beck,DE,6,Slalom
+1983-02-23,Christian Orlainsky,AT,55,Slalom
+1983-02-23,Naomine Iwatani,JP,0,Slalom
+1983-02-23,Jacques Luethy,CH,44,Slalom
+1983-02-23,Ingemar Stenmark,SE,105,Giant Slalom
+1983-02-23,Vladimir Andreev,RU,3,Slalom
+1983-02-23,Marc Girardelli,LU,50,Slalom
+1983-02-23,Andreas Wenzel,LI,81,Slalom
+1983-02-23,Robert Erlacher,IT,0,Giant Slalom
+1983-02-23,Yves Tavernier,FR,0,Giant Slalom
+1983-02-23,Bojan Krizaj,SK,69,Slalom
+1983-02-23,Paolo De Chiesa,IT,83,Slalom
+1983-02-23,Ivano Edalini,IT,31,Slalom
+1983-02-23,Oswald Toetsch,IT,2,Slalom
+1983-02-23,Paul Arne Skajem,NO,8,Slalom
+1983-02-23,Franck Woerndl,DE,12,Slalom
+1983-02-23,Hiroaki Ohtaka,JP,0,Slalom
+1983-02-23,Max Julen,CH,13,Giant Slalom
+1983-02-23,Daniel Mougel,FR,6,Slalom
+1983-02-23,Helmuth Gstrein,AT,8,Slalom
+1983-02-23,Joergen Sundqvist,SE,0,Slalom
+1983-02-23,Wataru Mizuatani,JP,0,Slalom
+1983-02-23,Steve Mahre,US,85,Slalom
+1983-02-23,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-02-23,Toshihiro Kaiwa,JP,2,Slalom
+1983-02-23,Joakim Wallner,SE,2,Slalom
+1983-02-23,Michel Vion,FR,10,Slalom
+1983-02-23,Jure Franko,SK,4,Giant Slalom
+1983-02-23,Petar Popangelov,BG,37,Slalom
+1983-02-23,Klaus Heidegger,AT,23,Slalom
+1983-02-23,Lars Goeran Halvarsson,SE,22,Slalom
+1983-02-23,Hans Pieren,CH,10,Slalom
+1983-02-23,Marco Tonazzi,IT,7,Slalom
+1983-02-23,Peter Mally,IT,9,Slalom
+1983-02-23,Stig Strand,SE,109,Slalom
+1983-02-23,Hannes Spiss,AT,4,Combined
+1983-02-23,Daniel Fontaine,FR,9,Slalom
+1983-02-27,Toshihiro Kaiwa,JP,2,Slalom
+1983-02-27,Tomaz Cerkovnik,SK,3,Slalom
+1983-02-27,Vladimir Andreev,RU,3,Slalom
+1983-02-27,Oswald Toetsch,IT,2,Slalom
+1983-02-27,Yves Tavernier,FR,1,Giant Slalom
+1983-02-27,Hiroaki Ohtaka,JP,0,Slalom
+1983-02-27,Joakim Wallner,SE,2,Slalom
+1983-02-27,Wataru Mizuatani,JP,0,Slalom
+1983-02-27,Marco Tonazzi,IT,7,Slalom
+1983-02-27,Andreas Wenzel,LI,81,Slalom
+1983-02-27,Michel Canac,FR,53,Slalom
+1983-02-27,Marc Girardelli,LU,75,Slalom
+1983-02-27,Max Julen,CH,13,Giant Slalom
+1983-02-27,Alex Giorgi,IT,12,Giant Slalom
+1983-02-27,Jacques Luethy,CH,44,Slalom
+1983-02-27,Joergen Sundqvist,SE,8,Slalom
+1983-02-27,Helmuth Gstrein,AT,8,Slalom
+1983-02-27,Daniel Fontaine,FR,9,Slalom
+1983-02-27,Didier Bouvet,FR,9,Slalom
+1983-02-27,Christian Orlainsky,AT,55,Slalom
+1983-02-27,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-02-27,Paolo De Chiesa,IT,93,Slalom
+1983-02-27,Petar Popangelov,BG,37,Slalom
+1983-02-27,Bengt Fjaellberg,SE,50,Slalom
+1983-02-27,Klaus Heidegger,AT,23,Slalom
+1983-02-27,Lars Goeran Halvarsson,SE,27,Slalom
+1983-02-27,Phil Mahre,US,98,Giant Slalom
+1983-02-27,Hans Pieren,CH,10,Slalom
+1983-02-27,Ivano Edalini,IT,34,Slalom
+1983-02-27,Franck Woerndl,DE,12,Slalom
+1983-02-27,Joze Kuralt,SK,17,Slalom
+1983-02-27,Paul Frommelt,LI,34,Slalom
+1983-02-27,Florian Beck,DE,6,Slalom
+1983-02-27,Daniel Mougel,FR,6,Slalom
+1983-02-27,Naomine Iwatani,JP,0,Slalom
+1983-02-27,Ingemar Stenmark,SE,120,Giant Slalom
+1983-02-27,Joel Gaspoz,CH,4,Slalom
+1983-02-27,Hannes Spiss,AT,4,Combined
+1983-02-27,Jure Franko,SK,4,Giant Slalom
+1983-02-27,Stig Strand,SE,129,Slalom
+1983-02-27,Bojan Krizaj,SK,80,Slalom
+1983-02-27,Paul Arne Skajem,NO,8,Slalom
+1983-02-27,Peter Mally,IT,11,Slalom
+1983-02-27,Steve Mahre,US,85,Slalom
+1983-02-27,Odd Sorli,NO,5,Giant Slalom
+1983-02-27,Franz Gruber,AT,77,Slalom
+1983-02-27,Michel Vion,FR,10,Slalom
+1983-02-27,Robert Erlacher,IT,0,Giant Slalom
+1983-03-20,Franz Gruber,AT,88,Slalom
+1983-03-20,Michel Canac,FR,62,Slalom
+1983-03-20,Andreas Wenzel,LI,101,Slalom
+1983-03-20,Phil Mahre,US,108,Giant Slalom
+1983-03-20,Bojan Krizaj,SK,95,Slalom
+1983-03-20,Yves Tavernier,FR,1,Giant Slalom
+1983-03-20,Ingemar Stenmark,SE,120,Giant Slalom
+1983-03-20,Bengt Fjaellberg,SE,50,Slalom
+1983-03-20,Stig Strand,SE,154,Slalom
+1983-03-20,Jacques Luethy,CH,44,Slalom
+1983-03-20,Paolo De Chiesa,IT,105,Slalom
+1983-03-20,Tomaz Cerkovnik,SK,3,Slalom
+1983-03-20,Marc Girardelli,LU,75,Slalom
+1983-03-20,Steve Mahre,US,85,Slalom
+1983-03-20,Christian Orlainsky,AT,62,Slalom
+1983-03-20,Wataru Mizuatani,JP,1,Slalom
+1983-03-20,Hiroaki Ohtaka,JP,3,Slalom
+1983-03-20,Oswald Toetsch,IT,2,Slalom
+1983-03-20,Joakim Wallner,SE,2,Slalom
+1983-03-20,Naomine Iwatani,JP,4,Slalom
+1983-03-20,Joel Gaspoz,CH,4,Slalom
+1983-03-20,Hannes Spiss,AT,4,Combined
+1983-03-20,Jure Franko,SK,6,Giant Slalom
+1983-03-20,Paul Arne Skajem,NO,8,Slalom
+1983-03-20,Peter Mally,IT,11,Slalom
+1983-03-20,Odd Sorli,NO,5,Giant Slalom
+1983-03-20,Michel Vion,FR,10,Slalom
+1983-03-20,Robert Erlacher,IT,6,Giant Slalom
+1983-03-20,Florian Beck,DE,6,Slalom
+1983-03-20,Vladimir Andreev,RU,3,Slalom
+1983-03-20,Joze Kuralt,SK,22,Slalom
+1983-03-20,Didier Bouvet,FR,9,Slalom
+1983-03-20,Marco Tonazzi,IT,7,Slalom
+1983-03-20,Max Julen,CH,13,Giant Slalom
+1983-03-20,Toshihiro Kaiwa,JP,2,Slalom
+1983-03-20,Alex Giorgi,IT,20,Giant Slalom
+1983-03-20,Helmuth Gstrein,AT,8,Slalom
+1983-03-20,Daniel Fontaine,FR,9,Slalom
+1983-03-20,Franck Woerndl,DE,12,Slalom
+1983-03-20,Pirmin Zurbriggen,CH,13,Giant Slalom
+1983-03-20,Daniel Mougel,FR,6,Slalom
+1983-03-20,Petar Popangelov,BG,37,Slalom
+1983-03-20,Klaus Heidegger,AT,23,Slalom
+1983-03-20,Lars Goeran Halvarsson,SE,27,Slalom
+1983-03-20,Hans Pieren,CH,10,Slalom
+1983-03-20,Ivano Edalini,IT,34,Slalom
+1983-03-20,Paul Frommelt,LI,34,Slalom
+1983-03-20,Joergen Sundqvist,SE,8,Slalom

@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1987-01-18,Tamara McKinney,US,25
-1987-01-18,Malgorzata Tlalka - Mogore,FR,20
-1987-01-18,Corinne Schmidhauser,CH,15
-1987-01-18,Camilla Nilsson,SE,12
-1987-01-18,Paoletta Magoni,IT,11
-1987-01-18,Brigitte Oertli,CH,10
-1987-01-18,Liisa Savijarvi,CA,9
-1987-01-18,Monika Maierhofer,AT,8
-1987-01-18,Karin Buder,AT,7
-1987-01-18,Mateja Svet,SK,6
-1987-01-18,Marina Kiehl,DE,5
-1987-01-18,Erika Hess,CH,4
-1987-01-18,Karen Percy,CA,3
-1987-01-18,Michela Figini,CH,2
-1987-01-18,Michaela Gerg-Leitner,DE,1
+date,name,ath_country,value,specialty
+1987-01-18,Tamara McKinney,US,25,Slalom
+1987-01-18,Malgorzata Tlalka - Mogore,FR,20,Slalom
+1987-01-18,Corinne Schmidhauser,CH,15,Slalom
+1987-01-18,Camilla Nilsson,SE,12,Slalom
+1987-01-18,Paoletta Magoni,IT,11,Slalom
+1987-01-18,Brigitte Oertli,CH,10,Slalom
+1987-01-18,Liisa Savijarvi,CA,9,Downhill
+1987-01-18,Monika Maierhofer,AT,8,Slalom
+1987-01-18,Karin Buder,AT,7,Slalom
+1987-01-18,Mateja Svet,SK,6,Slalom
+1987-01-18,Marina Kiehl,DE,5,Super G
+1987-01-18,Erika Hess,CH,4,Slalom
+1987-01-18,Karen Percy,CA,3,Super G
+1987-01-18,Michela Figini,CH,2,Downhill
+1987-01-18,Michaela Gerg-Leitner,DE,1,Giant Slalom

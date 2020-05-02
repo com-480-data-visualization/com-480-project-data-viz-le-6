@@ -1,11 +1,11 @@
-date,name,ath_country,value
-1978-03-19,Phil Mahre,US,25
-1978-03-19,Ingemar Stenmark,SE,20
-1978-03-19,Leonhard Stock,AT,15
-1978-03-19,Jean Luc Fournier,CH,11
-1978-03-19,Franz Klammer,AT,8
-1978-03-19,Heini Hemmi,CH,6
-1978-03-19,Herbert Plank,IT,4
-1978-03-19,Mauro Bernardi,IT,3
-1978-03-19,Paolo De Chiesa,IT,2
-1978-03-19,Andreas Wenzel,LI,1
+date,name,ath_country,value,specialty
+1978-03-19,Phil Mahre,US,25,Giant Slalom
+1978-03-19,Ingemar Stenmark,SE,20,Giant Slalom
+1978-03-19,Leonhard Stock,AT,15,Giant Slalom
+1978-03-19,Jean Luc Fournier,CH,11,Giant Slalom
+1978-03-19,Franz Klammer,AT,8,Downhill
+1978-03-19,Heini Hemmi,CH,6,Giant Slalom
+1978-03-19,Herbert Plank,IT,4,Downhill
+1978-03-19,Mauro Bernardi,IT,3,Slalom
+1978-03-19,Paolo De Chiesa,IT,2,Slalom
+1978-03-19,Andreas Wenzel,LI,1,Giant Slalom

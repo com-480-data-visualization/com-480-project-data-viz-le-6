@@ -1,43 +1,43 @@
-date,name,ath_country,value
-1987-12-22,Brigitte Oertli,CH,25
-1987-12-22,Mateja Svet,SK,0
-1987-12-22,Carole Merle,FR,0
-1987-12-22,Marina Kiehl,DE,0
-1987-12-22,Elisabeth Kirchler,AT,0
-1987-12-22,Kerrin Lee- Gartner,CA,0
-1987-12-22,Christina Meier,DE,0
-1987-12-22,Vreni Schneider,CH,2
-1987-12-22,Deborah Compagnoni,IT,2
-1987-12-22,Sylvia Eder,AT,3
-1987-12-22,Roswitha Steiner,AT,4
-1987-12-22,Sigrid Wolf,AT,6
-1987-12-22,Heidi Zeller - Baehler,CH,7
-1987-12-22,Ulrike Maier,AT,8
-1987-12-22,Anita Wachter,AT,5
-1987-12-22,Ida Ladstaetter,AT,9
-1987-12-22,Maria Walliser,CH,10
-1987-12-22,Corinne Schmidhauser,CH,20
-1987-12-22,Camilla Nilsson,SE,11
-1987-12-22,Michela Figini,CH,15
-1987-12-22,Christa Kinshofer,DE,12
-1988-03-27,Michela Figini,CH,23
-1988-03-27,Deborah Compagnoni,IT,2
-1988-03-27,Heidi Zeller - Baehler,CH,7
-1988-03-27,Maria Walliser,CH,10
-1988-03-27,Camilla Nilsson,SE,11
-1988-03-27,Christa Kinshofer,DE,12
-1988-03-27,Christina Meier,DE,25
-1988-03-27,Ulrike Maier,AT,28
-1988-03-27,Roswitha Steiner,AT,19
-1988-03-27,Ida Ladstaetter,AT,11
-1988-03-27,Brigitte Oertli,CH,37
-1988-03-27,Sigrid Wolf,AT,9
-1988-03-27,Kerrin Lee- Gartner,CA,11
-1988-03-27,Carole Merle,FR,4
-1988-03-27,Sylvia Eder,AT,8
-1988-03-27,Vreni Schneider,CH,2
-1988-03-27,Marina Kiehl,DE,6
-1988-03-27,Elisabeth Kirchler,AT,10
-1988-03-27,Corinne Schmidhauser,CH,27
-1988-03-27,Anita Wachter,AT,14
-1988-03-27,Mateja Svet,SK,1
+date,name,ath_country,value,specialty
+1987-12-22,Brigitte Oertli,CH,25,Downhill
+1987-12-22,Sigrid Wolf,AT,6,Downhill
+1987-12-22,Ida Ladstaetter,AT,9,Slalom
+1987-12-22,Elisabeth Kirchler,AT,0,Downhill
+1987-12-22,Mateja Svet,SK,0,Giant Slalom
+1987-12-22,Maria Walliser,CH,10,Downhill
+1987-12-22,Kerrin Lee- Gartner,CA,0,Downhill
+1987-12-22,Marina Kiehl,DE,0,Downhill
+1987-12-22,Camilla Nilsson,SE,11,Slalom
+1987-12-22,Anita Wachter,AT,5,Slalom
+1987-12-22,Christa Kinshofer,DE,12,Slalom
+1987-12-22,Sylvia Eder,AT,3,Super G
+1987-12-22,Carole Merle,FR,0,Giant Slalom
+1987-12-22,Michela Figini,CH,15,Downhill
+1987-12-22,Ulrike Maier,AT,8,Slalom
+1987-12-22,Deborah Compagnoni,IT,2,Downhill
+1987-12-22,Corinne Schmidhauser,CH,20,Slalom
+1987-12-22,Christina Meier,DE,0,Giant Slalom
+1987-12-22,Vreni Schneider,CH,2,Slalom
+1987-12-22,Roswitha Steiner,AT,4,Slalom
+1987-12-22,Heidi Zeller - Baehler,CH,7,Downhill
+1988-03-27,Carole Merle,FR,4,Giant Slalom
+1988-03-27,Sylvia Eder,AT,8,Super G
+1988-03-27,Deborah Compagnoni,IT,2,Downhill
+1988-03-27,Marina Kiehl,DE,6,Downhill
+1988-03-27,Sigrid Wolf,AT,9,Downhill
+1988-03-27,Vreni Schneider,CH,2,Slalom
+1988-03-27,Elisabeth Kirchler,AT,10,Downhill
+1988-03-27,Anita Wachter,AT,14,Slalom
+1988-03-27,Ida Ladstaetter,AT,11,Slalom
+1988-03-27,Maria Walliser,CH,10,Downhill
+1988-03-27,Kerrin Lee- Gartner,CA,11,Downhill
+1988-03-27,Camilla Nilsson,SE,11,Slalom
+1988-03-27,Christa Kinshofer,DE,12,Slalom
+1988-03-27,Roswitha Steiner,AT,19,Slalom
+1988-03-27,Michela Figini,CH,23,Downhill
+1988-03-27,Ulrike Maier,AT,28,Slalom
+1988-03-27,Corinne Schmidhauser,CH,27,Slalom
+1988-03-27,Christina Meier,DE,25,Giant Slalom
+1988-03-27,Brigitte Oertli,CH,37,Downhill
+1988-03-27,Heidi Zeller - Baehler,CH,7,Downhill
+1988-03-27,Mateja Svet,SK,1,Giant Slalom

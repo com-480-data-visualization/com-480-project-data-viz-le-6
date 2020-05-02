@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1980-03-16,Annemarie Proell,AT,25
-1980-03-16,Claudia Giordani,IT,20
-1980-03-16,Maria Epple,DE,15
-1980-03-16,Christa Kinshofer,DE,12
-1980-03-16,Lea Soelkner,AT,11
-1980-03-16,Erika Hess,CH,10
-1980-03-16,Abbi Fisher,US,9
-1980-03-16,Perrine Pelen,FR,8
-1980-03-16,Irene Epple,DE,7
-1980-03-16,Regina Sackl,AT,6
-1980-03-16,Christin Cooper,US,5
-1980-03-16,Heidi Preuss,US,4
-1980-03-16,Tamara McKinney,US,3
-1980-03-16,Ingrid Eberle,AT,2
-1980-03-16,Hanni Wenzel,LI,1
+date,name,ath_country,value,specialty
+1980-03-16,Annemarie Proell,AT,25,Downhill
+1980-03-16,Claudia Giordani,IT,20,Slalom
+1980-03-16,Maria Epple,DE,15,Giant Slalom
+1980-03-16,Christa Kinshofer,DE,12,Giant Slalom
+1980-03-16,Lea Soelkner,AT,11,Slalom
+1980-03-16,Erika Hess,CH,10,Giant Slalom
+1980-03-16,Abbi Fisher,US,9,Slalom
+1980-03-16,Perrine Pelen,FR,8,Slalom
+1980-03-16,Irene Epple,DE,7,Giant Slalom
+1980-03-16,Regina Sackl,AT,6,Slalom
+1980-03-16,Christin Cooper,US,5,Giant Slalom
+1980-03-16,Heidi Preuss,US,4,Downhill
+1980-03-16,Tamara McKinney,US,3,Slalom
+1980-03-16,Ingrid Eberle,AT,2,Slalom
+1980-03-16,Hanni Wenzel,LI,1,Giant Slalom

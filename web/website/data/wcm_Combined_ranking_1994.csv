@@ -1,33 +1,33 @@
-date,name,ath_country,value
-1994-01-16,Lasse Kjus,NO,100
-1994-01-16,Ed Podivinsky,CA,0
-1994-01-16,Lasse Arnesen,NO,0
-1994-01-16,Roman Torn,CA,29
-1994-01-16,Willy Raine,CA,0
-1994-01-16,Kristian Ghedina,IT,32
-1994-01-16,Markus Wasmeier,DE,0
-1994-01-16,Janne Leskinen,FI,36
-1994-01-16,Craig Thrasher,US,0
-1994-01-16,Atle Skaardal,NO,0
-1994-01-16,Marcel Sulliger,CH,40
-1994-01-16,Harald Chr. Strand Nilsen,NO,45
-1994-01-16,Tommy Moe,US,50
-1994-01-16,Guenther Mader,AT,60
-1994-01-16,Kjetil Andre Aamodt,NO,80
-1994-01-16,Steve Locher,CH,0
-1994-01-30,Roman Torn,CA,29
-1994-01-30,Guenther Mader,AT,82
-1994-01-30,Kristian Ghedina,IT,52
-1994-01-30,Willy Raine,CA,26
-1994-01-30,Janne Leskinen,FI,36
-1994-01-30,Marcel Sulliger,CH,72
-1994-01-30,Markus Wasmeier,DE,24
-1994-01-30,Steve Locher,CH,36
-1994-01-30,Atle Skaardal,NO,40
-1994-01-30,Ed Podivinsky,CA,45
-1994-01-30,Tommy Moe,US,100
-1994-01-30,Harald Chr. Strand Nilsen,NO,105
-1994-01-30,Lasse Kjus,NO,180
-1994-01-30,Kjetil Andre Aamodt,NO,180
-1994-01-30,Lasse Arnesen,NO,29
-1994-01-30,Craig Thrasher,US,18
+date,name,ath_country,value,specialty
+1994-01-16,Lasse Kjus,NO,100,Super G
+1994-01-16,Markus Wasmeier,DE,0,Super G
+1994-01-16,Willy Raine,CA,0,Combined
+1994-01-16,Lasse Arnesen,NO,0,Super G
+1994-01-16,Roman Torn,CA,29,Combined
+1994-01-16,Kristian Ghedina,IT,32,Downhill
+1994-01-16,Steve Locher,CH,0,Giant Slalom
+1994-01-16,Janne Leskinen,FI,36,Combined
+1994-01-16,Craig Thrasher,US,0,Combined
+1994-01-16,Marcel Sulliger,CH,40,Combined
+1994-01-16,Ed Podivinsky,CA,0,Downhill
+1994-01-16,Atle Skaardal,NO,0,Downhill
+1994-01-16,Tommy Moe,US,50,Downhill
+1994-01-16,Harald Chr. Strand Nilsen,NO,45,Combined
+1994-01-16,Kjetil Andre Aamodt,NO,80,Giant Slalom
+1994-01-16,Guenther Mader,AT,60,Giant Slalom
+1994-01-30,Tommy Moe,US,100,Downhill
+1994-01-30,Markus Wasmeier,DE,24,Super G
+1994-01-30,Lasse Kjus,NO,180,Super G
+1994-01-30,Willy Raine,CA,26,Combined
+1994-01-30,Kjetil Andre Aamodt,NO,180,Giant Slalom
+1994-01-30,Lasse Arnesen,NO,29,Super G
+1994-01-30,Roman Torn,CA,29,Combined
+1994-01-30,Kristian Ghedina,IT,52,Downhill
+1994-01-30,Guenther Mader,AT,82,Giant Slalom
+1994-01-30,Harald Chr. Strand Nilsen,NO,105,Combined
+1994-01-30,Steve Locher,CH,36,Giant Slalom
+1994-01-30,Janne Leskinen,FI,36,Combined
+1994-01-30,Atle Skaardal,NO,40,Downhill
+1994-01-30,Marcel Sulliger,CH,72,Combined
+1994-01-30,Ed Podivinsky,CA,45,Downhill
+1994-01-30,Craig Thrasher,US,18,Combined

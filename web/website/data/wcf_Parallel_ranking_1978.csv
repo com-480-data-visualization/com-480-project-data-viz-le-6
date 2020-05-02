@@ -1,11 +1,11 @@
-date,name,ath_country,value
-1978-03-19,Annemarie Proell,AT,25
-1978-03-19,Christa Zechmeister,DE,20
-1978-03-19,Wiki Fleckenstein,US,15
-1978-03-19,Fabienne Serrat,FR,11
-1978-03-19,Ingrid Eberle,AT,8
-1978-03-19,Irene Epple,DE,6
-1978-03-19,Hanni Wenzel,LI,4
-1978-03-19,Christin Cooper,US,3
-1978-03-19,Perrine Pelen,FR,2
-1978-03-19,Erika Hess,CH,1
+date,name,ath_country,value,specialty
+1978-03-19,Annemarie Proell,AT,25,Downhill
+1978-03-19,Christa Zechmeister,DE,20,Parallel
+1978-03-19,Wiki Fleckenstein,US,15,Parallel
+1978-03-19,Fabienne Serrat,FR,11,Slalom
+1978-03-19,Ingrid Eberle,AT,8,Downhill
+1978-03-19,Irene Epple,DE,6,Downhill
+1978-03-19,Hanni Wenzel,LI,4,Slalom
+1978-03-19,Christin Cooper,US,3,Slalom
+1978-03-19,Perrine Pelen,FR,2,Slalom
+1978-03-19,Erika Hess,CH,1,Slalom

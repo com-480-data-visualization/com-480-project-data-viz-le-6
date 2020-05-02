@@ -1,502 +1,502 @@
-date,name,ath_country,value
-2001-12-07,Stephan Eberharter,AT,100
-2001-12-07,Yasuyuki Takishita,JP,0
-2001-12-07,Borek Zakouril,CZ,0
-2001-12-07,Andreas Schifferer,AT,14
-2001-12-07,Klaus Kroell,AT,0
-2001-12-07,Christian Greber,AT,0
-2001-12-07,Manuel Carrozza,IT,0
-2001-12-07,Hannes Trinkl,AT,0
-2001-12-07,Tobias Gruenenfelder,CH,0
-2001-12-07,Alessandro Fattori,IT,15
-2001-12-07,Max Rauffer,DE,0
-2001-12-07,Christophe Saioni,FR,0
-2001-12-07,Michael Gufler,IT,0
-2001-12-07,Freddy Rech,FR,0
-2001-12-07,Konrad Hari,CH,0
-2001-12-07,Patrik Jaerbyn,SE,16
-2001-12-07,Jeff Hume,CA,0
-2001-12-07,Wisi Betschart,US,0
-2001-12-07,Brett Fischer,US,0
-2001-12-07,Michael Riegler,LI,0
-2001-12-07,Andrej Filischkin,RU,0
-2001-12-07,Peter Rzehak,AT,18
-2001-12-07,Antoine Deneriaz,FR,0
-2001-12-07,Kurt Sulzenbacher,IT,0
-2001-12-07,Primoz Skerbinek,SK,0
-2001-12-07,Luca Cattaneo,IT,0
-2001-12-07,Johnny Albertsen,DK,0
-2001-12-07,Lasse Kjus,NO,20
-2001-12-07,Beni Hofer,CH,0
-2001-12-07,Peter Fill,IT,0
-2001-12-07,Marco Sullivan,US,0
-2001-12-07,Stefan Stankalla,DE,0
-2001-12-07,Erik Seletto,IT,0
-2001-12-07,Hannes Reichelt,AT,0
-2001-12-07,Audun Groenvold,NO,5
-2001-12-07,Jeff Piccard,FR,4
-2001-12-07,Marc Bottollier,FR,3
-2001-12-07,Kenneth Sivertsen,NO,8
-2001-12-07,Patrick Staudacher,IT,2
-2001-12-07,Lasse Paulsen,NO,9
-2001-12-07,Stein Kristian Strand,NO,1
-2001-12-07,Christoph Alster,AT,0
-2001-12-07,Simon Bastelica,FR,0
-2001-12-07,Matteo Berbenni,IT,0
-2001-12-07,Craig Branch,AU,0
-2001-12-07,Franco Cavegn,CH,0
-2001-12-07,Kristian Ghedina,IT,10
-2001-12-07,Claude Cretier,FR,0
-2001-12-07,Daron Rahlves,US,7
-2001-12-07,Jakub Fiala,US,0
-2001-12-07,Juergen Hasler,LI,0
-2001-12-07,Patrick Holzer,IT,0
-2001-12-07,Steve Locher,CH,11
-2001-12-07,Norbert Holzknecht,AT,0
-2001-12-07,Hans Knauss,AT,0
-2001-12-07,Jernej Koblar,SK,0
-2001-12-07,Patrice Manuel,FR,0
-2001-12-07,Darin McBeath,CA,0
-2001-12-07,Kjetil Andre Aamodt,NO,12
-2001-12-07,Finlay Mickel,GB,0
-2001-12-07,Bode Miller,US,0
-2001-12-07,Sebastien Missillier,FR,0
-2001-12-07,Ryan Oughtred,CA,0
-2001-12-07,Sebastien Fournier-Bidoz,FR,13
-2001-12-07,Thorsten Goetze,DE,0
-2001-12-07,Bjarne Solbakken,NO,22
-2001-12-07,Benjamin Raich,AT,0
-2001-12-07,Pierre Emmanuel Dalcin,FR,40
-2001-12-07,Didier Cuche,CH,80
-2001-12-07,Silvano Beltrametti,CH,60
-2001-12-07,Christoph Gruber,AT,50
-2001-12-07,Fritz Strobl,AT,45
-2001-12-07,Fredrik Nyberg,SE,36
-2001-12-07,Marco Buechel,LI,32
-2001-12-07,Didier Defago,CH,29
-2001-12-07,Stephan Goergl,AT,26
-2001-12-07,Josef Strobl,AT,6
-2001-12-07,Paul Accola,CH,24
-2002-01-18,Charlie Bergendahl,SE,0
-2002-01-18,Tobias Gruenenfelder,CH,0
-2002-01-18,Max Rauffer,DE,0
-2002-01-18,Christophe Saioni,FR,0
-2002-01-18,Michael Gufler,IT,0
-2002-01-18,Josef Strobl,AT,6
-2002-01-18,Freddy Rech,FR,0
-2002-01-18,Konrad Hari,CH,0
-2002-01-18,Jeff Hume,CA,0
-2002-01-18,Wisi Betschart,US,0
-2002-01-18,Brett Fischer,US,0
-2002-01-18,Sebastien Fournier-Bidoz,FR,13
-2002-01-18,Michael Riegler,LI,0
-2002-01-18,Hannes Trinkl,AT,0
-2002-01-18,Andrej Filischkin,RU,0
-2002-01-18,Kurt Sulzenbacher,IT,0
-2002-01-18,Primoz Skerbinek,SK,0
-2002-01-18,Silvano Beltrametti,CH,60
-2002-01-18,Erik Seletto,IT,2
-2002-01-18,Lasse Paulsen,NO,11
-2002-01-18,Luca Cattaneo,IT,0
-2002-01-18,Juergen Hasler,LI,3
-2002-01-18,Johnny Albertsen,DK,0
-2002-01-18,Beni Hofer,CH,0
-2002-01-18,Andrej Jerman,SK,4
-2002-01-18,Peter Fill,IT,0
-2002-01-18,Kenneth Sivertsen,NO,13
-2002-01-18,Benjamin Raich,AT,0
-2002-01-18,Antoine Deneriaz,FR,0
-2002-01-18,Jeff Piccard,FR,4
-2002-01-18,Borek Zakouril,CZ,0
-2002-01-18,Yasuyuki Takishita,JP,0
-2002-01-18,Gregor Sparovec,SK,0
-2002-01-18,Thomas Vonn,US,0
-2002-01-18,Pavel Chestakov,RU,0
-2002-01-18,AJ Bear,AU,0
-2002-01-18,P Casey Puckett,US,0
-2002-01-18,Markus Herrmann,CH,0
-2002-01-18,Enis Becirbegovic,BA,0
-2002-01-18,Stein Kristian Strand,NO,1
-2002-01-18,Christian Prassberger,DE,0
-2002-01-18,Peter Pen,SK,0
-2002-01-18,Ivan Heimschild,SK,0
-2002-01-18,Christoph Alster,AT,0
-2002-01-18,Simon Bastelica,FR,0
-2002-01-18,Chad Fleischer,US,0
-2002-01-18,Patrick Staudacher,IT,2
-2002-01-18,Craig Branch,AU,0
-2002-01-18,Claude Cretier,FR,0
-2002-01-18,Thorsten Goetze,DE,0
-2002-01-18,Patrick Holzer,IT,0
-2002-01-18,Norbert Holzknecht,AT,0
-2002-01-18,Finlay Mickel,GB,0
-2002-01-18,Bode Miller,US,0
-2002-01-18,Sebastien Missillier,FR,0
-2002-01-18,Ryan Oughtred,CA,0
-2002-01-18,Peter Rzehak,AT,18
-2002-01-18,Hannes Reichelt,AT,0
-2002-01-18,Stefan Stankalla,DE,0
-2002-01-18,Marco Sullivan,US,0
-2002-01-18,Matteo Berbenni,IT,0
-2002-01-18,Didier Defago,CH,29
-2002-01-18,Darin McBeath,CA,0
-2002-01-18,Bjarne Solbakken,NO,42
-2002-01-18,Didier Cuche,CH,140
-2002-01-18,Daron Rahlves,US,57
-2002-01-18,Lasse Kjus,NO,65
-2002-01-18,Ambrosi Hoffmann,CH,11
-2002-01-18,Christoph Gruber,AT,90
-2002-01-18,Christian Greber,AT,12
-2002-01-18,Fredrik Nyberg,SE,72
-2002-01-18,Franco Cavegn,CH,14
-2002-01-18,Stephan Goergl,AT,35
-2002-01-18,Kristian Ghedina,IT,24
-2002-01-18,Bruno Kernen,CH,7
-2002-01-18,Marco Buechel,LI,47
-2002-01-18,Hans Knauss,AT,29
-2002-01-18,Klaus Kroell,AT,26
-2002-01-18,Pierre Emmanuel Dalcin,FR,56
-2002-01-18,Andreas Schifferer,AT,38
-2002-01-18,Fritz Strobl,AT,67
-2002-01-18,Paul Accola,CH,42
-2002-01-18,Kjetil Andre Aamodt,NO,44
-2002-01-18,Alessandro Fattori,IT,95
-2002-01-18,Roland Fischnaller,IT,10
-2002-01-18,Steve Locher,CH,18
-2002-01-18,Marc Bottollier,FR,11
-2002-01-18,Stephan Eberharter,AT,200
-2002-01-26,Norbert Holzknecht,AT,0
-2002-01-26,Johnny Albertsen,DK,0
-2002-01-26,Beni Hofer,CH,0
-2002-01-26,Peter Fill,IT,0
-2002-01-26,Vincent Millet,FR,0
-2002-01-26,Fredrik Nyberg,SE,108
-2002-01-26,Pavel Chestakov,RU,0
-2002-01-26,P Casey Puckett,US,0
-2002-01-26,Benjamin Raich,AT,0
-2002-01-26,Markus Herrmann,CH,0
-2002-01-26,Hans Knauss,AT,61
-2002-01-26,Enis Becirbegovic,BA,0
-2002-01-26,Luca Cattaneo,IT,0
-2002-01-26,Christian Prassberger,DE,0
-2002-01-26,Daron Rahlves,US,86
-2002-01-26,Peter Pen,SK,0
-2002-01-26,Christoph Gruber,AT,116
-2002-01-26,Ivan Heimschild,SK,0
-2002-01-26,Hannes Trinkl,AT,24
-2002-01-26,Simon Bastelica,FR,0
-2002-01-26,Pierre Emmanuel Dalcin,FR,78
-2002-01-26,Matteo Berbenni,IT,0
-2002-01-26,Rolf von Weissenfluh,CH,0
-2002-01-26,Primoz Skerbinek,SK,0
-2002-01-26,Kjetil Andre Aamodt,NO,84
-2002-01-26,Chad Fleischer,US,0
-2002-01-26,Thorsten Goetze,DE,0
-2002-01-26,Didier Cuche,CH,220
-2002-01-26,Fritz Strobl,AT,167
-2002-01-26,Darin McBeath,CA,0
-2002-01-26,Finlay Mickel,GB,0
-2002-01-26,Bode Miller,US,0
-2002-01-26,Stephan Eberharter,AT,260
-2002-01-26,Hannes Reichelt,AT,0
-2002-01-26,Stefan Stankalla,DE,0
-2002-01-26,Marco Sullivan,US,0
-2002-01-26,Patrick Holzer,IT,0
-2002-01-26,Andreas Schifferer,AT,88
-2002-01-26,Craig Branch,AU,0
-2002-01-26,Borek Zakouril,CZ,0
-2002-01-26,Manuel Carrozza,IT,0
-2002-01-26,Silvano Beltrametti,CH,60
-2002-01-26,Didier Defago,CH,74
-2002-01-26,Josef Strobl,AT,6
-2002-01-26,Andrej Filischkin,RU,0
-2002-01-26,Antoine Deneriaz,FR,0
-2002-01-26,Kurt Sulzenbacher,IT,0
-2002-01-26,Audun Groenvold,NO,5
-2002-01-26,Yasuyuki Takishita,JP,0
-2002-01-26,Christian Greber,AT,32
-2002-01-26,Alessandro Fattori,IT,102
-2002-01-26,Franco Cavegn,CH,14
-2002-01-26,Lasse Kjus,NO,80
-2002-01-26,Christophe Saioni,FR,11
-2002-01-26,Jernej Koblar,SK,3
-2002-01-26,Max Rauffer,DE,14
-2002-01-26,Christoph Alster,AT,4
-2002-01-26,Tobias Gruenenfelder,CH,16
-2002-01-26,Paul Accola,CH,50
-2002-01-26,Patrick Staudacher,IT,3
-2002-01-26,Bjarne Solbakken,NO,44
-2002-01-26,Kristian Ghedina,IT,37
-2002-01-26,Patrik Jaerbyn,SE,25
-2002-01-26,Kenneth Sivertsen,NO,25
-2002-01-26,Stephan Goergl,AT,53
-2002-01-26,Michael Gufler,IT,6
-2002-01-26,Klaus Kroell,AT,36
-2002-01-26,Sebastien Fournier-Bidoz,FR,18
-2002-01-27,Stefan Stankalla,DE,0
-2002-01-27,Erik Seletto,IT,2
-2002-01-27,Hannes Reichelt,AT,0
-2002-01-27,Yasuyuki Takishita,JP,0
-2002-01-27,Borek Zakouril,CZ,0
-2002-01-27,Ryan Oughtred,CA,0
-2002-01-27,Manuel Carrozza,IT,0
-2002-01-27,Sebastien Missillier,FR,0
-2002-01-27,Marco Sullivan,US,0
-2002-01-27,Freddy Rech,FR,0
-2002-01-27,Michael Gufler,IT,6
-2002-01-27,Konrad Hari,CH,0
-2002-01-27,Jeff Hume,CA,0
-2002-01-27,Wisi Betschart,US,0
-2002-01-27,Brett Fischer,US,0
-2002-01-27,Michael Riegler,LI,0
-2002-01-27,Andrej Filischkin,RU,0
-2002-01-27,Kurt Sulzenbacher,IT,0
-2002-01-27,Primoz Skerbinek,SK,0
-2002-01-27,Luca Cattaneo,IT,0
-2002-01-27,Johnny Albertsen,DK,0
-2002-01-27,Beni Hofer,CH,0
-2002-01-27,Peter Fill,IT,0
-2002-01-27,Benjamin Raich,AT,0
-2002-01-27,Tobias Gruenenfelder,CH,16
-2002-01-27,Bode Miller,US,0
-2002-01-27,Bruno Kernen,CH,7
-2002-01-27,Darin McBeath,CA,0
-2002-01-27,Scott Macartney,US,0
-2002-01-27,Stein Kristian Strand,NO,1
-2002-01-27,Thomas Vonn,US,0
-2002-01-27,Chad Fleischer,US,0
-2002-01-27,Charlie Bergendahl,SE,0
-2002-01-27,Enis Becirbegovic,BA,0
-2002-01-27,Patrick Staudacher,IT,3
-2002-01-27,Rolf von Weissenfluh,CH,0
-2002-01-27,Vincent Millet,FR,0
-2002-01-27,Markus Herrmann,CH,0
-2002-01-27,Gregor Sparovec,SK,0
-2002-01-27,Pavel Chestakov,RU,0
-2002-01-27,Andrej Jerman,SK,4
-2002-01-27,P Casey Puckett,US,0
-2002-01-27,Roland Fischnaller,IT,10
-2002-01-27,Audun Groenvold,NO,5
-2002-01-27,Josef Strobl,AT,6
-2002-01-27,Christian Prassberger,DE,0
-2002-01-27,AJ Bear,AU,0
-2002-01-27,Norbert Holzknecht,AT,0
-2002-01-27,Patrick Holzer,IT,0
-2002-01-27,Juergen Hasler,LI,3
-2002-01-27,Thorsten Goetze,DE,0
-2002-01-27,Jakub Fiala,US,0
-2002-01-27,Craig Branch,AU,0
-2002-01-27,Matteo Berbenni,IT,0
-2002-01-27,Simon Bastelica,FR,0
-2002-01-27,Silvano Beltrametti,CH,60
-2002-01-27,Christoph Alster,AT,4
-2002-01-27,Ivan Heimschild,SK,0
-2002-01-27,Bjarne Solbakken,NO,44
-2002-01-27,Sebastien Fournier-Bidoz,FR,18
-2002-01-27,Peter Pen,SK,0
-2002-01-27,Finlay Mickel,GB,0
-2002-01-27,Patrice Manuel,FR,0
-2002-01-27,Peter Rzehak,AT,18
-2002-01-27,Hannes Trinkl,AT,34
-2002-01-27,Daron Rahlves,US,110
-2002-01-27,Steve Locher,CH,29
-2002-01-27,Hans Knauss,AT,87
-2002-01-27,Christian Greber,AT,52
-2002-01-27,Ambrosi Hoffmann,CH,24
-2002-01-27,Christoph Gruber,AT,145
-2002-01-27,Patrik Jaerbyn,SE,40
-2002-01-27,Christophe Saioni,FR,21
-2002-01-27,Alessandro Fattori,IT,134
-2002-01-27,Claude Cretier,FR,5
-2002-01-27,Lasse Kjus,NO,116
-2002-01-27,Paul Accola,CH,68
-2002-01-27,Kristian Ghedina,IT,38
-2002-01-27,Marco Buechel,LI,59
-2002-01-27,Pierre Emmanuel Dalcin,FR,100
-2002-01-27,Fredrik Nyberg,SE,148
-2002-01-27,Kenneth Sivertsen,NO,31
-2002-01-27,Didier Cuche,CH,300
-2002-01-27,Didier Defago,CH,82
-2002-01-27,Klaus Kroell,AT,40
-2002-01-27,Andreas Schifferer,AT,148
-2002-01-27,Jernej Koblar,SK,10
-2002-01-27,Stephan Goergl,AT,67
-2002-01-27,Marc Bottollier,FR,14
-2002-01-27,Stephan Eberharter,AT,360
-2002-01-27,Kjetil Andre Aamodt,NO,129
-2002-01-27,Max Rauffer,DE,30
-2002-01-27,Lasse Paulsen,NO,13
-2002-01-27,Fritz Strobl,AT,217
-2002-03-03,Rolf von Weissenfluh,CH,0
-2002-03-03,P Casey Puckett,US,0
-2002-03-03,AJ Bear,AU,0
-2002-03-03,Markus Herrmann,CH,0
-2002-03-03,Alessandro Fattori,IT,234
-2002-03-03,Vincent Millet,FR,0
-2002-03-03,Roland Fischnaller,IT,10
-2002-03-03,Chad Fleischer,US,0
-2002-03-03,Patrick Staudacher,IT,3
-2002-03-03,Audun Groenvold,NO,5
-2002-03-03,Josef Strobl,AT,6
-2002-03-03,Bjarne Solbakken,NO,44
-2002-03-03,Pierre Emmanuel Dalcin,FR,100
-2002-03-03,Silvano Beltrametti,CH,60
-2002-03-03,Bruno Kernen,CH,14
-2002-03-03,Pavel Chestakov,RU,0
-2002-03-03,Enis Becirbegovic,BA,0
-2002-03-03,Craig Branch,AU,0
-2002-03-03,Christian Prassberger,DE,0
-2002-03-03,Benjamin Raich,AT,0
-2002-03-03,Peter Fill,IT,0
-2002-03-03,Beni Hofer,CH,0
-2002-03-03,Johnny Albertsen,DK,0
-2002-03-03,Andrej Filischkin,RU,0
-2002-03-03,Michael Riegler,LI,0
-2002-03-03,Brett Fischer,US,0
-2002-03-03,Wisi Betschart,US,0
-2002-03-03,Jeff Hume,CA,0
-2002-03-03,Konrad Hari,CH,0
-2002-03-03,Michael Gufler,IT,6
-2002-03-03,Manuel Carrozza,IT,0
-2002-03-03,Borek Zakouril,CZ,0
-2002-03-03,Yasuyuki Takishita,JP,0
-2002-03-03,Marco Sullivan,US,0
-2002-03-03,Stefan Stankalla,DE,0
-2002-03-03,Hannes Reichelt,AT,0
-2002-03-03,Ryan Oughtred,CA,0
-2002-03-03,Finlay Mickel,GB,0
-2002-03-03,Darin McBeath,CA,0
-2002-03-03,Patrice Manuel,FR,0
-2002-03-03,Norbert Holzknecht,AT,0
-2002-03-03,Patrick Holzer,IT,0
-2002-03-03,Thorsten Goetze,DE,0
-2002-03-03,Jakub Fiala,US,0
-2002-03-03,Matteo Berbenni,IT,0
-2002-03-03,Simon Bastelica,FR,0
-2002-03-03,Scott Macartney,US,0
-2002-03-03,Hannes Trinkl,AT,40
-2002-03-03,Ivan Heimschild,SK,0
-2002-03-03,Daron Rahlves,US,118
-2002-03-03,Didier Defago,CH,162
-2002-03-03,Stephan Eberharter,AT,420
-2002-03-03,Kristian Ghedina,IT,88
-2002-03-03,Kjetil Andre Aamodt,NO,174
-2002-03-03,Lasse Kjus,NO,156
-2002-03-03,Andreas Schifferer,AT,188
-2002-03-03,Fritz Strobl,AT,246
-2002-03-03,Didier Cuche,CH,326
-2002-03-03,Hans Knauss,AT,111
-2002-03-03,Ambrosi Hoffmann,CH,46
-2002-03-03,Christian Greber,AT,72
-2002-03-03,Lasse Paulsen,NO,31
-2002-03-03,Christoph Gruber,AT,161
-2002-03-03,Patrik Jaerbyn,SE,55
-2002-03-03,Stephan Goergl,AT,81
-2002-03-03,Tobias Gruenenfelder,CH,48
-2002-03-03,Christophe Saioni,FR,25
-2002-03-03,Claude Cretier,FR,18
-2002-03-03,Klaus Kroell,AT,43
-2002-03-03,Peter Rzehak,AT,27
-2002-03-03,Bode Miller,US,2
-2002-03-03,Sebastien Fournier-Bidoz,FR,19
-2002-03-03,Fredrik Nyberg,SE,158
-2002-03-03,Paul Accola,CH,73
-2002-03-03,Marc Bottollier,FR,26
-2002-03-03,Thomas Vonn,US,11
-2002-03-07,Ivan Heimschild,SK,0
-2002-03-07,Finlay Mickel,GB,0
-2002-03-07,Rolf von Weissenfluh,CH,0
-2002-03-07,Darin McBeath,CA,0
-2002-03-07,Patrice Manuel,FR,0
-2002-03-07,Jernej Koblar,SK,10
-2002-03-07,Enis Becirbegovic,BA,0
-2002-03-07,Norbert Holzknecht,AT,0
-2002-03-07,Patrick Holzer,IT,0
-2002-03-07,Juergen Hasler,LI,3
-2002-03-07,Thorsten Goetze,DE,0
-2002-03-07,Scott Macartney,US,0
-2002-03-07,Claude Cretier,FR,18
-2002-03-07,Sebastien Missillier,FR,0
-2002-03-07,Craig Branch,AU,0
-2002-03-07,Matteo Berbenni,IT,0
-2002-03-07,Christian Prassberger,DE,0
-2002-03-07,Peter Pen,SK,0
-2002-03-07,Simon Bastelica,FR,0
-2002-03-07,Christoph Alster,AT,4
-2002-03-07,Jakub Fiala,US,0
-2002-03-07,Franco Cavegn,CH,14
-2002-03-07,Brett Fischer,US,0
-2002-03-07,Luca Cattaneo,IT,0
-2002-03-07,Michael Riegler,LI,0
-2002-03-07,Wisi Betschart,US,0
-2002-03-07,Jeff Hume,CA,0
-2002-03-07,Andrej Filischkin,RU,0
-2002-03-07,Konrad Hari,CH,0
-2002-03-07,Freddy Rech,FR,0
-2002-03-07,Antoine Deneriaz,FR,0
-2002-03-07,Michael Gufler,IT,6
-2002-03-07,Christophe Saioni,FR,25
-2002-03-07,Max Rauffer,DE,30
-2002-03-07,Kurt Sulzenbacher,IT,0
-2002-03-07,Manuel Carrozza,IT,0
-2002-03-07,Klaus Kroell,AT,43
-2002-03-07,Markus Herrmann,CH,0
-2002-03-07,Borek Zakouril,CZ,0
-2002-03-07,Yasuyuki Takishita,JP,0
-2002-03-07,Marco Sullivan,US,0
-2002-03-07,Stefan Stankalla,DE,0
-2002-03-07,Primoz Skerbinek,SK,0
-2002-03-07,Erik Seletto,IT,2
-2002-03-07,Hannes Reichelt,AT,0
-2002-03-07,Ryan Oughtred,CA,0
-2002-03-07,P Casey Puckett,US,0
-2002-03-07,Jeff Piccard,FR,4
-2002-03-07,AJ Bear,AU,0
-2002-03-07,Stephan Eberharter,AT,470
-2002-03-07,Hans Knauss,AT,156
-2002-03-07,Johnny Albertsen,DK,0
-2002-03-07,Didier Defago,CH,202
-2002-03-07,Kjetil Andre Aamodt,NO,210
-2002-03-07,Christoph Gruber,AT,193
-2002-03-07,Tobias Gruenenfelder,CH,77
-2002-03-07,Andreas Schifferer,AT,214
-2002-03-07,Ambrosi Hoffmann,CH,72
-2002-03-07,Peter Fill,IT,22
-2002-03-07,Lasse Kjus,NO,176
-2002-03-07,Paul Accola,CH,91
-2002-03-07,Patrik Jaerbyn,SE,71
-2002-03-07,Daron Rahlves,US,133
-2002-03-07,Stephan Goergl,AT,95
-2002-03-07,Marco Buechel,LI,72
-2002-03-07,Fredrik Nyberg,SE,170
-2002-03-07,Christian Greber,AT,83
-2002-03-07,Benjamin Raich,AT,10
-2002-03-07,Bode Miller,US,11
-2002-03-07,Hannes Trinkl,AT,47
-2002-03-07,Alessandro Fattori,IT,294
-2002-03-07,Bruno Kernen,CH,14
-2002-03-07,Fritz Strobl,AT,326
-2002-03-07,Silvano Beltrametti,CH,60
-2002-03-07,Andrej Jerman,SK,4
-2002-03-07,Pavel Chestakov,RU,0
-2002-03-07,Gregor Sparovec,SK,0
-2002-03-07,Vincent Millet,FR,0
-2002-03-07,Roland Fischnaller,IT,10
-2002-03-07,Charlie Bergendahl,SE,0
-2002-03-07,Chad Fleischer,US,0
-2002-03-07,Thomas Vonn,US,11
-2002-03-07,Stein Kristian Strand,NO,1
-2002-03-07,Patrick Staudacher,IT,3
-2002-03-07,Marc Bottollier,FR,26
-2002-03-07,Kristian Ghedina,IT,96
-2002-03-07,Audun Groenvold,NO,5
-2002-03-07,Josef Strobl,AT,6
-2002-03-07,Kenneth Sivertsen,NO,31
-2002-03-07,Lasse Paulsen,NO,31
-2002-03-07,Steve Locher,CH,29
-2002-03-07,Sebastien Fournier-Bidoz,FR,19
-2002-03-07,Peter Rzehak,AT,27
-2002-03-07,Bjarne Solbakken,NO,44
-2002-03-07,Pierre Emmanuel Dalcin,FR,100
-2002-03-07,Didier Cuche,CH,426
-2002-03-07,Beni Hofer,CH,0
+date,name,ath_country,value,specialty
+2001-12-07,Stephan Eberharter,AT,100,Downhill
+2001-12-07,Johnny Albertsen,DK,0,Combined
+2001-12-07,Sebastien Fournier-Bidoz,FR,13,Downhill
+2001-12-07,Borek Zakouril,CZ,0,Combined
+2001-12-07,Pierre Emmanuel Dalcin,FR,40,Downhill
+2001-12-07,Hans Knauss,AT,0,Super G
+2001-12-07,Beni Hofer,CH,0,Combined
+2001-12-07,Yasuyuki Takishita,JP,0,Combined
+2001-12-07,Claude Cretier,FR,0,Downhill
+2001-12-07,Kenneth Sivertsen,NO,8,Downhill
+2001-12-07,Fredrik Nyberg,SE,36,Giant Slalom
+2001-12-07,Kjetil Andre Aamodt,NO,12,Downhill
+2001-12-07,Marc Bottollier,FR,3,Downhill
+2001-12-07,Steve Locher,CH,11,Super G
+2001-12-07,Lasse Kjus,NO,20,Downhill
+2001-12-07,Hannes Trinkl,AT,0,Downhill
+2001-12-07,Stefan Stankalla,DE,0,Downhill
+2001-12-07,Christophe Saioni,FR,0,Super G
+2001-12-07,Kristian Ghedina,IT,10,Downhill
+2001-12-07,Hannes Reichelt,AT,0,Combined
+2001-12-07,Daron Rahlves,US,7,Super G
+2001-12-07,Marco Sullivan,US,0,Downhill
+2001-12-07,Franco Cavegn,CH,0,Downhill
+2001-12-07,Max Rauffer,DE,0,Super G
+2001-12-07,Marco Buechel,LI,32,Super G
+2001-12-07,Andrej Filischkin,RU,0,Combined
+2001-12-07,Bjarne Solbakken,NO,22,Giant Slalom
+2001-12-07,Brett Fischer,US,0,Combined
+2001-12-07,Paul Accola,CH,24,Super G
+2001-12-07,Peter Fill,IT,0,Super G
+2001-12-07,Antoine Deneriaz,FR,0,Downhill
+2001-12-07,Wisi Betschart,US,0,Combined
+2001-12-07,Klaus Kroell,AT,0,Downhill
+2001-12-07,Kurt Sulzenbacher,IT,0,Downhill
+2001-12-07,Jeff Hume,CA,0,Combined
+2001-12-07,Christian Greber,AT,0,Downhill
+2001-12-07,Peter Rzehak,AT,18,Downhill
+2001-12-07,Primoz Skerbinek,SK,0,Downhill
+2001-12-07,Stephan Goergl,AT,26,Super G
+2001-12-07,Konrad Hari,CH,0,Combined
+2001-12-07,Lasse Paulsen,NO,9,Super G
+2001-12-07,Tobias Gruenenfelder,CH,0,Super G
+2001-12-07,Freddy Rech,FR,0,Combined
+2001-12-07,Luca Cattaneo,IT,0,Downhill
+2001-12-07,Patrik Jaerbyn,SE,16,Super G
+2001-12-07,Manuel Carrozza,IT,0,Combined
+2001-12-07,Ryan Oughtred,CA,0,Combined
+2001-12-07,Sebastien Missillier,FR,0,Combined
+2001-12-07,Michael Riegler,LI,0,Combined
+2001-12-07,Jeff Piccard,FR,4,Giant Slalom
+2001-12-07,Fritz Strobl,AT,45,Downhill
+2001-12-07,Didier Cuche,CH,80,Super G
+2001-12-07,Michael Gufler,IT,0,Super G
+2001-12-07,Silvano Beltrametti,CH,60,Super G
+2001-12-07,Norbert Holzknecht,AT,0,Downhill
+2001-12-07,Patrick Staudacher,IT,2,Downhill
+2001-12-07,Craig Branch,AU,0,Combined
+2001-12-07,Audun Groenvold,NO,5,Downhill
+2001-12-07,Juergen Hasler,LI,0,Super G
+2001-12-07,Patrick Holzer,IT,0,Giant Slalom
+2001-12-07,Benjamin Raich,AT,0,Giant Slalom
+2001-12-07,Jakub Fiala,US,0,Downhill
+2001-12-07,Alessandro Fattori,IT,15,Super G
+2001-12-07,Thorsten Goetze,DE,0,Combined
+2001-12-07,Didier Defago,CH,29,Super G
+2001-12-07,Patrice Manuel,FR,0,Combined
+2001-12-07,Josef Strobl,AT,6,Downhill
+2001-12-07,Christoph Alster,AT,0,Super G
+2001-12-07,Jernej Koblar,SK,0,Giant Slalom
+2001-12-07,Stein Kristian Strand,NO,1,Combined
+2001-12-07,Finlay Mickel,GB,0,Downhill
+2001-12-07,Christoph Gruber,AT,50,Giant Slalom
+2001-12-07,Bode Miller,US,0,Slalom
+2001-12-07,Matteo Berbenni,IT,0,Downhill
+2001-12-07,Andreas Schifferer,AT,14,Super G
+2001-12-07,Erik Seletto,IT,0,Downhill
+2001-12-07,Darin McBeath,CA,0,Downhill
+2001-12-07,Simon Bastelica,FR,0,Combined
+2002-01-18,Christoph Alster,AT,0,Super G
+2002-01-18,Juergen Hasler,LI,3,Super G
+2002-01-18,Lasse Paulsen,NO,11,Super G
+2002-01-18,Hannes Trinkl,AT,0,Downhill
+2002-01-18,Bjarne Solbakken,NO,42,Giant Slalom
+2002-01-18,Konrad Hari,CH,0,Combined
+2002-01-18,Erik Seletto,IT,2,Downhill
+2002-01-18,Stein Kristian Strand,NO,1,Combined
+2002-01-18,Matteo Berbenni,IT,0,Downhill
+2002-01-18,Patrick Staudacher,IT,2,Downhill
+2002-01-18,Craig Branch,AU,0,Combined
+2002-01-18,Christian Greber,AT,12,Downhill
+2002-01-18,Jeff Hume,CA,0,Combined
+2002-01-18,Peter Fill,IT,0,Super G
+2002-01-18,Simon Bastelica,FR,0,Combined
+2002-01-18,Brett Fischer,US,0,Combined
+2002-01-18,Peter Rzehak,AT,18,Downhill
+2002-01-18,Benjamin Raich,AT,0,Giant Slalom
+2002-01-18,Thorsten Goetze,DE,0,Combined
+2002-01-18,Sebastien Missillier,FR,0,Combined
+2002-01-18,Finlay Mickel,GB,0,Downhill
+2002-01-18,Roland Fischnaller,IT,10,Downhill
+2002-01-18,Ryan Oughtred,CA,0,Combined
+2002-01-18,Thomas Vonn,US,0,Giant Slalom
+2002-01-18,Bode Miller,US,0,Slalom
+2002-01-18,Hannes Reichelt,AT,0,Combined
+2002-01-18,Christophe Saioni,FR,0,Super G
+2002-01-18,Bruno Kernen,CH,7,Downhill
+2002-01-18,Darin McBeath,CA,0,Downhill
+2002-01-18,Stefan Stankalla,DE,0,Downhill
+2002-01-18,Marc Bottollier,FR,11,Downhill
+2002-01-18,Freddy Rech,FR,0,Combined
+2002-01-18,Marco Sullivan,US,0,Downhill
+2002-01-18,Josef Strobl,AT,6,Downhill
+2002-01-18,Claude Cretier,FR,0,Downhill
+2002-01-18,Norbert Holzknecht,AT,0,Downhill
+2002-01-18,Michael Gufler,IT,0,Super G
+2002-01-18,Yasuyuki Takishita,JP,0,Combined
+2002-01-18,Sebastien Fournier-Bidoz,FR,13,Downhill
+2002-01-18,Borek Zakouril,CZ,0,Combined
+2002-01-18,Patrick Holzer,IT,0,Giant Slalom
+2002-01-18,Franco Cavegn,CH,14,Downhill
+2002-01-18,Max Rauffer,DE,0,Super G
+2002-01-18,Jeff Piccard,FR,4,Giant Slalom
+2002-01-18,Andrej Jerman,SK,4,Combined
+2002-01-18,Kenneth Sivertsen,NO,13,Downhill
+2002-01-18,Steve Locher,CH,18,Super G
+2002-01-18,Wisi Betschart,US,0,Combined
+2002-01-18,Didier Defago,CH,29,Super G
+2002-01-18,Luca Cattaneo,IT,0,Downhill
+2002-01-18,Christian Prassberger,DE,0,Combined
+2002-01-18,Marco Buechel,LI,47,Super G
+2002-01-18,Lasse Kjus,NO,65,Downhill
+2002-01-18,Silvano Beltrametti,CH,60,Super G
+2002-01-18,Fredrik Nyberg,SE,72,Giant Slalom
+2002-01-18,Johnny Albertsen,DK,0,Combined
+2002-01-18,Enis Becirbegovic,BA,0,Combined
+2002-01-18,Pierre Emmanuel Dalcin,FR,56,Downhill
+2002-01-18,Markus Herrmann,CH,0,Downhill
+2002-01-18,Beni Hofer,CH,0,Combined
+2002-01-18,Hans Knauss,AT,29,Super G
+2002-01-18,Andreas Schifferer,AT,38,Super G
+2002-01-18,Christoph Gruber,AT,90,Giant Slalom
+2002-01-18,Kjetil Andre Aamodt,NO,44,Downhill
+2002-01-18,P Casey Puckett,US,0,Slalom
+2002-01-18,Chad Fleischer,US,0,Downhill
+2002-01-18,Daron Rahlves,US,57,Super G
+2002-01-18,AJ Bear,AU,0,Combined
+2002-01-18,Charlie Bergendahl,SE,0,Combined
+2002-01-18,Pavel Chestakov,RU,0,Combined
+2002-01-18,Kristian Ghedina,IT,24,Downhill
+2002-01-18,Michael Riegler,LI,0,Combined
+2002-01-18,Didier Cuche,CH,140,Super G
+2002-01-18,Tobias Gruenenfelder,CH,0,Super G
+2002-01-18,Gregor Sparovec,SK,0,Downhill
+2002-01-18,Primoz Skerbinek,SK,0,Downhill
+2002-01-18,Peter Pen,SK,0,Downhill
+2002-01-18,Fritz Strobl,AT,67,Downhill
+2002-01-18,Alessandro Fattori,IT,95,Super G
+2002-01-18,Kurt Sulzenbacher,IT,0,Downhill
+2002-01-18,Ambrosi Hoffmann,CH,11,Downhill
+2002-01-18,Ivan Heimschild,SK,0,Combined
+2002-01-18,Klaus Kroell,AT,26,Downhill
+2002-01-18,Stephan Goergl,AT,35,Super G
+2002-01-18,Paul Accola,CH,42,Super G
+2002-01-18,Andrej Filischkin,RU,0,Combined
+2002-01-18,Stephan Eberharter,AT,200,Downhill
+2002-01-18,Antoine Deneriaz,FR,0,Downhill
+2002-01-26,Fritz Strobl,AT,167,Downhill
+2002-01-26,Finlay Mickel,GB,0,Downhill
+2002-01-26,Patrick Staudacher,IT,3,Downhill
+2002-01-26,Christoph Gruber,AT,116,Giant Slalom
+2002-01-26,Daron Rahlves,US,86,Super G
+2002-01-26,Vincent Millet,FR,0,Giant Slalom
+2002-01-26,Matteo Berbenni,IT,0,Downhill
+2002-01-26,Rolf von Weissenfluh,CH,0,Downhill
+2002-01-26,Pavel Chestakov,RU,0,Combined
+2002-01-26,P Casey Puckett,US,0,Slalom
+2002-01-26,Stephan Eberharter,AT,260,Downhill
+2002-01-26,Bode Miller,US,0,Slalom
+2002-01-26,Benjamin Raich,AT,0,Giant Slalom
+2002-01-26,Craig Branch,AU,0,Combined
+2002-01-26,Ivan Heimschild,SK,0,Combined
+2002-01-26,Thorsten Goetze,DE,0,Combined
+2002-01-26,Christian Prassberger,DE,0,Combined
+2002-01-26,Didier Cuche,CH,220,Super G
+2002-01-26,Didier Defago,CH,74,Super G
+2002-01-26,Christoph Alster,AT,4,Super G
+2002-01-26,Peter Pen,SK,0,Downhill
+2002-01-26,Audun Groenvold,NO,5,Downhill
+2002-01-26,Patrick Holzer,IT,0,Giant Slalom
+2002-01-26,Alessandro Fattori,IT,102,Super G
+2002-01-26,Silvano Beltrametti,CH,60,Super G
+2002-01-26,Michael Gufler,IT,6,Super G
+2002-01-26,Enis Becirbegovic,BA,0,Combined
+2002-01-26,Norbert Holzknecht,AT,0,Downhill
+2002-01-26,Josef Strobl,AT,6,Downhill
+2002-01-26,Markus Herrmann,CH,0,Downhill
+2002-01-26,Andreas Schifferer,AT,88,Super G
+2002-01-26,Jernej Koblar,SK,3,Giant Slalom
+2002-01-26,Darin McBeath,CA,0,Downhill
+2002-01-26,Kristian Ghedina,IT,37,Downhill
+2002-01-26,Simon Bastelica,FR,0,Combined
+2002-01-26,Hannes Reichelt,AT,0,Combined
+2002-01-26,Primoz Skerbinek,SK,0,Downhill
+2002-01-26,Yasuyuki Takishita,JP,0,Combined
+2002-01-26,Antoine Deneriaz,FR,0,Downhill
+2002-01-26,Christian Greber,AT,32,Downhill
+2002-01-26,Sebastien Fournier-Bidoz,FR,18,Downhill
+2002-01-26,Johnny Albertsen,DK,0,Combined
+2002-01-26,Franco Cavegn,CH,14,Downhill
+2002-01-26,Pierre Emmanuel Dalcin,FR,78,Downhill
+2002-01-26,Fredrik Nyberg,SE,108,Giant Slalom
+2002-01-26,Klaus Kroell,AT,36,Downhill
+2002-01-26,Luca Cattaneo,IT,0,Downhill
+2002-01-26,Max Rauffer,DE,14,Super G
+2002-01-26,Kurt Sulzenbacher,IT,0,Downhill
+2002-01-26,Patrik Jaerbyn,SE,25,Super G
+2002-01-26,Manuel Carrozza,IT,0,Combined
+2002-01-26,Stephan Goergl,AT,53,Super G
+2002-01-26,Borek Zakouril,CZ,0,Combined
+2002-01-26,Hans Knauss,AT,61,Super G
+2002-01-26,Peter Fill,IT,0,Super G
+2002-01-26,Lasse Kjus,NO,80,Downhill
+2002-01-26,Hannes Trinkl,AT,24,Downhill
+2002-01-26,Christophe Saioni,FR,11,Super G
+2002-01-26,Paul Accola,CH,50,Super G
+2002-01-26,Bjarne Solbakken,NO,44,Giant Slalom
+2002-01-26,Stefan Stankalla,DE,0,Downhill
+2002-01-26,Andrej Filischkin,RU,0,Combined
+2002-01-26,Tobias Gruenenfelder,CH,16,Super G
+2002-01-26,Kjetil Andre Aamodt,NO,84,Downhill
+2002-01-26,Kenneth Sivertsen,NO,25,Downhill
+2002-01-26,Marco Sullivan,US,0,Downhill
+2002-01-26,Beni Hofer,CH,0,Combined
+2002-01-26,Chad Fleischer,US,0,Downhill
+2002-01-27,Craig Branch,AU,0,Combined
+2002-01-27,Freddy Rech,FR,0,Combined
+2002-01-27,Kurt Sulzenbacher,IT,0,Downhill
+2002-01-27,Konrad Hari,CH,0,Combined
+2002-01-27,Simon Bastelica,FR,0,Combined
+2002-01-27,Andrej Filischkin,RU,0,Combined
+2002-01-27,Scott Macartney,US,0,Downhill
+2002-01-27,Peter Pen,SK,0,Downhill
+2002-01-27,Rolf von Weissenfluh,CH,0,Downhill
+2002-01-27,Wisi Betschart,US,0,Combined
+2002-01-27,Matteo Berbenni,IT,0,Downhill
+2002-01-27,Brett Fischer,US,0,Combined
+2002-01-27,Jeff Hume,CA,0,Combined
+2002-01-27,Vincent Millet,FR,0,Giant Slalom
+2002-01-27,Jakub Fiala,US,0,Downhill
+2002-01-27,Ivan Heimschild,SK,0,Combined
+2002-01-27,Patrick Holzer,IT,0,Giant Slalom
+2002-01-27,Primoz Skerbinek,SK,0,Downhill
+2002-01-27,Hannes Reichelt,AT,0,Combined
+2002-01-27,Ryan Oughtred,CA,0,Combined
+2002-01-27,Charlie Bergendahl,SE,0,Combined
+2002-01-27,Pavel Chestakov,RU,0,Combined
+2002-01-27,Sebastien Missillier,FR,0,Combined
+2002-01-27,Chad Fleischer,US,0,Downhill
+2002-01-27,AJ Bear,AU,0,Combined
+2002-01-27,Stefan Stankalla,DE,0,Downhill
+2002-01-27,Finlay Mickel,GB,0,Downhill
+2002-01-27,Beni Hofer,CH,0,Combined
+2002-01-27,Darin McBeath,CA,0,Downhill
+2002-01-27,Christian Prassberger,DE,0,Combined
+2002-01-27,Marco Sullivan,US,0,Downhill
+2002-01-27,Patrice Manuel,FR,0,Combined
+2002-01-27,Yasuyuki Takishita,JP,0,Combined
+2002-01-27,Johnny Albertsen,DK,0,Combined
+2002-01-27,Markus Herrmann,CH,0,Downhill
+2002-01-27,Norbert Holzknecht,AT,0,Downhill
+2002-01-27,Luca Cattaneo,IT,0,Downhill
+2002-01-27,Gregor Sparovec,SK,0,Downhill
+2002-01-27,Borek Zakouril,CZ,0,Combined
+2002-01-27,Enis Becirbegovic,BA,0,Combined
+2002-01-27,Manuel Carrozza,IT,0,Combined
+2002-01-27,Thorsten Goetze,DE,0,Combined
+2002-01-27,P Casey Puckett,US,0,Slalom
+2002-01-27,Michael Riegler,LI,0,Combined
+2002-01-27,Andrej Jerman,SK,4,Combined
+2002-01-27,Klaus Kroell,AT,40,Downhill
+2002-01-27,Christoph Gruber,AT,145,Giant Slalom
+2002-01-27,Bjarne Solbakken,NO,44,Giant Slalom
+2002-01-27,Michael Gufler,IT,6,Super G
+2002-01-27,Christophe Saioni,FR,21,Super G
+2002-01-27,Daron Rahlves,US,110,Super G
+2002-01-27,Josef Strobl,AT,6,Downhill
+2002-01-27,Kenneth Sivertsen,NO,31,Downhill
+2002-01-27,Fredrik Nyberg,SE,148,Giant Slalom
+2002-01-27,Hannes Trinkl,AT,34,Downhill
+2002-01-27,Jernej Koblar,SK,10,Giant Slalom
+2002-01-27,Kristian Ghedina,IT,38,Downhill
+2002-01-27,Ambrosi Hoffmann,CH,24,Downhill
+2002-01-27,Lasse Kjus,NO,116,Downhill
+2002-01-27,Bruno Kernen,CH,7,Downhill
+2002-01-27,Pierre Emmanuel Dalcin,FR,100,Downhill
+2002-01-27,Bode Miller,US,0,Slalom
+2002-01-27,Kjetil Andre Aamodt,NO,129,Downhill
+2002-01-27,Marc Bottollier,FR,14,Downhill
+2002-01-27,Patrik Jaerbyn,SE,40,Super G
+2002-01-27,Hans Knauss,AT,87,Super G
+2002-01-27,Paul Accola,CH,68,Super G
+2002-01-27,Claude Cretier,FR,5,Downhill
+2002-01-27,Benjamin Raich,AT,0,Giant Slalom
+2002-01-27,Audun Groenvold,NO,5,Downhill
+2002-01-27,Marco Buechel,LI,59,Super G
+2002-01-27,Stephan Eberharter,AT,360,Downhill
+2002-01-27,Stein Kristian Strand,NO,1,Combined
+2002-01-27,Lasse Paulsen,NO,13,Super G
+2002-01-27,Erik Seletto,IT,2,Downhill
+2002-01-27,Stephan Goergl,AT,67,Super G
+2002-01-27,Peter Rzehak,AT,18,Downhill
+2002-01-27,Fritz Strobl,AT,217,Downhill
+2002-01-27,Max Rauffer,DE,30,Super G
+2002-01-27,Patrick Staudacher,IT,3,Downhill
+2002-01-27,Tobias Gruenenfelder,CH,16,Super G
+2002-01-27,Juergen Hasler,LI,3,Super G
+2002-01-27,Thomas Vonn,US,0,Giant Slalom
+2002-01-27,Alessandro Fattori,IT,134,Super G
+2002-01-27,Didier Cuche,CH,300,Super G
+2002-01-27,Christoph Alster,AT,4,Super G
+2002-01-27,Christian Greber,AT,52,Downhill
+2002-01-27,Roland Fischnaller,IT,10,Downhill
+2002-01-27,Sebastien Fournier-Bidoz,FR,18,Downhill
+2002-01-27,Didier Defago,CH,82,Super G
+2002-01-27,Silvano Beltrametti,CH,60,Super G
+2002-01-27,Peter Fill,IT,0,Super G
+2002-01-27,Andreas Schifferer,AT,148,Super G
+2002-01-27,Steve Locher,CH,29,Super G
+2002-03-03,Ambrosi Hoffmann,CH,46,Downhill
+2002-03-03,Andrej Filischkin,RU,0,Combined
+2002-03-03,Simon Bastelica,FR,0,Combined
+2002-03-03,Michael Riegler,LI,0,Combined
+2002-03-03,Hannes Trinkl,AT,40,Downhill
+2002-03-03,Bjarne Solbakken,NO,44,Giant Slalom
+2002-03-03,Wisi Betschart,US,0,Combined
+2002-03-03,Jeff Hume,CA,0,Combined
+2002-03-03,Christian Greber,AT,72,Downhill
+2002-03-03,Konrad Hari,CH,0,Combined
+2002-03-03,Peter Rzehak,AT,27,Downhill
+2002-03-03,Lasse Paulsen,NO,31,Super G
+2002-03-03,Paul Accola,CH,73,Super G
+2002-03-03,Brett Fischer,US,0,Combined
+2002-03-03,Beni Hofer,CH,0,Combined
+2002-03-03,Stephan Goergl,AT,81,Super G
+2002-03-03,Rolf von Weissenfluh,CH,0,Downhill
+2002-03-03,Stephan Eberharter,AT,420,Downhill
+2002-03-03,Vincent Millet,FR,0,Giant Slalom
+2002-03-03,Ivan Heimschild,SK,0,Combined
+2002-03-03,Fritz Strobl,AT,246,Downhill
+2002-03-03,Alessandro Fattori,IT,234,Super G
+2002-03-03,Christian Prassberger,DE,0,Combined
+2002-03-03,Didier Cuche,CH,326,Super G
+2002-03-03,Didier Defago,CH,162,Super G
+2002-03-03,Enis Becirbegovic,BA,0,Combined
+2002-03-03,Silvano Beltrametti,CH,60,Super G
+2002-03-03,Markus Herrmann,CH,0,Downhill
+2002-03-03,Andreas Schifferer,AT,188,Super G
+2002-03-03,P Casey Puckett,US,0,Slalom
+2002-03-03,AJ Bear,AU,0,Combined
+2002-03-03,Christoph Gruber,AT,161,Giant Slalom
+2002-03-03,Pavel Chestakov,RU,0,Combined
+2002-03-03,Daron Rahlves,US,118,Super G
+2002-03-03,Kristian Ghedina,IT,88,Downhill
+2002-03-03,Lasse Kjus,NO,156,Downhill
+2002-03-03,Chad Fleischer,US,0,Downhill
+2002-03-03,Kjetil Andre Aamodt,NO,174,Downhill
+2002-03-03,Hans Knauss,AT,111,Super G
+2002-03-03,Johnny Albertsen,DK,0,Combined
+2002-03-03,Pierre Emmanuel Dalcin,FR,100,Downhill
+2002-03-03,Fredrik Nyberg,SE,158,Giant Slalom
+2002-03-03,Tobias Gruenenfelder,CH,48,Super G
+2002-03-03,Klaus Kroell,AT,43,Downhill
+2002-03-03,Manuel Carrozza,IT,0,Combined
+2002-03-03,Peter Fill,IT,0,Super G
+2002-03-03,Marco Sullivan,US,0,Downhill
+2002-03-03,Roland Fischnaller,IT,10,Downhill
+2002-03-03,Scott Macartney,US,0,Downhill
+2002-03-03,Marc Bottollier,FR,26,Downhill
+2002-03-03,Jakub Fiala,US,0,Downhill
+2002-03-03,Josef Strobl,AT,6,Downhill
+2002-03-03,Bruno Kernen,CH,14,Downhill
+2002-03-03,Thomas Vonn,US,11,Giant Slalom
+2002-03-03,Norbert Holzknecht,AT,0,Downhill
+2002-03-03,Hannes Reichelt,AT,0,Combined
+2002-03-03,Finlay Mickel,GB,0,Downhill
+2002-03-03,Claude Cretier,FR,18,Downhill
+2002-03-03,Craig Branch,AU,0,Combined
+2002-03-03,Thorsten Goetze,DE,0,Combined
+2002-03-03,Stefan Stankalla,DE,0,Downhill
+2002-03-03,Patrick Staudacher,IT,3,Downhill
+2002-03-03,Yasuyuki Takishita,JP,0,Combined
+2002-03-03,Sebastien Fournier-Bidoz,FR,19,Downhill
+2002-03-03,Michael Gufler,IT,6,Super G
+2002-03-03,Matteo Berbenni,IT,0,Downhill
+2002-03-03,Christophe Saioni,FR,25,Super G
+2002-03-03,Bode Miller,US,2,Slalom
+2002-03-03,Borek Zakouril,CZ,0,Combined
+2002-03-03,Patrice Manuel,FR,0,Combined
+2002-03-03,Ryan Oughtred,CA,0,Combined
+2002-03-03,Darin McBeath,CA,0,Downhill
+2002-03-03,Patrik Jaerbyn,SE,55,Super G
+2002-03-03,Audun Groenvold,NO,5,Downhill
+2002-03-03,Benjamin Raich,AT,0,Giant Slalom
+2002-03-03,Patrick Holzer,IT,0,Giant Slalom
+2002-03-07,Andreas Schifferer,AT,214,Super G
+2002-03-07,Christoph Gruber,AT,193,Giant Slalom
+2002-03-07,Manuel Carrozza,IT,0,Combined
+2002-03-07,Patrick Holzer,IT,0,Giant Slalom
+2002-03-07,Josef Strobl,AT,6,Downhill
+2002-03-07,Pavel Chestakov,RU,0,Combined
+2002-03-07,Daron Rahlves,US,133,Super G
+2002-03-07,Norbert Holzknecht,AT,0,Downhill
+2002-03-07,Jernej Koblar,SK,10,Giant Slalom
+2002-03-07,Gregor Sparovec,SK,0,Downhill
+2002-03-07,Kristian Ghedina,IT,96,Downhill
+2002-03-07,Charlie Bergendahl,SE,0,Combined
+2002-03-07,Patrice Manuel,FR,0,Combined
+2002-03-07,AJ Bear,AU,0,Combined
+2002-03-07,P Casey Puckett,US,0,Slalom
+2002-03-07,Audun Groenvold,NO,5,Downhill
+2002-03-07,Silvano Beltrametti,CH,60,Super G
+2002-03-07,Simon Bastelica,FR,0,Combined
+2002-03-07,Rolf von Weissenfluh,CH,0,Downhill
+2002-03-07,Erik Seletto,IT,2,Downhill
+2002-03-07,Patrick Staudacher,IT,3,Downhill
+2002-03-07,Stephan Eberharter,AT,470,Downhill
+2002-03-07,Vincent Millet,FR,0,Giant Slalom
+2002-03-07,Fritz Strobl,AT,326,Downhill
+2002-03-07,Matteo Berbenni,IT,0,Downhill
+2002-03-07,Ivan Heimschild,SK,0,Combined
+2002-03-07,Juergen Hasler,LI,3,Super G
+2002-03-07,Alessandro Fattori,IT,294,Super G
+2002-03-07,Peter Pen,SK,0,Downhill
+2002-03-07,Craig Branch,AU,0,Combined
+2002-03-07,Didier Cuche,CH,426,Super G
+2002-03-07,Christoph Alster,AT,4,Super G
+2002-03-07,Christian Prassberger,DE,0,Combined
+2002-03-07,Jakub Fiala,US,0,Downhill
+2002-03-07,Andrej Jerman,SK,4,Combined
+2002-03-07,Didier Defago,CH,202,Super G
+2002-03-07,Enis Becirbegovic,BA,0,Combined
+2002-03-07,Jeff Piccard,FR,4,Giant Slalom
+2002-03-07,Markus Herrmann,CH,0,Downhill
+2002-03-07,Thorsten Goetze,DE,0,Combined
+2002-03-07,Michael Gufler,IT,6,Super G
+2002-03-07,Bruno Kernen,CH,14,Downhill
+2002-03-07,Hans Knauss,AT,156,Super G
+2002-03-07,Lasse Kjus,NO,176,Downhill
+2002-03-07,Paul Accola,CH,91,Super G
+2002-03-07,Michael Riegler,LI,0,Combined
+2002-03-07,Stefan Stankalla,DE,0,Downhill
+2002-03-07,Hannes Trinkl,AT,47,Downhill
+2002-03-07,Kenneth Sivertsen,NO,31,Downhill
+2002-03-07,Brett Fischer,US,0,Combined
+2002-03-07,Claude Cretier,FR,18,Downhill
+2002-03-07,Marco Sullivan,US,0,Downhill
+2002-03-07,Bjarne Solbakken,NO,44,Giant Slalom
+2002-03-07,Wisi Betschart,US,0,Combined
+2002-03-07,Peter Fill,IT,22,Super G
+2002-03-07,Sebastien Fournier-Bidoz,FR,19,Downhill
+2002-03-07,Stein Kristian Strand,NO,1,Combined
+2002-03-07,Jeff Hume,CA,0,Combined
+2002-03-07,Yasuyuki Takishita,JP,0,Combined
+2002-03-07,Christian Greber,AT,83,Downhill
+2002-03-07,Konrad Hari,CH,0,Combined
+2002-03-07,Franco Cavegn,CH,14,Downhill
+2002-03-07,Max Rauffer,DE,30,Super G
+2002-03-07,Peter Rzehak,AT,27,Downhill
+2002-03-07,Freddy Rech,FR,0,Combined
+2002-03-07,Borek Zakouril,CZ,0,Combined
+2002-03-07,Lasse Paulsen,NO,31,Super G
+2002-03-07,Marc Bottollier,FR,26,Downhill
+2002-03-07,Steve Locher,CH,29,Super G
+2002-03-07,Hannes Reichelt,AT,0,Combined
+2002-03-07,Andrej Filischkin,RU,0,Combined
+2002-03-07,Darin McBeath,CA,0,Downhill
+2002-03-07,Beni Hofer,CH,0,Combined
+2002-03-07,Kjetil Andre Aamodt,NO,210,Downhill
+2002-03-07,Patrik Jaerbyn,SE,71,Super G
+2002-03-07,Bode Miller,US,11,Slalom
+2002-03-07,Johnny Albertsen,DK,0,Combined
+2002-03-07,Finlay Mickel,GB,0,Downhill
+2002-03-07,Benjamin Raich,AT,10,Giant Slalom
+2002-03-07,Pierre Emmanuel Dalcin,FR,100,Downhill
+2002-03-07,Roland Fischnaller,IT,10,Downhill
+2002-03-07,Luca Cattaneo,IT,0,Downhill
+2002-03-07,Chad Fleischer,US,0,Downhill
+2002-03-07,Fredrik Nyberg,SE,170,Giant Slalom
+2002-03-07,Sebastien Missillier,FR,0,Combined
+2002-03-07,Primoz Skerbinek,SK,0,Downhill
+2002-03-07,Thomas Vonn,US,11,Giant Slalom
+2002-03-07,Tobias Gruenenfelder,CH,77,Super G
+2002-03-07,Ryan Oughtred,CA,0,Combined
+2002-03-07,Kurt Sulzenbacher,IT,0,Downhill
+2002-03-07,Stephan Goergl,AT,95,Super G
+2002-03-07,Christophe Saioni,FR,25,Super G
+2002-03-07,Antoine Deneriaz,FR,0,Downhill
+2002-03-07,Klaus Kroell,AT,43,Downhill
+2002-03-07,Ambrosi Hoffmann,CH,72,Downhill
+2002-03-07,Marco Buechel,LI,72,Super G
+2002-03-07,Scott Macartney,US,0,Downhill

@@ -1,47 +1,47 @@
-date,name,ath_country,value
-1984-01-08,Laurie Graham,CA,25
-1984-01-08,Cindy Nelson,US,0
-1984-01-08,Sylvia Eder,AT,0
-1984-01-08,Zoe Haas,CH,0
-1984-01-08,Liisa Savijarvi,CA,0
-1984-01-08,Tamara McKinney,US,0
-1984-01-08,Maria Walliser,CH,0
-1984-01-08,Ariane Ehrat,CH,0
-1984-01-08,Elisabeth Kirchler,AT,0
-1984-01-08,Regine Moesenlechner,DE,1
-1984-01-08,Christin Cooper,US,2
-1984-01-08,Brigitte Oertli,CH,3
-1984-01-08,Elisabeth Chaud,FR,5
-1984-01-08,Claudine Emonet,FR,6
-1984-01-08,Diana Haight,CA,7
-1984-01-08,Catherine Quittet,FR,4
-1984-01-08,Olga Charvatova,SK,8
-1984-01-08,Michela Figini,CH,20
-1984-01-08,Debbie Armstrong,US,15
-1984-01-08,Irene Epple,DE,12
-1984-01-08,Marina Kiehl,DE,10
-1984-01-08,Gerry Sorensen,CA,11
-1984-01-08,Hanni Wenzel,LI,9
-1984-03-04,Elisabeth Chaud,FR,5
-1984-03-04,Claudine Emonet,FR,6
-1984-03-04,Diana Haight,CA,7
-1984-03-04,Olga Charvatova,SK,8
-1984-03-04,Irene Epple,DE,12
-1984-03-04,Debbie Armstrong,US,15
-1984-03-04,Michela Figini,CH,20
-1984-03-04,Marina Kiehl,DE,35
-1984-03-04,Laurie Graham,CA,32
-1984-03-04,Elisabeth Kirchler,AT,20
-1984-03-04,Hanni Wenzel,LI,18
-1984-03-04,Christin Cooper,US,17
-1984-03-04,Liisa Savijarvi,CA,6
-1984-03-04,Ariane Ehrat,CH,12
-1984-03-04,Catherine Quittet,FR,12
-1984-03-04,Cindy Nelson,US,1
-1984-03-04,Maria Walliser,CH,11
-1984-03-04,Sylvia Eder,AT,2
-1984-03-04,Zoe Haas,CH,3
-1984-03-04,Tamara McKinney,US,10
-1984-03-04,Gerry Sorensen,CA,15
-1984-03-04,Brigitte Oertli,CH,8
-1984-03-04,Regine Moesenlechner,DE,1
+date,name,ath_country,value,specialty
+1984-01-08,Laurie Graham,CA,25,Super G
+1984-01-08,Regine Moesenlechner,DE,1,Combined
+1984-01-08,Sylvia Eder,AT,0,Downhill
+1984-01-08,Zoe Haas,CH,0,Giant Slalom
+1984-01-08,Brigitte Oertli,CH,3,Slalom
+1984-01-08,Elisabeth Chaud,FR,5,Downhill
+1984-01-08,Liisa Savijarvi,CA,0,Giant Slalom
+1984-01-08,Claudine Emonet,FR,6,Super G
+1984-01-08,Diana Haight,CA,7,Super G
+1984-01-08,Catherine Quittet,FR,4,Super G
+1984-01-08,Olga Charvatova,SK,8,Combined
+1984-01-08,Tamara McKinney,US,0,Slalom
+1984-01-08,Maria Walliser,CH,0,Downhill
+1984-01-08,Gerry Sorensen,CA,11,Downhill
+1984-01-08,Ariane Ehrat,CH,0,Downhill
+1984-01-08,Hanni Wenzel,LI,9,Downhill
+1984-01-08,Elisabeth Kirchler,AT,0,Combined
+1984-01-08,Marina Kiehl,DE,10,Giant Slalom
+1984-01-08,Michela Figini,CH,20,Downhill
+1984-01-08,Debbie Armstrong,US,15,Combined
+1984-01-08,Christin Cooper,US,2,Giant Slalom
+1984-01-08,Cindy Nelson,US,0,Giant Slalom
+1984-01-08,Irene Epple,DE,12,Downhill
+1984-03-04,Cindy Nelson,US,1,Giant Slalom
+1984-03-04,Regine Moesenlechner,DE,1,Combined
+1984-03-04,Laurie Graham,CA,32,Super G
+1984-03-04,Marina Kiehl,DE,35,Giant Slalom
+1984-03-04,Sylvia Eder,AT,2,Downhill
+1984-03-04,Gerry Sorensen,CA,15,Downhill
+1984-03-04,Zoe Haas,CH,3,Giant Slalom
+1984-03-04,Maria Walliser,CH,11,Downhill
+1984-03-04,Brigitte Oertli,CH,8,Slalom
+1984-03-04,Elisabeth Chaud,FR,5,Downhill
+1984-03-04,Michela Figini,CH,20,Downhill
+1984-03-04,Elisabeth Kirchler,AT,20,Combined
+1984-03-04,Liisa Savijarvi,CA,6,Giant Slalom
+1984-03-04,Claudine Emonet,FR,6,Super G
+1984-03-04,Ariane Ehrat,CH,12,Downhill
+1984-03-04,Diana Haight,CA,7,Super G
+1984-03-04,Debbie Armstrong,US,15,Combined
+1984-03-04,Catherine Quittet,FR,12,Super G
+1984-03-04,Olga Charvatova,SK,8,Combined
+1984-03-04,Christin Cooper,US,17,Giant Slalom
+1984-03-04,Hanni Wenzel,LI,18,Downhill
+1984-03-04,Tamara McKinney,US,10,Slalom
+1984-03-04,Irene Epple,DE,12,Downhill

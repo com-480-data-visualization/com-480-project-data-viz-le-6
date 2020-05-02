@@ -1,433 +1,433 @@
-date,name,ath_country,value
-1991-11-30,Vreni Schneider,CH,100
-1991-11-30,Deborah Compagnoni,IT,0
-1991-11-30,Sabine Ginther,AT,0
-1991-11-30,Pernilla Wiberg,SE,0
-1991-11-30,Edda Mutter,DE,6
-1991-11-30,Ylva Nowen,SE,7
-1991-11-30,Morena Gallizio Tescari,IT,8
-1991-11-30,Titti Rodling,SE,9
-1991-11-30,Katjusa Pusnik,SK,10
-1991-11-30,Patricia Chauvet,FR,12
-1991-11-30,Christine von Gruenigen,CH,0
-1991-11-30,Eva Twardokens,US,14
-1991-11-30,Lara Magoni,IT,18
-1991-11-30,Christelle Guignard,FR,20
-1991-11-30,Anna Boden,SE,22
-1991-11-30,Annick Bonzon,CH,24
-1991-11-30,Gaby May,CH,26
-1991-11-30,Gabriela Zingre-Graf,CH,28
-1991-11-30,Katrin Neuenschwander,CH,31
-1991-11-30,Elfi Eder,AT,34
-1991-11-30,Monika Maierhofer,AT,37
-1991-11-30,Ingrid Salvenmoser,AT,16
-1991-11-30,Anita Wachter,AT,0
-1991-11-30,Heidi Voelker,US,0
-1991-11-30,Annelise Coberger,NZ,0
-1991-11-30,Karin Koellerer,AT,0
-1991-11-30,Marianne Kjoerstad,NO,0
-1991-11-30,Kerstin Riediger,DE,0
-1991-11-30,Anne Berge,NO,0
-1991-11-30,Nives Sitar,SK,0
-1991-11-30,Ulrike Maier,AT,0
-1991-11-30,Brigitte Auer,AT,0
-1991-11-30,Anouk Barnier,FR,0
-1991-11-30,Diann Roffe Steinrotter,US,0
-1991-11-30,Veronika Sarec,SK,0
-1991-11-30,Astrid Plank,IT,0
-1991-11-30,Monique Pelletier,US,0
-1991-11-30,Martina Accola,CH,0
-1991-11-30,Monika Kaeslin,CH,0
-1991-11-30,Renate Oberhofer,IT,0
-1991-11-30,Anja Haas,AT,0
-1991-11-30,Wendy Fisher,US,0
-1991-11-30,Roberta Serra,IT,0
-1991-11-30,Bibiana Perez,IT,0
-1991-11-30,Ingrid Stoeckl,AT,0
-1991-11-30,Natasa Bokal,SK,0
-1991-11-30,Karin Buder,AT,40
-1991-11-30,Kristina Andersson,SE,43
-1991-11-30,Urska Hrovat,SK,0
-1991-11-30,Florence Masnada,FR,47
-1991-11-30,Petra Kronberger,AT,80
-1991-11-30,Blanca Fernandez Ochoa,ES,60
-1991-11-30,Julie M. J. Parisien,US,51
-1991-11-30,Claudia Strobl,AT,55
-1991-12-01,Elfi Eder,AT,34
-1991-12-01,Kristina Andersson,SE,43
-1991-12-01,Florence Masnada,FR,47
-1991-12-01,Julie M. J. Parisien,US,51
-1991-12-01,Blanca Fernandez Ochoa,ES,160
-1991-12-01,Vreni Schneider,CH,180
-1991-12-01,Petra Kronberger,AT,140
-1991-12-01,Pernilla Wiberg,SE,55
-1991-12-01,Katjusa Pusnik,SK,18
-1991-12-01,Ingrid Salvenmoser,AT,25
-1991-12-01,Gabriela Zingre-Graf,CH,38
-1991-12-01,Claudia Strobl,AT,106
-1991-12-01,Katrin Neuenschwander,CH,43
-1991-12-01,Morena Gallizio Tescari,IT,22
-1991-12-01,Edda Mutter,DE,22
-1991-12-01,Ingrid Stoeckl,AT,18
-1991-12-01,Ylva Nowen,SE,27
-1991-12-01,Annick Bonzon,CH,46
-1991-12-01,Gaby May,CH,26
-1991-12-01,Natasa Bokal,SK,24
-1991-12-01,Karin Buder,AT,83
-1991-12-01,Lara Magoni,IT,18
-1991-12-01,Karin Koellerer,AT,0
-1991-12-01,Marianne Kjoerstad,NO,0
-1991-12-01,Kerstin Riediger,DE,0
-1991-12-01,Anne Berge,NO,0
-1991-12-01,Nives Sitar,SK,0
-1991-12-01,Ulrike Maier,AT,0
-1991-12-01,Brigitte Auer,AT,0
-1991-12-01,Anouk Barnier,FR,0
-1991-12-01,Diann Roffe Steinrotter,US,0
-1991-12-01,Urska Hrovat,SK,0
-1991-12-01,Christelle Guignard,FR,20
-1991-12-01,Veronika Sarec,SK,0
-1991-12-01,Monique Pelletier,US,0
-1991-12-01,Martina Accola,CH,0
-1991-12-01,Monika Kaeslin,CH,0
-1991-12-01,Anja Haas,AT,0
-1991-12-01,Wendy Fisher,US,0
-1991-12-01,Roberta Serra,IT,0
-1991-12-01,Bibiana Perez,IT,0
-1991-12-01,Titti Rodling,SE,9
-1991-12-01,Patricia Chauvet,FR,12
-1991-12-01,Eva Twardokens,US,14
-1991-12-01,Astrid Plank,IT,0
-1991-12-01,Anna Boden,SE,22
-1991-12-01,Renate Oberhofer,IT,0
-1991-12-01,Sabine Ginther,AT,47
-1991-12-01,Heidi Voelker,US,28
-1991-12-01,Anita Wachter,AT,31
-1991-12-01,Monika Maierhofer,AT,71
-1991-12-01,Annelise Coberger,NZ,26
-1991-12-01,Deborah Compagnoni,IT,40
-1991-12-01,Christine von Gruenigen,CH,37
-1992-01-12,Pernilla Wiberg,SE,98
-1992-01-12,Julie M. J. Parisien,US,102
-1992-01-12,Vreni Schneider,CH,180
-1992-01-12,Petra Kronberger,AT,140
-1992-01-12,Florence Masnada,FR,47
-1992-01-12,Katjusa Pusnik,SK,18
-1992-01-12,Katrin Neuenschwander,CH,43
-1992-01-12,Anna Boden,SE,22
-1992-01-12,Christelle Guignard,FR,20
-1992-01-12,Ingrid Salvenmoser,AT,25
-1992-01-12,Patricia Chauvet,FR,12
-1992-01-12,Titti Rodling,SE,9
-1992-01-12,Anita Wachter,AT,45
-1992-01-12,Kristina Andersson,SE,43
-1992-01-12,Natasa Bokal,SK,52
-1992-01-12,Morena Gallizio Tescari,IT,22
-1992-01-12,Martina Accola,CH,10
-1992-01-12,Lara Magoni,IT,58
-1992-01-12,Elfi Eder,AT,81
-1992-01-12,Monique Pelletier,US,9
-1992-01-12,Karin Buder,AT,120
-1992-01-12,Gabriela Zingre-Graf,CH,46
-1992-01-12,Bibiana Perez,IT,34
-1992-01-12,Gaby May,CH,33
-1992-01-12,Sabine Ginther,AT,147
-1992-01-12,Blanca Fernandez Ochoa,ES,240
-1992-01-12,Roberta Serra,IT,31
-1992-01-12,Annelise Coberger,NZ,86
-1992-01-12,Monika Kaeslin,CH,12
-1992-01-12,Edda Mutter,DE,38
-1992-01-12,Claudia Strobl,AT,106
-1992-01-12,Deborah Compagnoni,IT,40
-1992-01-12,Wendy Fisher,US,26
-1992-01-12,Annick Bonzon,CH,70
-1992-01-12,Eva Twardokens,US,36
-1992-01-12,Ylva Nowen,SE,27
-1992-01-12,Karin Koellerer,AT,0
-1992-01-12,Marianne Kjoerstad,NO,0
-1992-01-12,Kerstin Riediger,DE,0
-1992-01-12,Anja Haas,AT,20
-1992-01-12,Anne Berge,NO,0
-1992-01-12,Nives Sitar,SK,0
-1992-01-12,Ulrike Maier,AT,0
-1992-01-12,Monika Maierhofer,AT,126
-1992-01-12,Christine von Gruenigen,CH,37
-1992-01-12,Anouk Barnier,FR,0
-1992-01-12,Diann Roffe Steinrotter,US,0
-1992-01-12,Brigitte Auer,AT,0
-1992-01-12,Urska Hrovat,SK,0
-1992-01-12,Renate Oberhofer,IT,18
-1992-01-12,Veronika Sarec,SK,0
-1992-01-12,Ingrid Stoeckl,AT,18
-1992-01-12,Astrid Plank,IT,0
-1992-01-12,Heidi Voelker,US,28
-1992-01-14,Patricia Chauvet,FR,12
-1992-01-14,Blanca Fernandez Ochoa,ES,274
-1992-01-14,Marianne Kjoerstad,NO,0
-1992-01-14,Karin Koellerer,AT,0
-1992-01-14,Morena Gallizio Tescari,IT,22
-1992-01-14,Deborah Compagnoni,IT,40
-1992-01-14,Pernilla Wiberg,SE,145
-1992-01-14,Christelle Guignard,FR,20
-1992-01-14,Ylva Nowen,SE,27
-1992-01-14,Vreni Schneider,CH,260
-1992-01-14,Edda Mutter,DE,38
-1992-01-14,Ingrid Salvenmoser,AT,56
-1992-01-14,Sabine Ginther,AT,147
-1992-01-14,Julie M. J. Parisien,US,162
-1992-01-14,Annelise Coberger,NZ,186
-1992-01-14,Kerstin Riediger,DE,0
-1992-01-14,Gaby May,CH,33
-1992-01-14,Anne Berge,NO,0
-1992-01-14,Natasa Bokal,SK,95
-1992-01-14,Ingrid Stoeckl,AT,18
-1992-01-14,Bibiana Perez,IT,34
-1992-01-14,Roberta Serra,IT,31
-1992-01-14,Wendy Fisher,US,26
-1992-01-14,Claudia Strobl,AT,106
-1992-01-14,Monika Maierhofer,AT,126
-1992-01-14,Anna Boden,SE,22
-1992-01-14,Elfi Eder,AT,121
-1992-01-14,Martina Accola,CH,10
-1992-01-14,Monique Pelletier,US,9
-1992-01-14,Brigitte Auer,AT,0
-1992-01-14,Ulrike Maier,AT,0
-1992-01-14,Nives Sitar,SK,0
-1992-01-14,Annick Bonzon,CH,70
-1992-01-14,Karin Buder,AT,157
-1992-01-14,Monika Kaeslin,CH,12
-1992-01-14,Gabriela Zingre-Graf,CH,46
-1992-01-14,Anita Wachter,AT,45
-1992-01-14,Lara Magoni,IT,76
-1992-01-14,Eva Twardokens,US,64
-1992-01-14,Veronika Sarec,SK,14
-1992-01-14,Petra Kronberger,AT,195
-1992-01-14,Christine von Gruenigen,CH,88
-1992-01-14,Heidi Voelker,US,38
-1992-01-14,Renate Oberhofer,IT,34
-1992-01-14,Florence Masnada,FR,56
-1992-01-14,Urska Hrovat,SK,12
-1992-01-14,Diann Roffe Steinrotter,US,7
-1992-01-14,Kristina Andersson,SE,63
-1992-01-14,Astrid Plank,IT,22
-1992-01-14,Katrin Neuenschwander,CH,67
-1992-01-14,Katjusa Pusnik,SK,44
-1992-01-14,Anouk Barnier,FR,5
-1992-01-14,Titti Rodling,SE,17
-1992-01-14,Anja Haas,AT,26
-1992-01-18,Katrin Neuenschwander,CH,76
-1992-01-18,Karin Koellerer,AT,0
-1992-01-18,Sabine Ginther,AT,187
-1992-01-18,Titti Rodling,SE,27
-1992-01-18,Marianne Kjoerstad,NO,0
-1992-01-18,Gaby May,CH,45
-1992-01-18,Edda Mutter,DE,38
-1992-01-18,Monika Maierhofer,AT,154
-1992-01-18,Veronika Sarec,SK,28
-1992-01-18,Kerstin Riediger,DE,0
-1992-01-18,Kristina Andersson,SE,89
-1992-01-18,Brigitte Auer,AT,16
-1992-01-18,Karin Buder,AT,208
-1992-01-18,Annick Bonzon,CH,88
-1992-01-18,Anita Wachter,AT,65
-1992-01-18,Eva Twardokens,US,86
-1992-01-18,Christine von Gruenigen,CH,112
-1992-01-18,Heidi Voelker,US,43
-1992-01-18,Elfi Eder,AT,164
-1992-01-18,Anne Berge,NO,0
-1992-01-18,Petra Kronberger,AT,226
-1992-01-18,Anouk Barnier,FR,5
-1992-01-18,Renate Oberhofer,IT,34
-1992-01-18,Anja Haas,AT,26
-1992-01-18,Christelle Guignard,FR,20
-1992-01-18,Wendy Fisher,US,26
-1992-01-18,Blanca Fernandez Ochoa,ES,311
-1992-01-18,Deborah Compagnoni,IT,120
-1992-01-18,Lara Magoni,IT,76
-1992-01-18,Ingrid Salvenmoser,AT,56
-1992-01-18,Patricia Chauvet,FR,12
-1992-01-18,Nives Sitar,SK,6
-1992-01-18,Bibiana Perez,IT,34
-1992-01-18,Ingrid Stoeckl,AT,18
-1992-01-18,Pernilla Wiberg,SE,205
-1992-01-18,Katjusa Pusnik,SK,44
-1992-01-18,Morena Gallizio Tescari,IT,22
-1992-01-18,Ylva Nowen,SE,27
-1992-01-18,Annelise Coberger,NZ,241
-1992-01-18,Anna Boden,SE,22
-1992-01-18,Gabriela Zingre-Graf,CH,46
-1992-01-18,Roberta Serra,IT,31
-1992-01-18,Martina Accola,CH,10
-1992-01-18,Urska Hrovat,SK,59
-1992-01-18,Florence Masnada,FR,56
-1992-01-18,Vreni Schneider,CH,360
-1992-01-18,Diann Roffe Steinrotter,US,14
-1992-01-18,Ulrike Maier,AT,8
-1992-01-18,Astrid Plank,IT,22
-1992-01-18,Monique Pelletier,US,9
-1992-01-18,Julie M. J. Parisien,US,162
-1992-01-18,Natasa Bokal,SK,129
-1992-01-18,Claudia Strobl,AT,106
-1992-01-18,Monika Kaeslin,CH,12
-1992-02-02,Monique Pelletier,US,9
-1992-02-02,Diann Roffe Steinrotter,US,14
-1992-02-02,Anouk Barnier,FR,5
-1992-02-02,Brigitte Auer,AT,16
-1992-02-02,Katjusa Pusnik,SK,44
-1992-02-02,Blanca Fernandez Ochoa,ES,311
-1992-02-02,Nives Sitar,SK,6
-1992-02-02,Kerstin Riediger,DE,0
-1992-02-02,Karin Koellerer,AT,0
-1992-02-02,Vreni Schneider,CH,360
-1992-02-02,Julie M. J. Parisien,US,162
-1992-02-02,Marianne Kjoerstad,NO,0
-1992-02-02,Renate Oberhofer,IT,34
-1992-02-02,Monika Kaeslin,CH,12
-1992-02-02,Christelle Guignard,FR,20
-1992-02-02,Titti Rodling,SE,27
-1992-02-02,Edda Mutter,DE,38
-1992-02-02,Deborah Compagnoni,IT,120
-1992-02-02,Anna Boden,SE,22
-1992-02-02,Gaby May,CH,45
-1992-02-02,Martina Accola,CH,10
-1992-02-02,Heidi Voelker,US,43
-1992-02-02,Bibiana Perez,IT,34
-1992-02-02,Roberta Serra,IT,31
-1992-02-02,Florence Masnada,FR,56
-1992-02-02,Wendy Fisher,US,26
-1992-02-02,Anja Haas,AT,26
-1992-02-02,Patricia Chauvet,FR,12
-1992-02-02,Ingrid Stoeckl,AT,18
-1992-02-02,Elfi Eder,AT,164
-1992-02-02,Eva Twardokens,US,112
-1992-02-02,Anne Berge,NO,18
-1992-02-02,Morena Gallizio Tescari,IT,30
-1992-02-02,Claudia Strobl,AT,161
-1992-02-02,Karin Buder,AT,259
-1992-02-02,Veronika Sarec,SK,59
-1992-02-02,Natasa Bokal,SK,160
-1992-02-02,Annelise Coberger,NZ,301
-1992-02-02,Gabriela Zingre-Graf,CH,55
-1992-02-02,Pernilla Wiberg,SE,285
-1992-02-02,Astrid Plank,IT,29
-1992-02-02,Monika Maierhofer,AT,254
-1992-02-02,Ylva Nowen,SE,51
-1992-02-02,Ulrike Maier,AT,18
-1992-02-02,Christine von Gruenigen,CH,146
-1992-02-02,Annick Bonzon,CH,100
-1992-02-02,Sabine Ginther,AT,224
-1992-02-02,Lara Magoni,IT,92
-1992-02-02,Urska Hrovat,SK,106
-1992-02-02,Anita Wachter,AT,108
-1992-02-02,Katrin Neuenschwander,CH,98
-1992-02-02,Petra Kronberger,AT,266
-1992-02-02,Kristina Andersson,SE,109
-1992-02-02,Ingrid Salvenmoser,AT,70
-1992-02-29,Katrin Neuenschwander,CH,122
-1992-02-29,Anna Boden,SE,22
-1992-02-29,Ulrike Maier,AT,38
-1992-02-29,Natasa Bokal,SK,211
-1992-02-29,Elfi Eder,AT,164
-1992-02-29,Karin Buder,AT,259
-1992-02-29,Florence Masnada,FR,56
-1992-02-29,Julie M. J. Parisien,US,162
-1992-02-29,Annick Bonzon,CH,100
-1992-02-29,Christelle Guignard,FR,20
-1992-02-29,Claudia Strobl,AT,204
-1992-02-29,Morena Gallizio Tescari,IT,30
-1992-02-29,Monique Pelletier,US,13
-1992-02-29,Katjusa Pusnik,SK,47
-1992-02-29,Marianne Kjoerstad,NO,5
-1992-02-29,Christine von Gruenigen,CH,172
-1992-02-29,Karin Koellerer,AT,0
-1992-02-29,Nives Sitar,SK,6
-1992-02-29,Diann Roffe Steinrotter,US,14
-1992-02-29,Urska Hrovat,SK,106
-1992-02-29,Monika Kaeslin,CH,12
-1992-02-29,Renate Oberhofer,IT,34
-1992-02-29,Anja Haas,AT,26
-1992-02-29,Wendy Fisher,US,26
-1992-02-29,Roberta Serra,IT,31
-1992-02-29,Bibiana Perez,IT,34
-1992-02-29,Ingrid Stoeckl,AT,18
-1992-02-29,Annelise Coberger,NZ,301
-1992-02-29,Anita Wachter,AT,108
-1992-02-29,Deborah Compagnoni,IT,120
-1992-02-29,Ylva Nowen,SE,51
-1992-02-29,Titti Rodling,SE,27
-1992-02-29,Sabine Ginther,AT,224
-1992-02-29,Brigitte Auer,AT,38
-1992-02-29,Gabriela Zingre-Graf,CH,92
-1992-02-29,Edda Mutter,DE,56
-1992-02-29,Lara Magoni,IT,126
-1992-02-29,Vreni Schneider,CH,460
-1992-02-29,Astrid Plank,IT,31
-1992-02-29,Pernilla Wiberg,SE,365
-1992-02-29,Petra Kronberger,AT,326
-1992-02-29,Patricia Chauvet,FR,18
-1992-02-29,Blanca Fernandez Ochoa,ES,366
-1992-02-29,Heidi Voelker,US,51
-1992-02-29,Martina Accola,CH,19
-1992-02-29,Veronika Sarec,SK,90
-1992-02-29,Ingrid Salvenmoser,AT,77
-1992-02-29,Gaby May,CH,61
-1992-02-29,Anouk Barnier,FR,17
-1992-02-29,Kerstin Riediger,DE,14
-1992-02-29,Monika Maierhofer,AT,294
-1992-02-29,Eva Twardokens,US,124
-1992-02-29,Kristina Andersson,SE,156
-1992-02-29,Anne Berge,NO,46
-1992-03-02,Anja Haas,AT,26
-1992-03-02,Wendy Fisher,US,26
-1992-03-02,Veronika Sarec,SK,116
-1992-03-02,Petra Kronberger,AT,369
-1992-03-02,Bibiana Perez,IT,34
-1992-03-02,Ingrid Stoeckl,AT,18
-1992-03-02,Heidi Voelker,US,51
-1992-03-02,Deborah Compagnoni,IT,120
-1992-03-02,Sabine Ginther,AT,224
-1992-03-02,Lara Magoni,IT,130
-1992-03-02,Roberta Serra,IT,31
-1992-03-02,Monika Kaeslin,CH,12
-1992-03-02,Martina Accola,CH,22
-1992-03-02,Monique Pelletier,US,13
-1992-03-02,Astrid Plank,IT,31
-1992-03-02,Diann Roffe Steinrotter,US,14
-1992-03-02,Edda Mutter,DE,56
-1992-03-02,Karin Koellerer,AT,5
-1992-03-02,Anouk Barnier,FR,17
-1992-03-02,Nives Sitar,SK,6
-1992-03-02,Kerstin Riediger,DE,14
-1992-03-02,Claudia Strobl,AT,244
-1992-03-02,Marianne Kjoerstad,NO,5
-1992-03-02,Renate Oberhofer,IT,34
-1992-03-02,Ylva Nowen,SE,51
-1992-03-02,Monika Maierhofer,AT,312
-1992-03-02,Titti Rodling,SE,27
-1992-03-02,Elfi Eder,AT,192
-1992-03-02,Gabriela Zingre-Graf,CH,112
-1992-03-02,Brigitte Auer,AT,54
-1992-03-02,Anne Berge,NO,68
-1992-03-02,Ingrid Salvenmoser,AT,91
-1992-03-02,Vreni Schneider,CH,511
-1992-03-02,Katrin Neuenschwander,CH,146
-1992-03-02,Christine von Gruenigen,CH,184
-1992-03-02,Annick Bonzon,CH,110
-1992-03-02,Ulrike Maier,AT,47
-1992-03-02,Anita Wachter,AT,163
-1992-03-02,Urska Hrovat,SK,114
-1992-03-02,Gaby May,CH,68
-1992-03-02,Patricia Chauvet,FR,24
-1992-03-02,Karin Buder,AT,319
-1992-03-02,Pernilla Wiberg,SE,445
-1992-03-02,Julie M. J. Parisien,US,262
-1992-03-02,Annelise Coberger,NZ,335
-1992-03-02,Kristina Andersson,SE,190
-1992-03-02,Blanca Fernandez Ochoa,ES,413
-1992-03-02,Natasa Bokal,SK,251
-1992-03-02,Florence Masnada,FR,56
-1992-03-02,Anna Boden,SE,22
-1992-03-02,Christelle Guignard,FR,20
-1992-03-02,Eva Twardokens,US,124
-1992-03-02,Morena Gallizio Tescari,IT,30
-1992-03-02,Katjusa Pusnik,SK,49
+date,name,ath_country,value,specialty
+1991-11-30,Vreni Schneider,CH,100,Slalom
+1991-11-30,Monika Maierhofer,AT,37,Slalom
+1991-11-30,Urska Hrovat,SK,0,Slalom
+1991-11-30,Anja Haas,AT,0,Downhill
+1991-11-30,Claudia Strobl,AT,55,Slalom
+1991-11-30,Anne Berge,NO,0,Slalom
+1991-11-30,Julie M. J. Parisien,US,51,Slalom
+1991-11-30,Anna Boden,SE,22,Slalom
+1991-11-30,Monique Pelletier,US,0,Slalom
+1991-11-30,Elfi Eder,AT,34,Slalom
+1991-11-30,Ulrike Maier,AT,0,Giant Slalom
+1991-11-30,Petra Kronberger,AT,80,Downhill
+1991-11-30,Patricia Chauvet,FR,12,Slalom
+1991-11-30,Florence Masnada,FR,47,Super G
+1991-11-30,Natasa Bokal,SK,0,Slalom
+1991-11-30,Annick Bonzon,CH,24,Slalom
+1991-11-30,Deborah Compagnoni,IT,0,Giant Slalom
+1991-11-30,Ingrid Stoeckl,AT,0,Downhill
+1991-11-30,Eva Twardokens,US,14,Giant Slalom
+1991-11-30,Marianne Kjoerstad,NO,0,Slalom
+1991-11-30,Ylva Nowen,SE,7,Giant Slalom
+1991-11-30,Kerstin Riediger,DE,0,Slalom
+1991-11-30,Veronika Sarec,SK,0,Slalom
+1991-11-30,Christine von Gruenigen,CH,0,Slalom
+1991-11-30,Renate Oberhofer,IT,0,Slalom
+1991-11-30,Pernilla Wiberg,SE,0,Slalom
+1991-11-30,Morena Gallizio Tescari,IT,8,Combined
+1991-11-30,Anita Wachter,AT,0,Giant Slalom
+1991-11-30,Karin Buder,AT,40,Slalom
+1991-11-30,Heidi Voelker,US,0,Slalom
+1991-11-30,Kristina Andersson,SE,43,Slalom
+1991-11-30,Monika Kaeslin,CH,0,Slalom
+1991-11-30,Karin Koellerer,AT,0,Combined
+1991-11-30,Annelise Coberger,NZ,0,Slalom
+1991-11-30,Wendy Fisher,US,0,Slalom
+1991-11-30,Roberta Serra,IT,0,Slalom
+1991-11-30,Katrin Neuenschwander,CH,31,Slalom
+1991-11-30,Martina Accola,CH,0,Slalom
+1991-11-30,Nives Sitar,SK,0,Slalom
+1991-11-30,Brigitte Auer,AT,0,Giant Slalom
+1991-11-30,Blanca Fernandez Ochoa,ES,60,Slalom
+1991-11-30,Bibiana Perez,IT,0,Slalom
+1991-11-30,Diann Roffe Steinrotter,US,0,Giant Slalom
+1991-11-30,Astrid Plank,IT,0,Slalom
+1991-11-30,Gabriela Zingre-Graf,CH,28,Slalom
+1991-11-30,Christelle Guignard,FR,20,Giant Slalom
+1991-11-30,Anouk Barnier,FR,0,Slalom
+1991-11-30,Edda Mutter,DE,6,Slalom
+1991-11-30,Sabine Ginther,AT,0,Downhill
+1991-11-30,Lara Magoni,IT,18,Slalom
+1991-11-30,Ingrid Salvenmoser,AT,16,Giant Slalom
+1991-11-30,Titti Rodling,SE,9,Slalom
+1991-11-30,Gaby May,CH,26,Combined
+1991-11-30,Katjusa Pusnik,SK,10,Slalom
+1991-12-01,Christelle Guignard,FR,20,Giant Slalom
+1991-12-01,Heidi Voelker,US,28,Slalom
+1991-12-01,Kristina Andersson,SE,43,Slalom
+1991-12-01,Urska Hrovat,SK,0,Slalom
+1991-12-01,Roberta Serra,IT,0,Slalom
+1991-12-01,Renate Oberhofer,IT,0,Slalom
+1991-12-01,Anita Wachter,AT,31,Giant Slalom
+1991-12-01,Monique Pelletier,US,0,Slalom
+1991-12-01,Ylva Nowen,SE,27,Giant Slalom
+1991-12-01,Katrin Neuenschwander,CH,43,Slalom
+1991-12-01,Anna Boden,SE,22,Slalom
+1991-12-01,Christine von Gruenigen,CH,37,Slalom
+1991-12-01,Veronika Sarec,SK,0,Slalom
+1991-12-01,Brigitte Auer,AT,0,Giant Slalom
+1991-12-01,Anja Haas,AT,0,Downhill
+1991-12-01,Astrid Plank,IT,0,Slalom
+1991-12-01,Bibiana Perez,IT,0,Slalom
+1991-12-01,Lara Magoni,IT,18,Slalom
+1991-12-01,Ingrid Salvenmoser,AT,25,Giant Slalom
+1991-12-01,Gabriela Zingre-Graf,CH,38,Slalom
+1991-12-01,Nives Sitar,SK,0,Slalom
+1991-12-01,Florence Masnada,FR,47,Super G
+1991-12-01,Elfi Eder,AT,34,Slalom
+1991-12-01,Ingrid Stoeckl,AT,18,Downhill
+1991-12-01,Wendy Fisher,US,0,Slalom
+1991-12-01,Ulrike Maier,AT,0,Giant Slalom
+1991-12-01,Marianne Kjoerstad,NO,0,Slalom
+1991-12-01,Natasa Bokal,SK,24,Slalom
+1991-12-01,Edda Mutter,DE,22,Slalom
+1991-12-01,Karin Koellerer,AT,0,Combined
+1991-12-01,Eva Twardokens,US,14,Giant Slalom
+1991-12-01,Katjusa Pusnik,SK,18,Slalom
+1991-12-01,Deborah Compagnoni,IT,40,Giant Slalom
+1991-12-01,Diann Roffe Steinrotter,US,0,Giant Slalom
+1991-12-01,Monika Maierhofer,AT,71,Slalom
+1991-12-01,Anouk Barnier,FR,0,Slalom
+1991-12-01,Kerstin Riediger,DE,0,Slalom
+1991-12-01,Sabine Ginther,AT,47,Downhill
+1991-12-01,Petra Kronberger,AT,140,Downhill
+1991-12-01,Annelise Coberger,NZ,26,Slalom
+1991-12-01,Patricia Chauvet,FR,12,Slalom
+1991-12-01,Monika Kaeslin,CH,0,Slalom
+1991-12-01,Pernilla Wiberg,SE,55,Slalom
+1991-12-01,Titti Rodling,SE,9,Slalom
+1991-12-01,Gaby May,CH,26,Combined
+1991-12-01,Anne Berge,NO,0,Slalom
+1991-12-01,Morena Gallizio Tescari,IT,22,Combined
+1991-12-01,Blanca Fernandez Ochoa,ES,160,Slalom
+1991-12-01,Claudia Strobl,AT,106,Slalom
+1991-12-01,Martina Accola,CH,0,Slalom
+1991-12-01,Karin Buder,AT,83,Slalom
+1991-12-01,Annick Bonzon,CH,46,Slalom
+1991-12-01,Julie M. J. Parisien,US,51,Slalom
+1991-12-01,Vreni Schneider,CH,180,Slalom
+1992-01-12,Kristina Andersson,SE,43,Slalom
+1992-01-12,Urska Hrovat,SK,0,Slalom
+1992-01-12,Monika Kaeslin,CH,12,Slalom
+1992-01-12,Anna Boden,SE,22,Slalom
+1992-01-12,Anja Haas,AT,20,Downhill
+1992-01-12,Karin Koellerer,AT,0,Combined
+1992-01-12,Monika Maierhofer,AT,126,Slalom
+1992-01-12,Edda Mutter,DE,38,Slalom
+1992-01-12,Christelle Guignard,FR,20,Giant Slalom
+1992-01-12,Annelise Coberger,NZ,86,Slalom
+1992-01-12,Sabine Ginther,AT,147,Downhill
+1992-01-12,Anouk Barnier,FR,0,Slalom
+1992-01-12,Gabriela Zingre-Graf,CH,46,Slalom
+1992-01-12,Gaby May,CH,33,Combined
+1992-01-12,Brigitte Auer,AT,0,Giant Slalom
+1992-01-12,Bibiana Perez,IT,34,Slalom
+1992-01-12,Blanca Fernandez Ochoa,ES,240,Slalom
+1992-01-12,Martina Accola,CH,10,Slalom
+1992-01-12,Vreni Schneider,CH,180,Slalom
+1992-01-12,Wendy Fisher,US,26,Slalom
+1992-01-12,Roberta Serra,IT,31,Slalom
+1992-01-12,Katrin Neuenschwander,CH,43,Slalom
+1992-01-12,Lara Magoni,IT,58,Slalom
+1992-01-12,Nives Sitar,SK,0,Slalom
+1992-01-12,Julie M. J. Parisien,US,102,Slalom
+1992-01-12,Ingrid Salvenmoser,AT,25,Giant Slalom
+1992-01-12,Anne Berge,NO,0,Slalom
+1992-01-12,Christine von Gruenigen,CH,37,Slalom
+1992-01-12,Annick Bonzon,CH,70,Slalom
+1992-01-12,Eva Twardokens,US,36,Giant Slalom
+1992-01-12,Morena Gallizio Tescari,IT,22,Combined
+1992-01-12,Renate Oberhofer,IT,18,Slalom
+1992-01-12,Kerstin Riediger,DE,0,Slalom
+1992-01-12,Veronika Sarec,SK,0,Slalom
+1992-01-12,Anita Wachter,AT,45,Giant Slalom
+1992-01-12,Karin Buder,AT,120,Slalom
+1992-01-12,Marianne Kjoerstad,NO,0,Slalom
+1992-01-12,Diann Roffe Steinrotter,US,0,Giant Slalom
+1992-01-12,Claudia Strobl,AT,106,Slalom
+1992-01-12,Heidi Voelker,US,28,Slalom
+1992-01-12,Pernilla Wiberg,SE,98,Slalom
+1992-01-12,Ingrid Stoeckl,AT,18,Downhill
+1992-01-12,Titti Rodling,SE,9,Slalom
+1992-01-12,Deborah Compagnoni,IT,40,Giant Slalom
+1992-01-12,Monique Pelletier,US,9,Slalom
+1992-01-12,Katjusa Pusnik,SK,18,Slalom
+1992-01-12,Patricia Chauvet,FR,12,Slalom
+1992-01-12,Ylva Nowen,SE,27,Giant Slalom
+1992-01-12,Elfi Eder,AT,81,Slalom
+1992-01-12,Ulrike Maier,AT,0,Giant Slalom
+1992-01-12,Astrid Plank,IT,0,Slalom
+1992-01-12,Petra Kronberger,AT,140,Downhill
+1992-01-12,Natasa Bokal,SK,52,Slalom
+1992-01-12,Florence Masnada,FR,47,Super G
+1992-01-14,Diann Roffe Steinrotter,US,7,Giant Slalom
+1992-01-14,Anna Boden,SE,22,Slalom
+1992-01-14,Veronika Sarec,SK,14,Slalom
+1992-01-14,Katjusa Pusnik,SK,44,Slalom
+1992-01-14,Heidi Voelker,US,38,Slalom
+1992-01-14,Astrid Plank,IT,22,Slalom
+1992-01-14,Eva Twardokens,US,64,Giant Slalom
+1992-01-14,Roberta Serra,IT,31,Slalom
+1992-01-14,Anne Berge,NO,0,Slalom
+1992-01-14,Ylva Nowen,SE,27,Giant Slalom
+1992-01-14,Annick Bonzon,CH,70,Slalom
+1992-01-14,Ingrid Salvenmoser,AT,56,Giant Slalom
+1992-01-14,Gaby May,CH,33,Combined
+1992-01-14,Ulrike Maier,AT,0,Giant Slalom
+1992-01-14,Edda Mutter,DE,38,Slalom
+1992-01-14,Claudia Strobl,AT,106,Slalom
+1992-01-14,Marianne Kjoerstad,NO,0,Slalom
+1992-01-14,Karin Buder,AT,157,Slalom
+1992-01-14,Pernilla Wiberg,SE,145,Slalom
+1992-01-14,Morena Gallizio Tescari,IT,22,Combined
+1992-01-14,Deborah Compagnoni,IT,40,Giant Slalom
+1992-01-14,Kerstin Riediger,DE,0,Slalom
+1992-01-14,Petra Kronberger,AT,195,Downhill
+1992-01-14,Titti Rodling,SE,17,Slalom
+1992-01-14,Anita Wachter,AT,45,Giant Slalom
+1992-01-14,Patricia Chauvet,FR,12,Slalom
+1992-01-14,Monika Maierhofer,AT,126,Slalom
+1992-01-14,Monika Kaeslin,CH,12,Slalom
+1992-01-14,Annelise Coberger,NZ,186,Slalom
+1992-01-14,Karin Koellerer,AT,0,Combined
+1992-01-14,Sabine Ginther,AT,147,Downhill
+1992-01-14,Blanca Fernandez Ochoa,ES,274,Slalom
+1992-01-14,Anouk Barnier,FR,5,Slalom
+1992-01-14,Vreni Schneider,CH,260,Slalom
+1992-01-14,Martina Accola,CH,10,Slalom
+1992-01-14,Julie M. J. Parisien,US,162,Slalom
+1992-01-14,Christine von Gruenigen,CH,88,Slalom
+1992-01-14,Wendy Fisher,US,26,Slalom
+1992-01-14,Nives Sitar,SK,0,Slalom
+1992-01-14,Kristina Andersson,SE,63,Slalom
+1992-01-14,Renate Oberhofer,IT,34,Slalom
+1992-01-14,Anja Haas,AT,26,Downhill
+1992-01-14,Brigitte Auer,AT,0,Giant Slalom
+1992-01-14,Urska Hrovat,SK,12,Slalom
+1992-01-14,Gabriela Zingre-Graf,CH,46,Slalom
+1992-01-14,Bibiana Perez,IT,34,Slalom
+1992-01-14,Christelle Guignard,FR,20,Giant Slalom
+1992-01-14,Lara Magoni,IT,76,Slalom
+1992-01-14,Monique Pelletier,US,9,Slalom
+1992-01-14,Elfi Eder,AT,121,Slalom
+1992-01-14,Katrin Neuenschwander,CH,67,Slalom
+1992-01-14,Florence Masnada,FR,56,Super G
+1992-01-14,Natasa Bokal,SK,95,Slalom
+1992-01-14,Ingrid Stoeckl,AT,18,Downhill
+1992-01-18,Diann Roffe Steinrotter,US,14,Giant Slalom
+1992-01-18,Anna Boden,SE,22,Slalom
+1992-01-18,Brigitte Auer,AT,16,Giant Slalom
+1992-01-18,Monika Kaeslin,CH,12,Slalom
+1992-01-18,Titti Rodling,SE,27,Slalom
+1992-01-18,Anouk Barnier,FR,5,Slalom
+1992-01-18,Ingrid Stoeckl,AT,18,Downhill
+1992-01-18,Christelle Guignard,FR,20,Giant Slalom
+1992-01-18,Katjusa Pusnik,SK,44,Slalom
+1992-01-18,Kerstin Riediger,DE,0,Slalom
+1992-01-18,Anja Haas,AT,26,Downhill
+1992-01-18,Morena Gallizio Tescari,IT,22,Combined
+1992-01-18,Ylva Nowen,SE,27,Giant Slalom
+1992-01-18,Ulrike Maier,AT,8,Giant Slalom
+1992-01-18,Edda Mutter,DE,38,Slalom
+1992-01-18,Annick Bonzon,CH,88,Slalom
+1992-01-18,Astrid Plank,IT,22,Slalom
+1992-01-18,Renate Oberhofer,IT,34,Slalom
+1992-01-18,Patricia Chauvet,FR,12,Slalom
+1992-01-18,Monique Pelletier,US,9,Slalom
+1992-01-18,Ingrid Salvenmoser,AT,56,Giant Slalom
+1992-01-18,Pernilla Wiberg,SE,205,Slalom
+1992-01-18,Deborah Compagnoni,IT,120,Giant Slalom
+1992-01-18,Martina Accola,CH,10,Slalom
+1992-01-18,Marianne Kjoerstad,NO,0,Slalom
+1992-01-18,Karin Buder,AT,208,Slalom
+1992-01-18,Roberta Serra,IT,31,Slalom
+1992-01-18,Katrin Neuenschwander,CH,76,Slalom
+1992-01-18,Nives Sitar,SK,6,Slalom
+1992-01-18,Claudia Strobl,AT,106,Slalom
+1992-01-18,Petra Kronberger,AT,226,Downhill
+1992-01-18,Anita Wachter,AT,65,Giant Slalom
+1992-01-18,Gabriela Zingre-Graf,CH,46,Slalom
+1992-01-18,Christine von Gruenigen,CH,112,Slalom
+1992-01-18,Natasa Bokal,SK,129,Slalom
+1992-01-18,Lara Magoni,IT,76,Slalom
+1992-01-18,Florence Masnada,FR,56,Super G
+1992-01-18,Wendy Fisher,US,26,Slalom
+1992-01-18,Elfi Eder,AT,164,Slalom
+1992-01-18,Kristina Andersson,SE,89,Slalom
+1992-01-18,Bibiana Perez,IT,34,Slalom
+1992-01-18,Veronika Sarec,SK,28,Slalom
+1992-01-18,Urska Hrovat,SK,59,Slalom
+1992-01-18,Anne Berge,NO,0,Slalom
+1992-01-18,Eva Twardokens,US,86,Giant Slalom
+1992-01-18,Heidi Voelker,US,43,Slalom
+1992-01-18,Blanca Fernandez Ochoa,ES,311,Slalom
+1992-01-18,Karin Koellerer,AT,0,Combined
+1992-01-18,Annelise Coberger,NZ,241,Slalom
+1992-01-18,Julie M. J. Parisien,US,162,Slalom
+1992-01-18,Sabine Ginther,AT,187,Downhill
+1992-01-18,Gaby May,CH,45,Combined
+1992-01-18,Vreni Schneider,CH,360,Slalom
+1992-01-18,Monika Maierhofer,AT,154,Slalom
+1992-02-02,Vreni Schneider,CH,360,Slalom
+1992-02-02,Natasa Bokal,SK,160,Slalom
+1992-02-02,Karin Koellerer,AT,0,Combined
+1992-02-02,Anouk Barnier,FR,5,Slalom
+1992-02-02,Ingrid Stoeckl,AT,18,Downhill
+1992-02-02,Elfi Eder,AT,164,Slalom
+1992-02-02,Blanca Fernandez Ochoa,ES,311,Slalom
+1992-02-02,Christine von Gruenigen,CH,146,Slalom
+1992-02-02,Ulrike Maier,AT,18,Giant Slalom
+1992-02-02,Florence Masnada,FR,56,Super G
+1992-02-02,Julie M. J. Parisien,US,162,Slalom
+1992-02-02,Sabine Ginther,AT,224,Downhill
+1992-02-02,Renate Oberhofer,IT,34,Slalom
+1992-02-02,Petra Kronberger,AT,266,Downhill
+1992-02-02,Kerstin Riediger,DE,0,Slalom
+1992-02-02,Patricia Chauvet,FR,12,Slalom
+1992-02-02,Monika Maierhofer,AT,254,Slalom
+1992-02-02,Deborah Compagnoni,IT,120,Giant Slalom
+1992-02-02,Pernilla Wiberg,SE,285,Slalom
+1992-02-02,Marianne Kjoerstad,NO,0,Slalom
+1992-02-02,Anja Haas,AT,26,Downhill
+1992-02-02,Morena Gallizio Tescari,IT,30,Combined
+1992-02-02,Annelise Coberger,NZ,301,Slalom
+1992-02-02,Titti Rodling,SE,27,Slalom
+1992-02-02,Edda Mutter,DE,38,Slalom
+1992-02-02,Karin Buder,AT,259,Slalom
+1992-02-02,Monika Kaeslin,CH,12,Slalom
+1992-02-02,Claudia Strobl,AT,161,Slalom
+1992-02-02,Anita Wachter,AT,108,Giant Slalom
+1992-02-02,Wendy Fisher,US,26,Slalom
+1992-02-02,Martina Accola,CH,10,Slalom
+1992-02-02,Nives Sitar,SK,6,Slalom
+1992-02-02,Urska Hrovat,SK,106,Slalom
+1992-02-02,Ingrid Salvenmoser,AT,70,Giant Slalom
+1992-02-02,Anna Boden,SE,22,Slalom
+1992-02-02,Monique Pelletier,US,9,Slalom
+1992-02-02,Diann Roffe Steinrotter,US,14,Giant Slalom
+1992-02-02,Astrid Plank,IT,29,Slalom
+1992-02-02,Roberta Serra,IT,31,Slalom
+1992-02-02,Katrin Neuenschwander,CH,98,Slalom
+1992-02-02,Ylva Nowen,SE,51,Giant Slalom
+1992-02-02,Heidi Voelker,US,43,Slalom
+1992-02-02,Annick Bonzon,CH,100,Slalom
+1992-02-02,Veronika Sarec,SK,59,Slalom
+1992-02-02,Bibiana Perez,IT,34,Slalom
+1992-02-02,Gabriela Zingre-Graf,CH,55,Slalom
+1992-02-02,Eva Twardokens,US,112,Giant Slalom
+1992-02-02,Christelle Guignard,FR,20,Giant Slalom
+1992-02-02,Brigitte Auer,AT,16,Giant Slalom
+1992-02-02,Kristina Andersson,SE,109,Slalom
+1992-02-02,Gaby May,CH,45,Combined
+1992-02-02,Katjusa Pusnik,SK,44,Slalom
+1992-02-02,Lara Magoni,IT,92,Slalom
+1992-02-02,Anne Berge,NO,18,Slalom
+1992-02-29,Wendy Fisher,US,26,Slalom
+1992-02-29,Blanca Fernandez Ochoa,ES,366,Slalom
+1992-02-29,Patricia Chauvet,FR,18,Slalom
+1992-02-29,Marianne Kjoerstad,NO,5,Slalom
+1992-02-29,Julie M. J. Parisien,US,162,Slalom
+1992-02-29,Martina Accola,CH,19,Slalom
+1992-02-29,Gaby May,CH,61,Combined
+1992-02-29,Veronika Sarec,SK,90,Slalom
+1992-02-29,Vreni Schneider,CH,460,Slalom
+1992-02-29,Petra Kronberger,AT,326,Downhill
+1992-02-29,Karin Koellerer,AT,0,Combined
+1992-02-29,Anne Berge,NO,46,Slalom
+1992-02-29,Annick Bonzon,CH,100,Slalom
+1992-02-29,Monika Maierhofer,AT,294,Slalom
+1992-02-29,Annelise Coberger,NZ,301,Slalom
+1992-02-29,Monique Pelletier,US,13,Slalom
+1992-02-29,Monika Kaeslin,CH,12,Slalom
+1992-02-29,Katjusa Pusnik,SK,47,Slalom
+1992-02-29,Sabine Ginther,AT,224,Downhill
+1992-02-29,Anouk Barnier,FR,17,Slalom
+1992-02-29,Eva Twardokens,US,124,Giant Slalom
+1992-02-29,Heidi Voelker,US,51,Slalom
+1992-02-29,Ylva Nowen,SE,51,Giant Slalom
+1992-02-29,Pernilla Wiberg,SE,365,Slalom
+1992-02-29,Bibiana Perez,IT,34,Slalom
+1992-02-29,Nives Sitar,SK,6,Slalom
+1992-02-29,Christelle Guignard,FR,20,Giant Slalom
+1992-02-29,Florence Masnada,FR,56,Super G
+1992-02-29,Lara Magoni,IT,126,Slalom
+1992-02-29,Gabriela Zingre-Graf,CH,92,Slalom
+1992-02-29,Natasa Bokal,SK,211,Slalom
+1992-02-29,Ingrid Stoeckl,AT,18,Downhill
+1992-02-29,Ulrike Maier,AT,38,Giant Slalom
+1992-02-29,Christine von Gruenigen,CH,172,Slalom
+1992-02-29,Anita Wachter,AT,108,Giant Slalom
+1992-02-29,Ingrid Salvenmoser,AT,77,Giant Slalom
+1992-02-29,Katrin Neuenschwander,CH,122,Slalom
+1992-02-29,Brigitte Auer,AT,38,Giant Slalom
+1992-02-29,Renate Oberhofer,IT,34,Slalom
+1992-02-29,Titti Rodling,SE,27,Slalom
+1992-02-29,Edda Mutter,DE,56,Slalom
+1992-02-29,Astrid Plank,IT,31,Slalom
+1992-02-29,Claudia Strobl,AT,204,Slalom
+1992-02-29,Karin Buder,AT,259,Slalom
+1992-02-29,Roberta Serra,IT,31,Slalom
+1992-02-29,Anna Boden,SE,22,Slalom
+1992-02-29,Elfi Eder,AT,164,Slalom
+1992-02-29,Morena Gallizio Tescari,IT,30,Combined
+1992-02-29,Diann Roffe Steinrotter,US,14,Giant Slalom
+1992-02-29,Kerstin Riediger,DE,14,Slalom
+1992-02-29,Anja Haas,AT,26,Downhill
+1992-02-29,Deborah Compagnoni,IT,120,Giant Slalom
+1992-02-29,Kristina Andersson,SE,156,Slalom
+1992-02-29,Urska Hrovat,SK,106,Slalom
+1992-03-02,Monique Pelletier,US,13,Slalom
+1992-03-02,Diann Roffe Steinrotter,US,14,Giant Slalom
+1992-03-02,Marianne Kjoerstad,NO,5,Slalom
+1992-03-02,Titti Rodling,SE,27,Slalom
+1992-03-02,Nives Sitar,SK,6,Slalom
+1992-03-02,Eva Twardokens,US,124,Giant Slalom
+1992-03-02,Anouk Barnier,FR,17,Slalom
+1992-03-02,Gabriela Zingre-Graf,CH,112,Slalom
+1992-03-02,Lara Magoni,IT,130,Slalom
+1992-03-02,Kristina Andersson,SE,190,Slalom
+1992-03-02,Urska Hrovat,SK,114,Slalom
+1992-03-02,Elfi Eder,AT,192,Slalom
+1992-03-02,Florence Masnada,FR,56,Super G
+1992-03-02,Natasa Bokal,SK,251,Slalom
+1992-03-02,Christine von Gruenigen,CH,184,Slalom
+1992-03-02,Anita Wachter,AT,163,Giant Slalom
+1992-03-02,Bibiana Perez,IT,34,Slalom
+1992-03-02,Claudia Strobl,AT,244,Slalom
+1992-03-02,Pernilla Wiberg,SE,445,Slalom
+1992-03-02,Deborah Compagnoni,IT,120,Giant Slalom
+1992-03-02,Petra Kronberger,AT,369,Downhill
+1992-03-02,Julie M. J. Parisien,US,262,Slalom
+1992-03-02,Monika Maierhofer,AT,312,Slalom
+1992-03-02,Annelise Coberger,NZ,335,Slalom
+1992-03-02,Sabine Ginther,AT,224,Downhill
+1992-03-02,Blanca Fernandez Ochoa,ES,413,Slalom
+1992-03-02,Vreni Schneider,CH,511,Slalom
+1992-03-02,Karin Buder,AT,319,Slalom
+1992-03-02,Katrin Neuenschwander,CH,146,Slalom
+1992-03-02,Roberta Serra,IT,31,Slalom
+1992-03-02,Ingrid Salvenmoser,AT,91,Giant Slalom
+1992-03-02,Monika Kaeslin,CH,12,Slalom
+1992-03-02,Patricia Chauvet,FR,24,Slalom
+1992-03-02,Kerstin Riediger,DE,14,Slalom
+1992-03-02,Morena Gallizio Tescari,IT,30,Combined
+1992-03-02,Edda Mutter,DE,56,Slalom
+1992-03-02,Renate Oberhofer,IT,34,Slalom
+1992-03-02,Ingrid Stoeckl,AT,18,Downhill
+1992-03-02,Ulrike Maier,AT,47,Giant Slalom
+1992-03-02,Anja Haas,AT,26,Downhill
+1992-03-02,Christelle Guignard,FR,20,Giant Slalom
+1992-03-02,Brigitte Auer,AT,54,Giant Slalom
+1992-03-02,Astrid Plank,IT,31,Slalom
+1992-03-02,Anna Boden,SE,22,Slalom
+1992-03-02,Ylva Nowen,SE,51,Giant Slalom
+1992-03-02,Annick Bonzon,CH,110,Slalom
+1992-03-02,Katjusa Pusnik,SK,49,Slalom
+1992-03-02,Wendy Fisher,US,26,Slalom
+1992-03-02,Gaby May,CH,68,Combined
+1992-03-02,Anne Berge,NO,68,Slalom
+1992-03-02,Heidi Voelker,US,51,Slalom
+1992-03-02,Veronika Sarec,SK,116,Slalom
+1992-03-02,Martina Accola,CH,22,Slalom
+1992-03-02,Karin Koellerer,AT,5,Combined

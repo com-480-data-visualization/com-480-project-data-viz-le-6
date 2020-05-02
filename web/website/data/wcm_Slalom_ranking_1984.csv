@@ -1,481 +1,481 @@
-date,name,ath_country,value
-1983-12-02,Andreas Wenzel,LI,25
-1983-12-02,Roberto Grigis,IT,5
-1983-12-02,Paolo De Chiesa,IT,0
-1983-12-02,Gunnar Neuriesser,SE,0
-1983-12-02,Michel Canac,FR,0
-1983-12-02,Thomas Buergler,CH,0
-1983-12-02,Lars Goeran Halvarsson,SE,0
-1983-12-02,Michel Vion,FR,0
-1983-12-02,Martin Hangl,CH,0
-1983-12-02,Marc Girardelli,LU,0
-1983-12-02,Klaus Heidegger,AT,0
-1983-12-02,Mark Tache,US,0
-1983-12-02,John Buxman,US,0
-1983-12-02,Tiger Shaw,US,0
-1983-12-02,Oswald Toetsch,IT,0
-1983-12-02,Johan Wallner,SE,0
-1983-12-02,Phil Mahre,US,7
-1983-12-02,Christian Orlainsky,AT,8
-1983-12-02,Odd Sorli,NO,2
-1983-12-02,Ivano Edalini,IT,6
-1983-12-02,Anton Steiner,AT,9
-1983-12-02,Toshihiro Kaiwa,JP,0
-1983-12-02,Tomaz Cerkovnik,SK,0
-1983-12-02,Ingemar Stenmark,SE,0
-1983-12-02,Bojan Krizaj,SK,0
-1983-12-02,Steve Mahre,US,0
-1983-12-02,Pirmin Zurbriggen,CH,0
-1983-12-02,Hubert Strolz,AT,3
-1983-12-02,Joze Kuralt,SK,0
-1983-12-02,Joel Gaspoz,CH,0
-1983-12-02,Vladimir Andreev,RU,0
-1983-12-02,Guenther Mader,AT,0
-1983-12-02,Alex Giorgi,IT,0
-1983-12-02,Jacques Luethy,CH,0
-1983-12-02,Egon Hirt,DE,0
-1983-12-02,Robert Zoller,AT,0
-1983-12-02,Didier Bouvet,FR,4
-1983-12-02,Stig Strand,SE,0
-1983-12-02,Max Julen,CH,0
-1983-12-02,Osamu Kodama,JP,0
-1983-12-02,Florian Beck,DE,0
-1983-12-02,Yves Tavernier,FR,0
-1983-12-02,Jonas Nilsson,SE,10
-1983-12-02,Jure Franko,SK,2
-1983-12-02,Petar Popangelov,BG,20
-1983-12-02,Franz Gruber,AT,11
-1983-12-02,Paul Frommelt,LI,15
-1983-12-02,Bengt Fjaellberg,SE,12
-1983-12-13,Johan Wallner,SE,0
-1983-12-13,Didier Bouvet,FR,4
-1983-12-13,Ivano Edalini,IT,6
-1983-12-13,Phil Mahre,US,7
-1983-12-13,Christian Orlainsky,AT,8
-1983-12-13,Jonas Nilsson,SE,10
-1983-12-13,Bengt Fjaellberg,SE,12
-1983-12-13,Joel Gaspoz,CH,7
-1983-12-13,Paul Frommelt,LI,15
-1983-12-13,Petar Popangelov,BG,20
-1983-12-13,Pirmin Zurbriggen,CH,12
-1983-12-13,Hubert Strolz,AT,3
-1983-12-13,Vladimir Andreev,RU,6
-1983-12-13,Alex Giorgi,IT,5
-1983-12-13,Steve Mahre,US,15
-1983-12-13,Yves Tavernier,FR,4
-1983-12-13,Bojan Krizaj,SK,20
-1983-12-13,Jure Franko,SK,5
-1983-12-13,Egon Hirt,DE,1
-1983-12-13,Ingemar Stenmark,SE,25
-1983-12-13,Jacques Luethy,CH,2
-1983-12-13,Andreas Wenzel,LI,25
-1983-12-13,Odd Sorli,NO,2
-1983-12-13,Tomaz Cerkovnik,SK,0
-1983-12-13,Gunnar Neuriesser,SE,0
-1983-12-13,Lars Goeran Halvarsson,SE,0
-1983-12-13,Michel Vion,FR,0
-1983-12-13,Mark Tache,US,0
-1983-12-13,Thomas Buergler,CH,0
-1983-12-13,Michel Canac,FR,0
-1983-12-13,Roberto Grigis,IT,15
-1983-12-13,Martin Hangl,CH,0
-1983-12-13,John Buxman,US,0
-1983-12-13,Tiger Shaw,US,0
-1983-12-13,Joze Kuralt,SK,8
-1983-12-13,Paolo De Chiesa,IT,0
-1983-12-13,Klaus Heidegger,AT,0
-1983-12-13,Franz Gruber,AT,22
-1983-12-13,Anton Steiner,AT,18
-1983-12-13,Oswald Toetsch,IT,0
-1983-12-13,Toshihiro Kaiwa,JP,0
-1983-12-13,Guenther Mader,AT,0
-1983-12-13,Florian Beck,DE,0
-1983-12-13,Osamu Kodama,JP,0
-1983-12-13,Max Julen,CH,0
-1983-12-13,Stig Strand,SE,0
-1983-12-13,Robert Zoller,AT,0
-1983-12-13,Marc Girardelli,LU,0
-1983-12-20,Michel Vion,FR,0
-1983-12-20,Bengt Fjaellberg,SE,12
-1983-12-20,Lars Goeran Halvarsson,SE,0
-1983-12-20,Jonas Nilsson,SE,10
-1983-12-20,Klaus Heidegger,AT,0
-1983-12-20,Mark Tache,US,0
-1983-12-20,John Buxman,US,0
-1983-12-20,Tiger Shaw,US,0
-1983-12-20,Johan Wallner,SE,0
-1983-12-20,Toshihiro Kaiwa,JP,1
-1983-12-20,Joel Gaspoz,CH,9
-1983-12-20,Martin Hangl,CH,0
-1983-12-20,Thomas Buergler,CH,0
-1983-12-20,Yves Tavernier,FR,4
-1983-12-20,Gunnar Neuriesser,SE,0
-1983-12-20,Anton Steiner,AT,18
-1983-12-20,Christian Orlainsky,AT,8
-1983-12-20,Paul Frommelt,LI,15
-1983-12-20,Ivano Edalini,IT,6
-1983-12-20,Roberto Grigis,IT,15
-1983-12-20,Didier Bouvet,FR,4
-1983-12-20,Hubert Strolz,AT,3
-1983-12-20,Jure Franko,SK,5
-1983-12-20,Odd Sorli,NO,2
-1983-12-20,Steve Mahre,US,15
-1983-12-20,Pirmin Zurbriggen,CH,12
-1983-12-20,Joze Kuralt,SK,8
-1983-12-20,Vladimir Andreev,RU,6
-1983-12-20,Jacques Luethy,CH,2
-1983-12-20,Egon Hirt,DE,1
-1983-12-20,Marc Girardelli,LU,0
-1983-12-20,Paolo De Chiesa,IT,0
-1983-12-20,Michel Canac,FR,0
-1983-12-20,Phil Mahre,US,7
-1983-12-20,Oswald Toetsch,IT,0
-1983-12-20,Petar Popangelov,BG,35
-1983-12-20,Andreas Wenzel,LI,32
-1983-12-20,Franz Gruber,AT,30
-1983-12-20,Osamu Kodama,JP,6
-1983-12-20,Max Julen,CH,9
-1983-12-20,Florian Beck,DE,5
-1983-12-20,Ingemar Stenmark,SE,50
-1983-12-20,Tomaz Cerkovnik,SK,4
-1983-12-20,Guenther Mader,AT,3
-1983-12-20,Stig Strand,SE,11
-1983-12-20,Bojan Krizaj,SK,30
-1983-12-20,Robert Zoller,AT,20
-1983-12-20,Alex Giorgi,IT,17
-1984-01-16,Roberto Grigis,IT,15
-1984-01-16,Osamu Kodama,JP,6
-1984-01-16,Bengt Fjaellberg,SE,12
-1984-01-16,Bojan Krizaj,SK,39
-1984-01-16,Florian Beck,DE,5
-1984-01-16,Tomaz Cerkovnik,SK,4
-1984-01-16,Guenther Mader,AT,3
-1984-01-16,Petar Popangelov,BG,35
-1984-01-16,Toshihiro Kaiwa,JP,1
-1984-01-16,Lars Goeran Halvarsson,SE,0
-1984-01-16,Michel Vion,FR,0
-1984-01-16,Didier Bouvet,FR,12
-1984-01-16,Martin Hangl,CH,0
-1984-01-16,Klaus Heidegger,AT,0
-1984-01-16,Paolo De Chiesa,IT,20
-1984-01-16,Robert Zoller,AT,20
-1984-01-16,Anton Steiner,AT,18
-1984-01-16,Egon Hirt,DE,1
-1984-01-16,Jacques Luethy,CH,2
-1984-01-16,Hubert Strolz,AT,3
-1984-01-16,Phil Mahre,US,7
-1984-01-16,Christian Orlainsky,AT,8
-1984-01-16,Max Julen,CH,20
-1984-01-16,Jure Franko,SK,5
-1984-01-16,Odd Sorli,NO,2
-1984-01-16,Ingemar Stenmark,SE,50
-1984-01-16,Steve Mahre,US,15
-1984-01-16,Pirmin Zurbriggen,CH,12
-1984-01-16,Vladimir Andreev,RU,6
-1984-01-16,Franz Gruber,AT,42
-1984-01-16,Mark Tache,US,0
-1984-01-16,Paul Frommelt,LI,25
-1984-01-16,Alex Giorgi,IT,17
-1984-01-16,Yves Tavernier,FR,4
-1984-01-16,Ivano Edalini,IT,6
-1984-01-16,Tiger Shaw,US,0
-1984-01-16,John Buxman,US,0
-1984-01-16,Andreas Wenzel,LI,47
-1984-01-16,Thomas Buergler,CH,2
-1984-01-16,Michel Canac,FR,3
-1984-01-16,Joel Gaspoz,CH,10
-1984-01-16,Oswald Toetsch,IT,0
-1984-01-16,Joze Kuralt,SK,12
-1984-01-16,Marc Girardelli,LU,25
-1984-01-16,Gunnar Neuriesser,SE,5
-1984-01-16,Johan Wallner,SE,0
-1984-01-16,Jonas Nilsson,SE,16
-1984-01-16,Stig Strand,SE,18
-1984-01-17,Paul Frommelt,LI,25
-1984-01-17,Paolo De Chiesa,IT,20
-1984-01-17,Gunnar Neuriesser,SE,5
-1984-01-17,Michel Canac,FR,3
-1984-01-17,Thomas Buergler,CH,2
-1984-01-17,Michel Vion,FR,0
-1984-01-17,Martin Hangl,CH,0
-1984-01-17,Ivano Edalini,IT,6
-1984-01-17,Mark Tache,US,0
-1984-01-17,John Buxman,US,0
-1984-01-17,Ingemar Stenmark,SE,75
-1984-01-17,Tiger Shaw,US,0
-1984-01-17,Johan Wallner,SE,0
-1984-01-17,Marc Girardelli,LU,45
-1984-01-17,Toshihiro Kaiwa,JP,1
-1984-01-17,Klaus Heidegger,AT,0
-1984-01-17,Bengt Fjaellberg,SE,12
-1984-01-17,Tomaz Cerkovnik,SK,4
-1984-01-17,Hubert Strolz,AT,3
-1984-01-17,Jure Franko,SK,5
-1984-01-17,Odd Sorli,NO,2
-1984-01-17,Steve Mahre,US,15
-1984-01-17,Pirmin Zurbriggen,CH,12
-1984-01-17,Phil Mahre,US,7
-1984-01-17,Guenther Mader,AT,3
-1984-01-17,Joze Kuralt,SK,12
-1984-01-17,Robert Zoller,AT,20
-1984-01-17,Stig Strand,SE,18
-1984-01-17,Christian Orlainsky,AT,8
-1984-01-17,Anton Steiner,AT,18
-1984-01-17,Jonas Nilsson,SE,16
-1984-01-17,Osamu Kodama,JP,6
-1984-01-17,Egon Hirt,DE,1
-1984-01-17,Max Julen,CH,20
-1984-01-17,Oswald Toetsch,IT,0
-1984-01-17,Alex Giorgi,IT,23
-1984-01-17,Lars Goeran Halvarsson,SE,11
-1984-01-17,Bojan Krizaj,SK,51
-1984-01-17,Vladimir Andreev,RU,15
-1984-01-17,Petar Popangelov,BG,45
-1984-01-17,Roberto Grigis,IT,23
-1984-01-17,Joel Gaspoz,CH,13
-1984-01-17,Yves Tavernier,FR,6
-1984-01-17,Didier Bouvet,FR,16
-1984-01-17,Andreas Wenzel,LI,52
-1984-01-17,Franz Gruber,AT,57
-1984-01-17,Jacques Luethy,CH,3
-1984-01-17,Florian Beck,DE,12
-1984-01-22,Jure Franko,SK,5
-1984-01-22,Hubert Strolz,AT,3
-1984-01-22,Didier Bouvet,FR,16
-1984-01-22,Roberto Grigis,IT,23
-1984-01-22,Ivano Edalini,IT,6
-1984-01-22,Tomaz Cerkovnik,SK,7
-1984-01-22,Bengt Fjaellberg,SE,12
-1984-01-22,Andreas Wenzel,LI,52
-1984-01-22,Anton Steiner,AT,20
-1984-01-22,Max Julen,CH,24
-1984-01-22,Vladimir Andreev,RU,16
-1984-01-22,Christian Orlainsky,AT,8
-1984-01-22,Odd Sorli,NO,2
-1984-01-22,Joze Kuralt,SK,12
-1984-01-22,Petar Popangelov,BG,51
-1984-01-22,Johan Wallner,SE,0
-1984-01-22,Oswald Toetsch,IT,0
-1984-01-22,Tiger Shaw,US,0
-1984-01-22,John Buxman,US,0
-1984-01-22,Mark Tache,US,0
-1984-01-22,Klaus Heidegger,AT,0
-1984-01-22,Lars Goeran Halvarsson,SE,11
-1984-01-22,Thomas Buergler,CH,2
-1984-01-22,Michel Canac,FR,3
-1984-01-22,Gunnar Neuriesser,SE,5
-1984-01-22,Paolo De Chiesa,IT,20
-1984-01-22,Toshihiro Kaiwa,JP,1
-1984-01-22,Guenther Mader,AT,3
-1984-01-22,Florian Beck,DE,12
-1984-01-22,Osamu Kodama,JP,6
-1984-01-22,Robert Zoller,AT,20
-1984-01-22,Egon Hirt,DE,1
-1984-01-22,Jacques Luethy,CH,3
-1984-01-22,Yves Tavernier,FR,6
-1984-01-22,Alex Giorgi,IT,23
-1984-01-22,Joel Gaspoz,CH,13
-1984-01-22,Steve Mahre,US,15
-1984-01-22,Pirmin Zurbriggen,CH,12
-1984-01-22,Martin Hangl,CH,5
-1984-01-22,Phil Mahre,US,19
-1984-01-22,Jonas Nilsson,SE,25
-1984-01-22,Marc Girardelli,LU,70
-1984-01-22,Michel Vion,FR,8
-1984-01-22,Bojan Krizaj,SK,66
-1984-01-22,Franz Gruber,AT,77
-1984-01-22,Paul Frommelt,LI,32
-1984-01-22,Ingemar Stenmark,SE,86
-1984-01-22,Stig Strand,SE,28
-1984-02-05,Stig Strand,SE,39
-1984-02-05,Osamu Kodama,JP,6
-1984-02-05,Odd Sorli,NO,2
-1984-02-05,Tiger Shaw,US,0
-1984-02-05,John Buxman,US,0
-1984-02-05,Mark Tache,US,0
-1984-02-05,Oswald Toetsch,IT,0
-1984-02-05,Johan Wallner,SE,0
-1984-02-05,Max Julen,CH,24
-1984-02-05,Marc Girardelli,LU,95
-1984-02-05,Franz Gruber,AT,92
-1984-02-05,Ingemar Stenmark,SE,106
-1984-02-05,Paul Frommelt,LI,32
-1984-02-05,Jonas Nilsson,SE,25
-1984-02-05,Anton Steiner,AT,20
-1984-02-05,Christian Orlainsky,AT,8
-1984-02-05,Ivano Edalini,IT,6
-1984-02-05,Roberto Grigis,IT,23
-1984-02-05,Paolo De Chiesa,IT,32
-1984-02-05,Klaus Heidegger,AT,9
-1984-02-05,Phil Mahre,US,29
-1984-02-05,Pirmin Zurbriggen,CH,12
-1984-02-05,Tomaz Cerkovnik,SK,7
-1984-02-05,Bojan Krizaj,SK,73
-1984-02-05,Steve Mahre,US,21
-1984-02-05,Robert Zoller,AT,20
-1984-02-05,Egon Hirt,DE,1
-1984-02-05,Jacques Luethy,CH,3
-1984-02-05,Hubert Strolz,AT,3
-1984-02-05,Petar Popangelov,BG,56
-1984-02-05,Yves Tavernier,FR,6
-1984-02-05,Guenther Mader,AT,3
-1984-02-05,Toshihiro Kaiwa,JP,1
-1984-02-05,Bengt Fjaellberg,SE,16
-1984-02-05,Martin Hangl,CH,5
-1984-02-05,Alex Giorgi,IT,23
-1984-02-05,Jure Franko,SK,5
-1984-02-05,Florian Beck,DE,13
-1984-02-05,Joze Kuralt,SK,12
-1984-02-05,Lars Goeran Halvarsson,SE,14
-1984-02-05,Michel Vion,FR,8
-1984-02-05,Thomas Buergler,CH,2
-1984-02-05,Didier Bouvet,FR,18
-1984-02-05,Michel Canac,FR,3
-1984-02-05,Joel Gaspoz,CH,13
-1984-02-05,Vladimir Andreev,RU,16
-1984-02-05,Andreas Wenzel,LI,60
-1984-02-05,Gunnar Neuriesser,SE,5
-1984-03-06,Steve Mahre,US,21
-1984-03-06,Franz Gruber,AT,92
-1984-03-06,Bojan Krizaj,SK,73
-1984-03-06,Jure Franko,SK,5
-1984-03-06,Didier Bouvet,FR,18
-1984-03-06,Paul Frommelt,LI,32
-1984-03-06,Roberto Grigis,IT,23
-1984-03-06,Bengt Fjaellberg,SE,16
-1984-03-06,Christian Orlainsky,AT,8
-1984-03-06,Anton Steiner,AT,20
-1984-03-06,Andreas Wenzel,LI,60
-1984-03-06,Ivano Edalini,IT,6
-1984-03-06,Odd Sorli,NO,5
-1984-03-06,Joze Kuralt,SK,12
-1984-03-06,Marc Girardelli,LU,95
-1984-03-06,Paolo De Chiesa,IT,32
-1984-03-06,Klaus Heidegger,AT,19
-1984-03-06,Michel Canac,FR,3
-1984-03-06,Thomas Buergler,CH,2
-1984-03-06,Gunnar Neuriesser,SE,16
-1984-03-06,Alex Giorgi,IT,23
-1984-03-06,Michel Vion,FR,8
-1984-03-06,Oswald Toetsch,IT,0
-1984-03-06,Johan Wallner,SE,0
-1984-03-06,Lars Goeran Halvarsson,SE,29
-1984-03-06,Phil Mahre,US,44
-1984-03-06,Robert Zoller,AT,45
-1984-03-06,Petar Popangelov,BG,76
-1984-03-06,Martin Hangl,CH,5
-1984-03-06,Toshihiro Kaiwa,JP,1
-1984-03-06,Joel Gaspoz,CH,22
-1984-03-06,Tomaz Cerkovnik,SK,7
-1984-03-06,Yves Tavernier,FR,6
-1984-03-06,Pirmin Zurbriggen,CH,14
-1984-03-06,Tiger Shaw,US,2
-1984-03-06,Hubert Strolz,AT,7
-1984-03-06,John Buxman,US,5
-1984-03-06,Guenther Mader,AT,3
-1984-03-06,Egon Hirt,DE,1
-1984-03-06,Jacques Luethy,CH,3
-1984-03-06,Stig Strand,SE,39
-1984-03-06,Max Julen,CH,24
-1984-03-06,Mark Tache,US,7
-1984-03-06,Osamu Kodama,JP,6
-1984-03-06,Florian Beck,DE,13
-1984-03-06,Jonas Nilsson,SE,33
-1984-03-06,Ingemar Stenmark,SE,112
-1984-03-06,Vladimir Andreev,RU,16
-1984-03-18,Jure Franko,SK,5
-1984-03-18,Hubert Strolz,AT,7
-1984-03-18,Roberto Grigis,IT,23
-1984-03-18,Yves Tavernier,FR,6
-1984-03-18,Odd Sorli,NO,5
-1984-03-18,Vladimir Andreev,RU,16
-1984-03-18,Joel Gaspoz,CH,22
-1984-03-18,Steve Mahre,US,21
-1984-03-18,Egon Hirt,DE,1
-1984-03-18,Robert Zoller,AT,45
-1984-03-18,Stig Strand,SE,39
-1984-03-18,Florian Beck,DE,13
-1984-03-18,Tomaz Cerkovnik,SK,7
-1984-03-18,Guenther Mader,AT,3
-1984-03-18,Jacques Luethy,CH,3
-1984-03-18,Toshihiro Kaiwa,JP,1
-1984-03-18,Michel Canac,FR,3
-1984-03-18,Thomas Buergler,CH,2
-1984-03-18,Ivano Edalini,IT,6
-1984-03-18,Michel Vion,FR,8
-1984-03-18,Martin Hangl,CH,5
-1984-03-18,Mark Tache,US,7
-1984-03-18,John Buxman,US,5
-1984-03-18,Tiger Shaw,US,2
-1984-03-18,Johan Wallner,SE,0
-1984-03-18,Gunnar Neuriesser,SE,16
-1984-03-18,Phil Mahre,US,44
-1984-03-18,Pirmin Zurbriggen,CH,17
-1984-03-18,Anton Steiner,AT,20
-1984-03-18,Alex Giorgi,IT,32
-1984-03-18,Max Julen,CH,31
-1984-03-18,Paolo De Chiesa,IT,42
-1984-03-18,Osamu Kodama,JP,11
-1984-03-18,Klaus Heidegger,AT,30
-1984-03-18,Ingemar Stenmark,SE,124
-1984-03-18,Didier Bouvet,FR,22
-1984-03-18,Lars Goeran Halvarsson,SE,44
-1984-03-18,Christian Orlainsky,AT,8
-1984-03-18,Petar Popangelov,BG,82
-1984-03-18,Marc Girardelli,LU,120
-1984-03-18,Oswald Toetsch,IT,1
-1984-03-18,Joze Kuralt,SK,14
-1984-03-18,Andreas Wenzel,LI,60
-1984-03-18,Paul Frommelt,LI,32
-1984-03-18,Bengt Fjaellberg,SE,16
-1984-03-18,Jonas Nilsson,SE,33
-1984-03-18,Franz Gruber,AT,112
-1984-03-18,Bojan Krizaj,SK,81
-1984-03-24,Toshihiro Kaiwa,JP,1
-1984-03-24,Guenther Mader,AT,3
-1984-03-24,Osamu Kodama,JP,11
-1984-03-24,Florian Beck,DE,13
-1984-03-24,Michel Canac,FR,3
-1984-03-24,Max Julen,CH,31
-1984-03-24,Stig Strand,SE,39
-1984-03-24,Tomaz Cerkovnik,SK,7
-1984-03-24,Thomas Buergler,CH,2
-1984-03-24,Tiger Shaw,US,2
-1984-03-24,Michel Vion,FR,8
-1984-03-24,Martin Hangl,CH,5
-1984-03-24,Mark Tache,US,7
-1984-03-24,John Buxman,US,5
-1984-03-24,Egon Hirt,DE,1
-1984-03-24,Oswald Toetsch,IT,1
-1984-03-24,Gunnar Neuriesser,SE,21
-1984-03-24,Christian Orlainsky,AT,12
-1984-03-24,Johan Wallner,SE,2
-1984-03-24,Lars Goeran Halvarsson,SE,44
-1984-03-24,Jacques Luethy,CH,3
-1984-03-24,Roberto Grigis,IT,23
-1984-03-24,Vladimir Andreev,RU,16
-1984-03-24,Anton Steiner,AT,23
-1984-03-24,Marc Girardelli,LU,145
-1984-03-24,Ingemar Stenmark,SE,144
-1984-03-24,Paolo De Chiesa,IT,57
-1984-03-24,Petar Popangelov,BG,94
-1984-03-24,Alex Giorgi,IT,43
-1984-03-24,Robert Zoller,AT,55
-1984-03-24,Bengt Fjaellberg,SE,25
-1984-03-24,Bojan Krizaj,SK,89
-1984-03-24,Didier Bouvet,FR,29
-1984-03-24,Klaus Heidegger,AT,36
-1984-03-24,Andreas Wenzel,LI,60
-1984-03-24,Paul Frommelt,LI,32
-1984-03-24,Franz Gruber,AT,112
-1984-03-24,Jonas Nilsson,SE,33
-1984-03-24,Phil Mahre,US,44
-1984-03-24,Ivano Edalini,IT,6
-1984-03-24,Hubert Strolz,AT,7
-1984-03-24,Jure Franko,SK,5
-1984-03-24,Odd Sorli,NO,5
-1984-03-24,Steve Mahre,US,21
-1984-03-24,Pirmin Zurbriggen,CH,17
-1984-03-24,Joel Gaspoz,CH,22
-1984-03-24,Yves Tavernier,FR,6
-1984-03-24,Joze Kuralt,SK,15
+date,name,ath_country,value,specialty
+1983-12-02,Andreas Wenzel,LI,25,Combined
+1983-12-02,Ivano Edalini,IT,6,Slalom
+1983-12-02,Osamu Kodama,JP,0,Slalom
+1983-12-02,Steve Mahre,US,0,Slalom
+1983-12-02,Martin Hangl,CH,0,Super G
+1983-12-02,Paul Frommelt,LI,15,Slalom
+1983-12-02,Yves Tavernier,FR,0,Slalom
+1983-12-02,Franz Gruber,AT,11,Slalom
+1983-12-02,Tomaz Cerkovnik,SK,0,Slalom
+1983-12-02,Hubert Strolz,AT,3,Giant Slalom
+1983-12-02,Paolo De Chiesa,IT,0,Slalom
+1983-12-02,Jure Franko,SK,2,Giant Slalom
+1983-12-02,Bojan Krizaj,SK,0,Slalom
+1983-12-02,Guenther Mader,AT,0,Super G
+1983-12-02,Michel Canac,FR,0,Slalom
+1983-12-02,Odd Sorli,NO,2,Slalom
+1983-12-02,Phil Mahre,US,7,Slalom
+1983-12-02,Petar Popangelov,BG,20,Slalom
+1983-12-02,Mark Tache,US,0,Slalom
+1983-12-02,Lars Goeran Halvarsson,SE,0,Slalom
+1983-12-02,Klaus Heidegger,AT,0,Slalom
+1983-12-02,Max Julen,CH,0,Giant Slalom
+1983-12-02,Jonas Nilsson,SE,10,Slalom
+1983-12-02,Roberto Grigis,IT,5,Slalom
+1983-12-02,Stig Strand,SE,0,Slalom
+1983-12-02,Anton Steiner,AT,9,Downhill
+1983-12-02,Vladimir Andreev,RU,0,Slalom
+1983-12-02,Alex Giorgi,IT,0,Giant Slalom
+1983-12-02,Joel Gaspoz,CH,0,Giant Slalom
+1983-12-02,Christian Orlainsky,AT,8,Slalom
+1983-12-02,Pirmin Zurbriggen,CH,0,Giant Slalom
+1983-12-02,Joze Kuralt,SK,0,Slalom
+1983-12-02,Didier Bouvet,FR,4,Slalom
+1983-12-02,Bengt Fjaellberg,SE,12,Slalom
+1983-12-02,Michel Vion,FR,0,Slalom
+1983-12-02,Florian Beck,DE,0,Slalom
+1983-12-02,Jacques Luethy,CH,0,Giant Slalom
+1983-12-02,John Buxman,US,0,Slalom
+1983-12-02,Gunnar Neuriesser,SE,0,Slalom
+1983-12-02,Johan Wallner,SE,0,Giant Slalom
+1983-12-02,Tiger Shaw,US,0,Giant Slalom
+1983-12-02,Marc Girardelli,LU,0,Slalom
+1983-12-02,Oswald Toetsch,IT,0,Giant Slalom
+1983-12-02,Ingemar Stenmark,SE,0,Slalom
+1983-12-02,Thomas Buergler,CH,0,Giant Slalom
+1983-12-02,Robert Zoller,AT,0,Slalom
+1983-12-02,Toshihiro Kaiwa,JP,0,Slalom
+1983-12-02,Egon Hirt,DE,0,Giant Slalom
+1983-12-13,Michel Canac,FR,0,Slalom
+1983-12-13,Klaus Heidegger,AT,0,Slalom
+1983-12-13,Franz Gruber,AT,22,Slalom
+1983-12-13,Lars Goeran Halvarsson,SE,0,Slalom
+1983-12-13,Yves Tavernier,FR,4,Slalom
+1983-12-13,Tiger Shaw,US,0,Giant Slalom
+1983-12-13,Joel Gaspoz,CH,7,Giant Slalom
+1983-12-13,Phil Mahre,US,7,Slalom
+1983-12-13,Paul Frommelt,LI,15,Slalom
+1983-12-13,Egon Hirt,DE,1,Giant Slalom
+1983-12-13,Alex Giorgi,IT,5,Giant Slalom
+1983-12-13,John Buxman,US,0,Slalom
+1983-12-13,Toshihiro Kaiwa,JP,0,Slalom
+1983-12-13,Ingemar Stenmark,SE,25,Slalom
+1983-12-13,Martin Hangl,CH,0,Super G
+1983-12-13,Steve Mahre,US,15,Slalom
+1983-12-13,Christian Orlainsky,AT,8,Slalom
+1983-12-13,Johan Wallner,SE,0,Giant Slalom
+1983-12-13,Ivano Edalini,IT,6,Slalom
+1983-12-13,Osamu Kodama,JP,0,Slalom
+1983-12-13,Jacques Luethy,CH,2,Giant Slalom
+1983-12-13,Joze Kuralt,SK,8,Slalom
+1983-12-13,Gunnar Neuriesser,SE,0,Slalom
+1983-12-13,Vladimir Andreev,RU,6,Slalom
+1983-12-13,Mark Tache,US,0,Slalom
+1983-12-13,Oswald Toetsch,IT,0,Giant Slalom
+1983-12-13,Florian Beck,DE,0,Slalom
+1983-12-13,Petar Popangelov,BG,20,Slalom
+1983-12-13,Jonas Nilsson,SE,10,Slalom
+1983-12-13,Guenther Mader,AT,0,Super G
+1983-12-13,Odd Sorli,NO,2,Slalom
+1983-12-13,Didier Bouvet,FR,4,Slalom
+1983-12-13,Roberto Grigis,IT,15,Slalom
+1983-12-13,Marc Girardelli,LU,0,Slalom
+1983-12-13,Max Julen,CH,0,Giant Slalom
+1983-12-13,Robert Zoller,AT,0,Slalom
+1983-12-13,Thomas Buergler,CH,0,Giant Slalom
+1983-12-13,Stig Strand,SE,0,Slalom
+1983-12-13,Andreas Wenzel,LI,25,Combined
+1983-12-13,Michel Vion,FR,0,Slalom
+1983-12-13,Paolo De Chiesa,IT,0,Slalom
+1983-12-13,Anton Steiner,AT,18,Downhill
+1983-12-13,Hubert Strolz,AT,3,Giant Slalom
+1983-12-13,Pirmin Zurbriggen,CH,12,Giant Slalom
+1983-12-13,Bengt Fjaellberg,SE,12,Slalom
+1983-12-13,Tomaz Cerkovnik,SK,0,Slalom
+1983-12-13,Jure Franko,SK,5,Giant Slalom
+1983-12-13,Bojan Krizaj,SK,20,Slalom
+1983-12-20,Egon Hirt,DE,1,Giant Slalom
+1983-12-20,Joze Kuralt,SK,8,Slalom
+1983-12-20,Didier Bouvet,FR,4,Slalom
+1983-12-20,Bengt Fjaellberg,SE,12,Slalom
+1983-12-20,Vladimir Andreev,RU,6,Slalom
+1983-12-20,Pirmin Zurbriggen,CH,12,Giant Slalom
+1983-12-20,Christian Orlainsky,AT,8,Slalom
+1983-12-20,Joel Gaspoz,CH,9,Giant Slalom
+1983-12-20,Alex Giorgi,IT,17,Giant Slalom
+1983-12-20,Toshihiro Kaiwa,JP,1,Slalom
+1983-12-20,Anton Steiner,AT,18,Downhill
+1983-12-20,Stig Strand,SE,11,Slalom
+1983-12-20,Roberto Grigis,IT,15,Slalom
+1983-12-20,Jonas Nilsson,SE,10,Slalom
+1983-12-20,Max Julen,CH,9,Giant Slalom
+1983-12-20,Andreas Wenzel,LI,32,Combined
+1983-12-20,Oswald Toetsch,IT,0,Giant Slalom
+1983-12-20,Klaus Heidegger,AT,0,Slalom
+1983-12-20,Gunnar Neuriesser,SE,0,Slalom
+1983-12-20,Ingemar Stenmark,SE,50,Slalom
+1983-12-20,Michel Vion,FR,0,Slalom
+1983-12-20,Phil Mahre,US,7,Slalom
+1983-12-20,Hubert Strolz,AT,3,Giant Slalom
+1983-12-20,Lars Goeran Halvarsson,SE,0,Slalom
+1983-12-20,Guenther Mader,AT,3,Super G
+1983-12-20,John Buxman,US,0,Slalom
+1983-12-20,Paul Frommelt,LI,15,Slalom
+1983-12-20,Bojan Krizaj,SK,30,Slalom
+1983-12-20,Martin Hangl,CH,0,Super G
+1983-12-20,Tiger Shaw,US,0,Giant Slalom
+1983-12-20,Thomas Buergler,CH,0,Giant Slalom
+1983-12-20,Steve Mahre,US,15,Slalom
+1983-12-20,Robert Zoller,AT,20,Slalom
+1983-12-20,Tomaz Cerkovnik,SK,4,Slalom
+1983-12-20,Franz Gruber,AT,30,Slalom
+1983-12-20,Osamu Kodama,JP,6,Slalom
+1983-12-20,Odd Sorli,NO,2,Slalom
+1983-12-20,Ivano Edalini,IT,6,Slalom
+1983-12-20,Jure Franko,SK,5,Giant Slalom
+1983-12-20,Petar Popangelov,BG,35,Slalom
+1983-12-20,Johan Wallner,SE,0,Giant Slalom
+1983-12-20,Jacques Luethy,CH,2,Giant Slalom
+1983-12-20,Mark Tache,US,0,Slalom
+1983-12-20,Marc Girardelli,LU,0,Slalom
+1983-12-20,Paolo De Chiesa,IT,0,Slalom
+1983-12-20,Florian Beck,DE,5,Slalom
+1983-12-20,Michel Canac,FR,0,Slalom
+1983-12-20,Yves Tavernier,FR,4,Slalom
+1984-01-16,Hubert Strolz,AT,3,Giant Slalom
+1984-01-16,Michel Vion,FR,0,Slalom
+1984-01-16,Jonas Nilsson,SE,16,Slalom
+1984-01-16,Michel Canac,FR,3,Slalom
+1984-01-16,Klaus Heidegger,AT,0,Slalom
+1984-01-16,Odd Sorli,NO,2,Slalom
+1984-01-16,Oswald Toetsch,IT,0,Giant Slalom
+1984-01-16,Thomas Buergler,CH,2,Giant Slalom
+1984-01-16,Jure Franko,SK,5,Giant Slalom
+1984-01-16,Guenther Mader,AT,3,Super G
+1984-01-16,Toshihiro Kaiwa,JP,1,Slalom
+1984-01-16,Tomaz Cerkovnik,SK,4,Slalom
+1984-01-16,Egon Hirt,DE,1,Giant Slalom
+1984-01-16,Johan Wallner,SE,0,Giant Slalom
+1984-01-16,Florian Beck,DE,5,Slalom
+1984-01-16,Didier Bouvet,FR,12,Slalom
+1984-01-16,Mark Tache,US,0,Slalom
+1984-01-16,Joze Kuralt,SK,12,Slalom
+1984-01-16,Ivano Edalini,IT,6,Slalom
+1984-01-16,Christian Orlainsky,AT,8,Slalom
+1984-01-16,Osamu Kodama,JP,6,Slalom
+1984-01-16,Tiger Shaw,US,0,Giant Slalom
+1984-01-16,Martin Hangl,CH,0,Super G
+1984-01-16,John Buxman,US,0,Slalom
+1984-01-16,Vladimir Andreev,RU,6,Slalom
+1984-01-16,Yves Tavernier,FR,4,Slalom
+1984-01-16,Anton Steiner,AT,18,Downhill
+1984-01-16,Roberto Grigis,IT,15,Slalom
+1984-01-16,Jacques Luethy,CH,2,Giant Slalom
+1984-01-16,Joel Gaspoz,CH,10,Giant Slalom
+1984-01-16,Gunnar Neuriesser,SE,5,Slalom
+1984-01-16,Steve Mahre,US,15,Slalom
+1984-01-16,Paul Frommelt,LI,25,Slalom
+1984-01-16,Phil Mahre,US,7,Slalom
+1984-01-16,Franz Gruber,AT,42,Slalom
+1984-01-16,Lars Goeran Halvarsson,SE,0,Slalom
+1984-01-16,Paolo De Chiesa,IT,20,Slalom
+1984-01-16,Bengt Fjaellberg,SE,12,Slalom
+1984-01-16,Bojan Krizaj,SK,39,Slalom
+1984-01-16,Petar Popangelov,BG,35,Slalom
+1984-01-16,Robert Zoller,AT,20,Slalom
+1984-01-16,Alex Giorgi,IT,17,Giant Slalom
+1984-01-16,Marc Girardelli,LU,25,Slalom
+1984-01-16,Ingemar Stenmark,SE,50,Slalom
+1984-01-16,Stig Strand,SE,18,Slalom
+1984-01-16,Max Julen,CH,20,Giant Slalom
+1984-01-16,Pirmin Zurbriggen,CH,12,Giant Slalom
+1984-01-16,Andreas Wenzel,LI,47,Combined
+1984-01-17,Steve Mahre,US,15,Slalom
+1984-01-17,Yves Tavernier,FR,6,Slalom
+1984-01-17,Alex Giorgi,IT,23,Giant Slalom
+1984-01-17,Bojan Krizaj,SK,51,Slalom
+1984-01-17,Jacques Luethy,CH,3,Giant Slalom
+1984-01-17,Franz Gruber,AT,57,Slalom
+1984-01-17,Robert Zoller,AT,20,Slalom
+1984-01-17,Joel Gaspoz,CH,13,Giant Slalom
+1984-01-17,Lars Goeran Halvarsson,SE,11,Slalom
+1984-01-17,Florian Beck,DE,12,Slalom
+1984-01-17,Tomaz Cerkovnik,SK,4,Slalom
+1984-01-17,Odd Sorli,NO,2,Slalom
+1984-01-17,Petar Popangelov,BG,45,Slalom
+1984-01-17,Paolo De Chiesa,IT,20,Slalom
+1984-01-17,Michel Vion,FR,0,Slalom
+1984-01-17,Oswald Toetsch,IT,0,Giant Slalom
+1984-01-17,Pirmin Zurbriggen,CH,12,Giant Slalom
+1984-01-17,Hubert Strolz,AT,3,Giant Slalom
+1984-01-17,Christian Orlainsky,AT,8,Slalom
+1984-01-17,Michel Canac,FR,3,Slalom
+1984-01-17,Jure Franko,SK,5,Giant Slalom
+1984-01-17,Didier Bouvet,FR,16,Slalom
+1984-01-17,Guenther Mader,AT,3,Super G
+1984-01-17,Joze Kuralt,SK,12,Slalom
+1984-01-17,Bengt Fjaellberg,SE,12,Slalom
+1984-01-17,Vladimir Andreev,RU,15,Slalom
+1984-01-17,Phil Mahre,US,7,Slalom
+1984-01-17,Thomas Buergler,CH,2,Giant Slalom
+1984-01-17,Marc Girardelli,LU,45,Slalom
+1984-01-17,Ingemar Stenmark,SE,75,Slalom
+1984-01-17,Osamu Kodama,JP,6,Slalom
+1984-01-17,Jonas Nilsson,SE,16,Slalom
+1984-01-17,Egon Hirt,DE,1,Giant Slalom
+1984-01-17,Ivano Edalini,IT,6,Slalom
+1984-01-17,Martin Hangl,CH,0,Super G
+1984-01-17,Roberto Grigis,IT,23,Slalom
+1984-01-17,Paul Frommelt,LI,25,Slalom
+1984-01-17,Stig Strand,SE,18,Slalom
+1984-01-17,Johan Wallner,SE,0,Giant Slalom
+1984-01-17,Max Julen,CH,20,Giant Slalom
+1984-01-17,Toshihiro Kaiwa,JP,1,Slalom
+1984-01-17,Klaus Heidegger,AT,0,Slalom
+1984-01-17,Gunnar Neuriesser,SE,5,Slalom
+1984-01-17,Anton Steiner,AT,18,Downhill
+1984-01-17,Tiger Shaw,US,0,Giant Slalom
+1984-01-17,Mark Tache,US,0,Slalom
+1984-01-17,Andreas Wenzel,LI,52,Combined
+1984-01-17,John Buxman,US,0,Slalom
+1984-01-22,Gunnar Neuriesser,SE,5,Slalom
+1984-01-22,Franz Gruber,AT,77,Slalom
+1984-01-22,Oswald Toetsch,IT,0,Giant Slalom
+1984-01-22,Jure Franko,SK,5,Giant Slalom
+1984-01-22,Osamu Kodama,JP,6,Slalom
+1984-01-22,Martin Hangl,CH,5,Super G
+1984-01-22,John Buxman,US,0,Slalom
+1984-01-22,Ivano Edalini,IT,6,Slalom
+1984-01-22,Didier Bouvet,FR,16,Slalom
+1984-01-22,Hubert Strolz,AT,3,Giant Slalom
+1984-01-22,Paolo De Chiesa,IT,20,Slalom
+1984-01-22,Paul Frommelt,LI,32,Slalom
+1984-01-22,Yves Tavernier,FR,6,Slalom
+1984-01-22,Lars Goeran Halvarsson,SE,11,Slalom
+1984-01-22,Florian Beck,DE,12,Slalom
+1984-01-22,Mark Tache,US,0,Slalom
+1984-01-22,Tomaz Cerkovnik,SK,7,Slalom
+1984-01-22,Phil Mahre,US,19,Slalom
+1984-01-22,Michel Vion,FR,8,Slalom
+1984-01-22,Jonas Nilsson,SE,25,Slalom
+1984-01-22,Joze Kuralt,SK,12,Slalom
+1984-01-22,Vladimir Andreev,RU,16,Slalom
+1984-01-22,Jacques Luethy,CH,3,Giant Slalom
+1984-01-22,Toshihiro Kaiwa,JP,1,Slalom
+1984-01-22,Alex Giorgi,IT,23,Giant Slalom
+1984-01-22,Thomas Buergler,CH,2,Giant Slalom
+1984-01-22,Anton Steiner,AT,20,Downhill
+1984-01-22,Robert Zoller,AT,20,Slalom
+1984-01-22,Tiger Shaw,US,0,Giant Slalom
+1984-01-22,Marc Girardelli,LU,70,Slalom
+1984-01-22,Roberto Grigis,IT,23,Slalom
+1984-01-22,Johan Wallner,SE,0,Giant Slalom
+1984-01-22,Ingemar Stenmark,SE,86,Slalom
+1984-01-22,Egon Hirt,DE,1,Giant Slalom
+1984-01-22,Klaus Heidegger,AT,0,Slalom
+1984-01-22,Stig Strand,SE,28,Slalom
+1984-01-22,Joel Gaspoz,CH,13,Giant Slalom
+1984-01-22,Guenther Mader,AT,3,Super G
+1984-01-22,Max Julen,CH,24,Giant Slalom
+1984-01-22,Andreas Wenzel,LI,52,Combined
+1984-01-22,Odd Sorli,NO,2,Slalom
+1984-01-22,Christian Orlainsky,AT,8,Slalom
+1984-01-22,Michel Canac,FR,3,Slalom
+1984-01-22,Steve Mahre,US,15,Slalom
+1984-01-22,Bojan Krizaj,SK,66,Slalom
+1984-01-22,Bengt Fjaellberg,SE,12,Slalom
+1984-01-22,Pirmin Zurbriggen,CH,12,Giant Slalom
+1984-01-22,Petar Popangelov,BG,51,Slalom
+1984-02-05,Egon Hirt,DE,1,Giant Slalom
+1984-02-05,Steve Mahre,US,21,Slalom
+1984-02-05,Andreas Wenzel,LI,60,Combined
+1984-02-05,Bojan Krizaj,SK,73,Slalom
+1984-02-05,Johan Wallner,SE,0,Giant Slalom
+1984-02-05,Ingemar Stenmark,SE,106,Slalom
+1984-02-05,Paul Frommelt,LI,32,Slalom
+1984-02-05,Guenther Mader,AT,3,Super G
+1984-02-05,Oswald Toetsch,IT,0,Giant Slalom
+1984-02-05,Osamu Kodama,JP,6,Slalom
+1984-02-05,Tomaz Cerkovnik,SK,7,Slalom
+1984-02-05,Petar Popangelov,BG,56,Slalom
+1984-02-05,Tiger Shaw,US,0,Giant Slalom
+1984-02-05,Marc Girardelli,LU,95,Slalom
+1984-02-05,Thomas Buergler,CH,2,Giant Slalom
+1984-02-05,John Buxman,US,0,Slalom
+1984-02-05,Franz Gruber,AT,92,Slalom
+1984-02-05,Toshihiro Kaiwa,JP,1,Slalom
+1984-02-05,Jure Franko,SK,5,Giant Slalom
+1984-02-05,Jacques Luethy,CH,3,Giant Slalom
+1984-02-05,Michel Canac,FR,3,Slalom
+1984-02-05,Paolo De Chiesa,IT,32,Slalom
+1984-02-05,Robert Zoller,AT,20,Slalom
+1984-02-05,Odd Sorli,NO,2,Slalom
+1984-02-05,Hubert Strolz,AT,3,Giant Slalom
+1984-02-05,Yves Tavernier,FR,6,Slalom
+1984-02-05,Martin Hangl,CH,5,Super G
+1984-02-05,Bengt Fjaellberg,SE,16,Slalom
+1984-02-05,Florian Beck,DE,13,Slalom
+1984-02-05,Pirmin Zurbriggen,CH,12,Giant Slalom
+1984-02-05,Joel Gaspoz,CH,13,Giant Slalom
+1984-02-05,Anton Steiner,AT,20,Downhill
+1984-02-05,Alex Giorgi,IT,23,Giant Slalom
+1984-02-05,Phil Mahre,US,29,Slalom
+1984-02-05,Mark Tache,US,0,Slalom
+1984-02-05,Stig Strand,SE,39,Slalom
+1984-02-05,Roberto Grigis,IT,23,Slalom
+1984-02-05,Jonas Nilsson,SE,25,Slalom
+1984-02-05,Christian Orlainsky,AT,8,Slalom
+1984-02-05,Ivano Edalini,IT,6,Slalom
+1984-02-05,Lars Goeran Halvarsson,SE,14,Slalom
+1984-02-05,Didier Bouvet,FR,18,Slalom
+1984-02-05,Gunnar Neuriesser,SE,5,Slalom
+1984-02-05,Michel Vion,FR,8,Slalom
+1984-02-05,Klaus Heidegger,AT,9,Slalom
+1984-02-05,Vladimir Andreev,RU,16,Slalom
+1984-02-05,Joze Kuralt,SK,12,Slalom
+1984-02-05,Max Julen,CH,24,Giant Slalom
+1984-03-06,Joze Kuralt,SK,12,Slalom
+1984-03-06,Jure Franko,SK,5,Giant Slalom
+1984-03-06,Bengt Fjaellberg,SE,16,Slalom
+1984-03-06,Petar Popangelov,BG,76,Slalom
+1984-03-06,Pirmin Zurbriggen,CH,14,Giant Slalom
+1984-03-06,Vladimir Andreev,RU,16,Slalom
+1984-03-06,Christian Orlainsky,AT,8,Slalom
+1984-03-06,Joel Gaspoz,CH,22,Giant Slalom
+1984-03-06,Jacques Luethy,CH,3,Giant Slalom
+1984-03-06,Odd Sorli,NO,5,Slalom
+1984-03-06,Guenther Mader,AT,3,Super G
+1984-03-06,Steve Mahre,US,21,Slalom
+1984-03-06,Marc Girardelli,LU,95,Slalom
+1984-03-06,Oswald Toetsch,IT,0,Giant Slalom
+1984-03-06,Gunnar Neuriesser,SE,16,Slalom
+1984-03-06,Klaus Heidegger,AT,19,Slalom
+1984-03-06,Andreas Wenzel,LI,60,Combined
+1984-03-06,Toshihiro Kaiwa,JP,1,Slalom
+1984-03-06,Max Julen,CH,24,Giant Slalom
+1984-03-06,Jonas Nilsson,SE,33,Slalom
+1984-03-06,Robert Zoller,AT,45,Slalom
+1984-03-06,Egon Hirt,DE,1,Giant Slalom
+1984-03-06,Stig Strand,SE,39,Slalom
+1984-03-06,Ingemar Stenmark,SE,112,Slalom
+1984-03-06,Roberto Grigis,IT,23,Slalom
+1984-03-06,Alex Giorgi,IT,23,Giant Slalom
+1984-03-06,Bojan Krizaj,SK,73,Slalom
+1984-03-06,Thomas Buergler,CH,2,Giant Slalom
+1984-03-06,Anton Steiner,AT,20,Downhill
+1984-03-06,Johan Wallner,SE,0,Giant Slalom
+1984-03-06,Tiger Shaw,US,2,Giant Slalom
+1984-03-06,Michel Canac,FR,3,Slalom
+1984-03-06,Paolo De Chiesa,IT,32,Slalom
+1984-03-06,Martin Hangl,CH,5,Super G
+1984-03-06,Mark Tache,US,7,Slalom
+1984-03-06,Hubert Strolz,AT,7,Giant Slalom
+1984-03-06,Franz Gruber,AT,92,Slalom
+1984-03-06,Phil Mahre,US,44,Slalom
+1984-03-06,Paul Frommelt,LI,32,Slalom
+1984-03-06,Michel Vion,FR,8,Slalom
+1984-03-06,Ivano Edalini,IT,6,Slalom
+1984-03-06,Florian Beck,DE,13,Slalom
+1984-03-06,Yves Tavernier,FR,6,Slalom
+1984-03-06,Didier Bouvet,FR,18,Slalom
+1984-03-06,Osamu Kodama,JP,6,Slalom
+1984-03-06,John Buxman,US,5,Slalom
+1984-03-06,Lars Goeran Halvarsson,SE,29,Slalom
+1984-03-06,Tomaz Cerkovnik,SK,7,Slalom
+1984-03-18,Mark Tache,US,7,Slalom
+1984-03-18,John Buxman,US,5,Slalom
+1984-03-18,Phil Mahre,US,44,Slalom
+1984-03-18,Hubert Strolz,AT,7,Giant Slalom
+1984-03-18,Thomas Buergler,CH,2,Giant Slalom
+1984-03-18,Alex Giorgi,IT,32,Giant Slalom
+1984-03-18,Florian Beck,DE,13,Slalom
+1984-03-18,Jacques Luethy,CH,3,Giant Slalom
+1984-03-18,Marc Girardelli,LU,120,Slalom
+1984-03-18,Anton Steiner,AT,20,Downhill
+1984-03-18,Johan Wallner,SE,0,Giant Slalom
+1984-03-18,Roberto Grigis,IT,23,Slalom
+1984-03-18,Ivano Edalini,IT,6,Slalom
+1984-03-18,Gunnar Neuriesser,SE,16,Slalom
+1984-03-18,Klaus Heidegger,AT,30,Slalom
+1984-03-18,Toshihiro Kaiwa,JP,1,Slalom
+1984-03-18,Paul Frommelt,LI,32,Slalom
+1984-03-18,Steve Mahre,US,21,Slalom
+1984-03-18,Tiger Shaw,US,2,Giant Slalom
+1984-03-18,Andreas Wenzel,LI,60,Combined
+1984-03-18,Egon Hirt,DE,1,Giant Slalom
+1984-03-18,Martin Hangl,CH,5,Super G
+1984-03-18,Jonas Nilsson,SE,33,Slalom
+1984-03-18,Ingemar Stenmark,SE,124,Slalom
+1984-03-18,Yves Tavernier,FR,6,Slalom
+1984-03-18,Stig Strand,SE,39,Slalom
+1984-03-18,Max Julen,CH,31,Giant Slalom
+1984-03-18,Vladimir Andreev,RU,16,Slalom
+1984-03-18,Oswald Toetsch,IT,1,Giant Slalom
+1984-03-18,Christian Orlainsky,AT,8,Slalom
+1984-03-18,Bengt Fjaellberg,SE,16,Slalom
+1984-03-18,Pirmin Zurbriggen,CH,17,Giant Slalom
+1984-03-18,Joze Kuralt,SK,14,Slalom
+1984-03-18,Michel Vion,FR,8,Slalom
+1984-03-18,Tomaz Cerkovnik,SK,7,Slalom
+1984-03-18,Petar Popangelov,BG,82,Slalom
+1984-03-18,Bojan Krizaj,SK,81,Slalom
+1984-03-18,Osamu Kodama,JP,11,Slalom
+1984-03-18,Michel Canac,FR,3,Slalom
+1984-03-18,Jure Franko,SK,5,Giant Slalom
+1984-03-18,Lars Goeran Halvarsson,SE,44,Slalom
+1984-03-18,Guenther Mader,AT,3,Super G
+1984-03-18,Franz Gruber,AT,112,Slalom
+1984-03-18,Robert Zoller,AT,45,Slalom
+1984-03-18,Didier Bouvet,FR,22,Slalom
+1984-03-18,Joel Gaspoz,CH,22,Giant Slalom
+1984-03-18,Odd Sorli,NO,5,Slalom
+1984-03-18,Paolo De Chiesa,IT,42,Slalom
+1984-03-24,Paul Frommelt,LI,32,Slalom
+1984-03-24,Ivano Edalini,IT,6,Slalom
+1984-03-24,Hubert Strolz,AT,7,Giant Slalom
+1984-03-24,Stig Strand,SE,39,Slalom
+1984-03-24,Paolo De Chiesa,IT,57,Slalom
+1984-03-24,Lars Goeran Halvarsson,SE,44,Slalom
+1984-03-24,Tomaz Cerkovnik,SK,7,Slalom
+1984-03-24,Egon Hirt,DE,1,Giant Slalom
+1984-03-24,Gunnar Neuriesser,SE,21,Slalom
+1984-03-24,Andreas Wenzel,LI,60,Combined
+1984-03-24,Bojan Krizaj,SK,89,Slalom
+1984-03-24,Osamu Kodama,JP,11,Slalom
+1984-03-24,Jure Franko,SK,5,Giant Slalom
+1984-03-24,Ingemar Stenmark,SE,144,Slalom
+1984-03-24,Joze Kuralt,SK,15,Slalom
+1984-03-24,Didier Bouvet,FR,29,Slalom
+1984-03-24,Toshihiro Kaiwa,JP,1,Slalom
+1984-03-24,Klaus Heidegger,AT,36,Slalom
+1984-03-24,Max Julen,CH,31,Giant Slalom
+1984-03-24,Yves Tavernier,FR,6,Slalom
+1984-03-24,Guenther Mader,AT,3,Super G
+1984-03-24,Vladimir Andreev,RU,16,Slalom
+1984-03-24,Pirmin Zurbriggen,CH,17,Giant Slalom
+1984-03-24,Odd Sorli,NO,5,Slalom
+1984-03-24,Jacques Luethy,CH,3,Giant Slalom
+1984-03-24,Phil Mahre,US,44,Slalom
+1984-03-24,Robert Zoller,AT,55,Slalom
+1984-03-24,Bengt Fjaellberg,SE,25,Slalom
+1984-03-24,Petar Popangelov,BG,94,Slalom
+1984-03-24,Joel Gaspoz,CH,22,Giant Slalom
+1984-03-24,Oswald Toetsch,IT,1,Giant Slalom
+1984-03-24,Thomas Buergler,CH,2,Giant Slalom
+1984-03-24,Franz Gruber,AT,112,Slalom
+1984-03-24,John Buxman,US,5,Slalom
+1984-03-24,Marc Girardelli,LU,145,Slalom
+1984-03-24,Michel Canac,FR,3,Slalom
+1984-03-24,Anton Steiner,AT,23,Downhill
+1984-03-24,Christian Orlainsky,AT,12,Slalom
+1984-03-24,Michel Vion,FR,8,Slalom
+1984-03-24,Tiger Shaw,US,2,Giant Slalom
+1984-03-24,Johan Wallner,SE,2,Giant Slalom
+1984-03-24,Roberto Grigis,IT,23,Slalom
+1984-03-24,Mark Tache,US,7,Slalom
+1984-03-24,Steve Mahre,US,21,Slalom
+1984-03-24,Alex Giorgi,IT,43,Giant Slalom
+1984-03-24,Martin Hangl,CH,5,Super G
+1984-03-24,Jonas Nilsson,SE,33,Slalom
+1984-03-24,Florian Beck,DE,13,Slalom

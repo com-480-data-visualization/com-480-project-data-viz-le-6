@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1991-01-13,Marc Girardelli,LU,25
-1991-01-13,Lasse Kjus,NO,20
-1991-01-13,Guenther Mader,AT,15
-1991-01-13,Paul Accola,CH,12
-1991-01-13,Stephan Eberharter,AT,11
-1991-01-13,Kristian Ghedina,IT,10
-1991-01-13,Peter Runggaldier,IT,9
-1991-01-13,Josef Polig,IT,8
-1991-01-13,Xavier Gigandet,CH,7
-1991-01-13,Jan Einar Thorsen,NO,6
-1991-01-13,Markus Wasmeier,DE,5
-1991-01-13,Hans-Joerg Tauscher,DE,4
-1991-01-13,William Besse,CH,3
-1991-01-13,Rob Boyd,CA,2
-1991-01-13,A.J. Kitt,US,1
+date,name,ath_country,value,specialty
+1991-01-13,Marc Girardelli,LU,25,Slalom
+1991-01-13,Lasse Kjus,NO,20,Slalom
+1991-01-13,Guenther Mader,AT,15,Slalom
+1991-01-13,Paul Accola,CH,12,Slalom
+1991-01-13,Stephan Eberharter,AT,11,Giant Slalom
+1991-01-13,Kristian Ghedina,IT,10,Downhill
+1991-01-13,Peter Runggaldier,IT,9,Downhill
+1991-01-13,Josef Polig,IT,8,Super G
+1991-01-13,Xavier Gigandet,CH,7,Downhill
+1991-01-13,Jan Einar Thorsen,NO,6,Downhill
+1991-01-13,Markus Wasmeier,DE,5,Super G
+1991-01-13,Hans-Joerg Tauscher,DE,4,Combined
+1991-01-13,William Besse,CH,3,Downhill
+1991-01-13,Rob Boyd,CA,2,Downhill
+1991-01-13,A.J. Kitt,US,1,Downhill

@@ -1,289 +1,289 @@
-date,name,ath_country,value
-1979-12-08,Ingemar Stenmark,SE,25
-1979-12-08,Leonhard Stock,AT,0
-1979-12-08,Hannes Spiss,AT,0
-1979-12-08,Joze Kuralt,SK,11
-1979-12-08,Jacques Luethy,CH,11
-1979-12-08,Werner Rhyner,CH,0
-1979-12-08,Cary Adgate,US,0
-1979-12-08,Klaus Heidegger,AT,0
-1979-12-08,Bogumir Zeman,SK,0
-1979-12-08,Jean Luc Fournier,CH,0
-1979-12-08,Franz Gruber,AT,0
-1979-12-08,Jarle Halsnes,NO,9
-1979-12-08,Piero Gros,IT,0
-1979-12-08,Anton Steiner,AT,0
-1979-12-08,Steve Mahre,US,0
-1979-12-08,Bruno Noeckler,IT,0
-1979-12-08,Gerhard Jaeger,AT,0
-1979-12-08,Peter Luescher,CH,0
-1979-12-08,Odd Sorli,NO,0
-1979-12-08,Andreas Wenzel,LI,8
-1979-12-08,Mauro Bernardi,IT,1
-1979-12-08,Phil Mahre,US,2
-1979-12-08,Joel Gaspoz,CH,3
-1979-12-08,Franck Woerndl,DE,7
-1979-12-08,Torsten Jakobsson,SE,4
-1979-12-08,Albert Burger,DE,5
-1979-12-08,Jure Franko,SK,0
-1979-12-08,Aleksandr Zhirov,RU,0
-1979-12-08,Marc Girardelli,LU,0
-1979-12-08,Tiziano Bieller,IT,0
-1979-12-08,Bojan Krizaj,SK,20
-1979-12-08,Alex Giorgi,IT,0
-1979-12-08,Hans Enn,AT,15
-1979-12-08,Christian Orlainsky,AT,6
-1979-12-08,Petar Popangelov,BG,0
-1979-12-08,Boris Strel,SK,12
-1979-12-12,Peter Luescher,CH,10
-1979-12-12,Torsten Jakobsson,SE,9
-1979-12-12,Petar Popangelov,BG,0
-1979-12-12,Tiziano Bieller,IT,0
-1979-12-12,Steve Mahre,US,4
-1979-12-12,Alex Giorgi,IT,0
-1979-12-12,Anton Steiner,AT,3
-1979-12-12,Aleksandr Zhirov,RU,0
-1979-12-12,Piero Gros,IT,2
-1979-12-12,Jure Franko,SK,0
-1979-12-12,Franz Gruber,AT,1
-1979-12-12,Leonhard Stock,AT,0
-1979-12-12,Andreas Wenzel,LI,8
-1979-12-12,Marc Girardelli,LU,0
-1979-12-12,Hannes Spiss,AT,0
-1979-12-12,Bruno Noeckler,IT,6
-1979-12-12,Cary Adgate,US,0
-1979-12-12,Klaus Heidegger,AT,0
-1979-12-12,Jean Luc Fournier,CH,0
-1979-12-12,Mauro Bernardi,IT,1
-1979-12-12,Phil Mahre,US,2
-1979-12-12,Joel Gaspoz,CH,3
-1979-12-12,Albert Burger,DE,5
-1979-12-12,Christian Orlainsky,AT,6
-1979-12-12,Franck Woerndl,DE,7
-1979-12-12,Joze Kuralt,SK,11
-1979-12-12,Werner Rhyner,CH,0
-1979-12-12,Bogumir Zeman,SK,0
-1979-12-12,Hans Enn,AT,27
-1979-12-12,Ingemar Stenmark,SE,50
-1979-12-12,Odd Sorli,NO,11
-1979-12-12,Bojan Krizaj,SK,35
-1979-12-12,Jacques Luethy,CH,31
-1979-12-12,Boris Strel,SK,21
-1979-12-12,Jarle Halsnes,NO,16
-1979-12-12,Gerhard Jaeger,AT,8
-1980-01-21,Petar Popangelov,BG,0
-1980-01-21,Odd Sorli,NO,11
-1980-01-21,Jarle Halsnes,NO,17
-1980-01-21,Piero Gros,IT,10
-1980-01-21,Steve Mahre,US,4
-1980-01-21,Gerhard Jaeger,AT,8
-1980-01-21,Anton Steiner,AT,3
-1980-01-21,Franz Gruber,AT,1
-1980-01-21,Werner Rhyner,CH,2
-1980-01-21,Peter Luescher,CH,10
-1980-01-21,Mauro Bernardi,IT,1
-1980-01-21,Christian Orlainsky,AT,6
-1980-01-21,Hannes Spiss,AT,0
-1980-01-21,Franck Woerndl,DE,7
-1980-01-21,Joze Kuralt,SK,11
-1980-01-21,Hans Enn,AT,27
-1980-01-21,Bojan Krizaj,SK,35
-1980-01-21,Ingemar Stenmark,SE,75
-1980-01-21,Bogumir Zeman,SK,9
-1980-01-21,Jacques Luethy,CH,51
-1980-01-21,Jean Luc Fournier,CH,11
-1980-01-21,Joel Gaspoz,CH,18
-1980-01-21,Phil Mahre,US,2
-1980-01-21,Bruno Noeckler,IT,18
-1980-01-21,Marc Girardelli,LU,0
-1980-01-21,Jure Franko,SK,0
-1980-01-21,Aleksandr Zhirov,RU,0
-1980-01-21,Alex Giorgi,IT,0
-1980-01-21,Cary Adgate,US,3
-1980-01-21,Tiziano Bieller,IT,0
-1980-01-21,Torsten Jakobsson,SE,14
-1980-01-21,Leonhard Stock,AT,0
-1980-01-21,Andreas Wenzel,LI,14
-1980-01-21,Boris Strel,SK,28
-1980-01-21,Albert Burger,DE,15
-1980-01-21,Klaus Heidegger,AT,4
-1980-02-26,Bogumir Zeman,SK,9
-1980-02-26,Klaus Heidegger,AT,4
-1980-02-26,Werner Rhyner,CH,2
-1980-02-26,Andreas Wenzel,LI,34
-1980-02-26,Jure Franko,SK,0
-1980-02-26,Aleksandr Zhirov,RU,0
-1980-02-26,Jarle Halsnes,NO,32
-1980-02-26,Alex Giorgi,IT,0
-1980-02-26,Cary Adgate,US,3
-1980-02-26,Jean Luc Fournier,CH,11
-1980-02-26,Piero Gros,IT,10
-1980-02-26,Franz Gruber,AT,1
-1980-02-26,Anton Steiner,AT,3
-1980-02-26,Mauro Bernardi,IT,1
-1980-02-26,Torsten Jakobsson,SE,14
-1980-02-26,Albert Burger,DE,15
-1980-02-26,Christian Orlainsky,AT,6
-1980-02-26,Franck Woerndl,DE,7
-1980-02-26,Joze Kuralt,SK,11
-1980-02-26,Bojan Krizaj,SK,35
-1980-02-26,Ingemar Stenmark,SE,75
-1980-02-26,Hans Enn,AT,52
-1980-02-26,Boris Strel,SK,40
-1980-02-26,Petar Popangelov,BG,0
-1980-02-26,Odd Sorli,NO,18
-1980-02-26,Bruno Noeckler,IT,27
-1980-02-26,Leonhard Stock,AT,1
-1980-02-26,Hannes Spiss,AT,10
-1980-02-26,Phil Mahre,US,9
-1980-02-26,Peter Luescher,CH,15
-1980-02-26,Gerhard Jaeger,AT,19
-1980-02-26,Tiziano Bieller,IT,0
-1980-02-26,Steve Mahre,US,8
-1980-02-26,Joel Gaspoz,CH,20
-1980-02-26,Marc Girardelli,LU,3
-1980-02-26,Jacques Luethy,CH,59
-1980-03-01,Anton Steiner,AT,3
-1980-03-01,Joze Kuralt,SK,12
-1980-03-01,Bruno Noeckler,IT,29
-1980-03-01,Bojan Krizaj,SK,35
-1980-03-01,Gerhard Jaeger,AT,22
-1980-03-01,Petar Popangelov,BG,0
-1980-03-01,Alex Giorgi,IT,4
-1980-03-01,Boris Strel,SK,45
-1980-03-01,Jure Franko,SK,10
-1980-03-01,Leonhard Stock,AT,7
-1980-03-01,Aleksandr Zhirov,RU,7
-1980-03-01,Joel Gaspoz,CH,28
-1980-03-01,Tiziano Bieller,IT,0
-1980-03-01,Hannes Spiss,AT,22
-1980-03-01,Werner Rhyner,CH,2
-1980-03-01,Mauro Bernardi,IT,1
-1980-03-01,Jean Luc Fournier,CH,11
-1980-03-01,Marc Girardelli,LU,3
-1980-03-01,Franz Gruber,AT,1
-1980-03-01,Christian Orlainsky,AT,6
-1980-03-01,Bogumir Zeman,SK,24
-1980-03-01,Phil Mahre,US,29
-1980-03-01,Jacques Luethy,CH,70
-1980-03-01,Odd Sorli,NO,18
-1980-03-01,Albert Burger,DE,15
-1980-03-01,Torsten Jakobsson,SE,14
-1980-03-01,Cary Adgate,US,3
-1980-03-01,Franck Woerndl,DE,7
-1980-03-01,Andreas Wenzel,LI,34
-1980-03-01,Peter Luescher,CH,15
-1980-03-01,Hans Enn,AT,52
-1980-03-01,Steve Mahre,US,8
-1980-03-01,Ingemar Stenmark,SE,100
-1980-03-01,Jarle Halsnes,NO,41
-1980-03-01,Piero Gros,IT,10
-1980-03-01,Klaus Heidegger,AT,4
-1980-03-08,Leonhard Stock,AT,7
-1980-03-08,Hannes Spiss,AT,22
-1980-03-08,Marc Girardelli,LU,3
-1980-03-08,Franz Gruber,AT,1
-1980-03-08,Cary Adgate,US,3
-1980-03-08,Klaus Heidegger,AT,4
-1980-03-08,Jean Luc Fournier,CH,11
-1980-03-08,Piero Gros,IT,10
-1980-03-08,Steve Mahre,US,8
-1980-03-08,Bruno Noeckler,IT,29
-1980-03-08,Peter Luescher,CH,15
-1980-03-08,Odd Sorli,NO,18
-1980-03-08,Torsten Jakobsson,SE,14
-1980-03-08,Albert Burger,DE,15
-1980-03-08,Boris Strel,SK,45
-1980-03-08,Werner Rhyner,CH,2
-1980-03-08,Mauro Bernardi,IT,1
-1980-03-08,Alex Giorgi,IT,4
-1980-03-08,Andreas Wenzel,LI,59
-1980-03-08,Joel Gaspoz,CH,38
-1980-03-08,Phil Mahre,US,35
-1980-03-08,Gerhard Jaeger,AT,27
-1980-03-08,Joze Kuralt,SK,16
-1980-03-08,Tiziano Bieller,IT,4
-1980-03-08,Bogumir Zeman,SK,32
-1980-03-08,Bojan Krizaj,SK,37
-1980-03-08,Franck Woerndl,DE,8
-1980-03-08,Christian Orlainsky,AT,13
-1980-03-08,Hans Enn,AT,61
-1980-03-08,Jarle Halsnes,NO,52
-1980-03-08,Aleksandr Zhirov,RU,7
-1980-03-08,Jure Franko,SK,10
-1980-03-08,Petar Popangelov,BG,0
-1980-03-08,Anton Steiner,AT,15
-1980-03-08,Jacques Luethy,CH,90
-1980-03-08,Ingemar Stenmark,SE,115
-1980-03-11,Steve Mahre,US,8
-1980-03-11,Petar Popangelov,BG,0
-1980-03-11,Boris Strel,SK,45
-1980-03-11,Joze Kuralt,SK,16
-1980-03-11,Tiziano Bieller,IT,4
-1980-03-11,Alex Giorgi,IT,4
-1980-03-11,Jure Franko,SK,10
-1980-03-11,Jarle Halsnes,NO,52
-1980-03-11,Marc Girardelli,LU,3
-1980-03-11,Mauro Bernardi,IT,1
-1980-03-11,Hannes Spiss,AT,22
-1980-03-11,Werner Rhyner,CH,2
-1980-03-11,Franck Woerndl,DE,8
-1980-03-11,Cary Adgate,US,3
-1980-03-11,Christian Orlainsky,AT,13
-1980-03-11,Franz Gruber,AT,1
-1980-03-11,Piero Gros,IT,10
-1980-03-11,Anton Steiner,AT,15
-1980-03-11,Albert Burger,DE,15
-1980-03-11,Leonhard Stock,AT,7
-1980-03-11,Klaus Heidegger,AT,4
-1980-03-11,Aleksandr Zhirov,RU,14
-1980-03-11,Jacques Luethy,CH,99
-1980-03-11,Phil Mahre,US,43
-1980-03-11,Bruno Noeckler,IT,32
-1980-03-11,Bogumir Zeman,SK,34
-1980-03-11,Odd Sorli,NO,19
-1980-03-11,Ingemar Stenmark,SE,140
-1980-03-11,Torsten Jakobsson,SE,19
-1980-03-11,Gerhard Jaeger,AT,31
-1980-03-11,Andreas Wenzel,LI,71
-1980-03-11,Jean Luc Fournier,CH,17
-1980-03-11,Joel Gaspoz,CH,53
-1980-03-11,Hans Enn,AT,81
-1980-03-11,Bojan Krizaj,SK,47
-1980-03-11,Peter Luescher,CH,27
-1980-03-13,Jean Luc Fournier,CH,17
-1980-03-13,Marc Girardelli,LU,3
-1980-03-13,Klaus Heidegger,AT,4
-1980-03-13,Cary Adgate,US,3
-1980-03-13,Franz Gruber,AT,1
-1980-03-13,Werner Rhyner,CH,2
-1980-03-13,Ingemar Stenmark,SE,165
-1980-03-13,Alex Giorgi,IT,4
-1980-03-13,Aleksandr Zhirov,RU,14
-1980-03-13,Piero Gros,IT,10
-1980-03-13,Tiziano Bieller,IT,4
-1980-03-13,Hannes Spiss,AT,27
-1980-03-13,Petar Popangelov,BG,6
-1980-03-13,Gerhard Jaeger,AT,38
-1980-03-13,Jure Franko,SK,10
-1980-03-13,Anton Steiner,AT,15
-1980-03-13,Christian Orlainsky,AT,13
-1980-03-13,Bruno Noeckler,IT,32
-1980-03-13,Joel Gaspoz,CH,73
-1980-03-13,Hans Enn,AT,96
-1980-03-13,Peter Luescher,CH,39
-1980-03-13,Jacques Luethy,CH,110
-1980-03-13,Bojan Krizaj,SK,56
-1980-03-13,Joze Kuralt,SK,17
-1980-03-13,Andreas Wenzel,LI,73
-1980-03-13,Steve Mahre,US,8
-1980-03-13,Leonhard Stock,AT,10
-1980-03-13,Bogumir Zeman,SK,42
-1980-03-13,Jarle Halsnes,NO,52
-1980-03-13,Franck Woerndl,DE,8
-1980-03-13,Albert Burger,DE,15
-1980-03-13,Torsten Jakobsson,SE,19
-1980-03-13,Phil Mahre,US,43
-1980-03-13,Mauro Bernardi,IT,1
-1980-03-13,Odd Sorli,NO,23
-1980-03-13,Boris Strel,SK,55
+date,name,ath_country,value,specialty
+1979-12-08,Ingemar Stenmark,SE,25,Giant Slalom
+1979-12-08,Klaus Heidegger,AT,0,Slalom
+1979-12-08,Jacques Luethy,CH,11,Giant Slalom
+1979-12-08,Steve Mahre,US,0,Slalom
+1979-12-08,Torsten Jakobsson,SE,4,Giant Slalom
+1979-12-08,Phil Mahre,US,2,Combined
+1979-12-08,Anton Steiner,AT,0,Combined
+1979-12-08,Petar Popangelov,BG,0,Slalom
+1979-12-08,Joel Gaspoz,CH,3,Giant Slalom
+1979-12-08,Leonhard Stock,AT,0,Downhill
+1979-12-08,Jarle Halsnes,NO,9,Giant Slalom
+1979-12-08,Christian Orlainsky,AT,6,Slalom
+1979-12-08,Aleksandr Zhirov,RU,0,Slalom
+1979-12-08,Franck Woerndl,DE,7,Slalom
+1979-12-08,Piero Gros,IT,0,Slalom
+1979-12-08,Bogumir Zeman,SK,0,Giant Slalom
+1979-12-08,Boris Strel,SK,12,Giant Slalom
+1979-12-08,Gerhard Jaeger,AT,0,Giant Slalom
+1979-12-08,Jean Luc Fournier,CH,0,Giant Slalom
+1979-12-08,Odd Sorli,NO,0,Giant Slalom
+1979-12-08,Bruno Noeckler,IT,0,Giant Slalom
+1979-12-08,Joze Kuralt,SK,11,Giant Slalom
+1979-12-08,Peter Luescher,CH,0,Giant Slalom
+1979-12-08,Hannes Spiss,AT,0,Giant Slalom
+1979-12-08,Alex Giorgi,IT,0,Giant Slalom
+1979-12-08,Tiziano Bieller,IT,0,Giant Slalom
+1979-12-08,Albert Burger,DE,5,Giant Slalom
+1979-12-08,Bojan Krizaj,SK,20,Slalom
+1979-12-08,Jure Franko,SK,0,Giant Slalom
+1979-12-08,Mauro Bernardi,IT,1,Slalom
+1979-12-08,Hans Enn,AT,15,Giant Slalom
+1979-12-08,Marc Girardelli,LU,0,Giant Slalom
+1979-12-08,Franz Gruber,AT,0,Slalom
+1979-12-08,Cary Adgate,US,0,Giant Slalom
+1979-12-08,Werner Rhyner,CH,0,Giant Slalom
+1979-12-08,Andreas Wenzel,LI,8,Giant Slalom
+1979-12-12,Tiziano Bieller,IT,0,Giant Slalom
+1979-12-12,Werner Rhyner,CH,0,Giant Slalom
+1979-12-12,Aleksandr Zhirov,RU,0,Slalom
+1979-12-12,Hans Enn,AT,27,Giant Slalom
+1979-12-12,Franck Woerndl,DE,7,Slalom
+1979-12-12,Piero Gros,IT,2,Slalom
+1979-12-12,Mauro Bernardi,IT,1,Slalom
+1979-12-12,Boris Strel,SK,21,Giant Slalom
+1979-12-12,Franz Gruber,AT,1,Slalom
+1979-12-12,Gerhard Jaeger,AT,8,Giant Slalom
+1979-12-12,Jean Luc Fournier,CH,0,Giant Slalom
+1979-12-12,Odd Sorli,NO,11,Giant Slalom
+1979-12-12,Bruno Noeckler,IT,6,Giant Slalom
+1979-12-12,Joze Kuralt,SK,11,Giant Slalom
+1979-12-12,Jure Franko,SK,0,Giant Slalom
+1979-12-12,Peter Luescher,CH,10,Giant Slalom
+1979-12-12,Ingemar Stenmark,SE,50,Giant Slalom
+1979-12-12,Hannes Spiss,AT,0,Giant Slalom
+1979-12-12,Bogumir Zeman,SK,0,Giant Slalom
+1979-12-12,Christian Orlainsky,AT,6,Slalom
+1979-12-12,Jarle Halsnes,NO,16,Giant Slalom
+1979-12-12,Cary Adgate,US,0,Giant Slalom
+1979-12-12,Bojan Krizaj,SK,35,Slalom
+1979-12-12,Alex Giorgi,IT,0,Giant Slalom
+1979-12-12,Jacques Luethy,CH,31,Giant Slalom
+1979-12-12,Klaus Heidegger,AT,0,Slalom
+1979-12-12,Andreas Wenzel,LI,8,Giant Slalom
+1979-12-12,Steve Mahre,US,4,Slalom
+1979-12-12,Torsten Jakobsson,SE,9,Giant Slalom
+1979-12-12,Phil Mahre,US,2,Combined
+1979-12-12,Albert Burger,DE,5,Giant Slalom
+1979-12-12,Anton Steiner,AT,3,Combined
+1979-12-12,Petar Popangelov,BG,0,Slalom
+1979-12-12,Marc Girardelli,LU,0,Giant Slalom
+1979-12-12,Joel Gaspoz,CH,3,Giant Slalom
+1979-12-12,Leonhard Stock,AT,0,Downhill
+1980-01-21,Anton Steiner,AT,3,Combined
+1980-01-21,Alex Giorgi,IT,0,Giant Slalom
+1980-01-21,Jure Franko,SK,0,Giant Slalom
+1980-01-21,Peter Luescher,CH,10,Giant Slalom
+1980-01-21,Tiziano Bieller,IT,0,Giant Slalom
+1980-01-21,Aleksandr Zhirov,RU,0,Slalom
+1980-01-21,Cary Adgate,US,3,Giant Slalom
+1980-01-21,Joze Kuralt,SK,11,Giant Slalom
+1980-01-21,Marc Girardelli,LU,0,Giant Slalom
+1980-01-21,Klaus Heidegger,AT,4,Slalom
+1980-01-21,Franz Gruber,AT,1,Slalom
+1980-01-21,Odd Sorli,NO,11,Giant Slalom
+1980-01-21,Jean Luc Fournier,CH,11,Giant Slalom
+1980-01-21,Steve Mahre,US,4,Slalom
+1980-01-21,Leonhard Stock,AT,0,Downhill
+1980-01-21,Christian Orlainsky,AT,6,Slalom
+1980-01-21,Torsten Jakobsson,SE,14,Giant Slalom
+1980-01-21,Franck Woerndl,DE,7,Slalom
+1980-01-21,Mauro Bernardi,IT,1,Slalom
+1980-01-21,Piero Gros,IT,10,Slalom
+1980-01-21,Albert Burger,DE,15,Giant Slalom
+1980-01-21,Petar Popangelov,BG,0,Slalom
+1980-01-21,Werner Rhyner,CH,2,Giant Slalom
+1980-01-21,Gerhard Jaeger,AT,8,Giant Slalom
+1980-01-21,Bruno Noeckler,IT,18,Giant Slalom
+1980-01-21,Jacques Luethy,CH,51,Giant Slalom
+1980-01-21,Andreas Wenzel,LI,14,Giant Slalom
+1980-01-21,Boris Strel,SK,28,Giant Slalom
+1980-01-21,Ingemar Stenmark,SE,75,Giant Slalom
+1980-01-21,Jarle Halsnes,NO,17,Giant Slalom
+1980-01-21,Bojan Krizaj,SK,35,Slalom
+1980-01-21,Hannes Spiss,AT,0,Giant Slalom
+1980-01-21,Hans Enn,AT,27,Giant Slalom
+1980-01-21,Bogumir Zeman,SK,9,Giant Slalom
+1980-01-21,Phil Mahre,US,2,Combined
+1980-01-21,Joel Gaspoz,CH,18,Giant Slalom
+1980-02-26,Christian Orlainsky,AT,6,Slalom
+1980-02-26,Jean Luc Fournier,CH,11,Giant Slalom
+1980-02-26,Jarle Halsnes,NO,32,Giant Slalom
+1980-02-26,Andreas Wenzel,LI,34,Giant Slalom
+1980-02-26,Gerhard Jaeger,AT,19,Giant Slalom
+1980-02-26,Leonhard Stock,AT,1,Downhill
+1980-02-26,Klaus Heidegger,AT,4,Slalom
+1980-02-26,Boris Strel,SK,40,Giant Slalom
+1980-02-26,Franck Woerndl,DE,7,Slalom
+1980-02-26,Bogumir Zeman,SK,9,Giant Slalom
+1980-02-26,Aleksandr Zhirov,RU,0,Slalom
+1980-02-26,Piero Gros,IT,10,Slalom
+1980-02-26,Tiziano Bieller,IT,0,Giant Slalom
+1980-02-26,Bojan Krizaj,SK,35,Slalom
+1980-02-26,Marc Girardelli,LU,3,Giant Slalom
+1980-02-26,Cary Adgate,US,3,Giant Slalom
+1980-02-26,Alex Giorgi,IT,0,Giant Slalom
+1980-02-26,Mauro Bernardi,IT,1,Slalom
+1980-02-26,Franz Gruber,AT,1,Slalom
+1980-02-26,Petar Popangelov,BG,0,Slalom
+1980-02-26,Torsten Jakobsson,SE,14,Giant Slalom
+1980-02-26,Werner Rhyner,CH,2,Giant Slalom
+1980-02-26,Ingemar Stenmark,SE,75,Giant Slalom
+1980-02-26,Phil Mahre,US,9,Combined
+1980-02-26,Jacques Luethy,CH,59,Giant Slalom
+1980-02-26,Peter Luescher,CH,15,Giant Slalom
+1980-02-26,Steve Mahre,US,8,Slalom
+1980-02-26,Hannes Spiss,AT,10,Giant Slalom
+1980-02-26,Joze Kuralt,SK,11,Giant Slalom
+1980-02-26,Anton Steiner,AT,3,Combined
+1980-02-26,Bruno Noeckler,IT,27,Giant Slalom
+1980-02-26,Jure Franko,SK,0,Giant Slalom
+1980-02-26,Albert Burger,DE,15,Giant Slalom
+1980-02-26,Odd Sorli,NO,18,Giant Slalom
+1980-02-26,Joel Gaspoz,CH,20,Giant Slalom
+1980-02-26,Hans Enn,AT,52,Giant Slalom
+1980-03-01,Bojan Krizaj,SK,35,Slalom
+1980-03-01,Aleksandr Zhirov,RU,7,Slalom
+1980-03-01,Alex Giorgi,IT,4,Giant Slalom
+1980-03-01,Steve Mahre,US,8,Slalom
+1980-03-01,Klaus Heidegger,AT,4,Slalom
+1980-03-01,Petar Popangelov,BG,0,Slalom
+1980-03-01,Jarle Halsnes,NO,41,Giant Slalom
+1980-03-01,Torsten Jakobsson,SE,14,Giant Slalom
+1980-03-01,Joel Gaspoz,CH,28,Giant Slalom
+1980-03-01,Christian Orlainsky,AT,6,Slalom
+1980-03-01,Jacques Luethy,CH,70,Giant Slalom
+1980-03-01,Leonhard Stock,AT,7,Downhill
+1980-03-01,Phil Mahre,US,29,Combined
+1980-03-01,Jure Franko,SK,10,Giant Slalom
+1980-03-01,Andreas Wenzel,LI,34,Giant Slalom
+1980-03-01,Franck Woerndl,DE,7,Slalom
+1980-03-01,Mauro Bernardi,IT,1,Slalom
+1980-03-01,Werner Rhyner,CH,2,Giant Slalom
+1980-03-01,Odd Sorli,NO,18,Giant Slalom
+1980-03-01,Hans Enn,AT,52,Giant Slalom
+1980-03-01,Peter Luescher,CH,15,Giant Slalom
+1980-03-01,Hannes Spiss,AT,22,Giant Slalom
+1980-03-01,Marc Girardelli,LU,3,Giant Slalom
+1980-03-01,Boris Strel,SK,45,Giant Slalom
+1980-03-01,Bruno Noeckler,IT,29,Giant Slalom
+1980-03-01,Franz Gruber,AT,1,Slalom
+1980-03-01,Jean Luc Fournier,CH,11,Giant Slalom
+1980-03-01,Cary Adgate,US,3,Giant Slalom
+1980-03-01,Gerhard Jaeger,AT,22,Giant Slalom
+1980-03-01,Ingemar Stenmark,SE,100,Giant Slalom
+1980-03-01,Albert Burger,DE,15,Giant Slalom
+1980-03-01,Piero Gros,IT,10,Slalom
+1980-03-01,Tiziano Bieller,IT,0,Giant Slalom
+1980-03-01,Anton Steiner,AT,3,Combined
+1980-03-01,Bogumir Zeman,SK,24,Giant Slalom
+1980-03-01,Joze Kuralt,SK,12,Giant Slalom
+1980-03-08,Ingemar Stenmark,SE,115,Giant Slalom
+1980-03-08,Mauro Bernardi,IT,1,Slalom
+1980-03-08,Jure Franko,SK,10,Giant Slalom
+1980-03-08,Franz Gruber,AT,1,Slalom
+1980-03-08,Steve Mahre,US,8,Slalom
+1980-03-08,Werner Rhyner,CH,2,Giant Slalom
+1980-03-08,Hans Enn,AT,61,Giant Slalom
+1980-03-08,Alex Giorgi,IT,4,Giant Slalom
+1980-03-08,Marc Girardelli,LU,3,Giant Slalom
+1980-03-08,Jacques Luethy,CH,90,Giant Slalom
+1980-03-08,Andreas Wenzel,LI,59,Giant Slalom
+1980-03-08,Cary Adgate,US,3,Giant Slalom
+1980-03-08,Klaus Heidegger,AT,4,Slalom
+1980-03-08,Bojan Krizaj,SK,37,Slalom
+1980-03-08,Tiziano Bieller,IT,4,Giant Slalom
+1980-03-08,Torsten Jakobsson,SE,14,Giant Slalom
+1980-03-08,Phil Mahre,US,35,Combined
+1980-03-08,Anton Steiner,AT,15,Combined
+1980-03-08,Piero Gros,IT,10,Slalom
+1980-03-08,Christian Orlainsky,AT,13,Slalom
+1980-03-08,Jarle Halsnes,NO,52,Giant Slalom
+1980-03-08,Boris Strel,SK,45,Giant Slalom
+1980-03-08,Jean Luc Fournier,CH,11,Giant Slalom
+1980-03-08,Joze Kuralt,SK,16,Giant Slalom
+1980-03-08,Joel Gaspoz,CH,38,Giant Slalom
+1980-03-08,Bruno Noeckler,IT,29,Giant Slalom
+1980-03-08,Aleksandr Zhirov,RU,7,Slalom
+1980-03-08,Leonhard Stock,AT,7,Downhill
+1980-03-08,Odd Sorli,NO,18,Giant Slalom
+1980-03-08,Gerhard Jaeger,AT,27,Giant Slalom
+1980-03-08,Franck Woerndl,DE,8,Slalom
+1980-03-08,Petar Popangelov,BG,0,Slalom
+1980-03-08,Hannes Spiss,AT,22,Giant Slalom
+1980-03-08,Bogumir Zeman,SK,32,Giant Slalom
+1980-03-08,Albert Burger,DE,15,Giant Slalom
+1980-03-08,Peter Luescher,CH,15,Giant Slalom
+1980-03-11,Cary Adgate,US,3,Giant Slalom
+1980-03-11,Gerhard Jaeger,AT,31,Giant Slalom
+1980-03-11,Jean Luc Fournier,CH,17,Giant Slalom
+1980-03-11,Marc Girardelli,LU,3,Giant Slalom
+1980-03-11,Albert Burger,DE,15,Giant Slalom
+1980-03-11,Boris Strel,SK,45,Giant Slalom
+1980-03-11,Andreas Wenzel,LI,71,Giant Slalom
+1980-03-11,Bogumir Zeman,SK,34,Giant Slalom
+1980-03-11,Tiziano Bieller,IT,4,Giant Slalom
+1980-03-11,Werner Rhyner,CH,2,Giant Slalom
+1980-03-11,Hans Enn,AT,81,Giant Slalom
+1980-03-11,Bruno Noeckler,IT,32,Giant Slalom
+1980-03-11,Mauro Bernardi,IT,1,Slalom
+1980-03-11,Peter Luescher,CH,27,Giant Slalom
+1980-03-11,Franz Gruber,AT,1,Slalom
+1980-03-11,Ingemar Stenmark,SE,140,Giant Slalom
+1980-03-11,Anton Steiner,AT,15,Combined
+1980-03-11,Hannes Spiss,AT,22,Giant Slalom
+1980-03-11,Jure Franko,SK,10,Giant Slalom
+1980-03-11,Odd Sorli,NO,19,Giant Slalom
+1980-03-11,Joze Kuralt,SK,16,Giant Slalom
+1980-03-11,Petar Popangelov,BG,0,Slalom
+1980-03-11,Steve Mahre,US,8,Slalom
+1980-03-11,Bojan Krizaj,SK,47,Slalom
+1980-03-11,Klaus Heidegger,AT,4,Slalom
+1980-03-11,Aleksandr Zhirov,RU,14,Slalom
+1980-03-11,Jacques Luethy,CH,99,Giant Slalom
+1980-03-11,Christian Orlainsky,AT,13,Slalom
+1980-03-11,Jarle Halsnes,NO,52,Giant Slalom
+1980-03-11,Franck Woerndl,DE,8,Slalom
+1980-03-11,Joel Gaspoz,CH,53,Giant Slalom
+1980-03-11,Piero Gros,IT,10,Slalom
+1980-03-11,Torsten Jakobsson,SE,19,Giant Slalom
+1980-03-11,Phil Mahre,US,43,Combined
+1980-03-11,Alex Giorgi,IT,4,Giant Slalom
+1980-03-11,Leonhard Stock,AT,7,Downhill
+1980-03-13,Jacques Luethy,CH,110,Giant Slalom
+1980-03-13,Mauro Bernardi,IT,1,Slalom
+1980-03-13,Bruno Noeckler,IT,32,Giant Slalom
+1980-03-13,Leonhard Stock,AT,10,Downhill
+1980-03-13,Bojan Krizaj,SK,56,Slalom
+1980-03-13,Joze Kuralt,SK,17,Giant Slalom
+1980-03-13,Peter Luescher,CH,39,Giant Slalom
+1980-03-13,Torsten Jakobsson,SE,19,Giant Slalom
+1980-03-13,Petar Popangelov,BG,6,Slalom
+1980-03-13,Franz Gruber,AT,1,Slalom
+1980-03-13,Anton Steiner,AT,15,Combined
+1980-03-13,Joel Gaspoz,CH,73,Giant Slalom
+1980-03-13,Phil Mahre,US,43,Combined
+1980-03-13,Ingemar Stenmark,SE,165,Giant Slalom
+1980-03-13,Hannes Spiss,AT,27,Giant Slalom
+1980-03-13,Christian Orlainsky,AT,13,Slalom
+1980-03-13,Hans Enn,AT,96,Giant Slalom
+1980-03-13,Tiziano Bieller,IT,4,Giant Slalom
+1980-03-13,Bogumir Zeman,SK,42,Giant Slalom
+1980-03-13,Andreas Wenzel,LI,73,Giant Slalom
+1980-03-13,Piero Gros,IT,10,Slalom
+1980-03-13,Jure Franko,SK,10,Giant Slalom
+1980-03-13,Alex Giorgi,IT,4,Giant Slalom
+1980-03-13,Cary Adgate,US,3,Giant Slalom
+1980-03-13,Gerhard Jaeger,AT,38,Giant Slalom
+1980-03-13,Franck Woerndl,DE,8,Slalom
+1980-03-13,Jean Luc Fournier,CH,17,Giant Slalom
+1980-03-13,Jarle Halsnes,NO,52,Giant Slalom
+1980-03-13,Marc Girardelli,LU,3,Giant Slalom
+1980-03-13,Klaus Heidegger,AT,4,Slalom
+1980-03-13,Boris Strel,SK,55,Giant Slalom
+1980-03-13,Aleksandr Zhirov,RU,14,Slalom
+1980-03-13,Odd Sorli,NO,23,Giant Slalom
+1980-03-13,Werner Rhyner,CH,2,Giant Slalom
+1980-03-13,Steve Mahre,US,8,Slalom
+1980-03-13,Albert Burger,DE,15,Giant Slalom

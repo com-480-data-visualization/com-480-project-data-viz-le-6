@@ -1,11 +1,11 @@
-date,name,ath_country,value
-1975-03-24,Monika Kaserer,AT,25
-1975-03-24,Claudia Giordani,IT,20
-1975-03-24,Fabienne Serrat,FR,15
-1975-03-24,Marie Therese Nadig,CH,11
-1975-03-24,Annemarie Proell,AT,8
-1975-03-24,Regina Sackl,AT,6
-1975-03-24,Michele Jacot,FR,4
-1975-03-24,Ingrid Gfoelner,AT,3
-1975-03-24,Torill Fjelstadt,NO,2
-1975-03-24,Evi Proell,AT,1
+date,name,ath_country,value,specialty
+1975-03-24,Monika Kaserer,AT,25,Giant Slalom
+1975-03-24,Claudia Giordani,IT,20,Parallel
+1975-03-24,Fabienne Serrat,FR,15,Giant Slalom
+1975-03-24,Marie Therese Nadig,CH,11,Downhill
+1975-03-24,Annemarie Proell,AT,8,Giant Slalom
+1975-03-24,Regina Sackl,AT,6,Parallel
+1975-03-24,Michele Jacot,FR,4,Giant Slalom
+1975-03-24,Ingrid Gfoelner,AT,3,Downhill
+1975-03-24,Torill Fjelstadt,NO,2,Slalom
+1975-03-24,Evi Proell,AT,1,Downhill

@@ -1,105 +1,105 @@
-date,name,ath_country,value
-2020-01-12,Federica Brignone,IT,100
-2020-01-12,Patrizia Dorsch,DE,10
-2020-01-12,Nicole Delago,IT,9
-2020-01-12,Alice Merryweather,US,8
-2020-01-12,Nadia Delago,IT,7
-2020-01-12,Alice Robinson,NZ,7
-2020-01-12,Camille Cerutti,FR,5
-2020-01-12,Laura Gauche,FR,4
-2020-01-12,Macarena Simari-Birkner,AR,3
-2020-01-12,Iulija Pleshkova,RU,1
-2020-01-12,Candace Crawford,CA,0
-2020-01-12,Marie-Michele Gagnon,CA,0
-2020-01-12,Michelle Gisin,CH,0
-2020-01-12,Sofia Goggia,IT,0
-2020-01-12,Veronique Hronek,DE,0
-2020-01-12,Lin Ivarsson,SE,0
-2020-01-12,Kajsa Vickhoff Lie,NO,0
-2020-01-12,Jonna Luthman,SE,0
-2020-01-12,Michaela Heider,AT,0
-2020-01-12,Jennifer Piot,FR,0
-2020-01-12,Breezy Johnson,US,0
-2020-01-12,Laura Pirovano,IT,0
-2020-01-12,Marusa Ferk,SK,0
-2020-01-12,Franziska Gritsch,AT,0
-2020-01-12,Nevena Ignjatovic,RS,11
-2020-01-12,Michaela Wenig,DE,0
-2020-01-12,Petra Vlhova,SK,0
-2020-01-12,Jasmina Suter,CH,0
-2020-01-12,Ilka Stuhec,SK,0
-2020-01-12,Mikaela Shiffrin,US,0
-2020-01-12,Viktoria Rebensburg,DE,0
-2020-01-12,Priska Nufer,CH,0
-2020-01-12,Kira Weidle,DE,0
-2020-01-12,Lisa Grill,AT,12
-2020-01-12,Elvedina Muzaferija,BA,2
-2020-01-12,Ramona Siebenhofer,AT,50
-2020-01-12,Wendy Holdener,CH,80
-2020-01-12,Marta Bassino,IT,60
-2020-01-12,Jessica Hilzinger,DE,13
-2020-01-12,Elena Curtoni,IT,45
-2020-01-12,Ester Ledecka,CZ,40
-2020-01-12,Romane Miradoli,FR,36
-2020-01-12,Nathalie Groebli,CH,32
-2020-01-12,Ida Dannewitz,SE,29
-2020-01-12,Elisabeth Reisinger,AT,26
-2020-01-12,Roni Remme,CA,22
-2020-01-12,Ricarda Haaser,AT,20
-2020-01-12,Rosina Schneeberger,AT,18
-2020-01-12,Nina Ortlieb,AT,24
-2020-01-12,Tifany Roux,FR,16
-2020-01-12,Rahel Kopp,CH,14
-2020-01-12,Nadine Fest,AT,15
-2020-02-23,Sofia Goggia,IT,0
-2020-02-23,Ida Dannewitz,SE,29
-2020-02-23,Kira Weidle,DE,0
-2020-02-23,Elisabeth Reisinger,AT,26
-2020-02-23,Petra Vlhova,SK,0
-2020-02-23,Ricarda Haaser,AT,20
-2020-02-23,Rosina Schneeberger,AT,18
-2020-02-23,Ilka Stuhec,SK,0
-2020-02-23,Nadine Fest,AT,15
-2020-02-23,Mikaela Shiffrin,US,0
-2020-02-23,Jessica Hilzinger,DE,13
-2020-02-23,Patrizia Dorsch,DE,10
-2020-02-23,Veronique Hronek,DE,0
-2020-02-23,Nicole Delago,IT,9
-2020-02-23,Jonna Luthman,SE,0
-2020-02-23,Nadia Delago,IT,7
-2020-02-23,Kajsa Vickhoff Lie,NO,0
-2020-02-23,Alice Robinson,NZ,7
-2020-02-23,Nathalie Groebli,CH,32
-2020-02-23,Camille Cerutti,FR,5
-2020-02-23,Lin Ivarsson,SE,0
-2020-02-23,Iulija Pleshkova,RU,1
-2020-02-23,Candace Crawford,CA,0
-2020-02-23,Viktoria Rebensburg,DE,0
-2020-02-23,Romane Miradoli,FR,36
-2020-02-23,Laura Gauche,FR,17
-2020-02-23,Marta Bassino,IT,60
-2020-02-23,Ramona Siebenhofer,AT,64
-2020-02-23,Breezy Johnson,US,12
-2020-02-23,Jennifer Piot,FR,11
-2020-02-23,Tifany Roux,FR,31
-2020-02-23,Lisa Grill,AT,22
-2020-02-23,Elvedina Muzaferija,BA,11
-2020-02-23,Marie-Michele Gagnon,CA,16
-2020-02-23,Macarena Simari-Birkner,AR,11
-2020-02-23,Nevena Ignjatovic,RS,29
-2020-02-23,Jasmina Suter,CH,20
-2020-02-23,Michaela Wenig,DE,0
-2020-02-23,Priska Nufer,CH,22
-2020-02-23,Nina Ortlieb,AT,48
-2020-02-23,Laura Pirovano,IT,26
-2020-02-23,Rahel Kopp,CH,43
-2020-02-23,Alice Merryweather,US,40
-2020-02-23,Roni Remme,CA,58
-2020-02-23,Marusa Ferk,SK,40
-2020-02-23,Wendy Holdener,CH,125
-2020-02-23,Michelle Gisin,CH,50
-2020-02-23,Ester Ledecka,CZ,100
-2020-02-23,Franziska Gritsch,AT,80
-2020-02-23,Federica Brignone,IT,200
-2020-02-23,Elena Curtoni,IT,45
-2020-02-23,Michaela Heider,AT,0
+date,name,ath_country,value,specialty
+2020-01-12,Federica Brignone,IT,100,Giant Slalom
+2020-01-12,Macarena Simari-Birkner,AR,3,Combined
+2020-01-12,Nina Ortlieb,AT,24,Downhill
+2020-01-12,Lin Ivarsson,SE,0,Super G
+2020-01-12,Priska Nufer,CH,0,Downhill
+2020-01-12,Ricarda Haaser,AT,20,Giant Slalom
+2020-01-12,Veronique Hronek,DE,0,Super G
+2020-01-12,Jasmina Suter,CH,0,Combined
+2020-01-12,Rosina Schneeberger,AT,18,Combined
+2020-01-12,Sofia Goggia,IT,0,Super G
+2020-01-12,Nevena Ignjatovic,RS,11,Combined
+2020-01-12,Tifany Roux,FR,16,Combined
+2020-01-12,Candace Crawford,CA,0,Combined
+2020-01-12,Kajsa Vickhoff Lie,NO,0,Super G
+2020-01-12,Marie-Michele Gagnon,CA,0,Downhill
+2020-01-12,Michaela Heider,AT,0,Super G
+2020-01-12,Jessica Hilzinger,DE,13,Slalom
+2020-01-12,Iulija Pleshkova,RU,1,Downhill
+2020-01-12,Laura Gauche,FR,4,Combined
+2020-01-12,Lisa Grill,AT,12,Combined
+2020-01-12,Camille Cerutti,FR,5,Combined
+2020-01-12,Breezy Johnson,US,0,Downhill
+2020-01-12,Alice Robinson,NZ,7,Giant Slalom
+2020-01-12,Jennifer Piot,FR,0,Super G
+2020-01-12,Patrizia Dorsch,DE,10,Combined
+2020-01-12,Nicole Delago,IT,9,Downhill
+2020-01-12,Nadia Delago,IT,7,Downhill
+2020-01-12,Nadine Fest,AT,15,Combined
+2020-01-12,Elisabeth Reisinger,AT,26,Downhill
+2020-01-12,Laura Pirovano,IT,0,Downhill
+2020-01-12,Elvedina Muzaferija,BA,2,Combined
+2020-01-12,Ramona Siebenhofer,AT,50,Downhill
+2020-01-12,Petra Vlhova,SK,0,Slalom
+2020-01-12,Michelle Gisin,CH,0,Slalom
+2020-01-12,Elena Curtoni,IT,45,Downhill
+2020-01-12,Rahel Kopp,CH,14,Combined
+2020-01-12,Ilka Stuhec,SK,0,Downhill
+2020-01-12,Marta Bassino,IT,60,Giant Slalom
+2020-01-12,Marusa Ferk,SK,0,Combined
+2020-01-12,Franziska Gritsch,AT,0,Combined
+2020-01-12,Romane Miradoli,FR,36,Downhill
+2020-01-12,Kira Weidle,DE,0,Downhill
+2020-01-12,Mikaela Shiffrin,US,0,Slalom
+2020-01-12,Michaela Wenig,DE,0,Downhill
+2020-01-12,Roni Remme,CA,22,Combined
+2020-01-12,Nathalie Groebli,CH,32,Combined
+2020-01-12,Viktoria Rebensburg,DE,0,Downhill
+2020-01-12,Wendy Holdener,CH,80,Slalom
+2020-01-12,Alice Merryweather,US,8,Downhill
+2020-01-12,Ida Dannewitz,SE,29,Combined
+2020-01-12,Jonna Luthman,SE,0,Combined
+2020-01-12,Ester Ledecka,CZ,40,Downhill
+2020-02-23,Nadia Delago,IT,7,Downhill
+2020-02-23,Alice Robinson,NZ,7,Giant Slalom
+2020-02-23,Michaela Wenig,DE,0,Downhill
+2020-02-23,Kira Weidle,DE,0,Downhill
+2020-02-23,Kajsa Vickhoff Lie,NO,0,Super G
+2020-02-23,Camille Cerutti,FR,5,Combined
+2020-02-23,Ilka Stuhec,SK,0,Downhill
+2020-02-23,Mikaela Shiffrin,US,0,Slalom
+2020-02-23,Candace Crawford,CA,0,Combined
+2020-02-23,Viktoria Rebensburg,DE,0,Downhill
+2020-02-23,Sofia Goggia,IT,0,Super G
+2020-02-23,Veronique Hronek,DE,0,Super G
+2020-02-23,Jonna Luthman,SE,0,Combined
+2020-02-23,Lin Ivarsson,SE,0,Super G
+2020-02-23,Petra Vlhova,SK,0,Slalom
+2020-02-23,Iulija Pleshkova,RU,1,Downhill
+2020-02-23,Nadine Fest,AT,15,Combined
+2020-02-23,Elvedina Muzaferija,BA,11,Combined
+2020-02-23,Ida Dannewitz,SE,29,Combined
+2020-02-23,Alice Merryweather,US,40,Downhill
+2020-02-23,Nathalie Groebli,CH,32,Combined
+2020-02-23,Roni Remme,CA,58,Combined
+2020-02-23,Romane Miradoli,FR,36,Downhill
+2020-02-23,Marusa Ferk,SK,40,Combined
+2020-02-23,Rahel Kopp,CH,43,Combined
+2020-02-23,Elena Curtoni,IT,45,Downhill
+2020-02-23,Ramona Siebenhofer,AT,64,Downhill
+2020-02-23,Ester Ledecka,CZ,100,Downhill
+2020-02-23,Marta Bassino,IT,60,Giant Slalom
+2020-02-23,Franziska Gritsch,AT,80,Combined
+2020-02-23,Wendy Holdener,CH,125,Slalom
+2020-02-23,Federica Brignone,IT,200,Giant Slalom
+2020-02-23,Michelle Gisin,CH,50,Slalom
+2020-02-23,Macarena Simari-Birkner,AR,11,Combined
+2020-02-23,Elisabeth Reisinger,AT,26,Downhill
+2020-02-23,Nina Ortlieb,AT,48,Downhill
+2020-02-23,Nicole Delago,IT,9,Downhill
+2020-02-23,Patrizia Dorsch,DE,10,Combined
+2020-02-23,Jennifer Piot,FR,11,Super G
+2020-02-23,Breezy Johnson,US,12,Downhill
+2020-02-23,Lisa Grill,AT,22,Combined
+2020-02-23,Laura Gauche,FR,17,Combined
+2020-02-23,Laura Pirovano,IT,26,Downhill
+2020-02-23,Jessica Hilzinger,DE,13,Slalom
+2020-02-23,Tifany Roux,FR,31,Combined
+2020-02-23,Nevena Ignjatovic,RS,29,Combined
+2020-02-23,Rosina Schneeberger,AT,18,Combined
+2020-02-23,Jasmina Suter,CH,20,Combined
+2020-02-23,Ricarda Haaser,AT,20,Giant Slalom
+2020-02-23,Priska Nufer,CH,22,Downhill
+2020-02-23,Marie-Michele Gagnon,CA,16,Downhill
+2020-02-23,Michaela Heider,AT,0,Super G

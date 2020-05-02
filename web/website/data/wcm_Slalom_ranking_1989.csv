@@ -1,313 +1,313 @@
-date,name,ath_country,value
-1988-12-06,Marc Girardelli,LU,25
-1988-12-06,Stefan Pistor,DE,0
-1988-12-06,Lars Goeran Halvarsson,SE,0
-1988-12-06,Christian Gaidet,FR,0
-1988-12-06,Patrick Staub,CH,0
-1988-12-06,Tiger Shaw,US,0
-1988-12-06,Grega Benedik,SK,0
-1988-12-06,Roberto Grigis,IT,0
-1988-12-06,Felix McGrath,US,9
-1988-12-06,Rudolph Nierlich,AT,0
-1988-12-06,Richard Pramotton,IT,0
-1988-12-06,Pirmin Zurbriggen,CH,0
-1988-12-06,Guenther Mader,AT,0
-1988-12-06,Peter Jurko,SK,0
-1988-12-06,Bernhard Gstrein,AT,11
-1988-12-06,Didier Bouvet,FR,0
-1988-12-06,Michael Tritscher,AT,8
-1988-12-06,Franck Woerndl,DE,0
-1988-12-06,Didier Schmidt,FR,0
-1988-12-06,Ingemar Stenmark,SE,0
-1988-12-06,Thomas Stangassinger,AT,0
-1988-12-06,Paul Frommelt,LI,0
-1988-12-06,Alberto Tomba,IT,0
-1988-12-06,Ole Kristian Furuseth,NO,7
-1988-12-06,Hubert Strolz,AT,1
-1988-12-06,Florian Beck,DE,2
-1988-12-06,Mathias Berthold,AT,3
-1988-12-06,Marco Tonazzi,IT,4
-1988-12-06,Carlo Gerosa,IT,6
-1988-12-06,Rok Petrovic,SK,0
-1988-12-06,John Piccard,FR,0
-1988-12-06,Tetsuya Okabe,JP,11
-1988-12-06,Peter Roth,DE,0
-1988-12-06,Jonas Nilsson,SE,20
-1988-12-06,Robert Ormsby,US,0
-1988-12-06,Paul Accola,CH,15
-1988-12-06,Armin Bittner,DE,12
-1988-12-06,Oswald Toetsch,IT,5
-1988-12-06,Jean Luc Cretier,FR,0
-1988-12-11,Paul Accola,CH,15
-1988-12-11,Paul Frommelt,LI,10
-1988-12-11,Jean Luc Cretier,FR,0
-1988-12-11,Tetsuya Okabe,JP,15
-1988-12-11,Peter Roth,DE,0
-1988-12-11,Franck Woerndl,DE,3
-1988-12-11,Robert Ormsby,US,0
-1988-12-11,Rok Petrovic,SK,2
-1988-12-11,John Piccard,FR,0
-1988-12-11,Stefan Pistor,DE,0
-1988-12-11,Didier Bouvet,FR,1
-1988-12-11,Christian Gaidet,FR,0
-1988-12-11,Didier Schmidt,FR,5
-1988-12-11,Patrick Staub,CH,0
-1988-12-11,Tiger Shaw,US,0
-1988-12-11,Grega Benedik,SK,0
-1988-12-11,Roberto Grigis,IT,0
-1988-12-11,Richard Pramotton,IT,0
-1988-12-11,Pirmin Zurbriggen,CH,0
-1988-12-11,Jonas Nilsson,SE,20
-1988-12-11,Guenther Mader,AT,0
-1988-12-11,Peter Jurko,SK,0
-1988-12-11,Hubert Strolz,AT,1
-1988-12-11,Mathias Berthold,AT,3
-1988-12-11,Marco Tonazzi,IT,4
-1988-12-11,Oswald Toetsch,IT,5
-1988-12-11,Carlo Gerosa,IT,6
-1988-12-11,Felix McGrath,US,9
-1988-12-11,Rudolph Nierlich,AT,0
-1988-12-11,Lars Goeran Halvarsson,SE,0
-1988-12-11,Armin Bittner,DE,24
-1988-12-11,Marc Girardelli,LU,45
-1988-12-11,Michael Tritscher,AT,23
-1988-12-11,Alberto Tomba,IT,25
-1988-12-11,Bernhard Gstrein,AT,22
-1988-12-11,Ole Kristian Furuseth,NO,15
-1988-12-11,Thomas Stangassinger,AT,9
-1988-12-11,Ingemar Stenmark,SE,7
-1988-12-11,Florian Beck,DE,8
-1988-12-17,Hubert Strolz,AT,12
-1988-12-17,Ole Kristian Furuseth,NO,27
-1988-12-17,Marc Girardelli,LU,70
-1988-12-17,Alberto Tomba,IT,40
-1988-12-17,Lars Goeran Halvarsson,SE,0
-1988-12-17,Armin Bittner,DE,44
-1988-12-17,Jean Luc Cretier,FR,0
-1988-12-17,Peter Roth,DE,0
-1988-12-17,Robert Ormsby,US,0
-1988-12-17,John Piccard,FR,0
-1988-12-17,Tetsuya Okabe,JP,24
-1988-12-17,Carlo Gerosa,IT,6
-1988-12-17,Marco Tonazzi,IT,4
-1988-12-17,Christian Gaidet,FR,0
-1988-12-17,Patrick Staub,CH,0
-1988-12-17,Tiger Shaw,US,0
-1988-12-17,Grega Benedik,SK,0
-1988-12-17,Roberto Grigis,IT,0
-1988-12-17,Rudolph Nierlich,AT,0
-1988-12-17,Richard Pramotton,IT,0
-1988-12-17,Pirmin Zurbriggen,CH,0
-1988-12-17,Didier Bouvet,FR,1
-1988-12-17,Rok Petrovic,SK,2
-1988-12-17,Franck Woerndl,DE,3
-1988-12-17,Didier Schmidt,FR,5
-1988-12-17,Ingemar Stenmark,SE,7
-1988-12-17,Florian Beck,DE,8
-1988-12-17,Mathias Berthold,AT,3
-1988-12-17,Bernhard Gstrein,AT,22
-1988-12-17,Felix McGrath,US,17
-1988-12-17,Stefan Pistor,DE,0
-1988-12-17,Thomas Stangassinger,AT,11
-1988-12-17,Peter Jurko,SK,10
-1988-12-17,Paul Accola,CH,21
-1988-12-17,Oswald Toetsch,IT,10
-1988-12-17,Michael Tritscher,AT,27
-1988-12-17,Paul Frommelt,LI,11
-1988-12-17,Guenther Mader,AT,3
-1988-12-17,Jonas Nilsson,SE,27
-1988-12-21,Pirmin Zurbriggen,CH,15
-1988-12-21,Rok Petrovic,SK,2
-1988-12-21,Didier Schmidt,FR,5
-1988-12-21,Paul Frommelt,LI,11
-1988-12-21,Hubert Strolz,AT,18
-1988-12-21,Richard Pramotton,IT,1
-1988-12-21,Paul Accola,CH,28
-1988-12-21,Mathias Berthold,AT,3
-1988-12-21,Bernhard Gstrein,AT,42
-1988-12-21,Carlo Gerosa,IT,6
-1988-12-21,Tetsuya Okabe,JP,24
-1988-12-21,Florian Beck,DE,10
-1988-12-21,Marc Girardelli,LU,70
-1988-12-21,Marco Tonazzi,IT,7
-1988-12-21,Armin Bittner,DE,69
-1988-12-21,Franck Woerndl,DE,7
-1988-12-21,Ingemar Stenmark,SE,12
-1988-12-21,Thomas Stangassinger,AT,21
-1988-12-21,Oswald Toetsch,IT,10
-1988-12-21,Ole Kristian Furuseth,NO,39
-1988-12-21,Alberto Tomba,IT,40
-1988-12-21,Peter Jurko,SK,10
-1988-12-21,Didier Bouvet,FR,1
-1988-12-21,John Piccard,FR,0
-1988-12-21,Stefan Pistor,DE,0
-1988-12-21,Lars Goeran Halvarsson,SE,0
-1988-12-21,Peter Roth,DE,0
-1988-12-21,Jean Luc Cretier,FR,0
-1988-12-21,Robert Ormsby,US,0
-1988-12-21,Michael Tritscher,AT,36
-1988-12-21,Christian Gaidet,FR,0
-1988-12-21,Jonas Nilsson,SE,35
-1988-12-21,Tiger Shaw,US,0
-1988-12-21,Grega Benedik,SK,0
-1988-12-21,Roberto Grigis,IT,0
-1988-12-21,Felix McGrath,US,28
-1988-12-21,Patrick Staub,CH,0
-1988-12-21,Rudolph Nierlich,AT,0
-1988-12-21,Guenther Mader,AT,3
-1989-01-15,Pirmin Zurbriggen,CH,15
-1989-01-15,Richard Pramotton,IT,1
-1989-01-15,John Piccard,FR,0
-1989-01-15,Robert Ormsby,US,0
-1989-01-15,Paul Accola,CH,28
-1989-01-15,Jean Luc Cretier,FR,0
-1989-01-15,Bernhard Gstrein,AT,42
-1989-01-15,Jonas Nilsson,SE,35
-1989-01-15,Paul Frommelt,LI,21
-1989-01-15,Peter Roth,DE,0
-1989-01-15,Michael Tritscher,AT,36
-1989-01-15,Didier Bouvet,FR,1
-1989-01-15,Rok Petrovic,SK,2
-1989-01-15,Franck Woerndl,DE,7
-1989-01-15,Didier Schmidt,FR,5
-1989-01-15,Ingemar Stenmark,SE,12
-1989-01-15,Thomas Stangassinger,AT,21
-1989-01-15,Hubert Strolz,AT,18
-1989-01-15,Florian Beck,DE,10
-1989-01-15,Carlo Gerosa,IT,6
-1989-01-15,Oswald Toetsch,IT,10
-1989-01-15,Marco Tonazzi,IT,7
-1989-01-15,Mathias Berthold,AT,3
-1989-01-15,Guenther Mader,AT,3
-1989-01-15,Felix McGrath,US,28
-1989-01-15,Tiger Shaw,US,6
-1989-01-15,Roberto Grigis,IT,9
-1989-01-15,Patrick Staub,CH,4
-1989-01-15,Lars Goeran Halvarsson,SE,2
-1989-01-15,Stefan Pistor,DE,1
-1989-01-15,Grega Benedik,SK,8
-1989-01-15,Christian Gaidet,FR,3
-1989-01-15,Armin Bittner,DE,94
-1989-01-15,Ole Kristian Furuseth,NO,50
-1989-01-15,Marc Girardelli,LU,82
-1989-01-15,Tetsuya Okabe,JP,31
-1989-01-15,Rudolph Nierlich,AT,15
-1989-01-15,Peter Jurko,SK,15
-1989-01-15,Alberto Tomba,IT,60
-1989-01-22,Lars Goeran Halvarsson,SE,2
-1989-01-22,Jonas Nilsson,SE,45
-1989-01-22,John Piccard,FR,5
-1989-01-22,Michael Tritscher,AT,41
-1989-01-22,Guenther Mader,AT,9
-1989-01-22,Paul Accola,CH,28
-1989-01-22,Armin Bittner,DE,94
-1989-01-22,Bernhard Gstrein,AT,42
-1989-01-22,Felix McGrath,US,28
-1989-01-22,Carlo Gerosa,IT,6
-1989-01-22,Oswald Toetsch,IT,10
-1989-01-22,Mathias Berthold,AT,3
-1989-01-22,Florian Beck,DE,10
-1989-01-22,Thomas Stangassinger,AT,21
-1989-01-22,Ingemar Stenmark,SE,12
-1989-01-22,Didier Schmidt,FR,5
-1989-01-22,Franck Woerndl,DE,7
-1989-01-22,Jean Luc Cretier,FR,0
-1989-01-22,Rok Petrovic,SK,2
-1989-01-22,Peter Roth,DE,0
-1989-01-22,Peter Jurko,SK,15
-1989-01-22,Robert Ormsby,US,0
-1989-01-22,Pirmin Zurbriggen,CH,15
-1989-01-22,Roberto Grigis,IT,9
-1989-01-22,Tiger Shaw,US,6
-1989-01-22,Patrick Staub,CH,4
-1989-01-22,Stefan Pistor,DE,1
-1989-01-22,Rudolph Nierlich,AT,40
-1989-01-22,Didier Bouvet,FR,1
-1989-01-22,Alberto Tomba,IT,80
-1989-01-22,Paul Frommelt,LI,30
-1989-01-22,Christian Gaidet,FR,4
-1989-01-22,Ole Kristian Furuseth,NO,61
-1989-01-22,Marco Tonazzi,IT,9
-1989-01-22,Richard Pramotton,IT,8
-1989-01-22,Grega Benedik,SK,16
-1989-01-22,Hubert Strolz,AT,33
-1989-01-22,Tetsuya Okabe,JP,34
-1989-01-22,Marc Girardelli,LU,94
-1989-03-05,Florian Beck,DE,10
-1989-03-05,Mathias Berthold,AT,3
-1989-03-05,Marco Tonazzi,IT,9
-1989-03-05,Ingemar Stenmark,SE,12
-1989-03-05,Didier Schmidt,FR,5
-1989-03-05,Oswald Toetsch,IT,10
-1989-03-05,Franck Woerndl,DE,7
-1989-03-05,Hubert Strolz,AT,33
-1989-03-05,Didier Bouvet,FR,1
-1989-03-05,Guenther Mader,AT,9
-1989-03-05,Pirmin Zurbriggen,CH,15
-1989-03-05,Richard Pramotton,IT,8
-1989-03-05,Rudolph Nierlich,AT,40
-1989-03-05,Tiger Shaw,US,6
-1989-03-05,Patrick Staub,CH,4
-1989-03-05,Christian Gaidet,FR,4
-1989-03-05,Lars Goeran Halvarsson,SE,2
-1989-03-05,Stefan Pistor,DE,1
-1989-03-05,John Piccard,FR,5
-1989-03-05,Peter Roth,DE,0
-1989-03-05,Jean Luc Cretier,FR,0
-1989-03-05,Carlo Gerosa,IT,6
-1989-03-05,Paul Accola,CH,28
-1989-03-05,Rok Petrovic,SK,2
-1989-03-05,Alberto Tomba,IT,100
-1989-03-05,Tetsuya Okabe,JP,38
-1989-03-05,Michael Tritscher,AT,48
-1989-03-05,Ole Kristian Furuseth,NO,86
-1989-03-05,Thomas Stangassinger,AT,31
-1989-03-05,Paul Frommelt,LI,35
-1989-03-05,Grega Benedik,SK,19
-1989-03-05,Robert Ormsby,US,6
-1989-03-05,Peter Jurko,SK,16
-1989-03-05,Armin Bittner,DE,102
-1989-03-05,Roberto Grigis,IT,11
-1989-03-05,Jonas Nilsson,SE,60
-1989-03-05,Bernhard Gstrein,AT,51
-1989-03-05,Felix McGrath,US,39
-1989-03-05,Marc Girardelli,LU,106
-1989-03-10,Ingemar Stenmark,SE,12
-1989-03-10,Didier Schmidt,FR,5
-1989-03-10,Franck Woerndl,DE,7
-1989-03-10,Didier Bouvet,FR,1
-1989-03-10,Peter Jurko,SK,16
-1989-03-10,Grega Benedik,SK,19
-1989-03-10,Tiger Shaw,US,6
-1989-03-10,Robert Ormsby,US,6
-1989-03-10,John Piccard,FR,5
-1989-03-10,Christian Gaidet,FR,4
-1989-03-10,Lars Goeran Halvarsson,SE,2
-1989-03-10,Stefan Pistor,DE,1
-1989-03-10,Thomas Stangassinger,AT,31
-1989-03-10,Michael Tritscher,AT,54
-1989-03-10,Rudolph Nierlich,AT,65
-1989-03-10,Patrick Staub,CH,4
-1989-03-10,Hubert Strolz,AT,33
-1989-03-10,Felix McGrath,US,43
-1989-03-10,Mathias Berthold,AT,3
-1989-03-10,Paul Frommelt,LI,42
-1989-03-10,Richard Pramotton,IT,13
-1989-03-10,Jean Luc Cretier,FR,3
-1989-03-10,Roberto Grigis,IT,13
-1989-03-10,Peter Roth,DE,8
-1989-03-10,Rok Petrovic,SK,3
-1989-03-10,Guenther Mader,AT,18
-1989-03-10,Pirmin Zurbriggen,CH,26
-1989-03-10,Florian Beck,DE,10
-1989-03-10,Alberto Tomba,IT,112
-1989-03-10,Ole Kristian Furuseth,NO,106
-1989-03-10,Marc Girardelli,LU,106
-1989-03-10,Paul Accola,CH,28
-1989-03-10,Bernhard Gstrein,AT,51
-1989-03-10,Tetsuya Okabe,JP,38
-1989-03-10,Carlo Gerosa,IT,6
-1989-03-10,Oswald Toetsch,IT,10
-1989-03-10,Marco Tonazzi,IT,9
-1989-03-10,Armin Bittner,DE,117
-1989-03-10,Jonas Nilsson,SE,70
+date,name,ath_country,value,specialty
+1988-12-06,Marc Girardelli,LU,25,Downhill
+1988-12-06,Marco Tonazzi,IT,4,Slalom
+1988-12-06,Ole Kristian Furuseth,NO,7,Slalom
+1988-12-06,Jonas Nilsson,SE,20,Slalom
+1988-12-06,John Piccard,FR,0,Slalom
+1988-12-06,Peter Jurko,SK,0,Slalom
+1988-12-06,Bernhard Gstrein,AT,11,Slalom
+1988-12-06,Oswald Toetsch,IT,5,Slalom
+1988-12-06,Paul Accola,CH,15,Combined
+1988-12-06,Robert Ormsby,US,0,Slalom
+1988-12-06,Tiger Shaw,US,0,Slalom
+1988-12-06,Michael Tritscher,AT,8,Slalom
+1988-12-06,Florian Beck,DE,2,Slalom
+1988-12-06,Carlo Gerosa,IT,6,Slalom
+1988-12-06,Pirmin Zurbriggen,CH,0,Downhill
+1988-12-06,Richard Pramotton,IT,0,Slalom
+1988-12-06,Ingemar Stenmark,SE,0,Giant Slalom
+1988-12-06,Peter Roth,DE,0,Slalom
+1988-12-06,Hubert Strolz,AT,1,Giant Slalom
+1988-12-06,Grega Benedik,SK,0,Slalom
+1988-12-06,Tetsuya Okabe,JP,11,Slalom
+1988-12-06,Guenther Mader,AT,0,Super G
+1988-12-06,Paul Frommelt,LI,0,Slalom
+1988-12-06,Roberto Grigis,IT,0,Slalom
+1988-12-06,Felix McGrath,US,9,Slalom
+1988-12-06,Thomas Stangassinger,AT,0,Slalom
+1988-12-06,Franck Woerndl,DE,0,Slalom
+1988-12-06,Patrick Staub,CH,0,Slalom
+1988-12-06,Didier Schmidt,FR,0,Slalom
+1988-12-06,Jean Luc Cretier,FR,0,Combined
+1988-12-06,Armin Bittner,DE,12,Slalom
+1988-12-06,Alberto Tomba,IT,0,Slalom
+1988-12-06,Rok Petrovic,SK,0,Giant Slalom
+1988-12-06,Stefan Pistor,DE,0,Slalom
+1988-12-06,Christian Gaidet,FR,0,Giant Slalom
+1988-12-06,Lars Goeran Halvarsson,SE,0,Slalom
+1988-12-06,Didier Bouvet,FR,0,Slalom
+1988-12-06,Rudolph Nierlich,AT,0,Giant Slalom
+1988-12-06,Mathias Berthold,AT,3,Slalom
+1988-12-11,Paul Accola,CH,15,Combined
+1988-12-11,Jean Luc Cretier,FR,0,Combined
+1988-12-11,Tetsuya Okabe,JP,15,Slalom
+1988-12-11,Tiger Shaw,US,0,Slalom
+1988-12-11,Michael Tritscher,AT,23,Slalom
+1988-12-11,Grega Benedik,SK,0,Slalom
+1988-12-11,Rudolph Nierlich,AT,0,Giant Slalom
+1988-12-11,Rok Petrovic,SK,2,Giant Slalom
+1988-12-11,Ingemar Stenmark,SE,7,Giant Slalom
+1988-12-11,Florian Beck,DE,8,Slalom
+1988-12-11,Carlo Gerosa,IT,6,Slalom
+1988-12-11,Peter Roth,DE,0,Slalom
+1988-12-11,Richard Pramotton,IT,0,Slalom
+1988-12-11,Didier Bouvet,FR,1,Slalom
+1988-12-11,Guenther Mader,AT,0,Super G
+1988-12-11,Pirmin Zurbriggen,CH,0,Downhill
+1988-12-11,Lars Goeran Halvarsson,SE,0,Slalom
+1988-12-11,Robert Ormsby,US,0,Slalom
+1988-12-11,Thomas Stangassinger,AT,9,Slalom
+1988-12-11,Hubert Strolz,AT,1,Giant Slalom
+1988-12-11,Patrick Staub,CH,0,Slalom
+1988-12-11,Franck Woerndl,DE,3,Slalom
+1988-12-11,Marco Tonazzi,IT,4,Slalom
+1988-12-11,Mathias Berthold,AT,3,Slalom
+1988-12-11,Ole Kristian Furuseth,NO,15,Slalom
+1988-12-11,Marc Girardelli,LU,45,Downhill
+1988-12-11,Stefan Pistor,DE,0,Slalom
+1988-12-11,John Piccard,FR,0,Slalom
+1988-12-11,Christian Gaidet,FR,0,Giant Slalom
+1988-12-11,Paul Frommelt,LI,10,Slalom
+1988-12-11,Jonas Nilsson,SE,20,Slalom
+1988-12-11,Roberto Grigis,IT,0,Slalom
+1988-12-11,Peter Jurko,SK,0,Slalom
+1988-12-11,Armin Bittner,DE,24,Slalom
+1988-12-11,Bernhard Gstrein,AT,22,Slalom
+1988-12-11,Felix McGrath,US,9,Slalom
+1988-12-11,Didier Schmidt,FR,5,Slalom
+1988-12-11,Oswald Toetsch,IT,5,Slalom
+1988-12-11,Alberto Tomba,IT,25,Slalom
+1988-12-17,Roberto Grigis,IT,0,Slalom
+1988-12-17,Guenther Mader,AT,3,Super G
+1988-12-17,Stefan Pistor,DE,0,Slalom
+1988-12-17,Thomas Stangassinger,AT,11,Slalom
+1988-12-17,Paul Frommelt,LI,11,Slalom
+1988-12-17,Didier Bouvet,FR,1,Slalom
+1988-12-17,Patrick Staub,CH,0,Slalom
+1988-12-17,Lars Goeran Halvarsson,SE,0,Slalom
+1988-12-17,Franck Woerndl,DE,3,Slalom
+1988-12-17,Marco Tonazzi,IT,4,Slalom
+1988-12-17,Mathias Berthold,AT,3,Slalom
+1988-12-17,John Piccard,FR,0,Slalom
+1988-12-17,Peter Jurko,SK,10,Slalom
+1988-12-17,Didier Schmidt,FR,5,Slalom
+1988-12-17,Oswald Toetsch,IT,10,Slalom
+1988-12-17,Christian Gaidet,FR,0,Giant Slalom
+1988-12-17,Robert Ormsby,US,0,Slalom
+1988-12-17,Tiger Shaw,US,0,Slalom
+1988-12-17,Jean Luc Cretier,FR,0,Combined
+1988-12-17,Carlo Gerosa,IT,6,Slalom
+1988-12-17,Richard Pramotton,IT,0,Slalom
+1988-12-17,Rok Petrovic,SK,2,Giant Slalom
+1988-12-17,Peter Roth,DE,0,Slalom
+1988-12-17,Grega Benedik,SK,0,Slalom
+1988-12-17,Florian Beck,DE,8,Slalom
+1988-12-17,Ingemar Stenmark,SE,7,Giant Slalom
+1988-12-17,Alberto Tomba,IT,40,Slalom
+1988-12-17,Pirmin Zurbriggen,CH,0,Downhill
+1988-12-17,Ole Kristian Furuseth,NO,27,Slalom
+1988-12-17,Marc Girardelli,LU,70,Downhill
+1988-12-17,Rudolph Nierlich,AT,0,Giant Slalom
+1988-12-17,Paul Accola,CH,21,Combined
+1988-12-17,Michael Tritscher,AT,27,Slalom
+1988-12-17,Tetsuya Okabe,JP,24,Slalom
+1988-12-17,Jonas Nilsson,SE,27,Slalom
+1988-12-17,Armin Bittner,DE,44,Slalom
+1988-12-17,Felix McGrath,US,17,Slalom
+1988-12-17,Hubert Strolz,AT,12,Giant Slalom
+1988-12-17,Bernhard Gstrein,AT,22,Slalom
+1988-12-21,Grega Benedik,SK,0,Slalom
+1988-12-21,Peter Jurko,SK,10,Slalom
+1988-12-21,Hubert Strolz,AT,18,Giant Slalom
+1988-12-21,Peter Roth,DE,0,Slalom
+1988-12-21,Didier Schmidt,FR,5,Slalom
+1988-12-21,Bernhard Gstrein,AT,42,Slalom
+1988-12-21,Ingemar Stenmark,SE,12,Giant Slalom
+1988-12-21,Jonas Nilsson,SE,35,Slalom
+1988-12-21,Lars Goeran Halvarsson,SE,0,Slalom
+1988-12-21,Michael Tritscher,AT,36,Slalom
+1988-12-21,Didier Bouvet,FR,1,Slalom
+1988-12-21,Richard Pramotton,IT,1,Slalom
+1988-12-21,Robert Ormsby,US,0,Slalom
+1988-12-21,Pirmin Zurbriggen,CH,15,Downhill
+1988-12-21,Paul Accola,CH,28,Combined
+1988-12-21,Jean Luc Cretier,FR,0,Combined
+1988-12-21,Carlo Gerosa,IT,6,Slalom
+1988-12-21,Tiger Shaw,US,0,Slalom
+1988-12-21,Marc Girardelli,LU,70,Downhill
+1988-12-21,Oswald Toetsch,IT,10,Slalom
+1988-12-21,John Piccard,FR,0,Slalom
+1988-12-21,Florian Beck,DE,10,Slalom
+1988-12-21,Marco Tonazzi,IT,7,Slalom
+1988-12-21,Patrick Staub,CH,0,Slalom
+1988-12-21,Felix McGrath,US,28,Slalom
+1988-12-21,Tetsuya Okabe,JP,24,Slalom
+1988-12-21,Rudolph Nierlich,AT,0,Giant Slalom
+1988-12-21,Paul Frommelt,LI,11,Slalom
+1988-12-21,Alberto Tomba,IT,40,Slalom
+1988-12-21,Rok Petrovic,SK,2,Giant Slalom
+1988-12-21,Mathias Berthold,AT,3,Slalom
+1988-12-21,Christian Gaidet,FR,0,Giant Slalom
+1988-12-21,Roberto Grigis,IT,0,Slalom
+1988-12-21,Stefan Pistor,DE,0,Slalom
+1988-12-21,Franck Woerndl,DE,7,Slalom
+1988-12-21,Guenther Mader,AT,3,Super G
+1988-12-21,Ole Kristian Furuseth,NO,39,Slalom
+1988-12-21,Armin Bittner,DE,69,Slalom
+1988-12-21,Thomas Stangassinger,AT,21,Slalom
+1989-01-15,Armin Bittner,DE,94,Slalom
+1989-01-15,Tiger Shaw,US,6,Slalom
+1989-01-15,Christian Gaidet,FR,3,Giant Slalom
+1989-01-15,Florian Beck,DE,10,Slalom
+1989-01-15,Mathias Berthold,AT,3,Slalom
+1989-01-15,Paul Accola,CH,28,Combined
+1989-01-15,Alberto Tomba,IT,60,Slalom
+1989-01-15,Robert Ormsby,US,0,Slalom
+1989-01-15,John Piccard,FR,0,Slalom
+1989-01-15,Bernhard Gstrein,AT,42,Slalom
+1989-01-15,Oswald Toetsch,IT,10,Slalom
+1989-01-15,Patrick Staub,CH,4,Slalom
+1989-01-15,Didier Schmidt,FR,5,Slalom
+1989-01-15,Peter Jurko,SK,15,Slalom
+1989-01-15,Franck Woerndl,DE,7,Slalom
+1989-01-15,Rok Petrovic,SK,2,Giant Slalom
+1989-01-15,Lars Goeran Halvarsson,SE,2,Slalom
+1989-01-15,Jonas Nilsson,SE,35,Slalom
+1989-01-15,Marco Tonazzi,IT,7,Slalom
+1989-01-15,Ole Kristian Furuseth,NO,50,Slalom
+1989-01-15,Rudolph Nierlich,AT,15,Giant Slalom
+1989-01-15,Felix McGrath,US,28,Slalom
+1989-01-15,Jean Luc Cretier,FR,0,Combined
+1989-01-15,Roberto Grigis,IT,9,Slalom
+1989-01-15,Hubert Strolz,AT,18,Giant Slalom
+1989-01-15,Ingemar Stenmark,SE,12,Giant Slalom
+1989-01-15,Stefan Pistor,DE,1,Slalom
+1989-01-15,Richard Pramotton,IT,1,Slalom
+1989-01-15,Michael Tritscher,AT,36,Slalom
+1989-01-15,Didier Bouvet,FR,1,Slalom
+1989-01-15,Carlo Gerosa,IT,6,Slalom
+1989-01-15,Pirmin Zurbriggen,CH,15,Downhill
+1989-01-15,Marc Girardelli,LU,82,Downhill
+1989-01-15,Guenther Mader,AT,3,Super G
+1989-01-15,Peter Roth,DE,0,Slalom
+1989-01-15,Tetsuya Okabe,JP,31,Slalom
+1989-01-15,Thomas Stangassinger,AT,21,Slalom
+1989-01-15,Paul Frommelt,LI,21,Slalom
+1989-01-15,Grega Benedik,SK,8,Slalom
+1989-01-22,Jonas Nilsson,SE,45,Slalom
+1989-01-22,Rudolph Nierlich,AT,40,Giant Slalom
+1989-01-22,Peter Jurko,SK,15,Slalom
+1989-01-22,Hubert Strolz,AT,33,Giant Slalom
+1989-01-22,Alberto Tomba,IT,80,Slalom
+1989-01-22,Didier Bouvet,FR,1,Slalom
+1989-01-22,Peter Roth,DE,0,Slalom
+1989-01-22,Roberto Grigis,IT,9,Slalom
+1989-01-22,Paul Frommelt,LI,30,Slalom
+1989-01-22,Patrick Staub,CH,4,Slalom
+1989-01-22,Marc Girardelli,LU,94,Downhill
+1989-01-22,Ole Kristian Furuseth,NO,61,Slalom
+1989-01-22,Grega Benedik,SK,16,Slalom
+1989-01-22,Marco Tonazzi,IT,9,Slalom
+1989-01-22,Tetsuya Okabe,JP,34,Slalom
+1989-01-22,Rok Petrovic,SK,2,Giant Slalom
+1989-01-22,Guenther Mader,AT,9,Super G
+1989-01-22,John Piccard,FR,5,Slalom
+1989-01-22,Mathias Berthold,AT,3,Slalom
+1989-01-22,Franck Woerndl,DE,7,Slalom
+1989-01-22,Thomas Stangassinger,AT,21,Slalom
+1989-01-22,Tiger Shaw,US,6,Slalom
+1989-01-22,Michael Tritscher,AT,41,Slalom
+1989-01-22,Lars Goeran Halvarsson,SE,2,Slalom
+1989-01-22,Didier Schmidt,FR,5,Slalom
+1989-01-22,Carlo Gerosa,IT,6,Slalom
+1989-01-22,Richard Pramotton,IT,8,Slalom
+1989-01-22,Robert Ormsby,US,0,Slalom
+1989-01-22,Paul Accola,CH,28,Combined
+1989-01-22,Jean Luc Cretier,FR,0,Combined
+1989-01-22,Ingemar Stenmark,SE,12,Giant Slalom
+1989-01-22,Armin Bittner,DE,94,Slalom
+1989-01-22,Oswald Toetsch,IT,10,Slalom
+1989-01-22,Christian Gaidet,FR,4,Giant Slalom
+1989-01-22,Felix McGrath,US,28,Slalom
+1989-01-22,Florian Beck,DE,10,Slalom
+1989-01-22,Stefan Pistor,DE,1,Slalom
+1989-01-22,Pirmin Zurbriggen,CH,15,Downhill
+1989-01-22,Bernhard Gstrein,AT,42,Slalom
+1989-03-05,Tetsuya Okabe,JP,38,Slalom
+1989-03-05,Rudolph Nierlich,AT,40,Giant Slalom
+1989-03-05,Mathias Berthold,AT,3,Slalom
+1989-03-05,Christian Gaidet,FR,4,Giant Slalom
+1989-03-05,Paul Frommelt,LI,35,Slalom
+1989-03-05,Thomas Stangassinger,AT,31,Slalom
+1989-03-05,Patrick Staub,CH,4,Slalom
+1989-03-05,Armin Bittner,DE,102,Slalom
+1989-03-05,Roberto Grigis,IT,11,Slalom
+1989-03-05,Felix McGrath,US,39,Slalom
+1989-03-05,Jean Luc Cretier,FR,0,Combined
+1989-03-05,Hubert Strolz,AT,33,Giant Slalom
+1989-03-05,Tiger Shaw,US,6,Slalom
+1989-03-05,Ole Kristian Furuseth,NO,86,Slalom
+1989-03-05,Carlo Gerosa,IT,6,Slalom
+1989-03-05,Florian Beck,DE,10,Slalom
+1989-03-05,Lars Goeran Halvarsson,SE,2,Slalom
+1989-03-05,Paul Accola,CH,28,Combined
+1989-03-05,Robert Ormsby,US,6,Slalom
+1989-03-05,Richard Pramotton,IT,8,Slalom
+1989-03-05,Marc Girardelli,LU,106,Downhill
+1989-03-05,Ingemar Stenmark,SE,12,Giant Slalom
+1989-03-05,Stefan Pistor,DE,1,Slalom
+1989-03-05,Oswald Toetsch,IT,10,Slalom
+1989-03-05,Bernhard Gstrein,AT,51,Slalom
+1989-03-05,Franck Woerndl,DE,7,Slalom
+1989-03-05,Didier Schmidt,FR,5,Slalom
+1989-03-05,Peter Roth,DE,0,Slalom
+1989-03-05,Alberto Tomba,IT,100,Slalom
+1989-03-05,Pirmin Zurbriggen,CH,15,Downhill
+1989-03-05,Didier Bouvet,FR,1,Slalom
+1989-03-05,Jonas Nilsson,SE,60,Slalom
+1989-03-05,Michael Tritscher,AT,48,Slalom
+1989-03-05,Grega Benedik,SK,19,Slalom
+1989-03-05,John Piccard,FR,5,Slalom
+1989-03-05,Rok Petrovic,SK,2,Giant Slalom
+1989-03-05,Guenther Mader,AT,9,Super G
+1989-03-05,Marco Tonazzi,IT,9,Slalom
+1989-03-05,Peter Jurko,SK,16,Slalom
+1989-03-10,Rok Petrovic,SK,3,Giant Slalom
+1989-03-10,Alberto Tomba,IT,112,Slalom
+1989-03-10,Lars Goeran Halvarsson,SE,2,Slalom
+1989-03-10,Didier Bouvet,FR,1,Slalom
+1989-03-10,Marc Girardelli,LU,106,Downhill
+1989-03-10,Oswald Toetsch,IT,10,Slalom
+1989-03-10,Christian Gaidet,FR,4,Giant Slalom
+1989-03-10,Felix McGrath,US,43,Slalom
+1989-03-10,Thomas Stangassinger,AT,31,Slalom
+1989-03-10,Roberto Grigis,IT,13,Slalom
+1989-03-10,Tetsuya Okabe,JP,38,Slalom
+1989-03-10,Paul Frommelt,LI,42,Slalom
+1989-03-10,Guenther Mader,AT,18,Super G
+1989-03-10,Hubert Strolz,AT,33,Giant Slalom
+1989-03-10,Grega Benedik,SK,19,Slalom
+1989-03-10,Peter Roth,DE,8,Slalom
+1989-03-10,Ingemar Stenmark,SE,12,Giant Slalom
+1989-03-10,Richard Pramotton,IT,13,Slalom
+1989-03-10,Pirmin Zurbriggen,CH,26,Downhill
+1989-03-10,Carlo Gerosa,IT,6,Slalom
+1989-03-10,Michael Tritscher,AT,54,Slalom
+1989-03-10,Jean Luc Cretier,FR,3,Combined
+1989-03-10,Florian Beck,DE,10,Slalom
+1989-03-10,Tiger Shaw,US,6,Slalom
+1989-03-10,Robert Ormsby,US,6,Slalom
+1989-03-10,Bernhard Gstrein,AT,51,Slalom
+1989-03-10,Didier Schmidt,FR,5,Slalom
+1989-03-10,Jonas Nilsson,SE,70,Slalom
+1989-03-10,Peter Jurko,SK,16,Slalom
+1989-03-10,John Piccard,FR,5,Slalom
+1989-03-10,Marco Tonazzi,IT,9,Slalom
+1989-03-10,Ole Kristian Furuseth,NO,106,Slalom
+1989-03-10,Franck Woerndl,DE,7,Slalom
+1989-03-10,Patrick Staub,CH,4,Slalom
+1989-03-10,Rudolph Nierlich,AT,65,Giant Slalom
+1989-03-10,Mathias Berthold,AT,3,Slalom
+1989-03-10,Armin Bittner,DE,117,Slalom
+1989-03-10,Paul Accola,CH,28,Combined
+1989-03-10,Stefan Pistor,DE,1,Slalom

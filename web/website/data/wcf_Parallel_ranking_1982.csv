@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1982-03-28,Maria Epple,DE,25
-1982-03-28,Lea Soelkner,AT,20
-1982-03-28,Perrine Pelen,FR,15
-1982-03-28,Christin Cooper,US,12
-1982-03-28,Erika Hess,CH,11
-1982-03-28,Cindy Nelson,US,10
-1982-03-28,Anni Kronbichler,AT,9
-1982-03-28,Doris De Agostini,CH,8
-1982-03-28,Roswitha Steiner,AT,7
-1982-03-28,Ingrid Eberle,AT,6
-1982-03-28,Tamara McKinney,US,5
-1982-03-28,Daniela Zini,IT,4
-1982-03-28,Anja Zavadlav,,3
-1982-03-28,Maria Walliser,CH,2
-1982-03-28,Holly Beth Flanders,US,1
+date,name,ath_country,value,specialty
+1982-03-28,Maria Epple,DE,25,Giant Slalom
+1982-03-28,Lea Soelkner,AT,20,Downhill
+1982-03-28,Perrine Pelen,FR,15,Slalom
+1982-03-28,Christin Cooper,US,12,Slalom
+1982-03-28,Erika Hess,CH,11,Slalom
+1982-03-28,Cindy Nelson,US,10,Downhill
+1982-03-28,Anni Kronbichler,AT,9,Slalom
+1982-03-28,Doris De Agostini,CH,8,Downhill
+1982-03-28,Roswitha Steiner,AT,7,Slalom
+1982-03-28,Ingrid Eberle,AT,6,Downhill
+1982-03-28,Tamara McKinney,US,5,Giant Slalom
+1982-03-28,Daniela Zini,IT,4,Slalom
+1982-03-28,Anja Zavadlav,,3,Slalom
+1982-03-28,Maria Walliser,CH,2,Downhill
+1982-03-28,Holly Beth Flanders,US,1,Downhill

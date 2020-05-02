@@ -1,36 +1,36 @@
-date,name,ath_country,value
-2005-01-14,Benjamin Raich,AT,100
-2005-01-14,Marco Buechel,LI,11
-2005-01-14,Paul Accola,CH,10
-2005-01-14,Silvan Zurbriggen,CH,9
-2005-01-14,Bernard Vajdic,SK,8
-2005-01-14,Michael Walchhofer,AT,7
-2005-01-14,Hubertus von Hohenlohe,MX,6
-2005-01-14,Erik Guay,CA,12
-2005-01-14,David Andersson,SE,5
-2005-01-14,Pavel Chestakov,RU,0
-2005-01-14,Bruno Kernen,CH,0
-2005-01-14,Bode Miller,US,0
-2005-01-14,Manuel Osborne-Paradis,CA,0
-2005-01-14,Rok Perko,SK,0
-2005-01-14,Lucas Senoner,IT,0
-2005-01-14,Johan Brolenius,SE,0
-2005-01-14,Bjarne Solbakken,NO,0
-2005-01-14,Alex Antor,AD,13
-2005-01-14,Scott Macartney,US,15
-2005-01-14,Lasse Kjus,NO,80
-2005-01-14,Didier Defago,CH,60
-2005-01-14,Daniel Albrecht,CH,50
-2005-01-14,Kjetil Andre Aamodt,NO,45
-2005-01-14,Pierrick Bourgeat,FR,40
-2005-01-14,Christoph Gruber,AT,36
-2005-01-14,Patrik Jaerbyn,SE,14
-2005-01-14,Peter Fill,IT,32
-2005-01-14,Hermann Maier,AT,29
-2005-01-14,Andrej Jerman,SK,24
-2005-01-14,John Kucera,CA,22
-2005-01-14,Stephan Thanei,IT,20
-2005-01-14,Ambrosi Hoffmann,CH,18
-2005-01-14,Mario Scheiber,AT,16
-2005-01-14,Markus Larsson,SE,29
-2005-01-14,Aksel-Lund Svindal,NO,0
+date,name,ath_country,value,specialty
+2005-01-14,Benjamin Raich,AT,100,Slalom
+2005-01-14,Marco Buechel,LI,11,Downhill
+2005-01-14,Paul Accola,CH,10,Downhill
+2005-01-14,Silvan Zurbriggen,CH,9,Slalom
+2005-01-14,Bernard Vajdic,SK,8,Giant Slalom
+2005-01-14,Michael Walchhofer,AT,7,Downhill
+2005-01-14,Hubertus von Hohenlohe,MX,6,Combined
+2005-01-14,Erik Guay,CA,12,Downhill
+2005-01-14,David Andersson,SE,5,Combined
+2005-01-14,Pavel Chestakov,RU,0,Combined
+2005-01-14,Bruno Kernen,CH,0,Downhill
+2005-01-14,Bode Miller,US,0,Downhill
+2005-01-14,Manuel Osborne-Paradis,CA,0,Downhill
+2005-01-14,Rok Perko,SK,0,Combined
+2005-01-14,Lucas Senoner,IT,0,Giant Slalom
+2005-01-14,Johan Brolenius,SE,0,Slalom
+2005-01-14,Bjarne Solbakken,NO,0,Downhill
+2005-01-14,Alex Antor,AD,13,Combined
+2005-01-14,Scott Macartney,US,15,Combined
+2005-01-14,Lasse Kjus,NO,80,Giant Slalom
+2005-01-14,Didier Defago,CH,60,Super G
+2005-01-14,Daniel Albrecht,CH,50,Combined
+2005-01-14,Kjetil Andre Aamodt,NO,45,Super G
+2005-01-14,Pierrick Bourgeat,FR,40,Slalom
+2005-01-14,Christoph Gruber,AT,36,Downhill
+2005-01-14,Patrik Jaerbyn,SE,14,Downhill
+2005-01-14,Peter Fill,IT,32,Downhill
+2005-01-14,Hermann Maier,AT,29,Super G
+2005-01-14,Andrej Jerman,SK,24,Combined
+2005-01-14,John Kucera,CA,22,Combined
+2005-01-14,Stephan Thanei,IT,20,Combined
+2005-01-14,Ambrosi Hoffmann,CH,18,Downhill
+2005-01-14,Mario Scheiber,AT,16,Downhill
+2005-01-14,Markus Larsson,SE,29,Slalom
+2005-01-14,Aksel-Lund Svindal,NO,0,Super G

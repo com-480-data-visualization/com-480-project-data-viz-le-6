@@ -1,386 +1,386 @@
-date,name,ath_country,value
-1980-12-10,Ingemar Stenmark,SE,25
-1980-12-10,Torsten Jakobsson,SE,0
-1980-12-10,Boris Strel,SK,0
-1980-12-10,Paul Arne Skajem,NO,0
-1980-12-10,Hans Enn,AT,12
-1980-12-10,Leonhard Stock,AT,0
-1980-12-10,Pirmin Zurbriggen,CH,0
-1980-12-10,Joze Kuralt,SK,0
-1980-12-10,Ernst Riedlsperger,AT,0
-1980-12-10,Jarle Halsnes,NO,0
-1980-12-10,Franz Gruber,AT,0
-1980-12-10,Joel Gaspoz,CH,0
-1980-12-10,Hannes Spiss,AT,0
-1980-12-10,Jean Luc Fournier,CH,0
-1980-12-10,Steve Mahre,US,11
-1980-12-10,Franck Woerndl,DE,1
-1980-12-10,Christian Orlainsky,AT,2
-1980-12-10,Vladimir Andreev,RU,3
-1980-12-10,Alain Navillod,FR,4
-1980-12-10,Wolfram Ortner,AT,5
-1980-12-10,Bruno Noeckler,IT,10
-1980-12-10,Bojan Krizaj,SK,6
-1980-12-10,Andreas Wenzel,LI,7
-1980-12-10,Phil Mahre,US,8
-1980-12-10,Kurt Gubser,CH,0
-1980-12-10,Alex Giorgi,IT,0
-1980-12-10,Marc Girardelli,LU,0
-1980-12-10,Riccardo Foppa,IT,0
-1980-12-10,Odd Sorli,NO,0
-1980-12-10,Aleksandr Zhirov,RU,20
-1980-12-10,Albert Burger,DE,0
-1980-12-10,Jacques Luethy,CH,9
-1980-12-10,Hubert Strolz,AT,0
-1980-12-10,Gerhard Jaeger,AT,15
-1980-12-10,Valeri Tsiganov,RU,0
-1981-01-04,Albert Burger,DE,0
-1981-01-04,Bruno Noeckler,IT,18
-1981-01-04,Hubert Strolz,AT,0
-1981-01-04,Joel Gaspoz,CH,7
-1981-01-04,Valeri Tsiganov,RU,0
-1981-01-04,Riccardo Foppa,IT,0
-1981-01-04,Franz Gruber,AT,6
-1981-01-04,Odd Sorli,NO,0
-1981-01-04,Gerhard Jaeger,AT,20
-1981-01-04,Alex Giorgi,IT,0
-1981-01-04,Jarle Halsnes,NO,4
-1981-01-04,Kurt Gubser,CH,0
-1981-01-04,Wolfram Ortner,AT,8
-1981-01-04,Ernst Riedlsperger,AT,3
-1981-01-04,Torsten Jakobsson,SE,0
-1981-01-04,Boris Strel,SK,0
-1981-01-04,Joze Kuralt,SK,1
-1981-01-04,Paul Arne Skajem,NO,0
-1981-01-04,Leonhard Stock,AT,0
-1981-01-04,Franck Woerndl,DE,1
-1981-01-04,Vladimir Andreev,RU,3
-1981-01-04,Alain Navillod,FR,4
-1981-01-04,Bojan Krizaj,SK,6
-1981-01-04,Steve Mahre,US,11
-1981-01-04,Aleksandr Zhirov,RU,20
-1981-01-04,Ingemar Stenmark,SE,25
-1981-01-04,Andreas Wenzel,LI,16
-1981-01-04,Marc Girardelli,LU,0
-1981-01-04,Pirmin Zurbriggen,CH,0
-1981-01-04,Jean Luc Fournier,CH,15
-1981-01-04,Phil Mahre,US,20
-1981-01-04,Hans Enn,AT,32
-1981-01-04,Jacques Luethy,CH,19
-1981-01-04,Christian Orlainsky,AT,27
-1981-01-04,Hannes Spiss,AT,11
-1981-01-06,Albert Burger,DE,0
-1981-01-06,Steve Mahre,US,11
-1981-01-06,Andreas Wenzel,LI,26
-1981-01-06,Jacques Luethy,CH,26
-1981-01-06,Hans Enn,AT,32
-1981-01-06,Ingemar Stenmark,SE,50
-1981-01-06,Paul Arne Skajem,NO,4
-1981-01-06,Hannes Spiss,AT,12
-1981-01-06,Gerhard Jaeger,AT,23
-1981-01-06,Christian Orlainsky,AT,33
-1981-01-06,Joel Gaspoz,CH,27
-1981-01-06,Phil Mahre,US,32
-1981-01-06,Bojan Krizaj,SK,21
-1981-01-06,Alain Navillod,FR,4
-1981-01-06,Vladimir Andreev,RU,3
-1981-01-06,Wolfram Ortner,AT,8
-1981-01-06,Jean Luc Fournier,CH,15
-1981-01-06,Bruno Noeckler,IT,29
-1981-01-06,Marc Girardelli,LU,2
-1981-01-06,Pirmin Zurbriggen,CH,9
-1981-01-06,Hubert Strolz,AT,0
-1981-01-06,Valeri Tsiganov,RU,0
-1981-01-06,Franck Woerndl,DE,1
-1981-01-06,Riccardo Foppa,IT,0
-1981-01-06,Odd Sorli,NO,0
-1981-01-06,Aleksandr Zhirov,RU,25
-1981-01-06,Kurt Gubser,CH,0
-1981-01-06,Torsten Jakobsson,SE,0
-1981-01-06,Boris Strel,SK,0
-1981-01-06,Joze Kuralt,SK,1
-1981-01-06,Leonhard Stock,AT,8
-1981-01-06,Ernst Riedlsperger,AT,3
-1981-01-06,Jarle Halsnes,NO,4
-1981-01-06,Franz Gruber,AT,6
-1981-01-06,Alex Giorgi,IT,0
-1981-01-26,Jacques Luethy,CH,38
-1981-01-26,Steve Mahre,US,11
-1981-01-26,Albert Burger,DE,0
-1981-01-26,Hubert Strolz,AT,0
-1981-01-26,Valeri Tsiganov,RU,0
-1981-01-26,Torsten Jakobsson,SE,3
-1981-01-26,Wolfram Ortner,AT,9
-1981-01-26,Hannes Spiss,AT,12
-1981-01-26,Odd Sorli,NO,0
-1981-01-26,Hans Enn,AT,32
-1981-01-26,Gerhard Jaeger,AT,23
-1981-01-26,Aleksandr Zhirov,RU,25
-1981-01-26,Alain Navillod,FR,4
-1981-01-26,Ingemar Stenmark,SE,75
-1981-01-26,Vladimir Andreev,RU,3
-1981-01-26,Franck Woerndl,DE,1
-1981-01-26,Joel Gaspoz,CH,27
-1981-01-26,Franz Gruber,AT,6
-1981-01-26,Ernst Riedlsperger,AT,3
-1981-01-26,Christian Orlainsky,AT,53
-1981-01-26,Boris Strel,SK,20
-1981-01-26,Leonhard Stock,AT,8
-1981-01-26,Marc Girardelli,LU,2
-1981-01-26,Alex Giorgi,IT,0
-1981-01-26,Riccardo Foppa,IT,0
-1981-01-26,Jarle Halsnes,NO,15
-1981-01-26,Kurt Gubser,CH,2
-1981-01-26,Bojan Krizaj,SK,21
-1981-01-26,Paul Arne Skajem,NO,8
-1981-01-26,Bruno Noeckler,IT,35
-1981-01-26,Andreas Wenzel,LI,33
-1981-01-26,Pirmin Zurbriggen,CH,19
-1981-01-26,Joze Kuralt,SK,6
-1981-01-26,Phil Mahre,US,40
-1981-01-26,Jean Luc Fournier,CH,24
-1981-02-02,Pirmin Zurbriggen,CH,19
-1981-02-02,Joze Kuralt,SK,6
-1981-02-02,Ernst Riedlsperger,AT,3
-1981-02-02,Hannes Spiss,AT,12
-1981-02-02,Franck Woerndl,DE,1
-1981-02-02,Vladimir Andreev,RU,3
-1981-02-02,Alain Navillod,FR,4
-1981-02-02,Bruno Noeckler,IT,47
-1981-02-02,Andreas Wenzel,LI,33
-1981-02-02,Gerhard Jaeger,AT,23
-1981-02-02,Steve Mahre,US,16
-1981-02-02,Leonhard Stock,AT,8
-1981-02-02,Hans Enn,AT,52
-1981-02-02,Boris Strel,SK,26
-1981-02-02,Aleksandr Zhirov,RU,34
-1981-02-02,Ingemar Stenmark,SE,100
-1981-02-02,Jarle Halsnes,NO,22
-1981-02-02,Phil Mahre,US,50
-1981-02-02,Christian Orlainsky,AT,61
-1981-02-02,Paul Arne Skajem,NO,8
-1981-02-02,Jean Luc Fournier,CH,39
-1981-02-02,Wolfram Ortner,AT,10
-1981-02-02,Valeri Tsiganov,RU,0
-1981-02-02,Hubert Strolz,AT,0
-1981-02-02,Albert Burger,DE,0
-1981-02-02,Joel Gaspoz,CH,31
-1981-02-02,Franz Gruber,AT,8
-1981-02-02,Riccardo Foppa,IT,0
-1981-02-02,Bojan Krizaj,SK,24
-1981-02-02,Alex Giorgi,IT,0
-1981-02-02,Jacques Luethy,CH,49
-1981-02-02,Kurt Gubser,CH,2
-1981-02-02,Marc Girardelli,LU,2
-1981-02-02,Torsten Jakobsson,SE,3
-1981-02-02,Odd Sorli,NO,0
-1981-02-11,Alex Giorgi,IT,9
-1981-02-11,Bojan Krizaj,SK,24
-1981-02-11,Boris Strel,SK,27
-1981-02-11,Ingemar Stenmark,SE,125
-1981-02-11,Hannes Spiss,AT,19
-1981-02-11,Hans Enn,AT,52
-1981-02-11,Steve Mahre,US,19
-1981-02-11,Wolfram Ortner,AT,18
-1981-02-11,Jacques Luethy,CH,55
-1981-02-11,Vladimir Andreev,RU,3
-1981-02-11,Alain Navillod,FR,4
-1981-02-11,Phil Mahre,US,60
-1981-02-11,Gerhard Jaeger,AT,23
-1981-02-11,Albert Burger,DE,0
-1981-02-11,Jarle Halsnes,NO,33
-1981-02-11,Aleksandr Zhirov,RU,54
-1981-02-11,Leonhard Stock,AT,8
-1981-02-11,Torsten Jakobsson,SE,5
-1981-02-11,Paul Arne Skajem,NO,8
-1981-02-11,Christian Orlainsky,AT,61
-1981-02-11,Marc Girardelli,LU,2
-1981-02-11,Joze Kuralt,SK,11
-1981-02-11,Bruno Noeckler,IT,62
-1981-02-11,Ernst Riedlsperger,AT,3
-1981-02-11,Joel Gaspoz,CH,43
-1981-02-11,Pirmin Zurbriggen,CH,23
-1981-02-11,Andreas Wenzel,LI,33
-1981-02-11,Franck Woerndl,DE,1
-1981-02-11,Jean Luc Fournier,CH,39
-1981-02-11,Odd Sorli,NO,0
-1981-02-11,Riccardo Foppa,IT,0
-1981-02-11,Valeri Tsiganov,RU,0
-1981-02-11,Hubert Strolz,AT,0
-1981-02-11,Kurt Gubser,CH,2
-1981-02-11,Franz Gruber,AT,8
-1981-02-14,Valeri Tsiganov,RU,0
-1981-02-14,Hubert Strolz,AT,0
-1981-02-14,Alex Giorgi,IT,9
-1981-02-14,Kurt Gubser,CH,2
-1981-02-14,Torsten Jakobsson,SE,5
-1981-02-14,Marc Girardelli,LU,2
-1981-02-14,Albert Burger,DE,0
-1981-02-14,Franz Gruber,AT,8
-1981-02-14,Pirmin Zurbriggen,CH,23
-1981-02-14,Joze Kuralt,SK,11
-1981-02-14,Joel Gaspoz,CH,43
-1981-02-14,Hannes Spiss,AT,19
-1981-02-14,Franck Woerndl,DE,1
-1981-02-14,Christian Orlainsky,AT,61
-1981-02-14,Vladimir Andreev,RU,3
-1981-02-14,Alain Navillod,FR,4
-1981-02-14,Bruno Noeckler,IT,62
-1981-02-14,Gerhard Jaeger,AT,23
-1981-02-14,Leonhard Stock,AT,8
-1981-02-14,Hans Enn,AT,52
-1981-02-14,Ingemar Stenmark,SE,150
-1981-02-14,Boris Strel,SK,29
-1981-02-14,Jean Luc Fournier,CH,51
-1981-02-14,Paul Arne Skajem,NO,15
-1981-02-14,Riccardo Foppa,IT,1
-1981-02-14,Phil Mahre,US,75
-1981-02-14,Steve Mahre,US,24
-1981-02-14,Jacques Luethy,CH,66
-1981-02-14,Odd Sorli,NO,10
-1981-02-14,Andreas Wenzel,LI,36
-1981-02-14,Aleksandr Zhirov,RU,74
-1981-02-14,Bojan Krizaj,SK,30
-1981-02-14,Jarle Halsnes,NO,41
-1981-02-14,Wolfram Ortner,AT,27
-1981-02-14,Ernst Riedlsperger,AT,7
-1981-03-07,Boris Strel,SK,32
-1981-03-07,Franck Woerndl,DE,1
-1981-03-07,Christian Orlainsky,AT,61
-1981-03-07,Vladimir Andreev,RU,3
-1981-03-07,Franz Gruber,AT,8
-1981-03-07,Alain Navillod,FR,4
-1981-03-07,Odd Sorli,NO,12
-1981-03-07,Jean Luc Fournier,CH,62
-1981-03-07,Jacques Luethy,CH,66
-1981-03-07,Hans Enn,AT,52
-1981-03-07,Andreas Wenzel,LI,41
-1981-03-07,Aleksandr Zhirov,RU,84
-1981-03-07,Marc Girardelli,LU,11
-1981-03-07,Torsten Jakobsson,SE,11
-1981-03-07,Bruno Noeckler,IT,70
-1981-03-07,Bojan Krizaj,SK,34
-1981-03-07,Wolfram Ortner,AT,27
-1981-03-07,Hannes Spiss,AT,26
-1981-03-07,Ernst Riedlsperger,AT,7
-1981-03-07,Ingemar Stenmark,SE,170
-1981-03-07,Phil Mahre,US,100
-1981-03-07,Steve Mahre,US,39
-1981-03-07,Jarle Halsnes,NO,41
-1981-03-07,Albert Burger,DE,0
-1981-03-07,Hubert Strolz,AT,0
-1981-03-07,Valeri Tsiganov,RU,0
-1981-03-07,Joel Gaspoz,CH,55
-1981-03-07,Alex Giorgi,IT,9
-1981-03-07,Kurt Gubser,CH,2
-1981-03-07,Paul Arne Skajem,NO,15
-1981-03-07,Gerhard Jaeger,AT,24
-1981-03-07,Leonhard Stock,AT,8
-1981-03-07,Pirmin Zurbriggen,CH,23
-1981-03-07,Joze Kuralt,SK,11
-1981-03-07,Riccardo Foppa,IT,1
-1981-03-14,Christian Orlainsky,AT,61
-1981-03-14,Jacques Luethy,CH,74
-1981-03-14,Franck Woerndl,DE,1
-1981-03-14,Vladimir Andreev,RU,3
-1981-03-14,Hans Enn,AT,52
-1981-03-14,Alain Navillod,FR,4
-1981-03-14,Andreas Wenzel,LI,41
-1981-03-14,Phil Mahre,US,100
-1981-03-14,Steve Mahre,US,39
-1981-03-14,Hannes Spiss,AT,35
-1981-03-14,Franz Gruber,AT,8
-1981-03-14,Jarle Halsnes,NO,41
-1981-03-14,Alex Giorgi,IT,9
-1981-03-14,Albert Burger,DE,0
-1981-03-14,Jean Luc Fournier,CH,65
-1981-03-14,Hubert Strolz,AT,0
-1981-03-14,Riccardo Foppa,IT,1
-1981-03-14,Joze Kuralt,SK,15
-1981-03-14,Joel Gaspoz,CH,67
-1981-03-14,Odd Sorli,NO,12
-1981-03-14,Wolfram Ortner,AT,32
-1981-03-14,Valeri Tsiganov,RU,1
-1981-03-14,Boris Strel,SK,39
-1981-03-14,Leonhard Stock,AT,19
-1981-03-14,Kurt Gubser,CH,2
-1981-03-14,Pirmin Zurbriggen,CH,33
-1981-03-14,Bruno Noeckler,IT,76
-1981-03-14,Torsten Jakobsson,SE,11
-1981-03-14,Gerhard Jaeger,AT,44
-1981-03-14,Marc Girardelli,LU,11
-1981-03-14,Paul Arne Skajem,NO,15
-1981-03-14,Ernst Riedlsperger,AT,7
-1981-03-14,Aleksandr Zhirov,RU,109
-1981-03-14,Ingemar Stenmark,SE,185
-1981-03-14,Bojan Krizaj,SK,36
-1981-03-24,Torsten Jakobsson,SE,11
-1981-03-24,Gerhard Jaeger,AT,44
-1981-03-24,Andreas Wenzel,LI,41
-1981-03-24,Jacques Luethy,CH,74
-1981-03-24,Kurt Gubser,CH,2
-1981-03-24,Marc Girardelli,LU,11
-1981-03-24,Paul Arne Skajem,NO,15
-1981-03-24,Joze Kuralt,SK,15
-1981-03-24,Alex Giorgi,IT,9
-1981-03-24,Valeri Tsiganov,RU,1
-1981-03-24,Hans Enn,AT,52
-1981-03-24,Franz Gruber,AT,8
-1981-03-24,Albert Burger,DE,0
-1981-03-24,Franck Woerndl,DE,1
-1981-03-24,Christian Orlainsky,AT,61
-1981-03-24,Vladimir Andreev,RU,3
-1981-03-24,Alain Navillod,FR,4
-1981-03-24,Wolfram Ortner,AT,32
-1981-03-24,Jean Luc Fournier,CH,65
-1981-03-24,Ernst Riedlsperger,AT,7
-1981-03-24,Steve Mahre,US,49
-1981-03-24,Odd Sorli,NO,16
-1981-03-24,Hannes Spiss,AT,41
-1981-03-24,Bruno Noeckler,IT,79
-1981-03-24,Pirmin Zurbriggen,CH,35
-1981-03-24,Boris Strel,SK,46
-1981-03-24,Leonhard Stock,AT,24
-1981-03-24,Hubert Strolz,AT,1
-1981-03-24,Aleksandr Zhirov,RU,134
-1981-03-24,Jarle Halsnes,NO,53
-1981-03-24,Joel Gaspoz,CH,82
-1981-03-24,Bojan Krizaj,SK,45
-1981-03-24,Ingemar Stenmark,SE,205
-1981-03-24,Riccardo Foppa,IT,9
-1981-03-24,Phil Mahre,US,111
-1981-03-28,Andreas Wenzel,LI,41
-1981-03-28,Bojan Krizaj,SK,45
-1981-03-28,Wolfram Ortner,AT,32
-1981-03-28,Jacques Luethy,CH,74
-1981-03-28,Alain Navillod,FR,4
-1981-03-28,Aleksandr Zhirov,RU,159
-1981-03-28,Bruno Noeckler,IT,79
-1981-03-28,Franck Woerndl,DE,1
-1981-03-28,Franz Gruber,AT,8
-1981-03-28,Ernst Riedlsperger,AT,7
-1981-03-28,Joze Kuralt,SK,15
-1981-03-28,Marc Girardelli,LU,11
-1981-03-28,Torsten Jakobsson,SE,11
-1981-03-28,Kurt Gubser,CH,2
-1981-03-28,Alex Giorgi,IT,9
-1981-03-28,Christian Orlainsky,AT,61
-1981-03-28,Steve Mahre,US,49
-1981-03-28,Jarle Halsnes,NO,61
-1981-03-28,Gerhard Jaeger,AT,44
-1981-03-28,Odd Sorli,NO,16
-1981-03-28,Phil Mahre,US,131
-1981-03-28,Ingemar Stenmark,SE,220
-1981-03-28,Riccardo Foppa,IT,10
-1981-03-28,Paul Arne Skajem,NO,27
-1981-03-28,Pirmin Zurbriggen,CH,37
-1981-03-28,Hans Enn,AT,52
-1981-03-28,Joel Gaspoz,CH,85
-1981-03-28,Boris Strel,SK,51
-1981-03-28,Jean Luc Fournier,CH,71
-1981-03-28,Hannes Spiss,AT,52
-1981-03-28,Vladimir Andreev,RU,10
-1981-03-28,Hubert Strolz,AT,10
-1981-03-28,Leonhard Stock,AT,34
-1981-03-28,Albert Burger,DE,4
-1981-03-28,Valeri Tsiganov,RU,1
+date,name,ath_country,value,specialty
+1980-12-10,Ingemar Stenmark,SE,25,Giant Slalom
+1980-12-10,Hubert Strolz,AT,0,Giant Slalom
+1980-12-10,Torsten Jakobsson,SE,0,Giant Slalom
+1980-12-10,Steve Mahre,US,11,Slalom
+1980-12-10,Franck Woerndl,DE,1,Slalom
+1980-12-10,Leonhard Stock,AT,0,Downhill
+1980-12-10,Phil Mahre,US,8,Giant Slalom
+1980-12-10,Joel Gaspoz,CH,0,Giant Slalom
+1980-12-10,Franz Gruber,AT,0,Slalom
+1980-12-10,Hannes Spiss,AT,0,Giant Slalom
+1980-12-10,Riccardo Foppa,IT,0,Giant Slalom
+1980-12-10,Aleksandr Zhirov,RU,20,Giant Slalom
+1980-12-10,Albert Burger,DE,0,Giant Slalom
+1980-12-10,Kurt Gubser,CH,0,Slalom
+1980-12-10,Jacques Luethy,CH,9,Giant Slalom
+1980-12-10,Jarle Halsnes,NO,0,Giant Slalom
+1980-12-10,Paul Arne Skajem,NO,0,Giant Slalom
+1980-12-10,Hans Enn,AT,12,Giant Slalom
+1980-12-10,Ernst Riedlsperger,AT,0,Giant Slalom
+1980-12-10,Andreas Wenzel,LI,7,Combined
+1980-12-10,Vladimir Andreev,RU,3,Slalom
+1980-12-10,Jean Luc Fournier,CH,0,Giant Slalom
+1980-12-10,Bojan Krizaj,SK,6,Slalom
+1980-12-10,Joze Kuralt,SK,0,Giant Slalom
+1980-12-10,Pirmin Zurbriggen,CH,0,Giant Slalom
+1980-12-10,Gerhard Jaeger,AT,15,Giant Slalom
+1980-12-10,Wolfram Ortner,AT,5,Giant Slalom
+1980-12-10,Alex Giorgi,IT,0,Giant Slalom
+1980-12-10,Odd Sorli,NO,0,Giant Slalom
+1980-12-10,Christian Orlainsky,AT,2,Giant Slalom
+1980-12-10,Marc Girardelli,LU,0,Slalom
+1980-12-10,Alain Navillod,FR,4,Giant Slalom
+1980-12-10,Bruno Noeckler,IT,10,Giant Slalom
+1980-12-10,Valeri Tsiganov,RU,0,Downhill
+1980-12-10,Boris Strel,SK,0,Giant Slalom
+1981-01-04,Jarle Halsnes,NO,4,Giant Slalom
+1981-01-04,Franz Gruber,AT,6,Slalom
+1981-01-04,Jacques Luethy,CH,19,Giant Slalom
+1981-01-04,Ernst Riedlsperger,AT,3,Giant Slalom
+1981-01-04,Joel Gaspoz,CH,7,Giant Slalom
+1981-01-04,Joze Kuralt,SK,1,Giant Slalom
+1981-01-04,Bruno Noeckler,IT,18,Giant Slalom
+1981-01-04,Gerhard Jaeger,AT,20,Giant Slalom
+1981-01-04,Bojan Krizaj,SK,6,Slalom
+1981-01-04,Steve Mahre,US,11,Slalom
+1981-01-04,Boris Strel,SK,0,Giant Slalom
+1981-01-04,Vladimir Andreev,RU,3,Slalom
+1981-01-04,Albert Burger,DE,0,Giant Slalom
+1981-01-04,Torsten Jakobsson,SE,0,Giant Slalom
+1981-01-04,Hans Enn,AT,32,Giant Slalom
+1981-01-04,Alain Navillod,FR,4,Giant Slalom
+1981-01-04,Valeri Tsiganov,RU,0,Downhill
+1981-01-04,Marc Girardelli,LU,0,Slalom
+1981-01-04,Andreas Wenzel,LI,16,Combined
+1981-01-04,Christian Orlainsky,AT,27,Giant Slalom
+1981-01-04,Ingemar Stenmark,SE,25,Giant Slalom
+1981-01-04,Franck Woerndl,DE,1,Slalom
+1981-01-04,Phil Mahre,US,20,Giant Slalom
+1981-01-04,Leonhard Stock,AT,0,Downhill
+1981-01-04,Hubert Strolz,AT,0,Giant Slalom
+1981-01-04,Pirmin Zurbriggen,CH,0,Giant Slalom
+1981-01-04,Wolfram Ortner,AT,8,Giant Slalom
+1981-01-04,Odd Sorli,NO,0,Giant Slalom
+1981-01-04,Hannes Spiss,AT,11,Giant Slalom
+1981-01-04,Kurt Gubser,CH,0,Slalom
+1981-01-04,Riccardo Foppa,IT,0,Giant Slalom
+1981-01-04,Aleksandr Zhirov,RU,20,Giant Slalom
+1981-01-04,Alex Giorgi,IT,0,Giant Slalom
+1981-01-04,Paul Arne Skajem,NO,0,Giant Slalom
+1981-01-04,Jean Luc Fournier,CH,15,Giant Slalom
+1981-01-06,Bojan Krizaj,SK,21,Slalom
+1981-01-06,Joze Kuralt,SK,1,Giant Slalom
+1981-01-06,Jean Luc Fournier,CH,15,Giant Slalom
+1981-01-06,Odd Sorli,NO,0,Giant Slalom
+1981-01-06,Wolfram Ortner,AT,8,Giant Slalom
+1981-01-06,Alex Giorgi,IT,0,Giant Slalom
+1981-01-06,Jarle Halsnes,NO,4,Giant Slalom
+1981-01-06,Marc Girardelli,LU,2,Slalom
+1981-01-06,Andreas Wenzel,LI,26,Combined
+1981-01-06,Paul Arne Skajem,NO,4,Giant Slalom
+1981-01-06,Steve Mahre,US,11,Slalom
+1981-01-06,Leonhard Stock,AT,8,Downhill
+1981-01-06,Franz Gruber,AT,6,Slalom
+1981-01-06,Hubert Strolz,AT,0,Giant Slalom
+1981-01-06,Hannes Spiss,AT,12,Giant Slalom
+1981-01-06,Riccardo Foppa,IT,0,Giant Slalom
+1981-01-06,Jacques Luethy,CH,26,Giant Slalom
+1981-01-06,Vladimir Andreev,RU,3,Slalom
+1981-01-06,Pirmin Zurbriggen,CH,9,Giant Slalom
+1981-01-06,Torsten Jakobsson,SE,0,Giant Slalom
+1981-01-06,Bruno Noeckler,IT,29,Giant Slalom
+1981-01-06,Alain Navillod,FR,4,Giant Slalom
+1981-01-06,Aleksandr Zhirov,RU,25,Giant Slalom
+1981-01-06,Phil Mahre,US,32,Giant Slalom
+1981-01-06,Hans Enn,AT,32,Giant Slalom
+1981-01-06,Franck Woerndl,DE,1,Slalom
+1981-01-06,Ernst Riedlsperger,AT,3,Giant Slalom
+1981-01-06,Gerhard Jaeger,AT,23,Giant Slalom
+1981-01-06,Kurt Gubser,CH,0,Slalom
+1981-01-06,Boris Strel,SK,0,Giant Slalom
+1981-01-06,Valeri Tsiganov,RU,0,Downhill
+1981-01-06,Joel Gaspoz,CH,27,Giant Slalom
+1981-01-06,Albert Burger,DE,0,Giant Slalom
+1981-01-06,Ingemar Stenmark,SE,50,Giant Slalom
+1981-01-06,Christian Orlainsky,AT,33,Giant Slalom
+1981-01-26,Vladimir Andreev,RU,3,Slalom
+1981-01-26,Jarle Halsnes,NO,15,Giant Slalom
+1981-01-26,Albert Burger,DE,0,Giant Slalom
+1981-01-26,Hans Enn,AT,32,Giant Slalom
+1981-01-26,Jacques Luethy,CH,38,Giant Slalom
+1981-01-26,Aleksandr Zhirov,RU,25,Giant Slalom
+1981-01-26,Riccardo Foppa,IT,0,Giant Slalom
+1981-01-26,Kurt Gubser,CH,2,Slalom
+1981-01-26,Hubert Strolz,AT,0,Giant Slalom
+1981-01-26,Franz Gruber,AT,6,Slalom
+1981-01-26,Phil Mahre,US,40,Giant Slalom
+1981-01-26,Leonhard Stock,AT,8,Downhill
+1981-01-26,Franck Woerndl,DE,1,Slalom
+1981-01-26,Andreas Wenzel,LI,33,Combined
+1981-01-26,Marc Girardelli,LU,2,Slalom
+1981-01-26,Pirmin Zurbriggen,CH,19,Giant Slalom
+1981-01-26,Christian Orlainsky,AT,53,Giant Slalom
+1981-01-26,Valeri Tsiganov,RU,0,Downhill
+1981-01-26,Wolfram Ortner,AT,9,Giant Slalom
+1981-01-26,Odd Sorli,NO,0,Giant Slalom
+1981-01-26,Ingemar Stenmark,SE,75,Giant Slalom
+1981-01-26,Hannes Spiss,AT,12,Giant Slalom
+1981-01-26,Steve Mahre,US,11,Slalom
+1981-01-26,Paul Arne Skajem,NO,8,Giant Slalom
+1981-01-26,Alex Giorgi,IT,0,Giant Slalom
+1981-01-26,Bruno Noeckler,IT,35,Giant Slalom
+1981-01-26,Joel Gaspoz,CH,27,Giant Slalom
+1981-01-26,Bojan Krizaj,SK,21,Slalom
+1981-01-26,Ernst Riedlsperger,AT,3,Giant Slalom
+1981-01-26,Joze Kuralt,SK,6,Giant Slalom
+1981-01-26,Gerhard Jaeger,AT,23,Giant Slalom
+1981-01-26,Boris Strel,SK,20,Giant Slalom
+1981-01-26,Torsten Jakobsson,SE,3,Giant Slalom
+1981-01-26,Alain Navillod,FR,4,Giant Slalom
+1981-01-26,Jean Luc Fournier,CH,24,Giant Slalom
+1981-02-02,Alain Navillod,FR,4,Giant Slalom
+1981-02-02,Kurt Gubser,CH,2,Slalom
+1981-02-02,Hannes Spiss,AT,12,Giant Slalom
+1981-02-02,Hubert Strolz,AT,0,Giant Slalom
+1981-02-02,Alex Giorgi,IT,0,Giant Slalom
+1981-02-02,Phil Mahre,US,50,Giant Slalom
+1981-02-02,Odd Sorli,NO,0,Giant Slalom
+1981-02-02,Joze Kuralt,SK,6,Giant Slalom
+1981-02-02,Leonhard Stock,AT,8,Downhill
+1981-02-02,Ingemar Stenmark,SE,100,Giant Slalom
+1981-02-02,Bojan Krizaj,SK,24,Slalom
+1981-02-02,Franck Woerndl,DE,1,Slalom
+1981-02-02,Marc Girardelli,LU,2,Slalom
+1981-02-02,Andreas Wenzel,LI,33,Combined
+1981-02-02,Bruno Noeckler,IT,47,Giant Slalom
+1981-02-02,Valeri Tsiganov,RU,0,Downhill
+1981-02-02,Gerhard Jaeger,AT,23,Giant Slalom
+1981-02-02,Christian Orlainsky,AT,61,Giant Slalom
+1981-02-02,Wolfram Ortner,AT,10,Giant Slalom
+1981-02-02,Pirmin Zurbriggen,CH,19,Giant Slalom
+1981-02-02,Aleksandr Zhirov,RU,34,Giant Slalom
+1981-02-02,Ernst Riedlsperger,AT,3,Giant Slalom
+1981-02-02,Riccardo Foppa,IT,0,Giant Slalom
+1981-02-02,Jacques Luethy,CH,49,Giant Slalom
+1981-02-02,Albert Burger,DE,0,Giant Slalom
+1981-02-02,Jean Luc Fournier,CH,39,Giant Slalom
+1981-02-02,Vladimir Andreev,RU,3,Slalom
+1981-02-02,Joel Gaspoz,CH,31,Giant Slalom
+1981-02-02,Hans Enn,AT,52,Giant Slalom
+1981-02-02,Steve Mahre,US,16,Slalom
+1981-02-02,Torsten Jakobsson,SE,3,Giant Slalom
+1981-02-02,Paul Arne Skajem,NO,8,Giant Slalom
+1981-02-02,Jarle Halsnes,NO,22,Giant Slalom
+1981-02-02,Franz Gruber,AT,8,Slalom
+1981-02-02,Boris Strel,SK,26,Giant Slalom
+1981-02-11,Paul Arne Skajem,NO,8,Giant Slalom
+1981-02-11,Andreas Wenzel,LI,33,Combined
+1981-02-11,Alain Navillod,FR,4,Giant Slalom
+1981-02-11,Torsten Jakobsson,SE,5,Giant Slalom
+1981-02-11,Franz Gruber,AT,8,Slalom
+1981-02-11,Christian Orlainsky,AT,61,Giant Slalom
+1981-02-11,Jarle Halsnes,NO,33,Giant Slalom
+1981-02-11,Pirmin Zurbriggen,CH,23,Giant Slalom
+1981-02-11,Gerhard Jaeger,AT,23,Giant Slalom
+1981-02-11,Jacques Luethy,CH,55,Giant Slalom
+1981-02-11,Jean Luc Fournier,CH,39,Giant Slalom
+1981-02-11,Joel Gaspoz,CH,43,Giant Slalom
+1981-02-11,Valeri Tsiganov,RU,0,Downhill
+1981-02-11,Vladimir Andreev,RU,3,Slalom
+1981-02-11,Marc Girardelli,LU,2,Slalom
+1981-02-11,Odd Sorli,NO,0,Giant Slalom
+1981-02-11,Franck Woerndl,DE,1,Slalom
+1981-02-11,Boris Strel,SK,27,Giant Slalom
+1981-02-11,Aleksandr Zhirov,RU,54,Giant Slalom
+1981-02-11,Steve Mahre,US,19,Slalom
+1981-02-11,Hannes Spiss,AT,19,Giant Slalom
+1981-02-11,Hubert Strolz,AT,0,Giant Slalom
+1981-02-11,Kurt Gubser,CH,2,Slalom
+1981-02-11,Bruno Noeckler,IT,62,Giant Slalom
+1981-02-11,Joze Kuralt,SK,11,Giant Slalom
+1981-02-11,Riccardo Foppa,IT,0,Giant Slalom
+1981-02-11,Bojan Krizaj,SK,24,Slalom
+1981-02-11,Phil Mahre,US,60,Giant Slalom
+1981-02-11,Hans Enn,AT,52,Giant Slalom
+1981-02-11,Ernst Riedlsperger,AT,3,Giant Slalom
+1981-02-11,Leonhard Stock,AT,8,Downhill
+1981-02-11,Albert Burger,DE,0,Giant Slalom
+1981-02-11,Wolfram Ortner,AT,18,Giant Slalom
+1981-02-11,Alex Giorgi,IT,9,Giant Slalom
+1981-02-11,Ingemar Stenmark,SE,125,Giant Slalom
+1981-02-14,Joze Kuralt,SK,11,Giant Slalom
+1981-02-14,Alex Giorgi,IT,9,Giant Slalom
+1981-02-14,Ernst Riedlsperger,AT,7,Giant Slalom
+1981-02-14,Wolfram Ortner,AT,27,Giant Slalom
+1981-02-14,Franz Gruber,AT,8,Slalom
+1981-02-14,Vladimir Andreev,RU,3,Slalom
+1981-02-14,Franck Woerndl,DE,1,Slalom
+1981-02-14,Marc Girardelli,LU,2,Slalom
+1981-02-14,Albert Burger,DE,0,Giant Slalom
+1981-02-14,Alain Navillod,FR,4,Giant Slalom
+1981-02-14,Kurt Gubser,CH,2,Slalom
+1981-02-14,Hubert Strolz,AT,0,Giant Slalom
+1981-02-14,Riccardo Foppa,IT,1,Giant Slalom
+1981-02-14,Valeri Tsiganov,RU,0,Downhill
+1981-02-14,Torsten Jakobsson,SE,5,Giant Slalom
+1981-02-14,Andreas Wenzel,LI,36,Combined
+1981-02-14,Gerhard Jaeger,AT,23,Giant Slalom
+1981-02-14,Paul Arne Skajem,NO,15,Giant Slalom
+1981-02-14,Phil Mahre,US,75,Giant Slalom
+1981-02-14,Jarle Halsnes,NO,41,Giant Slalom
+1981-02-14,Aleksandr Zhirov,RU,74,Giant Slalom
+1981-02-14,Jean Luc Fournier,CH,51,Giant Slalom
+1981-02-14,Hans Enn,AT,52,Giant Slalom
+1981-02-14,Leonhard Stock,AT,8,Downhill
+1981-02-14,Boris Strel,SK,29,Giant Slalom
+1981-02-14,Pirmin Zurbriggen,CH,23,Giant Slalom
+1981-02-14,Bojan Krizaj,SK,30,Slalom
+1981-02-14,Christian Orlainsky,AT,61,Giant Slalom
+1981-02-14,Odd Sorli,NO,10,Giant Slalom
+1981-02-14,Joel Gaspoz,CH,43,Giant Slalom
+1981-02-14,Steve Mahre,US,24,Slalom
+1981-02-14,Ingemar Stenmark,SE,150,Giant Slalom
+1981-02-14,Hannes Spiss,AT,19,Giant Slalom
+1981-02-14,Bruno Noeckler,IT,62,Giant Slalom
+1981-02-14,Jacques Luethy,CH,66,Giant Slalom
+1981-03-07,Boris Strel,SK,32,Giant Slalom
+1981-03-07,Paul Arne Skajem,NO,15,Giant Slalom
+1981-03-07,Ernst Riedlsperger,AT,7,Giant Slalom
+1981-03-07,Riccardo Foppa,IT,1,Giant Slalom
+1981-03-07,Hubert Strolz,AT,0,Giant Slalom
+1981-03-07,Jarle Halsnes,NO,41,Giant Slalom
+1981-03-07,Gerhard Jaeger,AT,24,Giant Slalom
+1981-03-07,Joel Gaspoz,CH,55,Giant Slalom
+1981-03-07,Jean Luc Fournier,CH,62,Giant Slalom
+1981-03-07,Vladimir Andreev,RU,3,Slalom
+1981-03-07,Joze Kuralt,SK,11,Giant Slalom
+1981-03-07,Jacques Luethy,CH,66,Giant Slalom
+1981-03-07,Bojan Krizaj,SK,34,Slalom
+1981-03-07,Franz Gruber,AT,8,Slalom
+1981-03-07,Bruno Noeckler,IT,70,Giant Slalom
+1981-03-07,Alain Navillod,FR,4,Giant Slalom
+1981-03-07,Torsten Jakobsson,SE,11,Giant Slalom
+1981-03-07,Steve Mahre,US,39,Slalom
+1981-03-07,Franck Woerndl,DE,1,Slalom
+1981-03-07,Pirmin Zurbriggen,CH,23,Giant Slalom
+1981-03-07,Kurt Gubser,CH,2,Slalom
+1981-03-07,Marc Girardelli,LU,11,Slalom
+1981-03-07,Andreas Wenzel,LI,41,Combined
+1981-03-07,Wolfram Ortner,AT,27,Giant Slalom
+1981-03-07,Leonhard Stock,AT,8,Downhill
+1981-03-07,Odd Sorli,NO,12,Giant Slalom
+1981-03-07,Hannes Spiss,AT,26,Giant Slalom
+1981-03-07,Aleksandr Zhirov,RU,84,Giant Slalom
+1981-03-07,Ingemar Stenmark,SE,170,Giant Slalom
+1981-03-07,Valeri Tsiganov,RU,0,Downhill
+1981-03-07,Albert Burger,DE,0,Giant Slalom
+1981-03-07,Hans Enn,AT,52,Giant Slalom
+1981-03-07,Christian Orlainsky,AT,61,Giant Slalom
+1981-03-07,Alex Giorgi,IT,9,Giant Slalom
+1981-03-07,Phil Mahre,US,100,Giant Slalom
+1981-03-14,Hans Enn,AT,52,Giant Slalom
+1981-03-14,Ingemar Stenmark,SE,185,Giant Slalom
+1981-03-14,Bojan Krizaj,SK,36,Slalom
+1981-03-14,Bruno Noeckler,IT,76,Giant Slalom
+1981-03-14,Joze Kuralt,SK,15,Giant Slalom
+1981-03-14,Valeri Tsiganov,RU,1,Downhill
+1981-03-14,Christian Orlainsky,AT,61,Giant Slalom
+1981-03-14,Franck Woerndl,DE,1,Slalom
+1981-03-14,Kurt Gubser,CH,2,Slalom
+1981-03-14,Gerhard Jaeger,AT,44,Giant Slalom
+1981-03-14,Alain Navillod,FR,4,Giant Slalom
+1981-03-14,Phil Mahre,US,100,Giant Slalom
+1981-03-14,Aleksandr Zhirov,RU,109,Giant Slalom
+1981-03-14,Albert Burger,DE,0,Giant Slalom
+1981-03-14,Boris Strel,SK,39,Giant Slalom
+1981-03-14,Ernst Riedlsperger,AT,7,Giant Slalom
+1981-03-14,Joel Gaspoz,CH,67,Giant Slalom
+1981-03-14,Jean Luc Fournier,CH,65,Giant Slalom
+1981-03-14,Odd Sorli,NO,12,Giant Slalom
+1981-03-14,Torsten Jakobsson,SE,11,Giant Slalom
+1981-03-14,Marc Girardelli,LU,11,Slalom
+1981-03-14,Riccardo Foppa,IT,1,Giant Slalom
+1981-03-14,Jarle Halsnes,NO,41,Giant Slalom
+1981-03-14,Pirmin Zurbriggen,CH,33,Giant Slalom
+1981-03-14,Hannes Spiss,AT,35,Giant Slalom
+1981-03-14,Wolfram Ortner,AT,32,Giant Slalom
+1981-03-14,Hubert Strolz,AT,0,Giant Slalom
+1981-03-14,Vladimir Andreev,RU,3,Slalom
+1981-03-14,Leonhard Stock,AT,19,Downhill
+1981-03-14,Jacques Luethy,CH,74,Giant Slalom
+1981-03-14,Paul Arne Skajem,NO,15,Giant Slalom
+1981-03-14,Steve Mahre,US,39,Slalom
+1981-03-14,Franz Gruber,AT,8,Slalom
+1981-03-14,Alex Giorgi,IT,9,Giant Slalom
+1981-03-14,Andreas Wenzel,LI,41,Combined
+1981-03-24,Phil Mahre,US,111,Giant Slalom
+1981-03-24,Hubert Strolz,AT,1,Giant Slalom
+1981-03-24,Joel Gaspoz,CH,82,Giant Slalom
+1981-03-24,Kurt Gubser,CH,2,Slalom
+1981-03-24,Andreas Wenzel,LI,41,Combined
+1981-03-24,Leonhard Stock,AT,24,Downhill
+1981-03-24,Ernst Riedlsperger,AT,7,Giant Slalom
+1981-03-24,Hannes Spiss,AT,41,Giant Slalom
+1981-03-24,Christian Orlainsky,AT,61,Giant Slalom
+1981-03-24,Albert Burger,DE,0,Giant Slalom
+1981-03-24,Valeri Tsiganov,RU,1,Downhill
+1981-03-24,Paul Arne Skajem,NO,15,Giant Slalom
+1981-03-24,Aleksandr Zhirov,RU,134,Giant Slalom
+1981-03-24,Boris Strel,SK,46,Giant Slalom
+1981-03-24,Hans Enn,AT,52,Giant Slalom
+1981-03-24,Riccardo Foppa,IT,9,Giant Slalom
+1981-03-24,Marc Girardelli,LU,11,Slalom
+1981-03-24,Bruno Noeckler,IT,79,Giant Slalom
+1981-03-24,Franz Gruber,AT,8,Slalom
+1981-03-24,Alex Giorgi,IT,9,Giant Slalom
+1981-03-24,Torsten Jakobsson,SE,11,Giant Slalom
+1981-03-24,Steve Mahre,US,49,Slalom
+1981-03-24,Ingemar Stenmark,SE,205,Giant Slalom
+1981-03-24,Bojan Krizaj,SK,45,Slalom
+1981-03-24,Jean Luc Fournier,CH,65,Giant Slalom
+1981-03-24,Vladimir Andreev,RU,3,Slalom
+1981-03-24,Odd Sorli,NO,16,Giant Slalom
+1981-03-24,Wolfram Ortner,AT,32,Giant Slalom
+1981-03-24,Joze Kuralt,SK,15,Giant Slalom
+1981-03-24,Jacques Luethy,CH,74,Giant Slalom
+1981-03-24,Gerhard Jaeger,AT,44,Giant Slalom
+1981-03-24,Jarle Halsnes,NO,53,Giant Slalom
+1981-03-24,Pirmin Zurbriggen,CH,35,Giant Slalom
+1981-03-24,Alain Navillod,FR,4,Giant Slalom
+1981-03-24,Franck Woerndl,DE,1,Slalom
+1981-03-28,Phil Mahre,US,131,Giant Slalom
+1981-03-28,Andreas Wenzel,LI,41,Combined
+1981-03-28,Pirmin Zurbriggen,CH,37,Giant Slalom
+1981-03-28,Kurt Gubser,CH,2,Slalom
+1981-03-28,Christian Orlainsky,AT,61,Giant Slalom
+1981-03-28,Alex Giorgi,IT,9,Giant Slalom
+1981-03-28,Franck Woerndl,DE,1,Slalom
+1981-03-28,Wolfram Ortner,AT,32,Giant Slalom
+1981-03-28,Ingemar Stenmark,SE,220,Giant Slalom
+1981-03-28,Franz Gruber,AT,8,Slalom
+1981-03-28,Marc Girardelli,LU,11,Slalom
+1981-03-28,Bojan Krizaj,SK,45,Slalom
+1981-03-28,Odd Sorli,NO,16,Giant Slalom
+1981-03-28,Torsten Jakobsson,SE,11,Giant Slalom
+1981-03-28,Steve Mahre,US,49,Slalom
+1981-03-28,Jean Luc Fournier,CH,71,Giant Slalom
+1981-03-28,Joze Kuralt,SK,15,Giant Slalom
+1981-03-28,Jacques Luethy,CH,74,Giant Slalom
+1981-03-28,Gerhard Jaeger,AT,44,Giant Slalom
+1981-03-28,Jarle Halsnes,NO,61,Giant Slalom
+1981-03-28,Vladimir Andreev,RU,10,Slalom
+1981-03-28,Aleksandr Zhirov,RU,159,Giant Slalom
+1981-03-28,Alain Navillod,FR,4,Giant Slalom
+1981-03-28,Boris Strel,SK,51,Giant Slalom
+1981-03-28,Hannes Spiss,AT,52,Giant Slalom
+1981-03-28,Joel Gaspoz,CH,85,Giant Slalom
+1981-03-28,Riccardo Foppa,IT,10,Giant Slalom
+1981-03-28,Ernst Riedlsperger,AT,7,Giant Slalom
+1981-03-28,Albert Burger,DE,4,Giant Slalom
+1981-03-28,Bruno Noeckler,IT,79,Giant Slalom
+1981-03-28,Hans Enn,AT,52,Giant Slalom
+1981-03-28,Leonhard Stock,AT,34,Downhill
+1981-03-28,Hubert Strolz,AT,10,Giant Slalom
+1981-03-28,Paul Arne Skajem,NO,27,Giant Slalom
+1981-03-28,Valeri Tsiganov,RU,1,Downhill

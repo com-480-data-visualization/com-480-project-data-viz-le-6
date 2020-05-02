@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1989-03-11,Bernhard Gstrein,AT,25
-1989-03-11,Pirmin Zurbriggen,CH,20
-1989-03-11,Rudolph Nierlich,AT,15
-1989-03-11,Markus Wasmeier,DE,12
-1989-03-11,Ole Kristian Furuseth,NO,11
-1989-03-11,Michael Tritscher,AT,10
-1989-03-11,Helmut Mayer,AT,9
-1989-03-11,Ingemar Stenmark,SE,8
-1989-03-11,Guenther Mader,AT,7
-1989-03-11,Hubert Strolz,AT,6
-1989-03-11,Tomaz Cizman,SK,5
-1989-03-11,Peter Mueller,CH,4
-1989-03-11,Martin Hangl,CH,3
-1989-03-11,Michael Mair,IT,2
-1989-03-11,Lars Boerje Eriksson,SE,1
+date,name,ath_country,value,specialty
+1989-03-11,Bernhard Gstrein,AT,25,Slalom
+1989-03-11,Pirmin Zurbriggen,CH,20,Downhill
+1989-03-11,Rudolph Nierlich,AT,15,Giant Slalom
+1989-03-11,Markus Wasmeier,DE,12,Downhill
+1989-03-11,Ole Kristian Furuseth,NO,11,Slalom
+1989-03-11,Michael Tritscher,AT,10,Slalom
+1989-03-11,Helmut Mayer,AT,9,Giant Slalom
+1989-03-11,Ingemar Stenmark,SE,8,Giant Slalom
+1989-03-11,Guenther Mader,AT,7,Super G
+1989-03-11,Hubert Strolz,AT,6,Giant Slalom
+1989-03-11,Tomaz Cizman,SK,5,Giant Slalom
+1989-03-11,Peter Mueller,CH,4,Downhill
+1989-03-11,Martin Hangl,CH,3,Super G
+1989-03-11,Michael Mair,IT,2,Downhill
+1989-03-11,Lars Boerje Eriksson,SE,1,Super G

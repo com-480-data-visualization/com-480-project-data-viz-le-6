@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1983-03-21,Ingemar Stenmark,SE,25
-1983-03-21,Phil Mahre,US,20
-1983-03-21,Andreas Wenzel,LI,15
-1983-03-21,Steve Mahre,US,12
-1983-03-21,Pirmin Zurbriggen,CH,11
-1983-03-21,Hans Enn,AT,10
-1983-03-21,Franz Gruber,AT,9
-1983-03-21,Max Julen,CH,8
-1983-03-21,Bojan Krizaj,SK,7
-1983-03-21,Paolo De Chiesa,IT,6
-1983-03-21,Urs Raeber,CH,5
-1983-03-21,Christian Orlainsky,AT,4
-1983-03-21,Conradin Cathomen,CH,3
-1983-03-21,Stig Strand,SE,2
-1983-03-21,Peter Mueller,CH,1
+date,name,ath_country,value,specialty
+1983-03-21,Ingemar Stenmark,SE,25,Giant Slalom
+1983-03-21,Phil Mahre,US,20,Giant Slalom
+1983-03-21,Andreas Wenzel,LI,15,Slalom
+1983-03-21,Steve Mahre,US,12,Slalom
+1983-03-21,Pirmin Zurbriggen,CH,11,Giant Slalom
+1983-03-21,Hans Enn,AT,10,Giant Slalom
+1983-03-21,Franz Gruber,AT,9,Slalom
+1983-03-21,Max Julen,CH,8,Giant Slalom
+1983-03-21,Bojan Krizaj,SK,7,Slalom
+1983-03-21,Paolo De Chiesa,IT,6,Slalom
+1983-03-21,Urs Raeber,CH,5,Downhill
+1983-03-21,Christian Orlainsky,AT,4,Slalom
+1983-03-21,Conradin Cathomen,CH,3,Downhill
+1983-03-21,Stig Strand,SE,2,Slalom
+1983-03-21,Peter Mueller,CH,1,Downhill

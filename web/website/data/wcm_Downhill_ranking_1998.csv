@@ -1,650 +1,650 @@
-date,name,ath_country,value
-1997-12-04,Kristian Ghedina,IT,100
-1997-12-04,Luke Sauder,CA,1
-1997-12-04,A.J. Kitt,US,2
-1997-12-04,Paul Accola,CH,3
-1997-12-04,Tommy Moe,US,5
-1997-12-04,Xavier Gigandet,CH,5
-1997-12-04,Hannes Trinkl,AT,6
-1997-12-04,Kyle Rasmussen,US,7
-1997-12-04,Nicolas Burtin,FR,8
-1997-12-04,Franco Cavegn,CH,9
-1997-12-04,Werner Perathoner,IT,10
-1997-12-04,Fredrik Nyberg,SE,11
-1997-12-04,Bruno Kernen,CH,12
-1997-12-04,Christian Greber,AT,13
-1997-12-04,Adrien Duvillard,FR,14
-1997-12-04,William Besse,CH,15
-1997-12-04,Didier Cuche,CH,16
-1997-12-04,Kjetil Andre Aamodt,NO,18
-1997-12-04,Luca Cattaneo,IT,20
-1997-12-04,Andreas Schifferer,AT,22
-1997-12-04,Patrick Ortlieb,AT,26
-1997-12-04,Stephan Eberharter,AT,26
-1997-12-04,Hermann Maier,AT,29
-1997-12-04,Werner Franz,AT,32
-1997-12-04,Guenther Mader,AT,0
-1997-12-04,Brian Stemmle,CA,0
-1997-12-04,Stefan Krauss,DE,0
-1997-12-04,Juerg Gruenenfelder,CH,0
-1997-12-04,Andreas Buder,AT,0
-1997-12-04,Christian Forrer,CH,0
-1997-12-04,Chris Puckett,US,0
-1997-12-04,Lasse Paulsen,NO,0
-1997-12-04,Chad Fleischer,US,0
-1997-12-04,Alberto Senigagliesi,IT,0
-1997-12-04,Peter Pen,SK,0
-1997-12-04,Markus Herrmann,CH,0
-1997-12-04,Patrik Jaerbyn,SE,0
-1997-12-04,Hans Knauss,AT,0
-1997-12-04,Hansueli Tschiemer,CH,0
-1997-12-04,Peter Runggaldier,IT,36
-1997-12-04,Michael Brunner,DE,0
-1997-12-04,Ambrosi Hoffmann,CH,0
-1997-12-04,Lorenzo Galli,IT,0
-1997-12-04,Ales Brezavsek,SK,0
-1997-12-04,Frederic Marin Cudraz,FR,0
-1997-12-04,Kenneth Sivertsen,NO,0
-1997-12-04,Pietro Vitalini,IT,0
-1997-12-04,David Pretot,FR,0
-1997-12-04,Ed Podivinsky,CA,0
-1997-12-04,Alessandro Fattori,IT,0
-1997-12-04,Jason Rosener,US,0
-1997-12-04,Vincent Blanc,FR,0
-1997-12-04,Erik Seletto,IT,0
-1997-12-04,Fritz Strobl,AT,40
-1997-12-04,Daron Rahlves,US,0
-1997-12-04,Josef Strobl,AT,50
-1997-12-04,Roland Assinger,AT,45
-1997-12-04,Jean Luc Cretier,FR,80
-1997-12-04,Lasse Kjus,NO,60
-1997-12-05,Alberto Senigagliesi,IT,0
-1997-12-05,Chad Fleischer,US,0
-1997-12-05,Chris Puckett,US,0
-1997-12-05,Daron Rahlves,US,0
-1997-12-05,Ed Podivinsky,CA,4
-1997-12-05,Guenther Mader,AT,22
-1997-12-05,David Pretot,FR,3
-1997-12-05,Christian Forrer,CH,0
-1997-12-05,Nicolas Burtin,FR,34
-1997-12-05,Tommy Moe,US,7
-1997-12-05,Andreas Buder,AT,0
-1997-12-05,Kristian Ghedina,IT,122
-1997-12-05,Peter Pen,SK,0
-1997-12-05,Lasse Paulsen,NO,0
-1997-12-05,Fredrik Nyberg,SE,40
-1997-12-05,Hannes Trinkl,AT,51
-1997-12-05,Paul Accola,CH,10
-1997-12-05,Fritz Strobl,AT,90
-1997-12-05,Didier Cuche,CH,34
-1997-12-05,Vincent Blanc,FR,8
-1997-12-05,Brian Stemmle,CA,16
-1997-12-05,Juerg Gruenenfelder,CH,9
-1997-12-05,Xavier Gigandet,CH,15
-1997-12-05,Christian Greber,AT,37
-1997-12-05,Luca Cattaneo,IT,35
-1997-12-05,Peter Runggaldier,IT,47
-1997-12-05,William Besse,CH,27
-1997-12-05,Werner Perathoner,IT,23
-1997-12-05,Jason Rosener,US,6
-1997-12-05,Markus Herrmann,CH,0
-1997-12-05,Alessandro Fattori,IT,5
-1997-12-05,Stefan Krauss,DE,14
-1997-12-05,Luke Sauder,CA,1
-1997-12-05,Pietro Vitalini,IT,0
-1997-12-05,Patrik Jaerbyn,SE,0
-1997-12-05,Patrick Ortlieb,AT,26
-1997-12-05,Stephan Eberharter,AT,86
-1997-12-05,Roland Assinger,AT,81
-1997-12-05,Werner Franz,AT,32
-1997-12-05,Josef Strobl,AT,50
-1997-12-05,Kyle Rasmussen,US,7
-1997-12-05,Hermann Maier,AT,109
-1997-12-05,Andreas Schifferer,AT,122
-1997-12-05,Franco Cavegn,CH,9
-1997-12-05,Jean Luc Cretier,FR,80
-1997-12-05,Frederic Marin Cudraz,FR,0
-1997-12-05,Hans Knauss,AT,0
-1997-12-05,Hansueli Tschiemer,CH,0
-1997-12-05,Michael Brunner,DE,0
-1997-12-05,Adrien Duvillard,FR,15
-1997-12-05,Kenneth Sivertsen,NO,0
-1997-12-05,Erik Seletto,IT,0
-1997-12-05,Kjetil Andre Aamodt,NO,58
-1997-12-05,Bruno Kernen,CH,12
-1997-12-05,Lorenzo Galli,IT,0
-1997-12-05,Ales Brezavsek,SK,0
-1997-12-05,Lasse Kjus,NO,92
-1997-12-05,Ambrosi Hoffmann,CH,0
-1997-12-05,A.J. Kitt,US,2
-1997-12-29,Andreas Schifferer,AT,202
-1997-12-29,Stephan Eberharter,AT,136
-1997-12-29,Bruno Kernen,CH,20
-1997-12-29,Peter Pen,SK,0
-1997-12-29,Alberto Senigagliesi,IT,0
-1997-12-29,Christian Forrer,CH,0
-1997-12-29,Lasse Paulsen,NO,0
-1997-12-29,Chris Puckett,US,0
-1997-12-29,Paul Accola,CH,19
-1997-12-29,Daron Rahlves,US,0
-1997-12-29,Markus Herrmann,CH,0
-1997-12-29,Andreas Buder,AT,0
-1997-12-29,Stefan Krauss,DE,25
-1997-12-29,Xavier Gigandet,CH,26
-1997-12-29,Hermann Maier,AT,209
-1997-12-29,Luke Sauder,CA,14
-1997-12-29,Chad Fleischer,US,0
-1997-12-29,Patrik Jaerbyn,SE,0
-1997-12-29,Ambrosi Hoffmann,CH,2
-1997-12-29,Hansueli Tschiemer,CH,0
-1997-12-29,Erik Seletto,IT,1
-1997-12-29,Lorenzo Galli,IT,3
-1997-12-29,Josef Strobl,AT,50
-1997-12-29,Fritz Strobl,AT,90
-1997-12-29,Patrick Ortlieb,AT,26
-1997-12-29,Luca Cattaneo,IT,35
-1997-12-29,Pietro Vitalini,IT,14
-1997-12-29,Kjetil Andre Aamodt,NO,58
-1997-12-29,Fredrik Nyberg,SE,40
-1997-12-29,Franco Cavegn,CH,9
-1997-12-29,Werner Franz,AT,92
-1997-12-29,Kyle Rasmussen,US,7
-1997-12-29,Tommy Moe,US,7
-1997-12-29,A.J. Kitt,US,2
-1997-12-29,Frederic Marin Cudraz,FR,6
-1997-12-29,Adrien Duvillard,FR,21
-1997-12-29,Guenther Mader,AT,22
-1997-12-29,Juerg Gruenenfelder,CH,9
-1997-12-29,Vincent Blanc,FR,8
-1997-12-29,Jason Rosener,US,6
-1997-12-29,David Pretot,FR,3
-1997-12-29,Kenneth Sivertsen,NO,7
-1997-12-29,Michael Brunner,DE,0
-1997-12-29,Hans Knauss,AT,0
-1997-12-29,Alessandro Fattori,IT,5
-1997-12-29,Werner Perathoner,IT,35
-1997-12-29,Nicolas Burtin,FR,56
-1997-12-29,Kristian Ghedina,IT,140
-1997-12-29,Lasse Kjus,NO,137
-1997-12-29,Hannes Trinkl,AT,77
-1997-12-29,Peter Runggaldier,IT,71
-1997-12-29,Ed Podivinsky,CA,20
-1997-12-29,Jean Luc Cretier,FR,109
-1997-12-29,Ales Brezavsek,SK,4
-1997-12-29,Brian Stemmle,CA,31
-1997-12-29,Didier Cuche,CH,54
-1997-12-29,Roland Assinger,AT,113
-1997-12-29,William Besse,CH,63
-1997-12-29,Christian Greber,AT,77
-1997-12-30,Hermann Maier,AT,259
-1997-12-30,Luke Sauder,CA,34
-1997-12-30,Fritz Strobl,AT,90
-1997-12-30,Guenther Mader,AT,38
-1997-12-30,Patrick Ortlieb,AT,26
-1997-12-30,Pietro Vitalini,IT,24
-1997-12-30,Didier Cuche,CH,78
-1997-12-30,Stefan Krauss,DE,33
-1997-12-30,Kjetil Andre Aamodt,NO,58
-1997-12-30,Peter Runggaldier,IT,89
-1997-12-30,Josef Strobl,AT,50
-1997-12-30,Alessandro Fattori,IT,14
-1997-12-30,Luca Cattaneo,IT,42
-1997-12-30,Christian Greber,AT,99
-1997-12-30,Bruno Kernen,CH,60
-1997-12-30,Werner Franz,AT,172
-1997-12-30,Stephan Eberharter,AT,172
-1997-12-30,Lasse Kjus,NO,197
-1997-12-30,Roland Assinger,AT,145
-1997-12-30,Erik Seletto,IT,2
-1997-12-30,Hansueli Tschiemer,CH,6
-1997-12-30,Xavier Gigandet,CH,30
-1997-12-30,Brian Stemmle,CA,60
-1997-12-30,Franco Cavegn,CH,12
-1997-12-30,Hannes Trinkl,AT,122
-1997-12-30,Werner Perathoner,IT,61
-1997-12-30,A.J. Kitt,US,7
-1997-12-30,Adrien Duvillard,FR,21
-1997-12-30,Ales Brezavsek,SK,6
-1997-12-30,Fredrik Nyberg,SE,40
-1997-12-30,Andreas Schifferer,AT,302
-1997-12-30,Tommy Moe,US,7
-1997-12-30,Jean Luc Cretier,FR,121
-1997-12-30,Chad Fleischer,US,0
-1997-12-30,Lasse Paulsen,NO,0
-1997-12-30,Chris Puckett,US,0
-1997-12-30,Frederic Marin Cudraz,FR,6
-1997-12-30,Lorenzo Galli,IT,3
-1997-12-30,Daron Rahlves,US,0
-1997-12-30,Kenneth Sivertsen,NO,7
-1997-12-30,David Pretot,FR,3
-1997-12-30,Ed Podivinsky,CA,20
-1997-12-30,Jason Rosener,US,6
-1997-12-30,Alberto Senigagliesi,IT,0
-1997-12-30,Vincent Blanc,FR,8
-1997-12-30,Christian Forrer,CH,0
-1997-12-30,Nicolas Burtin,FR,69
-1997-12-30,Paul Accola,CH,19
-1997-12-30,Ambrosi Hoffmann,CH,2
-1997-12-30,Hans Knauss,AT,0
-1997-12-30,Patrik Jaerbyn,SE,0
-1997-12-30,Markus Herrmann,CH,0
-1997-12-30,Michael Brunner,DE,11
-1997-12-30,Andreas Buder,AT,0
-1997-12-30,Kyle Rasmussen,US,7
-1997-12-30,William Besse,CH,77
-1997-12-30,Peter Pen,SK,0
-1997-12-30,Kristian Ghedina,IT,155
-1997-12-30,Juerg Gruenenfelder,CH,9
-1998-01-16,Stephan Eberharter,AT,217
-1998-01-16,Franco Cavegn,CH,15
-1998-01-16,Peter Runggaldier,IT,102
-1998-01-16,Kyle Rasmussen,US,7
-1998-01-16,Werner Perathoner,IT,90
-1998-01-16,Hannes Trinkl,AT,126
-1998-01-16,Fredrik Nyberg,SE,40
-1998-01-16,Peter Pen,SK,2
-1998-01-16,A.J. Kitt,US,8
-1998-01-16,Kjetil Andre Aamodt,NO,90
-1998-01-16,Andreas Schifferer,AT,362
-1998-01-16,Kristian Ghedina,IT,155
-1998-01-16,Bruno Kernen,CH,96
-1998-01-16,Ed Podivinsky,CA,34
-1998-01-16,Nicolas Burtin,FR,149
-1998-01-16,Christian Greber,AT,99
-1998-01-16,Werner Franz,AT,212
-1998-01-16,Adrien Duvillard,FR,21
-1998-01-16,Lasse Kjus,NO,197
-1998-01-16,Luca Cattaneo,IT,71
-1998-01-16,Juerg Gruenenfelder,CH,31
-1998-01-16,Erik Seletto,IT,7
-1998-01-16,Andreas Buder,AT,0
-1998-01-16,Stefan Krauss,DE,51
-1998-01-16,Frederic Marin Cudraz,FR,6
-1998-01-16,Markus Herrmann,CH,8
-1998-01-16,Kenneth Sivertsen,NO,7
-1998-01-16,Brian Stemmle,CA,66
-1998-01-16,Pietro Vitalini,IT,24
-1998-01-16,David Pretot,FR,3
-1998-01-16,Fritz Strobl,AT,114
-1998-01-16,Ambrosi Hoffmann,CH,11
-1998-01-16,Luke Sauder,CA,46
-1998-01-16,Didier Cuche,CH,94
-1998-01-16,Jason Rosener,US,6
-1998-01-16,Vincent Blanc,FR,8
-1998-01-16,Guenther Mader,AT,38
-1998-01-16,Xavier Gigandet,CH,30
-1998-01-16,Tommy Moe,US,7
-1998-01-16,Patrick Ortlieb,AT,36
-1998-01-16,Jean Luc Cretier,FR,132
-1998-01-16,Paul Accola,CH,19
-1998-01-16,Hans Knauss,AT,50
-1998-01-16,Patrik Jaerbyn,SE,16
-1998-01-16,Ales Brezavsek,SK,6
-1998-01-16,Josef Strobl,AT,50
-1998-01-16,Chris Puckett,US,0
-1998-01-16,Chad Fleischer,US,0
-1998-01-16,Hermann Maier,AT,359
-1998-01-16,Roland Assinger,AT,165
-1998-01-16,Lasse Paulsen,NO,0
-1998-01-16,Alberto Senigagliesi,IT,0
-1998-01-16,Lorenzo Galli,IT,3
-1998-01-16,Alessandro Fattori,IT,21
-1998-01-16,William Besse,CH,77
-1998-01-16,Daron Rahlves,US,0
-1998-01-16,Christian Forrer,CH,0
-1998-01-16,Hansueli Tschiemer,CH,6
-1998-01-16,Michael Brunner,DE,11
-1998-01-17,Fritz Strobl,AT,114
-1998-01-17,Patrik Jaerbyn,SE,16
-1998-01-17,Michael Brunner,DE,11
-1998-01-17,Hansueli Tschiemer,CH,6
-1998-01-17,Josef Strobl,AT,50
-1998-01-17,Paul Accola,CH,19
-1998-01-17,Lasse Paulsen,NO,0
-1998-01-17,Daron Rahlves,US,0
-1998-01-17,Christian Forrer,CH,0
-1998-01-17,Andreas Buder,AT,0
-1998-01-17,Lasse Kjus,NO,197
-1998-01-17,Peter Pen,SK,2
-1998-01-17,Chris Puckett,US,0
-1998-01-17,Ales Brezavsek,SK,6
-1998-01-17,Ambrosi Hoffmann,CH,11
-1998-01-17,Lorenzo Galli,IT,3
-1998-01-17,Adrien Duvillard,FR,21
-1998-01-17,Bruno Kernen,CH,96
-1998-01-17,Frederic Marin Cudraz,FR,6
-1998-01-17,Kenneth Sivertsen,NO,7
-1998-01-17,Pietro Vitalini,IT,24
-1998-01-17,Fredrik Nyberg,SE,40
-1998-01-17,Vincent Blanc,FR,8
-1998-01-17,Stefan Krauss,DE,51
-1998-01-17,Guenther Mader,AT,38
-1998-01-17,Xavier Gigandet,CH,30
-1998-01-17,Tommy Moe,US,7
-1998-01-17,William Besse,CH,77
-1998-01-17,Juerg Gruenenfelder,CH,31
-1998-01-17,Patrick Ortlieb,AT,39
-1998-01-17,Andreas Schifferer,AT,462
-1998-01-17,Luke Sauder,CA,70
-1998-01-17,A.J. Kitt,US,10
-1998-01-17,Erik Seletto,IT,15
-1998-01-17,Brian Stemmle,CA,88
-1998-01-17,Peter Runggaldier,IT,109
-1998-01-17,Franco Cavegn,CH,37
-1998-01-17,Stephan Eberharter,AT,262
-1998-01-17,Hans Knauss,AT,90
-1998-01-17,Kristian Ghedina,IT,191
-1998-01-17,Alessandro Fattori,IT,26
-1998-01-17,Nicolas Burtin,FR,161
-1998-01-17,Markus Herrmann,CH,12
-1998-01-17,Kjetil Andre Aamodt,NO,122
-1998-01-17,Ed Podivinsky,CA,63
-1998-01-17,Werner Franz,AT,238
-1998-01-17,Christian Greber,AT,115
-1998-01-17,Didier Cuche,CH,112
-1998-01-17,David Pretot,FR,12
-1998-01-17,Hannes Trinkl,AT,176
-1998-01-17,Jason Rosener,US,17
-1998-01-17,Kyle Rasmussen,US,20
-1998-01-17,Jean Luc Cretier,FR,212
-1998-01-17,Chad Fleischer,US,1
-1998-01-17,Alberto Senigagliesi,IT,14
-1998-01-17,Roland Assinger,AT,175
-1998-01-17,Hermann Maier,AT,419
-1998-01-17,Luca Cattaneo,IT,86
-1998-01-17,Werner Perathoner,IT,96
-1998-01-23,Erik Seletto,IT,39
-1998-01-23,Tommy Moe,US,31
-1998-01-23,Stephan Eberharter,AT,276
-1998-01-23,Daron Rahlves,US,0
-1998-01-23,Hans Knauss,AT,116
-1998-01-23,Juerg Gruenenfelder,CH,81
-1998-01-23,Werner Franz,AT,253
-1998-01-23,Hannes Trinkl,AT,189
-1998-01-23,Adrien Duvillard,FR,71
-1998-01-23,Christian Greber,AT,131
-1998-01-23,Guenther Mader,AT,56
-1998-01-23,Patrick Ortlieb,AT,59
-1998-01-23,Werner Perathoner,IT,132
-1998-01-23,Kristian Ghedina,IT,223
-1998-01-23,Peter Pen,SK,2
-1998-01-23,Patrik Jaerbyn,SE,16
-1998-01-23,Hansueli Tschiemer,CH,6
-1998-01-23,Michael Brunner,DE,11
-1998-01-23,Ambrosi Hoffmann,CH,11
-1998-01-23,Lorenzo Galli,IT,3
-1998-01-23,Ales Brezavsek,SK,6
-1998-01-23,Kenneth Sivertsen,NO,7
-1998-01-23,Pietro Vitalini,IT,24
-1998-01-23,David Pretot,FR,12
-1998-01-23,Ed Podivinsky,CA,63
-1998-01-23,Jason Rosener,US,17
-1998-01-23,Vincent Blanc,FR,8
-1998-01-23,Stefan Krauss,DE,51
-1998-01-23,Paul Accola,CH,19
-1998-01-23,Xavier Gigandet,CH,30
-1998-01-23,Franco Cavegn,CH,37
-1998-01-23,Fredrik Nyberg,SE,40
-1998-01-23,William Besse,CH,77
-1998-01-23,Kjetil Andre Aamodt,NO,122
-1998-01-23,Luca Cattaneo,IT,86
-1998-01-23,Hermann Maier,AT,419
-1998-01-23,Peter Runggaldier,IT,109
-1998-01-23,Roland Assinger,AT,175
-1998-01-23,Lasse Kjus,NO,197
-1998-01-23,Andreas Schifferer,AT,502
-1998-01-23,Josef Strobl,AT,54
-1998-01-23,Markus Herrmann,CH,44
-1998-01-23,A.J. Kitt,US,22
-1998-01-23,Chad Fleischer,US,1
-1998-01-23,Chris Puckett,US,0
-1998-01-23,Frederic Marin Cudraz,FR,9
-1998-01-23,Lasse Paulsen,NO,8
-1998-01-23,Alessandro Fattori,IT,31
-1998-01-23,Bruno Kernen,CH,106
-1998-01-23,Alberto Senigagliesi,IT,14
-1998-01-23,Jean Luc Cretier,FR,272
-1998-01-23,Kyle Rasmussen,US,26
-1998-01-23,Luke Sauder,CA,79
-1998-01-23,Brian Stemmle,CA,99
-1998-01-23,Nicolas Burtin,FR,241
-1998-01-23,Didier Cuche,CH,212
-1998-01-23,Andreas Buder,AT,0
-1998-01-23,Christian Forrer,CH,0
-1998-01-23,Fritz Strobl,AT,121
-1998-01-24,Jason Rosener,US,17
-1998-01-24,Jean Luc Cretier,FR,312
-1998-01-24,Hannes Trinkl,AT,229
-1998-01-24,Fredrik Nyberg,SE,44
-1998-01-24,Bruno Kernen,CH,111
-1998-01-24,Franco Cavegn,CH,69
-1998-01-24,Alessandro Fattori,IT,31
-1998-01-24,Pietro Vitalini,IT,24
-1998-01-24,Hans Knauss,AT,161
-1998-01-24,Frederic Marin Cudraz,FR,9
-1998-01-24,Chad Fleischer,US,7
-1998-01-24,Ales Brezavsek,SK,6
-1998-01-24,Kenneth Sivertsen,NO,7
-1998-01-24,Ed Podivinsky,CA,75
-1998-01-24,Juerg Gruenenfelder,CH,81
-1998-01-24,Kristian Ghedina,IT,323
-1998-01-24,Lasse Kjus,NO,197
-1998-01-24,Didier Cuche,CH,292
-1998-01-24,Roland Assinger,AT,175
-1998-01-24,Hermann Maier,AT,419
-1998-01-24,Adrien Duvillard,FR,71
-1998-01-24,Xavier Gigandet,CH,30
-1998-01-24,Tommy Moe,US,31
-1998-01-24,Chris Puckett,US,1
-1998-01-24,Josef Strobl,AT,114
-1998-01-24,Paul Accola,CH,19
-1998-01-24,A.J. Kitt,US,22
-1998-01-24,William Besse,CH,79
-1998-01-24,Luke Sauder,CA,79
-1998-01-24,Guenther Mader,AT,56
-1998-01-24,Lorenzo Galli,IT,6
-1998-01-24,Andreas Schifferer,AT,531
-1998-01-24,Vincent Blanc,FR,8
-1998-01-24,Stefan Krauss,DE,58
-1998-01-24,Ambrosi Hoffmann,CH,11
-1998-01-24,Hansueli Tschiemer,CH,6
-1998-01-24,Brian Stemmle,CA,117
-1998-01-24,Werner Franz,AT,262
-1998-01-24,Nicolas Burtin,FR,257
-1998-01-24,Fritz Strobl,AT,147
-1998-01-24,Patrik Jaerbyn,SE,16
-1998-01-24,Kjetil Andre Aamodt,NO,172
-1998-01-24,Stephan Eberharter,AT,290
-1998-01-24,Christian Forrer,CH,0
-1998-01-24,Luca Cattaneo,IT,106
-1998-01-24,Andreas Buder,AT,0
-1998-01-24,Kyle Rasmussen,US,34
-1998-01-24,Michael Brunner,DE,11
-1998-01-24,Werner Perathoner,IT,156
-1998-01-24,Patrick Ortlieb,AT,70
-1998-01-24,Christian Greber,AT,153
-1998-01-24,Erik Seletto,IT,39
-1998-01-24,Peter Runggaldier,IT,122
-1998-01-24,Markus Herrmann,CH,54
-1998-01-24,Alberto Senigagliesi,IT,14
-1998-01-24,Lasse Paulsen,NO,8
-1998-01-24,David Pretot,FR,27
-1998-01-24,Daron Rahlves,US,0
-1998-01-24,Peter Pen,SK,2
-1998-01-31,William Besse,CH,79
-1998-01-31,Paul Accola,CH,19
-1998-01-31,Xavier Gigandet,CH,30
-1998-01-31,Kyle Rasmussen,US,34
-1998-01-31,Fredrik Nyberg,SE,44
-1998-01-31,Roland Assinger,AT,175
-1998-01-31,Werner Franz,AT,262
-1998-01-31,Luke Sauder,CA,79
-1998-01-31,Stefan Krauss,DE,58
-1998-01-31,Kenneth Sivertsen,NO,7
-1998-01-31,Alessandro Fattori,IT,31
-1998-01-31,Patrik Jaerbyn,SE,16
-1998-01-31,Hansueli Tschiemer,CH,6
-1998-01-31,Michael Brunner,DE,11
-1998-01-31,Ambrosi Hoffmann,CH,11
-1998-01-31,Markus Herrmann,CH,54
-1998-01-31,Lorenzo Galli,IT,6
-1998-01-31,Jason Rosener,US,17
-1998-01-31,Peter Pen,SK,2
-1998-01-31,Alberto Senigagliesi,IT,14
-1998-01-31,Lasse Paulsen,NO,8
-1998-01-31,Chris Puckett,US,1
-1998-01-31,Frederic Marin Cudraz,FR,9
-1998-01-31,Pietro Vitalini,IT,24
-1998-01-31,David Pretot,FR,27
-1998-01-31,Ales Brezavsek,SK,6
-1998-01-31,Guenther Mader,AT,56
-1998-01-31,Nicolas Burtin,FR,337
-1998-01-31,Chad Fleischer,US,11
-1998-01-31,Brian Stemmle,CA,127
-1998-01-31,Daron Rahlves,US,11
-1998-01-31,Erik Seletto,IT,51
-1998-01-31,Bruno Kernen,CH,125
-1998-01-31,Luca Cattaneo,IT,120
-1998-01-31,Ed Podivinsky,CA,90
-1998-01-31,Stephan Eberharter,AT,340
-1998-01-31,Werner Perathoner,IT,172
-1998-01-31,Lasse Kjus,NO,215
-1998-01-31,Franco Cavegn,CH,89
-1998-01-31,Fritz Strobl,AT,169
-1998-01-31,Adrien Duvillard,FR,95
-1998-01-31,Kristian Ghedina,IT,349
-1998-01-31,Hans Knauss,AT,190
-1998-01-31,Josef Strobl,AT,146
-1998-01-31,Jean Luc Cretier,FR,348
-1998-01-31,Kjetil Andre Aamodt,NO,217
-1998-01-31,Juerg Gruenenfelder,CH,85
-1998-01-31,Hannes Trinkl,AT,269
-1998-01-31,Vincent Blanc,FR,17
-1998-01-31,A.J. Kitt,US,30
-1998-01-31,Andreas Buder,AT,0
-1998-01-31,Peter Runggaldier,IT,129
-1998-01-31,Andreas Schifferer,AT,631
-1998-01-31,Didier Cuche,CH,299
-1998-01-31,Christian Forrer,CH,0
-1998-01-31,Hermann Maier,AT,479
-1998-01-31,Tommy Moe,US,33
-1998-01-31,Patrick Ortlieb,AT,75
-1998-01-31,Christian Greber,AT,154
-1998-03-07,Paul Accola,CH,19
-1998-03-07,Andreas Buder,AT,0
-1998-03-07,Xavier Gigandet,CH,30
-1998-03-07,Fritz Strobl,AT,193
-1998-03-07,Adrien Duvillard,FR,95
-1998-03-07,William Besse,CH,79
-1998-03-07,Luca Cattaneo,IT,120
-1998-03-07,Andreas Schifferer,AT,631
-1998-03-07,Hermann Maier,AT,479
-1998-03-07,Christian Greber,AT,154
-1998-03-07,A.J. Kitt,US,30
-1998-03-07,Chad Fleischer,US,11
-1998-03-07,Ed Podivinsky,CA,90
-1998-03-07,David Pretot,FR,27
-1998-03-07,Pietro Vitalini,IT,24
-1998-03-07,Frederic Marin Cudraz,FR,9
-1998-03-07,Vincent Blanc,FR,17
-1998-03-07,Ales Brezavsek,SK,6
-1998-03-07,Roland Assinger,AT,175
-1998-03-07,Stefan Krauss,DE,58
-1998-03-07,Ambrosi Hoffmann,CH,11
-1998-03-07,Erik Seletto,IT,51
-1998-03-07,Brian Stemmle,CA,127
-1998-03-07,Michael Brunner,DE,11
-1998-03-07,Hansueli Tschiemer,CH,6
-1998-03-07,Peter Pen,SK,2
-1998-03-07,Alberto Senigagliesi,IT,14
-1998-03-07,Guenther Mader,AT,56
-1998-03-07,Chris Puckett,US,1
-1998-03-07,Lorenzo Galli,IT,6
-1998-03-07,Didier Cuche,CH,344
-1998-03-07,Nicolas Burtin,FR,437
-1998-03-07,Peter Runggaldier,IT,169
-1998-03-07,Bruno Kernen,CH,165
-1998-03-07,Franco Cavegn,CH,121
-1998-03-07,Patrik Jaerbyn,SE,48
-1998-03-07,Jean Luc Cretier,FR,374
-1998-03-07,Luke Sauder,CA,101
-1998-03-07,Christian Forrer,CH,20
-1998-03-07,Kristian Ghedina,IT,367
-1998-03-07,Hannes Trinkl,AT,285
-1998-03-07,Stephan Eberharter,AT,355
-1998-03-07,Alessandro Fattori,IT,45
-1998-03-07,Jason Rosener,US,30
-1998-03-07,Tommy Moe,US,45
-1998-03-07,Lasse Paulsen,NO,19
-1998-03-07,Werner Franz,AT,272
-1998-03-07,Fredrik Nyberg,SE,48
-1998-03-07,Markus Herrmann,CH,55
-1998-03-07,Lasse Kjus,NO,275
-1998-03-07,Kyle Rasmussen,US,37
-1998-03-07,Hans Knauss,AT,192
-1998-03-07,Kenneth Sivertsen,NO,12
-1998-03-07,Daron Rahlves,US,17
-1998-03-07,Josef Strobl,AT,206
-1998-03-07,Juerg Gruenenfelder,CH,92
-1998-03-07,Werner Perathoner,IT,252
-1998-03-07,Patrick Ortlieb,AT,83
-1998-03-07,Kjetil Andre Aamodt,NO,226
-1998-03-13,Markus Herrmann,CH,55
-1998-03-13,Peter Pen,SK,2
-1998-03-13,Alberto Senigagliesi,IT,14
-1998-03-13,Chad Fleischer,US,11
-1998-03-13,Lasse Paulsen,NO,19
-1998-03-13,Chris Puckett,US,1
-1998-03-13,Hansueli Tschiemer,CH,6
-1998-03-13,Daron Rahlves,US,17
-1998-03-13,Christian Forrer,CH,20
-1998-03-13,Patrik Jaerbyn,SE,48
-1998-03-13,Christian Greber,AT,165
-1998-03-13,Stephan Eberharter,AT,377
-1998-03-13,Juerg Gruenenfelder,CH,110
-1998-03-13,Brian Stemmle,CA,147
-1998-03-13,Michael Brunner,DE,11
-1998-03-13,Adrien Duvillard,FR,121
-1998-03-13,Andreas Schifferer,AT,655
-1998-03-13,Kjetil Andre Aamodt,NO,255
-1998-03-13,Nicolas Burtin,FR,469
-1998-03-13,Didier Cuche,CH,424
-1998-03-13,Hannes Trinkl,AT,321
-1998-03-13,Jean Luc Cretier,FR,414
-1998-03-13,Josef Strobl,AT,306
-1998-03-13,Hans Knauss,AT,242
-1998-03-13,Erik Seletto,IT,51
-1998-03-13,Ales Brezavsek,SK,6
-1998-03-13,Lorenzo Galli,IT,6
-1998-03-13,Andreas Buder,AT,12
-1998-03-13,Peter Runggaldier,IT,182
-1998-03-13,Werner Perathoner,IT,266
-1998-03-13,Bruno Kernen,CH,180
-1998-03-13,Fritz Strobl,AT,253
-1998-03-13,Werner Franz,AT,288
-1998-03-13,Lasse Kjus,NO,275
-1998-03-13,Roland Assinger,AT,175
-1998-03-13,Hermann Maier,AT,479
-1998-03-13,Patrick Ortlieb,AT,83
-1998-03-13,Luca Cattaneo,IT,120
-1998-03-13,William Besse,CH,79
-1998-03-13,Fredrik Nyberg,SE,48
-1998-03-13,Franco Cavegn,CH,121
-1998-03-13,Ambrosi Hoffmann,CH,11
-1998-03-13,Kyle Rasmussen,US,37
-1998-03-13,Tommy Moe,US,45
-1998-03-13,Paul Accola,CH,19
-1998-03-13,A.J. Kitt,US,30
-1998-03-13,Guenther Mader,AT,56
-1998-03-13,Stefan Krauss,DE,58
-1998-03-13,Kristian Ghedina,IT,412
-1998-03-13,Jason Rosener,US,30
-1998-03-13,Alessandro Fattori,IT,45
-1998-03-13,Ed Podivinsky,CA,90
-1998-03-13,David Pretot,FR,27
-1998-03-13,Pietro Vitalini,IT,24
-1998-03-13,Kenneth Sivertsen,NO,12
-1998-03-13,Frederic Marin Cudraz,FR,9
-1998-03-13,Luke Sauder,CA,111
-1998-03-13,Xavier Gigandet,CH,30
-1998-03-13,Vincent Blanc,FR,17
+date,name,ath_country,value,specialty
+1997-12-04,Kristian Ghedina,IT,100,Downhill
+1997-12-04,Markus Herrmann,CH,0,Downhill
+1997-12-04,William Besse,CH,15,Downhill
+1997-12-04,Peter Runggaldier,IT,36,Downhill
+1997-12-04,Frederic Marin Cudraz,FR,0,Super G
+1997-12-04,Bruno Kernen,CH,12,Downhill
+1997-12-04,Christian Greber,AT,13,Downhill
+1997-12-04,Hansueli Tschiemer,CH,0,Downhill
+1997-12-04,Roland Assinger,AT,45,Downhill
+1997-12-04,Kjetil Andre Aamodt,NO,18,Downhill
+1997-12-04,Juerg Gruenenfelder,CH,0,Downhill
+1997-12-04,Adrien Duvillard,FR,14,Downhill
+1997-12-04,Chad Fleischer,US,0,Downhill
+1997-12-04,Hannes Trinkl,AT,6,Downhill
+1997-12-04,Hans Knauss,AT,0,Giant Slalom
+1997-12-04,Fritz Strobl,AT,40,Downhill
+1997-12-04,Lorenzo Galli,IT,0,Downhill
+1997-12-04,Stephan Eberharter,AT,26,Giant Slalom
+1997-12-04,Lasse Kjus,NO,60,Downhill
+1997-12-04,Werner Perathoner,IT,10,Downhill
+1997-12-04,Ales Brezavsek,SK,0,Downhill
+1997-12-04,Werner Franz,AT,32,Downhill
+1997-12-04,Jean Luc Cretier,FR,80,Downhill
+1997-12-04,Josef Strobl,AT,50,Downhill
+1997-12-04,Kenneth Sivertsen,NO,0,Downhill
+1997-12-04,Franco Cavegn,CH,9,Downhill
+1997-12-04,Patrik Jaerbyn,SE,0,Super G
+1997-12-04,Fredrik Nyberg,SE,11,Giant Slalom
+1997-12-04,Andreas Buder,AT,0,Downhill
+1997-12-04,Tommy Moe,US,5,Downhill
+1997-12-04,Michael Brunner,DE,0,Downhill
+1997-12-04,Erik Seletto,IT,0,Downhill
+1997-12-04,A.J. Kitt,US,2,Downhill
+1997-12-04,Jason Rosener,US,0,Downhill
+1997-12-04,Daron Rahlves,US,0,Super G
+1997-12-04,Kyle Rasmussen,US,7,Downhill
+1997-12-04,Alessandro Fattori,IT,0,Super G
+1997-12-04,Alberto Senigagliesi,IT,0,Downhill
+1997-12-04,Lasse Paulsen,NO,0,Super G
+1997-12-04,Peter Pen,SK,0,Downhill
+1997-12-04,Pietro Vitalini,IT,0,Downhill
+1997-12-04,Stefan Krauss,DE,0,Downhill
+1997-12-04,Christian Forrer,CH,0,Downhill
+1997-12-04,Paul Accola,CH,3,Giant Slalom
+1997-12-04,Luke Sauder,CA,1,Downhill
+1997-12-04,Guenther Mader,AT,0,Giant Slalom
+1997-12-04,Ambrosi Hoffmann,CH,0,Downhill
+1997-12-04,Patrick Ortlieb,AT,26,Downhill
+1997-12-04,Ed Podivinsky,CA,0,Downhill
+1997-12-04,Luca Cattaneo,IT,20,Super G
+1997-12-04,Brian Stemmle,CA,0,Downhill
+1997-12-04,Vincent Blanc,FR,0,Downhill
+1997-12-04,David Pretot,FR,0,Downhill
+1997-12-04,Nicolas Burtin,FR,8,Downhill
+1997-12-04,Xavier Gigandet,CH,5,Downhill
+1997-12-04,Chris Puckett,US,0,Super G
+1997-12-04,Andreas Schifferer,AT,22,Downhill
+1997-12-04,Didier Cuche,CH,16,Downhill
+1997-12-04,Hermann Maier,AT,29,Giant Slalom
+1997-12-05,Peter Pen,SK,0,Downhill
+1997-12-05,Lasse Paulsen,NO,0,Super G
+1997-12-05,Hansueli Tschiemer,CH,0,Downhill
+1997-12-05,Andreas Schifferer,AT,122,Downhill
+1997-12-05,Roland Assinger,AT,81,Downhill
+1997-12-05,Alberto Senigagliesi,IT,0,Downhill
+1997-12-05,Kjetil Andre Aamodt,NO,58,Downhill
+1997-12-05,Didier Cuche,CH,34,Downhill
+1997-12-05,Alessandro Fattori,IT,5,Super G
+1997-12-05,Juerg Gruenenfelder,CH,9,Downhill
+1997-12-05,Adrien Duvillard,FR,15,Downhill
+1997-12-05,Daron Rahlves,US,0,Super G
+1997-12-05,Kyle Rasmussen,US,7,Downhill
+1997-12-05,Chad Fleischer,US,0,Downhill
+1997-12-05,Hannes Trinkl,AT,51,Downhill
+1997-12-05,Hans Knauss,AT,0,Giant Slalom
+1997-12-05,Jason Rosener,US,6,Downhill
+1997-12-05,Kristian Ghedina,IT,122,Downhill
+1997-12-05,Fritz Strobl,AT,90,Downhill
+1997-12-05,A.J. Kitt,US,2,Downhill
+1997-12-05,Lorenzo Galli,IT,0,Downhill
+1997-12-05,Pietro Vitalini,IT,0,Downhill
+1997-12-05,Christian Greber,AT,37,Downhill
+1997-12-05,Bruno Kernen,CH,12,Downhill
+1997-12-05,Stephan Eberharter,AT,86,Giant Slalom
+1997-12-05,Ed Podivinsky,CA,4,Downhill
+1997-12-05,Patrick Ortlieb,AT,26,Downhill
+1997-12-05,Luca Cattaneo,IT,35,Super G
+1997-12-05,Guenther Mader,AT,22,Giant Slalom
+1997-12-05,Vincent Blanc,FR,8,Downhill
+1997-12-05,Brian Stemmle,CA,16,Downhill
+1997-12-05,Hermann Maier,AT,109,Giant Slalom
+1997-12-05,Fredrik Nyberg,SE,40,Giant Slalom
+1997-12-05,Luke Sauder,CA,1,Downhill
+1997-12-05,Patrik Jaerbyn,SE,0,Super G
+1997-12-05,Chris Puckett,US,0,Super G
+1997-12-05,Franco Cavegn,CH,9,Downhill
+1997-12-05,Christian Forrer,CH,0,Downhill
+1997-12-05,Kenneth Sivertsen,NO,0,Downhill
+1997-12-05,Markus Herrmann,CH,0,Downhill
+1997-12-05,Xavier Gigandet,CH,15,Downhill
+1997-12-05,Paul Accola,CH,10,Giant Slalom
+1997-12-05,Stefan Krauss,DE,14,Downhill
+1997-12-05,William Besse,CH,27,Downhill
+1997-12-05,Peter Runggaldier,IT,47,Downhill
+1997-12-05,David Pretot,FR,3,Downhill
+1997-12-05,Frederic Marin Cudraz,FR,0,Super G
+1997-12-05,Michael Brunner,DE,0,Downhill
+1997-12-05,Ambrosi Hoffmann,CH,0,Downhill
+1997-12-05,Josef Strobl,AT,50,Downhill
+1997-12-05,Nicolas Burtin,FR,34,Downhill
+1997-12-05,Jean Luc Cretier,FR,80,Downhill
+1997-12-05,Andreas Buder,AT,0,Downhill
+1997-12-05,Tommy Moe,US,7,Downhill
+1997-12-05,Werner Perathoner,IT,23,Downhill
+1997-12-05,Lasse Kjus,NO,92,Downhill
+1997-12-05,Ales Brezavsek,SK,0,Downhill
+1997-12-05,Erik Seletto,IT,0,Downhill
+1997-12-05,Werner Franz,AT,32,Downhill
+1997-12-29,Michael Brunner,DE,0,Downhill
+1997-12-29,Werner Franz,AT,92,Downhill
+1997-12-29,Frederic Marin Cudraz,FR,6,Super G
+1997-12-29,Peter Runggaldier,IT,71,Downhill
+1997-12-29,William Besse,CH,63,Downhill
+1997-12-29,David Pretot,FR,3,Downhill
+1997-12-29,Bruno Kernen,CH,20,Downhill
+1997-12-29,Christian Greber,AT,77,Downhill
+1997-12-29,Pietro Vitalini,IT,14,Downhill
+1997-12-29,Tommy Moe,US,7,Downhill
+1997-12-29,Roland Assinger,AT,113,Downhill
+1997-12-29,Kjetil Andre Aamodt,NO,58,Downhill
+1997-12-29,Hansueli Tschiemer,CH,0,Downhill
+1997-12-29,Didier Cuche,CH,54,Downhill
+1997-12-29,Juerg Gruenenfelder,CH,9,Downhill
+1997-12-29,Peter Pen,SK,0,Downhill
+1997-12-29,Lasse Paulsen,NO,0,Super G
+1997-12-29,Stefan Krauss,DE,25,Downhill
+1997-12-29,Jean Luc Cretier,FR,109,Downhill
+1997-12-29,Alessandro Fattori,IT,5,Super G
+1997-12-29,Xavier Gigandet,CH,26,Downhill
+1997-12-29,Chris Puckett,US,0,Super G
+1997-12-29,Ed Podivinsky,CA,20,Downhill
+1997-12-29,Ambrosi Hoffmann,CH,2,Downhill
+1997-12-29,Luca Cattaneo,IT,35,Super G
+1997-12-29,Patrick Ortlieb,AT,26,Downhill
+1997-12-29,Hermann Maier,AT,209,Giant Slalom
+1997-12-29,Josef Strobl,AT,50,Downhill
+1997-12-29,Brian Stemmle,CA,31,Downhill
+1997-12-29,Guenther Mader,AT,22,Giant Slalom
+1997-12-29,Paul Accola,CH,19,Giant Slalom
+1997-12-29,Vincent Blanc,FR,8,Downhill
+1997-12-29,Luke Sauder,CA,14,Downhill
+1997-12-29,Patrik Jaerbyn,SE,0,Super G
+1997-12-29,Nicolas Burtin,FR,56,Downhill
+1997-12-29,Kenneth Sivertsen,NO,7,Downhill
+1997-12-29,Andreas Schifferer,AT,202,Downhill
+1997-12-29,Franco Cavegn,CH,9,Downhill
+1997-12-29,Andreas Buder,AT,0,Downhill
+1997-12-29,Ales Brezavsek,SK,4,Downhill
+1997-12-29,Christian Forrer,CH,0,Downhill
+1997-12-29,Markus Herrmann,CH,0,Downhill
+1997-12-29,Fredrik Nyberg,SE,40,Giant Slalom
+1997-12-29,Daron Rahlves,US,0,Super G
+1997-12-29,Alberto Senigagliesi,IT,0,Downhill
+1997-12-29,Hannes Trinkl,AT,77,Downhill
+1997-12-29,Erik Seletto,IT,1,Downhill
+1997-12-29,Adrien Duvillard,FR,21,Downhill
+1997-12-29,Stephan Eberharter,AT,136,Giant Slalom
+1997-12-29,Fritz Strobl,AT,90,Downhill
+1997-12-29,Hans Knauss,AT,0,Giant Slalom
+1997-12-29,A.J. Kitt,US,2,Downhill
+1997-12-29,Kyle Rasmussen,US,7,Downhill
+1997-12-29,Lasse Kjus,NO,137,Downhill
+1997-12-29,Werner Perathoner,IT,35,Downhill
+1997-12-29,Jason Rosener,US,6,Downhill
+1997-12-29,Kristian Ghedina,IT,140,Downhill
+1997-12-29,Chad Fleischer,US,0,Downhill
+1997-12-29,Lorenzo Galli,IT,3,Downhill
+1997-12-30,Daron Rahlves,US,0,Super G
+1997-12-30,Christian Forrer,CH,0,Downhill
+1997-12-30,Kenneth Sivertsen,NO,7,Downhill
+1997-12-30,Markus Herrmann,CH,0,Downhill
+1997-12-30,Stefan Krauss,DE,33,Downhill
+1997-12-30,Lasse Kjus,NO,197,Downhill
+1997-12-30,William Besse,CH,77,Downhill
+1997-12-30,Erik Seletto,IT,2,Downhill
+1997-12-30,Werner Franz,AT,172,Downhill
+1997-12-30,Peter Runggaldier,IT,89,Downhill
+1997-12-30,Hans Knauss,AT,0,Giant Slalom
+1997-12-30,David Pretot,FR,3,Downhill
+1997-12-30,Jean Luc Cretier,FR,121,Downhill
+1997-12-30,Jason Rosener,US,6,Downhill
+1997-12-30,Andreas Buder,AT,0,Downhill
+1997-12-30,Franco Cavegn,CH,12,Downhill
+1997-12-30,Ed Podivinsky,CA,20,Downhill
+1997-12-30,Chris Puckett,US,0,Super G
+1997-12-30,Nicolas Burtin,FR,69,Downhill
+1997-12-30,Luca Cattaneo,IT,42,Super G
+1997-12-30,Patrick Ortlieb,AT,26,Downhill
+1997-12-30,Stephan Eberharter,AT,172,Giant Slalom
+1997-12-30,Lorenzo Galli,IT,3,Downhill
+1997-12-30,Guenther Mader,AT,38,Giant Slalom
+1997-12-30,Josef Strobl,AT,50,Downhill
+1997-12-30,Brian Stemmle,CA,60,Downhill
+1997-12-30,Vincent Blanc,FR,8,Downhill
+1997-12-30,Luke Sauder,CA,34,Downhill
+1997-12-30,Fredrik Nyberg,SE,40,Giant Slalom
+1997-12-30,Didier Cuche,CH,78,Downhill
+1997-12-30,Paul Accola,CH,19,Giant Slalom
+1997-12-30,Patrik Jaerbyn,SE,0,Super G
+1997-12-30,A.J. Kitt,US,7,Downhill
+1997-12-30,Fritz Strobl,AT,90,Downhill
+1997-12-30,Kyle Rasmussen,US,7,Downhill
+1997-12-30,Hermann Maier,AT,259,Giant Slalom
+1997-12-30,Hannes Trinkl,AT,122,Downhill
+1997-12-30,Frederic Marin Cudraz,FR,6,Super G
+1997-12-30,Lasse Paulsen,NO,0,Super G
+1997-12-30,Christian Greber,AT,99,Downhill
+1997-12-30,Juerg Gruenenfelder,CH,9,Downhill
+1997-12-30,Kjetil Andre Aamodt,NO,58,Downhill
+1997-12-30,Xavier Gigandet,CH,30,Downhill
+1997-12-30,Peter Pen,SK,0,Downhill
+1997-12-30,Ales Brezavsek,SK,6,Downhill
+1997-12-30,Andreas Schifferer,AT,302,Downhill
+1997-12-30,Pietro Vitalini,IT,24,Downhill
+1997-12-30,Hansueli Tschiemer,CH,6,Downhill
+1997-12-30,Adrien Duvillard,FR,21,Downhill
+1997-12-30,Chad Fleischer,US,0,Downhill
+1997-12-30,Werner Perathoner,IT,61,Downhill
+1997-12-30,Michael Brunner,DE,11,Downhill
+1997-12-30,Ambrosi Hoffmann,CH,2,Downhill
+1997-12-30,Kristian Ghedina,IT,155,Downhill
+1997-12-30,Bruno Kernen,CH,60,Downhill
+1997-12-30,Alberto Senigagliesi,IT,0,Downhill
+1997-12-30,Roland Assinger,AT,145,Downhill
+1997-12-30,Tommy Moe,US,7,Downhill
+1997-12-30,Alessandro Fattori,IT,14,Super G
+1998-01-16,Kjetil Andre Aamodt,NO,90,Downhill
+1998-01-16,Alberto Senigagliesi,IT,0,Downhill
+1998-01-16,Daron Rahlves,US,0,Super G
+1998-01-16,Fredrik Nyberg,SE,40,Giant Slalom
+1998-01-16,Luke Sauder,CA,46,Downhill
+1998-01-16,Guenther Mader,AT,38,Giant Slalom
+1998-01-16,Paul Accola,CH,19,Giant Slalom
+1998-01-16,Hansueli Tschiemer,CH,6,Downhill
+1998-01-16,Josef Strobl,AT,50,Downhill
+1998-01-16,Vincent Blanc,FR,8,Downhill
+1998-01-16,Lasse Paulsen,NO,0,Super G
+1998-01-16,Erik Seletto,IT,7,Downhill
+1998-01-16,Michael Brunner,DE,11,Downhill
+1998-01-16,Adrien Duvillard,FR,21,Downhill
+1998-01-16,Lasse Kjus,NO,197,Downhill
+1998-01-16,Ed Podivinsky,CA,34,Downhill
+1998-01-16,Patrick Ortlieb,AT,36,Downhill
+1998-01-16,Juerg Gruenenfelder,CH,31,Downhill
+1998-01-16,Lorenzo Galli,IT,3,Downhill
+1998-01-16,A.J. Kitt,US,8,Downhill
+1998-01-16,Xavier Gigandet,CH,30,Downhill
+1998-01-16,Werner Perathoner,IT,90,Downhill
+1998-01-16,Peter Pen,SK,2,Downhill
+1998-01-16,Ambrosi Hoffmann,CH,11,Downhill
+1998-01-16,Luca Cattaneo,IT,71,Super G
+1998-01-16,Nicolas Burtin,FR,149,Downhill
+1998-01-16,Hermann Maier,AT,359,Giant Slalom
+1998-01-16,Alessandro Fattori,IT,21,Super G
+1998-01-16,Stephan Eberharter,AT,217,Giant Slalom
+1998-01-16,Brian Stemmle,CA,66,Downhill
+1998-01-16,Andreas Buder,AT,0,Downhill
+1998-01-16,Stefan Krauss,DE,51,Downhill
+1998-01-16,William Besse,CH,77,Downhill
+1998-01-16,Pietro Vitalini,IT,24,Downhill
+1998-01-16,Kyle Rasmussen,US,7,Downhill
+1998-01-16,Jean Luc Cretier,FR,132,Downhill
+1998-01-16,Patrik Jaerbyn,SE,16,Super G
+1998-01-16,Markus Herrmann,CH,8,Downhill
+1998-01-16,Christian Greber,AT,99,Downhill
+1998-01-16,Christian Forrer,CH,0,Downhill
+1998-01-16,Kenneth Sivertsen,NO,7,Downhill
+1998-01-16,Peter Runggaldier,IT,102,Downhill
+1998-01-16,Chris Puckett,US,0,Super G
+1998-01-16,Hans Knauss,AT,50,Giant Slalom
+1998-01-16,Frederic Marin Cudraz,FR,6,Super G
+1998-01-16,Werner Franz,AT,212,Downhill
+1998-01-16,Fritz Strobl,AT,114,Downhill
+1998-01-16,Andreas Schifferer,AT,362,Downhill
+1998-01-16,Tommy Moe,US,7,Downhill
+1998-01-16,David Pretot,FR,3,Downhill
+1998-01-16,Jason Rosener,US,6,Downhill
+1998-01-16,Kristian Ghedina,IT,155,Downhill
+1998-01-16,Ales Brezavsek,SK,6,Downhill
+1998-01-16,Hannes Trinkl,AT,126,Downhill
+1998-01-16,Franco Cavegn,CH,15,Downhill
+1998-01-16,Didier Cuche,CH,94,Downhill
+1998-01-16,Roland Assinger,AT,165,Downhill
+1998-01-16,Bruno Kernen,CH,96,Downhill
+1998-01-16,Chad Fleischer,US,0,Downhill
+1998-01-17,Patrick Ortlieb,AT,39,Downhill
+1998-01-17,Erik Seletto,IT,15,Downhill
+1998-01-17,David Pretot,FR,12,Downhill
+1998-01-17,Lasse Paulsen,NO,0,Super G
+1998-01-17,Andreas Schifferer,AT,462,Downhill
+1998-01-17,Alessandro Fattori,IT,26,Super G
+1998-01-17,Michael Brunner,DE,11,Downhill
+1998-01-17,Jason Rosener,US,17,Downhill
+1998-01-17,Kyle Rasmussen,US,20,Downhill
+1998-01-17,Pietro Vitalini,IT,24,Downhill
+1998-01-17,Christian Forrer,CH,0,Downhill
+1998-01-17,Kristian Ghedina,IT,191,Downhill
+1998-01-17,Alberto Senigagliesi,IT,14,Downhill
+1998-01-17,A.J. Kitt,US,10,Downhill
+1998-01-17,Guenther Mader,AT,38,Giant Slalom
+1998-01-17,Daron Rahlves,US,0,Super G
+1998-01-17,Paul Accola,CH,19,Giant Slalom
+1998-01-17,Xavier Gigandet,CH,30,Downhill
+1998-01-17,Andreas Buder,AT,0,Downhill
+1998-01-17,Luke Sauder,CA,70,Downhill
+1998-01-17,Chris Puckett,US,0,Super G
+1998-01-17,Stefan Krauss,DE,51,Downhill
+1998-01-17,Tommy Moe,US,7,Downhill
+1998-01-17,Patrik Jaerbyn,SE,16,Super G
+1998-01-17,Peter Runggaldier,IT,109,Downhill
+1998-01-17,Markus Herrmann,CH,12,Downhill
+1998-01-17,Kenneth Sivertsen,NO,7,Downhill
+1998-01-17,Werner Franz,AT,238,Downhill
+1998-01-17,William Besse,CH,77,Downhill
+1998-01-17,Ales Brezavsek,SK,6,Downhill
+1998-01-17,Werner Perathoner,IT,96,Downhill
+1998-01-17,Bruno Kernen,CH,96,Downhill
+1998-01-17,Frederic Marin Cudraz,FR,6,Super G
+1998-01-17,Lasse Kjus,NO,197,Downhill
+1998-01-17,Christian Greber,AT,115,Downhill
+1998-01-17,Franco Cavegn,CH,37,Downhill
+1998-01-17,Lorenzo Galli,IT,3,Downhill
+1998-01-17,Roland Assinger,AT,175,Downhill
+1998-01-17,Kjetil Andre Aamodt,NO,122,Downhill
+1998-01-17,Hansueli Tschiemer,CH,6,Downhill
+1998-01-17,Peter Pen,SK,2,Downhill
+1998-01-17,Juerg Gruenenfelder,CH,31,Downhill
+1998-01-17,Chad Fleischer,US,1,Downhill
+1998-01-17,Adrien Duvillard,FR,21,Downhill
+1998-01-17,Didier Cuche,CH,112,Downhill
+1998-01-17,Hannes Trinkl,AT,176,Downhill
+1998-01-17,Fritz Strobl,AT,114,Downhill
+1998-01-17,Stephan Eberharter,AT,262,Giant Slalom
+1998-01-17,Nicolas Burtin,FR,161,Downhill
+1998-01-17,Hans Knauss,AT,90,Giant Slalom
+1998-01-17,Jean Luc Cretier,FR,212,Downhill
+1998-01-17,Josef Strobl,AT,50,Downhill
+1998-01-17,Luca Cattaneo,IT,86,Super G
+1998-01-17,Ed Podivinsky,CA,63,Downhill
+1998-01-17,Fredrik Nyberg,SE,40,Giant Slalom
+1998-01-17,Hermann Maier,AT,419,Giant Slalom
+1998-01-17,Ambrosi Hoffmann,CH,11,Downhill
+1998-01-17,Vincent Blanc,FR,8,Downhill
+1998-01-17,Brian Stemmle,CA,88,Downhill
+1998-01-23,Pietro Vitalini,IT,24,Downhill
+1998-01-23,Guenther Mader,AT,56,Giant Slalom
+1998-01-23,Ed Podivinsky,CA,63,Downhill
+1998-01-23,Andreas Buder,AT,0,Downhill
+1998-01-23,Lasse Paulsen,NO,8,Super G
+1998-01-23,Roland Assinger,AT,175,Downhill
+1998-01-23,Stephan Eberharter,AT,276,Giant Slalom
+1998-01-23,Kjetil Andre Aamodt,NO,122,Downhill
+1998-01-23,Lasse Kjus,NO,197,Downhill
+1998-01-23,Josef Strobl,AT,54,Downhill
+1998-01-23,Brian Stemmle,CA,99,Downhill
+1998-01-23,Luca Cattaneo,IT,86,Super G
+1998-01-23,Vincent Blanc,FR,8,Downhill
+1998-01-23,Lorenzo Galli,IT,3,Downhill
+1998-01-23,Patrick Ortlieb,AT,59,Downhill
+1998-01-23,Hans Knauss,AT,116,Giant Slalom
+1998-01-23,Peter Pen,SK,2,Downhill
+1998-01-23,Fritz Strobl,AT,121,Downhill
+1998-01-23,Hannes Trinkl,AT,189,Downhill
+1998-01-23,Adrien Duvillard,FR,71,Downhill
+1998-01-23,Daron Rahlves,US,0,Super G
+1998-01-23,Kyle Rasmussen,US,26,Downhill
+1998-01-23,Ambrosi Hoffmann,CH,11,Downhill
+1998-01-23,Michael Brunner,DE,11,Downhill
+1998-01-23,Juerg Gruenenfelder,CH,81,Downhill
+1998-01-23,Alessandro Fattori,IT,31,Super G
+1998-01-23,A.J. Kitt,US,22,Downhill
+1998-01-23,Hansueli Tschiemer,CH,6,Downhill
+1998-01-23,Jason Rosener,US,17,Downhill
+1998-01-23,Chris Puckett,US,0,Super G
+1998-01-23,Christian Greber,AT,131,Downhill
+1998-01-23,Bruno Kernen,CH,106,Downhill
+1998-01-23,Ales Brezavsek,SK,6,Downhill
+1998-01-23,Didier Cuche,CH,212,Downhill
+1998-01-23,Kenneth Sivertsen,NO,7,Downhill
+1998-01-23,Markus Herrmann,CH,44,Downhill
+1998-01-23,Xavier Gigandet,CH,30,Downhill
+1998-01-23,Christian Forrer,CH,0,Downhill
+1998-01-23,Werner Franz,AT,253,Downhill
+1998-01-23,Paul Accola,CH,19,Giant Slalom
+1998-01-23,Fredrik Nyberg,SE,40,Giant Slalom
+1998-01-23,Franco Cavegn,CH,37,Downhill
+1998-01-23,Patrik Jaerbyn,SE,16,Super G
+1998-01-23,Tommy Moe,US,31,Downhill
+1998-01-23,Andreas Schifferer,AT,502,Downhill
+1998-01-23,Luke Sauder,CA,79,Downhill
+1998-01-23,Hermann Maier,AT,419,Giant Slalom
+1998-01-23,William Besse,CH,77,Downhill
+1998-01-23,Alberto Senigagliesi,IT,14,Downhill
+1998-01-23,Frederic Marin Cudraz,FR,9,Super G
+1998-01-23,David Pretot,FR,12,Downhill
+1998-01-23,Erik Seletto,IT,39,Downhill
+1998-01-23,Stefan Krauss,DE,51,Downhill
+1998-01-23,Werner Perathoner,IT,132,Downhill
+1998-01-23,Nicolas Burtin,FR,241,Downhill
+1998-01-23,Kristian Ghedina,IT,223,Downhill
+1998-01-23,Chad Fleischer,US,1,Downhill
+1998-01-23,Jean Luc Cretier,FR,272,Downhill
+1998-01-23,Peter Runggaldier,IT,109,Downhill
+1998-01-24,Lasse Kjus,NO,197,Downhill
+1998-01-24,Tommy Moe,US,31,Downhill
+1998-01-24,Stephan Eberharter,AT,290,Giant Slalom
+1998-01-24,Xavier Gigandet,CH,30,Downhill
+1998-01-24,Hans Knauss,AT,161,Giant Slalom
+1998-01-24,Werner Perathoner,IT,156,Downhill
+1998-01-24,Josef Strobl,AT,114,Downhill
+1998-01-24,Jason Rosener,US,17,Downhill
+1998-01-24,Jean Luc Cretier,FR,312,Downhill
+1998-01-24,A.J. Kitt,US,22,Downhill
+1998-01-24,Michael Brunner,DE,11,Downhill
+1998-01-24,Erik Seletto,IT,39,Downhill
+1998-01-24,Andreas Buder,AT,0,Downhill
+1998-01-24,Lorenzo Galli,IT,6,Downhill
+1998-01-24,Nicolas Burtin,FR,257,Downhill
+1998-01-24,Werner Franz,AT,262,Downhill
+1998-01-24,Kristian Ghedina,IT,323,Downhill
+1998-01-24,Ales Brezavsek,SK,6,Downhill
+1998-01-24,Fritz Strobl,AT,147,Downhill
+1998-01-24,Ed Podivinsky,CA,75,Downhill
+1998-01-24,Lasse Paulsen,NO,8,Super G
+1998-01-24,Peter Runggaldier,IT,122,Downhill
+1998-01-24,David Pretot,FR,27,Downhill
+1998-01-24,Hermann Maier,AT,419,Giant Slalom
+1998-01-24,William Besse,CH,79,Downhill
+1998-01-24,Stefan Krauss,DE,58,Downhill
+1998-01-24,Kenneth Sivertsen,NO,7,Downhill
+1998-01-24,Christian Forrer,CH,0,Downhill
+1998-01-24,Franco Cavegn,CH,69,Downhill
+1998-01-24,Vincent Blanc,FR,8,Downhill
+1998-01-24,Luke Sauder,CA,79,Downhill
+1998-01-24,Patrik Jaerbyn,SE,16,Super G
+1998-01-24,Paul Accola,CH,19,Giant Slalom
+1998-01-24,Guenther Mader,AT,56,Giant Slalom
+1998-01-24,Fredrik Nyberg,SE,44,Giant Slalom
+1998-01-24,Brian Stemmle,CA,117,Downhill
+1998-01-24,Andreas Schifferer,AT,531,Downhill
+1998-01-24,Luca Cattaneo,IT,106,Super G
+1998-01-24,Ambrosi Hoffmann,CH,11,Downhill
+1998-01-24,Patrick Ortlieb,AT,70,Downhill
+1998-01-24,Chris Puckett,US,1,Super G
+1998-01-24,Bruno Kernen,CH,111,Downhill
+1998-01-24,Markus Herrmann,CH,54,Downhill
+1998-01-24,Frederic Marin Cudraz,FR,9,Super G
+1998-01-24,Hannes Trinkl,AT,229,Downhill
+1998-01-24,Kyle Rasmussen,US,34,Downhill
+1998-01-24,Adrien Duvillard,FR,71,Downhill
+1998-01-24,Alessandro Fattori,IT,31,Super G
+1998-01-24,Chad Fleischer,US,7,Downhill
+1998-01-24,Hansueli Tschiemer,CH,6,Downhill
+1998-01-24,Juerg Gruenenfelder,CH,81,Downhill
+1998-01-24,Daron Rahlves,US,0,Super G
+1998-01-24,Alberto Senigagliesi,IT,14,Downhill
+1998-01-24,Peter Pen,SK,2,Downhill
+1998-01-24,Kjetil Andre Aamodt,NO,172,Downhill
+1998-01-24,Christian Greber,AT,153,Downhill
+1998-01-24,Didier Cuche,CH,292,Downhill
+1998-01-24,Pietro Vitalini,IT,24,Downhill
+1998-01-24,Roland Assinger,AT,175,Downhill
+1998-01-31,Daron Rahlves,US,11,Super G
+1998-01-31,Frederic Marin Cudraz,FR,9,Super G
+1998-01-31,Ambrosi Hoffmann,CH,11,Downhill
+1998-01-31,Vincent Blanc,FR,17,Downhill
+1998-01-31,Michael Brunner,DE,11,Downhill
+1998-01-31,Lasse Paulsen,NO,8,Super G
+1998-01-31,Kenneth Sivertsen,NO,7,Downhill
+1998-01-31,Ales Brezavsek,SK,6,Downhill
+1998-01-31,Paul Accola,CH,19,Giant Slalom
+1998-01-31,Chris Puckett,US,1,Super G
+1998-01-31,Lorenzo Galli,IT,6,Downhill
+1998-01-31,Peter Pen,SK,2,Downhill
+1998-01-31,Xavier Gigandet,CH,30,Downhill
+1998-01-31,Hansueli Tschiemer,CH,6,Downhill
+1998-01-31,Chad Fleischer,US,11,Downhill
+1998-01-31,Patrick Ortlieb,AT,75,Downhill
+1998-01-31,Andreas Buder,AT,0,Downhill
+1998-01-31,Christian Greber,AT,154,Downhill
+1998-01-31,Pietro Vitalini,IT,24,Downhill
+1998-01-31,Patrik Jaerbyn,SE,16,Super G
+1998-01-31,David Pretot,FR,27,Downhill
+1998-01-31,Didier Cuche,CH,299,Downhill
+1998-01-31,Bruno Kernen,CH,125,Downhill
+1998-01-31,Stefan Krauss,DE,58,Downhill
+1998-01-31,Nicolas Burtin,FR,337,Downhill
+1998-01-31,Christian Forrer,CH,0,Downhill
+1998-01-31,Peter Runggaldier,IT,129,Downhill
+1998-01-31,Luke Sauder,CA,79,Downhill
+1998-01-31,Werner Perathoner,IT,172,Downhill
+1998-01-31,William Besse,CH,79,Downhill
+1998-01-31,Guenther Mader,AT,56,Giant Slalom
+1998-01-31,Markus Herrmann,CH,54,Downhill
+1998-01-31,Josef Strobl,AT,146,Downhill
+1998-01-31,Franco Cavegn,CH,89,Downhill
+1998-01-31,Ed Podivinsky,CA,90,Downhill
+1998-01-31,Werner Franz,AT,262,Downhill
+1998-01-31,Fritz Strobl,AT,169,Downhill
+1998-01-31,Luca Cattaneo,IT,120,Super G
+1998-01-31,Brian Stemmle,CA,127,Downhill
+1998-01-31,Jean Luc Cretier,FR,348,Downhill
+1998-01-31,Alberto Senigagliesi,IT,14,Downhill
+1998-01-31,Lasse Kjus,NO,215,Downhill
+1998-01-31,Fredrik Nyberg,SE,44,Giant Slalom
+1998-01-31,Roland Assinger,AT,175,Downhill
+1998-01-31,Andreas Schifferer,AT,631,Downhill
+1998-01-31,Hannes Trinkl,AT,269,Downhill
+1998-01-31,A.J. Kitt,US,30,Downhill
+1998-01-31,Adrien Duvillard,FR,95,Downhill
+1998-01-31,Jason Rosener,US,17,Downhill
+1998-01-31,Stephan Eberharter,AT,340,Giant Slalom
+1998-01-31,Hans Knauss,AT,190,Giant Slalom
+1998-01-31,Tommy Moe,US,33,Downhill
+1998-01-31,Hermann Maier,AT,479,Giant Slalom
+1998-01-31,Kyle Rasmussen,US,34,Downhill
+1998-01-31,Kjetil Andre Aamodt,NO,217,Downhill
+1998-01-31,Alessandro Fattori,IT,31,Super G
+1998-01-31,Kristian Ghedina,IT,349,Downhill
+1998-01-31,Juerg Gruenenfelder,CH,85,Downhill
+1998-01-31,Erik Seletto,IT,51,Downhill
+1998-03-07,Werner Perathoner,IT,252,Downhill
+1998-03-07,Werner Franz,AT,272,Downhill
+1998-03-07,Hans Knauss,AT,192,Giant Slalom
+1998-03-07,Vincent Blanc,FR,17,Downhill
+1998-03-07,Patrik Jaerbyn,SE,48,Super G
+1998-03-07,Kenneth Sivertsen,NO,12,Downhill
+1998-03-07,Chad Fleischer,US,11,Downhill
+1998-03-07,Franco Cavegn,CH,121,Downhill
+1998-03-07,William Besse,CH,79,Downhill
+1998-03-07,Markus Herrmann,CH,55,Downhill
+1998-03-07,Stephan Eberharter,AT,355,Giant Slalom
+1998-03-07,Andreas Buder,AT,0,Downhill
+1998-03-07,Roland Assinger,AT,175,Downhill
+1998-03-07,Adrien Duvillard,FR,95,Downhill
+1998-03-07,Hansueli Tschiemer,CH,6,Downhill
+1998-03-07,Peter Runggaldier,IT,169,Downhill
+1998-03-07,Juerg Gruenenfelder,CH,92,Downhill
+1998-03-07,Bruno Kernen,CH,165,Downhill
+1998-03-07,Kjetil Andre Aamodt,NO,226,Downhill
+1998-03-07,Lorenzo Galli,IT,6,Downhill
+1998-03-07,Frederic Marin Cudraz,FR,9,Super G
+1998-03-07,Lasse Kjus,NO,275,Downhill
+1998-03-07,Hannes Trinkl,AT,285,Downhill
+1998-03-07,Christian Greber,AT,154,Downhill
+1998-03-07,Luca Cattaneo,IT,120,Super G
+1998-03-07,Fritz Strobl,AT,193,Downhill
+1998-03-07,Erik Seletto,IT,51,Downhill
+1998-03-07,David Pretot,FR,27,Downhill
+1998-03-07,Didier Cuche,CH,344,Downhill
+1998-03-07,Pietro Vitalini,IT,24,Downhill
+1998-03-07,Jean Luc Cretier,FR,374,Downhill
+1998-03-07,Lasse Paulsen,NO,19,Super G
+1998-03-07,Stefan Krauss,DE,58,Downhill
+1998-03-07,Peter Pen,SK,2,Downhill
+1998-03-07,Andreas Schifferer,AT,631,Downhill
+1998-03-07,Alessandro Fattori,IT,45,Super G
+1998-03-07,A.J. Kitt,US,30,Downhill
+1998-03-07,Kyle Rasmussen,US,37,Downhill
+1998-03-07,Daron Rahlves,US,17,Super G
+1998-03-07,Hermann Maier,AT,479,Giant Slalom
+1998-03-07,Alberto Senigagliesi,IT,14,Downhill
+1998-03-07,Michael Brunner,DE,11,Downhill
+1998-03-07,Nicolas Burtin,FR,437,Downhill
+1998-03-07,Christian Forrer,CH,20,Downhill
+1998-03-07,Fredrik Nyberg,SE,48,Giant Slalom
+1998-03-07,Brian Stemmle,CA,127,Downhill
+1998-03-07,Ales Brezavsek,SK,6,Downhill
+1998-03-07,Ambrosi Hoffmann,CH,11,Downhill
+1998-03-07,Ed Podivinsky,CA,90,Downhill
+1998-03-07,Patrick Ortlieb,AT,83,Downhill
+1998-03-07,Xavier Gigandet,CH,30,Downhill
+1998-03-07,Josef Strobl,AT,206,Downhill
+1998-03-07,Paul Accola,CH,19,Giant Slalom
+1998-03-07,Guenther Mader,AT,56,Giant Slalom
+1998-03-07,Kristian Ghedina,IT,367,Downhill
+1998-03-07,Luke Sauder,CA,101,Downhill
+1998-03-07,Tommy Moe,US,45,Downhill
+1998-03-07,Chris Puckett,US,1,Super G
+1998-03-07,Jason Rosener,US,30,Downhill
+1998-03-13,Fritz Strobl,AT,253,Downhill
+1998-03-13,Kristian Ghedina,IT,412,Downhill
+1998-03-13,Andreas Schifferer,AT,655,Downhill
+1998-03-13,Werner Franz,AT,288,Downhill
+1998-03-13,Lasse Kjus,NO,275,Downhill
+1998-03-13,Hermann Maier,AT,479,Giant Slalom
+1998-03-13,Peter Pen,SK,2,Downhill
+1998-03-13,Lorenzo Galli,IT,6,Downhill
+1998-03-13,Werner Perathoner,IT,266,Downhill
+1998-03-13,Nicolas Burtin,FR,469,Downhill
+1998-03-13,Josef Strobl,AT,306,Downhill
+1998-03-13,Jean Luc Cretier,FR,414,Downhill
+1998-03-13,Ales Brezavsek,SK,6,Downhill
+1998-03-13,Stephan Eberharter,AT,377,Giant Slalom
+1998-03-13,Didier Cuche,CH,424,Downhill
+1998-03-13,William Besse,CH,79,Downhill
+1998-03-13,Chad Fleischer,US,11,Downhill
+1998-03-13,Guenther Mader,AT,56,Giant Slalom
+1998-03-13,Luke Sauder,CA,111,Downhill
+1998-03-13,Christian Forrer,CH,20,Downhill
+1998-03-13,Lasse Paulsen,NO,19,Super G
+1998-03-13,Stefan Krauss,DE,58,Downhill
+1998-03-13,David Pretot,FR,27,Downhill
+1998-03-13,Pietro Vitalini,IT,24,Downhill
+1998-03-13,Daron Rahlves,US,17,Super G
+1998-03-13,Paul Accola,CH,19,Giant Slalom
+1998-03-13,Alberto Senigagliesi,IT,14,Downhill
+1998-03-13,Kyle Rasmussen,US,37,Downhill
+1998-03-13,Michael Brunner,DE,11,Downhill
+1998-03-13,Jason Rosener,US,30,Downhill
+1998-03-13,A.J. Kitt,US,30,Downhill
+1998-03-13,Erik Seletto,IT,51,Downhill
+1998-03-13,Xavier Gigandet,CH,30,Downhill
+1998-03-13,Tommy Moe,US,45,Downhill
+1998-03-13,Andreas Buder,AT,12,Downhill
+1998-03-13,Alessandro Fattori,IT,45,Super G
+1998-03-13,Hans Knauss,AT,242,Giant Slalom
+1998-03-13,Patrick Ortlieb,AT,83,Downhill
+1998-03-13,Luca Cattaneo,IT,120,Super G
+1998-03-13,Hannes Trinkl,AT,321,Downhill
+1998-03-13,Adrien Duvillard,FR,121,Downhill
+1998-03-13,Hansueli Tschiemer,CH,6,Downhill
+1998-03-13,Juerg Gruenenfelder,CH,110,Downhill
+1998-03-13,Kjetil Andre Aamodt,NO,255,Downhill
+1998-03-13,Roland Assinger,AT,175,Downhill
+1998-03-13,Frederic Marin Cudraz,FR,9,Super G
+1998-03-13,Christian Greber,AT,165,Downhill
+1998-03-13,Ed Podivinsky,CA,90,Downhill
+1998-03-13,Bruno Kernen,CH,180,Downhill
+1998-03-13,Kenneth Sivertsen,NO,12,Downhill
+1998-03-13,Markus Herrmann,CH,55,Downhill
+1998-03-13,Franco Cavegn,CH,121,Downhill
+1998-03-13,Vincent Blanc,FR,17,Downhill
+1998-03-13,Patrik Jaerbyn,SE,48,Super G
+1998-03-13,Fredrik Nyberg,SE,48,Giant Slalom
+1998-03-13,Brian Stemmle,CA,147,Downhill
+1998-03-13,Ambrosi Hoffmann,CH,11,Downhill
+1998-03-13,Peter Runggaldier,IT,182,Downhill
+1998-03-13,Chris Puckett,US,1,Super G

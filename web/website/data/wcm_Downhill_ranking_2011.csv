@@ -1,772 +1,772 @@
-date,name,ath_country,value
-2010-11-27,Michael Walchhofer,AT,100
-2010-11-27,Jonas Fravi,CH,0
-2010-11-27,Mattia Casse,IT,0
-2010-11-27,Andreas Buder,AT,0
-2010-11-27,Cornel Zueger,CH,0
-2010-11-27,Andrej Krizaj,SK,0
-2010-11-27,Mirko Deflorian,MD,0
-2010-11-27,Maxence Muzaton,FR,0
-2010-11-27,Frederik Van Buynder,BE,0
-2010-11-27,Jaroslav Babusiak,SK,0
-2010-11-27,Patrick Kueng,CH,26
-2010-11-27,Igor Zakurdaev,KZ,0
-2010-11-27,Jan Hudec,CA,24
-2010-11-27,Kevin Esteve Rigail,AD,0
-2010-11-27,Alexandre Bouillot,FR,0
-2010-11-27,Andy Plank,IT,0
-2010-11-27,Bernhard Graf,AT,0
-2010-11-27,Matthias Mayer,AT,0
-2010-11-27,Ted Ligety,US,0
-2010-11-27,Didier Cuche,CH,29
-2010-11-27,Paolo Pangrazzi,IT,0
-2010-11-27,Wiley Maple,US,0
-2010-11-27,Michal Klusak,PL,0
-2010-11-27,Hannes Reichelt,AT,0
-2010-11-27,Ryan Semple,CA,0
-2010-11-27,Silvano Varettoni,IT,0
-2010-11-27,Ivica Kostelic,HR,24
-2010-11-27,Vitus Lueoend,CH,0
-2010-11-27,Andreas Sander,DE,0
-2010-11-27,Yannick Bertrand,FR,12
-2010-11-27,Marc Gisin,CH,11
-2010-11-27,Hans Grugger,AT,14
-2010-11-27,Adrien Theaux,FR,10
-2010-11-27,Benjamin Raich,AT,9
-2010-11-27,Peter Fill,IT,15
-2010-11-27,Christof Innerhofer,IT,8
-2010-11-27,Erik Guay,CA,7
-2010-11-27,Andreas Strodl,DE,6
-2010-11-27,Joachim Puchner,AT,6
-2010-11-27,Georg Streitberger,AT,18
-2010-11-27,Andrej Sporn,SK,18
-2010-11-27,Andrej Jerman,SK,4
-2010-11-27,Tobias Gruenenfelder,CH,3
-2010-11-27,Stephan Keppler,DE,2
-2010-11-27,Dominik Paris,IT,2
-2010-11-27,Daniel Ericsson,SE,0
-2010-11-27,Manuel Osborne-Paradis,CA,20
-2010-11-27,Erik Fisher,US,0
-2010-11-27,Espen Lysdahl,NO,0
-2010-11-27,Hagen Patscheider,IT,0
-2010-11-27,Rok Perko,SK,0
-2010-11-27,Christian Spescha,CH,0
-2010-11-27,Tobias Stechert,DE,0
-2010-11-27,Ambrosi Hoffmann,CH,0
-2010-11-27,Lars Elton Myhre,NO,0
-2010-11-27,Bode Miller,US,32
-2010-11-27,Kjetil Jansrud,NO,0
-2010-11-27,Brice Roger,FR,0
-2010-11-27,Aksel-Lund Svindal,NO,80
-2010-11-27,Mario Scheiber,AT,80
-2010-11-27,Silvan Zurbriggen,CH,50
-2010-11-27,Bjoern Sieber,AT,0
-2010-11-27,Johan Clarey,FR,45
-2010-11-27,Klaus Kroell,AT,40
-2010-11-27,Carlo Janka,CH,36
-2010-11-27,Beat Feuz,CH,13
-2010-11-27,Stephan Goergl,AT,0
-2010-11-27,Markus Duerager,AT,0
-2010-11-27,Kelby Halbert,CA,0
-2010-11-27,Tommy Ford,US,0
-2010-11-27,Manuel Kramer,AT,0
-2010-11-27,Johannes Kroell,AT,0
-2010-12-18,Ted Ligety,US,0
-2010-12-18,Andreas Sander,DE,3
-2010-12-18,Paolo Pangrazzi,IT,0
-2010-12-18,Yannick Bertrand,FR,16
-2010-12-18,Kjetil Jansrud,NO,0
-2010-12-18,Wiley Maple,US,0
-2010-12-18,Michal Klusak,PL,0
-2010-12-18,Joachim Puchner,AT,12
-2010-12-18,Hannes Reichelt,AT,0
-2010-12-18,Ambrosi Hoffmann,CH,8
-2010-12-18,Hans Grugger,AT,22
-2010-12-18,Ryan Semple,CA,0
-2010-12-18,Lars Elton Myhre,NO,0
-2010-12-18,Christof Innerhofer,IT,17
-2010-12-18,Bjoern Sieber,AT,0
-2010-12-18,Natko Zrncic-Dim,HR,10
-2010-12-18,Brice Roger,FR,0
-2010-12-18,Kelby Halbert,CA,0
-2010-12-18,Werner Heel,IT,11
-2010-12-18,Johannes Kroell,AT,0
-2010-12-18,Manuel Kramer,AT,0
-2010-12-18,Tobias Stechert,DE,12
-2010-12-18,Markus Duerager,AT,0
-2010-12-18,Matthias Mayer,AT,0
-2010-12-18,Adrien Theaux,FR,12
-2010-12-18,Bernhard Graf,AT,0
-2010-12-18,Mario Scheiber,AT,80
-2010-12-18,Johan Clarey,FR,45
-2010-12-18,Beat Feuz,CH,13
-2010-12-18,Marc Gisin,CH,11
-2010-12-18,Benjamin Raich,AT,9
-2010-12-18,Andreas Strodl,DE,6
-2010-12-18,David Poisson,FR,0
-2010-12-18,Ondrej Bank,CZ,0
-2010-12-18,Thomas Biesemeyer,US,0
-2010-12-18,Sandro Viletta,CH,0
-2010-12-18,Andreas Romar,FI,0
-2010-12-18,Bostjan Kline,SK,0
-2010-12-18,Petr Zahrobsky,CZ,0
-2010-12-18,Marco Sullivan,US,0
-2010-12-18,Gauthier De Tessieres,FR,0
-2010-12-18,Dustin Cook,CA,0
-2010-12-18,Steven Nyman,US,13
-2010-12-18,Tin Siroki,HR,0
-2010-12-18,Will Brandenburg,US,0
-2010-12-18,Daniel Ericsson,SE,0
-2010-12-18,Espen Lysdahl,NO,0
-2010-12-18,Hagen Patscheider,IT,0
-2010-12-18,Christian Spescha,CH,0
-2010-12-18,Kevin Esteve Rigail,AD,0
-2010-12-18,Alexandre Bouillot,FR,0
-2010-12-18,Andy Plank,IT,0
-2010-12-18,Stephan Goergl,AT,0
-2010-12-18,Silvano Varettoni,IT,0
-2010-12-18,Tommy Ford,US,0
-2010-12-18,Hans Olsson,SE,18
-2010-12-18,Louis-Pierre Helie,CA,20
-2010-12-18,Robbie Dixon,CA,26
-2010-12-18,Stephan Keppler,DE,28
-2010-12-18,Carlo Janka,CH,65
-2010-12-18,Manuel Osborne-Paradis,CA,52
-2010-12-18,Patrik Jaerbyn,SE,36
-2010-12-18,Bode Miller,US,46
-2010-12-18,Benjamin Thomsen,CA,15
-2010-12-18,Michael Walchhofer,AT,145
-2010-12-18,Aksel-Lund Svindal,NO,85
-2010-12-18,Didier Cuche,CH,89
-2010-12-18,Guillermo Fayed,FR,40
-2010-12-18,Klaus Kroell,AT,90
-2010-12-18,Andrej Sporn,SK,19
-2010-12-18,Silvan Zurbriggen,CH,150
-2010-12-18,Romed Baumann,AT,80
-2010-12-18,Peter Fill,IT,31
-2010-12-18,Erik Guay,CA,29
-2010-12-29,Ivica Kostelic,HR,24
-2010-12-29,Beat Feuz,CH,13
-2010-12-29,Benjamin Raich,AT,9
-2010-12-29,Erik Guay,CA,29
-2010-12-29,Andreas Strodl,DE,6
-2010-12-29,Robbie Dixon,CA,26
-2010-12-29,Ferran Terra,ES,0
-2010-12-29,Hans Olsson,SE,18
-2010-12-29,Sandro Viletta,CH,0
-2010-12-29,Ondrej Bank,CZ,0
-2010-12-29,Andrew Weibrecht,US,0
-2010-12-29,Patrick Staudacher,IT,0
-2010-12-29,Thomas Biesemeyer,US,0
-2010-12-29,Louis-Pierre Helie,CA,20
-2010-12-29,Stephan Thanei,IT,4
-2010-12-29,Matteo Marsaglia,IT,0
-2010-12-29,Natko Zrncic-Dim,HR,14
-2010-12-29,David Poisson,FR,0
-2010-12-29,Vitus Lueoend,CH,2
-2010-12-29,Brice Roger,FR,0
-2010-12-29,Klaus Kroell,AT,90
-2010-12-29,Michael Walchhofer,AT,245
-2010-12-29,Andrej Jerman,SK,20
-2010-12-29,Silvan Zurbriggen,CH,230
-2010-12-29,Werner Heel,IT,12
-2010-12-29,Christof Innerhofer,IT,77
-2010-12-29,Patrick Kueng,CH,76
-2010-12-29,Hagen Patscheider,IT,5
-2010-12-29,Georg Streitberger,AT,63
-2010-12-29,Johannes Kroell,AT,0
-2010-12-29,Andrej Sporn,SK,59
-2010-12-29,Bode Miller,US,78
-2010-12-29,Stephan Keppler,DE,57
-2010-12-29,Ambrosi Hoffmann,CH,14
-2010-12-29,Aksel-Lund Svindal,NO,109
-2010-12-29,Steven Nyman,US,37
-2010-12-29,Manuel Osborne-Paradis,CA,72
-2010-12-29,Mario Scheiber,AT,80
-2010-12-29,Johan Clarey,FR,45
-2010-12-29,Adrien Theaux,FR,48
-2010-12-29,Romed Baumann,AT,106
-2010-12-29,Carlo Janka,CH,65
-2010-12-29,Mirko Deflorian,MD,0
-2010-12-29,Mattia Casse,IT,0
-2010-12-29,Andreas Buder,AT,0
-2010-12-29,Didier Cuche,CH,99
-2010-12-29,Peter Fill,IT,49
-2010-12-29,Stephan Goergl,AT,0
-2010-12-29,Frederik Van Buynder,BE,0
-2010-12-29,Jaroslav Babusiak,SK,0
-2010-12-29,Travis Ganong,US,11
-2010-12-29,Tommy Ford,US,0
-2010-12-29,Igor Zakurdaev,KZ,0
-2010-12-29,Kevin Esteve Rigail,AD,0
-2010-12-29,Bernhard Graf,AT,0
-2010-12-29,Matthias Mayer,AT,0
-2010-12-29,Tobias Stechert,DE,12
-2010-12-29,Ted Ligety,US,0
-2010-12-29,Hans Grugger,AT,34
-2010-12-29,Dominik Paris,IT,16
-2010-12-29,Kelby Halbert,CA,0
-2010-12-29,Kjetil Jansrud,NO,0
-2010-12-29,Wiley Maple,US,0
-2010-12-29,Michal Klusak,PL,0
-2010-12-29,Hannes Reichelt,AT,0
-2010-12-29,Ryan Semple,CA,0
-2010-12-29,Lars Elton Myhre,NO,0
-2010-12-29,Bjoern Sieber,AT,0
-2010-12-29,Jan Hudec,CA,37
-2010-12-29,Markus Duerager,AT,0
-2010-12-29,Manuel Kramer,AT,0
-2010-12-29,Paolo Pangrazzi,IT,0
-2010-12-29,Christian Spescha,CH,0
-2010-12-29,Maxence Muzaton,FR,0
-2010-12-29,Marc Gisin,CH,26
-2010-12-29,Andreas Romar,FI,0
-2010-12-29,Bostjan Kline,SK,0
-2010-12-29,Petr Zahrobsky,CZ,0
-2010-12-29,Marco Sullivan,US,0
-2010-12-29,Max Franz,AT,0
-2010-12-29,Siegmar Klotz,IT,7
-2010-12-29,Ami Oreiller,CH,0
-2010-12-29,Alexandre Pasquier,FR,0
-2010-12-29,Gauthier De Tessieres,FR,0
-2010-12-29,Dustin Cook,CA,0
-2010-12-29,Tin Siroki,HR,0
-2010-12-29,Yannick Bertrand,FR,24
-2010-12-29,Espen Lysdahl,NO,0
-2010-12-29,Will Brandenburg,US,0
-2010-12-29,Patrik Jaerbyn,SE,36
-2010-12-29,Edward Drake,GB,0
-2010-12-29,Tobias Gruenenfelder,CH,12
-2010-12-29,Daniel Ericsson,SE,0
-2010-12-29,Erik Fisher,US,0
-2011-01-15,Gasper Markic,SK,0
-2011-01-15,Hagen Patscheider,IT,10
-2011-01-15,Marco Sullivan,US,0
-2011-01-15,Max Franz,AT,0
-2011-01-15,Stephan Goergl,AT,0
-2011-01-15,Tommy Ford,US,0
-2011-01-15,Kelby Halbert,CA,0
-2011-01-15,Marc Gisin,CH,26
-2011-01-15,Markus Duerager,AT,0
-2011-01-15,Manuel Kramer,AT,0
-2011-01-15,Johannes Kroell,AT,0
-2011-01-15,Brice Roger,FR,0
-2011-01-15,Benjamin Raich,AT,9
-2011-01-15,Petr Zahrobsky,CZ,0
-2011-01-15,Bostjan Kline,SK,0
-2011-01-15,Carlo Janka,CH,125
-2011-01-15,Stephan Keppler,DE,57
-2011-01-15,Tobias Gruenenfelder,CH,12
-2011-01-15,Tobias Stechert,DE,13
-2011-01-15,Cornel Zueger,CH,1
-2011-01-15,Erik Guay,CA,29
-2011-01-15,Ferran Terra,ES,0
-2011-01-15,Ted Ligety,US,1
-2011-01-15,Louis-Pierre Helie,CA,20
-2011-01-15,Sandro Viletta,CH,0
-2011-01-15,Aksel-Lund Svindal,NO,125
-2011-01-15,Benjamin Thomsen,CA,15
-2011-01-15,Ivica Kostelic,HR,46
-2011-01-15,Thomas Biesemeyer,US,0
-2011-01-15,Bjoern Sieber,AT,0
-2011-01-15,Dustin Cook,CA,0
-2011-01-15,Robbie Dixon,CA,26
-2011-01-15,Lars Elton Myhre,NO,0
-2011-01-15,Patrick Kueng,CH,76
-2011-01-15,Johan Clarey,FR,45
-2011-01-15,Edward Drake,GB,0
-2011-01-15,Will Brandenburg,US,0
-2011-01-15,Patrik Jaerbyn,SE,36
-2011-01-15,Daniel Ericsson,SE,0
-2011-01-15,Erik Fisher,US,0
-2011-01-15,Espen Lysdahl,NO,0
-2011-01-15,Andrew Weibrecht,US,0
-2011-01-15,Steven Nyman,US,37
-2011-01-15,Christian Spescha,CH,0
-2011-01-15,Andreas Sander,DE,3
-2011-01-15,Vitus Lueoend,CH,2
-2011-01-15,Jonas Fravi,CH,0
-2011-01-15,Mattia Casse,IT,0
-2011-01-15,Gauthier De Tessieres,FR,0
-2011-01-15,Alexandre Pasquier,FR,0
-2011-01-15,Ryan Semple,CA,0
-2011-01-15,Hannes Reichelt,AT,0
-2011-01-15,Matthias Mayer,AT,0
-2011-01-15,Bernhard Graf,AT,0
-2011-01-15,Andy Plank,IT,0
-2011-01-15,Beat Feuz,CH,13
-2011-01-15,Ondrej Bank,CZ,0
-2011-01-15,Ami Oreiller,CH,0
-2011-01-15,Silvano Varettoni,IT,0
-2011-01-15,Igor Zakurdaev,KZ,0
-2011-01-15,Jaroslav Babusiak,SK,0
-2011-01-15,Maxence Muzaton,FR,0
-2011-01-15,Andrej Krizaj,SK,0
-2011-01-15,Andreas Buder,AT,0
-2011-01-15,Alexandre Bouillot,FR,0
-2011-01-15,Andreas Strodl,DE,6
-2011-01-15,Natko Zrncic-Dim,HR,14
-2011-01-15,Werner Heel,IT,57
-2011-01-15,Christof Innerhofer,IT,113
-2011-01-15,Manuel Osborne-Paradis,CA,80
-2011-01-15,Didier Cuche,CH,179
-2011-01-15,Joachim Puchner,AT,21
-2011-01-15,Jan Hudec,CA,47
-2011-01-15,Mario Scheiber,AT,109
-2011-01-15,Guillermo Fayed,FR,51
-2011-01-15,Andrej Sporn,SK,66
-2011-01-15,Hans Olsson,SE,44
-2011-01-15,Andrej Jerman,SK,70
-2011-01-15,Ambrosi Hoffmann,CH,27
-2011-01-15,Michael Walchhofer,AT,269
-2011-01-15,Hans Grugger,AT,48
-2011-01-15,Georg Streitberger,AT,78
-2011-01-15,Silvan Zurbriggen,CH,250
-2011-01-15,Adrien Theaux,FR,68
-2011-01-15,Peter Fill,IT,61
-2011-01-15,Dominik Paris,IT,22
-2011-01-15,Bode Miller,US,110
-2011-01-15,Travis Ganong,US,14
-2011-01-15,Romed Baumann,AT,146
-2011-01-15,Yannick Bertrand,FR,26
-2011-01-15,Klaus Kroell,AT,190
-2011-01-15,Siegmar Klotz,IT,11
-2011-01-22,Sandro Viletta,CH,0
-2011-01-22,Stephan Keppler,DE,57
-2011-01-22,Romed Baumann,AT,172
-2011-01-22,Daniel Ericsson,SE,0
-2011-01-22,Erik Fisher,US,0
-2011-01-22,Espen Lysdahl,NO,0
-2011-01-22,Rok Perko,SK,0
-2011-01-22,Joachim Puchner,AT,21
-2011-01-22,Michael Walchhofer,AT,269
-2011-01-22,Georg Streitberger,AT,102
-2011-01-22,Christian Spescha,CH,0
-2011-01-22,Jan Hudec,CA,47
-2011-01-22,Tobias Stechert,DE,13
-2011-01-22,Jonas Fravi,CH,0
-2011-01-22,Mattia Casse,IT,0
-2011-01-22,Andreas Buder,AT,0
-2011-01-22,Manuel Osborne-Paradis,CA,80
-2011-01-22,Hans Grugger,AT,48
-2011-01-22,Silvan Zurbriggen,CH,270
-2011-01-22,Ivica Kostelic,HR,70
-2011-01-22,Patrik Jaerbyn,SE,36
-2011-01-22,Edward Drake,GB,0
-2011-01-22,Christof Innerhofer,IT,153
-2011-01-22,Louis-Pierre Helie,CA,20
-2011-01-22,Patrick Staudacher,IT,0
-2011-01-22,Ferran Terra,ES,0
-2011-01-22,Thomas Biesemeyer,US,0
-2011-01-22,Werner Heel,IT,93
-2011-01-22,Andreas Romar,FI,0
-2011-01-22,Bostjan Kline,SK,0
-2011-01-22,Natko Zrncic-Dim,HR,14
-2011-01-22,Petr Zahrobsky,CZ,0
-2011-01-22,Siegmar Klotz,IT,11
-2011-01-22,Will Brandenburg,US,0
-2011-01-22,Marco Sullivan,US,0
-2011-01-22,Maxence Muzaton,FR,0
-2011-01-22,Ambrosi Hoffmann,CH,59
-2011-01-22,Ami Oreiller,CH,0
-2011-01-22,Alexandre Pasquier,FR,0
-2011-01-22,Peter Fill,IT,106
-2011-01-22,Gauthier De Tessieres,FR,0
-2011-01-22,Andrew Weibrecht,US,0
-2011-01-22,Klaus Kroell,AT,219
-2011-01-22,Robbie Dixon,CA,26
-2011-01-22,Dustin Cook,CA,0
-2011-01-22,Max Franz,AT,0
-2011-01-22,Frederik Van Buynder,BE,0
-2011-01-22,Erik Guay,CA,44
-2011-01-22,Igor Zakurdaev,KZ,0
-2011-01-22,Kelby Halbert,CA,0
-2011-01-22,Carlo Janka,CH,136
-2011-01-22,Tommy Ford,US,0
-2011-01-22,Stephan Goergl,AT,0
-2011-01-22,David Poisson,FR,10
-2011-01-22,Jaroslav Babusiak,SK,0
-2011-01-22,Bode Miller,US,190
-2011-01-22,Patrick Kueng,CH,85
-2011-01-22,Matteo Marsaglia,IT,1
-2011-01-22,Andrej Jerman,SK,78
-2011-01-22,Johan Clarey,FR,52
-2011-01-22,Dominik Paris,IT,28
-2011-01-22,Yannick Bertrand,FR,42
-2011-01-22,Ted Ligety,US,5
-2011-01-22,Didier Cuche,CH,279
-2011-01-22,Travis Ganong,US,17
-2011-01-22,Guillermo Fayed,FR,53
-2011-01-22,Adrien Theaux,FR,128
-2011-01-22,Markus Duerager,AT,0
-2011-01-22,Andreas Strodl,DE,6
-2011-01-22,Hannes Reichelt,AT,12
-2011-01-22,Benjamin Raich,AT,9
-2011-01-22,Silvano Varettoni,IT,0
-2011-01-22,Manuel Kramer,AT,0
-2011-01-22,Matthias Mayer,AT,0
-2011-01-22,Kevin Esteve Rigail,AD,0
-2011-01-22,Wiley Maple,US,0
-2011-01-22,Bernhard Graf,AT,0
-2011-01-22,Andrej Sporn,SK,84
-2011-01-22,Aksel-Lund Svindal,NO,139
-2011-01-22,Lars Elton Myhre,NO,0
-2011-01-22,Mario Scheiber,AT,159
-2011-01-22,Beat Feuz,CH,26
-2011-01-22,Bjoern Sieber,AT,0
-2011-01-22,Benjamin Thomsen,CA,20
-2011-01-22,Brice Roger,FR,0
-2011-01-22,Johannes Kroell,AT,0
-2011-01-22,Michal Klusak,PL,0
-2011-01-22,Andy Plank,IT,0
-2011-01-29,Louis-Pierre Helie,CA,20
-2011-01-29,Sandro Viletta,CH,0
-2011-01-29,Thomas Biesemeyer,US,0
-2011-01-29,Siegmar Klotz,IT,11
-2011-01-29,Andrew Weibrecht,US,0
-2011-01-29,Hans Grugger,AT,48
-2011-01-29,Robbie Dixon,CA,26
-2011-01-29,Stephan Keppler,DE,57
-2011-01-29,Andreas Strodl,DE,6
-2011-01-29,Benjamin Raich,AT,9
-2011-01-29,Georg Streitberger,AT,102
-2011-01-29,Manuel Osborne-Paradis,CA,80
-2011-01-29,Jan Hudec,CA,47
-2011-01-29,Bode Miller,US,190
-2011-01-29,Mario Scheiber,AT,159
-2011-01-29,Steven Nyman,US,37
-2011-01-29,Carlo Janka,CH,136
-2011-01-29,Johan Clarey,FR,84
-2011-01-29,Marco Sullivan,US,0
-2011-01-29,Manuel Kramer,AT,0
-2011-01-29,Markus Duerager,AT,0
-2011-01-29,Petr Zahrobsky,CZ,0
-2011-01-29,Aksel-Lund Svindal,NO,157
-2011-01-29,Tommy Ford,US,0
-2011-01-29,Stephan Goergl,AT,0
-2011-01-29,Silvan Zurbriggen,CH,285
-2011-01-29,Christof Innerhofer,IT,167
-2011-01-29,Joachim Puchner,AT,71
-2011-01-29,Cornel Zueger,CH,14
-2011-01-29,Tobias Stechert,DE,18
-2011-01-29,Patrick Kueng,CH,97
-2011-01-29,Erik Guay,CA,56
-2011-01-29,Klaus Kroell,AT,279
-2011-01-29,Andreas Romar,FI,10
-2011-01-29,Dominik Paris,IT,108
-2011-01-29,Werner Heel,IT,102
-2011-01-29,Matteo Marsaglia,IT,9
-2011-01-29,Andreas Sander,DE,4
-2011-01-29,Patrik Jaerbyn,SE,43
-2011-01-29,Didier Cuche,CH,379
-2011-01-29,Vitus Lueoend,CH,8
-2011-01-29,Marc Gisin,CH,42
-2011-01-29,Guillermo Fayed,FR,57
-2011-01-29,Gasper Markic,SK,22
-2011-01-29,Ivica Kostelic,HR,73
-2011-01-29,Peter Fill,IT,108
-2011-01-29,Andrej Jerman,SK,98
-2011-01-29,Johannes Kroell,AT,0
-2011-01-29,Kelby Halbert,CA,0
-2011-01-29,Ted Ligety,US,5
-2011-01-29,Alexandre Pasquier,FR,0
-2011-01-29,Gauthier De Tessieres,FR,0
-2011-01-29,Michael Walchhofer,AT,314
-2011-01-29,Dustin Cook,CA,0
-2011-01-29,Daniel Ericsson,SE,0
-2011-01-29,Yannick Bertrand,FR,82
-2011-01-29,Espen Lysdahl,NO,0
-2011-01-29,Hagen Patscheider,IT,10
-2011-01-29,Rok Perko,SK,0
-2011-01-29,Beat Feuz,CH,62
-2011-01-29,Christian Spescha,CH,0
-2011-01-29,Jonas Fravi,CH,0
-2011-01-29,Mattia Casse,IT,0
-2011-01-29,Ryan Semple,CA,0
-2011-01-29,Andreas Buder,AT,0
-2011-01-29,Bostjan Kline,SK,0
-2011-01-29,Mirko Deflorian,MD,0
-2011-01-29,Matthias Mayer,AT,0
-2011-01-29,Maxence Muzaton,FR,0
-2011-01-29,Romed Baumann,AT,201
-2011-01-29,Jaroslav Babusiak,SK,0
-2011-01-29,Igor Zakurdaev,KZ,0
-2011-01-29,Andrej Sporn,SK,108
-2011-01-29,Bernhard Graf,AT,0
-2011-01-29,Silvano Varettoni,IT,0
-2011-01-29,Ferran Terra,ES,0
-2011-01-29,Andy Plank,IT,0
-2011-01-29,Hannes Reichelt,AT,38
-2011-01-29,Alexandre Bouillot,FR,0
-2011-03-11,Louis-Pierre Helie,CA,20
-2011-03-11,Stephan Thanei,IT,4
-2011-03-11,Alexandre Pasquier,FR,0
-2011-03-11,Ferran Terra,ES,0
-2011-03-11,Ami Oreiller,CH,0
-2011-03-11,Max Franz,AT,0
-2011-03-11,Marco Sullivan,US,0
-2011-03-11,Patrick Staudacher,IT,0
-2011-03-11,Petr Zahrobsky,CZ,0
-2011-03-11,Ambrosi Hoffmann,CH,61
-2011-03-11,Tin Siroki,HR,0
-2011-03-11,Matthias Mayer,AT,0
-2011-03-11,Paolo Pangrazzi,IT,0
-2011-03-11,Michal Klusak,PL,0
-2011-03-11,Ryan Semple,CA,0
-2011-03-11,Lars Elton Myhre,NO,0
-2011-03-11,Bjoern Sieber,AT,0
-2011-03-11,Brice Roger,FR,0
-2011-03-11,Bernhard Graf,AT,0
-2011-03-11,Stephan Goergl,AT,0
-2011-03-11,Christof Innerhofer,IT,172
-2011-03-11,Michael Walchhofer,AT,374
-2011-03-11,Erik Guay,CA,136
-2011-03-11,Hannes Reichelt,AT,39
-2011-03-11,Beat Feuz,CH,162
-2011-03-11,Joachim Puchner,AT,87
-2011-03-11,Andrej Sporn,SK,130
-2011-03-11,Romed Baumann,AT,251
-2011-03-11,Andy Plank,IT,0
-2011-03-11,Alexandre Bouillot,FR,0
-2011-03-11,Silvano Varettoni,IT,0
-2011-03-11,Edward Drake,GB,0
-2011-03-11,Sandro Viletta,CH,0
-2011-03-11,Will Brandenburg,US,0
-2011-03-11,Espen Lysdahl,NO,0
-2011-03-11,Christian Spescha,CH,0
-2011-03-11,Tobias Stechert,DE,18
-2011-03-11,Andreas Sander,DE,4
-2011-03-11,Vitus Lueoend,CH,8
-2011-03-11,Jonas Fravi,CH,0
-2011-03-11,Mattia Casse,IT,0
-2011-03-11,Andreas Buder,AT,0
-2011-03-11,Andrej Krizaj,SK,0
-2011-03-11,Mirko Deflorian,MD,0
-2011-03-11,Frederik Van Buynder,BE,0
-2011-03-11,Jaroslav Babusiak,SK,0
-2011-03-11,Igor Zakurdaev,KZ,0
-2011-03-11,Kevin Esteve Rigail,AD,0
-2011-03-11,Gauthier De Tessieres,FR,0
-2011-03-11,Thomas Biesemeyer,US,0
-2011-03-11,Mario Scheiber,AT,159
-2011-03-11,Travis Ganong,US,17
-2011-03-11,Steven Nyman,US,43
-2011-03-11,Ivica Kostelic,HR,80
-2011-03-11,Silvan Zurbriggen,CH,303
-2011-03-11,Rok Perko,SK,8
-2011-03-11,Johan Clarey,FR,104
-2011-03-11,Tobias Gruenenfelder,CH,21
-2011-03-11,Carlo Janka,CH,160
-2011-03-11,Kjetil Jansrud,NO,10
-2011-03-11,Jan Hudec,CA,73
-2011-03-11,Andrew Weibrecht,US,0
-2011-03-11,Andrej Jerman,SK,127
-2011-03-11,Patrick Kueng,CH,129
-2011-03-11,Erik Fisher,US,4
-2011-03-11,Klaus Kroell,AT,315
-2011-03-11,Benjamin Thomsen,CA,33
-2011-03-11,Marc Gisin,CH,53
-2011-03-11,Georg Streitberger,AT,102
-2011-03-11,Hans Grugger,AT,48
-2011-03-11,Guillermo Fayed,FR,97
-2011-03-11,Manuel Osborne-Paradis,CA,80
-2011-03-11,Bode Miller,US,190
-2011-03-11,Dominik Paris,IT,108
-2011-03-11,Yannick Bertrand,FR,97
-2011-03-11,Benjamin Raich,AT,9
-2011-03-11,Andreas Strodl,DE,6
-2011-03-11,Aksel-Lund Svindal,NO,160
-2011-03-11,Robbie Dixon,CA,26
-2011-03-11,Didier Cuche,CH,424
-2011-03-11,Adrien Theaux,FR,141
-2011-03-11,Ondrej Bank,CZ,14
-2011-03-12,Bernhard Graf,AT,0
-2011-03-12,Matthias Mayer,AT,0
-2011-03-12,Alexandre Bouillot,FR,0
-2011-03-12,Paolo Pangrazzi,IT,0
-2011-03-12,Silvano Varettoni,IT,0
-2011-03-12,Andy Plank,IT,0
-2011-03-12,Mattia Casse,IT,0
-2011-03-12,Igor Zakurdaev,KZ,0
-2011-03-12,Jaroslav Babusiak,SK,0
-2011-03-12,Frederik Van Buynder,BE,0
-2011-03-12,Maxence Muzaton,FR,0
-2011-03-12,Michal Klusak,PL,0
-2011-03-12,Jonas Fravi,CH,0
-2011-03-12,Andrej Krizaj,SK,0
-2011-03-12,Andreas Buder,AT,0
-2011-03-12,Kevin Esteve Rigail,AD,0
-2011-03-12,Ryan Semple,CA,0
-2011-03-12,Peter Fill,IT,117
-2011-03-12,Bjoern Sieber,AT,0
-2011-03-12,Marc Gisin,CH,67
-2011-03-12,Yannick Bertrand,FR,110
-2011-03-12,Klaus Kroell,AT,395
-2011-03-12,Hans Olsson,SE,56
-2011-03-12,Beat Feuz,CH,222
-2011-03-12,Steven Nyman,US,54
-2011-03-12,Ivica Kostelic,HR,90
-2011-03-12,Lars Elton Myhre,NO,0
-2011-03-12,Andreas Sander,DE,4
-2011-03-12,Vitus Lueoend,CH,9
-2011-03-12,Michael Walchhofer,AT,474
-2011-03-12,Ondrej Bank,CZ,21
-2011-03-12,Joachim Puchner,AT,93
-2011-03-12,Markus Duerager,AT,0
-2011-03-12,Manuel Kramer,AT,0
-2011-03-12,Brice Roger,FR,0
-2011-03-12,Patrik Jaerbyn,SE,51
-2011-03-12,Tobias Stechert,DE,18
-2011-03-12,Mirko Deflorian,MD,0
-2011-03-12,Rok Perko,SK,8
-2011-03-12,Manuel Osborne-Paradis,CA,80
-2011-03-12,Bode Miller,US,190
-2011-03-12,Mario Scheiber,AT,159
-2011-03-12,Erik Fisher,US,10
-2011-03-12,Romed Baumann,AT,269
-2011-03-12,Johan Clarey,FR,120
-2011-03-12,Christof Innerhofer,IT,192
-2011-03-12,Erik Guay,CA,158
-2011-03-12,Jan Hudec,CA,89
-2011-03-12,Georg Streitberger,AT,102
-2011-03-12,Adrien Theaux,FR,165
-2011-03-12,Christian Spescha,CH,0
-2011-03-12,Matteo Marsaglia,IT,45
-2011-03-12,Didier Cuche,CH,460
-2011-03-12,Andreas Romar,FI,14
-2011-03-12,Carlo Janka,CH,200
-2011-03-12,Patrick Kueng,CH,174
-2011-03-12,Kjetil Jansrud,NO,14
-2011-03-12,Andrej Sporn,SK,180
-2011-03-12,Silvan Zurbriggen,CH,305
-2011-03-12,Ambrosi Hoffmann,CH,87
-2011-03-12,Hans Grugger,AT,48
-2011-03-12,Andrej Jerman,SK,156
-2011-03-12,Andreas Strodl,DE,6
-2011-03-12,Benjamin Raich,AT,9
-2011-03-12,Daniel Ericsson,SE,0
-2011-03-12,Will Brandenburg,US,0
-2011-03-12,Edward Drake,GB,0
-2011-03-12,Tin Siroki,HR,0
-2011-03-12,Alexandre Pasquier,FR,0
-2011-03-12,Ami Oreiller,CH,0
-2011-03-12,Marco Sullivan,US,0
-2011-03-12,Petr Zahrobsky,CZ,0
-2011-03-12,Ferran Terra,ES,0
-2011-03-12,Espen Lysdahl,NO,0
-2011-03-12,Gasper Markic,SK,22
-2011-03-12,Andrew Weibrecht,US,0
-2011-03-12,Stephan Keppler,DE,57
-2011-03-12,Thomas Biesemeyer,US,0
-2011-03-12,Travis Ganong,US,17
-2011-03-12,Sandro Viletta,CH,0
-2011-03-12,Stephan Thanei,IT,4
-2011-03-12,Patrick Staudacher,IT,0
-2011-03-12,Louis-Pierre Helie,CA,20
-2011-03-12,Robbie Dixon,CA,26
-2011-03-16,Paolo Pangrazzi,IT,0
-2011-03-16,Matthias Mayer,AT,0
-2011-03-16,Kjetil Jansrud,NO,14
-2011-03-16,Bernhard Graf,AT,0
-2011-03-16,Andy Plank,IT,0
-2011-03-16,Alexandre Bouillot,FR,0
-2011-03-16,Wiley Maple,US,0
-2011-03-16,Adrien Theaux,FR,265
-2011-03-16,Silvano Varettoni,IT,0
-2011-03-16,Kevin Esteve Rigail,AD,0
-2011-03-16,Igor Zakurdaev,KZ,0
-2011-03-16,Jaroslav Babusiak,SK,0
-2011-03-16,Frederik Van Buynder,BE,0
-2011-03-16,Maxence Muzaton,FR,0
-2011-03-16,Mirko Deflorian,MD,0
-2011-03-16,Andrej Krizaj,SK,0
-2011-03-16,Michal Klusak,PL,0
-2011-03-16,Hannes Reichelt,AT,39
-2011-03-16,Johannes Kroell,AT,0
-2011-03-16,Lars Elton Myhre,NO,0
-2011-03-16,Klaus Kroell,AT,411
-2011-03-16,Aksel-Lund Svindal,NO,220
-2011-03-16,Werner Heel,IT,118
-2011-03-16,Bostjan Kline,SK,16
-2011-03-16,Ted Ligety,US,17
-2011-03-16,Joachim Puchner,AT,173
-2011-03-16,Romed Baumann,AT,282
-2011-03-16,Cornel Zueger,CH,14
-2011-03-16,Stephan Goergl,AT,0
-2011-03-16,Tommy Ford,US,0
-2011-03-16,Kelby Halbert,CA,0
-2011-03-16,Markus Duerager,AT,0
-2011-03-16,Manuel Kramer,AT,0
-2011-03-16,Brice Roger,FR,0
-2011-03-16,Bjoern Sieber,AT,0
-2011-03-16,Ryan Semple,CA,0
-2011-03-16,Andreas Buder,AT,0
-2011-03-16,David Poisson,FR,10
-2011-03-16,Jonas Fravi,CH,0
-2011-03-16,Andrew Weibrecht,US,0
-2011-03-16,Travis Ganong,US,17
-2011-03-16,Steven Nyman,US,54
-2011-03-16,Ondrej Bank,CZ,21
-2011-03-16,Robbie Dixon,CA,26
-2011-03-16,Stephan Keppler,DE,57
-2011-03-16,Tobias Gruenenfelder,CH,21
-2011-03-16,Andrej Jerman,SK,156
-2011-03-16,Andreas Strodl,DE,6
-2011-03-16,Benjamin Raich,AT,9
-2011-03-16,Marc Gisin,CH,67
-2011-03-16,Hans Grugger,AT,48
-2011-03-16,Georg Streitberger,AT,102
-2011-03-16,Andrej Sporn,SK,180
-2011-03-16,Guillermo Fayed,FR,97
-2011-03-16,Manuel Osborne-Paradis,CA,80
-2011-03-16,Jan Hudec,CA,89
-2011-03-16,Bode Miller,US,190
-2011-03-16,Silvan Zurbriggen,CH,305
-2011-03-16,Mario Scheiber,AT,159
-2011-03-16,Dominik Paris,IT,126
-2011-03-16,Erik Guay,CA,178
-2011-03-16,Michael Walchhofer,AT,498
-2011-03-16,Carlo Janka,CH,226
-2011-03-16,Yannick Bertrand,FR,139
-2011-03-16,Beat Feuz,CH,254
-2011-03-16,Patrick Kueng,CH,210
-2011-03-16,Peter Fill,IT,157
-2011-03-16,Christof Innerhofer,IT,242
-2011-03-16,Didier Cuche,CH,510
-2011-03-16,Ivica Kostelic,HR,90
-2011-03-16,Siegmar Klotz,IT,11
-2011-03-16,Gasper Markic,SK,22
-2011-03-16,Natko Zrncic-Dim,HR,14
-2011-03-16,Vitus Lueoend,CH,9
-2011-03-16,Andreas Sander,DE,4
-2011-03-16,Ambrosi Hoffmann,CH,87
-2011-03-16,Tobias Stechert,DE,18
-2011-03-16,Christian Spescha,CH,0
-2011-03-16,Rok Perko,SK,8
-2011-03-16,Hagen Patscheider,IT,10
-2011-03-16,Espen Lysdahl,NO,0
-2011-03-16,Erik Fisher,US,10
-2011-03-16,Daniel Ericsson,SE,0
-2011-03-16,Patrik Jaerbyn,SE,51
-2011-03-16,Will Brandenburg,US,0
-2011-03-16,Edward Drake,GB,0
-2011-03-16,Tin Siroki,HR,0
-2011-03-16,Dustin Cook,CA,0
-2011-03-16,Gauthier De Tessieres,FR,0
-2011-03-16,Alexandre Pasquier,FR,0
-2011-03-16,Thomas Biesemeyer,US,0
-2011-03-16,Benjamin Thomsen,CA,33
-2011-03-16,Sandro Viletta,CH,0
-2011-03-16,Matteo Marsaglia,IT,45
-2011-03-16,Louis-Pierre Helie,CA,20
-2011-03-16,Patrick Staudacher,IT,0
-2011-03-16,Mattia Casse,IT,0
-2011-03-16,Hans Olsson,SE,56
-2011-03-16,Ferran Terra,ES,0
-2011-03-16,Andreas Romar,FI,14
-2011-03-16,Petr Zahrobsky,CZ,0
-2011-03-16,Marco Sullivan,US,0
-2011-03-16,Max Franz,AT,0
-2011-03-16,Ami Oreiller,CH,0
-2011-03-16,Stephan Thanei,IT,4
-2011-03-16,Johan Clarey,FR,142
+date,name,ath_country,value,specialty
+2010-11-27,Michael Walchhofer,AT,100,Downhill
+2010-11-27,Andreas Sander,DE,0,Downhill
+2010-11-27,Lars Elton Myhre,NO,0,Slalom
+2010-11-27,Mario Scheiber,AT,80,Downhill
+2010-11-27,Daniel Ericsson,SE,0,Combined
+2010-11-27,Patrick Kueng,CH,26,Downhill
+2010-11-27,Carlo Janka,CH,36,Giant Slalom
+2010-11-27,Benjamin Raich,AT,9,Super G
+2010-11-27,Jonas Fravi,CH,0,Combined
+2010-11-27,Aksel-Lund Svindal,NO,80,Giant Slalom
+2010-11-27,Ryan Semple,CA,0,Combined
+2010-11-27,Silvano Varettoni,IT,0,Combined
+2010-11-27,Adrien Theaux,FR,10,Downhill
+2010-11-27,Hannes Reichelt,AT,0,Super G
+2010-11-27,Ambrosi Hoffmann,CH,0,Downhill
+2010-11-27,Jaroslav Babusiak,SK,0,Combined
+2010-11-27,Manuel Osborne-Paradis,CA,20,Downhill
+2010-11-27,Kjetil Jansrud,NO,0,Giant Slalom
+2010-11-27,Georg Streitberger,AT,18,Super G
+2010-11-27,Mattia Casse,IT,0,Super G
+2010-11-27,Stephan Goergl,AT,0,Super G
+2010-11-27,Rok Perko,SK,0,Downhill
+2010-11-27,Dominik Paris,IT,2,Downhill
+2010-11-27,Vitus Lueoend,CH,0,Downhill
+2010-11-27,Andrej Krizaj,SK,0,Super G
+2010-11-27,Manuel Kramer,AT,0,Combined
+2010-11-27,Stephan Keppler,DE,2,Super G
+2010-11-27,Kevin Esteve Rigail,AD,0,Combined
+2010-11-27,Markus Duerager,AT,0,Combined
+2010-11-27,Erik Guay,CA,7,Downhill
+2010-11-27,Brice Roger,FR,0,Combined
+2010-11-27,Bode Miller,US,32,Downhill
+2010-11-27,Andreas Strodl,DE,6,Downhill
+2010-11-27,Kelby Halbert,CA,0,Combined
+2010-11-27,Erik Fisher,US,0,Downhill
+2010-11-27,Bjoern Sieber,AT,0,Combined
+2010-11-27,Igor Zakurdaev,KZ,0,Combined
+2010-11-27,Tommy Ford,US,0,Super G
+2010-11-27,Joachim Puchner,AT,6,Downhill
+2010-11-27,Tobias Gruenenfelder,CH,3,Super G
+2010-11-27,Wiley Maple,US,0,Combined
+2010-11-27,Michal Klusak,PL,0,Combined
+2010-11-27,Ted Ligety,US,0,Giant Slalom
+2010-11-27,Klaus Kroell,AT,40,Downhill
+2010-11-27,Matthias Mayer,AT,0,Super G
+2010-11-27,Andrej Jerman,SK,4,Downhill
+2010-11-27,Hagen Patscheider,IT,0,Downhill
+2010-11-27,Tobias Stechert,DE,0,Downhill
+2010-11-27,Bernhard Graf,AT,0,Combined
+2010-11-27,Cornel Zueger,CH,0,Downhill
+2010-11-27,Maxence Muzaton,FR,0,Combined
+2010-11-27,Alexandre Bouillot,FR,0,Combined
+2010-11-27,Christof Innerhofer,IT,8,Downhill
+2010-11-27,Mirko Deflorian,MD,0,Combined
+2010-11-27,Andreas Buder,AT,0,Combined
+2010-11-27,Johan Clarey,FR,45,Downhill
+2010-11-27,Andy Plank,IT,0,Combined
+2010-11-27,Hans Grugger,AT,14,Downhill
+2010-11-27,Marc Gisin,CH,11,Downhill
+2010-11-27,Silvan Zurbriggen,CH,50,Downhill
+2010-11-27,Yannick Bertrand,FR,12,Downhill
+2010-11-27,Johannes Kroell,AT,0,Combined
+2010-11-27,Didier Cuche,CH,29,Downhill
+2010-11-27,Peter Fill,IT,15,Downhill
+2010-11-27,Paolo Pangrazzi,IT,0,Combined
+2010-11-27,Andrej Sporn,SK,18,Downhill
+2010-11-27,Ivica Kostelic,HR,24,Slalom
+2010-11-27,Christian Spescha,CH,0,Combined
+2010-11-27,Jan Hudec,CA,24,Downhill
+2010-11-27,Frederik Van Buynder,BE,0,Combined
+2010-11-27,Beat Feuz,CH,13,Downhill
+2010-11-27,Espen Lysdahl,NO,0,Combined
+2010-12-18,Manuel Osborne-Paradis,CA,52,Downhill
+2010-12-18,Brice Roger,FR,0,Combined
+2010-12-18,Ambrosi Hoffmann,CH,8,Downhill
+2010-12-18,Kevin Esteve Rigail,AD,0,Combined
+2010-12-18,Hagen Patscheider,IT,0,Downhill
+2010-12-18,Andy Plank,IT,0,Combined
+2010-12-18,Paolo Pangrazzi,IT,0,Combined
+2010-12-18,Michal Klusak,PL,0,Combined
+2010-12-18,Andrej Sporn,SK,19,Downhill
+2010-12-18,Christof Innerhofer,IT,17,Downhill
+2010-12-18,Matthias Mayer,AT,0,Super G
+2010-12-18,Silvano Varettoni,IT,0,Combined
+2010-12-18,Bjoern Sieber,AT,0,Combined
+2010-12-18,Bernhard Graf,AT,0,Combined
+2010-12-18,Joachim Puchner,AT,12,Downhill
+2010-12-18,Patrik Jaerbyn,SE,36,Super G
+2010-12-18,Ryan Semple,CA,0,Combined
+2010-12-18,Espen Lysdahl,NO,0,Combined
+2010-12-18,Andreas Sander,DE,3,Downhill
+2010-12-18,Lars Elton Myhre,NO,0,Slalom
+2010-12-18,Daniel Ericsson,SE,0,Combined
+2010-12-18,Erik Guay,CA,29,Downhill
+2010-12-18,Wiley Maple,US,0,Combined
+2010-12-18,Johan Clarey,FR,45,Downhill
+2010-12-18,Stephan Keppler,DE,28,Super G
+2010-12-18,Marco Sullivan,US,0,Super G
+2010-12-18,Gauthier De Tessieres,FR,0,Giant Slalom
+2010-12-18,Didier Cuche,CH,89,Downhill
+2010-12-18,Yannick Bertrand,FR,16,Downhill
+2010-12-18,David Poisson,FR,0,Downhill
+2010-12-18,Dustin Cook,CA,0,Combined
+2010-12-18,Natko Zrncic-Dim,HR,10,Combined
+2010-12-18,Tin Siroki,HR,0,Combined
+2010-12-18,Will Brandenburg,US,0,Combined
+2010-12-18,Ted Ligety,US,0,Giant Slalom
+2010-12-18,Beat Feuz,CH,13,Downhill
+2010-12-18,Klaus Kroell,AT,90,Downhill
+2010-12-18,Steven Nyman,US,13,Downhill
+2010-12-18,Guillermo Fayed,FR,40,Downhill
+2010-12-18,Tobias Stechert,DE,12,Downhill
+2010-12-18,Louis-Pierre Helie,CA,20,Downhill
+2010-12-18,Silvan Zurbriggen,CH,150,Downhill
+2010-12-18,Ondrej Bank,CZ,0,Giant Slalom
+2010-12-18,Hans Grugger,AT,22,Downhill
+2010-12-18,Benjamin Thomsen,CA,15,Downhill
+2010-12-18,Michael Walchhofer,AT,145,Downhill
+2010-12-18,Marc Gisin,CH,11,Downhill
+2010-12-18,Peter Fill,IT,31,Downhill
+2010-12-18,Johannes Kroell,AT,0,Combined
+2010-12-18,Andreas Romar,FI,0,Combined
+2010-12-18,Hannes Reichelt,AT,0,Super G
+2010-12-18,Manuel Kramer,AT,0,Combined
+2010-12-18,Markus Duerager,AT,0,Combined
+2010-12-18,Bode Miller,US,46,Downhill
+2010-12-18,Christian Spescha,CH,0,Combined
+2010-12-18,Andreas Strodl,DE,6,Downhill
+2010-12-18,Kelby Halbert,CA,0,Combined
+2010-12-18,Robbie Dixon,CA,26,Super G
+2010-12-18,Alexandre Bouillot,FR,0,Combined
+2010-12-18,Tommy Ford,US,0,Super G
+2010-12-18,Romed Baumann,AT,80,Downhill
+2010-12-18,Petr Zahrobsky,CZ,0,Combined
+2010-12-18,Stephan Goergl,AT,0,Super G
+2010-12-18,Mario Scheiber,AT,80,Downhill
+2010-12-18,Werner Heel,IT,11,Super G
+2010-12-18,Hans Olsson,SE,18,Downhill
+2010-12-18,Thomas Biesemeyer,US,0,Combined
+2010-12-18,Benjamin Raich,AT,9,Super G
+2010-12-18,Aksel-Lund Svindal,NO,85,Giant Slalom
+2010-12-18,Sandro Viletta,CH,0,Giant Slalom
+2010-12-18,Kjetil Jansrud,NO,0,Giant Slalom
+2010-12-18,Adrien Theaux,FR,12,Downhill
+2010-12-18,Bostjan Kline,SK,0,Downhill
+2010-12-18,Carlo Janka,CH,65,Giant Slalom
+2010-12-29,Yannick Bertrand,FR,24,Downhill
+2010-12-29,Carlo Janka,CH,65,Giant Slalom
+2010-12-29,Mattia Casse,IT,0,Super G
+2010-12-29,Christian Spescha,CH,0,Combined
+2010-12-29,Stephan Keppler,DE,57,Super G
+2010-12-29,Patrik Jaerbyn,SE,36,Super G
+2010-12-29,Hans Grugger,AT,34,Downhill
+2010-12-29,Ondrej Bank,CZ,0,Giant Slalom
+2010-12-29,Louis-Pierre Helie,CA,20,Downhill
+2010-12-29,Tobias Stechert,DE,12,Downhill
+2010-12-29,Steven Nyman,US,37,Downhill
+2010-12-29,Ivica Kostelic,HR,24,Slalom
+2010-12-29,Ted Ligety,US,0,Giant Slalom
+2010-12-29,Travis Ganong,US,11,Downhill
+2010-12-29,Natko Zrncic-Dim,HR,14,Combined
+2010-12-29,Jan Hudec,CA,37,Downhill
+2010-12-29,David Poisson,FR,0,Downhill
+2010-12-29,Andreas Romar,FI,0,Combined
+2010-12-29,Hannes Reichelt,AT,0,Super G
+2010-12-29,Hagen Patscheider,IT,5,Downhill
+2010-12-29,Kjetil Jansrud,NO,0,Giant Slalom
+2010-12-29,Benjamin Raich,AT,9,Super G
+2010-12-29,Tobias Gruenenfelder,CH,12,Super G
+2010-12-29,Siegmar Klotz,IT,7,Combined
+2010-12-29,Robbie Dixon,CA,26,Super G
+2010-12-29,Andreas Strodl,DE,6,Downhill
+2010-12-29,Vitus Lueoend,CH,2,Downhill
+2010-12-29,Ambrosi Hoffmann,CH,14,Downhill
+2010-12-29,Erik Fisher,US,0,Downhill
+2010-12-29,Stephan Thanei,IT,4,Combined
+2010-12-29,Manuel Osborne-Paradis,CA,72,Downhill
+2010-12-29,Daniel Ericsson,SE,0,Combined
+2010-12-29,Matteo Marsaglia,IT,0,Combined
+2010-12-29,Espen Lysdahl,NO,0,Combined
+2010-12-29,Hans Olsson,SE,18,Downhill
+2010-12-29,Andreas Buder,AT,0,Combined
+2010-12-29,Marc Gisin,CH,26,Downhill
+2010-12-29,Romed Baumann,AT,106,Downhill
+2010-12-29,Lars Elton Myhre,NO,0,Slalom
+2010-12-29,Beat Feuz,CH,13,Downhill
+2010-12-29,Ferran Terra,ES,0,Combined
+2010-12-29,Bjoern Sieber,AT,0,Combined
+2010-12-29,Patrick Staudacher,IT,0,Super G
+2010-12-29,Erik Guay,CA,29,Downhill
+2010-12-29,Brice Roger,FR,0,Combined
+2010-12-29,Johannes Kroell,AT,0,Combined
+2010-12-29,Andrew Weibrecht,US,0,Combined
+2010-12-29,Dominik Paris,IT,16,Downhill
+2010-12-29,Manuel Kramer,AT,0,Combined
+2010-12-29,Will Brandenburg,US,0,Combined
+2010-12-29,Markus Duerager,AT,0,Combined
+2010-12-29,Bode Miller,US,78,Downhill
+2010-12-29,Klaus Kroell,AT,90,Downhill
+2010-12-29,Kelby Halbert,CA,0,Combined
+2010-12-29,Tin Siroki,HR,0,Combined
+2010-12-29,Tommy Ford,US,0,Super G
+2010-12-29,Mario Scheiber,AT,80,Downhill
+2010-12-29,Dustin Cook,CA,0,Combined
+2010-12-29,Stephan Goergl,AT,0,Super G
+2010-12-29,Thomas Biesemeyer,US,0,Combined
+2010-12-29,Sandro Viletta,CH,0,Giant Slalom
+2010-12-29,Aksel-Lund Svindal,NO,109,Giant Slalom
+2010-12-29,Gauthier De Tessieres,FR,0,Giant Slalom
+2010-12-29,Bostjan Kline,SK,0,Downhill
+2010-12-29,Didier Cuche,CH,99,Downhill
+2010-12-29,Adrien Theaux,FR,48,Downhill
+2010-12-29,Petr Zahrobsky,CZ,0,Combined
+2010-12-29,Patrick Kueng,CH,76,Downhill
+2010-12-29,Max Franz,AT,0,Combined
+2010-12-29,Marco Sullivan,US,0,Super G
+2010-12-29,Kevin Esteve Rigail,AD,0,Combined
+2010-12-29,Werner Heel,IT,12,Super G
+2010-12-29,Igor Zakurdaev,KZ,0,Combined
+2010-12-29,Edward Drake,GB,0,Combined
+2010-12-29,Ryan Semple,CA,0,Combined
+2010-12-29,Georg Streitberger,AT,63,Super G
+2010-12-29,Frederik Van Buynder,BE,0,Combined
+2010-12-29,Alexandre Pasquier,FR,0,Combined
+2010-12-29,Johan Clarey,FR,45,Downhill
+2010-12-29,Peter Fill,IT,49,Downhill
+2010-12-29,Christof Innerhofer,IT,77,Downhill
+2010-12-29,Bernhard Graf,AT,0,Combined
+2010-12-29,Jaroslav Babusiak,SK,0,Combined
+2010-12-29,Mirko Deflorian,MD,0,Combined
+2010-12-29,Michael Walchhofer,AT,245,Downhill
+2010-12-29,Silvan Zurbriggen,CH,230,Downhill
+2010-12-29,Matthias Mayer,AT,0,Super G
+2010-12-29,Ami Oreiller,CH,0,Combined
+2010-12-29,Andrej Sporn,SK,59,Downhill
+2010-12-29,Andrej Jerman,SK,20,Downhill
+2010-12-29,Paolo Pangrazzi,IT,0,Combined
+2010-12-29,Wiley Maple,US,0,Combined
+2010-12-29,Michal Klusak,PL,0,Combined
+2010-12-29,Maxence Muzaton,FR,0,Combined
+2011-01-15,Gauthier De Tessieres,FR,0,Giant Slalom
+2011-01-15,Marco Sullivan,US,0,Super G
+2011-01-15,Gasper Markic,SK,0,Downhill
+2011-01-15,Natko Zrncic-Dim,HR,14,Combined
+2011-01-15,Marc Gisin,CH,26,Downhill
+2011-01-15,Cornel Zueger,CH,1,Downhill
+2011-01-15,Hans Grugger,AT,48,Downhill
+2011-01-15,Travis Ganong,US,14,Downhill
+2011-01-15,Dustin Cook,CA,0,Combined
+2011-01-15,Ted Ligety,US,1,Giant Slalom
+2011-01-15,Alexandre Pasquier,FR,0,Combined
+2011-01-15,Will Brandenburg,US,0,Combined
+2011-01-15,Ami Oreiller,CH,0,Combined
+2011-01-15,Ondrej Bank,CZ,0,Giant Slalom
+2011-01-15,Tobias Stechert,DE,13,Downhill
+2011-01-15,Andrew Weibrecht,US,0,Combined
+2011-01-15,Max Franz,AT,0,Combined
+2011-01-15,Edward Drake,GB,0,Combined
+2011-01-15,Ferran Terra,ES,0,Combined
+2011-01-15,Andrej Krizaj,SK,0,Super G
+2011-01-15,Bostjan Kline,SK,0,Downhill
+2011-01-15,Ryan Semple,CA,0,Combined
+2011-01-15,Daniel Ericsson,SE,0,Combined
+2011-01-15,Matthias Mayer,AT,0,Super G
+2011-01-15,Bernhard Graf,AT,0,Combined
+2011-01-15,Espen Lysdahl,NO,0,Combined
+2011-01-15,Andy Plank,IT,0,Combined
+2011-01-15,Andreas Sander,DE,3,Downhill
+2011-01-15,Silvano Varettoni,IT,0,Combined
+2011-01-15,Igor Zakurdaev,KZ,0,Combined
+2011-01-15,Christian Spescha,CH,0,Combined
+2011-01-15,Jaroslav Babusiak,SK,0,Combined
+2011-01-15,Jonas Fravi,CH,0,Combined
+2011-01-15,Maxence Muzaton,FR,0,Combined
+2011-01-15,Mattia Casse,IT,0,Super G
+2011-01-15,Hagen Patscheider,IT,10,Downhill
+2011-01-15,Petr Zahrobsky,CZ,0,Combined
+2011-01-15,Lars Elton Myhre,NO,0,Slalom
+2011-01-15,Bjoern Sieber,AT,0,Combined
+2011-01-15,Sandro Viletta,CH,0,Giant Slalom
+2011-01-15,Thomas Biesemeyer,US,0,Combined
+2011-01-15,Stephan Goergl,AT,0,Super G
+2011-01-15,Benjamin Raich,AT,9,Super G
+2011-01-15,Tommy Ford,US,0,Super G
+2011-01-15,Tobias Gruenenfelder,CH,12,Super G
+2011-01-15,Erik Fisher,US,0,Downhill
+2011-01-15,Kelby Halbert,CA,0,Combined
+2011-01-15,Markus Duerager,AT,0,Combined
+2011-01-15,Andreas Strodl,DE,6,Downhill
+2011-01-15,Manuel Kramer,AT,0,Combined
+2011-01-15,Johannes Kroell,AT,0,Combined
+2011-01-15,Brice Roger,FR,0,Combined
+2011-01-15,Vitus Lueoend,CH,2,Downhill
+2011-01-15,Andreas Buder,AT,0,Combined
+2011-01-15,Alexandre Bouillot,FR,0,Combined
+2011-01-15,Siegmar Klotz,IT,11,Combined
+2011-01-15,Johan Clarey,FR,45,Downhill
+2011-01-15,Ivica Kostelic,HR,46,Slalom
+2011-01-15,Mario Scheiber,AT,109,Downhill
+2011-01-15,Romed Baumann,AT,146,Downhill
+2011-01-15,Bode Miller,US,110,Downhill
+2011-01-15,Dominik Paris,IT,22,Downhill
+2011-01-15,Erik Guay,CA,29,Downhill
+2011-01-15,Jan Hudec,CA,47,Downhill
+2011-01-15,Patrick Kueng,CH,76,Downhill
+2011-01-15,Andrej Jerman,SK,70,Downhill
+2011-01-15,Hannes Reichelt,AT,0,Super G
+2011-01-15,Andrej Sporn,SK,66,Downhill
+2011-01-15,Christof Innerhofer,IT,113,Downhill
+2011-01-15,Hans Olsson,SE,44,Downhill
+2011-01-15,Georg Streitberger,AT,78,Super G
+2011-01-15,Werner Heel,IT,57,Super G
+2011-01-15,Peter Fill,IT,61,Downhill
+2011-01-15,Guillermo Fayed,FR,51,Downhill
+2011-01-15,Robbie Dixon,CA,26,Super G
+2011-01-15,Yannick Bertrand,FR,26,Downhill
+2011-01-15,Carlo Janka,CH,125,Giant Slalom
+2011-01-15,Patrik Jaerbyn,SE,36,Super G
+2011-01-15,Manuel Osborne-Paradis,CA,80,Downhill
+2011-01-15,Stephan Keppler,DE,57,Super G
+2011-01-15,Aksel-Lund Svindal,NO,125,Giant Slalom
+2011-01-15,Adrien Theaux,FR,68,Downhill
+2011-01-15,Joachim Puchner,AT,21,Downhill
+2011-01-15,Steven Nyman,US,37,Downhill
+2011-01-15,Michael Walchhofer,AT,269,Downhill
+2011-01-15,Benjamin Thomsen,CA,15,Downhill
+2011-01-15,Silvan Zurbriggen,CH,250,Downhill
+2011-01-15,Klaus Kroell,AT,190,Downhill
+2011-01-15,Didier Cuche,CH,179,Downhill
+2011-01-15,Louis-Pierre Helie,CA,20,Downhill
+2011-01-15,Ambrosi Hoffmann,CH,27,Downhill
+2011-01-15,Beat Feuz,CH,13,Downhill
+2011-01-22,Mario Scheiber,AT,159,Downhill
+2011-01-22,Andreas Buder,AT,0,Combined
+2011-01-22,Guillermo Fayed,FR,53,Downhill
+2011-01-22,Aksel-Lund Svindal,NO,139,Giant Slalom
+2011-01-22,Max Franz,AT,0,Combined
+2011-01-22,Maxence Muzaton,FR,0,Combined
+2011-01-22,Peter Fill,IT,106,Downhill
+2011-01-22,Frederik Van Buynder,BE,0,Combined
+2011-01-22,Jaroslav Babusiak,SK,0,Combined
+2011-01-22,Silvan Zurbriggen,CH,270,Downhill
+2011-01-22,Igor Zakurdaev,KZ,0,Combined
+2011-01-22,Ferran Terra,ES,0,Combined
+2011-01-22,Kevin Esteve Rigail,AD,0,Combined
+2011-01-22,Georg Streitberger,AT,102,Super G
+2011-01-22,Werner Heel,IT,93,Super G
+2011-01-22,Mattia Casse,IT,0,Super G
+2011-01-22,Ami Oreiller,CH,0,Combined
+2011-01-22,Michael Walchhofer,AT,269,Downhill
+2011-01-22,Edward Drake,GB,0,Combined
+2011-01-22,Erik Fisher,US,0,Downhill
+2011-01-22,Manuel Osborne-Paradis,CA,80,Downhill
+2011-01-22,Sandro Viletta,CH,0,Giant Slalom
+2011-01-22,Matteo Marsaglia,IT,1,Combined
+2011-01-22,Daniel Ericsson,SE,0,Combined
+2011-01-22,Silvano Varettoni,IT,0,Combined
+2011-01-22,Patrik Jaerbyn,SE,36,Super G
+2011-01-22,Adrien Theaux,FR,128,Downhill
+2011-01-22,Alexandre Pasquier,FR,0,Combined
+2011-01-22,Carlo Janka,CH,136,Giant Slalom
+2011-01-22,Christian Spescha,CH,0,Combined
+2011-01-22,Yannick Bertrand,FR,42,Downhill
+2011-01-22,Jonas Fravi,CH,0,Combined
+2011-01-22,Espen Lysdahl,NO,0,Combined
+2011-01-22,Johan Clarey,FR,52,Downhill
+2011-01-22,Patrick Staudacher,IT,0,Super G
+2011-01-22,Andy Plank,IT,0,Combined
+2011-01-22,Erik Guay,CA,44,Downhill
+2011-01-22,Brice Roger,FR,0,Combined
+2011-01-22,Dominik Paris,IT,28,Downhill
+2011-01-22,Petr Zahrobsky,CZ,0,Combined
+2011-01-22,Johannes Kroell,AT,0,Combined
+2011-01-22,Manuel Kramer,AT,0,Combined
+2011-01-22,Bjoern Sieber,AT,0,Combined
+2011-01-22,Gauthier De Tessieres,FR,0,Giant Slalom
+2011-01-22,Markus Duerager,AT,0,Combined
+2011-01-22,Romed Baumann,AT,172,Downhill
+2011-01-22,Kelby Halbert,CA,0,Combined
+2011-01-22,Marco Sullivan,US,0,Super G
+2011-01-22,Tommy Ford,US,0,Super G
+2011-01-22,Beat Feuz,CH,26,Downhill
+2011-01-22,Bode Miller,US,190,Downhill
+2011-01-22,Stephan Goergl,AT,0,Super G
+2011-01-22,Ambrosi Hoffmann,CH,59,Downhill
+2011-01-22,Lars Elton Myhre,NO,0,Slalom
+2011-01-22,Andrew Weibrecht,US,0,Combined
+2011-01-22,Christof Innerhofer,IT,153,Downhill
+2011-01-22,Bostjan Kline,SK,0,Downhill
+2011-01-22,Thomas Biesemeyer,US,0,Combined
+2011-01-22,Will Brandenburg,US,0,Combined
+2011-01-22,Andrej Sporn,SK,84,Downhill
+2011-01-22,Dustin Cook,CA,0,Combined
+2011-01-22,Matthias Mayer,AT,0,Super G
+2011-01-22,Wiley Maple,US,0,Combined
+2011-01-22,Klaus Kroell,AT,219,Downhill
+2011-01-22,Didier Cuche,CH,279,Downhill
+2011-01-22,Michal Klusak,PL,0,Combined
+2011-01-22,Patrick Kueng,CH,85,Downhill
+2011-01-22,Joachim Puchner,AT,21,Downhill
+2011-01-22,Andrej Jerman,SK,78,Downhill
+2011-01-22,Bernhard Graf,AT,0,Combined
+2011-01-22,Benjamin Thomsen,CA,20,Downhill
+2011-01-22,Hans Grugger,AT,48,Downhill
+2011-01-22,Travis Ganong,US,17,Downhill
+2011-01-22,Stephan Keppler,DE,57,Super G
+2011-01-22,Andreas Strodl,DE,6,Downhill
+2011-01-22,Robbie Dixon,CA,26,Super G
+2011-01-22,Louis-Pierre Helie,CA,20,Downhill
+2011-01-22,Jan Hudec,CA,47,Downhill
+2011-01-22,Natko Zrncic-Dim,HR,14,Combined
+2011-01-22,David Poisson,FR,10,Downhill
+2011-01-22,Rok Perko,SK,0,Downhill
+2011-01-22,Ted Ligety,US,5,Giant Slalom
+2011-01-22,Benjamin Raich,AT,9,Super G
+2011-01-22,Ivica Kostelic,HR,70,Slalom
+2011-01-22,Hannes Reichelt,AT,12,Super G
+2011-01-22,Tobias Stechert,DE,13,Downhill
+2011-01-22,Andreas Romar,FI,0,Combined
+2011-01-22,Siegmar Klotz,IT,11,Combined
+2011-01-29,Stephan Goergl,AT,0,Super G
+2011-01-29,Aksel-Lund Svindal,NO,157,Giant Slalom
+2011-01-29,Romed Baumann,AT,201,Downhill
+2011-01-29,Ted Ligety,US,5,Giant Slalom
+2011-01-29,Maxence Muzaton,FR,0,Combined
+2011-01-29,Kelby Halbert,CA,0,Combined
+2011-01-29,Yannick Bertrand,FR,82,Downhill
+2011-01-29,Thomas Biesemeyer,US,0,Combined
+2011-01-29,Peter Fill,IT,108,Downhill
+2011-01-29,Andreas Buder,AT,0,Combined
+2011-01-29,Ivica Kostelic,HR,73,Slalom
+2011-01-29,Tommy Ford,US,0,Super G
+2011-01-29,Mirko Deflorian,MD,0,Combined
+2011-01-29,Bernhard Graf,AT,0,Combined
+2011-01-29,Markus Duerager,AT,0,Combined
+2011-01-29,Mario Scheiber,AT,159,Downhill
+2011-01-29,Rok Perko,SK,0,Downhill
+2011-01-29,Guillermo Fayed,FR,57,Downhill
+2011-01-29,Gasper Markic,SK,22,Downhill
+2011-01-29,Bode Miller,US,190,Downhill
+2011-01-29,Sandro Viletta,CH,0,Giant Slalom
+2011-01-29,Andy Plank,IT,0,Combined
+2011-01-29,Christof Innerhofer,IT,167,Downhill
+2011-01-29,Matthias Mayer,AT,0,Super G
+2011-01-29,Johan Clarey,FR,84,Downhill
+2011-01-29,Andrej Sporn,SK,108,Downhill
+2011-01-29,Alexandre Bouillot,FR,0,Combined
+2011-01-29,Andrej Jerman,SK,98,Downhill
+2011-01-29,Andreas Romar,FI,10,Combined
+2011-01-29,Silvano Varettoni,IT,0,Combined
+2011-01-29,Patrick Kueng,CH,97,Downhill
+2011-01-29,Robbie Dixon,CA,26,Super G
+2011-01-29,Benjamin Raich,AT,9,Super G
+2011-01-29,Georg Streitberger,AT,102,Super G
+2011-01-29,Joachim Puchner,AT,71,Downhill
+2011-01-29,Igor Zakurdaev,KZ,0,Combined
+2011-01-29,Erik Guay,CA,56,Downhill
+2011-01-29,Jan Hudec,CA,47,Downhill
+2011-01-29,Johannes Kroell,AT,0,Combined
+2011-01-29,Jaroslav Babusiak,SK,0,Combined
+2011-01-29,Dominik Paris,IT,108,Downhill
+2011-01-29,Werner Heel,IT,102,Super G
+2011-01-29,Manuel Kramer,AT,0,Combined
+2011-01-29,Ryan Semple,CA,0,Combined
+2011-01-29,Mattia Casse,IT,0,Super G
+2011-01-29,Tobias Stechert,DE,18,Downhill
+2011-01-29,Daniel Ericsson,SE,0,Combined
+2011-01-29,Louis-Pierre Helie,CA,20,Downhill
+2011-01-29,Hagen Patscheider,IT,10,Downhill
+2011-01-29,Patrik Jaerbyn,SE,43,Super G
+2011-01-29,Stephan Keppler,DE,57,Super G
+2011-01-29,Dustin Cook,CA,0,Combined
+2011-01-29,Klaus Kroell,AT,279,Downhill
+2011-01-29,Espen Lysdahl,NO,0,Combined
+2011-01-29,Matteo Marsaglia,IT,9,Combined
+2011-01-29,Andreas Strodl,DE,6,Downhill
+2011-01-29,Andrew Weibrecht,US,0,Combined
+2011-01-29,Hans Grugger,AT,48,Downhill
+2011-01-29,Andreas Sander,DE,4,Downhill
+2011-01-29,Silvan Zurbriggen,CH,285,Downhill
+2011-01-29,Ferran Terra,ES,0,Combined
+2011-01-29,Manuel Osborne-Paradis,CA,80,Downhill
+2011-01-29,Vitus Lueoend,CH,8,Downhill
+2011-01-29,Marc Gisin,CH,42,Downhill
+2011-01-29,Alexandre Pasquier,FR,0,Combined
+2011-01-29,Michael Walchhofer,AT,314,Downhill
+2011-01-29,Didier Cuche,CH,379,Downhill
+2011-01-29,Carlo Janka,CH,136,Giant Slalom
+2011-01-29,Hannes Reichelt,AT,38,Super G
+2011-01-29,Marco Sullivan,US,0,Super G
+2011-01-29,Steven Nyman,US,37,Downhill
+2011-01-29,Gauthier De Tessieres,FR,0,Giant Slalom
+2011-01-29,Petr Zahrobsky,CZ,0,Combined
+2011-01-29,Jonas Fravi,CH,0,Combined
+2011-01-29,Christian Spescha,CH,0,Combined
+2011-01-29,Beat Feuz,CH,62,Downhill
+2011-01-29,Siegmar Klotz,IT,11,Combined
+2011-01-29,Bostjan Kline,SK,0,Downhill
+2011-01-29,Cornel Zueger,CH,14,Downhill
+2011-03-11,Michal Klusak,PL,0,Combined
+2011-03-11,Gauthier De Tessieres,FR,0,Giant Slalom
+2011-03-11,Hannes Reichelt,AT,39,Super G
+2011-03-11,Max Franz,AT,0,Combined
+2011-03-11,Louis-Pierre Helie,CA,20,Downhill
+2011-03-11,Silvan Zurbriggen,CH,303,Downhill
+2011-03-11,Vitus Lueoend,CH,8,Downhill
+2011-03-11,Ferran Terra,ES,0,Combined
+2011-03-11,Michael Walchhofer,AT,374,Downhill
+2011-03-11,Andrej Jerman,SK,127,Downhill
+2011-03-11,Paolo Pangrazzi,IT,0,Combined
+2011-03-11,Ami Oreiller,CH,0,Combined
+2011-03-11,Tobias Stechert,DE,18,Downhill
+2011-03-11,Matthias Mayer,AT,0,Super G
+2011-03-11,Alexandre Pasquier,FR,0,Combined
+2011-03-11,Steven Nyman,US,43,Downhill
+2011-03-11,Kjetil Jansrud,NO,10,Giant Slalom
+2011-03-11,Marc Gisin,CH,53,Downhill
+2011-03-11,Edward Drake,GB,0,Combined
+2011-03-11,Andrej Sporn,SK,130,Downhill
+2011-03-11,Bernhard Graf,AT,0,Combined
+2011-03-11,Benjamin Thomsen,CA,33,Downhill
+2011-03-11,Ryan Semple,CA,0,Combined
+2011-03-11,Thomas Biesemeyer,US,0,Combined
+2011-03-11,Jan Hudec,CA,73,Downhill
+2011-03-11,Ivica Kostelic,HR,80,Slalom
+2011-03-11,Didier Cuche,CH,424,Downhill
+2011-03-11,Mario Scheiber,AT,159,Downhill
+2011-03-11,Beat Feuz,CH,162,Downhill
+2011-03-11,Marco Sullivan,US,0,Super G
+2011-03-11,Tin Siroki,HR,0,Combined
+2011-03-11,Ondrej Bank,CZ,14,Giant Slalom
+2011-03-11,Bode Miller,US,190,Downhill
+2011-03-11,Klaus Kroell,AT,315,Downhill
+2011-03-11,Travis Ganong,US,17,Downhill
+2011-03-11,Will Brandenburg,US,0,Combined
+2011-03-11,Joachim Puchner,AT,87,Downhill
+2011-03-11,Hans Grugger,AT,48,Downhill
+2011-03-11,Dominik Paris,IT,108,Downhill
+2011-03-11,Erik Guay,CA,136,Downhill
+2011-03-11,Brice Roger,FR,0,Combined
+2011-03-11,Stephan Goergl,AT,0,Super G
+2011-03-11,Andrew Weibrecht,US,0,Combined
+2011-03-11,Aksel-Lund Svindal,NO,160,Giant Slalom
+2011-03-11,Patrick Staudacher,IT,0,Super G
+2011-03-11,Bjoern Sieber,AT,0,Combined
+2011-03-11,Petr Zahrobsky,CZ,0,Combined
+2011-03-11,Romed Baumann,AT,251,Downhill
+2011-03-11,Lars Elton Myhre,NO,0,Slalom
+2011-03-11,Sandro Viletta,CH,0,Giant Slalom
+2011-03-11,Adrien Theaux,FR,141,Downhill
+2011-03-11,Patrick Kueng,CH,129,Downhill
+2011-03-11,Tobias Gruenenfelder,CH,21,Super G
+2011-03-11,Ambrosi Hoffmann,CH,61,Downhill
+2011-03-11,Andreas Buder,AT,0,Combined
+2011-03-11,Espen Lysdahl,NO,0,Combined
+2011-03-11,Silvano Varettoni,IT,0,Combined
+2011-03-11,Guillermo Fayed,FR,97,Downhill
+2011-03-11,Mirko Deflorian,MD,0,Combined
+2011-03-11,Kevin Esteve Rigail,AD,0,Combined
+2011-03-11,Benjamin Raich,AT,9,Super G
+2011-03-11,Stephan Thanei,IT,4,Combined
+2011-03-11,Georg Streitberger,AT,102,Super G
+2011-03-11,Rok Perko,SK,8,Downhill
+2011-03-11,Andreas Strodl,DE,6,Downhill
+2011-03-11,Igor Zakurdaev,KZ,0,Combined
+2011-03-11,Frederik Van Buynder,BE,0,Combined
+2011-03-11,Robbie Dixon,CA,26,Super G
+2011-03-11,Manuel Osborne-Paradis,CA,80,Downhill
+2011-03-11,Andreas Sander,DE,4,Downhill
+2011-03-11,Johan Clarey,FR,104,Downhill
+2011-03-11,Mattia Casse,IT,0,Super G
+2011-03-11,Andrej Krizaj,SK,0,Super G
+2011-03-11,Jaroslav Babusiak,SK,0,Combined
+2011-03-11,Alexandre Bouillot,FR,0,Combined
+2011-03-11,Christian Spescha,CH,0,Combined
+2011-03-11,Erik Fisher,US,4,Downhill
+2011-03-11,Christof Innerhofer,IT,172,Downhill
+2011-03-11,Yannick Bertrand,FR,97,Downhill
+2011-03-11,Jonas Fravi,CH,0,Combined
+2011-03-11,Andy Plank,IT,0,Combined
+2011-03-11,Carlo Janka,CH,160,Giant Slalom
+2011-03-12,Jonas Fravi,CH,0,Combined
+2011-03-12,Maxence Muzaton,FR,0,Combined
+2011-03-12,Ivica Kostelic,HR,90,Slalom
+2011-03-12,Romed Baumann,AT,269,Downhill
+2011-03-12,Andrew Weibrecht,US,0,Combined
+2011-03-12,Markus Duerager,AT,0,Combined
+2011-03-12,Frederik Van Buynder,BE,0,Combined
+2011-03-12,Jan Hudec,CA,89,Downhill
+2011-03-12,Andreas Strodl,DE,6,Downhill
+2011-03-12,Manuel Kramer,AT,0,Combined
+2011-03-12,Patrick Staudacher,IT,0,Super G
+2011-03-12,Carlo Janka,CH,200,Giant Slalom
+2011-03-12,Christian Spescha,CH,0,Combined
+2011-03-12,Bode Miller,US,190,Downhill
+2011-03-12,Marco Sullivan,US,0,Super G
+2011-03-12,Petr Zahrobsky,CZ,0,Combined
+2011-03-12,Beat Feuz,CH,222,Downhill
+2011-03-12,Mattia Casse,IT,0,Super G
+2011-03-12,Peter Fill,IT,117,Downhill
+2011-03-12,Ondrej Bank,CZ,21,Giant Slalom
+2011-03-12,Tobias Stechert,DE,18,Downhill
+2011-03-12,Espen Lysdahl,NO,0,Combined
+2011-03-12,Thomas Biesemeyer,US,0,Combined
+2011-03-12,Tin Siroki,HR,0,Combined
+2011-03-12,Rok Perko,SK,8,Downhill
+2011-03-12,Steven Nyman,US,54,Downhill
+2011-03-12,Andreas Buder,AT,0,Combined
+2011-03-12,Adrien Theaux,FR,165,Downhill
+2011-03-12,Daniel Ericsson,SE,0,Combined
+2011-03-12,Matteo Marsaglia,IT,45,Combined
+2011-03-12,Andrej Krizaj,SK,0,Super G
+2011-03-12,Will Brandenburg,US,0,Combined
+2011-03-12,Yannick Bertrand,FR,110,Downhill
+2011-03-12,Patrik Jaerbyn,SE,51,Super G
+2011-03-12,Mirko Deflorian,MD,0,Combined
+2011-03-12,Mario Scheiber,AT,159,Downhill
+2011-03-12,Klaus Kroell,AT,395,Downhill
+2011-03-12,Hans Grugger,AT,48,Downhill
+2011-03-12,Sandro Viletta,CH,0,Giant Slalom
+2011-03-12,Silvan Zurbriggen,CH,305,Downhill
+2011-03-12,Stephan Keppler,DE,57,Super G
+2011-03-12,Didier Cuche,CH,460,Downhill
+2011-03-12,Travis Ganong,US,17,Downhill
+2011-03-12,Paolo Pangrazzi,IT,0,Combined
+2011-03-12,Patrick Kueng,CH,174,Downhill
+2011-03-12,Ryan Semple,CA,0,Combined
+2011-03-12,Kevin Esteve Rigail,AD,0,Combined
+2011-03-12,Ami Oreiller,CH,0,Combined
+2011-03-12,Kjetil Jansrud,NO,14,Giant Slalom
+2011-03-12,Hans Olsson,SE,56,Downhill
+2011-03-12,Vitus Lueoend,CH,9,Downhill
+2011-03-12,Johan Clarey,FR,120,Downhill
+2011-03-12,Joachim Puchner,AT,93,Downhill
+2011-03-12,Matthias Mayer,AT,0,Super G
+2011-03-12,Michal Klusak,PL,0,Combined
+2011-03-12,Silvano Varettoni,IT,0,Combined
+2011-03-12,Alexandre Bouillot,FR,0,Combined
+2011-03-12,Andreas Romar,FI,14,Combined
+2011-03-12,Andrej Sporn,SK,180,Downhill
+2011-03-12,Ambrosi Hoffmann,CH,87,Downhill
+2011-03-12,Marc Gisin,CH,67,Downhill
+2011-03-12,Alexandre Pasquier,FR,0,Combined
+2011-03-12,Andrej Jerman,SK,156,Downhill
+2011-03-12,Erik Fisher,US,10,Downhill
+2011-03-12,Benjamin Raich,AT,9,Super G
+2011-03-12,Edward Drake,GB,0,Combined
+2011-03-12,Andy Plank,IT,0,Combined
+2011-03-12,Andreas Sander,DE,4,Downhill
+2011-03-12,Gasper Markic,SK,22,Downhill
+2011-03-12,Jaroslav Babusiak,SK,0,Combined
+2011-03-12,Ferran Terra,ES,0,Combined
+2011-03-12,Brice Roger,FR,0,Combined
+2011-03-12,Robbie Dixon,CA,26,Super G
+2011-03-12,Christof Innerhofer,IT,192,Downhill
+2011-03-12,Manuel Osborne-Paradis,CA,80,Downhill
+2011-03-12,Georg Streitberger,AT,102,Super G
+2011-03-12,Lars Elton Myhre,NO,0,Slalom
+2011-03-12,Michael Walchhofer,AT,474,Downhill
+2011-03-12,Bernhard Graf,AT,0,Combined
+2011-03-12,Louis-Pierre Helie,CA,20,Downhill
+2011-03-12,Bjoern Sieber,AT,0,Combined
+2011-03-12,Igor Zakurdaev,KZ,0,Combined
+2011-03-12,Stephan Thanei,IT,4,Combined
+2011-03-12,Erik Guay,CA,158,Downhill
+2011-03-16,Ondrej Bank,CZ,21,Giant Slalom
+2011-03-16,Carlo Janka,CH,226,Giant Slalom
+2011-03-16,Didier Cuche,CH,510,Downhill
+2011-03-16,Gauthier De Tessieres,FR,0,Giant Slalom
+2011-03-16,Stephan Keppler,DE,57,Super G
+2011-03-16,Espen Lysdahl,NO,0,Combined
+2011-03-16,Edward Drake,GB,0,Combined
+2011-03-16,Hagen Patscheider,IT,10,Downhill
+2011-03-16,Dustin Cook,CA,0,Combined
+2011-03-16,Patrik Jaerbyn,SE,51,Super G
+2011-03-16,Alexandre Pasquier,FR,0,Combined
+2011-03-16,Patrick Staudacher,IT,0,Super G
+2011-03-16,Andreas Strodl,DE,6,Downhill
+2011-03-16,Ferran Terra,ES,0,Combined
+2011-03-16,Stephan Thanei,IT,4,Combined
+2011-03-16,Silvan Zurbriggen,CH,305,Downhill
+2011-03-16,Andrew Weibrecht,US,0,Combined
+2011-03-16,Matteo Marsaglia,IT,45,Combined
+2011-03-16,Max Franz,AT,0,Combined
+2011-03-16,Louis-Pierre Helie,CA,20,Downhill
+2011-03-16,Manuel Osborne-Paradis,CA,80,Downhill
+2011-03-16,Erik Fisher,US,10,Downhill
+2011-03-16,Will Brandenburg,US,0,Combined
+2011-03-16,Daniel Ericsson,SE,0,Combined
+2011-03-16,Ami Oreiller,CH,0,Combined
+2011-03-16,Hans Grugger,AT,48,Downhill
+2011-03-16,Ambrosi Hoffmann,CH,87,Downhill
+2011-03-16,Andreas Sander,DE,4,Downhill
+2011-03-16,Michael Walchhofer,AT,498,Downhill
+2011-03-16,Tin Siroki,HR,0,Combined
+2011-03-16,Marc Gisin,CH,67,Downhill
+2011-03-16,Klaus Kroell,AT,411,Downhill
+2011-03-16,Benjamin Thomsen,CA,33,Downhill
+2011-03-16,Christof Innerhofer,IT,242,Downhill
+2011-03-16,Stephan Goergl,AT,0,Super G
+2011-03-16,Marco Sullivan,US,0,Super G
+2011-03-16,David Poisson,FR,10,Downhill
+2011-03-16,Lars Elton Myhre,NO,0,Slalom
+2011-03-16,Igor Zakurdaev,KZ,0,Combined
+2011-03-16,Joachim Puchner,AT,173,Downhill
+2011-03-16,Natko Zrncic-Dim,HR,14,Combined
+2011-03-16,Bjoern Sieber,AT,0,Combined
+2011-03-16,Ryan Semple,CA,0,Combined
+2011-03-16,Benjamin Raich,AT,9,Super G
+2011-03-16,Georg Streitberger,AT,102,Super G
+2011-03-16,Brice Roger,FR,0,Combined
+2011-03-16,Jaroslav Babusiak,SK,0,Combined
+2011-03-16,Jan Hudec,CA,89,Downhill
+2011-03-16,Travis Ganong,US,17,Downhill
+2011-03-16,Johannes Kroell,AT,0,Combined
+2011-03-16,Erik Guay,CA,178,Downhill
+2011-03-16,Dominik Paris,IT,126,Downhill
+2011-03-16,Kevin Esteve Rigail,AD,0,Combined
+2011-03-16,Johan Clarey,FR,142,Downhill
+2011-03-16,Hans Olsson,SE,56,Downhill
+2011-03-16,Andy Plank,IT,0,Combined
+2011-03-16,Bernhard Graf,AT,0,Combined
+2011-03-16,Andrej Sporn,SK,180,Downhill
+2011-03-16,Alexandre Bouillot,FR,0,Combined
+2011-03-16,Matthias Mayer,AT,0,Super G
+2011-03-16,Patrick Kueng,CH,210,Downhill
+2011-03-16,Andrej Jerman,SK,156,Downhill
+2011-03-16,Andreas Romar,FI,14,Combined
+2011-03-16,Robbie Dixon,CA,26,Super G
+2011-03-16,Wiley Maple,US,0,Combined
+2011-03-16,Hannes Reichelt,AT,39,Super G
+2011-03-16,Silvano Varettoni,IT,0,Combined
+2011-03-16,Michal Klusak,PL,0,Combined
+2011-03-16,Paolo Pangrazzi,IT,0,Combined
+2011-03-16,Siegmar Klotz,IT,11,Combined
+2011-03-16,Bode Miller,US,190,Downhill
+2011-03-16,Manuel Kramer,AT,0,Combined
+2011-03-16,Thomas Biesemeyer,US,0,Combined
+2011-03-16,Yannick Bertrand,FR,139,Downhill
+2011-03-16,Mattia Casse,IT,0,Super G
+2011-03-16,Rok Perko,SK,8,Downhill
+2011-03-16,Sandro Viletta,CH,0,Giant Slalom
+2011-03-16,Gasper Markic,SK,22,Downhill
+2011-03-16,Guillermo Fayed,FR,97,Downhill
+2011-03-16,Bostjan Kline,SK,16,Downhill
+2011-03-16,Jonas Fravi,CH,0,Combined
+2011-03-16,Cornel Zueger,CH,14,Downhill
+2011-03-16,Petr Zahrobsky,CZ,0,Combined
+2011-03-16,Steven Nyman,US,54,Downhill
+2011-03-16,Beat Feuz,CH,254,Downhill
+2011-03-16,Christian Spescha,CH,0,Combined
+2011-03-16,Adrien Theaux,FR,265,Downhill
+2011-03-16,Werner Heel,IT,118,Super G
+2011-03-16,Tobias Stechert,DE,18,Downhill
+2011-03-16,Kjetil Jansrud,NO,14,Giant Slalom
+2011-03-16,Frederik Van Buynder,BE,0,Combined
+2011-03-16,Tobias Gruenenfelder,CH,21,Super G
+2011-03-16,Peter Fill,IT,157,Downhill
+2011-03-16,Markus Duerager,AT,0,Combined
+2011-03-16,Romed Baumann,AT,282,Downhill
+2011-03-16,Maxence Muzaton,FR,0,Combined
+2011-03-16,Aksel-Lund Svindal,NO,220,Giant Slalom
+2011-03-16,Kelby Halbert,CA,0,Combined
+2011-03-16,Mario Scheiber,AT,159,Downhill
+2011-03-16,Tommy Ford,US,0,Super G
+2011-03-16,Andrej Krizaj,SK,0,Super G
+2011-03-16,Ivica Kostelic,HR,90,Slalom
+2011-03-16,Ted Ligety,US,17,Giant Slalom
+2011-03-16,Andreas Buder,AT,0,Combined
+2011-03-16,Mirko Deflorian,MD,0,Combined
+2011-03-16,Vitus Lueoend,CH,9,Downhill

@@ -1,99 +1,99 @@
-date,name,ath_country,value
-2019-12-15,Petra Vlhova,SK,100
-2019-12-15,Wendy Holdener,CH,11
-2019-12-15,Sofia Goggia,IT,10
-2019-12-15,Mina Fuerst Holtmann,NO,9
-2019-12-15,Marlene Schmotz,DE,8
-2019-12-15,Nina O Brien,US,7
-2019-12-15,Martina Dubovska,CZ,5
-2019-12-15,Marusa Ferk,SK,5
-2019-12-15,Asa Ando,JP,3
-2019-12-15,Charlotte Guest,GB,2
-2019-12-15,Jessica Hilzinger,DE,1
-2019-12-15,Adriana Jelinkova,NL,1
-2019-12-15,Charlotte Chable,CH,1
-2019-12-15,Clara Direz,FR,0
-2019-12-15,Elisa Moerzinger,AT,0
-2019-12-15,Thea Louise Stjernesund,NO,0
-2019-12-15,Tina Robnik,SK,0
-2019-12-15,Mikaela Shiffrin,US,0
-2019-12-15,Lara Gut Behrami,CH,0
-2019-12-15,Laura Pirovano,IT,0
-2019-12-15,Coralie Frasse- Sombet,FR,0
-2019-12-15,Maria Therese Tviberg,NO,0
-2019-12-15,Katharina Huber,AT,0
-2019-12-15,Magdalena Fjaellstroem,SE,0
-2019-12-15,Patrizia Dorsch,DE,0
-2019-12-15,Andrea Ellenberger,CH,0
-2019-12-15,Kaja Norbye,NO,0
-2019-12-15,Viktoria Rebensburg,DE,0
-2019-12-15,Alice Robinson,NZ,0
-2019-12-15,Erin Mielzynski,CA,0
-2019-12-15,Sara Hector,SE,12
-2019-12-15,Katharina Liensberger,AT,13
-2019-12-15,Ekaterina Tkachenko,RU,6
-2019-12-15,Federica Brignone,IT,40
-2019-12-15,Christina Geiger Ackermann,DE,20
-2019-12-15,Anna Swenn-Larsson,SE,80
-2019-12-15,Katharina Truppe,AT,24
-2019-12-15,Kristin Anna Lysdahl,NO,26
-2019-12-15,Franziska Gritsch,AT,60
-2019-12-15,Marta Bassino,IT,18
-2019-12-15,Meta Hrovat,SK,50
-2019-12-15,Aline Danioth,CH,22
-2019-12-15,Lena Duerr,DE,16
-2019-12-15,Estelle Alphand,SE,29
-2019-12-15,Elena Stoffel,CH,14
-2019-12-15,Ana Bucik,SK,32
-2019-12-15,Irene Curtoni,IT,15
-2019-12-15,Laurence St-Germain,CA,45
-2019-12-15,Nina Loeseth,NO,36
-2020-01-19,Anna Swenn-Larsson,SE,80
-2020-01-19,Elisa Moerzinger,AT,80
-2020-01-19,Clara Direz,FR,100
-2020-01-19,Federica Brignone,IT,90
-2020-01-19,Marta Bassino,IT,78
-2020-01-19,Maria Therese Tviberg,NO,14
-2020-01-19,Sofia Goggia,IT,55
-2020-01-19,Nina Loeseth,NO,36
-2020-01-19,Ana Bucik,SK,32
-2020-01-19,Estelle Alphand,SE,29
-2020-01-19,Christina Geiger Ackermann,DE,20
-2020-01-19,Lena Duerr,DE,16
-2020-01-19,Irene Curtoni,IT,15
-2020-01-19,Elena Stoffel,CH,14
-2020-01-19,Marlene Schmotz,DE,8
-2020-01-19,Ekaterina Tkachenko,RU,6
-2020-01-19,Marusa Ferk,SK,5
-2020-01-19,Charlotte Guest,GB,2
-2020-01-19,Jessica Hilzinger,DE,1
-2020-01-19,Adriana Jelinkova,NL,1
-2020-01-19,Franziska Gritsch,AT,60
-2020-01-19,Laurence St-Germain,CA,45
-2020-01-19,Tina Robnik,SK,32
-2020-01-19,Thea Louise Stjernesund,NO,36
-2020-01-19,Coralie Frasse- Sombet,FR,15
-2020-01-19,Petra Vlhova,SK,113
-2020-01-19,Asa Ando,JP,15
-2020-01-19,Aline Danioth,CH,38
-2020-01-19,Katharina Huber,AT,11
-2020-01-19,Magdalena Fjaellstroem,SE,10
-2020-01-19,Laura Pirovano,IT,18
-2020-01-19,Patrizia Dorsch,DE,9
-2020-01-19,Meta Hrovat,SK,58
-2020-01-19,Lara Gut Behrami,CH,20
-2020-01-19,Andrea Ellenberger,CH,7
-2020-01-19,Charlotte Chable,CH,1
-2020-01-19,Kaja Norbye,NO,6
-2020-01-19,Sara Hector,SE,34
-2020-01-19,Viktoria Rebensburg,DE,5
-2020-01-19,Alice Robinson,NZ,3
-2020-01-19,Nina O Brien,US,31
-2020-01-19,Katharina Truppe,AT,26
-2020-01-19,Wendy Holdener,CH,37
-2020-01-19,Mina Fuerst Holtmann,NO,10
-2020-01-19,Martina Dubovska,CZ,6
-2020-01-19,Erin Mielzynski,CA,1
-2020-01-19,Mikaela Shiffrin,US,29
-2020-01-19,Kristin Anna Lysdahl,NO,66
-2020-01-19,Katharina Liensberger,AT,17
+date,name,ath_country,value,specialty
+2019-12-15,Petra Vlhova,SK,100,Slalom
+2019-12-15,Katharina Truppe,AT,24,Slalom
+2019-12-15,Nina O Brien,US,7,Parallel
+2019-12-15,Aline Danioth,CH,22,Slalom
+2019-12-15,Sara Hector,SE,12,Giant Slalom
+2019-12-15,Christina Geiger Ackermann,DE,20,Slalom
+2019-12-15,Lara Gut Behrami,CH,0,Downhill
+2019-12-15,Laura Pirovano,IT,0,Downhill
+2019-12-15,Lena Duerr,DE,16,Slalom
+2019-12-15,Irene Curtoni,IT,15,Slalom
+2019-12-15,Coralie Frasse- Sombet,FR,0,Giant Slalom
+2019-12-15,Elena Stoffel,CH,14,Slalom
+2019-12-15,Maria Therese Tviberg,NO,0,Giant Slalom
+2019-12-15,Katharina Liensberger,AT,13,Slalom
+2019-12-15,Asa Ando,JP,3,Slalom
+2019-12-15,Wendy Holdener,CH,11,Slalom
+2019-12-15,Katharina Huber,AT,0,Slalom
+2019-12-15,Mina Fuerst Holtmann,NO,9,Giant Slalom
+2019-12-15,Patrizia Dorsch,DE,0,Combined
+2019-12-15,Marlene Schmotz,DE,8,Slalom
+2019-12-15,Andrea Ellenberger,CH,0,Giant Slalom
+2019-12-15,Ekaterina Tkachenko,RU,6,Parallel
+2019-12-15,Kaja Norbye,NO,0,Giant Slalom
+2019-12-15,Martina Dubovska,CZ,5,Slalom
+2019-12-15,Marusa Ferk,SK,5,Combined
+2019-12-15,Viktoria Rebensburg,DE,0,Downhill
+2019-12-15,Alice Robinson,NZ,0,Giant Slalom
+2019-12-15,Charlotte Guest,GB,2,Parallel
+2019-12-15,Jessica Hilzinger,DE,1,Slalom
+2019-12-15,Adriana Jelinkova,NL,1,Parallel
+2019-12-15,Charlotte Chable,CH,1,Parallel
+2019-12-15,Magdalena Fjaellstroem,SE,0,Slalom
+2019-12-15,Mikaela Shiffrin,US,0,Slalom
+2019-12-15,Erin Mielzynski,CA,0,Slalom
+2019-12-15,Laurence St-Germain,CA,45,Slalom
+2019-12-15,Elisa Moerzinger,AT,0,Parallel
+2019-12-15,Nina Loeseth,NO,36,Slalom
+2019-12-15,Federica Brignone,IT,40,Giant Slalom
+2019-12-15,Sofia Goggia,IT,10,Super G
+2019-12-15,Thea Louise Stjernesund,NO,0,Giant Slalom
+2019-12-15,Anna Swenn-Larsson,SE,80,Slalom
+2019-12-15,Franziska Gritsch,AT,60,Combined
+2019-12-15,Ana Bucik,SK,32,Giant Slalom
+2019-12-15,Marta Bassino,IT,18,Giant Slalom
+2019-12-15,Tina Robnik,SK,0,Giant Slalom
+2019-12-15,Meta Hrovat,SK,50,Giant Slalom
+2019-12-15,Estelle Alphand,SE,29,Giant Slalom
+2019-12-15,Clara Direz,FR,0,Parallel
+2019-12-15,Kristin Anna Lysdahl,NO,26,Slalom
+2020-01-19,Marta Bassino,IT,78,Giant Slalom
+2020-01-19,Andrea Ellenberger,CH,7,Giant Slalom
+2020-01-19,Ekaterina Tkachenko,RU,6,Parallel
+2020-01-19,Marlene Schmotz,DE,8,Slalom
+2020-01-19,Kaja Norbye,NO,6,Giant Slalom
+2020-01-19,Franziska Gritsch,AT,60,Combined
+2020-01-19,Meta Hrovat,SK,58,Giant Slalom
+2020-01-19,Marusa Ferk,SK,5,Combined
+2020-01-19,Viktoria Rebensburg,DE,5,Downhill
+2020-01-19,Elisa Moerzinger,AT,80,Parallel
+2020-01-19,Alice Robinson,NZ,3,Giant Slalom
+2020-01-19,Anna Swenn-Larsson,SE,80,Slalom
+2020-01-19,Charlotte Guest,GB,2,Parallel
+2020-01-19,Jessica Hilzinger,DE,1,Slalom
+2020-01-19,Clara Direz,FR,100,Parallel
+2020-01-19,Adriana Jelinkova,NL,1,Parallel
+2020-01-19,Petra Vlhova,SK,113,Slalom
+2020-01-19,Charlotte Chable,CH,1,Parallel
+2020-01-19,Martina Dubovska,CZ,6,Slalom
+2020-01-19,Patrizia Dorsch,DE,9,Combined
+2020-01-19,Wendy Holdener,CH,37,Slalom
+2020-01-19,Federica Brignone,IT,90,Giant Slalom
+2020-01-19,Estelle Alphand,SE,29,Giant Slalom
+2020-01-19,Katharina Truppe,AT,26,Slalom
+2020-01-19,Nina O Brien,US,31,Parallel
+2020-01-19,Tina Robnik,SK,32,Giant Slalom
+2020-01-19,Aline Danioth,CH,38,Slalom
+2020-01-19,Sara Hector,SE,34,Giant Slalom
+2020-01-19,Ana Bucik,SK,32,Giant Slalom
+2020-01-19,Christina Geiger Ackermann,DE,20,Slalom
+2020-01-19,Lara Gut Behrami,CH,20,Downhill
+2020-01-19,Erin Mielzynski,CA,1,Slalom
+2020-01-19,Thea Louise Stjernesund,NO,36,Giant Slalom
+2020-01-19,Nina Loeseth,NO,36,Slalom
+2020-01-19,Lena Duerr,DE,16,Slalom
+2020-01-19,Irene Curtoni,IT,15,Slalom
+2020-01-19,Coralie Frasse- Sombet,FR,15,Giant Slalom
+2020-01-19,Kristin Anna Lysdahl,NO,66,Slalom
+2020-01-19,Elena Stoffel,CH,14,Slalom
+2020-01-19,Maria Therese Tviberg,NO,14,Giant Slalom
+2020-01-19,Sofia Goggia,IT,55,Super G
+2020-01-19,Katharina Liensberger,AT,17,Slalom
+2020-01-19,Asa Ando,JP,15,Slalom
+2020-01-19,Laurence St-Germain,CA,45,Slalom
+2020-01-19,Katharina Huber,AT,11,Slalom
+2020-01-19,Mikaela Shiffrin,US,29,Slalom
+2020-01-19,Magdalena Fjaellstroem,SE,10,Slalom
+2020-01-19,Mina Fuerst Holtmann,NO,10,Giant Slalom
+2020-01-19,Laura Pirovano,IT,18,Downhill

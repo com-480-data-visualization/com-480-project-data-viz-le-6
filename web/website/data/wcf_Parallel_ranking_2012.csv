@@ -1,17 +1,17 @@
-date,name,ath_country,value
-2012-02-21,Julia Mancuso,US,100
-2012-02-21,Michaela Kirchgasser,AT,80
-2012-02-21,Lindsey Vonn,US,60
-2012-02-21,Maria Riesch Hoefl,DE,50
-2012-02-21,Nicole Hosp,AT,45
-2012-02-21,Kathrin Zettel,AT,45
-2012-02-21,Tina Maze,SK,45
-2012-02-21,Marlies Schild,AT,45
-2012-02-21,Tessa Worley,FR,29
-2012-02-21,Viktoria Rebensburg,DE,29
-2012-02-21,Federica Brignone,IT,29
-2012-02-21,Anna Sorokina,RU,29
-2012-02-21,Anna Veith Fenninger,AT,29
-2012-02-21,Elisabeth Goergl,AT,29
-2012-02-21,Daniela Merighetti,IT,29
-2012-02-21,Anja Paerson,SE,29
+date,name,ath_country,value,specialty
+2012-02-21,Julia Mancuso,US,100,Super G
+2012-02-21,Michaela Kirchgasser,AT,80,Slalom
+2012-02-21,Lindsey Vonn,US,60,Downhill
+2012-02-21,Maria Riesch Hoefl,DE,50,Downhill
+2012-02-21,Nicole Hosp,AT,45,Super G
+2012-02-21,Kathrin Zettel,AT,45,Slalom
+2012-02-21,Tina Maze,SK,45,Slalom
+2012-02-21,Marlies Schild,AT,45,Slalom
+2012-02-21,Tessa Worley,FR,29,Giant Slalom
+2012-02-21,Viktoria Rebensburg,DE,29,Giant Slalom
+2012-02-21,Federica Brignone,IT,29,Giant Slalom
+2012-02-21,Anna Sorokina,RU,29,Parallel
+2012-02-21,Anna Veith Fenninger,AT,29,Giant Slalom
+2012-02-21,Elisabeth Goergl,AT,29,Downhill
+2012-02-21,Daniela Merighetti,IT,29,Downhill
+2012-02-21,Anja Paerson,SE,29,Super G

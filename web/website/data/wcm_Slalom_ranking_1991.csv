@@ -1,370 +1,370 @@
-date,name,ath_country,value
-1990-08-08,Peter Roth,DE,25
-1990-08-08,Christian Polig,IT,0
-1990-08-08,Stephan Eberharter,AT,0
-1990-08-08,Richard Pramotton,IT,0
-1990-08-08,Roberto Spampatti,IT,0
-1990-08-08,Kjetil Andre Aamodt,NO,0
-1990-08-08,Oliver Kuenzi,CH,0
-1990-08-08,Tetsuya Okabe,JP,0
-1990-08-08,Carlo Gerosa,IT,0
-1990-08-08,Heinz Peter Platter,IT,0
-1990-08-08,Thomas Stangassinger,AT,10
-1990-08-08,Patrice Bianchi,FR,0
-1990-08-08,Josef Polig,IT,0
-1990-08-08,Mats Ericson,SE,0
-1990-08-08,Finn Chr. Jagge,NO,0
-1990-08-08,Alain Feutrier,FR,0
-1990-08-08,Johan Wallner,SE,0
-1990-08-08,Hubert Strolz,AT,0
-1990-08-08,Guenther Mader,AT,0
-1990-08-08,Konrad  Kurt Ladstaetter,IT,9
-1990-08-08,Lasse Kjus,NO,0
-1990-08-08,Thomas Fogdoe,SE,0
-1990-08-08,Rudolph Nierlich,AT,0
-1990-08-08,Giovanni Moro,IT,1
-1990-08-08,Jonas Nilsson,SE,2
-1990-08-08,Ole Kristian Furuseth,NO,3
-1990-08-08,Bernhard Gstrein,AT,8
-1990-08-08,Michael von Gruenigen,CH,4
-1990-08-08,Alain Villiard,CA,5
-1990-08-08,Armin Bittner,DE,6
-1990-08-08,Harald Chr. Strand Nilsen,NO,0
-1990-08-08,Roger Pramotton,IT,0
-1990-08-08,Paul Accola,CH,11
-1990-08-08,Francois Simond,FR,0
-1990-08-08,Michael Tritscher,AT,20
-1990-08-08,Patrick Staub,CH,0
-1990-08-08,Alberto Tomba,IT,15
-1990-08-08,Fabio De Crignis,IT,12
-1990-08-08,Marc Girardelli,LU,7
-1990-08-08,Bernhard Bauer,DE,0
-1990-08-08,Christophe Berra,CH,0
-1990-12-11,Finn Chr. Jagge,NO,1
-1990-12-11,Stephan Eberharter,AT,0
-1990-12-11,Alain Feutrier,FR,2
-1990-12-11,Christian Polig,IT,0
-1990-12-11,Johan Wallner,SE,3
-1990-12-11,Richard Pramotton,IT,0
-1990-12-11,Fabio De Crignis,IT,12
-1990-12-11,Hubert Strolz,AT,4
-1990-12-11,Patrick Staub,CH,0
-1990-12-11,Guenther Mader,AT,5
-1990-12-11,Bernhard Bauer,DE,0
-1990-12-11,Konrad  Kurt Ladstaetter,IT,15
-1990-12-11,Christophe Berra,CH,0
-1990-12-11,Roger Pramotton,IT,0
-1990-12-11,Harald Chr. Strand Nilsen,NO,0
-1990-12-11,Roberto Spampatti,IT,0
-1990-12-11,Kjetil Andre Aamodt,NO,0
-1990-12-11,Oliver Kuenzi,CH,0
-1990-12-11,Carlo Gerosa,IT,0
-1990-12-11,Heinz Peter Platter,IT,0
-1990-12-11,Patrice Bianchi,FR,0
-1990-12-11,Josef Polig,IT,0
-1990-12-11,Mats Ericson,SE,0
-1990-12-11,Bernhard Gstrein,AT,15
-1990-12-11,Giovanni Moro,IT,1
-1990-12-11,Jonas Nilsson,SE,2
-1990-12-11,Michael von Gruenigen,CH,4
-1990-12-11,Alain Villiard,CA,5
-1990-12-11,Thomas Stangassinger,AT,10
-1990-12-11,Paul Accola,CH,11
-1990-12-11,Michael Tritscher,AT,20
-1990-12-11,Tetsuya Okabe,JP,0
-1990-12-11,Francois Simond,FR,0
-1990-12-11,Armin Bittner,DE,17
-1990-12-11,Marc Girardelli,LU,19
-1990-12-11,Thomas Fogdoe,SE,10
-1990-12-11,Rudolph Nierlich,AT,15
-1990-12-11,Lasse Kjus,NO,8
-1990-12-11,Ole Kristian Furuseth,NO,23
-1990-12-11,Peter Roth,DE,34
-1990-12-11,Alberto Tomba,IT,40
-1990-12-18,Lasse Kjus,NO,15
-1990-12-18,Guenther Mader,AT,5
-1990-12-18,Hubert Strolz,AT,4
-1990-12-18,Alain Feutrier,FR,2
-1990-12-18,Tetsuya Okabe,JP,0
-1990-12-18,Finn Chr. Jagge,NO,1
-1990-12-18,Rudolph Nierlich,AT,15
-1990-12-18,Oliver Kuenzi,CH,0
-1990-12-18,Kjetil Andre Aamodt,NO,0
-1990-12-18,Roberto Spampatti,IT,0
-1990-12-18,Richard Pramotton,IT,0
-1990-12-18,Paul Accola,CH,13
-1990-12-18,Giovanni Moro,IT,1
-1990-12-18,Carlo Gerosa,IT,1
-1990-12-18,Michael von Gruenigen,CH,4
-1990-12-18,Alain Villiard,CA,5
-1990-12-18,Armin Bittner,DE,17
-1990-12-18,Fabio De Crignis,IT,12
-1990-12-18,Alberto Tomba,IT,40
-1990-12-18,Peter Roth,DE,34
-1990-12-18,Ole Kristian Furuseth,NO,48
-1990-12-18,Josef Polig,IT,9
-1990-12-18,Mats Ericson,SE,9
-1990-12-18,Thomas Fogdoe,SE,30
-1990-12-18,Marc Girardelli,LU,34
-1990-12-18,Bernhard Gstrein,AT,25
-1990-12-18,Thomas Stangassinger,AT,22
-1990-12-18,Jonas Nilsson,SE,2
-1990-12-18,Heinz Peter Platter,IT,3
-1990-12-18,Stephan Eberharter,AT,0
-1990-12-18,Harald Chr. Strand Nilsen,NO,0
-1990-12-18,Konrad  Kurt Ladstaetter,IT,21
-1990-12-18,Christian Polig,IT,0
-1990-12-18,Patrice Bianchi,FR,5
-1990-12-18,Johan Wallner,SE,7
-1990-12-18,Michael Tritscher,AT,31
-1990-12-18,Roger Pramotton,IT,0
-1990-12-18,Bernhard Bauer,DE,0
-1990-12-18,Patrick Staub,CH,0
-1990-12-18,Christophe Berra,CH,0
-1990-12-18,Francois Simond,FR,0
-1990-12-22,Ole Kristian Furuseth,NO,73
-1990-12-22,Stephan Eberharter,AT,0
-1990-12-22,Christian Polig,IT,0
-1990-12-22,Thomas Fogdoe,SE,50
-1990-12-22,Harald Chr. Strand Nilsen,NO,0
-1990-12-22,Peter Roth,DE,34
-1990-12-22,Francois Simond,FR,0
-1990-12-22,Thomas Stangassinger,AT,37
-1990-12-22,Bernhard Bauer,DE,0
-1990-12-22,Christophe Berra,CH,0
-1990-12-22,Marc Girardelli,LU,46
-1990-12-22,Patrick Staub,CH,0
-1990-12-22,Roger Pramotton,IT,0
-1990-12-22,Heinz Peter Platter,IT,3
-1990-12-22,Roberto Spampatti,IT,0
-1990-12-22,Patrice Bianchi,FR,5
-1990-12-22,Josef Polig,IT,9
-1990-12-22,Alain Feutrier,FR,2
-1990-12-22,Johan Wallner,SE,7
-1990-12-22,Hubert Strolz,AT,4
-1990-12-22,Rudolph Nierlich,AT,15
-1990-12-22,Giovanni Moro,IT,1
-1990-12-22,Alain Villiard,CA,5
-1990-12-22,Bernhard Gstrein,AT,25
-1990-12-22,Fabio De Crignis,IT,12
-1990-12-22,Alberto Tomba,IT,40
-1990-12-22,Michael Tritscher,AT,31
-1990-12-22,Richard Pramotton,IT,0
-1990-12-22,Finn Chr. Jagge,NO,1
-1990-12-22,Lasse Kjus,NO,15
-1990-12-22,Carlo Gerosa,IT,4
-1990-12-22,Armin Bittner,DE,26
-1990-12-22,Tetsuya Okabe,JP,11
-1990-12-22,Kjetil Andre Aamodt,NO,1
-1990-12-22,Konrad  Kurt Ladstaetter,IT,25
-1990-12-22,Mats Ericson,SE,17
-1990-12-22,Jonas Nilsson,SE,7
-1990-12-22,Oliver Kuenzi,CH,2
-1990-12-22,Michael von Gruenigen,CH,10
-1990-12-22,Guenther Mader,AT,15
-1990-12-22,Paul Accola,CH,20
-1991-01-13,Tetsuya Okabe,JP,22
-1991-01-13,Fabio De Crignis,IT,12
-1991-01-13,Alberto Tomba,IT,40
-1991-01-13,Michael Tritscher,AT,31
-1991-01-13,Peter Roth,DE,34
-1991-01-13,Thomas Stangassinger,AT,45
-1991-01-13,Kjetil Andre Aamodt,NO,7
-1991-01-13,Roberto Spampatti,IT,5
-1991-01-13,Lasse Kjus,NO,19
-1991-01-13,Finn Chr. Jagge,NO,5
-1991-01-13,Guenther Mader,AT,22
-1991-01-13,Paul Accola,CH,20
-1991-01-13,Alain Villiard,CA,5
-1991-01-13,Michael von Gruenigen,CH,10
-1991-01-13,Christophe Berra,CH,0
-1991-01-13,Bernhard Bauer,DE,0
-1991-01-13,Francois Simond,FR,0
-1991-01-13,Patrick Staub,CH,0
-1991-01-13,Harald Chr. Strand Nilsen,NO,0
-1991-01-13,Christian Polig,IT,0
-1991-01-13,Stephan Eberharter,AT,0
-1991-01-13,Oliver Kuenzi,CH,2
-1991-01-13,Carlo Gerosa,IT,4
-1991-01-13,Heinz Peter Platter,IT,3
-1991-01-13,Patrice Bianchi,FR,5
-1991-01-13,Josef Polig,IT,9
-1991-01-13,Alain Feutrier,FR,2
-1991-01-13,Johan Wallner,SE,7
-1991-01-13,Hubert Strolz,AT,4
-1991-01-13,Thomas Fogdoe,SE,50
-1991-01-13,Giovanni Moro,IT,1
-1991-01-13,Konrad  Kurt Ladstaetter,IT,25
-1991-01-13,Richard Pramotton,IT,2
-1991-01-13,Roger Pramotton,IT,0
-1991-01-13,Rudolph Nierlich,AT,30
-1991-01-13,Mats Ericson,SE,27
-1991-01-13,Jonas Nilsson,SE,8
-1991-01-13,Bernhard Gstrein,AT,34
-1991-01-13,Ole Kristian Furuseth,NO,93
-1991-01-13,Marc Girardelli,LU,71
-1991-01-13,Armin Bittner,DE,38
-1991-02-26,Mats Ericson,SE,27
-1991-02-26,Josef Polig,IT,9
-1991-02-26,Patrice Bianchi,FR,5
-1991-02-26,Roger Pramotton,IT,2
-1991-02-26,Heinz Peter Platter,IT,3
-1991-02-26,Oliver Kuenzi,CH,2
-1991-02-26,Kjetil Andre Aamodt,NO,7
-1991-02-26,Roberto Spampatti,IT,5
-1991-02-26,Richard Pramotton,IT,2
-1991-02-26,Francois Simond,FR,0
-1991-02-26,Rudolph Nierlich,AT,55
-1991-02-26,Armin Bittner,DE,48
-1991-02-26,Paul Accola,CH,40
-1991-02-26,Marc Girardelli,LU,86
-1991-02-26,Alain Feutrier,FR,2
-1991-02-26,Johan Wallner,SE,7
-1991-02-26,Hubert Strolz,AT,4
-1991-02-26,Thomas Fogdoe,SE,50
-1991-02-26,Carlo Gerosa,IT,15
-1991-02-26,Lasse Kjus,NO,31
-1991-02-26,Giovanni Moro,IT,1
-1991-02-26,Jonas Nilsson,SE,8
-1991-02-26,Ole Kristian Furuseth,NO,93
-1991-02-26,Peter Roth,DE,34
-1991-02-26,Michael Tritscher,AT,31
-1991-02-26,Alberto Tomba,IT,40
-1991-02-26,Fabio De Crignis,IT,12
-1991-02-26,Konrad  Kurt Ladstaetter,IT,25
-1991-02-26,Finn Chr. Jagge,NO,5
-1991-02-26,Tetsuya Okabe,JP,29
-1991-02-26,Christophe Berra,CH,0
-1991-02-26,Alain Villiard,CA,5
-1991-02-26,Stephan Eberharter,AT,9
-1991-02-26,Harald Chr. Strand Nilsen,NO,3
-1991-02-26,Guenther Mader,AT,26
-1991-02-26,Patrick Staub,CH,1
-1991-02-26,Bernhard Bauer,DE,0
-1991-02-26,Bernhard Gstrein,AT,39
-1991-02-26,Thomas Stangassinger,AT,53
-1991-02-26,Michael von Gruenigen,CH,10
-1991-02-26,Christian Polig,IT,6
-1991-03-02,Giovanni Moro,IT,1
-1991-03-02,Alberto Tomba,IT,40
-1991-03-02,Christophe Berra,CH,0
-1991-03-02,Patrick Staub,CH,1
-1991-03-02,Roger Pramotton,IT,2
-1991-03-02,Harald Chr. Strand Nilsen,NO,3
-1991-03-02,Konrad  Kurt Ladstaetter,IT,25
-1991-03-02,Christian Polig,IT,6
-1991-03-02,Stephan Eberharter,AT,9
-1991-03-02,Richard Pramotton,IT,2
-1991-03-02,Roberto Spampatti,IT,5
-1991-03-02,Oliver Kuenzi,CH,2
-1991-03-02,Tetsuya Okabe,JP,29
-1991-03-02,Bernhard Gstrein,AT,39
-1991-03-02,Heinz Peter Platter,IT,3
-1991-03-02,Armin Bittner,DE,48
-1991-03-02,Patrice Bianchi,FR,5
-1991-03-02,Alain Villiard,CA,5
-1991-03-02,Alain Feutrier,FR,2
-1991-03-02,Johan Wallner,SE,7
-1991-03-02,Lasse Kjus,NO,31
-1991-03-02,Thomas Fogdoe,SE,50
-1991-03-02,Michael von Gruenigen,CH,10
-1991-03-02,Rudolph Nierlich,AT,55
-1991-03-02,Ole Kristian Furuseth,NO,93
-1991-03-02,Finn Chr. Jagge,NO,5
-1991-03-02,Josef Polig,IT,11
-1991-03-02,Jonas Nilsson,SE,16
-1991-03-02,Kjetil Andre Aamodt,NO,16
-1991-03-02,Peter Roth,DE,38
-1991-03-02,Bernhard Bauer,DE,1
-1991-03-02,Hubert Strolz,AT,10
-1991-03-02,Guenther Mader,AT,32
-1991-03-02,Francois Simond,FR,7
-1991-03-02,Michael Tritscher,AT,56
-1991-03-02,Mats Ericson,SE,37
-1991-03-02,Thomas Stangassinger,AT,73
-1991-03-02,Fabio De Crignis,IT,15
-1991-03-02,Marc Girardelli,LU,98
-1991-03-02,Carlo Gerosa,IT,26
-1991-03-02,Paul Accola,CH,55
-1991-03-10,Roger Pramotton,IT,2
-1991-03-10,Paul Accola,CH,55
-1991-03-10,Konrad  Kurt Ladstaetter,IT,25
-1991-03-10,Alain Villiard,CA,5
-1991-03-10,Giovanni Moro,IT,1
-1991-03-10,Lasse Kjus,NO,31
-1991-03-10,Hubert Strolz,AT,10
-1991-03-10,Christophe Berra,CH,0
-1991-03-10,Johan Wallner,SE,7
-1991-03-10,Alain Feutrier,FR,2
-1991-03-10,Finn Chr. Jagge,NO,5
-1991-03-10,Josef Polig,IT,11
-1991-03-10,Heinz Peter Platter,IT,3
-1991-03-10,Bernhard Bauer,DE,1
-1991-03-10,Carlo Gerosa,IT,26
-1991-03-10,Tetsuya Okabe,JP,29
-1991-03-10,Peter Roth,DE,41
-1991-03-10,Oliver Kuenzi,CH,2
-1991-03-10,Kjetil Andre Aamodt,NO,16
-1991-03-10,Roberto Spampatti,IT,5
-1991-03-10,Francois Simond,FR,7
-1991-03-10,Patrick Staub,CH,1
-1991-03-10,Richard Pramotton,IT,2
-1991-03-10,Stephan Eberharter,AT,9
-1991-03-10,Christian Polig,IT,6
-1991-03-10,Harald Chr. Strand Nilsen,NO,3
-1991-03-10,Marc Girardelli,LU,110
-1991-03-10,Michael von Gruenigen,CH,10
-1991-03-10,Fabio De Crignis,IT,30
-1991-03-10,Michael Tritscher,AT,64
-1991-03-10,Alberto Tomba,IT,50
-1991-03-10,Bernhard Gstrein,AT,45
-1991-03-10,Thomas Fogdoe,SE,70
-1991-03-10,Rudolph Nierlich,AT,80
-1991-03-10,Armin Bittner,DE,53
-1991-03-10,Jonas Nilsson,SE,17
-1991-03-10,Patrice Bianchi,FR,7
-1991-03-10,Mats Ericson,SE,48
-1991-03-10,Guenther Mader,AT,36
-1991-03-10,Ole Kristian Furuseth,NO,102
-1991-03-10,Thomas Stangassinger,AT,80
-1991-03-23,Johan Wallner,SE,7
-1991-03-23,Alain Feutrier,FR,2
-1991-03-23,Guenther Mader,AT,36
-1991-03-23,Giovanni Moro,IT,1
-1991-03-23,Josef Polig,IT,11
-1991-03-23,Hubert Strolz,AT,10
-1991-03-23,Carlo Gerosa,IT,26
-1991-03-23,Ole Kristian Furuseth,NO,102
-1991-03-23,Tetsuya Okabe,JP,29
-1991-03-23,Oliver Kuenzi,CH,2
-1991-03-23,Kjetil Andre Aamodt,NO,16
-1991-03-23,Roberto Spampatti,IT,5
-1991-03-23,Richard Pramotton,IT,2
-1991-03-23,Stephan Eberharter,AT,9
-1991-03-23,Christian Polig,IT,6
-1991-03-23,Harald Chr. Strand Nilsen,NO,3
-1991-03-23,Roger Pramotton,IT,2
-1991-03-23,Heinz Peter Platter,IT,3
-1991-03-23,Michael von Gruenigen,CH,10
-1991-03-23,Bernhard Gstrein,AT,48
-1991-03-23,Marc Girardelli,LU,110
-1991-03-23,Armin Bittner,DE,62
-1991-03-23,Christophe Berra,CH,4
-1991-03-23,Paul Accola,CH,67
-1991-03-23,Francois Simond,FR,9
-1991-03-23,Peter Roth,DE,46
-1991-03-23,Mats Ericson,SE,56
-1991-03-23,Patrice Bianchi,FR,8
-1991-03-23,Finn Chr. Jagge,NO,11
-1991-03-23,Alain Villiard,CA,5
-1991-03-23,Patrick Staub,CH,1
-1991-03-23,Fabio De Crignis,IT,37
-1991-03-23,Thomas Fogdoe,SE,95
-1991-03-23,Alberto Tomba,IT,70
-1991-03-23,Rudolph Nierlich,AT,100
-1991-03-23,Lasse Kjus,NO,42
-1991-03-23,Michael Tritscher,AT,64
-1991-03-23,Thomas Stangassinger,AT,80
-1991-03-23,Konrad  Kurt Ladstaetter,IT,25
-1991-03-23,Jonas Nilsson,SE,27
-1991-03-23,Bernhard Bauer,DE,1
+date,name,ath_country,value,specialty
+1990-08-08,Peter Roth,DE,25,Slalom
+1990-08-08,Richard Pramotton,IT,0,Giant Slalom
+1990-08-08,Lasse Kjus,NO,0,Slalom
+1990-08-08,Paul Accola,CH,11,Slalom
+1990-08-08,Christian Polig,IT,0,Slalom
+1990-08-08,Oliver Kuenzi,CH,0,Slalom
+1990-08-08,Marc Girardelli,LU,7,Slalom
+1990-08-08,Armin Bittner,DE,6,Slalom
+1990-08-08,Alain Feutrier,FR,0,Giant Slalom
+1990-08-08,Hubert Strolz,AT,0,Giant Slalom
+1990-08-08,Rudolph Nierlich,AT,0,Giant Slalom
+1990-08-08,Michael von Gruenigen,CH,4,Giant Slalom
+1990-08-08,Finn Chr. Jagge,NO,0,Slalom
+1990-08-08,Michael Tritscher,AT,20,Slalom
+1990-08-08,Fabio De Crignis,IT,12,Slalom
+1990-08-08,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-08-08,Patrice Bianchi,FR,0,Slalom
+1990-08-08,Heinz Peter Platter,IT,0,Slalom
+1990-08-08,Thomas Stangassinger,AT,10,Slalom
+1990-08-08,Guenther Mader,AT,0,Slalom
+1990-08-08,Roberto Spampatti,IT,0,Slalom
+1990-08-08,Thomas Fogdoe,SE,0,Slalom
+1990-08-08,Christophe Berra,CH,0,Slalom
+1990-08-08,Alain Villiard,CA,5,Slalom
+1990-08-08,Tetsuya Okabe,JP,0,Slalom
+1990-08-08,Johan Wallner,SE,0,Giant Slalom
+1990-08-08,Bernhard Gstrein,AT,8,Slalom
+1990-08-08,Ole Kristian Furuseth,NO,3,Slalom
+1990-08-08,Jonas Nilsson,SE,2,Slalom
+1990-08-08,Josef Polig,IT,0,Super G
+1990-08-08,Francois Simond,FR,0,Slalom
+1990-08-08,Alberto Tomba,IT,15,Giant Slalom
+1990-08-08,Kjetil Andre Aamodt,NO,0,Giant Slalom
+1990-08-08,Carlo Gerosa,IT,0,Slalom
+1990-08-08,Giovanni Moro,IT,1,Slalom
+1990-08-08,Roger Pramotton,IT,0,Slalom
+1990-08-08,Patrick Staub,CH,0,Slalom
+1990-08-08,Mats Ericson,SE,0,Slalom
+1990-08-08,Stephan Eberharter,AT,0,Giant Slalom
+1990-08-08,Konrad  Kurt Ladstaetter,IT,9,Slalom
+1990-08-08,Bernhard Bauer,DE,0,Slalom
+1990-12-11,Konrad  Kurt Ladstaetter,IT,15,Slalom
+1990-12-11,Francois Simond,FR,0,Slalom
+1990-12-11,Bernhard Gstrein,AT,15,Slalom
+1990-12-11,Roberto Spampatti,IT,0,Slalom
+1990-12-11,Paul Accola,CH,11,Slalom
+1990-12-11,Jonas Nilsson,SE,2,Slalom
+1990-12-11,Patrice Bianchi,FR,0,Slalom
+1990-12-11,Thomas Stangassinger,AT,10,Slalom
+1990-12-11,Fabio De Crignis,IT,12,Slalom
+1990-12-11,Mats Ericson,SE,0,Slalom
+1990-12-11,Finn Chr. Jagge,NO,1,Slalom
+1990-12-11,Josef Polig,IT,0,Super G
+1990-12-11,Armin Bittner,DE,17,Slalom
+1990-12-11,Stephan Eberharter,AT,0,Giant Slalom
+1990-12-11,Hubert Strolz,AT,4,Giant Slalom
+1990-12-11,Carlo Gerosa,IT,0,Slalom
+1990-12-11,Christian Polig,IT,0,Slalom
+1990-12-11,Kjetil Andre Aamodt,NO,0,Giant Slalom
+1990-12-11,Tetsuya Okabe,JP,0,Slalom
+1990-12-11,Michael von Gruenigen,CH,4,Giant Slalom
+1990-12-11,Alain Villiard,CA,5,Slalom
+1990-12-11,Lasse Kjus,NO,8,Slalom
+1990-12-11,Guenther Mader,AT,5,Slalom
+1990-12-11,Marc Girardelli,LU,19,Slalom
+1990-12-11,Oliver Kuenzi,CH,0,Slalom
+1990-12-11,Richard Pramotton,IT,0,Giant Slalom
+1990-12-11,Roger Pramotton,IT,0,Slalom
+1990-12-11,Rudolph Nierlich,AT,15,Giant Slalom
+1990-12-11,Alain Feutrier,FR,2,Giant Slalom
+1990-12-11,Ole Kristian Furuseth,NO,23,Slalom
+1990-12-11,Giovanni Moro,IT,1,Slalom
+1990-12-11,Johan Wallner,SE,3,Giant Slalom
+1990-12-11,Michael Tritscher,AT,20,Slalom
+1990-12-11,Patrick Staub,CH,0,Slalom
+1990-12-11,Heinz Peter Platter,IT,0,Slalom
+1990-12-11,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-11,Christophe Berra,CH,0,Slalom
+1990-12-11,Peter Roth,DE,34,Slalom
+1990-12-11,Bernhard Bauer,DE,0,Slalom
+1990-12-11,Thomas Fogdoe,SE,10,Slalom
+1990-12-11,Alberto Tomba,IT,40,Giant Slalom
+1990-12-18,Guenther Mader,AT,5,Slalom
+1990-12-18,Marc Girardelli,LU,34,Slalom
+1990-12-18,Francois Simond,FR,0,Slalom
+1990-12-18,Richard Pramotton,IT,0,Giant Slalom
+1990-12-18,Jonas Nilsson,SE,2,Slalom
+1990-12-18,Tetsuya Okabe,JP,0,Slalom
+1990-12-18,Bernhard Bauer,DE,0,Slalom
+1990-12-18,Roger Pramotton,IT,0,Slalom
+1990-12-18,Konrad  Kurt Ladstaetter,IT,21,Slalom
+1990-12-18,Stephan Eberharter,AT,0,Giant Slalom
+1990-12-18,Carlo Gerosa,IT,1,Slalom
+1990-12-18,Ole Kristian Furuseth,NO,48,Slalom
+1990-12-18,Giovanni Moro,IT,1,Slalom
+1990-12-18,Peter Roth,DE,34,Slalom
+1990-12-18,Alberto Tomba,IT,40,Giant Slalom
+1990-12-18,Bernhard Gstrein,AT,25,Slalom
+1990-12-18,Patrick Staub,CH,0,Slalom
+1990-12-18,Josef Polig,IT,9,Super G
+1990-12-18,Mats Ericson,SE,9,Slalom
+1990-12-18,Kjetil Andre Aamodt,NO,0,Giant Slalom
+1990-12-18,Michael von Gruenigen,CH,4,Giant Slalom
+1990-12-18,Johan Wallner,SE,7,Giant Slalom
+1990-12-18,Oliver Kuenzi,CH,0,Slalom
+1990-12-18,Alain Villiard,CA,5,Slalom
+1990-12-18,Michael Tritscher,AT,31,Slalom
+1990-12-18,Heinz Peter Platter,IT,3,Slalom
+1990-12-18,Lasse Kjus,NO,15,Slalom
+1990-12-18,Thomas Stangassinger,AT,22,Slalom
+1990-12-18,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-18,Fabio De Crignis,IT,12,Slalom
+1990-12-18,Finn Chr. Jagge,NO,1,Slalom
+1990-12-18,Thomas Fogdoe,SE,30,Slalom
+1990-12-18,Patrice Bianchi,FR,5,Slalom
+1990-12-18,Rudolph Nierlich,AT,15,Giant Slalom
+1990-12-18,Hubert Strolz,AT,4,Giant Slalom
+1990-12-18,Alain Feutrier,FR,2,Giant Slalom
+1990-12-18,Paul Accola,CH,13,Slalom
+1990-12-18,Roberto Spampatti,IT,0,Slalom
+1990-12-18,Armin Bittner,DE,17,Slalom
+1990-12-18,Christian Polig,IT,0,Slalom
+1990-12-18,Christophe Berra,CH,0,Slalom
+1990-12-22,Christophe Berra,CH,0,Slalom
+1990-12-22,Patrick Staub,CH,0,Slalom
+1990-12-22,Bernhard Bauer,DE,0,Slalom
+1990-12-22,Johan Wallner,SE,7,Giant Slalom
+1990-12-22,Jonas Nilsson,SE,7,Slalom
+1990-12-22,Roberto Spampatti,IT,0,Slalom
+1990-12-22,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1990-12-22,Giovanni Moro,IT,1,Slalom
+1990-12-22,Heinz Peter Platter,IT,3,Slalom
+1990-12-22,Josef Polig,IT,9,Super G
+1990-12-22,Finn Chr. Jagge,NO,1,Slalom
+1990-12-22,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-22,Kjetil Andre Aamodt,NO,1,Giant Slalom
+1990-12-22,Roger Pramotton,IT,0,Slalom
+1990-12-22,Hubert Strolz,AT,4,Giant Slalom
+1990-12-22,Alain Feutrier,FR,2,Giant Slalom
+1990-12-22,Richard Pramotton,IT,0,Giant Slalom
+1990-12-22,Christian Polig,IT,0,Slalom
+1990-12-22,Francois Simond,FR,0,Slalom
+1990-12-22,Michael von Gruenigen,CH,10,Giant Slalom
+1990-12-22,Oliver Kuenzi,CH,2,Slalom
+1990-12-22,Alain Villiard,CA,5,Slalom
+1990-12-22,Patrice Bianchi,FR,5,Slalom
+1990-12-22,Stephan Eberharter,AT,0,Giant Slalom
+1990-12-22,Marc Girardelli,LU,46,Slalom
+1990-12-22,Armin Bittner,DE,26,Slalom
+1990-12-22,Michael Tritscher,AT,31,Slalom
+1990-12-22,Mats Ericson,SE,17,Slalom
+1990-12-22,Fabio De Crignis,IT,12,Slalom
+1990-12-22,Lasse Kjus,NO,15,Slalom
+1990-12-22,Paul Accola,CH,20,Slalom
+1990-12-22,Rudolph Nierlich,AT,15,Giant Slalom
+1990-12-22,Tetsuya Okabe,JP,11,Slalom
+1990-12-22,Thomas Fogdoe,SE,50,Slalom
+1990-12-22,Bernhard Gstrein,AT,25,Slalom
+1990-12-22,Ole Kristian Furuseth,NO,73,Slalom
+1990-12-22,Peter Roth,DE,34,Slalom
+1990-12-22,Thomas Stangassinger,AT,37,Slalom
+1990-12-22,Guenther Mader,AT,15,Slalom
+1990-12-22,Carlo Gerosa,IT,4,Slalom
+1990-12-22,Alberto Tomba,IT,40,Giant Slalom
+1991-01-13,Francois Simond,FR,0,Slalom
+1991-01-13,Tetsuya Okabe,JP,22,Slalom
+1991-01-13,Lasse Kjus,NO,19,Slalom
+1991-01-13,Michael von Gruenigen,CH,10,Giant Slalom
+1991-01-13,Oliver Kuenzi,CH,2,Slalom
+1991-01-13,Alain Feutrier,FR,2,Giant Slalom
+1991-01-13,Rudolph Nierlich,AT,30,Giant Slalom
+1991-01-13,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-01-13,Richard Pramotton,IT,2,Giant Slalom
+1991-01-13,Hubert Strolz,AT,4,Giant Slalom
+1991-01-13,Armin Bittner,DE,38,Slalom
+1991-01-13,Marc Girardelli,LU,71,Slalom
+1991-01-13,Heinz Peter Platter,IT,3,Slalom
+1991-01-13,Finn Chr. Jagge,NO,5,Slalom
+1991-01-13,Fabio De Crignis,IT,12,Slalom
+1991-01-13,Michael Tritscher,AT,31,Slalom
+1991-01-13,Christophe Berra,CH,0,Slalom
+1991-01-13,Thomas Fogdoe,SE,50,Slalom
+1991-01-13,Alain Villiard,CA,5,Slalom
+1991-01-13,Johan Wallner,SE,7,Giant Slalom
+1991-01-13,Thomas Stangassinger,AT,45,Slalom
+1991-01-13,Patrice Bianchi,FR,5,Slalom
+1991-01-13,Roberto Spampatti,IT,5,Slalom
+1991-01-13,Paul Accola,CH,20,Slalom
+1991-01-13,Christian Polig,IT,0,Slalom
+1991-01-13,Kjetil Andre Aamodt,NO,7,Giant Slalom
+1991-01-13,Guenther Mader,AT,22,Slalom
+1991-01-13,Peter Roth,DE,34,Slalom
+1991-01-13,Josef Polig,IT,9,Super G
+1991-01-13,Giovanni Moro,IT,1,Slalom
+1991-01-13,Bernhard Bauer,DE,0,Slalom
+1991-01-13,Mats Ericson,SE,27,Slalom
+1991-01-13,Alberto Tomba,IT,40,Giant Slalom
+1991-01-13,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-01-13,Ole Kristian Furuseth,NO,93,Slalom
+1991-01-13,Bernhard Gstrein,AT,34,Slalom
+1991-01-13,Stephan Eberharter,AT,0,Giant Slalom
+1991-01-13,Carlo Gerosa,IT,4,Slalom
+1991-01-13,Roger Pramotton,IT,0,Slalom
+1991-01-13,Jonas Nilsson,SE,8,Slalom
+1991-01-13,Patrick Staub,CH,0,Slalom
+1991-02-26,Mats Ericson,SE,27,Slalom
+1991-02-26,Fabio De Crignis,IT,12,Slalom
+1991-02-26,Peter Roth,DE,34,Slalom
+1991-02-26,Heinz Peter Platter,IT,3,Slalom
+1991-02-26,Hubert Strolz,AT,4,Giant Slalom
+1991-02-26,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-02-26,Jonas Nilsson,SE,8,Slalom
+1991-02-26,Richard Pramotton,IT,2,Giant Slalom
+1991-02-26,Michael Tritscher,AT,31,Slalom
+1991-02-26,Christophe Berra,CH,0,Slalom
+1991-02-26,Patrick Staub,CH,1,Slalom
+1991-02-26,Bernhard Gstrein,AT,39,Slalom
+1991-02-26,Alain Villiard,CA,5,Slalom
+1991-02-26,Johan Wallner,SE,7,Giant Slalom
+1991-02-26,Thomas Stangassinger,AT,53,Slalom
+1991-02-26,Thomas Fogdoe,SE,50,Slalom
+1991-02-26,Paul Accola,CH,40,Slalom
+1991-02-26,Patrice Bianchi,FR,5,Slalom
+1991-02-26,Bernhard Bauer,DE,0,Slalom
+1991-02-26,Guenther Mader,AT,26,Slalom
+1991-02-26,Finn Chr. Jagge,NO,5,Slalom
+1991-02-26,Giovanni Moro,IT,1,Slalom
+1991-02-26,Armin Bittner,DE,48,Slalom
+1991-02-26,Stephan Eberharter,AT,9,Giant Slalom
+1991-02-26,Carlo Gerosa,IT,15,Slalom
+1991-02-26,Roger Pramotton,IT,2,Slalom
+1991-02-26,Kjetil Andre Aamodt,NO,7,Giant Slalom
+1991-02-26,Marc Girardelli,LU,86,Slalom
+1991-02-26,Ole Kristian Furuseth,NO,93,Slalom
+1991-02-26,Oliver Kuenzi,CH,2,Slalom
+1991-02-26,Tetsuya Okabe,JP,29,Slalom
+1991-02-26,Francois Simond,FR,0,Slalom
+1991-02-26,Josef Polig,IT,9,Super G
+1991-02-26,Michael von Gruenigen,CH,10,Giant Slalom
+1991-02-26,Roberto Spampatti,IT,5,Slalom
+1991-02-26,Rudolph Nierlich,AT,55,Giant Slalom
+1991-02-26,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-02-26,Christian Polig,IT,6,Slalom
+1991-02-26,Alberto Tomba,IT,40,Giant Slalom
+1991-02-26,Lasse Kjus,NO,31,Slalom
+1991-02-26,Alain Feutrier,FR,2,Giant Slalom
+1991-03-02,Giovanni Moro,IT,1,Slalom
+1991-03-02,Roberto Spampatti,IT,5,Slalom
+1991-03-02,Ole Kristian Furuseth,NO,93,Slalom
+1991-03-02,Paul Accola,CH,55,Slalom
+1991-03-02,Michael Tritscher,AT,56,Slalom
+1991-03-02,Rudolph Nierlich,AT,55,Giant Slalom
+1991-03-02,Peter Roth,DE,38,Slalom
+1991-03-02,Bernhard Bauer,DE,1,Slalom
+1991-03-02,Oliver Kuenzi,CH,2,Slalom
+1991-03-02,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-03-02,Patrick Staub,CH,1,Slalom
+1991-03-02,Johan Wallner,SE,7,Giant Slalom
+1991-03-02,Heinz Peter Platter,IT,3,Slalom
+1991-03-02,Marc Girardelli,LU,98,Slalom
+1991-03-02,Alain Feutrier,FR,2,Giant Slalom
+1991-03-02,Roger Pramotton,IT,2,Slalom
+1991-03-02,Christophe Berra,CH,0,Slalom
+1991-03-02,Alberto Tomba,IT,40,Giant Slalom
+1991-03-02,Thomas Fogdoe,SE,50,Slalom
+1991-03-02,Richard Pramotton,IT,2,Giant Slalom
+1991-03-02,Thomas Stangassinger,AT,73,Slalom
+1991-03-02,Michael von Gruenigen,CH,10,Giant Slalom
+1991-03-02,Stephan Eberharter,AT,9,Giant Slalom
+1991-03-02,Fabio De Crignis,IT,15,Slalom
+1991-03-02,Finn Chr. Jagge,NO,5,Slalom
+1991-03-02,Lasse Kjus,NO,31,Slalom
+1991-03-02,Carlo Gerosa,IT,26,Slalom
+1991-03-02,Hubert Strolz,AT,10,Giant Slalom
+1991-03-02,Josef Polig,IT,11,Super G
+1991-03-02,Mats Ericson,SE,37,Slalom
+1991-03-02,Kjetil Andre Aamodt,NO,16,Giant Slalom
+1991-03-02,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-03-02,Christian Polig,IT,6,Slalom
+1991-03-02,Armin Bittner,DE,48,Slalom
+1991-03-02,Alain Villiard,CA,5,Slalom
+1991-03-02,Tetsuya Okabe,JP,29,Slalom
+1991-03-02,Jonas Nilsson,SE,16,Slalom
+1991-03-02,Guenther Mader,AT,32,Slalom
+1991-03-02,Patrice Bianchi,FR,5,Slalom
+1991-03-02,Bernhard Gstrein,AT,39,Slalom
+1991-03-02,Francois Simond,FR,7,Slalom
+1991-03-10,Oliver Kuenzi,CH,2,Slalom
+1991-03-10,Francois Simond,FR,7,Slalom
+1991-03-10,Kjetil Andre Aamodt,NO,16,Giant Slalom
+1991-03-10,Tetsuya Okabe,JP,29,Slalom
+1991-03-10,Marc Girardelli,LU,110,Slalom
+1991-03-10,Alain Feutrier,FR,2,Giant Slalom
+1991-03-10,Richard Pramotton,IT,2,Giant Slalom
+1991-03-10,Paul Accola,CH,55,Slalom
+1991-03-10,Ole Kristian Furuseth,NO,102,Slalom
+1991-03-10,Carlo Gerosa,IT,26,Slalom
+1991-03-10,Roger Pramotton,IT,2,Slalom
+1991-03-10,Josef Polig,IT,11,Super G
+1991-03-10,Mats Ericson,SE,48,Slalom
+1991-03-10,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-03-10,Giovanni Moro,IT,1,Slalom
+1991-03-10,Alberto Tomba,IT,50,Giant Slalom
+1991-03-10,Bernhard Gstrein,AT,45,Slalom
+1991-03-10,Jonas Nilsson,SE,17,Slalom
+1991-03-10,Patrick Staub,CH,1,Slalom
+1991-03-10,Peter Roth,DE,41,Slalom
+1991-03-10,Guenther Mader,AT,36,Slalom
+1991-03-10,Stephan Eberharter,AT,9,Giant Slalom
+1991-03-10,Bernhard Bauer,DE,1,Slalom
+1991-03-10,Lasse Kjus,NO,31,Slalom
+1991-03-10,Alain Villiard,CA,5,Slalom
+1991-03-10,Finn Chr. Jagge,NO,5,Slalom
+1991-03-10,Michael von Gruenigen,CH,10,Giant Slalom
+1991-03-10,Christophe Berra,CH,0,Slalom
+1991-03-10,Thomas Fogdoe,SE,70,Slalom
+1991-03-10,Thomas Stangassinger,AT,80,Slalom
+1991-03-10,Hubert Strolz,AT,10,Giant Slalom
+1991-03-10,Heinz Peter Platter,IT,3,Slalom
+1991-03-10,Johan Wallner,SE,7,Giant Slalom
+1991-03-10,Michael Tritscher,AT,64,Slalom
+1991-03-10,Christian Polig,IT,6,Slalom
+1991-03-10,Fabio De Crignis,IT,30,Slalom
+1991-03-10,Patrice Bianchi,FR,7,Slalom
+1991-03-10,Rudolph Nierlich,AT,80,Giant Slalom
+1991-03-10,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-03-10,Roberto Spampatti,IT,5,Slalom
+1991-03-10,Armin Bittner,DE,53,Slalom
+1991-03-23,Patrick Staub,CH,1,Slalom
+1991-03-23,Thomas Stangassinger,AT,80,Slalom
+1991-03-23,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-03-23,Roberto Spampatti,IT,5,Slalom
+1991-03-23,Peter Roth,DE,46,Slalom
+1991-03-23,Guenther Mader,AT,36,Slalom
+1991-03-23,Giovanni Moro,IT,1,Slalom
+1991-03-23,Christophe Berra,CH,4,Slalom
+1991-03-23,Johan Wallner,SE,7,Giant Slalom
+1991-03-23,Alberto Tomba,IT,70,Giant Slalom
+1991-03-23,Jonas Nilsson,SE,27,Slalom
+1991-03-23,Mats Ericson,SE,56,Slalom
+1991-03-23,Thomas Fogdoe,SE,95,Slalom
+1991-03-23,Bernhard Gstrein,AT,48,Slalom
+1991-03-23,Alain Villiard,CA,5,Slalom
+1991-03-23,Patrice Bianchi,FR,8,Slalom
+1991-03-23,Michael von Gruenigen,CH,10,Giant Slalom
+1991-03-23,Josef Polig,IT,11,Super G
+1991-03-23,Fabio De Crignis,IT,37,Slalom
+1991-03-23,Rudolph Nierlich,AT,100,Giant Slalom
+1991-03-23,Alain Feutrier,FR,2,Giant Slalom
+1991-03-23,Marc Girardelli,LU,110,Slalom
+1991-03-23,Lasse Kjus,NO,42,Slalom
+1991-03-23,Paul Accola,CH,67,Slalom
+1991-03-23,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-03-23,Francois Simond,FR,9,Slalom
+1991-03-23,Oliver Kuenzi,CH,2,Slalom
+1991-03-23,Kjetil Andre Aamodt,NO,16,Giant Slalom
+1991-03-23,Carlo Gerosa,IT,26,Slalom
+1991-03-23,Christian Polig,IT,6,Slalom
+1991-03-23,Tetsuya Okabe,JP,29,Slalom
+1991-03-23,Heinz Peter Platter,IT,3,Slalom
+1991-03-23,Armin Bittner,DE,62,Slalom
+1991-03-23,Richard Pramotton,IT,2,Giant Slalom
+1991-03-23,Stephan Eberharter,AT,9,Giant Slalom
+1991-03-23,Hubert Strolz,AT,10,Giant Slalom
+1991-03-23,Finn Chr. Jagge,NO,11,Slalom
+1991-03-23,Michael Tritscher,AT,64,Slalom
+1991-03-23,Roger Pramotton,IT,2,Slalom
+1991-03-23,Ole Kristian Furuseth,NO,102,Slalom
+1991-03-23,Bernhard Bauer,DE,1,Slalom

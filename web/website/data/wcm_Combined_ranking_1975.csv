@@ -1,64 +1,64 @@
-date,name,ath_country,value
-1975-01-12,Gustav Thoeni,IT,25
-1975-01-12,Patrice Pellat Finet,FR,0
-1975-01-12,Jean Jacques Bertrand,FR,0
-1975-01-12,Walter Vesti,CH,0
-1975-01-12,Steve Podborski,CA,0
-1975-01-12,Dave Murray,CA,0
-1975-01-12,Herbert Plank,IT,0
-1975-01-12,Billy Taylor,US,0
-1975-01-12,Ken Read,CA,0
-1975-01-12,Jim Hunter,CA,0
-1975-01-12,Francisco Fernandez Ochoa,ES,0
-1975-01-12,Reinhard Tritscher,AT,1
-1975-01-12,Michael Veith,DE,2
-1975-01-12,Manfred Jakober,CH,3
-1975-01-12,Peter Luescher,CH,4
-1975-01-12,Sepp Ferstl,DE,0
-1975-01-12,Roland Thoeni,IT,8
-1975-01-12,Walter Tresch,CH,15
-1975-01-12,David Zwilling,AT,20
-1975-01-12,Franz Klammer,AT,6
-1975-01-12,Erik Haaker,NO,11
-1975-01-19,Patrice Pellat Finet,FR,0
-1975-01-19,Francisco Fernandez Ochoa,ES,20
-1975-01-19,Gustav Thoeni,IT,50
-1975-01-19,David Zwilling,AT,20
-1975-01-19,Michael Veith,DE,8
-1975-01-19,Roland Thoeni,IT,8
-1975-01-19,Peter Luescher,CH,4
-1975-01-19,Manfred Jakober,CH,3
-1975-01-19,Herbert Plank,IT,0
-1975-01-19,Dave Murray,CA,0
-1975-01-19,Steve Podborski,CA,0
-1975-01-19,Erik Haaker,NO,11
-1975-01-19,Franz Klammer,AT,21
-1975-01-19,Jean Jacques Bertrand,FR,0
-1975-01-19,Walter Tresch,CH,26
-1975-01-19,Billy Taylor,US,1
-1975-01-19,Ken Read,CA,2
-1975-01-19,Reinhard Tritscher,AT,4
-1975-01-19,Sepp Ferstl,DE,8
-1975-01-19,Jim Hunter,CA,4
-1975-01-19,Walter Vesti,CH,0
-1975-02-01,Walter Tresch,CH,26
-1975-02-01,Roland Thoeni,IT,8
-1975-02-01,Franz Klammer,AT,21
-1975-02-01,Peter Luescher,CH,4
-1975-02-01,Manfred Jakober,CH,3
-1975-02-01,Michael Veith,DE,8
-1975-02-01,Reinhard Tritscher,AT,4
-1975-02-01,Sepp Ferstl,DE,8
-1975-02-01,David Zwilling,AT,20
-1975-02-01,Gustav Thoeni,IT,75
-1975-02-01,Erik Haaker,NO,26
-1975-02-01,Ken Read,CA,2
-1975-02-01,Patrice Pellat Finet,FR,1
-1975-02-01,Herbert Plank,IT,11
-1975-02-01,Jean Jacques Bertrand,FR,2
-1975-02-01,Walter Vesti,CH,3
-1975-02-01,Steve Podborski,CA,4
-1975-02-01,Jim Hunter,CA,12
-1975-02-01,Dave Murray,CA,6
-1975-02-01,Francisco Fernandez Ochoa,ES,40
-1975-02-01,Billy Taylor,US,1
+date,name,ath_country,value,specialty
+1975-01-12,Gustav Thoeni,IT,25,Slalom
+1975-01-12,Billy Taylor,US,0,Combined
+1975-01-12,Jean Jacques Bertrand,FR,0,Combined
+1975-01-12,Ken Read,CA,0,Downhill
+1975-01-12,Walter Vesti,CH,0,Downhill
+1975-01-12,Reinhard Tritscher,AT,1,Downhill
+1975-01-12,Manfred Jakober,CH,3,Combined
+1975-01-12,Steve Podborski,CA,0,Combined
+1975-01-12,Peter Luescher,CH,4,Combined
+1975-01-12,Dave Murray,CA,0,Combined
+1975-01-12,Patrice Pellat Finet,FR,0,Downhill
+1975-01-12,Jim Hunter,CA,0,Combined
+1975-01-12,Sepp Ferstl,DE,0,Combined
+1975-01-12,Roland Thoeni,IT,8,Combined
+1975-01-12,Herbert Plank,IT,0,Downhill
+1975-01-12,Erik Haaker,NO,11,Giant Slalom
+1975-01-12,Michael Veith,DE,2,Downhill
+1975-01-12,Walter Tresch,CH,15,Combined
+1975-01-12,Francisco Fernandez Ochoa,ES,0,Combined
+1975-01-12,Franz Klammer,AT,6,Downhill
+1975-01-12,David Zwilling,AT,20,Combined
+1975-01-19,Peter Luescher,CH,4,Combined
+1975-01-19,Steve Podborski,CA,0,Combined
+1975-01-19,Francisco Fernandez Ochoa,ES,20,Combined
+1975-01-19,Manfred Jakober,CH,3,Combined
+1975-01-19,Reinhard Tritscher,AT,4,Downhill
+1975-01-19,Erik Haaker,NO,11,Giant Slalom
+1975-01-19,Walter Vesti,CH,0,Downhill
+1975-01-19,Ken Read,CA,2,Downhill
+1975-01-19,Jean Jacques Bertrand,FR,0,Combined
+1975-01-19,Billy Taylor,US,1,Combined
+1975-01-19,Gustav Thoeni,IT,50,Slalom
+1975-01-19,Dave Murray,CA,0,Combined
+1975-01-19,David Zwilling,AT,20,Combined
+1975-01-19,Patrice Pellat Finet,FR,0,Downhill
+1975-01-19,Walter Tresch,CH,26,Combined
+1975-01-19,Michael Veith,DE,8,Downhill
+1975-01-19,Jim Hunter,CA,4,Combined
+1975-01-19,Herbert Plank,IT,0,Downhill
+1975-01-19,Roland Thoeni,IT,8,Combined
+1975-01-19,Franz Klammer,AT,21,Downhill
+1975-01-19,Sepp Ferstl,DE,8,Combined
+1975-02-01,Michael Veith,DE,8,Downhill
+1975-02-01,Patrice Pellat Finet,FR,1,Downhill
+1975-02-01,Billy Taylor,US,1,Combined
+1975-02-01,Herbert Plank,IT,11,Downhill
+1975-02-01,Franz Klammer,AT,21,Downhill
+1975-02-01,Gustav Thoeni,IT,75,Slalom
+1975-02-01,Jean Jacques Bertrand,FR,2,Combined
+1975-02-01,Ken Read,CA,2,Downhill
+1975-02-01,Roland Thoeni,IT,8,Combined
+1975-02-01,Walter Vesti,CH,3,Downhill
+1975-02-01,Reinhard Tritscher,AT,4,Downhill
+1975-02-01,David Zwilling,AT,20,Combined
+1975-02-01,Sepp Ferstl,DE,8,Combined
+1975-02-01,Manfred Jakober,CH,3,Combined
+1975-02-01,Jim Hunter,CA,12,Combined
+1975-02-01,Walter Tresch,CH,26,Combined
+1975-02-01,Francisco Fernandez Ochoa,ES,40,Combined
+1975-02-01,Erik Haaker,NO,26,Giant Slalom
+1975-02-01,Peter Luescher,CH,4,Combined
+1975-02-01,Dave Murray,CA,6,Combined
+1975-02-01,Steve Podborski,CA,4,Combined

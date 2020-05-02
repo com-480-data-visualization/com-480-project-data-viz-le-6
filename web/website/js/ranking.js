@@ -24,6 +24,19 @@ function create_ranking(rankingId, dataFile, year){
         return [day, month, year].join('-');
     }
     
+
+    function get_color(specialty) {
+
+    switch(specialty){   
+        case 'Combined': return d3.color("#7bc043");
+        case 'Downhill': return d3.color("#ee4035");
+        case 'Giant Slalom': return d3.color("#fdf498");
+        case 'Parallel': return d3.color("#b5c4f0");
+        case 'Slalom': return d3.color("#f57356");
+        default: return d3.color("#0392cf");
+    }
+
+    }
     
     var tickDuration = 2000;
     
@@ -64,7 +77,8 @@ function create_ranking(rankingId, dataFile, year){
                 d.lastValue = +d.value,
                 d.value = isNaN(d.value) ? 0 : d.value,
                 d.date = d.date,
-                d.colour = d3.hsl(Math.random() * 360, 0.75, 0.75)
+                d.colour = get_color(d.specialty)
+                //d.colour = d3.hsl(Math.random() * 360, 0.75, 0.75)
         });
     
         //console.log(data);

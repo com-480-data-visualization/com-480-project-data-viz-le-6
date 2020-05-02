@@ -1,18 +1,18 @@
-date,name,ath_country,value
-2002-12-22,Janica Kostelic,HR,100
-2002-12-22,Catherine Borghi,CH,16
-2002-12-22,Kirsten L Clark,US,18
-2002-12-22,Genevieve Simard,CA,20
-2002-12-22,Brigitte Obermoser,AT,22
-2002-12-22,Manuela Moelgg,IT,24
-2002-12-22,Sarka Strachova Zahrobska,CZ,26
-2002-12-22,Daniela Ceccarelli,IT,15
-2002-12-22,Jessica Lindell-Vikarby,SE,29
-2002-12-22,Michaela Dorfmeister,AT,36
-2002-12-22,Marlies Oester,CH,40
-2002-12-22,Julia Mancuso,US,45
-2002-12-22,Karen Putzer,IT,50
-2002-12-22,Maria Riesch Hoefl,DE,60
-2002-12-22,Martina Ertl,DE,80
-2002-12-22,Caroline Lalive,US,32
-2002-12-22,Katja Wirth,AT,14
+date,name,ath_country,value,specialty
+2002-12-22,Janica Kostelic,HR,100,Slalom
+2002-12-22,Catherine Borghi,CH,16,Downhill
+2002-12-22,Kirsten L Clark,US,18,Downhill
+2002-12-22,Genevieve Simard,CA,20,Giant Slalom
+2002-12-22,Brigitte Obermoser,AT,22,Super G
+2002-12-22,Manuela Moelgg,IT,24,Slalom
+2002-12-22,Sarka Strachova Zahrobska,CZ,26,Slalom
+2002-12-22,Daniela Ceccarelli,IT,15,Super G
+2002-12-22,Jessica Lindell-Vikarby,SE,29,Downhill
+2002-12-22,Michaela Dorfmeister,AT,36,Downhill
+2002-12-22,Marlies Oester,CH,40,Slalom
+2002-12-22,Julia Mancuso,US,45,Super G
+2002-12-22,Karen Putzer,IT,50,Giant Slalom
+2002-12-22,Maria Riesch Hoefl,DE,60,Downhill
+2002-12-22,Martina Ertl,DE,80,Giant Slalom
+2002-12-22,Caroline Lalive,US,32,Super G
+2002-12-22,Katja Wirth,AT,14,Downhill

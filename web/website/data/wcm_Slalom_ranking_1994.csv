@@ -1,441 +1,441 @@
-date,name,ath_country,value
-1993-11-28,Thomas Stangassinger,AT,100
-1993-11-28,Thomas Fogdoe,SE,0
-1993-11-28,Thomas Sykora,AT,0
-1993-11-28,Alberto Tomba,IT,0
-1993-11-28,Michael von Gruenigen,CH,5
-1993-11-28,Christian Mayer,AT,6
-1993-11-28,Ole Kristian Furuseth,NO,7
-1993-11-28,Konrad  Kurt Ladstaetter,IT,8
-1993-11-28,Carlo Gerosa,IT,9
-1993-11-28,Mitja Kunc,SK,10
-1993-11-28,Thomas Grandi,CA,11
-1993-11-28,Niklas Nilsson,SE,12
-1993-11-28,Erik Schlopy,US,13
-1993-11-28,Paul Accola,CH,14
-1993-11-28,Patrick Staub,CH,15
-1993-11-28,Angelo Weiss,IT,16
-1993-11-28,Yves Dimier,FR,18
-1993-11-28,Matthew Grosjean,US,20
-1993-11-28,Peter Roth,DE,22
-1993-11-28,Dietmar Thoeni,AT,24
-1993-11-28,Bernhard Bauer,DE,26
-1993-11-28,Lasse Kjus,NO,29
-1993-11-28,Marc Girardelli,LU,0
-1993-11-28,Rob Crossan,CA,32
-1993-11-28,Armin Bittner,DE,0
-1993-11-28,Markus Eberle,DE,0
-1993-11-28,Norman Bergamelli,IT,0
-1993-11-28,Eric Villiard,CA,0
-1993-11-28,Andrej Miklavc,SK,0
-1993-11-28,P Casey Puckett,US,0
-1993-11-28,Mario Reiter,AT,0
-1993-11-28,Willy Raine,CA,0
-1993-11-28,Hubert Strolz,AT,0
-1993-11-28,Alois Vogl,DE,0
-1993-11-28,Christian Polig,IT,0
-1993-11-28,Takuya Ishioka,JP,0
-1993-11-28,Sebastien Amiez,FR,0
-1993-11-28,Fabrizio Tescari,IT,0
-1993-11-28,Michael Tritscher,AT,0
-1993-11-28,Mats Ericson,SE,0
-1993-11-28,Roger Pramotton,IT,0
-1993-11-28,Gregor Grilc,SK,0
-1993-11-28,Francois Simond,FR,0
-1993-11-28,Andrea Zinsli,CH,0
-1993-11-28,Heinz Peter Platter,IT,0
-1993-11-28,Oliver Kuenzi,CH,0
-1993-11-28,Kiminobu Kimura,JP,0
-1993-11-28,Siegfried Voglreiter,AT,0
-1993-11-28,Fabio De Crignis,IT,36
-1993-11-28,Patrice Bianchi,FR,0
-1993-11-28,Kjetil Andre Aamodt,NO,40
-1993-11-28,Jure Kosir,SK,80
-1993-11-28,Finn Chr. Jagge,NO,60
-1993-11-28,Bernhard Gstrein,AT,50
-1993-11-28,Guenther Mader,AT,45
-1993-12-05,Thomas Sykora,AT,36
-1993-12-05,Patrick Staub,CH,15
-1993-12-05,Matthew Grosjean,US,20
-1993-12-05,Rob Crossan,CA,32
-1993-12-05,Alberto Tomba,IT,100
-1993-12-05,Thomas Stangassinger,AT,180
-1993-12-05,Jure Kosir,SK,140
-1993-12-05,Finn Chr. Jagge,NO,110
-1993-12-05,Angelo Weiss,IT,24
-1993-12-05,Paul Accola,CH,14
-1993-12-05,Oliver Kuenzi,CH,9
-1993-12-05,Kjetil Andre Aamodt,NO,85
-1993-12-05,Christian Mayer,AT,16
-1993-12-05,Kiminobu Kimura,JP,11
-1993-12-05,Markus Eberle,DE,12
-1993-12-05,Fabio De Crignis,IT,49
-1993-12-05,Siegfried Voglreiter,AT,14
-1993-12-05,Lasse Kjus,NO,44
-1993-12-05,Armin Bittner,DE,16
-1993-12-05,Heinz Peter Platter,IT,7
-1993-12-05,Yves Dimier,FR,36
-1993-12-05,Erik Schlopy,US,13
-1993-12-05,Thomas Grandi,CA,11
-1993-12-05,Norman Bergamelli,IT,0
-1993-12-05,Eric Villiard,CA,0
-1993-12-05,Andrej Miklavc,SK,0
-1993-12-05,P Casey Puckett,US,0
-1993-12-05,Mario Reiter,AT,0
-1993-12-05,Willy Raine,CA,0
-1993-12-05,Hubert Strolz,AT,0
-1993-12-05,Alois Vogl,DE,0
-1993-12-05,Christian Polig,IT,0
-1993-12-05,Takuya Ishioka,JP,0
-1993-12-05,Sebastien Amiez,FR,0
-1993-12-05,Fabrizio Tescari,IT,0
-1993-12-05,Michael Tritscher,AT,0
-1993-12-05,Mats Ericson,SE,0
-1993-12-05,Patrice Bianchi,FR,0
-1993-12-05,Roger Pramotton,IT,0
-1993-12-05,Gregor Grilc,SK,0
-1993-12-05,Francois Simond,FR,0
-1993-12-05,Andrea Zinsli,CH,0
-1993-12-05,Michael von Gruenigen,CH,5
-1993-12-05,Konrad  Kurt Ladstaetter,IT,8
-1993-12-05,Carlo Gerosa,IT,9
-1993-12-05,Mitja Kunc,SK,10
-1993-12-05,Niklas Nilsson,SE,12
-1993-12-05,Bernhard Gstrein,AT,90
-1993-12-05,Ole Kristian Furuseth,NO,7
-1993-12-05,Dietmar Thoeni,AT,44
-1993-12-05,Marc Girardelli,LU,22
-1993-12-05,Peter Roth,DE,46
-1993-12-05,Thomas Fogdoe,SE,32
-1993-12-05,Guenther Mader,AT,71
-1993-12-05,Bernhard Bauer,DE,55
-1993-12-14,Carlo Gerosa,IT,9
-1993-12-14,Christian Mayer,AT,16
-1993-12-14,Thomas Sykora,AT,36
-1993-12-14,Thomas Fogdoe,SE,32
-1993-12-14,Marc Girardelli,LU,22
-1993-12-14,Konrad  Kurt Ladstaetter,IT,18
-1993-12-14,Markus Eberle,DE,12
-1993-12-14,Mitja Kunc,SK,10
-1993-12-14,Oliver Kuenzi,CH,9
-1993-12-14,Heinz Peter Platter,IT,7
-1993-12-14,Michael Tritscher,AT,0
-1993-12-14,Fabrizio Tescari,IT,0
-1993-12-14,Sebastien Amiez,FR,0
-1993-12-14,Yves Dimier,FR,47
-1993-12-14,Takuya Ishioka,JP,0
-1993-12-14,Patrice Bianchi,FR,5
-1993-12-14,Thomas Grandi,CA,11
-1993-12-14,Bernhard Gstrein,AT,135
-1993-12-14,Erik Schlopy,US,13
-1993-12-14,Francois Simond,FR,9
-1993-12-14,Finn Chr. Jagge,NO,160
-1993-12-14,Ole Kristian Furuseth,NO,67
-1993-12-14,Thomas Stangassinger,AT,260
-1993-12-14,Roger Pramotton,IT,6
-1993-12-14,Armin Bittner,DE,40
-1993-12-14,Alberto Tomba,IT,200
-1993-12-14,Kiminobu Kimura,JP,18
-1993-12-14,Guenther Mader,AT,97
-1993-12-14,Michael von Gruenigen,CH,34
-1993-12-14,Jure Kosir,SK,172
-1993-12-14,Gregor Grilc,SK,8
-1993-12-14,Patrick Staub,CH,37
-1993-12-14,Kjetil Andre Aamodt,NO,121
-1993-12-14,Rob Crossan,CA,32
-1993-12-14,Bernhard Bauer,DE,55
-1993-12-14,Angelo Weiss,IT,24
-1993-12-14,Alois Vogl,DE,0
-1993-12-14,Niklas Nilsson,SE,12
-1993-12-14,Hubert Strolz,AT,0
-1993-12-14,Christian Polig,IT,0
-1993-12-14,Mario Reiter,AT,0
-1993-12-14,Andrea Zinsli,CH,18
-1993-12-14,Fabio De Crignis,IT,65
-1993-12-14,Dietmar Thoeni,AT,64
-1993-12-14,Willy Raine,CA,0
-1993-12-14,Siegfried Voglreiter,AT,28
-1993-12-14,Peter Roth,DE,86
-1993-12-14,Matthew Grosjean,US,33
-1993-12-14,Lasse Kjus,NO,59
-1993-12-14,Paul Accola,CH,26
-1993-12-14,Norman Bergamelli,IT,0
-1993-12-14,Andrej Miklavc,SK,0
-1993-12-14,P Casey Puckett,US,0
-1993-12-14,Eric Villiard,CA,0
-1993-12-14,Mats Ericson,SE,4
-1993-12-20,Rob Crossan,CA,32
-1993-12-20,Alois Vogl,DE,0
-1993-12-20,Hubert Strolz,AT,0
-1993-12-20,Kjetil Andre Aamodt,NO,147
-1993-12-20,Gregor Grilc,SK,48
-1993-12-20,Willy Raine,CA,0
-1993-12-20,Jure Kosir,SK,272
-1993-12-20,Guenther Mader,AT,126
-1993-12-20,P Casey Puckett,US,0
-1993-12-20,Andrej Miklavc,SK,0
-1993-12-20,Michael Tritscher,AT,24
-1993-12-20,Alberto Tomba,IT,280
-1993-12-20,Eric Villiard,CA,0
-1993-12-20,Finn Chr. Jagge,NO,220
-1993-12-20,Norman Bergamelli,IT,0
-1993-12-20,Mario Reiter,AT,0
-1993-12-20,Christian Polig,IT,0
-1993-12-20,Mats Ericson,SE,4
-1993-12-20,Fabio De Crignis,IT,65
-1993-12-20,Bernhard Gstrein,AT,135
-1993-12-20,Lasse Kjus,NO,59
-1993-12-20,Bernhard Bauer,DE,55
-1993-12-20,Matthew Grosjean,US,33
-1993-12-20,Yves Dimier,FR,47
-1993-12-20,Paul Accola,CH,26
-1993-12-20,Erik Schlopy,US,13
-1993-12-20,Takuya Ishioka,JP,0
-1993-12-20,Thomas Grandi,CA,11
-1993-12-20,Carlo Gerosa,IT,9
-1993-12-20,Michael von Gruenigen,CH,34
-1993-12-20,Markus Eberle,DE,12
-1993-12-20,Heinz Peter Platter,IT,7
-1993-12-20,Francois Simond,FR,9
-1993-12-20,Roger Pramotton,IT,6
-1993-12-20,Patrice Bianchi,FR,5
-1993-12-20,Mitja Kunc,SK,10
-1993-12-20,Thomas Fogdoe,SE,82
-1993-12-20,Ole Kristian Furuseth,NO,99
-1993-12-20,Dietmar Thoeni,AT,77
-1993-12-20,Angelo Weiss,IT,64
-1993-12-20,Konrad  Kurt Ladstaetter,IT,25
-1993-12-20,Siegfried Voglreiter,AT,36
-1993-12-20,Fabrizio Tescari,IT,20
-1993-12-20,Niklas Nilsson,SE,18
-1993-12-20,Marc Girardelli,LU,42
-1993-12-20,Oliver Kuenzi,CH,18
-1993-12-20,Patrick Staub,CH,59
-1993-12-20,Peter Roth,DE,96
-1993-12-20,Thomas Sykora,AT,51
-1993-12-20,Andrea Zinsli,CH,34
-1993-12-20,Armin Bittner,DE,45
-1993-12-20,Sebastien Amiez,FR,11
-1993-12-20,Thomas Stangassinger,AT,305
-1993-12-20,Kiminobu Kimura,JP,32
-1993-12-20,Christian Mayer,AT,28
-1994-01-09,Kiminobu Kimura,JP,43
-1994-01-09,Thomas Sykora,AT,96
-1994-01-09,Yves Dimier,FR,47
-1994-01-09,Dietmar Thoeni,AT,106
-1994-01-09,Matthew Grosjean,US,33
-1994-01-09,Francois Simond,FR,22
-1994-01-09,Fabio De Crignis,IT,65
-1994-01-09,Jure Kosir,SK,272
-1994-01-09,Thomas Stangassinger,AT,305
-1994-01-09,Guenther Mader,AT,146
-1994-01-09,Rob Crossan,CA,40
-1994-01-09,Andrea Zinsli,CH,52
-1994-01-09,Bernhard Bauer,DE,70
-1994-01-09,Takuya Ishioka,JP,12
-1994-01-09,Sebastien Amiez,FR,25
-1994-01-09,Michael von Gruenigen,CH,70
-1994-01-09,Angelo Weiss,IT,64
-1994-01-09,Patrick Staub,CH,75
-1994-01-09,Christian Mayer,AT,37
-1994-01-09,Oliver Kuenzi,CH,40
-1994-01-09,Konrad  Kurt Ladstaetter,IT,35
-1994-01-09,Gregor Grilc,SK,80
-1994-01-09,Erik Schlopy,US,13
-1994-01-09,Lasse Kjus,NO,59
-1994-01-09,Kjetil Andre Aamodt,NO,187
-1994-01-09,Michael Tritscher,AT,24
-1994-01-09,Ole Kristian Furuseth,NO,179
-1994-01-09,Fabrizio Tescari,IT,20
-1994-01-09,Alois Vogl,DE,0
-1994-01-09,Hubert Strolz,AT,0
-1994-01-09,Thomas Grandi,CA,11
-1994-01-09,Niklas Nilsson,SE,24
-1994-01-09,Paul Accola,CH,50
-1994-01-09,P Casey Puckett,US,0
-1994-01-09,Andrej Miklavc,SK,0
-1994-01-09,Thomas Fogdoe,SE,142
-1994-01-09,Eric Villiard,CA,0
-1994-01-09,Norman Bergamelli,IT,0
-1994-01-09,Peter Roth,DE,146
-1994-01-09,Mario Reiter,AT,0
-1994-01-09,Mats Ericson,SE,4
-1994-01-09,Willy Raine,CA,0
-1994-01-09,Alberto Tomba,IT,280
-1994-01-09,Carlo Gerosa,IT,9
-1994-01-09,Patrice Bianchi,FR,5
-1994-01-09,Roger Pramotton,IT,6
-1994-01-09,Heinz Peter Platter,IT,7
-1994-01-09,Finn Chr. Jagge,NO,320
-1994-01-09,Markus Eberle,DE,12
-1994-01-09,Siegfried Voglreiter,AT,36
-1994-01-09,Bernhard Gstrein,AT,161
-1994-01-09,Mitja Kunc,SK,10
-1994-01-09,Armin Bittner,DE,45
-1994-01-09,Christian Polig,IT,7
-1994-01-09,Marc Girardelli,LU,42
-1994-01-16,Michael von Gruenigen,CH,70
-1994-01-16,Matthew Grosjean,US,33
-1994-01-16,Yves Dimier,FR,47
-1994-01-16,Oliver Kuenzi,CH,54
-1994-01-16,Paul Accola,CH,50
-1994-01-16,Marc Girardelli,LU,42
-1994-01-16,Konrad  Kurt Ladstaetter,IT,39
-1994-01-16,Angelo Weiss,IT,64
-1994-01-16,Fabio De Crignis,IT,65
-1994-01-16,Thomas Grandi,CA,11
-1994-01-16,Carlo Gerosa,IT,9
-1994-01-16,Bernhard Bauer,DE,75
-1994-01-16,Mario Reiter,AT,3
-1994-01-16,Rob Crossan,CA,41
-1994-01-16,Willy Raine,CA,3
-1994-01-16,Mitja Kunc,SK,10
-1994-01-16,Peter Roth,DE,162
-1994-01-16,Dietmar Thoeni,AT,126
-1994-01-16,Kjetil Andre Aamodt,NO,205
-1994-01-16,Christian Mayer,AT,37
-1994-01-16,Andrea Zinsli,CH,67
-1994-01-16,Gregor Grilc,SK,91
-1994-01-16,Hubert Strolz,AT,13
-1994-01-16,Alberto Tomba,IT,340
-1994-01-16,Finn Chr. Jagge,NO,344
-1994-01-16,Thomas Sykora,AT,176
-1994-01-16,Guenther Mader,AT,152
-1994-01-16,Thomas Fogdoe,SE,192
-1994-01-16,Thomas Stangassinger,AT,405
-1994-01-16,Francois Simond,FR,29
-1994-01-16,Alois Vogl,DE,26
-1994-01-16,Bernhard Gstrein,AT,206
-1994-01-16,Kiminobu Kimura,JP,51
-1994-01-16,Siegfried Voglreiter,AT,76
-1994-01-16,Ole Kristian Furuseth,NO,211
-1994-01-16,Patrick Staub,CH,111
-1994-01-16,Norman Bergamelli,IT,0
-1994-01-16,Eric Villiard,CA,0
-1994-01-16,Jure Kosir,SK,301
-1994-01-16,Andrej Miklavc,SK,0
-1994-01-16,Armin Bittner,DE,45
-1994-01-16,Markus Eberle,DE,12
-1994-01-16,Lasse Kjus,NO,71
-1994-01-16,Heinz Peter Platter,IT,7
-1994-01-16,Roger Pramotton,IT,6
-1994-01-16,Patrice Bianchi,FR,5
-1994-01-16,Takuya Ishioka,JP,21
-1994-01-16,Erik Schlopy,US,13
-1994-01-16,Fabrizio Tescari,IT,20
-1994-01-16,Sebastien Amiez,FR,25
-1994-01-16,Niklas Nilsson,SE,24
-1994-01-16,Michael Tritscher,AT,46
-1994-01-16,Christian Polig,IT,7
-1994-01-16,Mats Ericson,SE,14
-1994-01-16,P Casey Puckett,US,0
-1994-01-30,Erik Schlopy,US,13
-1994-01-30,Patrice Bianchi,FR,5
-1994-01-30,Guenther Mader,AT,152
-1994-01-30,Mats Ericson,SE,14
-1994-01-30,Michael Tritscher,AT,46
-1994-01-30,Fabrizio Tescari,IT,20
-1994-01-30,Christian Polig,IT,7
-1994-01-30,Alois Vogl,DE,26
-1994-01-30,Hubert Strolz,AT,13
-1994-01-30,Willy Raine,CA,3
-1994-01-30,Norman Bergamelli,IT,0
-1994-01-30,Roger Pramotton,IT,6
-1994-01-30,Gregor Grilc,SK,91
-1994-01-30,Rob Crossan,CA,41
-1994-01-30,Paul Accola,CH,50
-1994-01-30,Dietmar Thoeni,AT,126
-1994-01-30,Francois Simond,FR,29
-1994-01-30,Heinz Peter Platter,IT,7
-1994-01-30,Oliver Kuenzi,CH,54
-1994-01-30,Matthew Grosjean,US,33
-1994-01-30,Angelo Weiss,IT,64
-1994-01-30,Marc Girardelli,LU,42
-1994-01-30,Christian Mayer,AT,37
-1994-01-30,Ole Kristian Furuseth,NO,211
-1994-01-30,Carlo Gerosa,IT,9
-1994-01-30,Thomas Grandi,CA,11
-1994-01-30,Niklas Nilsson,SE,24
-1994-01-30,Fabio De Crignis,IT,65
-1994-01-30,Markus Eberle,DE,12
-1994-01-30,Eric Villiard,CA,5
-1994-01-30,Bernhard Bauer,DE,91
-1994-01-30,Andrea Zinsli,CH,93
-1994-01-30,Thomas Fogdoe,SE,272
-1994-01-30,Armin Bittner,DE,74
-1994-01-30,Thomas Stangassinger,AT,423
-1994-01-30,Takuya Ishioka,JP,29
-1994-01-30,Konrad  Kurt Ladstaetter,IT,45
-1994-01-30,Yves Dimier,FR,79
-1994-01-30,Sebastien Amiez,FR,65
-1994-01-30,Jure Kosir,SK,361
-1994-01-30,Peter Roth,DE,198
-1994-01-30,Kiminobu Kimura,JP,58
-1994-01-30,Mario Reiter,AT,12
-1994-01-30,Michael von Gruenigen,CH,90
-1994-01-30,Thomas Sykora,AT,236
-1994-01-30,Kjetil Andre Aamodt,NO,215
-1994-01-30,P Casey Puckett,US,15
-1994-01-30,Finn Chr. Jagge,NO,389
-1994-01-30,Andrej Miklavc,SK,14
-1994-01-30,Siegfried Voglreiter,AT,88
-1994-01-30,Patrick Staub,CH,124
-1994-01-30,Bernhard Gstrein,AT,228
-1994-01-30,Lasse Kjus,NO,82
-1994-01-30,Mitja Kunc,SK,34
-1994-01-30,Alberto Tomba,IT,440
-1994-02-06,Heinz Peter Platter,IT,7
-1994-02-06,Francois Simond,FR,29
-1994-02-06,Markus Eberle,DE,12
-1994-02-06,Michael von Gruenigen,CH,90
-1994-02-06,Christian Mayer,AT,37
-1994-02-06,Matthew Grosjean,US,33
-1994-02-06,Ole Kristian Furuseth,NO,211
-1994-02-06,Patrice Bianchi,FR,5
-1994-02-06,Alois Vogl,DE,26
-1994-02-06,Konrad  Kurt Ladstaetter,IT,45
-1994-02-06,Christian Polig,IT,7
-1994-02-06,Thomas Grandi,CA,11
-1994-02-06,Niklas Nilsson,SE,24
-1994-02-06,Erik Schlopy,US,13
-1994-02-06,Dietmar Thoeni,AT,126
-1994-02-06,Patrick Staub,CH,124
-1994-02-06,Hubert Strolz,AT,13
-1994-02-06,Willy Raine,CA,3
-1994-02-06,Mario Reiter,AT,12
-1994-02-06,P Casey Puckett,US,15
-1994-02-06,Eric Villiard,CA,5
-1994-02-06,Carlo Gerosa,IT,13
-1994-02-06,Mats Ericson,SE,14
-1994-02-06,Rob Crossan,CA,41
-1994-02-06,Michael Tritscher,AT,66
-1994-02-06,Kjetil Andre Aamodt,NO,215
-1994-02-06,Siegfried Voglreiter,AT,106
-1994-02-06,Andrea Zinsli,CH,109
-1994-02-06,Armin Bittner,DE,119
-1994-02-06,Sebastien Amiez,FR,80
-1994-02-06,Oliver Kuenzi,CH,68
-1994-02-06,Andrej Miklavc,SK,27
-1994-02-06,Gregor Grilc,SK,113
-1994-02-06,Marc Girardelli,LU,54
-1994-02-06,Kiminobu Kimura,JP,69
-1994-02-06,Takuya Ishioka,JP,39
-1994-02-06,Bernhard Bauer,DE,100
-1994-02-06,Angelo Weiss,IT,72
-1994-02-06,Peter Roth,DE,248
-1994-02-06,Mitja Kunc,SK,41
-1994-02-06,Yves Dimier,FR,85
-1994-02-06,Paul Accola,CH,55
-1994-02-06,Guenther Mader,AT,176
-1994-02-06,Jure Kosir,SK,421
-1994-02-06,Thomas Fogdoe,SE,352
-1994-02-06,Norman Bergamelli,IT,3
-1994-02-06,Alberto Tomba,IT,540
-1994-02-06,Fabrizio Tescari,IT,46
-1994-02-06,Thomas Stangassinger,AT,452
-1994-02-06,Bernhard Gstrein,AT,268
-1994-02-06,Thomas Sykora,AT,268
-1994-02-06,Lasse Kjus,NO,118
-1994-02-06,Finn Chr. Jagge,NO,389
-1994-02-06,Fabio De Crignis,IT,65
-1994-02-06,Roger Pramotton,IT,8
+date,name,ath_country,value,specialty
+1993-11-28,Thomas Stangassinger,AT,100,Slalom
+1993-11-28,Mitja Kunc,SK,10,Giant Slalom
+1993-11-28,Paul Accola,CH,14,Slalom
+1993-11-28,Fabrizio Tescari,IT,0,Slalom
+1993-11-28,Andrea Zinsli,CH,0,Slalom
+1993-11-28,Alois Vogl,DE,0,Slalom
+1993-11-28,Dietmar Thoeni,AT,24,Slalom
+1993-11-28,Bernhard Bauer,DE,26,Slalom
+1993-11-28,Yves Dimier,FR,18,Slalom
+1993-11-28,Rob Crossan,CA,32,Slalom
+1993-11-28,Lasse Kjus,NO,29,Super G
+1993-11-28,Patrick Staub,CH,15,Slalom
+1993-11-28,Michael von Gruenigen,CH,5,Giant Slalom
+1993-11-28,Fabio De Crignis,IT,36,Slalom
+1993-11-28,Sebastien Amiez,FR,0,Slalom
+1993-11-28,Siegfried Voglreiter,AT,0,Slalom
+1993-11-28,Gregor Grilc,SK,0,Slalom
+1993-11-28,Angelo Weiss,IT,16,Slalom
+1993-11-28,Armin Bittner,DE,0,Slalom
+1993-11-28,Kjetil Andre Aamodt,NO,40,Giant Slalom
+1993-11-28,Guenther Mader,AT,45,Giant Slalom
+1993-11-28,Peter Roth,DE,22,Slalom
+1993-11-28,Marc Girardelli,LU,0,Downhill
+1993-11-28,Bernhard Gstrein,AT,50,Slalom
+1993-11-28,Oliver Kuenzi,CH,0,Slalom
+1993-11-28,P Casey Puckett,US,0,Slalom
+1993-11-28,Norman Bergamelli,IT,0,Giant Slalom
+1993-11-28,Willy Raine,CA,0,Combined
+1993-11-28,Eric Villiard,CA,0,Slalom
+1993-11-28,Patrice Bianchi,FR,0,Slalom
+1993-11-28,Roger Pramotton,IT,0,Slalom
+1993-11-28,Christian Polig,IT,0,Slalom
+1993-11-28,Heinz Peter Platter,IT,0,Slalom
+1993-11-28,Mario Reiter,AT,0,Giant Slalom
+1993-11-28,Carlo Gerosa,IT,9,Slalom
+1993-11-28,Mats Ericson,SE,0,Slalom
+1993-11-28,Konrad  Kurt Ladstaetter,IT,8,Slalom
+1993-11-28,Thomas Grandi,CA,11,Giant Slalom
+1993-11-28,Takuya Ishioka,JP,0,Slalom
+1993-11-28,Christian Mayer,AT,6,Giant Slalom
+1993-11-28,Markus Eberle,DE,0,Slalom
+1993-11-28,Niklas Nilsson,SE,12,Slalom
+1993-11-28,Hubert Strolz,AT,0,Giant Slalom
+1993-11-28,Francois Simond,FR,0,Slalom
+1993-11-28,Erik Schlopy,US,13,Slalom
+1993-11-28,Andrej Miklavc,SK,0,Slalom
+1993-11-28,Kiminobu Kimura,JP,0,Slalom
+1993-11-28,Matthew Grosjean,US,20,Slalom
+1993-11-28,Thomas Fogdoe,SE,0,Slalom
+1993-11-28,Michael Tritscher,AT,0,Slalom
+1993-11-28,Ole Kristian Furuseth,NO,7,Slalom
+1993-11-28,Alberto Tomba,IT,0,Slalom
+1993-11-28,Jure Kosir,SK,80,Slalom
+1993-11-28,Thomas Sykora,AT,0,Slalom
+1993-11-28,Finn Chr. Jagge,NO,60,Slalom
+1993-12-05,Roger Pramotton,IT,0,Slalom
+1993-12-05,Francois Simond,FR,0,Slalom
+1993-12-05,Alois Vogl,DE,0,Slalom
+1993-12-05,Hubert Strolz,AT,0,Giant Slalom
+1993-12-05,Gregor Grilc,SK,0,Slalom
+1993-12-05,Christian Polig,IT,0,Slalom
+1993-12-05,Dietmar Thoeni,AT,44,Slalom
+1993-12-05,Niklas Nilsson,SE,12,Slalom
+1993-12-05,Bernhard Bauer,DE,55,Slalom
+1993-12-05,Markus Eberle,DE,12,Slalom
+1993-12-05,Heinz Peter Platter,IT,7,Slalom
+1993-12-05,Michael von Gruenigen,CH,5,Giant Slalom
+1993-12-05,Angelo Weiss,IT,24,Slalom
+1993-12-05,Siegfried Voglreiter,AT,14,Slalom
+1993-12-05,Armin Bittner,DE,16,Slalom
+1993-12-05,Konrad  Kurt Ladstaetter,IT,8,Slalom
+1993-12-05,Mats Ericson,SE,0,Slalom
+1993-12-05,Thomas Grandi,CA,11,Giant Slalom
+1993-12-05,Fabio De Crignis,IT,49,Slalom
+1993-12-05,Oliver Kuenzi,CH,9,Slalom
+1993-12-05,Patrick Staub,CH,15,Slalom
+1993-12-05,Yves Dimier,FR,36,Slalom
+1993-12-05,Takuya Ishioka,JP,0,Slalom
+1993-12-05,Lasse Kjus,NO,44,Super G
+1993-12-05,Carlo Gerosa,IT,9,Slalom
+1993-12-05,Rob Crossan,CA,32,Slalom
+1993-12-05,Alberto Tomba,IT,100,Slalom
+1993-12-05,Mario Reiter,AT,0,Giant Slalom
+1993-12-05,Christian Mayer,AT,16,Giant Slalom
+1993-12-05,Sebastien Amiez,FR,0,Slalom
+1993-12-05,Jure Kosir,SK,140,Slalom
+1993-12-05,Thomas Sykora,AT,36,Slalom
+1993-12-05,Peter Roth,DE,46,Slalom
+1993-12-05,Thomas Fogdoe,SE,32,Slalom
+1993-12-05,Marc Girardelli,LU,22,Downhill
+1993-12-05,Mitja Kunc,SK,10,Giant Slalom
+1993-12-05,Matthew Grosjean,US,20,Slalom
+1993-12-05,Bernhard Gstrein,AT,90,Slalom
+1993-12-05,Norman Bergamelli,IT,0,Giant Slalom
+1993-12-05,P Casey Puckett,US,0,Slalom
+1993-12-05,Paul Accola,CH,14,Slalom
+1993-12-05,Willy Raine,CA,0,Combined
+1993-12-05,Finn Chr. Jagge,NO,110,Slalom
+1993-12-05,Thomas Stangassinger,AT,180,Slalom
+1993-12-05,Michael Tritscher,AT,0,Slalom
+1993-12-05,Kiminobu Kimura,JP,11,Slalom
+1993-12-05,Guenther Mader,AT,71,Giant Slalom
+1993-12-05,Ole Kristian Furuseth,NO,7,Slalom
+1993-12-05,Kjetil Andre Aamodt,NO,85,Giant Slalom
+1993-12-05,Andrej Miklavc,SK,0,Slalom
+1993-12-05,Andrea Zinsli,CH,0,Slalom
+1993-12-05,Eric Villiard,CA,0,Slalom
+1993-12-05,Patrice Bianchi,FR,0,Slalom
+1993-12-05,Erik Schlopy,US,13,Slalom
+1993-12-05,Fabrizio Tescari,IT,0,Slalom
+1993-12-14,Lasse Kjus,NO,59,Super G
+1993-12-14,Finn Chr. Jagge,NO,160,Slalom
+1993-12-14,Takuya Ishioka,JP,0,Slalom
+1993-12-14,Mitja Kunc,SK,10,Giant Slalom
+1993-12-14,Matthew Grosjean,US,33,Slalom
+1993-12-14,Patrick Staub,CH,37,Slalom
+1993-12-14,Francois Simond,FR,9,Slalom
+1993-12-14,Oliver Kuenzi,CH,9,Slalom
+1993-12-14,Thomas Grandi,CA,11,Giant Slalom
+1993-12-14,Alois Vogl,DE,0,Slalom
+1993-12-14,Christian Mayer,AT,16,Giant Slalom
+1993-12-14,Bernhard Bauer,DE,55,Slalom
+1993-12-14,P Casey Puckett,US,0,Slalom
+1993-12-14,Paul Accola,CH,26,Slalom
+1993-12-14,Rob Crossan,CA,32,Slalom
+1993-12-14,Fabrizio Tescari,IT,0,Slalom
+1993-12-14,Andrej Miklavc,SK,0,Slalom
+1993-12-14,Ole Kristian Furuseth,NO,67,Slalom
+1993-12-14,Erik Schlopy,US,13,Slalom
+1993-12-14,Yves Dimier,FR,47,Slalom
+1993-12-14,Michael Tritscher,AT,0,Slalom
+1993-12-14,Hubert Strolz,AT,0,Giant Slalom
+1993-12-14,Markus Eberle,DE,12,Slalom
+1993-12-14,Dietmar Thoeni,AT,64,Slalom
+1993-12-14,Kiminobu Kimura,JP,18,Slalom
+1993-12-14,Niklas Nilsson,SE,12,Slalom
+1993-12-14,Jure Kosir,SK,172,Slalom
+1993-12-14,Andrea Zinsli,CH,18,Slalom
+1993-12-14,Marc Girardelli,LU,22,Downhill
+1993-12-14,Michael von Gruenigen,CH,34,Giant Slalom
+1993-12-14,Gregor Grilc,SK,8,Slalom
+1993-12-14,Heinz Peter Platter,IT,7,Slalom
+1993-12-14,Angelo Weiss,IT,24,Slalom
+1993-12-14,Christian Polig,IT,0,Slalom
+1993-12-14,Konrad  Kurt Ladstaetter,IT,18,Slalom
+1993-12-14,Armin Bittner,DE,40,Slalom
+1993-12-14,Patrice Bianchi,FR,5,Slalom
+1993-12-14,Kjetil Andre Aamodt,NO,121,Giant Slalom
+1993-12-14,Thomas Stangassinger,AT,260,Slalom
+1993-12-14,Eric Villiard,CA,0,Slalom
+1993-12-14,Guenther Mader,AT,97,Giant Slalom
+1993-12-14,Peter Roth,DE,86,Slalom
+1993-12-14,Willy Raine,CA,0,Combined
+1993-12-14,Norman Bergamelli,IT,0,Giant Slalom
+1993-12-14,Bernhard Gstrein,AT,135,Slalom
+1993-12-14,Thomas Sykora,AT,36,Slalom
+1993-12-14,Thomas Fogdoe,SE,32,Slalom
+1993-12-14,Mario Reiter,AT,0,Giant Slalom
+1993-12-14,Siegfried Voglreiter,AT,28,Slalom
+1993-12-14,Roger Pramotton,IT,6,Slalom
+1993-12-14,Alberto Tomba,IT,200,Slalom
+1993-12-14,Mats Ericson,SE,4,Slalom
+1993-12-14,Fabio De Crignis,IT,65,Slalom
+1993-12-14,Sebastien Amiez,FR,0,Slalom
+1993-12-14,Carlo Gerosa,IT,9,Slalom
+1993-12-20,Michael Tritscher,AT,24,Slalom
+1993-12-20,Patrick Staub,CH,59,Slalom
+1993-12-20,Eric Villiard,CA,0,Slalom
+1993-12-20,Fabio De Crignis,IT,65,Slalom
+1993-12-20,Patrice Bianchi,FR,5,Slalom
+1993-12-20,Ole Kristian Furuseth,NO,99,Slalom
+1993-12-20,Fabrizio Tescari,IT,20,Slalom
+1993-12-20,Andrej Miklavc,SK,0,Slalom
+1993-12-20,Alberto Tomba,IT,280,Slalom
+1993-12-20,Kjetil Andre Aamodt,NO,147,Giant Slalom
+1993-12-20,Thomas Stangassinger,AT,305,Slalom
+1993-12-20,Guenther Mader,AT,126,Giant Slalom
+1993-12-20,Thomas Sykora,AT,51,Slalom
+1993-12-20,Peter Roth,DE,96,Slalom
+1993-12-20,Kiminobu Kimura,JP,32,Slalom
+1993-12-20,Oliver Kuenzi,CH,18,Slalom
+1993-12-20,Thomas Fogdoe,SE,82,Slalom
+1993-12-20,Marc Girardelli,LU,42,Downhill
+1993-12-20,Norman Bergamelli,IT,0,Giant Slalom
+1993-12-20,Mitja Kunc,SK,10,Giant Slalom
+1993-12-20,Michael von Gruenigen,CH,34,Giant Slalom
+1993-12-20,Thomas Grandi,CA,11,Giant Slalom
+1993-12-20,Finn Chr. Jagge,NO,220,Slalom
+1993-12-20,Matthew Grosjean,US,33,Slalom
+1993-12-20,Paul Accola,CH,26,Slalom
+1993-12-20,Willy Raine,CA,0,Combined
+1993-12-20,Bernhard Gstrein,AT,135,Slalom
+1993-12-20,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1993-12-20,Mats Ericson,SE,4,Slalom
+1993-12-20,P Casey Puckett,US,0,Slalom
+1993-12-20,Carlo Gerosa,IT,9,Slalom
+1993-12-20,Erik Schlopy,US,13,Slalom
+1993-12-20,Andrea Zinsli,CH,34,Slalom
+1993-12-20,Heinz Peter Platter,IT,7,Slalom
+1993-12-20,Lasse Kjus,NO,59,Super G
+1993-12-20,Niklas Nilsson,SE,18,Slalom
+1993-12-20,Jure Kosir,SK,272,Slalom
+1993-12-20,Roger Pramotton,IT,6,Slalom
+1993-12-20,Bernhard Bauer,DE,55,Slalom
+1993-12-20,Hubert Strolz,AT,0,Giant Slalom
+1993-12-20,Rob Crossan,CA,32,Slalom
+1993-12-20,Siegfried Voglreiter,AT,36,Slalom
+1993-12-20,Christian Mayer,AT,28,Giant Slalom
+1993-12-20,Dietmar Thoeni,AT,77,Slalom
+1993-12-20,Angelo Weiss,IT,64,Slalom
+1993-12-20,Sebastien Amiez,FR,11,Slalom
+1993-12-20,Francois Simond,FR,9,Slalom
+1993-12-20,Armin Bittner,DE,45,Slalom
+1993-12-20,Takuya Ishioka,JP,0,Slalom
+1993-12-20,Alois Vogl,DE,0,Slalom
+1993-12-20,Markus Eberle,DE,12,Slalom
+1993-12-20,Mario Reiter,AT,0,Giant Slalom
+1993-12-20,Yves Dimier,FR,47,Slalom
+1993-12-20,Christian Polig,IT,0,Slalom
+1993-12-20,Gregor Grilc,SK,48,Slalom
+1994-01-09,Markus Eberle,DE,12,Slalom
+1994-01-09,Jure Kosir,SK,272,Slalom
+1994-01-09,Konrad  Kurt Ladstaetter,IT,35,Slalom
+1994-01-09,Matthew Grosjean,US,33,Slalom
+1994-01-09,Norman Bergamelli,IT,0,Giant Slalom
+1994-01-09,Carlo Gerosa,IT,9,Slalom
+1994-01-09,Finn Chr. Jagge,NO,320,Slalom
+1994-01-09,Christian Mayer,AT,37,Giant Slalom
+1994-01-09,Thomas Grandi,CA,11,Giant Slalom
+1994-01-09,Willy Raine,CA,0,Combined
+1994-01-09,Roger Pramotton,IT,6,Slalom
+1994-01-09,Takuya Ishioka,JP,12,Slalom
+1994-01-09,Francois Simond,FR,22,Slalom
+1994-01-09,Erik Schlopy,US,13,Slalom
+1994-01-09,Mats Ericson,SE,4,Slalom
+1994-01-09,Andrej Miklavc,SK,0,Slalom
+1994-01-09,Christian Polig,IT,7,Slalom
+1994-01-09,Patrice Bianchi,FR,5,Slalom
+1994-01-09,Mario Reiter,AT,0,Giant Slalom
+1994-01-09,Hubert Strolz,AT,0,Giant Slalom
+1994-01-09,Kiminobu Kimura,JP,43,Slalom
+1994-01-09,Niklas Nilsson,SE,24,Slalom
+1994-01-09,Eric Villiard,CA,0,Slalom
+1994-01-09,P Casey Puckett,US,0,Slalom
+1994-01-09,Thomas Stangassinger,AT,305,Slalom
+1994-01-09,Alberto Tomba,IT,280,Slalom
+1994-01-09,Heinz Peter Platter,IT,7,Slalom
+1994-01-09,Oliver Kuenzi,CH,40,Slalom
+1994-01-09,Thomas Fogdoe,SE,142,Slalom
+1994-01-09,Michael von Gruenigen,CH,70,Giant Slalom
+1994-01-09,Yves Dimier,FR,47,Slalom
+1994-01-09,Fabrizio Tescari,IT,20,Slalom
+1994-01-09,Ole Kristian Furuseth,NO,179,Slalom
+1994-01-09,Bernhard Bauer,DE,70,Slalom
+1994-01-09,Angelo Weiss,IT,64,Slalom
+1994-01-09,Rob Crossan,CA,40,Slalom
+1994-01-09,Guenther Mader,AT,146,Giant Slalom
+1994-01-09,Michael Tritscher,AT,24,Slalom
+1994-01-09,Lasse Kjus,NO,59,Super G
+1994-01-09,Siegfried Voglreiter,AT,36,Slalom
+1994-01-09,Paul Accola,CH,50,Slalom
+1994-01-09,Sebastien Amiez,FR,25,Slalom
+1994-01-09,Kjetil Andre Aamodt,NO,187,Giant Slalom
+1994-01-09,Peter Roth,DE,146,Slalom
+1994-01-09,Gregor Grilc,SK,80,Slalom
+1994-01-09,Bernhard Gstrein,AT,161,Slalom
+1994-01-09,Alois Vogl,DE,0,Slalom
+1994-01-09,Marc Girardelli,LU,42,Downhill
+1994-01-09,Thomas Sykora,AT,96,Slalom
+1994-01-09,Andrea Zinsli,CH,52,Slalom
+1994-01-09,Mitja Kunc,SK,10,Giant Slalom
+1994-01-09,Patrick Staub,CH,75,Slalom
+1994-01-09,Fabio De Crignis,IT,65,Slalom
+1994-01-09,Dietmar Thoeni,AT,106,Slalom
+1994-01-09,Armin Bittner,DE,45,Slalom
+1994-01-16,Gregor Grilc,SK,91,Slalom
+1994-01-16,Dietmar Thoeni,AT,126,Slalom
+1994-01-16,Angelo Weiss,IT,64,Slalom
+1994-01-16,Niklas Nilsson,SE,24,Slalom
+1994-01-16,Hubert Strolz,AT,13,Giant Slalom
+1994-01-16,Bernhard Bauer,DE,75,Slalom
+1994-01-16,Heinz Peter Platter,IT,7,Slalom
+1994-01-16,Mario Reiter,AT,3,Giant Slalom
+1994-01-16,Oliver Kuenzi,CH,54,Slalom
+1994-01-16,Siegfried Voglreiter,AT,76,Slalom
+1994-01-16,Konrad  Kurt Ladstaetter,IT,39,Slalom
+1994-01-16,Mats Ericson,SE,14,Slalom
+1994-01-16,Thomas Grandi,CA,11,Giant Slalom
+1994-01-16,Michael von Gruenigen,CH,70,Giant Slalom
+1994-01-16,Patrick Staub,CH,111,Slalom
+1994-01-16,Fabio De Crignis,IT,65,Slalom
+1994-01-16,Ole Kristian Furuseth,NO,211,Slalom
+1994-01-16,Alberto Tomba,IT,340,Slalom
+1994-01-16,Takuya Ishioka,JP,21,Slalom
+1994-01-16,Sebastien Amiez,FR,25,Slalom
+1994-01-16,Lasse Kjus,NO,71,Super G
+1994-01-16,Christian Mayer,AT,37,Giant Slalom
+1994-01-16,Thomas Sykora,AT,176,Slalom
+1994-01-16,Markus Eberle,DE,12,Slalom
+1994-01-16,Rob Crossan,CA,41,Slalom
+1994-01-16,Yves Dimier,FR,47,Slalom
+1994-01-16,Carlo Gerosa,IT,9,Slalom
+1994-01-16,Alois Vogl,DE,26,Slalom
+1994-01-16,Kjetil Andre Aamodt,NO,205,Giant Slalom
+1994-01-16,Eric Villiard,CA,0,Slalom
+1994-01-16,P Casey Puckett,US,0,Slalom
+1994-01-16,Peter Roth,DE,162,Slalom
+1994-01-16,Guenther Mader,AT,152,Giant Slalom
+1994-01-16,Matthew Grosjean,US,33,Slalom
+1994-01-16,Finn Chr. Jagge,NO,344,Slalom
+1994-01-16,Kiminobu Kimura,JP,51,Slalom
+1994-01-16,Michael Tritscher,AT,46,Slalom
+1994-01-16,Willy Raine,CA,3,Combined
+1994-01-16,Thomas Stangassinger,AT,405,Slalom
+1994-01-16,Patrice Bianchi,FR,5,Slalom
+1994-01-16,Paul Accola,CH,50,Slalom
+1994-01-16,Mitja Kunc,SK,10,Giant Slalom
+1994-01-16,Fabrizio Tescari,IT,20,Slalom
+1994-01-16,Jure Kosir,SK,301,Slalom
+1994-01-16,Erik Schlopy,US,13,Slalom
+1994-01-16,Andrej Miklavc,SK,0,Slalom
+1994-01-16,Roger Pramotton,IT,6,Slalom
+1994-01-16,Andrea Zinsli,CH,67,Slalom
+1994-01-16,Thomas Fogdoe,SE,192,Slalom
+1994-01-16,Marc Girardelli,LU,42,Downhill
+1994-01-16,Francois Simond,FR,29,Slalom
+1994-01-16,Bernhard Gstrein,AT,206,Slalom
+1994-01-16,Armin Bittner,DE,45,Slalom
+1994-01-16,Norman Bergamelli,IT,0,Giant Slalom
+1994-01-16,Christian Polig,IT,7,Slalom
+1994-01-30,Bernhard Gstrein,AT,228,Slalom
+1994-01-30,Mats Ericson,SE,14,Slalom
+1994-01-30,Alberto Tomba,IT,440,Slalom
+1994-01-30,Willy Raine,CA,3,Combined
+1994-01-30,Ole Kristian Furuseth,NO,211,Slalom
+1994-01-30,Thomas Fogdoe,SE,272,Slalom
+1994-01-30,Fabio De Crignis,IT,65,Slalom
+1994-01-30,Thomas Stangassinger,AT,423,Slalom
+1994-01-30,Carlo Gerosa,IT,9,Slalom
+1994-01-30,Sebastien Amiez,FR,65,Slalom
+1994-01-30,Guenther Mader,AT,152,Giant Slalom
+1994-01-30,Mario Reiter,AT,12,Giant Slalom
+1994-01-30,Eric Villiard,CA,5,Slalom
+1994-01-30,Siegfried Voglreiter,AT,88,Slalom
+1994-01-30,Patrice Bianchi,FR,5,Slalom
+1994-01-30,Gregor Grilc,SK,91,Slalom
+1994-01-30,Kjetil Andre Aamodt,NO,215,Giant Slalom
+1994-01-30,Roger Pramotton,IT,6,Slalom
+1994-01-30,Thomas Sykora,AT,236,Slalom
+1994-01-30,Armin Bittner,DE,74,Slalom
+1994-01-30,Angelo Weiss,IT,64,Slalom
+1994-01-30,Christian Polig,IT,7,Slalom
+1994-01-30,Heinz Peter Platter,IT,7,Slalom
+1994-01-30,Peter Roth,DE,198,Slalom
+1994-01-30,Konrad  Kurt Ladstaetter,IT,45,Slalom
+1994-01-30,Patrick Staub,CH,124,Slalom
+1994-01-30,Michael Tritscher,AT,46,Slalom
+1994-01-30,Yves Dimier,FR,79,Slalom
+1994-01-30,Jure Kosir,SK,361,Slalom
+1994-01-30,Niklas Nilsson,SE,24,Slalom
+1994-01-30,Bernhard Bauer,DE,91,Slalom
+1994-01-30,Norman Bergamelli,IT,0,Giant Slalom
+1994-01-30,Hubert Strolz,AT,13,Giant Slalom
+1994-01-30,Markus Eberle,DE,12,Slalom
+1994-01-30,Dietmar Thoeni,AT,126,Slalom
+1994-01-30,Fabrizio Tescari,IT,20,Slalom
+1994-01-30,Francois Simond,FR,29,Slalom
+1994-01-30,Andrej Miklavc,SK,14,Slalom
+1994-01-30,Alois Vogl,DE,26,Slalom
+1994-01-30,Erik Schlopy,US,13,Slalom
+1994-01-30,Andrea Zinsli,CH,93,Slalom
+1994-01-30,Kiminobu Kimura,JP,58,Slalom
+1994-01-30,P Casey Puckett,US,15,Slalom
+1994-01-30,Finn Chr. Jagge,NO,389,Slalom
+1994-01-30,Marc Girardelli,LU,42,Downhill
+1994-01-30,Lasse Kjus,NO,82,Super G
+1994-01-30,Oliver Kuenzi,CH,54,Slalom
+1994-01-30,Christian Mayer,AT,37,Giant Slalom
+1994-01-30,Matthew Grosjean,US,33,Slalom
+1994-01-30,Rob Crossan,CA,41,Slalom
+1994-01-30,Michael von Gruenigen,CH,90,Giant Slalom
+1994-01-30,Paul Accola,CH,50,Slalom
+1994-01-30,Thomas Grandi,CA,11,Giant Slalom
+1994-01-30,Mitja Kunc,SK,34,Giant Slalom
+1994-01-30,Takuya Ishioka,JP,29,Slalom
+1994-02-06,Thomas Fogdoe,SE,352,Slalom
+1994-02-06,Thomas Sykora,AT,268,Slalom
+1994-02-06,Matthew Grosjean,US,33,Slalom
+1994-02-06,Jure Kosir,SK,421,Slalom
+1994-02-06,Fabrizio Tescari,IT,46,Slalom
+1994-02-06,Kjetil Andre Aamodt,NO,215,Giant Slalom
+1994-02-06,Roger Pramotton,IT,8,Slalom
+1994-02-06,Andrej Miklavc,SK,27,Slalom
+1994-02-06,Oliver Kuenzi,CH,68,Slalom
+1994-02-06,Bernhard Gstrein,AT,268,Slalom
+1994-02-06,Patrice Bianchi,FR,5,Slalom
+1994-02-06,Kiminobu Kimura,JP,69,Slalom
+1994-02-06,Michael Tritscher,AT,66,Slalom
+1994-02-06,Mitja Kunc,SK,41,Giant Slalom
+1994-02-06,Guenther Mader,AT,176,Giant Slalom
+1994-02-06,Willy Raine,CA,3,Combined
+1994-02-06,P Casey Puckett,US,15,Slalom
+1994-02-06,Eric Villiard,CA,5,Slalom
+1994-02-06,Paul Accola,CH,55,Slalom
+1994-02-06,Peter Roth,DE,248,Slalom
+1994-02-06,Marc Girardelli,LU,54,Downhill
+1994-02-06,Alberto Tomba,IT,540,Slalom
+1994-02-06,Alois Vogl,DE,26,Slalom
+1994-02-06,Andrea Zinsli,CH,109,Slalom
+1994-02-06,Konrad  Kurt Ladstaetter,IT,45,Slalom
+1994-02-06,Thomas Grandi,CA,11,Giant Slalom
+1994-02-06,Michael von Gruenigen,CH,90,Giant Slalom
+1994-02-06,Patrick Staub,CH,124,Slalom
+1994-02-06,Lasse Kjus,NO,118,Super G
+1994-02-06,Mats Ericson,SE,14,Slalom
+1994-02-06,Takuya Ishioka,JP,39,Slalom
+1994-02-06,Ole Kristian Furuseth,NO,211,Slalom
+1994-02-06,Christian Mayer,AT,37,Giant Slalom
+1994-02-06,Sebastien Amiez,FR,80,Slalom
+1994-02-06,Rob Crossan,CA,41,Slalom
+1994-02-06,Carlo Gerosa,IT,13,Slalom
+1994-02-06,Markus Eberle,DE,12,Slalom
+1994-02-06,Siegfried Voglreiter,AT,106,Slalom
+1994-02-06,Yves Dimier,FR,85,Slalom
+1994-02-06,Niklas Nilsson,SE,24,Slalom
+1994-02-06,Mario Reiter,AT,12,Giant Slalom
+1994-02-06,Bernhard Bauer,DE,100,Slalom
+1994-02-06,Gregor Grilc,SK,113,Slalom
+1994-02-06,Hubert Strolz,AT,13,Giant Slalom
+1994-02-06,Finn Chr. Jagge,NO,389,Slalom
+1994-02-06,Heinz Peter Platter,IT,7,Slalom
+1994-02-06,Dietmar Thoeni,AT,126,Slalom
+1994-02-06,Francois Simond,FR,29,Slalom
+1994-02-06,Angelo Weiss,IT,72,Slalom
+1994-02-06,Fabio De Crignis,IT,65,Slalom
+1994-02-06,Erik Schlopy,US,13,Slalom
+1994-02-06,Christian Polig,IT,7,Slalom
+1994-02-06,Thomas Stangassinger,AT,452,Slalom
+1994-02-06,Armin Bittner,DE,119,Slalom
+1994-02-06,Norman Bergamelli,IT,3,Giant Slalom

@@ -1,55 +1,55 @@
-date,name,ath_country,value
-2014-01-12,Marie-Michele Gagnon,CA,100
-2014-01-12,Magdalena Fjaellstroem,SE,1
-2014-01-12,Jana Gantnerova,SK,1
-2014-01-12,Cornelia Huetter,AT,0
-2014-01-12,Kajsa Kling,SE,0
-2014-01-12,Anne Sophie Barthet,FR,0
-2014-01-12,Marianne Abderhalden,CH,0
-2014-01-12,Adeline Baud,FR,0
-2014-01-12,Federica Brignone,IT,0
-2014-01-12,Enrica Cipriani,IT,0
-2014-01-12,Alexandra Coletti,MC,0
-2014-01-12,Stacey J Cook,US,0
-2014-01-12,Elena Curtoni,IT,0
-2014-01-12,Julia Ford,US,0
-2014-01-12,Laura Gauche,FR,0
-2014-01-12,Marine Gauthier,FR,0
-2014-01-12,Mireia Gutierrez,AD,0
-2014-01-12,Julia Mancuso,US,0
-2014-01-12,Daniela Merighetti,IT,0
-2014-01-12,Nina Ortlieb,AT,0
-2014-01-12,Jennifer Piot,FR,0
-2014-01-12,Carolina Ruiz Castillo,ES,0
-2014-01-12,Johanna Schnarf,IT,0
-2014-01-12,Lotte Smiseth Sejersted,NO,0
-2014-01-12,Marion Pellissier,FR,2
-2014-01-12,Stefanie Moser,AT,3
-2014-01-12,Stephanie Venier,AT,4
-2014-01-12,Erin Mielzynski,CA,5
-2014-01-12,Michaela Kirchgasser,AT,80
-2014-01-12,Maria Riesch Hoefl,DE,60
-2014-01-12,Nicole Hosp,AT,50
-2014-01-12,Sara Hector,SE,45
-2014-01-12,Tina Maze,SK,40
-2014-01-12,Ramona Siebenhofer,AT,36
-2014-01-12,Anna Veith Fenninger,AT,32
-2014-01-12,Sarka Strachova Zahrobska,CZ,29
-2014-01-12,Denise Feierabend,CH,26
-2014-01-12,Elisabeth Goergl,AT,24
-2014-01-12,Wendy Holdener,CH,22
-2014-01-12,Leanne Smith,US,0
-2014-01-12,Ragnhild Mowinckel,NO,20
-2014-01-12,Lara Gut,CH,16
-2014-01-12,Marusa Ferk,SK,15
-2014-01-12,Tina Weirather,LI,14
-2014-01-12,Camilla Borsotti,IT,13
-2014-01-12,Lisa Magdalena Agerer,IT,12
-2014-01-12,Laurenne Ross,US,11
-2014-01-12,Priska Nufer,CH,10
-2014-01-12,Mirjam Puchner,AT,9
-2014-01-12,Fabienne Suter,CH,9
-2014-01-12,Romane Miradoli,FR,7
-2014-01-12,Francesca Marsaglia,IT,6
-2014-01-12,Dominique Gisin,CH,18
-2014-01-12,Elena Yakovishina,RU,0
+date,name,ath_country,value,specialty
+2014-01-12,Marie-Michele Gagnon,CA,100,Slalom
+2014-01-12,Magdalena Fjaellstroem,SE,1,Slalom
+2014-01-12,Jana Gantnerova,SK,1,Combined
+2014-01-12,Cornelia Huetter,AT,0,Downhill
+2014-01-12,Kajsa Kling,SE,0,Super G
+2014-01-12,Anne Sophie Barthet,FR,0,Slalom
+2014-01-12,Marianne Abderhalden,CH,0,Downhill
+2014-01-12,Adeline Baud,FR,0,Giant Slalom
+2014-01-12,Federica Brignone,IT,0,Giant Slalom
+2014-01-12,Enrica Cipriani,IT,0,Combined
+2014-01-12,Alexandra Coletti,MC,0,Combined
+2014-01-12,Stacey J Cook,US,0,Downhill
+2014-01-12,Elena Curtoni,IT,0,Super G
+2014-01-12,Julia Ford,US,0,Downhill
+2014-01-12,Laura Gauche,FR,0,Combined
+2014-01-12,Marine Gauthier,FR,0,Downhill
+2014-01-12,Mireia Gutierrez,AD,0,Combined
+2014-01-12,Julia Mancuso,US,0,Downhill
+2014-01-12,Daniela Merighetti,IT,0,Downhill
+2014-01-12,Nina Ortlieb,AT,0,Combined
+2014-01-12,Jennifer Piot,FR,0,Super G
+2014-01-12,Carolina Ruiz Castillo,ES,0,Downhill
+2014-01-12,Johanna Schnarf,IT,0,Downhill
+2014-01-12,Lotte Smiseth Sejersted,NO,0,Downhill
+2014-01-12,Marion Pellissier,FR,2,Downhill
+2014-01-12,Stefanie Moser,AT,3,Downhill
+2014-01-12,Stephanie Venier,AT,4,Super G
+2014-01-12,Erin Mielzynski,CA,5,Slalom
+2014-01-12,Michaela Kirchgasser,AT,80,Slalom
+2014-01-12,Maria Riesch Hoefl,DE,60,Downhill
+2014-01-12,Nicole Hosp,AT,50,Super G
+2014-01-12,Sara Hector,SE,45,Giant Slalom
+2014-01-12,Tina Maze,SK,40,Downhill
+2014-01-12,Ramona Siebenhofer,AT,36,Combined
+2014-01-12,Anna Veith Fenninger,AT,32,Giant Slalom
+2014-01-12,Sarka Strachova Zahrobska,CZ,29,Slalom
+2014-01-12,Denise Feierabend,CH,26,Slalom
+2014-01-12,Elisabeth Goergl,AT,24,Downhill
+2014-01-12,Wendy Holdener,CH,22,Slalom
+2014-01-12,Leanne Smith,US,0,Super G
+2014-01-12,Ragnhild Mowinckel,NO,20,Super G
+2014-01-12,Lara Gut,CH,16,Super G
+2014-01-12,Marusa Ferk,SK,15,Downhill
+2014-01-12,Tina Weirather,LI,14,Downhill
+2014-01-12,Camilla Borsotti,IT,13,Combined
+2014-01-12,Lisa Magdalena Agerer,IT,12,Combined
+2014-01-12,Laurenne Ross,US,11,Downhill
+2014-01-12,Priska Nufer,CH,10,Combined
+2014-01-12,Mirjam Puchner,AT,9,Downhill
+2014-01-12,Fabienne Suter,CH,9,Downhill
+2014-01-12,Romane Miradoli,FR,7,Combined
+2014-01-12,Francesca Marsaglia,IT,6,Giant Slalom
+2014-01-12,Dominique Gisin,CH,18,Downhill
+2014-01-12,Elena Yakovishina,RU,0,Combined

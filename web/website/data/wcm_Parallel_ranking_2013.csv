@@ -1,49 +1,49 @@
-date,name,ath_country,value
-2013-01-01,Felix Neureuther,DE,100
-2013-01-01,Manfred Moelgg,IT,0
-2013-01-01,Manuel Feller,AT,0
-2013-01-01,Wolfgang Hoerl,AT,0
-2013-01-01,Alexandr Horoshilov,RU,0
-2013-01-01,Truls Johansen,NO,0
-2013-01-01,Leif Kristian Haugen,NO,0
-2013-01-01,David Chodounsky,US,0
-2013-01-01,Jean-Baptiste Grange,FR,0
-2013-01-01,Mario Matt,AT,29
-2013-01-01,Reinfried Herbst,AT,29
-2013-01-01,Cristian Deville,IT,29
-2013-01-01,Ted Ligety,US,29
-2013-01-01,Luca Aerni,CH,29
-2013-01-01,Aksel-Lund Svindal,NO,29
-2013-01-01,Stefano Gross,IT,29
-2013-01-01,Manfred Pranger,AT,29
-2013-01-01,Fritz Dopfer,DE,40
-2013-01-01,Ivica Kostelic,HR,40
-2013-01-01,Mattias Hargin,SE,40
-2013-01-01,Jens Byggmark,SE,40
-2013-01-01,Marcel Hirscher,AT,80
-2013-01-01,Alexis Pinturault,FR,60
-2013-01-01,Andre Myhrer,SE,50
-2013-01-29,Cristian Deville,IT,29
-2013-01-29,Ted Ligety,US,29
-2013-01-29,Luca Aerni,CH,29
-2013-01-29,Aksel-Lund Svindal,NO,29
-2013-01-29,Mattias Hargin,SE,40
-2013-01-29,Alexis Pinturault,FR,60
-2013-01-29,Marcel Hirscher,AT,180
-2013-01-29,Andre Myhrer,SE,130
-2013-01-29,Ivica Kostelic,HR,100
-2013-01-29,Jean-Baptiste Grange,FR,40
-2013-01-29,David Chodounsky,US,40
-2013-01-29,Manfred Moelgg,IT,29
-2013-01-29,Manuel Feller,AT,29
-2013-01-29,Wolfgang Hoerl,AT,29
-2013-01-29,Alexandr Horoshilov,RU,29
-2013-01-29,Truls Johansen,NO,29
-2013-01-29,Leif Kristian Haugen,NO,29
-2013-01-29,Reinfried Herbst,AT,58
-2013-01-29,Stefano Gross,IT,58
-2013-01-29,Mario Matt,AT,29
-2013-01-29,Fritz Dopfer,DE,80
-2013-01-29,Jens Byggmark,SE,80
-2013-01-29,Felix Neureuther,DE,150
-2013-01-29,Manfred Pranger,AT,29
+date,name,ath_country,value,specialty
+2013-01-01,Felix Neureuther,DE,100,Slalom
+2013-01-01,Manuel Feller,AT,0,Slalom
+2013-01-01,Wolfgang Hoerl,AT,0,Slalom
+2013-01-01,Alexandr Horoshilov,RU,0,Slalom
+2013-01-01,Truls Johansen,NO,0,Parallel
+2013-01-01,Leif Kristian Haugen,NO,0,Giant Slalom
+2013-01-01,Manfred Pranger,AT,29,Slalom
+2013-01-01,Mario Matt,AT,29,Slalom
+2013-01-01,Reinfried Herbst,AT,29,Slalom
+2013-01-01,Cristian Deville,IT,29,Slalom
+2013-01-01,Ted Ligety,US,29,Giant Slalom
+2013-01-01,Luca Aerni,CH,29,Parallel
+2013-01-01,Aksel-Lund Svindal,NO,29,Super G
+2013-01-01,Stefano Gross,IT,29,Slalom
+2013-01-01,David Chodounsky,US,0,Slalom
+2013-01-01,Jean-Baptiste Grange,FR,0,Slalom
+2013-01-01,Manfred Moelgg,IT,0,Slalom
+2013-01-01,Alexis Pinturault,FR,60,Giant Slalom
+2013-01-01,Mattias Hargin,SE,40,Slalom
+2013-01-01,Andre Myhrer,SE,50,Slalom
+2013-01-01,Jens Byggmark,SE,40,Slalom
+2013-01-01,Ivica Kostelic,HR,40,Slalom
+2013-01-01,Marcel Hirscher,AT,80,Slalom
+2013-01-01,Fritz Dopfer,DE,40,Slalom
+2013-01-29,Leif Kristian Haugen,NO,29,Giant Slalom
+2013-01-29,Truls Johansen,NO,29,Parallel
+2013-01-29,Andre Myhrer,SE,130,Slalom
+2013-01-29,Mattias Hargin,SE,40,Slalom
+2013-01-29,Wolfgang Hoerl,AT,29,Slalom
+2013-01-29,Marcel Hirscher,AT,180,Slalom
+2013-01-29,Manuel Feller,AT,29,Slalom
+2013-01-29,Felix Neureuther,DE,150,Slalom
+2013-01-29,Manfred Pranger,AT,29,Slalom
+2013-01-29,Alexandr Horoshilov,RU,29,Slalom
+2013-01-29,Alexis Pinturault,FR,60,Giant Slalom
+2013-01-29,Jean-Baptiste Grange,FR,40,Slalom
+2013-01-29,Reinfried Herbst,AT,58,Slalom
+2013-01-29,Ivica Kostelic,HR,100,Slalom
+2013-01-29,Cristian Deville,IT,29,Slalom
+2013-01-29,Ted Ligety,US,29,Giant Slalom
+2013-01-29,Luca Aerni,CH,29,Parallel
+2013-01-29,Fritz Dopfer,DE,80,Slalom
+2013-01-29,Manfred Moelgg,IT,29,Slalom
+2013-01-29,Stefano Gross,IT,58,Slalom
+2013-01-29,Jens Byggmark,SE,80,Slalom
+2013-01-29,David Chodounsky,US,40,Slalom
+2013-01-29,Mario Matt,AT,29,Slalom
+2013-01-29,Aksel-Lund Svindal,NO,29,Super G

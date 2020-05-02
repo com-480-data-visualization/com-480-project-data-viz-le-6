@@ -1,272 +1,272 @@
-date,name,ath_country,value
-2012-01-13,Ivica Kostelic,HR,100
-2012-01-13,Jean-Baptiste Grange,FR,0
-2012-01-13,Marc Gisin,CH,0
-2012-01-13,Will Brandenburg,US,0
-2012-01-13,Tim Jitloff,US,0
-2012-01-13,Jaroslav Babusiak,SK,0
-2012-01-13,Giovanni Borsotti,IT,0
-2012-01-13,Marc Berthod,CH,0
-2012-01-13,Peter Fill,IT,0
-2012-01-13,Maciej Bydlinski,PL,1
-2012-01-13,Tin Siroki,HR,2
-2012-01-13,Louis-Pierre Helie,CA,0
-2012-01-13,Georgi Georgiev,BG,3
-2012-01-13,Romed Baumann,AT,5
-2012-01-13,Max Franz,AT,6
-2012-01-13,Hagen Patscheider,IT,7
-2012-01-13,Sandro Viletta,CH,8
-2012-01-13,Sebastien Pichot,FR,9
-2012-01-13,Hannes Reichelt,AT,10
-2012-01-13,Bernhard Graf,AT,11
-2012-01-13,Aksel-Lund Svindal,NO,12
-2012-01-13,Siegmar Klotz,IT,13
-2012-01-13,Joachim Puchner,AT,14
-2012-01-13,Thomas Mermillod,FR,4
-2012-01-13,Hans Olsson,SE,0
-2012-01-13,Andreas Romar,FI,0
-2012-01-13,Ryan Semple,CA,0
-2012-01-13,Ivan Muraviev,RU,0
-2012-01-13,Alek Glebov,RU,0
-2012-01-13,Kevin Esteve Rigail,AD,0
-2012-01-13,Andrey Bistrov,RU,0
-2012-01-13,Roberts Rode,LV,0
-2012-01-13,Paolo Pangrazzi,IT,0
-2012-01-13,Vitus Lueoend,CH,0
-2012-01-13,Mattia Casse,IT,0
-2012-01-13,Dalibor Samsal,HR,0
-2012-01-13,Wiley Maple,US,0
-2012-01-13,Michal Klusak,PL,0
-2012-01-13,Marvin Van Heek,NL,0
-2012-01-13,Sebastian Brigovic,HR,0
-2012-01-13,Thomas Baldwin,GB,0
-2012-01-13,Bostjan Kline,SK,0
-2012-01-13,Yuri Danilochkin,BY,0
-2012-01-13,Marc Digruber,AT,0
-2012-01-13,Krystof Kryzl,CZ,0
-2012-01-13,Erik Fisher,US,0
-2012-01-13,Brice Roger,FR,0
-2012-01-13,Carlo Janka,CH,0
-2012-01-13,Didier Defago,CH,0
-2012-01-13,Christian Spescha,CH,0
-2012-01-13,Adrien Theaux,FR,15
-2012-01-13,Matthias Mayer,AT,16
-2012-01-13,Rok Perko,SK,0
-2012-01-13,Matteo Marsaglia,IT,26
-2012-01-13,Natko Zrncic-Dim,HR,45
-2012-01-13,Bjoern Sieber,AT,24
-2012-01-13,Bode Miller,US,60
-2012-01-13,Ted Ligety,US,40
-2012-01-13,Christof Innerhofer,IT,18
-2012-01-13,Beat Feuz,CH,80
-2012-01-13,Benjamin Raich,AT,36
-2012-01-13,Silvan Zurbriggen,CH,22
-2012-01-13,Alexis Pinturault,FR,50
-2012-01-13,Kjetil Jansrud,NO,29
-2012-01-13,Dominik Paris,IT,32
-2012-01-13,Philipp Schoerghofer,AT,20
-2012-01-22,Thomas Mermillod,FR,4
-2012-01-22,Georgi Georgiev,BG,3
-2012-01-22,Joachim Puchner,AT,32
-2012-01-22,Maciej Bydlinski,PL,1
-2012-01-22,Max Franz,AT,6
-2012-01-22,Mirko Deflorian,MD,0
-2012-01-22,Roger Vidosa,AD,0
-2012-01-22,Cristian Javier Simari Birkner,AR,0
-2012-01-22,Tin Siroki,HR,2
-2012-01-22,Martin Vrablik,CZ,0
-2012-01-22,Matthias Mayer,AT,16
-2012-01-22,Sandro Viletta,CH,8
-2012-01-22,Bernhard Graf,AT,11
-2012-01-22,Siegmar Klotz,IT,13
-2012-01-22,Philipp Schoerghofer,AT,20
-2012-01-22,Bjoern Sieber,AT,24
-2012-01-22,Matteo Marsaglia,IT,26
-2012-01-22,Benjamin Raich,AT,36
-2012-01-22,Alexis Pinturault,FR,50
-2012-01-22,Bode Miller,US,60
-2012-01-22,Ivica Kostelic,HR,200
-2012-01-22,Beat Feuz,CH,160
-2012-01-22,Silvan Zurbriggen,CH,82
-2012-01-22,Hagen Patscheider,IT,7
-2012-01-22,Peter Fill,IT,0
-2012-01-22,Giovanni Borsotti,IT,0
-2012-01-22,Jaroslav Babusiak,SK,0
-2012-01-22,Ivan Muraviev,RU,0
-2012-01-22,Alek Glebov,RU,0
-2012-01-22,Kevin Esteve Rigail,AD,0
-2012-01-22,Andrey Bistrov,RU,0
-2012-01-22,Roberts Rode,LV,0
-2012-01-22,Rok Perko,SK,0
-2012-01-22,Paolo Pangrazzi,IT,0
-2012-01-22,Vitus Lueoend,CH,0
-2012-01-22,Mattia Casse,IT,0
-2012-01-22,Dalibor Samsal,HR,0
-2012-01-22,Wiley Maple,US,0
-2012-01-22,Michal Klusak,PL,0
-2012-01-22,Marvin Van Heek,NL,0
-2012-01-22,Sebastian Brigovic,HR,0
-2012-01-22,Thomas Baldwin,GB,0
-2012-01-22,Bostjan Kline,SK,0
-2012-01-22,Yuri Danilochkin,BY,0
-2012-01-22,Tim Jitloff,US,0
-2012-01-22,Will Brandenburg,US,0
-2012-01-22,Marc Gisin,CH,0
-2012-01-22,Jean-Baptiste Grange,FR,0
-2012-01-22,Louis-Pierre Helie,CA,0
-2012-01-22,Hans Olsson,SE,0
-2012-01-22,Marc Berthod,CH,0
-2012-01-22,Ryan Semple,CA,0
-2012-01-22,Didier Defago,CH,0
-2012-01-22,Carlo Janka,CH,0
-2012-01-22,Brice Roger,FR,0
-2012-01-22,Erik Fisher,US,0
-2012-01-22,Krystof Kryzl,CZ,0
-2012-01-22,Marc Digruber,AT,0
-2012-01-22,Christian Spescha,CH,0
-2012-01-22,Adrien Theaux,FR,65
-2012-01-22,Andreas Sander,DE,0
-2012-01-22,Christof Innerhofer,IT,50
-2012-01-22,Andreas Romar,FI,22
-2012-01-22,Natko Zrncic-Dim,HR,74
-2012-01-22,Kjetil Jansrud,NO,65
-2012-01-22,Ted Ligety,US,85
-2012-01-22,Sebastien Pichot,FR,29
-2012-01-22,Aksel-Lund Svindal,NO,38
-2012-01-22,Hannes Reichelt,AT,25
-2012-01-22,Nikola Chongarov,BG,16
-2012-01-22,Romed Baumann,AT,45
-2012-01-22,Dominik Paris,IT,56
-2012-02-05,Aksel-Lund Svindal,NO,88
-2012-02-05,Matteo Marsaglia,IT,26
-2012-02-05,Hagen Patscheider,IT,7
-2012-02-05,Georgi Georgiev,BG,3
-2012-02-05,Tin Siroki,HR,2
-2012-02-05,Joachim Puchner,AT,32
-2012-02-05,Bernhard Graf,AT,11
-2012-02-05,Carlo Janka,CH,18
-2012-02-05,Adrien Theaux,FR,115
-2012-02-05,Bode Miller,US,60
-2012-02-05,Max Franz,AT,22
-2012-02-05,Hannes Reichelt,AT,45
-2012-02-05,Andreas Romar,FI,37
-2012-02-05,Sandro Viletta,CH,22
-2012-02-05,Bjoern Sieber,AT,37
-2012-02-05,Dominik Paris,IT,56
-2012-02-05,Martin Vrablik,CZ,0
-2012-02-05,Roger Vidosa,AD,0
-2012-02-05,Hans Olsson,SE,12
-2012-02-05,Ivan Muraviev,RU,0
-2012-02-05,Alek Glebov,RU,0
-2012-02-05,Kevin Esteve Rigail,AD,0
-2012-02-05,Andrey Bistrov,RU,0
-2012-02-05,Roberts Rode,LV,0
-2012-02-05,Rok Perko,SK,0
-2012-02-05,Paolo Pangrazzi,IT,0
-2012-02-05,Vitus Lueoend,CH,0
-2012-02-05,Mattia Casse,IT,0
-2012-02-05,Dalibor Samsal,HR,0
-2012-02-05,Christian Spescha,CH,0
-2012-02-05,Ryan Semple,CA,0
-2012-02-05,Louis-Pierre Helie,CA,0
-2012-02-05,Jean-Baptiste Grange,FR,0
-2012-02-05,Marc Gisin,CH,0
-2012-02-05,Will Brandenburg,US,0
-2012-02-05,Tim Jitloff,US,0
-2012-02-05,Giovanni Borsotti,IT,0
-2012-02-05,Marc Berthod,CH,0
-2012-02-05,Mirko Deflorian,MD,0
-2012-02-05,Kjetil Jansrud,NO,87
-2012-02-05,Ted Ligety,US,85
-2012-02-05,Philipp Schoerghofer,AT,23
-2012-02-05,Marc Digruber,AT,2
-2012-02-05,Peter Fill,IT,32
-2012-02-05,Christof Innerhofer,IT,76
-2012-02-05,Sebastien Pichot,FR,33
-2012-02-05,Ivica Kostelic,HR,236
-2012-02-05,Krystof Kryzl,CZ,5
-2012-02-05,Romed Baumann,AT,145
-2012-02-05,Natko Zrncic-Dim,HR,80
-2012-02-05,Didier Defago,CH,40
-2012-02-05,Thomas Mermillod,FR,33
-2012-02-05,Andreas Sander,DE,7
-2012-02-05,Alexis Pinturault,FR,130
-2012-02-05,Matthias Mayer,AT,17
-2012-02-05,Erik Fisher,US,8
-2012-02-05,Silvan Zurbriggen,CH,106
-2012-02-05,Beat Feuz,CH,220
-2012-02-05,Benjamin Raich,AT,45
-2012-02-05,Brice Roger,FR,11
-2012-02-05,Siegmar Klotz,IT,23
-2012-02-12,Hagen Patscheider,IT,7
-2012-02-12,Jean-Baptiste Grange,FR,0
-2012-02-12,Georgi Georgiev,BG,3
-2012-02-12,Tin Siroki,HR,2
-2012-02-12,Marc Gisin,CH,0
-2012-02-12,Giovanni Borsotti,IT,0
-2012-02-12,Roger Vidosa,AD,0
-2012-02-12,Tim Jitloff,US,0
-2012-02-12,Marc Berthod,CH,0
-2012-02-12,Jaroslav Babusiak,SK,0
-2012-02-12,Mirko Deflorian,MD,0
-2012-02-12,Will Brandenburg,US,0
-2012-02-12,Bjoern Sieber,AT,49
-2012-02-12,Hans Olsson,SE,12
-2012-02-12,Kevin Esteve Rigail,AD,0
-2012-02-12,Andrey Bistrov,RU,0
-2012-02-12,Rok Perko,SK,0
-2012-02-12,Paolo Pangrazzi,IT,0
-2012-02-12,Vitus Lueoend,CH,0
-2012-02-12,Wiley Maple,US,0
-2012-02-12,Michal Klusak,PL,0
-2012-02-12,Marvin Van Heek,NL,0
-2012-02-12,Sebastian Brigovic,HR,0
-2012-02-12,Thomas Baldwin,GB,0
-2012-02-12,Bostjan Kline,SK,0
-2012-02-12,Marc Digruber,AT,2
-2012-02-12,Krystof Kryzl,CZ,5
-2012-02-12,Erik Fisher,US,8
-2012-02-12,Brice Roger,FR,11
-2012-02-12,Didier Defago,CH,40
-2012-02-12,Christian Spescha,CH,0
-2012-02-12,Sandro Viletta,CH,22
-2012-02-12,Ryan Semple,CA,0
-2012-02-12,Louis-Pierre Helie,CA,0
-2012-02-12,Siegmar Klotz,IT,23
-2012-02-12,Benjamin Raich,AT,90
-2012-02-12,Adrien Theaux,FR,115
-2012-02-12,Andreas Romar,FI,63
-2012-02-12,Yuri Danilochkin,BY,6
-2012-02-12,Nikola Chongarov,BG,23
-2012-02-12,Max Franz,AT,40
-2012-02-12,Hannes Reichelt,AT,65
-2012-02-12,Martin Vrablik,CZ,8
-2012-02-12,Cristian Javier Simari Birkner,AR,5
-2012-02-12,Mattia Casse,IT,16
-2012-02-12,Silvan Zurbriggen,CH,121
-2012-02-12,Bernhard Graf,AT,21
-2012-02-12,Romed Baumann,AT,159
-2012-02-12,Matthias Mayer,AT,30
-2012-02-12,Natko Zrncic-Dim,HR,102
-2012-02-12,Sebastien Pichot,FR,44
-2012-02-12,Andreas Sander,DE,16
-2012-02-12,Peter Fill,IT,58
-2012-02-12,Maciej Bydlinski,PL,5
-2012-02-12,Dalibor Samsal,HR,3
-2012-02-12,Philipp Schoerghofer,AT,23
-2012-02-12,Dominik Paris,IT,56
-2012-02-12,Ted Ligety,US,85
-2012-02-12,Alexis Pinturault,FR,130
-2012-02-12,Bode Miller,US,60
-2012-02-12,Matteo Marsaglia,IT,76
-2012-02-12,Thomas Mermillod,FR,93
-2012-02-12,Beat Feuz,CH,300
-2012-02-12,Alek Glebov,RU,0
-2012-02-12,Ivica Kostelic,HR,336
-2012-02-12,Aksel-Lund Svindal,NO,128
-2012-02-12,Carlo Janka,CH,54
-2012-02-12,Christof Innerhofer,IT,108
-2012-02-12,Kjetil Jansrud,NO,116
-2012-02-12,Roberts Rode,LV,2
-2012-02-12,Joachim Puchner,AT,32
-2012-02-12,Ivan Muraviev,RU,0
+date,name,ath_country,value,specialty
+2012-01-13,Ivica Kostelic,HR,100,Slalom
+2012-01-13,Hannes Reichelt,AT,10,Downhill
+2012-01-13,Jean-Baptiste Grange,FR,0,Giant Slalom
+2012-01-13,Sebastien Pichot,FR,9,Combined
+2012-01-13,Louis-Pierre Helie,CA,0,Combined
+2012-01-13,Philipp Schoerghofer,AT,20,Giant Slalom
+2012-01-13,Ryan Semple,CA,0,Combined
+2012-01-13,Bjoern Sieber,AT,24,Combined
+2012-01-13,Maciej Bydlinski,PL,1,Combined
+2012-01-13,Christian Spescha,CH,0,Combined
+2012-01-13,Joachim Puchner,AT,14,Downhill
+2012-01-13,Peter Fill,IT,0,Downhill
+2012-01-13,Bostjan Kline,SK,0,Super G
+2012-01-13,Thomas Baldwin,GB,0,Combined
+2012-01-13,Dominik Paris,IT,32,Downhill
+2012-01-13,Carlo Janka,CH,0,Downhill
+2012-01-13,Sebastian Brigovic,HR,0,Combined
+2012-01-13,Marvin Van Heek,NL,0,Combined
+2012-01-13,Kjetil Jansrud,NO,29,Super G
+2012-01-13,Michal Klusak,PL,0,Combined
+2012-01-13,Didier Defago,CH,0,Downhill
+2012-01-13,Christof Innerhofer,IT,18,Super G
+2012-01-13,Wiley Maple,US,0,Super G
+2012-01-13,Marc Gisin,CH,0,Downhill
+2012-01-13,Matthias Mayer,AT,16,Super G
+2012-01-13,Georgi Georgiev,BG,3,Combined
+2012-01-13,Krystof Kryzl,CZ,0,Slalom
+2012-01-13,Dalibor Samsal,HR,0,Combined
+2012-01-13,Yuri Danilochkin,BY,0,Combined
+2012-01-13,Tin Siroki,HR,2,Combined
+2012-01-13,Hagen Patscheider,IT,7,Combined
+2012-01-13,Erik Fisher,US,0,Downhill
+2012-01-13,Marc Digruber,AT,0,Slalom
+2012-01-13,Roberts Rode,LV,0,Combined
+2012-01-13,Max Franz,AT,6,Super G
+2012-01-13,Brice Roger,FR,0,Combined
+2012-01-13,Bernhard Graf,AT,11,Combined
+2012-01-13,Hans Olsson,SE,0,Super G
+2012-01-13,Giovanni Borsotti,IT,0,Giant Slalom
+2012-01-13,Siegmar Klotz,IT,13,Downhill
+2012-01-13,Jaroslav Babusiak,SK,0,Combined
+2012-01-13,Sandro Viletta,CH,8,Super G
+2012-01-13,Tim Jitloff,US,0,Giant Slalom
+2012-01-13,Mattia Casse,IT,0,Combined
+2012-01-13,Will Brandenburg,US,0,Slalom
+2012-01-13,Marc Berthod,CH,0,Giant Slalom
+2012-01-13,Benjamin Raich,AT,36,Super G
+2012-01-13,Andreas Romar,FI,0,Super G
+2012-01-13,Ivan Muraviev,RU,0,Combined
+2012-01-13,Kevin Esteve Rigail,AD,0,Combined
+2012-01-13,Thomas Mermillod,FR,4,Combined
+2012-01-13,Alek Glebov,RU,0,Combined
+2012-01-13,Bode Miller,US,60,Downhill
+2012-01-13,Andrey Bistrov,RU,0,Combined
+2012-01-13,Adrien Theaux,FR,15,Downhill
+2012-01-13,Alexis Pinturault,FR,50,Giant Slalom
+2012-01-13,Rok Perko,SK,0,Super G
+2012-01-13,Vitus Lueoend,CH,0,Downhill
+2012-01-13,Aksel-Lund Svindal,NO,12,Super G
+2012-01-13,Matteo Marsaglia,IT,26,Super G
+2012-01-13,Beat Feuz,CH,80,Downhill
+2012-01-13,Romed Baumann,AT,5,Downhill
+2012-01-13,Silvan Zurbriggen,CH,22,Combined
+2012-01-13,Ted Ligety,US,40,Giant Slalom
+2012-01-13,Natko Zrncic-Dim,HR,45,Combined
+2012-01-13,Paolo Pangrazzi,IT,0,Combined
+2012-01-22,Alek Glebov,RU,0,Combined
+2012-01-22,Georgi Georgiev,BG,3,Combined
+2012-01-22,Sandro Viletta,CH,8,Super G
+2012-01-22,Bode Miller,US,60,Downhill
+2012-01-22,Jaroslav Babusiak,SK,0,Combined
+2012-01-22,Cristian Javier Simari Birkner,AR,0,Combined
+2012-01-22,Mattia Casse,IT,0,Combined
+2012-01-22,Martin Vrablik,CZ,0,Combined
+2012-01-22,Tim Jitloff,US,0,Giant Slalom
+2012-01-22,Nikola Chongarov,BG,16,Combined
+2012-01-22,Matthias Mayer,AT,16,Super G
+2012-01-22,Silvan Zurbriggen,CH,82,Combined
+2012-01-22,Will Brandenburg,US,0,Slalom
+2012-01-22,Kevin Esteve Rigail,AD,0,Combined
+2012-01-22,Ivica Kostelic,HR,200,Slalom
+2012-01-22,Siegmar Klotz,IT,13,Downhill
+2012-01-22,Krystof Kryzl,CZ,0,Slalom
+2012-01-22,Roger Vidosa,AD,0,Combined
+2012-01-22,Tin Siroki,HR,2,Combined
+2012-01-22,Erik Fisher,US,0,Downhill
+2012-01-22,Hagen Patscheider,IT,7,Combined
+2012-01-22,Romed Baumann,AT,45,Downhill
+2012-01-22,Andreas Sander,DE,0,Downhill
+2012-01-22,Marc Digruber,AT,0,Slalom
+2012-01-22,Beat Feuz,CH,160,Downhill
+2012-01-22,Dalibor Samsal,HR,0,Combined
+2012-01-22,Giovanni Borsotti,IT,0,Giant Slalom
+2012-01-22,Roberts Rode,LV,0,Combined
+2012-01-22,Ivan Muraviev,RU,0,Combined
+2012-01-22,Mirko Deflorian,MD,0,Combined
+2012-01-22,Bernhard Graf,AT,11,Combined
+2012-01-22,Marc Berthod,CH,0,Giant Slalom
+2012-01-22,Hans Olsson,SE,0,Super G
+2012-01-22,Yuri Danilochkin,BY,0,Combined
+2012-01-22,Alexis Pinturault,FR,50,Giant Slalom
+2012-01-22,Brice Roger,FR,0,Combined
+2012-01-22,Wiley Maple,US,0,Super G
+2012-01-22,Max Franz,AT,6,Super G
+2012-01-22,Marc Gisin,CH,0,Downhill
+2012-01-22,Christian Spescha,CH,0,Combined
+2012-01-22,Bostjan Kline,SK,0,Super G
+2012-01-22,Christof Innerhofer,IT,50,Super G
+2012-01-22,Thomas Baldwin,GB,0,Combined
+2012-01-22,Dominik Paris,IT,56,Downhill
+2012-01-22,Matteo Marsaglia,IT,26,Super G
+2012-01-22,Carlo Janka,CH,0,Downhill
+2012-01-22,Paolo Pangrazzi,IT,0,Combined
+2012-01-22,Sebastian Brigovic,HR,0,Combined
+2012-01-22,Natko Zrncic-Dim,HR,74,Combined
+2012-01-22,Marvin Van Heek,NL,0,Combined
+2012-01-22,Kjetil Jansrud,NO,65,Super G
+2012-01-22,Didier Defago,CH,0,Downhill
+2012-01-22,Ted Ligety,US,85,Giant Slalom
+2012-01-22,Michal Klusak,PL,0,Combined
+2012-01-22,Benjamin Raich,AT,36,Super G
+2012-01-22,Vitus Lueoend,CH,0,Downhill
+2012-01-22,Peter Fill,IT,0,Downhill
+2012-01-22,Andreas Romar,FI,22,Super G
+2012-01-22,Aksel-Lund Svindal,NO,38,Super G
+2012-01-22,Adrien Theaux,FR,65,Downhill
+2012-01-22,Joachim Puchner,AT,32,Downhill
+2012-01-22,Andrey Bistrov,RU,0,Combined
+2012-01-22,Hannes Reichelt,AT,25,Downhill
+2012-01-22,Jean-Baptiste Grange,FR,0,Giant Slalom
+2012-01-22,Thomas Mermillod,FR,4,Combined
+2012-01-22,Rok Perko,SK,0,Super G
+2012-01-22,Sebastien Pichot,FR,29,Combined
+2012-01-22,Louis-Pierre Helie,CA,0,Combined
+2012-01-22,Philipp Schoerghofer,AT,20,Giant Slalom
+2012-01-22,Maciej Bydlinski,PL,1,Combined
+2012-01-22,Bjoern Sieber,AT,24,Combined
+2012-01-22,Ryan Semple,CA,0,Combined
+2012-02-05,Giovanni Borsotti,IT,0,Giant Slalom
+2012-02-05,Marc Gisin,CH,0,Downhill
+2012-02-05,Andrey Bistrov,RU,0,Combined
+2012-02-05,Alek Glebov,RU,0,Combined
+2012-02-05,Georgi Georgiev,BG,3,Combined
+2012-02-05,Ryan Semple,CA,0,Combined
+2012-02-05,Tim Jitloff,US,0,Giant Slalom
+2012-02-05,Mirko Deflorian,MD,0,Combined
+2012-02-05,Vitus Lueoend,CH,0,Downhill
+2012-02-05,Rok Perko,SK,0,Super G
+2012-02-05,Dalibor Samsal,HR,0,Combined
+2012-02-05,Louis-Pierre Helie,CA,0,Combined
+2012-02-05,Jean-Baptiste Grange,FR,0,Giant Slalom
+2012-02-05,Ivan Muraviev,RU,0,Combined
+2012-02-05,Roberts Rode,LV,0,Combined
+2012-02-05,Will Brandenburg,US,0,Slalom
+2012-02-05,Tin Siroki,HR,2,Combined
+2012-02-05,Marc Digruber,AT,2,Slalom
+2012-02-05,Christian Spescha,CH,0,Combined
+2012-02-05,Paolo Pangrazzi,IT,0,Combined
+2012-02-05,Kevin Esteve Rigail,AD,0,Combined
+2012-02-05,Marc Berthod,CH,0,Giant Slalom
+2012-02-05,Andreas Sander,DE,7,Downhill
+2012-02-05,Silvan Zurbriggen,CH,106,Combined
+2012-02-05,Benjamin Raich,AT,45,Super G
+2012-02-05,Siegmar Klotz,IT,23,Downhill
+2012-02-05,Andreas Romar,FI,37,Super G
+2012-02-05,Sandro Viletta,CH,22,Super G
+2012-02-05,Thomas Mermillod,FR,33,Combined
+2012-02-05,Mattia Casse,IT,0,Combined
+2012-02-05,Adrien Theaux,FR,115,Downhill
+2012-02-05,Carlo Janka,CH,18,Downhill
+2012-02-05,Bjoern Sieber,AT,37,Combined
+2012-02-05,Matthias Mayer,AT,17,Super G
+2012-02-05,Aksel-Lund Svindal,NO,88,Super G
+2012-02-05,Max Franz,AT,22,Super G
+2012-02-05,Philipp Schoerghofer,AT,23,Giant Slalom
+2012-02-05,Joachim Puchner,AT,32,Downhill
+2012-02-05,Matteo Marsaglia,IT,26,Super G
+2012-02-05,Ted Ligety,US,85,Giant Slalom
+2012-02-05,Hannes Reichelt,AT,45,Downhill
+2012-02-05,Hans Olsson,SE,12,Super G
+2012-02-05,Sebastien Pichot,FR,33,Combined
+2012-02-05,Natko Zrncic-Dim,HR,80,Combined
+2012-02-05,Roger Vidosa,AD,0,Combined
+2012-02-05,Ivica Kostelic,HR,236,Slalom
+2012-02-05,Hagen Patscheider,IT,7,Combined
+2012-02-05,Martin Vrablik,CZ,0,Combined
+2012-02-05,Peter Fill,IT,32,Downhill
+2012-02-05,Dominik Paris,IT,56,Downhill
+2012-02-05,Beat Feuz,CH,220,Downhill
+2012-02-05,Erik Fisher,US,8,Downhill
+2012-02-05,Romed Baumann,AT,145,Downhill
+2012-02-05,Christof Innerhofer,IT,76,Super G
+2012-02-05,Alexis Pinturault,FR,130,Giant Slalom
+2012-02-05,Kjetil Jansrud,NO,87,Super G
+2012-02-05,Didier Defago,CH,40,Downhill
+2012-02-05,Bode Miller,US,60,Downhill
+2012-02-05,Brice Roger,FR,11,Combined
+2012-02-05,Bernhard Graf,AT,11,Combined
+2012-02-05,Krystof Kryzl,CZ,5,Slalom
+2012-02-12,Michal Klusak,PL,0,Combined
+2012-02-12,Marvin Van Heek,NL,0,Combined
+2012-02-12,Wiley Maple,US,0,Super G
+2012-02-12,Kjetil Jansrud,NO,116,Super G
+2012-02-12,Didier Defago,CH,40,Downhill
+2012-02-12,Benjamin Raich,AT,90,Super G
+2012-02-12,Ted Ligety,US,85,Giant Slalom
+2012-02-12,Cristian Javier Simari Birkner,AR,5,Combined
+2012-02-12,Rok Perko,SK,0,Super G
+2012-02-12,Natko Zrncic-Dim,HR,102,Combined
+2012-02-12,Ivica Kostelic,HR,336,Slalom
+2012-02-12,Mirko Deflorian,MD,0,Combined
+2012-02-12,Ivan Muraviev,RU,0,Combined
+2012-02-12,Romed Baumann,AT,159,Downhill
+2012-02-12,Beat Feuz,CH,300,Downhill
+2012-02-12,Alek Glebov,RU,0,Combined
+2012-02-12,Alexis Pinturault,FR,130,Giant Slalom
+2012-02-12,Vitus Lueoend,CH,0,Downhill
+2012-02-12,Kevin Esteve Rigail,AD,0,Combined
+2012-02-12,Silvan Zurbriggen,CH,121,Combined
+2012-02-12,Andrey Bistrov,RU,0,Combined
+2012-02-12,Thomas Mermillod,FR,93,Combined
+2012-02-12,Adrien Theaux,FR,115,Downhill
+2012-02-12,Aksel-Lund Svindal,NO,128,Super G
+2012-02-12,Paolo Pangrazzi,IT,0,Combined
+2012-02-12,Matteo Marsaglia,IT,76,Super G
+2012-02-12,Bode Miller,US,60,Downhill
+2012-02-12,Sebastian Brigovic,HR,0,Combined
+2012-02-12,Andreas Romar,FI,63,Super G
+2012-02-12,Thomas Baldwin,GB,0,Combined
+2012-02-12,Sandro Viletta,CH,22,Super G
+2012-02-12,Giovanni Borsotti,IT,0,Giant Slalom
+2012-02-12,Siegmar Klotz,IT,23,Downhill
+2012-02-12,Marc Berthod,CH,0,Giant Slalom
+2012-02-12,Hans Olsson,SE,12,Super G
+2012-02-12,Bernhard Graf,AT,21,Combined
+2012-02-12,Brice Roger,FR,11,Combined
+2012-02-12,Andreas Sander,DE,16,Downhill
+2012-02-12,Jaroslav Babusiak,SK,0,Combined
+2012-02-12,Roberts Rode,LV,2,Combined
+2012-02-12,Erik Fisher,US,8,Downhill
+2012-02-12,Tin Siroki,HR,2,Combined
+2012-02-12,Martin Vrablik,CZ,8,Combined
+2012-02-12,Hagen Patscheider,IT,7,Combined
+2012-02-12,Yuri Danilochkin,BY,6,Combined
+2012-02-12,Dalibor Samsal,HR,3,Combined
+2012-02-12,Georgi Georgiev,BG,3,Combined
+2012-02-12,Krystof Kryzl,CZ,5,Slalom
+2012-02-12,Marc Digruber,AT,2,Slalom
+2012-02-12,Carlo Janka,CH,54,Downhill
+2012-02-12,Mattia Casse,IT,16,Combined
+2012-02-12,Tim Jitloff,US,0,Giant Slalom
+2012-02-12,Dominik Paris,IT,56,Downhill
+2012-02-12,Bostjan Kline,SK,0,Super G
+2012-02-12,Christof Innerhofer,IT,108,Super G
+2012-02-12,Christian Spescha,CH,0,Combined
+2012-02-12,Peter Fill,IT,58,Downhill
+2012-02-12,Maciej Bydlinski,PL,5,Combined
+2012-02-12,Ryan Semple,CA,0,Combined
+2012-02-12,Bjoern Sieber,AT,49,Combined
+2012-02-12,Nikola Chongarov,BG,23,Combined
+2012-02-12,Louis-Pierre Helie,CA,0,Combined
+2012-02-12,Sebastien Pichot,FR,44,Combined
+2012-02-12,Jean-Baptiste Grange,FR,0,Giant Slalom
+2012-02-12,Hannes Reichelt,AT,65,Downhill
+2012-02-12,Marc Gisin,CH,0,Downhill
+2012-02-12,Joachim Puchner,AT,32,Downhill
+2012-02-12,Max Franz,AT,40,Super G
+2012-02-12,Will Brandenburg,US,0,Slalom
+2012-02-12,Matthias Mayer,AT,30,Super G
+2012-02-12,Philipp Schoerghofer,AT,23,Giant Slalom
+2012-02-12,Roger Vidosa,AD,0,Combined

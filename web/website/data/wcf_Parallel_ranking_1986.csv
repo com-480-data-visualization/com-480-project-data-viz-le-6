@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1986-03-23,Vreni Schneider,CH,25
-1986-03-23,Maria Walliser,CH,20
-1986-03-23,Corinne Schmidhauser,CH,15
-1986-03-23,Erika Hess,CH,12
-1986-03-23,Marina Kiehl,DE,11
-1986-03-23,Mateja Svet,SK,10
-1986-03-23,Zoe Haas,CH,9
-1986-03-23,Monika Hess,CH,8
-1986-03-23,Anita Wachter,AT,7
-1986-03-23,Heidi Zeller - Baehler,CH,6
-1986-03-23,Sylvia Eder,AT,5
-1986-03-23,Malgorzata Tlalka - Mogore,FR,4
-1986-03-23,Perrine Pelen,FR,3
-1986-03-23,Brigitte Oertli,CH,2
-1986-03-23,Eva Twardokens,US,1
+date,name,ath_country,value,specialty
+1986-03-23,Vreni Schneider,CH,25,Giant Slalom
+1986-03-23,Maria Walliser,CH,20,Downhill
+1986-03-23,Corinne Schmidhauser,CH,15,Slalom
+1986-03-23,Erika Hess,CH,12,Slalom
+1986-03-23,Marina Kiehl,DE,11,Super G
+1986-03-23,Mateja Svet,SK,10,Giant Slalom
+1986-03-23,Zoe Haas,CH,9,Downhill
+1986-03-23,Monika Hess,CH,8,Combined
+1986-03-23,Anita Wachter,AT,7,Giant Slalom
+1986-03-23,Heidi Zeller - Baehler,CH,6,Downhill
+1986-03-23,Sylvia Eder,AT,5,Downhill
+1986-03-23,Malgorzata Tlalka - Mogore,FR,4,Slalom
+1986-03-23,Perrine Pelen,FR,3,Slalom
+1986-03-23,Brigitte Oertli,CH,2,Downhill
+1986-03-23,Eva Twardokens,US,1,Slalom

@@ -1,281 +1,281 @@
-date,name,ath_country,value
-1994-12-11,Patrick Ortlieb,AT,100
-1994-12-11,Fredrik Nyberg,SE,0
-1994-12-11,Achim Vogt,LI,1
-1994-12-11,Ian Piccard,FR,2
-1994-12-11,Patrik Jaerbyn,SE,3
-1994-12-11,Stephan Eberharter,AT,4
-1994-12-11,A.J. Kitt,US,5
-1994-12-11,William Besse,CH,6
-1994-12-11,Hans-Joerg Tauscher,DE,8
-1994-12-11,Kjetil Andre Aamodt,NO,8
-1994-12-11,Steve Locher,CH,9
-1994-12-11,Pietro Vitalini,IT,10
-1994-12-11,Lasse Kjus,NO,11
-1994-12-11,Richard Kroell,AT,12
-1994-12-11,Paul Accola,CH,13
-1994-12-11,Kristian Ghedina,IT,14
-1994-12-11,Christophe Ple',FR,15
-1994-12-11,Tobias Barnerssoi,DE,16
-1994-12-11,Harald Chr. Strand Nilsen,NO,18
-1994-12-11,Alessandro Fattori,IT,20
-1994-12-11,Hans Knauss,AT,0
-1994-12-11,Marco Hangl,CH,0
-1994-12-11,Juergen Hasler,LI,0
-1994-12-11,Alberto Senigagliesi,IT,0
-1994-12-11,Mario Reiter,AT,0
-1994-12-11,David Pretot,FR,0
-1994-12-11,Rainer Salzgeber,AT,0
-1994-12-11,Xavier Fournier,FR,0
-1994-12-11,Daniel Brunner,CH,0
-1994-12-11,Patrick Wirth,AT,0
-1994-12-11,Frank Piccard,FR,0
-1994-12-11,Patrick Holzer,IT,0
-1994-12-11,Daron Rahlves,US,0
-1994-12-11,Guenther Mader,AT,24
-1994-12-11,Jean Luc Cretier,FR,0
-1994-12-11,Franco Cavegn,CH,0
-1994-12-11,Hannes Trinkl,AT,0
-1994-12-11,Ed Podivinsky,CA,0
-1994-12-11,Christian Greber,AT,0
-1994-12-11,Miran Rauter,SK,0
-1994-12-11,Asgeir Linberg,NO,0
-1994-12-11,Bruno Kernen,CH,0
-1994-12-11,Kenneth Sivertsen,NO,0
-1994-12-11,Jernej Koblar,SK,0
-1994-12-11,Janne Leskinen,FI,0
-1994-12-11,Armin Assinger,AT,24
-1994-12-11,Marc Girardelli,LU,0
-1994-12-11,Daniel Mahrer,CH,40
-1994-12-11,Kyle Rasmussen,US,29
-1994-12-11,Werner Perathoner,IT,32
-1994-12-11,Luca Cattaneo,IT,26
-1994-12-11,Peter Runggaldier,IT,36
-1994-12-11,Tommy Moe,US,80
-1994-12-11,Luc Alphand,FR,60
-1994-12-11,Atle Skaardal,NO,50
-1994-12-11,Luigi Colturi,IT,45
-1995-01-16,Luigi Colturi,IT,71
-1995-01-16,Guenther Mader,AT,124
-1995-01-16,Peter Runggaldier,IT,116
-1995-01-16,Armin Assinger,AT,84
-1995-01-16,Fredrik Nyberg,SE,50
-1995-01-16,Marc Girardelli,LU,26
-1995-01-16,Daniel Mahrer,CH,40
-1995-01-16,Paul Accola,CH,14
-1995-01-16,Harald Chr. Strand Nilsen,NO,19
-1995-01-16,Richard Kroell,AT,52
-1995-01-16,Miran Rauter,SK,2
-1995-01-16,Kyle Rasmussen,US,32
-1995-01-16,Kristian Ghedina,IT,18
-1995-01-16,Asgeir Linberg,NO,5
-1995-01-16,Kjetil Andre Aamodt,NO,14
-1995-01-16,Alessandro Fattori,IT,56
-1995-01-16,Werner Perathoner,IT,77
-1995-01-16,Tobias Barnerssoi,DE,16
-1995-01-16,Christophe Ple',FR,15
-1995-01-16,Lasse Kjus,NO,11
-1995-01-16,Bruno Kernen,CH,7
-1995-01-16,Patrik Jaerbyn,SE,25
-1995-01-16,Mario Reiter,AT,0
-1995-01-16,David Pretot,FR,0
-1995-01-16,Rainer Salzgeber,AT,0
-1995-01-16,Xavier Fournier,FR,0
-1995-01-16,Daniel Brunner,CH,0
-1995-01-16,Patrick Wirth,AT,0
-1995-01-16,Frank Piccard,FR,0
-1995-01-16,Patrick Holzer,IT,0
-1995-01-16,Kenneth Sivertsen,NO,8
-1995-01-16,Daron Rahlves,US,0
-1995-01-16,Janne Leskinen,FI,0
-1995-01-16,Franco Cavegn,CH,0
-1995-01-16,Hannes Trinkl,AT,0
-1995-01-16,Ed Podivinsky,CA,0
-1995-01-16,Christian Greber,AT,0
-1995-01-16,Achim Vogt,LI,1
-1995-01-16,Stephan Eberharter,AT,4
-1995-01-16,A.J. Kitt,US,5
-1995-01-16,William Besse,CH,6
-1995-01-16,Hans-Joerg Tauscher,DE,8
-1995-01-16,Jean Luc Cretier,FR,0
-1995-01-16,Jernej Koblar,SK,9
-1995-01-16,Patrick Ortlieb,AT,100
-1995-01-16,Juergen Hasler,LI,13
-1995-01-16,Luc Alphand,FR,76
-1995-01-16,Luca Cattaneo,IT,37
-1995-01-16,Ian Piccard,FR,20
-1995-01-16,Pietro Vitalini,IT,25
-1995-01-16,Marco Hangl,CH,20
-1995-01-16,Tommy Moe,US,109
-1995-01-16,Alberto Senigagliesi,IT,10
-1995-01-16,Steve Locher,CH,21
-1995-01-16,Atle Skaardal,NO,64
-1995-01-16,Hans Knauss,AT,32
-1995-02-26,Xavier Fournier,FR,0
-1995-02-26,Daniel Brunner,CH,0
-1995-02-26,Peter Runggaldier,IT,216
-1995-02-26,Rainer Salzgeber,AT,0
-1995-02-26,Patrick Wirth,AT,0
-1995-02-26,David Pretot,FR,0
-1995-02-26,Ian Piccard,FR,35
-1995-02-26,Janne Leskinen,FI,14
-1995-02-26,Asgeir Linberg,NO,5
-1995-02-26,Jernej Koblar,SK,9
-1995-02-26,Mario Reiter,AT,0
-1995-02-26,A.J. Kitt,US,85
-1995-02-26,Atle Skaardal,NO,80
-1995-02-26,Christian Greber,AT,60
-1995-02-26,Werner Perathoner,IT,77
-1995-02-26,Tobias Barnerssoi,DE,16
-1995-02-26,Harald Chr. Strand Nilsen,NO,19
-1995-02-26,Alessandro Fattori,IT,56
-1995-02-26,Luca Cattaneo,IT,37
-1995-02-26,Paul Accola,CH,14
-1995-02-26,Luigi Colturi,IT,71
-1995-02-26,Tommy Moe,US,109
-1995-02-26,Richard Kroell,AT,52
-1995-02-26,Steve Locher,CH,21
-1995-02-26,Kjetil Andre Aamodt,NO,38
-1995-02-26,Hans-Joerg Tauscher,DE,8
-1995-02-26,William Besse,CH,6
-1995-02-26,Stephan Eberharter,AT,4
-1995-02-26,Luc Alphand,FR,96
-1995-02-26,Achim Vogt,LI,1
-1995-02-26,Marco Hangl,CH,20
-1995-02-26,Hannes Trinkl,AT,29
-1995-02-26,Franco Cavegn,CH,18
-1995-02-26,Alberto Senigagliesi,IT,10
-1995-02-26,Juergen Hasler,LI,13
-1995-02-26,Christophe Ple',FR,15
-1995-02-26,Marc Girardelli,LU,58
-1995-02-26,Kyle Rasmussen,US,38
-1995-02-26,Kristian Ghedina,IT,30
-1995-02-26,Hans Knauss,AT,33
-1995-02-26,Pietro Vitalini,IT,65
-1995-02-26,Patrick Holzer,IT,4
-1995-02-26,Ed Podivinsky,CA,50
-1995-02-26,Patrick Ortlieb,AT,107
-1995-02-26,Daron Rahlves,US,8
-1995-02-26,Guenther Mader,AT,169
-1995-02-26,Patrik Jaerbyn,SE,38
-1995-02-26,Lasse Kjus,NO,47
-1995-02-26,Frank Piccard,FR,3
-1995-02-26,Bruno Kernen,CH,18
-1995-02-26,Daniel Mahrer,CH,62
-1995-02-26,Kenneth Sivertsen,NO,13
-1995-02-26,Jean Luc Cretier,FR,9
-1995-02-26,Fredrik Nyberg,SE,76
-1995-02-26,Armin Assinger,AT,94
-1995-02-26,Miran Rauter,SK,4
-1995-03-10,Janne Leskinen,FI,14
-1995-03-10,Steve Locher,CH,21
-1995-03-10,Patrick Holzer,IT,4
-1995-03-10,Frank Piccard,FR,3
-1995-03-10,Mario Reiter,AT,0
-1995-03-10,Patrick Wirth,AT,26
-1995-03-10,Atle Skaardal,NO,102
-1995-03-10,Jean Luc Cretier,FR,9
-1995-03-10,Franco Cavegn,CH,18
-1995-03-10,Alberto Senigagliesi,IT,10
-1995-03-10,Asgeir Linberg,NO,5
-1995-03-10,Paul Accola,CH,14
-1995-03-10,Tobias Barnerssoi,DE,16
-1995-03-10,Hans-Joerg Tauscher,DE,8
-1995-03-10,Harald Chr. Strand Nilsen,NO,19
-1995-03-10,Luigi Colturi,IT,71
-1995-03-10,Luc Alphand,FR,96
-1995-03-10,Tommy Moe,US,109
-1995-03-10,William Besse,CH,6
-1995-03-10,Stephan Eberharter,AT,4
-1995-03-10,Patrik Jaerbyn,SE,38
-1995-03-10,Ian Piccard,FR,35
-1995-03-10,Achim Vogt,LI,1
-1995-03-10,Fredrik Nyberg,SE,76
-1995-03-10,Marco Hangl,CH,20
-1995-03-10,Kenneth Sivertsen,NO,13
-1995-03-10,Christian Greber,AT,60
-1995-03-10,Lasse Kjus,NO,47
-1995-03-10,Juergen Hasler,LI,20
-1995-03-10,Rainer Salzgeber,AT,5
-1995-03-10,Peter Runggaldier,IT,252
-1995-03-10,Daron Rahlves,US,58
-1995-03-10,Pietro Vitalini,IT,97
-1995-03-10,Miran Rauter,SK,5
-1995-03-10,Kyle Rasmussen,US,98
-1995-03-10,Daniel Mahrer,CH,74
-1995-03-10,Hannes Trinkl,AT,43
-1995-03-10,Christophe Ple',FR,26
-1995-03-10,Kristian Ghedina,IT,110
-1995-03-10,Luca Cattaneo,IT,51
-1995-03-10,Jernej Koblar,SK,11
-1995-03-10,Werner Perathoner,IT,177
-1995-03-10,Ed Podivinsky,CA,56
-1995-03-10,David Pretot,FR,3
-1995-03-10,Patrick Ortlieb,AT,122
-1995-03-10,Alessandro Fattori,IT,96
-1995-03-10,Hans Knauss,AT,49
-1995-03-10,Xavier Fournier,FR,9
-1995-03-10,Richard Kroell,AT,70
-1995-03-10,Kjetil Andre Aamodt,NO,47
-1995-03-10,Bruno Kernen,CH,38
-1995-03-10,Armin Assinger,AT,123
-1995-03-10,A.J. Kitt,US,89
-1995-03-10,Marc Girardelli,LU,82
-1995-03-10,Daniel Brunner,CH,10
-1995-03-10,Guenther Mader,AT,214
-1995-03-16,Asgeir Linberg,NO,5
-1995-03-16,Daniel Mahrer,CH,100
-1995-03-16,Kenneth Sivertsen,NO,13
-1995-03-16,Jernej Koblar,SK,11
-1995-03-16,Juergen Hasler,LI,20
-1995-03-16,Marco Hangl,CH,20
-1995-03-16,Hans Knauss,AT,49
-1995-03-16,Achim Vogt,LI,1
-1995-03-16,Ian Piccard,FR,35
-1995-03-16,Bruno Kernen,CH,38
-1995-03-16,Alberto Senigagliesi,IT,10
-1995-03-16,Franco Cavegn,CH,18
-1995-03-16,Ed Podivinsky,CA,56
-1995-03-16,Hannes Trinkl,AT,43
-1995-03-16,Patrik Jaerbyn,SE,38
-1995-03-16,Jean Luc Cretier,FR,9
-1995-03-16,Patrick Holzer,IT,4
-1995-03-16,Frank Piccard,FR,3
-1995-03-16,Daniel Brunner,CH,10
-1995-03-16,Xavier Fournier,FR,9
-1995-03-16,Rainer Salzgeber,AT,5
-1995-03-16,David Pretot,FR,3
-1995-03-16,Pietro Vitalini,IT,106
-1995-03-16,Janne Leskinen,FI,36
-1995-03-16,Miran Rauter,SK,5
-1995-03-16,Stephan Eberharter,AT,4
-1995-03-16,Lasse Kjus,NO,55
-1995-03-16,William Besse,CH,6
-1995-03-16,Marc Girardelli,LU,111
-1995-03-16,Daron Rahlves,US,82
-1995-03-16,Fredrik Nyberg,SE,96
-1995-03-16,Christian Greber,AT,78
-1995-03-16,Kristian Ghedina,IT,126
-1995-03-16,Luc Alphand,FR,111
-1995-03-16,Kjetil Andre Aamodt,NO,79
-1995-03-16,Richard Kroell,AT,170
-1995-03-16,Peter Runggaldier,IT,332
-1995-03-16,Armin Assinger,AT,137
-1995-03-16,Werner Perathoner,IT,237
-1995-03-16,Kyle Rasmussen,US,148
-1995-03-16,A.J. Kitt,US,89
-1995-03-16,Patrick Ortlieb,AT,135
-1995-03-16,Alessandro Fattori,IT,108
-1995-03-16,Atle Skaardal,NO,142
-1995-03-16,Mario Reiter,AT,11
-1995-03-16,Harald Chr. Strand Nilsen,NO,29
-1995-03-16,Tommy Moe,US,109
-1995-03-16,Luigi Colturi,IT,71
-1995-03-16,Luca Cattaneo,IT,51
-1995-03-16,Tobias Barnerssoi,DE,16
-1995-03-16,Christophe Ple',FR,26
-1995-03-16,Paul Accola,CH,14
-1995-03-16,Steve Locher,CH,21
-1995-03-16,Hans-Joerg Tauscher,DE,8
-1995-03-16,Patrick Wirth,AT,71
-1995-03-16,Guenther Mader,AT,250
+date,name,ath_country,value,specialty
+1994-12-11,Patrick Ortlieb,AT,100,Downhill
+1994-12-11,Luca Cattaneo,IT,26,Super G
+1994-12-11,Hannes Trinkl,AT,0,Downhill
+1994-12-11,Kjetil Andre Aamodt,NO,8,Giant Slalom
+1994-12-11,Marc Girardelli,LU,0,Slalom
+1994-12-11,Hans Knauss,AT,0,Super G
+1994-12-11,Patrick Holzer,IT,0,Super G
+1994-12-11,Lasse Kjus,NO,11,Downhill
+1994-12-11,Alessandro Fattori,IT,20,Super G
+1994-12-11,Pietro Vitalini,IT,10,Downhill
+1994-12-11,Daniel Mahrer,CH,40,Super G
+1994-12-11,Patrick Wirth,AT,0,Super G
+1994-12-11,Frank Piccard,FR,0,Giant Slalom
+1994-12-11,Luigi Colturi,IT,45,Super G
+1994-12-11,Daron Rahlves,US,0,Super G
+1994-12-11,Ed Podivinsky,CA,0,Downhill
+1994-12-11,Fredrik Nyberg,SE,0,Giant Slalom
+1994-12-11,Atle Skaardal,NO,50,Downhill
+1994-12-11,Kyle Rasmussen,US,29,Downhill
+1994-12-11,David Pretot,FR,0,Downhill
+1994-12-11,Marco Hangl,CH,0,Giant Slalom
+1994-12-11,Christian Greber,AT,0,Super G
+1994-12-11,Bruno Kernen,CH,0,Super G
+1994-12-11,Harald Chr. Strand Nilsen,NO,18,Giant Slalom
+1994-12-11,Hans-Joerg Tauscher,DE,8,Super G
+1994-12-11,Xavier Fournier,FR,0,Super G
+1994-12-11,William Besse,CH,6,Downhill
+1994-12-11,Jean Luc Cretier,FR,0,Downhill
+1994-12-11,Jernej Koblar,SK,0,Super G
+1994-12-11,Daniel Brunner,CH,0,Downhill
+1994-12-11,Alberto Senigagliesi,IT,0,Super G
+1994-12-11,Mario Reiter,AT,0,Slalom
+1994-12-11,Steve Locher,CH,9,Giant Slalom
+1994-12-11,Asgeir Linberg,NO,0,Downhill
+1994-12-11,Patrik Jaerbyn,SE,3,Super G
+1994-12-11,Juergen Hasler,LI,0,Super G
+1994-12-11,Paul Accola,CH,13,Giant Slalom
+1994-12-11,Janne Leskinen,FI,0,Super G
+1994-12-11,Christophe Ple',FR,15,Downhill
+1994-12-11,Rainer Salzgeber,AT,0,Giant Slalom
+1994-12-11,Tobias Barnerssoi,DE,16,Giant Slalom
+1994-12-11,Franco Cavegn,CH,0,Downhill
+1994-12-11,Ian Piccard,FR,2,Giant Slalom
+1994-12-11,Stephan Eberharter,AT,4,Downhill
+1994-12-11,Armin Assinger,AT,24,Downhill
+1994-12-11,Kenneth Sivertsen,NO,0,Super G
+1994-12-11,Werner Perathoner,IT,32,Downhill
+1994-12-11,Tommy Moe,US,80,Downhill
+1994-12-11,Miran Rauter,SK,0,Super G
+1994-12-11,Guenther Mader,AT,24,Super G
+1994-12-11,Richard Kroell,AT,12,Super G
+1994-12-11,Kristian Ghedina,IT,14,Downhill
+1994-12-11,Peter Runggaldier,IT,36,Super G
+1994-12-11,A.J. Kitt,US,5,Downhill
+1994-12-11,Achim Vogt,LI,1,Giant Slalom
+1994-12-11,Luc Alphand,FR,60,Downhill
+1995-01-16,Alessandro Fattori,IT,56,Super G
+1995-01-16,Jernej Koblar,SK,9,Super G
+1995-01-16,Ian Piccard,FR,20,Giant Slalom
+1995-01-16,Asgeir Linberg,NO,5,Downhill
+1995-01-16,Pietro Vitalini,IT,25,Downhill
+1995-01-16,Daniel Mahrer,CH,40,Super G
+1995-01-16,William Besse,CH,6,Downhill
+1995-01-16,A.J. Kitt,US,5,Downhill
+1995-01-16,Patrick Wirth,AT,0,Super G
+1995-01-16,Hannes Trinkl,AT,0,Downhill
+1995-01-16,Guenther Mader,AT,124,Super G
+1995-01-16,Patrick Holzer,IT,0,Super G
+1995-01-16,Mario Reiter,AT,0,Slalom
+1995-01-16,Harald Chr. Strand Nilsen,NO,19,Giant Slalom
+1995-01-16,Franco Cavegn,CH,0,Downhill
+1995-01-16,Lasse Kjus,NO,11,Downhill
+1995-01-16,Hans Knauss,AT,32,Super G
+1995-01-16,Daniel Brunner,CH,0,Downhill
+1995-01-16,Bruno Kernen,CH,7,Super G
+1995-01-16,Richard Kroell,AT,52,Super G
+1995-01-16,Marc Girardelli,LU,26,Slalom
+1995-01-16,Armin Assinger,AT,84,Downhill
+1995-01-16,Alberto Senigagliesi,IT,10,Super G
+1995-01-16,Marco Hangl,CH,20,Giant Slalom
+1995-01-16,Tommy Moe,US,109,Downhill
+1995-01-16,Kjetil Andre Aamodt,NO,14,Giant Slalom
+1995-01-16,Stephan Eberharter,AT,4,Downhill
+1995-01-16,Achim Vogt,LI,1,Giant Slalom
+1995-01-16,Rainer Salzgeber,AT,0,Giant Slalom
+1995-01-16,Luca Cattaneo,IT,37,Super G
+1995-01-16,Werner Perathoner,IT,77,Downhill
+1995-01-16,Kenneth Sivertsen,NO,8,Super G
+1995-01-16,Juergen Hasler,LI,13,Super G
+1995-01-16,David Pretot,FR,0,Downhill
+1995-01-16,Paul Accola,CH,14,Giant Slalom
+1995-01-16,Christian Greber,AT,0,Super G
+1995-01-16,Luc Alphand,FR,76,Downhill
+1995-01-16,Peter Runggaldier,IT,116,Super G
+1995-01-16,Janne Leskinen,FI,0,Super G
+1995-01-16,Kyle Rasmussen,US,32,Downhill
+1995-01-16,Hans-Joerg Tauscher,DE,8,Super G
+1995-01-16,Atle Skaardal,NO,64,Downhill
+1995-01-16,Jean Luc Cretier,FR,0,Downhill
+1995-01-16,Christophe Ple',FR,15,Downhill
+1995-01-16,Kristian Ghedina,IT,18,Downhill
+1995-01-16,Xavier Fournier,FR,0,Super G
+1995-01-16,Fredrik Nyberg,SE,50,Giant Slalom
+1995-01-16,Steve Locher,CH,21,Giant Slalom
+1995-01-16,Ed Podivinsky,CA,0,Downhill
+1995-01-16,Tobias Barnerssoi,DE,16,Giant Slalom
+1995-01-16,Luigi Colturi,IT,71,Super G
+1995-01-16,Patrick Ortlieb,AT,100,Downhill
+1995-01-16,Miran Rauter,SK,2,Super G
+1995-01-16,Frank Piccard,FR,0,Giant Slalom
+1995-01-16,Patrik Jaerbyn,SE,25,Super G
+1995-01-16,Daron Rahlves,US,0,Super G
+1995-02-26,Luca Cattaneo,IT,37,Super G
+1995-02-26,Asgeir Linberg,NO,5,Downhill
+1995-02-26,Paul Accola,CH,14,Giant Slalom
+1995-02-26,Franco Cavegn,CH,18,Downhill
+1995-02-26,Marco Hangl,CH,20,Giant Slalom
+1995-02-26,Rainer Salzgeber,AT,0,Giant Slalom
+1995-02-26,Bruno Kernen,CH,18,Super G
+1995-02-26,Mario Reiter,AT,0,Slalom
+1995-02-26,Tobias Barnerssoi,DE,16,Giant Slalom
+1995-02-26,Werner Perathoner,IT,77,Downhill
+1995-02-26,Ian Piccard,FR,35,Giant Slalom
+1995-02-26,Janne Leskinen,FI,14,Super G
+1995-02-26,Peter Runggaldier,IT,216,Super G
+1995-02-26,Steve Locher,CH,21,Giant Slalom
+1995-02-26,Christophe Ple',FR,15,Downhill
+1995-02-26,Harald Chr. Strand Nilsen,NO,19,Giant Slalom
+1995-02-26,Patrik Jaerbyn,SE,38,Super G
+1995-02-26,Patrick Holzer,IT,4,Super G
+1995-02-26,Juergen Hasler,LI,13,Super G
+1995-02-26,Miran Rauter,SK,4,Super G
+1995-02-26,Pietro Vitalini,IT,65,Downhill
+1995-02-26,Daniel Mahrer,CH,62,Super G
+1995-02-26,Jean Luc Cretier,FR,9,Downhill
+1995-02-26,Patrick Wirth,AT,0,Super G
+1995-02-26,Richard Kroell,AT,52,Super G
+1995-02-26,Patrick Ortlieb,AT,107,Downhill
+1995-02-26,Frank Piccard,FR,3,Giant Slalom
+1995-02-26,Jernej Koblar,SK,9,Super G
+1995-02-26,Hans-Joerg Tauscher,DE,8,Super G
+1995-02-26,Daron Rahlves,US,8,Super G
+1995-02-26,Luc Alphand,FR,96,Downhill
+1995-02-26,Kristian Ghedina,IT,30,Downhill
+1995-02-26,Achim Vogt,LI,1,Giant Slalom
+1995-02-26,Ed Podivinsky,CA,50,Downhill
+1995-02-26,Xavier Fournier,FR,0,Super G
+1995-02-26,Fredrik Nyberg,SE,76,Giant Slalom
+1995-02-26,Luigi Colturi,IT,71,Super G
+1995-02-26,Kyle Rasmussen,US,38,Downhill
+1995-02-26,Atle Skaardal,NO,80,Downhill
+1995-02-26,Lasse Kjus,NO,47,Downhill
+1995-02-26,Stephan Eberharter,AT,4,Downhill
+1995-02-26,Alberto Senigagliesi,IT,10,Super G
+1995-02-26,Hannes Trinkl,AT,29,Downhill
+1995-02-26,David Pretot,FR,0,Downhill
+1995-02-26,Kjetil Andre Aamodt,NO,38,Giant Slalom
+1995-02-26,Armin Assinger,AT,94,Downhill
+1995-02-26,Tommy Moe,US,109,Downhill
+1995-02-26,Alessandro Fattori,IT,56,Super G
+1995-02-26,Christian Greber,AT,60,Super G
+1995-02-26,Marc Girardelli,LU,58,Slalom
+1995-02-26,Guenther Mader,AT,169,Super G
+1995-02-26,Hans Knauss,AT,33,Super G
+1995-02-26,Daniel Brunner,CH,0,Downhill
+1995-02-26,William Besse,CH,6,Downhill
+1995-02-26,A.J. Kitt,US,85,Downhill
+1995-02-26,Kenneth Sivertsen,NO,13,Super G
+1995-03-10,Juergen Hasler,LI,20,Super G
+1995-03-10,Hans-Joerg Tauscher,DE,8,Super G
+1995-03-10,Kenneth Sivertsen,NO,13,Super G
+1995-03-10,Guenther Mader,AT,214,Super G
+1995-03-10,Patrick Ortlieb,AT,122,Downhill
+1995-03-10,Xavier Fournier,FR,9,Super G
+1995-03-10,Jean Luc Cretier,FR,9,Downhill
+1995-03-10,Steve Locher,CH,21,Giant Slalom
+1995-03-10,Jernej Koblar,SK,11,Super G
+1995-03-10,Mario Reiter,AT,0,Slalom
+1995-03-10,Daniel Brunner,CH,10,Downhill
+1995-03-10,William Besse,CH,6,Downhill
+1995-03-10,Alberto Senigagliesi,IT,10,Super G
+1995-03-10,Patrik Jaerbyn,SE,38,Super G
+1995-03-10,Armin Assinger,AT,123,Downhill
+1995-03-10,Achim Vogt,LI,1,Giant Slalom
+1995-03-10,Paul Accola,CH,14,Giant Slalom
+1995-03-10,Asgeir Linberg,NO,5,Downhill
+1995-03-10,Miran Rauter,SK,5,Super G
+1995-03-10,Alessandro Fattori,IT,96,Super G
+1995-03-10,Patrick Holzer,IT,4,Super G
+1995-03-10,A.J. Kitt,US,89,Downhill
+1995-03-10,Pietro Vitalini,IT,97,Downhill
+1995-03-10,Daniel Mahrer,CH,74,Super G
+1995-03-10,Patrick Wirth,AT,26,Super G
+1995-03-10,Kristian Ghedina,IT,110,Downhill
+1995-03-10,Luigi Colturi,IT,71,Super G
+1995-03-10,Daron Rahlves,US,58,Super G
+1995-03-10,Frank Piccard,FR,3,Giant Slalom
+1995-03-10,Ed Podivinsky,CA,56,Downhill
+1995-03-10,Fredrik Nyberg,SE,76,Giant Slalom
+1995-03-10,Atle Skaardal,NO,102,Downhill
+1995-03-10,David Pretot,FR,3,Downhill
+1995-03-10,Kyle Rasmussen,US,98,Downhill
+1995-03-10,Christian Greber,AT,60,Super G
+1995-03-10,Luc Alphand,FR,96,Downhill
+1995-03-10,Hans Knauss,AT,49,Super G
+1995-03-10,Tommy Moe,US,109,Downhill
+1995-03-10,Lasse Kjus,NO,47,Downhill
+1995-03-10,Stephan Eberharter,AT,4,Downhill
+1995-03-10,Janne Leskinen,FI,14,Super G
+1995-03-10,Peter Runggaldier,IT,252,Super G
+1995-03-10,Rainer Salzgeber,AT,5,Giant Slalom
+1995-03-10,Christophe Ple',FR,26,Downhill
+1995-03-10,Werner Perathoner,IT,177,Downhill
+1995-03-10,Tobias Barnerssoi,DE,16,Giant Slalom
+1995-03-10,Marc Girardelli,LU,82,Slalom
+1995-03-10,Ian Piccard,FR,35,Giant Slalom
+1995-03-10,Franco Cavegn,CH,18,Downhill
+1995-03-10,Richard Kroell,AT,70,Super G
+1995-03-10,Bruno Kernen,CH,38,Super G
+1995-03-10,Marco Hangl,CH,20,Giant Slalom
+1995-03-10,Luca Cattaneo,IT,51,Super G
+1995-03-10,Hannes Trinkl,AT,43,Downhill
+1995-03-10,Kjetil Andre Aamodt,NO,47,Giant Slalom
+1995-03-10,Harald Chr. Strand Nilsen,NO,19,Giant Slalom
+1995-03-16,William Besse,CH,6,Downhill
+1995-03-16,Patrick Holzer,IT,4,Super G
+1995-03-16,Rainer Salzgeber,AT,5,Giant Slalom
+1995-03-16,Miran Rauter,SK,5,Super G
+1995-03-16,Frank Piccard,FR,3,Giant Slalom
+1995-03-16,Kenneth Sivertsen,NO,13,Super G
+1995-03-16,David Pretot,FR,3,Downhill
+1995-03-16,Asgeir Linberg,NO,5,Downhill
+1995-03-16,Stephan Eberharter,AT,4,Downhill
+1995-03-16,Marco Hangl,CH,20,Giant Slalom
+1995-03-16,Xavier Fournier,FR,9,Super G
+1995-03-16,Daniel Mahrer,CH,100,Super G
+1995-03-16,Patrick Wirth,AT,71,Super G
+1995-03-16,Luigi Colturi,IT,71,Super G
+1995-03-16,Daron Rahlves,US,82,Super G
+1995-03-16,Ed Podivinsky,CA,56,Downhill
+1995-03-16,Fredrik Nyberg,SE,96,Giant Slalom
+1995-03-16,Atle Skaardal,NO,142,Downhill
+1995-03-16,Kyle Rasmussen,US,148,Downhill
+1995-03-16,Christian Greber,AT,78,Super G
+1995-03-16,Armin Assinger,AT,137,Downhill
+1995-03-16,Luc Alphand,FR,111,Downhill
+1995-03-16,Kristian Ghedina,IT,126,Downhill
+1995-03-16,A.J. Kitt,US,89,Downhill
+1995-03-16,Tommy Moe,US,109,Downhill
+1995-03-16,Richard Kroell,AT,170,Super G
+1995-03-16,Werner Perathoner,IT,237,Downhill
+1995-03-16,Peter Runggaldier,IT,332,Super G
+1995-03-16,Guenther Mader,AT,250,Super G
+1995-03-16,Patrick Ortlieb,AT,135,Downhill
+1995-03-16,Pietro Vitalini,IT,106,Downhill
+1995-03-16,Alessandro Fattori,IT,108,Super G
+1995-03-16,Lasse Kjus,NO,55,Downhill
+1995-03-16,Hans Knauss,AT,49,Super G
+1995-03-16,Jean Luc Cretier,FR,9,Downhill
+1995-03-16,Jernej Koblar,SK,11,Super G
+1995-03-16,Daniel Brunner,CH,10,Downhill
+1995-03-16,Alberto Senigagliesi,IT,10,Super G
+1995-03-16,Mario Reiter,AT,11,Slalom
+1995-03-16,Steve Locher,CH,21,Giant Slalom
+1995-03-16,Patrik Jaerbyn,SE,38,Super G
+1995-03-16,Juergen Hasler,LI,20,Super G
+1995-03-16,Paul Accola,CH,14,Giant Slalom
+1995-03-16,Hans-Joerg Tauscher,DE,8,Super G
+1995-03-16,Janne Leskinen,FI,36,Super G
+1995-03-16,Tobias Barnerssoi,DE,16,Giant Slalom
+1995-03-16,Franco Cavegn,CH,18,Downhill
+1995-03-16,Ian Piccard,FR,35,Giant Slalom
+1995-03-16,Harald Chr. Strand Nilsen,NO,29,Giant Slalom
+1995-03-16,Bruno Kernen,CH,38,Super G
+1995-03-16,Luca Cattaneo,IT,51,Super G
+1995-03-16,Hannes Trinkl,AT,43,Downhill
+1995-03-16,Kjetil Andre Aamodt,NO,79,Giant Slalom
+1995-03-16,Marc Girardelli,LU,111,Slalom
+1995-03-16,Christophe Ple',FR,26,Downhill
+1995-03-16,Achim Vogt,LI,1,Giant Slalom

@@ -1,289 +1,289 @@
-date,name,ath_country,value
-1979-12-11,Ingemar Stenmark,SE,25
-1979-12-11,Bogumir Zeman,SK,0
-1979-12-11,Andreas Wenzel,LI,11
-1979-12-11,Peter Aellig,CH,0
-1979-12-11,Paolo De Chiesa,IT,0
-1979-12-11,Piero Gros,IT,0
-1979-12-11,Paul Arne Skajem,NO,0
-1979-12-11,Bruno Noeckler,IT,0
-1979-12-11,Vladimir Andreev,RU,0
-1979-12-11,Joze Kuralt,SK,0
-1979-12-11,Jacques Luethy,CH,10
-1979-12-11,Christian Orlainsky,AT,0
-1979-12-11,Klaus Heidegger,AT,0
-1979-12-11,Osamu Kodama,JP,0
-1979-12-11,Phil Mahre,US,0
-1979-12-11,Aleksandr Zhirov,RU,0
-1979-12-11,Petar Popangelov,BG,0
-1979-12-11,Franz Gruber,AT,9
-1979-12-11,Florian Beck,DE,1
-1979-12-11,Peter Luescher,CH,2
-1979-12-11,Hans Enn,AT,3
-1979-12-11,Stig Strand,SE,4
-1979-12-11,Anton Steiner,AT,8
-1979-12-11,Peter Mally,IT,5
-1979-12-11,Christian Neureuther,DE,6
-1979-12-11,Gustav Thoeni,IT,0
-1979-12-11,Jostein Masdal,NO,0
-1979-12-11,Franck Woerndl,DE,0
-1979-12-11,Karl Trojer,IT,0
-1979-12-11,Bojan Krizaj,SK,20
-1979-12-11,Joel Gaspoz,CH,0
-1979-12-11,Paul Frommelt,LI,15
-1979-12-11,Steve Mahre,US,7
-1979-12-11,Mauro Bernardi,IT,12
-1979-12-11,Martial Donnet,CH,0
-1979-12-11,Lars Goeran Halvarsson,SE,0
-1980-01-08,Mauro Bernardi,IT,12
-1980-01-08,Martial Donnet,CH,0
-1980-01-08,Joze Kuralt,SK,6
-1980-01-08,Lars Goeran Halvarsson,SE,0
-1980-01-08,Karl Trojer,IT,0
-1980-01-08,Hans Enn,AT,8
-1980-01-08,Joel Gaspoz,CH,0
-1980-01-08,Paul Frommelt,LI,19
-1980-01-08,Jostein Masdal,NO,0
-1980-01-08,Anton Steiner,AT,11
-1980-01-08,Klaus Heidegger,AT,0
-1980-01-08,Vladimir Andreev,RU,2
-1980-01-08,Bogumir Zeman,SK,0
-1980-01-08,Christian Neureuther,DE,7
-1980-01-08,Paolo De Chiesa,IT,0
-1980-01-08,Piero Gros,IT,0
-1980-01-08,Paul Arne Skajem,NO,0
-1980-01-08,Bruno Noeckler,IT,0
-1980-01-08,Florian Beck,DE,1
-1980-01-08,Christian Orlainsky,AT,7
-1980-01-08,Peter Luescher,CH,2
-1980-01-08,Stig Strand,SE,4
-1980-01-08,Peter Mally,IT,5
-1980-01-08,Steve Mahre,US,7
-1980-01-08,Jacques Luethy,CH,10
-1980-01-08,Franck Woerndl,DE,0
-1980-01-08,Peter Aellig,CH,0
-1980-01-08,Franz Gruber,AT,9
-1980-01-08,Gustav Thoeni,IT,11
-1980-01-08,Osamu Kodama,JP,10
-1980-01-08,Phil Mahre,US,12
-1980-01-08,Ingemar Stenmark,SE,40
-1980-01-08,Aleksandr Zhirov,RU,20
-1980-01-08,Petar Popangelov,BG,25
-1980-01-08,Andreas Wenzel,LI,20
-1980-01-08,Bojan Krizaj,SK,28
-1980-01-13,Joze Kuralt,SK,6
-1980-01-13,Peter Aellig,CH,1
-1980-01-13,Hans Enn,AT,18
-1980-01-13,Martial Donnet,CH,0
-1980-01-13,Bruno Noeckler,IT,11
-1980-01-13,Bojan Krizaj,SK,40
-1980-01-13,Lars Goeran Halvarsson,SE,0
-1980-01-13,Jacques Luethy,CH,25
-1980-01-13,Karl Trojer,IT,0
-1980-01-13,Christian Neureuther,DE,27
-1980-01-13,Joel Gaspoz,CH,0
-1980-01-13,Andreas Wenzel,LI,45
-1980-01-13,Jostein Masdal,NO,0
-1980-01-13,Paul Frommelt,LI,19
-1980-01-13,Franz Gruber,AT,9
-1980-01-13,Anton Steiner,AT,11
-1980-01-13,Steve Mahre,US,7
-1980-01-13,Klaus Heidegger,AT,0
-1980-01-13,Peter Mally,IT,5
-1980-01-13,Peter Luescher,CH,2
-1980-01-13,Florian Beck,DE,1
-1980-01-13,Petar Popangelov,BG,25
-1980-01-13,Aleksandr Zhirov,RU,20
-1980-01-13,Phil Mahre,US,12
-1980-01-13,Osamu Kodama,JP,10
-1980-01-13,Christian Orlainsky,AT,7
-1980-01-13,Bogumir Zeman,SK,0
-1980-01-13,Paul Arne Skajem,NO,9
-1980-01-13,Franck Woerndl,DE,0
-1980-01-13,Paolo De Chiesa,IT,7
-1980-01-13,Piero Gros,IT,8
-1980-01-13,Stig Strand,SE,10
-1980-01-13,Ingemar Stenmark,SE,43
-1980-01-13,Gustav Thoeni,IT,14
-1980-01-13,Mauro Bernardi,IT,17
-1980-01-13,Vladimir Andreev,RU,6
-1980-01-20,Martial Donnet,CH,0
-1980-01-20,Lars Goeran Halvarsson,SE,0
-1980-01-20,Bojan Krizaj,SK,65
-1980-01-20,Aleksandr Zhirov,RU,25
-1980-01-20,Christian Neureuther,DE,34
-1980-01-20,Franz Gruber,AT,13
-1980-01-20,Anton Steiner,AT,23
-1980-01-20,Franck Woerndl,DE,6
-1980-01-20,Jostein Masdal,NO,0
-1980-01-20,Ingemar Stenmark,SE,63
-1980-01-20,Vladimir Andreev,RU,17
-1980-01-20,Phil Mahre,US,20
-1980-01-20,Karl Trojer,IT,0
-1980-01-20,Paul Frommelt,LI,34
-1980-01-20,Jacques Luethy,CH,35
-1980-01-20,Joel Gaspoz,CH,0
-1980-01-20,Petar Popangelov,BG,25
-1980-01-20,Peter Aellig,CH,1
-1980-01-20,Paolo De Chiesa,IT,7
-1980-01-20,Piero Gros,IT,8
-1980-01-20,Christian Orlainsky,AT,16
-1980-01-20,Klaus Heidegger,AT,2
-1980-01-20,Paul Arne Skajem,NO,9
-1980-01-20,Joze Kuralt,SK,6
-1980-01-20,Osamu Kodama,JP,10
-1980-01-20,Gustav Thoeni,IT,14
-1980-01-20,Mauro Bernardi,IT,17
-1980-01-20,Bogumir Zeman,SK,3
-1980-01-20,Florian Beck,DE,1
-1980-01-20,Bruno Noeckler,IT,12
-1980-01-20,Peter Luescher,CH,2
-1980-01-20,Hans Enn,AT,18
-1980-01-20,Stig Strand,SE,10
-1980-01-20,Peter Mally,IT,5
-1980-01-20,Steve Mahre,US,7
-1980-01-20,Andreas Wenzel,LI,45
-1980-01-27,Stig Strand,SE,16
-1980-01-27,Ingemar Stenmark,SE,88
-1980-01-27,Paul Frommelt,LI,34
-1980-01-27,Franz Gruber,AT,20
-1980-01-27,Bojan Krizaj,SK,85
-1980-01-27,Andreas Wenzel,LI,51
-1980-01-27,Jacques Luethy,CH,43
-1980-01-27,Aleksandr Zhirov,RU,28
-1980-01-27,Christian Neureuther,DE,34
-1980-01-27,Anton Steiner,AT,34
-1980-01-27,Paul Arne Skajem,NO,9
-1980-01-27,Steve Mahre,US,7
-1980-01-27,Peter Aellig,CH,1
-1980-01-27,Franck Woerndl,DE,6
-1980-01-27,Piero Gros,IT,18
-1980-01-27,Bogumir Zeman,SK,3
-1980-01-27,Bruno Noeckler,IT,12
-1980-01-27,Klaus Heidegger,AT,2
-1980-01-27,Joel Gaspoz,CH,0
-1980-01-27,Karl Trojer,IT,0
-1980-01-27,Vladimir Andreev,RU,18
-1980-01-27,Phil Mahre,US,29
-1980-01-27,Lars Goeran Halvarsson,SE,0
-1980-01-27,Martial Donnet,CH,0
-1980-01-27,Peter Mally,IT,7
-1980-01-27,Jostein Masdal,NO,0
-1980-01-27,Joze Kuralt,SK,6
-1980-01-27,Mauro Bernardi,IT,17
-1980-01-27,Petar Popangelov,BG,37
-1980-01-27,Christian Orlainsky,AT,31
-1980-01-27,Hans Enn,AT,18
-1980-01-27,Peter Luescher,CH,2
-1980-01-27,Paolo De Chiesa,IT,11
-1980-01-27,Florian Beck,DE,1
-1980-01-27,Gustav Thoeni,IT,14
-1980-01-27,Osamu Kodama,JP,10
-1980-02-27,Franz Gruber,AT,20
-1980-02-27,Jacques Luethy,CH,43
-1980-02-27,Andreas Wenzel,LI,51
-1980-02-27,Osamu Kodama,JP,10
-1980-02-27,Mauro Bernardi,IT,17
-1980-02-27,Paul Frommelt,LI,34
-1980-02-27,Christian Orlainsky,AT,31
-1980-02-27,Joze Kuralt,SK,6
-1980-02-27,Bruno Noeckler,IT,12
-1980-02-27,Peter Mally,IT,7
-1980-02-27,Stig Strand,SE,16
-1980-02-27,Florian Beck,DE,1
-1980-02-27,Piero Gros,IT,18
-1980-02-27,Martial Donnet,CH,0
-1980-02-27,Lars Goeran Halvarsson,SE,0
-1980-02-27,Paolo De Chiesa,IT,11
-1980-02-27,Peter Aellig,CH,1
-1980-02-27,Franck Woerndl,DE,6
-1980-02-27,Hans Enn,AT,18
-1980-02-27,Vladimir Andreev,RU,18
-1980-02-27,Karl Trojer,IT,0
-1980-02-27,Bogumir Zeman,SK,11
-1980-02-27,Ingemar Stenmark,SE,113
-1980-02-27,Steve Mahre,US,13
-1980-02-27,Phil Mahre,US,36
-1980-02-27,Paul Arne Skajem,NO,13
-1980-02-27,Aleksandr Zhirov,RU,37
-1980-02-27,Gustav Thoeni,IT,17
-1980-02-27,Jostein Masdal,NO,2
-1980-02-27,Joel Gaspoz,CH,1
-1980-02-27,Anton Steiner,AT,44
-1980-02-27,Bojan Krizaj,SK,96
-1980-02-27,Peter Luescher,CH,7
-1980-02-27,Christian Neureuther,DE,54
-1980-02-27,Klaus Heidegger,AT,17
-1980-02-27,Petar Popangelov,BG,49
-1980-03-10,Bruno Noeckler,IT,12
-1980-03-10,Martial Donnet,CH,0
-1980-03-10,Joel Gaspoz,CH,1
-1980-03-10,Bojan Krizaj,SK,96
-1980-03-10,Andreas Wenzel,LI,51
-1980-03-10,Jostein Masdal,NO,2
-1980-03-10,Bogumir Zeman,SK,11
-1980-03-10,Franz Gruber,AT,20
-1980-03-10,Anton Steiner,AT,44
-1980-03-10,Peter Aellig,CH,1
-1980-03-10,Peter Mally,IT,7
-1980-03-10,Hans Enn,AT,18
-1980-03-10,Peter Luescher,CH,7
-1980-03-10,Florian Beck,DE,1
-1980-03-10,Lars Goeran Halvarsson,SE,6
-1980-03-10,Piero Gros,IT,18
-1980-03-10,Gustav Thoeni,IT,17
-1980-03-10,Osamu Kodama,JP,10
-1980-03-10,Paul Arne Skajem,NO,13
-1980-03-10,Vladimir Andreev,RU,18
-1980-03-10,Stig Strand,SE,16
-1980-03-10,Petar Popangelov,BG,49
-1980-03-10,Klaus Heidegger,AT,24
-1980-03-10,Joze Kuralt,SK,7
-1980-03-10,Karl Trojer,IT,12
-1980-03-10,Jacques Luethy,CH,45
-1980-03-10,Christian Orlainsky,AT,46
-1980-03-10,Phil Mahre,US,39
-1980-03-10,Steve Mahre,US,24
-1980-03-10,Mauro Bernardi,IT,21
-1980-03-10,Christian Neureuther,DE,64
-1980-03-10,Paolo De Chiesa,IT,16
-1980-03-10,Aleksandr Zhirov,RU,57
-1980-03-10,Franck Woerndl,DE,15
-1980-03-10,Ingemar Stenmark,SE,138
-1980-03-10,Paul Frommelt,LI,43
-1980-03-15,Florian Beck,DE,1
-1980-03-15,Osamu Kodama,JP,10
-1980-03-15,Joze Kuralt,SK,7
-1980-03-15,Aleksandr Zhirov,RU,57
-1980-03-15,Christian Orlainsky,AT,55
-1980-03-15,Bruno Noeckler,IT,12
-1980-03-15,Stig Strand,SE,16
-1980-03-15,Paul Arne Skajem,NO,13
-1980-03-15,Piero Gros,IT,18
-1980-03-15,Peter Aellig,CH,1
-1980-03-15,Franck Woerndl,DE,15
-1980-03-15,Bogumir Zeman,SK,11
-1980-03-15,Klaus Heidegger,AT,24
-1980-03-15,Jostein Masdal,NO,2
-1980-03-15,Joel Gaspoz,CH,1
-1980-03-15,Vladimir Andreev,RU,18
-1980-03-15,Peter Mally,IT,7
-1980-03-15,Steve Mahre,US,44
-1980-03-15,Andreas Wenzel,LI,51
-1980-03-15,Martial Donnet,CH,6
-1980-03-15,Paolo De Chiesa,IT,21
-1980-03-15,Hans Enn,AT,25
-1980-03-15,Anton Steiner,AT,52
-1980-03-15,Peter Luescher,CH,11
-1980-03-15,Phil Mahre,US,42
-1980-03-15,Paul Frommelt,LI,45
-1980-03-15,Jacques Luethy,CH,55
-1980-03-15,Gustav Thoeni,IT,18
-1980-03-15,Bojan Krizaj,SK,107
-1980-03-15,Christian Neureuther,DE,76
-1980-03-15,Petar Popangelov,BG,64
-1980-03-15,Karl Trojer,IT,12
-1980-03-15,Ingemar Stenmark,SE,163
-1980-03-15,Mauro Bernardi,IT,21
-1980-03-15,Franz Gruber,AT,20
-1980-03-15,Lars Goeran Halvarsson,SE,6
+date,name,ath_country,value,specialty
+1979-12-11,Ingemar Stenmark,SE,25,Giant Slalom
+1979-12-11,Jostein Masdal,NO,0,Slalom
+1979-12-11,Aleksandr Zhirov,RU,0,Slalom
+1979-12-11,Gustav Thoeni,IT,0,Slalom
+1979-12-11,Joel Gaspoz,CH,0,Giant Slalom
+1979-12-11,Paul Arne Skajem,NO,0,Slalom
+1979-12-11,Christian Neureuther,DE,6,Slalom
+1979-12-11,Lars Goeran Halvarsson,SE,0,Slalom
+1979-12-11,Steve Mahre,US,7,Slalom
+1979-12-11,Karl Trojer,IT,0,Slalom
+1979-12-11,Stig Strand,SE,4,Slalom
+1979-12-11,Paul Frommelt,LI,15,Slalom
+1979-12-11,Florian Beck,DE,1,Slalom
+1979-12-11,Anton Steiner,AT,8,Combined
+1979-12-11,Franck Woerndl,DE,0,Slalom
+1979-12-11,Jacques Luethy,CH,10,Giant Slalom
+1979-12-11,Phil Mahre,US,0,Combined
+1979-12-11,Peter Aellig,CH,0,Slalom
+1979-12-11,Joze Kuralt,SK,0,Giant Slalom
+1979-12-11,Paolo De Chiesa,IT,0,Slalom
+1979-12-11,Christian Orlainsky,AT,0,Slalom
+1979-12-11,Hans Enn,AT,3,Giant Slalom
+1979-12-11,Bogumir Zeman,SK,0,Giant Slalom
+1979-12-11,Klaus Heidegger,AT,0,Slalom
+1979-12-11,Martial Donnet,CH,0,Slalom
+1979-12-11,Bruno Noeckler,IT,0,Giant Slalom
+1979-12-11,Mauro Bernardi,IT,12,Slalom
+1979-12-11,Bojan Krizaj,SK,20,Slalom
+1979-12-11,Peter Luescher,CH,2,Giant Slalom
+1979-12-11,Piero Gros,IT,0,Slalom
+1979-12-11,Osamu Kodama,JP,0,Slalom
+1979-12-11,Vladimir Andreev,RU,0,Slalom
+1979-12-11,Andreas Wenzel,LI,11,Giant Slalom
+1979-12-11,Peter Mally,IT,5,Slalom
+1979-12-11,Franz Gruber,AT,9,Slalom
+1979-12-11,Petar Popangelov,BG,0,Slalom
+1980-01-08,Florian Beck,DE,1,Slalom
+1980-01-08,Peter Mally,IT,5,Slalom
+1980-01-08,Bojan Krizaj,SK,28,Slalom
+1980-01-08,Franck Woerndl,DE,0,Slalom
+1980-01-08,Petar Popangelov,BG,25,Slalom
+1980-01-08,Joel Gaspoz,CH,0,Giant Slalom
+1980-01-08,Ingemar Stenmark,SE,40,Giant Slalom
+1980-01-08,Jacques Luethy,CH,10,Giant Slalom
+1980-01-08,Joze Kuralt,SK,6,Giant Slalom
+1980-01-08,Anton Steiner,AT,11,Combined
+1980-01-08,Paolo De Chiesa,IT,0,Slalom
+1980-01-08,Christian Orlainsky,AT,7,Slalom
+1980-01-08,Martial Donnet,CH,0,Slalom
+1980-01-08,Peter Aellig,CH,0,Slalom
+1980-01-08,Peter Luescher,CH,2,Giant Slalom
+1980-01-08,Bogumir Zeman,SK,0,Giant Slalom
+1980-01-08,Mauro Bernardi,IT,12,Slalom
+1980-01-08,Hans Enn,AT,8,Giant Slalom
+1980-01-08,Klaus Heidegger,AT,0,Slalom
+1980-01-08,Phil Mahre,US,12,Combined
+1980-01-08,Paul Frommelt,LI,19,Slalom
+1980-01-08,Lars Goeran Halvarsson,SE,0,Slalom
+1980-01-08,Stig Strand,SE,4,Slalom
+1980-01-08,Osamu Kodama,JP,10,Slalom
+1980-01-08,Piero Gros,IT,0,Slalom
+1980-01-08,Andreas Wenzel,LI,20,Giant Slalom
+1980-01-08,Karl Trojer,IT,0,Slalom
+1980-01-08,Steve Mahre,US,7,Slalom
+1980-01-08,Vladimir Andreev,RU,2,Slalom
+1980-01-08,Jostein Masdal,NO,0,Slalom
+1980-01-08,Gustav Thoeni,IT,11,Slalom
+1980-01-08,Christian Neureuther,DE,7,Slalom
+1980-01-08,Franz Gruber,AT,9,Slalom
+1980-01-08,Paul Arne Skajem,NO,0,Slalom
+1980-01-08,Aleksandr Zhirov,RU,20,Slalom
+1980-01-08,Bruno Noeckler,IT,0,Giant Slalom
+1980-01-13,Gustav Thoeni,IT,14,Slalom
+1980-01-13,Anton Steiner,AT,11,Combined
+1980-01-13,Vladimir Andreev,RU,6,Slalom
+1980-01-13,Bogumir Zeman,SK,0,Giant Slalom
+1980-01-13,Paul Arne Skajem,NO,9,Slalom
+1980-01-13,Mauro Bernardi,IT,17,Slalom
+1980-01-13,Franck Woerndl,DE,0,Slalom
+1980-01-13,Piero Gros,IT,8,Slalom
+1980-01-13,Karl Trojer,IT,0,Slalom
+1980-01-13,Franz Gruber,AT,9,Slalom
+1980-01-13,Phil Mahre,US,12,Combined
+1980-01-13,Osamu Kodama,JP,10,Slalom
+1980-01-13,Florian Beck,DE,1,Slalom
+1980-01-13,Bruno Noeckler,IT,11,Giant Slalom
+1980-01-13,Hans Enn,AT,18,Giant Slalom
+1980-01-13,Peter Aellig,CH,1,Slalom
+1980-01-13,Christian Orlainsky,AT,7,Slalom
+1980-01-13,Aleksandr Zhirov,RU,20,Slalom
+1980-01-13,Steve Mahre,US,7,Slalom
+1980-01-13,Stig Strand,SE,10,Slalom
+1980-01-13,Paul Frommelt,LI,19,Slalom
+1980-01-13,Martial Donnet,CH,0,Slalom
+1980-01-13,Christian Neureuther,DE,27,Slalom
+1980-01-13,Jacques Luethy,CH,25,Giant Slalom
+1980-01-13,Andreas Wenzel,LI,45,Giant Slalom
+1980-01-13,Bojan Krizaj,SK,40,Slalom
+1980-01-13,Joze Kuralt,SK,6,Giant Slalom
+1980-01-13,Petar Popangelov,BG,25,Slalom
+1980-01-13,Jostein Masdal,NO,0,Slalom
+1980-01-13,Ingemar Stenmark,SE,43,Giant Slalom
+1980-01-13,Lars Goeran Halvarsson,SE,0,Slalom
+1980-01-13,Paolo De Chiesa,IT,7,Slalom
+1980-01-13,Peter Luescher,CH,2,Giant Slalom
+1980-01-13,Klaus Heidegger,AT,0,Slalom
+1980-01-13,Peter Mally,IT,5,Slalom
+1980-01-13,Joel Gaspoz,CH,0,Giant Slalom
+1980-01-20,Bojan Krizaj,SK,65,Slalom
+1980-01-20,Aleksandr Zhirov,RU,25,Slalom
+1980-01-20,Bruno Noeckler,IT,12,Giant Slalom
+1980-01-20,Peter Luescher,CH,2,Giant Slalom
+1980-01-20,Gustav Thoeni,IT,14,Slalom
+1980-01-20,Lars Goeran Halvarsson,SE,0,Slalom
+1980-01-20,Vladimir Andreev,RU,17,Slalom
+1980-01-20,Martial Donnet,CH,0,Slalom
+1980-01-20,Piero Gros,IT,8,Slalom
+1980-01-20,Petar Popangelov,BG,25,Slalom
+1980-01-20,Joel Gaspoz,CH,0,Giant Slalom
+1980-01-20,Osamu Kodama,JP,10,Slalom
+1980-01-20,Ingemar Stenmark,SE,63,Giant Slalom
+1980-01-20,Peter Mally,IT,5,Slalom
+1980-01-20,Florian Beck,DE,1,Slalom
+1980-01-20,Franz Gruber,AT,13,Slalom
+1980-01-20,Andreas Wenzel,LI,45,Giant Slalom
+1980-01-20,Hans Enn,AT,18,Giant Slalom
+1980-01-20,Jostein Masdal,NO,0,Slalom
+1980-01-20,Phil Mahre,US,20,Combined
+1980-01-20,Paolo De Chiesa,IT,7,Slalom
+1980-01-20,Joze Kuralt,SK,6,Giant Slalom
+1980-01-20,Jacques Luethy,CH,35,Giant Slalom
+1980-01-20,Peter Aellig,CH,1,Slalom
+1980-01-20,Anton Steiner,AT,23,Combined
+1980-01-20,Bogumir Zeman,SK,3,Giant Slalom
+1980-01-20,Mauro Bernardi,IT,17,Slalom
+1980-01-20,Christian Orlainsky,AT,16,Slalom
+1980-01-20,Paul Frommelt,LI,34,Slalom
+1980-01-20,Steve Mahre,US,7,Slalom
+1980-01-20,Stig Strand,SE,10,Slalom
+1980-01-20,Karl Trojer,IT,0,Slalom
+1980-01-20,Klaus Heidegger,AT,2,Slalom
+1980-01-20,Paul Arne Skajem,NO,9,Slalom
+1980-01-20,Christian Neureuther,DE,34,Slalom
+1980-01-20,Franck Woerndl,DE,6,Slalom
+1980-01-27,Jostein Masdal,NO,0,Slalom
+1980-01-27,Hans Enn,AT,18,Giant Slalom
+1980-01-27,Piero Gros,IT,18,Slalom
+1980-01-27,Paolo De Chiesa,IT,11,Slalom
+1980-01-27,Lars Goeran Halvarsson,SE,0,Slalom
+1980-01-27,Peter Mally,IT,7,Slalom
+1980-01-27,Joze Kuralt,SK,6,Giant Slalom
+1980-01-27,Martial Donnet,CH,0,Slalom
+1980-01-27,Stig Strand,SE,16,Slalom
+1980-01-27,Franz Gruber,AT,20,Slalom
+1980-01-27,Paul Arne Skajem,NO,9,Slalom
+1980-01-27,Franck Woerndl,DE,6,Slalom
+1980-01-27,Bogumir Zeman,SK,3,Giant Slalom
+1980-01-27,Peter Luescher,CH,2,Giant Slalom
+1980-01-27,Christian Orlainsky,AT,31,Slalom
+1980-01-27,Christian Neureuther,DE,34,Slalom
+1980-01-27,Karl Trojer,IT,0,Slalom
+1980-01-27,Anton Steiner,AT,34,Combined
+1980-01-27,Aleksandr Zhirov,RU,28,Slalom
+1980-01-27,Gustav Thoeni,IT,14,Slalom
+1980-01-27,Jacques Luethy,CH,43,Giant Slalom
+1980-01-27,Bojan Krizaj,SK,85,Slalom
+1980-01-27,Bruno Noeckler,IT,12,Giant Slalom
+1980-01-27,Paul Frommelt,LI,34,Slalom
+1980-01-27,Phil Mahre,US,29,Combined
+1980-01-27,Steve Mahre,US,7,Slalom
+1980-01-27,Vladimir Andreev,RU,18,Slalom
+1980-01-27,Petar Popangelov,BG,37,Slalom
+1980-01-27,Joel Gaspoz,CH,0,Giant Slalom
+1980-01-27,Mauro Bernardi,IT,17,Slalom
+1980-01-27,Florian Beck,DE,1,Slalom
+1980-01-27,Osamu Kodama,JP,10,Slalom
+1980-01-27,Klaus Heidegger,AT,2,Slalom
+1980-01-27,Peter Aellig,CH,1,Slalom
+1980-01-27,Ingemar Stenmark,SE,88,Giant Slalom
+1980-01-27,Andreas Wenzel,LI,51,Giant Slalom
+1980-02-27,Paolo De Chiesa,IT,11,Slalom
+1980-02-27,Peter Aellig,CH,1,Slalom
+1980-02-27,Paul Frommelt,LI,34,Slalom
+1980-02-27,Joze Kuralt,SK,6,Giant Slalom
+1980-02-27,Jacques Luethy,CH,43,Giant Slalom
+1980-02-27,Christian Neureuther,DE,54,Slalom
+1980-02-27,Stig Strand,SE,16,Slalom
+1980-02-27,Joel Gaspoz,CH,1,Giant Slalom
+1980-02-27,Christian Orlainsky,AT,31,Slalom
+1980-02-27,Lars Goeran Halvarsson,SE,0,Slalom
+1980-02-27,Aleksandr Zhirov,RU,37,Slalom
+1980-02-27,Bojan Krizaj,SK,96,Slalom
+1980-02-27,Andreas Wenzel,LI,51,Giant Slalom
+1980-02-27,Martial Donnet,CH,0,Slalom
+1980-02-27,Petar Popangelov,BG,49,Slalom
+1980-02-27,Peter Mally,IT,7,Slalom
+1980-02-27,Jostein Masdal,NO,2,Slalom
+1980-02-27,Peter Luescher,CH,7,Giant Slalom
+1980-02-27,Ingemar Stenmark,SE,113,Giant Slalom
+1980-02-27,Steve Mahre,US,13,Slalom
+1980-02-27,Klaus Heidegger,AT,17,Slalom
+1980-02-27,Hans Enn,AT,18,Giant Slalom
+1980-02-27,Piero Gros,IT,18,Slalom
+1980-02-27,Vladimir Andreev,RU,18,Slalom
+1980-02-27,Paul Arne Skajem,NO,13,Slalom
+1980-02-27,Anton Steiner,AT,44,Combined
+1980-02-27,Bruno Noeckler,IT,12,Giant Slalom
+1980-02-27,Phil Mahre,US,36,Combined
+1980-02-27,Franck Woerndl,DE,6,Slalom
+1980-02-27,Franz Gruber,AT,20,Slalom
+1980-02-27,Florian Beck,DE,1,Slalom
+1980-02-27,Bogumir Zeman,SK,11,Giant Slalom
+1980-02-27,Mauro Bernardi,IT,17,Slalom
+1980-02-27,Karl Trojer,IT,0,Slalom
+1980-02-27,Gustav Thoeni,IT,17,Slalom
+1980-02-27,Osamu Kodama,JP,10,Slalom
+1980-03-10,Martial Donnet,CH,0,Slalom
+1980-03-10,Franz Gruber,AT,20,Slalom
+1980-03-10,Bojan Krizaj,SK,96,Slalom
+1980-03-10,Bruno Noeckler,IT,12,Giant Slalom
+1980-03-10,Andreas Wenzel,LI,51,Giant Slalom
+1980-03-10,Klaus Heidegger,AT,24,Slalom
+1980-03-10,Piero Gros,IT,18,Slalom
+1980-03-10,Vladimir Andreev,RU,18,Slalom
+1980-03-10,Peter Mally,IT,7,Slalom
+1980-03-10,Joel Gaspoz,CH,1,Giant Slalom
+1980-03-10,Peter Luescher,CH,7,Giant Slalom
+1980-03-10,Ingemar Stenmark,SE,138,Giant Slalom
+1980-03-10,Osamu Kodama,JP,10,Slalom
+1980-03-10,Hans Enn,AT,18,Giant Slalom
+1980-03-10,Petar Popangelov,BG,49,Slalom
+1980-03-10,Aleksandr Zhirov,RU,57,Slalom
+1980-03-10,Gustav Thoeni,IT,17,Slalom
+1980-03-10,Paolo De Chiesa,IT,16,Slalom
+1980-03-10,Jostein Masdal,NO,2,Slalom
+1980-03-10,Bogumir Zeman,SK,11,Giant Slalom
+1980-03-10,Christian Orlainsky,AT,46,Slalom
+1980-03-10,Mauro Bernardi,IT,21,Slalom
+1980-03-10,Joze Kuralt,SK,7,Giant Slalom
+1980-03-10,Jacques Luethy,CH,45,Giant Slalom
+1980-03-10,Phil Mahre,US,39,Combined
+1980-03-10,Peter Aellig,CH,1,Slalom
+1980-03-10,Florian Beck,DE,1,Slalom
+1980-03-10,Paul Frommelt,LI,43,Slalom
+1980-03-10,Franck Woerndl,DE,15,Slalom
+1980-03-10,Steve Mahre,US,24,Slalom
+1980-03-10,Karl Trojer,IT,12,Slalom
+1980-03-10,Stig Strand,SE,16,Slalom
+1980-03-10,Lars Goeran Halvarsson,SE,6,Slalom
+1980-03-10,Paul Arne Skajem,NO,13,Slalom
+1980-03-10,Christian Neureuther,DE,64,Slalom
+1980-03-10,Anton Steiner,AT,44,Combined
+1980-03-15,Jostein Masdal,NO,2,Slalom
+1980-03-15,Peter Aellig,CH,1,Slalom
+1980-03-15,Florian Beck,DE,1,Slalom
+1980-03-15,Vladimir Andreev,RU,18,Slalom
+1980-03-15,Peter Mally,IT,7,Slalom
+1980-03-15,Ingemar Stenmark,SE,163,Giant Slalom
+1980-03-15,Petar Popangelov,BG,64,Slalom
+1980-03-15,Andreas Wenzel,LI,51,Giant Slalom
+1980-03-15,Bojan Krizaj,SK,107,Slalom
+1980-03-15,Aleksandr Zhirov,RU,57,Slalom
+1980-03-15,Christian Neureuther,DE,76,Slalom
+1980-03-15,Steve Mahre,US,44,Slalom
+1980-03-15,Paul Frommelt,LI,45,Slalom
+1980-03-15,Jacques Luethy,CH,55,Giant Slalom
+1980-03-15,Christian Orlainsky,AT,55,Slalom
+1980-03-15,Klaus Heidegger,AT,24,Slalom
+1980-03-15,Mauro Bernardi,IT,21,Slalom
+1980-03-15,Phil Mahre,US,42,Combined
+1980-03-15,Anton Steiner,AT,52,Combined
+1980-03-15,Karl Trojer,IT,12,Slalom
+1980-03-15,Gustav Thoeni,IT,18,Slalom
+1980-03-15,Bruno Noeckler,IT,12,Giant Slalom
+1980-03-15,Osamu Kodama,JP,10,Slalom
+1980-03-15,Hans Enn,AT,25,Giant Slalom
+1980-03-15,Piero Gros,IT,18,Slalom
+1980-03-15,Franz Gruber,AT,20,Slalom
+1980-03-15,Paul Arne Skajem,NO,13,Slalom
+1980-03-15,Franck Woerndl,DE,15,Slalom
+1980-03-15,Bogumir Zeman,SK,11,Giant Slalom
+1980-03-15,Paolo De Chiesa,IT,21,Slalom
+1980-03-15,Joze Kuralt,SK,7,Giant Slalom
+1980-03-15,Stig Strand,SE,16,Slalom
+1980-03-15,Lars Goeran Halvarsson,SE,6,Slalom
+1980-03-15,Martial Donnet,CH,6,Slalom
+1980-03-15,Peter Luescher,CH,11,Giant Slalom
+1980-03-15,Joel Gaspoz,CH,1,Giant Slalom

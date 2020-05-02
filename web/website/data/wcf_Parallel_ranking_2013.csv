@@ -1,45 +1,45 @@
-date,name,ath_country,value
-2013-01-01,Veronika Velez Zuzulova,SK,100
-2013-01-01,Alexandra Daum,AT,0
-2013-01-01,Anna Sorokina,RU,0
-2013-01-01,Christina Geiger,DE,0
-2013-01-01,Brittany Phelan,CA,0
-2013-01-01,Wendy Holdener,CH,0
-2013-01-01,Lena Duerr,DE,0
-2013-01-01,Bernadette Schild,AT,29
-2013-01-01,Carmen Thalmann,AT,29
-2013-01-01,Nicole Hosp,AT,29
-2013-01-01,Frida Hansdotter,SE,29
-2013-01-01,Therese Borssen,SE,29
-2013-01-01,Maria Riesch Hoefl,DE,29
-2013-01-01,Erin Mielzynski,CA,29
-2013-01-01,Kathrin Zettel,AT,29
-2013-01-01,Julia Mancuso,US,40
-2013-01-01,Mikaela Shiffrin,US,40
-2013-01-01,Maria Pietilae-Holmner,SE,40
-2013-01-01,Viktoria Rebensburg,DE,40
-2013-01-01,Tina Maze,SK,80
-2013-01-01,Michaela Kirchgasser,AT,60
-2013-01-01,Tanja Poutiainen,FI,50
-2013-01-29,Frida Hansdotter,SE,69
-2013-01-29,Maria Riesch Hoefl,DE,29
-2013-01-29,Erin Mielzynski,CA,29
-2013-01-29,Julia Mancuso,US,40
-2013-01-29,Viktoria Rebensburg,DE,40
-2013-01-29,Lena Duerr,DE,100
-2013-01-29,Veronika Velez Zuzulova,SK,180
-2013-01-29,Mikaela Shiffrin,US,100
-2013-01-29,Alexandra Daum,AT,29
-2013-01-29,Christina Geiger,DE,29
-2013-01-29,Tanja Poutiainen,FI,90
-2013-01-29,Brittany Phelan,CA,29
-2013-01-29,Bernadette Schild,AT,58
-2013-01-29,Carmen Thalmann,AT,58
-2013-01-29,Nicole Hosp,AT,58
-2013-01-29,Maria Pietilae-Holmner,SE,69
-2013-01-29,Wendy Holdener,CH,50
-2013-01-29,Therese Borssen,SE,29
-2013-01-29,Tina Maze,SK,120
-2013-01-29,Michaela Kirchgasser,AT,100
-2013-01-29,Anna Sorokina,RU,29
-2013-01-29,Kathrin Zettel,AT,29
+date,name,ath_country,value,specialty
+2013-01-01,Veronika Velez Zuzulova,SK,100,Slalom
+2013-01-01,Anna Sorokina,RU,0,Parallel
+2013-01-01,Christina Geiger,DE,0,Slalom
+2013-01-01,Brittany Phelan,CA,0,Slalom
+2013-01-01,Bernadette Schild,AT,29,Slalom
+2013-01-01,Carmen Thalmann,AT,29,Slalom
+2013-01-01,Kathrin Zettel,AT,29,Giant Slalom
+2013-01-01,Nicole Hosp,AT,29,Combined
+2013-01-01,Therese Borssen,SE,29,Slalom
+2013-01-01,Maria Riesch Hoefl,DE,29,Slalom
+2013-01-01,Erin Mielzynski,CA,29,Slalom
+2013-01-01,Julia Mancuso,US,40,Super G
+2013-01-01,Maria Pietilae-Holmner,SE,40,Slalom
+2013-01-01,Viktoria Rebensburg,DE,40,Giant Slalom
+2013-01-01,Frida Hansdotter,SE,29,Slalom
+2013-01-01,Alexandra Daum,AT,0,Slalom
+2013-01-01,Lena Duerr,DE,0,Slalom
+2013-01-01,Tanja Poutiainen,FI,50,Slalom
+2013-01-01,Mikaela Shiffrin,US,40,Slalom
+2013-01-01,Tina Maze,SK,80,Giant Slalom
+2013-01-01,Wendy Holdener,CH,0,Slalom
+2013-01-01,Michaela Kirchgasser,AT,60,Giant Slalom
+2013-01-29,Veronika Velez Zuzulova,SK,180,Slalom
+2013-01-29,Anna Sorokina,RU,29,Parallel
+2013-01-29,Lena Duerr,DE,100,Slalom
+2013-01-29,Christina Geiger,DE,29,Slalom
+2013-01-29,Brittany Phelan,CA,29,Slalom
+2013-01-29,Bernadette Schild,AT,58,Slalom
+2013-01-29,Carmen Thalmann,AT,58,Slalom
+2013-01-29,Tina Maze,SK,120,Giant Slalom
+2013-01-29,Kathrin Zettel,AT,29,Giant Slalom
+2013-01-29,Viktoria Rebensburg,DE,40,Giant Slalom
+2013-01-29,Therese Borssen,SE,29,Slalom
+2013-01-29,Mikaela Shiffrin,US,100,Slalom
+2013-01-29,Maria Riesch Hoefl,DE,29,Slalom
+2013-01-29,Erin Mielzynski,CA,29,Slalom
+2013-01-29,Alexandra Daum,AT,29,Slalom
+2013-01-29,Frida Hansdotter,SE,69,Slalom
+2013-01-29,Julia Mancuso,US,40,Super G
+2013-01-29,Tanja Poutiainen,FI,90,Slalom
+2013-01-29,Maria Pietilae-Holmner,SE,69,Slalom
+2013-01-29,Wendy Holdener,CH,50,Slalom
+2013-01-29,Michaela Kirchgasser,AT,100,Giant Slalom
+2013-01-29,Nicole Hosp,AT,58,Combined

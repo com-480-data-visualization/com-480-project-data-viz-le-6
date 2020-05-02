@@ -1,85 +1,85 @@
-date,name,ath_country,value
-1969-01-10,Wiltrud Drexel,AT,25
-1969-01-10,Barbara Cochran,US,0
-1969-01-10,Gertrud Gabl,AT,0
-1969-01-10,Heidi Zimmermann,AT,0
-1969-01-10,Judy Crawford,CA,0
-1969-01-10,Francoise Macchi,FR,0
-1969-01-10,Olga Pall,AT,0
-1969-01-10,Annemarie Proell,AT,0
-1969-01-10,Judy Nagel,US,0
-1969-01-10,Anneroesli Zryd,CH,0
-1969-01-10,Florence Steurer,FR,0
-1969-01-10,Jutta Knobloch,AT,1
-1969-01-10,Erica Skinger,US,2
-1969-01-10,Giustina Demetz,IT,3
-1969-01-10,Ingrid Lafforgue,FR,4
-1969-01-10,Karen Budge,US,6
-1969-01-10,Annie Famose,FR,0
-1969-01-10,Michele Jacot,FR,11
-1969-01-10,Isabelle Mir,FR,15
-1969-01-10,Rosi Mittermaier,DE,20
-1969-01-10,Betsy Clifford,CA,8
-1969-01-15,Erica Skinger,US,10
-1969-01-15,Florence Steurer,FR,20
-1969-01-15,Rosi Mittermaier,DE,20
-1969-01-15,Ingrid Lafforgue,FR,4
-1969-01-15,Annie Famose,FR,15
-1969-01-15,Giustina Demetz,IT,3
-1969-01-15,Annemarie Proell,AT,0
-1969-01-15,Olga Pall,AT,0
-1969-01-15,Francoise Macchi,FR,0
-1969-01-15,Judy Crawford,CA,0
-1969-01-15,Heidi Zimmermann,AT,0
-1969-01-15,Gertrud Gabl,AT,0
-1969-01-15,Barbara Cochran,US,0
-1969-01-15,Jutta Knobloch,AT,1
-1969-01-15,Betsy Clifford,CA,9
-1969-01-15,Wiltrud Drexel,AT,50
-1969-01-15,Michele Jacot,FR,15
-1969-01-15,Isabelle Mir,FR,26
-1969-01-15,Judy Nagel,US,3
-1969-01-15,Karen Budge,US,8
-1969-01-15,Anneroesli Zryd,CH,6
-1969-01-25,Barbara Cochran,US,0
-1969-01-25,Francoise Macchi,FR,8
-1969-01-25,Rosi Mittermaier,DE,20
-1969-01-25,Betsy Clifford,CA,9
-1969-01-25,Giustina Demetz,IT,3
-1969-01-25,Erica Skinger,US,10
-1969-01-25,Jutta Knobloch,AT,1
-1969-01-25,Florence Steurer,FR,20
-1969-01-25,Anneroesli Zryd,CH,6
-1969-01-25,Judy Nagel,US,3
-1969-01-25,Judy Crawford,CA,6
-1969-01-25,Olga Pall,AT,11
-1969-01-25,Ingrid Lafforgue,FR,6
-1969-01-25,Michele Jacot,FR,19
-1969-01-25,Karen Budge,US,9
-1969-01-25,Annemarie Proell,AT,20
-1969-01-25,Heidi Zimmermann,AT,0
-1969-01-25,Wiltrud Drexel,AT,53
-1969-01-25,Annie Famose,FR,35
-1969-01-25,Isabelle Mir,FR,51
-1969-01-25,Gertrud Gabl,AT,0
-1969-01-31,Rosi Mittermaier,DE,20
-1969-01-31,Erica Skinger,US,10
-1969-01-31,Karen Budge,US,9
-1969-01-31,Florence Steurer,FR,20
-1969-01-31,Annie Famose,FR,35
-1969-01-31,Judy Nagel,US,3
-1969-01-31,Annemarie Proell,AT,20
-1969-01-31,Betsy Clifford,CA,9
-1969-01-31,Ingrid Lafforgue,FR,6
-1969-01-31,Jutta Knobloch,AT,9
-1969-01-31,Giustina Demetz,IT,14
-1969-01-31,Heidi Zimmermann,AT,6
-1969-01-31,Anneroesli Zryd,CH,10
-1969-01-31,Olga Pall,AT,36
-1969-01-31,Michele Jacot,FR,22
-1969-01-31,Isabelle Mir,FR,71
-1969-01-31,Gertrud Gabl,AT,3
-1969-01-31,Francoise Macchi,FR,8
-1969-01-31,Barbara Cochran,US,1
-1969-01-31,Wiltrud Drexel,AT,68
-1969-01-31,Judy Crawford,CA,6
+date,name,ath_country,value,specialty
+1969-01-10,Wiltrud Drexel,AT,25,Downhill
+1969-01-10,Annemarie Proell,AT,0,Downhill
+1969-01-10,Michele Jacot,FR,11,Giant Slalom
+1969-01-10,Giustina Demetz,IT,3,Downhill
+1969-01-10,Betsy Clifford,CA,8,Downhill
+1969-01-10,Francoise Macchi,FR,0,Giant Slalom
+1969-01-10,Jutta Knobloch,AT,1,Downhill
+1969-01-10,Annie Famose,FR,0,Slalom
+1969-01-10,Karen Budge,US,6,Giant Slalom
+1969-01-10,Judy Crawford,CA,0,Downhill
+1969-01-10,Heidi Zimmermann,AT,0,Giant Slalom
+1969-01-10,Ingrid Lafforgue,FR,4,Slalom
+1969-01-10,Judy Nagel,US,0,Slalom
+1969-01-10,Gertrud Gabl,AT,0,Slalom
+1969-01-10,Barbara Cochran,US,0,Slalom
+1969-01-10,Anneroesli Zryd,CH,0,Downhill
+1969-01-10,Florence Steurer,FR,0,Slalom
+1969-01-10,Erica Skinger,US,2,Downhill
+1969-01-10,Olga Pall,AT,0,Downhill
+1969-01-10,Isabelle Mir,FR,15,Downhill
+1969-01-10,Rosi Mittermaier,DE,20,Slalom
+1969-01-15,Jutta Knobloch,AT,1,Downhill
+1969-01-15,Anneroesli Zryd,CH,6,Downhill
+1969-01-15,Francoise Macchi,FR,0,Giant Slalom
+1969-01-15,Isabelle Mir,FR,26,Downhill
+1969-01-15,Barbara Cochran,US,0,Slalom
+1969-01-15,Erica Skinger,US,10,Downhill
+1969-01-15,Judy Crawford,CA,0,Downhill
+1969-01-15,Betsy Clifford,CA,9,Downhill
+1969-01-15,Olga Pall,AT,0,Downhill
+1969-01-15,Heidi Zimmermann,AT,0,Giant Slalom
+1969-01-15,Karen Budge,US,8,Giant Slalom
+1969-01-15,Giustina Demetz,IT,3,Downhill
+1969-01-15,Florence Steurer,FR,20,Slalom
+1969-01-15,Michele Jacot,FR,15,Giant Slalom
+1969-01-15,Rosi Mittermaier,DE,20,Slalom
+1969-01-15,Ingrid Lafforgue,FR,4,Slalom
+1969-01-15,Annemarie Proell,AT,0,Downhill
+1969-01-15,Judy Nagel,US,3,Slalom
+1969-01-15,Wiltrud Drexel,AT,50,Downhill
+1969-01-15,Annie Famose,FR,15,Slalom
+1969-01-15,Gertrud Gabl,AT,0,Slalom
+1969-01-25,Karen Budge,US,9,Giant Slalom
+1969-01-25,Gertrud Gabl,AT,0,Slalom
+1969-01-25,Isabelle Mir,FR,51,Downhill
+1969-01-25,Judy Crawford,CA,6,Downhill
+1969-01-25,Heidi Zimmermann,AT,0,Giant Slalom
+1969-01-25,Wiltrud Drexel,AT,53,Downhill
+1969-01-25,Ingrid Lafforgue,FR,6,Slalom
+1969-01-25,Anneroesli Zryd,CH,6,Downhill
+1969-01-25,Judy Nagel,US,3,Slalom
+1969-01-25,Florence Steurer,FR,20,Slalom
+1969-01-25,Barbara Cochran,US,0,Slalom
+1969-01-25,Olga Pall,AT,11,Downhill
+1969-01-25,Rosi Mittermaier,DE,20,Slalom
+1969-01-25,Jutta Knobloch,AT,1,Downhill
+1969-01-25,Annie Famose,FR,35,Slalom
+1969-01-25,Giustina Demetz,IT,3,Downhill
+1969-01-25,Francoise Macchi,FR,8,Giant Slalom
+1969-01-25,Annemarie Proell,AT,20,Downhill
+1969-01-25,Erica Skinger,US,10,Downhill
+1969-01-25,Michele Jacot,FR,19,Giant Slalom
+1969-01-25,Betsy Clifford,CA,9,Downhill
+1969-01-31,Annie Famose,FR,35,Slalom
+1969-01-31,Gertrud Gabl,AT,3,Slalom
+1969-01-31,Wiltrud Drexel,AT,68,Downhill
+1969-01-31,Rosi Mittermaier,DE,20,Slalom
+1969-01-31,Barbara Cochran,US,1,Slalom
+1969-01-31,Florence Steurer,FR,20,Slalom
+1969-01-31,Judy Nagel,US,3,Slalom
+1969-01-31,Ingrid Lafforgue,FR,6,Slalom
+1969-01-31,Olga Pall,AT,36,Downhill
+1969-01-31,Michele Jacot,FR,22,Giant Slalom
+1969-01-31,Isabelle Mir,FR,71,Downhill
+1969-01-31,Heidi Zimmermann,AT,6,Giant Slalom
+1969-01-31,Judy Crawford,CA,6,Downhill
+1969-01-31,Betsy Clifford,CA,9,Downhill
+1969-01-31,Erica Skinger,US,10,Downhill
+1969-01-31,Anneroesli Zryd,CH,10,Downhill
+1969-01-31,Francoise Macchi,FR,8,Giant Slalom
+1969-01-31,Karen Budge,US,9,Giant Slalom
+1969-01-31,Jutta Knobloch,AT,9,Downhill
+1969-01-31,Annemarie Proell,AT,20,Downhill
+1969-01-31,Giustina Demetz,IT,14,Downhill

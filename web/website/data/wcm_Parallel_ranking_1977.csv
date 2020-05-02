@@ -1,11 +1,11 @@
-date,name,ath_country,value
-1977-03-26,Manfred Brunner,AT,25
-1977-03-26,Klaus Heidegger,AT,20
-1977-03-26,Bruno Noeckler,IT,15
-1977-03-26,Leonhard Stock,AT,11
-1977-03-26,Willi Frommelt,LI,8
-1977-03-26,Phil Mahre,US,6
-1977-03-26,Paul Frommelt,LI,4
-1977-03-26,Christian Neureuther,DE,3
-1977-03-26,Heini Hemmi,CH,2
-1977-03-26,Walter Tresch,CH,1
+date,name,ath_country,value,specialty
+1977-03-26,Manfred Brunner,AT,25,Giant Slalom
+1977-03-26,Klaus Heidegger,AT,20,Giant Slalom
+1977-03-26,Bruno Noeckler,IT,15,Slalom
+1977-03-26,Leonhard Stock,AT,11,Combined
+1977-03-26,Willi Frommelt,LI,8,Giant Slalom
+1977-03-26,Phil Mahre,US,6,Giant Slalom
+1977-03-26,Paul Frommelt,LI,4,Slalom
+1977-03-26,Christian Neureuther,DE,3,Slalom
+1977-03-26,Heini Hemmi,CH,2,Giant Slalom
+1977-03-26,Walter Tresch,CH,1,Combined

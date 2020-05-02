@@ -1,16 +1,16 @@
-date,name,ath_country,value
-1991-03-24,Anita Wachter,AT,25
-1991-03-24,Ingrid Salvenmoser,AT,20
-1991-03-24,Chantal Bournissen,CH,15
-1991-03-24,Christine von Gruenigen,CH,12
-1991-03-24,Monika Maierhofer,AT,11
-1991-03-24,Lucie Laroche,CA,10
-1991-03-24,Vreni Schneider,CH,9
-1991-03-24,Patricia Chauvet,FR,8
-1991-03-24,Eva Twardokens,US,7
-1991-03-24,Kristina Andersson,SE,6
-1991-03-24,Blanca Fernandez Ochoa,ES,5
-1991-03-24,Sabine Ginther,AT,4
-1991-03-24,Petra Kronberger,AT,3
-1991-03-24,Florence Masnada,FR,2
-1991-03-24,Miriam Vogt,DE,1
+date,name,ath_country,value,specialty
+1991-03-24,Anita Wachter,AT,25,Giant Slalom
+1991-03-24,Ingrid Salvenmoser,AT,20,Slalom
+1991-03-24,Chantal Bournissen,CH,15,Downhill
+1991-03-24,Christine von Gruenigen,CH,12,Slalom
+1991-03-24,Monika Maierhofer,AT,11,Slalom
+1991-03-24,Lucie Laroche,CA,10,Downhill
+1991-03-24,Vreni Schneider,CH,9,Giant Slalom
+1991-03-24,Patricia Chauvet,FR,8,Slalom
+1991-03-24,Eva Twardokens,US,7,Giant Slalom
+1991-03-24,Kristina Andersson,SE,6,Slalom
+1991-03-24,Blanca Fernandez Ochoa,ES,5,Slalom
+1991-03-24,Sabine Ginther,AT,4,Downhill
+1991-03-24,Petra Kronberger,AT,3,Downhill
+1991-03-24,Florence Masnada,FR,2,Combined
+1991-03-24,Miriam Vogt,DE,1,Downhill

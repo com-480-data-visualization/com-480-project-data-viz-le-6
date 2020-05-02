@@ -1,531 +1,531 @@
-date,name,ath_country,value
-1984-12-02,Marc Girardelli,LU,25
-1984-12-02,Paul Frommelt,LI,0
-1984-12-02,Alex Giorgi,IT,0
-1984-12-02,Joel Gaspoz,CH,0
-1984-12-02,Martin Hangl,CH,11
-1984-12-02,Michel Vion,FR,0
-1984-12-02,Dietmar Koehlbichler,AT,0
-1984-12-02,Joze Kuralt,SK,0
-1984-12-02,Ernst Riedlsperger,AT,0
-1984-12-02,Franck Woerndl,DE,0
-1984-12-02,Richard Pramotton,IT,5
-1984-12-02,Ingemar Stenmark,SE,0
-1984-12-02,Chiaki Ishioka,JP,0
-1984-12-02,Franz Gruber,AT,0
-1984-12-02,Robert Erlacher,IT,10
-1984-12-02,Tomaz Cerkovnik,SK,0
-1984-12-02,Didier Bouvet,FR,0
-1984-12-02,Rok Petrovic,SK,0
-1984-12-02,Roberto Grigis,IT,6
-1984-12-02,Daniel Fontaine,FR,4
-1984-12-02,Carlo Gerosa,IT,3
-1984-12-02,Daniel Mougel,FR,7
-1984-12-02,Florian Beck,DE,8
-1984-12-02,Bengt Fjaellberg,SE,2
-1984-12-02,Lars Goeran Halvarsson,SE,0
-1984-12-02,Pirmin Zurbriggen,CH,2
-1984-12-02,Oswald Toetsch,IT,0
-1984-12-02,Andreas Wenzel,LI,0
-1984-12-02,Max Julen,CH,0
-1984-12-02,Robert Zoller,AT,0
-1984-12-02,Bojan Krizaj,SK,0
-1984-12-02,Petar Popangelov,BG,0
-1984-12-02,Ivano Edalini,IT,9
-1984-12-02,Thomas Buergler,CH,0
-1984-12-02,Thomas Stangassinger,AT,0
-1984-12-02,Stefan Pistor,DE,0
-1984-12-02,Jonas Nilsson,SE,20
-1984-12-02,Naomine Iwaya,JP,0
-1984-12-02,Robert Ormsby,US,0
-1984-12-02,Cory Carlson,US,0
-1984-12-02,Paolo De Chiesa,IT,15
-1984-12-02,Felix McGrath,US,0
-1984-12-02,Anton Steiner,AT,0
-1984-12-02,John Buxman,US,0
-1984-12-02,Alex Williams,US,0
-1984-12-02,Tiger Shaw,US,0
-1984-12-02,Marco Tonazzi,IT,0
-1984-12-02,Mathias Berthold,AT,0
-1984-12-02,Tetsuya Okabe,JP,0
-1984-12-02,Gunnar Neuriesser,SE,0
-1984-12-02,Klaus Heidegger,AT,12
-1984-12-02,Peter Namberger,DE,0
-1984-12-02,Daniel Stripp,US,0
-1984-12-10,Franck Woerndl,DE,0
-1984-12-10,Mathias Berthold,AT,0
-1984-12-10,Marco Tonazzi,IT,0
-1984-12-10,Tiger Shaw,US,0
-1984-12-10,Daniel Stripp,US,0
-1984-12-10,Tomaz Cerkovnik,SK,3
-1984-12-10,Thomas Stangassinger,AT,0
-1984-12-10,John Buxman,US,0
-1984-12-10,Ernst Riedlsperger,AT,0
-1984-12-10,Felix McGrath,US,0
-1984-12-10,Alex Williams,US,0
-1984-12-10,Cory Carlson,US,0
-1984-12-10,Robert Ormsby,US,0
-1984-12-10,Didier Bouvet,FR,4
-1984-12-10,Tetsuya Okabe,JP,0
-1984-12-10,Joze Kuralt,SK,0
-1984-12-10,Rok Petrovic,SK,5
-1984-12-10,Anton Steiner,AT,0
-1984-12-10,Gunnar Neuriesser,SE,0
-1984-12-10,Lars Goeran Halvarsson,SE,0
-1984-12-10,Stefan Pistor,DE,0
-1984-12-10,Marc Girardelli,LU,25
-1984-12-10,Jonas Nilsson,SE,20
-1984-12-10,Klaus Heidegger,AT,12
-1984-12-10,Martin Hangl,CH,11
-1984-12-10,Florian Beck,DE,8
-1984-12-10,Daniel Mougel,FR,7
-1984-12-10,Roberto Grigis,IT,6
-1984-12-10,Richard Pramotton,IT,5
-1984-12-10,Peter Namberger,DE,0
-1984-12-10,Daniel Fontaine,FR,4
-1984-12-10,Alex Giorgi,IT,0
-1984-12-10,Paul Frommelt,LI,0
-1984-12-10,Thomas Buergler,CH,0
-1984-12-10,Naomine Iwaya,JP,0
-1984-12-10,Franz Gruber,AT,2
-1984-12-10,Carlo Gerosa,IT,3
-1984-12-10,Bengt Fjaellberg,SE,2
-1984-12-10,Ingemar Stenmark,SE,0
-1984-12-10,Joel Gaspoz,CH,0
-1984-12-10,Dietmar Koehlbichler,AT,0
-1984-12-10,Michel Vion,FR,0
-1984-12-10,Robert Zoller,AT,9
-1984-12-10,Pirmin Zurbriggen,CH,27
-1984-12-10,Robert Erlacher,IT,18
-1984-12-10,Chiaki Ishioka,JP,1
-1984-12-10,Paolo De Chiesa,IT,35
-1984-12-10,Petar Popangelov,BG,6
-1984-12-10,Ivano Edalini,IT,24
-1984-12-10,Oswald Toetsch,IT,12
-1984-12-10,Max Julen,CH,10
-1984-12-10,Andreas Wenzel,LI,11
-1984-12-10,Bojan Krizaj,SK,7
-1984-12-16,Felix McGrath,US,0
-1984-12-16,Anton Steiner,AT,0
-1984-12-16,John Buxman,US,0
-1984-12-16,Rok Petrovic,SK,5
-1984-12-16,Alex Williams,US,0
-1984-12-16,Tiger Shaw,US,0
-1984-12-16,Marco Tonazzi,IT,0
-1984-12-16,Joze Kuralt,SK,2
-1984-12-16,Daniel Stripp,US,0
-1984-12-16,Didier Bouvet,FR,4
-1984-12-16,Cory Carlson,US,0
-1984-12-16,Robert Ormsby,US,0
-1984-12-16,Robert Zoller,AT,17
-1984-12-16,Jonas Nilsson,SE,30
-1984-12-16,Thomas Stangassinger,AT,11
-1984-12-16,Ingemar Stenmark,SE,12
-1984-12-16,Petar Popangelov,BG,21
-1984-12-16,Andreas Wenzel,LI,31
-1984-12-16,Dietmar Koehlbichler,AT,1
-1984-12-16,Bojan Krizaj,SK,32
-1984-12-16,Klaus Heidegger,AT,21
-1984-12-16,Mathias Berthold,AT,0
-1984-12-16,Carlo Gerosa,IT,3
-1984-12-16,Gunnar Neuriesser,SE,0
-1984-12-16,Roberto Grigis,IT,6
-1984-12-16,Richard Pramotton,IT,5
-1984-12-16,Daniel Mougel,FR,7
-1984-12-16,Florian Beck,DE,8
-1984-12-16,Tetsuya Okabe,JP,0
-1984-12-16,Robert Erlacher,IT,18
-1984-12-16,Martin Hangl,CH,11
-1984-12-16,Oswald Toetsch,IT,17
-1984-12-16,Max Julen,CH,16
-1984-12-16,Paolo De Chiesa,IT,35
-1984-12-16,Marc Girardelli,LU,25
-1984-12-16,Tomaz Cerkovnik,SK,3
-1984-12-16,Franz Gruber,AT,2
-1984-12-16,Bengt Fjaellberg,SE,2
-1984-12-16,Daniel Fontaine,FR,4
-1984-12-16,Chiaki Ishioka,JP,1
-1984-12-16,Peter Namberger,DE,0
-1984-12-16,Stefan Pistor,DE,0
-1984-12-16,Naomine Iwaya,JP,0
-1984-12-16,Ernst Riedlsperger,AT,3
-1984-12-16,Thomas Buergler,CH,0
-1984-12-16,Pirmin Zurbriggen,CH,27
-1984-12-16,Lars Goeran Halvarsson,SE,0
-1984-12-16,Paul Frommelt,LI,0
-1984-12-16,Alex Giorgi,IT,0
-1984-12-16,Franck Woerndl,DE,7
-1984-12-16,Ivano Edalini,IT,28
-1984-12-16,Michel Vion,FR,0
-1984-12-16,Joel Gaspoz,CH,0
-1985-01-04,Alex Williams,US,0
-1985-01-04,Alex Giorgi,IT,1
-1985-01-04,Tetsuya Okabe,JP,0
-1985-01-04,Mathias Berthold,AT,0
-1985-01-04,Felix McGrath,US,0
-1985-01-04,Marco Tonazzi,IT,0
-1985-01-04,Gunnar Neuriesser,SE,0
-1985-01-04,Daniel Stripp,US,0
-1985-01-04,John Buxman,US,0
-1985-01-04,Anton Steiner,AT,0
-1985-01-04,Robert Ormsby,US,0
-1985-01-04,Cory Carlson,US,0
-1985-01-04,Tiger Shaw,US,0
-1985-01-04,Peter Namberger,DE,0
-1985-01-04,Franz Gruber,AT,2
-1985-01-04,Naomine Iwaya,JP,0
-1985-01-04,Jonas Nilsson,SE,30
-1985-01-04,Klaus Heidegger,AT,21
-1985-01-04,Robert Erlacher,IT,18
-1985-01-04,Ivano Edalini,IT,28
-1985-01-04,Daniel Mougel,FR,7
-1985-01-04,Roberto Grigis,IT,6
-1985-01-04,Carlo Gerosa,IT,3
-1985-01-04,Bengt Fjaellberg,SE,2
-1985-01-04,Max Julen,CH,16
-1985-01-04,Stefan Pistor,DE,0
-1985-01-04,Robert Zoller,AT,17
-1985-01-04,Rok Petrovic,SK,5
-1985-01-04,Didier Bouvet,FR,4
-1985-01-04,Tomaz Cerkovnik,SK,3
-1985-01-04,Ernst Riedlsperger,AT,3
-1985-01-04,Joze Kuralt,SK,2
-1985-01-04,Dietmar Koehlbichler,AT,1
-1985-01-04,Paul Frommelt,LI,0
-1985-01-04,Lars Goeran Halvarsson,SE,0
-1985-01-04,Thomas Buergler,CH,0
-1985-01-04,Petar Popangelov,BG,21
-1985-01-04,Martin Hangl,CH,11
-1985-01-04,Pirmin Zurbriggen,CH,27
-1985-01-04,Andreas Wenzel,LI,40
-1985-01-04,Thomas Stangassinger,AT,17
-1985-01-04,Daniel Fontaine,FR,9
-1985-01-04,Franck Woerndl,DE,12
-1985-01-04,Ingemar Stenmark,SE,27
-1985-01-04,Marc Girardelli,LU,50
-1985-01-04,Bojan Krizaj,SK,43
-1985-01-04,Joel Gaspoz,CH,7
-1985-01-04,Paolo De Chiesa,IT,47
-1985-01-04,Richard Pramotton,IT,8
-1985-01-04,Chiaki Ishioka,JP,4
-1985-01-04,Florian Beck,DE,28
-1985-01-04,Michel Vion,FR,8
-1985-01-04,Oswald Toetsch,IT,27
-1985-01-06,Tiger Shaw,US,0
-1985-01-06,Cory Carlson,US,0
-1985-01-06,Alex Williams,US,0
-1985-01-06,Max Julen,CH,26
-1985-01-06,Paolo De Chiesa,IT,59
-1985-01-06,Ernst Riedlsperger,AT,3
-1985-01-06,Joze Kuralt,SK,2
-1985-01-06,Dietmar Koehlbichler,AT,1
-1985-01-06,Felix McGrath,US,0
-1985-01-06,Joel Gaspoz,CH,7
-1985-01-06,Anton Steiner,AT,0
-1985-01-06,Ingemar Stenmark,SE,38
-1985-01-06,Daniel Stripp,US,0
-1985-01-06,Mathias Berthold,AT,0
-1985-01-06,Marco Tonazzi,IT,0
-1985-01-06,Franck Woerndl,DE,12
-1985-01-06,John Buxman,US,0
-1985-01-06,Chiaki Ishioka,JP,4
-1985-01-06,Daniel Mougel,FR,7
-1985-01-06,Florian Beck,DE,28
-1985-01-06,Ivano Edalini,IT,28
-1985-01-06,Robert Erlacher,IT,18
-1985-01-06,Martin Hangl,CH,11
-1985-01-06,Klaus Heidegger,AT,21
-1985-01-06,Marc Girardelli,LU,50
-1985-01-06,Daniel Fontaine,FR,9
-1985-01-06,Carlo Gerosa,IT,3
-1985-01-06,Bengt Fjaellberg,SE,2
-1985-01-06,Pirmin Zurbriggen,CH,27
-1985-01-06,Jonas Nilsson,SE,50
-1985-01-06,Oswald Toetsch,IT,27
-1985-01-06,Robert Zoller,AT,17
-1985-01-06,Bojan Krizaj,SK,43
-1985-01-06,Petar Popangelov,BG,21
-1985-01-06,Rok Petrovic,SK,5
-1985-01-06,Paul Frommelt,LI,15
-1985-01-06,Didier Bouvet,FR,4
-1985-01-06,Robert Ormsby,US,0
-1985-01-06,Franz Gruber,AT,2
-1985-01-06,Thomas Stangassinger,AT,17
-1985-01-06,Tomaz Cerkovnik,SK,3
-1985-01-06,Richard Pramotton,IT,8
-1985-01-06,Michel Vion,FR,13
-1985-01-06,Alex Giorgi,IT,10
-1985-01-06,Roberto Grigis,IT,6
-1985-01-06,Andreas Wenzel,LI,65
-1985-01-06,Stefan Pistor,DE,4
-1985-01-06,Gunnar Neuriesser,SE,2
-1985-01-06,Lars Goeran Halvarsson,SE,8
-1985-01-06,Naomine Iwaya,JP,6
-1985-01-06,Tetsuya Okabe,JP,1
-1985-01-06,Thomas Buergler,CH,7
-1985-01-06,Peter Namberger,DE,3
-1985-01-13,Stefan Pistor,DE,4
-1985-01-13,Peter Namberger,DE,3
-1985-01-13,Gunnar Neuriesser,SE,2
-1985-01-13,Tetsuya Okabe,JP,1
-1985-01-13,Martin Hangl,CH,11
-1985-01-13,Naomine Iwaya,JP,6
-1985-01-13,Tiger Shaw,US,0
-1985-01-13,Daniel Stripp,US,0
-1985-01-13,Anton Steiner,AT,0
-1985-01-13,Felix McGrath,US,0
-1985-01-13,Alex Williams,US,0
-1985-01-13,Cory Carlson,US,0
-1985-01-13,Robert Ormsby,US,0
-1985-01-13,Mathias Berthold,AT,0
-1985-01-13,Marco Tonazzi,IT,0
-1985-01-13,Joel Gaspoz,CH,7
-1985-01-13,Paul Frommelt,LI,15
-1985-01-13,Daniel Mougel,FR,7
-1985-01-13,Richard Pramotton,IT,8
-1985-01-13,Daniel Fontaine,FR,9
-1985-01-13,Carlo Gerosa,IT,3
-1985-01-13,Bengt Fjaellberg,SE,2
-1985-01-13,Pirmin Zurbriggen,CH,27
-1985-01-13,Max Julen,CH,26
-1985-01-13,Robert Zoller,AT,17
-1985-01-13,Thomas Buergler,CH,7
-1985-01-13,Petar Popangelov,BG,21
-1985-01-13,Didier Bouvet,FR,4
-1985-01-13,Tomaz Cerkovnik,SK,3
-1985-01-13,Thomas Stangassinger,AT,17
-1985-01-13,Franck Woerndl,DE,12
-1985-01-13,Ernst Riedlsperger,AT,3
-1985-01-13,Joze Kuralt,SK,2
-1985-01-13,Dietmar Koehlbichler,AT,1
-1985-01-13,Robert Erlacher,IT,18
-1985-01-13,Rok Petrovic,SK,5
-1985-01-13,Roberto Grigis,IT,6
-1985-01-13,John Buxman,US,0
-1985-01-13,Paolo De Chiesa,IT,70
-1985-01-13,Chiaki Ishioka,JP,9
-1985-01-13,Ingemar Stenmark,SE,46
-1985-01-13,Andreas Wenzel,LI,75
-1985-01-13,Florian Beck,DE,32
-1985-01-13,Ivano Edalini,IT,34
-1985-01-13,Alex Giorgi,IT,22
-1985-01-13,Michel Vion,FR,14
-1985-01-13,Marc Girardelli,LU,75
-1985-01-13,Klaus Heidegger,AT,24
-1985-01-13,Bojan Krizaj,SK,58
-1985-01-13,Franz Gruber,AT,11
-1985-01-13,Lars Goeran Halvarsson,SE,15
-1985-01-13,Jonas Nilsson,SE,52
-1985-01-13,Oswald Toetsch,IT,47
-1985-01-21,Carlo Gerosa,IT,3
-1985-01-21,Daniel Fontaine,FR,9
-1985-01-21,Didier Bouvet,FR,11
-1985-01-21,Pirmin Zurbriggen,CH,27
-1985-01-21,Petar Popangelov,BG,27
-1985-01-21,Oswald Toetsch,IT,47
-1985-01-21,Bengt Fjaellberg,SE,2
-1985-01-21,Marc Girardelli,LU,100
-1985-01-21,Richard Pramotton,IT,8
-1985-01-21,Rok Petrovic,SK,10
-1985-01-21,Robert Ormsby,US,0
-1985-01-21,Joze Kuralt,SK,6
-1985-01-21,Daniel Mougel,FR,7
-1985-01-21,Naomine Iwaya,JP,9
-1985-01-21,Florian Beck,DE,32
-1985-01-21,Ivano Edalini,IT,34
-1985-01-21,Franck Woerndl,DE,13
-1985-01-21,Robert Erlacher,IT,18
-1985-01-21,Gunnar Neuriesser,SE,4
-1985-01-21,Martin Hangl,CH,11
-1985-01-21,Roberto Grigis,IT,6
-1985-01-21,Andreas Wenzel,LI,75
-1985-01-21,Tomaz Cerkovnik,SK,3
-1985-01-21,Max Julen,CH,26
-1985-01-21,Cory Carlson,US,0
-1985-01-21,Alex Williams,US,0
-1985-01-21,Ingemar Stenmark,SE,66
-1985-01-21,Felix McGrath,US,0
-1985-01-21,Anton Steiner,AT,0
-1985-01-21,John Buxman,US,0
-1985-01-21,Paul Frommelt,LI,30
-1985-01-21,Daniel Stripp,US,0
-1985-01-21,Tiger Shaw,US,0
-1985-01-21,Marco Tonazzi,IT,0
-1985-01-21,Mathias Berthold,AT,0
-1985-01-21,Robert Zoller,AT,29
-1985-01-21,Tetsuya Okabe,JP,1
-1985-01-21,Peter Namberger,DE,3
-1985-01-21,Stefan Pistor,DE,4
-1985-01-21,Bojan Krizaj,SK,69
-1985-01-21,Lars Goeran Halvarsson,SE,15
-1985-01-21,Joel Gaspoz,CH,7
-1985-01-21,Michel Vion,FR,14
-1985-01-21,Dietmar Koehlbichler,AT,1
-1985-01-21,Alex Giorgi,IT,32
-1985-01-21,Ernst Riedlsperger,AT,3
-1985-01-21,Thomas Stangassinger,AT,17
-1985-01-21,Chiaki Ishioka,JP,9
-1985-01-21,Thomas Buergler,CH,16
-1985-01-21,Franz Gruber,AT,11
-1985-01-21,Jonas Nilsson,SE,52
-1985-01-21,Klaus Heidegger,AT,32
-1985-01-21,Paolo De Chiesa,IT,70
-1985-02-16,Carlo Gerosa,IT,3
-1985-02-16,Florian Beck,DE,32
-1985-02-16,Thomas Buergler,CH,16
-1985-02-16,Naomine Iwaya,JP,9
-1985-02-16,Stefan Pistor,DE,4
-1985-02-16,Peter Namberger,DE,3
-1985-02-16,Gunnar Neuriesser,SE,4
-1985-02-16,Tetsuya Okabe,JP,1
-1985-02-16,Lars Goeran Halvarsson,SE,15
-1985-02-16,Tiger Shaw,US,0
-1985-02-16,John Buxman,US,0
-1985-02-16,Anton Steiner,AT,0
-1985-02-16,Felix McGrath,US,0
-1985-02-16,Alex Williams,US,0
-1985-02-16,Cory Carlson,US,0
-1985-02-16,Robert Ormsby,US,0
-1985-02-16,Daniel Stripp,US,0
-1985-02-16,Alex Giorgi,IT,32
-1985-02-16,Joel Gaspoz,CH,7
-1985-02-16,Joze Kuralt,SK,6
-1985-02-16,Daniel Mougel,FR,7
-1985-02-16,Richard Pramotton,IT,8
-1985-02-16,Daniel Fontaine,FR,9
-1985-02-16,Bengt Fjaellberg,SE,2
-1985-02-16,Pirmin Zurbriggen,CH,27
-1985-02-16,Oswald Toetsch,IT,47
-1985-02-16,Andreas Wenzel,LI,75
-1985-02-16,Max Julen,CH,26
-1985-02-16,Robert Zoller,AT,29
-1985-02-16,Bojan Krizaj,SK,69
-1985-02-16,Rok Petrovic,SK,10
-1985-02-16,Tomaz Cerkovnik,SK,3
-1985-02-16,Franz Gruber,AT,11
-1985-02-16,Chiaki Ishioka,JP,9
-1985-02-16,Franck Woerndl,DE,13
-1985-02-16,Robert Erlacher,IT,18
-1985-02-16,Martin Hangl,CH,11
-1985-02-16,Marc Girardelli,LU,125
-1985-02-16,Petar Popangelov,BG,29
-1985-02-16,Paul Frommelt,LI,45
-1985-02-16,Ivano Edalini,IT,45
-1985-02-16,Jonas Nilsson,SE,67
-1985-02-16,Paolo De Chiesa,IT,70
-1985-02-16,Klaus Heidegger,AT,42
-1985-02-16,Ingemar Stenmark,SE,86
-1985-02-16,Thomas Stangassinger,AT,26
-1985-02-16,Roberto Grigis,IT,13
-1985-02-16,Didier Bouvet,FR,19
-1985-02-16,Dietmar Koehlbichler,AT,2
-1985-02-16,Marco Tonazzi,IT,3
-1985-02-16,Ernst Riedlsperger,AT,7
-1985-02-16,Michel Vion,FR,20
-1985-02-16,Mathias Berthold,AT,5
-1985-03-20,Oswald Toetsch,IT,47
-1985-03-20,Bengt Fjaellberg,SE,2
-1985-03-20,Ingemar Stenmark,SE,86
-1985-03-20,Chiaki Ishioka,JP,9
-1985-03-20,Pirmin Zurbriggen,CH,27
-1985-03-20,Franz Gruber,AT,11
-1985-03-20,Tomaz Cerkovnik,SK,3
-1985-03-20,Thomas Stangassinger,AT,26
-1985-03-20,Robert Zoller,AT,29
-1985-03-20,Max Julen,CH,26
-1985-03-20,Andreas Wenzel,LI,75
-1985-03-20,Ernst Riedlsperger,AT,7
-1985-03-20,Joel Gaspoz,CH,7
-1985-03-20,Dietmar Koehlbichler,AT,2
-1985-03-20,Michel Vion,FR,20
-1985-03-20,Carlo Gerosa,IT,3
-1985-03-20,Lars Goeran Halvarsson,SE,15
-1985-03-20,Thomas Buergler,CH,16
-1985-03-20,Naomine Iwaya,JP,9
-1985-03-20,Stefan Pistor,DE,4
-1985-03-20,Peter Namberger,DE,3
-1985-03-20,Gunnar Neuriesser,SE,4
-1985-03-20,Tetsuya Okabe,JP,1
-1985-03-20,Mathias Berthold,AT,5
-1985-03-20,Marco Tonazzi,IT,3
-1985-03-20,Robert Ormsby,US,0
-1985-03-20,Bojan Krizaj,SK,69
-1985-03-20,Joze Kuralt,SK,6
-1985-03-20,Daniel Fontaine,FR,9
-1985-03-20,Alex Williams,US,2
-1985-03-20,Roberto Grigis,IT,13
-1985-03-20,Tiger Shaw,US,9
-1985-03-20,Petar Popangelov,BG,39
-1985-03-20,Alex Giorgi,IT,37
-1985-03-20,Didier Bouvet,FR,30
-1985-03-20,Cory Carlson,US,1
-1985-03-20,John Buxman,US,6
-1985-03-20,Ivano Edalini,IT,57
-1985-03-20,Anton Steiner,AT,4
-1985-03-20,Paul Frommelt,LI,60
-1985-03-20,Franck Woerndl,DE,20
-1985-03-20,Richard Pramotton,IT,8
-1985-03-20,Felix McGrath,US,3
-1985-03-20,Marc Girardelli,LU,150
-1985-03-20,Jonas Nilsson,SE,67
-1985-03-20,Paolo De Chiesa,IT,70
-1985-03-20,Klaus Heidegger,AT,42
-1985-03-20,Martin Hangl,CH,11
-1985-03-20,Robert Erlacher,IT,18
-1985-03-20,Florian Beck,DE,32
-1985-03-20,Daniel Mougel,FR,7
-1985-03-20,Rok Petrovic,SK,30
-1985-03-20,Daniel Stripp,US,8
-1985-03-23,Gunnar Neuriesser,SE,4
-1985-03-23,Naomine Iwaya,JP,9
-1985-03-23,Michel Vion,FR,20
-1985-03-23,Lars Goeran Halvarsson,SE,15
-1985-03-23,Joel Gaspoz,CH,7
-1985-03-23,Tetsuya Okabe,JP,1
-1985-03-23,Dietmar Koehlbichler,AT,2
-1985-03-23,Joze Kuralt,SK,6
-1985-03-23,Thomas Buergler,CH,16
-1985-03-23,Mathias Berthold,AT,5
-1985-03-23,Cory Carlson,US,1
-1985-03-23,Tiger Shaw,US,9
-1985-03-23,Daniel Stripp,US,8
-1985-03-23,John Buxman,US,6
-1985-03-23,Anton Steiner,AT,4
-1985-03-23,Felix McGrath,US,3
-1985-03-23,Alex Williams,US,2
-1985-03-23,Ernst Riedlsperger,AT,7
-1985-03-23,Chiaki Ishioka,JP,15
-1985-03-23,Florian Beck,DE,37
-1985-03-23,Bengt Fjaellberg,SE,6
-1985-03-23,Robert Ormsby,US,3
-1985-03-23,Marco Tonazzi,IT,3
-1985-03-23,Franck Woerndl,DE,20
-1985-03-23,Carlo Gerosa,IT,3
-1985-03-23,Ingemar Stenmark,SE,86
-1985-03-23,Stefan Pistor,DE,6
-1985-03-23,Marc Girardelli,LU,175
-1985-03-23,Paul Frommelt,LI,80
-1985-03-23,Robert Zoller,AT,44
-1985-03-23,Klaus Heidegger,AT,54
-1985-03-23,Pirmin Zurbriggen,CH,38
-1985-03-23,Oswald Toetsch,IT,57
-1985-03-23,Petar Popangelov,BG,48
-1985-03-23,Alex Giorgi,IT,45
-1985-03-23,Daniel Mougel,FR,14
-1985-03-23,Jonas Nilsson,SE,67
-1985-03-23,Paolo De Chiesa,IT,70
-1985-03-23,Martin Hangl,CH,11
-1985-03-23,Robert Erlacher,IT,18
-1985-03-23,Ivano Edalini,IT,57
-1985-03-23,Roberto Grigis,IT,13
-1985-03-23,Richard Pramotton,IT,8
-1985-03-23,Daniel Fontaine,FR,9
-1985-03-23,Andreas Wenzel,LI,75
-1985-03-23,Max Julen,CH,26
-1985-03-23,Bojan Krizaj,SK,69
-1985-03-23,Rok Petrovic,SK,30
-1985-03-23,Didier Bouvet,FR,30
-1985-03-23,Tomaz Cerkovnik,SK,3
-1985-03-23,Franz Gruber,AT,11
-1985-03-23,Thomas Stangassinger,AT,26
-1985-03-23,Peter Namberger,DE,4
+date,name,ath_country,value,specialty
+1984-12-02,Marc Girardelli,LU,25,Slalom
+1984-12-02,Andreas Wenzel,LI,0,Combined
+1984-12-02,Franck Woerndl,DE,0,Slalom
+1984-12-02,Joel Gaspoz,CH,0,Giant Slalom
+1984-12-02,Felix McGrath,US,0,Slalom
+1984-12-02,Ingemar Stenmark,SE,0,Slalom
+1984-12-02,Robert Zoller,AT,0,Slalom
+1984-12-02,Roberto Grigis,IT,6,Slalom
+1984-12-02,Marco Tonazzi,IT,0,Slalom
+1984-12-02,Petar Popangelov,BG,0,Slalom
+1984-12-02,Naomine Iwaya,JP,0,Slalom
+1984-12-02,Paolo De Chiesa,IT,15,Slalom
+1984-12-02,Peter Namberger,DE,0,Giant Slalom
+1984-12-02,John Buxman,US,0,Slalom
+1984-12-02,Ivano Edalini,IT,9,Slalom
+1984-12-02,Tomaz Cerkovnik,SK,0,Slalom
+1984-12-02,Chiaki Ishioka,JP,0,Slalom
+1984-12-02,Richard Pramotton,IT,5,Giant Slalom
+1984-12-02,Florian Beck,DE,8,Slalom
+1984-12-02,Carlo Gerosa,IT,3,Slalom
+1984-12-02,Paul Frommelt,LI,0,Slalom
+1984-12-02,Daniel Fontaine,FR,4,Slalom
+1984-12-02,Bengt Fjaellberg,SE,2,Slalom
+1984-12-02,Mathias Berthold,AT,0,Slalom
+1984-12-02,Robert Erlacher,IT,10,Giant Slalom
+1984-12-02,Rok Petrovic,SK,0,Slalom
+1984-12-02,Anton Steiner,AT,0,Downhill
+1984-12-02,Oswald Toetsch,IT,0,Slalom
+1984-12-02,Stefan Pistor,DE,0,Slalom
+1984-12-02,Ernst Riedlsperger,AT,0,Super G
+1984-12-02,Robert Ormsby,US,0,Slalom
+1984-12-02,Klaus Heidegger,AT,12,Slalom
+1984-12-02,Jonas Nilsson,SE,20,Slalom
+1984-12-02,Tiger Shaw,US,0,Slalom
+1984-12-02,Didier Bouvet,FR,0,Slalom
+1984-12-02,Cory Carlson,US,0,Slalom
+1984-12-02,Max Julen,CH,0,Giant Slalom
+1984-12-02,Franz Gruber,AT,0,Giant Slalom
+1984-12-02,Thomas Buergler,CH,0,Giant Slalom
+1984-12-02,Tetsuya Okabe,JP,0,Slalom
+1984-12-02,Pirmin Zurbriggen,CH,2,Downhill
+1984-12-02,Thomas Stangassinger,AT,0,Slalom
+1984-12-02,Michel Vion,FR,0,Combined
+1984-12-02,Dietmar Koehlbichler,AT,0,Slalom
+1984-12-02,Martin Hangl,CH,11,Giant Slalom
+1984-12-02,Lars Goeran Halvarsson,SE,0,Slalom
+1984-12-02,Joze Kuralt,SK,0,Slalom
+1984-12-02,Alex Giorgi,IT,0,Slalom
+1984-12-02,Bojan Krizaj,SK,0,Slalom
+1984-12-02,Daniel Stripp,US,0,Slalom
+1984-12-02,Gunnar Neuriesser,SE,0,Slalom
+1984-12-02,Alex Williams,US,0,Slalom
+1984-12-02,Daniel Mougel,FR,7,Slalom
+1984-12-10,Didier Bouvet,FR,4,Slalom
+1984-12-10,Rok Petrovic,SK,5,Slalom
+1984-12-10,Daniel Stripp,US,0,Slalom
+1984-12-10,Thomas Buergler,CH,0,Giant Slalom
+1984-12-10,Stefan Pistor,DE,0,Slalom
+1984-12-10,Franz Gruber,AT,2,Giant Slalom
+1984-12-10,Mathias Berthold,AT,0,Slalom
+1984-12-10,Franck Woerndl,DE,0,Slalom
+1984-12-10,Max Julen,CH,10,Giant Slalom
+1984-12-10,Ingemar Stenmark,SE,0,Slalom
+1984-12-10,Daniel Fontaine,FR,4,Slalom
+1984-12-10,Roberto Grigis,IT,6,Slalom
+1984-12-10,Thomas Stangassinger,AT,0,Slalom
+1984-12-10,Paul Frommelt,LI,0,Slalom
+1984-12-10,Lars Goeran Halvarsson,SE,0,Slalom
+1984-12-10,Joel Gaspoz,CH,0,Giant Slalom
+1984-12-10,Chiaki Ishioka,JP,1,Slalom
+1984-12-10,Ivano Edalini,IT,24,Slalom
+1984-12-10,Klaus Heidegger,AT,12,Slalom
+1984-12-10,Tiger Shaw,US,0,Slalom
+1984-12-10,John Buxman,US,0,Slalom
+1984-12-10,Robert Zoller,AT,9,Slalom
+1984-12-10,Michel Vion,FR,0,Combined
+1984-12-10,Martin Hangl,CH,11,Giant Slalom
+1984-12-10,Petar Popangelov,BG,6,Slalom
+1984-12-10,Naomine Iwaya,JP,0,Slalom
+1984-12-10,Alex Giorgi,IT,0,Slalom
+1984-12-10,Richard Pramotton,IT,5,Giant Slalom
+1984-12-10,Daniel Mougel,FR,7,Slalom
+1984-12-10,Robert Erlacher,IT,18,Giant Slalom
+1984-12-10,Carlo Gerosa,IT,3,Slalom
+1984-12-10,Tomaz Cerkovnik,SK,3,Slalom
+1984-12-10,Alex Williams,US,0,Slalom
+1984-12-10,Gunnar Neuriesser,SE,0,Slalom
+1984-12-10,Felix McGrath,US,0,Slalom
+1984-12-10,Florian Beck,DE,8,Slalom
+1984-12-10,Dietmar Koehlbichler,AT,0,Slalom
+1984-12-10,Andreas Wenzel,LI,11,Combined
+1984-12-10,Paolo De Chiesa,IT,35,Slalom
+1984-12-10,Bengt Fjaellberg,SE,2,Slalom
+1984-12-10,Pirmin Zurbriggen,CH,27,Downhill
+1984-12-10,Tetsuya Okabe,JP,0,Slalom
+1984-12-10,Peter Namberger,DE,0,Giant Slalom
+1984-12-10,Cory Carlson,US,0,Slalom
+1984-12-10,Joze Kuralt,SK,0,Slalom
+1984-12-10,Marco Tonazzi,IT,0,Slalom
+1984-12-10,Jonas Nilsson,SE,20,Slalom
+1984-12-10,Oswald Toetsch,IT,12,Slalom
+1984-12-10,Ernst Riedlsperger,AT,0,Super G
+1984-12-10,Bojan Krizaj,SK,7,Slalom
+1984-12-10,Marc Girardelli,LU,25,Slalom
+1984-12-10,Anton Steiner,AT,0,Downhill
+1984-12-10,Robert Ormsby,US,0,Slalom
+1984-12-16,Andreas Wenzel,LI,31,Combined
+1984-12-16,Daniel Mougel,FR,7,Slalom
+1984-12-16,Robert Ormsby,US,0,Slalom
+1984-12-16,Daniel Stripp,US,0,Slalom
+1984-12-16,Felix McGrath,US,0,Slalom
+1984-12-16,Franck Woerndl,DE,7,Slalom
+1984-12-16,Lars Goeran Halvarsson,SE,0,Slalom
+1984-12-16,Gunnar Neuriesser,SE,0,Slalom
+1984-12-16,Klaus Heidegger,AT,21,Slalom
+1984-12-16,Ingemar Stenmark,SE,12,Slalom
+1984-12-16,Michel Vion,FR,0,Combined
+1984-12-16,Robert Erlacher,IT,18,Giant Slalom
+1984-12-16,Max Julen,CH,16,Giant Slalom
+1984-12-16,Didier Bouvet,FR,4,Slalom
+1984-12-16,Cory Carlson,US,0,Slalom
+1984-12-16,Tetsuya Okabe,JP,0,Slalom
+1984-12-16,Franz Gruber,AT,2,Giant Slalom
+1984-12-16,Marc Girardelli,LU,25,Slalom
+1984-12-16,Pirmin Zurbriggen,CH,27,Downhill
+1984-12-16,Thomas Buergler,CH,0,Giant Slalom
+1984-12-16,Thomas Stangassinger,AT,11,Slalom
+1984-12-16,Dietmar Koehlbichler,AT,1,Slalom
+1984-12-16,Tiger Shaw,US,0,Slalom
+1984-12-16,Martin Hangl,CH,11,Giant Slalom
+1984-12-16,Alex Williams,US,0,Slalom
+1984-12-16,Bojan Krizaj,SK,32,Slalom
+1984-12-16,Alex Giorgi,IT,0,Slalom
+1984-12-16,Marco Tonazzi,IT,0,Slalom
+1984-12-16,Mathias Berthold,AT,0,Slalom
+1984-12-16,Petar Popangelov,BG,21,Slalom
+1984-12-16,Chiaki Ishioka,JP,1,Slalom
+1984-12-16,Paolo De Chiesa,IT,35,Slalom
+1984-12-16,Rok Petrovic,SK,5,Slalom
+1984-12-16,Oswald Toetsch,IT,17,Slalom
+1984-12-16,Ivano Edalini,IT,28,Slalom
+1984-12-16,Robert Zoller,AT,17,Slalom
+1984-12-16,Richard Pramotton,IT,5,Giant Slalom
+1984-12-16,John Buxman,US,0,Slalom
+1984-12-16,Anton Steiner,AT,0,Downhill
+1984-12-16,Tomaz Cerkovnik,SK,3,Slalom
+1984-12-16,Stefan Pistor,DE,0,Slalom
+1984-12-16,Carlo Gerosa,IT,3,Slalom
+1984-12-16,Ernst Riedlsperger,AT,3,Super G
+1984-12-16,Naomine Iwaya,JP,0,Slalom
+1984-12-16,Peter Namberger,DE,0,Giant Slalom
+1984-12-16,Daniel Fontaine,FR,4,Slalom
+1984-12-16,Florian Beck,DE,8,Slalom
+1984-12-16,Bengt Fjaellberg,SE,2,Slalom
+1984-12-16,Joze Kuralt,SK,2,Slalom
+1984-12-16,Roberto Grigis,IT,6,Slalom
+1984-12-16,Joel Gaspoz,CH,0,Giant Slalom
+1984-12-16,Jonas Nilsson,SE,30,Slalom
+1984-12-16,Paul Frommelt,LI,0,Slalom
+1985-01-04,Anton Steiner,AT,0,Downhill
+1985-01-04,Marco Tonazzi,IT,0,Slalom
+1985-01-04,Max Julen,CH,16,Giant Slalom
+1985-01-04,Mathias Berthold,AT,0,Slalom
+1985-01-04,Ernst Riedlsperger,AT,3,Super G
+1985-01-04,Tetsuya Okabe,JP,0,Slalom
+1985-01-04,Joze Kuralt,SK,2,Slalom
+1985-01-04,Stefan Pistor,DE,0,Slalom
+1985-01-04,Cory Carlson,US,0,Slalom
+1985-01-04,Robert Erlacher,IT,18,Giant Slalom
+1985-01-04,Franz Gruber,AT,2,Giant Slalom
+1985-01-04,Thomas Buergler,CH,0,Giant Slalom
+1985-01-04,Alex Williams,US,0,Slalom
+1985-01-04,Dietmar Koehlbichler,AT,1,Slalom
+1985-01-04,Felix McGrath,US,0,Slalom
+1985-01-04,Roberto Grigis,IT,6,Slalom
+1985-01-04,Franck Woerndl,DE,12,Slalom
+1985-01-04,Peter Namberger,DE,0,Giant Slalom
+1985-01-04,Daniel Mougel,FR,7,Slalom
+1985-01-04,Naomine Iwaya,JP,0,Slalom
+1985-01-04,Tomaz Cerkovnik,SK,3,Slalom
+1985-01-04,Robert Ormsby,US,0,Slalom
+1985-01-04,Lars Goeran Halvarsson,SE,0,Slalom
+1985-01-04,John Buxman,US,0,Slalom
+1985-01-04,Chiaki Ishioka,JP,4,Slalom
+1985-01-04,Gunnar Neuriesser,SE,0,Slalom
+1985-01-04,Carlo Gerosa,IT,3,Slalom
+1985-01-04,Bengt Fjaellberg,SE,2,Slalom
+1985-01-04,Richard Pramotton,IT,8,Giant Slalom
+1985-01-04,Michel Vion,FR,8,Combined
+1985-01-04,Tiger Shaw,US,0,Slalom
+1985-01-04,Daniel Fontaine,FR,9,Slalom
+1985-01-04,Joel Gaspoz,CH,7,Giant Slalom
+1985-01-04,Daniel Stripp,US,0,Slalom
+1985-01-04,Jonas Nilsson,SE,30,Slalom
+1985-01-04,Rok Petrovic,SK,5,Slalom
+1985-01-04,Ingemar Stenmark,SE,27,Slalom
+1985-01-04,Oswald Toetsch,IT,27,Slalom
+1985-01-04,Paul Frommelt,LI,0,Slalom
+1985-01-04,Florian Beck,DE,28,Slalom
+1985-01-04,Alex Giorgi,IT,1,Slalom
+1985-01-04,Martin Hangl,CH,11,Giant Slalom
+1985-01-04,Paolo De Chiesa,IT,47,Slalom
+1985-01-04,Andreas Wenzel,LI,40,Combined
+1985-01-04,Thomas Stangassinger,AT,17,Slalom
+1985-01-04,Ivano Edalini,IT,28,Slalom
+1985-01-04,Bojan Krizaj,SK,43,Slalom
+1985-01-04,Robert Zoller,AT,17,Slalom
+1985-01-04,Klaus Heidegger,AT,21,Slalom
+1985-01-04,Pirmin Zurbriggen,CH,27,Downhill
+1985-01-04,Marc Girardelli,LU,50,Slalom
+1985-01-04,Petar Popangelov,BG,21,Slalom
+1985-01-04,Didier Bouvet,FR,4,Slalom
+1985-01-06,Pirmin Zurbriggen,CH,27,Downhill
+1985-01-06,Martin Hangl,CH,11,Giant Slalom
+1985-01-06,Didier Bouvet,FR,4,Slalom
+1985-01-06,Tetsuya Okabe,JP,1,Slalom
+1985-01-06,Petar Popangelov,BG,21,Slalom
+1985-01-06,Roberto Grigis,IT,6,Slalom
+1985-01-06,Bengt Fjaellberg,SE,2,Slalom
+1985-01-06,Lars Goeran Halvarsson,SE,8,Slalom
+1985-01-06,Richard Pramotton,IT,8,Giant Slalom
+1985-01-06,Florian Beck,DE,28,Slalom
+1985-01-06,Anton Steiner,AT,0,Downhill
+1985-01-06,Alex Giorgi,IT,10,Slalom
+1985-01-06,Paul Frommelt,LI,15,Slalom
+1985-01-06,Cory Carlson,US,0,Slalom
+1985-01-06,Daniel Fontaine,FR,9,Slalom
+1985-01-06,Ernst Riedlsperger,AT,3,Super G
+1985-01-06,Oswald Toetsch,IT,27,Slalom
+1985-01-06,Joze Kuralt,SK,2,Slalom
+1985-01-06,Ingemar Stenmark,SE,38,Slalom
+1985-01-06,Daniel Stripp,US,0,Slalom
+1985-01-06,Daniel Mougel,FR,7,Slalom
+1985-01-06,Rok Petrovic,SK,5,Slalom
+1985-01-06,Stefan Pistor,DE,4,Slalom
+1985-01-06,Robert Erlacher,IT,18,Giant Slalom
+1985-01-06,Klaus Heidegger,AT,21,Slalom
+1985-01-06,Michel Vion,FR,13,Combined
+1985-01-06,Dietmar Koehlbichler,AT,1,Slalom
+1985-01-06,Chiaki Ishioka,JP,4,Slalom
+1985-01-06,Tomaz Cerkovnik,SK,3,Slalom
+1985-01-06,Joel Gaspoz,CH,7,Giant Slalom
+1985-01-06,Alex Williams,US,0,Slalom
+1985-01-06,Naomine Iwaya,JP,6,Slalom
+1985-01-06,Robert Zoller,AT,17,Slalom
+1985-01-06,Franz Gruber,AT,2,Giant Slalom
+1985-01-06,Bojan Krizaj,SK,43,Slalom
+1985-01-06,Gunnar Neuriesser,SE,2,Slalom
+1985-01-06,Ivano Edalini,IT,28,Slalom
+1985-01-06,Robert Ormsby,US,0,Slalom
+1985-01-06,Andreas Wenzel,LI,65,Combined
+1985-01-06,Thomas Buergler,CH,7,Giant Slalom
+1985-01-06,Marc Girardelli,LU,50,Slalom
+1985-01-06,Paolo De Chiesa,IT,59,Slalom
+1985-01-06,Thomas Stangassinger,AT,17,Slalom
+1985-01-06,Mathias Berthold,AT,0,Slalom
+1985-01-06,Peter Namberger,DE,3,Giant Slalom
+1985-01-06,Tiger Shaw,US,0,Slalom
+1985-01-06,Max Julen,CH,26,Giant Slalom
+1985-01-06,Franck Woerndl,DE,12,Slalom
+1985-01-06,John Buxman,US,0,Slalom
+1985-01-06,Carlo Gerosa,IT,3,Slalom
+1985-01-06,Jonas Nilsson,SE,50,Slalom
+1985-01-06,Marco Tonazzi,IT,0,Slalom
+1985-01-06,Felix McGrath,US,0,Slalom
+1985-01-13,Chiaki Ishioka,JP,9,Slalom
+1985-01-13,John Buxman,US,0,Slalom
+1985-01-13,Richard Pramotton,IT,8,Giant Slalom
+1985-01-13,Ivano Edalini,IT,34,Slalom
+1985-01-13,Naomine Iwaya,JP,6,Slalom
+1985-01-13,Paul Frommelt,LI,15,Slalom
+1985-01-13,Daniel Fontaine,FR,9,Slalom
+1985-01-13,Roberto Grigis,IT,6,Slalom
+1985-01-13,Didier Bouvet,FR,4,Slalom
+1985-01-13,Ingemar Stenmark,SE,46,Slalom
+1985-01-13,Cory Carlson,US,0,Slalom
+1985-01-13,Marc Girardelli,LU,75,Slalom
+1985-01-13,Tetsuya Okabe,JP,1,Slalom
+1985-01-13,Dietmar Koehlbichler,AT,1,Slalom
+1985-01-13,Pirmin Zurbriggen,CH,27,Downhill
+1985-01-13,Alex Williams,US,0,Slalom
+1985-01-13,Bojan Krizaj,SK,58,Slalom
+1985-01-13,Gunnar Neuriesser,SE,2,Slalom
+1985-01-13,Robert Ormsby,US,0,Slalom
+1985-01-13,Andreas Wenzel,LI,75,Combined
+1985-01-13,Felix McGrath,US,0,Slalom
+1985-01-13,Mathias Berthold,AT,0,Slalom
+1985-01-13,Marco Tonazzi,IT,0,Slalom
+1985-01-13,Peter Namberger,DE,3,Giant Slalom
+1985-01-13,Tomaz Cerkovnik,SK,3,Slalom
+1985-01-13,Paolo De Chiesa,IT,70,Slalom
+1985-01-13,Carlo Gerosa,IT,3,Slalom
+1985-01-13,Bengt Fjaellberg,SE,2,Slalom
+1985-01-13,Florian Beck,DE,32,Slalom
+1985-01-13,Anton Steiner,AT,0,Downhill
+1985-01-13,Oswald Toetsch,IT,47,Slalom
+1985-01-13,Ernst Riedlsperger,AT,3,Super G
+1985-01-13,Joze Kuralt,SK,2,Slalom
+1985-01-13,Stefan Pistor,DE,4,Slalom
+1985-01-13,Jonas Nilsson,SE,52,Slalom
+1985-01-13,Petar Popangelov,BG,21,Slalom
+1985-01-13,Rok Petrovic,SK,5,Slalom
+1985-01-13,Michel Vion,FR,14,Combined
+1985-01-13,Thomas Stangassinger,AT,17,Slalom
+1985-01-13,Thomas Buergler,CH,7,Giant Slalom
+1985-01-13,Daniel Mougel,FR,7,Slalom
+1985-01-13,Klaus Heidegger,AT,24,Slalom
+1985-01-13,Franz Gruber,AT,11,Giant Slalom
+1985-01-13,Franck Woerndl,DE,12,Slalom
+1985-01-13,Tiger Shaw,US,0,Slalom
+1985-01-13,Max Julen,CH,26,Giant Slalom
+1985-01-13,Daniel Stripp,US,0,Slalom
+1985-01-13,Martin Hangl,CH,11,Giant Slalom
+1985-01-13,Alex Giorgi,IT,22,Slalom
+1985-01-13,Robert Zoller,AT,17,Slalom
+1985-01-13,Robert Erlacher,IT,18,Giant Slalom
+1985-01-13,Joel Gaspoz,CH,7,Giant Slalom
+1985-01-13,Lars Goeran Halvarsson,SE,15,Slalom
+1985-01-21,Ingemar Stenmark,SE,66,Slalom
+1985-01-21,Anton Steiner,AT,0,Downhill
+1985-01-21,Lars Goeran Halvarsson,SE,15,Slalom
+1985-01-21,Ernst Riedlsperger,AT,3,Super G
+1985-01-21,Daniel Mougel,FR,7,Slalom
+1985-01-21,Daniel Fontaine,FR,9,Slalom
+1985-01-21,Andreas Wenzel,LI,75,Combined
+1985-01-21,Marco Tonazzi,IT,0,Slalom
+1985-01-21,Klaus Heidegger,AT,32,Slalom
+1985-01-21,Florian Beck,DE,32,Slalom
+1985-01-21,Oswald Toetsch,IT,47,Slalom
+1985-01-21,Rok Petrovic,SK,10,Slalom
+1985-01-21,Peter Namberger,DE,3,Giant Slalom
+1985-01-21,Mathias Berthold,AT,0,Slalom
+1985-01-21,Jonas Nilsson,SE,52,Slalom
+1985-01-21,Martin Hangl,CH,11,Giant Slalom
+1985-01-21,Bengt Fjaellberg,SE,2,Slalom
+1985-01-21,Tomaz Cerkovnik,SK,3,Slalom
+1985-01-21,Tiger Shaw,US,0,Slalom
+1985-01-21,Thomas Buergler,CH,16,Giant Slalom
+1985-01-21,Daniel Stripp,US,0,Slalom
+1985-01-21,Michel Vion,FR,14,Combined
+1985-01-21,Stefan Pistor,DE,4,Slalom
+1985-01-21,Carlo Gerosa,IT,3,Slalom
+1985-01-21,Joze Kuralt,SK,6,Slalom
+1985-01-21,Paolo De Chiesa,IT,70,Slalom
+1985-01-21,Alex Giorgi,IT,32,Slalom
+1985-01-21,Richard Pramotton,IT,8,Giant Slalom
+1985-01-21,Felix McGrath,US,0,Slalom
+1985-01-21,Franck Woerndl,DE,13,Slalom
+1985-01-21,Didier Bouvet,FR,11,Slalom
+1985-01-21,Ivano Edalini,IT,34,Slalom
+1985-01-21,Robert Ormsby,US,0,Slalom
+1985-01-21,Dietmar Koehlbichler,AT,1,Slalom
+1985-01-21,Max Julen,CH,26,Giant Slalom
+1985-01-21,John Buxman,US,0,Slalom
+1985-01-21,Petar Popangelov,BG,27,Slalom
+1985-01-21,Marc Girardelli,LU,100,Slalom
+1985-01-21,Pirmin Zurbriggen,CH,27,Downhill
+1985-01-21,Naomine Iwaya,JP,9,Slalom
+1985-01-21,Tetsuya Okabe,JP,1,Slalom
+1985-01-21,Robert Erlacher,IT,18,Giant Slalom
+1985-01-21,Alex Williams,US,0,Slalom
+1985-01-21,Chiaki Ishioka,JP,9,Slalom
+1985-01-21,Paul Frommelt,LI,30,Slalom
+1985-01-21,Cory Carlson,US,0,Slalom
+1985-01-21,Roberto Grigis,IT,6,Slalom
+1985-01-21,Joel Gaspoz,CH,7,Giant Slalom
+1985-01-21,Franz Gruber,AT,11,Giant Slalom
+1985-01-21,Gunnar Neuriesser,SE,4,Slalom
+1985-01-21,Thomas Stangassinger,AT,17,Slalom
+1985-01-21,Bojan Krizaj,SK,69,Slalom
+1985-01-21,Robert Zoller,AT,29,Slalom
+1985-02-16,Michel Vion,FR,20,Combined
+1985-02-16,Florian Beck,DE,32,Slalom
+1985-02-16,Alex Giorgi,IT,32,Slalom
+1985-02-16,Marc Girardelli,LU,125,Slalom
+1985-02-16,Bengt Fjaellberg,SE,2,Slalom
+1985-02-16,Anton Steiner,AT,0,Downhill
+1985-02-16,Cory Carlson,US,0,Slalom
+1985-02-16,Tetsuya Okabe,JP,1,Slalom
+1985-02-16,Carlo Gerosa,IT,3,Slalom
+1985-02-16,Paolo De Chiesa,IT,70,Slalom
+1985-02-16,Robert Erlacher,IT,18,Giant Slalom
+1985-02-16,Robert Ormsby,US,0,Slalom
+1985-02-16,Didier Bouvet,FR,19,Slalom
+1985-02-16,Thomas Stangassinger,AT,26,Slalom
+1985-02-16,Felix McGrath,US,0,Slalom
+1985-02-16,Franz Gruber,AT,11,Giant Slalom
+1985-02-16,Thomas Buergler,CH,16,Giant Slalom
+1985-02-16,Bojan Krizaj,SK,69,Slalom
+1985-02-16,Andreas Wenzel,LI,75,Combined
+1985-02-16,Jonas Nilsson,SE,67,Slalom
+1985-02-16,Tiger Shaw,US,0,Slalom
+1985-02-16,Marco Tonazzi,IT,3,Slalom
+1985-02-16,Pirmin Zurbriggen,CH,27,Downhill
+1985-02-16,Peter Namberger,DE,3,Giant Slalom
+1985-02-16,Alex Williams,US,0,Slalom
+1985-02-16,Martin Hangl,CH,11,Giant Slalom
+1985-02-16,Max Julen,CH,26,Giant Slalom
+1985-02-16,Tomaz Cerkovnik,SK,3,Slalom
+1985-02-16,Dietmar Koehlbichler,AT,2,Slalom
+1985-02-16,Gunnar Neuriesser,SE,4,Slalom
+1985-02-16,Lars Goeran Halvarsson,SE,15,Slalom
+1985-02-16,Roberto Grigis,IT,13,Slalom
+1985-02-16,Ernst Riedlsperger,AT,7,Super G
+1985-02-16,Chiaki Ishioka,JP,9,Slalom
+1985-02-16,Paul Frommelt,LI,45,Slalom
+1985-02-16,Mathias Berthold,AT,5,Slalom
+1985-02-16,Ingemar Stenmark,SE,86,Slalom
+1985-02-16,Joze Kuralt,SK,6,Slalom
+1985-02-16,Klaus Heidegger,AT,42,Slalom
+1985-02-16,Daniel Stripp,US,0,Slalom
+1985-02-16,Ivano Edalini,IT,45,Slalom
+1985-02-16,Robert Zoller,AT,29,Slalom
+1985-02-16,John Buxman,US,0,Slalom
+1985-02-16,Franck Woerndl,DE,13,Slalom
+1985-02-16,Richard Pramotton,IT,8,Giant Slalom
+1985-02-16,Stefan Pistor,DE,4,Slalom
+1985-02-16,Oswald Toetsch,IT,47,Slalom
+1985-02-16,Daniel Mougel,FR,7,Slalom
+1985-02-16,Rok Petrovic,SK,10,Slalom
+1985-02-16,Naomine Iwaya,JP,9,Slalom
+1985-02-16,Joel Gaspoz,CH,7,Giant Slalom
+1985-02-16,Daniel Fontaine,FR,9,Slalom
+1985-02-16,Petar Popangelov,BG,29,Slalom
+1985-03-20,Marco Tonazzi,IT,3,Slalom
+1985-03-20,Paul Frommelt,LI,60,Slalom
+1985-03-20,Robert Ormsby,US,0,Slalom
+1985-03-20,Felix McGrath,US,3,Slalom
+1985-03-20,Daniel Fontaine,FR,9,Slalom
+1985-03-20,Richard Pramotton,IT,8,Giant Slalom
+1985-03-20,Daniel Mougel,FR,7,Slalom
+1985-03-20,Franz Gruber,AT,11,Giant Slalom
+1985-03-20,Bojan Krizaj,SK,69,Slalom
+1985-03-20,Andreas Wenzel,LI,75,Combined
+1985-03-20,Anton Steiner,AT,4,Downhill
+1985-03-20,Thomas Stangassinger,AT,26,Slalom
+1985-03-20,Chiaki Ishioka,JP,9,Slalom
+1985-03-20,Joel Gaspoz,CH,7,Giant Slalom
+1985-03-20,Roberto Grigis,IT,13,Slalom
+1985-03-20,Robert Erlacher,IT,18,Giant Slalom
+1985-03-20,Tetsuya Okabe,JP,1,Slalom
+1985-03-20,Petar Popangelov,BG,39,Slalom
+1985-03-20,Naomine Iwaya,JP,9,Slalom
+1985-03-20,Marc Girardelli,LU,150,Slalom
+1985-03-20,Franck Woerndl,DE,20,Slalom
+1985-03-20,John Buxman,US,6,Slalom
+1985-03-20,Max Julen,CH,26,Giant Slalom
+1985-03-20,Didier Bouvet,FR,30,Slalom
+1985-03-20,Ivano Edalini,IT,57,Slalom
+1985-03-20,Pirmin Zurbriggen,CH,27,Downhill
+1985-03-20,Alex Williams,US,2,Slalom
+1985-03-20,Gunnar Neuriesser,SE,4,Slalom
+1985-03-20,Robert Zoller,AT,29,Slalom
+1985-03-20,Dietmar Koehlbichler,AT,2,Slalom
+1985-03-20,Thomas Buergler,CH,16,Giant Slalom
+1985-03-20,Cory Carlson,US,1,Slalom
+1985-03-20,Tiger Shaw,US,9,Slalom
+1985-03-20,Tomaz Cerkovnik,SK,3,Slalom
+1985-03-20,Michel Vion,FR,20,Combined
+1985-03-20,Jonas Nilsson,SE,67,Slalom
+1985-03-20,Stefan Pistor,DE,4,Slalom
+1985-03-20,Daniel Stripp,US,8,Slalom
+1985-03-20,Mathias Berthold,AT,5,Slalom
+1985-03-20,Lars Goeran Halvarsson,SE,15,Slalom
+1985-03-20,Klaus Heidegger,AT,42,Slalom
+1985-03-20,Rok Petrovic,SK,30,Slalom
+1985-03-20,Bengt Fjaellberg,SE,2,Slalom
+1985-03-20,Oswald Toetsch,IT,47,Slalom
+1985-03-20,Ernst Riedlsperger,AT,7,Super G
+1985-03-20,Peter Namberger,DE,3,Giant Slalom
+1985-03-20,Joze Kuralt,SK,6,Slalom
+1985-03-20,Alex Giorgi,IT,37,Slalom
+1985-03-20,Martin Hangl,CH,11,Giant Slalom
+1985-03-20,Paolo De Chiesa,IT,70,Slalom
+1985-03-20,Florian Beck,DE,32,Slalom
+1985-03-20,Carlo Gerosa,IT,3,Slalom
+1985-03-20,Ingemar Stenmark,SE,86,Slalom
+1985-03-23,Florian Beck,DE,37,Slalom
+1985-03-23,Max Julen,CH,26,Giant Slalom
+1985-03-23,Franck Woerndl,DE,20,Slalom
+1985-03-23,Michel Vion,FR,20,Combined
+1985-03-23,Dietmar Koehlbichler,AT,2,Slalom
+1985-03-23,John Buxman,US,6,Slalom
+1985-03-23,Naomine Iwaya,JP,9,Slalom
+1985-03-23,Robert Zoller,AT,44,Slalom
+1985-03-23,Pirmin Zurbriggen,CH,38,Downhill
+1985-03-23,Marc Girardelli,LU,175,Slalom
+1985-03-23,Lars Goeran Halvarsson,SE,15,Slalom
+1985-03-23,Bengt Fjaellberg,SE,6,Slalom
+1985-03-23,Anton Steiner,AT,4,Downhill
+1985-03-23,Tetsuya Okabe,JP,1,Slalom
+1985-03-23,Robert Erlacher,IT,18,Giant Slalom
+1985-03-23,Petar Popangelov,BG,48,Slalom
+1985-03-23,Ernst Riedlsperger,AT,7,Super G
+1985-03-23,Roberto Grigis,IT,13,Slalom
+1985-03-23,Alex Giorgi,IT,45,Slalom
+1985-03-23,Joel Gaspoz,CH,7,Giant Slalom
+1985-03-23,Ivano Edalini,IT,57,Slalom
+1985-03-23,Alex Williams,US,2,Slalom
+1985-03-23,Thomas Stangassinger,AT,26,Slalom
+1985-03-23,Paolo De Chiesa,IT,70,Slalom
+1985-03-23,Daniel Fontaine,FR,9,Slalom
+1985-03-23,Martin Hangl,CH,11,Giant Slalom
+1985-03-23,Marco Tonazzi,IT,3,Slalom
+1985-03-23,Andreas Wenzel,LI,75,Combined
+1985-03-23,Didier Bouvet,FR,30,Slalom
+1985-03-23,Peter Namberger,DE,4,Giant Slalom
+1985-03-23,Daniel Mougel,FR,14,Slalom
+1985-03-23,Oswald Toetsch,IT,57,Slalom
+1985-03-23,Paul Frommelt,LI,80,Slalom
+1985-03-23,Daniel Stripp,US,8,Slalom
+1985-03-23,Felix McGrath,US,3,Slalom
+1985-03-23,Robert Ormsby,US,3,Slalom
+1985-03-23,Richard Pramotton,IT,8,Giant Slalom
+1985-03-23,Mathias Berthold,AT,5,Slalom
+1985-03-23,Bojan Krizaj,SK,69,Slalom
+1985-03-23,Franz Gruber,AT,11,Giant Slalom
+1985-03-23,Jonas Nilsson,SE,67,Slalom
+1985-03-23,Stefan Pistor,DE,6,Slalom
+1985-03-23,Tomaz Cerkovnik,SK,3,Slalom
+1985-03-23,Ingemar Stenmark,SE,86,Slalom
+1985-03-23,Klaus Heidegger,AT,54,Slalom
+1985-03-23,Tiger Shaw,US,9,Slalom
+1985-03-23,Cory Carlson,US,1,Slalom
+1985-03-23,Gunnar Neuriesser,SE,4,Slalom
+1985-03-23,Carlo Gerosa,IT,3,Slalom
+1985-03-23,Thomas Buergler,CH,16,Giant Slalom
+1985-03-23,Joze Kuralt,SK,6,Slalom
+1985-03-23,Chiaki Ishioka,JP,15,Slalom
+1985-03-23,Rok Petrovic,SK,30,Slalom

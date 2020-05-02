@@ -1,617 +1,617 @@
-date,name,ath_country,value
-1996-12-15,Fritz Strobl,AT,100
-1996-12-15,Luca Cattaneo,IT,2
-1996-12-15,Brian Stemmle,CA,3
-1996-12-15,Roland Assinger,AT,4
-1996-12-15,Cary Mullen,CA,5
-1996-12-15,Audun Groenvold,NO,6
-1996-12-15,Hans Knauss,AT,7
-1996-12-15,Rob Boyd,CA,8
-1996-12-15,Xavier Gigandet,CH,10
-1996-12-15,Franco Cavegn,CH,10
-1996-12-15,Chad Fleischer,US,11
-1996-12-15,Ed Podivinsky,CA,2
-1996-12-15,Stefan Krauss,DE,12
-1996-12-15,Norbert Holzknecht,AT,14
-1996-12-15,Atle Skaardal,NO,15
-1996-12-15,Adrien Duvillard,FR,16
-1996-12-15,Kevin Wert,CA,18
-1996-12-15,Bruno Kernen,CH,20
-1996-12-15,A.J. Kitt,US,22
-1996-12-15,William Besse,CH,24
-1996-12-15,Andreas Schifferer,AT,26
-1996-12-15,Werner Perathoner,IT,29
-1996-12-15,Kyle Rasmussen,US,32
-1996-12-15,Hannes Trinkl,AT,13
-1996-12-15,Pietro Vitalini,IT,36
-1996-12-15,Markus Herrmann,CH,0
-1996-12-15,Urs Lehmann,CH,0
-1996-12-15,Matteo Berbenni,IT,0
-1996-12-15,Kenneth Sivertsen,NO,0
-1996-12-15,Janne Leskinen,FI,0
-1996-12-15,Max Rauffer,DE,0
-1996-12-15,Lorenzo Galli,IT,0
-1996-12-15,Oswald Schranzhofer,IT,0
-1996-12-15,Lasse Kjus,NO,0
-1996-12-15,Frederic Marin Cudraz,FR,0
-1996-12-15,Fredrik Nyberg,SE,0
-1996-12-15,Graham Bell,GB,0
-1996-12-15,Tommy Moe,US,0
-1996-12-15,Paul Accola,CH,0
-1996-12-15,Ambrosi Hoffmann,CH,0
-1996-12-15,Lasse Paulsen,NO,0
-1996-12-15,Erik Seletto,IT,0
-1996-12-15,Jean Luc Cretier,FR,0
-1996-12-15,Heinrich Rupp,CH,0
-1996-12-15,Luke Sauder,CA,0
-1996-12-15,Alessandro Fattori,IT,0
-1996-12-15,Alberto Senigagliesi,IT,0
-1996-12-15,Guenther Mader,AT,0
-1996-12-15,Kjetil Andre Aamodt,NO,0
-1996-12-15,Vincent Blanc,FR,0
-1996-12-15,Luc Alphand,FR,40
-1996-12-15,Peter Runggaldier,IT,0
-1996-12-15,Patrick Ortlieb,AT,60
-1996-12-15,Werner Franz,AT,80
-1996-12-15,Kristian Ghedina,IT,45
-1996-12-15,Josef Strobl,AT,50
-1996-12-20,Alberto Senigagliesi,IT,2
-1996-12-20,Guenther Mader,AT,3
-1996-12-20,Kjetil Andre Aamodt,NO,4
-1996-12-20,A.J. Kitt,US,27
-1996-12-20,Urs Lehmann,CH,6
-1996-12-20,Luca Cattaneo,IT,9
-1996-12-20,Josef Strobl,AT,58
-1996-12-20,Tommy Moe,US,10
-1996-12-20,William Besse,CH,24
-1996-12-20,Hannes Trinkl,AT,24
-1996-12-20,Graham Bell,GB,0
-1996-12-20,Kevin Wert,CA,31
-1996-12-20,Patrick Ortlieb,AT,74
-1996-12-20,Ed Podivinsky,CA,17
-1996-12-20,Peter Runggaldier,IT,16
-1996-12-20,Rob Boyd,CA,26
-1996-12-20,Roland Assinger,AT,24
-1996-12-20,Bruno Kernen,CH,42
-1996-12-20,Markus Herrmann,CH,24
-1996-12-20,Kristian Ghedina,IT,105
-1996-12-20,Pietro Vitalini,IT,86
-1996-12-20,Matteo Berbenni,IT,0
-1996-12-20,Kenneth Sivertsen,NO,0
-1996-12-20,Paul Accola,CH,0
-1996-12-20,Vincent Blanc,FR,0
-1996-12-20,Ambrosi Hoffmann,CH,0
-1996-12-20,Lasse Paulsen,NO,0
-1996-12-20,Erik Seletto,IT,0
-1996-12-20,Jean Luc Cretier,FR,0
-1996-12-20,Heinrich Rupp,CH,0
-1996-12-20,Brian Stemmle,CA,3
-1996-12-20,Audun Groenvold,NO,6
-1996-12-20,Xavier Gigandet,CH,10
-1996-12-20,Adrien Duvillard,FR,61
-1996-12-20,Chad Fleischer,US,11
-1996-12-20,Norbert Holzknecht,AT,14
-1996-12-20,Frederic Marin Cudraz,FR,0
-1996-12-20,Andreas Schifferer,AT,26
-1996-12-20,Luc Alphand,FR,140
-1996-12-20,Lasse Kjus,NO,0
-1996-12-20,Oswald Schranzhofer,IT,0
-1996-12-20,Lorenzo Galli,IT,0
-1996-12-20,Max Rauffer,DE,0
-1996-12-20,Janne Leskinen,FI,0
-1996-12-20,Atle Skaardal,NO,95
-1996-12-20,Stefan Krauss,DE,12
-1996-12-20,Cary Mullen,CA,14
-1996-12-20,Kyle Rasmussen,US,44
-1996-12-20,Fredrik Nyberg,SE,0
-1996-12-20,Luke Sauder,CA,1
-1996-12-20,Werner Franz,AT,116
-1996-12-20,Alessandro Fattori,IT,1
-1996-12-20,Hans Knauss,AT,36
-1996-12-20,Werner Perathoner,IT,55
-1996-12-20,Fritz Strobl,AT,132
-1996-12-20,Franco Cavegn,CH,50
-1996-12-21,Ambrosi Hoffmann,CH,0
-1996-12-21,Josef Strobl,AT,118
-1996-12-21,Rob Boyd,CA,26
-1996-12-21,Atle Skaardal,NO,145
-1996-12-21,Audun Groenvold,NO,6
-1996-12-21,William Besse,CH,42
-1996-12-21,Oswald Schranzhofer,IT,0
-1996-12-21,Peter Runggaldier,IT,16
-1996-12-21,Urs Lehmann,CH,6
-1996-12-21,Luca Cattaneo,IT,15
-1996-12-21,Jean Luc Cretier,FR,2
-1996-12-21,Roland Assinger,AT,38
-1996-12-21,Lasse Paulsen,NO,0
-1996-12-21,Lasse Kjus,NO,0
-1996-12-21,Alberto Senigagliesi,IT,2
-1996-12-21,Alessandro Fattori,IT,1
-1996-12-21,A.J. Kitt,US,59
-1996-12-21,Werner Perathoner,IT,71
-1996-12-21,Hannes Trinkl,AT,40
-1996-12-21,Frederic Marin Cudraz,FR,0
-1996-12-21,Paul Accola,CH,0
-1996-12-21,Vincent Blanc,FR,0
-1996-12-21,Erik Seletto,IT,0
-1996-12-21,Fredrik Nyberg,SE,0
-1996-12-21,Patrick Ortlieb,AT,85
-1996-12-21,Norbert Holzknecht,AT,17
-1996-12-21,Kjetil Andre Aamodt,NO,4
-1996-12-21,Luke Sauder,CA,1
-1996-12-21,Xavier Gigandet,CH,10
-1996-12-21,Chad Fleischer,US,11
-1996-12-21,Pietro Vitalini,IT,126
-1996-12-21,Guenther Mader,AT,12
-1996-12-21,Werner Franz,AT,142
-1996-12-21,Hans Knauss,AT,81
-1996-12-21,Bruno Kernen,CH,66
-1996-12-21,Heinrich Rupp,CH,8
-1996-12-21,Franco Cavegn,CH,79
-1996-12-21,Markus Herrmann,CH,36
-1996-12-21,Matteo Berbenni,IT,0
-1996-12-21,Kristian Ghedina,IT,205
-1996-12-21,Andreas Schifferer,AT,39
-1996-12-21,Graham Bell,GB,0
-1996-12-21,Fritz Strobl,AT,154
-1996-12-21,Adrien Duvillard,FR,97
-1996-12-21,Janne Leskinen,FI,0
-1996-12-21,Kevin Wert,CA,31
-1996-12-21,Lorenzo Galli,IT,0
-1996-12-21,Ed Podivinsky,CA,37
-1996-12-21,Stefan Krauss,DE,19
-1996-12-21,Cary Mullen,CA,24
-1996-12-21,Kenneth Sivertsen,NO,0
-1996-12-21,Tommy Moe,US,14
-1996-12-21,Brian Stemmle,CA,4
-1996-12-21,Kyle Rasmussen,US,49
-1996-12-21,Max Rauffer,DE,0
-1996-12-21,Luc Alphand,FR,220
-1996-12-29,Matteo Berbenni,IT,0
-1996-12-29,Kevin Wert,CA,31
-1996-12-29,Chad Fleischer,US,23
-1996-12-29,Norbert Holzknecht,AT,17
-1996-12-29,Pietro Vitalini,IT,133
-1996-12-29,Lorenzo Galli,IT,0
-1996-12-29,Ed Podivinsky,CA,87
-1996-12-29,Ambrosi Hoffmann,CH,8
-1996-12-29,Brian Stemmle,CA,4
-1996-12-29,Roland Assinger,AT,38
-1996-12-29,Urs Lehmann,CH,6
-1996-12-29,Kjetil Andre Aamodt,NO,4
-1996-12-29,Alessandro Fattori,IT,1
-1996-12-29,Heinrich Rupp,CH,8
-1996-12-29,Jean Luc Cretier,FR,2
-1996-12-29,Frederic Marin Cudraz,FR,0
-1996-12-29,Kenneth Sivertsen,NO,0
-1996-12-29,Werner Franz,AT,168
-1996-12-29,Werner Perathoner,IT,81
-1996-12-29,Rob Boyd,CA,26
-1996-12-29,Josef Strobl,AT,163
-1996-12-29,Lasse Kjus,NO,0
-1996-12-29,Oswald Schranzhofer,IT,0
-1996-12-29,Max Rauffer,DE,0
-1996-12-29,Janne Leskinen,FI,0
-1996-12-29,Xavier Gigandet,CH,10
-1996-12-29,Lasse Paulsen,NO,11
-1996-12-29,Hans Knauss,AT,81
-1996-12-29,Bruno Kernen,CH,66
-1996-12-29,Tommy Moe,US,14
-1996-12-29,Kyle Rasmussen,US,49
-1996-12-29,Fredrik Nyberg,SE,1
-1996-12-29,William Besse,CH,122
-1996-12-29,Guenther Mader,AT,21
-1996-12-29,Luke Sauder,CA,21
-1996-12-29,Kristian Ghedina,IT,265
-1996-12-29,Audun Groenvold,NO,24
-1996-12-29,A.J. Kitt,US,59
-1996-12-29,Graham Bell,GB,2
-1996-12-29,Franco Cavegn,CH,111
-1996-12-29,Luc Alphand,FR,320
-1996-12-29,Hannes Trinkl,AT,56
-1996-12-29,Stefan Krauss,DE,35
-1996-12-29,Adrien Duvillard,FR,119
-1996-12-29,Atle Skaardal,NO,181
-1996-12-29,Peter Runggaldier,IT,16
-1996-12-29,Cary Mullen,CA,28
-1996-12-29,Alberto Senigagliesi,IT,16
-1996-12-29,Paul Accola,CH,5
-1996-12-29,Luca Cattaneo,IT,39
-1996-12-29,Andreas Schifferer,AT,68
-1996-12-29,Erik Seletto,IT,13
-1996-12-29,Patrick Ortlieb,AT,85
-1996-12-29,Fritz Strobl,AT,194
-1996-12-29,Vincent Blanc,FR,6
-1996-12-29,Markus Herrmann,CH,39
-1997-01-11,Alessandro Fattori,IT,2
-1997-01-11,Josef Strobl,AT,203
-1997-01-11,Kristian Ghedina,IT,365
-1997-01-11,Brian Stemmle,CA,5
-1997-01-11,Frederic Marin Cudraz,FR,2
-1997-01-11,Atle Skaardal,NO,261
-1997-01-11,Luc Alphand,FR,365
-1997-01-11,Werner Franz,AT,228
-1997-01-11,Vincent Blanc,FR,9
-1997-01-11,Markus Herrmann,CH,71
-1997-01-11,Jean Luc Cretier,FR,7
-1997-01-11,Hans Knauss,AT,88
-1997-01-11,Luca Cattaneo,IT,45
-1997-01-11,Bruno Kernen,CH,102
-1997-01-11,Norbert Holzknecht,AT,21
-1997-01-11,Werner Perathoner,IT,107
-1997-01-11,Erik Seletto,IT,21
-1997-01-11,Alberto Senigagliesi,IT,16
-1997-01-11,Heinrich Rupp,CH,8
-1997-01-11,Peter Runggaldier,IT,30
-1997-01-11,Hannes Trinkl,AT,85
-1997-01-11,Lasse Paulsen,NO,11
-1997-01-11,Ambrosi Hoffmann,CH,8
-1997-01-11,Paul Accola,CH,5
-1997-01-11,Graham Bell,GB,2
-1997-01-11,Andreas Schifferer,AT,83
-1997-01-11,Fredrik Nyberg,SE,1
-1997-01-11,Tommy Moe,US,14
-1997-01-11,Lasse Kjus,NO,0
-1997-01-11,Lorenzo Galli,IT,0
-1997-01-11,Max Rauffer,DE,0
-1997-01-11,Janne Leskinen,FI,0
-1997-01-11,Kyle Rasmussen,US,65
-1997-01-11,Kenneth Sivertsen,NO,0
-1997-01-11,Roland Assinger,AT,56
-1997-01-11,Guenther Mader,AT,41
-1997-01-11,Urs Lehmann,CH,28
-1997-01-11,Cary Mullen,CA,37
-1997-01-11,Luke Sauder,CA,45
-1997-01-11,Oswald Schranzhofer,IT,0
-1997-01-11,Audun Groenvold,NO,24
-1997-01-11,Matteo Berbenni,IT,0
-1997-01-11,Rob Boyd,CA,26
-1997-01-11,Kjetil Andre Aamodt,NO,15
-1997-01-11,Patrick Ortlieb,AT,85
-1997-01-11,Chad Fleischer,US,35
-1997-01-11,William Besse,CH,172
-1997-01-11,Pietro Vitalini,IT,133
-1997-01-11,A.J. Kitt,US,59
-1997-01-11,Kevin Wert,CA,31
-1997-01-11,Franco Cavegn,CH,121
-1997-01-11,Adrien Duvillard,FR,119
-1997-01-11,Fritz Strobl,AT,194
-1997-01-11,Xavier Gigandet,CH,10
-1997-01-11,Ed Podivinsky,CA,100
-1997-01-11,Stefan Krauss,DE,35
-1997-01-18,Lasse Paulsen,NO,11
-1997-01-18,Luc Alphand,FR,445
-1997-01-18,Heinrich Rupp,CH,8
-1997-01-18,Vincent Blanc,FR,9
-1997-01-18,Kevin Wert,CA,40
-1997-01-18,Werner Perathoner,IT,127
-1997-01-18,Guenther Mader,AT,41
-1997-01-18,Paul Accola,CH,5
-1997-01-18,Graham Bell,GB,2
-1997-01-18,Josef Strobl,AT,239
-1997-01-18,Kjetil Andre Aamodt,NO,15
-1997-01-18,Ambrosi Hoffmann,CH,8
-1997-01-18,Cary Mullen,CA,37
-1997-01-18,Kristian Ghedina,IT,465
-1997-01-18,Fredrik Nyberg,SE,1
-1997-01-18,Urs Lehmann,CH,28
-1997-01-18,Oswald Schranzhofer,IT,0
-1997-01-18,Lorenzo Galli,IT,0
-1997-01-18,Atle Skaardal,NO,306
-1997-01-18,Max Rauffer,DE,0
-1997-01-18,Pietro Vitalini,IT,157
-1997-01-18,Peter Runggaldier,IT,31
-1997-01-18,Franco Cavegn,CH,161
-1997-01-18,Janne Leskinen,FI,0
-1997-01-18,Kenneth Sivertsen,NO,0
-1997-01-18,Matteo Berbenni,IT,0
-1997-01-18,Luca Cattaneo,IT,67
-1997-01-18,Frederic Marin Cudraz,FR,2
-1997-01-18,Erik Seletto,IT,31
-1997-01-18,Audun Groenvold,NO,24
-1997-01-18,Werner Franz,AT,278
-1997-01-18,Roland Assinger,AT,69
-1997-01-18,Ed Podivinsky,CA,105
-1997-01-18,Markus Herrmann,CH,76
-1997-01-18,Lasse Kjus,NO,14
-1997-01-18,Alessandro Fattori,IT,8
-1997-01-18,Patrick Ortlieb,AT,117
-1997-01-18,Andreas Schifferer,AT,112
-1997-01-18,Rob Boyd,CA,33
-1997-01-18,Hannes Trinkl,AT,97
-1997-01-18,Brian Stemmle,CA,5
-1997-01-18,Stefan Krauss,DE,51
-1997-01-18,Chad Fleischer,US,38
-1997-01-18,William Besse,CH,201
-1997-01-18,Tommy Moe,US,30
-1997-01-18,Kyle Rasmussen,US,65
-1997-01-18,Fritz Strobl,AT,254
-1997-01-18,A.J. Kitt,US,59
-1997-01-18,Bruno Kernen,CH,102
-1997-01-18,Adrien Duvillard,FR,119
-1997-01-18,Xavier Gigandet,CH,10
-1997-01-18,Hans Knauss,AT,88
-1997-01-18,Norbert Holzknecht,AT,29
-1997-01-18,Jean Luc Cretier,FR,18
-1997-01-18,Alberto Senigagliesi,IT,18
-1997-01-18,Luke Sauder,CA,63
-1997-01-24,Audun Groenvold,NO,24
-1997-01-24,Luke Sauder,CA,63
-1997-01-24,Alessandro Fattori,IT,8
-1997-01-24,Alberto Senigagliesi,IT,18
-1997-01-24,A.J. Kitt,US,59
-1997-01-24,Markus Herrmann,CH,76
-1997-01-24,Kjetil Andre Aamodt,NO,15
-1997-01-24,Urs Lehmann,CH,28
-1997-01-24,Kyle Rasmussen,US,65
-1997-01-24,Norbert Holzknecht,AT,29
-1997-01-24,Kevin Wert,CA,40
-1997-01-24,Adrien Duvillard,FR,119
-1997-01-24,Xavier Gigandet,CH,10
-1997-01-24,Lasse Paulsen,NO,11
-1997-01-24,Luc Alphand,FR,545
-1997-01-24,Pietro Vitalini,IT,186
-1997-01-24,Heinrich Rupp,CH,13
-1997-01-24,Erik Seletto,IT,31
-1997-01-24,Tommy Moe,US,36
-1997-01-24,Kristian Ghedina,IT,489
-1997-01-24,Cary Mullen,CA,59
-1997-01-24,Peter Runggaldier,IT,38
-1997-01-24,Andreas Schifferer,AT,132
-1997-01-24,Franco Cavegn,CH,193
-1997-01-24,Roland Assinger,AT,87
-1997-01-24,Guenther Mader,AT,49
-1997-01-24,Hans Knauss,AT,103
-1997-01-24,Josef Strobl,AT,289
-1997-01-24,Luca Cattaneo,IT,77
-1997-01-24,Stefan Krauss,DE,61
-1997-01-24,Bruno Kernen,CH,116
-1997-01-24,Lasse Kjus,NO,27
-1997-01-24,Brian Stemmle,CA,16
-1997-01-24,Patrick Ortlieb,AT,133
-1997-01-24,Jean Luc Cretier,FR,22
-1997-01-24,Ed Podivinsky,CA,131
-1997-01-24,Atle Skaardal,NO,346
-1997-01-24,Ambrosi Hoffmann,CH,8
-1997-01-24,Vincent Blanc,FR,9
-1997-01-24,Paul Accola,CH,5
-1997-01-24,Werner Franz,AT,358
-1997-01-24,Rob Boyd,CA,34
-1997-01-24,Graham Bell,GB,2
-1997-01-24,Fredrik Nyberg,SE,1
-1997-01-24,Frederic Marin Cudraz,FR,2
-1997-01-24,Max Rauffer,DE,0
-1997-01-24,Fritz Strobl,AT,299
-1997-01-24,Chad Fleischer,US,40
-1997-01-24,Lorenzo Galli,IT,0
-1997-01-24,Werner Perathoner,IT,167
-1997-01-24,William Besse,CH,261
-1997-01-24,Oswald Schranzhofer,IT,3
-1997-01-24,Janne Leskinen,FI,0
-1997-01-24,Hannes Trinkl,AT,109
-1997-01-24,Kenneth Sivertsen,NO,0
-1997-01-24,Matteo Berbenni,IT,0
-1997-01-25,Peter Runggaldier,IT,58
-1997-01-25,Kristian Ghedina,IT,534
-1997-01-25,Matteo Berbenni,IT,0
-1997-01-25,Tommy Moe,US,37
-1997-01-25,Stefan Krauss,DE,74
-1997-01-25,Guenther Mader,AT,85
-1997-01-25,Pietro Vitalini,IT,200
-1997-01-25,Hannes Trinkl,AT,141
-1997-01-25,Markus Herrmann,CH,85
-1997-01-25,Ed Podivinsky,CA,146
-1997-01-25,Lasse Kjus,NO,53
-1997-01-25,Josef Strobl,AT,339
-1997-01-25,Franco Cavegn,CH,222
-1997-01-25,Janne Leskinen,FI,0
-1997-01-25,William Besse,CH,279
-1997-01-25,Werner Perathoner,IT,185
-1997-01-25,Atle Skaardal,NO,386
-1997-01-25,Andreas Schifferer,AT,154
-1997-01-25,Patrick Ortlieb,AT,157
-1997-01-25,Kenneth Sivertsen,NO,0
-1997-01-25,Max Rauffer,DE,0
-1997-01-25,Heinrich Rupp,CH,13
-1997-01-25,Hans Knauss,AT,115
-1997-01-25,Alberto Senigagliesi,IT,18
-1997-01-25,Urs Lehmann,CH,28
-1997-01-25,Bruno Kernen,CH,123
-1997-01-25,Brian Stemmle,CA,16
-1997-01-25,Audun Groenvold,NO,24
-1997-01-25,Rob Boyd,CA,34
-1997-01-25,Roland Assinger,AT,93
-1997-01-25,Chad Fleischer,US,40
-1997-01-25,Lasse Paulsen,NO,11
-1997-01-25,Norbert Holzknecht,AT,29
-1997-01-25,Adrien Duvillard,FR,119
-1997-01-25,Kevin Wert,CA,40
-1997-01-25,A.J. Kitt,US,59
-1997-01-25,Luc Alphand,FR,605
-1997-01-25,Kjetil Andre Aamodt,NO,19
-1997-01-25,Kyle Rasmussen,US,65
-1997-01-25,Alessandro Fattori,IT,11
-1997-01-25,Erik Seletto,IT,33
-1997-01-25,Werner Franz,AT,438
-1997-01-25,Fritz Strobl,AT,399
-1997-01-25,Luke Sauder,CA,68
-1997-01-25,Ambrosi Hoffmann,CH,8
-1997-01-25,Xavier Gigandet,CH,10
-1997-01-25,Lorenzo Galli,IT,0
-1997-01-25,Paul Accola,CH,5
-1997-01-25,Jean Luc Cretier,FR,33
-1997-01-25,Oswald Schranzhofer,IT,3
-1997-01-25,Graham Bell,GB,2
-1997-01-25,Cary Mullen,CA,67
-1997-01-25,Vincent Blanc,FR,9
-1997-01-25,Frederic Marin Cudraz,FR,2
-1997-01-25,Fredrik Nyberg,SE,1
-1997-01-25,Luca Cattaneo,IT,87
-1997-02-22,Guenther Mader,AT,85
-1997-02-22,Adrien Duvillard,FR,119
-1997-02-22,A.J. Kitt,US,59
-1997-02-22,William Besse,CH,279
-1997-02-22,Kyle Rasmussen,US,65
-1997-02-22,Patrick Ortlieb,AT,157
-1997-02-22,Jean Luc Cretier,FR,42
-1997-02-22,Matteo Berbenni,IT,0
-1997-02-22,Chad Fleischer,US,40
-1997-02-22,Xavier Gigandet,CH,10
-1997-02-22,Tommy Moe,US,37
-1997-02-22,Alessandro Fattori,IT,11
-1997-02-22,Heinrich Rupp,CH,13
-1997-02-22,Lasse Paulsen,NO,11
-1997-02-22,Ed Podivinsky,CA,146
-1997-02-22,Brian Stemmle,CA,16
-1997-02-22,Vincent Blanc,FR,9
-1997-02-22,Graham Bell,GB,2
-1997-02-22,Fredrik Nyberg,SE,1
-1997-02-22,Frederic Marin Cudraz,FR,2
-1997-02-22,Audun Groenvold,NO,24
-1997-02-22,Rob Boyd,CA,34
-1997-02-22,Oswald Schranzhofer,IT,3
-1997-02-22,Janne Leskinen,FI,0
-1997-02-22,Kenneth Sivertsen,NO,0
-1997-02-22,Alberto Senigagliesi,IT,18
-1997-02-22,Ambrosi Hoffmann,CH,8
-1997-02-22,Franco Cavegn,CH,267
-1997-02-22,Norbert Holzknecht,AT,40
-1997-02-22,Werner Perathoner,IT,207
-1997-02-22,Lasse Kjus,NO,73
-1997-02-22,Luc Alphand,FR,705
-1997-02-22,Roland Assinger,AT,111
-1997-02-22,Atle Skaardal,NO,436
-1997-02-22,Markus Herrmann,CH,101
-1997-02-22,Paul Accola,CH,21
-1997-02-22,Luca Cattaneo,IT,101
-1997-02-22,Kjetil Andre Aamodt,NO,32
-1997-02-22,Erik Seletto,IT,45
-1997-02-22,Cary Mullen,CA,77
-1997-02-22,Hans Knauss,AT,123
-1997-02-22,Luke Sauder,CA,76
-1997-02-22,Peter Runggaldier,IT,84
-1997-02-22,Lorenzo Galli,IT,6
-1997-02-22,Werner Franz,AT,462
-1997-02-22,Bruno Kernen,CH,155
-1997-02-22,Kristian Ghedina,IT,594
-1997-02-22,Max Rauffer,DE,2
-1997-02-22,Stefan Krauss,DE,77
-1997-02-22,Kevin Wert,CA,41
-1997-02-22,Hannes Trinkl,AT,146
-1997-02-22,Urs Lehmann,CH,33
-1997-02-22,Pietro Vitalini,IT,280
-1997-02-22,Josef Strobl,AT,375
-1997-02-22,Andreas Schifferer,AT,194
-1997-02-22,Fritz Strobl,AT,431
-1997-03-02,Franco Cavegn,CH,299
-1997-03-02,Tommy Moe,US,37
-1997-03-02,Markus Herrmann,CH,101
-1997-03-02,Xavier Gigandet,CH,10
-1997-03-02,Fritz Strobl,AT,471
-1997-03-02,Atle Skaardal,NO,436
-1997-03-02,Adrien Duvillard,FR,119
-1997-03-02,Kevin Wert,CA,41
-1997-03-02,A.J. Kitt,US,59
-1997-03-02,Luc Alphand,FR,750
-1997-03-02,Andreas Schifferer,AT,194
-1997-03-02,Cary Mullen,CA,77
-1997-03-02,Urs Lehmann,CH,33
-1997-03-02,Alessandro Fattori,IT,11
-1997-03-02,Alberto Senigagliesi,IT,18
-1997-03-02,Hans Knauss,AT,152
-1997-03-02,Kristian Ghedina,IT,620
-1997-03-02,Matteo Berbenni,IT,0
-1997-03-02,Max Rauffer,DE,2
-1997-03-02,Lorenzo Galli,IT,6
-1997-03-02,Oswald Schranzhofer,IT,3
-1997-03-02,William Besse,CH,288
-1997-03-02,Guenther Mader,AT,85
-1997-03-02,Frederic Marin Cudraz,FR,2
-1997-03-02,Kyle Rasmussen,US,65
-1997-03-02,Graham Bell,GB,2
-1997-03-02,Vincent Blanc,FR,9
-1997-03-02,Ambrosi Hoffmann,CH,8
-1997-03-02,Lasse Paulsen,NO,11
-1997-03-02,Heinrich Rupp,CH,13
-1997-03-02,Kjetil Andre Aamodt,NO,68
-1997-03-02,Fredrik Nyberg,SE,1
-1997-03-02,Lasse Kjus,NO,173
-1997-03-02,Rob Boyd,CA,34
-1997-03-02,Patrick Ortlieb,AT,181
-1997-03-02,Pietro Vitalini,IT,360
-1997-03-02,Erik Seletto,IT,48
-1997-03-02,Norbert Holzknecht,AT,43
-1997-03-02,Janne Leskinen,FI,4
-1997-03-02,Werner Franz,AT,467
-1997-03-02,Chad Fleischer,US,46
-1997-03-02,Ed Podivinsky,CA,206
-1997-03-02,Roland Assinger,AT,118
-1997-03-02,Hannes Trinkl,AT,154
-1997-03-02,Audun Groenvold,NO,34
-1997-03-02,Brian Stemmle,CA,27
-1997-03-02,Stefan Krauss,DE,89
-1997-03-02,Peter Runggaldier,IT,97
-1997-03-02,Kenneth Sivertsen,NO,1
-1997-03-02,Josef Strobl,AT,425
-1997-03-02,Luca Cattaneo,IT,119
-1997-03-02,Jean Luc Cretier,FR,62
-1997-03-02,Luke Sauder,CA,94
-1997-03-02,Bruno Kernen,CH,177
-1997-03-02,Paul Accola,CH,35
-1997-03-02,Werner Perathoner,IT,222
-1997-03-12,Andreas Schifferer,AT,234
-1997-03-12,Graham Bell,GB,2
-1997-03-12,Fredrik Nyberg,SE,1
-1997-03-12,Frederic Marin Cudraz,FR,2
-1997-03-12,Lasse Kjus,NO,173
-1997-03-12,Oswald Schranzhofer,IT,3
-1997-03-12,Lorenzo Galli,IT,6
-1997-03-12,Max Rauffer,DE,2
-1997-03-12,Janne Leskinen,FI,4
-1997-03-12,Kenneth Sivertsen,NO,1
-1997-03-12,Hannes Trinkl,AT,214
-1997-03-12,Luc Alphand,FR,779
-1997-03-12,Matteo Berbenni,IT,7
-1997-03-12,Bruno Kernen,CH,209
-1997-03-12,Paul Accola,CH,35
-1997-03-12,Pietro Vitalini,IT,380
-1997-03-12,Fritz Strobl,AT,571
-1997-03-12,Stefan Krauss,DE,98
-1997-03-12,Werner Franz,AT,517
-1997-03-12,Luca Cattaneo,IT,155
-1997-03-12,Josef Strobl,AT,470
-1997-03-12,Franco Cavegn,CH,321
-1997-03-12,Kjetil Andre Aamodt,NO,92
-1997-03-12,Kristian Ghedina,IT,700
-1997-03-12,Ed Podivinsky,CA,220
-1997-03-12,Ambrosi Hoffmann,CH,8
-1997-03-12,Lasse Paulsen,NO,11
-1997-03-12,Roland Assinger,AT,131
-1997-03-12,Luke Sauder,CA,107
-1997-03-12,Atle Skaardal,NO,452
-1997-03-12,Werner Perathoner,IT,238
-1997-03-12,Peter Runggaldier,IT,108
-1997-03-12,Hans Knauss,AT,170
-1997-03-12,Markus Herrmann,CH,111
-1997-03-12,William Besse,CH,296
-1997-03-12,Kyle Rasmussen,US,65
-1997-03-12,A.J. Kitt,US,59
-1997-03-12,Kevin Wert,CA,41
-1997-03-12,Adrien Duvillard,FR,119
-1997-03-12,Norbert Holzknecht,AT,43
-1997-03-12,Chad Fleischer,US,46
-1997-03-12,Xavier Gigandet,CH,10
-1997-03-12,Rob Boyd,CA,34
-1997-03-12,Audun Groenvold,NO,34
-1997-03-12,Cary Mullen,CA,77
-1997-03-12,Brian Stemmle,CA,27
-1997-03-12,Tommy Moe,US,37
-1997-03-12,Patrick Ortlieb,AT,207
-1997-03-12,Guenther Mader,AT,85
-1997-03-12,Alberto Senigagliesi,IT,18
-1997-03-12,Alessandro Fattori,IT,11
-1997-03-12,Heinrich Rupp,CH,13
-1997-03-12,Jean Luc Cretier,FR,62
-1997-03-12,Erik Seletto,IT,48
-1997-03-12,Vincent Blanc,FR,9
-1997-03-12,Urs Lehmann,CH,33
+date,name,ath_country,value,specialty
+1996-12-15,Fritz Strobl,AT,100,Downhill
+1996-12-15,Lasse Kjus,NO,0,Super G
+1996-12-15,Andreas Schifferer,AT,26,Super G
+1996-12-15,Stefan Krauss,DE,12,Downhill
+1996-12-15,Werner Franz,AT,80,Downhill
+1996-12-15,Oswald Schranzhofer,IT,0,Downhill
+1996-12-15,Tommy Moe,US,0,Downhill
+1996-12-15,Werner Perathoner,IT,29,Downhill
+1996-12-15,Franco Cavegn,CH,10,Downhill
+1996-12-15,Paul Accola,CH,0,Giant Slalom
+1996-12-15,Norbert Holzknecht,AT,14,Downhill
+1996-12-15,Janne Leskinen,FI,0,Super G
+1996-12-15,Hans Knauss,AT,7,Giant Slalom
+1996-12-15,Alberto Senigagliesi,IT,0,Downhill
+1996-12-15,Lorenzo Galli,IT,0,Downhill
+1996-12-15,Erik Seletto,IT,0,Downhill
+1996-12-15,Atle Skaardal,NO,15,Downhill
+1996-12-15,Adrien Duvillard,FR,16,Downhill
+1996-12-15,Patrick Ortlieb,AT,60,Downhill
+1996-12-15,Josef Strobl,AT,50,Downhill
+1996-12-15,Matteo Berbenni,IT,0,Downhill
+1996-12-15,Heinrich Rupp,CH,0,Downhill
+1996-12-15,Xavier Gigandet,CH,10,Downhill
+1996-12-15,Pietro Vitalini,IT,36,Downhill
+1996-12-15,Audun Groenvold,NO,6,Downhill
+1996-12-15,Brian Stemmle,CA,3,Downhill
+1996-12-15,Vincent Blanc,FR,0,Downhill
+1996-12-15,Lasse Paulsen,NO,0,Super G
+1996-12-15,Hannes Trinkl,AT,13,Downhill
+1996-12-15,William Besse,CH,24,Downhill
+1996-12-15,Alessandro Fattori,IT,0,Downhill
+1996-12-15,Chad Fleischer,US,11,Downhill
+1996-12-15,Ed Podivinsky,CA,2,Downhill
+1996-12-15,Graham Bell,GB,0,Downhill
+1996-12-15,Ambrosi Hoffmann,CH,0,Downhill
+1996-12-15,Rob Boyd,CA,8,Downhill
+1996-12-15,Cary Mullen,CA,5,Downhill
+1996-12-15,Fredrik Nyberg,SE,0,Giant Slalom
+1996-12-15,Bruno Kernen,CH,20,Downhill
+1996-12-15,Kyle Rasmussen,US,32,Downhill
+1996-12-15,Kjetil Andre Aamodt,NO,0,Giant Slalom
+1996-12-15,Luc Alphand,FR,40,Downhill
+1996-12-15,Luke Sauder,CA,0,Downhill
+1996-12-15,Roland Assinger,AT,4,Downhill
+1996-12-15,Luca Cattaneo,IT,2,Downhill
+1996-12-15,Jean Luc Cretier,FR,0,Downhill
+1996-12-15,Kevin Wert,CA,18,Downhill
+1996-12-15,Max Rauffer,DE,0,Super G
+1996-12-15,Frederic Marin Cudraz,FR,0,Super G
+1996-12-15,Markus Herrmann,CH,0,Downhill
+1996-12-15,Peter Runggaldier,IT,0,Super G
+1996-12-15,Guenther Mader,AT,0,Giant Slalom
+1996-12-15,Kristian Ghedina,IT,45,Downhill
+1996-12-15,Urs Lehmann,CH,0,Downhill
+1996-12-15,A.J. Kitt,US,22,Downhill
+1996-12-15,Kenneth Sivertsen,NO,0,Super G
+1996-12-20,Brian Stemmle,CA,3,Downhill
+1996-12-20,Luke Sauder,CA,1,Downhill
+1996-12-20,Kyle Rasmussen,US,44,Downhill
+1996-12-20,Lasse Paulsen,NO,0,Super G
+1996-12-20,A.J. Kitt,US,27,Downhill
+1996-12-20,Urs Lehmann,CH,6,Downhill
+1996-12-20,Peter Runggaldier,IT,16,Super G
+1996-12-20,Chad Fleischer,US,11,Downhill
+1996-12-20,Heinrich Rupp,CH,0,Downhill
+1996-12-20,Ed Podivinsky,CA,17,Downhill
+1996-12-20,Xavier Gigandet,CH,10,Downhill
+1996-12-20,Josef Strobl,AT,58,Downhill
+1996-12-20,Cary Mullen,CA,14,Downhill
+1996-12-20,Luca Cattaneo,IT,9,Downhill
+1996-12-20,Bruno Kernen,CH,42,Downhill
+1996-12-20,Rob Boyd,CA,26,Downhill
+1996-12-20,Kevin Wert,CA,31,Downhill
+1996-12-20,Andreas Schifferer,AT,26,Super G
+1996-12-20,Audun Groenvold,NO,6,Downhill
+1996-12-20,Stefan Krauss,DE,12,Downhill
+1996-12-20,Guenther Mader,AT,3,Giant Slalom
+1996-12-20,Patrick Ortlieb,AT,74,Downhill
+1996-12-20,Werner Perathoner,IT,55,Downhill
+1996-12-20,Jean Luc Cretier,FR,0,Downhill
+1996-12-20,Paul Accola,CH,0,Giant Slalom
+1996-12-20,Kjetil Andre Aamodt,NO,4,Giant Slalom
+1996-12-20,Franco Cavegn,CH,50,Downhill
+1996-12-20,Norbert Holzknecht,AT,14,Downhill
+1996-12-20,Alberto Senigagliesi,IT,2,Downhill
+1996-12-20,Hans Knauss,AT,36,Giant Slalom
+1996-12-20,Roland Assinger,AT,24,Downhill
+1996-12-20,Erik Seletto,IT,0,Downhill
+1996-12-20,Adrien Duvillard,FR,61,Downhill
+1996-12-20,Hannes Trinkl,AT,24,Downhill
+1996-12-20,Tommy Moe,US,10,Downhill
+1996-12-20,Markus Herrmann,CH,24,Downhill
+1996-12-20,Ambrosi Hoffmann,CH,0,Downhill
+1996-12-20,Luc Alphand,FR,140,Downhill
+1996-12-20,Janne Leskinen,FI,0,Super G
+1996-12-20,Werner Franz,AT,116,Downhill
+1996-12-20,Lorenzo Galli,IT,0,Downhill
+1996-12-20,Pietro Vitalini,IT,86,Downhill
+1996-12-20,Atle Skaardal,NO,95,Downhill
+1996-12-20,Fritz Strobl,AT,132,Downhill
+1996-12-20,Kristian Ghedina,IT,105,Downhill
+1996-12-20,Oswald Schranzhofer,IT,0,Downhill
+1996-12-20,Max Rauffer,DE,0,Super G
+1996-12-20,Vincent Blanc,FR,0,Downhill
+1996-12-20,William Besse,CH,24,Downhill
+1996-12-20,Frederic Marin Cudraz,FR,0,Super G
+1996-12-20,Matteo Berbenni,IT,0,Downhill
+1996-12-20,Fredrik Nyberg,SE,0,Giant Slalom
+1996-12-20,Alessandro Fattori,IT,1,Downhill
+1996-12-20,Lasse Kjus,NO,0,Super G
+1996-12-20,Graham Bell,GB,0,Downhill
+1996-12-20,Kenneth Sivertsen,NO,0,Super G
+1996-12-21,Roland Assinger,AT,38,Downhill
+1996-12-21,Atle Skaardal,NO,145,Downhill
+1996-12-21,Norbert Holzknecht,AT,17,Downhill
+1996-12-21,Max Rauffer,DE,0,Super G
+1996-12-21,Kristian Ghedina,IT,205,Downhill
+1996-12-21,Kjetil Andre Aamodt,NO,4,Giant Slalom
+1996-12-21,Lorenzo Galli,IT,0,Downhill
+1996-12-21,Alberto Senigagliesi,IT,2,Downhill
+1996-12-21,Chad Fleischer,US,11,Downhill
+1996-12-21,Guenther Mader,AT,12,Giant Slalom
+1996-12-21,Paul Accola,CH,0,Giant Slalom
+1996-12-21,Rob Boyd,CA,26,Downhill
+1996-12-21,Andreas Schifferer,AT,39,Super G
+1996-12-21,Lasse Kjus,NO,0,Super G
+1996-12-21,Audun Groenvold,NO,6,Downhill
+1996-12-21,Graham Bell,GB,0,Downhill
+1996-12-21,Kevin Wert,CA,31,Downhill
+1996-12-21,Jean Luc Cretier,FR,2,Downhill
+1996-12-21,Stefan Krauss,DE,19,Downhill
+1996-12-21,Werner Perathoner,IT,71,Downhill
+1996-12-21,Tommy Moe,US,14,Downhill
+1996-12-21,Frederic Marin Cudraz,FR,0,Super G
+1996-12-21,Janne Leskinen,FI,0,Super G
+1996-12-21,Werner Franz,AT,142,Downhill
+1996-12-21,Franco Cavegn,CH,79,Downhill
+1996-12-21,Oswald Schranzhofer,IT,0,Downhill
+1996-12-21,Hans Knauss,AT,81,Giant Slalom
+1996-12-21,Bruno Kernen,CH,66,Downhill
+1996-12-21,Luke Sauder,CA,1,Downhill
+1996-12-21,Matteo Berbenni,IT,0,Downhill
+1996-12-21,A.J. Kitt,US,59,Downhill
+1996-12-21,Pietro Vitalini,IT,126,Downhill
+1996-12-21,Heinrich Rupp,CH,8,Downhill
+1996-12-21,Brian Stemmle,CA,4,Downhill
+1996-12-21,Ed Podivinsky,CA,37,Downhill
+1996-12-21,Luc Alphand,FR,220,Downhill
+1996-12-21,Josef Strobl,AT,118,Downhill
+1996-12-21,Kyle Rasmussen,US,49,Downhill
+1996-12-21,Fritz Strobl,AT,154,Downhill
+1996-12-21,Lasse Paulsen,NO,0,Super G
+1996-12-21,Xavier Gigandet,CH,10,Downhill
+1996-12-21,Hannes Trinkl,AT,40,Downhill
+1996-12-21,Kenneth Sivertsen,NO,0,Super G
+1996-12-21,Peter Runggaldier,IT,16,Super G
+1996-12-21,Markus Herrmann,CH,36,Downhill
+1996-12-21,William Besse,CH,42,Downhill
+1996-12-21,Alessandro Fattori,IT,1,Downhill
+1996-12-21,Fredrik Nyberg,SE,0,Giant Slalom
+1996-12-21,Luca Cattaneo,IT,15,Downhill
+1996-12-21,Adrien Duvillard,FR,97,Downhill
+1996-12-21,Ambrosi Hoffmann,CH,0,Downhill
+1996-12-21,Cary Mullen,CA,24,Downhill
+1996-12-21,Vincent Blanc,FR,0,Downhill
+1996-12-21,Urs Lehmann,CH,6,Downhill
+1996-12-21,Patrick Ortlieb,AT,85,Downhill
+1996-12-21,Erik Seletto,IT,0,Downhill
+1996-12-29,Markus Herrmann,CH,39,Downhill
+1996-12-29,Peter Runggaldier,IT,16,Super G
+1996-12-29,Kenneth Sivertsen,NO,0,Super G
+1996-12-29,Kevin Wert,CA,31,Downhill
+1996-12-29,Bruno Kernen,CH,66,Downhill
+1996-12-29,A.J. Kitt,US,59,Downhill
+1996-12-29,Kristian Ghedina,IT,265,Downhill
+1996-12-29,Graham Bell,GB,2,Downhill
+1996-12-29,Luke Sauder,CA,21,Downhill
+1996-12-29,Jean Luc Cretier,FR,2,Downhill
+1996-12-29,Frederic Marin Cudraz,FR,0,Super G
+1996-12-29,Fredrik Nyberg,SE,1,Giant Slalom
+1996-12-29,Kyle Rasmussen,US,49,Downhill
+1996-12-29,Guenther Mader,AT,21,Giant Slalom
+1996-12-29,Roland Assinger,AT,38,Downhill
+1996-12-29,Luc Alphand,FR,320,Downhill
+1996-12-29,Kjetil Andre Aamodt,NO,4,Giant Slalom
+1996-12-29,Urs Lehmann,CH,6,Downhill
+1996-12-29,Max Rauffer,DE,0,Super G
+1996-12-29,Luca Cattaneo,IT,39,Downhill
+1996-12-29,Fritz Strobl,AT,194,Downhill
+1996-12-29,Cary Mullen,CA,28,Downhill
+1996-12-29,Ambrosi Hoffmann,CH,8,Downhill
+1996-12-29,Xavier Gigandet,CH,10,Downhill
+1996-12-29,Hans Knauss,AT,81,Giant Slalom
+1996-12-29,Matteo Berbenni,IT,0,Downhill
+1996-12-29,Norbert Holzknecht,AT,17,Downhill
+1996-12-29,Alberto Senigagliesi,IT,16,Downhill
+1996-12-29,Lorenzo Galli,IT,0,Downhill
+1996-12-29,Ed Podivinsky,CA,87,Downhill
+1996-12-29,Erik Seletto,IT,13,Downhill
+1996-12-29,Franco Cavegn,CH,111,Downhill
+1996-12-29,Rob Boyd,CA,26,Downhill
+1996-12-29,Brian Stemmle,CA,4,Downhill
+1996-12-29,Chad Fleischer,US,23,Downhill
+1996-12-29,Adrien Duvillard,FR,119,Downhill
+1996-12-29,William Besse,CH,122,Downhill
+1996-12-29,Alessandro Fattori,IT,1,Downhill
+1996-12-29,Hannes Trinkl,AT,56,Downhill
+1996-12-29,Lasse Paulsen,NO,11,Super G
+1996-12-29,Atle Skaardal,NO,181,Downhill
+1996-12-29,Josef Strobl,AT,163,Downhill
+1996-12-29,Vincent Blanc,FR,6,Downhill
+1996-12-29,Werner Franz,AT,168,Downhill
+1996-12-29,Audun Groenvold,NO,24,Downhill
+1996-12-29,Patrick Ortlieb,AT,85,Downhill
+1996-12-29,Lasse Kjus,NO,0,Super G
+1996-12-29,Stefan Krauss,DE,35,Downhill
+1996-12-29,Andreas Schifferer,AT,68,Super G
+1996-12-29,Oswald Schranzhofer,IT,0,Downhill
+1996-12-29,Werner Perathoner,IT,81,Downhill
+1996-12-29,Heinrich Rupp,CH,8,Downhill
+1996-12-29,Tommy Moe,US,14,Downhill
+1996-12-29,Janne Leskinen,FI,0,Super G
+1996-12-29,Pietro Vitalini,IT,133,Downhill
+1996-12-29,Paul Accola,CH,5,Giant Slalom
+1997-01-11,Luke Sauder,CA,45,Downhill
+1997-01-11,Ambrosi Hoffmann,CH,8,Downhill
+1997-01-11,Xavier Gigandet,CH,10,Downhill
+1997-01-11,Peter Runggaldier,IT,30,Super G
+1997-01-11,Matteo Berbenni,IT,0,Downhill
+1997-01-11,Kenneth Sivertsen,NO,0,Super G
+1997-01-11,Heinrich Rupp,CH,8,Downhill
+1997-01-11,Urs Lehmann,CH,28,Downhill
+1997-01-11,Brian Stemmle,CA,5,Downhill
+1997-01-11,Rob Boyd,CA,26,Downhill
+1997-01-11,Erik Seletto,IT,21,Downhill
+1997-01-11,Vincent Blanc,FR,9,Downhill
+1997-01-11,Oswald Schranzhofer,IT,0,Downhill
+1997-01-11,Audun Groenvold,NO,24,Downhill
+1997-01-11,Graham Bell,GB,2,Downhill
+1997-01-11,Kevin Wert,CA,31,Downhill
+1997-01-11,Frederic Marin Cudraz,FR,2,Super G
+1997-01-11,Janne Leskinen,FI,0,Super G
+1997-01-11,Tommy Moe,US,14,Downhill
+1997-01-11,Paul Accola,CH,5,Giant Slalom
+1997-01-11,Jean Luc Cretier,FR,7,Downhill
+1997-01-11,Norbert Holzknecht,AT,21,Downhill
+1997-01-11,Lorenzo Galli,IT,0,Downhill
+1997-01-11,Roland Assinger,AT,56,Downhill
+1997-01-11,Alberto Senigagliesi,IT,16,Downhill
+1997-01-11,Max Rauffer,DE,0,Super G
+1997-01-11,Alessandro Fattori,IT,2,Downhill
+1997-01-11,Chad Fleischer,US,35,Downhill
+1997-01-11,Fredrik Nyberg,SE,1,Giant Slalom
+1997-01-11,Lasse Paulsen,NO,11,Super G
+1997-01-11,Stefan Krauss,DE,35,Downhill
+1997-01-11,Cary Mullen,CA,37,Downhill
+1997-01-11,Markus Herrmann,CH,71,Downhill
+1997-01-11,Ed Podivinsky,CA,100,Downhill
+1997-01-11,Lasse Kjus,NO,0,Super G
+1997-01-11,Guenther Mader,AT,41,Giant Slalom
+1997-01-11,Hannes Trinkl,AT,85,Downhill
+1997-01-11,Werner Franz,AT,228,Downhill
+1997-01-11,Josef Strobl,AT,203,Downhill
+1997-01-11,Adrien Duvillard,FR,119,Downhill
+1997-01-11,Atle Skaardal,NO,261,Downhill
+1997-01-11,Bruno Kernen,CH,102,Downhill
+1997-01-11,A.J. Kitt,US,59,Downhill
+1997-01-11,Kyle Rasmussen,US,65,Downhill
+1997-01-11,Andreas Schifferer,AT,83,Super G
+1997-01-11,Kristian Ghedina,IT,365,Downhill
+1997-01-11,Patrick Ortlieb,AT,85,Downhill
+1997-01-11,Hans Knauss,AT,88,Giant Slalom
+1997-01-11,Werner Perathoner,IT,107,Downhill
+1997-01-11,Franco Cavegn,CH,121,Downhill
+1997-01-11,William Besse,CH,172,Downhill
+1997-01-11,Luc Alphand,FR,365,Downhill
+1997-01-11,Kjetil Andre Aamodt,NO,15,Giant Slalom
+1997-01-11,Luca Cattaneo,IT,45,Downhill
+1997-01-11,Fritz Strobl,AT,194,Downhill
+1997-01-11,Pietro Vitalini,IT,133,Downhill
+1997-01-18,Xavier Gigandet,CH,10,Downhill
+1997-01-18,Patrick Ortlieb,AT,117,Downhill
+1997-01-18,Ambrosi Hoffmann,CH,8,Downhill
+1997-01-18,Guenther Mader,AT,41,Giant Slalom
+1997-01-18,Jean Luc Cretier,FR,18,Downhill
+1997-01-18,Heinrich Rupp,CH,8,Downhill
+1997-01-18,Brian Stemmle,CA,5,Downhill
+1997-01-18,Roland Assinger,AT,69,Downhill
+1997-01-18,Josef Strobl,AT,239,Downhill
+1997-01-18,Ed Podivinsky,CA,105,Downhill
+1997-01-18,Lasse Paulsen,NO,11,Super G
+1997-01-18,Werner Perathoner,IT,127,Downhill
+1997-01-18,Paul Accola,CH,5,Giant Slalom
+1997-01-18,Stefan Krauss,DE,51,Downhill
+1997-01-18,Andreas Schifferer,AT,112,Super G
+1997-01-18,Franco Cavegn,CH,161,Downhill
+1997-01-18,Norbert Holzknecht,AT,29,Downhill
+1997-01-18,Hans Knauss,AT,88,Giant Slalom
+1997-01-18,Bruno Kernen,CH,102,Downhill
+1997-01-18,Audun Groenvold,NO,24,Downhill
+1997-01-18,Erik Seletto,IT,31,Downhill
+1997-01-18,Adrien Duvillard,FR,119,Downhill
+1997-01-18,Chad Fleischer,US,38,Downhill
+1997-01-18,Rob Boyd,CA,33,Downhill
+1997-01-18,Hannes Trinkl,AT,97,Downhill
+1997-01-18,Matteo Berbenni,IT,0,Downhill
+1997-01-18,Kevin Wert,CA,40,Downhill
+1997-01-18,Alberto Senigagliesi,IT,18,Downhill
+1997-01-18,Kjetil Andre Aamodt,NO,15,Giant Slalom
+1997-01-18,Pietro Vitalini,IT,157,Downhill
+1997-01-18,Lasse Kjus,NO,14,Super G
+1997-01-18,Janne Leskinen,FI,0,Super G
+1997-01-18,Kyle Rasmussen,US,65,Downhill
+1997-01-18,Oswald Schranzhofer,IT,0,Downhill
+1997-01-18,Vincent Blanc,FR,9,Downhill
+1997-01-18,Graham Bell,GB,2,Downhill
+1997-01-18,Luke Sauder,CA,63,Downhill
+1997-01-18,Kristian Ghedina,IT,465,Downhill
+1997-01-18,Urs Lehmann,CH,28,Downhill
+1997-01-18,Frederic Marin Cudraz,FR,2,Super G
+1997-01-18,A.J. Kitt,US,59,Downhill
+1997-01-18,Max Rauffer,DE,0,Super G
+1997-01-18,Luc Alphand,FR,445,Downhill
+1997-01-18,Fredrik Nyberg,SE,1,Giant Slalom
+1997-01-18,Fritz Strobl,AT,254,Downhill
+1997-01-18,Kenneth Sivertsen,NO,0,Super G
+1997-01-18,Markus Herrmann,CH,76,Downhill
+1997-01-18,Peter Runggaldier,IT,31,Super G
+1997-01-18,Werner Franz,AT,278,Downhill
+1997-01-18,Tommy Moe,US,30,Downhill
+1997-01-18,Lorenzo Galli,IT,0,Downhill
+1997-01-18,William Besse,CH,201,Downhill
+1997-01-18,Atle Skaardal,NO,306,Downhill
+1997-01-18,Cary Mullen,CA,37,Downhill
+1997-01-18,Alessandro Fattori,IT,8,Downhill
+1997-01-18,Luca Cattaneo,IT,67,Downhill
+1997-01-24,Pietro Vitalini,IT,186,Downhill
+1997-01-24,Fritz Strobl,AT,299,Downhill
+1997-01-24,Fredrik Nyberg,SE,1,Giant Slalom
+1997-01-24,Paul Accola,CH,5,Giant Slalom
+1997-01-24,Werner Perathoner,IT,167,Downhill
+1997-01-24,Vincent Blanc,FR,9,Downhill
+1997-01-24,Luc Alphand,FR,545,Downhill
+1997-01-24,Ambrosi Hoffmann,CH,8,Downhill
+1997-01-24,Max Rauffer,DE,0,Super G
+1997-01-24,Kenneth Sivertsen,NO,0,Super G
+1997-01-24,Norbert Holzknecht,AT,29,Downhill
+1997-01-24,Frederic Marin Cudraz,FR,2,Super G
+1997-01-24,Hans Knauss,AT,103,Giant Slalom
+1997-01-24,Franco Cavegn,CH,193,Downhill
+1997-01-24,Tommy Moe,US,36,Downhill
+1997-01-24,Alberto Senigagliesi,IT,18,Downhill
+1997-01-24,William Besse,CH,261,Downhill
+1997-01-24,Ed Podivinsky,CA,131,Downhill
+1997-01-24,Xavier Gigandet,CH,10,Downhill
+1997-01-24,Janne Leskinen,FI,0,Super G
+1997-01-24,Oswald Schranzhofer,IT,3,Downhill
+1997-01-24,Heinrich Rupp,CH,13,Downhill
+1997-01-24,Brian Stemmle,CA,16,Downhill
+1997-01-24,Lasse Paulsen,NO,11,Super G
+1997-01-24,Werner Franz,AT,358,Downhill
+1997-01-24,Lorenzo Galli,IT,0,Downhill
+1997-01-24,Lasse Kjus,NO,27,Super G
+1997-01-24,Kristian Ghedina,IT,489,Downhill
+1997-01-24,Patrick Ortlieb,AT,133,Downhill
+1997-01-24,Chad Fleischer,US,40,Downhill
+1997-01-24,Graham Bell,GB,2,Downhill
+1997-01-24,Atle Skaardal,NO,346,Downhill
+1997-01-24,Erik Seletto,IT,31,Downhill
+1997-01-24,Alessandro Fattori,IT,8,Downhill
+1997-01-24,Adrien Duvillard,FR,119,Downhill
+1997-01-24,Josef Strobl,AT,289,Downhill
+1997-01-24,Matteo Berbenni,IT,0,Downhill
+1997-01-24,Hannes Trinkl,AT,109,Downhill
+1997-01-24,Urs Lehmann,CH,28,Downhill
+1997-01-24,Audun Groenvold,NO,24,Downhill
+1997-01-24,Cary Mullen,CA,59,Downhill
+1997-01-24,Jean Luc Cretier,FR,22,Downhill
+1997-01-24,Kevin Wert,CA,40,Downhill
+1997-01-24,Markus Herrmann,CH,76,Downhill
+1997-01-24,Rob Boyd,CA,34,Downhill
+1997-01-24,Guenther Mader,AT,49,Giant Slalom
+1997-01-24,A.J. Kitt,US,59,Downhill
+1997-01-24,Luke Sauder,CA,63,Downhill
+1997-01-24,Andreas Schifferer,AT,132,Super G
+1997-01-24,Roland Assinger,AT,87,Downhill
+1997-01-24,Stefan Krauss,DE,61,Downhill
+1997-01-24,Bruno Kernen,CH,116,Downhill
+1997-01-24,Kjetil Andre Aamodt,NO,15,Giant Slalom
+1997-01-24,Kyle Rasmussen,US,65,Downhill
+1997-01-24,Peter Runggaldier,IT,38,Super G
+1997-01-24,Luca Cattaneo,IT,77,Downhill
+1997-01-25,Hannes Trinkl,AT,141,Downhill
+1997-01-25,Brian Stemmle,CA,16,Downhill
+1997-01-25,Luca Cattaneo,IT,87,Downhill
+1997-01-25,Guenther Mader,AT,85,Giant Slalom
+1997-01-25,Ed Podivinsky,CA,146,Downhill
+1997-01-25,Kevin Wert,CA,40,Downhill
+1997-01-25,Lasse Paulsen,NO,11,Super G
+1997-01-25,Urs Lehmann,CH,28,Downhill
+1997-01-25,Chad Fleischer,US,40,Downhill
+1997-01-25,Bruno Kernen,CH,123,Downhill
+1997-01-25,Markus Herrmann,CH,85,Downhill
+1997-01-25,Fredrik Nyberg,SE,1,Giant Slalom
+1997-01-25,Lorenzo Galli,IT,0,Downhill
+1997-01-25,Xavier Gigandet,CH,10,Downhill
+1997-01-25,Vincent Blanc,FR,9,Downhill
+1997-01-25,William Besse,CH,279,Downhill
+1997-01-25,Cary Mullen,CA,67,Downhill
+1997-01-25,Matteo Berbenni,IT,0,Downhill
+1997-01-25,Kjetil Andre Aamodt,NO,19,Giant Slalom
+1997-01-25,Frederic Marin Cudraz,FR,2,Super G
+1997-01-25,Pietro Vitalini,IT,200,Downhill
+1997-01-25,Luc Alphand,FR,605,Downhill
+1997-01-25,Peter Runggaldier,IT,58,Super G
+1997-01-25,Ambrosi Hoffmann,CH,8,Downhill
+1997-01-25,Atle Skaardal,NO,386,Downhill
+1997-01-25,Patrick Ortlieb,AT,157,Downhill
+1997-01-25,A.J. Kitt,US,59,Downhill
+1997-01-25,Heinrich Rupp,CH,13,Downhill
+1997-01-25,Jean Luc Cretier,FR,33,Downhill
+1997-01-25,Max Rauffer,DE,0,Super G
+1997-01-25,Josef Strobl,AT,339,Downhill
+1997-01-25,Janne Leskinen,FI,0,Super G
+1997-01-25,Roland Assinger,AT,93,Downhill
+1997-01-25,Rob Boyd,CA,34,Downhill
+1997-01-25,Alessandro Fattori,IT,11,Downhill
+1997-01-25,Audun Groenvold,NO,24,Downhill
+1997-01-25,Kenneth Sivertsen,NO,0,Super G
+1997-01-25,Norbert Holzknecht,AT,29,Downhill
+1997-01-25,Oswald Schranzhofer,IT,3,Downhill
+1997-01-25,Lasse Kjus,NO,53,Super G
+1997-01-25,Tommy Moe,US,37,Downhill
+1997-01-25,Kyle Rasmussen,US,65,Downhill
+1997-01-25,Alberto Senigagliesi,IT,18,Downhill
+1997-01-25,Andreas Schifferer,AT,154,Super G
+1997-01-25,Franco Cavegn,CH,222,Downhill
+1997-01-25,Stefan Krauss,DE,74,Downhill
+1997-01-25,Kristian Ghedina,IT,534,Downhill
+1997-01-25,Erik Seletto,IT,33,Downhill
+1997-01-25,Werner Perathoner,IT,185,Downhill
+1997-01-25,Graham Bell,GB,2,Downhill
+1997-01-25,Adrien Duvillard,FR,119,Downhill
+1997-01-25,Werner Franz,AT,438,Downhill
+1997-01-25,Fritz Strobl,AT,399,Downhill
+1997-01-25,Hans Knauss,AT,115,Giant Slalom
+1997-01-25,Paul Accola,CH,5,Giant Slalom
+1997-01-25,Luke Sauder,CA,68,Downhill
+1997-02-22,Lasse Kjus,NO,73,Super G
+1997-02-22,Heinrich Rupp,CH,13,Downhill
+1997-02-22,Luca Cattaneo,IT,101,Downhill
+1997-02-22,Kjetil Andre Aamodt,NO,32,Giant Slalom
+1997-02-22,Audun Groenvold,NO,24,Downhill
+1997-02-22,Patrick Ortlieb,AT,157,Downhill
+1997-02-22,Cary Mullen,CA,77,Downhill
+1997-02-22,Atle Skaardal,NO,436,Downhill
+1997-02-22,Urs Lehmann,CH,33,Downhill
+1997-02-22,Ambrosi Hoffmann,CH,8,Downhill
+1997-02-22,Vincent Blanc,FR,9,Downhill
+1997-02-22,Max Rauffer,DE,2,Super G
+1997-02-22,Stefan Krauss,DE,77,Downhill
+1997-02-22,Werner Perathoner,IT,207,Downhill
+1997-02-22,William Besse,CH,279,Downhill
+1997-02-22,Pietro Vitalini,IT,280,Downhill
+1997-02-22,Lorenzo Galli,IT,6,Downhill
+1997-02-22,Andreas Schifferer,AT,194,Super G
+1997-02-22,Tommy Moe,US,37,Downhill
+1997-02-22,Roland Assinger,AT,111,Downhill
+1997-02-22,Alessandro Fattori,IT,11,Downhill
+1997-02-22,Kenneth Sivertsen,NO,0,Super G
+1997-02-22,Paul Accola,CH,21,Giant Slalom
+1997-02-22,Norbert Holzknecht,AT,40,Downhill
+1997-02-22,Matteo Berbenni,IT,0,Downhill
+1997-02-22,Luke Sauder,CA,76,Downhill
+1997-02-22,Graham Bell,GB,2,Downhill
+1997-02-22,Rob Boyd,CA,34,Downhill
+1997-02-22,Frederic Marin Cudraz,FR,2,Super G
+1997-02-22,Kevin Wert,CA,41,Downhill
+1997-02-22,Ed Podivinsky,CA,146,Downhill
+1997-02-22,Alberto Senigagliesi,IT,18,Downhill
+1997-02-22,Erik Seletto,IT,45,Downhill
+1997-02-22,Fredrik Nyberg,SE,1,Giant Slalom
+1997-02-22,Lasse Paulsen,NO,11,Super G
+1997-02-22,Chad Fleischer,US,40,Downhill
+1997-02-22,Adrien Duvillard,FR,119,Downhill
+1997-02-22,Markus Herrmann,CH,101,Downhill
+1997-02-22,Janne Leskinen,FI,0,Super G
+1997-02-22,Hannes Trinkl,AT,146,Downhill
+1997-02-22,Bruno Kernen,CH,155,Downhill
+1997-02-22,Kristian Ghedina,IT,594,Downhill
+1997-02-22,Fritz Strobl,AT,431,Downhill
+1997-02-22,Kyle Rasmussen,US,65,Downhill
+1997-02-22,Werner Franz,AT,462,Downhill
+1997-02-22,Jean Luc Cretier,FR,42,Downhill
+1997-02-22,Oswald Schranzhofer,IT,3,Downhill
+1997-02-22,Franco Cavegn,CH,267,Downhill
+1997-02-22,Peter Runggaldier,IT,84,Super G
+1997-02-22,Xavier Gigandet,CH,10,Downhill
+1997-02-22,Brian Stemmle,CA,16,Downhill
+1997-02-22,Hans Knauss,AT,123,Giant Slalom
+1997-02-22,Guenther Mader,AT,85,Giant Slalom
+1997-02-22,Josef Strobl,AT,375,Downhill
+1997-02-22,Luc Alphand,FR,705,Downhill
+1997-02-22,A.J. Kitt,US,59,Downhill
+1997-03-02,Cary Mullen,CA,77,Downhill
+1997-03-02,Kristian Ghedina,IT,620,Downhill
+1997-03-02,Lorenzo Galli,IT,6,Downhill
+1997-03-02,Kyle Rasmussen,US,65,Downhill
+1997-03-02,Lasse Kjus,NO,173,Super G
+1997-03-02,Werner Franz,AT,467,Downhill
+1997-03-02,Janne Leskinen,FI,4,Super G
+1997-03-02,Luke Sauder,CA,94,Downhill
+1997-03-02,Oswald Schranzhofer,IT,3,Downhill
+1997-03-02,Alessandro Fattori,IT,11,Downhill
+1997-03-02,Urs Lehmann,CH,33,Downhill
+1997-03-02,Atle Skaardal,NO,436,Downhill
+1997-03-02,Luca Cattaneo,IT,119,Downhill
+1997-03-02,Kenneth Sivertsen,NO,1,Super G
+1997-03-02,Graham Bell,GB,2,Downhill
+1997-03-02,Markus Herrmann,CH,101,Downhill
+1997-03-02,Paul Accola,CH,35,Giant Slalom
+1997-03-02,Kevin Wert,CA,41,Downhill
+1997-03-02,Frederic Marin Cudraz,FR,2,Super G
+1997-03-02,Bruno Kernen,CH,177,Downhill
+1997-03-02,Fredrik Nyberg,SE,1,Giant Slalom
+1997-03-02,Chad Fleischer,US,46,Downhill
+1997-03-02,Hannes Trinkl,AT,154,Downhill
+1997-03-02,Stefan Krauss,DE,89,Downhill
+1997-03-02,Lasse Paulsen,NO,11,Super G
+1997-03-02,Rob Boyd,CA,34,Downhill
+1997-03-02,Adrien Duvillard,FR,119,Downhill
+1997-03-02,Fritz Strobl,AT,471,Downhill
+1997-03-02,Alberto Senigagliesi,IT,18,Downhill
+1997-03-02,Hans Knauss,AT,152,Giant Slalom
+1997-03-02,A.J. Kitt,US,59,Downhill
+1997-03-02,Audun Groenvold,NO,34,Downhill
+1997-03-02,Andreas Schifferer,AT,194,Super G
+1997-03-02,Franco Cavegn,CH,299,Downhill
+1997-03-02,Erik Seletto,IT,48,Downhill
+1997-03-02,Norbert Holzknecht,AT,43,Downhill
+1997-03-02,Brian Stemmle,CA,27,Downhill
+1997-03-02,Josef Strobl,AT,425,Downhill
+1997-03-02,Vincent Blanc,FR,9,Downhill
+1997-03-02,William Besse,CH,288,Downhill
+1997-03-02,Matteo Berbenni,IT,0,Downhill
+1997-03-02,Pietro Vitalini,IT,360,Downhill
+1997-03-02,Werner Perathoner,IT,222,Downhill
+1997-03-02,Luc Alphand,FR,750,Downhill
+1997-03-02,Tommy Moe,US,37,Downhill
+1997-03-02,Ambrosi Hoffmann,CH,8,Downhill
+1997-03-02,Ed Podivinsky,CA,206,Downhill
+1997-03-02,Roland Assinger,AT,118,Downhill
+1997-03-02,Peter Runggaldier,IT,97,Super G
+1997-03-02,Patrick Ortlieb,AT,181,Downhill
+1997-03-02,Heinrich Rupp,CH,13,Downhill
+1997-03-02,Kjetil Andre Aamodt,NO,68,Giant Slalom
+1997-03-02,Max Rauffer,DE,2,Super G
+1997-03-02,Xavier Gigandet,CH,10,Downhill
+1997-03-02,Guenther Mader,AT,85,Giant Slalom
+1997-03-02,Jean Luc Cretier,FR,62,Downhill
+1997-03-12,Graham Bell,GB,2,Downhill
+1997-03-12,Markus Herrmann,CH,111,Downhill
+1997-03-12,Frederic Marin Cudraz,FR,2,Super G
+1997-03-12,Fritz Strobl,AT,571,Downhill
+1997-03-12,Fredrik Nyberg,SE,1,Giant Slalom
+1997-03-12,Kristian Ghedina,IT,700,Downhill
+1997-03-12,Kyle Rasmussen,US,65,Downhill
+1997-03-12,Peter Runggaldier,IT,108,Super G
+1997-03-12,Luc Alphand,FR,779,Downhill
+1997-03-12,A.J. Kitt,US,59,Downhill
+1997-03-12,Max Rauffer,DE,2,Super G
+1997-03-12,Werner Perathoner,IT,238,Downhill
+1997-03-12,Oswald Schranzhofer,IT,3,Downhill
+1997-03-12,Brian Stemmle,CA,27,Downhill
+1997-03-12,Ed Podivinsky,CA,220,Downhill
+1997-03-12,Lasse Paulsen,NO,11,Super G
+1997-03-12,Kevin Wert,CA,41,Downhill
+1997-03-12,Hannes Trinkl,AT,214,Downhill
+1997-03-12,Chad Fleischer,US,46,Downhill
+1997-03-12,Bruno Kernen,CH,209,Downhill
+1997-03-12,Erik Seletto,IT,48,Downhill
+1997-03-12,Jean Luc Cretier,FR,62,Downhill
+1997-03-12,Rob Boyd,CA,34,Downhill
+1997-03-12,Adrien Duvillard,FR,119,Downhill
+1997-03-12,Hans Knauss,AT,170,Giant Slalom
+1997-03-12,Norbert Holzknecht,AT,43,Downhill
+1997-03-12,Paul Accola,CH,35,Giant Slalom
+1997-03-12,Audun Groenvold,NO,34,Downhill
+1997-03-12,Andreas Schifferer,AT,234,Super G
+1997-03-12,Franco Cavegn,CH,321,Downhill
+1997-03-12,Tommy Moe,US,37,Downhill
+1997-03-12,Alberto Senigagliesi,IT,18,Downhill
+1997-03-12,Josef Strobl,AT,470,Downhill
+1997-03-12,Xavier Gigandet,CH,10,Downhill
+1997-03-12,Guenther Mader,AT,85,Giant Slalom
+1997-03-12,Lasse Kjus,NO,173,Super G
+1997-03-12,Janne Leskinen,FI,4,Super G
+1997-03-12,Werner Franz,AT,517,Downhill
+1997-03-12,Lorenzo Galli,IT,6,Downhill
+1997-03-12,Urs Lehmann,CH,33,Downhill
+1997-03-12,Atle Skaardal,NO,452,Downhill
+1997-03-12,Alessandro Fattori,IT,11,Downhill
+1997-03-12,Cary Mullen,CA,77,Downhill
+1997-03-12,Luca Cattaneo,IT,155,Downhill
+1997-03-12,Vincent Blanc,FR,9,Downhill
+1997-03-12,Kenneth Sivertsen,NO,1,Super G
+1997-03-12,William Besse,CH,296,Downhill
+1997-03-12,Roland Assinger,AT,131,Downhill
+1997-03-12,Pietro Vitalini,IT,380,Downhill
+1997-03-12,Matteo Berbenni,IT,7,Downhill
+1997-03-12,Stefan Krauss,DE,98,Downhill
+1997-03-12,Patrick Ortlieb,AT,207,Downhill
+1997-03-12,Heinrich Rupp,CH,13,Downhill
+1997-03-12,Kjetil Andre Aamodt,NO,92,Giant Slalom
+1997-03-12,Luke Sauder,CA,107,Downhill
+1997-03-12,Ambrosi Hoffmann,CH,8,Downhill

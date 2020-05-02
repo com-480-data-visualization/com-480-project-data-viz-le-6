@@ -1,17 +1,17 @@
-date,name,ath_country,value
-2011-01-02,Ivica Kostelic,HR,100
-2011-01-02,Julien Lizeroux,FR,80
-2011-01-02,Bode Miller,US,60
-2011-01-02,Felix Neureuther,DE,50
-2011-01-02,Aksel-Lund Svindal,NO,45
-2011-01-02,Romed Baumann,AT,45
-2011-01-02,Reinfried Herbst,AT,45
-2011-01-02,Benjamin Raich,AT,45
-2011-01-02,Kjetil Jansrud,NO,29
-2011-01-02,Carlo Janka,CH,29
-2011-01-02,Ted Ligety,US,29
-2011-01-02,Marcel Hirscher,AT,29
-2011-01-02,Didier Cuche,CH,29
-2011-01-02,Peter Fill,IT,29
-2011-01-02,Werner Heel,IT,29
-2011-01-02,Michael Walchhofer,AT,29
+date,name,ath_country,value,specialty
+2011-01-02,Ivica Kostelic,HR,100,Slalom
+2011-01-02,Julien Lizeroux,FR,80,Parallel
+2011-01-02,Bode Miller,US,60,Downhill
+2011-01-02,Felix Neureuther,DE,50,Slalom
+2011-01-02,Aksel-Lund Svindal,NO,45,Giant Slalom
+2011-01-02,Romed Baumann,AT,45,Downhill
+2011-01-02,Reinfried Herbst,AT,45,Slalom
+2011-01-02,Benjamin Raich,AT,45,Super G
+2011-01-02,Kjetil Jansrud,NO,29,Giant Slalom
+2011-01-02,Carlo Janka,CH,29,Giant Slalom
+2011-01-02,Ted Ligety,US,29,Giant Slalom
+2011-01-02,Marcel Hirscher,AT,29,Slalom
+2011-01-02,Didier Cuche,CH,29,Downhill
+2011-01-02,Peter Fill,IT,29,Downhill
+2011-01-02,Werner Heel,IT,29,Super G
+2011-01-02,Michael Walchhofer,AT,29,Downhill

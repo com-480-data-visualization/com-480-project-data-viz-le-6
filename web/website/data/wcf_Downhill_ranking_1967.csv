@@ -1,77 +1,77 @@
-date,name,ath_country,value
-1967-01-13,Nancy Greene,CA,25
-1967-01-13,Burgi Faerbinger,DE,1
-1967-01-13,Madeleine Willoud,CH,4
-1967-01-13,Erika Schinegger,AT,0
-1967-01-13,Annie Famose,FR,0
-1967-01-13,Olga Pall,AT,0
-1967-01-13,Marielle Goitschel,FR,6
-1967-01-13,Anneroesli Zryd,CH,0
-1967-01-13,Margret Hafen,DE,0
-1967-01-13,Marie France Jeangeorges,FR,0
-1967-01-13,Susy Chaffee,US,8
-1967-01-13,Lotte Nogler,IT,0
-1967-01-13,Heidi Zimmermann,AT,2
-1967-01-13,Jacqueline Rouvier,FR,0
-1967-01-13,Giustina Demetz,IT,11
-1967-01-13,Florence Steurer,FR,15
-1967-01-13,Isabelle Mir,FR,20
-1967-01-13,Inge Jochum,AT,0
-1967-01-13,Traudl Hecher,AT,3
-1967-01-17,Madeleine Willoud,CH,4
-1967-01-17,Heidi Zimmermann,AT,2
-1967-01-17,Burgi Faerbinger,DE,1
-1967-01-17,Anneroesli Zryd,CH,0
-1967-01-17,Margret Hafen,DE,0
-1967-01-17,Marie France Jeangeorges,FR,0
-1967-01-17,Lotte Nogler,IT,0
-1967-01-17,Jacqueline Rouvier,FR,0
-1967-01-17,Inge Jochum,AT,0
-1967-01-17,Isabelle Mir,FR,22
-1967-01-17,Giustina Demetz,IT,12
-1967-01-17,Nancy Greene,CA,36
-1967-01-17,Traudl Hecher,AT,11
-1967-01-17,Annie Famose,FR,15
-1967-01-17,Olga Pall,AT,6
-1967-01-17,Marielle Goitschel,FR,31
-1967-01-17,Florence Steurer,FR,19
-1967-01-17,Susy Chaffee,US,11
-1967-01-17,Erika Schinegger,AT,20
-1967-03-03,Florence Steurer,FR,34
-1967-03-03,Marie France Jeangeorges,FR,3
-1967-03-03,Olga Pall,AT,6
-1967-03-03,Giustina Demetz,IT,37
-1967-03-03,Nancy Greene,CA,36
-1967-03-03,Isabelle Mir,FR,22
-1967-03-03,Susy Chaffee,US,11
-1967-03-03,Madeleine Willoud,CH,4
-1967-03-03,Erika Schinegger,AT,20
-1967-03-03,Marielle Goitschel,FR,56
-1967-03-03,Inge Jochum,AT,0
-1967-03-03,Traudl Hecher,AT,11
-1967-03-03,Annie Famose,FR,23
-1967-03-03,Margret Hafen,DE,6
-1967-03-03,Jacqueline Rouvier,FR,1
-1967-03-03,Lotte Nogler,IT,2
-1967-03-03,Burgi Faerbinger,DE,5
-1967-03-03,Anneroesli Zryd,CH,11
-1967-03-03,Heidi Zimmermann,AT,2
-1967-03-10,Nancy Greene,CA,36
-1967-03-10,Marielle Goitschel,FR,56
-1967-03-10,Madeleine Willoud,CH,4
-1967-03-10,Burgi Faerbinger,DE,5
-1967-03-10,Olga Pall,AT,6
-1967-03-10,Margret Hafen,DE,6
-1967-03-10,Marie France Jeangeorges,FR,3
-1967-03-10,Erika Schinegger,AT,40
-1967-03-10,Annie Famose,FR,38
-1967-03-10,Anneroesli Zryd,CH,22
-1967-03-10,Inge Jochum,AT,8
-1967-03-10,Giustina Demetz,IT,43
-1967-03-10,Susy Chaffee,US,12
-1967-03-10,Lotte Nogler,IT,2
-1967-03-10,Traudl Hecher,AT,13
-1967-03-10,Florence Steurer,FR,38
-1967-03-10,Heidi Zimmermann,AT,5
-1967-03-10,Isabelle Mir,FR,47
-1967-03-10,Jacqueline Rouvier,FR,1
+date,name,ath_country,value,specialty
+1967-01-13,Nancy Greene,CA,25,Giant Slalom
+1967-01-13,Jacqueline Rouvier,FR,0,Downhill
+1967-01-13,Lotte Nogler,IT,0,Downhill
+1967-01-13,Heidi Zimmermann,AT,2,Giant Slalom
+1967-01-13,Marie France Jeangeorges,FR,0,Downhill
+1967-01-13,Burgi Faerbinger,DE,1,Slalom
+1967-01-13,Madeleine Willoud,CH,4,Giant Slalom
+1967-01-13,Margret Hafen,DE,0,Downhill
+1967-01-13,Olga Pall,AT,0,Downhill
+1967-01-13,Inge Jochum,AT,0,Giant Slalom
+1967-01-13,Susy Chaffee,US,8,Downhill
+1967-01-13,Anneroesli Zryd,CH,0,Downhill
+1967-01-13,Annie Famose,FR,0,Slalom
+1967-01-13,Florence Steurer,FR,15,Giant Slalom
+1967-01-13,Erika Schinegger,AT,0,Giant Slalom
+1967-01-13,Traudl Hecher,AT,3,Slalom
+1967-01-13,Marielle Goitschel,FR,6,Slalom
+1967-01-13,Isabelle Mir,FR,20,Slalom
+1967-01-13,Giustina Demetz,IT,11,Downhill
+1967-01-17,Erika Schinegger,AT,20,Giant Slalom
+1967-01-17,Olga Pall,AT,6,Downhill
+1967-01-17,Inge Jochum,AT,0,Giant Slalom
+1967-01-17,Madeleine Willoud,CH,4,Giant Slalom
+1967-01-17,Jacqueline Rouvier,FR,0,Downhill
+1967-01-17,Traudl Hecher,AT,11,Slalom
+1967-01-17,Burgi Faerbinger,DE,1,Slalom
+1967-01-17,Susy Chaffee,US,11,Downhill
+1967-01-17,Margret Hafen,DE,0,Downhill
+1967-01-17,Giustina Demetz,IT,12,Downhill
+1967-01-17,Anneroesli Zryd,CH,0,Downhill
+1967-01-17,Marie France Jeangeorges,FR,0,Downhill
+1967-01-17,Heidi Zimmermann,AT,2,Giant Slalom
+1967-01-17,Nancy Greene,CA,36,Giant Slalom
+1967-01-17,Isabelle Mir,FR,22,Slalom
+1967-01-17,Lotte Nogler,IT,0,Downhill
+1967-01-17,Annie Famose,FR,15,Slalom
+1967-01-17,Florence Steurer,FR,19,Giant Slalom
+1967-01-17,Marielle Goitschel,FR,31,Slalom
+1967-03-03,Jacqueline Rouvier,FR,1,Downhill
+1967-03-03,Burgi Faerbinger,DE,5,Slalom
+1967-03-03,Nancy Greene,CA,36,Giant Slalom
+1967-03-03,Marielle Goitschel,FR,56,Slalom
+1967-03-03,Lotte Nogler,IT,2,Downhill
+1967-03-03,Heidi Zimmermann,AT,2,Giant Slalom
+1967-03-03,Marie France Jeangeorges,FR,3,Downhill
+1967-03-03,Madeleine Willoud,CH,4,Giant Slalom
+1967-03-03,Margret Hafen,DE,6,Downhill
+1967-03-03,Giustina Demetz,IT,37,Downhill
+1967-03-03,Olga Pall,AT,6,Downhill
+1967-03-03,Isabelle Mir,FR,22,Slalom
+1967-03-03,Erika Schinegger,AT,20,Giant Slalom
+1967-03-03,Inge Jochum,AT,0,Giant Slalom
+1967-03-03,Traudl Hecher,AT,11,Slalom
+1967-03-03,Florence Steurer,FR,34,Giant Slalom
+1967-03-03,Susy Chaffee,US,11,Downhill
+1967-03-03,Annie Famose,FR,23,Slalom
+1967-03-03,Anneroesli Zryd,CH,11,Downhill
+1967-03-10,Erika Schinegger,AT,40,Giant Slalom
+1967-03-10,Lotte Nogler,IT,2,Downhill
+1967-03-10,Florence Steurer,FR,38,Giant Slalom
+1967-03-10,Annie Famose,FR,38,Slalom
+1967-03-10,Isabelle Mir,FR,47,Slalom
+1967-03-10,Nancy Greene,CA,36,Giant Slalom
+1967-03-10,Heidi Zimmermann,AT,5,Giant Slalom
+1967-03-10,Anneroesli Zryd,CH,22,Downhill
+1967-03-10,Olga Pall,AT,6,Downhill
+1967-03-10,Giustina Demetz,IT,43,Downhill
+1967-03-10,Burgi Faerbinger,DE,5,Slalom
+1967-03-10,Susy Chaffee,US,12,Downhill
+1967-03-10,Traudl Hecher,AT,13,Slalom
+1967-03-10,Madeleine Willoud,CH,4,Giant Slalom
+1967-03-10,Inge Jochum,AT,8,Giant Slalom
+1967-03-10,Margret Hafen,DE,6,Downhill
+1967-03-10,Marielle Goitschel,FR,56,Slalom
+1967-03-10,Marie France Jeangeorges,FR,3,Downhill
+1967-03-10,Jacqueline Rouvier,FR,1,Downhill

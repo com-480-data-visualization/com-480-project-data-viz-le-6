@@ -1,571 +1,571 @@
-date,name,ath_country,value
-2016-12-03,Kjetil Jansrud,NO,100
-2016-12-03,Stian Saugestad,NO,0
-2016-12-03,Matthias Mayer,AT,14
-2016-12-03,Patrick Kueng,CH,36
-2016-12-03,Dominik Paris,IT,36
-2016-12-03,Gilles Roulin,CH,0
-2016-12-03,Alexander Sannes Thorsen,NO,0
-2016-12-03,Felix Monsen,SE,0
-2016-12-03,Florian Schieder,IT,0
-2016-12-03,Gian Luca Barandun,CH,0
-2016-12-03,Alexander Koell,SE,0
-2016-12-03,Erik Guay,CA,40
-2016-12-03,Vincent Kriechmayr,AT,13
-2016-12-03,Broderick Thompson,CA,0
-2016-12-03,Benjamin Thomsen,CA,0
-2016-12-03,Dominik Schwaiger,DE,0
-2016-12-03,Niklas Koeck,AT,0
-2016-12-03,Brennan Rubie,US,0
-2016-12-03,Guglielmo Bosca,IT,0
-2016-12-03,Manuel Osborne-Paradis,CA,6
-2016-12-03,Guillermo Fayed,FR,18
-2016-12-03,Beat Feuz,CH,20
-2016-12-03,Johan Clarey,FR,22
-2016-12-03,Steven Nyman,US,16
-2016-12-03,Sam Morse,US,0
-2016-12-03,Aleksander Aamodt Kilde,NO,29
-2016-12-03,Marcus Vorre,DK,0
-2016-12-03,Valentin Giraud Moine,FR,26
-2016-12-03,Christoph Krenn,AT,0
-2016-12-03,Christof Innerhofer,IT,15
-2016-12-03,Dustin Cook,CA,0
-2016-12-03,Max Ullrich,HR,0
-2016-12-03,Matteo De Vettori,IT,0
-2016-12-03,Carlo Janka,CH,26
-2016-12-03,Pawel Babicki,PL,0
-2016-12-03,Marc Oliveras,AD,0
-2016-12-03,Josef Ferstl,DE,12
-2016-12-03,Adrian Smiseth Sejersted,NO,3
-2016-12-03,Peter Fill,IT,80
-2016-12-03,Hannes Reichelt,AT,7
-2016-12-03,Emanuele Buzzi,IT,9
-2016-12-03,Travis Ganong,US,9
-2016-12-03,Christoffer Faarup,DK,0
-2016-12-03,Klaus Kroell,AT,2
-2016-12-03,Ralph Weber,CH,1
-2016-12-03,Aksel-Lund Svindal,NO,60
-2016-12-03,Max Franz,AT,10
-2016-12-03,Jan Hudec,CZ,0
-2016-12-03,Mauro Caviezel,CH,0
-2016-12-03,Blaise Giezendanner,FR,4
-2016-12-03,Romed Baumann,AT,11
-2016-12-03,Adrien Theaux,FR,45
-2016-12-03,Tyler Werry,CA,0
-2016-12-03,Andreas Romar,FI,0
-2016-12-03,Bostjan Kline,SK,50
-2016-12-03,Joachim Puchner,AT,0
-2016-12-03,Nils Mani,CH,0
-2016-12-03,Urs Kryenbuehl,CH,0
-2016-12-03,Rok Perko,SK,0
-2016-12-03,Othmar Striedinger,AT,5
-2016-12-03,Thomas Biesemeyer,US,0
-2016-12-17,Patrick Schweiger,AT,0
-2016-12-17,Nicolas Raffort,FR,7
-2016-12-17,Thomas Dressen,DE,5
-2016-12-17,Fernando Schmed,CH,0
-2016-12-17,Adam Zampa,SK,0
-2016-12-17,Daniel Danklmaier,AT,0
-2016-12-17,Beat Feuz,CH,38
-2016-12-17,Patrick Kueng,CH,54
-2016-12-17,Tobias Stechert,DE,0
-2016-12-17,Klaus Brandner,DE,0
-2016-12-17,Mauro Caviezel,CH,3
-2016-12-17,Martin Cater,SK,0
-2016-12-17,Adrian Smiseth Sejersted,NO,3
-2016-12-17,Vincent Kriechmayr,AT,17
-2016-12-17,Peter Fill,IT,89
-2016-12-17,Klaus Kroell,AT,17
-2016-12-17,Jared Goldberg,US,2
-2016-12-17,Johan Clarey,FR,32
-2016-12-17,Mattia Casse,IT,1
-2016-12-17,Matthias Mayer,AT,28
-2016-12-17,Hannes Reichelt,AT,21
-2016-12-17,Carlo Janka,CH,37
-2016-12-17,Manuel Osborne-Paradis,CA,20
-2016-12-17,Cristian Javier Simari Birkner,AR,0
-2016-12-17,Marc Gisin,CH,0
-2016-12-17,Ioan Valeriu Achiriloaie,RO,0
-2016-12-17,Broderick Thompson,CA,0
-2016-12-17,Niklas Koeck,AT,0
-2016-12-17,Marcus Vorre,DK,0
-2016-12-17,Sam Morse,US,0
-2016-12-17,Nils Mani,CH,29
-2016-12-17,Travis Ganong,US,45
-2016-12-17,Aleksander Aamodt Kilde,NO,69
-2016-12-17,Jan Hudec,CZ,0
-2016-12-17,Christoph Krenn,AT,0
-2016-12-17,Erik Guay,CA,85
-2016-12-17,Steven Nyman,US,76
-2016-12-17,Aksel-Lund Svindal,NO,140
-2016-12-17,Romed Baumann,AT,35
-2016-12-17,Brice Roger,FR,8
-2016-12-17,Bryce Bennett,US,32
-2016-12-17,Max Franz,AT,110
-2016-12-17,Adrien Theaux,FR,95
-2016-12-17,Dustin Cook,CA,0
-2016-12-17,Dominik Paris,IT,42
-2016-12-17,Guillermo Fayed,FR,44
-2016-12-17,Gilles Roulin,CH,0
-2016-12-17,Kjetil Jansrud,NO,122
-2016-12-17,Marc Oliveras,AD,0
-2016-12-17,Gian Luca Barandun,CH,0
-2016-12-17,Dominik Schwaiger,DE,0
-2016-12-17,Alexander Koell,SE,0
-2016-12-17,Max Ullrich,HR,0
-2016-12-17,Stian Saugestad,NO,0
-2016-12-17,Benjamin Thomsen,CA,0
-2016-12-17,Felix Monsen,SE,0
-2016-12-17,Florian Schieder,IT,0
-2016-12-17,Brennan Rubie,US,0
-2016-12-17,Guglielmo Bosca,IT,0
-2016-12-17,Matteo De Vettori,IT,0
-2016-12-17,Christof Innerhofer,IT,35
-2016-12-17,Alexander Sannes Thorsen,NO,0
-2017-01-21,Brice Roger,FR,9
-2017-01-21,Brennan Rubie,US,0
-2017-01-21,Max Ullrich,HR,0
-2017-01-21,Guglielmo Bosca,IT,0
-2017-01-21,Matteo De Vettori,IT,0
-2017-01-21,Travis Ganong,US,47
-2017-01-21,Sam Morse,US,0
-2017-01-21,Ralph Weber,CH,4
-2017-01-21,Christoph Krenn,AT,0
-2017-01-21,Marcus Vorre,DK,0
-2017-01-21,Felix Monsen,SE,0
-2017-01-21,Bostjan Kline,SK,54
-2017-01-21,Vincent Kriechmayr,AT,41
-2017-01-21,Romed Baumann,AT,40
-2017-01-21,Thomas Biesemeyer,US,8
-2017-01-21,Matthias Mayer,AT,60
-2017-01-21,Daniel Danklmaier,AT,6
-2017-01-21,Dustin Cook,CA,0
-2017-01-21,Stian Saugestad,NO,0
-2017-01-21,Dominik Schwaiger,DE,0
-2017-01-21,Alexander Sannes Thorsen,NO,0
-2017-01-21,Aksel-Lund Svindal,NO,140
-2017-01-21,Beat Feuz,CH,38
-2017-01-21,Max Franz,AT,110
-2017-01-21,Marc Gisin,CH,0
-2017-01-21,Thomas Dressen,DE,5
-2017-01-21,Christian Walder,AT,0
-2017-01-21,Patrick Schweiger,AT,0
-2017-01-21,Tobias Stechert,DE,0
-2017-01-21,Werner Heel,IT,0
-2017-01-21,Klaus Brandner,DE,0
-2017-01-21,Andrej Sporn,SK,0
-2017-01-21,Fernando Schmed,CH,0
-2017-01-21,Adam Zampa,SK,0
-2017-01-21,Cristian Javier Simari Birkner,AR,0
-2017-01-21,Mauro Caviezel,CH,3
-2017-01-21,Nils Mani,CH,29
-2017-01-21,Urs Kryenbuehl,CH,0
-2017-01-21,Tyler Werry,CA,0
-2017-01-21,Christoffer Faarup,DK,0
-2017-01-21,Pawel Babicki,PL,0
-2017-01-21,Niklas Koeck,AT,0
-2017-01-21,Marc Oliveras,AD,0
-2017-01-21,Florian Schieder,IT,0
-2017-01-21,Gilles Roulin,CH,0
-2017-01-21,Jan Hudec,CZ,0
-2017-01-21,Henrik Von Appen,CL,0
-2017-01-21,Maxence Muzaton,FR,18
-2017-01-21,Adrien Theaux,FR,131
-2017-01-21,Andrew Weibrecht,US,12
-2017-01-21,Erik Guay,CA,125
-2017-01-21,Manuel Osborne-Paradis,CA,32
-2017-01-21,Mattia Casse,IT,11
-2017-01-21,Carlo Janka,CH,82
-2017-01-21,Hannes Reichelt,AT,50
-2017-01-21,Peter Fill,IT,139
-2017-01-21,Klaus Kroell,AT,31
-2017-01-21,Christof Innerhofer,IT,49
-2017-01-21,Blaise Giezendanner,FR,13
-2017-01-21,Johan Clarey,FR,92
-2017-01-21,Steven Nyman,US,102
-2017-01-21,Andreas Sander,DE,20
-2017-01-21,Guillermo Fayed,FR,59
-2017-01-21,Dominik Paris,IT,142
-2017-01-21,Valentin Giraud Moine,FR,106
-2017-01-21,Adrian Smiseth Sejersted,NO,19
-2017-01-21,David Poisson,FR,22
-2017-01-21,Aleksander Aamodt Kilde,NO,76
-2017-01-27,Matteo De Vettori,IT,0
-2017-01-27,Sam Morse,US,0
-2017-01-27,Romed Baumann,AT,76
-2017-01-27,Alexander Koell,SE,0
-2017-01-27,Gian Luca Barandun,CH,0
-2017-01-27,Marc Oliveras,AD,0
-2017-01-27,Marcus Vorre,DK,0
-2017-01-27,Christoph Krenn,AT,0
-2017-01-27,Alexander Sannes Thorsen,NO,0
-2017-01-27,Max Ullrich,HR,0
-2017-01-27,Gilles Roulin,CH,0
-2017-01-27,Stian Saugestad,NO,0
-2017-01-27,Jared Goldberg,US,24
-2017-01-27,Felix Monsen,SE,0
-2017-01-27,Dustin Cook,CA,0
-2017-01-27,Broderick Thompson,CA,0
-2017-01-27,Dominik Paris,IT,168
-2017-01-27,Brennan Rubie,US,0
-2017-01-27,Guglielmo Bosca,IT,0
-2017-01-27,Carlo Janka,CH,111
-2017-01-27,Niklas Koeck,AT,0
-2017-01-27,Urs Kryenbuehl,CH,6
-2017-01-27,Christoffer Faarup,DK,0
-2017-01-27,Christof Innerhofer,IT,49
-2017-01-27,Steven Nyman,US,102
-2017-01-27,Guillermo Fayed,FR,59
-2017-01-27,Valentin Giraud Moine,FR,106
-2017-01-27,Aleksander Aamodt Kilde,NO,76
-2017-01-27,Erik Guay,CA,125
-2017-01-27,Bostjan Kline,SK,54
-2017-01-27,Aksel-Lund Svindal,NO,140
-2017-01-27,Kjetil Jansrud,NO,202
-2017-01-27,Marc Gisin,CH,0
-2017-01-27,David Poisson,FR,22
-2017-01-27,Daniel Danklmaier,AT,6
-2017-01-27,Patrick Schweiger,AT,0
-2017-01-27,Peter Fill,IT,199
-2017-01-27,Tobias Stechert,DE,0
-2017-01-27,Werner Heel,IT,0
-2017-01-27,Klaus Brandner,DE,0
-2017-01-27,Tyler Werry,CA,0
-2017-01-27,Manuel Osborne-Paradis,CA,72
-2017-01-27,Vincent Kriechmayr,AT,61
-2017-01-27,Joachim Puchner,AT,0
-2017-01-27,Ioan Valeriu Achiriloaie,RO,0
-2017-01-27,Cristian Javier Simari Birkner,AR,0
-2017-01-27,Pawel Babicki,PL,0
-2017-01-27,Adam Zampa,SK,0
-2017-01-27,Henrik Von Appen,CL,0
-2017-01-27,Paolo Pangrazzi,IT,0
-2017-01-27,Henri Battilani,IT,0
-2017-01-27,Fernando Schmed,CH,0
-2017-01-27,Hannes Reichelt,AT,100
-2017-01-27,Andrej Sporn,SK,0
-2017-01-27,Beat Feuz,CH,83
-2017-01-27,Andreas Romar,FI,0
-2017-01-27,Martin Cater,SK,0
-2017-01-27,Mauro Caviezel,CH,17
-2017-01-27,Nils Mani,CH,32
-2017-01-27,Niels Hintermann,CH,12
-2017-01-27,Klemen Kosi,SK,1
-2017-01-27,Bryce Bennett,US,42
-2017-01-27,Klaus Kroell,AT,33
-2017-01-27,Christian Walder,AT,4
-2017-01-27,Johan Clarey,FR,101
-2017-01-27,Maxence Muzaton,FR,33
-2017-01-27,Blaise Giezendanner,FR,26
-2017-01-27,Patrick Kueng,CH,78
-2017-01-27,Josef Ferstl,DE,23
-2017-01-27,Max Franz,AT,118
-2017-01-27,Thomas Biesemeyer,US,24
-2017-01-27,Adrian Smiseth Sejersted,NO,19
-2017-01-27,Andrew Weibrecht,US,17
-2017-01-27,Travis Ganong,US,147
-2017-01-27,Adrien Theaux,FR,138
-2017-01-27,Matthias Mayer,AT,92
-2017-01-27,Andreas Sander,DE,38
-2017-01-28,Marc Oliveras,AD,0
-2017-01-28,Florian Schieder,IT,0
-2017-01-28,Alexander Sannes Thorsen,NO,0
-2017-01-28,Gilles Roulin,CH,0
-2017-01-28,Gian Luca Barandun,CH,0
-2017-01-28,Stian Saugestad,NO,0
-2017-01-28,Steven Nyman,US,102
-2017-01-28,Brennan Rubie,US,0
-2017-01-28,Guglielmo Bosca,IT,0
-2017-01-28,Matteo De Vettori,IT,0
-2017-01-28,Max Ullrich,HR,0
-2017-01-28,Dustin Cook,CA,0
-2017-01-28,Christoph Krenn,AT,0
-2017-01-28,Marcus Vorre,DK,0
-2017-01-28,Sam Morse,US,0
-2017-01-28,Hannes Reichelt,AT,200
-2017-01-28,Carlo Janka,CH,119
-2017-01-28,Adrien Theaux,FR,170
-2017-01-28,Felix Monsen,SE,0
-2017-01-28,Alexander Koell,SE,0
-2017-01-28,Tyler Werry,CA,0
-2017-01-28,Pawel Babicki,PL,0
-2017-01-28,Guillermo Fayed,FR,59
-2017-01-28,Valentin Giraud Moine,FR,106
-2017-01-28,Erik Guay,CA,125
-2017-01-28,Aksel-Lund Svindal,NO,140
-2017-01-28,Christof Innerhofer,IT,49
-2017-01-28,Adrian Smiseth Sejersted,NO,19
-2017-01-28,Martin Cater,SK,0
-2017-01-28,Marc Gisin,CH,0
-2017-01-28,David Poisson,FR,22
-2017-01-28,Daniel Danklmaier,AT,6
-2017-01-28,Niels Hintermann,CH,19
-2017-01-28,Tobias Stechert,DE,0
-2017-01-28,Frederic Berthold,AT,0
-2017-01-28,Niklas Koeck,AT,0
-2017-01-28,Werner Heel,IT,0
-2017-01-28,Andrej Sporn,SK,0
-2017-01-28,Fernando Schmed,CH,0
-2017-01-28,Jeffrey Frisch,CA,0
-2017-01-28,Henri Battilani,IT,0
-2017-01-28,Paolo Pangrazzi,IT,0
-2017-01-28,Henrik Von Appen,CL,0
-2017-01-28,Adam Zampa,SK,0
-2017-01-28,Cristian Javier Simari Birkner,AR,0
-2017-01-28,Ioan Valeriu Achiriloaie,RO,0
-2017-01-28,Nils Mani,CH,32
-2017-01-28,Joachim Puchner,AT,0
-2017-01-28,Andreas Romar,FI,0
-2017-01-28,Christoffer Faarup,DK,0
-2017-01-28,Klaus Brandner,DE,0
-2017-01-28,Othmar Striedinger,AT,5
-2017-01-28,Patrick Schweiger,AT,0
-2017-01-28,Andreas Sander,DE,54
-2017-01-28,Travis Ganong,US,169
-2017-01-28,Urs Kryenbuehl,CH,16
-2017-01-28,Johan Clarey,FR,102
-2017-01-28,Romed Baumann,AT,102
-2017-01-28,Aleksander Aamodt Kilde,NO,102
-2017-01-28,Max Franz,AT,131
-2017-01-28,Andrew Weibrecht,US,20
-2017-01-28,Manuel Osborne-Paradis,CA,75
-2017-01-28,Brice Roger,FR,38
-2017-01-28,Matthias Mayer,AT,110
-2017-01-28,Vincent Kriechmayr,AT,97
-2017-01-28,Klaus Kroell,AT,44
-2017-01-28,Jared Goldberg,US,29
-2017-01-28,Bostjan Kline,SK,94
-2017-01-28,Patrick Kueng,CH,98
-2017-01-28,Bryce Bennett,US,51
-2017-01-28,Maxence Muzaton,FR,46
-2017-01-28,Blaise Giezendanner,FR,32
-2017-01-28,Beat Feuz,CH,143
-2017-01-28,Peter Fill,IT,279
-2017-01-28,Dominik Paris,IT,218
-2017-01-28,Thomas Biesemeyer,US,28
-2017-01-28,Christian Walder,AT,19
-2017-01-28,Mauro Caviezel,CH,32
-2017-01-28,Kjetil Jansrud,NO,247
-2017-02-24,Andrew Weibrecht,US,21
-2017-02-24,Ioan Valeriu Achiriloaie,RO,0
-2017-02-24,Joachim Puchner,AT,0
-2017-02-24,Tyler Werry,CA,0
-2017-02-24,Adam Zampa,SK,0
-2017-02-24,Cristian Javier Simari Birkner,AR,0
-2017-02-24,Klaus Kroell,AT,55
-2017-02-24,Paolo Pangrazzi,IT,0
-2017-02-24,Frederic Berthold,AT,12
-2017-02-24,Matthias Mayer,AT,190
-2017-02-24,Fernando Schmed,CH,0
-2017-02-24,Jeffrey Frisch,CA,0
-2017-02-24,Brice Roger,FR,38
-2017-02-24,Marc Gisin,CH,0
-2017-02-24,Mattia Casse,IT,11
-2017-02-24,Adrian Smiseth Sejersted,NO,19
-2017-02-24,Christof Innerhofer,IT,49
-2017-02-24,Steven Nyman,US,102
-2017-02-24,Valentin Giraud Moine,FR,106
-2017-02-24,Aksel-Lund Svindal,NO,140
-2017-02-24,Niels Hintermann,CH,23
-2017-02-24,Bryce Bennett,US,55
-2017-02-24,Tobias Stechert,DE,0
-2017-02-24,Klaus Brandner,DE,0
-2017-02-24,Andrej Sporn,SK,0
-2017-02-24,Guillermo Fayed,FR,69
-2017-02-24,Martin Cater,SK,2
-2017-02-24,Henri Battilani,IT,0
-2017-02-24,Christoffer Faarup,DK,0
-2017-02-24,Broderick Thompson,CA,0
-2017-02-24,Andreas Sander,DE,68
-2017-02-24,Travis Ganong,US,201
-2017-02-24,Kjetil Jansrud,NO,307
-2017-02-24,Werner Heel,IT,6
-2017-02-24,Erik Guay,CA,175
-2017-02-24,Manuel Osborne-Paradis,CA,120
-2017-02-24,Max Franz,AT,139
-2017-02-24,Vincent Kriechmayr,AT,105
-2017-02-24,Thomas Dressen,DE,45
-2017-02-24,Romed Baumann,AT,107
-2017-02-24,Beat Feuz,CH,179
-2017-02-24,Bostjan Kline,SK,194
-2017-02-24,Hannes Reichelt,AT,229
-2017-02-24,Pawel Babicki,PL,0
-2017-02-24,Mauro Caviezel,CH,58
-2017-02-24,Dominik Paris,IT,242
-2017-02-24,Patrick Schweiger,AT,0
-2017-02-24,Aleksander Aamodt Kilde,NO,124
-2017-02-24,Josef Ferstl,DE,37
-2017-02-24,Niklas Koeck,AT,0
-2017-02-24,Benjamin Thomsen,CA,0
-2017-02-24,Peter Fill,IT,294
-2017-02-24,Daniel Danklmaier,AT,6
-2017-02-24,Alexander Koell,SE,0
-2017-02-24,Adrien Theaux,FR,179
-2017-02-24,Gian Luca Barandun,CH,0
-2017-02-24,Carlo Janka,CH,135
-2017-02-24,Jared Goldberg,US,47
-2017-02-24,Dominik Schwaiger,DE,0
-2017-02-24,Florian Schieder,IT,0
-2017-02-24,Christian Walder,AT,39
-2017-02-24,Sam Morse,US,0
-2017-02-24,Marc Oliveras,AD,0
-2017-02-25,Henri Battilani,IT,0
-2017-02-25,Fernando Schmed,CH,0
-2017-02-25,Andrej Sporn,SK,0
-2017-02-25,Klaus Brandner,DE,0
-2017-02-25,Paolo Pangrazzi,IT,0
-2017-02-25,Jared Goldberg,US,47
-2017-02-25,Benjamin Thomsen,CA,0
-2017-02-25,Cristian Javier Simari Birkner,AR,0
-2017-02-25,Christian Walder,AT,45
-2017-02-25,Adrien Theaux,FR,188
-2017-02-25,Martin Cater,SK,10
-2017-02-25,Guillermo Fayed,FR,77
-2017-02-25,Maxence Muzaton,FR,51
-2017-02-25,Thomas Dressen,DE,69
-2017-02-25,Hannes Reichelt,AT,253
-2017-02-25,Kjetil Jansrud,NO,407
-2017-02-25,Sam Morse,US,0
-2017-02-25,Marcus Vorre,DK,0
-2017-02-25,Christoph Krenn,AT,0
-2017-02-25,Dustin Cook,CA,0
-2017-02-25,Guglielmo Bosca,IT,0
-2017-02-25,Adam Zampa,SK,0
-2017-02-25,Brennan Rubie,US,0
-2017-02-25,Florian Schieder,IT,0
-2017-02-25,Dominik Schwaiger,DE,0
-2017-02-25,Marc Oliveras,AD,0
-2017-02-25,Gian Luca Barandun,CH,0
-2017-02-25,Alexander Koell,SE,0
-2017-02-25,Broderick Thompson,CA,0
-2017-02-25,Frederic Berthold,AT,12
-2017-02-25,Niklas Koeck,AT,0
-2017-02-25,Pawel Babicki,PL,0
-2017-02-25,Christoffer Faarup,DK,0
-2017-02-25,Joachim Puchner,AT,0
-2017-02-25,Thomas Biesemeyer,US,28
-2017-02-25,Ioan Valeriu Achiriloaie,RO,0
-2017-02-25,Alexander Sannes Thorsen,NO,0
-2017-02-25,Tobias Stechert,DE,0
-2017-02-25,Marc Gisin,CH,0
-2017-02-25,Daniel Danklmaier,AT,6
-2017-02-25,Patrick Schweiger,AT,0
-2017-02-25,Vincent Kriechmayr,AT,131
-2017-02-25,Bostjan Kline,SK,230
-2017-02-25,Erik Guay,CA,215
-2017-02-25,Andreas Sander,DE,88
-2017-02-25,Aleksander Aamodt Kilde,NO,156
-2017-02-25,Josef Ferstl,DE,55
-2017-02-25,Mauro Caviezel,CH,74
-2017-02-25,Carlo Janka,CH,180
-2017-02-25,Matthias Mayer,AT,205
-2017-02-25,Travis Ganong,US,215
-2017-02-25,Manuel Osborne-Paradis,CA,170
-2017-02-25,Werner Heel,IT,19
-2017-02-25,Bryce Bennett,US,67
-2017-02-25,Dominik Paris,IT,271
-2017-02-25,Christof Innerhofer,IT,49
-2017-02-25,Mattia Casse,IT,11
-2017-02-25,Beat Feuz,CH,239
-2017-02-25,Steven Nyman,US,102
-2017-02-25,Valentin Giraud Moine,FR,106
-2017-02-25,Aksel-Lund Svindal,NO,140
-2017-02-25,Adrian Smiseth Sejersted,NO,19
-2017-02-25,Peter Fill,IT,374
-2017-02-25,Johan Clarey,FR,106
-2017-02-25,Blaise Giezendanner,FR,35
-2017-02-25,Brice Roger,FR,40
-2017-02-25,Felix Monsen,SE,2
-2017-02-25,Romed Baumann,AT,118
-2017-02-25,Stian Saugestad,NO,10
-2017-03-15,Marc Oliveras,AD,0
-2017-03-15,Dominik Schwaiger,DE,0
-2017-03-15,Gian Luca Barandun,CH,0
-2017-03-15,Alexander Koell,SE,0
-2017-03-15,Broderick Thompson,CA,0
-2017-03-15,Benjamin Thomsen,CA,0
-2017-03-15,Florian Schieder,IT,0
-2017-03-15,Niklas Koeck,AT,0
-2017-03-15,Peter Fill,IT,454
-2017-03-15,Christoffer Faarup,DK,0
-2017-03-15,Tyler Werry,CA,0
-2017-03-15,Alexander Sannes Thorsen,NO,0
-2017-03-15,Andreas Romar,FI,0
-2017-03-15,Joachim Puchner,AT,0
-2017-03-15,Rok Perko,SK,0
-2017-03-15,Thomas Biesemeyer,US,28
-2017-03-15,Urs Kryenbuehl,CH,16
-2017-03-15,Pawel Babicki,PL,0
-2017-03-15,Gilles Roulin,CH,0
-2017-03-15,Dustin Cook,CA,0
-2017-03-15,Felix Monsen,SE,2
-2017-03-15,Carlo Janka,CH,240
-2017-03-15,Manuel Osborne-Paradis,CA,220
-2017-03-15,Adrien Theaux,FR,233
-2017-03-15,Erik Guay,CA,255
-2017-03-15,Andreas Sander,DE,128
-2017-03-15,Kjetil Jansrud,NO,431
-2017-03-15,Nils Mani,CH,32
-2017-03-15,Vincent Kriechmayr,AT,160
-2017-03-15,Johan Clarey,FR,132
-2017-03-15,Aleksander Aamodt Kilde,NO,178
-2017-03-15,Dominik Paris,IT,371
-2017-03-15,Marcus Vorre,DK,0
-2017-03-15,Christoph Krenn,AT,0
-2017-03-15,Max Ullrich,HR,0
-2017-03-15,Matteo De Vettori,IT,0
-2017-03-15,Guglielmo Bosca,IT,0
-2017-03-15,Brennan Rubie,US,0
-2017-03-15,Stian Saugestad,NO,10
-2017-03-15,Jan Hudec,CZ,0
-2017-03-15,Fernando Schmed,CH,0
-2017-03-15,Ioan Valeriu Achiriloaie,RO,0
-2017-03-15,Ralph Weber,CH,4
-2017-03-15,Klaus Kroell,AT,55
-2017-03-15,Adrian Smiseth Sejersted,NO,19
-2017-03-15,Blaise Giezendanner,FR,35
-2017-03-15,Othmar Striedinger,AT,5
-2017-03-15,Emanuele Buzzi,IT,9
-2017-03-15,Josef Ferstl,DE,55
-2017-03-15,Christof Innerhofer,IT,49
-2017-03-15,Steven Nyman,US,102
-2017-03-15,Valentin Giraud Moine,FR,106
-2017-03-15,Bostjan Kline,SK,230
-2017-03-15,Aksel-Lund Svindal,NO,140
-2017-03-15,Beat Feuz,CH,259
-2017-03-15,Guillermo Fayed,FR,95
-2017-03-15,Patrick Kueng,CH,114
-2017-03-15,Thomas Dressen,DE,84
-2017-03-15,Travis Ganong,US,229
-2017-03-15,Hannes Reichelt,AT,266
-2017-03-15,Romed Baumann,AT,130
-2017-03-15,Max Franz,AT,151
-2017-03-15,Sam Morse,US,10
-2017-03-15,Martin Cater,SK,10
-2017-03-15,Niels Hintermann,CH,23
-2017-03-15,Mattia Casse,IT,11
-2017-03-15,Marc Gisin,CH,0
-2017-03-15,Cristian Javier Simari Birkner,AR,0
-2017-03-15,Adam Zampa,SK,0
-2017-03-15,Henrik Von Appen,CL,0
-2017-03-15,Jared Goldberg,US,47
-2017-03-15,Paolo Pangrazzi,IT,0
-2017-03-15,Henri Battilani,IT,0
-2017-03-15,Jeffrey Frisch,CA,0
-2017-03-15,Andrej Sporn,SK,0
-2017-03-15,Maxence Muzaton,FR,51
-2017-03-15,Klaus Brandner,DE,0
-2017-03-15,Mauro Caviezel,CH,74
-2017-03-15,Bryce Bennett,US,67
-2017-03-15,Klemen Kosi,SK,1
-2017-03-15,Frederic Berthold,AT,12
-2017-03-15,Tobias Stechert,DE,0
-2017-03-15,Patrick Schweiger,AT,0
-2017-03-15,Nicolas Raffort,FR,7
-2017-03-15,Christian Walder,AT,45
-2017-03-15,Daniel Danklmaier,AT,6
-2017-03-15,David Poisson,FR,22
-2017-03-15,Andrew Weibrecht,US,21
-2017-03-15,Brice Roger,FR,40
-2017-03-15,Werner Heel,IT,19
-2017-03-15,Matthias Mayer,AT,237
+date,name,ath_country,value,specialty
+2016-12-03,Kjetil Jansrud,NO,100,Downhill
+2016-12-03,Stian Saugestad,NO,0,Downhill
+2016-12-03,Sam Morse,US,0,Downhill
+2016-12-03,Emanuele Buzzi,IT,9,Downhill
+2016-12-03,Othmar Striedinger,AT,5,Super G
+2016-12-03,Valentin Giraud Moine,FR,26,Downhill
+2016-12-03,Ralph Weber,CH,1,Super G
+2016-12-03,Felix Monsen,SE,0,Downhill
+2016-12-03,Jan Hudec,CZ,0,Combined
+2016-12-03,Rok Perko,SK,0,Combined
+2016-12-03,Joachim Puchner,AT,0,Combined
+2016-12-03,Andreas Romar,FI,0,Combined
+2016-12-03,Tyler Werry,CA,0,Downhill
+2016-12-03,Christoffer Faarup,DK,0,Combined
+2016-12-03,Pawel Babicki,PL,0,Combined
+2016-12-03,Niklas Koeck,AT,0,Combined
+2016-12-03,Benjamin Thomsen,CA,0,Combined
+2016-12-03,Peter Fill,IT,80,Downhill
+2016-12-03,Matthias Mayer,AT,14,Downhill
+2016-12-03,Broderick Thompson,CA,0,Combined
+2016-12-03,Urs Kryenbuehl,CH,0,Downhill
+2016-12-03,Klaus Kroell,AT,2,Downhill
+2016-12-03,Erik Guay,CA,40,Downhill
+2016-12-03,Manuel Osborne-Paradis,CA,6,Downhill
+2016-12-03,Carlo Janka,CH,26,Downhill
+2016-12-03,Aleksander Aamodt Kilde,NO,29,Super G
+2016-12-03,Patrick Kueng,CH,36,Downhill
+2016-12-03,Romed Baumann,AT,11,Downhill
+2016-12-03,Beat Feuz,CH,20,Downhill
+2016-12-03,Vincent Kriechmayr,AT,13,Downhill
+2016-12-03,Nils Mani,CH,0,Combined
+2016-12-03,Guillermo Fayed,FR,18,Downhill
+2016-12-03,Johan Clarey,FR,22,Downhill
+2016-12-03,Mauro Caviezel,CH,0,Super G
+2016-12-03,Christof Innerhofer,IT,15,Super G
+2016-12-03,Josef Ferstl,DE,12,Super G
+2016-12-03,Adrian Smiseth Sejersted,NO,3,Super G
+2016-12-03,Steven Nyman,US,16,Downhill
+2016-12-03,Thomas Biesemeyer,US,0,Super G
+2016-12-03,Blaise Giezendanner,FR,4,Super G
+2016-12-03,Alexander Koell,SE,0,Combined
+2016-12-03,Aksel-Lund Svindal,NO,60,Downhill
+2016-12-03,Max Ullrich,HR,0,Combined
+2016-12-03,Max Franz,AT,10,Super G
+2016-12-03,Marcus Vorre,DK,0,Combined
+2016-12-03,Christoph Krenn,AT,0,Super G
+2016-12-03,Dustin Cook,CA,0,Super G
+2016-12-03,Dominik Paris,IT,36,Downhill
+2016-12-03,Matteo De Vettori,IT,0,Combined
+2016-12-03,Guglielmo Bosca,IT,0,Super G
+2016-12-03,Brennan Rubie,US,0,Combined
+2016-12-03,Gilles Roulin,CH,0,Super G
+2016-12-03,Travis Ganong,US,9,Downhill
+2016-12-03,Alexander Sannes Thorsen,NO,0,Combined
+2016-12-03,Adrien Theaux,FR,45,Downhill
+2016-12-03,Florian Schieder,IT,0,Combined
+2016-12-03,Bostjan Kline,SK,50,Downhill
+2016-12-03,Dominik Schwaiger,DE,0,Giant Slalom
+2016-12-03,Hannes Reichelt,AT,7,Super G
+2016-12-03,Gian Luca Barandun,CH,0,Combined
+2016-12-03,Marc Oliveras,AD,0,Combined
+2016-12-17,Florian Schieder,IT,0,Combined
+2016-12-17,Christoph Krenn,AT,0,Super G
+2016-12-17,Benjamin Thomsen,CA,0,Combined
+2016-12-17,Mauro Caviezel,CH,3,Super G
+2016-12-17,Guillermo Fayed,FR,44,Downhill
+2016-12-17,Brice Roger,FR,8,Downhill
+2016-12-17,Marcus Vorre,DK,0,Combined
+2016-12-17,Nils Mani,CH,29,Combined
+2016-12-17,Vincent Kriechmayr,AT,17,Downhill
+2016-12-17,Marc Gisin,CH,0,Combined
+2016-12-17,Patrick Schweiger,AT,0,Super G
+2016-12-17,Tobias Stechert,DE,0,Combined
+2016-12-17,Patrick Kueng,CH,54,Downhill
+2016-12-17,Klaus Brandner,DE,0,Combined
+2016-12-17,Thomas Dressen,DE,5,Downhill
+2016-12-17,Fernando Schmed,CH,0,Combined
+2016-12-17,Aleksander Aamodt Kilde,NO,69,Super G
+2016-12-17,Adam Zampa,SK,0,Combined
+2016-12-17,Cristian Javier Simari Birkner,AR,0,Combined
+2016-12-17,Manuel Osborne-Paradis,CA,20,Downhill
+2016-12-17,Ioan Valeriu Achiriloaie,RO,0,Combined
+2016-12-17,Romed Baumann,AT,35,Downhill
+2016-12-17,Jared Goldberg,US,2,Downhill
+2016-12-17,Dustin Cook,CA,0,Super G
+2016-12-17,Erik Guay,CA,85,Downhill
+2016-12-17,Jan Hudec,CZ,0,Combined
+2016-12-17,Felix Monsen,SE,0,Downhill
+2016-12-17,Alexander Sannes Thorsen,NO,0,Combined
+2016-12-17,Martin Cater,SK,0,Super G
+2016-12-17,Dominik Schwaiger,DE,0,Giant Slalom
+2016-12-17,Gilles Roulin,CH,0,Super G
+2016-12-17,Daniel Danklmaier,AT,0,Downhill
+2016-12-17,Nicolas Raffort,FR,7,Downhill
+2016-12-17,Marc Oliveras,AD,0,Combined
+2016-12-17,Sam Morse,US,0,Downhill
+2016-12-17,Brennan Rubie,US,0,Combined
+2016-12-17,Stian Saugestad,NO,0,Downhill
+2016-12-17,Guglielmo Bosca,IT,0,Super G
+2016-12-17,Mattia Casse,IT,1,Combined
+2016-12-17,Matteo De Vettori,IT,0,Combined
+2016-12-17,Alexander Koell,SE,0,Combined
+2016-12-17,Klaus Kroell,AT,17,Downhill
+2016-12-17,Niklas Koeck,AT,0,Combined
+2016-12-17,Max Ullrich,HR,0,Combined
+2016-12-17,Adrian Smiseth Sejersted,NO,3,Super G
+2016-12-17,Gian Luca Barandun,CH,0,Combined
+2016-12-17,Christof Innerhofer,IT,35,Super G
+2016-12-17,Broderick Thompson,CA,0,Combined
+2016-12-17,Bryce Bennett,US,32,Downhill
+2016-12-17,Steven Nyman,US,76,Downhill
+2016-12-17,Aksel-Lund Svindal,NO,140,Downhill
+2016-12-17,Peter Fill,IT,89,Downhill
+2016-12-17,Johan Clarey,FR,32,Downhill
+2016-12-17,Beat Feuz,CH,38,Downhill
+2016-12-17,Carlo Janka,CH,37,Downhill
+2016-12-17,Max Franz,AT,110,Super G
+2016-12-17,Hannes Reichelt,AT,21,Super G
+2016-12-17,Adrien Theaux,FR,95,Downhill
+2016-12-17,Travis Ganong,US,45,Downhill
+2016-12-17,Matthias Mayer,AT,28,Downhill
+2016-12-17,Kjetil Jansrud,NO,122,Downhill
+2016-12-17,Dominik Paris,IT,42,Downhill
+2017-01-21,Christof Innerhofer,IT,49,Super G
+2017-01-21,Johan Clarey,FR,92,Downhill
+2017-01-21,Bostjan Kline,SK,54,Downhill
+2017-01-21,Tobias Stechert,DE,0,Combined
+2017-01-21,Christian Walder,AT,0,Downhill
+2017-01-21,Adrien Theaux,FR,131,Downhill
+2017-01-21,Henrik Von Appen,CL,0,Combined
+2017-01-21,Maxence Muzaton,FR,18,Combined
+2017-01-21,Mauro Caviezel,CH,3,Super G
+2017-01-21,Marc Oliveras,AD,0,Combined
+2017-01-21,Hannes Reichelt,AT,50,Super G
+2017-01-21,Dominik Schwaiger,DE,0,Giant Slalom
+2017-01-21,Guillermo Fayed,FR,59,Downhill
+2017-01-21,Florian Schieder,IT,0,Combined
+2017-01-21,Travis Ganong,US,47,Downhill
+2017-01-21,Alexander Sannes Thorsen,NO,0,Combined
+2017-01-21,Brice Roger,FR,9,Downhill
+2017-01-21,David Poisson,FR,22,Downhill
+2017-01-21,Niklas Koeck,AT,0,Combined
+2017-01-21,Pawel Babicki,PL,0,Combined
+2017-01-21,Klaus Brandner,DE,0,Combined
+2017-01-21,Daniel Danklmaier,AT,6,Downhill
+2017-01-21,Stian Saugestad,NO,0,Downhill
+2017-01-21,Urs Kryenbuehl,CH,0,Downhill
+2017-01-21,Adam Zampa,SK,0,Combined
+2017-01-21,Cristian Javier Simari Birkner,AR,0,Combined
+2017-01-21,Matthias Mayer,AT,60,Downhill
+2017-01-21,Mattia Casse,IT,11,Combined
+2017-01-21,Ralph Weber,CH,4,Super G
+2017-01-21,Valentin Giraud Moine,FR,106,Downhill
+2017-01-21,Felix Monsen,SE,0,Downhill
+2017-01-21,Jan Hudec,CZ,0,Combined
+2017-01-21,Andrej Sporn,SK,0,Combined
+2017-01-21,Fernando Schmed,CH,0,Combined
+2017-01-21,Aksel-Lund Svindal,NO,140,Downhill
+2017-01-21,Werner Heel,IT,0,Downhill
+2017-01-21,Blaise Giezendanner,FR,13,Super G
+2017-01-21,Tyler Werry,CA,0,Downhill
+2017-01-21,Klaus Kroell,AT,31,Downhill
+2017-01-21,Thomas Biesemeyer,US,8,Super G
+2017-01-21,Peter Fill,IT,139,Downhill
+2017-01-21,Steven Nyman,US,102,Downhill
+2017-01-21,Christoffer Faarup,DK,0,Combined
+2017-01-21,Nils Mani,CH,29,Combined
+2017-01-21,Adrian Smiseth Sejersted,NO,19,Super G
+2017-01-21,Andrew Weibrecht,US,12,Super G
+2017-01-21,Gilles Roulin,CH,0,Super G
+2017-01-21,Sam Morse,US,0,Downhill
+2017-01-21,Aleksander Aamodt Kilde,NO,76,Super G
+2017-01-21,Beat Feuz,CH,38,Downhill
+2017-01-21,Christoph Krenn,AT,0,Super G
+2017-01-21,Guglielmo Bosca,IT,0,Super G
+2017-01-21,Dustin Cook,CA,0,Super G
+2017-01-21,Patrick Schweiger,AT,0,Super G
+2017-01-21,Dominik Paris,IT,142,Downhill
+2017-01-21,Romed Baumann,AT,40,Downhill
+2017-01-21,Andreas Sander,DE,20,Downhill
+2017-01-21,Erik Guay,CA,125,Downhill
+2017-01-21,Max Ullrich,HR,0,Combined
+2017-01-21,Brennan Rubie,US,0,Combined
+2017-01-21,Manuel Osborne-Paradis,CA,32,Downhill
+2017-01-21,Marc Gisin,CH,0,Combined
+2017-01-21,Matteo De Vettori,IT,0,Combined
+2017-01-21,Marcus Vorre,DK,0,Combined
+2017-01-21,Vincent Kriechmayr,AT,41,Downhill
+2017-01-21,Thomas Dressen,DE,5,Downhill
+2017-01-21,Max Franz,AT,110,Super G
+2017-01-21,Carlo Janka,CH,82,Downhill
+2017-01-27,Dustin Cook,CA,0,Super G
+2017-01-27,Matthias Mayer,AT,92,Downhill
+2017-01-27,Adrian Smiseth Sejersted,NO,19,Super G
+2017-01-27,Andreas Romar,FI,0,Combined
+2017-01-27,Carlo Janka,CH,111,Downhill
+2017-01-27,Blaise Giezendanner,FR,26,Super G
+2017-01-27,Klaus Kroell,AT,33,Downhill
+2017-01-27,Peter Fill,IT,199,Downhill
+2017-01-27,Tyler Werry,CA,0,Downhill
+2017-01-27,Christoffer Faarup,DK,0,Combined
+2017-01-27,Thomas Biesemeyer,US,24,Super G
+2017-01-27,Max Ullrich,HR,0,Combined
+2017-01-27,Joachim Puchner,AT,0,Combined
+2017-01-27,Aleksander Aamodt Kilde,NO,76,Super G
+2017-01-27,Ioan Valeriu Achiriloaie,RO,0,Combined
+2017-01-27,Gilles Roulin,CH,0,Super G
+2017-01-27,Max Franz,AT,118,Super G
+2017-01-27,Manuel Osborne-Paradis,CA,72,Downhill
+2017-01-27,Adam Zampa,SK,0,Combined
+2017-01-27,Stian Saugestad,NO,0,Downhill
+2017-01-27,Marcus Vorre,DK,0,Combined
+2017-01-27,Daniel Danklmaier,AT,6,Downhill
+2017-01-27,Kjetil Jansrud,NO,202,Downhill
+2017-01-27,Adrien Theaux,FR,138,Downhill
+2017-01-27,Urs Kryenbuehl,CH,6,Downhill
+2017-01-27,Valentin Giraud Moine,FR,106,Downhill
+2017-01-27,Marc Gisin,CH,0,Combined
+2017-01-27,Cristian Javier Simari Birkner,AR,0,Combined
+2017-01-27,Erik Guay,CA,125,Downhill
+2017-01-27,Martin Cater,SK,0,Super G
+2017-01-27,Bryce Bennett,US,42,Downhill
+2017-01-27,Christoph Krenn,AT,0,Super G
+2017-01-27,Felix Monsen,SE,0,Downhill
+2017-01-27,Klemen Kosi,SK,1,Combined
+2017-01-27,Fernando Schmed,CH,0,Combined
+2017-01-27,Niels Hintermann,CH,12,Combined
+2017-01-27,Aksel-Lund Svindal,NO,140,Downhill
+2017-01-27,Steven Nyman,US,102,Downhill
+2017-01-27,Andrew Weibrecht,US,17,Super G
+2017-01-27,Werner Heel,IT,0,Downhill
+2017-01-27,Pawel Babicki,PL,0,Combined
+2017-01-27,Gian Luca Barandun,CH,0,Combined
+2017-01-27,David Poisson,FR,22,Downhill
+2017-01-27,Guillermo Fayed,FR,59,Downhill
+2017-01-27,Alexander Sannes Thorsen,NO,0,Combined
+2017-01-27,Patrick Schweiger,AT,0,Super G
+2017-01-27,Vincent Kriechmayr,AT,61,Downhill
+2017-01-27,Sam Morse,US,0,Downhill
+2017-01-27,Johan Clarey,FR,101,Downhill
+2017-01-27,Tobias Stechert,DE,0,Combined
+2017-01-27,Jared Goldberg,US,24,Downhill
+2017-01-27,Paolo Pangrazzi,IT,0,Combined
+2017-01-27,Guglielmo Bosca,IT,0,Super G
+2017-01-27,Patrick Kueng,CH,78,Downhill
+2017-01-27,Romed Baumann,AT,76,Downhill
+2017-01-27,Brennan Rubie,US,0,Combined
+2017-01-27,Henrik Von Appen,CL,0,Combined
+2017-01-27,Travis Ganong,US,147,Downhill
+2017-01-27,Hannes Reichelt,AT,100,Super G
+2017-01-27,Mauro Caviezel,CH,17,Super G
+2017-01-27,Marc Oliveras,AD,0,Combined
+2017-01-27,Josef Ferstl,DE,23,Super G
+2017-01-27,Christof Innerhofer,IT,49,Super G
+2017-01-27,Alexander Koell,SE,0,Combined
+2017-01-27,Broderick Thompson,CA,0,Combined
+2017-01-27,Klaus Brandner,DE,0,Combined
+2017-01-27,Matteo De Vettori,IT,0,Combined
+2017-01-27,Nils Mani,CH,32,Combined
+2017-01-27,Niklas Koeck,AT,0,Combined
+2017-01-27,Maxence Muzaton,FR,33,Combined
+2017-01-27,Andrej Sporn,SK,0,Combined
+2017-01-27,Christian Walder,AT,4,Downhill
+2017-01-27,Beat Feuz,CH,83,Downhill
+2017-01-27,Andreas Sander,DE,38,Downhill
+2017-01-27,Bostjan Kline,SK,54,Downhill
+2017-01-27,Henri Battilani,IT,0,Combined
+2017-01-27,Dominik Paris,IT,168,Downhill
+2017-01-28,Othmar Striedinger,AT,5,Super G
+2017-01-28,Sam Morse,US,0,Downhill
+2017-01-28,Adam Zampa,SK,0,Combined
+2017-01-28,Daniel Danklmaier,AT,6,Downhill
+2017-01-28,Christoph Krenn,AT,0,Super G
+2017-01-28,Marcus Vorre,DK,0,Combined
+2017-01-28,Travis Ganong,US,169,Downhill
+2017-01-28,Florian Schieder,IT,0,Combined
+2017-01-28,Alexander Sannes Thorsen,NO,0,Combined
+2017-01-28,Hannes Reichelt,AT,200,Super G
+2017-01-28,Patrick Schweiger,AT,0,Super G
+2017-01-28,Valentin Giraud Moine,FR,106,Downhill
+2017-01-28,Brennan Rubie,US,0,Combined
+2017-01-28,Matteo De Vettori,IT,0,Combined
+2017-01-28,Martin Cater,SK,0,Super G
+2017-01-28,Dominik Paris,IT,218,Downhill
+2017-01-28,Pawel Babicki,PL,0,Combined
+2017-01-28,Gilles Roulin,CH,0,Super G
+2017-01-28,Christoffer Faarup,DK,0,Combined
+2017-01-28,Niklas Koeck,AT,0,Combined
+2017-01-28,Tyler Werry,CA,0,Downhill
+2017-01-28,Max Ullrich,HR,0,Combined
+2017-01-28,Peter Fill,IT,279,Downhill
+2017-01-28,Andreas Romar,FI,0,Combined
+2017-01-28,Bostjan Kline,SK,94,Downhill
+2017-01-28,Alexander Koell,SE,0,Combined
+2017-01-28,Tobias Stechert,DE,0,Combined
+2017-01-28,Joachim Puchner,AT,0,Combined
+2017-01-28,Dustin Cook,CA,0,Super G
+2017-01-28,Guglielmo Bosca,IT,0,Super G
+2017-01-28,Gian Luca Barandun,CH,0,Combined
+2017-01-28,Kjetil Jansrud,NO,247,Downhill
+2017-01-28,Marc Gisin,CH,0,Combined
+2017-01-28,Aksel-Lund Svindal,NO,140,Downhill
+2017-01-28,Fernando Schmed,CH,0,Combined
+2017-01-28,Felix Monsen,SE,0,Downhill
+2017-01-28,Marc Oliveras,AD,0,Combined
+2017-01-28,Klaus Brandner,DE,0,Combined
+2017-01-28,Stian Saugestad,NO,0,Downhill
+2017-01-28,Max Franz,AT,131,Super G
+2017-01-28,Cristian Javier Simari Birkner,AR,0,Combined
+2017-01-28,Frederic Berthold,AT,0,Combined
+2017-01-28,Beat Feuz,CH,143,Downhill
+2017-01-28,Nils Mani,CH,32,Combined
+2017-01-28,Niels Hintermann,CH,19,Combined
+2017-01-28,Maxence Muzaton,FR,46,Combined
+2017-01-28,Andrew Weibrecht,US,20,Super G
+2017-01-28,Werner Heel,IT,0,Downhill
+2017-01-28,Johan Clarey,FR,102,Downhill
+2017-01-28,Henrik Von Appen,CL,0,Combined
+2017-01-28,Guillermo Fayed,FR,59,Downhill
+2017-01-28,Blaise Giezendanner,FR,32,Super G
+2017-01-28,Ioan Valeriu Achiriloaie,RO,0,Combined
+2017-01-28,Klaus Kroell,AT,44,Downhill
+2017-01-28,Mauro Caviezel,CH,32,Super G
+2017-01-28,David Poisson,FR,22,Downhill
+2017-01-28,Thomas Biesemeyer,US,28,Super G
+2017-01-28,Jared Goldberg,US,29,Downhill
+2017-01-28,Adrian Smiseth Sejersted,NO,19,Super G
+2017-01-28,Steven Nyman,US,102,Downhill
+2017-01-28,Christof Innerhofer,IT,49,Super G
+2017-01-28,Andrej Sporn,SK,0,Combined
+2017-01-28,Christian Walder,AT,19,Downhill
+2017-01-28,Henri Battilani,IT,0,Combined
+2017-01-28,Vincent Kriechmayr,AT,97,Downhill
+2017-01-28,Brice Roger,FR,38,Downhill
+2017-01-28,Matthias Mayer,AT,110,Downhill
+2017-01-28,Carlo Janka,CH,119,Downhill
+2017-01-28,Urs Kryenbuehl,CH,16,Downhill
+2017-01-28,Aleksander Aamodt Kilde,NO,102,Super G
+2017-01-28,Paolo Pangrazzi,IT,0,Combined
+2017-01-28,Manuel Osborne-Paradis,CA,75,Downhill
+2017-01-28,Jeffrey Frisch,CA,0,Combined
+2017-01-28,Andreas Sander,DE,54,Downhill
+2017-01-28,Patrick Kueng,CH,98,Downhill
+2017-01-28,Erik Guay,CA,125,Downhill
+2017-01-28,Bryce Bennett,US,51,Downhill
+2017-01-28,Romed Baumann,AT,102,Downhill
+2017-01-28,Adrien Theaux,FR,170,Downhill
+2017-02-24,Max Franz,AT,139,Super G
+2017-02-24,Bostjan Kline,SK,194,Downhill
+2017-02-24,Gian Luca Barandun,CH,0,Combined
+2017-02-24,Alexander Koell,SE,0,Combined
+2017-02-24,Romed Baumann,AT,107,Downhill
+2017-02-24,Adam Zampa,SK,0,Combined
+2017-02-24,Jared Goldberg,US,47,Downhill
+2017-02-24,Tobias Stechert,DE,0,Combined
+2017-02-24,Broderick Thompson,CA,0,Combined
+2017-02-24,Christof Innerhofer,IT,49,Super G
+2017-02-24,Benjamin Thomsen,CA,0,Combined
+2017-02-24,Christian Walder,AT,39,Downhill
+2017-02-24,Adrien Theaux,FR,179,Downhill
+2017-02-24,Andrej Sporn,SK,0,Combined
+2017-02-24,Erik Guay,CA,175,Downhill
+2017-02-24,Marc Oliveras,AD,0,Combined
+2017-02-24,Carlo Janka,CH,135,Downhill
+2017-02-24,Dominik Paris,IT,242,Downhill
+2017-02-24,Beat Feuz,CH,179,Downhill
+2017-02-24,Vincent Kriechmayr,AT,105,Downhill
+2017-02-24,Andreas Sander,DE,68,Downhill
+2017-02-24,Patrick Schweiger,AT,0,Super G
+2017-02-24,Paolo Pangrazzi,IT,0,Combined
+2017-02-24,Brice Roger,FR,38,Downhill
+2017-02-24,Thomas Dressen,DE,45,Downhill
+2017-02-24,Travis Ganong,US,201,Downhill
+2017-02-24,Florian Schieder,IT,0,Combined
+2017-02-24,Aleksander Aamodt Kilde,NO,124,Super G
+2017-02-24,Marc Gisin,CH,0,Combined
+2017-02-24,Guillermo Fayed,FR,69,Downhill
+2017-02-24,Dominik Schwaiger,DE,0,Giant Slalom
+2017-02-24,Hannes Reichelt,AT,229,Super G
+2017-02-24,Henri Battilani,IT,0,Combined
+2017-02-24,Mauro Caviezel,CH,58,Super G
+2017-02-24,Manuel Osborne-Paradis,CA,120,Downhill
+2017-02-24,Niklas Koeck,AT,0,Combined
+2017-02-24,Matthias Mayer,AT,190,Downhill
+2017-02-24,Tyler Werry,CA,0,Downhill
+2017-02-24,Klaus Brandner,DE,0,Combined
+2017-02-24,Frederic Berthold,AT,12,Combined
+2017-02-24,Ioan Valeriu Achiriloaie,RO,0,Combined
+2017-02-24,Kjetil Jansrud,NO,307,Downhill
+2017-02-24,Klaus Kroell,AT,55,Downhill
+2017-02-24,Peter Fill,IT,294,Downhill
+2017-02-24,Jeffrey Frisch,CA,0,Combined
+2017-02-24,Bryce Bennett,US,55,Downhill
+2017-02-24,Martin Cater,SK,2,Super G
+2017-02-24,Joachim Puchner,AT,0,Combined
+2017-02-24,Fernando Schmed,CH,0,Combined
+2017-02-24,Werner Heel,IT,6,Downhill
+2017-02-24,Aksel-Lund Svindal,NO,140,Downhill
+2017-02-24,Andrew Weibrecht,US,21,Super G
+2017-02-24,Niels Hintermann,CH,23,Combined
+2017-02-24,Mattia Casse,IT,11,Combined
+2017-02-24,Daniel Danklmaier,AT,6,Downhill
+2017-02-24,Cristian Javier Simari Birkner,AR,0,Combined
+2017-02-24,Christoffer Faarup,DK,0,Combined
+2017-02-24,Sam Morse,US,0,Downhill
+2017-02-24,Valentin Giraud Moine,FR,106,Downhill
+2017-02-24,Pawel Babicki,PL,0,Combined
+2017-02-24,Steven Nyman,US,102,Downhill
+2017-02-24,Adrian Smiseth Sejersted,NO,19,Super G
+2017-02-24,Josef Ferstl,DE,37,Super G
+2017-02-25,Dustin Cook,CA,0,Super G
+2017-02-25,Carlo Janka,CH,180,Downhill
+2017-02-25,Frederic Berthold,AT,12,Combined
+2017-02-25,Vincent Kriechmayr,AT,131,Downhill
+2017-02-25,Adrien Theaux,FR,188,Downhill
+2017-02-25,Sam Morse,US,0,Downhill
+2017-02-25,Aksel-Lund Svindal,NO,140,Downhill
+2017-02-25,Felix Monsen,SE,2,Downhill
+2017-02-25,Valentin Giraud Moine,FR,106,Downhill
+2017-02-25,Martin Cater,SK,10,Super G
+2017-02-25,Brennan Rubie,US,0,Combined
+2017-02-25,Romed Baumann,AT,118,Downhill
+2017-02-25,Henri Battilani,IT,0,Combined
+2017-02-25,Adam Zampa,SK,0,Combined
+2017-02-25,Erik Guay,CA,215,Downhill
+2017-02-25,Bryce Bennett,US,67,Downhill
+2017-02-25,Fernando Schmed,CH,0,Combined
+2017-02-25,Guglielmo Bosca,IT,0,Super G
+2017-02-25,Stian Saugestad,NO,10,Downhill
+2017-02-25,Andreas Sander,DE,88,Downhill
+2017-02-25,Christoph Krenn,AT,0,Super G
+2017-02-25,Thomas Dressen,DE,69,Downhill
+2017-02-25,Daniel Danklmaier,AT,6,Downhill
+2017-02-25,Dominik Paris,IT,271,Downhill
+2017-02-25,Mattia Casse,IT,11,Combined
+2017-02-25,Manuel Osborne-Paradis,CA,170,Downhill
+2017-02-25,Marc Gisin,CH,0,Combined
+2017-02-25,Marcus Vorre,DK,0,Combined
+2017-02-25,Matthias Mayer,AT,205,Downhill
+2017-02-25,Aleksander Aamodt Kilde,NO,156,Super G
+2017-02-25,Paolo Pangrazzi,IT,0,Combined
+2017-02-25,Niklas Koeck,AT,0,Combined
+2017-02-25,Alexander Sannes Thorsen,NO,0,Combined
+2017-02-25,Travis Ganong,US,215,Downhill
+2017-02-25,Beat Feuz,CH,239,Downhill
+2017-02-25,Gian Luca Barandun,CH,0,Combined
+2017-02-25,Thomas Biesemeyer,US,28,Super G
+2017-02-25,Ioan Valeriu Achiriloaie,RO,0,Combined
+2017-02-25,Jared Goldberg,US,47,Downhill
+2017-02-25,Hannes Reichelt,AT,253,Super G
+2017-02-25,Adrian Smiseth Sejersted,NO,19,Super G
+2017-02-25,Andrej Sporn,SK,0,Combined
+2017-02-25,Alexander Koell,SE,0,Combined
+2017-02-25,Christoffer Faarup,DK,0,Combined
+2017-02-25,Bostjan Kline,SK,230,Downhill
+2017-02-25,Broderick Thompson,CA,0,Combined
+2017-02-25,Pawel Babicki,PL,0,Combined
+2017-02-25,Christof Innerhofer,IT,49,Super G
+2017-02-25,Tobias Stechert,DE,0,Combined
+2017-02-25,Benjamin Thomsen,CA,0,Combined
+2017-02-25,Josef Ferstl,DE,55,Super G
+2017-02-25,Peter Fill,IT,374,Downhill
+2017-02-25,Maxence Muzaton,FR,51,Combined
+2017-02-25,Mauro Caviezel,CH,74,Super G
+2017-02-25,Marc Oliveras,AD,0,Combined
+2017-02-25,Steven Nyman,US,102,Downhill
+2017-02-25,Kjetil Jansrud,NO,407,Downhill
+2017-02-25,Klaus Brandner,DE,0,Combined
+2017-02-25,Guillermo Fayed,FR,77,Downhill
+2017-02-25,Blaise Giezendanner,FR,35,Super G
+2017-02-25,Cristian Javier Simari Birkner,AR,0,Combined
+2017-02-25,Christian Walder,AT,45,Downhill
+2017-02-25,Dominik Schwaiger,DE,0,Giant Slalom
+2017-02-25,Brice Roger,FR,40,Downhill
+2017-02-25,Joachim Puchner,AT,0,Combined
+2017-02-25,Johan Clarey,FR,106,Downhill
+2017-02-25,Patrick Schweiger,AT,0,Super G
+2017-02-25,Werner Heel,IT,19,Downhill
+2017-02-25,Florian Schieder,IT,0,Combined
+2017-03-15,Tobias Stechert,DE,0,Combined
+2017-03-15,Cristian Javier Simari Birkner,AR,0,Combined
+2017-03-15,Henrik Von Appen,CL,0,Combined
+2017-03-15,Kjetil Jansrud,NO,431,Downhill
+2017-03-15,Paolo Pangrazzi,IT,0,Combined
+2017-03-15,Marc Gisin,CH,0,Combined
+2017-03-15,Ioan Valeriu Achiriloaie,RO,0,Combined
+2017-03-15,Henri Battilani,IT,0,Combined
+2017-03-15,Patrick Schweiger,AT,0,Super G
+2017-03-15,Klaus Brandner,DE,0,Combined
+2017-03-15,Fernando Schmed,CH,0,Combined
+2017-03-15,Adam Zampa,SK,0,Combined
+2017-03-15,Andrej Sporn,SK,0,Combined
+2017-03-15,Felix Monsen,SE,2,Downhill
+2017-03-15,Max Franz,AT,151,Super G
+2017-03-15,Maxence Muzaton,FR,51,Combined
+2017-03-15,Josef Ferstl,DE,55,Super G
+2017-03-15,Adrian Smiseth Sejersted,NO,19,Super G
+2017-03-15,Thomas Biesemeyer,US,28,Super G
+2017-03-15,Matthias Mayer,AT,237,Downhill
+2017-03-15,Klaus Kroell,AT,55,Downhill
+2017-03-15,Blaise Giezendanner,FR,35,Super G
+2017-03-15,Werner Heel,IT,19,Downhill
+2017-03-15,Andrew Weibrecht,US,21,Super G
+2017-03-15,Niels Hintermann,CH,23,Combined
+2017-03-15,Frederic Berthold,AT,12,Combined
+2017-03-15,Bryce Bennett,US,67,Downhill
+2017-03-15,Mattia Casse,IT,11,Combined
+2017-03-15,Urs Kryenbuehl,CH,16,Downhill
+2017-03-15,Stian Saugestad,NO,10,Downhill
+2017-03-15,Christian Walder,AT,45,Downhill
+2017-03-15,Christof Innerhofer,IT,49,Super G
+2017-03-15,Steven Nyman,US,102,Downhill
+2017-03-15,Jared Goldberg,US,47,Downhill
+2017-03-15,Erik Guay,CA,255,Downhill
+2017-03-15,Manuel Osborne-Paradis,CA,220,Downhill
+2017-03-15,Aleksander Aamodt Kilde,NO,178,Super G
+2017-03-15,Thomas Dressen,DE,84,Downhill
+2017-03-15,Andreas Sander,DE,128,Downhill
+2017-03-15,Carlo Janka,CH,240,Downhill
+2017-03-15,Patrick Kueng,CH,114,Downhill
+2017-03-15,Sam Morse,US,10,Downhill
+2017-03-15,Romed Baumann,AT,130,Downhill
+2017-03-15,Vincent Kriechmayr,AT,160,Downhill
+2017-03-15,Nils Mani,CH,32,Combined
+2017-03-15,Brice Roger,FR,40,Downhill
+2017-03-15,Guillermo Fayed,FR,95,Downhill
+2017-03-15,Johan Clarey,FR,132,Downhill
+2017-03-15,Mauro Caviezel,CH,74,Super G
+2017-03-15,David Poisson,FR,22,Downhill
+2017-03-15,Beat Feuz,CH,259,Downhill
+2017-03-15,Marcus Vorre,DK,0,Combined
+2017-03-15,Valentin Giraud Moine,FR,106,Downhill
+2017-03-15,Nicolas Raffort,FR,7,Downhill
+2017-03-15,Gian Luca Barandun,CH,0,Combined
+2017-03-15,Hannes Reichelt,AT,266,Super G
+2017-03-15,Marc Oliveras,AD,0,Combined
+2017-03-15,Dominik Schwaiger,DE,0,Giant Slalom
+2017-03-15,Florian Schieder,IT,0,Combined
+2017-03-15,Alexander Sannes Thorsen,NO,0,Combined
+2017-03-15,Travis Ganong,US,229,Downhill
+2017-03-15,Gilles Roulin,CH,0,Super G
+2017-03-15,Brennan Rubie,US,0,Combined
+2017-03-15,Guglielmo Bosca,IT,0,Super G
+2017-03-15,Matteo De Vettori,IT,0,Combined
+2017-03-15,Max Ullrich,HR,0,Combined
+2017-03-15,Dominik Paris,IT,371,Downhill
+2017-03-15,Dustin Cook,CA,0,Super G
+2017-03-15,Christoph Krenn,AT,0,Super G
+2017-03-15,Alexander Koell,SE,0,Combined
+2017-03-15,Broderick Thompson,CA,0,Combined
+2017-03-15,Benjamin Thomsen,CA,0,Combined
+2017-03-15,Bostjan Kline,SK,230,Downhill
+2017-03-15,Daniel Danklmaier,AT,6,Downhill
+2017-03-15,Othmar Striedinger,AT,5,Super G
+2017-03-15,Ralph Weber,CH,4,Super G
+2017-03-15,Aksel-Lund Svindal,NO,140,Downhill
+2017-03-15,Martin Cater,SK,10,Super G
+2017-03-15,Adrien Theaux,FR,233,Downhill
+2017-03-15,Klemen Kosi,SK,1,Combined
+2017-03-15,Emanuele Buzzi,IT,9,Downhill
+2017-03-15,Jan Hudec,CZ,0,Combined
+2017-03-15,Joachim Puchner,AT,0,Combined
+2017-03-15,Andreas Romar,FI,0,Combined
+2017-03-15,Tyler Werry,CA,0,Downhill
+2017-03-15,Christoffer Faarup,DK,0,Combined
+2017-03-15,Pawel Babicki,PL,0,Combined
+2017-03-15,Peter Fill,IT,454,Downhill
+2017-03-15,Niklas Koeck,AT,0,Combined
+2017-03-15,Rok Perko,SK,0,Combined
+2017-03-15,Jeffrey Frisch,CA,0,Combined

@@ -1,43 +1,43 @@
-date,name,ath_country,value
-1983-01-09,Irene Epple,DE,25
-1983-01-09,Daniela Zini,IT,0
-1983-01-09,Debbie Armstrong,US,0
-1983-01-09,Catherine Quittet,FR,0
-1983-01-09,Christin Cooper,US,0
-1983-01-09,Maria Walliser,CH,0
-1983-01-09,Heidi Preuss,US,1
-1983-01-09,Michaela Gerg-Leitner,DE,1
-1983-01-09,Anni Kronbichler,AT,2
-1983-01-09,Ursula Konzett,LI,4
-1983-01-09,Zoe Haas,CH,4
-1983-01-09,Perrine Pelen,FR,6
-1983-01-09,Anne Flore Rey,FR,7
-1983-01-09,Elisabeth Chaud,FR,8
-1983-01-09,Elisabeth Kirchler,AT,5
-1983-01-09,Cindy Nelson,US,12
-1983-01-09,Helene Barbier,FR,9
-1983-01-09,Maria Epple,DE,10
-1983-01-09,Hanni Wenzel,LI,20
-1983-01-09,Fabienne Serrat,FR,11
-1983-01-09,Tamara McKinney,US,15
-1983-01-10,Michaela Gerg-Leitner,DE,1
-1983-01-10,Ursula Konzett,LI,4
-1983-01-10,Elisabeth Kirchler,AT,5
-1983-01-10,Perrine Pelen,FR,6
-1983-01-10,Helene Barbier,FR,9
-1983-01-10,Cindy Nelson,US,37
-1983-01-10,Zoe Haas,CH,24
-1983-01-10,Irene Epple,DE,40
-1983-01-10,Fabienne Serrat,FR,19
-1983-01-10,Elisabeth Chaud,FR,17
-1983-01-10,Tamara McKinney,US,27
-1983-01-10,Daniela Zini,IT,2
-1983-01-10,Catherine Quittet,FR,4
-1983-01-10,Hanni Wenzel,LI,31
-1983-01-10,Christin Cooper,US,5
-1983-01-10,Heidi Preuss,US,1
-1983-01-10,Maria Walliser,CH,6
-1983-01-10,Maria Epple,DE,20
-1983-01-10,Anni Kronbichler,AT,9
-1983-01-10,Anne Flore Rey,FR,8
-1983-01-10,Debbie Armstrong,US,3
+date,name,ath_country,value,specialty
+1983-01-09,Irene Epple,DE,25,Combined
+1983-01-09,Christin Cooper,US,0,Combined
+1983-01-09,Perrine Pelen,FR,6,Slalom
+1983-01-09,Anni Kronbichler,AT,2,Slalom
+1983-01-09,Debbie Armstrong,US,0,Downhill
+1983-01-09,Ursula Konzett,LI,4,Slalom
+1983-01-09,Anne Flore Rey,FR,7,Giant Slalom
+1983-01-09,Elisabeth Chaud,FR,8,Downhill
+1983-01-09,Helene Barbier,FR,9,Giant Slalom
+1983-01-09,Maria Walliser,CH,0,Downhill
+1983-01-09,Maria Epple,DE,10,Giant Slalom
+1983-01-09,Catherine Quittet,FR,0,Downhill
+1983-01-09,Fabienne Serrat,FR,11,Giant Slalom
+1983-01-09,Daniela Zini,IT,0,Slalom
+1983-01-09,Tamara McKinney,US,15,Giant Slalom
+1983-01-09,Zoe Haas,CH,4,Super G
+1983-01-09,Michaela Gerg-Leitner,DE,1,Downhill
+1983-01-09,Hanni Wenzel,LI,20,Slalom
+1983-01-09,Cindy Nelson,US,12,Giant Slalom
+1983-01-09,Heidi Preuss,US,1,Giant Slalom
+1983-01-09,Elisabeth Kirchler,AT,5,Downhill
+1983-01-10,Catherine Quittet,FR,4,Downhill
+1983-01-10,Ursula Konzett,LI,4,Slalom
+1983-01-10,Michaela Gerg-Leitner,DE,1,Downhill
+1983-01-10,Heidi Preuss,US,1,Giant Slalom
+1983-01-10,Christin Cooper,US,5,Combined
+1983-01-10,Daniela Zini,IT,2,Slalom
+1983-01-10,Anni Kronbichler,AT,9,Slalom
+1983-01-10,Maria Walliser,CH,6,Downhill
+1983-01-10,Perrine Pelen,FR,6,Slalom
+1983-01-10,Anne Flore Rey,FR,8,Giant Slalom
+1983-01-10,Elisabeth Chaud,FR,17,Downhill
+1983-01-10,Helene Barbier,FR,9,Giant Slalom
+1983-01-10,Maria Epple,DE,20,Giant Slalom
+1983-01-10,Fabienne Serrat,FR,19,Giant Slalom
+1983-01-10,Tamara McKinney,US,27,Giant Slalom
+1983-01-10,Zoe Haas,CH,24,Super G
+1983-01-10,Hanni Wenzel,LI,31,Slalom
+1983-01-10,Cindy Nelson,US,37,Giant Slalom
+1983-01-10,Irene Epple,DE,40,Combined
+1983-01-10,Elisabeth Kirchler,AT,5,Downhill
+1983-01-10,Debbie Armstrong,US,3,Downhill

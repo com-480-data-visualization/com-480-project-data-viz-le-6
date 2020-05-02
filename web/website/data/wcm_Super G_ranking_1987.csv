@@ -1,186 +1,186 @@
-date,name,ath_country,value
-1986-12-06,Markus Wasmeier,DE,25
-1986-12-06,Heinz Holzer,IT,6
-1986-12-06,Hubert Strolz,AT,5
-1986-12-06,Guido Hinterseer,AT,4
-1986-12-06,Leonhard Stock,AT,3
-1986-12-06,Gerhard Pfaffenbichler,AT,2
-1986-12-06,Attilio Barcella,IT,1
-1986-12-06,Ivano Camozzi,IT,1
-1986-12-06,Pirmin Zurbriggen,CH,0
-1986-12-06,Alberto Ghidoni,IT,0
-1986-12-06,Frank Piccard,FR,0
-1986-12-06,Hans Stuffer,DE,0
-1986-12-06,Guenther Mader,AT,0
-1986-12-06,Karl Alpiger,CH,0
-1986-12-06,Peter Wirnsberger,AT,0
-1986-12-06,Werner Marti,CH,0
-1986-12-06,Igor Cigolla,IT,0
-1986-12-06,Felix Belczyk,CA,0
-1986-12-06,Daniel Mahrer,CH,0
-1986-12-06,Alberto Tomba,IT,0
-1986-12-06,Rudolf Huber,AT,0
-1986-12-06,Stefan Niederseer,AT,0
-1986-12-06,Michael Mair,IT,0
-1986-12-06,Sepp Wildgruber,DE,0
-1986-12-06,Peter Roth,DE,0
-1986-12-06,Franz Heinzer,CH,0
-1986-12-06,Hans-Joerg Tauscher,DE,0
-1986-12-06,Bernhard Gstrein,AT,0
-1986-12-06,Richard Pramotton,IT,8
-1986-12-06,Guenther Marxer,LI,8
-1986-12-06,Gustav Oehrli,CH,0
-1986-12-06,Andreas Wenzel,LI,11
-1986-12-06,Michael Eder,DE,10
-1986-12-06,Herbert Renoth,DE,12
-1986-12-06,Marc Girardelli,LU,15
-1986-12-06,Robert Erlacher,IT,20
-1986-12-06,Martin Hangl,CH,9
-1987-01-11,Richard Pramotton,IT,8
-1987-01-11,Guenther Marxer,LI,8
-1987-01-11,Andreas Wenzel,LI,11
-1987-01-11,Marc Girardelli,LU,15
-1987-01-11,Herbert Renoth,DE,21
-1987-01-11,Guido Hinterseer,AT,4
-1987-01-11,Pirmin Zurbriggen,CH,20
-1987-01-11,Alberto Ghidoni,IT,15
-1987-01-11,Frank Piccard,FR,12
-1987-01-11,Martin Hangl,CH,10
-1987-01-11,Robert Erlacher,IT,20
-1987-01-11,Markus Wasmeier,DE,50
-1987-01-11,Leonhard Stock,AT,3
-1987-01-11,Ivano Camozzi,IT,1
-1987-01-11,Igor Cigolla,IT,0
-1987-01-11,Felix Belczyk,CA,0
-1987-01-11,Daniel Mahrer,CH,0
-1987-01-11,Alberto Tomba,IT,0
-1987-01-11,Rudolf Huber,AT,0
-1987-01-11,Michael Mair,IT,0
-1987-01-11,Sepp Wildgruber,DE,0
-1987-01-11,Peter Roth,DE,0
-1987-01-11,Franz Heinzer,CH,0
-1987-01-11,Hans-Joerg Tauscher,DE,0
-1987-01-11,Bernhard Gstrein,AT,0
-1987-01-11,Gustav Oehrli,CH,0
-1987-01-11,Hubert Strolz,AT,12
-1987-01-11,Attilio Barcella,IT,1
-1987-01-11,Hans Stuffer,DE,11
-1987-01-11,Stefan Niederseer,AT,0
-1987-01-11,Michael Eder,DE,15
-1987-01-11,Guenther Mader,AT,10
-1987-01-11,Heinz Holzer,IT,12
-1987-01-11,Karl Alpiger,CH,8
-1987-01-11,Werner Marti,CH,2
-1987-01-11,Peter Wirnsberger,AT,3
-1987-01-11,Gerhard Pfaffenbichler,AT,6
-1987-03-01,Guido Hinterseer,AT,4
-1987-03-01,Rudolf Huber,AT,6
-1987-03-01,Igor Cigolla,IT,10
-1987-03-01,Daniel Mahrer,CH,8
-1987-03-01,Gustav Oehrli,CH,0
-1987-03-01,Bernhard Gstrein,AT,0
-1987-03-01,Hans-Joerg Tauscher,DE,0
-1987-03-01,Markus Wasmeier,DE,50
-1987-03-01,Robert Erlacher,IT,20
-1987-03-01,Herbert Renoth,DE,21
-1987-03-01,Michael Eder,DE,15
-1987-03-01,Martin Hangl,CH,10
-1987-03-01,Guenther Marxer,LI,8
-1987-03-01,Richard Pramotton,IT,8
-1987-03-01,Heinz Holzer,IT,12
-1987-03-01,Hubert Strolz,AT,12
-1987-03-01,Franz Heinzer,CH,0
-1987-03-01,Attilio Barcella,IT,1
-1987-03-01,Ivano Camozzi,IT,1
-1987-03-01,Frank Piccard,FR,12
-1987-03-01,Hans Stuffer,DE,11
-1987-03-01,Peter Wirnsberger,AT,3
-1987-03-01,Andreas Wenzel,LI,11
-1987-03-01,Werner Marti,CH,2
-1987-03-01,Stefan Niederseer,AT,5
-1987-03-01,Peter Roth,DE,0
-1987-03-01,Michael Mair,IT,4
-1987-03-01,Alberto Ghidoni,IT,17
-1987-03-01,Sepp Wildgruber,DE,1
-1987-03-01,Alberto Tomba,IT,7
-1987-03-01,Felix Belczyk,CA,9
-1987-03-01,Pirmin Zurbriggen,CH,40
-1987-03-01,Guenther Mader,AT,13
-1987-03-01,Leonhard Stock,AT,18
-1987-03-01,Karl Alpiger,CH,20
-1987-03-01,Marc Girardelli,LU,40
-1987-03-01,Gerhard Pfaffenbichler,AT,17
-1987-03-08,Rudolf Huber,AT,6
-1987-03-08,Michael Mair,IT,4
-1987-03-08,Sepp Wildgruber,DE,1
-1987-03-08,Gustav Oehrli,CH,0
-1987-03-08,Stefan Niederseer,AT,5
-1987-03-08,Daniel Mahrer,CH,8
-1987-03-08,Heinz Holzer,IT,12
-1987-03-08,Igor Cigolla,IT,10
-1987-03-08,Martin Hangl,CH,10
-1987-03-08,Frank Piccard,FR,12
-1987-03-08,Markus Wasmeier,DE,50
-1987-03-08,Alberto Ghidoni,IT,17
-1987-03-08,Marc Girardelli,LU,40
-1987-03-08,Herbert Renoth,DE,21
-1987-03-08,Ivano Camozzi,IT,1
-1987-03-08,Attilio Barcella,IT,1
-1987-03-08,Gerhard Pfaffenbichler,AT,17
-1987-03-08,Andreas Wenzel,LI,11
-1987-03-08,Michael Eder,DE,15
-1987-03-08,Hubert Strolz,AT,12
-1987-03-08,Felix Belczyk,CA,9
-1987-03-08,Karl Alpiger,CH,20
-1987-03-08,Hans-Joerg Tauscher,DE,2
-1987-03-08,Leonhard Stock,AT,27
-1987-03-08,Richard Pramotton,IT,28
-1987-03-08,Robert Erlacher,IT,32
-1987-03-08,Pirmin Zurbriggen,CH,65
-1987-03-08,Hans Stuffer,DE,23
-1987-03-08,Guenther Mader,AT,20
-1987-03-08,Franz Heinzer,CH,4
-1987-03-08,Werner Marti,CH,5
-1987-03-08,Peter Roth,DE,15
-1987-03-08,Guenther Marxer,LI,14
-1987-03-08,Alberto Tomba,IT,15
-1987-03-08,Guido Hinterseer,AT,14
-1987-03-08,Bernhard Gstrein,AT,1
-1987-03-08,Peter Wirnsberger,AT,8
-1987-03-15,Peter Wirnsberger,AT,8
-1987-03-15,Igor Cigolla,IT,10
-1987-03-15,Karl Alpiger,CH,20
-1987-03-15,Hans Stuffer,DE,23
-1987-03-15,Daniel Mahrer,CH,8
-1987-03-15,Werner Marti,CH,5
-1987-03-15,Stefan Niederseer,AT,5
-1987-03-15,Rudolf Huber,AT,6
-1987-03-15,Frank Piccard,FR,12
-1987-03-15,Michael Mair,IT,4
-1987-03-15,Sepp Wildgruber,DE,1
-1987-03-15,Peter Roth,DE,15
-1987-03-15,Hans-Joerg Tauscher,DE,2
-1987-03-15,Bernhard Gstrein,AT,1
-1987-03-15,Alberto Ghidoni,IT,18
-1987-03-15,Alberto Tomba,IT,15
-1987-03-15,Ivano Camozzi,IT,1
-1987-03-15,Markus Wasmeier,DE,50
-1987-03-15,Gerhard Pfaffenbichler,AT,17
-1987-03-15,Guenther Mader,AT,29
-1987-03-15,Guido Hinterseer,AT,24
-1987-03-15,Herbert Renoth,DE,29
-1987-03-15,Martin Hangl,CH,16
-1987-03-15,Franz Heinzer,CH,9
-1987-03-15,Felix Belczyk,CA,13
-1987-03-15,Michael Eder,DE,26
-1987-03-15,Attilio Barcella,IT,1
-1987-03-15,Marc Girardelli,LU,65
-1987-03-15,Gustav Oehrli,CH,3
-1987-03-15,Leonhard Stock,AT,42
-1987-03-15,Robert Erlacher,IT,44
-1987-03-15,Guenther Marxer,LI,16
-1987-03-15,Richard Pramotton,IT,28
-1987-03-15,Heinz Holzer,IT,12
-1987-03-15,Hubert Strolz,AT,12
-1987-03-15,Pirmin Zurbriggen,CH,85
-1987-03-15,Andreas Wenzel,LI,18
+date,name,ath_country,value,specialty
+1986-12-06,Markus Wasmeier,DE,25,Downhill
+1986-12-06,Alberto Ghidoni,IT,0,Super G
+1986-12-06,Hubert Strolz,AT,5,Giant Slalom
+1986-12-06,Rudolf Huber,AT,0,Downhill
+1986-12-06,Leonhard Stock,AT,3,Downhill
+1986-12-06,Heinz Holzer,IT,6,Super G
+1986-12-06,Peter Roth,DE,0,Super G
+1986-12-06,Alberto Tomba,IT,0,Giant Slalom
+1986-12-06,Daniel Mahrer,CH,0,Downhill
+1986-12-06,Herbert Renoth,DE,12,Super G
+1986-12-06,Stefan Niederseer,AT,0,Downhill
+1986-12-06,Guenther Marxer,LI,8,Super G
+1986-12-06,Martin Hangl,CH,9,Giant Slalom
+1986-12-06,Frank Piccard,FR,0,Super G
+1986-12-06,Guido Hinterseer,AT,4,Super G
+1986-12-06,Igor Cigolla,IT,0,Super G
+1986-12-06,Guenther Mader,AT,0,Slalom
+1986-12-06,Karl Alpiger,CH,0,Downhill
+1986-12-06,Michael Eder,DE,10,Giant Slalom
+1986-12-06,Gerhard Pfaffenbichler,AT,2,Super G
+1986-12-06,Hans Stuffer,DE,0,Super G
+1986-12-06,Felix Belczyk,CA,0,Super G
+1986-12-06,Peter Wirnsberger,AT,0,Downhill
+1986-12-06,Andreas Wenzel,LI,11,Combined
+1986-12-06,Hans-Joerg Tauscher,DE,0,Super G
+1986-12-06,Franz Heinzer,CH,0,Downhill
+1986-12-06,Marc Girardelli,LU,15,Giant Slalom
+1986-12-06,Gustav Oehrli,CH,0,Downhill
+1986-12-06,Ivano Camozzi,IT,1,Giant Slalom
+1986-12-06,Pirmin Zurbriggen,CH,0,Downhill
+1986-12-06,Robert Erlacher,IT,20,Giant Slalom
+1986-12-06,Sepp Wildgruber,DE,0,Downhill
+1986-12-06,Werner Marti,CH,0,Super G
+1986-12-06,Michael Mair,IT,0,Downhill
+1986-12-06,Bernhard Gstrein,AT,0,Slalom
+1986-12-06,Richard Pramotton,IT,8,Giant Slalom
+1986-12-06,Attilio Barcella,IT,1,Super G
+1987-01-11,Michael Eder,DE,15,Giant Slalom
+1987-01-11,Attilio Barcella,IT,1,Super G
+1987-01-11,Ivano Camozzi,IT,1,Giant Slalom
+1987-01-11,Sepp Wildgruber,DE,0,Downhill
+1987-01-11,Bernhard Gstrein,AT,0,Slalom
+1987-01-11,Igor Cigolla,IT,0,Super G
+1987-01-11,Gerhard Pfaffenbichler,AT,6,Super G
+1987-01-11,Guido Hinterseer,AT,4,Super G
+1987-01-11,Guenther Mader,AT,10,Slalom
+1987-01-11,Peter Wirnsberger,AT,3,Downhill
+1987-01-11,Felix Belczyk,CA,0,Super G
+1987-01-11,Guenther Marxer,LI,8,Super G
+1987-01-11,Gustav Oehrli,CH,0,Downhill
+1987-01-11,Daniel Mahrer,CH,0,Downhill
+1987-01-11,Alberto Tomba,IT,0,Giant Slalom
+1987-01-11,Werner Marti,CH,2,Super G
+1987-01-11,Heinz Holzer,IT,12,Super G
+1987-01-11,Michael Mair,IT,0,Downhill
+1987-01-11,Andreas Wenzel,LI,11,Combined
+1987-01-11,Franz Heinzer,CH,0,Downhill
+1987-01-11,Hubert Strolz,AT,12,Giant Slalom
+1987-01-11,Stefan Niederseer,AT,0,Downhill
+1987-01-11,Hans-Joerg Tauscher,DE,0,Super G
+1987-01-11,Rudolf Huber,AT,0,Downhill
+1987-01-11,Martin Hangl,CH,10,Giant Slalom
+1987-01-11,Pirmin Zurbriggen,CH,20,Downhill
+1987-01-11,Markus Wasmeier,DE,50,Downhill
+1987-01-11,Frank Piccard,FR,12,Super G
+1987-01-11,Alberto Ghidoni,IT,15,Super G
+1987-01-11,Marc Girardelli,LU,15,Giant Slalom
+1987-01-11,Hans Stuffer,DE,11,Super G
+1987-01-11,Peter Roth,DE,0,Super G
+1987-01-11,Karl Alpiger,CH,8,Downhill
+1987-01-11,Robert Erlacher,IT,20,Giant Slalom
+1987-01-11,Leonhard Stock,AT,3,Downhill
+1987-01-11,Herbert Renoth,DE,21,Super G
+1987-01-11,Richard Pramotton,IT,8,Giant Slalom
+1987-03-01,Guenther Marxer,LI,8,Super G
+1987-03-01,Andreas Wenzel,LI,11,Combined
+1987-03-01,Werner Marti,CH,2,Super G
+1987-03-01,Pirmin Zurbriggen,CH,40,Downhill
+1987-03-01,Herbert Renoth,DE,21,Super G
+1987-03-01,Daniel Mahrer,CH,8,Downhill
+1987-03-01,Michael Mair,IT,4,Downhill
+1987-03-01,Peter Roth,DE,0,Super G
+1987-03-01,Felix Belczyk,CA,9,Super G
+1987-03-01,Franz Heinzer,CH,0,Downhill
+1987-03-01,Alberto Tomba,IT,7,Giant Slalom
+1987-03-01,Peter Wirnsberger,AT,3,Downhill
+1987-03-01,Heinz Holzer,IT,12,Super G
+1987-03-01,Richard Pramotton,IT,8,Giant Slalom
+1987-03-01,Rudolf Huber,AT,6,Downhill
+1987-03-01,Leonhard Stock,AT,18,Downhill
+1987-03-01,Alberto Ghidoni,IT,17,Super G
+1987-03-01,Robert Erlacher,IT,20,Giant Slalom
+1987-03-01,Stefan Niederseer,AT,5,Downhill
+1987-03-01,Gustav Oehrli,CH,0,Downhill
+1987-03-01,Bernhard Gstrein,AT,0,Slalom
+1987-03-01,Markus Wasmeier,DE,50,Downhill
+1987-03-01,Gerhard Pfaffenbichler,AT,17,Super G
+1987-03-01,Hans Stuffer,DE,11,Super G
+1987-03-01,Sepp Wildgruber,DE,1,Downhill
+1987-03-01,Michael Eder,DE,15,Giant Slalom
+1987-03-01,Ivano Camozzi,IT,1,Giant Slalom
+1987-03-01,Marc Girardelli,LU,40,Giant Slalom
+1987-03-01,Martin Hangl,CH,10,Giant Slalom
+1987-03-01,Guenther Mader,AT,13,Slalom
+1987-03-01,Attilio Barcella,IT,1,Super G
+1987-03-01,Igor Cigolla,IT,10,Super G
+1987-03-01,Hubert Strolz,AT,12,Giant Slalom
+1987-03-01,Hans-Joerg Tauscher,DE,0,Super G
+1987-03-01,Guido Hinterseer,AT,4,Super G
+1987-03-01,Frank Piccard,FR,12,Super G
+1987-03-01,Karl Alpiger,CH,20,Downhill
+1987-03-08,Marc Girardelli,LU,40,Giant Slalom
+1987-03-08,Gustav Oehrli,CH,0,Downhill
+1987-03-08,Stefan Niederseer,AT,5,Downhill
+1987-03-08,Bernhard Gstrein,AT,1,Slalom
+1987-03-08,Peter Wirnsberger,AT,8,Downhill
+1987-03-08,Sepp Wildgruber,DE,1,Downhill
+1987-03-08,Hans-Joerg Tauscher,DE,2,Super G
+1987-03-08,Ivano Camozzi,IT,1,Giant Slalom
+1987-03-08,Robert Erlacher,IT,32,Giant Slalom
+1987-03-08,Franz Heinzer,CH,4,Downhill
+1987-03-08,Werner Marti,CH,5,Super G
+1987-03-08,Michael Mair,IT,4,Downhill
+1987-03-08,Pirmin Zurbriggen,CH,65,Downhill
+1987-03-08,Attilio Barcella,IT,1,Super G
+1987-03-08,Markus Wasmeier,DE,50,Downhill
+1987-03-08,Richard Pramotton,IT,28,Giant Slalom
+1987-03-08,Rudolf Huber,AT,6,Downhill
+1987-03-08,Michael Eder,DE,15,Giant Slalom
+1987-03-08,Martin Hangl,CH,10,Giant Slalom
+1987-03-08,Hubert Strolz,AT,12,Giant Slalom
+1987-03-08,Igor Cigolla,IT,10,Super G
+1987-03-08,Herbert Renoth,DE,21,Super G
+1987-03-08,Felix Belczyk,CA,9,Super G
+1987-03-08,Guenther Mader,AT,20,Slalom
+1987-03-08,Guenther Marxer,LI,14,Super G
+1987-03-08,Karl Alpiger,CH,20,Downhill
+1987-03-08,Daniel Mahrer,CH,8,Downhill
+1987-03-08,Frank Piccard,FR,12,Super G
+1987-03-08,Alberto Tomba,IT,15,Giant Slalom
+1987-03-08,Peter Roth,DE,15,Super G
+1987-03-08,Guido Hinterseer,AT,14,Super G
+1987-03-08,Hans Stuffer,DE,23,Super G
+1987-03-08,Leonhard Stock,AT,27,Downhill
+1987-03-08,Heinz Holzer,IT,12,Super G
+1987-03-08,Andreas Wenzel,LI,11,Combined
+1987-03-08,Alberto Ghidoni,IT,17,Super G
+1987-03-08,Gerhard Pfaffenbichler,AT,17,Super G
+1987-03-15,Ivano Camozzi,IT,1,Giant Slalom
+1987-03-15,Igor Cigolla,IT,10,Super G
+1987-03-15,Hans-Joerg Tauscher,DE,2,Super G
+1987-03-15,Andreas Wenzel,LI,18,Combined
+1987-03-15,Frank Piccard,FR,12,Super G
+1987-03-15,Gerhard Pfaffenbichler,AT,17,Super G
+1987-03-15,Karl Alpiger,CH,20,Downhill
+1987-03-15,Guenther Mader,AT,29,Slalom
+1987-03-15,Attilio Barcella,IT,1,Super G
+1987-03-15,Michael Eder,DE,26,Giant Slalom
+1987-03-15,Marc Girardelli,LU,65,Giant Slalom
+1987-03-15,Markus Wasmeier,DE,50,Downhill
+1987-03-15,Sepp Wildgruber,DE,1,Downhill
+1987-03-15,Hubert Strolz,AT,12,Giant Slalom
+1987-03-15,Pirmin Zurbriggen,CH,85,Downhill
+1987-03-15,Martin Hangl,CH,16,Giant Slalom
+1987-03-15,Alberto Ghidoni,IT,18,Super G
+1987-03-15,Rudolf Huber,AT,6,Downhill
+1987-03-15,Hans Stuffer,DE,23,Super G
+1987-03-15,Leonhard Stock,AT,42,Downhill
+1987-03-15,Stefan Niederseer,AT,5,Downhill
+1987-03-15,Heinz Holzer,IT,12,Super G
+1987-03-15,Richard Pramotton,IT,28,Giant Slalom
+1987-03-15,Peter Wirnsberger,AT,8,Downhill
+1987-03-15,Franz Heinzer,CH,9,Downhill
+1987-03-15,Alberto Tomba,IT,15,Giant Slalom
+1987-03-15,Daniel Mahrer,CH,8,Downhill
+1987-03-15,Peter Roth,DE,15,Super G
+1987-03-15,Guenther Marxer,LI,16,Super G
+1987-03-15,Michael Mair,IT,4,Downhill
+1987-03-15,Herbert Renoth,DE,29,Super G
+1987-03-15,Robert Erlacher,IT,44,Giant Slalom
+1987-03-15,Werner Marti,CH,5,Super G
+1987-03-15,Gustav Oehrli,CH,3,Downhill
+1987-03-15,Felix Belczyk,CA,13,Super G
+1987-03-15,Guido Hinterseer,AT,24,Super G
+1987-03-15,Bernhard Gstrein,AT,1,Slalom

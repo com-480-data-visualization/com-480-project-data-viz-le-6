@@ -1,49 +1,49 @@
-date,name,ath_country,value
-1988-12-16,Vreni Schneider,CH,25
-1988-12-16,Ingrid Stoeckl,AT,1
-1988-12-16,Carole Merle,FR,0
-1988-12-16,Kerrin Lee- Gartner,CA,2
-1988-12-16,Mateja Svet,SK,0
-1988-12-16,Tanja Steinebrunner,CH,3
-1988-12-16,Lucia Medzihradska,SK,0
-1988-12-16,Michelle Ruthven Mckendry,CA,4
-1988-12-16,Beatrice Gafner,CH,0
-1988-12-16,Heidi Zurbriggen,CH,5
-1988-12-16,Maria Walliser,CH,0
-1988-12-16,Rosi Krenn,DE,6
-1988-12-16,Ludmila Milanova,SK,0
-1988-12-16,Lenka Kebrlova,SK,7
-1988-12-16,Florence Masnada,FR,0
-1988-12-16,Pascaline Freiher,FR,0
-1988-12-16,Ulrike Stangassinger,DE,9
-1988-12-16,Michela Figini,CH,10
-1988-12-16,Brigitte Oertli,CH,11
-1988-12-16,Tamara McKinney,US,12
-1988-12-16,Petra Kronberger,AT,15
-1988-12-16,Ulrike Maier,AT,20
-1988-12-16,Barbara Sadleder,AT,8
-1988-12-16,Karen Percy,CA,0
-1989-01-15,Vreni Schneider,CH,25
-1989-01-15,Tamara McKinney,US,12
-1989-01-15,Ulrike Stangassinger,DE,9
-1989-01-15,Barbara Sadleder,AT,8
-1989-01-15,Rosi Krenn,DE,6
-1989-01-15,Michelle Ruthven Mckendry,CA,4
-1989-01-15,Tanja Steinebrunner,CH,3
-1989-01-15,Petra Kronberger,AT,19
-1989-01-15,Lenka Kebrlova,SK,9
-1989-01-15,Ludmila Milanova,SK,3
-1989-01-15,Kerrin Lee- Gartner,CA,2
-1989-01-15,Maria Walliser,CH,5
-1989-01-15,Beatrice Gafner,CH,6
-1989-01-15,Lucia Medzihradska,SK,7
-1989-01-15,Mateja Svet,SK,8
-1989-01-15,Carole Merle,FR,9
-1989-01-15,Heidi Zurbriggen,CH,15
-1989-01-15,Ulrike Maier,AT,31
-1989-01-15,Florence Masnada,FR,12
-1989-01-15,Michela Figini,CH,25
-1989-01-15,Karen Percy,CA,20
-1989-01-15,Brigitte Oertli,CH,36
-1989-01-15,Pascaline Freiher,FR,1
-1989-01-15,Ingrid Stoeckl,AT,1
+date,name,ath_country,value,specialty
+1988-12-16,Vreni Schneider,CH,25,Slalom
+1988-12-16,Ingrid Stoeckl,AT,1,Combined
+1988-12-16,Kerrin Lee- Gartner,CA,2,Downhill
+1988-12-16,Ludmila Milanova,SK,0,Combined
+1988-12-16,Tanja Steinebrunner,CH,3,Downhill
+1988-12-16,Michelle Ruthven Mckendry,CA,4,Downhill
+1988-12-16,Maria Walliser,CH,0,Downhill
+1988-12-16,Beatrice Gafner,CH,0,Downhill
+1988-12-16,Rosi Krenn,DE,6,Downhill
+1988-12-16,Lucia Medzihradska,SK,0,Combined
+1988-12-16,Lenka Kebrlova,SK,7,Combined
+1988-12-16,Mateja Svet,SK,0,Giant Slalom
+1988-12-16,Barbara Sadleder,AT,8,Downhill
+1988-12-16,Carole Merle,FR,0,Super G
+1988-12-16,Ulrike Stangassinger,DE,9,Downhill
+1988-12-16,Heidi Zurbriggen,CH,5,Downhill
+1988-12-16,Pascaline Freiher,FR,0,Slalom
+1988-12-16,Florence Masnada,FR,0,Combined
+1988-12-16,Petra Kronberger,AT,15,Combined
+1988-12-16,Ulrike Maier,AT,20,Giant Slalom
+1988-12-16,Brigitte Oertli,CH,11,Combined
+1988-12-16,Tamara McKinney,US,12,Slalom
+1988-12-16,Michela Figini,CH,10,Downhill
+1988-12-16,Karen Percy,CA,0,Downhill
+1989-01-15,Kerrin Lee- Gartner,CA,2,Downhill
+1989-01-15,Ludmila Milanova,SK,3,Combined
+1989-01-15,Maria Walliser,CH,5,Downhill
+1989-01-15,Tanja Steinebrunner,CH,3,Downhill
+1989-01-15,Vreni Schneider,CH,25,Slalom
+1989-01-15,Michelle Ruthven Mckendry,CA,4,Downhill
+1989-01-15,Ulrike Maier,AT,31,Giant Slalom
+1989-01-15,Ingrid Stoeckl,AT,1,Combined
+1989-01-15,Karen Percy,CA,20,Downhill
+1989-01-15,Brigitte Oertli,CH,36,Combined
+1989-01-15,Beatrice Gafner,CH,6,Downhill
+1989-01-15,Rosi Krenn,DE,6,Downhill
+1989-01-15,Petra Kronberger,AT,19,Combined
+1989-01-15,Lucia Medzihradska,SK,7,Combined
+1989-01-15,Lenka Kebrlova,SK,9,Combined
+1989-01-15,Michela Figini,CH,25,Downhill
+1989-01-15,Mateja Svet,SK,8,Giant Slalom
+1989-01-15,Pascaline Freiher,FR,1,Slalom
+1989-01-15,Tamara McKinney,US,12,Slalom
+1989-01-15,Carole Merle,FR,9,Super G
+1989-01-15,Ulrike Stangassinger,DE,9,Downhill
+1989-01-15,Florence Masnada,FR,12,Combined
+1989-01-15,Heidi Zurbriggen,CH,15,Downhill
+1989-01-15,Barbara Sadleder,AT,8,Downhill

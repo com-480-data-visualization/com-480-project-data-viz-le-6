@@ -1,29 +1,29 @@
-date,name,ath_country,value
-1998-01-18,Hermann Maier,AT,100
-1998-01-18,Ed Podivinsky,CA,0
-1998-01-18,Kjetil Andre Aamodt,NO,0
-1998-01-18,Andreas Schifferer,AT,32
-1998-01-18,Didier Cuche,CH,0
-1998-01-18,Patrik Jaerbyn,SE,36
-1998-01-18,Luca Cattaneo,IT,0
-1998-01-18,Werner Franz,AT,40
-1998-01-18,Fritz Strobl,AT,0
-1998-01-18,Fredrik Nyberg,SE,0
-1998-01-18,Matthew Grosjean,US,50
-1998-01-18,Paul Accola,CH,60
-1998-01-18,Bruno Kernen,CH,80
-1998-01-18,Stephan Eberharter,AT,45
-1998-01-25,Bruno Kernen,CH,80
-1998-01-25,Paul Accola,CH,60
-1998-01-25,Matthew Grosjean,US,50
-1998-01-25,Stephan Eberharter,AT,45
-1998-01-25,Hermann Maier,AT,100
-1998-01-25,Luca Cattaneo,IT,36
-1998-01-25,Didier Cuche,CH,40
-1998-01-25,Fredrik Nyberg,SE,45
-1998-01-25,Fritz Strobl,AT,50
-1998-01-25,Ed Podivinsky,CA,60
-1998-01-25,Werner Franz,AT,120
-1998-01-25,Kjetil Andre Aamodt,NO,100
-1998-01-25,Patrik Jaerbyn,SE,36
-1998-01-25,Andreas Schifferer,AT,32
+date,name,ath_country,value,specialty
+1998-01-18,Hermann Maier,AT,100,Giant Slalom
+1998-01-18,Fritz Strobl,AT,0,Downhill
+1998-01-18,Fredrik Nyberg,SE,0,Giant Slalom
+1998-01-18,Andreas Schifferer,AT,32,Downhill
+1998-01-18,Matthew Grosjean,US,50,Combined
+1998-01-18,Ed Podivinsky,CA,0,Downhill
+1998-01-18,Didier Cuche,CH,0,Downhill
+1998-01-18,Stephan Eberharter,AT,45,Giant Slalom
+1998-01-18,Paul Accola,CH,60,Giant Slalom
+1998-01-18,Patrik Jaerbyn,SE,36,Super G
+1998-01-18,Bruno Kernen,CH,80,Downhill
+1998-01-18,Kjetil Andre Aamodt,NO,0,Downhill
+1998-01-18,Luca Cattaneo,IT,0,Super G
+1998-01-18,Werner Franz,AT,40,Downhill
+1998-01-25,Didier Cuche,CH,40,Downhill
+1998-01-25,Patrik Jaerbyn,SE,36,Super G
+1998-01-25,Luca Cattaneo,IT,36,Super G
+1998-01-25,Fredrik Nyberg,SE,45,Giant Slalom
+1998-01-25,Matthew Grosjean,US,50,Combined
+1998-01-25,Fritz Strobl,AT,50,Downhill
+1998-01-25,Ed Podivinsky,CA,60,Downhill
+1998-01-25,Paul Accola,CH,60,Giant Slalom
+1998-01-25,Werner Franz,AT,120,Downhill
+1998-01-25,Bruno Kernen,CH,80,Downhill
+1998-01-25,Kjetil Andre Aamodt,NO,100,Downhill
+1998-01-25,Hermann Maier,AT,100,Giant Slalom
+1998-01-25,Stephan Eberharter,AT,45,Giant Slalom
+1998-01-25,Andreas Schifferer,AT,32,Downhill
