@@ -109,6 +109,14 @@
                     </div>
                     <button type="button" id="start">start</button>
                     <button type="button" id="stop">stop</button>
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label class="btn btn-secondary active">
+                          <input type="radio" name="options" id="women" checked> Women
+                        </label>
+                        <label class="btn btn-secondary">
+                          <input type="radio" name="options" id="men"> Men
+                        </label>
+                      </div>
                 </div>
             </div>
             <div class="full_height col-6">
@@ -159,6 +167,7 @@
     <script src="js/ranking.js"></script>
     <script>
         var currentRanking = ''
+        var isMen = false;
         var tabToRaceType = {}
         var raceTypeToDatafileSuffix = {}
 
@@ -172,11 +181,15 @@
             $('#' + ranking + '-rank-box').html('<div id="' + ranking + '-rank"></div>')
             $('#slider-step').remove()
             $('#slider-box').html('<div id="slider-step"></div>')
-            create_ranking('#' + ranking + '-rank', '../data/wcm_' + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year)
+            create_ranking('#' + ranking + '-rank', '../data/'+getPrefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year)
         }
 
         function getCurrentYear(){
             return $("#timeline").data("ionRangeSlider").result.from
+        }
+
+        function getPrefix(){
+            return isMen ? 'wcm_' : 'wcf_';
         }
 
         $("#timeline").ionRangeSlider({
@@ -201,6 +214,15 @@
                 refresh_ranking(currentRanking, data.from)
             }
         });
+
+        $('#women').on("click",function(e){
+           isMen = false
+           refresh_ranking(currentRanking,getCurrentYear())
+        })
+        $('#men').on("click",function(e){
+           isMen = true
+           refresh_ranking(currentRanking,getCurrentYear())
+        })
     </script>
 </body>
 
