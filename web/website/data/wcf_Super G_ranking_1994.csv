@@ -1,276 +1,367 @@
 date,name,ath_country,value
-1993-12-12,Guenther Mader,AT,100
-1993-12-12,Werner Perathoner,IT,0
-1993-12-12,Kristian Ghedina,IT,1
-1993-12-12,Gianfranco Martin,IT,2
-1993-12-12,Hannes Trinkl,AT,5
-1993-12-12,Ian Piccard,FR,5
-1993-12-12,Fredrik Nyberg,SE,5
-1993-12-12,Peter Runggaldier,IT,6
-1993-12-12,Armand Schiele,FR,7
-1993-12-12,Harald Chr. Strand Nilsen,NO,8
-1993-12-12,Lasse Kjus,NO,10
-1993-12-12,Luc Alphand,FR,10
-1993-12-12,Franz Heinzer,CH,11
-1993-12-12,Hans Knauss,AT,12
-1993-12-12,Dietmar Thoeni,AT,13
-1993-12-12,Kyle Rasmussen,US,14
-1993-12-12,Lasse Arnesen,NO,15
-1993-12-12,Christophe Ple',FR,16
-1993-12-12,Paul Accola,CH,18
-1993-12-12,Tobias Barnerssoi,DE,20
-1993-12-12,Janne Leskinen,FI,0
-1993-12-12,Marco Hangl,CH,22
-1993-12-12,Josef Polig,IT,0
-1993-12-12,Didrik Marksten,NO,0
-1993-12-12,Casey Snyder,US,0
-1993-12-12,Daron Rahlves,US,0
-1993-12-12,Tobias Hellman,SE,0
-1993-12-12,Asgeir Linberg,NO,0
-1993-12-12,A.J. Kitt,US,0
-1993-12-12,Patrik Jaerbyn,SE,0
-1993-12-12,Yvan Eggenberger,CH,0
-1993-12-12,Ed Podivinsky,CA,0
-1993-12-12,Cary Mullen,CA,0
-1993-12-12,Patrick Ortlieb,AT,0
-1993-12-12,Franco Cavegn,CH,0
-1993-12-12,Mario Reiter,AT,0
-1993-12-12,Patrick Holzer,IT,0
-1993-12-12,Tom Stiansen,NO,0
-1993-12-12,Stefan Krauss,DE,0
-1993-12-12,Pietro Vitalini,IT,0
-1993-12-12,Chad Fleischer,US,0
-1993-12-12,Miran Rauter,SK,0
-1993-12-12,Rainer Salzgeber,AT,0
-1993-12-12,Steve Locher,CH,0
-1993-12-12,Marc Girardelli,LU,24
-1993-12-12,Armin Assinger,AT,0
-1993-12-12,William Besse,CH,32
-1993-12-12,Alessandro Fattori,IT,26
-1993-12-12,Kjetil Andre Aamodt,NO,80
-1993-12-12,Tommy Moe,US,60
-1993-12-12,Frank Piccard,FR,29
-1993-12-12,Markus Wasmeier,DE,36
-1993-12-12,Jan Einar Thorsen,NO,50
-1993-12-12,Atle Skaardal,NO,40
-1993-12-12,Daniel Mahrer,CH,45
-1993-12-22,Werner Perathoner,IT,80
-1993-12-22,Armin Assinger,AT,60
-1993-12-22,Markus Wasmeier,DE,86
-1993-12-22,Marc Girardelli,LU,69
-1993-12-22,Patrick Holzer,IT,1
-1993-12-22,Daniel Mahrer,CH,45
-1993-12-22,Tom Stiansen,NO,2
-1993-12-22,Harald Chr. Strand Nilsen,NO,13
-1993-12-22,Atle Skaardal,NO,80
-1993-12-22,Pietro Vitalini,IT,6
-1993-12-22,Chad Fleischer,US,7
-1993-12-22,Janne Leskinen,FI,36
-1993-12-22,Miran Rauter,SK,8
-1993-12-22,Rainer Salzgeber,AT,10
-1993-12-22,Didrik Marksten,NO,10
-1993-12-22,Mario Reiter,AT,1
-1993-12-22,William Besse,CH,32
-1993-12-22,Guenther Mader,AT,126
-1993-12-22,Marco Hangl,CH,22
-1993-12-22,Stefan Krauss,DE,3
-1993-12-22,Peter Runggaldier,IT,10
-1993-12-22,Casey Snyder,US,0
-1993-12-22,Daron Rahlves,US,0
-1993-12-22,Tobias Hellman,SE,0
-1993-12-22,Asgeir Linberg,NO,0
-1993-12-22,A.J. Kitt,US,0
-1993-12-22,Patrik Jaerbyn,SE,0
-1993-12-22,Yvan Eggenberger,CH,0
-1993-12-22,Ed Podivinsky,CA,0
-1993-12-22,Ian Piccard,FR,16
-1993-12-22,Cary Mullen,CA,0
-1993-12-22,Franco Cavegn,CH,0
-1993-12-22,Kristian Ghedina,IT,1
-1993-12-22,Gianfranco Martin,IT,2
-1993-12-22,Armand Schiele,FR,7
-1993-12-22,Franz Heinzer,CH,11
-1993-12-22,Dietmar Thoeni,AT,13
-1993-12-22,Lasse Arnesen,NO,15
-1993-12-22,Christophe Ple',FR,16
-1993-12-22,Paul Accola,CH,18
-1993-12-22,Tobias Barnerssoi,DE,20
-1993-12-22,Patrick Ortlieb,AT,0
-1993-12-22,Frank Piccard,FR,29
-1993-12-22,Hannes Trinkl,AT,105
-1993-12-22,Alessandro Fattori,IT,46
-1993-12-22,Hans Knauss,AT,38
-1993-12-22,Fredrik Nyberg,SE,20
-1993-12-22,Luc Alphand,FR,23
-1993-12-22,Steve Locher,CH,14
-1993-12-22,Tommy Moe,US,76
-1993-12-22,Jan Einar Thorsen,NO,68
-1993-12-22,Lasse Kjus,NO,32
-1993-12-22,Josef Polig,IT,29
-1993-12-22,Kjetil Andre Aamodt,NO,112
-1993-12-22,Kyle Rasmussen,US,26
-1994-01-23,Tobias Barnerssoi,DE,20
-1994-01-23,Kjetil Andre Aamodt,NO,112
-1994-01-23,William Besse,CH,56
-1994-01-23,Daniel Mahrer,CH,74
-1994-01-23,Steve Locher,CH,26
-1994-01-23,Paul Accola,CH,18
-1994-01-23,Kyle Rasmussen,US,46
-1994-01-23,Marco Hangl,CH,40
-1994-01-23,Franco Cavegn,CH,16
-1994-01-23,Marc Girardelli,LU,169
-1994-01-23,Jan Einar Thorsen,NO,148
-1994-01-23,Guenther Mader,AT,148
-1994-01-23,Lasse Arnesen,NO,15
-1994-01-23,Harald Chr. Strand Nilsen,NO,13
-1994-01-23,Pietro Vitalini,IT,21
-1994-01-23,Tommy Moe,US,102
-1994-01-23,Casey Snyder,US,0
-1994-01-23,Daron Rahlves,US,0
-1994-01-23,Tobias Hellman,SE,0
-1994-01-23,Asgeir Linberg,NO,0
-1994-01-23,A.J. Kitt,US,0
-1994-01-23,Mario Reiter,AT,1
-1994-01-23,Patrick Holzer,IT,1
-1994-01-23,Tom Stiansen,NO,2
-1994-01-23,Stefan Krauss,DE,3
-1994-01-23,Chad Fleischer,US,7
-1994-01-23,Miran Rauter,SK,8
-1994-01-23,Rainer Salzgeber,AT,10
-1994-01-23,Didrik Marksten,NO,10
-1994-01-23,Josef Polig,IT,29
-1994-01-23,Janne Leskinen,FI,36
-1994-01-23,Werner Perathoner,IT,80
-1994-01-23,Gianfranco Martin,IT,2
-1994-01-23,Armand Schiele,FR,7
-1994-01-23,Franz Heinzer,CH,11
-1994-01-23,Atle Skaardal,NO,140
-1994-01-23,Frank Piccard,FR,29
-1994-01-23,Christophe Ple',FR,28
-1994-01-23,Luc Alphand,FR,29
-1994-01-23,Patrik Jaerbyn,SE,3
-1994-01-23,Dietmar Thoeni,AT,15
-1994-01-23,Markus Wasmeier,DE,131
-1994-01-23,Peter Runggaldier,IT,22
-1994-01-23,Fredrik Nyberg,SE,21
-1994-01-23,Lasse Kjus,NO,64
-1994-01-23,Hans Knauss,AT,74
-1994-01-23,Patrick Ortlieb,AT,14
-1994-01-23,Ian Piccard,FR,21
-1994-01-23,Cary Mullen,CA,13
-1994-01-23,Alessandro Fattori,IT,58
-1994-01-23,Hannes Trinkl,AT,145
-1994-01-23,Armin Assinger,AT,110
-1994-01-23,Kristian Ghedina,IT,9
-1994-01-23,Yvan Eggenberger,CH,5
-1994-01-23,Ed Podivinsky,CA,8
-1994-03-13,Ian Piccard,FR,29
-1994-03-13,Hannes Trinkl,AT,145
-1994-03-13,Fredrik Nyberg,SE,21
-1994-03-13,Dietmar Thoeni,AT,15
-1994-03-13,Harald Chr. Strand Nilsen,NO,13
-1994-03-13,Kyle Rasmussen,US,82
-1994-03-13,Markus Wasmeier,DE,141
-1994-03-13,Armand Schiele,FR,7
-1994-03-13,Tobias Barnerssoi,DE,20
-1994-03-13,Kristian Ghedina,IT,9
-1994-03-13,Janne Leskinen,FI,36
-1994-03-13,Frank Piccard,FR,40
-1994-03-13,Asgeir Linberg,NO,4
-1994-03-13,A.J. Kitt,US,4
-1994-03-13,Casey Snyder,US,0
-1994-03-13,Daron Rahlves,US,0
-1994-03-13,Yvan Eggenberger,CH,5
-1994-03-13,Ed Podivinsky,CA,8
-1994-03-13,Franco Cavegn,CH,16
-1994-03-13,Mario Reiter,AT,1
-1994-03-13,Patrick Holzer,IT,1
-1994-03-13,Tom Stiansen,NO,2
-1994-03-13,Stefan Krauss,DE,3
-1994-03-13,Pietro Vitalini,IT,21
-1994-03-13,Chad Fleischer,US,7
-1994-03-13,Miran Rauter,SK,8
-1994-03-13,Rainer Salzgeber,AT,10
-1994-03-13,Didrik Marksten,NO,10
-1994-03-13,Steve Locher,CH,26
-1994-03-13,Josef Polig,IT,29
-1994-03-13,Gianfranco Martin,IT,2
-1994-03-13,Paul Accola,CH,25
-1994-03-13,Patrick Ortlieb,AT,23
-1994-03-13,Luc Alphand,FR,42
-1994-03-13,Marc Girardelli,LU,249
-1994-03-13,Lasse Kjus,NO,114
-1994-03-13,Jan Einar Thorsen,NO,180
-1994-03-13,Tommy Moe,US,202
-1994-03-13,Guenther Mader,AT,180
-1994-03-13,Franz Heinzer,CH,27
-1994-03-13,Kjetil Andre Aamodt,NO,157
-1994-03-13,Cary Mullen,CA,58
-1994-03-13,Lasse Arnesen,NO,35
-1994-03-13,Patrik Jaerbyn,SE,4
-1994-03-13,Daniel Mahrer,CH,96
-1994-03-13,Peter Runggaldier,IT,36
-1994-03-13,Tobias Hellman,SE,2
-1994-03-13,Hans Knauss,AT,92
-1994-03-13,William Besse,CH,69
-1994-03-13,Christophe Ple',FR,34
-1994-03-13,Alessandro Fattori,IT,64
-1994-03-13,Marco Hangl,CH,55
-1994-03-13,Atle Skaardal,NO,166
-1994-03-13,Werner Perathoner,IT,140
-1994-03-13,Armin Assinger,AT,134
-1994-03-17,Steve Locher,CH,26
-1994-03-17,Didrik Marksten,NO,10
-1994-03-17,Pietro Vitalini,IT,21
-1994-03-17,Miran Rauter,SK,8
-1994-03-17,Chad Fleischer,US,7
-1994-03-17,Janne Leskinen,FI,36
-1994-03-17,Kristian Ghedina,IT,9
-1994-03-17,Gianfranco Martin,IT,2
-1994-03-17,Josef Polig,IT,29
-1994-03-17,Rainer Salzgeber,AT,10
-1994-03-17,Yvan Eggenberger,CH,5
-1994-03-17,Patrik Jaerbyn,SE,4
-1994-03-17,Werner Perathoner,IT,155
-1994-03-17,Tom Stiansen,NO,2
-1994-03-17,Patrick Holzer,IT,1
-1994-03-17,Mario Reiter,AT,1
-1994-03-17,Ian Piccard,FR,29
-1994-03-17,Daron Rahlves,US,11
-1994-03-17,Franco Cavegn,CH,16
-1994-03-17,Tobias Hellman,SE,2
-1994-03-17,Ed Podivinsky,CA,8
-1994-03-17,Asgeir Linberg,NO,4
-1994-03-17,A.J. Kitt,US,4
-1994-03-17,Stefan Krauss,DE,3
-1994-03-17,Peter Runggaldier,IT,36
-1994-03-17,Alessandro Fattori,IT,64
-1994-03-17,Harald Chr. Strand Nilsen,NO,13
-1994-03-17,Tommy Moe,US,242
-1994-03-17,Frank Piccard,FR,52
-1994-03-17,Casey Snyder,US,10
-1994-03-17,Marc Girardelli,LU,275
-1994-03-17,Fredrik Nyberg,SE,50
-1994-03-17,Atle Skaardal,NO,202
-1994-03-17,Markus Wasmeier,DE,156
-1994-03-17,Luc Alphand,FR,66
-1994-03-17,Daniel Mahrer,CH,141
-1994-03-17,Guenther Mader,AT,202
-1994-03-17,Hannes Trinkl,AT,165
-1994-03-17,Patrick Ortlieb,AT,41
-1994-03-17,Armand Schiele,FR,7
-1994-03-17,Kyle Rasmussen,US,114
-1994-03-17,Jan Einar Thorsen,NO,280
-1994-03-17,Kjetil Andre Aamodt,NO,207
-1994-03-17,Lasse Kjus,NO,194
-1994-03-17,William Besse,CH,69
-1994-03-17,Armin Assinger,AT,147
-1994-03-17,Marco Hangl,CH,55
-1994-03-17,Tobias Barnerssoi,DE,20
-1994-03-17,Paul Accola,CH,25
-1994-03-17,Christophe Ple',FR,34
-1994-03-17,Lasse Arnesen,NO,35
-1994-03-17,Dietmar Thoeni,AT,15
-1994-03-17,Franz Heinzer,CH,27
-1994-03-17,Cary Mullen,CA,74
-1994-03-17,Hans Knauss,AT,152
+1993-12-22,Katja Koren,SK,100
+1993-12-22,Carole Merle,FR,0
+1993-12-22,Anita Wachter,AT,0
+1993-12-22,Hilde Gerg,DE,0
+1993-12-22,Lucia Medzihradska,SK,1
+1993-12-22,Stefanie Schuster,AT,2
+1993-12-22,Diann Roffe Steinrotter,US,3
+1993-12-22,Florence Masnada,FR,4
+1993-12-22,Sylvia Eder,AT,5
+1993-12-22,Martina Osterried,DE,6
+1993-12-22,Kerrin Lee- Gartner,CA,7
+1993-12-22,Heidi Zurbriggen,CH,0
+1993-12-22,Miriam Vogt,DE,8
+1993-12-22,Ainhoa Ibarra Astelarra,ES,10
+1993-12-22,Svetlana Gladishiva,RU,11
+1993-12-22,Katyuscia Demez,IT,12
+1993-12-22,Marianne Kjoerstad,NO,13
+1993-12-22,Regina Haeusl,DE,14
+1993-12-22,Heidi Zeller - Baehler,CH,15
+1993-12-22,Isolde Kostner,IT,16
+1993-12-22,Christina Meier,DE,18
+1993-12-22,Ulrike Maier,AT,20
+1993-12-22,Rosi Renoth,DE,22
+1993-12-22,Barbara Merlin,IT,9
+1993-12-22,Alexandra Meissnitzer,AT,0
+1993-12-22,Spela Pretnar,SK,0
+1993-12-22,Hilary Lindh,US,0
+1993-12-22,Andrine Flemmen,NO,0
+1993-12-22,Cornelia Meusburger,AT,0
+1993-12-22,Anne Berge,NO,0
+1993-12-22,Renate Goetschl,AT,0
+1993-12-22,Picabo Street,US,0
+1993-12-22,Eva Twardokens,US,0
+1993-12-22,Krista Schmidinger,US,0
+1993-12-22,Michelle Ruthven Mckendry,CA,0
+1993-12-22,Carole Montillet,FR,0
+1993-12-22,Megan Gerety,US,0
+1993-12-22,Anja Haas,AT,0
+1993-12-22,Vreni Schneider,CH,0
+1993-12-22,Sophie Lefranc Duvillard,FR,0
+1993-12-22,Warwara Zelenskaja,RU,0
+1993-12-22,Veronika Stallmaier Wallinger,AT,0
+1993-12-22,Barbara Sadleder,AT,0
+1993-12-22,Manuela Heubi,CH,0
+1993-12-22,Shannon Nobis,US,0
+1993-12-22,Monika Kogler,AT,0
+1993-12-22,Ulrike Stangassinger,DE,0
+1993-12-22,Regine Cavagnoud,FR,0
+1993-12-22,Michaela Dorfmeister,AT,0
+1993-12-22,Melanie Suchet,FR,0
+1993-12-22,Katharina Gutensohn,DE,24
+1993-12-22,Martina Ertl,DE,26
+1993-12-22,Tatiana Lebedeva,RU,0
+1993-12-22,Deborah Compagnoni,IT,29
+1993-12-22,Bibiana Perez,IT,80
+1993-12-22,Katja Seizinger,DE,60
+1993-12-22,Morena Gallizio Tescari,IT,50
+1993-12-22,Alenka Dovzan,SK,45
+1993-12-22,Pernilla Wiberg,SE,40
+1993-12-22,Michaela Gerg-Leitner,DE,32
+1993-12-22,Astrid Loedemel,NO,36
+1994-01-15,Barbara Sadleder,AT,5
+1994-01-15,Morena Gallizio Tescari,IT,50
+1994-01-15,Katja Koren,SK,100
+1994-01-15,Katja Seizinger,DE,160
+1994-01-15,Shannon Nobis,US,10
+1994-01-15,Ulrike Maier,AT,100
+1994-01-15,Manuela Heubi,CH,9
+1994-01-15,Kerrin Lee- Gartner,CA,67
+1994-01-15,Katharina Gutensohn,DE,32
+1994-01-15,Bibiana Perez,IT,130
+1994-01-15,Pernilla Wiberg,SE,85
+1994-01-15,Barbara Merlin,IT,16
+1994-01-15,Alenka Dovzan,SK,45
+1994-01-15,Hilde Gerg,DE,40
+1994-01-15,Martina Ertl,DE,28
+1994-01-15,Anita Wachter,AT,40
+1994-01-15,Tatiana Lebedeva,RU,4
+1994-01-15,Diann Roffe Steinrotter,US,7
+1994-01-15,Svetlana Gladishiva,RU,17
+1994-01-15,Katyuscia Demez,IT,12
+1994-01-15,Michaela Gerg-Leitner,DE,32
+1994-01-15,Rosi Renoth,DE,22
+1994-01-15,Andrine Flemmen,NO,0
+1994-01-15,Cornelia Meusburger,AT,0
+1994-01-15,Anne Berge,NO,0
+1994-01-15,Renate Goetschl,AT,0
+1994-01-15,Picabo Street,US,0
+1994-01-15,Eva Twardokens,US,0
+1994-01-15,Krista Schmidinger,US,0
+1994-01-15,Michelle Ruthven Mckendry,CA,0
+1994-01-15,Carole Montillet,FR,0
+1994-01-15,Megan Gerety,US,0
+1994-01-15,Anja Haas,AT,0
+1994-01-15,Astrid Loedemel,NO,36
+1994-01-15,Vreni Schneider,CH,0
+1994-01-15,Warwara Zelenskaja,RU,0
+1994-01-15,Veronika Stallmaier Wallinger,AT,0
+1994-01-15,Florence Masnada,FR,4
+1994-01-15,Martina Osterried,DE,6
+1994-01-15,Miriam Vogt,DE,8
+1994-01-15,Ainhoa Ibarra Astelarra,ES,10
+1994-01-15,Marianne Kjoerstad,NO,13
+1994-01-15,Regina Haeusl,DE,14
+1994-01-15,Heidi Zeller - Baehler,CH,15
+1994-01-15,Isolde Kostner,IT,16
+1994-01-15,Christina Meier,DE,18
+1994-01-15,Sophie Lefranc Duvillard,FR,0
+1994-01-15,Monika Kogler,AT,11
+1994-01-15,Lucia Medzihradska,SK,2
+1994-01-15,Alexandra Meissnitzer,AT,24
+1994-01-15,Carole Merle,FR,32
+1994-01-15,Melanie Suchet,FR,20
+1994-01-15,Ulrike Stangassinger,DE,12
+1994-01-15,Deborah Compagnoni,IT,45
+1994-01-15,Sylvia Eder,AT,18
+1994-01-15,Hilary Lindh,US,20
+1994-01-15,Regine Cavagnoud,FR,14
+1994-01-15,Michaela Dorfmeister,AT,15
+1994-01-15,Spela Pretnar,SK,22
+1994-01-15,Stefanie Schuster,AT,28
+1994-01-15,Heidi Zurbriggen,CH,29
+1994-01-17,Ainhoa Ibarra Astelarra,ES,10
+1994-01-17,Barbara Merlin,IT,16
+1994-01-17,Miriam Vogt,DE,8
+1994-01-17,Kerrin Lee- Gartner,CA,67
+1994-01-17,Anja Haas,AT,3
+1994-01-17,Katyuscia Demez,IT,12
+1994-01-17,Michaela Dorfmeister,AT,16
+1994-01-17,Lucia Medzihradska,SK,2
+1994-01-17,Hilde Gerg,DE,40
+1994-01-17,Carole Merle,FR,32
+1994-01-17,Alexandra Meissnitzer,AT,24
+1994-01-17,Tatiana Lebedeva,RU,6
+1994-01-17,Deborah Compagnoni,IT,77
+1994-01-17,Martina Osterried,DE,6
+1994-01-17,Anita Wachter,AT,85
+1994-01-17,Morena Gallizio Tescari,IT,50
+1994-01-17,Warwara Zelenskaja,RU,15
+1994-01-17,Michaela Gerg-Leitner,DE,32
+1994-01-17,Astrid Loedemel,NO,36
+1994-01-17,Katja Seizinger,DE,210
+1994-01-17,Heidi Zeller - Baehler,CH,44
+1994-01-17,Katja Koren,SK,126
+1994-01-17,Ulrike Maier,AT,160
+1994-01-17,Bibiana Perez,IT,154
+1994-01-17,Heidi Zurbriggen,CH,51
+1994-01-17,Hilary Lindh,US,36
+1994-01-17,Isolde Kostner,IT,28
+1994-01-17,Pernilla Wiberg,SE,185
+1994-01-17,Alenka Dovzan,SK,145
+1994-01-17,Florence Masnada,FR,24
+1994-01-17,Katharina Gutensohn,DE,32
+1994-01-17,Spela Pretnar,SK,22
+1994-01-17,Veronika Stallmaier Wallinger,AT,18
+1994-01-17,Rosi Renoth,DE,30
+1994-01-17,Regina Haeusl,DE,23
+1994-01-17,Sophie Lefranc Duvillard,FR,11
+1994-01-17,Regine Cavagnoud,FR,50
+1994-01-17,Marianne Kjoerstad,NO,26
+1994-01-17,Sylvia Eder,AT,58
+1994-01-17,Andrine Flemmen,NO,0
+1994-01-17,Cornelia Meusburger,AT,0
+1994-01-17,Vreni Schneider,CH,7
+1994-01-17,Anne Berge,NO,0
+1994-01-17,Picabo Street,US,0
+1994-01-17,Diann Roffe Steinrotter,US,13
+1994-01-17,Eva Twardokens,US,0
+1994-01-17,Renate Goetschl,AT,0
+1994-01-17,Michelle Ruthven Mckendry,CA,0
+1994-01-17,Melanie Suchet,FR,20
+1994-01-17,Ulrike Stangassinger,DE,12
+1994-01-17,Monika Kogler,AT,11
+1994-01-17,Krista Schmidinger,US,0
+1994-01-17,Martina Ertl,DE,42
+1994-01-17,Shannon Nobis,US,10
+1994-01-17,Christina Meier,DE,22
+1994-01-17,Barbara Sadleder,AT,5
+1994-01-17,Megan Gerety,US,0
+1994-01-17,Svetlana Gladishiva,RU,22
+1994-01-17,Carole Montillet,FR,0
+1994-01-17,Manuela Heubi,CH,9
+1994-01-17,Stefanie Schuster,AT,38
+1994-02-06,Sylvia Eder,AT,58
+1994-02-06,Svetlana Gladishiva,RU,22
+1994-02-06,Martina Osterried,DE,6
+1994-02-06,Kerrin Lee- Gartner,CA,67
+1994-02-06,Miriam Vogt,DE,8
+1994-02-06,Megan Gerety,US,29
+1994-02-06,Ainhoa Ibarra Astelarra,ES,10
+1994-02-06,Vreni Schneider,CH,27
+1994-02-06,Katyuscia Demez,IT,12
+1994-02-06,Ulrike Maier,AT,160
+1994-02-06,Carole Montillet,FR,24
+1994-02-06,Rosi Renoth,DE,30
+1994-02-06,Deborah Compagnoni,IT,77
+1994-02-06,Michaela Gerg-Leitner,DE,32
+1994-02-06,Katja Seizinger,DE,236
+1994-02-06,Astrid Loedemel,NO,36
+1994-02-06,Pernilla Wiberg,SE,185
+1994-02-06,Michelle Ruthven Mckendry,CA,22
+1994-02-06,Diann Roffe Steinrotter,US,25
+1994-02-06,Alexandra Meissnitzer,AT,24
+1994-02-06,Martina Ertl,DE,43
+1994-02-06,Heidi Zurbriggen,CH,96
+1994-02-06,Sophie Lefranc Duvillard,FR,11
+1994-02-06,Anja Haas,AT,3
+1994-02-06,Picabo Street,US,0
+1994-02-06,Florence Masnada,FR,42
+1994-02-06,Stefanie Schuster,AT,38
+1994-02-06,Renate Goetschl,AT,0
+1994-02-06,Eva Twardokens,US,2
+1994-02-06,Anne Berge,NO,0
+1994-02-06,Cornelia Meusburger,AT,0
+1994-02-06,Lucia Medzihradska,SK,6
+1994-02-06,Hilary Lindh,US,51
+1994-02-06,Marianne Kjoerstad,NO,30
+1994-02-06,Ulrike Stangassinger,DE,52
+1994-02-06,Andrine Flemmen,NO,0
+1994-02-06,Alenka Dovzan,SK,150
+1994-02-06,Krista Schmidinger,US,6
+1994-02-06,Heidi Zeller - Baehler,CH,51
+1994-02-06,Regina Haeusl,DE,31
+1994-02-06,Katja Koren,SK,135
+1994-02-06,Melanie Suchet,FR,33
+1994-02-06,Regine Cavagnoud,FR,86
+1994-02-06,Barbara Merlin,IT,26
+1994-02-06,Christina Meier,DE,33
+1994-02-06,Morena Gallizio Tescari,IT,64
+1994-02-06,Veronika Stallmaier Wallinger,AT,18
+1994-02-06,Anita Wachter,AT,85
+1994-02-06,Warwara Zelenskaja,RU,65
+1994-02-06,Hilde Gerg,DE,140
+1994-02-06,Tatiana Lebedeva,RU,6
+1994-02-06,Spela Pretnar,SK,38
+1994-02-06,Isolde Kostner,IT,108
+1994-02-06,Michaela Dorfmeister,AT,16
+1994-02-06,Monika Kogler,AT,11
+1994-02-06,Katharina Gutensohn,DE,92
+1994-02-06,Carole Merle,FR,32
+1994-02-06,Manuela Heubi,CH,9
+1994-02-06,Bibiana Perez,IT,186
+1994-02-06,Barbara Sadleder,AT,5
+1994-02-06,Shannon Nobis,US,10
+1994-03-09,Ulrike Maier,AT,160
+1994-03-09,Ulrike Stangassinger,DE,52
+1994-03-09,Monika Kogler,AT,11
+1994-03-09,Manuela Heubi,CH,9
+1994-03-09,Christina Meier,DE,33
+1994-03-09,Ainhoa Ibarra Astelarra,ES,10
+1994-03-09,Martina Osterried,DE,6
+1994-03-09,Regina Haeusl,DE,31
+1994-03-09,Rosi Renoth,DE,30
+1994-03-09,Barbara Merlin,IT,26
+1994-03-09,Florence Masnada,FR,42
+1994-03-09,Katyuscia Demez,IT,12
+1994-03-09,Tatiana Lebedeva,RU,6
+1994-03-09,Warwara Zelenskaja,RU,65
+1994-03-09,Morena Gallizio Tescari,IT,64
+1994-03-09,Stefanie Schuster,AT,38
+1994-03-09,Anja Haas,AT,3
+1994-03-09,Astrid Loedemel,NO,36
+1994-03-09,Lucia Medzihradska,SK,6
+1994-03-09,Megan Gerety,US,29
+1994-03-09,Carole Montillet,FR,24
+1994-03-09,Michelle Ruthven Mckendry,CA,22
+1994-03-09,Krista Schmidinger,US,6
+1994-03-09,Michaela Dorfmeister,AT,16
+1994-03-09,Melanie Suchet,FR,33
+1994-03-09,Alexandra Meissnitzer,AT,24
+1994-03-09,Eva Twardokens,US,2
+1994-03-09,Andrine Flemmen,NO,0
+1994-03-09,Spela Pretnar,SK,38
+1994-03-09,Michaela Gerg-Leitner,DE,32
+1994-03-09,Barbara Sadleder,AT,5
+1994-03-09,Vreni Schneider,CH,56
+1994-03-09,Cornelia Meusburger,AT,10
+1994-03-09,Anne Berge,NO,10
+1994-03-09,Heidi Zeller - Baehler,CH,87
+1994-03-09,Marianne Kjoerstad,NO,41
+1994-03-09,Anita Wachter,AT,97
+1994-03-09,Katja Koren,SK,148
+1994-03-09,Deborah Compagnoni,IT,91
+1994-03-09,Miriam Vogt,DE,16
+1994-03-09,Renate Goetschl,AT,15
+1994-03-09,Regine Cavagnoud,FR,118
+1994-03-09,Heidi Zurbriggen,CH,114
+1994-03-09,Katharina Gutensohn,DE,118
+1994-03-09,Katja Seizinger,DE,336
+1994-03-09,Carole Merle,FR,52
+1994-03-09,Alenka Dovzan,SK,174
+1994-03-09,Diann Roffe Steinrotter,US,41
+1994-03-09,Shannon Nobis,US,18
+1994-03-09,Picabo Street,US,22
+1994-03-09,Hilary Lindh,US,57
+1994-03-09,Kerrin Lee- Gartner,CA,107
+1994-03-09,Bibiana Perez,IT,266
+1994-03-09,Veronika Stallmaier Wallinger,AT,23
+1994-03-09,Pernilla Wiberg,SE,189
+1994-03-09,Sophie Lefranc Duvillard,FR,14
+1994-03-09,Isolde Kostner,IT,110
+1994-03-09,Svetlana Gladishiva,RU,23
+1994-03-09,Hilde Gerg,DE,200
+1994-03-09,Sylvia Eder,AT,103
+1994-03-09,Martina Ertl,DE,93
+1994-03-17,Miriam Vogt,DE,16
+1994-03-17,Martina Osterried,DE,6
+1994-03-17,Florence Masnada,FR,42
+1994-03-17,Michaela Dorfmeister,AT,16
+1994-03-17,Spela Pretnar,SK,38
+1994-03-17,Melanie Suchet,FR,33
+1994-03-17,Hilde Gerg,DE,200
+1994-03-17,Lucia Medzihradska,SK,6
+1994-03-17,Alexandra Meissnitzer,AT,24
+1994-03-17,Carole Merle,FR,52
+1994-03-17,Ulrike Stangassinger,DE,52
+1994-03-17,Stefanie Schuster,AT,38
+1994-03-17,Diann Roffe Steinrotter,US,141
+1994-03-17,Sophie Lefranc Duvillard,FR,14
+1994-03-17,Manuela Heubi,CH,9
+1994-03-17,Barbara Sadleder,AT,5
+1994-03-17,Tatiana Lebedeva,RU,6
+1994-03-17,Veronika Stallmaier Wallinger,AT,23
+1994-03-17,Warwara Zelenskaja,RU,65
+1994-03-17,Barbara Merlin,IT,26
+1994-03-17,Anja Haas,AT,3
+1994-03-17,Megan Gerety,US,29
+1994-03-17,Carole Montillet,FR,24
+1994-03-17,Michelle Ruthven Mckendry,CA,22
+1994-03-17,Krista Schmidinger,US,6
+1994-03-17,Eva Twardokens,US,2
+1994-03-17,Picabo Street,US,22
+1994-03-17,Renate Goetschl,AT,15
+1994-03-17,Monika Kogler,AT,11
+1994-03-17,Ainhoa Ibarra Astelarra,ES,10
+1994-03-17,Regine Cavagnoud,FR,144
+1994-03-17,Katyuscia Demez,IT,12
+1994-03-17,Katja Seizinger,DE,416
+1994-03-17,Anne Berge,NO,10
+1994-03-17,Anita Wachter,AT,157
+1994-03-17,Sylvia Eder,AT,153
+1994-03-17,Heidi Zurbriggen,CH,159
+1994-03-17,Kerrin Lee- Gartner,CA,147
+1994-03-17,Martina Ertl,DE,129
+1994-03-17,Hilary Lindh,US,71
+1994-03-17,Andrine Flemmen,NO,15
+1994-03-17,Marianne Kjoerstad,NO,57
+1994-03-17,Katharina Gutensohn,DE,136
+1994-03-17,Katja Koren,SK,180
+1994-03-17,Shannon Nobis,US,38
+1994-03-17,Vreni Schneider,CH,88
+1994-03-17,Heidi Zeller - Baehler,CH,109
+1994-03-17,Alenka Dovzan,SK,198
+1994-03-17,Bibiana Perez,IT,266
+1994-03-17,Morena Gallizio Tescari,IT,64
+1994-03-17,Pernilla Wiberg,SE,189
+1994-03-17,Astrid Loedemel,NO,36
+1994-03-17,Michaela Gerg-Leitner,DE,32
+1994-03-17,Deborah Compagnoni,IT,91
+1994-03-17,Rosi Renoth,DE,30
+1994-03-17,Ulrike Maier,AT,160
+1994-03-17,Christina Meier,DE,33
+1994-03-17,Isolde Kostner,IT,110
+1994-03-17,Regina Haeusl,DE,31
+1994-03-17,Svetlana Gladishiva,RU,23
+1994-03-17,Cornelia Meusburger,AT,10

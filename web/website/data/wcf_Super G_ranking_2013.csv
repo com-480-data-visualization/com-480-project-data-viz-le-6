@@ -1,366 +1,337 @@
 date,name,ath_country,value
-2012-11-25,Aksel-Lund Svindal,NO,100
-2012-11-25,Kjetil Jansrud,NO,14
-2012-11-25,Thomas Tumler,CH,0
-2012-11-25,Manuel Osborne-Paradis,CA,0
-2012-11-25,Steven Nyman,US,0
-2012-11-25,Silvano Varettoni,IT,0
-2012-11-25,Georg Streitberger,AT,15
-2012-11-25,Marvin Ackermann,DE,0
-2012-11-25,Frederic Berthold,AT,0
-2012-11-25,Brice Roger,FR,0
-2012-11-25,Klaus Kroell,AT,16
-2012-11-25,Alexis Pinturault,FR,0
-2012-11-25,Philipp Zepnik,DE,0
-2012-11-25,Mirko Deflorian,MD,0
-2012-11-25,Yuri Danilochkin,BY,0
-2012-11-25,Dmitriy Koshkin,KZ,0
-2012-11-25,John Kucera,CA,18
-2012-11-25,Tim Jitloff,US,0
-2012-11-25,Daniel Ericsson,SE,0
-2012-11-25,Wiley Maple,US,0
-2012-11-25,Ralph Weber,CH,0
-2012-11-25,Johan Clarey,FR,20
-2012-11-25,Nick Daniels,US,0
-2012-11-25,Paolo Pangrazzi,IT,0
-2012-11-25,Luca De Aliprandini,IT,0
-2012-11-25,Cristian Javier Simari Birkner,AR,0
-2012-11-25,Tilen Debelak,SK,0
-2012-11-25,Ivica Kostelic,HR,5
-2012-11-25,Christof Innerhofer,IT,7
-2012-11-25,Silvan Zurbriggen,CH,4
-2012-11-25,Dustin Cook,CA,3
-2012-11-25,Romed Baumann,AT,8
-2012-11-25,Thomas Biesemeyer,US,2
-2012-11-25,Tobias Stechert,DE,1
-2012-11-25,Hannes Reichelt,AT,9
-2012-11-25,Thomas Baldwin,GB,0
-2012-11-25,Maciej Bydlinski,PL,0
-2012-11-25,Yannick Bertrand,FR,11
-2012-11-25,Ryan Cochran-Siegle,US,11
-2012-11-25,Marc Oliveras,AD,0
-2012-11-25,Matts Olsson,SE,0
-2012-11-25,Andrew Weibrecht,US,12
-2012-11-25,Thomas Mermillod,FR,0
-2012-11-25,Doglas Hedin,SE,0
-2012-11-25,Brennan Rubie,US,0
-2012-11-25,Marcel Hirscher,AT,0
-2012-11-25,Gino Caviezel,CH,0
-2012-11-25,Marc Berthod,CH,0
-2012-11-25,Massimiliano Blardone,IT,0
-2012-11-25,Jan Hudec,CA,13
-2012-11-25,Fernando Schmed,CH,0
-2012-11-25,Peter Fill,IT,22
-2012-11-25,Max Ullrich,HR,0
-2012-11-25,Matthias Mayer,AT,40
-2012-11-25,Adrien Theaux,FR,80
-2012-11-25,Joachim Puchner,AT,60
-2012-11-25,Ted Ligety,US,50
-2012-11-25,Werner Heel,IT,45
-2012-11-25,Andreas Romar,FI,36
-2012-11-25,Max Franz,AT,32
-2012-11-25,Matteo Marsaglia,IT,29
-2012-11-25,Patrick Kueng,CH,26
-2012-11-25,Sandro Viletta,CH,6
-2012-11-25,Erik Guay,CA,24
-2012-12-01,Benjamin Raich,AT,0
-2012-12-01,Brice Roger,FR,0
-2012-12-01,Philipp Zepnik,DE,0
-2012-12-01,Max Franz,AT,32
-2012-12-01,Paolo Pangrazzi,IT,0
-2012-12-01,Mirko Deflorian,MD,0
-2012-12-01,Yuri Danilochkin,BY,0
-2012-12-01,Dmitriy Koshkin,KZ,0
-2012-12-01,Tobias Stechert,DE,1
-2012-12-01,Tim Jitloff,US,0
-2012-12-01,Jared Goldberg,US,1
-2012-12-01,Daniel Ericsson,SE,0
-2012-12-01,Wiley Maple,US,0
-2012-12-01,Dominik Paris,IT,2
-2012-12-01,Ralph Weber,CH,0
-2012-12-01,Romed Baumann,AT,11
-2012-12-01,Andrew Weibrecht,US,12
-2012-12-01,Nick Daniels,US,0
-2012-12-01,Brennan Rubie,US,4
-2012-12-01,Fernando Schmed,CH,0
-2012-12-01,Ivica Kostelic,HR,10
-2012-12-01,Max Ullrich,HR,0
-2012-12-01,Joachim Puchner,AT,70
-2012-12-01,Frederic Berthold,AT,0
-2012-12-01,Marvin Ackermann,DE,0
-2012-12-01,Adrien Theaux,FR,86
-2012-12-01,Silvano Varettoni,IT,0
-2012-12-01,Josef Ferstl,DE,0
-2012-12-01,Iver Bjerkestrand,NO,0
-2012-12-01,Travis Ganong,US,0
-2012-12-01,Natko Zrncic-Dim,HR,0
-2012-12-01,Rok Perko,SK,0
-2012-12-01,David Poisson,FR,0
-2012-12-01,Alexandre Bouillot,FR,0
-2012-12-01,Jeffrey Frisch,CA,0
-2012-12-01,Vitus Lueoend,CH,0
-2012-12-01,Othmar Striedinger,AT,0
-2012-12-01,Stephan Keppler,DE,0
-2012-12-01,Paul De La Cuesta,ES,0
-2012-12-01,Marc Gisin,CH,0
-2012-12-01,Maciej Bydlinski,PL,0
-2012-12-01,Marc Oliveras,AD,0
-2012-12-01,Matts Olsson,SE,0
-2012-12-01,Luca De Aliprandini,IT,0
-2012-12-01,Alexis Pinturault,FR,0
-2012-12-01,Dustin Cook,CA,3
-2012-12-01,Thomas Tumler,CH,0
-2012-12-01,Manuel Osborne-Paradis,CA,0
-2012-12-01,Steven Nyman,US,0
-2012-12-01,Marvin Van Heek,NL,0
-2012-12-01,Ryan Cochran-Siegle,US,11
-2012-12-01,Peter Fill,IT,22
-2012-12-01,Florian Scheiber,AT,22
-2012-12-01,Hannes Reichelt,AT,69
-2012-12-01,Siegmar Klotz,IT,13
-2012-12-01,Carlo Janka,CH,13
-2012-12-01,Thomas Biesemeyer,US,15
-2012-12-01,Doglas Hedin,SE,9
-2012-12-01,Ted Ligety,US,100
-2012-12-01,Christof Innerhofer,IT,21
-2012-12-01,Werner Heel,IT,90
-2012-12-01,Kjetil Jansrud,NO,54
-2012-12-01,Didier Defago,CH,15
-2012-12-01,Aksel-Lund Svindal,NO,180
-2012-12-01,Matthias Mayer,AT,76
-2012-12-01,Guillermo Fayed,FR,16
-2012-12-01,Klaus Kroell,AT,24
-2012-12-01,Gauthier De Tessieres,FR,32
-2012-12-01,Erik Guay,CA,48
-2012-12-01,Thomas Mermillod,FR,29
-2012-12-01,Georg Streitberger,AT,33
-2012-12-01,Johan Clarey,FR,40
-2012-12-01,Jan Hudec,CA,39
-2012-12-01,Matteo Marsaglia,IT,129
-2012-12-01,Patrick Kueng,CH,33
-2012-12-14,Matteo Marsaglia,IT,209
-2012-12-14,Fernando Schmed,CH,0
-2012-12-14,Werner Heel,IT,150
-2012-12-14,Christof Innerhofer,IT,47
-2012-12-14,Kjetil Jansrud,NO,104
-2012-12-14,Joachim Puchner,AT,99
-2012-12-14,Adrien Theaux,FR,131
-2012-12-14,Matthias Mayer,AT,116
-2012-12-14,Johan Clarey,FR,72
-2012-12-14,Klaus Kroell,AT,60
-2012-12-14,Aksel-Lund Svindal,NO,280
-2012-12-14,Marc Oliveras,AD,0
-2012-12-14,Patrick Kueng,CH,33
-2012-12-14,Nick Daniels,US,0
-2012-12-14,Ralph Weber,CH,0
-2012-12-14,Wiley Maple,US,0
-2012-12-14,Daniel Ericsson,SE,0
-2012-12-14,Tim Jitloff,US,0
-2012-12-14,Thomas Tumler,CH,0
-2012-12-14,Alexis Pinturault,FR,0
-2012-12-14,Luca De Aliprandini,IT,0
-2012-12-14,Cristian Javier Simari Birkner,AR,0
-2012-12-14,Tilen Debelak,SK,0
-2012-12-14,Massimiliano Blardone,IT,0
-2012-12-14,Marc Berthod,CH,0
-2012-12-14,Gino Caviezel,CH,0
-2012-12-14,Max Franz,AT,32
-2012-12-14,Marcel Hirscher,AT,0
-2012-12-14,Doglas Hedin,SE,9
-2012-12-14,Maciej Bydlinski,PL,0
-2012-12-14,Thomas Baldwin,GB,0
-2012-12-14,Jared Goldberg,US,1
-2012-12-14,Klemen Kosi,SK,0
-2012-12-14,Iver Bjerkestrand,NO,0
-2012-12-14,Josef Ferstl,DE,0
-2012-12-14,Tobias Gruenenfelder,CH,0
-2012-12-14,Natko Zrncic-Dim,HR,0
-2012-12-14,Jeffrey Frisch,CA,0
-2012-12-14,Tobias Stechert,DE,1
-2012-12-14,Sandro Viletta,CH,6
-2012-12-14,Hannes Reichelt,AT,93
-2012-12-14,Brennan Rubie,US,4
-2012-12-14,Ryan Cochran-Siegle,US,11
-2012-12-14,Max Ullrich,HR,0
-2012-12-14,Erik Guay,CA,66
-2012-12-14,Andreas Sander,DE,1
-2012-12-14,Rok Perko,SK,15
-2012-12-14,David Poisson,FR,4
-2012-12-14,Thomas Biesemeyer,US,19
-2012-12-14,Ivica Kostelic,HR,18
-2012-12-14,Steven Nyman,US,2
-2012-12-14,Silvan Zurbriggen,CH,22
-2012-12-14,Manuel Osborne-Paradis,CA,13
-2012-12-14,Georg Streitberger,AT,47
-2012-12-14,Andrew Weibrecht,US,13
-2012-12-14,Siegmar Klotz,IT,22
-2012-12-14,Thomas Mermillod,FR,34
-2012-12-14,Dominik Paris,IT,22
-2012-12-14,Peter Fill,IT,34
-2012-12-14,Andreas Romar,FI,46
-2012-12-14,Ted Ligety,US,106
-2012-12-14,Jan Hudec,CA,61
-2012-12-14,Travis Ganong,US,7
-2012-12-14,Benjamin Raich,AT,11
-2013-01-25,Frederic Berthold,AT,0
-2013-01-25,Andrej Jerman,SK,0
-2013-01-25,Thomas Tumler,CH,0
-2013-01-25,Silvano Varettoni,IT,0
-2013-01-25,Luca De Aliprandini,IT,0
-2013-01-25,Marvin Ackermann,DE,0
-2013-01-25,Brice Roger,FR,0
-2013-01-25,Mirko Deflorian,MD,0
-2013-01-25,Paolo Pangrazzi,IT,0
-2013-01-25,Max Franz,AT,32
-2013-01-25,Cristian Javier Simari Birkner,AR,0
-2013-01-25,Yuri Danilochkin,BY,0
-2013-01-25,Dmitriy Koshkin,KZ,0
-2013-01-25,Daniel Ericsson,SE,0
-2013-01-25,Wiley Maple,US,0
-2013-01-25,Ralph Weber,CH,0
-2013-01-25,Nick Daniels,US,0
-2013-01-25,Fernando Schmed,CH,0
-2013-01-25,Max Ullrich,HR,0
-2013-01-25,Philipp Zepnik,DE,0
-2013-01-25,Matteo Marsaglia,IT,209
-2013-01-25,Ryan Cochran-Siegle,US,11
-2013-01-25,Tilen Debelak,SK,0
-2013-01-25,Alek Glebov,RU,0
-2013-01-25,Andreas Sander,DE,1
-2013-01-25,Jared Goldberg,US,1
-2013-01-25,Sebastien Pichot,FR,0
-2013-01-25,Paul De La Cuesta,ES,0
-2013-01-25,Guillermo Fayed,FR,16
-2013-01-25,Marvin Van Heek,NL,0
-2013-01-25,Iver Bjerkestrand,NO,0
-2013-01-25,Marc Gisin,CH,0
-2013-01-25,Josef Ferstl,DE,0
-2013-01-25,Stephan Keppler,DE,0
-2013-01-25,Bostjan Kline,SK,0
-2013-01-25,Tobias Gruenenfelder,CH,0
-2013-01-25,Thomas Baldwin,GB,0
-2013-01-25,Maciej Bydlinski,PL,0
-2013-01-25,Marco Sullivan,US,0
-2013-01-25,Andrej Sporn,SK,0
-2013-01-25,Massimiliano Blardone,IT,0
-2013-01-25,Othmar Striedinger,AT,0
-2013-01-25,Yannick Bertrand,FR,11
-2013-01-25,Gino Caviezel,CH,0
-2013-01-25,Dustin Cook,CA,3
-2013-01-25,Thomas Biesemeyer,US,19
-2013-01-25,Andrew Weibrecht,US,13
-2013-01-25,Marcel Hirscher,AT,0
-2013-01-25,Jeffrey Frisch,CA,0
-2013-01-25,Brennan Rubie,US,4
-2013-01-25,Doglas Hedin,SE,9
-2013-01-25,Natko Zrncic-Dim,HR,0
-2013-01-25,Dominik Paris,IT,22
-2013-01-25,Marc Oliveras,AD,0
-2013-01-25,Tobias Stechert,DE,1
-2013-01-25,Rok Perko,SK,15
-2013-01-25,Ivica Kostelic,HR,25
-2013-01-25,Aksel-Lund Svindal,NO,380
-2013-01-25,Romed Baumann,AT,33
-2013-01-25,Alexis Pinturault,FR,20
-2013-01-25,Hannes Reichelt,AT,111
-2013-01-25,Jan Hudec,CA,77
-2013-01-25,Klaus Kroell,AT,75
-2013-01-25,Werner Heel,IT,164
-2013-01-25,David Poisson,FR,17
-2013-01-25,Joachim Puchner,AT,109
-2013-01-25,Andreas Romar,FI,58
-2013-01-25,Patrick Kueng,CH,34
-2013-01-25,Sandro Viletta,CH,8
-2013-01-25,Manuel Osborne-Paradis,CA,22
-2013-01-25,Benjamin Thomsen,CA,3
-2013-01-25,Florian Scheiber,AT,30
-2013-01-25,Gauthier De Tessieres,FR,37
-2013-01-25,Benjamin Raich,AT,17
-2013-01-25,Thomas Mermillod,FR,45
-2013-01-25,Georg Streitberger,AT,71
-2013-01-25,Steven Nyman,US,7
-2013-01-25,Siegmar Klotz,IT,48
-2013-01-25,Christof Innerhofer,IT,107
-2013-01-25,Erik Guay,CA,111
-2013-01-25,Ted Ligety,US,146
-2013-01-25,Matthias Mayer,AT,196
-2013-01-25,Adrien Theaux,FR,167
-2013-01-25,Peter Fill,IT,70
-2013-01-25,Kjetil Jansrud,NO,154
-2013-01-25,Johan Clarey,FR,108
-2013-03-03,Paul De La Cuesta,ES,0
-2013-03-03,Guillermo Fayed,FR,16
-2013-03-03,Gino Caviezel,CH,0
-2013-03-03,Marcel Hirscher,AT,0
-2013-03-03,Sebastien Pichot,FR,0
-2013-03-03,Brennan Rubie,US,4
-2013-03-03,Marc Oliveras,AD,0
-2013-03-03,Maciej Bydlinski,PL,0
-2013-03-03,Andrej Jerman,SK,0
-2013-03-03,Thomas Baldwin,GB,0
-2013-03-03,Marc Berthod,CH,0
-2013-03-03,Vitus Lueoend,CH,0
-2013-03-03,Marvin Van Heek,NL,0
-2013-03-03,Andreas Sander,DE,1
-2013-03-03,Alek Glebov,RU,0
-2013-03-03,Marc Gisin,CH,0
-2013-03-03,Cristian Javier Simari Birkner,AR,0
-2013-03-03,Tilen Debelak,SK,0
-2013-03-03,Aksel-Lund Svindal,NO,480
-2013-03-03,Bostjan Kline,SK,6
-2013-03-03,Tim Jitloff,US,0
-2013-03-03,Dmitriy Koshkin,KZ,0
-2013-03-03,Yuri Danilochkin,BY,0
-2013-03-03,Mirko Deflorian,MD,0
-2013-03-03,Paolo Pangrazzi,IT,0
-2013-03-03,Philipp Zepnik,DE,0
-2013-03-03,Brice Roger,FR,0
-2013-03-03,Frederic Berthold,AT,0
-2013-03-03,Marvin Ackermann,DE,0
-2013-03-03,Silvano Varettoni,IT,0
-2013-03-03,Manuel Osborne-Paradis,CA,22
-2013-03-03,Thomas Tumler,CH,0
-2013-03-03,Alexis Pinturault,FR,20
-2013-03-03,Luca De Aliprandini,IT,0
-2013-03-03,Benjamin Raich,AT,17
-2013-03-03,Massimiliano Blardone,IT,0
-2013-03-03,Tobias Gruenenfelder,CH,0
-2013-03-03,Dustin Cook,CA,3
-2013-03-03,Natko Zrncic-Dim,HR,0
-2013-03-03,Thomas Mermillod,FR,46
-2013-03-03,Joachim Puchner,AT,154
-2013-03-03,Andrew Weibrecht,US,26
-2013-03-03,Ted Ligety,US,159
-2013-03-03,Iver Bjerkestrand,NO,14
-2013-03-03,Matteo Marsaglia,IT,249
-2013-03-03,Jan Hudec,CA,92
-2013-03-03,Carlo Janka,CH,29
-2013-03-03,Didier Defago,CH,33
-2013-03-03,Romed Baumann,AT,53
-2013-03-03,Max Franz,AT,68
-2013-03-03,Dominik Paris,IT,44
-2013-03-03,Matthias Mayer,AT,228
-2013-03-03,Klaus Kroell,AT,104
-2013-03-03,Adrien Theaux,FR,191
-2013-03-03,Hannes Reichelt,AT,161
-2013-03-03,Sandro Viletta,CH,19
-2013-03-03,Ivica Kostelic,HR,27
-2013-03-03,Werner Heel,IT,224
-2013-03-03,Tobias Stechert,DE,1
-2013-03-03,Siegmar Klotz,IT,74
-2013-03-03,Christof Innerhofer,IT,107
-2013-03-03,Ryan Cochran-Siegle,US,11
-2013-03-03,Kjetil Jansrud,NO,154
-2013-03-03,Johan Clarey,FR,108
-2013-03-03,Peter Fill,IT,70
-2013-03-03,Marco Sullivan,US,0
-2013-03-03,Erik Guay,CA,111
-2013-03-03,Andrej Sporn,SK,8
-2013-03-03,Florian Scheiber,AT,37
-2013-03-03,Stephan Keppler,DE,5
-2013-03-03,Georg Streitberger,AT,151
-2013-03-03,David Poisson,FR,21
-2013-03-03,Patrick Kueng,CH,43
-2013-03-03,Rok Perko,SK,18
-2013-03-03,Andreas Romar,FI,58
-2013-03-03,Gauthier De Tessieres,FR,47
+2012-12-02,Lindsey Vonn,US,100
+2012-12-02,Stacey J Cook,US,2
+2012-12-02,Marie-Michele Gagnon,CA,3
+2012-12-02,Stefanie Koehle,AT,4
+2012-12-02,Lotte Smiseth Sejersted,NO,5
+2012-12-02,Larisa Yurkiw,CA,6
+2012-12-02,Francesca Marsaglia,IT,7
+2012-12-02,Nicole Schmidhofer,AT,8
+2012-12-02,Jessica Lindell-Vikarby,SE,9
+2012-12-02,Elena Fanchini,IT,1
+2012-12-02,Verena Stuffer,IT,11
+2012-12-02,Marie Marchand-Arvier,FR,13
+2012-12-02,Andrea Fischbacher,AT,14
+2012-12-02,Marion Rolland,FR,15
+2012-12-02,Carolina Ruiz Castillo,ES,16
+2012-12-02,Elisabeth Goergl,AT,18
+2012-12-02,Laurenne Ross,US,20
+2012-12-02,Viktoria Rebensburg,DE,22
+2012-12-02,Elena Curtoni,IT,24
+2012-12-02,Fraenzi Aufdenblatten,CH,12
+2012-12-02,Margret Altacher,AT,0
+2012-12-02,Nicole Hosp,AT,0
+2012-12-02,Daniela Merighetti,IT,0
+2012-12-02,Marine Gauthier,FR,0
+2012-12-02,Anna Hofer,IT,0
+2012-12-02,Marija Shkanova,BY,0
+2012-12-02,Cornelia Huetter,AT,0
+2012-12-02,Macarena Simari-Birkner,AR,0
+2012-12-02,Maria Belen Simari-Birkner,AR,0
+2012-12-02,Klara Krizova,CZ,0
+2012-12-02,Lisa Blomqvist,SE,0
+2012-12-02,Jana Gantnerova,SK,0
+2012-12-02,Kajsa Kling,SE,0
+2012-12-02,Romane Miradoli,FR,0
+2012-12-02,Nadia Fanchini,IT,0
+2012-12-02,Sara Hector,SE,0
+2012-12-02,Lisa Magdalena Agerer,IT,0
+2012-12-02,Ragnhild Mowinckel,NO,0
+2012-12-02,Lena Duerr,DE,0
+2012-12-02,Tessa Worley,FR,0
+2012-12-02,Tina Weirather,LI,0
+2012-12-02,Marie-Pier Prefontaine,CA,0
+2012-12-02,Fabienne Suter,CH,26
+2012-12-02,Stefanie Moser,AT,29
+2012-12-02,Regina Mader Sterz,AT,10
+2012-12-02,Leanne Smith,US,32
+2012-12-02,Anna Veith Fenninger,AT,60
+2012-12-02,Maria Riesch Hoefl,DE,45
+2012-12-02,Julia Mancuso,US,80
+2012-12-02,Lara Gut,CH,40
+2012-12-02,Dominique Gisin,CH,36
+2012-12-02,Tina Maze,SK,50
+2012-12-08,Abby Ghent,US,0
+2012-12-08,Isabel Van Buyndner,BE,0
+2012-12-08,Marie-Pier Prefontaine,CA,0
+2012-12-08,Tina Weirather,LI,0
+2012-12-08,Fraenzi Aufdenblatten,CH,12
+2012-12-08,Lisa Blomqvist,SE,0
+2012-12-08,Klara Krizova,CZ,0
+2012-12-08,Maria Belen Simari-Birkner,AR,0
+2012-12-08,Lisa Magdalena Agerer,IT,8
+2012-12-08,Nicole Schmidhofer,AT,24
+2012-12-08,Leanne Smith,US,48
+2012-12-08,Laurenne Ross,US,34
+2012-12-08,Alexandra Coletti,MC,0
+2012-12-08,Larisa Yurkiw,CA,6
+2012-12-08,Elena Fanchini,IT,1
+2012-12-08,Tessa Worley,FR,36
+2012-12-08,Elisabeth Goergl,AT,31
+2012-12-08,Fabienne Suter,CH,76
+2012-12-08,Lotte Smiseth Sejersted,NO,8
+2012-12-08,Lara Gut,CH,40
+2012-12-08,Anna Veith Fenninger,AT,60
+2012-12-08,Lindsey Vonn,US,200
+2012-12-08,Carolina Ruiz Castillo,ES,28
+2012-12-08,Ragnhild Mowinckel,NO,12
+2012-12-08,Daniela Merighetti,IT,9
+2012-12-08,Viktoria Rebensburg,DE,62
+2012-12-08,Tina Maze,SK,130
+2012-12-08,Julia Mancuso,US,140
+2012-12-08,Gina Stechert,DE,0
+2012-12-08,Cornelia Huetter,AT,0
+2012-12-08,Macarena Simari-Birkner,AR,0
+2012-12-08,Margret Altacher,AT,10
+2012-12-08,Dominique Gisin,CH,60
+2012-12-08,Veronique Hronek,DE,22
+2012-12-08,Andrea Fischbacher,AT,20
+2012-12-08,Sara Hector,SE,1
+2012-12-08,Regina Mader Sterz,AT,36
+2012-12-08,Elena Curtoni,IT,53
+2012-12-08,Stacey J Cook,US,7
+2012-12-08,Marie-Michele Gagnon,CA,23
+2012-12-08,Lena Duerr,DE,20
+2012-12-08,Ilka Stuhec,SK,7
+2012-12-08,Stefanie Koehle,AT,36
+2012-12-08,Marine Gauthier,FR,0
+2012-12-08,Anna Hofer,IT,0
+2012-12-08,Maria Riesch Hoefl,DE,90
+2012-12-08,Marion Rolland,FR,18
+2012-12-08,Marija Shkanova,BY,0
+2012-12-08,Marie Marchand-Arvier,FR,17
+2013-01-13,Anna Hofer,IT,0
+2013-01-13,Regina Mader Sterz,AT,45
+2013-01-13,Marine Gauthier,FR,0
+2013-01-13,Fabienne Suter,CH,136
+2013-01-13,Chemmy Alcott,GB,4
+2013-01-13,Maria Riesch Hoefl,DE,135
+2013-01-13,Elena Curtoni,IT,63
+2013-01-13,Cornelia Huetter,AT,0
+2013-01-13,Camilla Borsotti,IT,5
+2013-01-13,Macarena Simari-Birkner,AR,0
+2013-01-13,Lisa Blomqvist,SE,0
+2013-01-13,Stacey J Cook,US,13
+2013-01-13,Lindsey Vonn,US,250
+2013-01-13,Francesca Marsaglia,IT,8
+2013-01-13,Viktoria Rebensburg,DE,94
+2013-01-13,Marie Marchand-Arvier,FR,24
+2013-01-13,Jana Gantnerova,SK,0
+2013-01-13,Kajsa Kling,SE,0
+2013-01-13,Tessa Worley,FR,44
+2013-01-13,Marija Shkanova,BY,0
+2013-01-13,Lisa Magdalena Agerer,IT,10
+2013-01-13,Romane Miradoli,FR,0
+2013-01-13,Elena Fanchini,IT,1
+2013-01-13,Veronique Hronek,DE,44
+2013-01-13,Marianne Abderhalden,CH,0
+2013-01-13,Gina Stechert,DE,0
+2013-01-13,Jennifer Piot,FR,0
+2013-01-13,Andrea Dettling,CH,0
+2013-01-13,Dominique Gisin,CH,84
+2013-01-13,Margot Bailet,FR,0
+2013-01-13,Alexandra Coletti,MC,0
+2013-01-13,Mirena Kueng,CH,0
+2013-01-13,Julia Ford,US,0
+2013-01-13,Andrea Fischbacher,AT,46
+2013-01-13,Abby Ghent,US,0
+2013-01-13,Vanja Brodnik,SK,0
+2013-01-13,Isabel Van Buyndner,BE,0
+2013-01-13,Fraenzi Aufdenblatten,CH,41
+2013-01-13,Tina Weirather,LI,0
+2013-01-13,Lena Duerr,DE,20
+2013-01-13,Sara Hector,SE,1
+2013-01-13,Marie-Michele Gagnon,CA,23
+2013-01-13,Nicole Hosp,AT,3
+2013-01-13,Verena Stuffer,IT,11
+2013-01-13,Anna Veith Fenninger,AT,140
+2013-01-13,Nadia Fanchini,IT,11
+2013-01-13,Julia Mancuso,US,180
+2013-01-13,Lotte Smiseth Sejersted,NO,20
+2013-01-13,Tina Maze,SK,230
+2013-01-13,Nicole Schmidhofer,AT,37
+2013-01-13,Larisa Yurkiw,CA,6
+2013-01-13,Stefanie Koehle,AT,51
+2013-01-13,Laurenne Ross,US,48
+2013-01-13,Elisabeth Goergl,AT,49
+2013-01-13,Lara Gut,CH,76
+2013-01-13,Stefanie Moser,AT,29
+2013-01-13,Marion Rolland,FR,38
+2013-01-13,Daniela Merighetti,IT,25
+2013-01-20,Carolina Ruiz Castillo,ES,78
+2013-01-20,Lena Duerr,DE,22
+2013-01-20,Tina Maze,SK,290
+2013-01-20,Enrica Cipriani,IT,3
+2013-01-20,Viktoria Rebensburg,DE,194
+2013-01-20,Lisa Magdalena Agerer,IT,11
+2013-01-20,Nicole Schmidhofer,AT,117
+2013-01-20,Lara Gut,CH,108
+2013-01-20,Dominique Gisin,CH,84
+2013-01-20,Isabel Van Buyndner,BE,0
+2013-01-20,Maria Riesch Hoefl,DE,147
+2013-01-20,Leanne Smith,US,88
+2013-01-20,Margret Altacher,AT,10
+2013-01-20,Kajsa Kling,SE,0
+2013-01-20,Stefanie Koehle,AT,55
+2013-01-20,Tessa Worley,FR,57
+2013-01-20,Lisa Blomqvist,SE,0
+2013-01-20,Klara Krizova,CZ,0
+2013-01-20,Anna Veith Fenninger,AT,154
+2013-01-20,Maria Belen Simari-Birkner,AR,0
+2013-01-20,Macarena Simari-Birkner,AR,0
+2013-01-20,Tina Weirather,LI,15
+2013-01-20,Anna Hofer,IT,0
+2013-01-20,Marine Gauthier,FR,0
+2013-01-20,Andrea Fischbacher,AT,62
+2013-01-20,Laurenne Ross,US,66
+2013-01-20,Regina Mader Sterz,AT,65
+2013-01-20,Lindsey Vonn,US,286
+2013-01-20,Elisabeth Goergl,AT,71
+2013-01-20,Fabienne Suter,CH,160
+2013-01-20,Fraenzi Aufdenblatten,CH,67
+2013-01-20,Marie Marchand-Arvier,FR,53
+2013-01-20,Daniela Merighetti,IT,36
+2013-01-20,Vanja Brodnik,SK,0
+2013-01-20,Jana Gantnerova,SK,0
+2013-01-20,Jessica Lindell-Vikarby,SE,16
+2013-01-20,Cornelia Huetter,AT,6
+2013-01-20,Marion Rolland,FR,38
+2013-01-20,Nadja Kamer,CH,0
+2013-01-20,Elena Curtoni,IT,63
+2013-01-20,Marie-Michele Gagnon,CA,23
+2013-01-20,Stacey J Cook,US,13
+2013-01-20,Gina Stechert,DE,0
+2013-01-20,Lotte Smiseth Sejersted,NO,20
+2013-01-20,Alice Mckennis,US,0
+2013-01-20,Mirena Kueng,CH,0
+2013-01-20,Andrea Dettling,CH,8
+2013-01-20,Julia Ford,US,0
+2013-01-20,Ragnhild Mowinckel,NO,17
+2013-01-20,Julia Mancuso,US,225
+2013-01-20,Veronique Hronek,DE,44
+2013-01-20,Abby Ghent,US,0
+2013-01-20,Nadia Fanchini,IT,21
+2013-01-20,Stefanie Moser,AT,38
+2013-03-01,Andrea Dettling,CH,8
+2013-03-01,Isabel Van Buyndner,BE,0
+2013-03-01,Julia Ford,US,0
+2013-03-01,Jennifer Piot,FR,0
+2013-03-01,Alexandra Coletti,MC,0
+2013-03-01,Gina Stechert,DE,0
+2013-03-01,Margret Altacher,AT,10
+2013-03-01,Abby Ghent,US,0
+2013-03-01,Nadja Kamer,CH,0
+2013-03-01,Enrica Cipriani,IT,3
+2013-03-01,Chemmy Alcott,GB,4
+2013-03-01,Marija Shkanova,BY,0
+2013-03-01,Lotte Smiseth Sejersted,NO,20
+2013-03-01,Marie Marchand-Arvier,FR,53
+2013-03-01,Jana Gantnerova,SK,0
+2013-03-01,Lindsey Vonn,US,286
+2013-03-01,Romane Miradoli,FR,0
+2013-03-01,Sara Hector,SE,1
+2013-03-01,Lisa Blomqvist,SE,0
+2013-03-01,Daniela Merighetti,IT,36
+2013-03-01,Ragnhild Mowinckel,NO,17
+2013-03-01,Maria Belen Simari-Birkner,AR,0
+2013-03-01,Marine Gauthier,FR,0
+2013-03-01,Anna Hofer,IT,0
+2013-03-01,Macarena Simari-Birkner,AR,0
+2013-03-01,Cornelia Huetter,AT,6
+2013-03-01,Elena Fanchini,IT,1
+2013-03-01,Lara Gut,CH,108
+2013-03-01,Nadia Fanchini,IT,24
+2013-03-01,Stacey J Cook,US,14
+2013-03-01,Lisa Magdalena Agerer,IT,24
+2013-03-01,Jessica Lindell-Vikarby,SE,30
+2013-03-01,Andrea Fischbacher,AT,77
+2013-03-01,Elisabeth Goergl,AT,87
+2013-03-01,Tessa Worley,FR,75
+2013-03-01,Fraenzi Aufdenblatten,CH,87
+2013-03-01,Leanne Smith,US,110
+2013-03-01,Maria Riesch Hoefl,DE,171
+2013-03-01,Viktoria Rebensburg,DE,220
+2013-03-01,Laurenne Ross,US,95
+2013-03-01,Nicole Schmidhofer,AT,149
+2013-03-01,Carolina Ruiz Castillo,ES,118
+2013-03-01,Nicole Hosp,AT,48
+2013-03-01,Anna Veith Fenninger,AT,204
+2013-03-01,Tina Maze,SK,370
+2013-03-01,Julia Mancuso,US,305
+2013-03-01,Tina Weirather,LI,115
+2013-03-01,Stefanie Moser,AT,50
+2013-03-01,Ilka Stuhec,SK,18
+2013-03-01,Marion Rolland,FR,74
+2013-03-01,Regina Mader Sterz,AT,75
+2013-03-01,Dominique Gisin,CH,86
+2013-03-01,Stefanie Koehle,AT,59
+2013-03-01,Fabienne Suter,CH,166
+2013-03-01,Veronique Hronek,DE,52
+2013-03-01,Marianne Abderhalden,CH,8
+2013-03-01,Elena Curtoni,IT,69
+2013-03-01,Verena Stuffer,IT,20
+2013-03-03,Jana Gantnerova,SK,0
+2013-03-03,Elena Fanchini,IT,1
+2013-03-03,Marija Shkanova,BY,0
+2013-03-03,Chemmy Alcott,GB,4
+2013-03-03,Marianne Abderhalden,CH,8
+2013-03-03,Camilla Borsotti,IT,5
+2013-03-03,Gina Stechert,DE,0
+2013-03-03,Jennifer Piot,FR,0
+2013-03-03,Enrica Cipriani,IT,3
+2013-03-03,Alice Mckennis,US,0
+2013-03-03,Cornelia Huetter,AT,6
+2013-03-03,Margot Bailet,FR,0
+2013-03-03,Alexandra Coletti,MC,0
+2013-03-03,Mirena Kueng,CH,0
+2013-03-03,Julia Ford,US,0
+2013-03-03,Edith Miklos,HU,0
+2013-03-03,Abby Ghent,US,0
+2013-03-03,Nadja Kamer,CH,0
+2013-03-03,Francesca Marsaglia,IT,8
+2013-03-03,Vanja Brodnik,SK,0
+2013-03-03,Macarena Simari-Birkner,AR,0
+2013-03-03,Isabel Van Buyndner,BE,0
+2013-03-03,Daniela Merighetti,IT,36
+2013-03-03,Marie-Pier Prefontaine,CA,0
+2013-03-03,Maria Belen Simari-Birkner,AR,0
+2013-03-03,Ragnhild Mowinckel,NO,17
+2013-03-03,Sara Hector,SE,1
+2013-03-03,Romane Miradoli,FR,0
+2013-03-03,Kajsa Kling,SE,0
+2013-03-03,Lisa Blomqvist,SE,0
+2013-03-03,Nicole Schmidhofer,AT,149
+2013-03-03,Anna Veith Fenninger,AT,304
+2013-03-03,Lindsey Vonn,US,286
+2013-03-03,Nadia Fanchini,IT,37
+2013-03-03,Dominique Gisin,CH,99
+2013-03-03,Carolina Ruiz Castillo,ES,128
+2013-03-03,Elisabeth Goergl,AT,101
+2013-03-03,Leanne Smith,US,125
+2013-03-03,Laurenne Ross,US,104
+2013-03-03,Verena Stuffer,IT,36
+2013-03-03,Lisa Magdalena Agerer,IT,33
+2013-03-03,Marie Marchand-Arvier,FR,71
+2013-03-03,Jessica Lindell-Vikarby,SE,50
+2013-03-03,Elena Curtoni,IT,91
+2013-03-03,Stefanie Koehle,AT,66
+2013-03-03,Regina Mader Sterz,AT,99
+2013-03-03,Viktoria Rebensburg,DE,246
+2013-03-03,Stefanie Moser,AT,50
+2013-03-03,Fabienne Suter,CH,195
+2013-03-03,Tina Weirather,LI,147
+2013-03-03,Tessa Worley,FR,80
+2013-03-03,Lara Gut,CH,144
+2013-03-03,Andrea Dettling,CH,9
+2013-03-03,Nicole Hosp,AT,88
+2013-03-03,Veronique Hronek,DE,97
+2013-03-03,Andrea Fischbacher,AT,81
+2013-03-03,Tina Maze,SK,420
+2013-03-03,Anna Hofer,IT,0
+2013-03-03,Julia Mancuso,US,365
+2013-03-03,Maria Riesch Hoefl,DE,251
+2013-03-03,Marion Rolland,FR,77
+2013-03-03,Fraenzi Aufdenblatten,CH,98
+2013-03-03,Marie-Michele Gagnon,CA,25
+2013-03-03,Stacey J Cook,US,20
+2013-03-03,Marine Gauthier,FR,0

@@ -1,138 +1,202 @@
 date,name,ath_country,value
-2016-12-29,Alexis Pinturault,FR,100
-2016-12-29,Carlo Janka,CH,0
-2016-12-29,Christof Innerhofer,IT,0
-2016-12-29,Miha Hrobat,SK,0
-2016-12-29,Niels Hintermann,CH,0
-2016-12-29,Filip Forejtek,CZ,0
-2016-12-29,Mathieu Faivre,FR,0
-2016-12-29,Emanuele Buzzi,IT,0
-2016-12-29,Thomas Biesemeyer,US,0
-2016-12-29,Ondrej Berndt,CZ,0
-2016-12-29,Matthieu Bailet,FR,0
-2016-12-29,Cristian Javier Simari Birkner,AR,0
-2016-12-29,Andreas Sander,DE,0
-2016-12-29,Kjetil Jansrud,NO,0
-2016-12-29,Dominik Paris,IT,0
-2016-12-29,Beat Feuz,CH,1
-2016-12-29,Romed Baumann,AT,2
-2016-12-29,Luca De Aliprandini,IT,3
-2016-12-29,Thomas Dressen,DE,4
-2016-12-29,Bryce Bennett,US,5
-2016-12-29,Bostjan Kline,SK,0
-2016-12-29,Niklas Koeck,AT,0
-2016-12-29,Alexander Koell,SE,0
-2016-12-29,Miha Kuerner,SK,0
-2016-12-29,Jan Zabystran,CZ,0
-2016-12-29,Hannes Reichelt,AT,0
-2016-12-29,Steven Nyman,US,0
-2016-12-29,Max Franz,AT,0
-2016-12-29,Ryoh Sugai,JP,0
-2016-12-29,Max Ullrich,HR,0
-2016-12-29,Marko Vukicevic,RS,0
-2016-12-29,Gian Luca Barandun,CH,0
-2016-12-29,Tilen Debelak,SK,0
-2016-12-29,Nils Mani,CH,6
-2016-12-29,Maxence Muzaton,FR,0
-2016-12-29,Ralph Weber,CH,0
-2016-12-29,Henrik Von Appen,CL,0
-2016-12-29,Pavel Trikhichev,RU,0
-2016-12-29,Riccardo Tonetti,IT,0
-2016-12-29,Broderick Thompson,CA,0
-2016-12-29,Adrien Theaux,FR,0
-2016-12-29,Cyprien Sarrazin,FR,0
-2016-12-29,Istok Rodes,HR,0
-2016-12-29,Paolo Pangrazzi,IT,0
-2016-12-29,Andrew Weibrecht,US,0
-2016-12-29,Christian Walder,AT,7
-2016-12-29,Matteo De Vettori,IT,0
-2016-12-29,Victor Muffat Jeandet,FR,45
-2016-12-29,Krystof Kryzl,CZ,22
-2016-12-29,Klemen Kosi,SK,20
-2016-12-29,Valentin Giraud Moine,FR,29
-2016-12-29,Vincent Kriechmayr,AT,18
-2016-12-29,Matthias Mayer,AT,16
-2016-12-29,Mauro Caviezel,CH,32
-2016-12-29,Martin Cater,SK,15
-2016-12-29,Luca Aerni,CH,36
-2016-12-29,Adam Zampa,SK,14
-2016-12-29,Peter Fill,IT,13
-2016-12-29,Ryan Cochran-Siegle,US,26
-2016-12-29,Adrian Smiseth Sejersted,NO,12
-2016-12-29,Erik Read,CA,40
-2016-12-29,Brennan Rubie,US,24
-2016-12-29,Stefan Hadalin,SK,8
-2016-12-29,Justin Murisier,CH,50
-2016-12-29,Bjoernar Neteland,NO,10
-2016-12-29,Marcel Hirscher,AT,80
-2016-12-29,Aleksander Aamodt Kilde,NO,60
-2016-12-29,Filip Zubcic,HR,11
-2016-12-29,Blaise Giezendanner,FR,9
-2017-01-13,Maciej Bydlinski,PL,0
-2017-01-13,Matthias Mayer,AT,16
-2017-01-13,Peter Fill,IT,13
-2017-01-13,Luca De Aliprandini,IT,3
-2017-01-13,Josef Ferstl,DE,0
-2017-01-13,Bjoernar Neteland,NO,10
-2017-01-13,Beat Feuz,CH,1
-2017-01-13,Christian Walder,AT,7
-2017-01-13,Thomas Dressen,DE,4
-2017-01-13,Jared Goldberg,US,0
-2017-01-13,Adrian Smiseth Sejersted,NO,12
-2017-01-13,Emanuele Buzzi,IT,0
-2017-01-13,Matthieu Bailet,FR,0
-2017-01-13,Steven Nyman,US,0
-2017-01-13,Max Franz,AT,0
-2017-01-13,Andrew Weibrecht,US,0
-2017-01-13,Pavel Trikhichev,RU,0
-2017-01-13,Riccardo Tonetti,IT,0
-2017-01-13,Broderick Thompson,CA,0
-2017-01-13,Adrien Theaux,FR,0
-2017-01-13,Cyprien Sarrazin,FR,0
-2017-01-13,Cristian Javier Simari Birkner,AR,0
-2017-01-13,Miha Kuerner,SK,0
-2017-01-13,Niklas Koeck,AT,0
-2017-01-13,Bostjan Kline,SK,0
-2017-01-13,Christof Innerhofer,IT,0
-2017-01-13,Miha Hrobat,SK,0
-2017-01-13,Mathieu Faivre,FR,0
-2017-01-13,Matteo De Vettori,IT,0
-2017-01-13,Brennan Rubie,US,24
-2017-01-13,Thomas Biesemeyer,US,0
-2017-01-13,Alexander Koell,SE,0
-2017-01-13,Ryan Cochran-Siegle,US,26
-2017-01-13,Adam Zampa,SK,21
-2017-01-13,Erik Read,CA,40
-2017-01-13,Krystof Kryzl,CZ,28
-2017-01-13,Ivica Kostelic,HR,9
-2017-01-13,Tilen Debelak,SK,5
-2017-01-13,Dominik Paris,IT,4
-2017-01-13,Blaise Giezendanner,FR,19
-2017-01-13,Gian Luca Barandun,CH,3
-2017-01-13,Stefan Hadalin,SK,10
-2017-01-13,Alexis Pinturault,FR,111
-2017-01-13,Filip Zubcic,HR,12
-2017-01-13,Carlo Janka,CH,12
-2017-01-13,Victor Muffat Jeandet,FR,58
-2017-01-13,Vincent Kriechmayr,AT,32
-2017-01-13,Andreas Romar,FI,15
-2017-01-13,Hannes Reichelt,AT,0
-2017-01-13,Klemen Kosi,SK,36
-2017-01-13,Mattia Casse,IT,18
-2017-01-13,Paolo Pangrazzi,IT,20
-2017-01-13,Marcel Hirscher,AT,80
-2017-01-13,Niels Hintermann,CH,100
-2017-01-13,Maxence Muzaton,FR,80
-2017-01-13,Frederic Berthold,AT,60
-2017-01-13,Valentin Giraud Moine,FR,79
-2017-01-13,Ondrej Berndt,CZ,8
-2017-01-13,Luca Aerni,CH,36
-2017-01-13,Nils Mani,CH,51
-2017-01-13,Justin Murisier,CH,86
-2017-01-13,Aleksander Aamodt Kilde,NO,92
-2017-01-13,Martin Cater,SK,44
-2017-01-13,Bryce Bennett,US,31
-2017-01-13,Kjetil Jansrud,NO,24
-2017-01-13,Mauro Caviezel,CH,54
-2017-01-13,Romed Baumann,AT,42
-2017-01-13,Jan Zabystran,CZ,0
+2016-12-16,Ilka Stuhec,SK,100
+2016-12-16,Stacey J Cook,US,0
+2016-12-16,Marta Bassino,IT,0
+2016-12-16,Margot Bailet,FR,0
+2016-12-16,Kira Weidle,DE,0
+2016-12-16,Alexandra Coletti,MC,0
+2016-12-16,Francesca Marsaglia,IT,0
+2016-12-16,Lara Gut,CH,0
+2016-12-16,Nicole Delago,IT,1
+2016-12-16,Corinne Suter,CH,2
+2016-12-16,Ana Bucik,SK,3
+2016-12-16,Stephanie Venier,AT,4
+2016-12-16,Rahel Kopp,CH,5
+2016-12-16,Marion Pellissier,FR,6
+2016-12-16,Nevena Ignjatovic,RS,7
+2016-12-16,Maria Therese Tviberg,NO,8
+2016-12-16,Mirjam Puchner,AT,9
+2016-12-16,Marie-Michele Gagnon,CA,10
+2016-12-16,Priska Nufer,CH,11
+2016-12-16,Sabrina Maier,AT,12
+2016-12-16,Elena Curtoni,IT,0
+2016-12-16,Patrizia Dorsch,DE,0
+2016-12-16,Valerie Grenier,CA,0
+2016-12-16,Tina Weirather,LI,0
+2016-12-16,Mikaela Shiffrin,US,0
+2016-12-16,Mikaela Tommy,CA,0
+2016-12-16,Nicole Schmidhofer,AT,0
+2016-12-16,Barbara Kantorova,SK,0
+2016-12-16,Coralie Frasse- Sombet,FR,0
+2016-12-16,Jasmina Suter,CH,0
+2016-12-16,Jasmine Flury,CH,0
+2016-12-16,Ricarda Haaser,AT,0
+2016-12-16,Pavla Klicnarova,CZ,0
+2016-12-16,Cornelia Huetter,AT,13
+2016-12-16,Aleksandra Prokopyeva,RU,0
+2016-12-16,Katerina Paulathova,CZ,0
+2016-12-16,Maryna Gasienica Daniel,PL,0
+2016-12-16,Marlene Schmotz,DE,0
+2016-12-16,Leona Popovic,HR,0
+2016-12-16,Joana Haehlen,CH,0
+2016-12-16,Romane Miradoli,FR,0
+2016-12-16,Federica Sosio,IT,0
+2016-12-16,Lena Duerr,DE,0
+2016-12-16,Stephanie Brunner,AT,0
+2016-12-16,Candace Crawford,CA,0
+2016-12-16,Kajsa Kling,SE,14
+2016-12-16,Elisabeth Kappaurer,AT,0
+2016-12-16,Michaela Kirchgasser,AT,45
+2016-12-16,Laurenne Ross,US,26
+2016-12-16,Rosina Schneeberger,AT,29
+2016-12-16,Marusa Ferk,SK,22
+2016-12-16,Tessa Worley,FR,18
+2016-12-16,Anne Sophie Barthet,FR,32
+2016-12-16,Michelle Gisin,CH,80
+2016-12-16,Johanna Schnarf,IT,16
+2016-12-16,Denise Feierabend,CH,36
+2016-12-16,Sofia Goggia,IT,60
+2016-12-16,Ramona Siebenhofer,AT,20
+2016-12-16,Wendy Holdener,CH,50
+2016-12-16,Federica Brignone,IT,40
+2016-12-16,Ragnhild Mowinckel,NO,15
+2016-12-16,Christine Scheyer,AT,24
+2017-02-24,Kajsa Kling,SE,14
+2017-02-24,Johanna Schnarf,IT,16
+2017-02-24,Tessa Worley,FR,18
+2017-02-24,Christine Scheyer,AT,24
+2017-02-24,Ramona Siebenhofer,AT,35
+2017-02-24,Cornelia Huetter,AT,13
+2017-02-24,Denise Feierabend,CH,36
+2017-02-24,Anne Sophie Barthet,FR,32
+2017-02-24,Sabrina Maier,AT,12
+2017-02-24,Sofia Goggia,IT,60
+2017-02-24,Michelle Gisin,CH,80
+2017-02-24,Federica Brignone,IT,140
+2017-02-24,Ilka Stuhec,SK,180
+2017-02-24,Michaela Kirchgasser,AT,105
+2017-02-24,Rosina Schneeberger,AT,29
+2017-02-24,Mirjam Puchner,AT,9
+2017-02-24,Laurenne Ross,US,26
+2017-02-24,Wendy Holdener,CH,100
+2017-02-24,Mikaela Shiffrin,US,0
+2017-02-24,Mikaela Tommy,CA,0
+2017-02-24,Nicole Schmidhofer,AT,0
+2017-02-24,Barbara Kantorova,SK,0
+2017-02-24,Coralie Frasse- Sombet,FR,0
+2017-02-24,Jasmina Suter,CH,0
+2017-02-24,Jasmine Flury,CH,0
+2017-02-24,Ricarda Haaser,AT,0
+2017-02-24,Tina Weirather,LI,0
+2017-02-24,Valerie Grenier,CA,0
+2017-02-24,Stacey J Cook,US,0
+2017-02-24,Nevena Ignjatovic,RS,7
+2017-02-24,Marta Bassino,IT,0
+2017-02-24,Kira Weidle,DE,0
+2017-02-24,Alexandra Coletti,MC,0
+2017-02-24,Lara Gut,CH,0
+2017-02-24,Macarena Simari-Birkner,AR,0
+2017-02-24,Michaela Wenig,DE,0
+2017-02-24,Nina Ortlieb,AT,0
+2017-02-24,Anna Hofer,IT,0
+2017-02-24,Vanja Brodnik,SK,0
+2017-02-24,Jacqueline Wiles,US,0
+2017-02-24,Christina Ager,AT,0
+2017-02-24,Ana Bucik,SK,3
+2017-02-24,Margot Bailet,FR,0
+2017-02-24,Marion Pellissier,FR,6
+2017-02-24,Marusa Ferk,SK,67
+2017-02-24,Romane Miradoli,FR,20
+2017-02-24,Laura Gauche,FR,8
+2017-02-24,Corinne Suter,CH,12
+2017-02-24,Nicole Delago,IT,8
+2017-02-24,Priska Nufer,CH,22
+2017-02-24,Marlene Schmotz,DE,6
+2017-02-24,Maryna Gasienica Daniel,PL,5
+2017-02-24,Stephanie Venier,AT,16
+2017-02-24,Ragnhild Mowinckel,NO,31
+2017-02-24,Patrizia Dorsch,DE,4
+2017-02-24,Francesca Marsaglia,IT,22
+2017-02-24,Katerina Paulathova,CZ,3
+2017-02-24,Candace Crawford,CA,2
+2017-02-24,Rahel Kopp,CH,14
+2017-02-24,Aleksandra Prokopyeva,RU,1
+2017-02-24,Elisabeth Kappaurer,AT,24
+2017-02-24,Maria Therese Tviberg,NO,26
+2017-02-24,Federica Sosio,IT,26
+2017-02-24,Elena Curtoni,IT,29
+2017-02-24,Lena Duerr,DE,32
+2017-02-24,Joana Haehlen,CH,14
+2017-02-24,Marie-Michele Gagnon,CA,50
+2017-02-24,Stephanie Brunner,AT,36
+2017-02-24,Leona Popovic,HR,13
+2017-02-26,Federica Sosio,IT,26
+2017-02-26,Sabrina Maier,AT,12
+2017-02-26,Romane Miradoli,FR,20
+2017-02-26,Priska Nufer,CH,22
+2017-02-26,Joana Haehlen,CH,14
+2017-02-26,Maryna Gasienica Daniel,PL,5
+2017-02-26,Nevena Ignjatovic,RS,7
+2017-02-26,Marion Pellissier,FR,6
+2017-02-26,Ana Bucik,SK,3
+2017-02-26,Coralie Frasse- Sombet,FR,0
+2017-02-26,Jasmine Flury,CH,0
+2017-02-26,Mirjam Puchner,AT,9
+2017-02-26,Aleksandra Prokopyeva,RU,1
+2017-02-26,Vanja Brodnik,SK,0
+2017-02-26,Stephanie Brunner,AT,36
+2017-02-26,Laura Gauche,FR,8
+2017-02-26,Jacqueline Wiles,US,0
+2017-02-26,Anna Hofer,IT,0
+2017-02-26,Nina Ortlieb,AT,0
+2017-02-26,Christina Ager,AT,0
+2017-02-26,Michaela Wenig,DE,0
+2017-02-26,Corinne Suter,CH,12
+2017-02-26,Macarena Simari-Birkner,AR,0
+2017-02-26,Lara Gut,CH,0
+2017-02-26,Francesca Marsaglia,IT,22
+2017-02-26,Alexandra Coletti,MC,0
+2017-02-26,Kira Weidle,DE,0
+2017-02-26,Margot Bailet,FR,0
+2017-02-26,Elena Curtoni,IT,29
+2017-02-26,Cornelia Huetter,AT,13
+2017-02-26,Valerie Grenier,CA,0
+2017-02-26,Tina Weirather,LI,0
+2017-02-26,Lena Duerr,DE,32
+2017-02-26,Kajsa Kling,SE,14
+2017-02-26,Rahel Kopp,CH,29
+2017-02-26,Tessa Worley,FR,18
+2017-02-26,Rosina Schneeberger,AT,51
+2017-02-26,Pavla Klicnarova,CZ,5
+2017-02-26,Stephanie Venier,AT,22
+2017-02-26,Barbara Kantorova,SK,7
+2017-02-26,Elisabeth Kappaurer,AT,44
+2017-02-26,Stacey J Cook,US,8
+2017-02-26,Michelle Gisin,CH,104
+2017-02-26,Patrizia Dorsch,DE,13
+2017-02-26,Marlene Schmotz,DE,24
+2017-02-26,Katerina Paulathova,CZ,14
+2017-02-26,Jasmina Suter,CH,12
+2017-02-26,Ramona Siebenhofer,AT,48
+2017-02-26,Candace Crawford,CA,18
+2017-02-26,Leona Popovic,HR,27
+2017-02-26,Nicole Delago,IT,18
+2017-02-26,Johanna Schnarf,IT,16
+2017-02-26,Maria Therese Tviberg,NO,52
+2017-02-26,Sofia Goggia,IT,92
+2017-02-26,Marusa Ferk,SK,67
+2017-02-26,Christine Scheyer,AT,24
+2017-02-26,Laurenne Ross,US,26
+2017-02-26,Anne Sophie Barthet,FR,32
+2017-02-26,Denise Feierabend,CH,36
+2017-02-26,Michaela Kirchgasser,AT,105
+2017-02-26,Marta Bassino,IT,29
+2017-02-26,Mikaela Shiffrin,US,100
+2017-02-26,Ilka Stuhec,SK,240
+2017-02-26,Marie-Michele Gagnon,CA,100
+2017-02-26,Ricarda Haaser,AT,45
+2017-02-26,Wendy Holdener,CH,140
+2017-02-26,Nicole Schmidhofer,AT,0
+2017-02-26,Ragnhild Mowinckel,NO,67
+2017-02-26,Federica Brignone,IT,220
+2017-02-26,Mikaela Tommy,CA,0

@@ -1,1281 +1,954 @@
 date,name,ath_country,value
-2002-11-24,Rainer Schoenfelder,AT,100
-2002-11-24,Andrzej Bachleda,PL,0
-2002-11-24,Patrick Thaler,IT,0
-2002-11-24,Jukka Leino,FI,0
-2002-11-24,Thomas Geisser,CH,0
-2002-11-24,Mika Marila,FI,0
-2002-11-24,Michael Walchhofer,AT,0
-2002-11-24,Stanley Hayer,CZ,0
-2002-11-24,Jonathon Brauer,AU,0
-2002-11-24,Jake Zamansky,US,0
-2002-11-24,Julien Cousineau,CA,0
-2002-11-24,Rogier Oosterbaan,NL,0
-2002-11-24,Michal Rajcan,SK,0
-2002-11-24,Alexandre Anselmet,FR,0
-2002-11-24,Davide Simoncelli,IT,0
-2002-11-24,Bryon Friedman,US,0
-2002-11-24,Bode Miller,US,0
-2002-11-24,Ondrej Bank,CZ,0
-2002-11-24,Alain Baxter,GB,0
-2002-11-24,Stefan Georgiev,BG,0
-2002-11-24,Ales Gorza,SK,0
-2002-11-24,Stefan Kogler,DE,0
-2002-11-24,Jure Kosir,SK,0
-2002-11-24,Gaetan Llorach,FR,0
-2002-11-24,Bart Mollin,BE,0
-2002-11-24,John Moulder-Brown,GB,0
-2002-11-24,Hannes Paul Schmid,IT,0
-2002-11-24,Kevin Page,FR,0
-2002-11-24,Cristian Javier Simari Birkner,AR,0
-2002-11-24,Akira Sasaki,JP,0
-2002-11-24,Thomas Grandi,CA,16
-2002-11-24,Markus Larsson,SE,15
-2002-11-24,Rene Mlekuz,SK,14
-2002-11-24,Giorgio Rocca,IT,13
-2002-11-24,Kjetil Andre Aamodt,NO,12
-2002-11-24,Kalle Palander,FI,11
-2002-11-24,Tom Rothrock,US,10
-2002-11-24,Florian Seer,AT,10
-2002-11-24,Harald Chr. Strand Nilsen,NO,8
-2002-11-24,Tom Stiansen,NO,7
-2002-11-24,Urs Imboden,CH,6
-2002-11-24,Sebastien Amiez,FR,5
-2002-11-24,Erik Schlopy,US,4
-2002-11-24,Hans Petter Buraas,NO,0
-2002-11-24,Mitja Kunc,SK,0
-2002-11-24,Markus Eberle,DE,0
-2002-11-24,Julien Lizeroux,FR,0
-2002-11-24,Markus Ganahl,LI,0
-2002-11-24,Mitja Valencic,SK,0
-2002-11-24,Giancarlo Bergamelli,IT,0
-2002-11-24,Martin Hansson,SE,0
-2002-11-24,Andreas Ertl,DE,0
-2002-11-24,Kentaro Minagawa,JP,0
-2002-11-24,Matjaz Vrhovnik,SK,0
-2002-11-24,Daniel Defago,CH,0
-2002-11-24,Alan Perathoner,IT,0
-2002-11-24,Uros Pavlovcic,SK,0
-2002-11-24,Stephane Tissot,FR,0
-2002-11-24,Reinfried Herbst,AT,0
-2002-11-24,Bruno Kernen,CH,0
-2002-11-24,Yannick Favieres,FR,0
-2002-11-24,Michael Ross,NZ,0
-2002-11-24,Marco Sullivan,US,0
-2002-11-24,Noel Baxter,GB,0
-2002-11-24,Didier Defago,CH,0
-2002-11-24,Christoph Gruber,AT,0
-2002-11-24,Nikolay Skriabin,UA,0
-2002-11-24,Stephan Eberharter,AT,0
-2002-11-24,Marco Buechel,LI,0
-2002-11-24,Mikail Renzhyn,IL,0
-2002-11-24,Peter Fill,IT,0
-2002-11-24,Roger Zweifel,CH,0
-2002-11-24,Jesse Marshall,US,0
-2002-11-24,Jeroen Van Den Bogaert,BE,0
-2002-11-24,Daniel Albrecht,CH,0
-2002-11-24,Ryan Semple,CA,0
-2002-11-24,Dmitrij Ulianov,RU,0
-2002-11-24,Bjarne Solbakken,NO,0
-2002-11-24,Min Heuk Kang,KR,0
-2002-11-24,Yasuhiro Ikuta,JP,0
-2002-11-24,Tetsuya Otaki,JP,0
-2002-11-24,Naoki Yuasa,JP,0
-2002-11-24,Marc Berthod,CH,0
-2002-11-24,Michael von Gruenigen,CH,0
-2002-11-24,Scott Macartney,US,0
-2002-11-24,Ambrosi Hoffmann,CH,0
-2002-11-24,Andrej Jerman,SK,0
-2002-11-24,Matteo Nana,IT,0
-2002-11-24,Andreas Nilsen,NO,0
-2002-11-24,Johan Brolenius,SE,0
-2002-11-24,Edoardo Zardini,IT,0
-2002-11-24,Andrej Sporn,SK,0
-2002-11-24,Kurt Engl,AT,0
-2002-11-24,Pierre Egger,AT,0
-2002-11-24,Marc Gini,CH,0
-2002-11-24,Alberto Rovira Caus,ES,0
-2002-11-24,Aksel-Lund Svindal,NO,0
-2002-11-24,Bernard Vajdic,SK,0
-2002-11-24,Richard Gravier,FR,0
-2002-11-24,Kiminobu Kimura,JP,0
-2002-11-24,Ivica Kostelic,HR,18
-2002-11-24,Mario Matt,AT,0
-2002-11-24,Steven Nyman,US,0
-2002-11-24,Lars Elton Myhre,NO,0
-2002-11-24,Niki Fuerstauer,LB,0
-2002-11-24,TJ Lanning,US,0
-2002-11-24,Cristian Deville,IT,0
-2002-11-24,Todd Haywood,NZ,0
-2002-11-24,Michal Kalwa,PL,0
-2002-11-24,Manfred Moelgg,IT,0
-2002-11-24,Tomas Kraus,CZ,0
-2002-11-24,Alois Vogl,DE,0
-2002-11-24,Kjetil Jansrud,NO,0
-2002-11-24,Antoine Tissot,FR,0
-2002-11-24,Lasse Kjus,NO,0
-2002-11-24,Silvan Zurbriggen,CH,20
-2002-11-24,Marco Casanova,CH,3
-2002-11-24,Mitja Dragsic,SK,29
-2002-11-24,Manfred Pranger,AT,50
-2002-11-24,Chip Knight,US,36
-2002-11-24,Kilian Albrecht,AT,32
-2002-11-24,Benjamin Raich,AT,60
-2002-11-24,Heinz Schilchegger,AT,26
-2002-11-24,Martin Marinac,AT,22
-2002-11-24,Drago Grubelnik,SK,24
-2002-11-24,Pierrick Bourgeat,FR,80
-2002-11-24,Truls Ove Karlsen,NO,45
-2002-11-24,Jean Pierre Vidal,FR,40
-2002-12-16,Tomas Kraus,CZ,0
-2002-12-16,Alois Vogl,DE,0
-2002-12-16,Kjetil Jansrud,NO,0
-2002-12-16,Ondrej Bank,CZ,0
-2002-12-16,Chip Knight,US,76
-2002-12-16,Matteo Nana,IT,0
-2002-12-16,Tom Rothrock,US,17
-2002-12-16,Andrej Jerman,SK,0
-2002-12-16,Ambrosi Hoffmann,CH,0
-2002-12-16,Antoine Tissot,FR,0
-2002-12-16,Manfred Moelgg,IT,0
-2002-12-16,Todd Haywood,NZ,0
-2002-12-16,Michal Kalwa,PL,0
-2002-12-16,Scott Macartney,US,0
-2002-12-16,Jean Pierre Vidal,FR,85
-2002-12-16,Cristian Deville,IT,0
-2002-12-16,TJ Lanning,US,0
-2002-12-16,Niki Fuerstauer,LB,0
-2002-12-16,Markus Ganahl,LI,10
-2002-12-16,Benjamin Raich,AT,70
-2002-12-16,Lars Elton Myhre,NO,0
-2002-12-16,Steven Nyman,US,0
-2002-12-16,Lasse Kjus,NO,0
-2002-12-16,Mario Matt,AT,0
-2002-12-16,Hans Petter Buraas,NO,50
-2002-12-16,Sebastien Amiez,FR,13
-2002-12-16,Bruno Kernen,CH,0
-2002-12-16,Markus Eberle,DE,6
-2002-12-16,Michael Ross,NZ,0
-2002-12-16,Min Heuk Kang,KR,0
-2002-12-16,Yasuhiro Ikuta,JP,0
-2002-12-16,Tetsuya Otaki,JP,0
-2002-12-16,Naoki Yuasa,JP,0
-2002-12-16,Marc Berthod,CH,0
-2002-12-16,Michael von Gruenigen,CH,0
-2002-12-16,Manfred Pranger,AT,76
-2002-12-16,Kevin Page,FR,29
-2002-12-16,Ryan Semple,CA,0
-2002-12-16,Daniel Albrecht,CH,0
-2002-12-16,Bode Miller,US,0
-2002-12-16,Jeroen Van Den Bogaert,BE,0
-2002-12-16,Jesse Marshall,US,0
-2002-12-16,Roger Zweifel,CH,0
-2002-12-16,Yannick Favieres,FR,0
-2002-12-16,Hannes Paul Schmid,IT,3
-2002-12-16,Mikail Renzhyn,IL,0
-2002-12-16,Heinz Schilchegger,AT,58
-2002-12-16,Kjetil Andre Aamodt,NO,16
-2002-12-16,Tom Stiansen,NO,31
-2002-12-16,Marco Buechel,LI,0
-2002-12-16,Stephan Eberharter,AT,0
-2002-12-16,Nikolay Skriabin,UA,0
-2002-12-16,Johan Brolenius,SE,5
-2002-12-16,Christoph Gruber,AT,0
-2002-12-16,Didier Defago,CH,0
-2002-12-16,Noel Baxter,GB,0
-2002-12-16,Marco Sullivan,US,0
-2002-12-16,Harald Chr. Strand Nilsen,NO,44
-2002-12-16,Kiminobu Kimura,JP,0
-2002-12-16,Peter Fill,IT,0
-2002-12-16,Bjarne Solbakken,NO,0
-2002-12-16,Mitja Kunc,SK,11
-2002-12-16,Bernard Vajdic,SK,0
-2002-12-16,Akira Sasaki,JP,0
-2002-12-16,Daniel Defago,CH,0
-2002-12-16,Matjaz Vrhovnik,SK,0
-2002-12-16,Kentaro Minagawa,JP,0
-2002-12-16,Andreas Ertl,DE,0
-2002-12-16,Martin Hansson,SE,0
-2002-12-16,Alan Perathoner,IT,0
-2002-12-16,Florian Seer,AT,26
-2002-12-16,Mitja Valencic,SK,0
-2002-12-16,Julien Lizeroux,FR,0
-2002-12-16,Marco Casanova,CH,3
-2002-12-16,Erik Schlopy,US,4
-2002-12-16,Urs Imboden,CH,6
-2002-12-16,Thomas Grandi,CA,16
-2002-12-16,Giancarlo Bergamelli,IT,0
-2002-12-16,Cristian Javier Simari Birkner,AR,0
-2002-12-16,Andrzej Bachleda,PL,0
-2002-12-16,Patrick Thaler,IT,0
-2002-12-16,Bryon Friedman,US,0
-2002-12-16,Davide Simoncelli,IT,0
-2002-12-16,Alexandre Anselmet,FR,0
-2002-12-16,Reinfried Herbst,AT,20
-2002-12-16,Michal Rajcan,SK,0
-2002-12-16,Rogier Oosterbaan,NL,0
-2002-12-16,Julien Cousineau,CA,0
-2002-12-16,Jake Zamansky,US,0
-2002-12-16,Jonathon Brauer,AU,0
-2002-12-16,Stanley Hayer,CZ,0
-2002-12-16,Michael Walchhofer,AT,0
-2002-12-16,Mika Marila,FI,0
-2002-12-16,Thomas Geisser,CH,0
-2002-12-16,Kilian Albrecht,AT,50
-2002-12-16,Jukka Leino,FI,0
-2002-12-16,Richard Gravier,FR,0
-2002-12-16,Rene Mlekuz,SK,29
-2002-12-16,Kalle Palander,FI,33
-2002-12-16,Martin Marinac,AT,22
-2002-12-16,Aksel-Lund Svindal,NO,0
-2002-12-16,Alberto Rovira Caus,ES,0
-2002-12-16,Marc Gini,CH,0
-2002-12-16,Pierre Egger,AT,0
-2002-12-16,Truls Ove Karlsen,NO,105
-2002-12-16,Markus Larsson,SE,27
-2002-12-16,Kurt Engl,AT,0
-2002-12-16,Andrej Sporn,SK,0
-2002-12-16,Stephane Tissot,FR,0
-2002-12-16,Uros Pavlovcic,SK,0
-2002-12-16,John Moulder-Brown,GB,0
-2002-12-16,Bart Mollin,BE,0
-2002-12-16,Ales Gorza,SK,13
-2002-12-16,Silvan Zurbriggen,CH,20
-2002-12-16,Gaetan Llorach,FR,0
-2002-12-16,Giorgio Rocca,IT,93
-2002-12-16,Andreas Nilsen,NO,14
-2002-12-16,Drago Grubelnik,SK,24
-2002-12-16,Mitja Dragsic,SK,29
-2002-12-16,Rainer Schoenfelder,AT,100
-2002-12-16,Ivica Kostelic,HR,118
-2002-12-16,Jure Kosir,SK,0
-2002-12-16,Alain Baxter,GB,0
-2002-12-16,Dmitrij Ulianov,RU,0
-2002-12-16,Edoardo Zardini,IT,1
-2002-12-16,Pierrick Bourgeat,FR,82
-2002-12-16,Stefan Georgiev,BG,0
-2002-12-16,Stefan Kogler,DE,0
-2003-01-05,Benjamin Raich,AT,110
-2003-01-05,Ivica Kostelic,HR,218
-2003-01-05,Rainer Schoenfelder,AT,180
-2003-01-05,Jean Pierre Vidal,FR,145
-2003-01-05,Manfred Pranger,AT,121
-2003-01-05,Kalle Palander,FI,83
-2003-01-05,Giancarlo Bergamelli,IT,36
-2003-01-05,Mitja Valencic,SK,9
-2003-01-05,Hans Petter Buraas,NO,82
-2003-01-05,John Moulder-Brown,GB,0
-2003-01-05,Michael Walchhofer,AT,26
-2003-01-05,Johan Brolenius,SE,20
-2003-01-05,Daniel Defago,CH,0
-2003-01-05,Matjaz Vrhovnik,SK,0
-2003-01-05,Michael von Gruenigen,CH,0
-2003-01-05,Marc Berthod,CH,0
-2003-01-05,Naoki Yuasa,JP,0
-2003-01-05,Tetsuya Otaki,JP,0
-2003-01-05,Drago Grubelnik,SK,38
-2003-01-05,Yasuhiro Ikuta,JP,0
-2003-01-05,Min Heuk Kang,KR,0
-2003-01-05,Bjarne Solbakken,NO,0
-2003-01-05,Dmitrij Ulianov,RU,0
-2003-01-05,Ryan Semple,CA,0
-2003-01-05,Daniel Albrecht,CH,0
-2003-01-05,Jeroen Van Den Bogaert,BE,0
-2003-01-05,Jesse Marshall,US,0
-2003-01-05,Andreas Ertl,DE,0
-2003-01-05,Sebastien Amiez,FR,26
-2003-01-05,Roger Zweifel,CH,0
-2003-01-05,Peter Fill,IT,0
-2003-01-05,Mikail Renzhyn,IL,0
-2003-01-05,Marco Buechel,LI,0
-2003-01-05,Stephan Eberharter,AT,0
-2003-01-05,Martin Hansson,SE,0
-2003-01-05,Markus Larsson,SE,39
-2003-01-05,Akira Sasaki,JP,0
-2003-01-05,Alan Perathoner,IT,0
-2003-01-05,Cristian Javier Simari Birkner,AR,0
-2003-01-05,Hannes Paul Schmid,IT,3
-2003-01-05,Gaetan Llorach,FR,0
-2003-01-05,Jure Kosir,SK,0
-2003-01-05,Stefan Kogler,DE,0
-2003-01-05,Silvan Zurbriggen,CH,40
-2003-01-05,Ales Gorza,SK,13
-2003-01-05,Stefan Georgiev,BG,0
-2003-01-05,Alain Baxter,GB,0
-2003-01-05,Ondrej Bank,CZ,0
-2003-01-05,Bode Miller,US,0
-2003-01-05,Bryon Friedman,US,0
-2003-01-05,Davide Simoncelli,IT,0
-2003-01-05,Alexandre Anselmet,FR,0
-2003-01-05,Harald Chr. Strand Nilsen,NO,56
-2003-01-05,Urs Imboden,CH,24
-2003-01-05,Michal Rajcan,SK,0
-2003-01-05,Rogier Oosterbaan,NL,0
-2003-01-05,Julien Cousineau,CA,0
-2003-01-05,Jake Zamansky,US,0
-2003-01-05,Jonathon Brauer,AU,0
-2003-01-05,Stanley Hayer,CZ,0
-2003-01-05,Mika Marila,FI,0
-2003-01-05,Thomas Geisser,CH,0
-2003-01-05,Tom Rothrock,US,39
-2003-01-05,Jukka Leino,FI,0
-2003-01-05,Patrick Thaler,IT,0
-2003-01-05,Andrzej Bachleda,PL,0
-2003-01-05,Mario Matt,AT,18
-2003-01-05,Nikolay Skriabin,UA,0
-2003-01-05,Christoph Gruber,AT,0
-2003-01-05,Didier Defago,CH,0
-2003-01-05,Richard Gravier,FR,0
-2003-01-05,Bernard Vajdic,SK,0
-2003-01-05,Aksel-Lund Svindal,NO,0
-2003-01-05,Alberto Rovira Caus,ES,0
-2003-01-05,Rene Mlekuz,SK,29
-2003-01-05,Kjetil Andre Aamodt,NO,22
-2003-01-05,Marc Gini,CH,0
-2003-01-05,Pierre Egger,AT,0
-2003-01-05,Kurt Engl,AT,0
-2003-01-05,Andrej Sporn,SK,0
-2003-01-05,Edoardo Zardini,IT,1
-2003-01-05,Florian Seer,AT,50
-2003-01-05,Kiminobu Kimura,JP,0
-2003-01-05,Lasse Kjus,NO,5
-2003-01-05,Reinfried Herbst,AT,20
-2003-01-05,Stephane Tissot,FR,0
-2003-01-05,Markus Ganahl,LI,14
-2003-01-05,Uros Pavlovcic,SK,0
-2003-01-05,Kevin Page,FR,29
-2003-01-05,Bart Mollin,BE,0
-2003-01-05,Kentaro Minagawa,JP,3
-2003-01-05,Martin Marinac,AT,22
-2003-01-05,Heinz Schilchegger,AT,58
-2003-01-05,Kilian Albrecht,AT,50
-2003-01-05,Truls Ove Karlsen,NO,105
-2003-01-05,Pierrick Bourgeat,FR,82
-2003-01-05,Andreas Nilsen,NO,14
-2003-01-05,Thomas Grandi,CA,45
-2003-01-05,Giorgio Rocca,IT,93
-2003-01-05,Lars Elton Myhre,NO,0
-2003-01-05,Noel Baxter,GB,0
-2003-01-05,Marco Sullivan,US,0
-2003-01-05,Michael Ross,NZ,0
-2003-01-05,Julien Lizeroux,FR,0
-2003-01-05,Yannick Favieres,FR,0
-2003-01-05,Bruno Kernen,CH,0
-2003-01-05,Scott Macartney,US,0
-2003-01-05,Ambrosi Hoffmann,CH,0
-2003-01-05,Andrej Jerman,SK,0
-2003-01-05,Matteo Nana,IT,0
-2003-01-05,Mitja Kunc,SK,11
-2003-01-05,Marco Casanova,CH,3
-2003-01-05,Steven Nyman,US,0
-2003-01-05,Markus Eberle,DE,16
-2003-01-05,Kjetil Jansrud,NO,0
-2003-01-05,Alois Vogl,DE,0
-2003-01-05,Tomas Kraus,CZ,0
-2003-01-05,Manfred Moelgg,IT,0
-2003-01-05,Michal Kalwa,PL,0
-2003-01-05,Erik Schlopy,US,4
-2003-01-05,Chip Knight,US,84
-2003-01-05,Tom Stiansen,NO,39
-2003-01-05,Todd Haywood,NZ,0
-2003-01-05,Cristian Deville,IT,0
-2003-01-05,TJ Lanning,US,0
-2003-01-05,Niki Fuerstauer,LB,0
-2003-01-05,Antoine Tissot,FR,0
-2003-01-05,Mitja Dragsic,SK,29
-2003-01-12,Patrick Thaler,IT,0
-2003-01-12,Michael von Gruenigen,CH,0
-2003-01-12,Jean Pierre Vidal,FR,145
-2003-01-12,Pierrick Bourgeat,FR,82
-2003-01-12,Michael Walchhofer,AT,26
-2003-01-12,Jonathon Brauer,AU,0
-2003-01-12,Jake Zamansky,US,0
-2003-01-12,Julien Cousineau,CA,0
-2003-01-12,Rogier Oosterbaan,NL,0
-2003-01-12,Michal Rajcan,SK,0
-2003-01-12,Alexandre Anselmet,FR,0
-2003-01-12,Davide Simoncelli,IT,0
-2003-01-12,Drago Grubelnik,SK,38
-2003-01-12,Bryon Friedman,US,0
-2003-01-12,Alain Baxter,GB,0
-2003-01-12,Stefan Georgiev,BG,0
-2003-01-12,Ales Gorza,SK,13
-2003-01-12,Stefan Kogler,DE,0
-2003-01-12,Jure Kosir,SK,0
-2003-01-12,Gaetan Llorach,FR,0
-2003-01-12,Bart Mollin,BE,0
-2003-01-12,John Moulder-Brown,GB,0
-2003-01-12,Kevin Page,FR,29
-2003-01-12,Uros Pavlovcic,SK,0
-2003-01-12,Ondrej Bank,CZ,0
-2003-01-12,Stephane Tissot,FR,0
-2003-01-12,Martin Marinac,AT,22
-2003-01-12,Thomas Grandi,CA,45
-2003-01-12,Andrzej Bachleda,PL,0
-2003-01-12,Hannes Paul Schmid,IT,3
-2003-01-12,Thomas Geisser,CH,0
-2003-01-12,Cristian Javier Simari Birkner,AR,0
-2003-01-12,Alan Perathoner,IT,0
-2003-01-12,Akira Sasaki,JP,0
-2003-01-12,Daniel Defago,CH,0
-2003-01-12,Matjaz Vrhovnik,SK,0
-2003-01-12,Kentaro Minagawa,JP,3
-2003-01-12,Andreas Ertl,DE,0
-2003-01-12,Silvan Zurbriggen,CH,40
-2003-01-12,Mika Marila,FI,0
-2003-01-12,Markus Ganahl,LI,14
-2003-01-12,Julien Lizeroux,FR,0
-2003-01-12,Mitja Kunc,SK,11
-2003-01-12,Marco Casanova,CH,3
-2003-01-12,Urs Imboden,CH,24
-2003-01-12,Florian Seer,AT,50
-2003-01-12,Tom Rothrock,US,39
-2003-01-12,Giorgio Rocca,IT,93
-2003-01-12,Rene Mlekuz,SK,29
-2003-01-12,Markus Larsson,SE,39
-2003-01-12,Mitja Valencic,SK,9
-2003-01-12,Reinfried Herbst,AT,20
-2003-01-12,Andreas Nilsen,NO,14
-2003-01-12,Johan Brolenius,SE,20
-2003-01-12,Yannick Favieres,FR,0
-2003-01-12,Michael Ross,NZ,0
-2003-01-12,Marco Sullivan,US,0
-2003-01-12,Noel Baxter,GB,0
-2003-01-12,Didier Defago,CH,0
-2003-01-12,Christoph Gruber,AT,0
-2003-01-12,Nikolay Skriabin,UA,0
-2003-01-12,Stephan Eberharter,AT,0
-2003-01-12,Marco Buechel,LI,0
-2003-01-12,Mikail Renzhyn,IL,0
-2003-01-12,Bruno Kernen,CH,0
-2003-01-12,Peter Fill,IT,0
-2003-01-12,Jesse Marshall,US,0
-2003-01-12,Daniel Albrecht,CH,0
-2003-01-12,Ryan Semple,CA,0
-2003-01-12,Dmitrij Ulianov,RU,0
-2003-01-12,Bjarne Solbakken,NO,0
-2003-01-12,Min Heuk Kang,KR,0
-2003-01-12,Yasuhiro Ikuta,JP,0
-2003-01-12,Tetsuya Otaki,JP,0
-2003-01-12,Naoki Yuasa,JP,0
-2003-01-12,Marc Berthod,CH,0
-2003-01-12,Roger Zweifel,CH,0
-2003-01-12,Scott Macartney,US,0
-2003-01-12,Ambrosi Hoffmann,CH,0
-2003-01-12,Jukka Leino,FI,0
-2003-01-12,Edoardo Zardini,IT,1
-2003-01-12,Andrej Sporn,SK,0
-2003-01-12,Kurt Engl,AT,0
-2003-01-12,Pierre Egger,AT,0
-2003-01-12,Marc Gini,CH,0
-2003-01-12,Alberto Rovira Caus,ES,0
-2003-01-12,Bernard Vajdic,SK,0
-2003-01-12,Richard Gravier,FR,0
-2003-01-12,Kiminobu Kimura,JP,0
-2003-01-12,Mario Matt,AT,18
-2003-01-12,Steven Nyman,US,0
-2003-01-12,Lars Elton Myhre,NO,0
-2003-01-12,Niki Fuerstauer,LB,0
-2003-01-12,TJ Lanning,US,0
-2003-01-12,Cristian Deville,IT,0
-2003-01-12,Todd Haywood,NZ,0
-2003-01-12,Michal Kalwa,PL,0
-2003-01-12,Manfred Moelgg,IT,0
-2003-01-12,Tomas Kraus,CZ,0
-2003-01-12,Alois Vogl,DE,0
-2003-01-12,Kjetil Jansrud,NO,0
-2003-01-12,Antoine Tissot,FR,0
-2003-01-12,Matteo Nana,IT,0
-2003-01-12,Lasse Kjus,NO,14
-2003-01-12,Andrej Jerman,SK,0
-2003-01-12,Jeroen Van Den Bogaert,BE,0
-2003-01-12,Benjamin Raich,AT,150
-2003-01-12,Heinz Schilchegger,AT,70
-2003-01-12,Erik Schlopy,US,28
-2003-01-12,Chip Knight,US,97
-2003-01-12,Aksel-Lund Svindal,NO,11
-2003-01-12,Kilian Albrecht,AT,72
-2003-01-12,Kjetil Andre Aamodt,NO,48
-2003-01-12,Martin Hansson,SE,10
-2003-01-12,Harald Chr. Strand Nilsen,NO,70
-2003-01-12,Truls Ove Karlsen,NO,125
-2003-01-12,Tom Stiansen,NO,68
-2003-01-12,Bode Miller,US,80
-2003-01-12,Markus Eberle,DE,31
-2003-01-12,Stanley Hayer,CZ,8
-2003-01-12,Mitja Dragsic,SK,61
-2003-01-12,Kalle Palander,FI,128
-2003-01-12,Manfred Pranger,AT,171
-2003-01-12,Giancarlo Bergamelli,IT,54
-2003-01-12,Rainer Schoenfelder,AT,216
-2003-01-12,Hans Petter Buraas,NO,142
-2003-01-12,Sebastien Amiez,FR,42
-2003-01-12,Ivica Kostelic,HR,318
-2003-01-19,Andrzej Bachleda,PL,0
-2003-01-19,Stanley Hayer,CZ,8
-2003-01-19,Markus Eberle,DE,31
-2003-01-19,Julien Lizeroux,FR,0
-2003-01-19,Mitja Valencic,SK,9
-2003-01-19,Martin Hansson,SE,10
-2003-01-19,Kentaro Minagawa,JP,3
-2003-01-19,Jeroen Van Den Bogaert,BE,0
-2003-01-19,Michael Walchhofer,AT,26
-2003-01-19,Matjaz Vrhovnik,SK,0
-2003-01-19,Daniel Defago,CH,0
-2003-01-19,Mika Marila,FI,0
-2003-01-19,Mitja Kunc,SK,11
-2003-01-19,Cristian Javier Simari Birkner,AR,0
-2003-01-19,Hannes Paul Schmid,IT,3
-2003-01-19,Thomas Geisser,CH,0
-2003-01-19,Andreas Ertl,DE,0
-2003-01-19,Marco Casanova,CH,3
-2003-01-19,Florian Seer,AT,50
-2003-01-19,Urs Imboden,CH,24
-2003-01-19,Kalle Palander,FI,178
-2003-01-19,Michael von Gruenigen,CH,0
-2003-01-19,Ivica Kostelic,HR,378
-2003-01-19,Marc Berthod,CH,0
-2003-01-19,Naoki Yuasa,JP,0
-2003-01-19,Tetsuya Otaki,JP,0
-2003-01-19,Yasuhiro Ikuta,JP,0
-2003-01-19,Min Heuk Kang,KR,0
-2003-01-19,Akira Sasaki,JP,80
-2003-01-19,Bjarne Solbakken,NO,0
-2003-01-19,Dmitrij Ulianov,RU,0
-2003-01-19,Ryan Semple,CA,0
-2003-01-19,Daniel Albrecht,CH,0
-2003-01-19,Benjamin Raich,AT,150
-2003-01-19,Mitja Dragsic,SK,61
-2003-01-19,Drago Grubelnik,SK,38
-2003-01-19,Silvan Zurbriggen,CH,40
-2003-01-19,Markus Larsson,SE,39
-2003-01-19,Rene Mlekuz,SK,29
-2003-01-19,Tom Rothrock,US,39
-2003-01-19,Jonathon Brauer,AU,0
-2003-01-19,Harald Chr. Strand Nilsen,NO,70
-2003-01-19,Tom Stiansen,NO,68
-2003-01-19,Sebastien Amiez,FR,42
-2003-01-19,Jake Zamansky,US,0
-2003-01-19,Patrick Thaler,IT,0
-2003-01-19,Michal Rajcan,SK,0
-2003-01-19,Niki Fuerstauer,LB,0
-2003-01-19,TJ Lanning,US,0
-2003-01-19,Cristian Deville,IT,0
-2003-01-19,Todd Haywood,NZ,0
-2003-01-19,Michal Kalwa,PL,0
-2003-01-19,Manfred Moelgg,IT,0
-2003-01-19,Tomas Kraus,CZ,0
-2003-01-19,Kjetil Jansrud,NO,0
-2003-01-19,Antoine Tissot,FR,0
-2003-01-19,Matteo Nana,IT,0
-2003-01-19,Andrej Jerman,SK,0
-2003-01-19,Ambrosi Hoffmann,CH,0
-2003-01-19,Scott Macartney,US,0
-2003-01-19,Bruno Kernen,CH,0
-2003-01-19,Yannick Favieres,FR,0
-2003-01-19,Michael Ross,NZ,0
-2003-01-19,Marco Sullivan,US,0
-2003-01-19,Noel Baxter,GB,0
-2003-01-19,Didier Defago,CH,0
-2003-01-19,Christoph Gruber,AT,0
-2003-01-19,Nikolay Skriabin,UA,0
-2003-01-19,Stephan Eberharter,AT,0
-2003-01-19,Marco Buechel,LI,0
-2003-01-19,Mikail Renzhyn,IL,0
-2003-01-19,Peter Fill,IT,0
-2003-01-19,Lars Elton Myhre,NO,0
-2003-01-19,Steven Nyman,US,0
-2003-01-19,Lasse Kjus,NO,14
-2003-01-19,Mario Matt,AT,18
-2003-01-19,Alexandre Anselmet,FR,0
-2003-01-19,Hans Petter Buraas,NO,187
-2003-01-19,Bryon Friedman,US,0
-2003-01-19,Ondrej Bank,CZ,0
-2003-01-19,Stefan Georgiev,BG,0
-2003-01-19,Ales Gorza,SK,13
-2003-01-19,Stefan Kogler,DE,0
-2003-01-19,Jure Kosir,SK,0
-2003-01-19,Gaetan Llorach,FR,0
-2003-01-19,Bart Mollin,BE,0
-2003-01-19,John Moulder-Brown,GB,0
-2003-01-19,Kevin Page,FR,29
-2003-01-19,Rogier Oosterbaan,NL,0
-2003-01-19,Uros Pavlovcic,SK,0
-2003-01-19,Reinfried Herbst,AT,20
-2003-01-19,Andreas Nilsen,NO,14
-2003-01-19,Johan Brolenius,SE,20
-2003-01-19,Edoardo Zardini,IT,1
-2003-01-19,Andrej Sporn,SK,0
-2003-01-19,Kurt Engl,AT,0
-2003-01-19,Pierre Egger,AT,0
-2003-01-19,Marc Gini,CH,0
-2003-01-19,Alberto Rovira Caus,ES,0
-2003-01-19,Aksel-Lund Svindal,NO,11
-2003-01-19,Bernard Vajdic,SK,0
-2003-01-19,Richard Gravier,FR,0
-2003-01-19,Stephane Tissot,FR,0
-2003-01-19,Davide Simoncelli,IT,0
-2003-01-19,Jesse Marshall,US,0
-2003-01-19,Roger Zweifel,CH,0
-2003-01-19,Julien Cousineau,CA,26
-2003-01-19,Truls Ove Karlsen,NO,149
-2003-01-19,Bode Miller,US,104
-2003-01-19,Heinz Schilchegger,AT,90
-2003-01-19,Jean Pierre Vidal,FR,185
-2003-01-19,Alain Baxter,GB,18
-2003-01-19,Thomas Grandi,CA,60
-2003-01-19,Chip Knight,US,111
-2003-01-19,Erik Schlopy,US,57
-2003-01-19,Kilian Albrecht,AT,85
-2003-01-19,Alois Vogl,DE,11
-2003-01-19,Martin Marinac,AT,32
-2003-01-19,Jukka Leino,FI,8
-2003-01-19,Markus Ganahl,LI,21
-2003-01-19,Giorgio Rocca,IT,193
-2003-01-19,Pierrick Bourgeat,FR,88
-2003-01-19,Alan Perathoner,IT,9
-2003-01-19,Kiminobu Kimura,JP,5
-2003-01-19,Giancarlo Bergamelli,IT,66
-2003-01-19,Manfred Pranger,AT,203
-2003-01-19,Rainer Schoenfelder,AT,234
-2003-01-19,Kjetil Andre Aamodt,NO,84
-2003-01-26,Akira Sasaki,JP,80
-2003-01-26,Tom Stiansen,NO,68
-2003-01-26,Didier Defago,CH,0
-2003-01-26,Noel Baxter,GB,0
-2003-01-26,Marco Sullivan,US,0
-2003-01-26,Michael Ross,NZ,0
-2003-01-26,Harald Chr. Strand Nilsen,NO,70
-2003-01-26,Yannick Favieres,FR,0
-2003-01-26,Bruno Kernen,CH,0
-2003-01-26,Scott Macartney,US,0
-2003-01-26,Florian Seer,AT,50
-2003-01-26,Ambrosi Hoffmann,CH,0
-2003-01-26,Andrej Jerman,SK,0
-2003-01-26,Matteo Nana,IT,0
-2003-01-26,Antoine Tissot,FR,0
-2003-01-26,Kjetil Jansrud,NO,0
-2003-01-26,Alois Vogl,DE,11
-2003-01-26,Kjetil Andre Aamodt,NO,84
-2003-01-26,Tomas Kraus,CZ,0
-2003-01-26,Manfred Moelgg,IT,0
-2003-01-26,Michal Kalwa,PL,0
-2003-01-26,Todd Haywood,NZ,0
-2003-01-26,Christoph Gruber,AT,0
-2003-01-26,Nikolay Skriabin,UA,0
-2003-01-26,Stephan Eberharter,AT,0
-2003-01-26,Marco Buechel,LI,0
-2003-01-26,Michael von Gruenigen,CH,0
-2003-01-26,Marc Berthod,CH,0
-2003-01-26,Julien Lizeroux,FR,0
-2003-01-26,Naoki Yuasa,JP,0
-2003-01-26,Markus Eberle,DE,31
-2003-01-26,Tetsuya Otaki,JP,0
-2003-01-26,Hans Petter Buraas,NO,187
-2003-01-26,Marco Casanova,CH,3
-2003-01-26,Yasuhiro Ikuta,JP,0
-2003-01-26,Min Heuk Kang,KR,0
-2003-01-26,Giorgio Rocca,IT,193
-2003-01-26,Bjarne Solbakken,NO,0
-2003-01-26,Dmitrij Ulianov,RU,0
-2003-01-26,Ryan Semple,CA,0
-2003-01-26,Daniel Albrecht,CH,0
-2003-01-26,Jeroen Van Den Bogaert,BE,0
-2003-01-26,Mitja Valencic,SK,9
-2003-01-26,Jesse Marshall,US,0
-2003-01-26,Roger Zweifel,CH,0
-2003-01-26,Peter Fill,IT,0
-2003-01-26,Mikail Renzhyn,IL,0
-2003-01-26,Martin Hansson,SE,10
-2003-01-26,Urs Imboden,CH,24
-2003-01-26,Cristian Deville,IT,0
-2003-01-26,TJ Lanning,US,0
-2003-01-26,Niki Fuerstauer,LB,0
-2003-01-26,Thomas Grandi,CA,60
-2003-01-26,Jean Pierre Vidal,FR,185
-2003-01-26,Bryon Friedman,US,0
-2003-01-26,Davide Simoncelli,IT,0
-2003-01-26,Alexandre Anselmet,FR,0
-2003-01-26,Michal Rajcan,SK,0
-2003-01-26,Manfred Pranger,AT,203
-2003-01-26,Rogier Oosterbaan,NL,0
-2003-01-26,Julien Cousineau,CA,26
-2003-01-26,Jake Zamansky,US,0
-2003-01-26,Jonathon Brauer,AU,0
-2003-01-26,Stanley Hayer,CZ,8
-2003-01-26,Michael Walchhofer,AT,26
-2003-01-26,Mika Marila,FI,0
-2003-01-26,Thomas Geisser,CH,0
-2003-01-26,Jukka Leino,FI,8
-2003-01-26,Patrick Thaler,IT,0
-2003-01-26,Andrzej Bachleda,PL,0
-2003-01-26,Matjaz Vrhovnik,SK,0
-2003-01-26,Cristian Javier Simari Birkner,AR,0
-2003-01-26,Alan Perathoner,IT,9
-2003-01-26,Ondrej Bank,CZ,0
-2003-01-26,Alain Baxter,GB,18
-2003-01-26,Stefan Georgiev,BG,0
-2003-01-26,Ales Gorza,SK,13
-2003-01-26,Lars Elton Myhre,NO,0
-2003-01-26,Steven Nyman,US,0
-2003-01-26,Lasse Kjus,NO,14
-2003-01-26,Kiminobu Kimura,JP,5
-2003-01-26,Bernard Vajdic,SK,0
-2003-01-26,Aksel-Lund Svindal,NO,11
-2003-01-26,Alberto Rovira Caus,ES,0
-2003-01-26,Marc Gini,CH,0
-2003-01-26,Andreas Ertl,DE,0
-2003-01-26,Kentaro Minagawa,JP,3
-2003-01-26,Daniel Defago,CH,0
-2003-01-26,Pierre Egger,AT,0
-2003-01-26,Edoardo Zardini,IT,1
-2003-01-26,Andreas Nilsen,NO,14
-2003-01-26,Reinfried Herbst,AT,20
-2003-01-26,Rene Mlekuz,SK,29
-2003-01-26,Uros Pavlovcic,SK,0
-2003-01-26,Kevin Page,FR,29
-2003-01-26,John Moulder-Brown,GB,0
-2003-01-26,Bart Mollin,BE,0
-2003-01-26,Gaetan Llorach,FR,0
-2003-01-26,Stefan Kogler,DE,0
-2003-01-26,Andrej Sporn,SK,0
-2003-01-26,Markus Ganahl,LI,21
-2003-01-26,Bode Miller,US,108
-2003-01-26,Markus Larsson,SE,59
-2003-01-26,Mitja Dragsic,SK,69
-2003-01-26,Mitja Kunc,SK,51
-2003-01-26,Martin Marinac,AT,42
-2003-01-26,Silvan Zurbriggen,CH,76
-2003-01-26,Truls Ove Karlsen,NO,181
-2003-01-26,Tom Rothrock,US,51
-2003-01-26,Benjamin Raich,AT,195
-2003-01-26,Sebastien Amiez,FR,71
-2003-01-26,Kilian Albrecht,AT,111
-2003-01-26,Richard Gravier,FR,14
-2003-01-26,Johan Brolenius,SE,44
-2003-01-26,Kurt Engl,AT,22
-2003-01-26,Mario Matt,AT,34
-2003-01-26,Giancarlo Bergamelli,IT,82
-2003-01-26,Stephane Tissot,FR,13
-2003-01-26,Drago Grubelnik,SK,45
-2003-01-26,Chip Knight,US,122
-2003-01-26,Pierrick Bourgeat,FR,106
-2003-01-26,Kalle Palander,FI,278
-2003-01-26,Ivica Kostelic,HR,428
-2003-01-26,Erik Schlopy,US,63
-2003-01-26,Rainer Schoenfelder,AT,314
-2003-01-26,Heinz Schilchegger,AT,150
-2003-01-26,Hannes Paul Schmid,IT,12
-2003-01-26,Jure Kosir,SK,5
-2003-01-28,Nikolay Skriabin,UA,0
-2003-01-28,Christoph Gruber,AT,0
-2003-01-28,Daniel Defago,CH,0
-2003-01-28,Didier Defago,CH,0
-2003-01-28,Noel Baxter,GB,0
-2003-01-28,Marco Sullivan,US,0
-2003-01-28,Michael Ross,NZ,0
-2003-01-28,Bruno Kernen,CH,0
-2003-01-28,Yannick Favieres,FR,0
-2003-01-28,Alan Perathoner,IT,9
-2003-01-28,Scott Macartney,US,0
-2003-01-28,Ambrosi Hoffmann,CH,0
-2003-01-28,Kentaro Minagawa,JP,3
-2003-01-28,Andreas Ertl,DE,0
-2003-01-28,Andrej Jerman,SK,0
-2003-01-28,Matteo Nana,IT,0
-2003-01-28,Matjaz Vrhovnik,SK,0
-2003-01-28,Stephan Eberharter,AT,0
-2003-01-28,Michael von Gruenigen,CH,0
-2003-01-28,Mikail Renzhyn,IL,0
-2003-01-28,Marc Berthod,CH,0
-2003-01-28,Naoki Yuasa,JP,0
-2003-01-28,Tetsuya Otaki,JP,0
-2003-01-28,Yasuhiro Ikuta,JP,0
-2003-01-28,Min Heuk Kang,KR,0
-2003-01-28,Bjarne Solbakken,NO,0
-2003-01-28,Dmitrij Ulianov,RU,0
-2003-01-28,Ryan Semple,CA,0
-2003-01-28,Antoine Tissot,FR,0
-2003-01-28,Daniel Albrecht,CH,0
-2003-01-28,Harald Chr. Strand Nilsen,NO,79
-2003-01-28,Jeroen Van Den Bogaert,BE,0
-2003-01-28,Jesse Marshall,US,0
-2003-01-28,Roger Zweifel,CH,0
-2003-01-28,Hannes Paul Schmid,IT,12
-2003-01-28,Peter Fill,IT,0
-2003-01-28,Kalle Palander,FI,378
-2003-01-28,Marco Buechel,LI,0
-2003-01-28,Cristian Javier Simari Birkner,AR,0
-2003-01-28,Andrzej Bachleda,PL,0
-2003-01-28,Alois Vogl,DE,11
-2003-01-28,Bart Mollin,BE,0
-2003-01-28,Gaetan Llorach,FR,0
-2003-01-28,Jure Kosir,SK,5
-2003-01-28,Stefan Kogler,DE,0
-2003-01-28,Ales Gorza,SK,13
-2003-01-28,Stefan Georgiev,BG,0
-2003-01-28,Alain Baxter,GB,18
-2003-01-28,Ondrej Bank,CZ,0
-2003-01-28,Bode Miller,US,108
-2003-01-28,Bryon Friedman,US,0
-2003-01-28,Jean Pierre Vidal,FR,189
-2003-01-28,Alexandre Anselmet,FR,0
-2003-01-28,Michal Rajcan,SK,0
-2003-01-28,Rogier Oosterbaan,NL,0
-2003-01-28,Julien Cousineau,CA,26
-2003-01-28,Jake Zamansky,US,0
-2003-01-28,Jonathon Brauer,AU,0
-2003-01-28,Stanley Hayer,CZ,8
-2003-01-28,Michael Walchhofer,AT,26
-2003-01-28,Mika Marila,FI,0
-2003-01-28,Thomas Geisser,CH,0
-2003-01-28,Jukka Leino,FI,8
-2003-01-28,Patrick Thaler,IT,0
-2003-01-28,John Moulder-Brown,GB,0
-2003-01-28,Kevin Page,FR,29
-2003-01-28,Uros Pavlovcic,SK,0
-2003-01-28,Stephane Tissot,FR,13
-2003-01-28,Tomas Kraus,CZ,0
-2003-01-28,Manfred Moelgg,IT,0
-2003-01-28,Michal Kalwa,PL,0
-2003-01-28,Martin Hansson,SE,10
-2003-01-28,Todd Haywood,NZ,0
-2003-01-28,Cristian Deville,IT,0
-2003-01-28,TJ Lanning,US,0
-2003-01-28,Niki Fuerstauer,LB,0
-2003-01-28,Lars Elton Myhre,NO,0
-2003-01-28,Steven Nyman,US,0
-2003-01-28,Lasse Kjus,NO,14
-2003-01-28,Kjetil Jansrud,NO,0
-2003-01-28,Mario Matt,AT,34
-2003-01-28,Richard Gravier,FR,14
-2003-01-28,Bernard Vajdic,SK,0
-2003-01-28,Aksel-Lund Svindal,NO,11
-2003-01-28,Alberto Rovira Caus,ES,0
-2003-01-28,Marc Gini,CH,0
-2003-01-28,Pierre Egger,AT,0
-2003-01-28,Kurt Engl,AT,22
-2003-01-28,Andrej Sporn,SK,0
-2003-01-28,Edoardo Zardini,IT,1
-2003-01-28,Andreas Nilsen,NO,14
-2003-01-28,Reinfried Herbst,AT,20
-2003-01-28,Kiminobu Kimura,JP,5
-2003-01-28,Mitja Valencic,SK,9
-2003-01-28,Davide Simoncelli,IT,0
-2003-01-28,Julien Lizeroux,FR,0
-2003-01-28,Manfred Pranger,AT,248
-2003-01-28,Martin Marinac,AT,82
-2003-01-28,Giancarlo Bergamelli,IT,118
-2003-01-28,Akira Sasaki,JP,112
-2003-01-28,Johan Brolenius,SE,73
-2003-01-28,Drago Grubelnik,SK,71
-2003-01-28,Truls Ove Karlsen,NO,205
-2003-01-28,Thomas Grandi,CA,82
-2003-01-28,Pierrick Bourgeat,FR,124
-2003-01-28,Markus Larsson,SE,75
-2003-01-28,Kjetil Andre Aamodt,NO,99
-2003-01-28,Kilian Albrecht,AT,125
-2003-01-28,Erik Schlopy,US,76
-2003-01-28,Tom Stiansen,NO,80
-2003-01-28,Mitja Kunc,SK,62
-2003-01-28,Silvan Zurbriggen,CH,86
-2003-01-28,Chip Knight,US,130
-2003-01-28,Rene Mlekuz,SK,36
-2003-01-28,Ivica Kostelic,HR,478
-2003-01-28,Sebastien Amiez,FR,91
-2003-01-28,Mitja Dragsic,SK,69
-2003-01-28,Markus Eberle,DE,31
-2003-01-28,Marco Casanova,CH,3
-2003-01-28,Urs Imboden,CH,24
-2003-01-28,Rainer Schoenfelder,AT,320
-2003-01-28,Tom Rothrock,US,51
-2003-01-28,Giorgio Rocca,IT,198
-2003-01-28,Florian Seer,AT,50
-2003-01-28,Markus Ganahl,LI,21
-2003-01-28,Heinz Schilchegger,AT,150
-2003-01-28,Hans Petter Buraas,NO,247
-2003-01-28,Benjamin Raich,AT,275
-2003-03-02,Kevin Page,FR,29
-2003-03-02,Edoardo Zardini,IT,1
-2003-03-02,Johan Brolenius,SE,73
-2003-03-02,Alberto Rovira Caus,ES,0
-2003-03-02,Marc Gini,CH,0
-2003-03-02,Andreas Nilsen,NO,14
-2003-03-02,Reinfried Herbst,AT,20
-2003-03-02,Kurt Engl,AT,22
-2003-03-02,Stephane Tissot,FR,13
-2003-03-02,Uros Pavlovcic,SK,0
-2003-03-02,Bernard Vajdic,SK,0
-2003-03-02,Andrej Sporn,SK,0
-2003-03-02,Pierre Egger,AT,0
-2003-03-02,Dmitrij Ulianov,RU,0
-2003-03-02,Bart Mollin,BE,0
-2003-03-02,Thomas Geisser,CH,0
-2003-03-02,Mika Marila,FI,0
-2003-03-02,Michael Walchhofer,AT,26
-2003-03-02,Stanley Hayer,CZ,8
-2003-03-02,Jonathon Brauer,AU,0
-2003-03-02,Jake Zamansky,US,0
-2003-03-02,Julien Cousineau,CA,26
-2003-03-02,Rogier Oosterbaan,NL,0
-2003-03-02,Michal Rajcan,SK,0
-2003-03-02,Alexandre Anselmet,FR,0
-2003-03-02,Davide Simoncelli,IT,0
-2003-03-02,Bryon Friedman,US,0
-2003-03-02,Ondrej Bank,CZ,0
-2003-03-02,Alain Baxter,GB,18
-2003-03-02,Stefan Georgiev,BG,0
-2003-03-02,Ales Gorza,SK,13
-2003-03-02,Stefan Kogler,DE,0
-2003-03-02,Jure Kosir,SK,5
-2003-03-02,Gaetan Llorach,FR,0
-2003-03-02,Richard Gravier,FR,14
-2003-03-02,John Moulder-Brown,GB,0
-2003-03-02,Steven Nyman,US,0
-2003-03-02,Lasse Kjus,NO,14
-2003-03-02,Marco Sullivan,US,0
-2003-03-02,Naoki Yuasa,JP,0
-2003-03-02,Noel Baxter,GB,0
-2003-03-02,Didier Defago,CH,0
-2003-03-02,Christoph Gruber,AT,0
-2003-03-02,Nikolay Skriabin,UA,0
-2003-03-02,Stephan Eberharter,AT,0
-2003-03-02,Marco Buechel,LI,0
-2003-03-02,Michael Ross,NZ,0
-2003-03-02,Tetsuya Otaki,JP,0
-2003-03-02,Peter Fill,IT,0
-2003-03-02,Roger Zweifel,CH,0
-2003-03-02,Jesse Marshall,US,0
-2003-03-02,Jeroen Van Den Bogaert,BE,0
-2003-03-02,Daniel Albrecht,CH,0
-2003-03-02,Yasuhiro Ikuta,JP,0
-2003-03-02,Ryan Semple,CA,0
-2003-03-02,Min Heuk Kang,KR,0
-2003-03-02,Mikail Renzhyn,IL,0
-2003-03-02,Kiminobu Kimura,JP,5
-2003-03-02,Yannick Favieres,FR,0
-2003-03-02,Scott Macartney,US,0
-2003-03-02,Bjarne Solbakken,NO,0
-2003-03-02,Lars Elton Myhre,NO,0
-2003-03-02,Niki Fuerstauer,LB,0
-2003-03-02,TJ Lanning,US,0
-2003-03-02,Cristian Deville,IT,0
-2003-03-02,Todd Haywood,NZ,0
-2003-03-02,Michal Kalwa,PL,0
-2003-03-02,Manfred Moelgg,IT,0
-2003-03-02,Bruno Kernen,CH,0
-2003-03-02,Jukka Leino,FI,8
-2003-03-02,Alois Vogl,DE,11
-2003-03-02,Kjetil Jansrud,NO,0
-2003-03-02,Michael von Gruenigen,CH,0
-2003-03-02,Antoine Tissot,FR,0
-2003-03-02,Matteo Nana,IT,0
-2003-03-02,Andrej Jerman,SK,0
-2003-03-02,Marc Berthod,CH,0
-2003-03-02,Ambrosi Hoffmann,CH,0
-2003-03-02,Tomas Kraus,CZ,0
-2003-03-02,Andrzej Bachleda,PL,0
-2003-03-02,Patrick Thaler,IT,0
-2003-03-02,Hannes Paul Schmid,IT,12
-2003-03-02,Martin Marinac,AT,92
-2003-03-02,Benjamin Raich,AT,335
-2003-03-02,Kentaro Minagawa,JP,14
-2003-03-02,Giancarlo Bergamelli,IT,147
-2003-03-02,Mario Matt,AT,46
-2003-03-02,Tom Stiansen,NO,87
-2003-03-02,Pierrick Bourgeat,FR,174
-2003-03-02,Akira Sasaki,JP,126
-2003-03-02,Heinz Schilchegger,AT,164
-2003-03-02,Manfred Pranger,AT,280
-2003-03-02,Kilian Albrecht,AT,170
-2003-03-02,Hans Petter Buraas,NO,262
-2003-03-02,Kalle Palander,FI,478
-2003-03-02,Erik Schlopy,US,82
-2003-03-02,Ivica Kostelic,HR,494
-2003-03-02,Bode Miller,US,148
-2003-03-02,Urs Imboden,CH,48
-2003-03-02,Rene Mlekuz,SK,54
-2003-03-02,Thomas Grandi,CA,118
-2003-03-02,Tom Rothrock,US,71
-2003-03-02,Mitja Kunc,SK,88
-2003-03-02,Rainer Schoenfelder,AT,328
-2003-03-02,Markus Eberle,DE,40
-2003-03-02,Truls Ove Karlsen,NO,205
-2003-03-02,Cristian Javier Simari Birkner,AR,0
-2003-03-02,Alan Perathoner,IT,9
-2003-03-02,Daniel Defago,CH,0
-2003-03-02,Matjaz Vrhovnik,SK,0
-2003-03-02,Andreas Ertl,DE,0
-2003-03-02,Martin Hansson,SE,10
-2003-03-02,Mitja Valencic,SK,9
-2003-03-02,Markus Ganahl,LI,21
-2003-03-02,Julien Lizeroux,FR,0
-2003-03-02,Giorgio Rocca,IT,278
-2003-03-02,Marco Casanova,CH,3
-2003-03-02,Harald Chr. Strand Nilsen,NO,79
-2003-03-02,Florian Seer,AT,50
-2003-03-02,Kjetil Andre Aamodt,NO,99
-2003-03-02,Markus Larsson,SE,75
-2003-03-02,Silvan Zurbriggen,CH,86
-2003-03-02,Drago Grubelnik,SK,71
-2003-03-02,Mitja Dragsic,SK,69
-2003-03-02,Chip Knight,US,130
-2003-03-02,Jean Pierre Vidal,FR,189
-2003-03-02,Sebastien Amiez,FR,91
-2003-03-02,Aksel-Lund Svindal,NO,33
-2003-03-08,Richard Gravier,FR,14
-2003-03-08,Kiminobu Kimura,JP,5
-2003-03-08,Bode Miller,US,148
-2003-03-08,Lasse Kjus,NO,14
-2003-03-08,Steven Nyman,US,0
-2003-03-08,Lars Elton Myhre,NO,0
-2003-03-08,Niki Fuerstauer,LB,0
-2003-03-08,TJ Lanning,US,0
-2003-03-08,Cristian Deville,IT,0
-2003-03-08,Mario Matt,AT,46
-2003-03-08,Todd Haywood,NZ,0
-2003-03-08,Stephane Tissot,FR,13
-2003-03-08,Aksel-Lund Svindal,NO,33
-2003-03-08,Ondrej Bank,CZ,0
-2003-03-08,Stefan Georgiev,BG,0
-2003-03-08,Ales Gorza,SK,13
-2003-03-08,Stefan Kogler,DE,0
-2003-03-08,Jure Kosir,SK,5
-2003-03-08,Gaetan Llorach,FR,0
-2003-03-08,Bart Mollin,BE,0
-2003-03-08,John Moulder-Brown,GB,0
-2003-03-08,Bernard Vajdic,SK,0
-2003-03-08,Kevin Page,FR,29
-2003-03-08,Reinfried Herbst,AT,20
-2003-03-08,Andreas Nilsen,NO,14
-2003-03-08,Johan Brolenius,SE,73
-2003-03-08,Edoardo Zardini,IT,1
-2003-03-08,Andrej Sporn,SK,0
-2003-03-08,Pierre Egger,AT,0
-2003-03-08,Marc Gini,CH,0
-2003-03-08,Alberto Rovira Caus,ES,0
-2003-03-08,Uros Pavlovcic,SK,0
-2003-03-08,Michal Kalwa,PL,0
-2003-03-08,Daniel Albrecht,CH,0
-2003-03-08,Sebastien Amiez,FR,97
-2003-03-08,Christoph Gruber,AT,0
-2003-03-08,Noel Baxter,GB,0
-2003-03-08,Marco Sullivan,US,0
-2003-03-08,Michael Ross,NZ,0
-2003-03-08,Yannick Favieres,FR,0
-2003-03-08,Bruno Kernen,CH,0
-2003-03-08,Nikolay Skriabin,UA,0
-2003-03-08,Scott Macartney,US,0
-2003-03-08,Andrej Jerman,SK,0
-2003-03-08,Matteo Nana,IT,0
-2003-03-08,Antoine Tissot,FR,0
-2003-03-08,Kjetil Jansrud,NO,0
-2003-03-08,Alois Vogl,DE,11
-2003-03-08,Tomas Kraus,CZ,0
-2003-03-08,Ambrosi Hoffmann,CH,0
-2003-03-08,Manfred Moelgg,IT,0
-2003-03-08,Stephan Eberharter,AT,0
-2003-03-08,Mikail Renzhyn,IL,0
-2003-03-08,Andrzej Bachleda,PL,7
-2003-03-08,Michael von Gruenigen,CH,0
-2003-03-08,Marc Berthod,CH,0
-2003-03-08,Naoki Yuasa,JP,0
-2003-03-08,Tetsuya Otaki,JP,0
-2003-03-08,Yasuhiro Ikuta,JP,0
-2003-03-08,Marco Buechel,LI,0
-2003-03-08,Min Heuk Kang,KR,0
-2003-03-08,Dmitrij Ulianov,RU,0
-2003-03-08,Ryan Semple,CA,0
-2003-03-08,Jeroen Van Den Bogaert,BE,0
-2003-03-08,Jesse Marshall,US,0
-2003-03-08,Roger Zweifel,CH,0
-2003-03-08,Peter Fill,IT,0
-2003-03-08,Bjarne Solbakken,NO,0
-2003-03-08,Bryon Friedman,US,0
-2003-03-08,Mitja Valencic,SK,9
-2003-03-08,Alexandre Anselmet,FR,0
-2003-03-08,Kilian Albrecht,AT,170
-2003-03-08,Chip Knight,US,130
-2003-03-08,Benjamin Raich,AT,335
-2003-03-08,Urs Imboden,CH,56
-2003-03-08,Markus Larsson,SE,85
-2003-03-08,Silvan Zurbriggen,CH,97
-2003-03-08,Markus Eberle,DE,52
-2003-03-08,Kurt Engl,AT,35
-2003-03-08,Heinz Schilchegger,AT,178
-2003-03-08,Jean Pierre Vidal,FR,204
-2003-03-08,Thomas Grandi,CA,134
-2003-03-08,Hans Petter Buraas,NO,280
-2003-03-08,Drago Grubelnik,SK,71
-2003-03-08,Erik Schlopy,US,102
-2003-03-08,Alain Baxter,GB,42
-2003-03-08,Pierrick Bourgeat,FR,200
-2003-03-08,Truls Ove Karlsen,NO,234
-2003-03-08,Tom Stiansen,NO,119
-2003-03-08,Mitja Dragsic,SK,105
-2003-03-08,Akira Sasaki,JP,166
-2003-03-08,Manfred Pranger,AT,325
-2003-03-08,Davide Simoncelli,IT,0
-2003-03-08,Ivica Kostelic,HR,544
-2003-03-08,Giorgio Rocca,IT,338
-2003-03-08,Kalle Palander,FI,578
-2003-03-08,Rainer Schoenfelder,AT,428
-2003-03-08,Giancarlo Bergamelli,IT,169
-2003-03-08,Martin Marinac,AT,92
-2003-03-08,Didier Defago,CH,9
-2003-03-08,Kjetil Andre Aamodt,NO,99
-2003-03-08,Thomas Geisser,CH,0
-2003-03-08,Jukka Leino,FI,8
-2003-03-08,Stanley Hayer,CZ,8
-2003-03-08,Jonathon Brauer,AU,0
-2003-03-08,Patrick Thaler,IT,0
-2003-03-08,Hannes Paul Schmid,IT,12
-2003-03-08,Jake Zamansky,US,0
-2003-03-08,Cristian Javier Simari Birkner,AR,0
-2003-03-08,Rene Mlekuz,SK,54
-2003-03-08,Alan Perathoner,IT,9
-2003-03-08,Julien Cousineau,CA,26
-2003-03-08,Daniel Defago,CH,0
-2003-03-08,Michael Walchhofer,AT,26
-2003-03-08,Mika Marila,FI,0
-2003-03-08,Kentaro Minagawa,JP,14
-2003-03-08,Rogier Oosterbaan,NL,0
-2003-03-08,Andreas Ertl,DE,0
-2003-03-08,Michal Rajcan,SK,0
-2003-03-08,Martin Hansson,SE,10
-2003-03-08,Markus Ganahl,LI,21
-2003-03-08,Julien Lizeroux,FR,0
-2003-03-08,Mitja Kunc,SK,88
-2003-03-08,Marco Casanova,CH,3
-2003-03-08,Harald Chr. Strand Nilsen,NO,79
-2003-03-08,Florian Seer,AT,50
-2003-03-08,Tom Rothrock,US,71
-2003-03-08,Matjaz Vrhovnik,SK,0
-2003-03-16,Steven Nyman,US,0
-2003-03-16,Niki Fuerstauer,LB,0
-2003-03-16,Lars Elton Myhre,NO,0
-2003-03-16,Manfred Moelgg,IT,0
-2003-03-16,Cristian Deville,IT,0
-2003-03-16,Todd Haywood,NZ,0
-2003-03-16,Michal Kalwa,PL,0
-2003-03-16,Lasse Kjus,NO,14
-2003-03-16,Tomas Kraus,CZ,0
-2003-03-16,Alois Vogl,DE,11
-2003-03-16,TJ Lanning,US,0
-2003-03-16,Mario Matt,AT,46
-2003-03-16,Andrej Sporn,SK,0
-2003-03-16,Richard Gravier,FR,14
-2003-03-16,Bernard Vajdic,SK,0
-2003-03-16,Aksel-Lund Svindal,NO,33
-2003-03-16,Alberto Rovira Caus,ES,0
-2003-03-16,Marc Gini,CH,0
-2003-03-16,Pierre Egger,AT,0
-2003-03-16,Kurt Engl,AT,35
-2003-03-16,Kjetil Jansrud,NO,0
-2003-03-16,Edoardo Zardini,IT,1
-2003-03-16,Johan Brolenius,SE,73
-2003-03-16,Andreas Nilsen,NO,14
-2003-03-16,Reinfried Herbst,AT,20
-2003-03-16,Stephane Tissot,FR,13
-2003-03-16,Kiminobu Kimura,JP,5
-2003-03-16,Antoine Tissot,FR,0
-2003-03-16,Marco Buechel,LI,0
-2003-03-16,Andrej Jerman,SK,0
-2003-03-16,Giorgio Rocca,IT,438
-2003-03-16,Kalle Palander,FI,658
-2003-03-16,Manfred Pranger,AT,385
-2003-03-16,Michael von Gruenigen,CH,0
-2003-03-16,Marc Berthod,CH,0
-2003-03-16,Naoki Yuasa,JP,0
-2003-03-16,Tetsuya Otaki,JP,0
-2003-03-16,Yasuhiro Ikuta,JP,0
-2003-03-16,Min Heuk Kang,KR,0
-2003-03-16,Bjarne Solbakken,NO,0
-2003-03-16,Dmitrij Ulianov,RU,0
-2003-03-16,Ryan Semple,CA,0
-2003-03-16,Daniel Albrecht,CH,0
-2003-03-16,Jeroen Van Den Bogaert,BE,0
-2003-03-16,Jesse Marshall,US,0
-2003-03-16,Roger Zweifel,CH,0
-2003-03-16,Peter Fill,IT,0
-2003-03-16,Mikail Renzhyn,IL,0
-2003-03-16,Uros Pavlovcic,SK,0
-2003-03-16,Stephan Eberharter,AT,0
-2003-03-16,Nikolay Skriabin,UA,0
-2003-03-16,Christoph Gruber,AT,0
-2003-03-16,Noel Baxter,GB,0
-2003-03-16,Marco Sullivan,US,0
-2003-03-16,Michael Ross,NZ,0
-2003-03-16,Yannick Favieres,FR,0
-2003-03-16,Bruno Kernen,CH,0
-2003-03-16,Scott Macartney,US,0
-2003-03-16,Ambrosi Hoffmann,CH,0
-2003-03-16,Matteo Nana,IT,0
-2003-03-16,Kevin Page,FR,29
-2003-03-16,Davide Simoncelli,IT,0
-2003-03-16,Bart Mollin,BE,0
-2003-03-16,Mitja Kunc,SK,88
-2003-03-16,Hans Petter Buraas,NO,280
-2003-03-16,Marco Casanova,CH,3
-2003-03-16,Sebastien Amiez,FR,97
-2003-03-16,Urs Imboden,CH,56
-2003-03-16,Harald Chr. Strand Nilsen,NO,79
-2003-03-16,Florian Seer,AT,50
-2003-03-16,Tom Rothrock,US,71
-2003-03-16,Kjetil Andre Aamodt,NO,99
-2003-03-16,Rene Mlekuz,SK,54
-2003-03-16,Markus Larsson,SE,85
-2003-03-16,Drago Grubelnik,SK,71
-2003-03-16,Mitja Dragsic,SK,105
-2003-03-16,Kilian Albrecht,AT,170
-2003-03-16,Jean Pierre Vidal,FR,204
-2003-03-16,Tom Stiansen,NO,169
-2003-03-16,Rainer Schoenfelder,AT,473
-2003-03-16,Silvan Zurbriggen,CH,137
-2003-03-16,Ivica Kostelic,HR,580
-2003-03-16,Benjamin Raich,AT,367
-2003-03-16,Truls Ove Karlsen,NO,263
-2003-03-16,Erik Schlopy,US,131
-2003-03-16,Pierrick Bourgeat,FR,224
-2003-03-16,Giancarlo Bergamelli,IT,191
-2003-03-16,Thomas Grandi,CA,154
-2003-03-16,Martin Marinac,AT,110
-2003-03-16,Heinz Schilchegger,AT,194
-2003-03-16,Chip Knight,US,145
-2003-03-16,Didier Defago,CH,23
-2003-03-16,Markus Eberle,DE,52
-2003-03-16,Julien Lizeroux,FR,0
-2003-03-16,Markus Ganahl,LI,21
-2003-03-16,Mitja Valencic,SK,9
-2003-03-16,Gaetan Llorach,FR,0
-2003-03-16,Jure Kosir,SK,5
-2003-03-16,Stefan Kogler,DE,0
-2003-03-16,Ales Gorza,SK,13
-2003-03-16,Stefan Georgiev,BG,0
-2003-03-16,Alain Baxter,GB,42
-2003-03-16,Ondrej Bank,CZ,0
-2003-03-16,Bode Miller,US,148
-2003-03-16,Bryon Friedman,US,0
-2003-03-16,Alexandre Anselmet,FR,0
-2003-03-16,Michal Rajcan,SK,0
-2003-03-16,Rogier Oosterbaan,NL,0
-2003-03-16,Julien Cousineau,CA,26
-2003-03-16,Jake Zamansky,US,0
-2003-03-16,John Moulder-Brown,GB,0
-2003-03-16,Jonathon Brauer,AU,0
-2003-03-16,Michael Walchhofer,AT,26
-2003-03-16,Mika Marila,FI,0
-2003-03-16,Thomas Geisser,CH,0
-2003-03-16,Jukka Leino,FI,8
-2003-03-16,Patrick Thaler,IT,0
-2003-03-16,Andrzej Bachleda,PL,7
-2003-03-16,Hannes Paul Schmid,IT,12
-2003-03-16,Alan Perathoner,IT,9
-2003-03-16,Akira Sasaki,JP,166
-2003-03-16,Daniel Defago,CH,0
-2003-03-16,Matjaz Vrhovnik,SK,0
-2003-03-16,Kentaro Minagawa,JP,14
-2003-03-16,Andreas Ertl,DE,0
-2003-03-16,Martin Hansson,SE,10
-2003-03-16,Stanley Hayer,CZ,8
-2003-03-16,Cristian Javier Simari Birkner,AR,0
+2002-11-23,Janica Kostelic,HR,100
+2002-11-23,Petra Zakourilova,CZ,0
+2002-11-23,Kumiko Kashiwagi,JP,0
+2002-11-23,Silke Bachmann,IT,0
+2002-11-23,Andrine Flemmen,NO,0
+2002-11-23,Tina Maze,SK,0
+2002-11-23,Petra Knor,AT,0
+2002-11-23,Ana Jelusic,HR,0
+2002-11-23,Carolina Ruiz Castillo,ES,0
+2002-11-23,Alenka Dovzan,SK,0
+2002-11-23,Noriyo Hiroi,JP,0
+2002-11-23,Anna Prchal,CA,0
+2002-11-23,Rowena Bright,AU,0
+2002-11-23,Fraenzi Aufdenblatten,CH,0
+2002-11-23,Hedda Berntsen,NO,0
+2002-11-23,Allison Forsyth,CA,0
+2002-11-23,Britt Janyk,CA,0
+2002-11-23,Carina Raich,AT,0
+2002-11-23,Christine Sponring,AT,0
+2002-11-23,Veronika Velez Zuzulova,SK,0
+2002-11-23,Lindsey Vonn,US,0
+2002-11-23,Emmi Pezzedi,IT,0
+2002-11-23,Karen Putzer,IT,0
+2002-11-23,Line Viken,NO,0
+2002-11-23,Genevieve Simard,CA,0
+2002-11-23,Anja Paerson,SE,18
+2002-11-23,Annemarie Gerg,DE,16
+2002-11-23,Anna Ottosson,SE,15
+2002-11-23,Trine Bakke Rognmo,NO,14
+2002-11-23,Kristina Koznick,US,13
+2002-11-23,Tanja Poutiainen,FI,12
+2002-11-23,Claudia Riegler,NZ,11
+2002-11-23,Marlies Oester,CH,10
+2002-11-23,Emma Carrick Anderson,GB,9
+2002-11-23,Lisa Bremseth,NO,0
+2002-11-23,Henna Raita,FI,8
+2002-11-23,Lea Dabic,SK,5
+2002-11-23,Corina Gruenenfelder,CH,4
+2002-11-23,Daniela Merighetti,IT,3
+2002-11-23,Natasa Bokal,SK,2
+2002-11-23,Spela Pretnar,SK,0
+2002-11-23,Annalisa Ceresa,IT,0
+2002-11-23,Maria Riesch Hoefl,DE,0
+2002-11-23,Manuela Moelgg,IT,0
+2002-11-23,Vanessa Vidal,FR,0
+2002-11-23,Julia Mancuso,US,6
+2002-11-23,Monika Bergmann,DE,20
+2002-11-23,Caroline Lalive,US,0
+2002-11-23,Sarka Strachova Zahrobska,CZ,0
+2002-11-23,Katja Wirth,AT,0
+2002-11-23,Daniela Ceccarelli,IT,0
+2002-11-23,Catherine Borghi,CH,0
+2002-11-23,Kathrin Hoelzl,DE,0
+2002-11-23,Ana Drev,SK,0
+2002-11-23,Ana Kobal,SK,0
+2002-11-23,Jelena Lolovic,RS,0
+2002-11-23,Zuzana Smerciakova,SK,0
+2002-11-23,Sophia Akhmeteli,GE,0
+2002-11-23,Kirsten L Clark,US,0
+2002-11-23,Emily Brydon,CA,0
+2002-11-23,Michaela Kirchgasser,AT,0
+2002-11-23,Eva Kurfuerstova,CZ,0
+2002-11-23,Claire Dautherives,FR,0
+2002-11-23,Anne Marie Mueller,NO,0
+2002-11-23,Sophie Soelling,DK,0
+2002-11-23,Christine Hargin,SE,0
+2002-11-23,Kristina Hultdin,SE,0
+2002-11-23,Karina Birkelund,NO,0
+2002-11-23,Riitta Pitkanen,FI,0
+2002-11-23,Elisabetta Biavaschi,IT,0
+2002-11-23,Gail Kelly,CA,0
+2002-11-23,Brigitte Obermoser,AT,0
+2002-11-23,Michaela Dorfmeister,AT,0
+2002-11-23,Elisabeth Goergl,AT,0
+2002-11-23,Marina Huber,DE,0
+2002-11-23,Karen Persyn,BE,0
+2002-11-23,Resi Stiegler,US,0
+2002-11-23,Kaylin L Richardson,US,0
+2002-11-23,Katarzyna Karasinska,PL,0
+2002-11-23,Maddalena Planatscher,IT,0
+2002-11-23,Sandra Gini,CH,0
+2002-11-23,Claudia Morandini,IT,0
+2002-11-23,Jessica Lindell-Vikarby,SE,0
+2002-11-23,Denise Karbon,IT,0
+2002-11-23,Janette Hargin,SE,0
+2002-11-23,Malin Huldtin,SE,0
+2002-11-23,Souazic Le Guillou,FR,0
+2002-11-23,Angelique Moser,NL,0
+2002-11-23,Karin Truppe,AT,0
+2002-11-23,Stefanie Wolf,DE,0
+2002-11-23,Chiara Costazza,IT,0
+2002-11-23,Florine De Leymarie,FR,0
+2002-11-23,Jessica Walter,LI,0
+2002-11-23,Jessica Fjaellryd,SE,0
+2002-11-23,Susanne Ekman,SE,22
+2002-11-23,Maria Jose Rienda Contreras,ES,7
+2002-11-23,Sarah Schleper,US,40
+2002-11-23,Sabine Egger,AT,60
+2002-11-23,Nika Fleiss,HR,26
+2002-11-23,Laure Pequegnot,FR,50
+2002-11-23,Marlies Schild,AT,45
+2002-11-23,Sonja Nef,CH,36
+2002-11-23,Nicole Gius,IT,29
+2002-11-23,Nicole Hosp,AT,32
+2002-11-23,Christel Pascal,FR,80
+2002-11-23,Martina Ertl,DE,24
+2002-11-30,Carina Raich,AT,6
+2002-11-30,Angelique Moser,NL,0
+2002-11-30,Souazic Le Guillou,FR,0
+2002-11-30,Malin Huldtin,SE,0
+2002-11-30,Janette Hargin,SE,0
+2002-11-30,Jessica Fjaellryd,SE,0
+2002-11-30,Nicole Gius,IT,65
+2002-11-30,Claudia Morandini,IT,0
+2002-11-30,Sandra Gini,CH,0
+2002-11-30,Maddalena Planatscher,IT,0
+2002-11-30,Katarzyna Karasinska,PL,0
+2002-11-30,Kaylin L Richardson,US,0
+2002-11-30,Sonja Nef,CH,76
+2002-11-30,Denise Karbon,IT,0
+2002-11-30,Karin Truppe,AT,0
+2002-11-30,Martina Ertl,DE,56
+2002-11-30,Chiara Costazza,IT,0
+2002-11-30,Natasa Bokal,SK,10
+2002-11-30,Britt Janyk,CA,7
+2002-11-30,Sabine Egger,AT,86
+2002-11-30,Henna Raita,FI,8
+2002-11-30,Vanessa Vidal,FR,5
+2002-11-30,Catherine Borghi,CH,0
+2002-11-30,Hedda Berntsen,NO,4
+2002-11-30,Daniela Ceccarelli,IT,0
+2002-11-30,Line Viken,NO,3
+2002-11-30,Katja Wirth,AT,0
+2002-11-30,Kirsten L Clark,US,0
+2002-11-30,Brigitte Obermoser,AT,0
+2002-11-30,Marlies Oester,CH,39
+2002-11-30,Jessica Lindell-Vikarby,SE,0
+2002-11-30,Michaela Dorfmeister,AT,0
+2002-11-30,Jessica Walter,LI,0
+2002-11-30,Florine De Leymarie,FR,0
+2002-11-30,Stefanie Wolf,DE,0
+2002-11-30,Resi Stiegler,US,0
+2002-11-30,Elisabeth Goergl,AT,0
+2002-11-30,Marina Huber,DE,0
+2002-11-30,Silke Bachmann,IT,0
+2002-11-30,Kumiko Kashiwagi,JP,0
+2002-11-30,Petra Zakourilova,CZ,0
+2002-11-30,Noriyo Hiroi,JP,0
+2002-11-30,Janica Kostelic,HR,180
+2002-11-30,Lisa Bremseth,NO,0
+2002-11-30,Genevieve Simard,CA,0
+2002-11-30,Manuela Moelgg,IT,0
+2002-11-30,Maria Riesch Hoefl,DE,0
+2002-11-30,Daniela Merighetti,IT,3
+2002-11-30,Julia Mancuso,US,6
+2002-11-30,Anja Paerson,SE,118
+2002-11-30,Laure Pequegnot,FR,50
+2002-11-30,Sarah Schleper,US,40
+2002-11-30,Nika Fleiss,HR,26
+2002-11-30,Kristina Koznick,US,13
+2002-11-30,Emma Carrick Anderson,GB,9
+2002-11-30,Andrine Flemmen,NO,0
+2002-11-30,Karen Persyn,BE,0
+2002-11-30,Tina Maze,SK,0
+2002-11-30,Petra Knor,AT,0
+2002-11-30,Claudia Riegler,NZ,20
+2002-11-30,Sarka Strachova Zahrobska,CZ,0
+2002-11-30,Gail Kelly,CA,0
+2002-11-30,Caroline Lalive,US,0
+2002-11-30,Christel Pascal,FR,125
+2002-11-30,Karen Putzer,IT,0
+2002-11-30,Lindsey Vonn,US,0
+2002-11-30,Veronika Velez Zuzulova,SK,0
+2002-11-30,Allison Forsyth,CA,0
+2002-11-30,Fraenzi Aufdenblatten,CH,0
+2002-11-30,Rowena Bright,AU,0
+2002-11-30,Nicole Hosp,AT,82
+2002-11-30,Emmi Pezzedi,IT,0
+2002-11-30,Anna Prchal,CA,0
+2002-11-30,Alenka Dovzan,SK,0
+2002-11-30,Carolina Ruiz Castillo,ES,0
+2002-11-30,Ana Jelusic,HR,0
+2002-11-30,Marlies Schild,AT,105
+2002-11-30,Kathrin Hoelzl,DE,0
+2002-11-30,Maria Jose Rienda Contreras,ES,7
+2002-11-30,Ana Drev,SK,0
+2002-11-30,Lea Dabic,SK,23
+2002-11-30,Michaela Kirchgasser,AT,0
+2002-11-30,Tanja Poutiainen,FI,30
+2002-11-30,Monika Bergmann,DE,44
+2002-11-30,Claire Dautherives,FR,0
+2002-11-30,Anne Marie Mueller,NO,0
+2002-11-30,Sophie Soelling,DK,0
+2002-11-30,Elisabetta Biavaschi,IT,0
+2002-11-30,Susanne Ekman,SE,32
+2002-11-30,Christine Hargin,SE,0
+2002-11-30,Kristina Hultdin,SE,0
+2002-11-30,Zuzana Smerciakova,SK,0
+2002-11-30,Sophia Akhmeteli,GE,0
+2002-11-30,Spela Pretnar,SK,18
+2002-11-30,Trine Bakke Rognmo,NO,34
+2002-11-30,Karina Birkelund,NO,0
+2002-11-30,Riitta Pitkanen,FI,0
+2002-11-30,Jelena Lolovic,RS,0
+2002-11-30,Corina Gruenenfelder,CH,18
+2002-11-30,Ana Kobal,SK,0
+2002-11-30,Annemarie Gerg,DE,27
+2002-11-30,Emily Brydon,CA,0
+2002-11-30,Anna Ottosson,SE,37
+2002-11-30,Annalisa Ceresa,IT,13
+2002-11-30,Christine Sponring,AT,12
+2002-11-30,Eva Kurfuerstova,CZ,0
+2002-12-15,Sophia Akhmeteli,GE,0
+2002-12-15,Christine Sponring,AT,27
+2002-12-15,Emily Brydon,CA,0
+2002-12-15,Elisabetta Biavaschi,IT,0
+2002-12-15,Katarzyna Karasinska,PL,0
+2002-12-15,Jelena Lolovic,RS,0
+2002-12-15,Sarka Strachova Zahrobska,CZ,45
+2002-12-15,Ana Kobal,SK,0
+2002-12-15,Laure Pequegnot,FR,90
+2002-12-15,Henna Raita,FI,22
+2002-12-15,Ana Drev,SK,0
+2002-12-15,Kathrin Hoelzl,DE,0
+2002-12-15,Catherine Borghi,CH,0
+2002-12-15,Daniela Ceccarelli,IT,0
+2002-12-15,Katja Wirth,AT,0
+2002-12-15,Zuzana Smerciakova,SK,0
+2002-12-15,Michaela Kirchgasser,AT,0
+2002-12-15,Riitta Pitkanen,FI,0
+2002-12-15,Claire Dautherives,FR,0
+2002-12-15,Corina Gruenenfelder,CH,18
+2002-12-15,Lea Dabic,SK,23
+2002-12-15,Julia Mancuso,US,6
+2002-12-15,Marlies Schild,AT,127
+2002-12-15,Maria Jose Rienda Contreras,ES,7
+2002-12-15,Anja Paerson,SE,218
+2002-12-15,Emma Carrick Anderson,GB,9
+2002-12-15,Anna Ottosson,SE,37
+2002-12-15,Claudia Riegler,NZ,21
+2002-12-15,Nika Fleiss,HR,26
+2002-12-15,Eva Kurfuerstova,CZ,0
+2002-12-15,Sarah Schleper,US,64
+2002-12-15,Nicole Gius,IT,85
+2002-12-15,Nicole Hosp,AT,142
+2002-12-15,Annemarie Gerg,DE,45
+2002-12-15,Karina Birkelund,NO,0
+2002-12-15,Janica Kostelic,HR,230
+2002-12-15,Kristina Hultdin,SE,0
+2002-12-15,Monika Bergmann,DE,60
+2002-12-15,Christine Hargin,SE,0
+2002-12-15,Sophie Soelling,DK,0
+2002-12-15,Anne Marie Mueller,NO,0
+2002-12-15,Tanja Poutiainen,FI,110
+2002-12-15,Sabine Egger,AT,122
+2002-12-15,Trine Bakke Rognmo,NO,47
+2002-12-15,Kaylin L Richardson,US,0
+2002-12-15,Susanne Ekman,SE,37
+2002-12-15,Claudia Morandini,IT,0
+2002-12-15,Sandra Gini,CH,0
+2002-12-15,Carolina Ruiz Castillo,ES,0
+2002-12-15,Alenka Dovzan,SK,0
+2002-12-15,Anna Prchal,CA,0
+2002-12-15,Emmi Pezzedi,IT,0
+2002-12-15,Manuela Moelgg,IT,6
+2002-12-15,Rowena Bright,AU,0
+2002-12-15,Fraenzi Aufdenblatten,CH,0
+2002-12-15,Allison Forsyth,CA,0
+2002-12-15,Britt Janyk,CA,7
+2002-12-15,Hedda Berntsen,NO,11
+2002-12-15,Marlies Oester,CH,49
+2002-12-15,Daniela Merighetti,IT,3
+2002-12-15,Veronika Velez Zuzulova,SK,0
+2002-12-15,Lindsey Vonn,US,0
+2002-12-15,Karen Putzer,IT,0
+2002-12-15,Caroline Lalive,US,0
+2002-12-15,Sonja Nef,CH,84
+2002-12-15,Maddalena Planatscher,IT,0
+2002-12-15,Christel Pascal,FR,151
+2002-12-15,Gail Kelly,CA,0
+2002-12-15,Marina Huber,DE,0
+2002-12-15,Karen Persyn,BE,0
+2002-12-15,Resi Stiegler,US,0
+2002-12-15,Spela Pretnar,SK,27
+2002-12-15,Ana Jelusic,HR,0
+2002-12-15,Petra Knor,AT,0
+2002-12-15,Tina Maze,SK,0
+2002-12-15,Denise Karbon,IT,0
+2002-12-15,Brigitte Obermoser,AT,0
+2002-12-15,Jessica Lindell-Vikarby,SE,0
+2002-12-15,Michaela Dorfmeister,AT,0
+2002-12-15,Jessica Walter,LI,0
+2002-12-15,Florine De Leymarie,FR,0
+2002-12-15,Chiara Costazza,IT,0
+2002-12-15,Martina Ertl,DE,88
+2002-12-15,Elisabeth Goergl,AT,12
+2002-12-15,Stefanie Wolf,DE,0
+2002-12-15,Karin Truppe,AT,0
+2002-12-15,Angelique Moser,NL,0
+2002-12-15,Souazic Le Guillou,FR,0
+2002-12-15,Carina Raich,AT,35
+2002-12-15,Kirsten L Clark,US,0
+2002-12-15,Annalisa Ceresa,IT,13
+2002-12-15,Maria Riesch Hoefl,DE,2
+2002-12-15,Kristina Koznick,US,24
+2002-12-15,Lisa Bremseth,NO,0
+2002-12-15,Line Viken,NO,3
+2002-12-15,Noriyo Hiroi,JP,0
+2002-12-15,Vanessa Vidal,FR,8
+2002-12-15,Malin Huldtin,SE,0
+2002-12-15,Janette Hargin,SE,0
+2002-12-15,Petra Zakourilova,CZ,0
+2002-12-15,Kumiko Kashiwagi,JP,0
+2002-12-15,Andrine Flemmen,NO,0
+2002-12-15,Silke Bachmann,IT,4
+2002-12-15,Jessica Fjaellryd,SE,0
+2002-12-15,Genevieve Simard,CA,0
+2002-12-15,Natasa Bokal,SK,10
+2002-12-22,Genevieve Simard,CA,0
+2002-12-22,Karina Birkelund,NO,0
+2002-12-22,Tina Maze,SK,0
+2002-12-22,Petra Knor,AT,0
+2002-12-22,Ana Jelusic,HR,0
+2002-12-22,Carolina Ruiz Castillo,ES,0
+2002-12-22,Alenka Dovzan,SK,0
+2002-12-22,Anna Prchal,CA,0
+2002-12-22,Emmi Pezzedi,IT,0
+2002-12-22,Andrine Flemmen,NO,0
+2002-12-22,Rowena Bright,AU,0
+2002-12-22,Allison Forsyth,CA,0
+2002-12-22,Christine Sponring,AT,27
+2002-12-22,Veronika Velez Zuzulova,SK,0
+2002-12-22,Lindsey Vonn,US,0
+2002-12-22,Noriyo Hiroi,JP,0
+2002-12-22,Caroline Lalive,US,0
+2002-12-22,Gail Kelly,CA,0
+2002-12-22,Fraenzi Aufdenblatten,CH,0
+2002-12-22,Elisabeth Goergl,AT,12
+2002-12-22,Silke Bachmann,IT,4
+2002-12-22,Sabine Egger,AT,122
+2002-12-22,Manuela Moelgg,IT,6
+2002-12-22,Natasa Bokal,SK,10
+2002-12-22,Petra Zakourilova,CZ,0
+2002-12-22,Daniela Merighetti,IT,3
+2002-12-22,Corina Gruenenfelder,CH,18
+2002-12-22,Lea Dabic,SK,23
+2002-12-22,Maria Jose Rienda Contreras,ES,7
+2002-12-22,Kumiko Kashiwagi,JP,0
+2002-12-22,Henna Raita,FI,22
+2002-12-22,Anna Ottosson,SE,37
+2002-12-22,Anja Paerson,SE,218
+2002-12-22,Susanne Ekman,SE,37
+2002-12-22,Nika Fleiss,HR,26
+2002-12-22,Nicole Hosp,AT,142
+2002-12-22,Marlies Schild,AT,127
+2002-12-22,Laure Pequegnot,FR,90
+2002-12-22,Emma Carrick Anderson,GB,9
+2002-12-22,Riitta Pitkanen,FI,0
+2002-12-22,Marina Huber,DE,0
+2002-12-22,Kaylin L Richardson,US,0
+2002-12-22,Catherine Borghi,CH,0
+2002-12-22,Kathrin Hoelzl,DE,0
+2002-12-22,Ana Drev,SK,0
+2002-12-22,Ana Kobal,SK,0
+2002-12-22,Jelena Lolovic,RS,0
+2002-12-22,Zuzana Smerciakova,SK,0
+2002-12-22,Sophia Akhmeteli,GE,0
+2002-12-22,Daniela Ceccarelli,IT,0
+2002-12-22,Emily Brydon,CA,0
+2002-12-22,Michaela Kirchgasser,AT,0
+2002-12-22,Eva Kurfuerstova,CZ,0
+2002-12-22,Claire Dautherives,FR,0
+2002-12-22,Anne Marie Mueller,NO,0
+2002-12-22,Sophie Soelling,DK,0
+2002-12-22,Christine Hargin,SE,0
+2002-12-22,Kristina Hultdin,SE,0
+2002-12-22,Elisabetta Biavaschi,IT,0
+2002-12-22,Karen Persyn,BE,0
+2002-12-22,Katja Wirth,AT,0
+2002-12-22,Brigitte Obermoser,AT,0
+2002-12-22,Katarzyna Karasinska,PL,0
+2002-12-22,Maddalena Planatscher,IT,0
+2002-12-22,Sandra Gini,CH,0
+2002-12-22,Claudia Morandini,IT,0
+2002-12-22,Denise Karbon,IT,0
+2002-12-22,Jessica Fjaellryd,SE,0
+2002-12-22,Janette Hargin,SE,0
+2002-12-22,Kirsten L Clark,US,0
+2002-12-22,Malin Huldtin,SE,0
+2002-12-22,Angelique Moser,NL,0
+2002-12-22,Stefanie Wolf,DE,0
+2002-12-22,Chiara Costazza,IT,0
+2002-12-22,Florine De Leymarie,FR,0
+2002-12-22,Jessica Walter,LI,0
+2002-12-22,Michaela Dorfmeister,AT,0
+2002-12-22,Jessica Lindell-Vikarby,SE,0
+2002-12-22,Souazic Le Guillou,FR,0
+2002-12-22,Karen Putzer,IT,0
+2002-12-22,Julia Mancuso,US,6
+2002-12-22,Spela Pretnar,SK,42
+2002-12-22,Annalisa Ceresa,IT,22
+2002-12-22,Resi Stiegler,US,24
+2002-12-22,Sonja Nef,CH,120
+2002-12-22,Sarah Schleper,US,100
+2002-12-22,Sarka Strachova Zahrobska,CZ,53
+2002-12-22,Tanja Poutiainen,FI,190
+2002-12-22,Carina Raich,AT,42
+2002-12-22,Vanessa Vidal,FR,48
+2002-12-22,Janica Kostelic,HR,330
+2002-12-22,Christel Pascal,FR,165
+2002-12-22,Trine Bakke Rognmo,NO,69
+2002-12-22,Maria Riesch Hoefl,DE,8
+2002-12-22,Kristina Koznick,US,50
+2002-12-22,Hedda Berntsen,NO,27
+2002-12-22,Claudia Riegler,NZ,81
+2002-12-22,Annemarie Gerg,DE,90
+2002-12-22,Martina Ertl,DE,101
+2002-12-22,Britt Janyk,CA,19
+2002-12-22,Karin Truppe,AT,29
+2002-12-22,Line Viken,NO,23
+2002-12-22,Nicole Gius,IT,103
+2002-12-22,Monika Bergmann,DE,110
+2002-12-22,Marlies Oester,CH,60
+2002-12-22,Lisa Bremseth,NO,10
+2002-12-29,Monika Bergmann,DE,136
+2002-12-29,Lisa Bremseth,NO,36
+2002-12-29,Christel Pascal,FR,245
+2002-12-29,Stefanie Wolf,DE,0
+2002-12-29,Jessica Walter,LI,0
+2002-12-29,Jessica Lindell-Vikarby,SE,0
+2002-12-29,Florine De Leymarie,FR,0
+2002-12-29,Chiara Costazza,IT,0
+2002-12-29,Janica Kostelic,HR,430
+2002-12-29,Susanne Ekman,SE,59
+2002-12-29,Sabine Egger,AT,122
+2002-12-29,Sonja Nef,CH,120
+2002-12-29,Nicole Hosp,AT,142
+2002-12-29,Martina Ertl,DE,101
+2002-12-29,Anja Paerson,SE,218
+2002-12-29,Michaela Dorfmeister,AT,0
+2002-12-29,Brigitte Obermoser,AT,0
+2002-12-29,Nicole Gius,IT,163
+2002-12-29,Manuela Moelgg,IT,35
+2002-12-29,Laure Pequegnot,FR,140
+2002-12-29,Ana Kobal,SK,0
+2002-12-29,Jelena Lolovic,RS,0
+2002-12-29,Zuzana Smerciakova,SK,0
+2002-12-29,Sophia Akhmeteli,GE,0
+2002-12-29,Sarah Schleper,US,145
+2002-12-29,Emily Brydon,CA,0
+2002-12-29,Elisabetta Biavaschi,IT,0
+2002-12-29,Michaela Kirchgasser,AT,0
+2002-12-29,Eva Kurfuerstova,CZ,0
+2002-12-29,Claire Dautherives,FR,0
+2002-12-29,Marlies Schild,AT,167
+2002-12-29,Anne Marie Mueller,NO,0
+2002-12-29,Sophie Soelling,DK,0
+2002-12-29,Christine Hargin,SE,0
+2002-12-29,Annemarie Gerg,DE,126
+2002-12-29,Kristina Hultdin,SE,0
+2002-12-29,Karina Birkelund,NO,0
+2002-12-29,Riitta Pitkanen,FI,0
+2002-12-29,Catherine Borghi,CH,0
+2002-12-29,Daniela Ceccarelli,IT,0
+2002-12-29,Karin Truppe,AT,29
+2002-12-29,Trine Bakke Rognmo,NO,101
+2002-12-29,Elisabeth Goergl,AT,32
+2002-12-29,Katja Wirth,AT,0
+2002-12-29,Kirsten L Clark,US,0
+2002-12-29,Anna Ottosson,SE,37
+2002-12-29,Marlies Oester,CH,60
+2002-12-29,Tanja Poutiainen,FI,190
+2002-12-29,Rowena Bright,AU,0
+2002-12-29,Fraenzi Aufdenblatten,CH,0
+2002-12-29,Hedda Berntsen,NO,27
+2002-12-29,Allison Forsyth,CA,0
+2002-12-29,Britt Janyk,CA,19
+2002-12-29,Carina Raich,AT,42
+2002-12-29,Christine Sponring,AT,27
+2002-12-29,Veronika Velez Zuzulova,SK,0
+2002-12-29,Lindsey Vonn,US,0
+2002-12-29,Karen Putzer,IT,0
+2002-12-29,Caroline Lalive,US,0
+2002-12-29,Gail Kelly,CA,0
+2002-12-29,Emmi Pezzedi,IT,0
+2002-12-29,Marina Huber,DE,0
+2002-12-29,Resi Stiegler,US,24
+2002-12-29,Kaylin L Richardson,US,0
+2002-12-29,Katarzyna Karasinska,PL,0
+2002-12-29,Maddalena Planatscher,IT,0
+2002-12-29,Sandra Gini,CH,0
+2002-12-29,Claudia Morandini,IT,0
+2002-12-29,Denise Karbon,IT,0
+2002-12-29,Jessica Fjaellryd,SE,0
+2002-12-29,Janette Hargin,SE,0
+2002-12-29,Malin Huldtin,SE,0
+2002-12-29,Souazic Le Guillou,FR,0
+2002-12-29,Angelique Moser,NL,0
+2002-12-29,Karen Persyn,BE,0
+2002-12-29,Kristina Koznick,US,50
+2002-12-29,Daniela Merighetti,IT,14
+2002-12-29,Alenka Dovzan,SK,0
+2002-12-29,Sarka Strachova Zahrobska,CZ,71
+2002-12-29,Claudia Riegler,NZ,81
+2002-12-29,Ana Drev,SK,0
+2002-12-29,Emma Carrick Anderson,GB,9
+2002-12-29,Henna Raita,FI,22
+2002-12-29,Vanessa Vidal,FR,64
+2002-12-29,Line Viken,NO,39
+2002-12-29,Julia Mancuso,US,6
+2002-12-29,Lea Dabic,SK,23
+2002-12-29,Corina Gruenenfelder,CH,18
+2002-12-29,Natasa Bokal,SK,10
+2002-12-29,Spela Pretnar,SK,42
+2002-12-29,Anna Prchal,CA,0
+2002-12-29,Annalisa Ceresa,IT,22
+2002-12-29,Genevieve Simard,CA,0
+2002-12-29,Silke Bachmann,IT,18
+2002-12-29,Noriyo Hiroi,JP,0
+2002-12-29,Petra Zakourilova,CZ,0
+2002-12-29,Kumiko Kashiwagi,JP,0
+2002-12-29,Andrine Flemmen,NO,0
+2002-12-29,Nika Fleiss,HR,39
+2002-12-29,Tina Maze,SK,0
+2002-12-29,Petra Knor,AT,0
+2002-12-29,Ana Jelusic,HR,0
+2002-12-29,Carolina Ruiz Castillo,ES,0
+2002-12-29,Maria Jose Rienda Contreras,ES,19
+2002-12-29,Maria Riesch Hoefl,DE,8
+2002-12-29,Kathrin Hoelzl,DE,0
+2003-01-05,Corina Gruenenfelder,CH,20
+2003-01-05,Susanne Ekman,SE,59
+2003-01-05,Katja Wirth,AT,0
+2003-01-05,Kirsten L Clark,US,0
+2003-01-05,Brigitte Obermoser,AT,0
+2003-01-05,Jessica Lindell-Vikarby,SE,0
+2003-01-05,Michaela Dorfmeister,AT,0
+2003-01-05,Jessica Walter,LI,0
+2003-01-05,Daniela Ceccarelli,IT,0
+2003-01-05,Chiara Costazza,IT,0
+2003-01-05,Angelique Moser,NL,0
+2003-01-05,Souazic Le Guillou,FR,0
+2003-01-05,Malin Huldtin,SE,0
+2003-01-05,Janette Hargin,SE,0
+2003-01-05,Denise Karbon,IT,0
+2003-01-05,Claudia Morandini,IT,0
+2003-01-05,Stefanie Wolf,DE,0
+2003-01-05,Catherine Borghi,CH,0
+2003-01-05,Kathrin Hoelzl,DE,0
+2003-01-05,Ana Drev,SK,0
+2003-01-05,Riitta Pitkanen,FI,0
+2003-01-05,Karina Birkelund,NO,0
+2003-01-05,Kristina Hultdin,SE,0
+2003-01-05,Christine Hargin,SE,0
+2003-01-05,Sophie Soelling,DK,0
+2003-01-05,Anne Marie Mueller,NO,0
+2003-01-05,Claire Dautherives,FR,0
+2003-01-05,Eva Kurfuerstova,CZ,0
+2003-01-05,Michaela Kirchgasser,AT,0
+2003-01-05,Elisabetta Biavaschi,IT,0
+2003-01-05,Emily Brydon,CA,0
+2003-01-05,Sophia Akhmeteli,GE,0
+2003-01-05,Zuzana Smerciakova,SK,0
+2003-01-05,Jelena Lolovic,RS,0
+2003-01-05,Ana Kobal,SK,0
+2003-01-05,Sandra Gini,CH,0
+2003-01-05,Maddalena Planatscher,IT,0
+2003-01-05,Katarzyna Karasinska,PL,0
+2003-01-05,Kaylin L Richardson,US,0
+2003-01-05,Petra Knor,AT,0
+2003-01-05,Tina Maze,SK,0
+2003-01-05,Andrine Flemmen,NO,0
+2003-01-05,Silke Bachmann,IT,18
+2003-01-05,Kumiko Kashiwagi,JP,0
+2003-01-05,Petra Zakourilova,CZ,0
+2003-01-05,Noriyo Hiroi,JP,0
+2003-01-05,Line Viken,NO,39
+2003-01-05,Genevieve Simard,CA,0
+2003-01-05,Manuela Moelgg,IT,35
+2003-01-05,Maria Riesch Hoefl,DE,8
+2003-01-05,Natasa Bokal,SK,10
+2003-01-05,Maria Jose Rienda Contreras,ES,19
+2003-01-05,Emma Carrick Anderson,GB,9
+2003-01-05,Claudia Riegler,NZ,81
+2003-01-05,Ana Jelusic,HR,0
+2003-01-05,Nika Fleiss,HR,39
+2003-01-05,Carolina Ruiz Castillo,ES,0
+2003-01-05,Anna Prchal,CA,0
+2003-01-05,Resi Stiegler,US,24
+2003-01-05,Karen Persyn,BE,0
+2003-01-05,Marina Huber,DE,0
+2003-01-05,Sarka Strachova Zahrobska,CZ,71
+2003-01-05,Gail Kelly,CA,0
+2003-01-05,Caroline Lalive,US,0
+2003-01-05,Karen Putzer,IT,0
+2003-01-05,Lindsey Vonn,US,0
+2003-01-05,Veronika Velez Zuzulova,SK,0
+2003-01-05,Christine Sponring,AT,27
+2003-01-05,Carina Raich,AT,42
+2003-01-05,Allison Forsyth,CA,0
+2003-01-05,Fraenzi Aufdenblatten,CH,0
+2003-01-05,Rowena Bright,AU,0
+2003-01-05,Emmi Pezzedi,IT,0
+2003-01-05,Alenka Dovzan,SK,0
+2003-01-05,Trine Bakke Rognmo,NO,101
+2003-01-05,Jessica Fjaellryd,SE,0
+2003-01-05,Lisa Bremseth,NO,37
+2003-01-05,Martina Ertl,DE,137
+2003-01-05,Kristina Koznick,US,76
+2003-01-05,Nicole Hosp,AT,166
+2003-01-05,Vanessa Vidal,FR,86
+2003-01-05,Lea Dabic,SK,43
+2003-01-05,Anna Ottosson,SE,53
+2003-01-05,Britt Janyk,CA,34
+2003-01-05,Sarah Schleper,US,159
+2003-01-05,Christel Pascal,FR,258
+2003-01-05,Nicole Gius,IT,176
+2003-01-05,Henna Raita,FI,33
+2003-01-05,Julia Mancuso,US,17
+2003-01-05,Marlies Oester,CH,69
+2003-01-05,Karin Truppe,AT,37
+2003-01-05,Annalisa Ceresa,IT,29
+2003-01-05,Hedda Berntsen,NO,33
+2003-01-05,Spela Pretnar,SK,47
+2003-01-05,Daniela Merighetti,IT,18
+2003-01-05,Sabine Egger,AT,125
+2003-01-05,Marlies Schild,AT,203
+2003-01-05,Laure Pequegnot,FR,176
+2003-01-05,Annemarie Gerg,DE,144
+2003-01-05,Janica Kostelic,HR,530
+2003-01-05,Monika Bergmann,DE,176
+2003-01-05,Tanja Poutiainen,FI,240
+2003-01-05,Sonja Nef,CH,165
+2003-01-05,Anja Paerson,SE,278
+2003-01-05,Elisabeth Goergl,AT,112
+2003-01-26,Silke Bachmann,IT,18
+2003-01-26,Andrine Flemmen,NO,0
+2003-01-26,Tina Maze,SK,0
+2003-01-26,Petra Knor,AT,0
+2003-01-26,Anne Marie Mueller,NO,0
+2003-01-26,Ana Jelusic,HR,0
+2003-01-26,Carolina Ruiz Castillo,ES,0
+2003-01-26,Alenka Dovzan,SK,0
+2003-01-26,Anna Prchal,CA,0
+2003-01-26,Emmi Pezzedi,IT,0
+2003-01-26,Eva Kurfuerstova,CZ,0
+2003-01-26,Rowena Bright,AU,0
+2003-01-26,Claire Dautherives,FR,0
+2003-01-26,Kumiko Kashiwagi,JP,0
+2003-01-26,Kathrin Hoelzl,DE,0
+2003-01-26,Fraenzi Aufdenblatten,CH,0
+2003-01-26,Marlies Oester,CH,69
+2003-01-26,Emma Carrick Anderson,GB,9
+2003-01-26,Riitta Pitkanen,FI,0
+2003-01-26,Henna Raita,FI,33
+2003-01-26,Maria Jose Rienda Contreras,ES,19
+2003-01-26,Karina Birkelund,NO,0
+2003-01-26,Julia Mancuso,US,17
+2003-01-26,Petra Zakourilova,CZ,0
+2003-01-26,Lea Dabic,SK,43
+2003-01-26,Natasa Bokal,SK,10
+2003-01-26,Kristina Hultdin,SE,0
+2003-01-26,Vanessa Vidal,FR,86
+2003-01-26,Genevieve Simard,CA,0
+2003-01-26,Christine Hargin,SE,0
+2003-01-26,Line Viken,NO,39
+2003-01-26,Noriyo Hiroi,JP,0
+2003-01-26,Daniela Merighetti,IT,18
+2003-01-26,Allison Forsyth,CA,0
+2003-01-26,Britt Janyk,CA,34
+2003-01-26,Catherine Borghi,CH,0
+2003-01-26,Malin Huldtin,SE,0
+2003-01-26,Jelena Lolovic,RS,0
+2003-01-26,Souazic Le Guillou,FR,0
+2003-01-26,Angelique Moser,NL,0
+2003-01-26,Stefanie Wolf,DE,0
+2003-01-26,Ana Kobal,SK,0
+2003-01-26,Chiara Costazza,IT,0
+2003-01-26,Janette Hargin,SE,0
+2003-01-26,Florine De Leymarie,FR,0
+2003-01-26,Michaela Dorfmeister,AT,0
+2003-01-26,Jessica Lindell-Vikarby,SE,0
+2003-01-26,Brigitte Obermoser,AT,0
+2003-01-26,Kirsten L Clark,US,0
+2003-01-26,Katja Wirth,AT,0
+2003-01-26,Daniela Ceccarelli,IT,0
+2003-01-26,Ana Drev,SK,0
+2003-01-26,Jessica Walter,LI,0
+2003-01-26,Elisabetta Biavaschi,IT,0
+2003-01-26,Jessica Fjaellryd,SE,0
+2003-01-26,Claudia Morandini,IT,0
+2003-01-26,Veronika Velez Zuzulova,SK,0
+2003-01-26,Emily Brydon,CA,0
+2003-01-26,Lindsey Vonn,US,0
+2003-01-26,Karen Putzer,IT,0
+2003-01-26,Caroline Lalive,US,0
+2003-01-26,Gail Kelly,CA,0
+2003-01-26,Sophia Akhmeteli,GE,0
+2003-01-26,Zuzana Smerciakova,SK,0
+2003-01-26,Elisabeth Goergl,AT,112
+2003-01-26,Karen Persyn,BE,0
+2003-01-26,Annemarie Gerg,DE,144
+2003-01-26,Resi Stiegler,US,24
+2003-01-26,Kaylin L Richardson,US,0
+2003-01-26,Katarzyna Karasinska,PL,0
+2003-01-26,Maddalena Planatscher,IT,0
+2003-01-26,Sandra Gini,CH,0
+2003-01-26,Marina Huber,DE,0
+2003-01-26,Nika Fleiss,HR,39
+2003-01-26,Anja Paerson,SE,378
+2003-01-26,Sarah Schleper,US,159
+2003-01-26,Maria Riesch Hoefl,DE,22
+2003-01-26,Karin Truppe,AT,53
+2003-01-26,Anna Ottosson,SE,69
+2003-01-26,Claudia Riegler,NZ,99
+2003-01-26,Christine Sponring,AT,49
+2003-01-26,Hedda Berntsen,NO,55
+2003-01-26,Susanne Ekman,SE,83
+2003-01-26,Trine Bakke Rognmo,NO,127
+2003-01-26,Corina Gruenenfelder,CH,49
+2003-01-26,Tanja Poutiainen,FI,272
+2003-01-26,Kristina Koznick,US,112
+2003-01-26,Laure Pequegnot,FR,221
+2003-01-26,Christel Pascal,FR,303
+2003-01-26,Marlies Schild,AT,253
+2003-01-26,Nicole Hosp,AT,226
+2003-01-26,Janica Kostelic,HR,610
+2003-01-26,Sonja Nef,CH,165
+2003-01-26,Nicole Gius,IT,178
+2003-01-26,Annalisa Ceresa,IT,42
+2003-01-26,Sophie Soelling,DK,0
+2003-01-26,Michaela Kirchgasser,AT,8
+2003-01-26,Lisa Bremseth,NO,42
+2003-01-26,Manuela Moelgg,IT,46
+2003-01-26,Sabine Egger,AT,128
+2003-01-26,Denise Karbon,IT,6
+2003-01-26,Spela Pretnar,SK,51
+2003-01-26,Monika Bergmann,DE,185
+2003-01-26,Sarka Strachova Zahrobska,CZ,83
+2003-01-26,Martina Ertl,DE,147
+2003-01-26,Carina Raich,AT,49
+2003-03-08,Caroline Lalive,US,0
+2003-03-08,Gail Kelly,CA,0
+2003-03-08,Spela Pretnar,SK,64
+2003-03-08,Karen Putzer,IT,0
+2003-03-08,Resi Stiegler,US,24
+2003-03-08,Kaylin L Richardson,US,0
+2003-03-08,Katarzyna Karasinska,PL,0
+2003-03-08,Maddalena Planatscher,IT,0
+2003-03-08,Marina Huber,DE,0
+2003-03-08,Karen Persyn,BE,0
+2003-03-08,Veronika Velez Zuzulova,SK,0
+2003-03-08,Sandra Gini,CH,0
+2003-03-08,Silke Bachmann,IT,18
+2003-03-08,Andrine Flemmen,NO,0
+2003-03-08,Tina Maze,SK,0
+2003-03-08,Petra Knor,AT,0
+2003-03-08,Ana Jelusic,HR,0
+2003-03-08,Carolina Ruiz Castillo,ES,0
+2003-03-08,Lindsey Vonn,US,0
+2003-03-08,Alenka Dovzan,SK,0
+2003-03-08,Emmi Pezzedi,IT,0
+2003-03-08,Rowena Bright,AU,0
+2003-03-08,Fraenzi Aufdenblatten,CH,0
+2003-03-08,Hedda Berntsen,NO,55
+2003-03-08,Carina Raich,AT,49
+2003-03-08,Christine Sponring,AT,49
+2003-03-08,Anna Prchal,CA,0
+2003-03-08,Denise Karbon,IT,6
+2003-03-08,Angelique Moser,NL,0
+2003-03-08,Janette Hargin,SE,0
+2003-03-08,Riitta Pitkanen,FI,0
+2003-03-08,Karina Birkelund,NO,0
+2003-03-08,Kristina Hultdin,SE,0
+2003-03-08,Christine Hargin,SE,0
+2003-03-08,Sophie Soelling,DK,0
+2003-03-08,Anne Marie Mueller,NO,0
+2003-03-08,Claire Dautherives,FR,0
+2003-03-08,Eva Kurfuerstova,CZ,0
+2003-03-08,Michaela Kirchgasser,AT,8
+2003-03-08,Elisabetta Biavaschi,IT,0
+2003-03-08,Emily Brydon,CA,0
+2003-03-08,Sophia Akhmeteli,GE,0
+2003-03-08,Zuzana Smerciakova,SK,0
+2003-03-08,Elisabeth Goergl,AT,115
+2003-03-08,Jelena Lolovic,RS,0
+2003-03-08,Ana Drev,SK,0
+2003-03-08,Kathrin Hoelzl,DE,0
+2003-03-08,Catherine Borghi,CH,0
+2003-03-08,Daniela Ceccarelli,IT,0
+2003-03-08,Katja Wirth,AT,0
+2003-03-08,Brigitte Obermoser,AT,0
+2003-03-08,Jessica Lindell-Vikarby,SE,0
+2003-03-08,Michaela Dorfmeister,AT,0
+2003-03-08,Jessica Walter,LI,0
+2003-03-08,Chiara Costazza,IT,0
+2003-03-08,Stefanie Wolf,DE,0
+2003-03-08,Kumiko Kashiwagi,JP,0
+2003-03-08,Souazic Le Guillou,FR,0
+2003-03-08,Ana Kobal,SK,0
+2003-03-08,Noriyo Hiroi,JP,0
+2003-03-08,Kirsten L Clark,US,0
+2003-03-08,Vanessa Vidal,FR,86
+2003-03-08,Tanja Poutiainen,FI,317
+2003-03-08,Laure Pequegnot,FR,261
+2003-03-08,Allison Forsyth,CA,6
+2003-03-08,Martina Ertl,DE,183
+2003-03-08,Christel Pascal,FR,335
+2003-03-08,Malin Huldtin,SE,7
+2003-03-08,Marlies Schild,AT,282
+2003-03-08,Anna Ottosson,SE,95
+2003-03-08,Susanne Ekman,SE,91
+2003-03-08,Sarka Strachova Zahrobska,CZ,107
+2003-03-08,Line Viken,NO,48
+2003-03-08,Annemarie Gerg,DE,166
+2003-03-08,Marlies Oester,CH,89
+2003-03-08,Sabine Egger,AT,146
+2003-03-08,Petra Zakourilova,CZ,10
+2003-03-08,Britt Janyk,CA,50
+2003-03-08,Claudia Morandini,IT,15
+2003-03-08,Karin Truppe,AT,64
+2003-03-08,Lisa Bremseth,NO,56
+2003-03-08,Corina Gruenenfelder,CH,61
+2003-03-08,Genevieve Simard,CA,0
+2003-03-08,Sarah Schleper,US,164
+2003-03-08,Nicole Gius,IT,228
+2003-03-08,Jessica Fjaellryd,SE,0
+2003-03-08,Henna Raita,FI,33
+2003-03-08,Julia Mancuso,US,17
+2003-03-08,Maria Jose Rienda Contreras,ES,19
+2003-03-08,Natasa Bokal,SK,10
+2003-03-08,Annalisa Ceresa,IT,42
+2003-03-08,Emma Carrick Anderson,GB,9
+2003-03-08,Claudia Riegler,NZ,99
+2003-03-08,Maria Riesch Hoefl,DE,22
+2003-03-08,Kristina Koznick,US,112
+2003-03-08,Trine Bakke Rognmo,NO,127
+2003-03-08,Lea Dabic,SK,43
+2003-03-08,Nicole Hosp,AT,226
+2003-03-08,Nika Fleiss,HR,39
+2003-03-08,Janica Kostelic,HR,710
+2003-03-08,Manuela Moelgg,IT,46
+2003-03-08,Anja Paerson,SE,458
+2003-03-08,Florine De Leymarie,FR,4
+2003-03-08,Monika Bergmann,DE,245
+2003-03-08,Sonja Nef,CH,165
+2003-03-08,Daniela Merighetti,IT,18
+2003-03-15,Denise Karbon,IT,6
+2003-03-15,Jessica Fjaellryd,SE,0
+2003-03-15,Claudia Morandini,IT,15
+2003-03-15,Janette Hargin,SE,0
+2003-03-15,Malin Huldtin,SE,7
+2003-03-15,Sandra Gini,CH,0
+2003-03-15,Souazic Le Guillou,FR,0
+2003-03-15,Angelique Moser,NL,0
+2003-03-15,Maddalena Planatscher,IT,0
+2003-03-15,Tanja Poutiainen,FI,367
+2003-03-15,Kaylin L Richardson,US,0
+2003-03-15,Resi Stiegler,US,24
+2003-03-15,Stefanie Wolf,DE,0
+2003-03-15,Karen Persyn,BE,0
+2003-03-15,Marina Huber,DE,0
+2003-03-15,Elisabeth Goergl,AT,115
+2003-03-15,Sarka Strachova Zahrobska,CZ,107
+2003-03-15,Gail Kelly,CA,0
+2003-03-15,Caroline Lalive,US,0
+2003-03-15,Karen Putzer,IT,0
+2003-03-15,Lindsey Vonn,US,0
+2003-03-15,Veronika Velez Zuzulova,SK,0
+2003-03-15,Christine Sponring,AT,49
+2003-03-15,Katarzyna Karasinska,PL,0
+2003-03-15,Chiara Costazza,IT,0
+2003-03-15,Kathrin Hoelzl,DE,0
+2003-03-15,Jessica Walter,LI,0
+2003-03-15,Riitta Pitkanen,FI,0
+2003-03-15,Karina Birkelund,NO,0
+2003-03-15,Kristina Hultdin,SE,0
+2003-03-15,Christine Hargin,SE,0
+2003-03-15,Sophie Soelling,DK,0
+2003-03-15,Anne Marie Mueller,NO,0
+2003-03-15,Claire Dautherives,FR,0
+2003-03-15,Eva Kurfuerstova,CZ,0
+2003-03-15,Elisabetta Biavaschi,IT,0
+2003-03-15,Emily Brydon,CA,0
+2003-03-15,Sophia Akhmeteli,GE,0
+2003-03-15,Zuzana Smerciakova,SK,0
+2003-03-15,Jelena Lolovic,RS,0
+2003-03-15,Ana Kobal,SK,0
+2003-03-15,Ana Drev,SK,0
+2003-03-15,Carina Raich,AT,49
+2003-03-15,Catherine Borghi,CH,0
+2003-03-15,Daniela Ceccarelli,IT,0
+2003-03-15,Katja Wirth,AT,0
+2003-03-15,Kirsten L Clark,US,0
+2003-03-15,Brigitte Obermoser,AT,0
+2003-03-15,Jessica Lindell-Vikarby,SE,0
+2003-03-15,Michaela Dorfmeister,AT,0
+2003-03-15,Florine De Leymarie,FR,4
+2003-03-15,Britt Janyk,CA,50
+2003-03-15,Tina Maze,SK,0
+2003-03-15,Hedda Berntsen,NO,55
+2003-03-15,Emma Carrick Anderson,GB,9
+2003-03-15,Claudia Riegler,NZ,99
+2003-03-15,Annemarie Gerg,DE,166
+2003-03-15,Susanne Ekman,SE,91
+2003-03-15,Nika Fleiss,HR,39
+2003-03-15,Nicole Hosp,AT,226
+2003-03-15,Sonja Nef,CH,165
+2003-03-15,Janica Kostelic,HR,710
+2003-03-15,Spela Pretnar,SK,78
+2003-03-15,Monika Bergmann,DE,260
+2003-03-15,Marlies Oester,CH,105
+2003-03-15,Sabine Egger,AT,164
+2003-03-15,Trine Bakke Rognmo,NO,147
+2003-03-15,Sarah Schleper,US,186
+2003-03-15,Christel Pascal,FR,359
+2003-03-15,Anna Ottosson,SE,121
+2003-03-15,Karin Truppe,AT,93
+2003-03-15,Michaela Kirchgasser,AT,40
+2003-03-15,Nicole Gius,IT,264
+2003-03-15,Kristina Koznick,US,212
+2003-03-15,Anja Paerson,SE,498
+2003-03-15,Laure Pequegnot,FR,341
+2003-03-15,Martina Ertl,DE,228
+2003-03-15,Henna Raita,FI,33
+2003-03-15,Allison Forsyth,CA,6
+2003-03-15,Maria Jose Rienda Contreras,ES,19
+2003-03-15,Lea Dabic,SK,43
+2003-03-15,Fraenzi Aufdenblatten,CH,0
+2003-03-15,Rowena Bright,AU,0
+2003-03-15,Emmi Pezzedi,IT,0
+2003-03-15,Anna Prchal,CA,0
+2003-03-15,Alenka Dovzan,SK,0
+2003-03-15,Carolina Ruiz Castillo,ES,0
+2003-03-15,Ana Jelusic,HR,0
+2003-03-15,Petra Knor,AT,0
+2003-03-15,Marlies Schild,AT,342
+2003-03-15,Andrine Flemmen,NO,0
+2003-03-15,Silke Bachmann,IT,18
+2003-03-15,Kumiko Kashiwagi,JP,0
+2003-03-15,Petra Zakourilova,CZ,10
+2003-03-15,Noriyo Hiroi,JP,0
+2003-03-15,Line Viken,NO,48
+2003-03-15,Lisa Bremseth,NO,56
+2003-03-15,Genevieve Simard,CA,0
+2003-03-15,Vanessa Vidal,FR,86
+2003-03-15,Manuela Moelgg,IT,46
+2003-03-15,Maria Riesch Hoefl,DE,22
+2003-03-15,Natasa Bokal,SK,10
+2003-03-15,Daniela Merighetti,IT,18
+2003-03-15,Corina Gruenenfelder,CH,61
+2003-03-15,Julia Mancuso,US,17
+2003-03-15,Annalisa Ceresa,IT,42

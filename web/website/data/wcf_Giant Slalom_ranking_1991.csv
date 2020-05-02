@@ -1,239 +1,205 @@
 date,name,ath_country,value
-1990-08-09,Fredrik Nyberg,SE,25
-1990-08-09,Luca Pesando,IT,7
-1990-08-09,Roberto Spampatti,IT,0
-1990-08-09,Mats Ericson,SE,0
-1990-08-09,Steve Locher,CH,0
-1990-08-09,Patrick Holzer,IT,0
-1990-08-09,Jeremy Nobis,US,0
-1990-08-09,Paul Accola,CH,0
-1990-08-09,Johan Wallner,SE,10
-1990-08-09,Rainer Salzgeber,AT,0
-1990-08-09,Helmut Mayer,AT,0
-1990-08-09,Martin Knoeri,CH,0
-1990-08-09,Hubert Strolz,AT,0
-1990-08-09,Hans Pieren,CH,0
-1990-08-09,Stephan Eberharter,AT,0
-1990-08-09,Kjetil Andre Aamodt,NO,9
-1990-08-09,Konrad Walk,AT,0
-1990-08-09,Guenther Mader,AT,0
-1990-08-09,Michael von Gruenigen,CH,1
-1990-08-09,Marc Girardelli,LU,2
-1990-08-09,Rudolph Nierlich,AT,8
-1990-08-09,Kristian Ghedina,IT,3
-1990-08-09,Urs Kaelin,CH,4
-1990-08-09,Ole Kristian Furuseth,NO,5
-1990-08-09,Mitja Kunc,SK,0
-1990-08-09,Michael Tritscher,AT,0
-1990-08-09,Lars Boerje Eriksson,SE,11
-1990-08-09,Alain Feutrier,FR,0
-1990-08-09,Lasse Kjus,NO,20
-1990-08-09,Josef Polig,IT,0
-1990-08-09,Frank Piccard,FR,15
-1990-08-09,Alberto Tomba,IT,7
-1990-08-09,Richard Pramotton,IT,0
-1990-08-09,Armin Bittner,DE,12
-1990-12-16,Hans Pieren,CH,6
-1990-12-16,Kjetil Andre Aamodt,NO,14
-1990-12-16,Richard Pramotton,IT,0
-1990-12-16,Hubert Strolz,AT,4
-1990-12-16,Alain Feutrier,FR,0
-1990-12-16,Frank Piccard,FR,18
-1990-12-16,Josef Polig,IT,0
-1990-12-16,Michael Tritscher,AT,0
-1990-12-16,Martin Knoeri,CH,2
-1990-12-16,Mitja Kunc,SK,0
-1990-12-16,Michael von Gruenigen,CH,2
-1990-12-16,Luca Pesando,IT,7
-1990-12-16,Roberto Spampatti,IT,0
-1990-12-16,Armin Bittner,DE,12
-1990-12-16,Steve Locher,CH,0
-1990-12-16,Patrick Holzer,IT,0
-1990-12-16,Jeremy Nobis,US,0
-1990-12-16,Paul Accola,CH,0
-1990-12-16,Rainer Salzgeber,AT,0
-1990-12-16,Helmut Mayer,AT,0
-1990-12-16,Kristian Ghedina,IT,3
-1990-12-16,Ole Kristian Furuseth,NO,5
-1990-12-16,Lars Boerje Eriksson,SE,11
-1990-12-16,Mats Ericson,SE,0
-1990-12-16,Lasse Kjus,NO,20
-1990-12-16,Marc Girardelli,LU,17
-1990-12-16,Stephan Eberharter,AT,8
-1990-12-16,Alberto Tomba,IT,32
-1990-12-16,Guenther Mader,AT,10
-1990-12-16,Rudolph Nierlich,AT,19
-1990-12-16,Fredrik Nyberg,SE,37
-1990-12-16,Konrad Walk,AT,9
-1990-12-16,Johan Wallner,SE,17
-1990-12-16,Urs Kaelin,CH,24
-1990-12-21,Armin Bittner,DE,12
-1990-12-21,Lasse Kjus,NO,20
-1990-12-21,Alberto Tomba,IT,57
-1990-12-21,Konrad Walk,AT,16
-1990-12-21,Marc Girardelli,LU,32
-1990-12-21,Rudolph Nierlich,AT,31
-1990-12-21,Martin Knoeri,CH,13
-1990-12-21,Fredrik Nyberg,SE,47
-1990-12-21,Urs Kaelin,CH,44
-1990-12-21,Lars Boerje Eriksson,SE,11
-1990-12-21,Luca Pesando,IT,7
-1990-12-21,Ole Kristian Furuseth,NO,5
-1990-12-21,Kristian Ghedina,IT,3
-1990-12-21,Stephan Eberharter,AT,8
-1990-12-21,Paul Accola,CH,0
-1990-12-21,Jeremy Nobis,US,0
-1990-12-21,Patrick Holzer,IT,0
-1990-12-21,Mats Ericson,SE,0
-1990-12-21,Roberto Spampatti,IT,0
-1990-12-21,Mitja Kunc,SK,0
-1990-12-21,Michael Tritscher,AT,0
-1990-12-21,Josef Polig,IT,0
-1990-12-21,Alain Feutrier,FR,0
-1990-12-21,Richard Pramotton,IT,0
-1990-12-21,Frank Piccard,FR,24
-1990-12-21,Johan Wallner,SE,17
-1990-12-21,Helmut Mayer,AT,9
-1990-12-21,Steve Locher,CH,0
-1990-12-21,Kjetil Andre Aamodt,NO,15
-1990-12-21,Rainer Salzgeber,AT,5
-1990-12-21,Michael von Gruenigen,CH,4
-1990-12-21,Hans Pieren,CH,10
-1990-12-21,Guenther Mader,AT,13
-1990-12-21,Hubert Strolz,AT,12
-1991-01-15,Patrick Holzer,IT,0
-1991-01-15,Alain Feutrier,FR,0
-1991-01-15,Josef Polig,IT,0
-1991-01-15,Michael Tritscher,AT,0
-1991-01-15,Mitja Kunc,SK,0
-1991-01-15,Roberto Spampatti,IT,0
-1991-01-15,Marc Girardelli,LU,57
-1991-01-15,Mats Ericson,SE,0
-1991-01-15,Johan Wallner,SE,20
-1991-01-15,Steve Locher,CH,0
-1991-01-15,Helmut Mayer,AT,9
-1991-01-15,Alberto Tomba,IT,77
-1991-01-15,Ole Kristian Furuseth,NO,9
-1991-01-15,Kjetil Andre Aamodt,NO,23
-1991-01-15,Hubert Strolz,AT,12
-1991-01-15,Stephan Eberharter,AT,8
-1991-01-15,Konrad Walk,AT,16
-1991-01-15,Kristian Ghedina,IT,3
-1991-01-15,Fredrik Nyberg,SE,52
-1991-01-15,Luca Pesando,IT,7
-1991-01-15,Lars Boerje Eriksson,SE,11
-1991-01-15,Armin Bittner,DE,12
-1991-01-15,Hans Pieren,CH,11
-1991-01-15,Richard Pramotton,IT,0
-1991-01-15,Lasse Kjus,NO,20
-1991-01-15,Rainer Salzgeber,AT,7
-1991-01-15,Frank Piccard,FR,24
-1991-01-15,Martin Knoeri,CH,19
-1991-01-15,Rudolph Nierlich,AT,46
-1991-01-15,Jeremy Nobis,US,9
-1991-01-15,Urs Kaelin,CH,51
-1991-01-15,Guenther Mader,AT,24
-1991-01-15,Paul Accola,CH,12
-1991-01-15,Michael von Gruenigen,CH,14
-1991-03-01,Michael Tritscher,AT,0
-1991-03-01,Josef Polig,IT,0
-1991-03-01,Fredrik Nyberg,SE,52
-1991-03-01,Richard Pramotton,IT,0
-1991-03-01,Ole Kristian Furuseth,NO,16
-1991-03-01,Rainer Salzgeber,AT,13
-1991-03-01,Alain Feutrier,FR,0
-1991-03-01,Mitja Kunc,SK,0
-1991-03-01,Martin Knoeri,CH,19
-1991-03-01,Hubert Strolz,AT,12
-1991-03-01,Hans Pieren,CH,11
-1991-03-01,Konrad Walk,AT,16
-1991-03-01,Guenther Mader,AT,24
-1991-03-01,Michael von Gruenigen,CH,14
-1991-03-01,Kristian Ghedina,IT,3
-1991-03-01,Luca Pesando,IT,7
-1991-03-01,Johan Wallner,SE,20
-1991-03-01,Lars Boerje Eriksson,SE,11
-1991-03-01,Frank Piccard,FR,24
-1991-03-01,Jeremy Nobis,US,9
-1991-03-01,Lasse Kjus,NO,20
-1991-03-01,Helmut Mayer,AT,10
-1991-03-01,Patrick Holzer,IT,11
-1991-03-01,Roberto Spampatti,IT,2
-1991-03-01,Marc Girardelli,LU,69
-1991-03-01,Stephan Eberharter,AT,23
-1991-03-01,Rudolph Nierlich,AT,66
-1991-03-01,Paul Accola,CH,22
-1991-03-01,Alberto Tomba,IT,102
-1991-03-01,Armin Bittner,DE,15
-1991-03-01,Steve Locher,CH,9
-1991-03-01,Mats Ericson,SE,4
-1991-03-01,Urs Kaelin,CH,59
-1991-03-01,Kjetil Andre Aamodt,NO,28
-1991-03-09,Steve Locher,CH,9
-1991-03-09,Richard Pramotton,IT,0
-1991-03-09,Fredrik Nyberg,SE,52
-1991-03-09,Frank Piccard,FR,24
-1991-03-09,Alain Feutrier,FR,0
-1991-03-09,Armin Bittner,DE,15
-1991-03-09,Rainer Salzgeber,AT,20
-1991-03-09,Luca Pesando,IT,7
-1991-03-09,Michael von Gruenigen,CH,14
-1991-03-09,Mats Ericson,SE,4
-1991-03-09,Hans Pieren,CH,11
-1991-03-09,Hubert Strolz,AT,12
-1991-03-09,Josef Polig,IT,0
-1991-03-09,Roberto Spampatti,IT,2
-1991-03-09,Helmut Mayer,AT,10
-1991-03-09,Paul Accola,CH,22
-1991-03-09,Jeremy Nobis,US,9
-1991-03-09,Kristian Ghedina,IT,3
-1991-03-09,Martin Knoeri,CH,19
-1991-03-09,Lars Boerje Eriksson,SE,11
-1991-03-09,Urs Kaelin,CH,62
-1991-03-09,Alberto Tomba,IT,127
-1991-03-09,Lasse Kjus,NO,30
-1991-03-09,Guenther Mader,AT,35
-1991-03-09,Patrick Holzer,IT,16
-1991-03-09,Rudolph Nierlich,AT,86
-1991-03-09,Ole Kristian Furuseth,NO,24
-1991-03-09,Michael Tritscher,AT,1
-1991-03-09,Mitja Kunc,SK,9
-1991-03-09,Konrad Walk,AT,22
-1991-03-09,Stephan Eberharter,AT,35
-1991-03-09,Johan Wallner,SE,22
-1991-03-09,Marc Girardelli,LU,84
-1991-03-09,Kjetil Andre Aamodt,NO,32
-1991-03-21,Luca Pesando,IT,8
-1991-03-21,Hubert Strolz,AT,12
-1991-03-21,Stephan Eberharter,AT,35
-1991-03-21,Konrad Walk,AT,22
-1991-03-21,Guenther Mader,AT,35
-1991-03-21,Paul Accola,CH,22
-1991-03-21,Michael Tritscher,AT,1
-1991-03-21,Roberto Spampatti,IT,2
-1991-03-21,Mats Ericson,SE,4
-1991-03-21,Steve Locher,CH,9
-1991-03-21,Patrick Holzer,IT,16
-1991-03-21,Michael von Gruenigen,CH,14
-1991-03-21,Helmut Mayer,AT,10
-1991-03-21,Rainer Salzgeber,AT,30
-1991-03-21,Marc Girardelli,LU,84
-1991-03-21,Josef Polig,IT,7
-1991-03-21,Kjetil Andre Aamodt,NO,32
-1991-03-21,Martin Knoeri,CH,27
-1991-03-21,Richard Pramotton,IT,5
-1991-03-21,Frank Piccard,FR,28
-1991-03-21,Alberto Tomba,IT,152
-1991-03-21,Jeremy Nobis,US,12
-1991-03-21,Ole Kristian Furuseth,NO,44
-1991-03-21,Hans Pieren,CH,20
-1991-03-21,Rudolph Nierlich,AT,101
-1991-03-21,Johan Wallner,SE,34
-1991-03-21,Mitja Kunc,SK,20
-1991-03-21,Urs Kaelin,CH,64
-1991-03-21,Fredrik Nyberg,SE,52
-1991-03-21,Lasse Kjus,NO,30
-1991-03-21,Armin Bittner,DE,15
-1991-03-21,Lars Boerje Eriksson,SE,11
-1991-03-21,Kristian Ghedina,IT,3
-1991-03-21,Alain Feutrier,FR,6
+1990-12-01,Petra Kronberger,AT,25
+1990-12-01,Diann Roffe Steinrotter,US,8
+1990-12-01,Ylva Nowen,SE,7
+1990-12-01,Christina Meier,DE,6
+1990-12-01,Blanca Fernandez Ochoa,ES,6
+1990-12-01,Ingrid Salvenmoser,AT,4
+1990-12-01,Traudl Haecher,DE,3
+1990-12-01,Katjusa Pusnik,SK,2
+1990-12-01,Sabine Ginther,AT,1
+1990-12-01,Natasa Bokal,SK,0
+1990-12-01,Eva Twardokens,US,0
+1990-12-01,Sylvia Eder,AT,0
+1990-12-01,Monika Maierhofer,AT,0
+1990-12-01,Julie Lunde Hansen,NO,9
+1990-12-01,Ulrike Maier,AT,0
+1990-12-01,Zoe Haas,CH,0
+1990-12-01,Carole Merle,FR,0
+1990-12-01,Brigitte Auer,AT,0
+1990-12-01,Michaela Gerg-Leitner,DE,0
+1990-12-01,Kristina Andersson,SE,0
+1990-12-01,Katja Seizinger,DE,0
+1990-12-01,Claudia Strobl,AT,0
+1990-12-01,Nathalie Bouvier,FR,0
+1990-12-01,Karin Koellerer,AT,0
+1990-12-01,Deborah Compagnoni,IT,0
+1990-12-01,Edith Thys,US,0
+1990-12-01,Veronika Sarec,SK,0
+1990-12-01,Petra Bernet,CH,0
+1990-12-01,Sigrid Wolf,AT,10
+1990-12-01,Julie M. J. Parisien,US,0
+1990-12-01,Anita Wachter,AT,11
+1990-12-01,Angelika Hurler,DE,12
+1990-12-01,Pernilla Wiberg,SE,15
+1990-12-01,Vreni Schneider,CH,20
+1991-01-11,Claudia Strobl,AT,0
+1991-01-11,Katjusa Pusnik,SK,2
+1991-01-11,Christina Meier,DE,8
+1991-01-11,Eva Twardokens,US,12
+1991-01-11,Michaela Gerg-Leitner,DE,1
+1991-01-11,Veronika Sarec,SK,0
+1991-01-11,Edith Thys,US,0
+1991-01-11,Petra Kronberger,AT,40
+1991-01-11,Julie M. J. Parisien,US,0
+1991-01-11,Deborah Compagnoni,IT,0
+1991-01-11,Karin Koellerer,AT,0
+1991-01-11,Natasa Bokal,SK,20
+1991-01-11,Nathalie Bouvier,FR,0
+1991-01-11,Katja Seizinger,DE,0
+1991-01-11,Kristina Andersson,SE,0
+1991-01-11,Vreni Schneider,CH,45
+1991-01-11,Pernilla Wiberg,SE,15
+1991-01-11,Angelika Hurler,DE,12
+1991-01-11,Sigrid Wolf,AT,10
+1991-01-11,Julie Lunde Hansen,NO,9
+1991-01-11,Diann Roffe Steinrotter,US,8
+1991-01-11,Ylva Nowen,SE,7
+1991-01-11,Blanca Fernandez Ochoa,ES,6
+1991-01-11,Traudl Haecher,DE,3
+1991-01-11,Brigitte Auer,AT,3
+1991-01-11,Carole Merle,FR,4
+1991-01-11,Sabine Ginther,AT,1
+1991-01-11,Monika Maierhofer,AT,10
+1991-01-11,Ingrid Salvenmoser,AT,13
+1991-01-11,Zoe Haas,CH,5
+1991-01-11,Ulrike Maier,AT,7
+1991-01-11,Anita Wachter,AT,19
+1991-01-11,Petra Bernet,CH,6
+1991-01-11,Sylvia Eder,AT,11
+1991-02-10,Karin Koellerer,AT,0
+1991-02-10,Petra Kronberger,AT,40
+1991-02-10,Deborah Compagnoni,IT,0
+1991-02-10,Ingrid Salvenmoser,AT,20
+1991-02-10,Vreni Schneider,CH,60
+1991-02-10,Carole Merle,FR,12
+1991-02-10,Pernilla Wiberg,SE,15
+1991-02-10,Katjusa Pusnik,SK,13
+1991-02-10,Anita Wachter,AT,44
+1991-02-10,Kristina Andersson,SE,9
+1991-02-10,Katja Seizinger,DE,5
+1991-02-10,Natasa Bokal,SK,30
+1991-02-10,Eva Twardokens,US,32
+1991-02-10,Angelika Hurler,DE,12
+1991-02-10,Traudl Haecher,DE,3
+1991-02-10,Nathalie Bouvier,FR,1
+1991-02-10,Julie M. J. Parisien,US,0
+1991-02-10,Claudia Strobl,AT,4
+1991-02-10,Brigitte Auer,AT,3
+1991-02-10,Petra Bernet,CH,6
+1991-02-10,Ulrike Maier,AT,7
+1991-02-10,Monika Maierhofer,AT,10
+1991-02-10,Edith Thys,US,0
+1991-02-10,Sigrid Wolf,AT,10
+1991-02-10,Sabine Ginther,AT,1
+1991-02-10,Julie Lunde Hansen,NO,15
+1991-02-10,Blanca Fernandez Ochoa,ES,6
+1991-02-10,Michaela Gerg-Leitner,DE,4
+1991-02-10,Ylva Nowen,SE,7
+1991-02-10,Sylvia Eder,AT,23
+1991-02-10,Zoe Haas,CH,7
+1991-02-10,Christina Meier,DE,8
+1991-02-10,Veronika Sarec,SK,0
+1991-02-10,Diann Roffe Steinrotter,US,8
+1991-03-10,Petra Kronberger,AT,40
+1991-03-10,Sigrid Wolf,AT,10
+1991-03-10,Brigitte Auer,AT,3
+1991-03-10,Carole Merle,FR,12
+1991-03-10,Christina Meier,DE,8
+1991-03-10,Blanca Fernandez Ochoa,ES,6
+1991-03-10,Traudl Haecher,DE,3
+1991-03-10,Ingrid Salvenmoser,AT,20
+1991-03-10,Claudia Strobl,AT,4
+1991-03-10,Diann Roffe Steinrotter,US,8
+1991-03-10,Monika Maierhofer,AT,10
+1991-03-10,Julie Lunde Hansen,NO,15
+1991-03-10,Veronika Sarec,SK,0
+1991-03-10,Pernilla Wiberg,SE,40
+1991-03-10,Zoe Haas,CH,17
+1991-03-10,Karin Koellerer,AT,5
+1991-03-10,Anita Wachter,AT,55
+1991-03-10,Natasa Bokal,SK,39
+1991-03-10,Eva Twardokens,US,40
+1991-03-10,Kristina Andersson,SE,16
+1991-03-10,Ulrike Maier,AT,13
+1991-03-10,Petra Bernet,CH,10
+1991-03-10,Nathalie Bouvier,FR,1
+1991-03-10,Angelika Hurler,DE,24
+1991-03-10,Sabine Ginther,AT,4
+1991-03-10,Ylva Nowen,SE,9
+1991-03-10,Katja Seizinger,DE,5
+1991-03-10,Deborah Compagnoni,IT,0
+1991-03-10,Julie M. J. Parisien,US,0
+1991-03-10,Katjusa Pusnik,SK,14
+1991-03-10,Vreni Schneider,CH,80
+1991-03-10,Edith Thys,US,0
+1991-03-10,Michaela Gerg-Leitner,DE,4
+1991-03-10,Sylvia Eder,AT,38
+1991-03-17,Ylva Nowen,SE,9
+1991-03-17,Veronika Sarec,SK,0
+1991-03-17,Karin Koellerer,AT,5
+1991-03-17,Nathalie Bouvier,FR,1
+1991-03-17,Katja Seizinger,DE,5
+1991-03-17,Brigitte Auer,AT,3
+1991-03-17,Carole Merle,FR,12
+1991-03-17,Petra Kronberger,AT,40
+1991-03-17,Zoe Haas,CH,17
+1991-03-17,Petra Bernet,CH,10
+1991-03-17,Monika Maierhofer,AT,10
+1991-03-17,Angelika Hurler,DE,24
+1991-03-17,Sylvia Eder,AT,38
+1991-03-17,Sigrid Wolf,AT,10
+1991-03-17,Diann Roffe Steinrotter,US,8
+1991-03-17,Katjusa Pusnik,SK,14
+1991-03-17,Traudl Haecher,DE,3
+1991-03-17,Christina Meier,DE,8
+1991-03-17,Sabine Ginther,AT,4
+1991-03-17,Julie M. J. Parisien,US,11
+1991-03-17,Kristina Andersson,SE,21
+1991-03-17,Ingrid Salvenmoser,AT,28
+1991-03-17,Eva Twardokens,US,47
+1991-03-17,Blanca Fernandez Ochoa,ES,12
+1991-03-17,Deborah Compagnoni,IT,12
+1991-03-17,Claudia Strobl,AT,7
+1991-03-17,Michaela Gerg-Leitner,DE,6
+1991-03-17,Edith Thys,US,1
+1991-03-17,Natasa Bokal,SK,43
+1991-03-17,Ulrike Maier,AT,22
+1991-03-17,Anita Wachter,AT,70
+1991-03-17,Vreni Schneider,CH,105
+1991-03-17,Julie Lunde Hansen,NO,35
+1991-03-17,Pernilla Wiberg,SE,50
+1991-03-22,Deborah Compagnoni,IT,12
+1991-03-22,Katjusa Pusnik,SK,14
+1991-03-22,Natasa Bokal,SK,43
+1991-03-22,Monika Maierhofer,AT,10
+1991-03-22,Carole Merle,FR,12
+1991-03-22,Brigitte Auer,AT,3
+1991-03-22,Katja Seizinger,DE,5
+1991-03-22,Edith Thys,US,1
+1991-03-22,Claudia Strobl,AT,7
+1991-03-22,Eva Twardokens,US,57
+1991-03-22,Ingrid Salvenmoser,AT,28
+1991-03-22,Nathalie Bouvier,FR,1
+1991-03-22,Karin Koellerer,AT,5
+1991-03-22,Michaela Gerg-Leitner,DE,6
+1991-03-22,Blanca Fernandez Ochoa,ES,12
+1991-03-22,Anita Wachter,AT,79
+1991-03-22,Ylva Nowen,SE,9
+1991-03-22,Julie M. J. Parisien,US,36
+1991-03-22,Ulrike Maier,AT,42
+1991-03-22,Julie Lunde Hansen,NO,50
+1991-03-22,Veronika Sarec,SK,1
+1991-03-22,Sabine Ginther,AT,6
+1991-03-22,Petra Bernet,CH,13
+1991-03-22,Petra Kronberger,AT,44
+1991-03-22,Traudl Haecher,DE,9
+1991-03-22,Sylvia Eder,AT,50
+1991-03-22,Zoe Haas,CH,24
+1991-03-22,Vreni Schneider,CH,113
+1991-03-22,Pernilla Wiberg,SE,61
+1991-03-22,Angelika Hurler,DE,24
+1991-03-22,Sigrid Wolf,AT,10
+1991-03-22,Diann Roffe Steinrotter,US,8
+1991-03-22,Christina Meier,DE,8
+1991-03-22,Kristina Andersson,SE,26

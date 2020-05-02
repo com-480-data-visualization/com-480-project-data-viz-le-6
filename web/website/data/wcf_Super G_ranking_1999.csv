@@ -1,349 +1,457 @@
 date,name,ath_country,value
-1998-11-27,Stephan Eberharter,AT,100
-1998-11-27,Fredrik Nyberg,SE,0
-1998-11-27,Peter Runggaldier,IT,0
-1998-11-27,Wisi Betschart,US,1
-1998-11-27,Juerg Gruenenfelder,CH,2
-1998-11-27,Paul Accola,CH,3
-1998-11-27,Ehlias Louis,US,4
-1998-11-27,Harald Ii Man De,NL,5
-1998-11-27,Erik Seletto,IT,6
-1998-11-27,Werner Perathoner,IT,7
-1998-11-27,Daron Rahlves,US,8
-1998-11-27,Jeff Piccard,FR,9
-1998-11-27,Kristian Ghedina,IT,10
-1998-11-27,Stefan Stankalla,DE,11
-1998-11-27,Pietro Vitalini,IT,12
-1998-11-27,Chad Fleischer,US,14
-1998-11-27,Franco Cavegn,CH,14
-1998-11-27,Luca Cattaneo,IT,15
-1998-11-27,Andreas Schifferer,AT,16
-1998-11-27,Christoph Gruber,AT,18
-1998-11-27,Jernej Koblar,SK,20
-1998-11-27,P Casey Puckett,US,22
-1998-11-27,Werner Franz,AT,0
-1998-11-27,Didier Cuche,CH,24
-1998-11-27,Lasse Paulsen,NO,0
-1998-11-27,Fritz Strobl,AT,0
-1998-11-27,Benjamin Raich,AT,0
-1998-11-27,Gregor Sparovec,SK,0
-1998-11-27,Max Rauffer,DE,0
-1998-11-27,Benjamin Melquiond,FR,0
-1998-11-27,Luke Sauder,CA,0
-1998-11-27,Antoine Deneriaz,FR,0
-1998-11-27,Audun Groenvold,NO,0
-1998-11-27,Vincent Lavoie,CA,0
-1998-11-27,Lorenzo Galli,IT,0
-1998-11-27,Christophe Saioni,FR,0
-1998-11-27,Tobias Barnerssoi,DE,0
-1998-11-27,Frederic Marin Cudraz,FR,0
-1998-11-27,Kenneth Sivertsen,NO,0
-1998-11-27,Didier Defago,CH,0
-1998-11-27,Patrik Jaerbyn,SE,0
-1998-11-27,Patrick Wirth,AT,0
-1998-11-27,Andreas Ertl,DE,0
-1998-11-27,Nicolas Burtin,FR,0
-1998-11-27,Ales Brezavsek,SK,0
-1998-11-27,Patrice Manuel,FR,0
-1998-11-27,Alessandro Fattori,IT,0
-1998-11-27,Bruno Kernen,CH,0
-1998-11-27,Sebastien Fournier-Bidoz,FR,26
-1998-11-27,Josef Strobl,AT,0
-1998-11-27,Jean Luc Cretier,FR,36
-1998-11-27,Lasse Kjus,NO,40
-1998-11-27,Kjetil Andre Aamodt,NO,29
-1998-11-27,Steve Locher,CH,32
-1998-11-27,Hans Knauss,AT,45
-1998-11-27,Rainer Salzgeber,AT,50
-1998-11-27,Christian Mayer,AT,60
-1998-11-27,Hermann Maier,AT,80
-1998-12-13,Steve Locher,CH,42
-1998-12-13,Peter Runggaldier,IT,36
-1998-12-13,Erik Seletto,IT,6
-1998-12-13,Harald Ii Man De,NL,5
-1998-12-13,Ehlias Louis,US,4
-1998-12-13,Juerg Gruenenfelder,CH,2
-1998-12-13,Josef Strobl,AT,11
-1998-12-13,Patrik Jaerbyn,SE,0
-1998-12-13,Patrick Wirth,AT,0
-1998-12-13,Jeff Piccard,FR,9
-1998-12-13,Didier Defago,CH,0
-1998-12-13,Kenneth Sivertsen,NO,0
-1998-12-13,Christian Mayer,AT,72
-1998-12-13,Frederic Marin Cudraz,FR,0
-1998-12-13,Tobias Barnerssoi,DE,0
-1998-12-13,Lorenzo Galli,IT,0
-1998-12-13,Wisi Betschart,US,1
-1998-12-13,Kristian Ghedina,IT,10
-1998-12-13,Pietro Vitalini,IT,12
-1998-12-13,Chad Fleischer,US,14
-1998-12-13,Nicolas Burtin,FR,2
-1998-12-13,Christoph Gruber,AT,22
-1998-12-13,Hans Knauss,AT,85
-1998-12-13,Andreas Ertl,DE,1
-1998-12-13,Werner Perathoner,IT,12
-1998-12-13,Andreas Schifferer,AT,61
-1998-12-13,Kjetil Andre Aamodt,NO,79
-1998-12-13,Stefan Stankalla,DE,17
-1998-12-13,Werner Franz,AT,29
-1998-12-13,Lasse Kjus,NO,100
-1998-12-13,Stephan Eberharter,AT,180
-1998-12-13,Jernej Koblar,SK,28
-1998-12-13,Hermann Maier,AT,180
-1998-12-13,Jean Luc Cretier,FR,36
-1998-12-13,Sebastien Fournier-Bidoz,FR,26
-1998-12-13,P Casey Puckett,US,22
-1998-12-13,Franco Cavegn,CH,23
-1998-12-13,Alessandro Fattori,IT,14
-1998-12-13,Patrice Manuel,FR,7
-1998-12-13,Vincent Lavoie,CA,0
-1998-12-13,Christophe Saioni,FR,0
-1998-12-13,Antoine Deneriaz,FR,0
-1998-12-13,Luca Cattaneo,IT,28
-1998-12-13,Paul Accola,CH,29
-1998-12-13,Rainer Salzgeber,AT,74
-1998-12-13,Daron Rahlves,US,30
-1998-12-13,Audun Groenvold,NO,0
-1998-12-13,Lasse Paulsen,NO,20
-1998-12-13,Bruno Kernen,CH,18
-1998-12-13,Fredrik Nyberg,SE,32
-1998-12-13,Ales Brezavsek,SK,3
-1998-12-13,Benjamin Raich,AT,0
-1998-12-13,Gregor Sparovec,SK,0
-1998-12-13,Luke Sauder,CA,0
-1998-12-13,Max Rauffer,DE,0
-1998-12-13,Benjamin Melquiond,FR,0
-1998-12-13,Didier Cuche,CH,39
-1998-12-13,Fritz Strobl,AT,16
-1998-12-21,Audun Groenvold,NO,0
-1998-12-21,Fritz Strobl,AT,76
-1998-12-21,Antoine Deneriaz,FR,0
-1998-12-21,Luke Sauder,CA,0
-1998-12-21,Stephan Eberharter,AT,230
-1998-12-21,Sebastien Fournier-Bidoz,FR,26
-1998-12-21,Max Rauffer,DE,0
-1998-12-21,Gregor Sparovec,SK,0
-1998-12-21,Rainer Salzgeber,AT,119
-1998-12-21,Luca Cattaneo,IT,29
-1998-12-21,Benjamin Raich,AT,0
-1998-12-21,Tobias Barnerssoi,DE,2
-1998-12-21,Christoph Gruber,AT,35
-1998-12-21,Andreas Ertl,DE,4
-1998-12-21,Benjamin Melquiond,FR,0
-1998-12-21,Vincent Lavoie,CA,0
-1998-12-21,Christophe Saioni,FR,0
-1998-12-21,Christian Mayer,AT,152
-1998-12-21,P Casey Puckett,US,22
-1998-12-21,Jernej Koblar,SK,28
-1998-12-21,Franco Cavegn,CH,23
-1998-12-21,Chad Fleischer,US,14
-1998-12-21,Pietro Vitalini,IT,12
-1998-12-21,Jean Luc Cretier,FR,36
-1998-12-21,Kristian Ghedina,IT,10
-1998-12-21,Jeff Piccard,FR,9
-1998-12-21,Werner Perathoner,IT,12
-1998-12-21,Erik Seletto,IT,6
-1998-12-21,Harald Ii Man De,NL,5
-1998-12-21,Ehlias Louis,US,4
-1998-12-21,Wisi Betschart,US,1
-1998-12-21,Peter Runggaldier,IT,36
-1998-12-21,Ales Brezavsek,SK,3
-1998-12-21,Hermann Maier,AT,280
-1998-12-21,Nicolas Burtin,FR,2
-1998-12-21,Lorenzo Galli,IT,0
-1998-12-21,Patrice Manuel,FR,7
-1998-12-21,Werner Franz,AT,58
-1998-12-21,Andreas Schifferer,AT,93
-1998-12-21,Alessandro Fattori,IT,36
-1998-12-21,Kjetil Andre Aamodt,NO,103
-1998-12-21,Kenneth Sivertsen,NO,9
-1998-12-21,Fredrik Nyberg,SE,52
-1998-12-21,Lasse Paulsen,NO,46
-1998-12-21,Hans Knauss,AT,125
-1998-12-21,Frederic Marin Cudraz,FR,5
-1998-12-21,Daron Rahlves,US,40
-1998-12-21,Juerg Gruenenfelder,CH,8
-1998-12-21,Didier Cuche,CH,47
-1998-12-21,Patrik Jaerbyn,SE,18
-1998-12-21,Didier Defago,CH,11
-1998-12-21,Patrick Wirth,AT,36
-1998-12-21,Stefan Stankalla,DE,24
-1998-12-21,Bruno Kernen,CH,22
-1998-12-21,Paul Accola,CH,44
-1998-12-21,Steve Locher,CH,54
-1998-12-21,Josef Strobl,AT,26
-1998-12-21,Lasse Kjus,NO,118
-1999-01-09,Christian Mayer,AT,152
-1999-01-09,Didier Cuche,CH,73
-1999-01-09,Christoph Gruber,AT,38
-1999-01-09,Patrik Jaerbyn,SE,38
-1999-01-09,Sebastien Fournier-Bidoz,FR,48
-1999-01-09,Kjetil Andre Aamodt,NO,135
-1999-01-09,Lasse Kjus,NO,118
-1999-01-09,Lasse Paulsen,NO,64
-1999-01-09,Alessandro Fattori,IT,54
-1999-01-09,Stefan Stankalla,DE,48
-1999-01-09,Jean Luc Cretier,FR,36
-1999-01-09,Chad Fleischer,US,14
-1999-01-09,Jernej Koblar,SK,28
-1999-01-09,Kenneth Sivertsen,NO,22
-1999-01-09,Andreas Schifferer,AT,122
-1999-01-09,Benjamin Raich,AT,0
-1999-01-09,Gregor Sparovec,SK,0
-1999-01-09,Max Rauffer,DE,0
-1999-01-09,Benjamin Melquiond,FR,0
-1999-01-09,Luke Sauder,CA,0
-1999-01-09,Antoine Deneriaz,FR,0
-1999-01-09,Tobias Barnerssoi,DE,2
-1999-01-09,Frederic Marin Cudraz,FR,5
-1999-01-09,Patrick Wirth,AT,36
-1999-01-09,P Casey Puckett,US,22
-1999-01-09,Andreas Ertl,DE,4
-1999-01-09,Ales Brezavsek,SK,3
-1999-01-09,Patrice Manuel,FR,7
-1999-01-09,Wisi Betschart,US,1
-1999-01-09,Juerg Gruenenfelder,CH,8
-1999-01-09,Ehlias Louis,US,4
-1999-01-09,Harald Ii Man De,NL,5
-1999-01-09,Werner Perathoner,IT,12
-1999-01-09,Daron Rahlves,US,40
-1999-01-09,Jeff Piccard,FR,9
-1999-01-09,Pietro Vitalini,IT,12
-1999-01-09,Fredrik Nyberg,SE,67
-1999-01-09,Nicolas Burtin,FR,2
-1999-01-09,Werner Franz,AT,72
-1999-01-09,Stephan Eberharter,AT,230
-1999-01-09,Hermann Maier,AT,380
-1999-01-09,Bruno Kernen,CH,30
-1999-01-09,Kristian Ghedina,IT,14
-1999-01-09,Didier Defago,CH,21
-1999-01-09,Erik Seletto,IT,8
-1999-01-09,Rainer Salzgeber,AT,199
-1999-01-09,Peter Runggaldier,IT,47
-1999-01-09,Luca Cattaneo,IT,36
-1999-01-09,Lorenzo Galli,IT,9
-1999-01-09,Josef Strobl,AT,71
-1999-01-09,Audun Groenvold,NO,5
-1999-01-09,Christophe Saioni,FR,12
-1999-01-09,Steve Locher,CH,90
-1999-01-09,Fritz Strobl,AT,116
-1999-01-09,Vincent Lavoie,CA,6
-1999-01-09,Franco Cavegn,CH,24
-1999-01-09,Paul Accola,CH,94
-1999-01-09,Hans Knauss,AT,185
-1999-03-07,Pietro Vitalini,IT,12
-1999-03-07,Franco Cavegn,CH,24
-1999-03-07,Luca Cattaneo,IT,36
-1999-03-07,Antoine Deneriaz,FR,14
-1999-03-07,Fritz Strobl,AT,152
-1999-03-07,Christian Mayer,AT,152
-1999-03-07,Kristian Ghedina,IT,14
-1999-03-07,Gregor Sparovec,SK,2
-1999-03-07,Paul Accola,CH,139
-1999-03-07,Audun Groenvold,NO,10
-1999-03-07,Jean Luc Cretier,FR,36
-1999-03-07,Andreas Ertl,DE,6
-1999-03-07,Erik Seletto,IT,8
-1999-03-07,Werner Perathoner,IT,12
-1999-03-07,Max Rauffer,DE,3
-1999-03-07,Chad Fleischer,US,43
-1999-03-07,Benjamin Raich,AT,0
-1999-03-07,Vincent Lavoie,CA,6
-1999-03-07,Lorenzo Galli,IT,9
-1999-03-07,Tobias Barnerssoi,DE,2
-1999-03-07,Frederic Marin Cudraz,FR,5
-1999-03-07,Kenneth Sivertsen,NO,22
-1999-03-07,Patrik Jaerbyn,SE,38
-1999-03-07,Jeff Piccard,FR,9
-1999-03-07,Patrick Wirth,AT,36
-1999-03-07,Ales Brezavsek,SK,3
-1999-03-07,Patrice Manuel,FR,7
-1999-03-07,Josef Strobl,AT,71
-1999-03-07,Bruno Kernen,CH,30
-1999-03-07,Fredrik Nyberg,SE,67
-1999-03-07,Wisi Betschart,US,1
-1999-03-07,Juerg Gruenenfelder,CH,8
-1999-03-07,Ehlias Louis,US,4
-1999-03-07,Harald Ii Man De,NL,5
-1999-03-07,Nicolas Burtin,FR,2
-1999-03-07,Luke Sauder,CA,6
-1999-03-07,Sebastien Fournier-Bidoz,FR,48
-1999-03-07,Didier Cuche,CH,123
-1999-03-07,Christophe Saioni,FR,24
-1999-03-07,Stefan Stankalla,DE,59
-1999-03-07,Werner Franz,AT,87
-1999-03-07,Didier Defago,CH,31
-1999-03-07,Christoph Gruber,AT,60
-1999-03-07,Steve Locher,CH,112
-1999-03-07,Alessandro Fattori,IT,63
-1999-03-07,Kjetil Andre Aamodt,NO,167
-1999-03-07,Daron Rahlves,US,64
-1999-03-07,Jernej Koblar,SK,46
-1999-03-07,Hans Knauss,AT,211
-1999-03-07,Lasse Paulsen,NO,80
-1999-03-07,Rainer Salzgeber,AT,212
-1999-03-07,Benjamin Melquiond,FR,4
-1999-03-07,P Casey Puckett,US,30
-1999-03-07,Lasse Kjus,NO,158
-1999-03-07,Stephan Eberharter,AT,310
-1999-03-07,Hermann Maier,AT,480
-1999-03-07,Andreas Schifferer,AT,182
-1999-03-07,Peter Runggaldier,IT,54
-1999-03-11,Bruno Kernen,CH,30
-1999-03-11,Kenneth Sivertsen,NO,22
-1999-03-11,Wisi Betschart,US,1
-1999-03-11,Didier Defago,CH,31
-1999-03-11,Werner Franz,AT,87
-1999-03-11,Andreas Ertl,DE,6
-1999-03-11,Nicolas Burtin,FR,2
-1999-03-11,Lasse Paulsen,NO,80
-1999-03-11,Patrice Manuel,FR,7
-1999-03-11,Alessandro Fattori,IT,63
-1999-03-11,Patrick Wirth,AT,36
-1999-03-11,Ales Brezavsek,SK,3
-1999-03-11,Vincent Lavoie,CA,6
-1999-03-11,Tobias Barnerssoi,DE,2
-1999-03-11,Christophe Saioni,FR,24
-1999-03-11,Lorenzo Galli,IT,9
-1999-03-11,Juerg Gruenenfelder,CH,8
-1999-03-11,Audun Groenvold,NO,10
-1999-03-11,Antoine Deneriaz,FR,14
-1999-03-11,Luke Sauder,CA,6
-1999-03-11,Benjamin Melquiond,FR,4
-1999-03-11,Max Rauffer,DE,3
-1999-03-11,Gregor Sparovec,SK,2
-1999-03-11,Kjetil Andre Aamodt,NO,182
-1999-03-11,Steve Locher,CH,157
-1999-03-11,Hermann Maier,AT,516
-1999-03-11,Frederic Marin Cudraz,FR,5
-1999-03-11,Ehlias Louis,US,4
-1999-03-11,Christoph Gruber,AT,60
-1999-03-11,Erik Seletto,IT,8
-1999-03-11,Josef Strobl,AT,131
-1999-03-11,Andreas Schifferer,AT,262
-1999-03-11,Benjamin Raich,AT,29
-1999-03-11,Christian Mayer,AT,252
-1999-03-11,Fritz Strobl,AT,178
-1999-03-11,Jernej Koblar,SK,78
-1999-03-11,Fredrik Nyberg,SE,107
-1999-03-11,Patrik Jaerbyn,SE,62
-1999-03-11,Hans Knauss,AT,233
-1999-03-11,Peter Runggaldier,IT,64
-1999-03-11,Stephan Eberharter,AT,330
-1999-03-11,Didier Cuche,CH,134
-1999-03-11,Harald Ii Man De,NL,5
-1999-03-11,Rainer Salzgeber,AT,224
-1999-03-11,Stefan Stankalla,DE,75
-1999-03-11,Chad Fleischer,US,57
-1999-03-11,Jean Luc Cretier,FR,36
-1999-03-11,P Casey Puckett,US,30
-1999-03-11,Lasse Kjus,NO,208
-1999-03-11,Luca Cattaneo,IT,36
-1999-03-11,Franco Cavegn,CH,24
-1999-03-11,Pietro Vitalini,IT,12
-1999-03-11,Kristian Ghedina,IT,14
-1999-03-11,Jeff Piccard,FR,9
-1999-03-11,Daron Rahlves,US,64
-1999-03-11,Werner Perathoner,IT,12
-1999-03-11,Paul Accola,CH,157
-1999-03-11,Sebastien Fournier-Bidoz,FR,61
+1998-11-29,Alexandra Meissnitzer,AT,100
+1998-11-29,Gail Kelly,CA,1
+1998-11-29,Kirsten L Clark,US,2
+1998-11-29,Alessandra Merlin,IT,3
+1998-11-29,Sara Maude Boucher,CA,4
+1998-11-29,Diana Lemberger,DE,6
+1998-11-29,Sibylle Brauner,DE,6
+1998-11-29,Melanie Turgeon,CA,7
+1998-11-29,Grete Stroem,NO,8
+1998-11-29,Megan Gerety,US,9
+1998-11-29,Janica Kostelic,HR,10
+1998-11-29,Brigitte Obermoser,AT,11
+1998-11-29,Jonna Mendes,US,12
+1998-11-29,Trude Gimle,NO,13
+1998-11-29,Kathleen Monahan,US,14
+1998-11-29,Tanja Schneider,AT,16
+1998-11-29,Ingrid Jacquemod,FR,16
+1998-11-29,Elena Tagliabue,IT,18
+1998-11-29,Sylviane Berthod,CH,20
+1998-11-29,Isolde Kostner,IT,22
+1998-11-29,Regine Cavagnoud,FR,24
+1998-11-29,Regina Haeusl,DE,26
+1998-11-29,Christiane Mitterwallner,AT,0
+1998-11-29,Renate Goetschl,AT,0
+1998-11-29,Corinne Rey Bellet,CH,0
+1998-11-29,Ingeborg H. Marken,NO,0
+1998-11-29,Nadia Styger,CH,0
+1998-11-29,Caroline Dummer Waidhofer,AT,0
+1998-11-29,Petra Haltmayr,DE,0
+1998-11-29,Romina Dei Cas,IT,0
+1998-11-29,Celine Daetwyler,CH,0
+1998-11-29,Caroline Lalive,US,0
+1998-11-29,Anja Kalan,SK,0
+1998-11-29,Linda Ydeskog,SE,0
+1998-11-29,Merete Fjeldavlie,NO,0
+1998-11-29,Melanie Suchet,FR,0
+1998-11-29,Patrizia Bassis,IT,29
+1998-11-29,Spela Bracun,SK,0
+1998-11-29,Kristine Kristiansen,NO,0
+1998-11-29,Andrine Flemmen,NO,0
+1998-11-29,Florence Masnada,FR,0
+1998-11-29,Karen Putzer,IT,0
+1998-11-29,Bibiana Perez,IT,0
+1998-11-29,Karin Blaser,AT,0
+1998-11-29,Barbara Merlin,IT,0
+1998-11-29,Catherine Borghi,CH,0
+1998-11-29,Monika Tschirky,CH,0
+1998-11-29,Daniela Ceccarelli,IT,0
+1998-11-29,Marianne Brechu,FR,0
+1998-11-29,Carole Montillet,FR,32
+1998-11-29,Martina Ertl,DE,0
+1998-11-29,Marianna Salchinger,AT,40
+1998-11-29,Mojca Suhadolc,SK,36
+1998-11-29,Stefanie Schuster,AT,50
+1998-11-29,Hilde Gerg,DE,60
+1998-11-29,Michaela Dorfmeister,AT,45
+1998-11-29,Pernilla Wiberg,SE,80
+1998-12-04,Stefanie Schuster,AT,50
+1998-12-04,Kristine Kristiansen,NO,0
+1998-12-04,Bibiana Perez,IT,10
+1998-12-04,Marianne Brechu,FR,0
+1998-12-04,Spela Bracun,SK,0
+1998-12-04,Melanie Suchet,FR,0
+1998-12-04,Merete Fjeldavlie,NO,0
+1998-12-04,Linda Ydeskog,SE,0
+1998-12-04,Anja Kalan,SK,0
+1998-12-04,Caroline Lalive,US,0
+1998-12-04,Caroline Dummer Waidhofer,AT,0
+1998-12-04,Romina Dei Cas,IT,0
+1998-12-04,Petra Haltmayr,DE,0
+1998-12-04,Andrine Flemmen,NO,0
+1998-12-04,Nadia Styger,CH,0
+1998-12-04,Karin Blaser,AT,12
+1998-12-04,Marianna Salchinger,AT,52
+1998-12-04,Brigitte Obermoser,AT,24
+1998-12-04,Monika Tschirky,CH,16
+1998-12-04,Alexandra Meissnitzer,AT,140
+1998-12-04,Celine Daetwyler,CH,0
+1998-12-04,Florence Masnada,FR,0
+1998-12-04,Kirsten L Clark,US,2
+1998-12-04,Gail Kelly,CA,1
+1998-12-04,Michaela Dorfmeister,AT,48
+1998-12-04,Jonna Mendes,US,13
+1998-12-04,Carole Montillet,FR,36
+1998-12-04,Isolde Kostner,IT,72
+1998-12-04,Martina Ertl,DE,60
+1998-12-04,Elena Tagliabue,IT,24
+1998-12-04,Renate Goetschl,AT,80
+1998-12-04,Patrizia Bassis,IT,36
+1998-12-04,Sibylle Brauner,DE,51
+1998-12-04,Christiane Mitterwallner,AT,100
+1998-12-04,Pernilla Wiberg,SE,80
+1998-12-04,Hilde Gerg,DE,68
+1998-12-04,Mojca Suhadolc,SK,36
+1998-12-04,Ingrid Jacquemod,FR,16
+1998-12-04,Tanja Schneider,AT,16
+1998-12-04,Trude Gimle,NO,13
+1998-12-04,Grete Stroem,NO,8
+1998-12-04,Melanie Turgeon,CA,7
+1998-12-04,Sara Maude Boucher,CA,4
+1998-12-04,Alessandra Merlin,IT,12
+1998-12-04,Corinne Rey Bellet,CH,40
+1998-12-04,Karen Putzer,IT,0
+1998-12-04,Sylviane Berthod,CH,38
+1998-12-04,Diana Lemberger,DE,8
+1998-12-04,Regine Cavagnoud,FR,53
+1998-12-04,Regina Haeusl,DE,48
+1998-12-04,Daniela Ceccarelli,IT,24
+1998-12-04,Ingeborg H. Marken,NO,26
+1998-12-04,Janica Kostelic,HR,15
+1998-12-04,Kathleen Monahan,US,46
+1998-12-04,Megan Gerety,US,29
+1998-12-04,Barbara Merlin,IT,15
+1998-12-04,Catherine Borghi,CH,15
+1998-12-10,Corinne Rey Bellet,CH,62
+1998-12-10,Andrine Flemmen,NO,11
+1998-12-10,Patrizia Bassis,IT,39
+1998-12-10,Karen Putzer,IT,24
+1998-12-10,Celine Daetwyler,CH,0
+1998-12-10,Spela Bracun,SK,2
+1998-12-10,Catherine Borghi,CH,24
+1998-12-10,Isolde Kostner,IT,98
+1998-12-10,Kathleen Monahan,US,61
+1998-12-10,Regina Haeusl,DE,93
+1998-12-10,Daniela Ceccarelli,IT,32
+1998-12-10,Renate Goetschl,AT,116
+1998-12-10,Alexandra Meissnitzer,AT,240
+1998-12-10,Florence Masnada,FR,12
+1998-12-10,Ingrid Jacquemod,FR,23
+1998-12-10,Pernilla Wiberg,SE,130
+1998-12-10,Martina Ertl,DE,140
+1998-12-10,Janica Kostelic,HR,20
+1998-12-10,Kirsten L Clark,US,7
+1998-12-10,Melanie Turgeon,CA,13
+1998-12-10,Hilde Gerg,DE,100
+1998-12-10,Regine Cavagnoud,FR,113
+1998-12-10,Tanja Schneider,AT,45
+1998-12-10,Stefanie Schuster,AT,90
+1998-12-10,Kristine Kristiansen,NO,10
+1998-12-10,Grete Stroem,NO,8
+1998-12-10,Nadia Styger,CH,0
+1998-12-10,Sibylle Brauner,DE,67
+1998-12-10,Megan Gerety,US,29
+1998-12-10,Melanie Suchet,FR,0
+1998-12-10,Marianne Brechu,FR,2
+1998-12-10,Diana Lemberger,DE,8
+1998-12-10,Christiane Mitterwallner,AT,100
+1998-12-10,Karin Blaser,AT,12
+1998-12-10,Monika Tschirky,CH,16
+1998-12-10,Sara Maude Boucher,CA,4
+1998-12-10,Michaela Dorfmeister,AT,48
+1998-12-10,Alessandra Merlin,IT,12
+1998-12-10,Gail Kelly,CA,1
+1998-12-10,Sylviane Berthod,CH,52
+1998-12-10,Barbara Merlin,IT,15
+1998-12-10,Petra Haltmayr,DE,0
+1998-12-10,Caroline Dummer Waidhofer,AT,0
+1998-12-10,Brigitte Obermoser,AT,44
+1998-12-10,Marianna Salchinger,AT,52
+1998-12-10,Romina Dei Cas,IT,0
+1998-12-10,Bibiana Perez,IT,28
+1998-12-10,Carole Montillet,FR,36
+1998-12-10,Jonna Mendes,US,13
+1998-12-10,Trude Gimle,NO,13
+1998-12-10,Caroline Lalive,US,0
+1998-12-10,Elena Tagliabue,IT,24
+1998-12-10,Anja Kalan,SK,0
+1998-12-10,Linda Ydeskog,SE,0
+1998-12-10,Merete Fjeldavlie,NO,0
+1998-12-10,Mojca Suhadolc,SK,49
+1998-12-10,Ingeborg H. Marken,NO,26
+1999-01-02,Martina Ertl,DE,220
+1999-01-02,Jonna Mendes,US,18
+1999-01-02,Christiane Mitterwallner,AT,150
+1999-01-02,Elena Tagliabue,IT,26
+1999-01-02,Karin Blaser,AT,27
+1999-01-02,Nadia Styger,CH,0
+1999-01-02,Michaela Dorfmeister,AT,108
+1999-01-02,Hilde Gerg,DE,200
+1999-01-02,Merete Fjeldavlie,NO,1
+1999-01-02,Regina Haeusl,DE,93
+1999-01-02,Stefanie Schuster,AT,90
+1999-01-02,Ingrid Jacquemod,FR,23
+1999-01-02,Trude Gimle,NO,13
+1999-01-02,Janica Kostelic,HR,20
+1999-01-02,Grete Stroem,NO,8
+1999-01-02,Melanie Turgeon,CA,13
+1999-01-02,Diana Lemberger,DE,8
+1999-01-02,Sara Maude Boucher,CA,4
+1999-01-02,Alessandra Merlin,IT,12
+1999-01-02,Kirsten L Clark,US,7
+1999-01-02,Gail Kelly,CA,1
+1999-01-02,Caroline Dummer Waidhofer,AT,0
+1999-01-02,Renate Goetschl,AT,116
+1999-01-02,Monika Tschirky,CH,16
+1999-01-02,Barbara Merlin,IT,15
+1999-01-02,Florence Masnada,FR,12
+1999-01-02,Andrine Flemmen,NO,11
+1999-01-02,Kristine Kristiansen,NO,10
+1999-01-02,Linda Ydeskog,SE,0
+1999-01-02,Anja Kalan,SK,0
+1999-01-02,Caroline Lalive,US,0
+1999-01-02,Celine Daetwyler,CH,0
+1999-01-02,Petra Haltmayr,DE,0
+1999-01-02,Daniela Ceccarelli,IT,32
+1999-01-02,Romina Dei Cas,IT,0
+1999-01-02,Tanja Schneider,AT,81
+1999-01-02,Pernilla Wiberg,SE,170
+1999-01-02,Patrizia Bassis,IT,45
+1999-01-02,Alexandra Meissnitzer,AT,269
+1999-01-02,Marianne Brechu,FR,13
+1999-01-02,Corinne Rey Bellet,CH,107
+1999-01-02,Regine Cavagnoud,FR,125
+1999-01-02,Spela Bracun,SK,6
+1999-01-02,Brigitte Obermoser,AT,70
+1999-01-02,Marianna Salchinger,AT,61
+1999-01-02,Mojca Suhadolc,SK,58
+1999-01-02,Megan Gerety,US,42
+1999-01-02,Sibylle Brauner,DE,77
+1999-01-02,Catherine Borghi,CH,33
+1999-01-02,Carole Montillet,FR,50
+1999-01-02,Karen Putzer,IT,48
+1999-01-02,Ingeborg H. Marken,NO,58
+1999-01-02,Melanie Suchet,FR,16
+1999-01-02,Kathleen Monahan,US,83
+1999-01-02,Isolde Kostner,IT,116
+1999-01-02,Bibiana Perez,IT,31
+1999-01-02,Sylviane Berthod,CH,72
+1999-01-16,Kathleen Monahan,US,83
+1999-01-16,Ingrid Jacquemod,FR,23
+1999-01-16,Trude Gimle,NO,13
+1999-01-16,Elena Tagliabue,IT,26
+1999-01-16,Jonna Mendes,US,18
+1999-01-16,Ingeborg H. Marken,NO,66
+1999-01-16,Isolde Kostner,IT,116
+1999-01-16,Tanja Schneider,AT,110
+1999-01-16,Karin Blaser,AT,72
+1999-01-16,Mojca Suhadolc,SK,69
+1999-01-16,Janica Kostelic,HR,20
+1999-01-16,Alessandra Merlin,IT,24
+1999-01-16,Carole Montillet,FR,76
+1999-01-16,Catherine Borghi,CH,46
+1999-01-16,Sylviane Berthod,CH,98
+1999-01-16,Stefanie Schuster,AT,104
+1999-01-16,Spela Bracun,SK,22
+1999-01-16,Megan Gerety,US,58
+1999-01-16,Hilde Gerg,DE,222
+1999-01-16,Brigitte Obermoser,AT,90
+1999-01-16,Pernilla Wiberg,SE,190
+1999-01-16,Marianne Brechu,FR,23
+1999-01-16,Grete Stroem,NO,8
+1999-01-16,Martina Ertl,DE,260
+1999-01-16,Andrine Flemmen,NO,18
+1999-01-16,Merete Fjeldavlie,NO,1
+1999-01-16,Caroline Lalive,US,0
+1999-01-16,Celine Daetwyler,CH,0
+1999-01-16,Romina Dei Cas,IT,0
+1999-01-16,Sibylle Brauner,DE,109
+1999-01-16,Petra Haltmayr,DE,0
+1999-01-16,Melanie Suchet,FR,16
+1999-01-16,Caroline Dummer Waidhofer,AT,0
+1999-01-16,Marianna Salchinger,AT,62
+1999-01-16,Daniela Ceccarelli,IT,36
+1999-01-16,Kristine Kristiansen,NO,12
+1999-01-16,Linda Ydeskog,SE,36
+1999-01-16,Florence Masnada,FR,15
+1999-01-16,Regine Cavagnoud,FR,175
+1999-01-16,Nadia Styger,CH,0
+1999-01-16,Karen Putzer,IT,48
+1999-01-16,Patrizia Bassis,IT,54
+1999-01-16,Alexandra Meissnitzer,AT,349
+1999-01-16,Kirsten L Clark,US,7
+1999-01-16,Regina Haeusl,DE,98
+1999-01-16,Gail Kelly,CA,1
+1999-01-16,Christiane Mitterwallner,AT,150
+1999-01-16,Renate Goetschl,AT,116
+1999-01-16,Diana Lemberger,DE,8
+1999-01-16,Monika Tschirky,CH,16
+1999-01-16,Corinne Rey Bellet,CH,207
+1999-01-16,Sara Maude Boucher,CA,4
+1999-01-16,Barbara Merlin,IT,15
+1999-01-16,Bibiana Perez,IT,31
+1999-01-16,Michaela Dorfmeister,AT,168
+1999-01-16,Anja Kalan,SK,6
+1999-01-16,Melanie Turgeon,CA,13
+1999-01-22,Barbara Merlin,IT,15
+1999-01-22,Spela Bracun,SK,22
+1999-01-22,Diana Lemberger,DE,8
+1999-01-22,Florence Masnada,FR,37
+1999-01-22,Ingrid Jacquemod,FR,23
+1999-01-22,Merete Fjeldavlie,NO,1
+1999-01-22,Brigitte Obermoser,AT,90
+1999-01-22,Trude Gimle,NO,13
+1999-01-22,Elena Tagliabue,IT,26
+1999-01-22,Alexandra Meissnitzer,AT,389
+1999-01-22,Regina Haeusl,DE,122
+1999-01-22,Patrizia Bassis,IT,54
+1999-01-22,Marianna Salchinger,AT,62
+1999-01-22,Stefanie Schuster,AT,104
+1999-01-22,Sibylle Brauner,DE,112
+1999-01-22,Daniela Ceccarelli,IT,36
+1999-01-22,Gail Kelly,CA,1
+1999-01-22,Karen Putzer,IT,74
+1999-01-22,Alessandra Merlin,IT,24
+1999-01-22,Sara Maude Boucher,CA,4
+1999-01-22,Hilde Gerg,DE,251
+1999-01-22,Monika Tschirky,CH,16
+1999-01-22,Kirsten L Clark,US,7
+1999-01-22,Christiane Mitterwallner,AT,164
+1999-01-22,Corinne Rey Bellet,CH,227
+1999-01-22,Megan Gerety,US,68
+1999-01-22,Catherine Borghi,CH,55
+1999-01-22,Linda Ydeskog,SE,36
+1999-01-22,Kristine Kristiansen,NO,20
+1999-01-22,Renate Goetschl,AT,216
+1999-01-22,Karin Blaser,AT,79
+1999-01-22,Melanie Turgeon,CA,18
+1999-01-22,Melanie Suchet,FR,27
+1999-01-22,Martina Ertl,DE,340
+1999-01-22,Regine Cavagnoud,FR,235
+1999-01-22,Carole Montillet,FR,77
+1999-01-22,Andrine Flemmen,NO,22
+1999-01-22,Isolde Kostner,IT,152
+1999-01-22,Jonna Mendes,US,20
+1999-01-22,Pernilla Wiberg,SE,240
+1999-01-22,Bibiana Perez,IT,46
+1999-01-22,Marianne Brechu,FR,29
+1999-01-22,Michaela Dorfmeister,AT,213
+1999-01-22,Sylviane Berthod,CH,130
+1999-01-22,Grete Stroem,NO,8
+1999-01-22,Kathleen Monahan,US,97
+1999-01-22,Janica Kostelic,HR,20
+1999-01-22,Nadia Styger,CH,0
+1999-01-22,Caroline Dummer Waidhofer,AT,0
+1999-01-22,Mojca Suhadolc,SK,85
+1999-01-22,Romina Dei Cas,IT,0
+1999-01-22,Petra Haltmayr,DE,0
+1999-01-22,Celine Daetwyler,CH,0
+1999-01-22,Tanja Schneider,AT,128
+1999-01-22,Caroline Lalive,US,0
+1999-01-22,Anja Kalan,SK,6
+1999-01-22,Ingeborg H. Marken,NO,78
+1999-01-23,Nadia Styger,CH,0
+1999-01-23,Romina Dei Cas,IT,0
+1999-01-23,Linda Ydeskog,SE,36
+1999-01-23,Merete Fjeldavlie,NO,1
+1999-01-23,Florence Masnada,FR,37
+1999-01-23,Barbara Merlin,IT,15
+1999-01-23,Catherine Borghi,CH,55
+1999-01-23,Caroline Dummer Waidhofer,AT,0
+1999-01-23,Petra Haltmayr,DE,0
+1999-01-23,Ingrid Jacquemod,FR,23
+1999-01-23,Tanja Schneider,AT,128
+1999-01-23,Trude Gimle,NO,13
+1999-01-23,Grete Stroem,NO,8
+1999-01-23,Isolde Kostner,IT,152
+1999-01-23,Diana Lemberger,DE,8
+1999-01-23,Sara Maude Boucher,CA,4
+1999-01-23,Patrizia Bassis,IT,54
+1999-01-23,Daniela Ceccarelli,IT,36
+1999-01-23,Alessandra Merlin,IT,24
+1999-01-23,Marianna Salchinger,AT,62
+1999-01-23,Kirsten L Clark,US,7
+1999-01-23,Stefanie Schuster,AT,104
+1999-01-23,Gail Kelly,CA,1
+1999-01-23,Christiane Mitterwallner,AT,164
+1999-01-23,Martina Ertl,DE,340
+1999-01-23,Mojca Suhadolc,SK,85
+1999-01-23,Ingeborg H. Marken,NO,78
+1999-01-23,Anja Kalan,SK,9
+1999-01-23,Megan Gerety,US,97
+1999-01-23,Elena Tagliabue,IT,31
+1999-01-23,Sylviane Berthod,CH,210
+1999-01-23,Monika Tschirky,CH,23
+1999-01-23,Regine Cavagnoud,FR,335
+1999-01-23,Caroline Lalive,US,8
+1999-01-23,Hilde Gerg,DE,260
+1999-01-23,Corinne Rey Bellet,CH,259
+1999-01-23,Brigitte Obermoser,AT,100
+1999-01-23,Bibiana Perez,IT,57
+1999-01-23,Renate Goetschl,AT,228
+1999-01-23,Janica Kostelic,HR,65
+1999-01-23,Marianne Brechu,FR,44
+1999-01-23,Andrine Flemmen,NO,35
+1999-01-23,Karen Putzer,IT,124
+1999-01-23,Kathleen Monahan,US,103
+1999-01-23,Regina Haeusl,DE,158
+1999-01-23,Celine Daetwyler,CH,1
+1999-01-23,Melanie Turgeon,CA,58
+1999-01-23,Carole Montillet,FR,103
+1999-01-23,Karin Blaser,AT,103
+1999-01-23,Melanie Suchet,FR,41
+1999-01-23,Pernilla Wiberg,SE,262
+1999-01-23,Jonna Mendes,US,22
+1999-01-23,Kristine Kristiansen,NO,38
+1999-01-23,Spela Bracun,SK,26
+1999-01-23,Sibylle Brauner,DE,128
+1999-01-23,Alexandra Meissnitzer,AT,409
+1999-01-23,Michaela Dorfmeister,AT,273
+1999-03-06,Brigitte Obermoser,AT,136
+1999-03-06,Alessandra Merlin,IT,24
+1999-03-06,Megan Gerety,US,102
+1999-03-06,Sara Maude Boucher,CA,4
+1999-03-06,Diana Lemberger,DE,8
+1999-03-06,Grete Stroem,NO,8
+1999-03-06,Janica Kostelic,HR,65
+1999-03-06,Celine Daetwyler,CH,1
+1999-03-06,Caroline Lalive,US,8
+1999-03-06,Anja Kalan,SK,9
+1999-03-06,Linda Ydeskog,SE,36
+1999-03-06,Merete Fjeldavlie,NO,1
+1999-03-06,Spela Bracun,SK,26
+1999-03-06,Marianne Brechu,FR,44
+1999-03-06,Karen Putzer,IT,124
+1999-03-06,Barbara Merlin,IT,15
+1999-03-06,Jonna Mendes,US,22
+1999-03-06,Catherine Borghi,CH,55
+1999-03-06,Monika Tschirky,CH,23
+1999-03-06,Martina Ertl,DE,340
+1999-03-06,Gail Kelly,CA,1
+1999-03-06,Trude Gimle,NO,13
+1999-03-06,Hilde Gerg,DE,300
+1999-03-06,Elena Tagliabue,IT,31
+1999-03-06,Patrizia Bassis,IT,57
+1999-03-06,Carole Montillet,FR,107
+1999-03-06,Caroline Dummer Waidhofer,AT,2
+1999-03-06,Nadia Styger,CH,1
+1999-03-06,Daniela Ceccarelli,IT,42
+1999-03-06,Kathleen Monahan,US,163
+1999-03-06,Renate Goetschl,AT,308
+1999-03-06,Alexandra Meissnitzer,AT,459
+1999-03-06,Petra Haltmayr,DE,7
+1999-03-06,Michaela Dorfmeister,AT,373
+1999-03-06,Melanie Turgeon,CA,66
+1999-03-06,Mojca Suhadolc,SK,94
+1999-03-06,Florence Masnada,FR,47
+1999-03-06,Romina Dei Cas,IT,11
+1999-03-06,Melanie Suchet,FR,53
+1999-03-06,Corinne Rey Bellet,CH,272
+1999-03-06,Regina Haeusl,DE,203
+1999-03-06,Isolde Kostner,IT,152
+1999-03-06,Regine Cavagnoud,FR,335
+1999-03-06,Marianna Salchinger,AT,62
+1999-03-06,Stefanie Schuster,AT,104
+1999-03-06,Pernilla Wiberg,SE,262
+1999-03-06,Sibylle Brauner,DE,160
+1999-03-06,Ingrid Jacquemod,FR,23
+1999-03-06,Karin Blaser,AT,132
+1999-03-06,Christiane Mitterwallner,AT,188
+1999-03-06,Sylviane Berthod,CH,232
+1999-03-06,Tanja Schneider,AT,148
+1999-03-06,Andrine Flemmen,NO,53
+1999-03-06,Kristine Kristiansen,NO,54
+1999-03-06,Kirsten L Clark,US,21
+1999-03-06,Bibiana Perez,IT,83
+1999-03-06,Ingeborg H. Marken,NO,93

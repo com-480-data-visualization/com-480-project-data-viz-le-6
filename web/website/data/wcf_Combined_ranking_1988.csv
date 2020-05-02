@@ -1,55 +1,39 @@
 date,name,ath_country,value
-1988-01-17,Hubert Strolz,AT,25
-1988-01-17,Berni Huber,DE,5
-1988-01-17,Mike Brown,US,0
-1988-01-17,William Besse,CH,4
-1988-01-17,Bill Hudson,US,0
-1988-01-17,Steven Lee,AU,3
-1988-01-17,Luc Genolet,CH,0
-1988-01-17,Marian Bires,SK,6
-1988-01-17,Ralf Socher,CA,2
-1988-01-17,Mads Boedkner,DK,1
-1988-01-17,Rob Boyd,CA,0
-1988-01-17,Pirmin Zurbriggen,CH,0
-1988-01-17,Lars Goeran Halvarsson,SE,0
-1988-01-17,Peter Mueller,CH,0
-1988-01-17,Lars Boerje Eriksson,SE,0
-1988-01-17,Jeff Olson,US,0
-1988-01-17,Franz Heinzer,CH,0
-1988-01-17,Xavier Gigandet,CH,0
-1988-01-17,Peter Jurko,SK,11
-1988-01-17,Denis Rey,FR,8
-1988-01-17,Markus Wasmeier,DE,20
-1988-01-17,Torjus Berge,NO,9
-1988-01-17,Toni Buergler,CH,9
-1988-01-17,Ole Kristian Furuseth,NO,10
-1988-01-17,Frank Piccard,FR,15
-1988-01-17,Felix McGrath,US,7
-1988-01-17,Guenther Mader,AT,12
-1988-03-20,Steven Lee,AU,3
-1988-03-20,William Besse,CH,4
-1988-03-20,Berni Huber,DE,5
-1988-03-20,Ole Kristian Furuseth,NO,10
-1988-03-20,Felix McGrath,US,7
-1988-03-20,Torjus Berge,NO,9
-1988-03-20,Toni Buergler,CH,9
-1988-03-20,Markus Wasmeier,DE,20
-1988-03-20,Marian Bires,SK,6
-1988-03-20,Peter Jurko,SK,11
-1988-03-20,Denis Rey,FR,11
-1988-03-20,Bill Hudson,US,2
-1988-03-20,Ralf Socher,CA,2
-1988-03-20,Luc Genolet,CH,4
-1988-03-20,Jeff Olson,US,5
-1988-03-20,Rob Boyd,CA,6
-1988-03-20,Xavier Gigandet,CH,7
-1988-03-20,Franz Heinzer,CH,8
-1988-03-20,Lars Boerje Eriksson,SE,9
-1988-03-20,Peter Mueller,CH,10
-1988-03-20,Lars Goeran Halvarsson,SE,11
-1988-03-20,Frank Piccard,FR,27
-1988-03-20,Hubert Strolz,AT,40
-1988-03-20,Pirmin Zurbriggen,CH,20
-1988-03-20,Guenther Mader,AT,37
-1988-03-20,Mike Brown,US,1
-1988-03-20,Mads Boedkner,DK,1
+1987-12-13,Brigitte Oertli,CH,25
+1987-12-13,Regine Moesenlechner,DE,0
+1987-12-13,Christina Meier,DE,0
+1987-12-13,Kerrin Lee- Gartner,CA,0
+1987-12-13,Michela Figini,CH,0
+1987-12-13,Ulrike Stangassinger,DE,0
+1987-12-13,Ulrike Maier,AT,0
+1987-12-13,Blanca Fernandez Ochoa,ES,0
+1987-12-13,Vreni Schneider,CH,0
+1987-12-13,Sachiko Yamamoto,JP,5
+1987-12-13,Miriam Vogt,DE,7
+1987-12-13,Barbara Sadleder,AT,8
+1987-12-13,Pam Fletcher,US,6
+1987-12-13,Maria Walliser,CH,10
+1987-12-13,Lucia Medzihradska,SK,11
+1987-12-13,Anita Wachter,AT,20
+1987-12-13,Michaela Gerg-Leitner,DE,12
+1987-12-13,Petra Kronberger,AT,9
+1987-12-13,Karen Percy,CA,15
+1988-01-24,Karen Percy,CA,24
+1988-01-24,Miriam Vogt,DE,8
+1988-01-24,Lucia Medzihradska,SK,15
+1988-01-24,Sachiko Yamamoto,JP,5
+1988-01-24,Pam Fletcher,US,6
+1988-01-24,Barbara Sadleder,AT,8
+1988-01-24,Michaela Gerg-Leitner,DE,12
+1988-01-24,Brigitte Oertli,CH,50
+1988-01-24,Petra Kronberger,AT,24
+1988-01-24,Anita Wachter,AT,32
+1988-01-24,Kerrin Lee- Gartner,CA,5
+1988-01-24,Blanca Fernandez Ochoa,ES,11
+1988-01-24,Maria Walliser,CH,16
+1988-01-24,Christina Meier,DE,3
+1988-01-24,Michela Figini,CH,7
+1988-01-24,Ulrike Stangassinger,DE,8
+1988-01-24,Ulrike Maier,AT,10
+1988-01-24,Vreni Schneider,CH,20
+1988-01-24,Regine Moesenlechner,DE,2

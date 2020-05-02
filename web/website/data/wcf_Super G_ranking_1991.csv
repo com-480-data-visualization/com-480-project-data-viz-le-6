@@ -1,91 +1,196 @@
 date,name,ath_country,value
-1990-12-02,Frank Piccard,FR,25
-1990-12-02,Karl Alpiger,CH,0
-1990-12-02,Asgeir Linberg,NO,4
-1990-12-02,Hubert Strolz,AT,3
-1990-12-02,Peter Runggaldier,IT,2
-1990-12-02,Guenther Mader,AT,1
-1990-12-02,Josef Polig,IT,1
-1990-12-02,Marc Girardelli,LU,0
-1990-12-02,Lasse Arnesen,NO,0
-1990-12-02,Kristian Ghedina,IT,0
-1990-12-02,Luc Alphand,FR,0
-1990-12-02,Lasse Kjus,NO,0
-1990-12-02,Urs Kaelin,CH,0
-1990-12-02,Didrik Marksten,NO,0
-1990-12-02,Markus Wasmeier,DE,0
-1990-12-02,Patrick Holzer,IT,0
-1990-12-02,Daniel Mahrer,CH,0
-1990-12-02,Rainer Salzgeber,AT,0
-1990-12-02,Niklas Henning,SE,0
-1990-12-02,Patrick Ortlieb,AT,0
-1990-12-02,Lars Boerje Eriksson,SE,6
-1990-12-02,Steve Locher,CH,7
-1990-12-02,Paul Accola,CH,5
-1990-12-02,Jean Luc Cretier,FR,11
-1990-12-02,Franz Heinzer,CH,20
-1990-12-02,Hannes Zehentner,DE,10
-1990-12-02,Kjetil Andre Aamodt,NO,8
-1990-12-02,Stephan Eberharter,AT,15
-1990-12-02,Ole Kristian Furuseth,NO,10
-1990-12-02,Atle Skaardal,NO,12
-1991-01-06,Atle Skaardal,NO,19
-1991-01-06,Luc Alphand,FR,9
-1991-01-06,Patrick Holzer,IT,0
-1991-01-06,Daniel Mahrer,CH,0
-1991-01-06,Rainer Salzgeber,AT,0
-1991-01-06,Marc Girardelli,LU,15
-1991-01-06,Niklas Henning,SE,0
-1991-01-06,Franz Heinzer,CH,40
-1991-01-06,Patrick Ortlieb,AT,0
-1991-01-06,Guenther Mader,AT,26
-1991-01-06,Lasse Arnesen,NO,12
-1991-01-06,Peter Runggaldier,IT,3
-1991-01-06,Kjetil Andre Aamodt,NO,19
-1991-01-06,Asgeir Linberg,NO,4
-1991-01-06,Paul Accola,CH,5
-1991-01-06,Josef Polig,IT,9
-1991-01-06,Lasse Kjus,NO,6
-1991-01-06,Urs Kaelin,CH,6
-1991-01-06,Lars Boerje Eriksson,SE,6
-1991-01-06,Steve Locher,CH,7
-1991-01-06,Hubert Strolz,AT,4
-1991-01-06,Markus Wasmeier,DE,0
-1991-01-06,Ole Kristian Furuseth,NO,10
-1991-01-06,Kristian Ghedina,IT,10
-1991-01-06,Stephan Eberharter,AT,18
-1991-01-06,Karl Alpiger,CH,0
-1991-01-06,Didrik Marksten,NO,2
-1991-01-06,Jean Luc Cretier,FR,11
-1991-01-06,Hannes Zehentner,DE,14
-1991-01-06,Frank Piccard,FR,25
-1991-03-17,Kjetil Andre Aamodt,NO,19
-1991-03-17,Steve Locher,CH,7
-1991-03-17,Lars Boerje Eriksson,SE,6
-1991-03-17,Asgeir Linberg,NO,4
-1991-03-17,Hubert Strolz,AT,4
-1991-03-17,Peter Runggaldier,IT,3
-1991-03-17,Guenther Mader,AT,26
-1991-03-17,Marc Girardelli,LU,15
-1991-03-17,Lasse Arnesen,NO,12
-1991-03-17,Kristian Ghedina,IT,10
-1991-03-17,Lasse Kjus,NO,6
-1991-03-17,Urs Kaelin,CH,6
-1991-03-17,Ole Kristian Furuseth,NO,10
-1991-03-17,Jean Luc Cretier,FR,11
-1991-03-17,Karl Alpiger,CH,1
-1991-03-17,Frank Piccard,FR,27
-1991-03-17,Josef Polig,IT,12
-1991-03-17,Hannes Zehentner,DE,18
-1991-03-17,Patrick Ortlieb,AT,5
-1991-03-17,Luc Alphand,FR,15
-1991-03-17,Niklas Henning,SE,7
-1991-03-17,Paul Accola,CH,13
-1991-03-17,Didrik Marksten,NO,12
-1991-03-17,Rainer Salzgeber,AT,12
-1991-03-17,Daniel Mahrer,CH,12
-1991-03-17,Stephan Eberharter,AT,33
-1991-03-17,Patrick Holzer,IT,20
-1991-03-17,Markus Wasmeier,DE,25
-1991-03-17,Franz Heinzer,CH,40
-1991-03-17,Atle Skaardal,NO,28
+1990-12-09,Petra Kronberger,AT,25
+1990-12-09,Sylvia Eder,AT,6
+1990-12-09,Barbara Sadleder,AT,5
+1990-12-09,Nathalie Bouvier,FR,4
+1990-12-09,Stefanie Schuster,AT,3
+1990-12-09,Michaela Gerg-Leitner,DE,2
+1990-12-09,Chantal Bournissen,CH,1
+1990-12-09,Lucie Laroche,CA,0
+1990-12-09,Katharina Gutensohn,DE,0
+1990-12-09,Kate Pace,CA,0
+1990-12-09,Marie - Pierre Gatel,FR,0
+1990-12-09,Kristin Krone,US,0
+1990-12-09,Ulla Lodzinja,RU,0
+1990-12-09,Veronika Stallmaier Wallinger,AT,0
+1990-12-09,Sabine Ginther,AT,0
+1990-12-09,Eva Twardokens,US,0
+1990-12-09,Edith Thys,US,0
+1990-12-09,Katja Seizinger,DE,0
+1990-12-09,Heidi Zurbriggen,CH,0
+1990-12-09,Ulrike Stangassinger,DE,0
+1990-12-09,Merete Fjeldavlie,NO,0
+1990-12-09,Ulrike Maier,AT,0
+1990-12-09,Karin Koellerer,AT,0
+1990-12-09,Traudl Haecher,DE,0
+1990-12-09,Regine Moesenlechner,DE,0
+1990-12-09,Svetlana Gladishiva,RU,0
+1990-12-09,Warwara Zelenskaja,RU,0
+1990-12-09,Miriam Vogt,DE,0
+1990-12-09,Michelle Ruthven Mckendry,CA,0
+1990-12-09,Emi Kawabata,JP,0
+1990-12-09,Hilary Lindh,US,7
+1990-12-09,Zoe Haas,CH,8
+1990-12-09,Romaine Fournier,CH,0
+1990-12-09,Carole Merle,FR,12
+1990-12-09,Karin Dedler,DE,10
+1990-12-09,Anita Wachter,AT,15
+1990-12-09,Diann Roffe Steinrotter,US,11
+1990-12-09,Kerrin Lee- Gartner,CA,9
+1990-12-09,Sigrid Wolf,AT,20
+1990-12-16,Merete Fjeldavlie,NO,0
+1990-12-16,Kate Pace,CA,9
+1990-12-16,Karin Koellerer,AT,0
+1990-12-16,Carole Merle,FR,23
+1990-12-16,Ulrike Maier,AT,0
+1990-12-16,Sylvia Eder,AT,18
+1990-12-16,Svetlana Gladishiva,RU,0
+1990-12-16,Warwara Zelenskaja,RU,0
+1990-12-16,Miriam Vogt,DE,0
+1990-12-16,Edith Thys,US,1
+1990-12-16,Michelle Ruthven Mckendry,CA,0
+1990-12-16,Traudl Haecher,DE,0
+1990-12-16,Regine Moesenlechner,DE,0
+1990-12-16,Ulrike Stangassinger,DE,0
+1990-12-16,Heidi Zurbriggen,CH,0
+1990-12-16,Katja Seizinger,DE,0
+1990-12-16,Lucie Laroche,CA,15
+1990-12-16,Michaela Gerg-Leitner,DE,2
+1990-12-16,Stefanie Schuster,AT,3
+1990-12-16,Nathalie Bouvier,FR,4
+1990-12-16,Petra Kronberger,AT,45
+1990-12-16,Barbara Sadleder,AT,5
+1990-12-16,Hilary Lindh,US,7
+1990-12-16,Zoe Haas,CH,8
+1990-12-16,Kerrin Lee- Gartner,CA,9
+1990-12-16,Chantal Bournissen,CH,26
+1990-12-16,Anita Wachter,AT,15
+1990-12-16,Romaine Fournier,CH,0
+1990-12-16,Emi Kawabata,JP,0
+1990-12-16,Karin Dedler,DE,10
+1990-12-16,Eva Twardokens,US,2
+1990-12-16,Ulla Lodzinja,RU,5
+1990-12-16,Veronika Stallmaier Wallinger,AT,5
+1990-12-16,Marie - Pierre Gatel,FR,7
+1990-12-16,Diann Roffe Steinrotter,US,11
+1990-12-16,Kristin Krone,US,6
+1990-12-16,Sigrid Wolf,AT,30
+1990-12-16,Sabine Ginther,AT,3
+1990-12-16,Katharina Gutensohn,DE,9
+1991-01-19,Michelle Ruthven Mckendry,CA,0
+1991-01-19,Miriam Vogt,DE,0
+1991-01-19,Svetlana Gladishiva,RU,0
+1991-01-19,Regine Moesenlechner,DE,0
+1991-01-19,Traudl Haecher,DE,0
+1991-01-19,Romaine Fournier,CH,0
+1991-01-19,Emi Kawabata,JP,0
+1991-01-19,Edith Thys,US,1
+1991-01-19,Warwara Zelenskaja,RU,0
+1991-01-19,Veronika Stallmaier Wallinger,AT,5
+1991-01-19,Sabine Ginther,AT,3
+1991-01-19,Ulla Lodzinja,RU,5
+1991-01-19,Kristin Krone,US,6
+1991-01-19,Marie - Pierre Gatel,FR,7
+1991-01-19,Kate Pace,CA,9
+1991-01-19,Lucie Laroche,CA,15
+1991-01-19,Chantal Bournissen,CH,26
+1991-01-19,Stefanie Schuster,AT,3
+1991-01-19,Sylvia Eder,AT,18
+1991-01-19,Hilary Lindh,US,7
+1991-01-19,Diann Roffe Steinrotter,US,11
+1991-01-19,Anita Wachter,AT,15
+1991-01-19,Eva Twardokens,US,2
+1991-01-19,Sigrid Wolf,AT,30
+1991-01-19,Ulrike Stangassinger,DE,9
+1991-01-19,Petra Kronberger,AT,70
+1991-01-19,Barbara Sadleder,AT,13
+1991-01-19,Katharina Gutensohn,DE,15
+1991-01-19,Merete Fjeldavlie,NO,5
+1991-01-19,Heidi Zurbriggen,CH,10
+1991-01-19,Ulrike Maier,AT,4
+1991-01-19,Karin Dedler,DE,13
+1991-01-19,Karin Koellerer,AT,2
+1991-01-19,Kerrin Lee- Gartner,CA,10
+1991-01-19,Zoe Haas,CH,19
+1991-01-19,Nathalie Bouvier,FR,11
+1991-01-19,Katja Seizinger,DE,12
+1991-01-19,Michaela Gerg-Leitner,DE,22
+1991-01-19,Carole Merle,FR,38
+1991-02-09,Edith Thys,US,1
+1991-02-09,Emi Kawabata,JP,0
+1991-02-09,Traudl Haecher,DE,9
+1991-02-09,Romaine Fournier,CH,0
+1991-02-09,Petra Kronberger,AT,70
+1991-02-09,Diann Roffe Steinrotter,US,11
+1991-02-09,Zoe Haas,CH,19
+1991-02-09,Hilary Lindh,US,7
+1991-02-09,Sylvia Eder,AT,18
+1991-02-09,Michelle Ruthven Mckendry,CA,0
+1991-02-09,Miriam Vogt,DE,0
+1991-02-09,Stefanie Schuster,AT,3
+1991-02-09,Ulrike Stangassinger,DE,9
+1991-02-09,Lucie Laroche,CA,15
+1991-02-09,Katharina Gutensohn,DE,15
+1991-02-09,Karin Koellerer,AT,2
+1991-02-09,Anita Wachter,AT,23
+1991-02-09,Marie - Pierre Gatel,FR,7
+1991-02-09,Kristin Krone,US,6
+1991-02-09,Merete Fjeldavlie,NO,5
+1991-02-09,Ulla Lodzinja,RU,5
+1991-02-09,Veronika Stallmaier Wallinger,AT,5
+1991-02-09,Eva Twardokens,US,2
+1991-02-09,Barbara Sadleder,AT,13
+1991-02-09,Kate Pace,CA,9
+1991-02-09,Sigrid Wolf,AT,30
+1991-02-09,Regine Moesenlechner,DE,7
+1991-02-09,Carole Merle,FR,63
+1991-02-09,Michaela Gerg-Leitner,DE,37
+1991-02-09,Nathalie Bouvier,FR,23
+1991-02-09,Katja Seizinger,DE,23
+1991-02-09,Warwara Zelenskaja,RU,1
+1991-02-09,Svetlana Gladishiva,RU,2
+1991-02-09,Ulrike Maier,AT,8
+1991-02-09,Chantal Bournissen,CH,30
+1991-02-09,Karin Dedler,DE,33
+1991-02-09,Heidi Zurbriggen,CH,15
+1991-02-09,Sabine Ginther,AT,13
+1991-02-09,Kerrin Lee- Gartner,CA,16
+1991-02-24,Hilary Lindh,US,7
+1991-02-24,Barbara Sadleder,AT,13
+1991-02-24,Nathalie Bouvier,FR,23
+1991-02-24,Stefanie Schuster,AT,3
+1991-02-24,Chantal Bournissen,CH,30
+1991-02-24,Katharina Gutensohn,DE,15
+1991-02-24,Kate Pace,CA,9
+1991-02-24,Marie - Pierre Gatel,FR,7
+1991-02-24,Kristin Krone,US,6
+1991-02-24,Ulla Lodzinja,RU,5
+1991-02-24,Eva Twardokens,US,2
+1991-02-24,Heidi Zurbriggen,CH,15
+1991-02-24,Ulrike Stangassinger,DE,9
+1991-02-24,Merete Fjeldavlie,NO,5
+1991-02-24,Ulrike Maier,AT,8
+1991-02-24,Karin Koellerer,AT,2
+1991-02-24,Zoe Haas,CH,19
+1991-02-24,Karin Dedler,DE,33
+1991-02-24,Anita Wachter,AT,23
+1991-02-24,Veronika Stallmaier Wallinger,AT,10
+1991-02-24,Romaine Fournier,CH,4
+1991-02-24,Regine Moesenlechner,DE,10
+1991-02-24,Michelle Ruthven Mckendry,CA,6
+1991-02-24,Kerrin Lee- Gartner,CA,18
+1991-02-24,Traudl Haecher,DE,20
+1991-02-24,Svetlana Gladishiva,RU,2
+1991-02-24,Emi Kawabata,JP,1
+1991-02-24,Miriam Vogt,DE,12
+1991-02-24,Katja Seizinger,DE,33
+1991-02-24,Sabine Ginther,AT,28
+1991-02-24,Lucie Laroche,CA,24
+1991-02-24,Edith Thys,US,21
+1991-02-24,Sylvia Eder,AT,26
+1991-02-24,Carole Merle,FR,88
+1991-02-24,Michaela Gerg-Leitner,DE,44
+1991-02-24,Petra Kronberger,AT,70
+1991-02-24,Sigrid Wolf,AT,30
+1991-02-24,Diann Roffe Steinrotter,US,11
+1991-02-24,Warwara Zelenskaja,RU,1

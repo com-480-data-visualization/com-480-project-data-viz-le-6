@@ -1,131 +1,181 @@
 date,name,ath_country,value
-1968-01-13,Gerhard Nenning,AT,25
-1968-01-13,Rudi Sailer,AT,3
-1968-01-13,Guy Perillat,FR,2
-1968-01-13,Egon Zimmermann,AT,1
-1968-01-13,Jean Claude Killy,FR,0
-1968-01-13,Andreas Sprecher,CH,0
-1968-01-13,Bill Kidd,US,0
-1968-01-13,C. Leitner,DE,0
-1968-01-13,Gerhard Mussner,IT,0
-1968-01-13,Bernard Orcel,FR,4
-1968-01-13,Heini Messner,AT,0
-1968-01-13,Gerhard Prinzing,DE,0
-1968-01-13,Kurt Huggler,CH,0
-1968-01-13,Franz Vogler,DE,0
-1968-01-13,Hansjoerg Schlager,DE,0
-1968-01-13,Hans Peter Rohr,CH,0
-1968-01-13,Hans Zingre,CH,0
-1968-01-13,Michel Daetwyler,CH,0
-1968-01-13,Vladimir Spider Sabich,US,0
-1968-01-13,Ivo Mahlknecht,IT,0
-1968-01-13,Dumeng Giovanoli,CH,6
-1968-01-13,Ken Phelps,US,0
-1968-01-13,Jos Minsch,CH,8
-1968-01-13,Jean Daniel Daetwyler,CH,11
-1968-01-13,Karl Schranz,AT,20
-1968-01-13,Edmund Bruggmann,CH,15
-1968-01-20,Franz Vogler,DE,0
-1968-01-20,Ken Phelps,US,0
-1968-01-20,Michel Daetwyler,CH,0
-1968-01-20,Hans Zingre,CH,0
-1968-01-20,Hans Peter Rohr,CH,0
-1968-01-20,Hansjoerg Schlager,DE,0
-1968-01-20,Bernard Orcel,FR,12
-1968-01-20,Andreas Sprecher,CH,15
-1968-01-20,Kurt Huggler,CH,0
-1968-01-20,Gerhard Prinzing,DE,0
-1968-01-20,Ivo Mahlknecht,IT,0
-1968-01-20,Jean Claude Killy,FR,20
-1968-01-20,Heini Messner,AT,0
-1968-01-20,Egon Zimmermann,AT,1
-1968-01-20,Guy Perillat,FR,2
-1968-01-20,Rudi Sailer,AT,3
-1968-01-20,Gerhard Nenning,AT,50
-1968-01-20,Edmund Bruggmann,CH,16
-1968-01-20,Karl Schranz,AT,31
-1968-01-20,Vladimir Spider Sabich,US,0
-1968-01-20,Dumeng Giovanoli,CH,6
-1968-01-20,Jos Minsch,CH,10
-1968-01-20,Bill Kidd,US,6
-1968-01-20,C. Leitner,DE,4
-1968-01-20,Jean Daniel Daetwyler,CH,11
-1968-01-20,Gerhard Mussner,IT,4
-1968-02-09,Vladimir Spider Sabich,US,0
-1968-02-09,Ken Phelps,US,0
-1968-02-09,Michel Daetwyler,CH,0
-1968-02-09,Hans Zingre,CH,0
-1968-02-09,Hans Peter Rohr,CH,0
-1968-02-09,Hansjoerg Schlager,DE,0
-1968-02-09,Jos Minsch,CH,10
-1968-02-09,Gerhard Mussner,IT,4
-1968-02-09,C. Leitner,DE,4
-1968-02-09,Bill Kidd,US,6
-1968-02-09,Andreas Sprecher,CH,15
-1968-02-09,Egon Zimmermann,AT,1
-1968-02-09,Rudi Sailer,AT,3
-1968-02-09,Dumeng Giovanoli,CH,6
-1968-02-09,Kurt Huggler,CH,0
-1968-02-09,Franz Vogler,DE,0
-1968-02-09,Karl Schranz,AT,39
-1968-02-09,Jean Claude Killy,FR,45
-1968-02-09,Gerhard Prinzing,DE,4
-1968-02-09,Bernard Orcel,FR,15
-1968-02-09,Heini Messner,AT,11
-1968-02-09,Gerhard Nenning,AT,52
-1968-02-09,Edmund Bruggmann,CH,17
-1968-02-09,Ivo Mahlknecht,IT,6
-1968-02-09,Guy Perillat,FR,22
-1968-02-09,Jean Daniel Daetwyler,CH,26
-1968-02-24,Vladimir Spider Sabich,US,0
-1968-02-24,Gerhard Nenning,AT,52
-1968-02-24,Edmund Bruggmann,CH,17
-1968-02-24,Jos Minsch,CH,10
-1968-02-24,Ken Phelps,US,0
-1968-02-24,Dumeng Giovanoli,CH,6
-1968-02-24,Egon Zimmermann,AT,1
-1968-02-24,Heini Messner,AT,11
-1968-02-24,Jean Claude Killy,FR,45
-1968-02-24,Franz Vogler,DE,8
-1968-02-24,Ivo Mahlknecht,IT,6
-1968-02-24,Bill Kidd,US,6
-1968-02-24,C. Leitner,DE,4
-1968-02-24,Gerhard Mussner,IT,4
-1968-02-24,Gerhard Prinzing,DE,4
-1968-02-24,Andreas Sprecher,CH,15
-1968-02-24,Karl Schranz,AT,39
-1968-02-24,Bernard Orcel,FR,40
-1968-02-24,Rudi Sailer,AT,9
-1968-02-24,Hansjoerg Schlager,DE,4
-1968-02-24,Kurt Huggler,CH,20
-1968-02-24,Jean Daniel Daetwyler,CH,37
-1968-02-24,Hans Peter Rohr,CH,3
-1968-02-24,Guy Perillat,FR,37
-1968-02-24,Hans Zingre,CH,2
-1968-02-24,Michel Daetwyler,CH,1
-1968-03-15,Ken Phelps,US,8
-1968-03-15,Egon Zimmermann,AT,1
-1968-03-15,Andreas Sprecher,CH,15
-1968-03-15,Gerhard Mussner,IT,4
-1968-03-15,Guy Perillat,FR,37
-1968-03-15,Ivo Mahlknecht,IT,6
-1968-03-15,Gerhard Prinzing,DE,4
-1968-03-15,Kurt Huggler,CH,20
-1968-03-15,Hansjoerg Schlager,DE,4
-1968-03-15,Hans Peter Rohr,CH,3
-1968-03-15,C. Leitner,DE,4
-1968-03-15,Bernard Orcel,FR,40
-1968-03-15,Gerhard Nenning,AT,77
-1968-03-15,Jos Minsch,CH,10
-1968-03-15,Edmund Bruggmann,CH,17
-1968-03-15,Heini Messner,AT,31
-1968-03-15,Jean Claude Killy,FR,60
-1968-03-15,Rudi Sailer,AT,10
-1968-03-15,Franz Vogler,DE,10
-1968-03-15,Jean Daniel Daetwyler,CH,40
-1968-03-15,Vladimir Spider Sabich,US,4
-1968-03-15,Hans Zingre,CH,2
-1968-03-15,Bill Kidd,US,17
-1968-03-15,Karl Schranz,AT,47
-1968-03-15,Dumeng Giovanoli,CH,6
-1968-03-15,Michel Daetwyler,CH,1
+1968-01-17,Olga Pall,AT,25
+1968-01-17,K. Buhler,CH,0
+1968-01-17,Giovanna Tiezza,IT,0
+1968-01-17,Marie Cecile Mercier,FR,0
+1968-01-17,Paola Strauss,IT,0
+1968-01-17,Burgi Faerbinger,DE,6
+1968-01-17,Britt Lafforgue,FR,0
+1968-01-17,Jacqueline Rouvier,FR,0
+1968-01-17,Francoise Macchi,FR,0
+1968-01-17,Erica Skinger,US,0
+1968-01-17,Evi Untermoser,AT,0
+1968-01-17,Annie Famose,FR,4
+1968-01-17,Nancy Greene,CA,0
+1968-01-17,Florence Steurer,FR,0
+1968-01-17,Fernande Bochatay,CH,0
+1968-01-17,Felicity Field,GB,0
+1968-01-17,Susy Chaffee,US,0
+1968-01-17,Marielle Goitschel,FR,3
+1968-01-17,Michele Jacot,FR,0
+1968-01-17,Karen Budge,US,0
+1968-01-17,Marie France Jeangeorges,FR,0
+1968-01-17,Isabelle Mir,FR,0
+1968-01-17,Berni Rauter,AT,0
+1968-01-17,Lizi Pall,AT,2
+1968-01-17,Anneroesli Zryd,CH,8
+1968-01-17,Wiltrud Drexel,AT,1
+1968-01-17,Brigitte Seiwald,AT,11
+1968-01-17,Christl Haas,AT,20
+1968-01-17,Divina Galica,GB,15
+1968-01-17,Vreni Inaebnit,CH,0
+1968-01-27,Anneroesli Zryd,CH,9
+1968-01-27,Vreni Inaebnit,CH,0
+1968-01-27,Berni Rauter,AT,0
+1968-01-27,K. Buhler,CH,0
+1968-01-27,Giovanna Tiezza,IT,0
+1968-01-27,Marie Cecile Mercier,FR,0
+1968-01-27,Paola Strauss,IT,0
+1968-01-27,Britt Lafforgue,FR,0
+1968-01-27,Olga Pall,AT,25
+1968-01-27,Erica Skinger,US,0
+1968-01-27,Nancy Greene,CA,0
+1968-01-27,Florence Steurer,FR,0
+1968-01-27,Fernande Bochatay,CH,0
+1968-01-27,Felicity Field,GB,0
+1968-01-27,Wiltrud Drexel,AT,1
+1968-01-27,Lizi Pall,AT,2
+1968-01-27,Burgi Faerbinger,DE,6
+1968-01-27,Brigitte Seiwald,AT,11
+1968-01-27,Jacqueline Rouvier,FR,0
+1968-01-27,Francoise Macchi,FR,0
+1968-01-27,Evi Untermoser,AT,0
+1968-01-27,Marielle Goitschel,FR,14
+1968-01-27,Susy Chaffee,US,3
+1968-01-27,Isabelle Mir,FR,25
+1968-01-27,Michele Jacot,FR,4
+1968-01-27,Christl Haas,AT,35
+1968-01-27,Karen Budge,US,6
+1968-01-27,Divina Galica,GB,17
+1968-01-27,Marie France Jeangeorges,FR,8
+1968-01-27,Annie Famose,FR,24
+1968-02-10,K. Buhler,CH,0
+1968-02-10,Giovanna Tiezza,IT,0
+1968-02-10,Florence Steurer,FR,2
+1968-02-10,Paola Strauss,IT,0
+1968-02-10,Berni Rauter,AT,0
+1968-02-10,Britt Lafforgue,FR,0
+1968-02-10,Isabelle Mir,FR,45
+1968-02-10,Christl Haas,AT,50
+1968-02-10,Marie Cecile Mercier,FR,0
+1968-02-10,Francoise Macchi,FR,0
+1968-02-10,Erica Skinger,US,0
+1968-02-10,Olga Pall,AT,50
+1968-02-10,Divina Galica,GB,17
+1968-02-10,Anneroesli Zryd,CH,9
+1968-02-10,Burgi Faerbinger,DE,6
+1968-02-10,Lizi Pall,AT,2
+1968-02-10,Wiltrud Drexel,AT,1
+1968-02-10,Marie France Jeangeorges,FR,8
+1968-02-10,Karen Budge,US,6
+1968-02-10,Michele Jacot,FR,4
+1968-02-10,Vreni Inaebnit,CH,0
+1968-02-10,Jacqueline Rouvier,FR,0
+1968-02-10,Evi Untermoser,AT,0
+1968-02-10,Susy Chaffee,US,3
+1968-02-10,Annie Famose,FR,32
+1968-02-10,Nancy Greene,CA,1
+1968-02-10,Felicity Field,GB,6
+1968-02-10,Fernande Bochatay,CH,4
+1968-02-10,Brigitte Seiwald,AT,22
+1968-02-10,Marielle Goitschel,FR,17
+1968-02-23,Olga Pall,AT,50
+1968-02-23,Vreni Inaebnit,CH,0
+1968-02-23,Berni Rauter,AT,0
+1968-02-23,K. Buhler,CH,0
+1968-02-23,Giovanna Tiezza,IT,0
+1968-02-23,Marie Cecile Mercier,FR,0
+1968-02-23,Paola Strauss,IT,0
+1968-02-23,Britt Lafforgue,FR,0
+1968-02-23,Jacqueline Rouvier,FR,0
+1968-02-23,Fernande Bochatay,CH,4
+1968-02-23,Felicity Field,GB,6
+1968-02-23,Susy Chaffee,US,3
+1968-02-23,Michele Jacot,FR,4
+1968-02-23,Karen Budge,US,6
+1968-02-23,Isabelle Mir,FR,45
+1968-02-23,Lizi Pall,AT,2
+1968-02-23,Annie Famose,FR,32
+1968-02-23,Burgi Faerbinger,DE,6
+1968-02-23,Francoise Macchi,FR,0
+1968-02-23,Brigitte Seiwald,AT,22
+1968-02-23,Erica Skinger,US,2
+1968-02-23,Christl Haas,AT,70
+1968-02-23,Marie France Jeangeorges,FR,9
+1968-02-23,Divina Galica,GB,32
+1968-02-23,Nancy Greene,CA,26
+1968-02-23,Marielle Goitschel,FR,20
+1968-02-23,Evi Untermoser,AT,11
+1968-02-23,Anneroesli Zryd,CH,17
+1968-02-23,Wiltrud Drexel,AT,5
+1968-02-23,Florence Steurer,FR,8
+1968-03-09,Isabelle Mir,FR,70
+1968-03-09,Divina Galica,GB,32
+1968-03-09,Brigitte Seiwald,AT,22
+1968-03-09,Anneroesli Zryd,CH,17
+1968-03-09,Marielle Goitschel,FR,20
+1968-03-09,Lizi Pall,AT,2
+1968-03-09,Wiltrud Drexel,AT,5
+1968-03-09,Karen Budge,US,6
+1968-03-09,Christl Haas,AT,70
+1968-03-09,Michele Jacot,FR,4
+1968-03-09,Susy Chaffee,US,3
+1968-03-09,Felicity Field,GB,6
+1968-03-09,Fernande Bochatay,CH,4
+1968-03-09,Nancy Greene,CA,26
+1968-03-09,Evi Untermoser,AT,11
+1968-03-09,Erica Skinger,US,2
+1968-03-09,Berni Rauter,AT,0
+1968-03-09,Vreni Inaebnit,CH,0
+1968-03-09,Marie France Jeangeorges,FR,9
+1968-03-09,Olga Pall,AT,50
+1968-03-09,Burgi Faerbinger,DE,6
+1968-03-09,K. Buhler,CH,1
+1968-03-09,Giovanna Tiezza,IT,2
+1968-03-09,Marie Cecile Mercier,FR,3
+1968-03-09,Paola Strauss,IT,4
+1968-03-09,Annie Famose,FR,52
+1968-03-09,Britt Lafforgue,FR,6
+1968-03-09,Jacqueline Rouvier,FR,8
+1968-03-09,Florence Steurer,FR,23
+1968-03-09,Francoise Macchi,FR,15
+1968-03-15,Divina Galica,GB,34
+1968-03-15,Marie France Jeangeorges,FR,9
+1968-03-15,Michele Jacot,FR,4
+1968-03-15,Susy Chaffee,US,3
+1968-03-15,Felicity Field,GB,6
+1968-03-15,Evi Untermoser,AT,11
+1968-03-15,Isabelle Mir,FR,70
+1968-03-15,Francoise Macchi,FR,15
+1968-03-15,Jacqueline Rouvier,FR,8
+1968-03-15,Britt Lafforgue,FR,6
+1968-03-15,Paola Strauss,IT,4
+1968-03-15,Marie Cecile Mercier,FR,3
+1968-03-15,Florence Steurer,FR,23
+1968-03-15,Wiltrud Drexel,AT,5
+1968-03-15,Christl Haas,AT,70
+1968-03-15,Annie Famose,FR,52
+1968-03-15,Burgi Faerbinger,DE,6
+1968-03-15,Anneroesli Zryd,CH,17
+1968-03-15,Nancy Greene,CA,51
+1968-03-15,Olga Pall,AT,70
+1968-03-15,Giovanna Tiezza,IT,2
+1968-03-15,Marielle Goitschel,FR,35
+1968-03-15,Berni Rauter,AT,11
+1968-03-15,Vreni Inaebnit,CH,8
+1968-03-15,Fernande Bochatay,CH,10
+1968-03-15,Karen Budge,US,10
+1968-03-15,Erica Skinger,US,3
+1968-03-15,Brigitte Seiwald,AT,25
+1968-03-15,Lizi Pall,AT,2
+1968-03-15,K. Buhler,CH,1

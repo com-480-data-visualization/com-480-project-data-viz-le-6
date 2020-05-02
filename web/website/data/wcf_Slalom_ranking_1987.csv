@@ -1,377 +1,371 @@
 date,name,ath_country,value
-1986-11-29,Ingemar Stenmark,SE,25
-1986-11-29,Konrad  Kurt Ladstaetter,IT,0
-1986-11-29,Daniel Mougel,FR,0
-1986-11-29,Hubert Strolz,AT,3
-1986-11-29,Roland Pfeifer,AT,0
-1986-11-29,Marc Girardelli,LU,0
-1986-11-29,Peter Roth,DE,0
-1986-11-29,Paul Frommelt,LI,0
-1986-11-29,Niklas Lindqvist,SE,0
-1986-11-29,Markus Wasmeier,DE,0
-1986-11-29,Thomas Stangassinger,AT,4
-1986-11-29,Tetsuya Okabe,JP,0
-1986-11-29,Michael Tritscher,AT,0
-1986-11-29,Marco Tonazzi,IT,0
-1986-11-29,Armin Bittner,DE,5
-1986-11-29,Franck Woerndl,DE,6
-1986-11-29,Roberto Grigis,IT,7
-1986-11-29,Pirmin Zurbriggen,CH,0
-1986-11-29,Christian Gaidet,FR,0
-1986-11-29,Rudolph Nierlich,AT,8
-1986-11-29,Alberto Tomba,IT,0
-1986-11-29,Heinz Holzer,IT,0
-1986-11-29,Johan Wallner,SE,0
-1986-11-29,Guenther Mader,AT,0
-1986-11-29,Ivano Edalini,IT,0
-1986-11-29,Ole Kristian Furuseth,NO,0
-1986-11-29,Stefan Pistor,DE,0
-1986-11-29,Carlo Gerosa,IT,0
-1986-11-29,Florian Beck,DE,0
-1986-11-29,Petar Popangelov,BG,0
-1986-11-29,Gunnar Neuriesser,SE,0
-1986-11-29,Christian Orlainsky,AT,1
-1986-11-29,Rok Petrovic,SK,0
-1986-11-29,Didier Bouvet,FR,0
-1986-11-29,Dietmar Koehlbichler,AT,0
-1986-11-29,Andreas Wenzel,LI,0
-1986-11-29,Felix McGrath,US,0
-1986-11-29,Bernhard Gstrein,AT,0
-1986-11-29,Mathias Berthold,AT,2
-1986-11-29,Robert Ormsby,US,0
-1986-11-29,Oswald Toetsch,IT,9
-1986-11-29,Finn Chr. Jagge,NO,0
-1986-11-29,Joel Gaspoz,CH,11
-1986-11-29,Jonas Nilsson,SE,20
-1986-11-29,Richard Pramotton,IT,15
-1986-11-29,Grega Benedik,SK,10
-1986-11-29,Bojan Krizaj,SK,12
-1986-12-16,Ole Kristian Furuseth,NO,6
-1986-12-16,Hubert Strolz,AT,3
-1986-12-16,Thomas Stangassinger,AT,4
-1986-12-16,Franck Woerndl,DE,6
-1986-12-16,Roberto Grigis,IT,7
-1986-12-16,Rudolph Nierlich,AT,8
-1986-12-16,Oswald Toetsch,IT,9
-1986-12-16,Stefan Pistor,DE,5
-1986-12-16,Grega Benedik,SK,10
-1986-12-16,Johan Wallner,SE,10
-1986-12-16,Richard Pramotton,IT,15
-1986-12-16,Guenther Mader,AT,11
-1986-12-16,Mathias Berthold,AT,2
-1986-12-16,Carlo Gerosa,IT,4
-1986-12-16,Bojan Krizaj,SK,24
-1986-12-16,Florian Beck,DE,3
-1986-12-16,Joel Gaspoz,CH,26
-1986-12-16,Petar Popangelov,BG,2
-1986-12-16,Gunnar Neuriesser,SE,1
-1986-12-16,Ingemar Stenmark,SE,45
-1986-12-16,Ivano Edalini,IT,25
-1986-12-16,Jonas Nilsson,SE,20
-1986-12-16,Christian Orlainsky,AT,1
-1986-12-16,Bernhard Gstrein,AT,0
-1986-12-16,Didier Bouvet,FR,0
-1986-12-16,Marco Tonazzi,IT,0
-1986-12-16,Michael Tritscher,AT,0
-1986-12-16,Tetsuya Okabe,JP,0
-1986-12-16,Markus Wasmeier,DE,0
-1986-12-16,Niklas Lindqvist,SE,0
-1986-12-16,Armin Bittner,DE,14
-1986-12-16,Paul Frommelt,LI,0
-1986-12-16,Rok Petrovic,SK,0
-1986-12-16,Marc Girardelli,LU,0
-1986-12-16,Roland Pfeifer,AT,0
-1986-12-16,Daniel Mougel,FR,0
-1986-12-16,Konrad  Kurt Ladstaetter,IT,0
-1986-12-16,Peter Roth,DE,0
-1986-12-16,Robert Ormsby,US,0
-1986-12-16,Pirmin Zurbriggen,CH,8
-1986-12-16,Christian Gaidet,FR,0
-1986-12-16,Alberto Tomba,IT,0
-1986-12-16,Finn Chr. Jagge,NO,7
-1986-12-16,Andreas Wenzel,LI,0
-1986-12-16,Felix McGrath,US,0
-1986-12-16,Dietmar Koehlbichler,AT,0
-1986-12-16,Heinz Holzer,IT,0
-1986-12-20,Daniel Mougel,FR,0
-1986-12-20,Roland Pfeifer,AT,0
-1986-12-20,Marc Girardelli,LU,0
-1986-12-20,Peter Roth,DE,0
-1986-12-20,Hubert Strolz,AT,3
-1986-12-20,Niklas Lindqvist,SE,0
-1986-12-20,Markus Wasmeier,DE,0
-1986-12-20,Tetsuya Okabe,JP,0
-1986-12-20,Michael Tritscher,AT,0
-1986-12-20,Marco Tonazzi,IT,0
-1986-12-20,Armin Bittner,DE,14
-1986-12-20,Paul Frommelt,LI,0
-1986-12-20,Konrad  Kurt Ladstaetter,IT,0
-1986-12-20,Oswald Toetsch,IT,9
-1986-12-20,Roberto Grigis,IT,7
-1986-12-20,Joel Gaspoz,CH,26
-1986-12-20,Ivano Edalini,IT,25
-1986-12-20,Johan Wallner,SE,10
-1986-12-20,Pirmin Zurbriggen,CH,8
-1986-12-20,Finn Chr. Jagge,NO,7
-1986-12-20,Ole Kristian Furuseth,NO,6
-1986-12-20,Christian Gaidet,FR,0
-1986-12-20,Stefan Pistor,DE,5
-1986-12-20,Carlo Gerosa,IT,4
-1986-12-20,Florian Beck,DE,3
-1986-12-20,Petar Popangelov,BG,2
-1986-12-20,Gunnar Neuriesser,SE,1
-1986-12-20,Robert Ormsby,US,0
-1986-12-20,Alberto Tomba,IT,0
-1986-12-20,Thomas Stangassinger,AT,4
-1986-12-20,Richard Pramotton,IT,15
-1986-12-20,Rudolph Nierlich,AT,8
-1986-12-20,Didier Bouvet,FR,8
-1986-12-20,Christian Orlainsky,AT,10
-1986-12-20,Franck Woerndl,DE,13
-1986-12-20,Mathias Berthold,AT,12
-1986-12-20,Grega Benedik,SK,16
-1986-12-20,Jonas Nilsson,SE,31
-1986-12-20,Dietmar Koehlbichler,AT,5
-1986-12-20,Andreas Wenzel,LI,4
-1986-12-20,Ingemar Stenmark,SE,60
-1986-12-20,Felix McGrath,US,3
-1986-12-20,Guenther Mader,AT,23
-1986-12-20,Bernhard Gstrein,AT,2
-1986-12-20,Heinz Holzer,IT,1
-1986-12-20,Rok Petrovic,SK,20
-1986-12-20,Bojan Krizaj,SK,49
-1986-12-21,Franck Woerndl,DE,24
-1986-12-21,Christian Gaidet,FR,0
-1986-12-21,Konrad  Kurt Ladstaetter,IT,0
-1986-12-21,Daniel Mougel,FR,0
-1986-12-21,Roland Pfeifer,AT,0
-1986-12-21,Marc Girardelli,LU,0
-1986-12-21,Bojan Krizaj,SK,69
-1986-12-21,Richard Pramotton,IT,25
-1986-12-21,Peter Roth,DE,0
-1986-12-21,Paul Frommelt,LI,0
-1986-12-21,Niklas Lindqvist,SE,0
-1986-12-21,Markus Wasmeier,DE,0
-1986-12-21,Ingemar Stenmark,SE,60
-1986-12-21,Hubert Strolz,AT,3
-1986-12-21,Armin Bittner,DE,39
-1986-12-21,Felix McGrath,US,3
-1986-12-21,Christian Orlainsky,AT,10
-1986-12-21,Johan Wallner,SE,10
-1986-12-21,Pirmin Zurbriggen,CH,8
-1986-12-21,Finn Chr. Jagge,NO,7
-1986-12-21,Ole Kristian Furuseth,NO,6
-1986-12-21,Guenther Mader,AT,23
-1986-12-21,Oswald Toetsch,IT,24
-1986-12-21,Stefan Pistor,DE,5
-1986-12-21,Carlo Gerosa,IT,4
-1986-12-21,Florian Beck,DE,3
-1986-12-21,Ivano Edalini,IT,25
-1986-12-21,Petar Popangelov,BG,2
-1986-12-21,Dietmar Koehlbichler,AT,14
-1986-12-21,Joel Gaspoz,CH,38
-1986-12-21,Gunnar Neuriesser,SE,1
-1986-12-21,Andreas Wenzel,LI,4
-1986-12-21,Heinz Holzer,IT,1
-1986-12-21,Tetsuya Okabe,JP,0
-1986-12-21,Roberto Grigis,IT,7
-1986-12-21,Marco Tonazzi,IT,0
-1986-12-21,Bernhard Gstrein,AT,3
-1986-12-21,Alberto Tomba,IT,2
-1986-12-21,Robert Ormsby,US,3
-1986-12-21,Thomas Stangassinger,AT,8
-1986-12-21,Michael Tritscher,AT,0
-1986-12-21,Mathias Berthold,AT,17
-1986-12-21,Didier Bouvet,FR,14
-1986-12-21,Rudolph Nierlich,AT,8
-1986-12-21,Jonas Nilsson,SE,31
-1986-12-21,Grega Benedik,SK,24
-1986-12-21,Rok Petrovic,SK,27
-1987-01-18,Jonas Nilsson,SE,31
-1987-01-18,Tetsuya Okabe,JP,0
-1987-01-18,Markus Wasmeier,DE,0
-1987-01-18,Niklas Lindqvist,SE,0
-1987-01-18,Paul Frommelt,LI,0
-1987-01-18,Heinz Holzer,IT,1
-1987-01-18,Peter Roth,DE,0
-1987-01-18,Marc Girardelli,LU,0
-1987-01-18,Roland Pfeifer,AT,0
-1987-01-18,Daniel Mougel,FR,0
-1987-01-18,Marco Tonazzi,IT,0
-1987-01-18,Robert Ormsby,US,3
-1987-01-18,Michael Tritscher,AT,0
-1987-01-18,Thomas Stangassinger,AT,8
-1987-01-18,Bernhard Gstrein,AT,3
-1987-01-18,Richard Pramotton,IT,25
-1987-01-18,Andreas Wenzel,LI,4
-1987-01-18,Oswald Toetsch,IT,24
-1987-01-18,Gunnar Neuriesser,SE,1
-1987-01-18,Petar Popangelov,BG,2
-1987-01-18,Roberto Grigis,IT,7
-1987-01-18,Florian Beck,DE,3
-1987-01-18,Carlo Gerosa,IT,4
-1987-01-18,Stefan Pistor,DE,5
-1987-01-18,Ole Kristian Furuseth,NO,6
-1987-01-18,Franck Woerndl,DE,24
-1987-01-18,Finn Chr. Jagge,NO,7
-1987-01-18,Ivano Edalini,IT,25
-1987-01-18,Hubert Strolz,AT,3
-1987-01-18,Felix McGrath,US,3
-1987-01-18,Rok Petrovic,SK,27
-1987-01-18,Grega Benedik,SK,24
-1987-01-18,Joel Gaspoz,CH,63
-1987-01-18,Konrad  Kurt Ladstaetter,IT,1
-1987-01-18,Christian Gaidet,FR,2
-1987-01-18,Christian Orlainsky,AT,13
-1987-01-18,Armin Bittner,DE,44
-1987-01-18,Pirmin Zurbriggen,CH,14
-1987-01-18,Johan Wallner,SE,17
-1987-01-18,Mathias Berthold,AT,25
-1987-01-18,Rudolph Nierlich,AT,17
-1987-01-18,Alberto Tomba,IT,12
-1987-01-18,Ingemar Stenmark,SE,71
-1987-01-18,Didier Bouvet,FR,26
-1987-01-18,Guenther Mader,AT,27
-1987-01-18,Dietmar Koehlbichler,AT,34
-1987-01-18,Bojan Krizaj,SK,84
-1987-01-25,Rudolph Nierlich,AT,29
-1987-01-25,Carlo Gerosa,IT,4
-1987-01-25,Stefan Pistor,DE,5
-1987-01-25,Daniel Mougel,FR,5
-1987-01-25,Ole Kristian Furuseth,NO,6
-1987-01-25,Finn Chr. Jagge,NO,7
-1987-01-25,Marco Tonazzi,IT,0
-1987-01-25,Felix McGrath,US,7
-1987-01-25,Pirmin Zurbriggen,CH,14
-1987-01-25,Johan Wallner,SE,17
-1987-01-25,Guenther Mader,AT,27
-1987-01-25,Roland Pfeifer,AT,3
-1987-01-25,Thomas Stangassinger,AT,8
-1987-01-25,Franck Woerndl,DE,24
-1987-01-25,Roberto Grigis,IT,7
-1987-01-25,Christian Orlainsky,AT,15
-1987-01-25,Oswald Toetsch,IT,24
-1987-01-25,Grega Benedik,SK,24
-1987-01-25,Bojan Krizaj,SK,109
-1987-01-25,Ivano Edalini,IT,26
-1987-01-25,Andreas Wenzel,LI,10
-1987-01-25,Mathias Berthold,AT,45
-1987-01-25,Florian Beck,DE,3
-1987-01-25,Petar Popangelov,BG,2
-1987-01-25,Michael Tritscher,AT,0
-1987-01-25,Tetsuya Okabe,JP,0
-1987-01-25,Markus Wasmeier,DE,0
-1987-01-25,Bernhard Gstrein,AT,14
-1987-01-25,Niklas Lindqvist,SE,0
-1987-01-25,Paul Frommelt,LI,0
-1987-01-25,Peter Roth,DE,0
-1987-01-25,Armin Bittner,DE,59
-1987-01-25,Ingemar Stenmark,SE,81
-1987-01-25,Marc Girardelli,LU,0
-1987-01-25,Konrad  Kurt Ladstaetter,IT,1
-1987-01-25,Hubert Strolz,AT,12
-1987-01-25,Christian Gaidet,FR,2
-1987-01-25,Alberto Tomba,IT,12
-1987-01-25,Robert Ormsby,US,3
-1987-01-25,Heinz Holzer,IT,1
-1987-01-25,Joel Gaspoz,CH,71
-1987-01-25,Didier Bouvet,FR,26
-1987-01-25,Rok Petrovic,SK,27
-1987-01-25,Gunnar Neuriesser,SE,1
-1987-01-25,Dietmar Koehlbichler,AT,41
-1987-01-25,Jonas Nilsson,SE,31
-1987-01-25,Richard Pramotton,IT,25
-1987-02-14,Roland Pfeifer,AT,3
-1987-02-14,Michael Tritscher,AT,0
-1987-02-14,Christian Orlainsky,AT,15
-1987-02-14,Ivano Edalini,IT,26
-1987-02-14,Thomas Stangassinger,AT,8
-1987-02-14,Johan Wallner,SE,17
-1987-02-14,Pirmin Zurbriggen,CH,14
-1987-02-14,Finn Chr. Jagge,NO,7
-1987-02-14,Ole Kristian Furuseth,NO,6
-1987-02-14,Stefan Pistor,DE,5
-1987-02-14,Florian Beck,DE,3
-1987-02-14,Petar Popangelov,BG,2
-1987-02-14,Franck Woerndl,DE,24
-1987-02-14,Joel Gaspoz,CH,71
-1987-02-14,Gunnar Neuriesser,SE,1
-1987-02-14,Didier Bouvet,FR,26
-1987-02-14,Roberto Grigis,IT,7
-1987-02-14,Andreas Wenzel,LI,10
-1987-02-14,Felix McGrath,US,7
-1987-02-14,Heinz Holzer,IT,1
-1987-02-14,Robert Ormsby,US,3
-1987-02-14,Alberto Tomba,IT,12
-1987-02-14,Christian Gaidet,FR,2
-1987-02-14,Konrad  Kurt Ladstaetter,IT,1
-1987-02-14,Daniel Mougel,FR,5
-1987-02-14,Rudolph Nierlich,AT,29
-1987-02-14,Hubert Strolz,AT,12
-1987-02-14,Tetsuya Okabe,JP,0
-1987-02-14,Oswald Toetsch,IT,24
-1987-02-14,Marco Tonazzi,IT,0
-1987-02-14,Richard Pramotton,IT,25
-1987-02-14,Markus Wasmeier,DE,1
-1987-02-14,Peter Roth,DE,7
-1987-02-14,Grega Benedik,SK,30
-1987-02-14,Niklas Lindqvist,SE,3
-1987-02-14,Bojan Krizaj,SK,117
-1987-02-14,Mathias Berthold,AT,47
-1987-02-14,Carlo Gerosa,IT,13
-1987-02-14,Marc Girardelli,LU,10
-1987-02-14,Paul Frommelt,LI,4
-1987-02-14,Dietmar Koehlbichler,AT,52
-1987-02-14,Jonas Nilsson,SE,31
-1987-02-14,Bernhard Gstrein,AT,26
-1987-02-14,Guenther Mader,AT,42
-1987-02-14,Armin Bittner,DE,79
-1987-02-14,Ingemar Stenmark,SE,106
-1987-02-14,Rok Petrovic,SK,32
-1987-03-21,Carlo Gerosa,IT,13
-1987-03-21,Stefan Pistor,DE,5
-1987-03-21,Petar Popangelov,BG,2
-1987-03-21,Ole Kristian Furuseth,NO,6
-1987-03-21,Gunnar Neuriesser,SE,1
-1987-03-21,Finn Chr. Jagge,NO,7
-1987-03-21,Rok Petrovic,SK,32
-1987-03-21,Florian Beck,DE,3
-1987-03-21,Richard Pramotton,IT,26
-1987-03-21,Andreas Wenzel,LI,10
-1987-03-21,Felix McGrath,US,7
-1987-03-21,Pirmin Zurbriggen,CH,14
-1987-03-21,Bernhard Gstrein,AT,26
-1987-03-21,Heinz Holzer,IT,1
-1987-03-21,Robert Ormsby,US,3
-1987-03-21,Alberto Tomba,IT,12
-1987-03-21,Christian Gaidet,FR,2
-1987-03-21,Konrad  Kurt Ladstaetter,IT,1
-1987-03-21,Daniel Mougel,FR,5
-1987-03-21,Roland Pfeifer,AT,3
-1987-03-21,Marc Girardelli,LU,10
-1987-03-21,Dietmar Koehlbichler,AT,52
-1987-03-21,Johan Wallner,SE,17
-1987-03-21,Ingemar Stenmark,SE,106
-1987-03-21,Ivano Edalini,IT,26
-1987-03-21,Grega Benedik,SK,55
-1987-03-21,Bojan Krizaj,SK,137
-1987-03-21,Didier Bouvet,FR,41
-1987-03-21,Tetsuya Okabe,JP,12
-1987-03-21,Niklas Lindqvist,SE,3
-1987-03-21,Mathias Berthold,AT,58
-1987-03-21,Thomas Stangassinger,AT,18
-1987-03-21,Armin Bittner,DE,88
-1987-03-21,Paul Frommelt,LI,12
-1987-03-21,Guenther Mader,AT,42
-1987-03-21,Joel Gaspoz,CH,78
-1987-03-21,Michael Tritscher,AT,5
-1987-03-21,Jonas Nilsson,SE,35
-1987-03-21,Roberto Grigis,IT,10
-1987-03-21,Marco Tonazzi,IT,2
-1987-03-21,Oswald Toetsch,IT,24
-1987-03-21,Rudolph Nierlich,AT,29
-1987-03-21,Franck Woerndl,DE,24
-1987-03-21,Hubert Strolz,AT,12
-1987-03-21,Christian Orlainsky,AT,15
-1987-03-21,Peter Roth,DE,13
-1987-03-21,Markus Wasmeier,DE,1
+1986-11-30,Corinne Schmidhauser,CH,25
+1986-11-30,Christa Kinshofer,NL,0
+1986-11-30,Monika Hess,CH,0
+1986-11-30,Blanca Fernandez Ochoa,ES,0
+1986-11-30,Christine von Gruenigen,CH,9
+1986-11-30,Adelheid Gapp,AT,0
+1986-11-30,Lucia Medzihradska,SK,0
+1986-11-30,Catharina Glasser Bjerner,SE,0
+1986-11-30,Dorota Tlalka - Mogore,FR,0
+1986-11-30,Caroline Beer,AT,0
+1986-11-30,Lenka Kebrlova,SK,0
+1986-11-30,Kristina Andersson,SE,0
+1986-11-30,Nadia Bonfini,IT,0
+1986-11-30,Monika Aeijae,SE,8
+1986-11-30,Mateja Svet,SK,8
+1986-11-30,Camilla Nilsson,SE,10
+1986-11-30,Eva Twardokens,US,0
+1986-11-30,Annette Gersch,DE,0
+1986-11-30,Nicoletta Merighetti,IT,0
+1986-11-30,Manuela Ruef,AT,0
+1986-11-30,Claudia Strobl,AT,0
+1986-11-30,Malgorzata Tlalka - Mogore,FR,0
+1986-11-30,Paoletta Magoni,IT,0
+1986-11-30,Vreni Schneider,CH,6
+1986-11-30,Ida Ladstaetter,AT,0
+1986-11-30,Anita Wachter,AT,0
+1986-11-30,Brigitte Oertli,CH,0
+1986-11-30,Beth Madsen,US,1
+1986-11-30,Helga Lazak,DE,2
+1986-11-30,Mojca Dezman,SK,5
+1986-11-30,Ulrike Maier,AT,3
+1986-11-30,Brigitte Gadient,CH,0
+1986-11-30,Monika Maierhofer,AT,11
+1986-11-30,Erika Hess,CH,4
+1986-11-30,Karin Buder,AT,12
+1986-11-30,Roswitha Steiner,AT,15
+1986-11-30,Tamara McKinney,US,20
+1986-12-05,Adelheid Gapp,AT,0
+1986-12-05,Tamara McKinney,US,20
+1986-12-05,Corinne Schmidhauser,CH,25
+1986-12-05,Christa Kinshofer,NL,0
+1986-12-05,Blanca Fernandez Ochoa,ES,0
+1986-12-05,Karin Buder,AT,27
+1986-12-05,Mateja Svet,SK,16
+1986-12-05,Brigitte Oertli,CH,20
+1986-12-05,Claudia Strobl,AT,6
+1986-12-05,Helga Lazak,DE,3
+1986-12-05,Annette Gersch,DE,2
+1986-12-05,Malgorzata Tlalka - Mogore,FR,7
+1986-12-05,Manuela Ruef,AT,5
+1986-12-05,Nicoletta Merighetti,IT,3
+1986-12-05,Erika Hess,CH,29
+1986-12-05,Roswitha Steiner,AT,15
+1986-12-05,Monika Maierhofer,AT,11
+1986-12-05,Monika Aeijae,SE,8
+1986-12-05,Paoletta Magoni,IT,10
+1986-12-05,Kristina Andersson,SE,0
+1986-12-05,Nadia Bonfini,IT,0
+1986-12-05,Christine von Gruenigen,CH,9
+1986-12-05,Monika Hess,CH,0
+1986-12-05,Eva Twardokens,US,0
+1986-12-05,Lenka Kebrlova,SK,0
+1986-12-05,Caroline Beer,AT,0
+1986-12-05,Beth Madsen,US,1
+1986-12-05,Mojca Dezman,SK,5
+1986-12-05,Brigitte Gadient,CH,0
+1986-12-05,Vreni Schneider,CH,6
+1986-12-05,Ulrike Maier,AT,13
+1986-12-05,Anita Wachter,AT,12
+1986-12-05,Camilla Nilsson,SE,14
+1986-12-05,Dorota Tlalka - Mogore,FR,0
+1986-12-05,Ida Ladstaetter,AT,11
+1986-12-05,Catharina Glasser Bjerner,SE,0
+1986-12-05,Lucia Medzihradska,SK,0
+1986-12-17,Karin Buder,AT,31
+1986-12-17,Christa Kinshofer,NL,0
+1986-12-17,Eva Twardokens,US,1
+1986-12-17,Monika Hess,CH,0
+1986-12-17,Erika Hess,CH,36
+1986-12-17,Adelheid Gapp,AT,0
+1986-12-17,Helga Lazak,DE,6
+1986-12-17,Blanca Fernandez Ochoa,ES,0
+1986-12-17,Malgorzata Tlalka - Mogore,FR,10
+1986-12-17,Dorota Tlalka - Mogore,FR,0
+1986-12-17,Catharina Glasser Bjerner,SE,0
+1986-12-17,Caroline Beer,AT,0
+1986-12-17,Lenka Kebrlova,SK,0
+1986-12-17,Kristina Andersson,SE,0
+1986-12-17,Nadia Bonfini,IT,0
+1986-12-17,Annette Gersch,DE,2
+1986-12-17,Nicoletta Merighetti,IT,3
+1986-12-17,Manuela Ruef,AT,5
+1986-12-17,Ida Ladstaetter,AT,11
+1986-12-17,Beth Madsen,US,1
+1986-12-17,Ulrike Maier,AT,13
+1986-12-17,Mojca Dezman,SK,5
+1986-12-17,Mateja Svet,SK,16
+1986-12-17,Monika Aeijae,SE,8
+1986-12-17,Lucia Medzihradska,SK,0
+1986-12-17,Claudia Strobl,AT,6
+1986-12-17,Christine von Gruenigen,CH,9
+1986-12-17,Roswitha Steiner,AT,26
+1986-12-17,Camilla Nilsson,SE,19
+1986-12-17,Paoletta Magoni,IT,16
+1986-12-17,Vreni Schneider,CH,31
+1986-12-17,Monika Maierhofer,AT,19
+1986-12-17,Tamara McKinney,US,40
+1986-12-17,Anita Wachter,AT,21
+1986-12-17,Corinne Schmidhauser,CH,35
+1986-12-17,Brigitte Gadient,CH,12
+1986-12-17,Brigitte Oertli,CH,35
+1986-12-18,Eva Twardokens,US,7
+1986-12-18,Lenka Kebrlova,SK,0
+1986-12-18,Caroline Beer,AT,0
+1986-12-18,Dorota Tlalka - Mogore,FR,0
+1986-12-18,Kristina Andersson,SE,0
+1986-12-18,Annette Gersch,DE,2
+1986-12-18,Nicoletta Merighetti,IT,3
+1986-12-18,Manuela Ruef,AT,5
+1986-12-18,Paoletta Magoni,IT,16
+1986-12-18,Anita Wachter,AT,21
+1986-12-18,Mateja Svet,SK,16
+1986-12-18,Beth Madsen,US,1
+1986-12-18,Catharina Glasser Bjerner,SE,0
+1986-12-18,Ulrike Maier,AT,13
+1986-12-18,Mojca Dezman,SK,5
+1986-12-18,Monika Aeijae,SE,8
+1986-12-18,Karin Buder,AT,31
+1986-12-18,Brigitte Gadient,CH,21
+1986-12-18,Roswitha Steiner,AT,46
+1986-12-18,Monika Maierhofer,AT,34
+1986-12-18,Brigitte Oertli,CH,45
+1986-12-18,Corinne Schmidhauser,CH,47
+1986-12-18,Vreni Schneider,CH,39
+1986-12-18,Helga Lazak,DE,6
+1986-12-18,Lucia Medzihradska,SK,0
+1986-12-18,Blanca Fernandez Ochoa,ES,0
+1986-12-18,Malgorzata Tlalka - Mogore,FR,14
+1986-12-18,Claudia Strobl,AT,11
+1986-12-18,Erika Hess,CH,39
+1986-12-18,Adelheid Gapp,AT,0
+1986-12-18,Camilla Nilsson,SE,26
+1986-12-18,Christine von Gruenigen,CH,11
+1986-12-18,Ida Ladstaetter,AT,22
+1986-12-18,Tamara McKinney,US,65
+1986-12-18,Nadia Bonfini,IT,1
+1986-12-18,Christa Kinshofer,NL,0
+1986-12-18,Monika Hess,CH,0
+1986-12-21,Camilla Nilsson,SE,26
+1986-12-21,Paoletta Magoni,IT,28
+1986-12-21,Christa Kinshofer,NL,0
+1986-12-21,Claudia Strobl,AT,26
+1986-12-21,Monika Hess,CH,0
+1986-12-21,Blanca Fernandez Ochoa,ES,0
+1986-12-21,Adelheid Gapp,AT,0
+1986-12-21,Lucia Medzihradska,SK,0
+1986-12-21,Brigitte Oertli,CH,65
+1986-12-21,Eva Twardokens,US,7
+1986-12-21,Brigitte Gadient,CH,21
+1986-12-21,Annette Gersch,DE,2
+1986-12-21,Monika Maierhofer,AT,34
+1986-12-21,Manuela Ruef,AT,5
+1986-12-21,Tamara McKinney,US,65
+1986-12-21,Anita Wachter,AT,21
+1986-12-21,Beth Madsen,US,1
+1986-12-21,Helga Lazak,DE,6
+1986-12-21,Mojca Dezman,SK,5
+1986-12-21,Mateja Svet,SK,16
+1986-12-21,Monika Aeijae,SE,8
+1986-12-21,Roswitha Steiner,AT,46
+1986-12-21,Christine von Gruenigen,CH,11
+1986-12-21,Erika Hess,CH,64
+1986-12-21,Ida Ladstaetter,AT,22
+1986-12-21,Vreni Schneider,CH,39
+1986-12-21,Lenka Kebrlova,SK,5
+1986-12-21,Malgorzata Tlalka - Mogore,FR,22
+1986-12-21,Karin Buder,AT,42
+1986-12-21,Corinne Schmidhauser,CH,53
+1986-12-21,Caroline Beer,AT,4
+1986-12-21,Dorota Tlalka - Mogore,FR,3
+1986-12-21,Ulrike Maier,AT,23
+1986-12-21,Catharina Glasser Bjerner,SE,1
+1986-12-21,Nadia Bonfini,IT,8
+1986-12-21,Nicoletta Merighetti,IT,5
+1986-12-21,Kristina Andersson,SE,9
+1987-01-04,Christine von Gruenigen,CH,11
+1987-01-04,Catharina Glasser Bjerner,SE,10
+1987-01-04,Monika Aeijae,SE,8
+1987-01-04,Karin Buder,AT,42
+1987-01-04,Roswitha Steiner,AT,46
+1987-01-04,Erika Hess,CH,75
+1987-01-04,Malgorzata Tlalka - Mogore,FR,30
+1987-01-04,Ulrike Maier,AT,23
+1987-01-04,Lucia Medzihradska,SK,4
+1987-01-04,Mojca Dezman,SK,10
+1987-01-04,Anita Wachter,AT,22
+1987-01-04,Ida Ladstaetter,AT,25
+1987-01-04,Dorota Tlalka - Mogore,FR,10
+1987-01-04,Adelheid Gapp,AT,2
+1987-01-04,Tamara McKinney,US,65
+1987-01-04,Helga Lazak,DE,6
+1987-01-04,Camilla Nilsson,SE,51
+1987-01-04,Brigitte Oertli,CH,65
+1987-01-04,Mateja Svet,SK,28
+1987-01-04,Christa Kinshofer,NL,0
+1987-01-04,Monika Hess,CH,0
+1987-01-04,Blanca Fernandez Ochoa,ES,0
+1987-01-04,Beth Madsen,US,1
+1987-01-04,Lenka Kebrlova,SK,5
+1987-01-04,Kristina Andersson,SE,9
+1987-01-04,Nadia Bonfini,IT,8
+1987-01-04,Corinne Schmidhauser,CH,68
+1987-01-04,Caroline Beer,AT,11
+1987-01-04,Monika Maierhofer,AT,44
+1987-01-04,Brigitte Gadient,CH,21
+1987-01-04,Annette Gersch,DE,2
+1987-01-04,Nicoletta Merighetti,IT,5
+1987-01-04,Manuela Ruef,AT,5
+1987-01-04,Vreni Schneider,CH,59
+1987-01-04,Claudia Strobl,AT,26
+1987-01-04,Eva Twardokens,US,7
+1987-01-04,Paoletta Magoni,IT,28
+1987-01-11,Anita Wachter,AT,22
+1987-01-11,Ulrike Maier,AT,23
+1987-01-11,Monika Aeijae,SE,8
+1987-01-11,Annette Gersch,DE,2
+1987-01-11,Christine von Gruenigen,CH,11
+1987-01-11,Manuela Ruef,AT,5
+1987-01-11,Roswitha Steiner,AT,46
+1987-01-11,Monika Maierhofer,AT,44
+1987-01-11,Karin Buder,AT,42
+1987-01-11,Lenka Kebrlova,SK,12
+1987-01-11,Vreni Schneider,CH,63
+1987-01-11,Eva Twardokens,US,10
+1987-01-11,Claudia Strobl,AT,26
+1987-01-11,Corinne Schmidhauser,CH,74
+1987-01-11,Brigitte Gadient,CH,21
+1987-01-11,Brigitte Oertli,CH,77
+1987-01-11,Camilla Nilsson,SE,62
+1987-01-11,Malgorzata Tlalka - Mogore,FR,45
+1987-01-11,Mateja Svet,SK,48
+1987-01-11,Ida Ladstaetter,AT,35
+1987-01-11,Caroline Beer,AT,13
+1987-01-11,Tamara McKinney,US,90
+1987-01-11,Erika Hess,CH,84
+1987-01-11,Christa Kinshofer,NL,0
+1987-01-11,Monika Hess,CH,0
+1987-01-11,Beth Madsen,US,1
+1987-01-11,Blanca Fernandez Ochoa,ES,0
+1987-01-11,Nicoletta Merighetti,IT,13
+1987-01-11,Mojca Dezman,SK,11
+1987-01-11,Kristina Andersson,SE,9
+1987-01-11,Paoletta Magoni,IT,34
+1987-01-11,Nadia Bonfini,IT,8
+1987-01-11,Dorota Tlalka - Mogore,FR,10
+1987-01-11,Lucia Medzihradska,SK,4
+1987-01-11,Adelheid Gapp,AT,2
+1987-01-11,Catharina Glasser Bjerner,SE,10
+1987-01-11,Helga Lazak,DE,6
+1987-02-14,Catharina Glasser Bjerner,SE,10
+1987-02-14,Lucia Medzihradska,SK,4
+1987-02-14,Annette Gersch,DE,2
+1987-02-14,Caroline Beer,AT,13
+1987-02-14,Lenka Kebrlova,SK,12
+1987-02-14,Adelheid Gapp,AT,2
+1987-02-14,Kristina Andersson,SE,9
+1987-02-14,Nadia Bonfini,IT,8
+1987-02-14,Malgorzata Tlalka - Mogore,FR,45
+1987-02-14,Manuela Ruef,AT,5
+1987-02-14,Claudia Strobl,AT,26
+1987-02-14,Paoletta Magoni,IT,34
+1987-02-14,Ida Ladstaetter,AT,35
+1987-02-14,Anita Wachter,AT,22
+1987-02-14,Helga Lazak,DE,6
+1987-02-14,Ulrike Maier,AT,23
+1987-02-14,Mojca Dezman,SK,11
+1987-02-14,Monika Aeijae,SE,8
+1987-02-14,Karin Buder,AT,42
+1987-02-14,Nicoletta Merighetti,IT,13
+1987-02-14,Beth Madsen,US,1
+1987-02-14,Brigitte Gadient,CH,25
+1987-02-14,Camilla Nilsson,SE,69
+1987-02-14,Eva Twardokens,US,13
+1987-02-14,Dorota Tlalka - Mogore,FR,20
+1987-02-14,Christine von Gruenigen,CH,13
+1987-02-14,Mateja Svet,SK,54
+1987-02-14,Monika Hess,CH,1
+1987-02-14,Roswitha Steiner,AT,58
+1987-02-14,Monika Maierhofer,AT,55
+1987-02-14,Blanca Fernandez Ochoa,ES,15
+1987-02-14,Erika Hess,CH,92
+1987-02-14,Corinne Schmidhauser,CH,94
+1987-02-14,Brigitte Oertli,CH,82
+1987-02-14,Tamara McKinney,US,99
+1987-02-14,Christa Kinshofer,NL,0
+1987-02-14,Vreni Schneider,CH,88
+1987-02-15,Eva Twardokens,US,13
+1987-02-15,Manuela Ruef,AT,5
+1987-02-15,Paoletta Magoni,IT,34
+1987-02-15,Brigitte Gadient,CH,25
+1987-02-15,Nicoletta Merighetti,IT,13
+1987-02-15,Annette Gersch,DE,2
+1987-02-15,Ida Ladstaetter,AT,35
+1987-02-15,Beth Madsen,US,1
+1987-02-15,Vreni Schneider,CH,88
+1987-02-15,Nadia Bonfini,IT,8
+1987-02-15,Mojca Dezman,SK,11
+1987-02-15,Kristina Andersson,SE,9
+1987-02-15,Lenka Kebrlova,SK,12
+1987-02-15,Caroline Beer,AT,13
+1987-02-15,Dorota Tlalka - Mogore,FR,20
+1987-02-15,Catharina Glasser Bjerner,SE,10
+1987-02-15,Lucia Medzihradska,SK,4
+1987-02-15,Monika Hess,CH,1
+1987-02-15,Mateja Svet,SK,54
+1987-02-15,Ulrike Maier,AT,23
+1987-02-15,Monika Aeijae,SE,8
+1987-02-15,Karin Buder,AT,47
+1987-02-15,Adelheid Gapp,AT,4
+1987-02-15,Camilla Nilsson,SE,77
+1987-02-15,Tamara McKinney,US,99
+1987-02-15,Blanca Fernandez Ochoa,ES,24
+1987-02-15,Malgorzata Tlalka - Mogore,FR,51
+1987-02-15,Brigitte Oertli,CH,92
+1987-02-15,Helga Lazak,DE,7
+1987-02-15,Roswitha Steiner,AT,70
+1987-02-15,Christine von Gruenigen,CH,24
+1987-02-15,Claudia Strobl,AT,33
+1987-02-15,Erika Hess,CH,107
+1987-02-15,Monika Maierhofer,AT,75
+1987-02-15,Anita Wachter,AT,26
+1987-02-15,Corinne Schmidhauser,CH,119
+1987-02-15,Christa Kinshofer,NL,3
+1987-02-28,Lenka Kebrlova,SK,12
+1987-02-28,Caroline Beer,AT,13
+1987-02-28,Kristina Andersson,SE,9
+1987-02-28,Dorota Tlalka - Mogore,FR,20
+1987-02-28,Catharina Glasser Bjerner,SE,10
+1987-02-28,Lucia Medzihradska,SK,4
+1987-02-28,Christine von Gruenigen,CH,29
+1987-02-28,Blanca Fernandez Ochoa,ES,24
+1987-02-28,Monika Hess,CH,1
+1987-02-28,Christa Kinshofer,NL,5
+1987-02-28,Eva Twardokens,US,13
+1987-02-28,Brigitte Gadient,CH,31
+1987-02-28,Nadia Bonfini,IT,11
+1987-02-28,Malgorzata Tlalka - Mogore,FR,55
+1987-02-28,Adelheid Gapp,AT,4
+1987-02-28,Annette Gersch,DE,2
+1987-02-28,Ulrike Maier,AT,23
+1987-02-28,Manuela Ruef,AT,5
+1987-02-28,Corinne Schmidhauser,CH,144
+1987-02-28,Erika Hess,CH,127
+1987-02-28,Roswitha Steiner,AT,85
+1987-02-28,Camilla Nilsson,SE,89
+1987-02-28,Anita Wachter,AT,37
+1987-02-28,Karin Buder,AT,57
+1987-02-28,Paoletta Magoni,IT,43
+1987-02-28,Ida Ladstaetter,AT,43
+1987-02-28,Claudia Strobl,AT,34
+1987-02-28,Tamara McKinney,US,99
+1987-02-28,Monika Maierhofer,AT,75
+1987-02-28,Monika Aeijae,SE,8
+1987-02-28,Vreni Schneider,CH,88
+1987-02-28,Mojca Dezman,SK,11
+1987-02-28,Helga Lazak,DE,7
+1987-02-28,Beth Madsen,US,1
+1987-02-28,Brigitte Oertli,CH,92
+1987-02-28,Nicoletta Merighetti,IT,13
+1987-02-28,Mateja Svet,SK,61

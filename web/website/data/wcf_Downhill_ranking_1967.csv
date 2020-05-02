@@ -1,96 +1,77 @@
 date,name,ath_country,value
-1967-01-14,Jean Claude Killy,FR,25
-1967-01-14,Gerhard Mussner,IT,3
-1967-01-14,Bernard Orcel,FR,2
-1967-01-14,Jos Minsch,CH,6
-1967-01-14,Gerhard Nenning,AT,1
-1967-01-14,Franz Vogler,DE,1
-1967-01-14,Karl Schranz,AT,0
-1967-01-14,Ivo Mahlknecht,IT,8
-1967-01-14,Guy Perillat,FR,0
-1967-01-14,Hans Peter Rohr,CH,0
-1967-01-14,Peter Rohr,CH,0
-1967-01-14,Werner Bleiner,AT,0
-1967-01-14,Stefan Sodat,AT,0
-1967-01-14,Egon Zimmermann,AT,11
-1967-01-14,Jim Barrows,US,0
-1967-01-14,Andreas Sprecher,CH,0
-1967-01-14,Jean Daniel Daetwyler,CH,15
-1967-01-14,Leo Lacroix,FR,20
-1967-01-14,Heini Messner,AT,4
-1967-01-21,Jos Minsch,CH,6
-1967-01-21,Gerhard Mussner,IT,3
-1967-01-21,Hans Peter Rohr,CH,0
-1967-01-21,Peter Rohr,CH,0
-1967-01-21,Jean Daniel Daetwyler,CH,19
-1967-01-21,Werner Bleiner,AT,0
-1967-01-21,Guy Perillat,FR,2
-1967-01-21,Stefan Sodat,AT,0
-1967-01-21,Andreas Sprecher,CH,0
-1967-01-21,Karl Schranz,AT,3
-1967-01-21,Jim Barrows,US,0
-1967-01-21,Ivo Mahlknecht,IT,8
-1967-01-21,Leo Lacroix,FR,21
-1967-01-21,Franz Vogler,DE,21
-1967-01-21,Gerhard Nenning,AT,12
-1967-01-21,Heini Messner,AT,19
-1967-01-21,Jean Claude Killy,FR,50
-1967-01-21,Bernard Orcel,FR,8
-1967-01-21,Egon Zimmermann,AT,19
-1967-01-27,Guy Perillat,FR,2
-1967-01-27,Karl Schranz,AT,3
-1967-01-27,Werner Bleiner,AT,0
-1967-01-27,Gerhard Nenning,AT,23
-1967-01-27,Egon Zimmermann,AT,19
-1967-01-27,Stefan Sodat,AT,0
-1967-01-27,Jean Claude Killy,FR,75
-1967-01-27,Hans Peter Rohr,CH,20
-1967-01-27,Andreas Sprecher,CH,0
-1967-01-27,Franz Vogler,DE,36
-1967-01-27,Jim Barrows,US,0
-1967-01-27,Peter Rohr,CH,0
-1967-01-27,Gerhard Mussner,IT,3
-1967-01-27,Jos Minsch,CH,10
-1967-01-27,Heini Messner,AT,25
-1967-01-27,Jean Daniel Daetwyler,CH,20
-1967-01-27,Ivo Mahlknecht,IT,16
-1967-01-27,Leo Lacroix,FR,24
-1967-01-27,Bernard Orcel,FR,10
-1967-03-04,Ivo Mahlknecht,IT,16
-1967-03-04,Egon Zimmermann,AT,19
-1967-03-04,Jean Daniel Daetwyler,CH,20
-1967-03-04,Leo Lacroix,FR,24
-1967-03-04,Werner Bleiner,AT,4
-1967-03-04,Karl Schranz,AT,3
-1967-03-04,Peter Rohr,CH,6
-1967-03-04,Hans Peter Rohr,CH,20
-1967-03-04,Stefan Sodat,AT,3
-1967-03-04,Jim Barrows,US,0
-1967-03-04,Jos Minsch,CH,12
-1967-03-04,Jean Claude Killy,FR,100
-1967-03-04,Heini Messner,AT,33
-1967-03-04,Bernard Orcel,FR,30
-1967-03-04,Guy Perillat,FR,17
-1967-03-04,Andreas Sprecher,CH,1
-1967-03-04,Gerhard Nenning,AT,34
-1967-03-04,Gerhard Mussner,IT,3
-1967-03-04,Franz Vogler,DE,36
-1967-03-10,Egon Zimmermann,AT,19
-1967-03-10,Leo Lacroix,FR,24
-1967-03-10,Ivo Mahlknecht,IT,16
-1967-03-10,Gerhard Mussner,IT,3
-1967-03-10,Bernard Orcel,FR,30
-1967-03-10,Franz Vogler,DE,36
-1967-03-10,Werner Bleiner,AT,4
-1967-03-10,Hans Peter Rohr,CH,31
-1967-03-10,Jos Minsch,CH,13
-1967-03-10,Jean Daniel Daetwyler,CH,23
-1967-03-10,Heini Messner,AT,41
-1967-03-10,Gerhard Nenning,AT,36
-1967-03-10,Jean Claude Killy,FR,125
-1967-03-10,Karl Schranz,AT,9
-1967-03-10,Guy Perillat,FR,37
-1967-03-10,Stefan Sodat,AT,3
-1967-03-10,Jim Barrows,US,15
-1967-03-10,Peter Rohr,CH,10
-1967-03-10,Andreas Sprecher,CH,1
+1967-01-13,Nancy Greene,CA,25
+1967-01-13,Burgi Faerbinger,DE,1
+1967-01-13,Madeleine Willoud,CH,4
+1967-01-13,Erika Schinegger,AT,0
+1967-01-13,Annie Famose,FR,0
+1967-01-13,Olga Pall,AT,0
+1967-01-13,Marielle Goitschel,FR,6
+1967-01-13,Anneroesli Zryd,CH,0
+1967-01-13,Margret Hafen,DE,0
+1967-01-13,Marie France Jeangeorges,FR,0
+1967-01-13,Susy Chaffee,US,8
+1967-01-13,Lotte Nogler,IT,0
+1967-01-13,Heidi Zimmermann,AT,2
+1967-01-13,Jacqueline Rouvier,FR,0
+1967-01-13,Giustina Demetz,IT,11
+1967-01-13,Florence Steurer,FR,15
+1967-01-13,Isabelle Mir,FR,20
+1967-01-13,Inge Jochum,AT,0
+1967-01-13,Traudl Hecher,AT,3
+1967-01-17,Madeleine Willoud,CH,4
+1967-01-17,Heidi Zimmermann,AT,2
+1967-01-17,Burgi Faerbinger,DE,1
+1967-01-17,Anneroesli Zryd,CH,0
+1967-01-17,Margret Hafen,DE,0
+1967-01-17,Marie France Jeangeorges,FR,0
+1967-01-17,Lotte Nogler,IT,0
+1967-01-17,Jacqueline Rouvier,FR,0
+1967-01-17,Inge Jochum,AT,0
+1967-01-17,Isabelle Mir,FR,22
+1967-01-17,Giustina Demetz,IT,12
+1967-01-17,Nancy Greene,CA,36
+1967-01-17,Traudl Hecher,AT,11
+1967-01-17,Annie Famose,FR,15
+1967-01-17,Olga Pall,AT,6
+1967-01-17,Marielle Goitschel,FR,31
+1967-01-17,Florence Steurer,FR,19
+1967-01-17,Susy Chaffee,US,11
+1967-01-17,Erika Schinegger,AT,20
+1967-03-03,Florence Steurer,FR,34
+1967-03-03,Marie France Jeangeorges,FR,3
+1967-03-03,Olga Pall,AT,6
+1967-03-03,Giustina Demetz,IT,37
+1967-03-03,Nancy Greene,CA,36
+1967-03-03,Isabelle Mir,FR,22
+1967-03-03,Susy Chaffee,US,11
+1967-03-03,Madeleine Willoud,CH,4
+1967-03-03,Erika Schinegger,AT,20
+1967-03-03,Marielle Goitschel,FR,56
+1967-03-03,Inge Jochum,AT,0
+1967-03-03,Traudl Hecher,AT,11
+1967-03-03,Annie Famose,FR,23
+1967-03-03,Margret Hafen,DE,6
+1967-03-03,Jacqueline Rouvier,FR,1
+1967-03-03,Lotte Nogler,IT,2
+1967-03-03,Burgi Faerbinger,DE,5
+1967-03-03,Anneroesli Zryd,CH,11
+1967-03-03,Heidi Zimmermann,AT,2
+1967-03-10,Nancy Greene,CA,36
+1967-03-10,Marielle Goitschel,FR,56
+1967-03-10,Madeleine Willoud,CH,4
+1967-03-10,Burgi Faerbinger,DE,5
+1967-03-10,Olga Pall,AT,6
+1967-03-10,Margret Hafen,DE,6
+1967-03-10,Marie France Jeangeorges,FR,3
+1967-03-10,Erika Schinegger,AT,40
+1967-03-10,Annie Famose,FR,38
+1967-03-10,Anneroesli Zryd,CH,22
+1967-03-10,Inge Jochum,AT,8
+1967-03-10,Giustina Demetz,IT,43
+1967-03-10,Susy Chaffee,US,12
+1967-03-10,Lotte Nogler,IT,2
+1967-03-10,Traudl Hecher,AT,13
+1967-03-10,Florence Steurer,FR,38
+1967-03-10,Heidi Zimmermann,AT,5
+1967-03-10,Isabelle Mir,FR,47
+1967-03-10,Jacqueline Rouvier,FR,1

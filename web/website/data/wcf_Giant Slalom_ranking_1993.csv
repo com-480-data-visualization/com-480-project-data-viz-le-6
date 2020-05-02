@@ -1,343 +1,442 @@
 date,name,ath_country,value
-1992-11-28,Kjetil Andre Aamodt,NO,100
-1992-11-28,Ole Kristian Furuseth,NO,0
-1992-11-28,Rainer Salzgeber,AT,0
-1992-11-28,Alain Feutrier,FR,0
-1992-11-28,Hans Knauss,AT,3
-1992-11-28,Guenther Marxer,LI,4
-1992-11-28,Franck Carmagnolle,FR,5
-1992-11-28,Stephane Exartier,FR,6
-1992-11-28,Adrien Duvillard,FR,7
-1992-11-28,Siegfried Voglreiter,AT,8
-1992-11-28,Christian Mayer,AT,0
-1992-11-28,Urs Kaelin,CH,9
-1992-11-28,Michael von Gruenigen,CH,11
-1992-11-28,Marc Girardelli,LU,12
-1992-11-28,Tom Stiansen,NO,13
-1992-11-28,Patrick Holzer,IT,14
-1992-11-28,Peter Roth,DE,15
-1992-11-28,Massimo Zucchelli,IT,16
-1992-11-28,Josef Polig,IT,18
-1992-11-28,Sergio Bergamelli,IT,20
-1992-11-28,Fredrik Nyberg,SE,22
-1992-11-28,Roberto Spampatti,IT,10
-1992-11-28,Alberto Senigagliesi,IT,0
-1992-11-28,Frank Piccard,FR,0
-1992-11-28,Hubert Strolz,AT,0
-1992-11-28,Finn Chr. Jagge,NO,0
-1992-11-28,Atle Skaardal,NO,0
-1992-11-28,Fritz Strobl,AT,0
-1992-11-28,Luca Pesando,IT,0
-1992-11-28,Gerhard Koenigsrainer,IT,0
-1992-11-28,Thomas Grandi,CA,0
-1992-11-28,Marcel Sulliger,CH,0
-1992-11-28,Oliver Kuenzi,CH,0
-1992-11-28,Marco Hangl,CH,0
-1992-11-28,Guenther Mader,AT,0
-1992-11-28,Jeremy Nobis,US,0
-1992-11-28,Richard Pramotton,IT,0
-1992-11-28,Patrick Staub,CH,0
-1992-11-28,Markus Wasmeier,DE,0
-1992-11-28,Helmut Mayer,AT,0
-1992-11-28,Michel Lucatelli,FR,0
-1992-11-28,Jure Kosir,SK,0
-1992-11-28,Ian Piccard,FR,0
-1992-11-28,Jan Einar Thorsen,NO,0
-1992-11-28,Stephane Cretin,FR,0
-1992-11-28,Stephan Eberharter,AT,0
-1992-11-28,Hans Pieren,CH,24
-1992-11-28,Matteo Belfrond,IT,26
-1992-11-28,Mitja Kunc,SK,0
-1992-11-28,Didrik Marksten,NO,29
-1992-11-28,Paul Accola,CH,36
-1992-11-28,Alberto Tomba,IT,80
-1992-11-28,Johan Wallner,SE,60
-1992-11-28,Steve Locher,CH,32
-1992-11-28,Tobias Barnerssoi,DE,50
-1992-11-28,Lasse Kjus,NO,40
-1992-11-28,Richard Kroell,AT,45
-1992-12-13,Richard Kroell,AT,45
-1992-12-13,Marc Girardelli,LU,112
-1992-12-13,Alain Feutrier,FR,80
-1992-12-13,Alberto Tomba,IT,140
-1992-12-13,Paul Accola,CH,86
-1992-12-13,Stephane Exartier,FR,9
-1992-12-13,Matteo Belfrond,IT,26
-1992-12-13,Peter Roth,DE,19
-1992-12-13,Josef Polig,IT,23
-1992-12-13,Fredrik Nyberg,SE,62
-1992-12-13,Stephane Cretin,FR,6
-1992-12-13,Stephan Eberharter,AT,7
-1992-12-13,Tobias Barnerssoi,DE,58
-1992-12-13,Lasse Kjus,NO,49
-1992-12-13,Mitja Kunc,SK,11
-1992-12-13,Hans Knauss,AT,14
-1992-12-13,Michael von Gruenigen,CH,56
-1992-12-13,Massimo Zucchelli,IT,16
-1992-12-13,Rainer Salzgeber,AT,29
-1992-12-13,Tom Stiansen,NO,13
-1992-12-13,Jan Einar Thorsen,NO,2
-1992-12-13,Finn Chr. Jagge,NO,0
-1992-12-13,Atle Skaardal,NO,0
-1992-12-13,Fritz Strobl,AT,0
-1992-12-13,Luca Pesando,IT,0
-1992-12-13,Gerhard Koenigsrainer,IT,0
-1992-12-13,Thomas Grandi,CA,0
-1992-12-13,Marcel Sulliger,CH,0
-1992-12-13,Oliver Kuenzi,CH,0
-1992-12-13,Marco Hangl,CH,0
-1992-12-13,Guenther Mader,AT,0
-1992-12-13,Steve Locher,CH,68
-1992-12-13,Jeremy Nobis,US,0
-1992-12-13,Patrick Staub,CH,0
-1992-12-13,Markus Wasmeier,DE,0
-1992-12-13,Helmut Mayer,AT,0
-1992-12-13,Michel Lucatelli,FR,0
-1992-12-13,Jure Kosir,SK,0
-1992-12-13,Ian Piccard,FR,0
-1992-12-13,Guenther Marxer,LI,4
-1992-12-13,Franck Carmagnolle,FR,5
-1992-12-13,Adrien Duvillard,FR,7
-1992-12-13,Siegfried Voglreiter,AT,8
-1992-12-13,Roberto Spampatti,IT,10
-1992-12-13,Richard Pramotton,IT,0
-1992-12-13,Hubert Strolz,AT,12
-1992-12-13,Patrick Holzer,IT,14
-1992-12-13,Kjetil Andre Aamodt,NO,120
-1992-12-13,Urs Kaelin,CH,24
-1992-12-13,Alberto Senigagliesi,IT,14
-1992-12-13,Frank Piccard,FR,13
-1992-12-13,Didrik Marksten,NO,45
-1992-12-13,Johan Wallner,SE,86
-1992-12-13,Christian Mayer,AT,18
-1992-12-13,Hans Pieren,CH,56
-1992-12-13,Sergio Bergamelli,IT,44
-1992-12-13,Ole Kristian Furuseth,NO,22
-1992-12-20,Josef Polig,IT,23
-1992-12-20,Steve Locher,CH,68
-1992-12-20,Michael von Gruenigen,CH,82
-1992-12-20,Alberto Senigagliesi,IT,40
-1992-12-20,Paul Accola,CH,99
-1992-12-20,Mitja Kunc,SK,43
-1992-12-20,Patrick Holzer,IT,14
-1992-12-20,Hans Pieren,CH,76
-1992-12-20,Marc Girardelli,LU,212
-1992-12-20,Johan Wallner,SE,104
-1992-12-20,Lasse Kjus,NO,129
-1992-12-20,Fredrik Nyberg,SE,122
-1992-12-20,Richard Kroell,AT,61
-1992-12-20,Kjetil Andre Aamodt,NO,170
-1992-12-20,Tobias Barnerssoi,DE,80
-1992-12-20,Tom Stiansen,NO,13
-1992-12-20,Siegfried Voglreiter,AT,8
-1992-12-20,Adrien Duvillard,FR,7
-1992-12-20,Patrick Staub,CH,2
-1992-12-20,Roberto Spampatti,IT,39
-1992-12-20,Finn Chr. Jagge,NO,0
-1992-12-20,Atle Skaardal,NO,0
-1992-12-20,Fritz Strobl,AT,0
-1992-12-20,Luca Pesando,IT,0
-1992-12-20,Gerhard Koenigsrainer,IT,0
-1992-12-20,Thomas Grandi,CA,0
-1992-12-20,Marcel Sulliger,CH,0
-1992-12-20,Oliver Kuenzi,CH,0
-1992-12-20,Sergio Bergamelli,IT,89
-1992-12-20,Marco Hangl,CH,0
-1992-12-20,Jeremy Nobis,US,0
-1992-12-20,Jan Einar Thorsen,NO,2
-1992-12-20,Stephan Eberharter,AT,7
-1992-12-20,Hubert Strolz,AT,12
-1992-12-20,Ole Kristian Furuseth,NO,22
-1992-12-20,Alain Feutrier,FR,80
-1992-12-20,Hans Knauss,AT,14
-1992-12-20,Guenther Marxer,LI,4
-1992-12-20,Franck Carmagnolle,FR,5
-1992-12-20,Stephane Exartier,FR,9
-1992-12-20,Guenther Mader,AT,0
-1992-12-20,Markus Wasmeier,DE,3
-1992-12-20,Massimo Zucchelli,IT,16
-1992-12-20,Richard Pramotton,IT,1
-1992-12-20,Jure Kosir,SK,15
-1992-12-20,Christian Mayer,AT,24
-1992-12-20,Alberto Tomba,IT,176
-1992-12-20,Helmut Mayer,AT,5
-1992-12-20,Peter Roth,DE,31
-1992-12-20,Frank Piccard,FR,24
-1992-12-20,Matteo Belfrond,IT,40
-1992-12-20,Ian Piccard,FR,40
-1992-12-20,Didrik Marksten,NO,55
-1992-12-20,Stephane Cretin,FR,15
-1992-12-20,Urs Kaelin,CH,32
-1992-12-20,Michel Lucatelli,FR,7
-1992-12-20,Rainer Salzgeber,AT,33
-1993-01-19,Matteo Belfrond,IT,40
-1993-01-19,Oliver Kuenzi,CH,4
-1993-01-19,Paul Accola,CH,99
-1993-01-19,Jeremy Nobis,US,29
-1993-01-19,Tobias Barnerssoi,DE,80
-1993-01-19,Ian Piccard,FR,49
-1993-01-19,Ole Kristian Furuseth,NO,34
-1993-01-19,Massimo Zucchelli,IT,16
-1993-01-19,Steve Locher,CH,82
-1993-01-19,Jure Kosir,SK,25
-1993-01-19,Marco Hangl,CH,11
-1993-01-19,Sergio Bergamelli,IT,125
-1993-01-19,Peter Roth,DE,31
-1993-01-19,Tom Stiansen,NO,13
-1993-01-19,Patrick Staub,CH,10
-1993-01-19,Michel Lucatelli,FR,9
-1993-01-19,Siegfried Voglreiter,AT,21
-1993-01-19,Finn Chr. Jagge,NO,0
-1993-01-19,Atle Skaardal,NO,0
-1993-01-19,Fritz Strobl,AT,0
-1993-01-19,Luca Pesando,IT,0
-1993-01-19,Gerhard Koenigsrainer,IT,0
-1993-01-19,Thomas Grandi,CA,0
-1993-01-19,Richard Pramotton,IT,1
-1993-01-19,Markus Wasmeier,DE,3
-1993-01-19,Patrick Holzer,IT,14
-1993-01-19,Jan Einar Thorsen,NO,2
-1993-01-19,Mitja Kunc,SK,43
-1993-01-19,Alberto Senigagliesi,IT,40
-1993-01-19,Christian Mayer,AT,24
-1993-01-19,Alain Feutrier,FR,80
-1993-01-19,Guenther Marxer,LI,4
-1993-01-19,Franck Carmagnolle,FR,5
-1993-01-19,Stephane Exartier,FR,9
-1993-01-19,Adrien Duvillard,FR,7
-1993-01-19,Urs Kaelin,CH,32
-1993-01-19,Roberto Spampatti,IT,39
-1993-01-19,Stephane Cretin,FR,15
-1993-01-19,Frank Piccard,FR,50
-1993-01-19,Didrik Marksten,NO,55
-1993-01-19,Josef Polig,IT,30
-1993-01-19,Marc Girardelli,LU,262
-1993-01-19,Lasse Kjus,NO,189
-1993-01-19,Richard Kroell,AT,77
-1993-01-19,Alberto Tomba,IT,256
-1993-01-19,Helmut Mayer,AT,20
-1993-01-19,Fredrik Nyberg,SE,140
-1993-01-19,Hans Pieren,CH,121
-1993-01-19,Michael von Gruenigen,CH,182
-1993-01-19,Hans Knauss,AT,20
-1993-01-19,Marcel Sulliger,CH,3
-1993-01-19,Hubert Strolz,AT,32
-1993-01-19,Rainer Salzgeber,AT,65
-1993-01-19,Stephan Eberharter,AT,12
-1993-01-19,Guenther Mader,AT,24
-1993-01-19,Johan Wallner,SE,128
-1993-01-19,Kjetil Andre Aamodt,NO,210
-1993-03-23,Jure Kosir,SK,25
-1993-03-23,Jeremy Nobis,US,29
-1993-03-23,Patrick Holzer,IT,17
-1993-03-23,Alberto Tomba,IT,301
-1993-03-23,Marco Hangl,CH,11
-1993-03-23,Oliver Kuenzi,CH,4
-1993-03-23,Fritz Strobl,AT,0
-1993-03-23,Steve Locher,CH,98
-1993-03-23,Atle Skaardal,NO,0
-1993-03-23,Marc Girardelli,LU,312
-1993-03-23,Guenther Mader,AT,26
-1993-03-23,Finn Chr. Jagge,NO,0
-1993-03-23,Thomas Grandi,CA,13
-1993-03-23,Matteo Belfrond,IT,40
-1993-03-23,Sergio Bergamelli,IT,125
-1993-03-23,Josef Polig,IT,30
-1993-03-23,Patrick Staub,CH,10
-1993-03-23,Jan Einar Thorsen,NO,2
-1993-03-23,Stephane Cretin,FR,15
-1993-03-23,Stephan Eberharter,AT,12
-1993-03-23,Mitja Kunc,SK,43
-1993-03-23,Markus Wasmeier,DE,3
-1993-03-23,Hubert Strolz,AT,32
-1993-03-23,Alberto Senigagliesi,IT,40
-1993-03-23,Michel Lucatelli,FR,9
-1993-03-23,Rainer Salzgeber,AT,65
-1993-03-23,Franck Carmagnolle,FR,5
-1993-03-23,Massimo Zucchelli,IT,21
-1993-03-23,Stephane Exartier,FR,9
-1993-03-23,Adrien Duvillard,FR,7
-1993-03-23,Siegfried Voglreiter,AT,21
-1993-03-23,Roberto Spampatti,IT,39
-1993-03-23,Peter Roth,DE,31
-1993-03-23,Guenther Marxer,LI,4
-1993-03-23,Hans Knauss,AT,46
-1993-03-23,Hans Pieren,CH,121
-1993-03-23,Fredrik Nyberg,SE,200
-1993-03-23,Alain Feutrier,FR,112
-1993-03-23,Luca Pesando,IT,8
-1993-03-23,Frank Piccard,FR,79
-1993-03-23,Ole Kristian Furuseth,NO,70
-1993-03-23,Paul Accola,CH,139
-1993-03-23,Didrik Marksten,NO,64
-1993-03-23,Urs Kaelin,CH,56
-1993-03-23,Ian Piccard,FR,59
-1993-03-23,Michael von Gruenigen,CH,204
-1993-03-23,Helmut Mayer,AT,31
-1993-03-23,Richard Pramotton,IT,8
-1993-03-23,Marcel Sulliger,CH,17
-1993-03-23,Gerhard Koenigsrainer,IT,12
-1993-03-23,Tom Stiansen,NO,17
-1993-03-23,Kjetil Andre Aamodt,NO,310
-1993-03-23,Christian Mayer,AT,30
-1993-03-23,Richard Kroell,AT,95
-1993-03-23,Tobias Barnerssoi,DE,95
-1993-03-23,Johan Wallner,SE,208
-1993-03-23,Lasse Kjus,NO,209
-1993-03-27,Hans Knauss,AT,46
-1993-03-27,Rainer Salzgeber,AT,65
-1993-03-27,Ole Kristian Furuseth,NO,70
-1993-03-27,Stephane Cretin,FR,15
-1993-03-27,Christian Mayer,AT,30
-1993-03-27,Alberto Senigagliesi,IT,40
-1993-03-27,Hubert Strolz,AT,32
-1993-03-27,Franck Carmagnolle,FR,5
-1993-03-27,Mitja Kunc,SK,43
-1993-03-27,Stephan Eberharter,AT,12
-1993-03-27,Guenther Marxer,LI,4
-1993-03-27,Massimo Zucchelli,IT,41
-1993-03-27,Jure Kosir,SK,25
-1993-03-27,Stephane Exartier,FR,9
-1993-03-27,Michel Lucatelli,FR,9
-1993-03-27,Patrick Staub,CH,10
-1993-03-27,Richard Pramotton,IT,8
-1993-03-27,Jeremy Nobis,US,29
-1993-03-27,Marco Hangl,CH,11
-1993-03-27,Oliver Kuenzi,CH,4
-1993-03-27,Marcel Sulliger,CH,17
-1993-03-27,Thomas Grandi,CA,13
-1993-03-27,Gerhard Koenigsrainer,IT,12
-1993-03-27,Markus Wasmeier,DE,21
-1993-03-27,Richard Kroell,AT,111
-1993-03-27,Lasse Kjus,NO,254
-1993-03-27,Ian Piccard,FR,59
-1993-03-27,Adrien Duvillard,FR,7
-1993-03-27,Roberto Spampatti,IT,39
-1993-03-27,Urs Kaelin,CH,56
-1993-03-27,Luca Pesando,IT,20
-1993-03-27,Fritz Strobl,AT,14
-1993-03-27,Steve Locher,CH,124
-1993-03-27,Hans Pieren,CH,143
-1993-03-27,Helmut Mayer,AT,44
-1993-03-27,Guenther Mader,AT,37
-1993-03-27,Sergio Bergamelli,IT,140
-1993-03-27,Kjetil Andre Aamodt,NO,410
-1993-03-27,Atle Skaardal,NO,10
-1993-03-27,Frank Piccard,FR,119
-1993-03-27,Tobias Barnerssoi,DE,119
-1993-03-27,Alain Feutrier,FR,148
-1993-03-27,Jan Einar Thorsen,NO,11
-1993-03-27,Alberto Tomba,IT,381
-1993-03-27,Fredrik Nyberg,SE,250
-1993-03-27,Paul Accola,CH,168
-1993-03-27,Michael von Gruenigen,CH,236
-1993-03-27,Marc Girardelli,LU,372
-1993-03-27,Johan Wallner,SE,208
-1993-03-27,Didrik Marksten,NO,64
-1993-03-27,Matteo Belfrond,IT,40
-1993-03-27,Josef Polig,IT,30
-1993-03-27,Peter Roth,DE,31
-1993-03-27,Patrick Holzer,IT,17
-1993-03-27,Tom Stiansen,NO,17
-1993-03-27,Siegfried Voglreiter,AT,21
-1993-03-27,Finn Chr. Jagge,NO,8
+1992-11-28,Ulrike Maier,AT,100
+1992-11-28,Gabriela Zingre-Graf,CH,0
+1992-11-28,Regina Haeusl,DE,0
+1992-11-28,Andrea Schwarzenberger,DE,22
+1992-11-28,Caroline Gedde Dahl,NO,0
+1992-11-28,Kerrin Lee- Gartner,CA,0
+1992-11-28,Spela Pretnar,SK,0
+1992-11-28,Barbara Raggl,AT,0
+1992-11-28,Barbara Merlin,IT,0
+1992-11-28,Morena Gallizio Tescari,IT,0
+1992-11-28,Marcella Biondi,IT,0
+1992-11-28,Anne Parisien,US,0
+1992-11-28,Sophie Lefranc Duvillard,FR,26
+1992-11-28,Nives Sitar,SK,0
+1992-11-28,Katja Seizinger,DE,0
+1992-11-28,Katyuscia Demez,IT,0
+1992-11-28,Manuela Lieb,AT,0
+1992-11-28,Kerstin Riediger,DE,0
+1992-11-28,Mojca Suhadolc,SK,0
+1992-11-28,Julie M. J. Parisien,US,29
+1992-11-28,Regine Cavagnoud,FR,0
+1992-11-28,Eva Twardokens,US,14
+1992-11-28,Kari Anne Saude,NO,0
+1992-11-28,Michaela Gerg-Leitner,DE,26
+1992-11-28,Leila Piccard,FR,0
+1992-11-28,Lara Magoni,IT,0
+1992-11-28,Ingrid Salvenmoser,AT,0
+1992-11-28,Petra Bernet,CH,12
+1992-11-28,Angelika Hurler,DE,11
+1992-11-28,Martina Ertl,DE,10
+1992-11-28,Diann Roffe Steinrotter,US,15
+1992-11-28,Marianne Kjoerstad,NO,10
+1992-11-28,Sabine Ginther,AT,8
+1992-11-28,Natasa Bokal,SK,7
+1992-11-28,Anne Berge,NO,16
+1992-11-28,Petra Kronberger,AT,6
+1992-11-28,Gaby May,CH,5
+1992-11-28,Christelle Guignard,FR,0
+1992-11-28,Heidi Voelker,US,4
+1992-11-28,Heidi Zurbriggen,CH,2
+1992-11-28,Beatrice Filliol,FR,1
+1992-11-28,Wendy Fisher,US,18
+1992-11-28,Sabina Panzanini,IT,0
+1992-11-28,Deborah Compagnoni,IT,0
+1992-11-28,Kristina Andersson,SE,0
+1992-11-28,Bibiana Perez,IT,0
+1992-11-28,Miriam Vogt,DE,0
+1992-11-28,Christina Meier,DE,0
+1992-11-28,Edith Thys,US,20
+1992-11-28,Corinne Rey Bellet,CH,3
+1992-11-28,Sonja Nef,CH,0
+1992-11-28,Edda Mutter,DE,0
+1992-11-28,Astrid Loedemel,NO,32
+1992-11-28,Carole Merle,FR,80
+1992-11-28,Vreni Schneider,CH,60
+1992-11-28,Karin Roten Meier,CH,0
+1992-11-28,Anita Wachter,AT,45
+1992-11-28,Merete Fjeldavlie,NO,40
+1992-11-28,Pernilla Wiberg,SE,50
+1992-11-28,Sylvia Eder,AT,13
+1992-11-28,Zali Steggall,AU,0
+1992-11-28,Annelise Coberger,NZ,0
+1992-11-28,Heidi Zeller - Baehler,CH,36
+1992-12-05,Katyuscia Demez,IT,0
+1992-12-05,Manuela Lieb,AT,0
+1992-12-05,Natasa Bokal,SK,20
+1992-12-05,Kerstin Riediger,DE,0
+1992-12-05,Mojca Suhadolc,SK,0
+1992-12-05,Regine Cavagnoud,FR,0
+1992-12-05,Edda Mutter,DE,0
+1992-12-05,Kari Anne Saude,NO,0
+1992-12-05,Leila Piccard,FR,0
+1992-12-05,Lara Magoni,IT,12
+1992-12-05,Katja Seizinger,DE,0
+1992-12-05,Eva Twardokens,US,22
+1992-12-05,Sonja Nef,CH,0
+1992-12-05,Gabriela Zingre-Graf,CH,10
+1992-12-05,Karin Roten Meier,CH,0
+1992-12-05,Annelise Coberger,NZ,0
+1992-12-05,Zali Steggall,AU,0
+1992-12-05,Anne Parisien,US,11
+1992-12-05,Merete Fjeldavlie,NO,64
+1992-12-05,Regina Haeusl,DE,9
+1992-12-05,Caroline Gedde Dahl,NO,7
+1992-12-05,Heidi Zeller - Baehler,CH,36
+1992-12-05,Morena Gallizio Tescari,IT,0
+1992-12-05,Astrid Loedemel,NO,32
+1992-12-05,Julie M. J. Parisien,US,29
+1992-12-05,Michaela Gerg-Leitner,DE,26
+1992-12-05,Sophie Lefranc Duvillard,FR,26
+1992-12-05,Edith Thys,US,20
+1992-12-05,Wendy Fisher,US,18
+1992-12-05,Pernilla Wiberg,SE,50
+1992-12-05,Petra Bernet,CH,12
+1992-12-05,Angelika Hurler,DE,11
+1992-12-05,Sabine Ginther,AT,8
+1992-12-05,Petra Kronberger,AT,6
+1992-12-05,Gaby May,CH,5
+1992-12-05,Heidi Voelker,US,4
+1992-12-05,Vreni Schneider,CH,60
+1992-12-05,Corinne Rey Bellet,CH,3
+1992-12-05,Beatrice Filliol,FR,1
+1992-12-05,Kerrin Lee- Gartner,CA,0
+1992-12-05,Spela Pretnar,SK,0
+1992-12-05,Barbara Raggl,AT,0
+1992-12-05,Barbara Merlin,IT,0
+1992-12-05,Carole Merle,FR,80
+1992-12-05,Marcella Biondi,IT,0
+1992-12-05,Nives Sitar,SK,0
+1992-12-05,Heidi Zurbriggen,CH,2
+1992-12-05,Anne Berge,NO,34
+1992-12-05,Christelle Guignard,FR,16
+1992-12-05,Ulrike Maier,AT,132
+1992-12-05,Miriam Vogt,DE,26
+1992-12-05,Marianne Kjoerstad,NO,25
+1992-12-05,Diann Roffe Steinrotter,US,51
+1992-12-05,Martina Ertl,DE,50
+1992-12-05,Ingrid Salvenmoser,AT,20
+1992-12-05,Kristina Andersson,SE,45
+1992-12-05,Christina Meier,DE,22
+1992-12-05,Sabina Panzanini,IT,80
+1992-12-05,Deborah Compagnoni,IT,60
+1992-12-05,Sylvia Eder,AT,63
+1992-12-05,Anita Wachter,AT,145
+1992-12-05,Andrea Schwarzenberger,DE,36
+1992-12-05,Bibiana Perez,IT,29
+1993-01-05,Kerrin Lee- Gartner,CA,22
+1993-01-05,Bibiana Perez,IT,29
+1993-01-05,Christelle Guignard,FR,16
+1993-01-05,Lara Magoni,IT,12
+1993-01-05,Edda Mutter,DE,0
+1993-01-05,Regine Cavagnoud,FR,0
+1993-01-05,Anne Parisien,US,11
+1993-01-05,Mojca Suhadolc,SK,0
+1993-01-05,Kari Anne Saude,NO,0
+1993-01-05,Kerstin Riediger,DE,0
+1993-01-05,Gabriela Zingre-Graf,CH,10
+1993-01-05,Ulrike Maier,AT,152
+1993-01-05,Regina Haeusl,DE,9
+1993-01-05,Katja Seizinger,DE,0
+1993-01-05,Katyuscia Demez,IT,0
+1993-01-05,Manuela Lieb,AT,0
+1993-01-05,Christina Meier,DE,51
+1993-01-05,Sylvia Eder,AT,89
+1993-01-05,Leila Piccard,FR,0
+1993-01-05,Corinne Rey Bellet,CH,35
+1993-01-05,Beatrice Filliol,FR,1
+1993-01-05,Martina Ertl,DE,100
+1993-01-05,Anita Wachter,AT,225
+1993-01-05,Merete Fjeldavlie,NO,64
+1993-01-05,Sabina Panzanini,IT,125
+1993-01-05,Astrid Loedemel,NO,32
+1993-01-05,Julie M. J. Parisien,US,29
+1993-01-05,Sophie Lefranc Duvillard,FR,26
+1993-01-05,Andrea Schwarzenberger,DE,36
+1993-01-05,Pernilla Wiberg,SE,90
+1993-01-05,Edith Thys,US,20
+1993-01-05,Wendy Fisher,US,18
+1993-01-05,Anne Berge,NO,34
+1993-01-05,Eva Twardokens,US,22
+1993-01-05,Angelika Hurler,DE,11
+1993-01-05,Michaela Gerg-Leitner,DE,62
+1993-01-05,Natasa Bokal,SK,20
+1993-01-05,Petra Kronberger,AT,6
+1993-01-05,Gaby May,CH,5
+1993-01-05,Sonja Nef,CH,0
+1993-01-05,Heidi Voelker,US,4
+1993-01-05,Heidi Zurbriggen,CH,2
+1993-01-05,Deborah Compagnoni,IT,60
+1993-01-05,Marianne Kjoerstad,NO,39
+1993-01-05,Karin Roten Meier,CH,0
+1993-01-05,Spela Pretnar,SK,18
+1993-01-05,Miriam Vogt,DE,42
+1993-01-05,Petra Bernet,CH,19
+1993-01-05,Kristina Andersson,SE,53
+1993-01-05,Marcella Biondi,IT,6
+1993-01-05,Carole Merle,FR,180
+1993-01-05,Heidi Zeller - Baehler,CH,48
+1993-01-05,Diann Roffe Steinrotter,US,75
+1993-01-05,Caroline Gedde Dahl,NO,12
+1993-01-05,Vreni Schneider,CH,120
+1993-01-05,Nives Sitar,SK,4
+1993-01-05,Morena Gallizio Tescari,IT,10
+1993-01-05,Sabine Ginther,AT,17
+1993-01-05,Ingrid Salvenmoser,AT,35
+1993-01-05,Zali Steggall,AU,0
+1993-01-05,Annelise Coberger,NZ,0
+1993-01-05,Barbara Raggl,AT,13
+1993-01-05,Barbara Merlin,IT,12
+1993-01-10,Mojca Suhadolc,SK,0
+1993-01-10,Regine Cavagnoud,FR,0
+1993-01-10,Edda Mutter,DE,0
+1993-01-10,Kari Anne Saude,NO,0
+1993-01-10,Karin Roten Meier,CH,0
+1993-01-10,Sonja Nef,CH,0
+1993-01-10,Nives Sitar,SK,4
+1993-01-10,Annelise Coberger,NZ,0
+1993-01-10,Zali Steggall,AU,0
+1993-01-10,Carole Merle,FR,280
+1993-01-10,Anita Wachter,AT,305
+1993-01-10,Katja Seizinger,DE,24
+1993-01-10,Barbara Merlin,IT,21
+1993-01-10,Leila Piccard,FR,0
+1993-01-10,Marcella Biondi,IT,6
+1993-01-10,Miriam Vogt,DE,42
+1993-01-10,Gabriela Zingre-Graf,CH,10
+1993-01-10,Ulrike Maier,AT,152
+1993-01-10,Vreni Schneider,CH,120
+1993-01-10,Pernilla Wiberg,SE,90
+1993-01-10,Merete Fjeldavlie,NO,64
+1993-01-10,Astrid Loedemel,NO,32
+1993-01-10,Julie M. J. Parisien,US,29
+1993-01-10,Michaela Gerg-Leitner,DE,62
+1993-01-10,Sophie Lefranc Duvillard,FR,26
+1993-01-10,Andrea Schwarzenberger,DE,36
+1993-01-10,Edith Thys,US,20
+1993-01-10,Wendy Fisher,US,18
+1993-01-10,Diann Roffe Steinrotter,US,75
+1993-01-10,Eva Twardokens,US,22
+1993-01-10,Angelika Hurler,DE,11
+1993-01-10,Natasa Bokal,SK,20
+1993-01-10,Petra Kronberger,AT,6
+1993-01-10,Beatrice Filliol,FR,1
+1993-01-10,Sabina Panzanini,IT,125
+1993-01-10,Bibiana Perez,IT,29
+1993-01-10,Christelle Guignard,FR,16
+1993-01-10,Anne Parisien,US,11
+1993-01-10,Regina Haeusl,DE,9
+1993-01-10,Deborah Compagnoni,IT,120
+1993-01-10,Gaby May,CH,19
+1993-01-10,Anne Berge,NO,52
+1993-01-10,Manuela Lieb,AT,16
+1993-01-10,Martina Ertl,DE,132
+1993-01-10,Caroline Gedde Dahl,NO,15
+1993-01-10,Petra Bernet,CH,29
+1993-01-10,Spela Pretnar,SK,54
+1993-01-10,Christina Meier,DE,77
+1993-01-10,Heidi Voelker,US,11
+1993-01-10,Heidi Zeller - Baehler,CH,88
+1993-01-10,Kerrin Lee- Gartner,CA,28
+1993-01-10,Heidi Zurbriggen,CH,31
+1993-01-10,Barbara Raggl,AT,28
+1993-01-10,Sylvia Eder,AT,134
+1993-01-10,Morena Gallizio Tescari,IT,21
+1993-01-10,Corinne Rey Bellet,CH,85
+1993-01-10,Ingrid Salvenmoser,AT,39
+1993-01-10,Lara Magoni,IT,34
+1993-01-10,Katyuscia Demez,IT,20
+1993-01-10,Marianne Kjoerstad,NO,52
+1993-01-10,Kerstin Riediger,DE,8
+1993-01-10,Kristina Andersson,SE,58
+1993-01-10,Sabine Ginther,AT,29
+1993-03-15,Gaby May,CH,19
+1993-03-15,Manuela Lieb,AT,21
+1993-03-15,Petra Bernet,CH,47
+1993-03-15,Heidi Voelker,US,11
+1993-03-15,Petra Kronberger,AT,6
+1993-03-15,Ingrid Salvenmoser,AT,47
+1993-03-15,Kerstin Riediger,DE,12
+1993-03-15,Marcella Biondi,IT,13
+1993-03-15,Heidi Zurbriggen,CH,37
+1993-03-15,Christelle Guignard,FR,16
+1993-03-15,Natasa Bokal,SK,20
+1993-03-15,Pernilla Wiberg,SE,90
+1993-03-15,Vreni Schneider,CH,120
+1993-03-15,Michaela Gerg-Leitner,DE,62
+1993-03-15,Andrea Schwarzenberger,DE,36
+1993-03-15,Edith Thys,US,20
+1993-03-15,Mojca Suhadolc,SK,15
+1993-03-15,Caroline Gedde Dahl,NO,31
+1993-03-15,Katyuscia Demez,IT,32
+1993-03-15,Diann Roffe Steinrotter,US,75
+1993-03-15,Kristina Andersson,SE,69
+1993-03-15,Eva Twardokens,US,22
+1993-03-15,Sylvia Eder,AT,134
+1993-03-15,Angelika Hurler,DE,11
+1993-03-15,Sabine Ginther,AT,29
+1993-03-15,Wendy Fisher,US,18
+1993-03-15,Sophie Lefranc Duvillard,FR,36
+1993-03-15,Anita Wachter,AT,325
+1993-03-15,Corinne Rey Bellet,CH,85
+1993-03-15,Kari Anne Saude,NO,0
+1993-03-15,Leila Piccard,FR,0
+1993-03-15,Carole Merle,FR,320
+1993-03-15,Sonja Nef,CH,0
+1993-03-15,Karin Roten Meier,CH,0
+1993-03-15,Ulrike Maier,AT,197
+1993-03-15,Edda Mutter,DE,3
+1993-03-15,Annelise Coberger,NZ,0
+1993-03-15,Christina Meier,DE,177
+1993-03-15,Zali Steggall,AU,0
+1993-03-15,Regine Cavagnoud,FR,13
+1993-03-15,Anne Berge,NO,102
+1993-03-15,Martina Ertl,DE,212
+1993-03-15,Kerrin Lee- Gartner,CA,42
+1993-03-15,Julie M. J. Parisien,US,38
+1993-03-15,Sabina Panzanini,IT,161
+1993-03-15,Nives Sitar,SK,4
+1993-03-15,Heidi Zeller - Baehler,CH,120
+1993-03-15,Beatrice Filliol,FR,1
+1993-03-15,Merete Fjeldavlie,NO,64
+1993-03-15,Deborah Compagnoni,IT,120
+1993-03-15,Bibiana Perez,IT,29
+1993-03-15,Marianne Kjoerstad,NO,74
+1993-03-15,Barbara Raggl,AT,28
+1993-03-15,Katja Seizinger,DE,84
+1993-03-15,Miriam Vogt,DE,42
+1993-03-15,Lara Magoni,IT,60
+1993-03-15,Anne Parisien,US,11
+1993-03-15,Gabriela Zingre-Graf,CH,10
+1993-03-15,Morena Gallizio Tescari,IT,50
+1993-03-15,Regina Haeusl,DE,9
+1993-03-15,Spela Pretnar,SK,54
+1993-03-15,Barbara Merlin,IT,47
+1993-03-15,Astrid Loedemel,NO,32
+1993-03-20,Diann Roffe Steinrotter,US,75
+1993-03-20,Wendy Fisher,US,18
+1993-03-20,Heidi Zurbriggen,CH,37
+1993-03-20,Sylvia Eder,AT,134
+1993-03-20,Katyuscia Demez,IT,46
+1993-03-20,Anne Berge,NO,126
+1993-03-20,Zali Steggall,AU,0
+1993-03-20,Annelise Coberger,NZ,0
+1993-03-20,Karin Roten Meier,CH,0
+1993-03-20,Edda Mutter,DE,3
+1993-03-20,Mojca Suhadolc,SK,15
+1993-03-20,Kerstin Riediger,DE,12
+1993-03-20,Manuela Lieb,AT,21
+1993-03-20,Nives Sitar,SK,4
+1993-03-20,Marcella Biondi,IT,13
+1993-03-20,Barbara Merlin,IT,47
+1993-03-20,Barbara Raggl,AT,28
+1993-03-20,Spela Pretnar,SK,54
+1993-03-20,Regina Haeusl,DE,9
+1993-03-20,Gabriela Zingre-Graf,CH,10
+1993-03-20,Anne Parisien,US,11
+1993-03-20,Petra Bernet,CH,47
+1993-03-20,Angelika Hurler,DE,11
+1993-03-20,Sabine Ginther,AT,29
+1993-03-20,Natasa Bokal,SK,20
+1993-03-20,Petra Kronberger,AT,6
+1993-03-20,Gaby May,CH,19
+1993-03-20,Eva Twardokens,US,22
+1993-03-20,Heidi Voelker,US,11
+1993-03-20,Edith Thys,US,20
+1993-03-20,Beatrice Filliol,FR,1
+1993-03-20,Deborah Compagnoni,IT,120
+1993-03-20,Miriam Vogt,DE,42
+1993-03-20,Ingrid Salvenmoser,AT,47
+1993-03-20,Christelle Guignard,FR,16
+1993-03-20,Corinne Rey Bellet,CH,85
+1993-03-20,Andrea Schwarzenberger,DE,36
+1993-03-20,Carole Merle,FR,380
+1993-03-20,Julie M. J. Parisien,US,38
+1993-03-20,Heidi Zeller - Baehler,CH,200
+1993-03-20,Lara Magoni,IT,110
+1993-03-20,Michaela Gerg-Leitner,DE,62
+1993-03-20,Katja Seizinger,DE,184
+1993-03-20,Sabina Panzanini,IT,206
+1993-03-20,Martina Ertl,DE,252
+1993-03-20,Caroline Gedde Dahl,NO,71
+1993-03-20,Bibiana Perez,IT,61
+1993-03-20,Morena Gallizio Tescari,IT,79
+1993-03-20,Ulrike Maier,AT,223
+1993-03-20,Christina Meier,DE,199
+1993-03-20,Kari Anne Saude,NO,20
+1993-03-20,Leila Piccard,FR,18
+1993-03-20,Sonja Nef,CH,9
+1993-03-20,Regine Cavagnoud,FR,26
+1993-03-20,Sophie Lefranc Duvillard,FR,46
+1993-03-20,Vreni Schneider,CH,136
+1993-03-20,Kerrin Lee- Gartner,CA,50
+1993-03-20,Astrid Loedemel,NO,32
+1993-03-20,Pernilla Wiberg,SE,90
+1993-03-20,Anita Wachter,AT,336
+1993-03-20,Merete Fjeldavlie,NO,64
+1993-03-20,Marianne Kjoerstad,NO,89
+1993-03-20,Kristina Andersson,SE,81
+1993-03-27,Marcella Biondi,IT,13
+1993-03-27,Barbara Merlin,IT,47
+1993-03-27,Spela Pretnar,SK,54
+1993-03-27,Kerrin Lee- Gartner,CA,50
+1993-03-27,Anne Parisien,US,11
+1993-03-27,Gabriela Zingre-Graf,CH,10
+1993-03-27,Nives Sitar,SK,4
+1993-03-27,Lara Magoni,IT,110
+1993-03-27,Christelle Guignard,FR,16
+1993-03-27,Ingrid Salvenmoser,AT,47
+1993-03-27,Miriam Vogt,DE,42
+1993-03-27,Caroline Gedde Dahl,NO,71
+1993-03-27,Katyuscia Demez,IT,46
+1993-03-27,Heidi Zurbriggen,CH,55
+1993-03-27,Kerstin Riediger,DE,12
+1993-03-27,Mojca Suhadolc,SK,15
+1993-03-27,Bibiana Perez,IT,61
+1993-03-27,Regine Cavagnoud,FR,26
+1993-03-27,Edda Mutter,DE,3
+1993-03-27,Kari Anne Saude,NO,20
+1993-03-27,Leila Piccard,FR,18
+1993-03-27,Sonja Nef,CH,9
+1993-03-27,Carole Merle,FR,480
+1993-03-27,Karin Roten Meier,CH,15
+1993-03-27,Sylvia Eder,AT,158
+1993-03-27,Christina Meier,DE,213
+1993-03-27,Deborah Compagnoni,IT,200
+1993-03-27,Anita Wachter,AT,396
+1993-03-27,Manuela Lieb,AT,21
+1993-03-27,Beatrice Filliol,FR,1
+1993-03-27,Petra Kronberger,AT,6
+1993-03-27,Heidi Voelker,US,11
+1993-03-27,Regina Haeusl,DE,29
+1993-03-27,Marianne Kjoerstad,NO,111
+1993-03-27,Kristina Andersson,SE,97
+1993-03-27,Martina Ertl,DE,278
+1993-03-27,Zali Steggall,AU,11
+1993-03-27,Ulrike Maier,AT,252
+1993-03-27,Sabina Panzanini,IT,238
+1993-03-27,Annelise Coberger,NZ,12
+1993-03-27,Anne Berge,NO,162
+1993-03-27,Morena Gallizio Tescari,IT,119
+1993-03-27,Heidi Zeller - Baehler,CH,245
+1993-03-27,Barbara Raggl,AT,41
+1993-03-27,Katja Seizinger,DE,234
+1993-03-27,Vreni Schneider,CH,136
+1993-03-27,Pernilla Wiberg,SE,90
+1993-03-27,Merete Fjeldavlie,NO,64
+1993-03-27,Astrid Loedemel,NO,32
+1993-03-27,Julie M. J. Parisien,US,38
+1993-03-27,Michaela Gerg-Leitner,DE,62
+1993-03-27,Sophie Lefranc Duvillard,FR,46
+1993-03-27,Andrea Schwarzenberger,DE,36
+1993-03-27,Wendy Fisher,US,18
+1993-03-27,Diann Roffe Steinrotter,US,75
+1993-03-27,Eva Twardokens,US,22
+1993-03-27,Petra Bernet,CH,47
+1993-03-27,Angelika Hurler,DE,11
+1993-03-27,Sabine Ginther,AT,29
+1993-03-27,Natasa Bokal,SK,20
+1993-03-27,Gaby May,CH,19
+1993-03-27,Corinne Rey Bellet,CH,85
+1993-03-27,Edith Thys,US,20

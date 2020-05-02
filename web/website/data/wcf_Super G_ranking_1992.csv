@@ -1,367 +1,355 @@
 date,name,ath_country,value
-1991-12-08,Marc Girardelli,LU,100
-1991-12-08,Konstantin Chistiakov,RU,0
-1991-12-08,Tom Stiansen,NO,0
-1991-12-08,Patrick Holzer,IT,0
-1991-12-08,Hannes Zehentner,DE,1
-1991-12-08,Gianfranco Martin,IT,2
-1991-12-08,Danilo Sbardellotto,IT,3
-1991-12-08,Thierry Gentina,FR,4
-1991-12-08,Steve Locher,CH,5
-1991-12-08,Tommy Moe,US,6
-1991-12-08,Patrick Ortlieb,AT,7
-1991-12-08,Armin Assinger,AT,0
-1991-12-08,Jan Einar Thorsen,NO,8
-1991-12-08,Alberto Senigagliesi,IT,10
-1991-12-08,Armand Schiele,FR,14
-1991-12-08,Urs Lehmann,CH,14
-1991-12-08,Didrik Marksten,NO,16
-1991-12-08,Josef Polig,IT,18
-1991-12-08,Guenther Mader,AT,20
-1991-12-08,Hans-Joerg Tauscher,DE,22
-1991-12-08,Ole Kristian Furuseth,NO,24
-1991-12-08,Peter Rzehak,AT,26
-1991-12-08,Fredrik Nyberg,SE,28
-1991-12-08,Attilio Barcella,IT,9
-1991-12-08,Lasse Arnesen,NO,0
-1991-12-08,David Pretot,FR,0
-1991-12-08,Kristian Ghedina,IT,0
-1991-12-08,Reggie Crist,US,0
-1991-12-08,Cary Mullen,CA,0
-1991-12-08,Roman Torn,CA,0
-1991-12-08,Christophe Ple',FR,0
-1991-12-08,Berni Huber,DE,0
-1991-12-08,Daniel Brunner,CH,0
-1991-12-08,A.J. Kitt,US,0
-1991-12-08,Adrien Duvillard,FR,0
-1991-12-08,Leonhard Stock,AT,0
-1991-12-08,Kyle Rasmussen,US,0
-1991-12-08,Alberto Tomba,IT,0
-1991-12-08,Jeff Olson,US,0
-1991-12-08,Patrik Jaerbyn,SE,0
-1991-12-08,William Besse,CH,0
-1991-12-08,Jerome Noviant,FR,0
-1991-12-08,Jean Luc Cretier,FR,0
-1991-12-08,Hubert Strolz,AT,0
-1991-12-08,Daniel Mahrer,CH,0
-1991-12-08,Kjetil Andre Aamodt,NO,0
-1991-12-08,Niklas Henning,SE,0
-1991-12-08,Sergio Bergamelli,IT,0
-1991-12-08,Harald Chr. Strand Nilsen,NO,0
-1991-12-08,Janne Leskinen,FI,0
-1991-12-08,Markus Wasmeier,DE,31
-1991-12-08,Rainer Salzgeber,AT,34
-1991-12-08,Bernard Fahner,CH,0
-1991-12-08,Luc Alphand,FR,40
-1991-12-08,Franz Heinzer,CH,47
-1991-12-08,Marco Hangl,CH,51
-1991-12-08,Frank Piccard,FR,43
-1991-12-08,Paul Accola,CH,55
-1991-12-08,Atle Skaardal,NO,80
-1991-12-08,Stephan Eberharter,AT,37
-1991-12-08,Urs Kaelin,CH,60
-1992-01-12,Daniel Brunner,CH,0
-1992-01-12,Berni Huber,DE,0
-1992-01-12,Niklas Henning,SE,1
-1992-01-12,Sergio Bergamelli,IT,1
-1992-01-12,Markus Wasmeier,DE,78
-1992-01-12,Christophe Ple',FR,0
-1992-01-12,Roman Torn,CA,0
-1992-01-12,Cary Mullen,CA,0
-1992-01-12,Harald Chr. Strand Nilsen,NO,2
-1992-01-12,A.J. Kitt,US,0
-1992-01-12,Janne Leskinen,FI,3
-1992-01-12,Franz Heinzer,CH,51
-1992-01-12,Kristian Ghedina,IT,5
-1992-01-12,Attilio Barcella,IT,15
-1992-01-12,Stephan Eberharter,AT,37
-1992-01-12,Steve Locher,CH,13
-1992-01-12,Tommy Moe,US,14
-1992-01-12,Bernard Fahner,CH,9
-1992-01-12,Urs Lehmann,CH,57
-1992-01-12,Armand Schiele,FR,24
-1992-01-12,Reggie Crist,US,0
-1992-01-12,Adrien Duvillard,FR,0
-1992-01-12,Marco Hangl,CH,51
-1992-01-12,Hans-Joerg Tauscher,DE,73
-1992-01-12,Luc Alphand,FR,40
-1992-01-12,Frank Piccard,FR,43
-1992-01-12,Ole Kristian Furuseth,NO,24
-1992-01-12,Urs Kaelin,CH,60
-1992-01-12,Atle Skaardal,NO,80
-1992-01-12,Patrick Holzer,IT,100
-1992-01-12,Patrick Ortlieb,AT,7
-1992-01-12,Gianfranco Martin,IT,2
-1992-01-12,Hannes Zehentner,DE,1
-1992-01-12,Paul Accola,CH,135
-1992-01-12,Leonhard Stock,AT,0
-1992-01-12,Kjetil Andre Aamodt,NO,0
-1992-01-12,Hubert Strolz,AT,0
-1992-01-12,Peter Rzehak,AT,86
-1992-01-12,Jean Luc Cretier,FR,0
-1992-01-12,Jerome Noviant,FR,0
-1992-01-12,William Besse,CH,0
-1992-01-12,Alberto Senigagliesi,IT,65
-1992-01-12,Patrik Jaerbyn,SE,0
-1992-01-12,Jeff Olson,US,0
-1992-01-12,Alberto Tomba,IT,0
-1992-01-12,Didrik Marksten,NO,30
-1992-01-12,Daniel Mahrer,CH,0
-1992-01-12,Kyle Rasmussen,US,0
-1992-01-12,Fredrik Nyberg,SE,28
-1992-01-12,Danilo Sbardellotto,IT,27
-1992-01-12,Armin Assinger,AT,24
-1992-01-12,Tom Stiansen,NO,40
-1992-01-12,Rainer Salzgeber,AT,50
-1992-01-12,David Pretot,FR,12
-1992-01-12,Josef Polig,IT,38
-1992-01-12,Thierry Gentina,FR,32
-1992-01-12,Konstantin Chistiakov,RU,28
-1992-01-12,Guenther Mader,AT,51
-1992-01-12,Jan Einar Thorsen,NO,45
-1992-01-12,Marc Girardelli,LU,134
-1992-01-12,Lasse Arnesen,NO,18
-1992-02-01,Jan Einar Thorsen,NO,92
-1992-02-01,Kjetil Andre Aamodt,NO,40
-1992-02-01,Thierry Gentina,FR,35
-1992-02-01,Peter Rzehak,AT,86
-1992-02-01,Didrik Marksten,NO,30
-1992-02-01,Atle Skaardal,NO,80
-1992-02-01,Marc Girardelli,LU,181
-1992-02-01,Urs Kaelin,CH,64
-1992-02-01,David Pretot,FR,14
-1992-02-01,Rainer Salzgeber,AT,70
-1992-02-01,Hans-Joerg Tauscher,DE,73
-1992-02-01,Fredrik Nyberg,SE,29
-1992-02-01,Luc Alphand,FR,40
-1992-02-01,Ole Kristian Furuseth,NO,75
-1992-02-01,Stephan Eberharter,AT,61
-1992-02-01,Urs Lehmann,CH,57
-1992-02-01,Guenther Mader,AT,106
-1992-02-01,Jean Luc Cretier,FR,26
-1992-02-01,Franz Heinzer,CH,111
-1992-02-01,Patrick Ortlieb,AT,35
-1992-02-01,Jerome Noviant,FR,12
-1992-02-01,Marco Hangl,CH,131
-1992-02-01,Hubert Strolz,AT,31
-1992-02-01,Paul Accola,CH,235
-1992-02-01,Daniel Mahrer,CH,34
-1992-02-01,Frank Piccard,FR,80
-1992-02-01,Armand Schiele,FR,46
-1992-02-01,Alberto Senigagliesi,IT,65
-1992-02-01,Jeff Olson,US,0
-1992-02-01,Tommy Moe,US,14
-1992-02-01,Kyle Rasmussen,US,0
-1992-02-01,Attilio Barcella,IT,15
-1992-02-01,Leonhard Stock,AT,0
-1992-02-01,Adrien Duvillard,FR,0
-1992-02-01,A.J. Kitt,US,0
-1992-02-01,Bernard Fahner,CH,18
-1992-02-01,Hannes Zehentner,DE,17
-1992-02-01,Daniel Brunner,CH,0
-1992-02-01,Berni Huber,DE,0
-1992-02-01,Christophe Ple',FR,0
-1992-02-01,Lasse Arnesen,NO,28
-1992-02-01,Roman Torn,CA,0
-1992-02-01,Cary Mullen,CA,0
-1992-02-01,Reggie Crist,US,0
-1992-02-01,Markus Wasmeier,DE,92
-1992-02-01,Alberto Tomba,IT,0
-1992-02-01,Niklas Henning,SE,1
-1992-02-01,William Besse,CH,8
-1992-02-01,Kristian Ghedina,IT,5
-1992-02-01,Janne Leskinen,FI,3
-1992-02-01,Patrik Jaerbyn,SE,6
-1992-02-01,Armin Assinger,AT,24
-1992-02-01,Konstantin Chistiakov,RU,28
-1992-02-01,Harald Chr. Strand Nilsen,NO,2
-1992-02-01,Gianfranco Martin,IT,9
-1992-02-01,Danilo Sbardellotto,IT,27
-1992-02-01,Patrick Holzer,IT,100
-1992-02-01,Tom Stiansen,NO,45
-1992-02-01,Sergio Bergamelli,IT,1
-1992-02-01,Steve Locher,CH,13
-1992-02-01,Josef Polig,IT,56
-1992-03-01,Patrik Jaerbyn,SE,6
-1992-03-01,Stephan Eberharter,AT,61
-1992-03-01,Cary Mullen,CA,0
-1992-03-01,Reggie Crist,US,0
-1992-03-01,Jerome Noviant,FR,12
-1992-03-01,Jean Luc Cretier,FR,26
-1992-03-01,Peter Rzehak,AT,86
-1992-03-01,Frank Piccard,FR,80
-1992-03-01,Didrik Marksten,NO,30
-1992-03-01,Kjetil Andre Aamodt,NO,40
-1992-03-01,Patrick Ortlieb,AT,35
-1992-03-01,Niklas Henning,SE,1
-1992-03-01,Tommy Moe,US,14
-1992-03-01,Steve Locher,CH,13
-1992-03-01,Thierry Gentina,FR,35
-1992-03-01,Josef Polig,IT,56
-1992-03-01,Danilo Sbardellotto,IT,27
-1992-03-01,Hannes Zehentner,DE,17
-1992-03-01,Tom Stiansen,NO,45
-1992-03-01,Konstantin Chistiakov,RU,28
-1992-03-01,Attilio Barcella,IT,15
-1992-03-01,Armand Schiele,FR,46
-1992-03-01,Guenther Mader,AT,106
-1992-03-01,David Pretot,FR,14
-1992-03-01,Bernard Fahner,CH,18
-1992-03-01,Janne Leskinen,FI,3
-1992-03-01,Urs Lehmann,CH,57
-1992-03-01,Harald Chr. Strand Nilsen,NO,2
-1992-03-01,Sergio Bergamelli,IT,1
-1992-03-01,Marco Hangl,CH,131
-1992-03-01,Atle Skaardal,NO,80
-1992-03-01,Jan Einar Thorsen,NO,152
-1992-03-01,Paul Accola,CH,335
-1992-03-01,Fredrik Nyberg,SE,32
-1992-03-01,Hans-Joerg Tauscher,DE,120
-1992-03-01,Alberto Tomba,IT,22
-1992-03-01,Lasse Arnesen,NO,33
-1992-03-01,Rainer Salzgeber,AT,75
-1992-03-01,Daniel Mahrer,CH,81
-1992-03-01,Berni Huber,DE,6
-1992-03-01,Hubert Strolz,AT,55
-1992-03-01,Luc Alphand,FR,80
-1992-03-01,Daniel Brunner,CH,7
-1992-03-01,Kristian Ghedina,IT,23
-1992-03-01,A.J. Kitt,US,8
-1992-03-01,Patrick Holzer,IT,137
-1992-03-01,Kyle Rasmussen,US,16
-1992-03-01,Markus Wasmeier,DE,101
-1992-03-01,Adrien Duvillard,FR,10
-1992-03-01,William Besse,CH,28
-1992-03-01,Christophe Ple',FR,2
-1992-03-01,Leonhard Stock,AT,14
-1992-03-01,Marc Girardelli,LU,236
-1992-03-01,Gianfranco Martin,IT,21
-1992-03-01,Alberto Senigagliesi,IT,96
-1992-03-01,Franz Heinzer,CH,162
-1992-03-01,Urs Kaelin,CH,144
-1992-03-01,Jeff Olson,US,28
-1992-03-01,Roman Torn,CA,1
-1992-03-01,Armin Assinger,AT,50
-1992-03-01,Ole Kristian Furuseth,NO,109
-1992-03-08,Urs Kaelin,CH,160
-1992-03-08,Peter Rzehak,AT,86
-1992-03-08,Josef Polig,IT,56
-1992-03-08,Gianfranco Martin,IT,21
-1992-03-08,Fredrik Nyberg,SE,32
-1992-03-08,Hannes Zehentner,DE,17
-1992-03-08,Luc Alphand,FR,80
-1992-03-08,Adrien Duvillard,FR,28
-1992-03-08,Atle Skaardal,NO,80
-1992-03-08,Patrick Ortlieb,AT,51
-1992-03-08,Tommy Moe,US,14
-1992-03-08,Paul Accola,CH,369
-1992-03-08,Kyle Rasmussen,US,42
-1992-03-08,Danilo Sbardellotto,IT,27
-1992-03-08,Jan Einar Thorsen,NO,174
-1992-03-08,Franz Heinzer,CH,193
-1992-03-08,Rainer Salzgeber,AT,115
-1992-03-08,Tom Stiansen,NO,73
-1992-03-08,Patrick Holzer,IT,137
-1992-03-08,Jean Luc Cretier,FR,50
-1992-03-08,Attilio Barcella,IT,15
-1992-03-08,Leonhard Stock,AT,54
-1992-03-08,Jeff Olson,US,48
-1992-03-08,Steve Locher,CH,13
-1992-03-08,Thierry Gentina,FR,44
-1992-03-08,Didrik Marksten,NO,73
-1992-03-08,Daniel Brunner,CH,9
-1992-03-08,Jerome Noviant,FR,12
-1992-03-08,William Besse,CH,28
-1992-03-08,Patrik Jaerbyn,SE,6
-1992-03-08,Ole Kristian Furuseth,NO,160
-1992-03-08,Marco Hangl,CH,143
-1992-03-08,A.J. Kitt,US,10
-1992-03-08,Alberto Tomba,IT,22
-1992-03-08,Christophe Ple',FR,2
-1992-03-08,Marc Girardelli,LU,296
-1992-03-08,Roman Torn,CA,1
-1992-03-08,Reggie Crist,US,0
-1992-03-08,Kjetil Andre Aamodt,NO,120
-1992-03-08,Guenther Mader,AT,206
-1992-03-08,Markus Wasmeier,DE,156
-1992-03-08,Konstantin Chistiakov,RU,28
-1992-03-08,Daniel Mahrer,CH,81
-1992-03-08,Niklas Henning,SE,1
-1992-03-08,Kristian Ghedina,IT,33
-1992-03-08,Armin Assinger,AT,50
-1992-03-08,Urs Lehmann,CH,57
-1992-03-08,Lasse Arnesen,NO,33
-1992-03-08,Alberto Senigagliesi,IT,104
-1992-03-08,David Pretot,FR,14
-1992-03-08,Berni Huber,DE,9
-1992-03-08,Bernard Fahner,CH,18
-1992-03-08,Janne Leskinen,FI,3
-1992-03-08,Hubert Strolz,AT,102
-1992-03-08,Frank Piccard,FR,86
-1992-03-08,Harald Chr. Strand Nilsen,NO,2
-1992-03-08,Cary Mullen,CA,5
-1992-03-08,Sergio Bergamelli,IT,1
-1992-03-08,Hans-Joerg Tauscher,DE,124
-1992-03-08,Stephan Eberharter,AT,68
-1992-03-08,Armand Schiele,FR,46
-1992-03-15,Markus Wasmeier,DE,156
-1992-03-15,Patrik Jaerbyn,SE,6
-1992-03-15,Daniel Brunner,CH,9
-1992-03-15,Peter Rzehak,AT,86
-1992-03-15,Ole Kristian Furuseth,NO,160
-1992-03-15,Rainer Salzgeber,AT,115
-1992-03-15,Hans-Joerg Tauscher,DE,124
-1992-03-15,Didrik Marksten,NO,73
-1992-03-15,Urs Lehmann,CH,57
-1992-03-15,Attilio Barcella,IT,15
-1992-03-15,Tommy Moe,US,14
-1992-03-15,Danilo Sbardellotto,IT,27
-1992-03-15,Gianfranco Martin,IT,21
-1992-03-15,Hannes Zehentner,DE,17
-1992-03-15,Patrick Holzer,IT,137
-1992-03-15,Tom Stiansen,NO,73
-1992-03-15,Armin Assinger,AT,50
-1992-03-15,David Pretot,FR,14
-1992-03-15,Kristian Ghedina,IT,33
-1992-03-15,Janne Leskinen,FI,3
-1992-03-15,Harald Chr. Strand Nilsen,NO,2
-1992-03-15,Sergio Bergamelli,IT,1
-1992-03-15,Niklas Henning,SE,1
-1992-03-15,Jeff Olson,US,48
-1992-03-15,Alberto Tomba,IT,22
-1992-03-15,Kyle Rasmussen,US,42
-1992-03-15,Cary Mullen,CA,5
-1992-03-15,Stephan Eberharter,AT,68
-1992-03-15,William Besse,CH,65
-1992-03-15,Atle Skaardal,NO,80
-1992-03-15,A.J. Kitt,US,44
-1992-03-15,Frank Piccard,FR,117
-1992-03-15,Daniel Mahrer,CH,109
-1992-03-15,Jean Luc Cretier,FR,90
-1992-03-15,Lasse Arnesen,NO,59
-1992-03-15,Hubert Strolz,AT,126
-1992-03-15,Thierry Gentina,FR,66
-1992-03-15,Leonhard Stock,AT,74
-1992-03-15,Armand Schiele,FR,64
-1992-03-15,Josef Polig,IT,72
-1992-03-15,Patrick Ortlieb,AT,94
-1992-03-15,Fredrik Nyberg,SE,46
-1992-03-15,Luc Alphand,FR,90
-1992-03-15,Marco Hangl,CH,152
-1992-03-15,Steve Locher,CH,21
-1992-03-15,Alberto Senigagliesi,IT,151
-1992-03-15,Bernard Fahner,CH,25
-1992-03-15,Christophe Ple',FR,8
-1992-03-15,Jerome Noviant,FR,17
-1992-03-15,Berni Huber,DE,13
-1992-03-15,Reggie Crist,US,3
-1992-03-15,Roman Torn,CA,3
-1992-03-15,Adrien Duvillard,FR,29
-1992-03-15,Jan Einar Thorsen,NO,225
-1992-03-15,Urs Kaelin,CH,215
-1992-03-15,Paul Accola,CH,429
-1992-03-15,Guenther Mader,AT,286
-1992-03-15,Kjetil Andre Aamodt,NO,220
-1992-03-15,Marc Girardelli,LU,296
-1992-03-15,Franz Heinzer,CH,193
-1992-03-15,Konstantin Chistiakov,RU,40
+1991-12-07,Katja Seizinger,DE,100
+1991-12-07,Sylvia Eder,AT,0
+1991-12-07,Heidi Zurbriggen,CH,0
+1991-12-07,Petra Kronberger,AT,0
+1991-12-07,Sabine Ginther,AT,1
+1991-12-07,Kristin Krone,US,2
+1991-12-07,Alexandra Meissnitzer,AT,3
+1991-12-07,Michaela Gerg-Leitner,DE,4
+1991-12-07,Marlis Spescha,CH,5
+1991-12-07,Blanca Fernandez Ochoa,ES,6
+1991-12-07,Karin Koellerer,AT,7
+1991-12-07,Wendy Fisher,US,8
+1991-12-07,Veronika Stallmaier Wallinger,AT,9
+1991-12-07,Regine Cavagnoud,FR,10
+1991-12-07,Carole Merle,FR,14
+1991-12-07,Karin Dedler,DE,14
+1991-12-07,Michelle Ruthven Mckendry,CA,16
+1991-12-07,Eva Twardokens,US,22
+1991-12-07,Emi Kawabata,JP,22
+1991-12-07,Regina Haeusl,DE,22
+1991-12-07,Anita Wachter,AT,24
+1991-12-07,Pernilla Wiberg,SE,26
+1991-12-07,Ulrike Stangassinger,DE,0
+1991-12-07,Chantal Bournissen,CH,28
+1991-12-07,Ulrike Maier,AT,0
+1991-12-07,Manuela Heubi,CH,0
+1991-12-07,Michaela Dorfmeister,AT,0
+1991-12-07,Lucia Medzihradska,SK,0
+1991-12-07,Romaine Fournier,CH,0
+1991-12-07,Stefanie Schuster,AT,0
+1991-12-07,Kendra Kobelka,CA,0
+1991-12-07,Isabel Picenoni,CH,0
+1991-12-07,Rosi Renoth,DE,0
+1991-12-07,Tatiana Lebedeva,RU,0
+1991-12-07,Svetlana Gladishiva,RU,0
+1991-12-07,Astrid Loedemel,NO,0
+1991-12-07,Barbara Merlin,IT,0
+1991-12-07,Hilary Lindh,US,0
+1991-12-07,Bibiana Perez,IT,0
+1991-12-07,Cathy Chedal,FR,0
+1991-12-07,Carole Montillet,FR,0
+1991-12-07,Christelle Felisaz,FR,0
+1991-12-07,Traudl Haecher,DE,0
+1991-12-07,Zoe Haas,CH,0
+1991-12-07,Edith Thys,US,0
+1991-12-07,Anja Haas,AT,0
+1991-12-07,Warwara Zelenskaja,RU,0
+1991-12-07,Deborah Compagnoni,IT,0
+1991-12-07,Diann Roffe Steinrotter,US,37
+1991-12-07,Kathleen Monahan,US,0
+1991-12-07,Merete Fjeldavlie,NO,37
+1991-12-07,Julie M. J. Parisien,US,47
+1991-12-07,Kerrin Lee- Gartner,CA,51
+1991-12-07,Heidi Zeller - Baehler,CH,55
+1991-12-07,Miriam Vogt,DE,60
+1991-12-07,Barbara Sadleder,AT,80
+1991-12-07,Katharina Gutensohn,DE,40
+1991-12-07,Regine Moesenlechner,DE,37
+1991-12-07,Florence Masnada,FR,43
+1991-12-15,Stefanie Schuster,AT,0
+1991-12-15,Julie M. J. Parisien,US,47
+1991-12-15,Kerrin Lee- Gartner,CA,51
+1991-12-15,Carole Merle,FR,114
+1991-12-15,Merete Fjeldavlie,NO,57
+1991-12-15,Petra Kronberger,AT,80
+1991-12-15,Karin Dedler,DE,48
+1991-12-15,Heidi Zurbriggen,CH,60
+1991-12-15,Ulrike Stangassinger,DE,31
+1991-12-15,Michaela Gerg-Leitner,DE,59
+1991-12-15,Katharina Gutensohn,DE,40
+1991-12-15,Manuela Heubi,CH,18
+1991-12-15,Carole Montillet,FR,1
+1991-12-15,Christelle Felisaz,FR,2
+1991-12-15,Sabine Ginther,AT,4
+1991-12-15,Warwara Zelenskaja,RU,12
+1991-12-15,Regine Moesenlechner,DE,84
+1991-12-15,Traudl Haecher,DE,5
+1991-12-15,Zoe Haas,CH,5
+1991-12-15,Emi Kawabata,JP,28
+1991-12-15,Edith Thys,US,7
+1991-12-15,Heidi Zeller - Baehler,CH,106
+1991-12-15,Romaine Fournier,CH,0
+1991-12-15,Diann Roffe Steinrotter,US,37
+1991-12-15,Pernilla Wiberg,SE,26
+1991-12-15,Kendra Kobelka,CA,0
+1991-12-15,Isabel Picenoni,CH,0
+1991-12-15,Rosi Renoth,DE,0
+1991-12-15,Tatiana Lebedeva,RU,0
+1991-12-15,Kathleen Monahan,US,0
+1991-12-15,Svetlana Gladishiva,RU,0
+1991-12-15,Astrid Loedemel,NO,0
+1991-12-15,Barbara Merlin,IT,0
+1991-12-15,Lucia Medzihradska,SK,0
+1991-12-15,Chantal Bournissen,CH,28
+1991-12-15,Bibiana Perez,IT,0
+1991-12-15,Blanca Fernandez Ochoa,ES,6
+1991-12-15,Wendy Fisher,US,8
+1991-12-15,Veronika Stallmaier Wallinger,AT,9
+1991-12-15,Regine Cavagnoud,FR,10
+1991-12-15,Michelle Ruthven Mckendry,CA,16
+1991-12-15,Michaela Dorfmeister,AT,0
+1991-12-15,Kristin Krone,US,10
+1991-12-15,Regina Haeusl,DE,22
+1991-12-15,Anita Wachter,AT,24
+1991-12-15,Cathy Chedal,FR,0
+1991-12-15,Eva Twardokens,US,22
+1991-12-15,Hilary Lindh,US,0
+1991-12-15,Alexandra Meissnitzer,AT,12
+1991-12-15,Anja Haas,AT,10
+1991-12-15,Deborah Compagnoni,IT,26
+1991-12-15,Ulrike Maier,AT,28
+1991-12-15,Miriam Vogt,DE,84
+1991-12-15,Florence Masnada,FR,86
+1991-12-15,Sylvia Eder,AT,37
+1991-12-15,Barbara Sadleder,AT,102
+1991-12-15,Marlis Spescha,CH,21
+1991-12-15,Karin Koellerer,AT,21
+1991-12-15,Katja Seizinger,DE,140
+1992-01-26,Carole Montillet,FR,1
+1992-01-26,Edith Thys,US,7
+1992-01-26,Christelle Felisaz,FR,2
+1992-01-26,Warwara Zelenskaja,RU,12
+1992-01-26,Manuela Heubi,CH,18
+1992-01-26,Svetlana Gladishiva,RU,0
+1992-01-26,Merete Fjeldavlie,NO,117
+1992-01-26,Rosi Renoth,DE,0
+1992-01-26,Tatiana Lebedeva,RU,0
+1992-01-26,Sabine Ginther,AT,4
+1992-01-26,Petra Kronberger,AT,94
+1992-01-26,Diann Roffe Steinrotter,US,92
+1992-01-26,Isabel Picenoni,CH,0
+1992-01-26,Kendra Kobelka,CA,0
+1992-01-26,Stefanie Schuster,AT,0
+1992-01-26,Romaine Fournier,CH,0
+1992-01-26,Kathleen Monahan,US,0
+1992-01-26,Ulrike Maier,AT,108
+1992-01-26,Karin Koellerer,AT,21
+1992-01-26,Marlis Spescha,CH,21
+1992-01-26,Karin Dedler,DE,76
+1992-01-26,Hilary Lindh,US,20
+1992-01-26,Sylvia Eder,AT,61
+1992-01-26,Katja Seizinger,DE,140
+1992-01-26,Barbara Sadleder,AT,102
+1992-01-26,Julie M. J. Parisien,US,47
+1992-01-26,Anita Wachter,AT,64
+1992-01-26,Anja Haas,AT,32
+1992-01-26,Alexandra Meissnitzer,AT,12
+1992-01-26,Katharina Gutensohn,DE,40
+1992-01-26,Emi Kawabata,JP,28
+1992-01-26,Michelle Ruthven Mckendry,CA,16
+1992-01-26,Regine Cavagnoud,FR,10
+1992-01-26,Miriam Vogt,DE,100
+1992-01-26,Wendy Fisher,US,8
+1992-01-26,Deborah Compagnoni,IT,126
+1992-01-26,Blanca Fernandez Ochoa,ES,6
+1992-01-26,Bibiana Perez,IT,34
+1992-01-26,Regina Haeusl,DE,22
+1992-01-26,Lucia Medzihradska,SK,0
+1992-01-26,Traudl Haecher,DE,31
+1992-01-26,Michaela Dorfmeister,AT,0
+1992-01-26,Heidi Zeller - Baehler,CH,157
+1992-01-26,Pernilla Wiberg,SE,30
+1992-01-26,Michaela Gerg-Leitner,DE,77
+1992-01-26,Heidi Zurbriggen,CH,70
+1992-01-26,Veronika Stallmaier Wallinger,AT,12
+1992-01-26,Ulrike Stangassinger,DE,38
+1992-01-26,Zoe Haas,CH,10
+1992-01-26,Eva Twardokens,US,29
+1992-01-26,Carole Merle,FR,157
+1992-01-26,Cathy Chedal,FR,37
+1992-01-26,Chantal Bournissen,CH,40
+1992-01-26,Barbara Merlin,IT,9
+1992-01-26,Kristin Krone,US,12
+1992-01-26,Florence Masnada,FR,94
+1992-01-26,Astrid Loedemel,NO,1
+1992-01-26,Regine Moesenlechner,DE,131
+1992-01-26,Kerrin Lee- Gartner,CA,82
+1992-03-08,Kendra Kobelka,CA,0
+1992-03-08,Lucia Medzihradska,SK,0
+1992-03-08,Romaine Fournier,CH,0
+1992-03-08,Rosi Renoth,DE,0
+1992-03-08,Stefanie Schuster,AT,0
+1992-03-08,Bibiana Perez,IT,34
+1992-03-08,Michaela Dorfmeister,AT,0
+1992-03-08,Christelle Felisaz,FR,2
+1992-03-08,Traudl Haecher,DE,31
+1992-03-08,Isabel Picenoni,CH,0
+1992-03-08,Ulrike Stangassinger,DE,38
+1992-03-08,Warwara Zelenskaja,RU,12
+1992-03-08,Julie M. J. Parisien,US,47
+1992-03-08,Katharina Gutensohn,DE,40
+1992-03-08,Regine Moesenlechner,DE,131
+1992-03-08,Chantal Bournissen,CH,40
+1992-03-08,Anita Wachter,AT,64
+1992-03-08,Emi Kawabata,JP,28
+1992-03-08,Regine Cavagnoud,FR,10
+1992-03-08,Wendy Fisher,US,8
+1992-03-08,Blanca Fernandez Ochoa,ES,6
+1992-03-08,Marlis Spescha,CH,21
+1992-03-08,Alexandra Meissnitzer,AT,12
+1992-03-08,Kristin Krone,US,12
+1992-03-08,Sabine Ginther,AT,4
+1992-03-08,Deborah Compagnoni,IT,126
+1992-03-08,Manuela Heubi,CH,18
+1992-03-08,Anja Haas,AT,32
+1992-03-08,Katja Seizinger,DE,140
+1992-03-08,Michaela Gerg-Leitner,DE,105
+1992-03-08,Florence Masnada,FR,101
+1992-03-08,Zoe Haas,CH,47
+1992-03-08,Astrid Loedemel,NO,15
+1992-03-08,Tatiana Lebedeva,RU,1
+1992-03-08,Sylvia Eder,AT,116
+1992-03-08,Miriam Vogt,DE,112
+1992-03-08,Carole Merle,FR,217
+1992-03-08,Barbara Sadleder,AT,145
+1992-03-08,Heidi Zeller - Baehler,CH,188
+1992-03-08,Karin Koellerer,AT,23
+1992-03-08,Petra Kronberger,AT,174
+1992-03-08,Diann Roffe Steinrotter,US,126
+1992-03-08,Kerrin Lee- Gartner,CA,133
+1992-03-08,Merete Fjeldavlie,NO,217
+1992-03-08,Michelle Ruthven Mckendry,CA,32
+1992-03-08,Cathy Chedal,FR,40
+1992-03-08,Karin Dedler,DE,86
+1992-03-08,Eva Twardokens,US,35
+1992-03-08,Heidi Zurbriggen,CH,78
+1992-03-08,Kathleen Monahan,US,9
+1992-03-08,Veronika Stallmaier Wallinger,AT,52
+1992-03-08,Svetlana Gladishiva,RU,26
+1992-03-08,Barbara Merlin,IT,13
+1992-03-08,Carole Montillet,FR,6
+1992-03-08,Regina Haeusl,DE,46
+1992-03-08,Edith Thys,US,29
+1992-03-08,Hilary Lindh,US,42
+1992-03-08,Pernilla Wiberg,SE,48
+1992-03-08,Ulrike Maier,AT,159
+1992-03-15,Heidi Zeller - Baehler,CH,188
+1992-03-15,Anita Wachter,AT,64
+1992-03-15,Eva Twardokens,US,35
+1992-03-15,Regine Moesenlechner,DE,131
+1992-03-15,Michelle Ruthven Mckendry,CA,32
+1992-03-15,Svetlana Gladishiva,RU,34
+1992-03-15,Florence Masnada,FR,101
+1992-03-15,Emi Kawabata,JP,28
+1992-03-15,Chantal Bournissen,CH,80
+1992-03-15,Regine Cavagnoud,FR,10
+1992-03-15,Michaela Dorfmeister,AT,0
+1992-03-15,Lucia Medzihradska,SK,0
+1992-03-15,Tatiana Lebedeva,RU,1
+1992-03-15,Kathleen Monahan,US,9
+1992-03-15,Bibiana Perez,IT,34
+1992-03-15,Cathy Chedal,FR,40
+1992-03-15,Carole Montillet,FR,6
+1992-03-15,Christelle Felisaz,FR,2
+1992-03-15,Edith Thys,US,29
+1992-03-15,Anja Haas,AT,32
+1992-03-15,Warwara Zelenskaja,RU,12
+1992-03-15,Manuela Heubi,CH,18
+1992-03-15,Deborah Compagnoni,IT,126
+1992-03-15,Sabine Ginther,AT,4
+1992-03-15,Kristin Krone,US,12
+1992-03-15,Alexandra Meissnitzer,AT,12
+1992-03-15,Marlis Spescha,CH,21
+1992-03-15,Blanca Fernandez Ochoa,ES,6
+1992-03-15,Wendy Fisher,US,8
+1992-03-15,Karin Dedler,DE,86
+1992-03-15,Karin Koellerer,AT,23
+1992-03-15,Isabel Picenoni,CH,10
+1992-03-15,Heidi Zurbriggen,CH,125
+1992-03-15,Petra Kronberger,AT,202
+1992-03-15,Katharina Gutensohn,DE,66
+1992-03-15,Julie M. J. Parisien,US,71
+1992-03-15,Zoe Haas,CH,67
+1992-03-15,Miriam Vogt,DE,134
+1992-03-15,Kendra Kobelka,CA,7
+1992-03-15,Carole Merle,FR,317
+1992-03-15,Barbara Merlin,IT,29
+1992-03-15,Merete Fjeldavlie,NO,229
+1992-03-15,Kerrin Lee- Gartner,CA,213
+1992-03-15,Barbara Sadleder,AT,154
+1992-03-15,Regina Haeusl,DE,80
+1992-03-15,Ulrike Maier,AT,202
+1992-03-15,Sylvia Eder,AT,176
+1992-03-15,Ulrike Stangassinger,DE,75
+1992-03-15,Diann Roffe Steinrotter,US,181
+1992-03-15,Traudl Haecher,DE,65
+1992-03-15,Astrid Loedemel,NO,33
+1992-03-15,Michaela Gerg-Leitner,DE,110
+1992-03-15,Pernilla Wiberg,SE,52
+1992-03-15,Stefanie Schuster,AT,3
+1992-03-15,Hilary Lindh,US,48
+1992-03-15,Veronika Stallmaier Wallinger,AT,54
+1992-03-15,Katja Seizinger,DE,191
+1992-03-15,Romaine Fournier,CH,1
+1992-03-15,Rosi Renoth,DE,14
+1992-03-19,Anja Haas,AT,32
+1992-03-19,Edith Thys,US,29
+1992-03-19,Christelle Felisaz,FR,2
+1992-03-19,Carole Montillet,FR,6
+1992-03-19,Cathy Chedal,FR,40
+1992-03-19,Bibiana Perez,IT,34
+1992-03-19,Hilary Lindh,US,48
+1992-03-19,Svetlana Gladishiva,RU,34
+1992-03-19,Kathleen Monahan,US,9
+1992-03-19,Rosi Renoth,DE,14
+1992-03-19,Ulrike Maier,AT,233
+1992-03-19,Kendra Kobelka,CA,7
+1992-03-19,Stefanie Schuster,AT,40
+1992-03-19,Regina Haeusl,DE,114
+1992-03-19,Warwara Zelenskaja,RU,12
+1992-03-19,Regine Cavagnoud,FR,28
+1992-03-19,Romaine Fournier,CH,1
+1992-03-19,Astrid Loedemel,NO,53
+1992-03-19,Tatiana Lebedeva,RU,1
+1992-03-19,Manuela Heubi,CH,18
+1992-03-19,Heidi Zeller - Baehler,CH,197
+1992-03-19,Ulrike Stangassinger,DE,75
+1992-03-19,Merete Fjeldavlie,NO,309
+1992-03-19,Zoe Haas,CH,127
+1992-03-19,Eva Twardokens,US,90
+1992-03-19,Isabel Picenoni,CH,11
+1992-03-19,Petra Kronberger,AT,216
+1992-03-19,Heidi Zurbriggen,CH,127
+1992-03-19,Sylvia Eder,AT,227
+1992-03-19,Miriam Vogt,DE,137
+1992-03-19,Michaela Dorfmeister,AT,4
+1992-03-19,Kerrin Lee- Gartner,CA,218
+1992-03-19,Pernilla Wiberg,SE,62
+1992-03-19,Katharina Gutensohn,DE,72
+1992-03-19,Lucia Medzihradska,SK,7
+1992-03-19,Traudl Haecher,DE,112
+1992-03-19,Michaela Gerg-Leitner,DE,118
+1992-03-19,Chantal Bournissen,CH,96
+1992-03-19,Carole Merle,FR,417
+1992-03-19,Katja Seizinger,DE,234
+1992-03-19,Florence Masnada,FR,123
+1992-03-19,Sabine Ginther,AT,4
+1992-03-19,Kristin Krone,US,12
+1992-03-19,Alexandra Meissnitzer,AT,12
+1992-03-19,Marlis Spescha,CH,21
+1992-03-19,Blanca Fernandez Ochoa,ES,6
+1992-03-19,Karin Koellerer,AT,23
+1992-03-19,Wendy Fisher,US,8
+1992-03-19,Deborah Compagnoni,IT,126
+1992-03-19,Karin Dedler,DE,86
+1992-03-19,Emi Kawabata,JP,28
+1992-03-19,Anita Wachter,AT,64
+1992-03-19,Regine Moesenlechner,DE,131
+1992-03-19,Diann Roffe Steinrotter,US,221
+1992-03-19,Barbara Merlin,IT,57
+1992-03-19,Veronika Stallmaier Wallinger,AT,80
+1992-03-19,Barbara Sadleder,AT,178
+1992-03-19,Michelle Ruthven Mckendry,CA,32
+1992-03-19,Julie M. J. Parisien,US,83

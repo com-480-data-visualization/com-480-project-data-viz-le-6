@@ -1,29 +1,53 @@
 date,name,ath_country,value
-1998-01-18,Hermann Maier,AT,100
-1998-01-18,Ed Podivinsky,CA,0
-1998-01-18,Kjetil Andre Aamodt,NO,0
-1998-01-18,Andreas Schifferer,AT,32
-1998-01-18,Didier Cuche,CH,0
-1998-01-18,Patrik Jaerbyn,SE,36
-1998-01-18,Luca Cattaneo,IT,0
-1998-01-18,Werner Franz,AT,40
-1998-01-18,Fritz Strobl,AT,0
-1998-01-18,Fredrik Nyberg,SE,0
-1998-01-18,Matthew Grosjean,US,50
-1998-01-18,Paul Accola,CH,60
-1998-01-18,Bruno Kernen,CH,80
-1998-01-18,Stephan Eberharter,AT,45
-1998-01-25,Bruno Kernen,CH,80
-1998-01-25,Paul Accola,CH,60
-1998-01-25,Matthew Grosjean,US,50
-1998-01-25,Stephan Eberharter,AT,45
-1998-01-25,Hermann Maier,AT,100
-1998-01-25,Luca Cattaneo,IT,36
-1998-01-25,Didier Cuche,CH,40
-1998-01-25,Fredrik Nyberg,SE,45
-1998-01-25,Fritz Strobl,AT,50
-1998-01-25,Ed Podivinsky,CA,60
-1998-01-25,Werner Franz,AT,120
-1998-01-25,Kjetil Andre Aamodt,NO,100
-1998-01-25,Patrik Jaerbyn,SE,36
-1998-01-25,Andreas Schifferer,AT,32
+1997-12-20,Hilde Gerg,DE,100
+1997-12-20,Karen Putzer,IT,15
+1997-12-20,Brigitte Obermoser,AT,16
+1997-12-20,Catherine Borghi,CH,18
+1997-12-20,Petra Bartlova,CZ,12
+1997-12-20,Michaela Dorfmeister,AT,20
+1997-12-20,Pernilla Wiberg,SE,0
+1997-12-20,Ingrid Jacquemod,FR,22
+1997-12-20,Renate Goetschl,AT,0
+1997-12-20,Bibiana Perez,IT,24
+1997-12-20,Trude Gimle,NO,0
+1997-12-20,Miriam Vogt,DE,26
+1997-12-20,Sibylle Brauner,DE,0
+1997-12-20,Martina Fortkord,SE,13
+1997-12-20,Sylviane Berthod,CH,0
+1997-12-20,Stefanie Schuster,AT,29
+1997-12-20,Alexandra Meissnitzer,AT,0
+1997-12-20,Katja Seizinger,DE,80
+1997-12-20,Martina Ertl,DE,60
+1997-12-20,Morena Gallizio Tescari,IT,32
+1997-12-20,Florence Masnada,FR,50
+1997-12-20,Spela Bracun,SK,14
+1997-12-20,Ingeborg H. Marken,NO,40
+1997-12-20,Regina Haeusl,DE,0
+1997-12-20,Stefanie Wolf,DE,36
+1997-12-20,Anita Wachter,AT,45
+1998-01-31,Michaela Dorfmeister,AT,20
+1998-01-31,Anita Wachter,AT,45
+1998-01-31,Petra Bartlova,CZ,12
+1998-01-31,Sylviane Berthod,CH,13
+1998-01-31,Ingrid Jacquemod,FR,35
+1998-01-31,Spela Bracun,SK,24
+1998-01-31,Karen Putzer,IT,15
+1998-01-31,Ingeborg H. Marken,NO,60
+1998-01-31,Bibiana Perez,IT,39
+1998-01-31,Hilde Gerg,DE,200
+1998-01-31,Martina Ertl,DE,140
+1998-01-31,Katja Seizinger,DE,140
+1998-01-31,Pernilla Wiberg,SE,50
+1998-01-31,Morena Gallizio Tescari,IT,77
+1998-01-31,Catherine Borghi,CH,58
+1998-01-31,Renate Goetschl,AT,36
+1998-01-31,Stefanie Schuster,AT,61
+1998-01-31,Miriam Vogt,DE,55
+1998-01-31,Florence Masnada,FR,76
+1998-01-31,Stefanie Wolf,DE,60
+1998-01-31,Trude Gimle,NO,22
+1998-01-31,Alexandra Meissnitzer,AT,11
+1998-01-31,Sibylle Brauner,DE,18
+1998-01-31,Martina Fortkord,SE,29
+1998-01-31,Brigitte Obermoser,AT,30
+1998-01-31,Regina Haeusl,DE,9

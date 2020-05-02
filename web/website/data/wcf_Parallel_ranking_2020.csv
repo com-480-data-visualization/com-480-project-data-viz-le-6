@@ -1,89 +1,99 @@
 date,name,ath_country,value
-2019-12-23,Rasmus Windingstad,NO,100
-2019-12-23,Alexander Schmid,DE,13
-2019-12-23,Bastian Meisen,DE,12
-2019-12-23,Christian Hirschbuehel,AT,12
-2019-12-23,Fabian Wilkens Solheim,NO,10
-2019-12-23,Michael Matt,AT,10
-2019-12-23,Atle Lie McGrath,NO,7
-2019-12-23,Filip Zubcic,HR,6
-2019-12-23,Alexis Pinturault,FR,5
-2019-12-23,Mauro Caviezel,CH,4
-2019-12-23,Hannes Zingerle,IT,3
-2019-12-23,Simon Maurberger,IT,2
-2019-12-23,Samu Torsti,FI,1
-2019-12-23,Matts Olsson,SE,1
-2019-12-23,Stefan Hadalin,SK,1
-2019-12-23,Thomas Tumler,CH,0
-2019-12-23,Fabio Gstrein,AT,0
-2019-12-23,Luca De Aliprandini,IT,0
-2019-12-23,Giovanni Borsotti,IT,0
-2019-12-23,Linus Strasser,DE,0
-2019-12-23,Erik Read,CA,0
-2019-12-23,Kristoffer Jakobsen,SE,0
-2019-12-23,Marco Schwarz,AT,0
-2019-12-23,Victor Muffat Jeandet,FR,0
-2019-12-23,Trevor Philp,CA,0
-2019-12-23,Cyprien Sarrazin,FR,0
-2019-12-23,Tanguy Nef,CH,0
-2019-12-23,Timon Haugan,NO,0
-2019-12-23,Zan Kranjec,SK,14
-2019-12-23,Pavel Trikhichev,RU,15
-2019-12-23,Tommy Ford,US,8
-2019-12-23,Henrik Kristoffersen,NO,36
-2019-12-23,Mattias Roenngren,SE,40
-2019-12-23,Ryan Cochran-Siegle,US,22
-2019-12-23,Roland Leitinger,AT,60
-2019-12-23,Thibaut Favrot,FR,26
-2019-12-23,Leif Kristian Haugen,NO,50
-2019-12-23,Stefan Luitz,DE,80
-2019-12-23,Aleksander Aamodt Kilde,NO,20
-2019-12-23,Lucas Braathen,NO,45
-2019-12-23,River Radamus,US,18
-2019-12-23,Loic Meillard,CH,29
-2019-12-23,Justin Murisier,CH,32
-2019-12-23,Mathieu Faivre,FR,16
-2019-12-23,Dominik Raschner,AT,24
-2020-02-09,Alexander Schmid,DE,73
-2020-02-09,Zan Kranjec,SK,59
-2020-02-09,Thomas Tumler,CH,80
-2020-02-09,Tommy Ford,US,58
-2020-02-09,Erik Read,CA,15
-2020-02-09,Mattias Roenngren,SE,40
-2020-02-09,Dominik Raschner,AT,24
-2020-02-09,Ryan Cochran-Siegle,US,22
-2020-02-09,River Radamus,US,18
-2020-02-09,Bastian Meisen,DE,12
-2020-02-09,Christian Hirschbuehel,AT,12
-2020-02-09,Michael Matt,AT,10
-2020-02-09,Atle Lie McGrath,NO,7
-2020-02-09,Mauro Caviezel,CH,4
-2020-02-09,Hannes Zingerle,IT,3
-2020-02-09,Samu Torsti,FI,1
-2020-02-09,Loic Meillard,CH,129
-2020-02-09,Justin Murisier,CH,32
-2020-02-09,Simon Maurberger,IT,34
-2020-02-09,Aleksander Aamodt Kilde,NO,56
-2020-02-09,Lucas Braathen,NO,59
-2020-02-09,Giovanni Borsotti,IT,18
-2020-02-09,Roland Leitinger,AT,73
-2020-02-09,Alexis Pinturault,FR,25
-2020-02-09,Kristoffer Jakobsen,SE,12
-2020-02-09,Filip Zubcic,HR,28
-2020-02-09,Pavel Trikhichev,RU,25
-2020-02-09,Stefan Hadalin,SK,11
-2020-02-09,Matts Olsson,SE,1
-2020-02-09,Mathieu Faivre,FR,24
-2020-02-09,Marco Schwarz,AT,7
-2020-02-09,Luca De Aliprandini,IT,24
-2020-02-09,Victor Muffat Jeandet,FR,6
-2020-02-09,Trevor Philp,CA,5
-2020-02-09,Henrik Kristoffersen,NO,62
-2020-02-09,Cyprien Sarrazin,FR,4
-2020-02-09,Rasmus Windingstad,NO,103
-2020-02-09,Fabio Gstrein,AT,29
-2020-02-09,Stefan Luitz,DE,82
-2020-02-09,Fabian Wilkens Solheim,NO,12
-2020-02-09,Linus Strasser,DE,16
-2020-02-09,Thibaut Favrot,FR,66
-2020-02-09,Leif Kristian Haugen,NO,61
+2019-12-15,Petra Vlhova,SK,100
+2019-12-15,Wendy Holdener,CH,11
+2019-12-15,Sofia Goggia,IT,10
+2019-12-15,Mina Fuerst Holtmann,NO,9
+2019-12-15,Marlene Schmotz,DE,8
+2019-12-15,Nina O Brien,US,7
+2019-12-15,Martina Dubovska,CZ,5
+2019-12-15,Marusa Ferk,SK,5
+2019-12-15,Asa Ando,JP,3
+2019-12-15,Charlotte Guest,GB,2
+2019-12-15,Jessica Hilzinger,DE,1
+2019-12-15,Adriana Jelinkova,NL,1
+2019-12-15,Charlotte Chable,CH,1
+2019-12-15,Clara Direz,FR,0
+2019-12-15,Elisa Moerzinger,AT,0
+2019-12-15,Thea Louise Stjernesund,NO,0
+2019-12-15,Tina Robnik,SK,0
+2019-12-15,Mikaela Shiffrin,US,0
+2019-12-15,Lara Gut Behrami,CH,0
+2019-12-15,Laura Pirovano,IT,0
+2019-12-15,Coralie Frasse- Sombet,FR,0
+2019-12-15,Maria Therese Tviberg,NO,0
+2019-12-15,Katharina Huber,AT,0
+2019-12-15,Magdalena Fjaellstroem,SE,0
+2019-12-15,Patrizia Dorsch,DE,0
+2019-12-15,Andrea Ellenberger,CH,0
+2019-12-15,Kaja Norbye,NO,0
+2019-12-15,Viktoria Rebensburg,DE,0
+2019-12-15,Alice Robinson,NZ,0
+2019-12-15,Erin Mielzynski,CA,0
+2019-12-15,Sara Hector,SE,12
+2019-12-15,Katharina Liensberger,AT,13
+2019-12-15,Ekaterina Tkachenko,RU,6
+2019-12-15,Federica Brignone,IT,40
+2019-12-15,Christina Geiger Ackermann,DE,20
+2019-12-15,Anna Swenn-Larsson,SE,80
+2019-12-15,Katharina Truppe,AT,24
+2019-12-15,Kristin Anna Lysdahl,NO,26
+2019-12-15,Franziska Gritsch,AT,60
+2019-12-15,Marta Bassino,IT,18
+2019-12-15,Meta Hrovat,SK,50
+2019-12-15,Aline Danioth,CH,22
+2019-12-15,Lena Duerr,DE,16
+2019-12-15,Estelle Alphand,SE,29
+2019-12-15,Elena Stoffel,CH,14
+2019-12-15,Ana Bucik,SK,32
+2019-12-15,Irene Curtoni,IT,15
+2019-12-15,Laurence St-Germain,CA,45
+2019-12-15,Nina Loeseth,NO,36
+2020-01-19,Anna Swenn-Larsson,SE,80
+2020-01-19,Elisa Moerzinger,AT,80
+2020-01-19,Clara Direz,FR,100
+2020-01-19,Federica Brignone,IT,90
+2020-01-19,Marta Bassino,IT,78
+2020-01-19,Maria Therese Tviberg,NO,14
+2020-01-19,Sofia Goggia,IT,55
+2020-01-19,Nina Loeseth,NO,36
+2020-01-19,Ana Bucik,SK,32
+2020-01-19,Estelle Alphand,SE,29
+2020-01-19,Christina Geiger Ackermann,DE,20
+2020-01-19,Lena Duerr,DE,16
+2020-01-19,Irene Curtoni,IT,15
+2020-01-19,Elena Stoffel,CH,14
+2020-01-19,Marlene Schmotz,DE,8
+2020-01-19,Ekaterina Tkachenko,RU,6
+2020-01-19,Marusa Ferk,SK,5
+2020-01-19,Charlotte Guest,GB,2
+2020-01-19,Jessica Hilzinger,DE,1
+2020-01-19,Adriana Jelinkova,NL,1
+2020-01-19,Franziska Gritsch,AT,60
+2020-01-19,Laurence St-Germain,CA,45
+2020-01-19,Tina Robnik,SK,32
+2020-01-19,Thea Louise Stjernesund,NO,36
+2020-01-19,Coralie Frasse- Sombet,FR,15
+2020-01-19,Petra Vlhova,SK,113
+2020-01-19,Asa Ando,JP,15
+2020-01-19,Aline Danioth,CH,38
+2020-01-19,Katharina Huber,AT,11
+2020-01-19,Magdalena Fjaellstroem,SE,10
+2020-01-19,Laura Pirovano,IT,18
+2020-01-19,Patrizia Dorsch,DE,9
+2020-01-19,Meta Hrovat,SK,58
+2020-01-19,Lara Gut Behrami,CH,20
+2020-01-19,Andrea Ellenberger,CH,7
+2020-01-19,Charlotte Chable,CH,1
+2020-01-19,Kaja Norbye,NO,6
+2020-01-19,Sara Hector,SE,34
+2020-01-19,Viktoria Rebensburg,DE,5
+2020-01-19,Alice Robinson,NZ,3
+2020-01-19,Nina O Brien,US,31
+2020-01-19,Katharina Truppe,AT,26
+2020-01-19,Wendy Holdener,CH,37
+2020-01-19,Mina Fuerst Holtmann,NO,10
+2020-01-19,Martina Dubovska,CZ,6
+2020-01-19,Erin Mielzynski,CA,1
+2020-01-19,Mikaela Shiffrin,US,29
+2020-01-19,Kristin Anna Lysdahl,NO,66
+2020-01-19,Katharina Liensberger,AT,17

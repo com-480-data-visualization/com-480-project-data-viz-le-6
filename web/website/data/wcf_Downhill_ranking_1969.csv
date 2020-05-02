@@ -1,169 +1,85 @@
 date,name,ath_country,value
-1969-01-11,Karl Schranz,AT,25
-1969-01-11,Gerhard Mussner,IT,0
-1969-01-11,Hans Peter Rohr,CH,0
-1969-01-11,Vladimir Spider Sabich,US,0
-1969-01-11,Franz Vogler,DE,0
-1969-01-11,Alain Penz,FR,0
-1969-01-11,Bernard Orcel,FR,6
-1969-01-11,Michele Stefani,IT,0
-1969-01-11,Keith Shepherd,CA,0
-1969-01-11,Rod Hebron,CA,0
-1969-01-11,Gerry Rinaldi,CA,0
-1969-01-11,Alfred Matt,AT,0
-1969-01-11,Jean Pierre Augert,FR,4
-1969-01-11,Roger Rossat-Mignod,FR,0
-1969-01-11,Andreas Sprecher,CH,0
-1969-01-11,Rudi Sailer,AT,0
-1969-01-11,Guy Perillat,FR,0
-1969-01-11,Henri Duvillard,FR,0
-1969-01-11,Hans Zingre,CH,3
-1969-01-11,Gerhard Nenning,AT,1
-1969-01-11,Jos Minsch,CH,8
-1969-01-11,Kurt Huggler,CH,0
-1969-01-11,Dennis McCoy,US,0
-1969-01-11,Willi Lesch,DE,2
-1969-01-11,Jean Daniel Daetwyler,CH,11
-1969-01-11,Heini Messner,AT,20
-1969-01-11,Karl Cordin,AT,15
-1969-01-11,Helmuth Schmalzl,IT,0
-1969-01-18,Helmuth Schmalzl,IT,0
-1969-01-18,Gerry Rinaldi,CA,1
-1969-01-18,Kurt Huggler,CH,0
-1969-01-18,Dennis McCoy,US,0
-1969-01-18,Gerhard Mussner,IT,0
-1969-01-18,Hans Peter Rohr,CH,0
-1969-01-18,Vladimir Spider Sabich,US,0
-1969-01-18,Franz Vogler,DE,0
-1969-01-18,Alfred Matt,AT,2
-1969-01-18,Keith Shepherd,CA,0
-1969-01-18,Rod Hebron,CA,0
-1969-01-18,Gerhard Nenning,AT,1
-1969-01-18,Hans Zingre,CH,3
-1969-01-18,Jean Pierre Augert,FR,4
-1969-01-18,Bernard Orcel,FR,6
-1969-01-18,Jos Minsch,CH,8
-1969-01-18,Heini Messner,AT,20
-1969-01-18,Alain Penz,FR,0
-1969-01-18,Michele Stefani,IT,0
-1969-01-18,Willi Lesch,DE,2
-1969-01-18,Guy Perillat,FR,8
-1969-01-18,Karl Schranz,AT,50
-1969-01-18,Rudi Sailer,AT,6
-1969-01-18,Roger Rossat-Mignod,FR,3
-1969-01-18,Jean Daniel Daetwyler,CH,31
-1969-01-18,Andreas Sprecher,CH,4
-1969-01-18,Karl Cordin,AT,30
-1969-01-18,Henri Duvillard,FR,15
-1969-01-24,Gerhard Mussner,IT,0
-1969-01-24,Hans Peter Rohr,CH,0
-1969-01-24,Jean Daniel Daetwyler,CH,42
-1969-01-24,Vladimir Spider Sabich,US,0
-1969-01-24,Gerry Rinaldi,CA,1
-1969-01-24,Alfred Matt,AT,17
-1969-01-24,Roger Rossat-Mignod,FR,3
-1969-01-24,Franz Vogler,DE,0
-1969-01-24,Guy Perillat,FR,8
-1969-01-24,Gerhard Nenning,AT,1
-1969-01-24,Heini Messner,AT,40
-1969-01-24,Willi Lesch,DE,2
-1969-01-24,Hans Zingre,CH,3
-1969-01-24,Jean Pierre Augert,FR,4
-1969-01-24,Henri Duvillard,FR,40
-1969-01-24,Karl Schranz,AT,50
-1969-01-24,Dennis McCoy,US,0
-1969-01-24,Rudi Sailer,AT,6
-1969-01-24,Rod Hebron,CA,8
-1969-01-24,Kurt Huggler,CH,0
-1969-01-24,Michele Stefani,IT,2
-1969-01-24,Jos Minsch,CH,11
-1969-01-24,Alain Penz,FR,1
-1969-01-24,Karl Cordin,AT,30
-1969-01-24,Keith Shepherd,CA,4
-1969-01-24,Bernard Orcel,FR,6
-1969-01-24,Andreas Sprecher,CH,10
-1969-01-24,Helmuth Schmalzl,IT,0
-1969-02-01,Hans Peter Rohr,CH,0
-1969-02-01,Alain Penz,FR,1
-1969-02-01,Michele Stefani,IT,2
-1969-02-01,Keith Shepherd,CA,4
-1969-02-01,Karl Cordin,AT,30
-1969-02-01,Jean Pierre Augert,FR,4
-1969-02-01,Willi Lesch,DE,2
-1969-02-01,Gerry Rinaldi,CA,1
-1969-02-01,Roger Rossat-Mignod,FR,3
-1969-02-01,Bernard Orcel,FR,6
-1969-02-01,Guy Perillat,FR,8
-1969-02-01,Gerhard Nenning,AT,1
-1969-02-01,Kurt Huggler,CH,0
-1969-02-01,Rod Hebron,CA,8
-1969-02-01,Andreas Sprecher,CH,10
-1969-02-01,Heini Messner,AT,60
-1969-02-01,Helmuth Schmalzl,IT,0
-1969-02-01,Vladimir Spider Sabich,US,3
-1969-02-01,Alfred Matt,AT,19
-1969-02-01,Hans Zingre,CH,4
-1969-02-01,Jos Minsch,CH,15
-1969-02-01,Henri Duvillard,FR,46
-1969-02-01,Karl Schranz,AT,75
-1969-02-01,Rudi Sailer,AT,14
-1969-02-01,Jean Daniel Daetwyler,CH,53
-1969-02-01,Dennis McCoy,US,0
-1969-02-01,Gerhard Mussner,IT,0
-1969-02-01,Franz Vogler,DE,15
-1969-02-09,Guy Perillat,FR,8
-1969-02-09,Karl Schranz,AT,75
-1969-02-09,Helmuth Schmalzl,IT,0
-1969-02-09,Kurt Huggler,CH,0
-1969-02-09,Heini Messner,AT,60
-1969-02-09,Vladimir Spider Sabich,US,3
-1969-02-09,Franz Vogler,DE,15
-1969-02-09,Alain Penz,FR,1
-1969-02-09,Michele Stefani,IT,2
-1969-02-09,Bernard Orcel,FR,6
-1969-02-09,Rod Hebron,CA,8
-1969-02-09,Gerry Rinaldi,CA,1
-1969-02-09,Hans Zingre,CH,4
-1969-02-09,Roger Rossat-Mignod,FR,3
-1969-02-09,Willi Lesch,DE,2
-1969-02-09,Andreas Sprecher,CH,10
-1969-02-09,Gerhard Nenning,AT,1
-1969-02-09,Alfred Matt,AT,19
-1969-02-09,Dennis McCoy,US,3
-1969-02-09,Jos Minsch,CH,40
-1969-02-09,Keith Shepherd,CA,5
-1969-02-09,Gerhard Mussner,IT,4
-1969-02-09,Henri Duvillard,FR,52
-1969-02-09,Rudi Sailer,AT,22
-1969-02-09,Karl Cordin,AT,41
-1969-02-09,Jean Daniel Daetwyler,CH,55
-1969-02-09,Hans Peter Rohr,CH,15
-1969-02-09,Jean Pierre Augert,FR,24
-1969-02-14,Vladimir Spider Sabich,US,3
-1969-02-14,Franz Vogler,DE,15
-1969-02-14,Alain Penz,FR,1
-1969-02-14,Michele Stefani,IT,2
-1969-02-14,Keith Shepherd,CA,5
-1969-02-14,Rod Hebron,CA,8
-1969-02-14,Gerry Rinaldi,CA,1
-1969-02-14,Alfred Matt,AT,19
-1969-02-14,Roger Rossat-Mignod,FR,3
-1969-02-14,Guy Perillat,FR,8
-1969-02-14,Gerhard Nenning,AT,1
-1969-02-14,Willi Lesch,DE,2
-1969-02-14,Hans Zingre,CH,4
-1969-02-14,Jean Pierre Augert,FR,24
-1969-02-14,Bernard Orcel,FR,6
-1969-02-14,Karl Schranz,AT,75
-1969-02-14,Heini Messner,AT,63
-1969-02-14,Hans Peter Rohr,CH,17
-1969-02-14,Jean Daniel Daetwyler,CH,80
-1969-02-14,Helmuth Schmalzl,IT,1
-1969-02-14,Andreas Sprecher,CH,14
-1969-02-14,Kurt Huggler,CH,6
-1969-02-14,Henri Duvillard,FR,72
-1969-02-14,Karl Cordin,AT,49
-1969-02-14,Gerhard Mussner,IT,4
-1969-02-14,Jos Minsch,CH,51
-1969-02-14,Rudi Sailer,AT,37
-1969-02-14,Dennis McCoy,US,3
+1969-01-10,Wiltrud Drexel,AT,25
+1969-01-10,Barbara Cochran,US,0
+1969-01-10,Gertrud Gabl,AT,0
+1969-01-10,Heidi Zimmermann,AT,0
+1969-01-10,Judy Crawford,CA,0
+1969-01-10,Francoise Macchi,FR,0
+1969-01-10,Olga Pall,AT,0
+1969-01-10,Annemarie Proell,AT,0
+1969-01-10,Judy Nagel,US,0
+1969-01-10,Anneroesli Zryd,CH,0
+1969-01-10,Florence Steurer,FR,0
+1969-01-10,Jutta Knobloch,AT,1
+1969-01-10,Erica Skinger,US,2
+1969-01-10,Giustina Demetz,IT,3
+1969-01-10,Ingrid Lafforgue,FR,4
+1969-01-10,Karen Budge,US,6
+1969-01-10,Annie Famose,FR,0
+1969-01-10,Michele Jacot,FR,11
+1969-01-10,Isabelle Mir,FR,15
+1969-01-10,Rosi Mittermaier,DE,20
+1969-01-10,Betsy Clifford,CA,8
+1969-01-15,Erica Skinger,US,10
+1969-01-15,Florence Steurer,FR,20
+1969-01-15,Rosi Mittermaier,DE,20
+1969-01-15,Ingrid Lafforgue,FR,4
+1969-01-15,Annie Famose,FR,15
+1969-01-15,Giustina Demetz,IT,3
+1969-01-15,Annemarie Proell,AT,0
+1969-01-15,Olga Pall,AT,0
+1969-01-15,Francoise Macchi,FR,0
+1969-01-15,Judy Crawford,CA,0
+1969-01-15,Heidi Zimmermann,AT,0
+1969-01-15,Gertrud Gabl,AT,0
+1969-01-15,Barbara Cochran,US,0
+1969-01-15,Jutta Knobloch,AT,1
+1969-01-15,Betsy Clifford,CA,9
+1969-01-15,Wiltrud Drexel,AT,50
+1969-01-15,Michele Jacot,FR,15
+1969-01-15,Isabelle Mir,FR,26
+1969-01-15,Judy Nagel,US,3
+1969-01-15,Karen Budge,US,8
+1969-01-15,Anneroesli Zryd,CH,6
+1969-01-25,Barbara Cochran,US,0
+1969-01-25,Francoise Macchi,FR,8
+1969-01-25,Rosi Mittermaier,DE,20
+1969-01-25,Betsy Clifford,CA,9
+1969-01-25,Giustina Demetz,IT,3
+1969-01-25,Erica Skinger,US,10
+1969-01-25,Jutta Knobloch,AT,1
+1969-01-25,Florence Steurer,FR,20
+1969-01-25,Anneroesli Zryd,CH,6
+1969-01-25,Judy Nagel,US,3
+1969-01-25,Judy Crawford,CA,6
+1969-01-25,Olga Pall,AT,11
+1969-01-25,Ingrid Lafforgue,FR,6
+1969-01-25,Michele Jacot,FR,19
+1969-01-25,Karen Budge,US,9
+1969-01-25,Annemarie Proell,AT,20
+1969-01-25,Heidi Zimmermann,AT,0
+1969-01-25,Wiltrud Drexel,AT,53
+1969-01-25,Annie Famose,FR,35
+1969-01-25,Isabelle Mir,FR,51
+1969-01-25,Gertrud Gabl,AT,0
+1969-01-31,Rosi Mittermaier,DE,20
+1969-01-31,Erica Skinger,US,10
+1969-01-31,Karen Budge,US,9
+1969-01-31,Florence Steurer,FR,20
+1969-01-31,Annie Famose,FR,35
+1969-01-31,Judy Nagel,US,3
+1969-01-31,Annemarie Proell,AT,20
+1969-01-31,Betsy Clifford,CA,9
+1969-01-31,Ingrid Lafforgue,FR,6
+1969-01-31,Jutta Knobloch,AT,9
+1969-01-31,Giustina Demetz,IT,14
+1969-01-31,Heidi Zimmermann,AT,6
+1969-01-31,Anneroesli Zryd,CH,10
+1969-01-31,Olga Pall,AT,36
+1969-01-31,Michele Jacot,FR,22
+1969-01-31,Isabelle Mir,FR,71
+1969-01-31,Gertrud Gabl,AT,3
+1969-01-31,Francoise Macchi,FR,8
+1969-01-31,Barbara Cochran,US,1
+1969-01-31,Wiltrud Drexel,AT,68
+1969-01-31,Judy Crawford,CA,6

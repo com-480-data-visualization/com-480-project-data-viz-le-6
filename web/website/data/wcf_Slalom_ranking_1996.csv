@@ -1,532 +1,601 @@
 date,name,ath_country,value
-1995-11-19,Michael Tritscher,AT,100
-1995-11-19,Max Ancenay,FR,0
-1995-11-19,Anders Andersson,SE,0
-1995-11-19,Stanley Hayer,CA,0
-1995-11-19,Rene Mlekuz,SK,0
-1995-11-19,Yves Dimier,FR,0
-1995-11-19,Ole Kristian Furuseth,NO,0
-1995-11-19,Finn Chr. Jagge,NO,32
-1995-11-19,Harald Chr. Strand Nilsen,NO,0
-1995-11-19,Michael von Gruenigen,CH,0
-1995-11-19,Angelo Weiss,IT,0
-1995-11-19,Dietmar Thoeni,AT,0
-1995-11-19,Leo Puentener,CH,0
-1995-11-19,Marc Girardelli,LU,0
-1995-11-19,Eric Villiard,CA,0
-1995-11-19,Kiminobu Kimura,JP,0
-1995-11-19,Siegfried Voglreiter,AT,36
-1995-11-19,Alois Vogl,DE,0
-1995-11-19,Manfred Kleinlercher,AT,0
-1995-11-19,Richard Gravier,FR,0
-1995-11-19,Johan Wallner,SE,0
-1995-11-19,Jesper Brugge,SE,0
-1995-11-19,Matteo Belfrond,IT,0
-1995-11-19,Gaku Hirasawa,JP,0
-1995-11-19,Guenther Mader,AT,0
-1995-11-19,Konrad  Kurt Ladstaetter,IT,18
-1995-11-19,Fabio De Crignis,IT,22
-1995-11-19,Bernhard Gstrein,AT,16
-1995-11-19,Francois Simond,FR,15
-1995-11-19,Matteo Nana,IT,14
-1995-11-19,Matjaz Vrhovnik,SK,13
-1995-11-19,Mitja Kunc,SK,24
-1995-11-19,Patrick Staub,CH,12
-1995-11-19,Sergio Bergamelli,IT,11
-1995-11-19,Frederic Covili,FR,29
-1995-11-19,Matthew Grosjean,US,10
-1995-11-19,Andrej Miklavc,SK,0
-1995-11-19,Andrea Zinsli,CH,26
-1995-11-19,Christian Mayer,AT,0
-1995-11-19,Mario Reiter,AT,0
-1995-11-19,Bernhard Bauer,DE,0
-1995-11-19,Thomas Stangassinger,AT,0
-1995-11-19,Fabrizio Tescari,IT,0
-1995-11-19,Tom Stiansen,NO,0
-1995-11-19,Mika Marila,FI,0
-1995-11-19,Pierre Violon,FR,9
-1995-11-19,Matej Jovan,SK,0
-1995-11-19,Gianluca Grigoletto,IT,0
-1995-11-19,Jure Kosir,SK,40
-1995-11-19,Sebastien Amiez,FR,80
-1995-11-19,Martin Hansson,SE,0
-1995-11-19,Kjetil Andre Aamodt,NO,50
-1995-11-19,Lasse Kjus,NO,45
-1995-11-19,Alberto Tomba,IT,60
-1995-11-19,Thomas Sykora,AT,20
-1995-11-19,Didier Plaschy,CH,0
-1995-11-19,Kilian Albrecht,AT,0
-1995-11-19,Bruno Kernen,CH,0
-1995-11-19,Urs Kaelin,CH,0
-1995-11-26,Fabrizio Tescari,IT,16
-1995-11-26,Matteo Belfrond,IT,0
-1995-11-26,Rene Mlekuz,SK,4
-1995-11-26,Gaku Hirasawa,JP,9
-1995-11-26,Matej Jovan,SK,0
-1995-11-26,Sergio Bergamelli,IT,21
-1995-11-26,Martin Hansson,SE,0
-1995-11-26,Konrad  Kurt Ladstaetter,IT,29
-1995-11-26,Matjaz Vrhovnik,SK,31
-1995-11-26,Anders Andersson,SE,6
-1995-11-26,Guenther Mader,AT,12
-1995-11-26,Stanley Hayer,CA,5
-1995-11-26,Johan Wallner,SE,0
-1995-11-26,Didier Plaschy,CH,0
-1995-11-26,Bruno Kernen,CH,0
-1995-11-26,Tom Stiansen,NO,14
-1995-11-26,Angelo Weiss,IT,8
-1995-11-26,Patrick Staub,CH,27
-1995-11-26,Max Ancenay,FR,7
-1995-11-26,Kilian Albrecht,AT,0
-1995-11-26,Mika Marila,FI,13
-1995-11-26,Michael Tritscher,AT,100
-1995-11-26,Gianluca Grigoletto,IT,0
-1995-11-26,Alberto Tomba,IT,60
-1995-11-26,Kjetil Andre Aamodt,NO,50
-1995-11-26,Lasse Kjus,NO,45
-1995-11-26,Matthew Grosjean,US,30
-1995-11-26,Siegfried Voglreiter,AT,36
-1995-11-26,Frederic Covili,FR,29
-1995-11-26,Thomas Sykora,AT,20
-1995-11-26,Francois Simond,FR,15
-1995-11-26,Matteo Nana,IT,14
-1995-11-26,Pierre Violon,FR,9
-1995-11-26,Yves Dimier,FR,0
-1995-11-26,Ole Kristian Furuseth,NO,0
-1995-11-26,Harald Chr. Strand Nilsen,NO,0
-1995-11-26,Michael von Gruenigen,CH,0
-1995-11-26,Dietmar Thoeni,AT,0
-1995-11-26,Jesper Brugge,SE,0
-1995-11-26,Leo Puentener,CH,0
-1995-11-26,Marc Girardelli,LU,0
-1995-11-26,Eric Villiard,CA,0
-1995-11-26,Kiminobu Kimura,JP,0
-1995-11-26,Alois Vogl,DE,0
-1995-11-26,Richard Gravier,FR,0
-1995-11-26,Manfred Kleinlercher,AT,0
-1995-11-26,Urs Kaelin,CH,0
-1995-11-26,Mario Reiter,AT,29
-1995-11-26,Mitja Kunc,SK,64
-1995-11-26,Andrej Miklavc,SK,100
-1995-11-26,Andrea Zinsli,CH,58
-1995-11-26,Bernhard Bauer,DE,26
-1995-11-26,Christian Mayer,AT,80
-1995-11-26,Jure Kosir,SK,85
-1995-11-26,Finn Chr. Jagge,NO,68
-1995-11-26,Sebastien Amiez,FR,130
-1995-11-26,Bernhard Gstrein,AT,40
-1995-11-26,Thomas Stangassinger,AT,22
-1995-11-26,Fabio De Crignis,IT,82
-1995-12-19,Angelo Weiss,IT,8
-1995-12-19,Gaku Hirasawa,JP,9
-1995-12-19,Richard Gravier,FR,0
-1995-12-19,Patrick Staub,CH,38
-1995-12-19,Thomas Stangassinger,AT,22
-1995-12-19,Christian Mayer,AT,80
-1995-12-19,Andrej Miklavc,SK,100
-1995-12-19,Mika Marila,FI,13
-1995-12-19,Max Ancenay,FR,7
-1995-12-19,Eric Villiard,CA,0
-1995-12-19,Rene Mlekuz,SK,4
-1995-12-19,Marc Girardelli,LU,0
-1995-12-19,Pierre Violon,FR,9
-1995-12-19,Kiminobu Kimura,JP,0
-1995-12-19,Alois Vogl,DE,0
-1995-12-19,Gianluca Grigoletto,IT,0
-1995-12-19,Jesper Brugge,SE,12
-1995-12-19,Manfred Kleinlercher,AT,0
-1995-12-19,Stanley Hayer,CA,5
-1995-12-19,Sergio Bergamelli,IT,21
-1995-12-19,Mitja Kunc,SK,64
-1995-12-19,Matjaz Vrhovnik,SK,31
-1995-12-19,Fabrizio Tescari,IT,56
-1995-12-19,Finn Chr. Jagge,NO,100
-1995-12-19,Mario Reiter,AT,74
-1995-12-19,Sebastien Amiez,FR,180
-1995-12-19,Fabio De Crignis,IT,111
-1995-12-19,Konrad  Kurt Ladstaetter,IT,89
-1995-12-19,Yves Dimier,FR,80
-1995-12-19,Michael Tritscher,AT,100
-1995-12-19,Tom Stiansen,NO,24
-1995-12-19,Kjetil Andre Aamodt,NO,50
-1995-12-19,Jure Kosir,SK,85
-1995-12-19,Leo Puentener,CH,9
-1995-12-19,Bernhard Bauer,DE,52
-1995-12-19,Siegfried Voglreiter,AT,36
-1995-12-19,Frederic Covili,FR,29
-1995-12-19,Thomas Sykora,AT,20
-1995-12-19,Bernhard Gstrein,AT,40
-1995-12-19,Matteo Nana,IT,14
-1995-12-19,Lasse Kjus,NO,45
-1995-12-19,Johan Wallner,SE,0
-1995-12-19,Guenther Mader,AT,48
-1995-12-19,Matej Jovan,SK,0
-1995-12-19,Matthew Grosjean,US,48
-1995-12-19,Alberto Tomba,IT,160
-1995-12-19,Ole Kristian Furuseth,NO,24
-1995-12-19,Andrea Zinsli,CH,72
-1995-12-19,Matteo Belfrond,IT,0
-1995-12-19,Harald Chr. Strand Nilsen,NO,22
-1995-12-19,Dietmar Thoeni,AT,16
-1995-12-19,Michael von Gruenigen,CH,20
-1995-12-19,Urs Kaelin,CH,0
-1995-12-19,Bruno Kernen,CH,0
-1995-12-19,Francois Simond,FR,28
-1995-12-19,Didier Plaschy,CH,0
-1995-12-19,Kilian Albrecht,AT,0
-1995-12-19,Martin Hansson,SE,0
-1995-12-19,Anders Andersson,SE,21
-1995-12-22,Didier Plaschy,CH,0
-1995-12-22,Bruno Kernen,CH,0
-1995-12-22,Jure Kosir,SK,165
-1995-12-22,Urs Kaelin,CH,0
-1995-12-22,Sebastien Amiez,FR,240
-1995-12-22,Kilian Albrecht,AT,0
-1995-12-22,Bernhard Gstrein,AT,46
-1995-12-22,Angelo Weiss,IT,15
-1995-12-22,Alberto Tomba,IT,260
-1995-12-22,Christian Mayer,AT,130
-1995-12-22,Eric Villiard,CA,2
-1995-12-22,Lasse Kjus,NO,90
-1995-12-22,Andrea Zinsli,CH,77
-1995-12-22,Matjaz Vrhovnik,SK,35
-1995-12-22,Fabrizio Tescari,IT,59
-1995-12-22,Mario Reiter,AT,114
-1995-12-22,Harald Chr. Strand Nilsen,NO,30
-1995-12-22,Martin Hansson,SE,0
-1995-12-22,Manfred Kleinlercher,AT,0
-1995-12-22,Matteo Belfrond,IT,0
-1995-12-22,Michael Tritscher,AT,100
-1995-12-22,Frederic Covili,FR,29
-1995-12-22,Francois Simond,FR,28
-1995-12-22,Matteo Nana,IT,14
-1995-12-22,Sergio Bergamelli,IT,21
-1995-12-22,Matthew Grosjean,US,48
-1995-12-22,Pierre Violon,FR,9
-1995-12-22,Tom Stiansen,NO,24
-1995-12-22,Mika Marila,FI,13
-1995-12-22,Matej Jovan,SK,0
-1995-12-22,Gaku Hirasawa,JP,9
-1995-12-22,Anders Andersson,SE,21
-1995-12-22,Stanley Hayer,CA,5
-1995-12-22,Rene Mlekuz,SK,4
-1995-12-22,Dietmar Thoeni,AT,16
-1995-12-22,Leo Puentener,CH,9
-1995-12-22,Alois Vogl,DE,0
-1995-12-22,Gianluca Grigoletto,IT,0
-1995-12-22,Richard Gravier,FR,0
-1995-12-22,Johan Wallner,SE,0
-1995-12-22,Max Ancenay,FR,7
-1995-12-22,Jesper Brugge,SE,12
-1995-12-22,Kiminobu Kimura,JP,1
-1995-12-22,Kjetil Andre Aamodt,NO,60
-1995-12-22,Thomas Stangassinger,AT,48
-1995-12-22,Finn Chr. Jagge,NO,126
-1995-12-22,Patrick Staub,CH,47
-1995-12-22,Guenther Mader,AT,59
-1995-12-22,Thomas Sykora,AT,56
-1995-12-22,Konrad  Kurt Ladstaetter,IT,101
-1995-12-22,Mitja Kunc,SK,77
-1995-12-22,Fabio De Crignis,IT,140
-1995-12-22,Andrej Miklavc,SK,126
-1995-12-22,Siegfried Voglreiter,AT,51
-1995-12-22,Yves Dimier,FR,112
-1995-12-22,Bernhard Bauer,DE,66
-1995-12-22,Michael von Gruenigen,CH,38
-1995-12-22,Ole Kristian Furuseth,NO,44
-1995-12-22,Marc Girardelli,LU,16
-1996-01-07,Guenther Mader,AT,59
-1996-01-07,Matteo Belfrond,IT,0
-1996-01-07,Matej Jovan,SK,0
-1996-01-07,Martin Hansson,SE,0
-1996-01-07,Kilian Albrecht,AT,0
-1996-01-07,Didier Plaschy,CH,0
-1996-01-07,Bruno Kernen,CH,0
-1996-01-07,Matteo Nana,IT,14
-1996-01-07,Matjaz Vrhovnik,SK,47
-1996-01-07,Urs Kaelin,CH,0
-1996-01-07,Lasse Kjus,NO,116
-1996-01-07,Bernhard Gstrein,AT,46
-1996-01-07,Mitja Kunc,SK,77
-1996-01-07,Frederic Covili,FR,29
-1996-01-07,Andrej Miklavc,SK,144
-1996-01-07,Andrea Zinsli,CH,88
-1996-01-07,Fabio De Crignis,IT,153
-1996-01-07,Sergio Bergamelli,IT,21
-1996-01-07,Richard Gravier,FR,0
-1996-01-07,Mika Marila,FI,13
-1996-01-07,Gaku Hirasawa,JP,9
-1996-01-07,Francois Simond,FR,44
-1996-01-07,Angelo Weiss,IT,15
-1996-01-07,Max Ancenay,FR,7
-1996-01-07,Anders Andersson,SE,21
-1996-01-07,Rene Mlekuz,SK,4
-1996-01-07,Marc Girardelli,LU,31
-1996-01-07,Yves Dimier,FR,112
-1996-01-07,Harald Chr. Strand Nilsen,NO,30
-1996-01-07,Jesper Brugge,SE,12
-1996-01-07,Leo Puentener,CH,9
-1996-01-07,Christian Mayer,AT,154
-1996-01-07,Eric Villiard,CA,16
-1996-01-07,Alois Vogl,DE,0
-1996-01-07,Gianluca Grigoletto,IT,0
-1996-01-07,Pierre Violon,FR,9
-1996-01-07,Manfred Kleinlercher,AT,0
-1996-01-07,Johan Wallner,SE,0
-1996-01-07,Michael Tritscher,AT,100
-1996-01-07,Ole Kristian Furuseth,NO,80
-1996-01-07,Jure Kosir,SK,225
-1996-01-07,Bernhard Bauer,DE,76
-1996-01-07,Thomas Sykora,AT,106
-1996-01-07,Tom Stiansen,NO,32
-1996-01-07,Alberto Tomba,IT,360
-1996-01-07,Fabrizio Tescari,IT,66
-1996-01-07,Michael von Gruenigen,CH,70
-1996-01-07,Kjetil Andre Aamodt,NO,89
-1996-01-07,Sebastien Amiez,FR,285
-1996-01-07,Dietmar Thoeni,AT,36
-1996-01-07,Patrick Staub,CH,52
-1996-01-07,Finn Chr. Jagge,NO,166
-1996-01-07,Thomas Stangassinger,AT,70
-1996-01-07,Konrad  Kurt Ladstaetter,IT,105
-1996-01-07,Stanley Hayer,CA,8
-1996-01-07,Kiminobu Kimura,JP,7
-1996-01-07,Mario Reiter,AT,194
-1996-01-07,Siegfried Voglreiter,AT,51
-1996-01-07,Matthew Grosjean,US,57
-1996-01-14,Michael von Gruenigen,CH,70
-1996-01-14,Siegfried Voglreiter,AT,51
-1996-01-14,Patrick Staub,CH,59
-1996-01-14,Guenther Mader,AT,59
-1996-01-14,Fabio De Crignis,IT,173
-1996-01-14,Tom Stiansen,NO,32
-1996-01-14,Francois Simond,FR,50
-1996-01-14,Lasse Kjus,NO,116
-1996-01-14,Frederic Covili,FR,29
-1996-01-14,Manfred Kleinlercher,AT,5
-1996-01-14,Konrad  Kurt Ladstaetter,IT,105
-1996-01-14,Bernhard Gstrein,AT,46
-1996-01-14,Yves Dimier,FR,134
-1996-01-14,Fabrizio Tescari,IT,66
-1996-01-14,Stanley Hayer,CA,12
-1996-01-14,Pierre Violon,FR,9
-1996-01-14,Mitja Kunc,SK,77
-1996-01-14,Bernhard Bauer,DE,84
-1996-01-14,Kjetil Andre Aamodt,NO,89
-1996-01-14,Michael Tritscher,AT,100
-1996-01-14,Dietmar Thoeni,AT,36
-1996-01-14,Jesper Brugge,SE,12
-1996-01-14,Rene Mlekuz,SK,4
-1996-01-14,Leo Puentener,CH,9
-1996-01-14,Eric Villiard,CA,16
-1996-01-14,Richard Gravier,FR,0
-1996-01-14,Johan Wallner,SE,0
-1996-01-14,Matteo Belfrond,IT,0
-1996-01-14,Anders Andersson,SE,21
-1996-01-14,Max Ancenay,FR,7
-1996-01-14,Matej Jovan,SK,0
-1996-01-14,Martin Hansson,SE,0
-1996-01-14,Kilian Albrecht,AT,0
-1996-01-14,Didier Plaschy,CH,0
-1996-01-14,Bruno Kernen,CH,0
-1996-01-14,Urs Kaelin,CH,0
-1996-01-14,Thomas Sykora,AT,206
-1996-01-14,Harald Chr. Strand Nilsen,NO,30
-1996-01-14,Matteo Nana,IT,14
-1996-01-14,Mika Marila,FI,13
-1996-01-14,Matthew Grosjean,US,67
-1996-01-14,Gaku Hirasawa,JP,21
-1996-01-14,Sergio Bergamelli,IT,34
-1996-01-14,Alberto Tomba,IT,440
-1996-01-14,Alois Vogl,DE,14
-1996-01-14,Ole Kristian Furuseth,NO,98
-1996-01-14,Finn Chr. Jagge,NO,195
-1996-01-14,Sebastien Amiez,FR,335
-1996-01-14,Andrej Miklavc,SK,168
-1996-01-14,Jure Kosir,SK,285
-1996-01-14,Matjaz Vrhovnik,SK,62
-1996-01-14,Marc Girardelli,LU,57
-1996-01-14,Mario Reiter,AT,239
-1996-01-14,Gianluca Grigoletto,IT,11
-1996-01-14,Angelo Weiss,IT,31
-1996-01-14,Andrea Zinsli,CH,97
-1996-01-14,Christian Mayer,AT,194
-1996-01-14,Thomas Stangassinger,AT,106
-1996-01-14,Kiminobu Kimura,JP,39
-1996-01-21,Christian Mayer,AT,194
-1996-01-21,Thomas Stangassinger,AT,106
-1996-01-21,Bernhard Bauer,DE,84
-1996-01-21,Mario Reiter,AT,239
-1996-01-21,Tom Stiansen,NO,32
-1996-01-21,Pierre Violon,FR,9
-1996-01-21,Johan Wallner,SE,18
-1996-01-21,Sergio Bergamelli,IT,34
-1996-01-21,Patrick Staub,CH,59
-1996-01-21,Matjaz Vrhovnik,SK,62
-1996-01-21,Gaku Hirasawa,JP,21
-1996-01-21,Francois Simond,FR,50
-1996-01-21,Bernhard Gstrein,AT,46
-1996-01-21,Mitja Kunc,SK,77
-1996-01-21,Frederic Covili,FR,29
-1996-01-21,Siegfried Voglreiter,AT,51
-1996-01-21,Matthew Grosjean,US,67
-1996-01-21,Matteo Nana,IT,14
-1996-01-21,Harald Chr. Strand Nilsen,NO,30
-1996-01-21,Max Ancenay,FR,7
-1996-01-21,Marc Girardelli,LU,97
-1996-01-21,Michael von Gruenigen,CH,106
-1996-01-21,Andrej Miklavc,SK,213
-1996-01-21,Richard Gravier,FR,20
-1996-01-21,Yves Dimier,FR,184
-1996-01-21,Kiminobu Kimura,JP,71
-1996-01-21,Bruno Kernen,CH,0
-1996-01-21,Didier Plaschy,CH,0
-1996-01-21,Kilian Albrecht,AT,0
-1996-01-21,Angelo Weiss,IT,31
-1996-01-21,Martin Hansson,SE,0
-1996-01-21,Gianluca Grigoletto,IT,11
-1996-01-21,Alois Vogl,DE,14
-1996-01-21,Eric Villiard,CA,16
-1996-01-21,Leo Puentener,CH,9
-1996-01-21,Jesper Brugge,SE,12
-1996-01-21,Dietmar Thoeni,AT,36
-1996-01-21,Jure Kosir,SK,285
-1996-01-21,Stanley Hayer,CA,12
-1996-01-21,Anders Andersson,SE,21
-1996-01-21,Matej Jovan,SK,0
-1996-01-21,Lasse Kjus,NO,116
-1996-01-21,Urs Kaelin,CH,0
-1996-01-21,Michael Tritscher,AT,100
-1996-01-21,Fabrizio Tescari,IT,92
-1996-01-21,Kjetil Andre Aamodt,NO,101
-1996-01-21,Matteo Belfrond,IT,11
-1996-01-21,Andrea Zinsli,CH,111
-1996-01-21,Mika Marila,FI,23
-1996-01-21,Konrad  Kurt Ladstaetter,IT,120
-1996-01-21,Fabio De Crignis,IT,197
-1996-01-21,Alberto Tomba,IT,440
-1996-01-21,Ole Kristian Furuseth,NO,120
-1996-01-21,Sebastien Amiez,FR,435
-1996-01-21,Finn Chr. Jagge,NO,224
-1996-01-21,Thomas Sykora,AT,266
-1996-01-21,Guenther Mader,AT,75
-1996-01-21,Manfred Kleinlercher,AT,18
-1996-01-21,Rene Mlekuz,SK,84
-1996-01-27,Dietmar Thoeni,AT,36
-1996-01-27,Jesper Brugge,SE,12
-1996-01-27,Harald Chr. Strand Nilsen,NO,30
-1996-01-27,Anders Andersson,SE,21
-1996-01-27,Rene Mlekuz,SK,84
-1996-01-27,Stanley Hayer,CA,12
-1996-01-27,Max Ancenay,FR,7
-1996-01-27,Angelo Weiss,IT,31
-1996-01-27,Alois Vogl,DE,14
-1996-01-27,Gianluca Grigoletto,IT,11
-1996-01-27,Guenther Mader,AT,75
-1996-01-27,Mika Marila,FI,23
-1996-01-27,Manfred Kleinlercher,AT,18
-1996-01-27,Leo Puentener,CH,9
-1996-01-27,Bruno Kernen,CH,0
-1996-01-27,Matteo Belfrond,IT,11
-1996-01-27,Yves Dimier,FR,202
-1996-01-27,Ole Kristian Furuseth,NO,160
-1996-01-27,Sebastien Amiez,FR,459
-1996-01-27,Jure Kosir,SK,321
-1996-01-27,Fabio De Crignis,IT,242
-1996-01-27,Fabrizio Tescari,IT,108
-1996-01-27,Richard Gravier,FR,20
-1996-01-27,Kilian Albrecht,AT,7
-1996-01-27,Andrej Miklavc,SK,263
-1996-01-27,Konrad  Kurt Ladstaetter,IT,128
-1996-01-27,Marc Girardelli,LU,112
-1996-01-27,Urs Kaelin,CH,0
-1996-01-27,Pierre Violon,FR,9
-1996-01-27,Didier Plaschy,CH,0
-1996-01-27,Matej Jovan,SK,20
-1996-01-27,Matthew Grosjean,US,67
-1996-01-27,Johan Wallner,SE,18
-1996-01-27,Patrick Staub,CH,59
-1996-01-27,Tom Stiansen,NO,64
-1996-01-27,Thomas Stangassinger,AT,166
-1996-01-27,Thomas Sykora,AT,346
-1996-01-27,Kiminobu Kimura,JP,100
-1996-01-27,Mario Reiter,AT,339
-1996-01-27,Siegfried Voglreiter,AT,60
-1996-01-27,Eric Villiard,CA,26
-1996-01-27,Sergio Bergamelli,IT,34
-1996-01-27,Martin Hansson,SE,11
-1996-01-27,Michael von Gruenigen,CH,118
-1996-01-27,Kjetil Andre Aamodt,NO,127
-1996-01-27,Bernhard Bauer,DE,97
-1996-01-27,Christian Mayer,AT,216
-1996-01-27,Mitja Kunc,SK,77
-1996-01-27,Matjaz Vrhovnik,SK,62
-1996-01-27,Andrea Zinsli,CH,111
-1996-01-27,Gaku Hirasawa,JP,35
-1996-01-27,Michael Tritscher,AT,100
-1996-01-27,Alberto Tomba,IT,440
-1996-01-27,Lasse Kjus,NO,116
-1996-01-27,Bernhard Gstrein,AT,46
-1996-01-27,Francois Simond,FR,50
-1996-01-27,Frederic Covili,FR,29
-1996-01-27,Matteo Nana,IT,14
-1996-01-27,Finn Chr. Jagge,NO,224
-1996-03-10,Kjetil Andre Aamodt,NO,137
-1996-03-10,Didier Plaschy,CH,14
-1996-03-10,Urs Kaelin,CH,8
-1996-03-10,Kilian Albrecht,AT,7
-1996-03-10,Martin Hansson,SE,11
-1996-03-10,Matej Jovan,SK,20
-1996-03-10,Matteo Belfrond,IT,11
-1996-03-10,Johan Wallner,SE,18
-1996-03-10,Fabrizio Tescari,IT,128
-1996-03-10,Konrad  Kurt Ladstaetter,IT,139
-1996-03-10,Thomas Sykora,AT,446
-1996-03-10,Alberto Tomba,IT,490
-1996-03-10,Kiminobu Kimura,JP,116
-1996-03-10,Ole Kristian Furuseth,NO,189
-1996-03-10,Sebastien Amiez,FR,539
-1996-03-10,Mario Reiter,AT,384
-1996-03-10,Andrej Miklavc,SK,299
-1996-03-10,Jure Kosir,SK,381
-1996-03-10,Michael von Gruenigen,CH,142
-1996-03-10,Lasse Kjus,NO,134
-1996-03-10,Finn Chr. Jagge,NO,256
-1996-03-10,Yves Dimier,FR,242
-1996-03-10,Andrea Zinsli,CH,133
-1996-03-10,Guenther Mader,AT,84
-1996-03-10,Richard Gravier,FR,20
-1996-03-10,Alois Vogl,DE,14
-1996-03-10,Gianluca Grigoletto,IT,11
-1996-03-10,Christian Mayer,AT,242
-1996-03-10,Thomas Stangassinger,AT,181
-1996-03-10,Gaku Hirasawa,JP,48
-1996-03-10,Bruno Kernen,CH,12
-1996-03-10,Michael Tritscher,AT,100
-1996-03-10,Siegfried Voglreiter,AT,60
-1996-03-10,Frederic Covili,FR,29
-1996-03-10,Mitja Kunc,SK,77
-1996-03-10,Fabio De Crignis,IT,242
-1996-03-10,Bernhard Gstrein,AT,46
-1996-03-10,Francois Simond,FR,50
-1996-03-10,Matteo Nana,IT,14
-1996-03-10,Matjaz Vrhovnik,SK,62
-1996-03-10,Patrick Staub,CH,59
-1996-03-10,Manfred Kleinlercher,AT,18
-1996-03-10,Sergio Bergamelli,IT,34
-1996-03-10,Pierre Violon,FR,9
-1996-03-10,Bernhard Bauer,DE,97
-1996-03-10,Tom Stiansen,NO,64
-1996-03-10,Mika Marila,FI,23
-1996-03-10,Angelo Weiss,IT,31
-1996-03-10,Max Ancenay,FR,7
-1996-03-10,Anders Andersson,SE,21
-1996-03-10,Stanley Hayer,CA,12
-1996-03-10,Harald Chr. Strand Nilsen,NO,30
-1996-03-10,Dietmar Thoeni,AT,36
-1996-03-10,Jesper Brugge,SE,12
-1996-03-10,Leo Puentener,CH,9
-1996-03-10,Marc Girardelli,LU,112
-1996-03-10,Eric Villiard,CA,26
-1996-03-10,Matthew Grosjean,US,67
-1996-03-10,Rene Mlekuz,SK,84
+1995-11-18,Elfi Eder,AT,100
+1995-11-18,Miriam Vogt,DE,0
+1995-11-18,Katrin Neuenschwander,CH,0
+1995-11-18,Morena Gallizio Tescari,IT,0
+1995-11-18,Ingeborg H. Marken,NO,0
+1995-11-18,Florence Masnada,FR,0
+1995-11-18,Pernilla Wiberg,SE,0
+1995-11-18,Kristina Andersson,SE,0
+1995-11-18,Martina Ertl,DE,0
+1995-11-18,Patricia Chauvet,FR,0
+1995-11-18,Urska Hrovat,SK,32
+1995-11-18,Christel Pascal,FR,0
+1995-11-18,Angela Grassinger,DE,0
+1995-11-18,Annemarie Gerg,DE,0
+1995-11-18,Martina Fortkord,SE,0
+1995-11-18,Sonja Nef,CH,0
+1995-11-18,Marlies Oester,CH,0
+1995-11-18,Sabine Egger,AT,0
+1995-11-18,Laure Pequegnot,FR,0
+1995-11-18,Roberta Serra,IT,0
+1995-11-18,Katja Koren,SK,40
+1995-11-18,Ingrid Salvenmoser,AT,36
+1995-11-18,Deborah Compagnoni,IT,0
+1995-11-18,Caroline Dummer Waidhofer,AT,0
+1995-11-18,Lara Magoni,IT,0
+1995-11-18,Katja Seizinger,DE,20
+1995-11-18,Erika Hansson,SE,18
+1995-11-18,Kristina Koznick,US,24
+1995-11-18,Claudia Riegler,NZ,16
+1995-11-18,Veronika Kappaurer,AT,15
+1995-11-18,Ylva Nowen,SE,14
+1995-11-18,Manuela Lieb,AT,13
+1995-11-18,Elisabetta Biavaschi,IT,12
+1995-11-18,Astrid Plank,IT,26
+1995-11-18,Linda Ydeskog,SE,0
+1995-11-18,Catherine Borghi,CH,11
+1995-11-18,Hilde Gerg,DE,9
+1995-11-18,Vanessa Vidal,FR,8
+1995-11-18,Ingrid Stoeckl,AT,7
+1995-11-18,Leila Piccard,FR,29
+1995-11-18,Karin Koellerer,AT,0
+1995-11-18,Titti Rodling,SE,0
+1995-11-18,Karin Lambrigger,CH,0
+1995-11-18,Zali Steggall,AU,0
+1995-11-18,Trine Bakke Rognmo,NO,0
+1995-11-18,Monica Bosch-forellad,ES,10
+1995-11-18,Natasa Bokal,SK,0
+1995-11-18,Edda Mutter,DE,0
+1995-11-18,Isabelle Sourd,FR,0
+1995-11-18,Marianne Kjoerstad,NO,80
+1995-11-18,Edith Rozsa,CA,0
+1995-11-18,Gabriela Zingre-Graf,CH,60
+1995-11-18,Martina Accola,CH,50
+1995-11-18,Tasha Nelson,US,0
+1995-11-18,Anita Wachter,AT,22
+1995-11-18,Renate Goetschl,AT,0
+1995-11-18,Sibylle Brauner,DE,0
+1995-11-18,Carrie Sheinberg,US,0
+1995-11-18,Sandra Haelldahl,SE,0
+1995-11-18,Karin Roten Meier,CH,45
+1995-12-17,Anita Wachter,AT,44
+1995-12-17,Ingeborg H. Marken,NO,9
+1995-12-17,Edda Mutter,DE,0
+1995-12-17,Vanessa Vidal,FR,18
+1995-12-17,Laure Pequegnot,FR,0
+1995-12-17,Morena Gallizio Tescari,IT,11
+1995-12-17,Roberta Serra,IT,0
+1995-12-17,Katrin Neuenschwander,CH,12
+1995-12-17,Deborah Compagnoni,IT,0
+1995-12-17,Natasa Bokal,SK,0
+1995-12-17,Caroline Dummer Waidhofer,AT,14
+1995-12-17,Edith Rozsa,CA,0
+1995-12-17,Hilde Gerg,DE,24
+1995-12-17,Carrie Sheinberg,US,0
+1995-12-17,Ylva Nowen,SE,30
+1995-12-17,Renate Goetschl,AT,0
+1995-12-17,Sibylle Brauner,DE,0
+1995-12-17,Linda Ydeskog,SE,18
+1995-12-17,Sandra Haelldahl,SE,0
+1995-12-17,Lara Magoni,IT,20
+1995-12-17,Tasha Nelson,US,0
+1995-12-17,Miriam Vogt,DE,13
+1995-12-17,Sabine Egger,AT,0
+1995-12-17,Marlies Oester,CH,0
+1995-12-17,Sonja Nef,CH,0
+1995-12-17,Marianne Kjoerstad,NO,80
+1995-12-17,Gabriela Zingre-Graf,CH,60
+1995-12-17,Karin Roten Meier,CH,45
+1995-12-17,Leila Piccard,FR,29
+1995-12-17,Kristina Koznick,US,24
+1995-12-17,Katja Seizinger,DE,20
+1995-12-17,Erika Hansson,SE,18
+1995-12-17,Claudia Riegler,NZ,16
+1995-12-17,Veronika Kappaurer,AT,15
+1995-12-17,Manuela Lieb,AT,13
+1995-12-17,Elisabetta Biavaschi,IT,12
+1995-12-17,Catherine Borghi,CH,11
+1995-12-17,Monica Bosch-forellad,ES,10
+1995-12-17,Ingrid Stoeckl,AT,7
+1995-12-17,Pernilla Wiberg,SE,0
+1995-12-17,Kristina Andersson,SE,0
+1995-12-17,Martina Ertl,DE,0
+1995-12-17,Patricia Chauvet,FR,0
+1995-12-17,Christel Pascal,FR,0
+1995-12-17,Annemarie Gerg,DE,0
+1995-12-17,Martina Fortkord,SE,0
+1995-12-17,Florence Masnada,FR,8
+1995-12-17,Angela Grassinger,DE,0
+1995-12-17,Isabelle Sourd,FR,0
+1995-12-17,Katja Koren,SK,100
+1995-12-17,Zali Steggall,AU,26
+1995-12-17,Elfi Eder,AT,200
+1995-12-17,Ingrid Salvenmoser,AT,76
+1995-12-17,Urska Hrovat,SK,112
+1995-12-17,Karin Lambrigger,CH,32
+1995-12-17,Titti Rodling,SE,36
+1995-12-17,Karin Koellerer,AT,45
+1995-12-17,Trine Bakke Rognmo,NO,24
+1995-12-17,Martina Accola,CH,100
+1995-12-17,Astrid Plank,IT,55
+1995-12-22,Florence Masnada,FR,8
+1995-12-22,Ingeborg H. Marken,NO,9
+1995-12-22,Morena Gallizio Tescari,IT,11
+1995-12-22,Sonja Nef,CH,0
+1995-12-22,Katrin Neuenschwander,CH,12
+1995-12-22,Carrie Sheinberg,US,0
+1995-12-22,Annemarie Gerg,DE,9
+1995-12-22,Veronika Kappaurer,AT,29
+1995-12-22,Caroline Dummer Waidhofer,AT,14
+1995-12-22,Linda Ydeskog,SE,18
+1995-12-22,Lara Magoni,IT,20
+1995-12-22,Trine Bakke Rognmo,NO,24
+1995-12-22,Zali Steggall,AU,26
+1995-12-22,Miriam Vogt,DE,13
+1995-12-22,Marlies Oester,CH,0
+1995-12-22,Edda Mutter,DE,0
+1995-12-22,Angela Grassinger,DE,10
+1995-12-22,Elisabetta Biavaschi,IT,62
+1995-12-22,Renate Goetschl,AT,0
+1995-12-22,Sibylle Brauner,DE,0
+1995-12-22,Sandra Haelldahl,SE,0
+1995-12-22,Tasha Nelson,US,0
+1995-12-22,Edith Rozsa,CA,0
+1995-12-22,Vanessa Vidal,FR,31
+1995-12-22,Natasa Bokal,SK,0
+1995-12-22,Astrid Plank,IT,81
+1995-12-22,Deborah Compagnoni,IT,0
+1995-12-22,Roberta Serra,IT,0
+1995-12-22,Laure Pequegnot,FR,0
+1995-12-22,Martina Accola,CH,129
+1995-12-22,Sabine Egger,AT,0
+1995-12-22,Karin Roten Meier,CH,57
+1995-12-22,Katja Seizinger,DE,28
+1995-12-22,Ingrid Stoeckl,AT,7
+1995-12-22,Karin Koellerer,AT,45
+1995-12-22,Katja Koren,SK,150
+1995-12-22,Leila Piccard,FR,51
+1995-12-22,Kristina Andersson,SE,60
+1995-12-22,Martina Ertl,DE,40
+1995-12-22,Ingrid Salvenmoser,AT,96
+1995-12-22,Urska Hrovat,SK,192
+1995-12-22,Patricia Chauvet,FR,36
+1995-12-22,Anita Wachter,AT,68
+1995-12-22,Ylva Nowen,SE,48
+1995-12-22,Marianne Kjoerstad,NO,112
+1995-12-22,Titti Rodling,SE,51
+1995-12-22,Pernilla Wiberg,SE,100
+1995-12-22,Elfi Eder,AT,200
+1995-12-22,Gabriela Zingre-Graf,CH,60
+1995-12-22,Christel Pascal,FR,11
+1995-12-22,Erika Hansson,SE,18
+1995-12-22,Isabelle Sourd,FR,0
+1995-12-22,Hilde Gerg,DE,24
+1995-12-22,Monica Bosch-forellad,ES,10
+1995-12-22,Kristina Koznick,US,24
+1995-12-22,Martina Fortkord,SE,7
+1995-12-22,Karin Lambrigger,CH,48
+1995-12-22,Claudia Riegler,NZ,16
+1995-12-22,Manuela Lieb,AT,13
+1995-12-22,Catherine Borghi,CH,11
+1995-12-29,Marlies Oester,CH,29
+1995-12-29,Martina Accola,CH,174
+1995-12-29,Elfi Eder,AT,260
+1995-12-29,Sonja Nef,CH,32
+1995-12-29,Gabriela Zingre-Graf,CH,71
+1995-12-29,Leila Piccard,FR,60
+1995-12-29,Karin Roten Meier,CH,137
+1995-12-29,Manuela Lieb,AT,20
+1995-12-29,Titti Rodling,SE,60
+1995-12-29,Patricia Chauvet,FR,72
+1995-12-29,Pernilla Wiberg,SE,200
+1995-12-29,Claudia Riegler,NZ,56
+1995-12-29,Veronika Kappaurer,AT,39
+1995-12-29,Caroline Dummer Waidhofer,AT,14
+1995-12-29,Kristina Koznick,US,24
+1995-12-29,Anita Wachter,AT,83
+1995-12-29,Roberta Serra,IT,0
+1995-12-29,Deborah Compagnoni,IT,0
+1995-12-29,Natasa Bokal,SK,0
+1995-12-29,Edith Rozsa,CA,0
+1995-12-29,Isabelle Sourd,FR,0
+1995-12-29,Carrie Sheinberg,US,0
+1995-12-29,Renate Goetschl,AT,0
+1995-12-29,Sibylle Brauner,DE,0
+1995-12-29,Laure Pequegnot,FR,0
+1995-12-29,Sabine Egger,AT,16
+1995-12-29,Tasha Nelson,US,0
+1995-12-29,Astrid Plank,IT,86
+1995-12-29,Urska Hrovat,SK,192
+1995-12-29,Ingrid Salvenmoser,AT,114
+1995-12-29,Morena Gallizio Tescari,IT,15
+1995-12-29,Erika Hansson,SE,38
+1995-12-29,Karin Koellerer,AT,69
+1995-12-29,Edda Mutter,DE,6
+1995-12-29,Marianne Kjoerstad,NO,134
+1995-12-29,Sandra Haelldahl,SE,0
+1995-12-29,Martina Fortkord,SE,7
+1995-12-29,Kristina Andersson,SE,110
+1995-12-29,Christel Pascal,FR,11
+1995-12-29,Monica Bosch-forellad,ES,10
+1995-12-29,Vanessa Vidal,FR,31
+1995-12-29,Angela Grassinger,DE,22
+1995-12-29,Katja Seizinger,DE,28
+1995-12-29,Elisabetta Biavaschi,IT,62
+1995-12-29,Ingrid Stoeckl,AT,7
+1995-12-29,Ylva Nowen,SE,61
+1995-12-29,Katja Koren,SK,176
+1995-12-29,Zali Steggall,AU,26
+1995-12-29,Karin Lambrigger,CH,48
+1995-12-29,Lara Magoni,IT,20
+1995-12-29,Linda Ydeskog,SE,18
+1995-12-29,Catherine Borghi,CH,11
+1995-12-29,Hilde Gerg,DE,38
+1995-12-29,Miriam Vogt,DE,13
+1995-12-29,Katrin Neuenschwander,CH,12
+1995-12-29,Ingeborg H. Marken,NO,9
+1995-12-29,Florence Masnada,FR,8
+1995-12-29,Martina Ertl,DE,40
+1995-12-29,Trine Bakke Rognmo,NO,24
+1995-12-29,Annemarie Gerg,DE,9
+1995-12-30,Sibylle Brauner,DE,0
+1995-12-30,Zali Steggall,AU,26
+1995-12-30,Lara Magoni,IT,20
+1995-12-30,Renate Goetschl,AT,0
+1995-12-30,Tasha Nelson,US,0
+1995-12-30,Miriam Vogt,DE,13
+1995-12-30,Katrin Neuenschwander,CH,12
+1995-12-30,Kristina Andersson,SE,170
+1995-12-30,Morena Gallizio Tescari,IT,15
+1995-12-30,Sandra Haelldahl,SE,0
+1995-12-30,Ingeborg H. Marken,NO,9
+1995-12-30,Florence Masnada,FR,8
+1995-12-30,Caroline Dummer Waidhofer,AT,14
+1995-12-30,Carrie Sheinberg,US,0
+1995-12-30,Natasa Bokal,SK,0
+1995-12-30,Marianne Kjoerstad,NO,214
+1995-12-30,Annemarie Gerg,DE,9
+1995-12-30,Katja Koren,SK,176
+1995-12-30,Urska Hrovat,SK,192
+1995-12-30,Katja Seizinger,DE,28
+1995-12-30,Erika Hansson,SE,38
+1995-12-30,Manuela Lieb,AT,20
+1995-12-30,Elfi Eder,AT,360
+1995-12-30,Martina Fortkord,SE,7
+1995-12-30,Edda Mutter,DE,6
+1995-12-30,Deborah Compagnoni,IT,0
+1995-12-30,Edith Rozsa,CA,0
+1995-12-30,Elisabetta Biavaschi,IT,62
+1995-12-30,Monica Bosch-forellad,ES,10
+1995-12-30,Ingrid Stoeckl,AT,7
+1995-12-30,Karin Lambrigger,CH,48
+1995-12-30,Isabelle Sourd,FR,0
+1995-12-30,Karin Roten Meier,CH,137
+1995-12-30,Christel Pascal,FR,11
+1995-12-30,Trine Bakke Rognmo,NO,39
+1995-12-30,Veronika Kappaurer,AT,47
+1995-12-30,Vanessa Vidal,FR,38
+1995-12-30,Laure Pequegnot,FR,10
+1995-12-30,Marlies Oester,CH,79
+1995-12-30,Titti Rodling,SE,71
+1995-12-30,Karin Koellerer,AT,81
+1995-12-30,Ylva Nowen,SE,93
+1995-12-30,Linda Ydeskog,SE,31
+1995-12-30,Anita Wachter,AT,109
+1995-12-30,Sonja Nef,CH,47
+1995-12-30,Leila Piccard,FR,89
+1995-12-30,Martina Accola,CH,210
+1995-12-30,Pernilla Wiberg,SE,200
+1995-12-30,Patricia Chauvet,FR,88
+1995-12-30,Kristina Koznick,US,29
+1995-12-30,Roberta Serra,IT,9
+1995-12-30,Hilde Gerg,DE,44
+1995-12-30,Gabriela Zingre-Graf,CH,111
+1995-12-30,Ingrid Salvenmoser,AT,132
+1995-12-30,Astrid Plank,IT,108
+1995-12-30,Angela Grassinger,DE,26
+1995-12-30,Catherine Borghi,CH,14
+1995-12-30,Sabine Egger,AT,40
+1995-12-30,Claudia Riegler,NZ,101
+1995-12-30,Martina Ertl,DE,60
+1996-01-07,Karin Koellerer,AT,105
+1996-01-07,Sandra Haelldahl,SE,0
+1996-01-07,Tasha Nelson,US,0
+1996-01-07,Sibylle Brauner,DE,0
+1996-01-07,Renate Goetschl,AT,0
+1996-01-07,Martina Ertl,DE,89
+1996-01-07,Ylva Nowen,SE,103
+1996-01-07,Natasa Bokal,SK,22
+1996-01-07,Sonja Nef,CH,65
+1996-01-07,Edda Mutter,DE,18
+1996-01-07,Veronika Kappaurer,AT,52
+1996-01-07,Marlies Oester,CH,92
+1996-01-07,Hilde Gerg,DE,58
+1996-01-07,Deborah Compagnoni,IT,26
+1996-01-07,Sabine Egger,AT,55
+1996-01-07,Gabriela Zingre-Graf,CH,131
+1996-01-07,Vanessa Vidal,FR,42
+1996-01-07,Titti Rodling,SE,87
+1996-01-07,Trine Bakke Rognmo,NO,45
+1996-01-07,Marianne Kjoerstad,NO,264
+1996-01-07,Lara Magoni,IT,31
+1996-01-07,Carrie Sheinberg,US,0
+1996-01-07,Kristina Andersson,SE,270
+1996-01-07,Miriam Vogt,DE,13
+1996-01-07,Astrid Plank,IT,117
+1996-01-07,Caroline Dummer Waidhofer,AT,14
+1996-01-07,Linda Ydeskog,SE,31
+1996-01-07,Martina Accola,CH,246
+1996-01-07,Zali Steggall,AU,26
+1996-01-07,Ingrid Stoeckl,AT,7
+1996-01-07,Monica Bosch-forellad,ES,10
+1996-01-07,Elfi Eder,AT,440
+1996-01-07,Urska Hrovat,SK,232
+1996-01-07,Catherine Borghi,CH,14
+1996-01-07,Elisabetta Biavaschi,IT,62
+1996-01-07,Manuela Lieb,AT,20
+1996-01-07,Erika Hansson,SE,38
+1996-01-07,Anita Wachter,AT,154
+1996-01-07,Claudia Riegler,NZ,161
+1996-01-07,Katja Seizinger,DE,28
+1996-01-07,Kristina Koznick,US,29
+1996-01-07,Karin Roten Meier,CH,137
+1996-01-07,Katja Koren,SK,176
+1996-01-07,Leila Piccard,FR,89
+1996-01-07,Ingrid Salvenmoser,AT,132
+1996-01-07,Katrin Neuenschwander,CH,12
+1996-01-07,Morena Gallizio Tescari,IT,15
+1996-01-07,Karin Lambrigger,CH,48
+1996-01-07,Angela Grassinger,DE,26
+1996-01-07,Florence Masnada,FR,8
+1996-01-07,Patricia Chauvet,FR,120
+1996-01-07,Ingeborg H. Marken,NO,9
+1996-01-07,Pernilla Wiberg,SE,200
+1996-01-07,Isabelle Sourd,FR,7
+1996-01-07,Christel Pascal,FR,11
+1996-01-07,Martina Fortkord,SE,7
+1996-01-07,Edith Rozsa,CA,8
+1996-01-07,Laure Pequegnot,FR,10
+1996-01-07,Roberta Serra,IT,9
+1996-01-07,Annemarie Gerg,DE,9
+1996-01-14,Tasha Nelson,US,0
+1996-01-14,Monica Bosch-forellad,ES,10
+1996-01-14,Catherine Borghi,CH,14
+1996-01-14,Carrie Sheinberg,US,5
+1996-01-14,Katrin Neuenschwander,CH,12
+1996-01-14,Leila Piccard,FR,89
+1996-01-14,Kristina Koznick,US,29
+1996-01-14,Katja Seizinger,DE,32
+1996-01-14,Katja Koren,SK,176
+1996-01-14,Linda Ydeskog,SE,37
+1996-01-14,Manuela Lieb,AT,20
+1996-01-14,Sandra Haelldahl,SE,0
+1996-01-14,Ingrid Stoeckl,AT,7
+1996-01-14,Sibylle Brauner,DE,0
+1996-01-14,Miriam Vogt,DE,13
+1996-01-14,Morena Gallizio Tescari,IT,15
+1996-01-14,Ingeborg H. Marken,NO,9
+1996-01-14,Florence Masnada,FR,8
+1996-01-14,Christel Pascal,FR,11
+1996-01-14,Caroline Dummer Waidhofer,AT,14
+1996-01-14,Lara Magoni,IT,31
+1996-01-14,Angela Grassinger,DE,26
+1996-01-14,Hilde Gerg,DE,58
+1996-01-14,Martina Fortkord,SE,7
+1996-01-14,Edda Mutter,DE,18
+1996-01-14,Zali Steggall,AU,26
+1996-01-14,Karin Lambrigger,CH,48
+1996-01-14,Laure Pequegnot,FR,10
+1996-01-14,Deborah Compagnoni,IT,26
+1996-01-14,Edith Rozsa,CA,8
+1996-01-14,Isabelle Sourd,FR,7
+1996-01-14,Renate Goetschl,AT,0
+1996-01-14,Sabine Egger,AT,55
+1996-01-14,Annemarie Gerg,DE,9
+1996-01-14,Elisabetta Biavaschi,IT,64
+1996-01-14,Vanessa Vidal,FR,45
+1996-01-14,Anita Wachter,AT,190
+1996-01-14,Sonja Nef,CH,97
+1996-01-14,Natasa Bokal,SK,48
+1996-01-14,Ingrid Salvenmoser,AT,139
+1996-01-14,Gabriela Zingre-Graf,CH,139
+1996-01-14,Trine Bakke Rognmo,NO,54
+1996-01-14,Ylva Nowen,SE,143
+1996-01-14,Karin Roten Meier,CH,147
+1996-01-14,Patricia Chauvet,FR,131
+1996-01-14,Marlies Oester,CH,104
+1996-01-14,Astrid Plank,IT,130
+1996-01-14,Karin Koellerer,AT,121
+1996-01-14,Pernilla Wiberg,SE,214
+1996-01-14,Titti Rodling,SE,113
+1996-01-14,Marianne Kjoerstad,NO,293
+1996-01-14,Martina Accola,CH,291
+1996-01-14,Erika Hansson,SE,53
+1996-01-14,Martina Ertl,DE,139
+1996-01-14,Roberta Serra,IT,69
+1996-01-14,Claudia Riegler,NZ,181
+1996-01-14,Elfi Eder,AT,520
+1996-01-14,Kristina Andersson,SE,292
+1996-01-14,Veronika Kappaurer,AT,70
+1996-01-14,Urska Hrovat,SK,332
+1996-01-26,Gabriela Zingre-Graf,CH,139
+1996-01-26,Monica Bosch-forellad,ES,10
+1996-01-26,Leila Piccard,FR,115
+1996-01-26,Catherine Borghi,CH,14
+1996-01-26,Elisabetta Biavaschi,IT,64
+1996-01-26,Ylva Nowen,SE,143
+1996-01-26,Veronika Kappaurer,AT,70
+1996-01-26,Linda Ydeskog,SE,53
+1996-01-26,Claudia Riegler,NZ,181
+1996-01-26,Anita Wachter,AT,190
+1996-01-26,Kristina Andersson,SE,312
+1996-01-26,Karin Roten Meier,CH,171
+1996-01-26,Kristina Koznick,US,29
+1996-01-26,Katja Koren,SK,176
+1996-01-26,Martina Accola,CH,291
+1996-01-26,Titti Rodling,SE,135
+1996-01-26,Katja Seizinger,DE,32
+1996-01-26,Isabelle Sourd,FR,7
+1996-01-26,Hilde Gerg,DE,58
+1996-01-26,Vanessa Vidal,FR,45
+1996-01-26,Roberta Serra,IT,69
+1996-01-26,Laure Pequegnot,FR,10
+1996-01-26,Renate Goetschl,AT,0
+1996-01-26,Sabine Egger,AT,55
+1996-01-26,Martina Fortkord,SE,7
+1996-01-26,Annemarie Gerg,DE,9
+1996-01-26,Sibylle Brauner,DE,0
+1996-01-26,Christel Pascal,FR,11
+1996-01-26,Florence Masnada,FR,8
+1996-01-26,Ingeborg H. Marken,NO,9
+1996-01-26,Morena Gallizio Tescari,IT,15
+1996-01-26,Katrin Neuenschwander,CH,12
+1996-01-26,Sandra Haelldahl,SE,0
+1996-01-26,Caroline Dummer Waidhofer,AT,14
+1996-01-26,Tasha Nelson,US,0
+1996-01-26,Trine Bakke Rognmo,NO,54
+1996-01-26,Karin Koellerer,AT,139
+1996-01-26,Karin Lambrigger,CH,48
+1996-01-26,Ingrid Stoeckl,AT,7
+1996-01-26,Carrie Sheinberg,US,5
+1996-01-26,Miriam Vogt,DE,13
+1996-01-26,Edda Mutter,DE,18
+1996-01-26,Edith Rozsa,CA,15
+1996-01-26,Astrid Plank,IT,145
+1996-01-26,Deborah Compagnoni,IT,66
+1996-01-26,Manuela Lieb,AT,28
+1996-01-26,Angela Grassinger,DE,35
+1996-01-26,Marianne Kjoerstad,NO,338
+1996-01-26,Martina Ertl,DE,149
+1996-01-26,Patricia Chauvet,FR,160
+1996-01-26,Natasa Bokal,SK,59
+1996-01-26,Urska Hrovat,SK,368
+1996-01-26,Ingrid Salvenmoser,AT,151
+1996-01-26,Zali Steggall,AU,76
+1996-01-26,Marlies Oester,CH,184
+1996-01-26,Sonja Nef,CH,197
+1996-01-26,Erika Hansson,SE,67
+1996-01-26,Pernilla Wiberg,SE,274
+1996-01-26,Elfi Eder,AT,556
+1996-01-26,Lara Magoni,IT,44
+1996-01-28,Miriam Vogt,DE,13
+1996-01-28,Karin Koellerer,AT,139
+1996-01-28,Ingrid Stoeckl,AT,7
+1996-01-28,Zali Steggall,AU,76
+1996-01-28,Linda Ydeskog,SE,53
+1996-01-28,Katrin Neuenschwander,CH,12
+1996-01-28,Vanessa Vidal,FR,45
+1996-01-28,Morena Gallizio Tescari,IT,15
+1996-01-28,Ingeborg H. Marken,NO,9
+1996-01-28,Monica Bosch-forellad,ES,10
+1996-01-28,Trine Bakke Rognmo,NO,54
+1996-01-28,Martina Ertl,DE,149
+1996-01-28,Caroline Dummer Waidhofer,AT,14
+1996-01-28,Titti Rodling,SE,135
+1996-01-28,Elisabetta Biavaschi,IT,79
+1996-01-28,Annemarie Gerg,DE,9
+1996-01-28,Claudia Riegler,NZ,281
+1996-01-28,Ingrid Salvenmoser,AT,173
+1996-01-28,Karin Roten Meier,CH,251
+1996-01-28,Angela Grassinger,DE,55
+1996-01-28,Lara Magoni,IT,62
+1996-01-28,Tasha Nelson,US,0
+1996-01-28,Sandra Haelldahl,SE,0
+1996-01-28,Christel Pascal,FR,11
+1996-01-28,Carrie Sheinberg,US,5
+1996-01-28,Roberta Serra,IT,69
+1996-01-28,Edda Mutter,DE,18
+1996-01-28,Sabine Egger,AT,55
+1996-01-28,Marlies Oester,CH,184
+1996-01-28,Catherine Borghi,CH,14
+1996-01-28,Sonja Nef,CH,197
+1996-01-28,Martina Fortkord,SE,7
+1996-01-28,Deborah Compagnoni,IT,66
+1996-01-28,Ylva Nowen,SE,143
+1996-01-28,Florence Masnada,FR,8
+1996-01-28,Erika Hansson,SE,67
+1996-01-28,Veronika Kappaurer,AT,70
+1996-01-28,Renate Goetschl,AT,13
+1996-01-28,Hilde Gerg,DE,70
+1996-01-28,Martina Accola,CH,320
+1996-01-28,Manuela Lieb,AT,39
+1996-01-28,Edith Rozsa,CA,25
+1996-01-28,Sibylle Brauner,DE,9
+1996-01-28,Laure Pequegnot,FR,24
+1996-01-28,Urska Hrovat,SK,400
+1996-01-28,Karin Lambrigger,CH,84
+1996-01-28,Isabelle Sourd,FR,23
+1996-01-28,Anita Wachter,AT,230
+1996-01-28,Elfi Eder,AT,580
+1996-01-28,Kristina Andersson,SE,338
+1996-01-28,Patricia Chauvet,FR,205
+1996-01-28,Natasa Bokal,SK,109
+1996-01-28,Pernilla Wiberg,SE,334
+1996-01-28,Marianne Kjoerstad,NO,338
+1996-01-28,Gabriela Zingre-Graf,CH,139
+1996-01-28,Katja Koren,SK,176
+1996-01-28,Leila Piccard,FR,115
+1996-01-28,Kristina Koznick,US,29
+1996-01-28,Katja Seizinger,DE,32
+1996-01-28,Astrid Plank,IT,145
+1996-03-10,Deborah Compagnoni,IT,66
+1996-03-10,Roberta Serra,IT,69
+1996-03-10,Laure Pequegnot,FR,24
+1996-03-10,Edda Mutter,DE,18
+1996-03-10,Martina Fortkord,SE,7
+1996-03-10,Sonja Nef,CH,197
+1996-03-10,Natasa Bokal,SK,109
+1996-03-10,Annemarie Gerg,DE,9
+1996-03-10,Christel Pascal,FR,11
+1996-03-10,Florence Masnada,FR,8
+1996-03-10,Sabine Egger,AT,55
+1996-03-10,Edith Rozsa,CA,25
+1996-03-10,Sibylle Brauner,DE,9
+1996-03-10,Carrie Sheinberg,US,5
+1996-03-10,Renate Goetschl,AT,13
+1996-03-10,Karin Roten Meier,CH,351
+1996-03-10,Hilde Gerg,DE,88
+1996-03-10,Sandra Haelldahl,SE,14
+1996-03-10,Pernilla Wiberg,SE,414
+1996-03-10,Anita Wachter,AT,250
+1996-03-10,Martina Accola,CH,346
+1996-03-10,Ingeborg H. Marken,NO,9
+1996-03-10,Angela Grassinger,DE,70
+1996-03-10,Kristina Andersson,SE,360
+1996-03-10,Katja Koren,SK,192
+1996-03-10,Isabelle Sourd,FR,23
+1996-03-10,Morena Gallizio Tescari,IT,15
+1996-03-10,Vanessa Vidal,FR,45
+1996-03-10,Miriam Vogt,DE,13
+1996-03-10,Marianne Kjoerstad,NO,398
+1996-03-10,Gabriela Zingre-Graf,CH,189
+1996-03-10,Martina Ertl,DE,194
+1996-03-10,Urska Hrovat,SK,440
+1996-03-10,Caroline Dummer Waidhofer,AT,50
+1996-03-10,Ylva Nowen,SE,175
+1996-03-10,Patricia Chauvet,FR,234
+1996-03-10,Marlies Oester,CH,196
+1996-03-10,Tasha Nelson,US,13
+1996-03-10,Elfi Eder,AT,580
+1996-03-10,Ingrid Salvenmoser,AT,173
+1996-03-10,Leila Piccard,FR,115
+1996-03-10,Astrid Plank,IT,145
+1996-03-10,Kristina Koznick,US,29
+1996-03-10,Katja Seizinger,DE,32
+1996-03-10,Erika Hansson,SE,67
+1996-03-10,Claudia Riegler,NZ,281
+1996-03-10,Veronika Kappaurer,AT,70
+1996-03-10,Manuela Lieb,AT,39
+1996-03-10,Elisabetta Biavaschi,IT,79
+1996-03-10,Catherine Borghi,CH,14
+1996-03-10,Monica Bosch-forellad,ES,10
+1996-03-10,Ingrid Stoeckl,AT,7
+1996-03-10,Karin Koellerer,AT,139
+1996-03-10,Titti Rodling,SE,135
+1996-03-10,Karin Lambrigger,CH,84
+1996-03-10,Trine Bakke Rognmo,NO,54
+1996-03-10,Lara Magoni,IT,62
+1996-03-10,Linda Ydeskog,SE,53
+1996-03-10,Katrin Neuenschwander,CH,12
+1996-03-10,Zali Steggall,AU,100
