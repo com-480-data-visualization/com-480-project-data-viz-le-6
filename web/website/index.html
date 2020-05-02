@@ -28,7 +28,7 @@
         </div>
         <div class="first_row row my-2">
             <div class="full_height col-3">
-                <div class="full_height col-12 border rounded mx-2">
+                <div class="full_height col-12 border rounded mx-2" id="ranking_box">
                     <div id="ranking"></div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="full_height col-6">
-                <div class="full_height col-12 border rounded mx-2" id="graph_area">
+                <div class="full_height col-12 border rounded mx-2" id="graph_box">
                     <svg id="graph"></svg>
                 </div>
             </div>
@@ -107,12 +107,17 @@
             seasons.forEach(val => { $('#season').append('<option value="' + val + '">' + val + '</option>') });
 
             create_graph("#graph", "#athlete", "./data/graph_M_" + $('#season').val() + ".json")
+            create_ranking("#ranking", "../data/wcm_Downhill_ranking_"+$('#season').val()+".csv", $('#season').val())
         });
 
         $('#season').on('change', function () {
             $('#graph').remove()
-            $('#graph_area').html('<svg id="graph"></svg>')
+            $('#graph_box').html('<svg id="graph"></svg>')
             create_graph("#graph", "#athlete", "./data/graph_M_" + this.value + ".json")
+            
+            $('#ranking').remove()
+            $('#ranking_box').html('<div id="ranking"></div>')
+            create_ranking("#ranking", "../data/wcm_Downhill_ranking_"+$('#season').val()+".csv", this.value )
         })
     </script>
 </body>
