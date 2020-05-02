@@ -1,0 +1,487 @@
+date,name,ath_country,value
+1994-12-04,Alberto Tomba,IT,100
+1994-12-04,Jure Kosir,SK,0
+1994-12-04,Marc Girardelli,LU,4
+1994-12-04,Dietmar Thoeni,AT,5
+1994-12-04,Christian Mayer,AT,6
+1994-12-04,Stanley Hayer,CA,7
+1994-12-04,Kiminobu Kimura,JP,8
+1994-12-04,Patrick Staub,CH,9
+1994-12-04,Konrad  Kurt Ladstaetter,IT,10
+1994-12-04,Fabio De Crignis,IT,12
+1994-12-04,Sebastien Amiez,FR,0
+1994-12-04,Rob Crossan,CA,12
+1994-12-04,Siegfried Voglreiter,AT,14
+1994-12-04,Gregor Grilc,SK,15
+1994-12-04,Mitja Kunc,SK,16
+1994-12-04,Lasse Kjus,NO,18
+1994-12-04,Bernhard Gstrein,AT,20
+1994-12-04,Yves Dimier,FR,22
+1994-12-04,Thomas Sykora,AT,24
+1994-12-04,Mario Reiter,AT,26
+1994-12-04,Bernhard Bauer,DE,29
+1994-12-04,Thomas Stangassinger,AT,13
+1994-12-04,Matthew Grosjean,US,0
+1994-12-04,Mika Marila,FI,0
+1994-12-04,Max Ancenay,FR,0
+1994-12-04,Kristian Ghedina,IT,0
+1994-12-04,Gaetan Llorach,FR,0
+1994-12-04,Norman Bergamelli,IT,0
+1994-12-04,Angelo Weiss,IT,0
+1994-12-04,Matjaz Vrhovnik,SK,0
+1994-12-04,Richard Gravier,FR,0
+1994-12-04,Guenther Mader,AT,0
+1994-12-04,Tetsuya Okabe,JP,0
+1994-12-04,Tom Stiansen,NO,0
+1994-12-04,Anders Andersson,SE,0
+1994-12-04,Paul Accola,CH,0
+1994-12-04,Alois Vogl,DE,0
+1994-12-04,Didier Plaschy,CH,0
+1994-12-04,Thomas Grandi,CA,0
+1994-12-04,Eric Villiard,CA,0
+1994-12-04,Johan Wallner,SE,0
+1994-12-04,Francois Simond,FR,0
+1994-12-04,Andrej Miklavc,SK,0
+1994-12-04,Harald Chr. Strand Nilsen,NO,0
+1994-12-04,Roger Pramotton,IT,0
+1994-12-04,Takuya Ishioka,JP,0
+1994-12-04,Finn Chr. Jagge,NO,32
+1994-12-04,Kjetil Andre Aamodt,NO,36
+1994-12-04,Fabrizio Tescari,IT,0
+1994-12-04,Michael von Gruenigen,CH,45
+1994-12-04,Thomas Fogdoe,SE,60
+1994-12-04,Andrea Zinsli,CH,40
+1994-12-04,Michael Tritscher,AT,80
+1994-12-04,Ole Kristian Furuseth,NO,50
+1994-12-12,Alois Vogl,DE,0
+1994-12-12,Christian Mayer,AT,21
+1994-12-12,Paul Accola,CH,0
+1994-12-12,Patrick Staub,CH,14
+1994-12-12,Fabrizio Tescari,IT,0
+1994-12-12,Jure Kosir,SK,50
+1994-12-12,Tom Stiansen,NO,0
+1994-12-12,Thomas Grandi,CA,0
+1994-12-12,Tetsuya Okabe,JP,0
+1994-12-12,Kiminobu Kimura,JP,30
+1994-12-12,Didier Plaschy,CH,0
+1994-12-12,Konrad  Kurt Ladstaetter,IT,23
+1994-12-12,Anders Andersson,SE,0
+1994-12-12,Harald Chr. Strand Nilsen,NO,6
+1994-12-12,Bernhard Gstrein,AT,36
+1994-12-12,Stanley Hayer,CA,15
+1994-12-12,Thomas Stangassinger,AT,58
+1994-12-12,Siegfried Voglreiter,AT,28
+1994-12-12,Kristian Ghedina,IT,0
+1994-12-12,Gaetan Llorach,FR,0
+1994-12-12,Eric Villiard,CA,0
+1994-12-12,Dietmar Thoeni,AT,23
+1994-12-12,Roger Pramotton,IT,7
+1994-12-12,Angelo Weiss,IT,0
+1994-12-12,Matjaz Vrhovnik,SK,0
+1994-12-12,Yves Dimier,FR,42
+1994-12-12,Richard Gravier,FR,0
+1994-12-12,Guenther Mader,AT,0
+1994-12-12,Norman Bergamelli,IT,0
+1994-12-12,Johan Wallner,SE,0
+1994-12-12,Michael von Gruenigen,CH,69
+1994-12-12,Ole Kristian Furuseth,NO,76
+1994-12-12,Alberto Tomba,IT,200
+1994-12-12,Andrea Zinsli,CH,40
+1994-12-12,Mario Reiter,AT,62
+1994-12-12,Mika Marila,FI,11
+1994-12-12,Thomas Fogdoe,SE,140
+1994-12-12,Max Ancenay,FR,10
+1994-12-12,Sebastien Amiez,FR,40
+1994-12-12,Thomas Sykora,AT,56
+1994-12-12,Matthew Grosjean,US,12
+1994-12-12,Bernhard Bauer,DE,29
+1994-12-12,Lasse Kjus,NO,18
+1994-12-12,Mitja Kunc,SK,16
+1994-12-12,Gregor Grilc,SK,15
+1994-12-12,Finn Chr. Jagge,NO,32
+1994-12-12,Kjetil Andre Aamodt,NO,65
+1994-12-12,Francois Simond,FR,0
+1994-12-12,Andrej Miklavc,SK,0
+1994-12-12,Michael Tritscher,AT,140
+1994-12-12,Fabio De Crignis,IT,12
+1994-12-12,Rob Crossan,CA,12
+1994-12-12,Marc Girardelli,LU,4
+1994-12-12,Takuya Ishioka,JP,9
+1994-12-20,Christian Mayer,AT,36
+1994-12-20,Matthew Grosjean,US,12
+1994-12-20,Mika Marila,FI,11
+1994-12-20,Max Ancenay,FR,10
+1994-12-20,Takuya Ishioka,JP,9
+1994-12-20,Eric Villiard,CA,0
+1994-12-20,Roger Pramotton,IT,7
+1994-12-20,Fabrizio Tescari,IT,0
+1994-12-20,Kiminobu Kimura,JP,43
+1994-12-20,Thomas Grandi,CA,0
+1994-12-20,Andrej Miklavc,SK,14
+1994-12-20,Didier Plaschy,CH,0
+1994-12-20,Tom Stiansen,NO,0
+1994-12-20,Francois Simond,FR,10
+1994-12-20,Alois Vogl,DE,0
+1994-12-20,Paul Accola,CH,0
+1994-12-20,Kristian Ghedina,IT,0
+1994-12-20,Anders Andersson,SE,0
+1994-12-20,Gaetan Llorach,FR,0
+1994-12-20,Norman Bergamelli,IT,0
+1994-12-20,Richard Gravier,FR,0
+1994-12-20,Bernhard Bauer,DE,41
+1994-12-20,Angelo Weiss,IT,0
+1994-12-20,Tetsuya Okabe,JP,0
+1994-12-20,Guenther Mader,AT,0
+1994-12-20,Matjaz Vrhovnik,SK,0
+1994-12-20,Mitja Kunc,SK,26
+1994-12-20,Thomas Stangassinger,AT,78
+1994-12-20,Harald Chr. Strand Nilsen,NO,6
+1994-12-20,Kjetil Andre Aamodt,NO,91
+1994-12-20,Andrea Zinsli,CH,72
+1994-12-20,Finn Chr. Jagge,NO,56
+1994-12-20,Thomas Sykora,AT,136
+1994-12-20,Mario Reiter,AT,84
+1994-12-20,Michael von Gruenigen,CH,114
+1994-12-20,Gregor Grilc,SK,21
+1994-12-20,Michael Tritscher,AT,190
+1994-12-20,Johan Wallner,SE,0
+1994-12-20,Ole Kristian Furuseth,NO,112
+1994-12-20,Sebastien Amiez,FR,69
+1994-12-20,Rob Crossan,CA,19
+1994-12-20,Marc Girardelli,LU,22
+1994-12-20,Thomas Fogdoe,SE,140
+1994-12-20,Fabio De Crignis,IT,23
+1994-12-20,Yves Dimier,FR,50
+1994-12-20,Alberto Tomba,IT,300
+1994-12-20,Lasse Kjus,NO,18
+1994-12-20,Dietmar Thoeni,AT,39
+1994-12-20,Siegfried Voglreiter,AT,28
+1994-12-20,Konrad  Kurt Ladstaetter,IT,23
+1994-12-20,Patrick Staub,CH,14
+1994-12-20,Stanley Hayer,CA,15
+1994-12-20,Bernhard Gstrein,AT,76
+1994-12-20,Jure Kosir,SK,110
+1994-12-21,Thomas Sykora,AT,216
+1994-12-21,Konrad  Kurt Ladstaetter,IT,32
+1994-12-21,Matthew Grosjean,US,16
+1994-12-21,Thomas Grandi,CA,5
+1994-12-21,Jure Kosir,SK,150
+1994-12-21,Eric Villiard,CA,7
+1994-12-21,Thomas Fogdoe,SE,190
+1994-12-21,Harald Chr. Strand Nilsen,NO,14
+1994-12-21,Johan Wallner,SE,10
+1994-12-21,Michael Tritscher,AT,250
+1994-12-21,Mika Marila,FI,17
+1994-12-21,Christian Mayer,AT,50
+1994-12-21,Kjetil Andre Aamodt,NO,104
+1994-12-21,Tetsuya Okabe,JP,0
+1994-12-21,Fabrizio Tescari,IT,0
+1994-12-21,Guenther Mader,AT,0
+1994-12-21,Mario Reiter,AT,113
+1994-12-21,Bernhard Gstrein,AT,96
+1994-12-21,Matjaz Vrhovnik,SK,0
+1994-12-21,Angelo Weiss,IT,0
+1994-12-21,Norman Bergamelli,IT,0
+1994-12-21,Tom Stiansen,NO,0
+1994-12-21,Gaetan Llorach,FR,0
+1994-12-21,Didier Plaschy,CH,3
+1994-12-21,Thomas Stangassinger,AT,100
+1994-12-21,Francois Simond,FR,22
+1994-12-21,Mitja Kunc,SK,37
+1994-12-21,Sebastien Amiez,FR,105
+1994-12-21,Kiminobu Kimura,JP,67
+1994-12-21,Marc Girardelli,LU,54
+1994-12-21,Finn Chr. Jagge,NO,82
+1994-12-21,Kristian Ghedina,IT,0
+1994-12-21,Anders Andersson,SE,0
+1994-12-21,Richard Gravier,FR,0
+1994-12-21,Paul Accola,CH,0
+1994-12-21,Alberto Tomba,IT,400
+1994-12-21,Michael von Gruenigen,CH,114
+1994-12-21,Andrea Zinsli,CH,72
+1994-12-21,Lasse Kjus,NO,18
+1994-12-21,Bernhard Bauer,DE,59
+1994-12-21,Siegfried Voglreiter,AT,28
+1994-12-21,Andrej Miklavc,SK,29
+1994-12-21,Rob Crossan,CA,19
+1994-12-21,Fabio De Crignis,IT,23
+1994-12-21,Gregor Grilc,SK,21
+1994-12-21,Stanley Hayer,CA,15
+1994-12-21,Dietmar Thoeni,AT,39
+1994-12-21,Yves Dimier,FR,66
+1994-12-21,Ole Kristian Furuseth,NO,157
+1994-12-21,Max Ancenay,FR,10
+1994-12-21,Alois Vogl,DE,0
+1994-12-21,Takuya Ishioka,JP,9
+1994-12-21,Patrick Staub,CH,14
+1994-12-21,Roger Pramotton,IT,7
+1995-01-08,Didier Plaschy,CH,3
+1995-01-08,Fabrizio Tescari,IT,0
+1995-01-08,Guenther Mader,AT,0
+1995-01-08,Richard Gravier,FR,0
+1995-01-08,Norman Bergamelli,IT,0
+1995-01-08,Angelo Weiss,IT,0
+1995-01-08,Gaetan Llorach,FR,0
+1995-01-08,Kristian Ghedina,IT,0
+1995-01-08,Matthew Grosjean,US,27
+1995-01-08,Matjaz Vrhovnik,SK,0
+1995-01-08,Thomas Grandi,CA,5
+1995-01-08,Michael von Gruenigen,CH,114
+1995-01-08,Johan Wallner,SE,10
+1995-01-08,Thomas Fogdoe,SE,190
+1995-01-08,Andrea Zinsli,CH,72
+1995-01-08,Thomas Sykora,AT,216
+1995-01-08,Bernhard Gstrein,AT,96
+1995-01-08,Mitja Kunc,SK,37
+1995-01-08,Gregor Grilc,SK,21
+1995-01-08,Siegfried Voglreiter,AT,28
+1995-01-08,Rob Crossan,CA,19
+1995-01-08,Fabio De Crignis,IT,23
+1995-01-08,Stanley Hayer,CA,15
+1995-01-08,Dietmar Thoeni,AT,39
+1995-01-08,Max Ancenay,FR,10
+1995-01-08,Takuya Ishioka,JP,9
+1995-01-08,Roger Pramotton,IT,7
+1995-01-08,Francois Simond,FR,22
+1995-01-08,Eric Villiard,CA,7
+1995-01-08,Alberto Tomba,IT,500
+1995-01-08,Mario Reiter,AT,153
+1995-01-08,Mika Marila,FI,31
+1995-01-08,Kjetil Andre Aamodt,NO,126
+1995-01-08,Tetsuya Okabe,JP,5
+1995-01-08,Alois Vogl,DE,16
+1995-01-08,Konrad  Kurt Ladstaetter,IT,41
+1995-01-08,Anders Andersson,SE,7
+1995-01-08,Harald Chr. Strand Nilsen,NO,26
+1995-01-08,Ole Kristian Furuseth,NO,181
+1995-01-08,Finn Chr. Jagge,NO,100
+1995-01-08,Tom Stiansen,NO,6
+1995-01-08,Lasse Kjus,NO,33
+1995-01-08,Thomas Stangassinger,AT,120
+1995-01-08,Yves Dimier,FR,126
+1995-01-08,Andrej Miklavc,SK,58
+1995-01-08,Sebastien Amiez,FR,141
+1995-01-08,Bernhard Bauer,DE,85
+1995-01-08,Paul Accola,CH,8
+1995-01-08,Marc Girardelli,LU,134
+1995-01-08,Kiminobu Kimura,JP,99
+1995-01-08,Christian Mayer,AT,63
+1995-01-08,Michael Tritscher,AT,300
+1995-01-08,Jure Kosir,SK,195
+1995-01-08,Patrick Staub,CH,24
+1995-01-15,Bernhard Bauer,DE,103
+1995-01-15,Eric Villiard,CA,7
+1995-01-15,Harald Chr. Strand Nilsen,NO,42
+1995-01-15,Didier Plaschy,CH,3
+1995-01-15,Alois Vogl,DE,16
+1995-01-15,Paul Accola,CH,8
+1995-01-15,Anders Andersson,SE,7
+1995-01-15,Kiminobu Kimura,JP,114
+1995-01-15,Tom Stiansen,NO,6
+1995-01-15,Tetsuya Okabe,JP,5
+1995-01-15,Thomas Grandi,CA,5
+1995-01-15,Johan Wallner,SE,10
+1995-01-15,Rob Crossan,CA,19
+1995-01-15,Roger Pramotton,IT,7
+1995-01-15,Thomas Fogdoe,SE,219
+1995-01-15,Andrej Miklavc,SK,90
+1995-01-15,Thomas Sykora,AT,252
+1995-01-15,Dietmar Thoeni,AT,65
+1995-01-15,Andrea Zinsli,CH,72
+1995-01-15,Kjetil Andre Aamodt,NO,126
+1995-01-15,Yves Dimier,FR,126
+1995-01-15,Mitja Kunc,SK,37
+1995-01-15,Marc Girardelli,LU,158
+1995-01-15,Gregor Grilc,SK,21
+1995-01-15,Alberto Tomba,IT,600
+1995-01-15,Fabio De Crignis,IT,23
+1995-01-15,Konrad  Kurt Ladstaetter,IT,41
+1995-01-15,Finn Chr. Jagge,NO,122
+1995-01-15,Patrick Staub,CH,24
+1995-01-15,Christian Mayer,AT,63
+1995-01-15,Takuya Ishioka,JP,9
+1995-01-15,Matjaz Vrhovnik,SK,0
+1995-01-15,Thomas Stangassinger,AT,140
+1995-01-15,Francois Simond,FR,22
+1995-01-15,Michael Tritscher,AT,345
+1995-01-15,Kristian Ghedina,IT,0
+1995-01-15,Angelo Weiss,IT,0
+1995-01-15,Sebastien Amiez,FR,181
+1995-01-15,Matthew Grosjean,US,38
+1995-01-15,Jure Kosir,SK,275
+1995-01-15,Ole Kristian Furuseth,NO,241
+1995-01-15,Max Ancenay,FR,14
+1995-01-15,Richard Gravier,FR,5
+1995-01-15,Guenther Mader,AT,6
+1995-01-15,Mika Marila,FI,45
+1995-01-15,Lasse Kjus,NO,41
+1995-01-15,Fabrizio Tescari,IT,9
+1995-01-15,Mario Reiter,AT,203
+1995-01-15,Stanley Hayer,CA,25
+1995-01-15,Bernhard Gstrein,AT,103
+1995-01-15,Norman Bergamelli,IT,0
+1995-01-15,Gaetan Llorach,FR,0
+1995-01-15,Siegfried Voglreiter,AT,41
+1995-01-15,Michael von Gruenigen,CH,126
+1995-01-22,Mika Marila,FI,45
+1995-01-22,Eric Villiard,CA,18
+1995-01-22,Mario Reiter,AT,239
+1995-01-22,Finn Chr. Jagge,NO,162
+1995-01-22,Kristian Ghedina,IT,0
+1995-01-22,Ole Kristian Furuseth,NO,241
+1995-01-22,Gaetan Llorach,FR,0
+1995-01-22,Norman Bergamelli,IT,0
+1995-01-22,Angelo Weiss,IT,0
+1995-01-22,Matjaz Vrhovnik,SK,0
+1995-01-22,Thomas Sykora,AT,252
+1995-01-22,Richard Gravier,FR,5
+1995-01-22,Tetsuya Okabe,JP,5
+1995-01-22,Yves Dimier,FR,126
+1995-01-22,Tom Stiansen,NO,6
+1995-01-22,Anders Andersson,SE,7
+1995-01-22,Rob Crossan,CA,19
+1995-01-22,Paul Accola,CH,8
+1995-01-22,Alois Vogl,DE,16
+1995-01-22,Didier Plaschy,CH,3
+1995-01-22,Thomas Grandi,CA,5
+1995-01-22,Kiminobu Kimura,JP,114
+1995-01-22,Johan Wallner,SE,10
+1995-01-22,Roger Pramotton,IT,7
+1995-01-22,Stanley Hayer,CA,25
+1995-01-22,Dietmar Thoeni,AT,65
+1995-01-22,Takuya Ishioka,JP,9
+1995-01-22,Matthew Grosjean,US,38
+1995-01-22,Michael Tritscher,AT,377
+1995-01-22,Alberto Tomba,IT,700
+1995-01-22,Kjetil Andre Aamodt,NO,128
+1995-01-22,Francois Simond,FR,27
+1995-01-22,Guenther Mader,AT,12
+1995-01-22,Max Ancenay,FR,21
+1995-01-22,Mitja Kunc,SK,45
+1995-01-22,Gregor Grilc,SK,30
+1995-01-22,Harald Chr. Strand Nilsen,NO,52
+1995-01-22,Thomas Fogdoe,SE,269
+1995-01-22,Siegfried Voglreiter,AT,53
+1995-01-22,Lasse Kjus,NO,54
+1995-01-22,Andrea Zinsli,CH,86
+1995-01-22,Fabrizio Tescari,IT,13
+1995-01-22,Konrad  Kurt Ladstaetter,IT,57
+1995-01-22,Andrej Miklavc,SK,108
+1995-01-22,Christian Mayer,AT,83
+1995-01-22,Patrick Staub,CH,39
+1995-01-22,Jure Kosir,SK,335
+1995-01-22,Thomas Stangassinger,AT,185
+1995-01-22,Bernhard Bauer,DE,132
+1995-01-22,Marc Girardelli,LU,184
+1995-01-22,Fabio De Crignis,IT,26
+1995-01-22,Bernhard Gstrein,AT,125
+1995-01-22,Sebastien Amiez,FR,205
+1995-01-22,Michael von Gruenigen,CH,206
+1995-02-19,Mario Reiter,AT,319
+1995-02-19,Thomas Stangassinger,AT,185
+1995-02-19,Fabio De Crignis,IT,58
+1995-02-19,Marc Girardelli,LU,224
+1995-02-19,Lasse Kjus,NO,54
+1995-02-19,Thomas Sykora,AT,252
+1995-02-19,Bernhard Gstrein,AT,136
+1995-02-19,Finn Chr. Jagge,NO,162
+1995-02-19,Michael Tritscher,AT,477
+1995-02-19,Thomas Fogdoe,SE,269
+1995-02-19,Alberto Tomba,IT,700
+1995-02-19,Bernhard Bauer,DE,132
+1995-02-19,Konrad  Kurt Ladstaetter,IT,57
+1995-02-19,Tom Stiansen,NO,6
+1995-02-19,Dietmar Thoeni,AT,65
+1995-02-19,Anders Andersson,SE,7
+1995-02-19,Paul Accola,CH,8
+1995-02-19,Alois Vogl,DE,16
+1995-02-19,Tetsuya Okabe,JP,5
+1995-02-19,Didier Plaschy,CH,3
+1995-02-19,Thomas Grandi,CA,5
+1995-02-19,Fabrizio Tescari,IT,13
+1995-02-19,Eric Villiard,CA,18
+1995-02-19,Andrej Miklavc,SK,108
+1995-02-19,Harald Chr. Strand Nilsen,NO,52
+1995-02-19,Roger Pramotton,IT,7
+1995-02-19,Richard Gravier,FR,5
+1995-02-19,Max Ancenay,FR,21
+1995-02-19,Mika Marila,FI,45
+1995-02-19,Kristian Ghedina,IT,0
+1995-02-19,Kiminobu Kimura,JP,114
+1995-02-19,Christian Mayer,AT,83
+1995-02-19,Mitja Kunc,SK,45
+1995-02-19,Yves Dimier,FR,152
+1995-02-19,Sebastien Amiez,FR,250
+1995-02-19,Andrea Zinsli,CH,110
+1995-02-19,Stanley Hayer,CA,47
+1995-02-19,Guenther Mader,AT,32
+1995-02-19,Ole Kristian Furuseth,NO,301
+1995-02-19,Matjaz Vrhovnik,SK,18
+1995-02-19,Gregor Grilc,SK,46
+1995-02-19,Siegfried Voglreiter,AT,68
+1995-02-19,Angelo Weiss,IT,13
+1995-02-19,Michael von Gruenigen,CH,242
+1995-02-19,Patrick Staub,CH,53
+1995-02-19,Jure Kosir,SK,385
+1995-02-19,Kjetil Andre Aamodt,NO,157
+1995-02-19,Matthew Grosjean,US,43
+1995-02-19,Gaetan Llorach,FR,6
+1995-02-19,Rob Crossan,CA,26
+1995-02-19,Francois Simond,FR,35
+1995-02-19,Norman Bergamelli,IT,10
+1995-02-19,Takuya Ishioka,JP,18
+1995-02-19,Johan Wallner,SE,22
+1995-03-19,Didier Plaschy,CH,3
+1995-03-19,Francois Simond,FR,35
+1995-03-19,Andrej Miklavc,SK,108
+1995-03-19,Eric Villiard,CA,18
+1995-03-19,Alois Vogl,DE,16
+1995-03-19,Tom Stiansen,NO,6
+1995-03-19,Paul Accola,CH,8
+1995-03-19,Johan Wallner,SE,22
+1995-03-19,Anders Andersson,SE,7
+1995-03-19,Thomas Grandi,CA,5
+1995-03-19,Tetsuya Okabe,JP,5
+1995-03-19,Yves Dimier,FR,212
+1995-03-19,Richard Gravier,FR,5
+1995-03-19,Angelo Weiss,IT,13
+1995-03-19,Norman Bergamelli,IT,10
+1995-03-19,Gaetan Llorach,FR,6
+1995-03-19,Roger Pramotton,IT,7
+1995-03-19,Michael von Gruenigen,CH,282
+1995-03-19,Marc Girardelli,LU,269
+1995-03-19,Sebastien Amiez,FR,279
+1995-03-19,Ole Kristian Furuseth,NO,401
+1995-03-19,Fabio De Crignis,IT,94
+1995-03-19,Kristian Ghedina,IT,11
+1995-03-19,Fabrizio Tescari,IT,13
+1995-03-19,Takuya Ishioka,JP,18
+1995-03-19,Siegfried Voglreiter,AT,68
+1995-03-19,Mika Marila,FI,45
+1995-03-19,Thomas Stangassinger,AT,265
+1995-03-19,Harald Chr. Strand Nilsen,NO,64
+1995-03-19,Thomas Sykora,AT,302
+1995-03-19,Bernhard Gstrein,AT,149
+1995-03-19,Matjaz Vrhovnik,SK,32
+1995-03-19,Guenther Mader,AT,47
+1995-03-19,Christian Mayer,AT,99
+1995-03-19,Kiminobu Kimura,JP,132
+1995-03-19,Jure Kosir,SK,405
+1995-03-19,Mario Reiter,AT,341
+1995-03-19,Kjetil Andre Aamodt,NO,181
+1995-03-19,Bernhard Bauer,DE,158
+1995-03-19,Alberto Tomba,IT,700
+1995-03-19,Michael Tritscher,AT,477
+1995-03-19,Thomas Fogdoe,SE,269
+1995-03-19,Andrea Zinsli,CH,110
+1995-03-19,Lasse Kjus,NO,54
+1995-03-19,Mitja Kunc,SK,45
+1995-03-19,Gregor Grilc,SK,46
+1995-03-19,Rob Crossan,CA,26
+1995-03-19,Konrad  Kurt Ladstaetter,IT,57
+1995-03-19,Patrick Staub,CH,53
+1995-03-19,Stanley Hayer,CA,47
+1995-03-19,Dietmar Thoeni,AT,65
+1995-03-19,Matthew Grosjean,US,43
+1995-03-19,Max Ancenay,FR,21
+1995-03-19,Finn Chr. Jagge,NO,194

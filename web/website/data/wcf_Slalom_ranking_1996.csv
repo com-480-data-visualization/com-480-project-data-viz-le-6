@@ -1,0 +1,532 @@
+date,name,ath_country,value
+1995-11-19,Michael Tritscher,AT,100
+1995-11-19,Max Ancenay,FR,0
+1995-11-19,Anders Andersson,SE,0
+1995-11-19,Stanley Hayer,CA,0
+1995-11-19,Rene Mlekuz,SK,0
+1995-11-19,Yves Dimier,FR,0
+1995-11-19,Ole Kristian Furuseth,NO,0
+1995-11-19,Finn Chr. Jagge,NO,32
+1995-11-19,Harald Chr. Strand Nilsen,NO,0
+1995-11-19,Michael von Gruenigen,CH,0
+1995-11-19,Angelo Weiss,IT,0
+1995-11-19,Dietmar Thoeni,AT,0
+1995-11-19,Leo Puentener,CH,0
+1995-11-19,Marc Girardelli,LU,0
+1995-11-19,Eric Villiard,CA,0
+1995-11-19,Kiminobu Kimura,JP,0
+1995-11-19,Siegfried Voglreiter,AT,36
+1995-11-19,Alois Vogl,DE,0
+1995-11-19,Manfred Kleinlercher,AT,0
+1995-11-19,Richard Gravier,FR,0
+1995-11-19,Johan Wallner,SE,0
+1995-11-19,Jesper Brugge,SE,0
+1995-11-19,Matteo Belfrond,IT,0
+1995-11-19,Gaku Hirasawa,JP,0
+1995-11-19,Guenther Mader,AT,0
+1995-11-19,Konrad  Kurt Ladstaetter,IT,18
+1995-11-19,Fabio De Crignis,IT,22
+1995-11-19,Bernhard Gstrein,AT,16
+1995-11-19,Francois Simond,FR,15
+1995-11-19,Matteo Nana,IT,14
+1995-11-19,Matjaz Vrhovnik,SK,13
+1995-11-19,Mitja Kunc,SK,24
+1995-11-19,Patrick Staub,CH,12
+1995-11-19,Sergio Bergamelli,IT,11
+1995-11-19,Frederic Covili,FR,29
+1995-11-19,Matthew Grosjean,US,10
+1995-11-19,Andrej Miklavc,SK,0
+1995-11-19,Andrea Zinsli,CH,26
+1995-11-19,Christian Mayer,AT,0
+1995-11-19,Mario Reiter,AT,0
+1995-11-19,Bernhard Bauer,DE,0
+1995-11-19,Thomas Stangassinger,AT,0
+1995-11-19,Fabrizio Tescari,IT,0
+1995-11-19,Tom Stiansen,NO,0
+1995-11-19,Mika Marila,FI,0
+1995-11-19,Pierre Violon,FR,9
+1995-11-19,Matej Jovan,SK,0
+1995-11-19,Gianluca Grigoletto,IT,0
+1995-11-19,Jure Kosir,SK,40
+1995-11-19,Sebastien Amiez,FR,80
+1995-11-19,Martin Hansson,SE,0
+1995-11-19,Kjetil Andre Aamodt,NO,50
+1995-11-19,Lasse Kjus,NO,45
+1995-11-19,Alberto Tomba,IT,60
+1995-11-19,Thomas Sykora,AT,20
+1995-11-19,Didier Plaschy,CH,0
+1995-11-19,Kilian Albrecht,AT,0
+1995-11-19,Bruno Kernen,CH,0
+1995-11-19,Urs Kaelin,CH,0
+1995-11-26,Fabrizio Tescari,IT,16
+1995-11-26,Matteo Belfrond,IT,0
+1995-11-26,Rene Mlekuz,SK,4
+1995-11-26,Gaku Hirasawa,JP,9
+1995-11-26,Matej Jovan,SK,0
+1995-11-26,Sergio Bergamelli,IT,21
+1995-11-26,Martin Hansson,SE,0
+1995-11-26,Konrad  Kurt Ladstaetter,IT,29
+1995-11-26,Matjaz Vrhovnik,SK,31
+1995-11-26,Anders Andersson,SE,6
+1995-11-26,Guenther Mader,AT,12
+1995-11-26,Stanley Hayer,CA,5
+1995-11-26,Johan Wallner,SE,0
+1995-11-26,Didier Plaschy,CH,0
+1995-11-26,Bruno Kernen,CH,0
+1995-11-26,Tom Stiansen,NO,14
+1995-11-26,Angelo Weiss,IT,8
+1995-11-26,Patrick Staub,CH,27
+1995-11-26,Max Ancenay,FR,7
+1995-11-26,Kilian Albrecht,AT,0
+1995-11-26,Mika Marila,FI,13
+1995-11-26,Michael Tritscher,AT,100
+1995-11-26,Gianluca Grigoletto,IT,0
+1995-11-26,Alberto Tomba,IT,60
+1995-11-26,Kjetil Andre Aamodt,NO,50
+1995-11-26,Lasse Kjus,NO,45
+1995-11-26,Matthew Grosjean,US,30
+1995-11-26,Siegfried Voglreiter,AT,36
+1995-11-26,Frederic Covili,FR,29
+1995-11-26,Thomas Sykora,AT,20
+1995-11-26,Francois Simond,FR,15
+1995-11-26,Matteo Nana,IT,14
+1995-11-26,Pierre Violon,FR,9
+1995-11-26,Yves Dimier,FR,0
+1995-11-26,Ole Kristian Furuseth,NO,0
+1995-11-26,Harald Chr. Strand Nilsen,NO,0
+1995-11-26,Michael von Gruenigen,CH,0
+1995-11-26,Dietmar Thoeni,AT,0
+1995-11-26,Jesper Brugge,SE,0
+1995-11-26,Leo Puentener,CH,0
+1995-11-26,Marc Girardelli,LU,0
+1995-11-26,Eric Villiard,CA,0
+1995-11-26,Kiminobu Kimura,JP,0
+1995-11-26,Alois Vogl,DE,0
+1995-11-26,Richard Gravier,FR,0
+1995-11-26,Manfred Kleinlercher,AT,0
+1995-11-26,Urs Kaelin,CH,0
+1995-11-26,Mario Reiter,AT,29
+1995-11-26,Mitja Kunc,SK,64
+1995-11-26,Andrej Miklavc,SK,100
+1995-11-26,Andrea Zinsli,CH,58
+1995-11-26,Bernhard Bauer,DE,26
+1995-11-26,Christian Mayer,AT,80
+1995-11-26,Jure Kosir,SK,85
+1995-11-26,Finn Chr. Jagge,NO,68
+1995-11-26,Sebastien Amiez,FR,130
+1995-11-26,Bernhard Gstrein,AT,40
+1995-11-26,Thomas Stangassinger,AT,22
+1995-11-26,Fabio De Crignis,IT,82
+1995-12-19,Angelo Weiss,IT,8
+1995-12-19,Gaku Hirasawa,JP,9
+1995-12-19,Richard Gravier,FR,0
+1995-12-19,Patrick Staub,CH,38
+1995-12-19,Thomas Stangassinger,AT,22
+1995-12-19,Christian Mayer,AT,80
+1995-12-19,Andrej Miklavc,SK,100
+1995-12-19,Mika Marila,FI,13
+1995-12-19,Max Ancenay,FR,7
+1995-12-19,Eric Villiard,CA,0
+1995-12-19,Rene Mlekuz,SK,4
+1995-12-19,Marc Girardelli,LU,0
+1995-12-19,Pierre Violon,FR,9
+1995-12-19,Kiminobu Kimura,JP,0
+1995-12-19,Alois Vogl,DE,0
+1995-12-19,Gianluca Grigoletto,IT,0
+1995-12-19,Jesper Brugge,SE,12
+1995-12-19,Manfred Kleinlercher,AT,0
+1995-12-19,Stanley Hayer,CA,5
+1995-12-19,Sergio Bergamelli,IT,21
+1995-12-19,Mitja Kunc,SK,64
+1995-12-19,Matjaz Vrhovnik,SK,31
+1995-12-19,Fabrizio Tescari,IT,56
+1995-12-19,Finn Chr. Jagge,NO,100
+1995-12-19,Mario Reiter,AT,74
+1995-12-19,Sebastien Amiez,FR,180
+1995-12-19,Fabio De Crignis,IT,111
+1995-12-19,Konrad  Kurt Ladstaetter,IT,89
+1995-12-19,Yves Dimier,FR,80
+1995-12-19,Michael Tritscher,AT,100
+1995-12-19,Tom Stiansen,NO,24
+1995-12-19,Kjetil Andre Aamodt,NO,50
+1995-12-19,Jure Kosir,SK,85
+1995-12-19,Leo Puentener,CH,9
+1995-12-19,Bernhard Bauer,DE,52
+1995-12-19,Siegfried Voglreiter,AT,36
+1995-12-19,Frederic Covili,FR,29
+1995-12-19,Thomas Sykora,AT,20
+1995-12-19,Bernhard Gstrein,AT,40
+1995-12-19,Matteo Nana,IT,14
+1995-12-19,Lasse Kjus,NO,45
+1995-12-19,Johan Wallner,SE,0
+1995-12-19,Guenther Mader,AT,48
+1995-12-19,Matej Jovan,SK,0
+1995-12-19,Matthew Grosjean,US,48
+1995-12-19,Alberto Tomba,IT,160
+1995-12-19,Ole Kristian Furuseth,NO,24
+1995-12-19,Andrea Zinsli,CH,72
+1995-12-19,Matteo Belfrond,IT,0
+1995-12-19,Harald Chr. Strand Nilsen,NO,22
+1995-12-19,Dietmar Thoeni,AT,16
+1995-12-19,Michael von Gruenigen,CH,20
+1995-12-19,Urs Kaelin,CH,0
+1995-12-19,Bruno Kernen,CH,0
+1995-12-19,Francois Simond,FR,28
+1995-12-19,Didier Plaschy,CH,0
+1995-12-19,Kilian Albrecht,AT,0
+1995-12-19,Martin Hansson,SE,0
+1995-12-19,Anders Andersson,SE,21
+1995-12-22,Didier Plaschy,CH,0
+1995-12-22,Bruno Kernen,CH,0
+1995-12-22,Jure Kosir,SK,165
+1995-12-22,Urs Kaelin,CH,0
+1995-12-22,Sebastien Amiez,FR,240
+1995-12-22,Kilian Albrecht,AT,0
+1995-12-22,Bernhard Gstrein,AT,46
+1995-12-22,Angelo Weiss,IT,15
+1995-12-22,Alberto Tomba,IT,260
+1995-12-22,Christian Mayer,AT,130
+1995-12-22,Eric Villiard,CA,2
+1995-12-22,Lasse Kjus,NO,90
+1995-12-22,Andrea Zinsli,CH,77
+1995-12-22,Matjaz Vrhovnik,SK,35
+1995-12-22,Fabrizio Tescari,IT,59
+1995-12-22,Mario Reiter,AT,114
+1995-12-22,Harald Chr. Strand Nilsen,NO,30
+1995-12-22,Martin Hansson,SE,0
+1995-12-22,Manfred Kleinlercher,AT,0
+1995-12-22,Matteo Belfrond,IT,0
+1995-12-22,Michael Tritscher,AT,100
+1995-12-22,Frederic Covili,FR,29
+1995-12-22,Francois Simond,FR,28
+1995-12-22,Matteo Nana,IT,14
+1995-12-22,Sergio Bergamelli,IT,21
+1995-12-22,Matthew Grosjean,US,48
+1995-12-22,Pierre Violon,FR,9
+1995-12-22,Tom Stiansen,NO,24
+1995-12-22,Mika Marila,FI,13
+1995-12-22,Matej Jovan,SK,0
+1995-12-22,Gaku Hirasawa,JP,9
+1995-12-22,Anders Andersson,SE,21
+1995-12-22,Stanley Hayer,CA,5
+1995-12-22,Rene Mlekuz,SK,4
+1995-12-22,Dietmar Thoeni,AT,16
+1995-12-22,Leo Puentener,CH,9
+1995-12-22,Alois Vogl,DE,0
+1995-12-22,Gianluca Grigoletto,IT,0
+1995-12-22,Richard Gravier,FR,0
+1995-12-22,Johan Wallner,SE,0
+1995-12-22,Max Ancenay,FR,7
+1995-12-22,Jesper Brugge,SE,12
+1995-12-22,Kiminobu Kimura,JP,1
+1995-12-22,Kjetil Andre Aamodt,NO,60
+1995-12-22,Thomas Stangassinger,AT,48
+1995-12-22,Finn Chr. Jagge,NO,126
+1995-12-22,Patrick Staub,CH,47
+1995-12-22,Guenther Mader,AT,59
+1995-12-22,Thomas Sykora,AT,56
+1995-12-22,Konrad  Kurt Ladstaetter,IT,101
+1995-12-22,Mitja Kunc,SK,77
+1995-12-22,Fabio De Crignis,IT,140
+1995-12-22,Andrej Miklavc,SK,126
+1995-12-22,Siegfried Voglreiter,AT,51
+1995-12-22,Yves Dimier,FR,112
+1995-12-22,Bernhard Bauer,DE,66
+1995-12-22,Michael von Gruenigen,CH,38
+1995-12-22,Ole Kristian Furuseth,NO,44
+1995-12-22,Marc Girardelli,LU,16
+1996-01-07,Guenther Mader,AT,59
+1996-01-07,Matteo Belfrond,IT,0
+1996-01-07,Matej Jovan,SK,0
+1996-01-07,Martin Hansson,SE,0
+1996-01-07,Kilian Albrecht,AT,0
+1996-01-07,Didier Plaschy,CH,0
+1996-01-07,Bruno Kernen,CH,0
+1996-01-07,Matteo Nana,IT,14
+1996-01-07,Matjaz Vrhovnik,SK,47
+1996-01-07,Urs Kaelin,CH,0
+1996-01-07,Lasse Kjus,NO,116
+1996-01-07,Bernhard Gstrein,AT,46
+1996-01-07,Mitja Kunc,SK,77
+1996-01-07,Frederic Covili,FR,29
+1996-01-07,Andrej Miklavc,SK,144
+1996-01-07,Andrea Zinsli,CH,88
+1996-01-07,Fabio De Crignis,IT,153
+1996-01-07,Sergio Bergamelli,IT,21
+1996-01-07,Richard Gravier,FR,0
+1996-01-07,Mika Marila,FI,13
+1996-01-07,Gaku Hirasawa,JP,9
+1996-01-07,Francois Simond,FR,44
+1996-01-07,Angelo Weiss,IT,15
+1996-01-07,Max Ancenay,FR,7
+1996-01-07,Anders Andersson,SE,21
+1996-01-07,Rene Mlekuz,SK,4
+1996-01-07,Marc Girardelli,LU,31
+1996-01-07,Yves Dimier,FR,112
+1996-01-07,Harald Chr. Strand Nilsen,NO,30
+1996-01-07,Jesper Brugge,SE,12
+1996-01-07,Leo Puentener,CH,9
+1996-01-07,Christian Mayer,AT,154
+1996-01-07,Eric Villiard,CA,16
+1996-01-07,Alois Vogl,DE,0
+1996-01-07,Gianluca Grigoletto,IT,0
+1996-01-07,Pierre Violon,FR,9
+1996-01-07,Manfred Kleinlercher,AT,0
+1996-01-07,Johan Wallner,SE,0
+1996-01-07,Michael Tritscher,AT,100
+1996-01-07,Ole Kristian Furuseth,NO,80
+1996-01-07,Jure Kosir,SK,225
+1996-01-07,Bernhard Bauer,DE,76
+1996-01-07,Thomas Sykora,AT,106
+1996-01-07,Tom Stiansen,NO,32
+1996-01-07,Alberto Tomba,IT,360
+1996-01-07,Fabrizio Tescari,IT,66
+1996-01-07,Michael von Gruenigen,CH,70
+1996-01-07,Kjetil Andre Aamodt,NO,89
+1996-01-07,Sebastien Amiez,FR,285
+1996-01-07,Dietmar Thoeni,AT,36
+1996-01-07,Patrick Staub,CH,52
+1996-01-07,Finn Chr. Jagge,NO,166
+1996-01-07,Thomas Stangassinger,AT,70
+1996-01-07,Konrad  Kurt Ladstaetter,IT,105
+1996-01-07,Stanley Hayer,CA,8
+1996-01-07,Kiminobu Kimura,JP,7
+1996-01-07,Mario Reiter,AT,194
+1996-01-07,Siegfried Voglreiter,AT,51
+1996-01-07,Matthew Grosjean,US,57
+1996-01-14,Michael von Gruenigen,CH,70
+1996-01-14,Siegfried Voglreiter,AT,51
+1996-01-14,Patrick Staub,CH,59
+1996-01-14,Guenther Mader,AT,59
+1996-01-14,Fabio De Crignis,IT,173
+1996-01-14,Tom Stiansen,NO,32
+1996-01-14,Francois Simond,FR,50
+1996-01-14,Lasse Kjus,NO,116
+1996-01-14,Frederic Covili,FR,29
+1996-01-14,Manfred Kleinlercher,AT,5
+1996-01-14,Konrad  Kurt Ladstaetter,IT,105
+1996-01-14,Bernhard Gstrein,AT,46
+1996-01-14,Yves Dimier,FR,134
+1996-01-14,Fabrizio Tescari,IT,66
+1996-01-14,Stanley Hayer,CA,12
+1996-01-14,Pierre Violon,FR,9
+1996-01-14,Mitja Kunc,SK,77
+1996-01-14,Bernhard Bauer,DE,84
+1996-01-14,Kjetil Andre Aamodt,NO,89
+1996-01-14,Michael Tritscher,AT,100
+1996-01-14,Dietmar Thoeni,AT,36
+1996-01-14,Jesper Brugge,SE,12
+1996-01-14,Rene Mlekuz,SK,4
+1996-01-14,Leo Puentener,CH,9
+1996-01-14,Eric Villiard,CA,16
+1996-01-14,Richard Gravier,FR,0
+1996-01-14,Johan Wallner,SE,0
+1996-01-14,Matteo Belfrond,IT,0
+1996-01-14,Anders Andersson,SE,21
+1996-01-14,Max Ancenay,FR,7
+1996-01-14,Matej Jovan,SK,0
+1996-01-14,Martin Hansson,SE,0
+1996-01-14,Kilian Albrecht,AT,0
+1996-01-14,Didier Plaschy,CH,0
+1996-01-14,Bruno Kernen,CH,0
+1996-01-14,Urs Kaelin,CH,0
+1996-01-14,Thomas Sykora,AT,206
+1996-01-14,Harald Chr. Strand Nilsen,NO,30
+1996-01-14,Matteo Nana,IT,14
+1996-01-14,Mika Marila,FI,13
+1996-01-14,Matthew Grosjean,US,67
+1996-01-14,Gaku Hirasawa,JP,21
+1996-01-14,Sergio Bergamelli,IT,34
+1996-01-14,Alberto Tomba,IT,440
+1996-01-14,Alois Vogl,DE,14
+1996-01-14,Ole Kristian Furuseth,NO,98
+1996-01-14,Finn Chr. Jagge,NO,195
+1996-01-14,Sebastien Amiez,FR,335
+1996-01-14,Andrej Miklavc,SK,168
+1996-01-14,Jure Kosir,SK,285
+1996-01-14,Matjaz Vrhovnik,SK,62
+1996-01-14,Marc Girardelli,LU,57
+1996-01-14,Mario Reiter,AT,239
+1996-01-14,Gianluca Grigoletto,IT,11
+1996-01-14,Angelo Weiss,IT,31
+1996-01-14,Andrea Zinsli,CH,97
+1996-01-14,Christian Mayer,AT,194
+1996-01-14,Thomas Stangassinger,AT,106
+1996-01-14,Kiminobu Kimura,JP,39
+1996-01-21,Christian Mayer,AT,194
+1996-01-21,Thomas Stangassinger,AT,106
+1996-01-21,Bernhard Bauer,DE,84
+1996-01-21,Mario Reiter,AT,239
+1996-01-21,Tom Stiansen,NO,32
+1996-01-21,Pierre Violon,FR,9
+1996-01-21,Johan Wallner,SE,18
+1996-01-21,Sergio Bergamelli,IT,34
+1996-01-21,Patrick Staub,CH,59
+1996-01-21,Matjaz Vrhovnik,SK,62
+1996-01-21,Gaku Hirasawa,JP,21
+1996-01-21,Francois Simond,FR,50
+1996-01-21,Bernhard Gstrein,AT,46
+1996-01-21,Mitja Kunc,SK,77
+1996-01-21,Frederic Covili,FR,29
+1996-01-21,Siegfried Voglreiter,AT,51
+1996-01-21,Matthew Grosjean,US,67
+1996-01-21,Matteo Nana,IT,14
+1996-01-21,Harald Chr. Strand Nilsen,NO,30
+1996-01-21,Max Ancenay,FR,7
+1996-01-21,Marc Girardelli,LU,97
+1996-01-21,Michael von Gruenigen,CH,106
+1996-01-21,Andrej Miklavc,SK,213
+1996-01-21,Richard Gravier,FR,20
+1996-01-21,Yves Dimier,FR,184
+1996-01-21,Kiminobu Kimura,JP,71
+1996-01-21,Bruno Kernen,CH,0
+1996-01-21,Didier Plaschy,CH,0
+1996-01-21,Kilian Albrecht,AT,0
+1996-01-21,Angelo Weiss,IT,31
+1996-01-21,Martin Hansson,SE,0
+1996-01-21,Gianluca Grigoletto,IT,11
+1996-01-21,Alois Vogl,DE,14
+1996-01-21,Eric Villiard,CA,16
+1996-01-21,Leo Puentener,CH,9
+1996-01-21,Jesper Brugge,SE,12
+1996-01-21,Dietmar Thoeni,AT,36
+1996-01-21,Jure Kosir,SK,285
+1996-01-21,Stanley Hayer,CA,12
+1996-01-21,Anders Andersson,SE,21
+1996-01-21,Matej Jovan,SK,0
+1996-01-21,Lasse Kjus,NO,116
+1996-01-21,Urs Kaelin,CH,0
+1996-01-21,Michael Tritscher,AT,100
+1996-01-21,Fabrizio Tescari,IT,92
+1996-01-21,Kjetil Andre Aamodt,NO,101
+1996-01-21,Matteo Belfrond,IT,11
+1996-01-21,Andrea Zinsli,CH,111
+1996-01-21,Mika Marila,FI,23
+1996-01-21,Konrad  Kurt Ladstaetter,IT,120
+1996-01-21,Fabio De Crignis,IT,197
+1996-01-21,Alberto Tomba,IT,440
+1996-01-21,Ole Kristian Furuseth,NO,120
+1996-01-21,Sebastien Amiez,FR,435
+1996-01-21,Finn Chr. Jagge,NO,224
+1996-01-21,Thomas Sykora,AT,266
+1996-01-21,Guenther Mader,AT,75
+1996-01-21,Manfred Kleinlercher,AT,18
+1996-01-21,Rene Mlekuz,SK,84
+1996-01-27,Dietmar Thoeni,AT,36
+1996-01-27,Jesper Brugge,SE,12
+1996-01-27,Harald Chr. Strand Nilsen,NO,30
+1996-01-27,Anders Andersson,SE,21
+1996-01-27,Rene Mlekuz,SK,84
+1996-01-27,Stanley Hayer,CA,12
+1996-01-27,Max Ancenay,FR,7
+1996-01-27,Angelo Weiss,IT,31
+1996-01-27,Alois Vogl,DE,14
+1996-01-27,Gianluca Grigoletto,IT,11
+1996-01-27,Guenther Mader,AT,75
+1996-01-27,Mika Marila,FI,23
+1996-01-27,Manfred Kleinlercher,AT,18
+1996-01-27,Leo Puentener,CH,9
+1996-01-27,Bruno Kernen,CH,0
+1996-01-27,Matteo Belfrond,IT,11
+1996-01-27,Yves Dimier,FR,202
+1996-01-27,Ole Kristian Furuseth,NO,160
+1996-01-27,Sebastien Amiez,FR,459
+1996-01-27,Jure Kosir,SK,321
+1996-01-27,Fabio De Crignis,IT,242
+1996-01-27,Fabrizio Tescari,IT,108
+1996-01-27,Richard Gravier,FR,20
+1996-01-27,Kilian Albrecht,AT,7
+1996-01-27,Andrej Miklavc,SK,263
+1996-01-27,Konrad  Kurt Ladstaetter,IT,128
+1996-01-27,Marc Girardelli,LU,112
+1996-01-27,Urs Kaelin,CH,0
+1996-01-27,Pierre Violon,FR,9
+1996-01-27,Didier Plaschy,CH,0
+1996-01-27,Matej Jovan,SK,20
+1996-01-27,Matthew Grosjean,US,67
+1996-01-27,Johan Wallner,SE,18
+1996-01-27,Patrick Staub,CH,59
+1996-01-27,Tom Stiansen,NO,64
+1996-01-27,Thomas Stangassinger,AT,166
+1996-01-27,Thomas Sykora,AT,346
+1996-01-27,Kiminobu Kimura,JP,100
+1996-01-27,Mario Reiter,AT,339
+1996-01-27,Siegfried Voglreiter,AT,60
+1996-01-27,Eric Villiard,CA,26
+1996-01-27,Sergio Bergamelli,IT,34
+1996-01-27,Martin Hansson,SE,11
+1996-01-27,Michael von Gruenigen,CH,118
+1996-01-27,Kjetil Andre Aamodt,NO,127
+1996-01-27,Bernhard Bauer,DE,97
+1996-01-27,Christian Mayer,AT,216
+1996-01-27,Mitja Kunc,SK,77
+1996-01-27,Matjaz Vrhovnik,SK,62
+1996-01-27,Andrea Zinsli,CH,111
+1996-01-27,Gaku Hirasawa,JP,35
+1996-01-27,Michael Tritscher,AT,100
+1996-01-27,Alberto Tomba,IT,440
+1996-01-27,Lasse Kjus,NO,116
+1996-01-27,Bernhard Gstrein,AT,46
+1996-01-27,Francois Simond,FR,50
+1996-01-27,Frederic Covili,FR,29
+1996-01-27,Matteo Nana,IT,14
+1996-01-27,Finn Chr. Jagge,NO,224
+1996-03-10,Kjetil Andre Aamodt,NO,137
+1996-03-10,Didier Plaschy,CH,14
+1996-03-10,Urs Kaelin,CH,8
+1996-03-10,Kilian Albrecht,AT,7
+1996-03-10,Martin Hansson,SE,11
+1996-03-10,Matej Jovan,SK,20
+1996-03-10,Matteo Belfrond,IT,11
+1996-03-10,Johan Wallner,SE,18
+1996-03-10,Fabrizio Tescari,IT,128
+1996-03-10,Konrad  Kurt Ladstaetter,IT,139
+1996-03-10,Thomas Sykora,AT,446
+1996-03-10,Alberto Tomba,IT,490
+1996-03-10,Kiminobu Kimura,JP,116
+1996-03-10,Ole Kristian Furuseth,NO,189
+1996-03-10,Sebastien Amiez,FR,539
+1996-03-10,Mario Reiter,AT,384
+1996-03-10,Andrej Miklavc,SK,299
+1996-03-10,Jure Kosir,SK,381
+1996-03-10,Michael von Gruenigen,CH,142
+1996-03-10,Lasse Kjus,NO,134
+1996-03-10,Finn Chr. Jagge,NO,256
+1996-03-10,Yves Dimier,FR,242
+1996-03-10,Andrea Zinsli,CH,133
+1996-03-10,Guenther Mader,AT,84
+1996-03-10,Richard Gravier,FR,20
+1996-03-10,Alois Vogl,DE,14
+1996-03-10,Gianluca Grigoletto,IT,11
+1996-03-10,Christian Mayer,AT,242
+1996-03-10,Thomas Stangassinger,AT,181
+1996-03-10,Gaku Hirasawa,JP,48
+1996-03-10,Bruno Kernen,CH,12
+1996-03-10,Michael Tritscher,AT,100
+1996-03-10,Siegfried Voglreiter,AT,60
+1996-03-10,Frederic Covili,FR,29
+1996-03-10,Mitja Kunc,SK,77
+1996-03-10,Fabio De Crignis,IT,242
+1996-03-10,Bernhard Gstrein,AT,46
+1996-03-10,Francois Simond,FR,50
+1996-03-10,Matteo Nana,IT,14
+1996-03-10,Matjaz Vrhovnik,SK,62
+1996-03-10,Patrick Staub,CH,59
+1996-03-10,Manfred Kleinlercher,AT,18
+1996-03-10,Sergio Bergamelli,IT,34
+1996-03-10,Pierre Violon,FR,9
+1996-03-10,Bernhard Bauer,DE,97
+1996-03-10,Tom Stiansen,NO,64
+1996-03-10,Mika Marila,FI,23
+1996-03-10,Angelo Weiss,IT,31
+1996-03-10,Max Ancenay,FR,7
+1996-03-10,Anders Andersson,SE,21
+1996-03-10,Stanley Hayer,CA,12
+1996-03-10,Harald Chr. Strand Nilsen,NO,30
+1996-03-10,Dietmar Thoeni,AT,36
+1996-03-10,Jesper Brugge,SE,12
+1996-03-10,Leo Puentener,CH,9
+1996-03-10,Marc Girardelli,LU,112
+1996-03-10,Eric Villiard,CA,26
+1996-03-10,Matthew Grosjean,US,67
+1996-03-10,Rene Mlekuz,SK,84

@@ -1,0 +1,559 @@
+date,name,ath_country,value
+1995-11-12,Michael von Gruenigen,CH,100
+1995-11-12,Tom Stiansen,NO,0
+1995-11-12,Alberto Tomba,IT,0
+1995-11-12,Mario Reiter,AT,0
+1995-11-12,Jure Kosir,SK,0
+1995-11-12,Patrice Manuel,FR,2
+1995-11-12,Yves Dimier,FR,3
+1995-11-12,Hans Petter Buraas,NO,4
+1995-11-12,Patrick Staub,CH,5
+1995-11-12,Kristian Ghedina,IT,6
+1995-11-12,Are Torpe,NO,7
+1995-11-12,Frank Piccard,FR,8
+1995-11-12,Patrick Holzer,IT,0
+1995-11-12,Jernej Koblar,SK,9
+1995-11-12,Thomas Bergamelli,IT,11
+1995-11-12,Johan Wallner,SE,12
+1995-11-12,Matteo Nana,IT,13
+1995-11-12,Tobias Barnerssoi,DE,14
+1995-11-12,Ian Piccard,FR,15
+1995-11-12,Bernhard Gstrein,AT,16
+1995-11-12,Marc Girardelli,LU,18
+1995-11-12,Rainer Salzgeber,AT,20
+1995-11-12,Josef Strobl,AT,22
+1995-11-12,Kjetil Andre Aamodt,NO,24
+1995-11-12,Fredrik Nyberg,SE,26
+1995-11-12,Kilian Albrecht,AT,10
+1995-11-12,Harald Chr. Strand Nilsen,NO,29
+1995-11-12,Christian Mayer,AT,0
+1995-11-12,Alois Vogl,DE,0
+1995-11-12,Heinz Schilchegger,AT,0
+1995-11-12,Rainer Schoenfelder,AT,0
+1995-11-12,Hermann Maier,AT,0
+1995-11-12,Bruno Kernen,CH,0
+1995-11-12,Marc Kuehni,CH,0
+1995-11-12,Aane Saeter,NO,0
+1995-11-12,Rune Andre Oestby,NO,0
+1995-11-12,Stephane Exartier,PL,0
+1995-11-12,Andreas Schifferer,AT,0
+1995-11-12,Patrick Wirth,AT,0
+1995-11-12,Marcel Sulliger,CH,0
+1995-11-12,Guenther Mader,AT,0
+1995-11-12,Richard Kroell,AT,0
+1995-11-12,Sergio Bergamelli,IT,0
+1995-11-12,Vincent Millet,FR,0
+1995-11-12,Marco Hangl,CH,0
+1995-11-12,Matteo Belfrond,IT,0
+1995-11-12,Daron Rahlves,US,0
+1995-11-12,Thomas Grandi,CA,0
+1995-11-12,Mitja Kunc,SK,0
+1995-11-12,Giancarlo Bergamelli,IT,0
+1995-11-12,Alessandro Fattori,IT,0
+1995-11-12,Ole Kristian Furuseth,NO,0
+1995-11-12,Achim Vogt,LI,0
+1995-11-12,Iwan Bormolini,IT,0
+1995-11-12,Christophe Saioni,FR,32
+1995-11-12,Massimo Zucchelli,IT,0
+1995-11-12,Lasse Kjus,NO,80
+1995-11-12,Gerhard Koenigsrainer,IT,45
+1995-11-12,Hans Knauss,AT,36
+1995-11-12,Urs Kaelin,CH,60
+1995-11-12,Steve Locher,CH,50
+1995-11-12,Paul Accola,CH,40
+1995-11-17,Stephane Exartier,PL,0
+1995-11-17,Johan Wallner,SE,12
+1995-11-17,Thomas Bergamelli,IT,11
+1995-11-17,Are Torpe,NO,7
+1995-11-17,Kristian Ghedina,IT,6
+1995-11-17,Hans Petter Buraas,NO,4
+1995-11-17,Yves Dimier,FR,3
+1995-11-17,Patrice Manuel,FR,2
+1995-11-17,Patrick Staub,CH,23
+1995-11-17,Matteo Nana,IT,13
+1995-11-17,Josef Strobl,AT,40
+1995-11-17,Thomas Grandi,CA,0
+1995-11-17,Daron Rahlves,US,0
+1995-11-17,Matteo Belfrond,IT,0
+1995-11-17,Marco Hangl,CH,0
+1995-11-17,Rainer Salzgeber,AT,30
+1995-11-17,Sergio Bergamelli,IT,0
+1995-11-17,Iwan Bormolini,IT,0
+1995-11-17,Richard Kroell,AT,0
+1995-11-17,Patrick Holzer,IT,20
+1995-11-17,Mitja Kunc,SK,0
+1995-11-17,Ian Piccard,FR,15
+1995-11-17,Gerhard Koenigsrainer,IT,45
+1995-11-17,Christophe Saioni,FR,32
+1995-11-17,Alois Vogl,DE,9
+1995-11-17,Kilian Albrecht,AT,18
+1995-11-17,Jernej Koblar,SK,21
+1995-11-17,Marc Girardelli,LU,25
+1995-11-17,Mario Reiter,AT,45
+1995-11-17,Achim Vogt,LI,6
+1995-11-17,Ole Kristian Furuseth,NO,5
+1995-11-17,Paul Accola,CH,53
+1995-11-17,Alessandro Fattori,IT,4
+1995-11-17,Giancarlo Bergamelli,IT,3
+1995-11-17,Frank Piccard,FR,10
+1995-11-17,Jure Kosir,SK,50
+1995-11-17,Tobias Barnerssoi,DE,28
+1995-11-17,Urs Kaelin,CH,120
+1995-11-17,Lasse Kjus,NO,160
+1995-11-17,Christian Mayer,AT,15
+1995-11-17,Fredrik Nyberg,SE,66
+1995-11-17,Michael von Gruenigen,CH,200
+1995-11-17,Marcel Sulliger,CH,0
+1995-11-17,Bernhard Gstrein,AT,16
+1995-11-17,Patrick Wirth,AT,0
+1995-11-17,Vincent Millet,FR,0
+1995-11-17,Alberto Tomba,IT,36
+1995-11-17,Hans Knauss,AT,68
+1995-11-17,Harald Chr. Strand Nilsen,NO,58
+1995-11-17,Kjetil Andre Aamodt,NO,53
+1995-11-17,Andreas Schifferer,AT,0
+1995-11-17,Tom Stiansen,NO,24
+1995-11-17,Heinz Schilchegger,AT,0
+1995-11-17,Rainer Schoenfelder,AT,0
+1995-11-17,Guenther Mader,AT,11
+1995-11-17,Massimo Zucchelli,IT,0
+1995-11-17,Rune Andre Oestby,NO,0
+1995-11-17,Hermann Maier,AT,0
+1995-11-17,Marc Kuehni,CH,0
+1995-11-17,Steve Locher,CH,72
+1995-11-17,Aane Saeter,NO,0
+1995-11-17,Bruno Kernen,CH,0
+1995-11-25,Patrick Wirth,AT,0
+1995-11-25,Kristian Ghedina,IT,9
+1995-11-25,Andreas Schifferer,AT,0
+1995-11-25,Kilian Albrecht,AT,22
+1995-11-25,Stephane Exartier,PL,0
+1995-11-25,Marco Hangl,CH,5
+1995-11-25,Rune Andre Oestby,NO,0
+1995-11-25,Gerhard Koenigsrainer,IT,45
+1995-11-25,Aane Saeter,NO,0
+1995-11-25,Patrick Holzer,IT,26
+1995-11-25,Tobias Barnerssoi,DE,28
+1995-11-25,Bruno Kernen,CH,0
+1995-11-25,Paul Accola,CH,60
+1995-11-25,Massimo Zucchelli,IT,0
+1995-11-25,Christian Mayer,AT,60
+1995-11-25,Hermann Maier,AT,0
+1995-11-25,Matteo Belfrond,IT,8
+1995-11-25,Rainer Schoenfelder,AT,0
+1995-11-25,Steve Locher,CH,81
+1995-11-25,Heinz Schilchegger,AT,0
+1995-11-25,Daron Rahlves,US,10
+1995-11-25,Fredrik Nyberg,SE,116
+1995-11-25,Marc Kuehni,CH,0
+1995-11-25,Marcel Sulliger,CH,0
+1995-11-25,Iwan Bormolini,IT,0
+1995-11-25,Thomas Bergamelli,IT,11
+1995-11-25,Jernej Koblar,SK,21
+1995-11-25,Are Torpe,NO,7
+1995-11-25,Patrick Staub,CH,23
+1995-11-25,Hans Petter Buraas,NO,4
+1995-11-25,Yves Dimier,FR,3
+1995-11-25,Patrice Manuel,FR,2
+1995-11-25,Mario Reiter,AT,45
+1995-11-25,Alberto Tomba,IT,36
+1995-11-25,Richard Kroell,AT,0
+1995-11-25,Achim Vogt,LI,6
+1995-11-25,Ole Kristian Furuseth,NO,5
+1995-11-25,Alessandro Fattori,IT,4
+1995-11-25,Giancarlo Bergamelli,IT,3
+1995-11-25,Vincent Millet,FR,0
+1995-11-25,Marc Girardelli,LU,25
+1995-11-25,Sergio Bergamelli,IT,0
+1995-11-25,Kjetil Andre Aamodt,NO,53
+1995-11-25,Hans Knauss,AT,128
+1995-11-25,Harald Chr. Strand Nilsen,NO,58
+1995-11-25,Michael von Gruenigen,CH,300
+1995-11-25,Lasse Kjus,NO,240
+1995-11-25,Urs Kaelin,CH,156
+1995-11-25,Thomas Grandi,CA,13
+1995-11-25,Alois Vogl,DE,29
+1995-11-25,Guenther Mader,AT,37
+1995-11-25,Josef Strobl,AT,58
+1995-11-25,Jure Kosir,SK,90
+1995-11-25,Johan Wallner,SE,28
+1995-11-25,Ian Piccard,FR,39
+1995-11-25,Christophe Saioni,FR,61
+1995-11-25,Rainer Salzgeber,AT,52
+1995-11-25,Mitja Kunc,SK,15
+1995-11-25,Frank Piccard,FR,42
+1995-11-25,Matteo Nana,IT,25
+1995-11-25,Bernhard Gstrein,AT,28
+1995-11-25,Tom Stiansen,NO,38
+1995-12-17,Christian Mayer,AT,89
+1995-12-17,Paul Accola,CH,86
+1995-12-17,Kjetil Andre Aamodt,NO,53
+1995-12-17,Fredrik Nyberg,SE,148
+1995-12-17,Achim Vogt,LI,6
+1995-12-17,Guenther Mader,AT,57
+1995-12-17,Rainer Salzgeber,AT,74
+1995-12-17,Josef Strobl,AT,58
+1995-12-17,Urs Kaelin,CH,196
+1995-12-17,Vincent Millet,FR,18
+1995-12-17,Alois Vogl,DE,45
+1995-12-17,Hans Knauss,AT,228
+1995-12-17,Mitja Kunc,SK,30
+1995-12-17,Michael von Gruenigen,CH,380
+1995-12-17,Alberto Tomba,IT,96
+1995-12-17,Frank Piccard,FR,56
+1995-12-17,Mario Reiter,AT,69
+1995-12-17,Marc Girardelli,LU,25
+1995-12-17,Johan Wallner,SE,28
+1995-12-17,Lasse Kjus,NO,290
+1995-12-17,Heinz Schilchegger,AT,0
+1995-12-17,Rainer Schoenfelder,AT,0
+1995-12-17,Hermann Maier,AT,0
+1995-12-17,Massimo Zucchelli,IT,0
+1995-12-17,Bruno Kernen,CH,0
+1995-12-17,Marc Kuehni,CH,0
+1995-12-17,Aane Saeter,NO,0
+1995-12-17,Rune Andre Oestby,NO,0
+1995-12-17,Stephane Exartier,PL,0
+1995-12-17,Andreas Schifferer,AT,0
+1995-12-17,Patrick Wirth,AT,0
+1995-12-17,Marco Hangl,CH,5
+1995-12-17,Matteo Belfrond,IT,8
+1995-12-17,Matteo Nana,IT,25
+1995-12-17,Daron Rahlves,US,10
+1995-12-17,Giancarlo Bergamelli,IT,3
+1995-12-17,Alessandro Fattori,IT,4
+1995-12-17,Ole Kristian Furuseth,NO,5
+1995-12-17,Patrick Holzer,IT,26
+1995-12-17,Tom Stiansen,NO,38
+1995-12-17,Patrice Manuel,FR,2
+1995-12-17,Yves Dimier,FR,3
+1995-12-17,Hans Petter Buraas,NO,4
+1995-12-17,Kristian Ghedina,IT,9
+1995-12-17,Are Torpe,NO,7
+1995-12-17,Jernej Koblar,SK,21
+1995-12-17,Kilian Albrecht,AT,22
+1995-12-17,Thomas Bergamelli,IT,11
+1995-12-17,Thomas Grandi,CA,13
+1995-12-17,Marcel Sulliger,CH,3
+1995-12-17,Harald Chr. Strand Nilsen,NO,94
+1995-12-17,Ian Piccard,FR,47
+1995-12-17,Bernhard Gstrein,AT,34
+1995-12-17,Sergio Bergamelli,IT,13
+1995-12-17,Steve Locher,CH,126
+1995-12-17,Tobias Barnerssoi,DE,37
+1995-12-17,Jure Kosir,SK,100
+1995-12-17,Christophe Saioni,FR,73
+1995-12-17,Gerhard Koenigsrainer,IT,56
+1995-12-17,Richard Kroell,AT,5
+1995-12-17,Iwan Bormolini,IT,7
+1995-12-17,Patrick Staub,CH,27
+1995-12-21,Yves Dimier,FR,13
+1995-12-21,Gerhard Koenigsrainer,IT,72
+1995-12-21,Guenther Mader,AT,86
+1995-12-21,Lasse Kjus,NO,390
+1995-12-21,Massimo Zucchelli,IT,0
+1995-12-21,Hermann Maier,AT,0
+1995-12-21,Urs Kaelin,CH,241
+1995-12-21,Mitja Kunc,SK,42
+1995-12-21,Rainer Schoenfelder,AT,0
+1995-12-21,Richard Kroell,AT,5
+1995-12-21,Andreas Schifferer,AT,6
+1995-12-21,Marc Kuehni,CH,0
+1995-12-21,Patrick Staub,CH,36
+1995-12-21,Heinz Schilchegger,AT,0
+1995-12-21,Thomas Grandi,CA,33
+1995-12-21,Alois Vogl,DE,58
+1995-12-21,Christophe Saioni,FR,113
+1995-12-21,Frank Piccard,FR,64
+1995-12-21,Steve Locher,CH,162
+1995-12-21,Christian Mayer,AT,113
+1995-12-21,Harald Chr. Strand Nilsen,NO,118
+1995-12-21,Fredrik Nyberg,SE,184
+1995-12-21,Iwan Bormolini,IT,7
+1995-12-21,Ian Piccard,FR,73
+1995-12-21,Hans Knauss,AT,246
+1995-12-21,Aane Saeter,NO,0
+1995-12-21,Bruno Kernen,CH,0
+1995-12-21,Stephane Exartier,PL,5
+1995-12-21,Hans Petter Buraas,NO,4
+1995-12-21,Patrice Manuel,FR,2
+1995-12-21,Jure Kosir,SK,100
+1995-12-21,Kjetil Andre Aamodt,NO,103
+1995-12-21,Alberto Tomba,IT,96
+1995-12-21,Rune Andre Oestby,NO,0
+1995-12-21,Patrick Holzer,IT,28
+1995-12-21,Kristian Ghedina,IT,9
+1995-12-21,Marc Girardelli,LU,39
+1995-12-21,Ole Kristian Furuseth,NO,5
+1995-12-21,Alessandro Fattori,IT,4
+1995-12-21,Sergio Bergamelli,IT,16
+1995-12-21,Giancarlo Bergamelli,IT,3
+1995-12-21,Matteo Belfrond,IT,8
+1995-12-21,Marco Hangl,CH,5
+1995-12-21,Vincent Millet,FR,18
+1995-12-21,Achim Vogt,LI,6
+1995-12-21,Are Torpe,NO,7
+1995-12-21,Daron Rahlves,US,17
+1995-12-21,Thomas Bergamelli,IT,11
+1995-12-21,Jernej Koblar,SK,32
+1995-12-21,Patrick Wirth,AT,15
+1995-12-21,Michael von Gruenigen,CH,460
+1995-12-21,Kilian Albrecht,AT,22
+1995-12-21,Marcel Sulliger,CH,3
+1995-12-21,Paul Accola,CH,86
+1995-12-21,Josef Strobl,AT,58
+1995-12-21,Tom Stiansen,NO,42
+1995-12-21,Bernhard Gstrein,AT,34
+1995-12-21,Tobias Barnerssoi,DE,37
+1995-12-21,Matteo Nana,IT,25
+1995-12-21,Johan Wallner,SE,28
+1995-12-21,Mario Reiter,AT,129
+1995-12-21,Rainer Salzgeber,AT,74
+1996-01-06,Lasse Kjus,NO,435
+1996-01-06,Patrick Holzer,IT,28
+1996-01-06,Tom Stiansen,NO,42
+1996-01-06,Patrice Manuel,FR,2
+1996-01-06,Yves Dimier,FR,13
+1996-01-06,Fredrik Nyberg,SE,216
+1996-01-06,Hans Petter Buraas,NO,4
+1996-01-06,Patrick Staub,CH,36
+1996-01-06,Kristian Ghedina,IT,9
+1996-01-06,Mitja Kunc,SK,54
+1996-01-06,Hans Knauss,AT,282
+1996-01-06,Jernej Koblar,SK,32
+1996-01-06,Ian Piccard,FR,82
+1996-01-06,Kjetil Andre Aamodt,NO,115
+1996-01-06,Rainer Salzgeber,AT,74
+1996-01-06,Kilian Albrecht,AT,22
+1996-01-06,Thomas Bergamelli,IT,11
+1996-01-06,Matteo Nana,IT,25
+1996-01-06,Tobias Barnerssoi,DE,37
+1996-01-06,Bernhard Gstrein,AT,34
+1996-01-06,Aane Saeter,NO,8
+1996-01-06,Gerhard Koenigsrainer,IT,82
+1996-01-06,Are Torpe,NO,7
+1996-01-06,Marc Girardelli,LU,39
+1996-01-06,Marco Hangl,CH,5
+1996-01-06,Achim Vogt,LI,6
+1996-01-06,Massimo Zucchelli,IT,0
+1996-01-06,Hermann Maier,AT,0
+1996-01-06,Alois Vogl,DE,78
+1996-01-06,Rainer Schoenfelder,AT,0
+1996-01-06,Heinz Schilchegger,AT,0
+1996-01-06,Johan Wallner,SE,34
+1996-01-06,Rune Andre Oestby,NO,18
+1996-01-06,Mario Reiter,AT,158
+1996-01-06,Urs Kaelin,CH,341
+1996-01-06,Marc Kuehni,CH,5
+1996-01-06,Alberto Tomba,IT,176
+1996-01-06,Harald Chr. Strand Nilsen,NO,133
+1996-01-06,Michael von Gruenigen,CH,520
+1996-01-06,Steve Locher,CH,212
+1996-01-06,Josef Strobl,AT,72
+1996-01-06,Bruno Kernen,CH,0
+1996-01-06,Paul Accola,CH,108
+1996-01-06,Jure Kosir,SK,116
+1996-01-06,Stephane Exartier,PL,5
+1996-01-06,Giancarlo Bergamelli,IT,3
+1996-01-06,Thomas Grandi,CA,33
+1996-01-06,Daron Rahlves,US,30
+1996-01-06,Christophe Saioni,FR,139
+1996-01-06,Matteo Belfrond,IT,8
+1996-01-06,Alessandro Fattori,IT,4
+1996-01-06,Frank Piccard,FR,71
+1996-01-06,Ole Kristian Furuseth,NO,5
+1996-01-06,Sergio Bergamelli,IT,16
+1996-01-06,Vincent Millet,FR,18
+1996-01-06,Guenther Mader,AT,110
+1996-01-06,Iwan Bormolini,IT,7
+1996-01-06,Christian Mayer,AT,153
+1996-01-06,Andreas Schifferer,AT,6
+1996-01-06,Richard Kroell,AT,5
+1996-01-06,Patrick Wirth,AT,15
+1996-01-06,Marcel Sulliger,CH,3
+1996-01-16,Giancarlo Bergamelli,IT,3
+1996-01-16,Daron Rahlves,US,30
+1996-01-16,Marco Hangl,CH,5
+1996-01-16,Vincent Millet,FR,18
+1996-01-16,Hermann Maier,AT,0
+1996-01-16,Rainer Schoenfelder,AT,0
+1996-01-16,Marcel Sulliger,CH,3
+1996-01-16,Andreas Schifferer,AT,6
+1996-01-16,Stephane Exartier,PL,5
+1996-01-16,Heinz Schilchegger,AT,0
+1996-01-16,Rune Andre Oestby,NO,18
+1996-01-16,Aane Saeter,NO,8
+1996-01-16,Marc Kuehni,CH,5
+1996-01-16,Richard Kroell,AT,5
+1996-01-16,Ole Kristian Furuseth,NO,5
+1996-01-16,Hans Petter Buraas,NO,4
+1996-01-16,Alberto Tomba,IT,176
+1996-01-16,Lasse Kjus,NO,435
+1996-01-16,Steve Locher,CH,212
+1996-01-16,Gerhard Koenigsrainer,IT,82
+1996-01-16,Harald Chr. Strand Nilsen,NO,133
+1996-01-16,Rainer Salzgeber,AT,74
+1996-01-16,Bernhard Gstrein,AT,34
+1996-01-16,Matteo Nana,IT,25
+1996-01-16,Patrick Holzer,IT,28
+1996-01-16,Johan Wallner,SE,34
+1996-01-16,Jernej Koblar,SK,32
+1996-01-16,Frank Piccard,FR,71
+1996-01-16,Are Torpe,NO,7
+1996-01-16,Kristian Ghedina,IT,9
+1996-01-16,Patrick Staub,CH,36
+1996-01-16,Patrice Manuel,FR,2
+1996-01-16,Jure Kosir,SK,116
+1996-01-16,Thomas Bergamelli,IT,11
+1996-01-16,Massimo Zucchelli,IT,4
+1996-01-16,Paul Accola,CH,120
+1996-01-16,Josef Strobl,AT,83
+1996-01-16,Christian Mayer,AT,179
+1996-01-16,Guenther Mader,AT,150
+1996-01-16,Hans Knauss,AT,306
+1996-01-16,Alessandro Fattori,IT,17
+1996-01-16,Mitja Kunc,SK,76
+1996-01-16,Ian Piccard,FR,102
+1996-01-16,Iwan Bormolini,IT,13
+1996-01-16,Yves Dimier,FR,31
+1996-01-16,Matteo Belfrond,IT,24
+1996-01-16,Michael von Gruenigen,CH,620
+1996-01-16,Alois Vogl,DE,123
+1996-01-16,Urs Kaelin,CH,421
+1996-01-16,Kjetil Andre Aamodt,NO,130
+1996-01-16,Tom Stiansen,NO,102
+1996-01-16,Fredrik Nyberg,SE,266
+1996-01-16,Achim Vogt,LI,9
+1996-01-16,Bruno Kernen,CH,14
+1996-01-16,Patrick Wirth,AT,22
+1996-01-16,Marc Girardelli,LU,68
+1996-01-16,Tobias Barnerssoi,DE,42
+1996-01-16,Sergio Bergamelli,IT,25
+1996-01-16,Mario Reiter,AT,194
+1996-01-16,Christophe Saioni,FR,171
+1996-01-16,Kilian Albrecht,AT,30
+1996-01-16,Thomas Grandi,CA,43
+1996-02-10,Vincent Millet,FR,32
+1996-02-10,Patrick Holzer,IT,28
+1996-02-10,Christian Mayer,AT,179
+1996-02-10,Achim Vogt,LI,9
+1996-02-10,Fredrik Nyberg,SE,298
+1996-02-10,Hermann Maier,AT,5
+1996-02-10,Thomas Grandi,CA,58
+1996-02-10,Ole Kristian Furuseth,NO,5
+1996-02-10,Giancarlo Bergamelli,IT,3
+1996-02-10,Urs Kaelin,CH,501
+1996-02-10,Daron Rahlves,US,42
+1996-02-10,Rainer Salzgeber,AT,84
+1996-02-10,Mario Reiter,AT,254
+1996-02-10,Patrice Manuel,FR,2
+1996-02-10,Johan Wallner,SE,45
+1996-02-10,Kristian Ghedina,IT,9
+1996-02-10,Are Torpe,NO,7
+1996-02-10,Jernej Koblar,SK,32
+1996-02-10,Kilian Albrecht,AT,30
+1996-02-10,Thomas Bergamelli,IT,11
+1996-02-10,Matteo Nana,IT,25
+1996-02-10,Stephane Exartier,PL,8
+1996-02-10,Tobias Barnerssoi,DE,42
+1996-02-10,Josef Strobl,AT,83
+1996-02-10,Hans Knauss,AT,306
+1996-02-10,Paul Accola,CH,120
+1996-02-10,Gerhard Koenigsrainer,IT,82
+1996-02-10,Frank Piccard,FR,75
+1996-02-10,Alberto Tomba,IT,226
+1996-02-10,Bernhard Gstrein,AT,34
+1996-02-10,Matteo Belfrond,IT,24
+1996-02-10,Michael von Gruenigen,CH,720
+1996-02-10,Harald Chr. Strand Nilsen,NO,142
+1996-02-10,Marc Girardelli,LU,81
+1996-02-10,Alois Vogl,DE,152
+1996-02-10,Lasse Kjus,NO,475
+1996-02-10,Heinz Schilchegger,AT,0
+1996-02-10,Steve Locher,CH,238
+1996-02-10,Rainer Schoenfelder,AT,0
+1996-02-10,Tom Stiansen,NO,138
+1996-02-10,Mitja Kunc,SK,83
+1996-02-10,Massimo Zucchelli,IT,4
+1996-02-10,Ian Piccard,FR,126
+1996-02-10,Bruno Kernen,CH,14
+1996-02-10,Patrick Staub,CH,36
+1996-02-10,Christophe Saioni,FR,216
+1996-02-10,Marc Kuehni,CH,5
+1996-02-10,Aane Saeter,NO,8
+1996-02-10,Marco Hangl,CH,5
+1996-02-10,Sergio Bergamelli,IT,25
+1996-02-10,Jure Kosir,SK,132
+1996-02-10,Guenther Mader,AT,172
+1996-02-10,Marcel Sulliger,CH,3
+1996-02-10,Iwan Bormolini,IT,19
+1996-02-10,Richard Kroell,AT,5
+1996-02-10,Kjetil Andre Aamodt,NO,148
+1996-02-10,Yves Dimier,FR,39
+1996-02-10,Andreas Schifferer,AT,6
+1996-02-10,Alessandro Fattori,IT,37
+1996-02-10,Rune Andre Oestby,NO,18
+1996-02-10,Patrick Wirth,AT,22
+1996-02-10,Hans Petter Buraas,NO,4
+1996-03-09,Frank Piccard,FR,75
+1996-03-09,Jernej Koblar,SK,32
+1996-03-09,Kilian Albrecht,AT,30
+1996-03-09,Thomas Bergamelli,IT,11
+1996-03-09,Iwan Bormolini,IT,19
+1996-03-09,Sergio Bergamelli,IT,25
+1996-03-09,Patrick Staub,CH,36
+1996-03-09,Hans Petter Buraas,NO,4
+1996-03-09,Yves Dimier,FR,39
+1996-03-09,Patrick Wirth,AT,22
+1996-03-09,Are Torpe,NO,7
+1996-03-09,Patrice Manuel,FR,2
+1996-03-09,Marcel Sulliger,CH,3
+1996-03-09,Patrick Holzer,IT,28
+1996-03-09,Johan Wallner,SE,45
+1996-03-09,Achim Vogt,LI,9
+1996-03-09,Aane Saeter,NO,8
+1996-03-09,Andreas Schifferer,AT,6
+1996-03-09,Alessandro Fattori,IT,37
+1996-03-09,Richard Kroell,AT,5
+1996-03-09,Stephane Exartier,PL,8
+1996-03-09,Giancarlo Bergamelli,IT,3
+1996-03-09,Thomas Grandi,CA,58
+1996-03-09,Daron Rahlves,US,42
+1996-03-09,Matteo Belfrond,IT,24
+1996-03-09,Rune Andre Oestby,NO,18
+1996-03-09,Marco Hangl,CH,5
+1996-03-09,Vincent Millet,FR,32
+1996-03-09,Ole Kristian Furuseth,NO,5
+1996-03-09,Matteo Nana,IT,25
+1996-03-09,Heinz Schilchegger,AT,12
+1996-03-09,Bernhard Gstrein,AT,34
+1996-03-09,Bruno Kernen,CH,25
+1996-03-09,Massimo Zucchelli,IT,14
+1996-03-09,Ian Piccard,FR,135
+1996-03-09,Harald Chr. Strand Nilsen,NO,150
+1996-03-09,Jure Kosir,SK,145
+1996-03-09,Kristian Ghedina,IT,16
+1996-03-09,Steve Locher,CH,283
+1996-03-09,Alberto Tomba,IT,276
+1996-03-09,Mitja Kunc,SK,97
+1996-03-09,Guenther Mader,AT,187
+1996-03-09,Christophe Saioni,FR,276
+1996-03-09,Tom Stiansen,NO,218
+1996-03-09,Urs Kaelin,CH,601
+1996-03-09,Tobias Barnerssoi,DE,42
+1996-03-09,Marc Kuehni,CH,5
+1996-03-09,Michael von Gruenigen,CH,738
+1996-03-09,Kjetil Andre Aamodt,NO,168
+1996-03-09,Rainer Schoenfelder,AT,22
+1996-03-09,Alois Vogl,DE,176
+1996-03-09,Josef Strobl,AT,109
+1996-03-09,Mario Reiter,AT,283
+1996-03-09,Fredrik Nyberg,SE,338
+1996-03-09,Paul Accola,CH,152
+1996-03-09,Christian Mayer,AT,215
+1996-03-09,Lasse Kjus,NO,475
+1996-03-09,Gerhard Koenigsrainer,IT,82
+1996-03-09,Hans Knauss,AT,306
+1996-03-09,Marc Girardelli,LU,81
+1996-03-09,Rainer Salzgeber,AT,100
+1996-03-09,Hermann Maier,AT,5

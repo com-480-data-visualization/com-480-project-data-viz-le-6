@@ -1,0 +1,532 @@
+date,name,ath_country,value
+1991-11-24,Alberto Tomba,IT,100
+1991-11-24,Michael von Gruenigen,CH,0
+1991-11-24,Hubert Strolz,AT,0
+1991-11-24,Dietmar Thoeni,AT,0
+1991-11-24,Thomas Sykora,AT,0
+1991-11-24,Patrice Bianchi,FR,40
+1991-11-24,Thomas Stangassinger,AT,0
+1991-11-24,Roberto Spampatti,IT,0
+1991-11-24,Fabrizio Tescari,IT,0
+1991-11-24,Johan Wallner,SE,0
+1991-11-24,Takuya Ishioka,JP,0
+1991-11-24,Markus Eberle,AT,0
+1991-11-24,Stephan Eberharter,AT,0
+1991-11-24,Roger Pramotton,IT,0
+1991-11-24,Carlo Gerosa,IT,43
+1991-11-24,Oliver Kuenzi,CH,0
+1991-11-24,Harald Chr. Strand Nilsen,NO,0
+1991-11-24,Heinz Peter Platter,IT,0
+1991-11-24,Joe Levins,US,0
+1991-11-24,Willy Raine,CA,0
+1991-11-24,Christophe Berra,CH,0
+1991-11-24,Benno Wicki,CH,0
+1991-11-24,Jonas Nilsson,SE,0
+1991-11-24,Michael Tritscher,AT,0
+1991-11-24,Christian Polig,IT,24
+1991-11-24,Steve Locher,CH,22
+1991-11-24,Ole Kristian Furuseth,NO,28
+1991-11-24,Patrick Staub,CH,20
+1991-11-24,Francois Simond,FR,18
+1991-11-24,Stephane Exartier,FR,16
+1991-11-24,Alain Villiard,CA,14
+1991-11-24,Guenther Mader,AT,31
+1991-11-24,Bernhard Bauer,DE,12
+1991-11-24,Jeremy Nobis,US,10
+1991-11-24,Hans Pieren,CH,9
+1991-11-24,Fredrik Nyberg,SE,8
+1991-11-24,Fabio De Crignis,IT,34
+1991-11-24,Matteo Belfrond,IT,7
+1991-11-24,Richard Pramotton,IT,6
+1991-11-24,Jure Kosir,SK,5
+1991-11-24,Thomas Fogdoe,SE,0
+1991-11-24,Matthew Grosjean,US,37
+1991-11-24,Peter Roth,DE,0
+1991-11-24,Mats Ericson,SE,0
+1991-11-24,Kjetil Andre Aamodt,NO,0
+1991-11-24,Didrik Marksten,NO,0
+1991-11-24,Martin Knoeri,CH,0
+1991-11-24,Paul Accola,CH,80
+1991-11-24,Bernhard Gstrein,AT,47
+1991-11-24,Konrad  Kurt Ladstaetter,IT,60
+1991-11-24,Armin Bittner,DE,55
+1991-11-24,Finn Chr. Jagge,NO,51
+1991-11-24,Gregor Grilc,SK,0
+1991-11-24,Marc Girardelli,LU,26
+1991-11-24,Espen Hellerud,NO,0
+1991-11-24,Lasse Kjus,NO,0
+1991-11-24,Angelo Weiss,IT,0
+1991-11-24,Tetsuya Okabe,JP,0
+1991-11-24,Siegfried Voglreiter,AT,0
+1991-11-30,Armin Bittner,DE,55
+1991-11-30,Guenther Mader,AT,40
+1991-11-30,Willy Raine,CA,0
+1991-11-30,Hubert Strolz,AT,10
+1991-11-30,Benno Wicki,CH,0
+1991-11-30,Michael von Gruenigen,CH,12
+1991-11-30,Christophe Berra,CH,14
+1991-11-30,Kjetil Andre Aamodt,NO,0
+1991-11-30,Martin Knoeri,CH,0
+1991-11-30,Konrad  Kurt Ladstaetter,IT,76
+1991-11-30,Tetsuya Okabe,JP,0
+1991-11-30,Lasse Kjus,NO,0
+1991-11-30,Jonas Nilsson,SE,20
+1991-11-30,Mats Ericson,SE,20
+1991-11-30,Angelo Weiss,IT,0
+1991-11-30,Steve Locher,CH,44
+1991-11-30,Siegfried Voglreiter,AT,0
+1991-11-30,Espen Hellerud,NO,0
+1991-11-30,Patrice Bianchi,FR,64
+1991-11-30,Gregor Grilc,SK,0
+1991-11-30,Joe Levins,US,0
+1991-11-30,Heinz Peter Platter,IT,0
+1991-11-30,Harald Chr. Strand Nilsen,NO,0
+1991-11-30,Christian Polig,IT,50
+1991-11-30,Patrick Staub,CH,20
+1991-11-30,Francois Simond,FR,18
+1991-11-30,Alain Villiard,CA,14
+1991-11-30,Jeremy Nobis,US,10
+1991-11-30,Hans Pieren,CH,9
+1991-11-30,Fredrik Nyberg,SE,8
+1991-11-30,Matteo Belfrond,IT,7
+1991-11-30,Richard Pramotton,IT,6
+1991-11-30,Jure Kosir,SK,5
+1991-11-30,Dietmar Thoeni,AT,8
+1991-11-30,Thomas Stangassinger,AT,0
+1991-11-30,Fabrizio Tescari,IT,0
+1991-11-30,Johan Wallner,SE,0
+1991-11-30,Takuya Ishioka,JP,0
+1991-11-30,Markus Eberle,AT,0
+1991-11-30,Stephan Eberharter,AT,0
+1991-11-30,Roger Pramotton,IT,0
+1991-11-30,Thomas Sykora,AT,6
+1991-11-30,Didrik Marksten,NO,0
+1991-11-30,Bernhard Bauer,DE,19
+1991-11-30,Roberto Spampatti,IT,0
+1991-11-30,Oliver Kuenzi,CH,0
+1991-11-30,Stephane Exartier,FR,16
+1991-11-30,Matthew Grosjean,US,68
+1991-11-30,Alberto Tomba,IT,180
+1991-11-30,Thomas Fogdoe,SE,80
+1991-11-30,Michael Tritscher,AT,28
+1991-11-30,Finn Chr. Jagge,NO,106
+1991-11-30,Carlo Gerosa,IT,77
+1991-11-30,Bernhard Gstrein,AT,98
+1991-11-30,Ole Kristian Furuseth,NO,75
+1991-11-30,Paul Accola,CH,180
+1991-11-30,Marc Girardelli,LU,66
+1991-11-30,Fabio De Crignis,IT,71
+1991-11-30,Peter Roth,DE,43
+1991-12-10,Thomas Stangassinger,AT,47
+1991-12-10,Bernhard Bauer,DE,19
+1991-12-10,Hans Pieren,CH,9
+1991-12-10,Fredrik Nyberg,SE,8
+1991-12-10,Matteo Belfrond,IT,7
+1991-12-10,Thomas Sykora,AT,18
+1991-12-10,Richard Pramotton,IT,6
+1991-12-10,Jure Kosir,SK,5
+1991-12-10,Michael Tritscher,AT,28
+1991-12-10,Christophe Berra,CH,14
+1991-12-10,Dietmar Thoeni,AT,8
+1991-12-10,Markus Eberle,AT,0
+1991-12-10,Stephan Eberharter,AT,0
+1991-12-10,Johan Wallner,SE,14
+1991-12-10,Roger Pramotton,IT,0
+1991-12-10,Oliver Kuenzi,CH,0
+1991-12-10,Didrik Marksten,NO,0
+1991-12-10,Thomas Fogdoe,SE,80
+1991-12-10,Alain Villiard,CA,14
+1991-12-10,Christian Polig,IT,50
+1991-12-10,Matthew Grosjean,US,68
+1991-12-10,Carlo Gerosa,IT,120
+1991-12-10,Fabio De Crignis,IT,122
+1991-12-10,Patrick Staub,CH,28
+1991-12-10,Jeremy Nobis,US,17
+1991-12-10,Paul Accola,CH,235
+1991-12-10,Hubert Strolz,AT,50
+1991-12-10,Ole Kristian Furuseth,NO,135
+1991-12-10,Steve Locher,CH,44
+1991-12-10,Konrad  Kurt Ladstaetter,IT,85
+1991-12-10,Finn Chr. Jagge,NO,186
+1991-12-10,Stephane Exartier,FR,21
+1991-12-10,Armin Bittner,DE,92
+1991-12-10,Alberto Tomba,IT,280
+1991-12-10,Harald Chr. Strand Nilsen,NO,0
+1991-12-10,Bernhard Gstrein,AT,98
+1991-12-10,Francois Simond,FR,28
+1991-12-10,Peter Roth,DE,77
+1991-12-10,Heinz Peter Platter,IT,0
+1991-12-10,Joe Levins,US,0
+1991-12-10,Benno Wicki,CH,0
+1991-12-10,Roberto Spampatti,IT,26
+1991-12-10,Guenther Mader,AT,68
+1991-12-10,Jonas Nilsson,SE,44
+1991-12-10,Willy Raine,CA,0
+1991-12-10,Fabrizio Tescari,IT,22
+1991-12-10,Marc Girardelli,LU,86
+1991-12-10,Gregor Grilc,SK,0
+1991-12-10,Mats Ericson,SE,38
+1991-12-10,Espen Hellerud,NO,0
+1991-12-10,Takuya Ishioka,JP,6
+1991-12-10,Angelo Weiss,IT,0
+1991-12-10,Lasse Kjus,NO,0
+1991-12-10,Kjetil Andre Aamodt,NO,0
+1991-12-10,Patrice Bianchi,FR,95
+1991-12-10,Michael von Gruenigen,CH,28
+1991-12-10,Tetsuya Okabe,JP,0
+1991-12-10,Martin Knoeri,CH,0
+1991-12-10,Siegfried Voglreiter,AT,0
+1991-12-17,Ole Kristian Furuseth,NO,190
+1991-12-17,Joe Levins,US,0
+1991-12-17,Willy Raine,CA,0
+1991-12-17,Paul Accola,CH,286
+1991-12-17,Benno Wicki,CH,0
+1991-12-17,Kjetil Andre Aamodt,NO,0
+1991-12-17,Tetsuya Okabe,JP,0
+1991-12-17,Martin Knoeri,CH,0
+1991-12-17,Michael Tritscher,AT,71
+1991-12-17,Lasse Kjus,NO,0
+1991-12-17,Angelo Weiss,IT,0
+1991-12-17,Fabio De Crignis,IT,162
+1991-12-17,Siegfried Voglreiter,AT,0
+1991-12-17,Stephan Eberharter,AT,5
+1991-12-17,Espen Hellerud,NO,0
+1991-12-17,Gregor Grilc,SK,0
+1991-12-17,Marc Girardelli,LU,133
+1991-12-17,Heinz Peter Platter,IT,0
+1991-12-17,Didrik Marksten,NO,0
+1991-12-17,Thomas Fogdoe,SE,140
+1991-12-17,Armin Bittner,DE,92
+1991-12-17,Matthew Grosjean,US,68
+1991-12-17,Christian Polig,IT,50
+1991-12-17,Francois Simond,FR,28
+1991-12-17,Stephane Exartier,FR,21
+1991-12-17,Alain Villiard,CA,14
+1991-12-17,Jeremy Nobis,US,17
+1991-12-17,Hans Pieren,CH,9
+1991-12-17,Fredrik Nyberg,SE,8
+1991-12-17,Harald Chr. Strand Nilsen,NO,0
+1991-12-17,Matteo Belfrond,IT,7
+1991-12-17,Dietmar Thoeni,AT,8
+1991-12-17,Roberto Spampatti,IT,26
+1991-12-17,Fabrizio Tescari,IT,22
+1991-12-17,Finn Chr. Jagge,NO,286
+1991-12-17,Christophe Berra,CH,20
+1991-12-17,Takuya Ishioka,JP,6
+1991-12-17,Roger Pramotton,IT,0
+1991-12-17,Oliver Kuenzi,CH,0
+1991-12-17,Alberto Tomba,IT,360
+1991-12-17,Jure Kosir,SK,5
+1991-12-17,Johan Wallner,SE,14
+1991-12-17,Bernhard Gstrein,AT,102
+1991-12-17,Richard Pramotton,IT,15
+1991-12-17,Mats Ericson,SE,58
+1991-12-17,Guenther Mader,AT,90
+1991-12-17,Patrick Staub,CH,36
+1991-12-17,Patrice Bianchi,FR,113
+1991-12-17,Peter Roth,DE,108
+1991-12-17,Markus Eberle,AT,16
+1991-12-17,Steve Locher,CH,68
+1991-12-17,Bernhard Bauer,DE,26
+1991-12-17,Michael von Gruenigen,CH,42
+1991-12-17,Hubert Strolz,AT,62
+1991-12-17,Konrad  Kurt Ladstaetter,IT,111
+1991-12-17,Thomas Sykora,AT,28
+1991-12-17,Carlo Gerosa,IT,154
+1991-12-17,Jonas Nilsson,SE,72
+1991-12-17,Thomas Stangassinger,AT,84
+1992-01-05,Bernhard Gstrein,AT,128
+1992-01-05,Oliver Kuenzi,CH,24
+1992-01-05,Christophe Berra,CH,48
+1992-01-05,Patrice Bianchi,FR,113
+1992-01-05,Willy Raine,CA,6
+1992-01-05,Christian Polig,IT,70
+1992-01-05,Matthew Grosjean,US,68
+1992-01-05,Stephan Eberharter,AT,23
+1992-01-05,Carlo Gerosa,IT,170
+1992-01-05,Fabrizio Tescari,IT,36
+1992-01-05,Harald Chr. Strand Nilsen,NO,12
+1992-01-05,Richard Pramotton,IT,49
+1992-01-05,Heinz Peter Platter,IT,10
+1992-01-05,Alberto Tomba,IT,460
+1992-01-05,Didrik Marksten,NO,22
+1992-01-05,Roger Pramotton,IT,31
+1992-01-05,Guenther Mader,AT,90
+1992-01-05,Ole Kristian Furuseth,NO,190
+1992-01-05,Gregor Grilc,SK,0
+1992-01-05,Espen Hellerud,NO,0
+1992-01-05,Siegfried Voglreiter,AT,0
+1992-01-05,Angelo Weiss,IT,0
+1992-01-05,Lasse Kjus,NO,0
+1992-01-05,Tetsuya Okabe,JP,0
+1992-01-05,Martin Knoeri,CH,0
+1992-01-05,Kjetil Andre Aamodt,NO,0
+1992-01-05,Markus Eberle,AT,16
+1992-01-05,Takuya Ishioka,JP,6
+1992-01-05,Johan Wallner,SE,14
+1992-01-05,Roberto Spampatti,IT,26
+1992-01-05,Thomas Sykora,AT,28
+1992-01-05,Dietmar Thoeni,AT,8
+1992-01-05,Hubert Strolz,AT,62
+1992-01-05,Michael von Gruenigen,CH,42
+1992-01-05,Jonas Nilsson,SE,72
+1992-01-05,Mats Ericson,SE,58
+1992-01-05,Thomas Fogdoe,SE,140
+1992-01-05,Matteo Belfrond,IT,7
+1992-01-05,Fredrik Nyberg,SE,8
+1992-01-05,Hans Pieren,CH,9
+1992-01-05,Jeremy Nobis,US,17
+1992-01-05,Bernhard Bauer,DE,26
+1992-01-05,Alain Villiard,CA,14
+1992-01-05,Stephane Exartier,FR,21
+1992-01-05,Francois Simond,FR,28
+1992-01-05,Fabio De Crignis,IT,162
+1992-01-05,Armin Bittner,DE,172
+1992-01-05,Michael Tritscher,AT,71
+1992-01-05,Benno Wicki,CH,5
+1992-01-05,Joe Levins,US,8
+1992-01-05,Finn Chr. Jagge,NO,346
+1992-01-05,Marc Girardelli,LU,188
+1992-01-05,Steve Locher,CH,77
+1992-01-05,Paul Accola,CH,337
+1992-01-05,Patrick Staub,CH,79
+1992-01-05,Jure Kosir,SK,12
+1992-01-05,Konrad  Kurt Ladstaetter,IT,151
+1992-01-05,Peter Roth,DE,155
+1992-01-05,Thomas Stangassinger,AT,121
+1992-01-13,Thomas Fogdoe,SE,191
+1992-01-13,Thomas Sykora,AT,28
+1992-01-13,Christophe Berra,CH,48
+1992-01-13,Jonas Nilsson,SE,98
+1992-01-13,Roberto Spampatti,IT,26
+1992-01-13,Stephan Eberharter,AT,47
+1992-01-13,Takuya Ishioka,JP,6
+1992-01-13,Mats Ericson,SE,58
+1992-01-13,Markus Eberle,AT,16
+1992-01-13,Roger Pramotton,IT,31
+1992-01-13,Harald Chr. Strand Nilsen,NO,12
+1992-01-13,Heinz Peter Platter,IT,10
+1992-01-13,Willy Raine,CA,6
+1992-01-13,Richard Pramotton,IT,71
+1992-01-13,Benno Wicki,CH,5
+1992-01-13,Tetsuya Okabe,JP,0
+1992-01-13,Johan Wallner,SE,14
+1992-01-13,Michael Tritscher,AT,71
+1992-01-13,Stephane Exartier,FR,29
+1992-01-13,Bernhard Gstrein,AT,156
+1992-01-13,Konrad  Kurt Ladstaetter,IT,151
+1992-01-13,Matthew Grosjean,US,68
+1992-01-13,Fabio De Crignis,IT,162
+1992-01-13,Guenther Mader,AT,90
+1992-01-13,Paul Accola,CH,377
+1992-01-13,Joe Levins,US,15
+1992-01-13,Marc Girardelli,LU,188
+1992-01-13,Christian Polig,IT,70
+1992-01-13,Steve Locher,CH,77
+1992-01-13,Peter Roth,DE,155
+1992-01-13,Armin Bittner,DE,215
+1992-01-13,Francois Simond,FR,28
+1992-01-13,Alain Villiard,CA,14
+1992-01-13,Bernhard Bauer,DE,26
+1992-01-13,Jeremy Nobis,US,17
+1992-01-13,Hans Pieren,CH,9
+1992-01-13,Ole Kristian Furuseth,NO,237
+1992-01-13,Fredrik Nyberg,SE,8
+1992-01-13,Hubert Strolz,AT,142
+1992-01-13,Jure Kosir,SK,12
+1992-01-13,Finn Chr. Jagge,NO,383
+1992-01-13,Lasse Kjus,NO,0
+1992-01-13,Matteo Belfrond,IT,7
+1992-01-13,Siegfried Voglreiter,AT,0
+1992-01-13,Patrice Bianchi,FR,213
+1992-01-13,Martin Knoeri,CH,10
+1992-01-13,Fabrizio Tescari,IT,45
+1992-01-13,Carlo Gerosa,IT,204
+1992-01-13,Michael von Gruenigen,CH,54
+1992-01-13,Alberto Tomba,IT,520
+1992-01-13,Angelo Weiss,IT,0
+1992-01-13,Oliver Kuenzi,CH,38
+1992-01-13,Dietmar Thoeni,AT,24
+1992-01-13,Thomas Stangassinger,AT,152
+1992-01-13,Gregor Grilc,SK,0
+1992-01-13,Patrick Staub,CH,134
+1992-01-13,Didrik Marksten,NO,40
+1992-01-13,Kjetil Andre Aamodt,NO,20
+1992-01-13,Espen Hellerud,NO,0
+1992-01-19,Stephane Exartier,FR,29
+1992-01-19,Joe Levins,US,15
+1992-01-19,Willy Raine,CA,6
+1992-01-19,Bernhard Gstrein,AT,156
+1992-01-19,Benno Wicki,CH,5
+1992-01-19,Kjetil Andre Aamodt,NO,20
+1992-01-19,Martin Knoeri,CH,10
+1992-01-19,Lasse Kjus,NO,0
+1992-01-19,Angelo Weiss,IT,0
+1992-01-19,Siegfried Voglreiter,AT,0
+1992-01-19,Espen Hellerud,NO,0
+1992-01-19,Gregor Grilc,SK,0
+1992-01-19,Jure Kosir,SK,18
+1992-01-19,Heinz Peter Platter,IT,10
+1992-01-19,Carlo Gerosa,IT,204
+1992-01-19,Matthew Grosjean,US,68
+1992-01-19,Didrik Marksten,NO,40
+1992-01-19,Alain Villiard,CA,14
+1992-01-19,Jeremy Nobis,US,17
+1992-01-19,Hans Pieren,CH,9
+1992-01-19,Fredrik Nyberg,SE,8
+1992-01-19,Guenther Mader,AT,90
+1992-01-19,Matteo Belfrond,IT,7
+1992-01-19,Thomas Fogdoe,SE,191
+1992-01-19,Mats Ericson,SE,58
+1992-01-19,Jonas Nilsson,SE,98
+1992-01-19,Dietmar Thoeni,AT,24
+1992-01-19,Roberto Spampatti,IT,26
+1992-01-19,Takuya Ishioka,JP,6
+1992-01-19,Markus Eberle,AT,16
+1992-01-19,Roger Pramotton,IT,31
+1992-01-19,Oliver Kuenzi,CH,38
+1992-01-19,Christian Polig,IT,70
+1992-01-19,Johan Wallner,SE,14
+1992-01-19,Patrice Bianchi,FR,293
+1992-01-19,Peter Roth,DE,189
+1992-01-19,Armin Bittner,DE,275
+1992-01-19,Fabrizio Tescari,IT,65
+1992-01-19,Thomas Sykora,AT,52
+1992-01-19,Hubert Strolz,AT,197
+1992-01-19,Christophe Berra,CH,66
+1992-01-19,Michael Tritscher,AT,97
+1992-01-19,Paul Accola,CH,428
+1992-01-19,Bernhard Bauer,DE,34
+1992-01-19,Fabio De Crignis,IT,184
+1992-01-19,Ole Kristian Furuseth,NO,284
+1992-01-19,Harald Chr. Strand Nilsen,NO,21
+1992-01-19,Richard Pramotton,IT,99
+1992-01-19,Thomas Stangassinger,AT,183
+1992-01-19,Patrick Staub,CH,171
+1992-01-19,Konrad  Kurt Ladstaetter,IT,163
+1992-01-19,Tetsuya Okabe,JP,14
+1992-01-19,Stephan Eberharter,AT,54
+1992-01-19,Francois Simond,FR,44
+1992-01-19,Alberto Tomba,IT,620
+1992-01-19,Michael von Gruenigen,CH,64
+1992-01-19,Marc Girardelli,LU,228
+1992-01-19,Steve Locher,CH,82
+1992-01-19,Finn Chr. Jagge,NO,426
+1992-01-26,Steve Locher,CH,82
+1992-01-26,Alberto Tomba,IT,720
+1992-01-26,Patrice Bianchi,FR,293
+1992-01-26,Paul Accola,CH,508
+1992-01-26,Francois Simond,FR,44
+1992-01-26,Stephane Exartier,FR,29
+1992-01-26,Jonas Nilsson,SE,110
+1992-01-26,Alain Villiard,CA,14
+1992-01-26,Jeremy Nobis,US,17
+1992-01-26,Marc Girardelli,LU,228
+1992-01-26,Konrad  Kurt Ladstaetter,IT,163
+1992-01-26,Guenther Mader,AT,97
+1992-01-26,Fredrik Nyberg,SE,8
+1992-01-26,Gregor Grilc,SK,0
+1992-01-26,Espen Hellerud,NO,0
+1992-01-26,Siegfried Voglreiter,AT,0
+1992-01-26,Angelo Weiss,IT,0
+1992-01-26,Tetsuya Okabe,JP,14
+1992-01-26,Martin Knoeri,CH,10
+1992-01-26,Benno Wicki,CH,5
+1992-01-26,Willy Raine,CA,6
+1992-01-26,Joe Levins,US,15
+1992-01-26,Heinz Peter Platter,IT,10
+1992-01-26,Hans Pieren,CH,9
+1992-01-26,Roger Pramotton,IT,31
+1992-01-26,Markus Eberle,AT,16
+1992-01-26,Takuya Ishioka,JP,6
+1992-01-26,Roberto Spampatti,IT,26
+1992-01-26,Thomas Sykora,AT,52
+1992-01-26,Dietmar Thoeni,AT,24
+1992-01-26,Christophe Berra,CH,66
+1992-01-26,Mats Ericson,SE,58
+1992-01-26,Michael Tritscher,AT,97
+1992-01-26,Richard Pramotton,IT,99
+1992-01-26,Matteo Belfrond,IT,7
+1992-01-26,Stephan Eberharter,AT,54
+1992-01-26,Jure Kosir,SK,18
+1992-01-26,Matthew Grosjean,US,78
+1992-01-26,Bernhard Gstrein,AT,184
+1992-01-26,Didrik Marksten,NO,64
+1992-01-26,Christian Polig,IT,78
+1992-01-26,Finn Chr. Jagge,NO,473
+1992-01-26,Carlo Gerosa,IT,241
+1992-01-26,Peter Roth,DE,211
+1992-01-26,Michael von Gruenigen,CH,95
+1992-01-26,Johan Wallner,SE,69
+1992-01-26,Thomas Stangassinger,AT,226
+1992-01-26,Bernhard Bauer,DE,54
+1992-01-26,Kjetil Andre Aamodt,NO,46
+1992-01-26,Hubert Strolz,AT,237
+1992-01-26,Oliver Kuenzi,CH,56
+1992-01-26,Fabrizio Tescari,IT,74
+1992-01-26,Lasse Kjus,NO,14
+1992-01-26,Armin Bittner,DE,335
+1992-01-26,Fabio De Crignis,IT,218
+1992-01-26,Thomas Fogdoe,SE,196
+1992-01-26,Patrick Staub,CH,222
+1992-01-26,Harald Chr. Strand Nilsen,NO,37
+1992-01-26,Ole Kristian Furuseth,NO,290
+1992-03-22,Bernhard Bauer,DE,54
+1992-03-22,Alain Villiard,CA,14
+1992-03-22,Jeremy Nobis,US,17
+1992-03-22,Stephane Exartier,FR,29
+1992-03-22,Thomas Fogdoe,SE,196
+1992-03-22,Fredrik Nyberg,SE,8
+1992-03-22,Francois Simond,FR,44
+1992-03-22,Peter Roth,DE,211
+1992-03-22,Matteo Belfrond,IT,7
+1992-03-22,Thomas Sykora,AT,52
+1992-03-22,Christophe Berra,CH,66
+1992-03-22,Martin Knoeri,CH,10
+1992-03-22,Benno Wicki,CH,5
+1992-03-22,Willy Raine,CA,6
+1992-03-22,Joe Levins,US,15
+1992-03-22,Harald Chr. Strand Nilsen,NO,37
+1992-03-22,Didrik Marksten,NO,64
+1992-03-22,Roger Pramotton,IT,31
+1992-03-22,Stephan Eberharter,AT,54
+1992-03-22,Markus Eberle,AT,16
+1992-03-22,Takuya Ishioka,JP,6
+1992-03-22,Johan Wallner,SE,69
+1992-03-22,Fabrizio Tescari,IT,74
+1992-03-22,Roberto Spampatti,IT,26
+1992-03-22,Steve Locher,CH,82
+1992-03-22,Dietmar Thoeni,AT,24
+1992-03-22,Mats Ericson,SE,58
+1992-03-22,Christian Polig,IT,78
+1992-03-22,Jonas Nilsson,SE,124
+1992-03-22,Ole Kristian Furuseth,NO,290
+1992-03-22,Espen Hellerud,NO,12
+1992-03-22,Paul Accola,CH,588
+1992-03-22,Finn Chr. Jagge,NO,533
+1992-03-22,Fabio De Crignis,IT,252
+1992-03-22,Alberto Tomba,IT,820
+1992-03-22,Siegfried Voglreiter,AT,16
+1992-03-22,Oliver Kuenzi,CH,66
+1992-03-22,Gregor Grilc,SK,9
+1992-03-22,Angelo Weiss,IT,18
+1992-03-22,Hans Pieren,CH,29
+1992-03-22,Tetsuya Okabe,JP,14
+1992-03-22,Patrick Staub,CH,277
+1992-03-22,Thomas Stangassinger,AT,257
+1992-03-22,Michael von Gruenigen,CH,119
+1992-03-22,Konrad  Kurt Ladstaetter,IT,187
+1992-03-22,Kjetil Andre Aamodt,NO,72
+1992-03-22,Lasse Kjus,NO,65
+1992-03-22,Hubert Strolz,AT,265
+1992-03-22,Carlo Gerosa,IT,288
+1992-03-22,Heinz Peter Platter,IT,18
+1992-03-22,Michael Tritscher,AT,140
+1992-03-22,Richard Pramotton,IT,139
+1992-03-22,Jure Kosir,SK,25
+1992-03-22,Bernhard Gstrein,AT,184
+1992-03-22,Patrice Bianchi,FR,293
+1992-03-22,Matthew Grosjean,US,78
+1992-03-22,Guenther Mader,AT,97
+1992-03-22,Marc Girardelli,LU,228
+1992-03-22,Armin Bittner,DE,375
