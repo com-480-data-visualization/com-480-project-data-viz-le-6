@@ -207,7 +207,7 @@
                 currentRanking = 'overall'
                 refresh_ranking(currentRanking, data.from)
             },
-            onChange: function (data) {
+            onFinish: function (data) {
                 $('#graph').remove()
                 $('#graph-box').html('<svg id="graph"></svg>')
                 create_graph("#graph", "#athlete", "./data/graph_M_" + data.from + ".json")
