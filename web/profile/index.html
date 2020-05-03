@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <style>
+    .ath_profile .ath_info {
+      margin-left: 50px;
+      display: inline-block;
+      vertical-align:top;
+      font-size: large;
+    }
+    .ath_profile #ath_name {
+      font-weight: bold;
+    }
+    .ath_profile #ath_details {
+      margin-top: 10px;
+    }
+    .ath_profile #ath_details p {
+      margin: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="ath_profile">
+    <div class="time">
+      <input type="radio" id="career" name="time" value="career" checked="checked">
+      <label for="male">Career</label><br>
+      <input type="radio" id="until" name="time" value="until">
+      <label for="female">Career until...</label><br>
+      <input type="radio" id="season" name="time" value="season">
+      <label for="other">Season</label>
+    </div>
+    <div class="search">
+      <input id="ath_search" type="text" placeholder="Athlete name...">
+      <button id="search_button" type="button">Search</button> 
+    </div>
+    <div class="header">
+      <img id="ath_photo" src="placeholder.jpg" style="width:100px;height:100px;">
+      <div class="ath_info">
+        <div id="ath_name">No skier selected</div>
+        <div id="ath_details">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function whenDocumentLoaded(action) {
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", action);
+      } else {
+        action();
+      }
+    }
+
+    function loadAthlete(name) {
+      // Modify biography
+      d3.json("ath.json").then(function (data) {
+        const photo = document.getElementById("ath_photo");
+        photo.src = data[name]['photo'];
+        const nameEl = document.getElementById("ath_name");
+        nameEl.innerHTML = name;
+        const details = document.getElementById("ath_details");
+        details.innerHTML = "";
+        details.append(document.createElement("p"), "Date of birth: "+data[name]['bd']);
+        details.append(document.createElement("p"), "Club: "+data[name]['club']+" ("+data[name]['country']+")");
+      });
+
+      // Add graph
+      parsedName = name.toLowerCase().replace(/ /g,"_");
+      d3.json("careers/"+parsedName+".json").then(function (rawData) {
+        // Souce: https://observablehq.com/@thetylerwolf/day-9-stacked-bar-chart
+        var data = []
+        for (season in rawData) {
+          let s = {};
+          s['season'] = season;
+          for (event in rawData[season]) {
+            s[event] = rawData[season][event]['points'];
+          }
+          data.push(s);
+        }
+        const width = 900
+        const height = 500
+        const svg = d3.create('svg')
+            .attr('width', width)
+            .attr('height', height);
+
+        const categories = ['Slalom', 'Giant Slalom', 'Downhill', 'Super G', 'Combined', 'Parallel'];
+
+        const margin = {top: 10, right: 0, bottom: 30, left: 30}
+
+        stack = d3.stack().keys(categories);
+
+        colors = d3.scaleOrdinal(
+          categories,
+          d3.schemeGnBu[9].slice(3)
+        );
+        xScale = d3.scaleBand(
+          data.map(d => d.season),
+          [ margin.left, width - margin.right ]
+        ).padding(0.2);
+        yScale = d3.scaleLinear(
+          [ 0, 1000],
+          [ height - margin.bottom, margin.top ]
+        );
+        xAxis = d3.axisBottom(xScale)
+            .tickSizeOuter(0);
+        yAxis = d3.axisLeft(yScale);
+
+        const chartData = stack(data);
+        
+        const groups = svg.append('g')
+          .selectAll('g')
+          .data( chartData )
+          .join('g')
+            .style('fill', (d,i) => colors(d.key));
+
+        groups.selectAll('rect')
+          .data(d => d)
+          .join('rect')
+            .attr('x', d => xScale(d.data.season))
+            .attr('y', d => {yScale(isNaN(d[1]) ? 0 : d[1])})
+            .attr('height', d => yScale(d[0]) - yScale(isNaN(d[1]) ? 0 : d[1]))
+            .attr('width', xScale.bandwidth());
+
+        svg.append('g')
+          .attr('transform', `translate(0,${ height - margin.bottom })`)
+          .call(xAxis);
+        
+        svg.append('g')
+          .attr('transform', `translate(${ margin.left },0)`)
+          .call(yAxis)
+          .select('.domain').remove();
+
+        d3.select("body").append(svg);
+      });
+    }
+
+    whenDocumentLoaded(() => {
+      // Search function
+      const el = document.getElementById("search_button");
+      const input = document.getElementById("ath_search");
+      el.addEventListener("click", () => {
+        const name = input.value;
+        loadAthlete(name);
+      }, false);
+      input.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) { // Enter pressed
+          event.preventDefault();
+          el.click();
+        }
+      }); 
+    });
+
+  </script>
+</body>
