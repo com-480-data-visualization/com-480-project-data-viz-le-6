@@ -28,12 +28,12 @@ function create_ranking(rankingId, dataFile, year){
     function get_color(specialty) {
 
     switch(specialty){   
-        case 'Combined': return d3.color("#7bc043");
-        case 'Downhill': return d3.color("#ee4035");
+        case 'Combined': return d3.color("#009B77");
+        case 'Downhill': return d3.color("#0392cf");
         case 'Giant Slalom': return d3.color("#fdf498");
         case 'Parallel': return d3.color("#b5c4f0");
         case 'Slalom': return d3.color("#f57356");
-        default: return d3.color("#0392cf");
+        default: return d3.color("#df33de");
     }
 
     }
@@ -121,9 +121,9 @@ function create_ranking(rankingId, dataFile, year){
             .ticks(width > 500 ? 5 : 2)
             .tickSize(-(height - margin.top - margin.bottom))
             .tickFormat(d => d3.format(',')(d));
-    
-    
-    
+
+
+
     
         svg.append('g')
             .attr('class', 'axis xAxis')
@@ -141,7 +141,9 @@ function create_ranking(rankingId, dataFile, year){
             .attr('width', d => x(d.value) - x(0) - 1)
             .attr('y', d => y(d.rank) + 5)
             .attr('height', y(1) - y(0) - barPadding)
-            .style('fill', d => d.colour);
+            .style('fill', d => d.colour)
+            .on('click', d => console.log(d.name))
+        ;
     
         svg.selectAll('text.label')
             .data(yearSlice)
@@ -151,7 +153,8 @@ function create_ranking(rankingId, dataFile, year){
             .attr('x', d => x(d.value) - 8)
             .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
             .style('text-anchor', 'end')
-            .html(d => d.name);
+            .html(d => d.name)
+            .on('click', d => console.log(d.name));
     
         svg.selectAll('text.valueLabel')
             .data(yearSlice, d => d.name)
@@ -214,6 +217,7 @@ function create_ranking(rankingId, dataFile, year){
                 .attr('width', d => x(d.value) - x(0) - 1)
                 .attr('y', d => y(top_n + 1) + 5)
                 .attr('height', y(1) - y(0) - barPadding)
+                .on('click', d => console.log(d.name))
                 .style('fill', d => d.colour)
                 .transition()
                 .duration(tickDuration)
@@ -245,12 +249,14 @@ function create_ranking(rankingId, dataFile, year){
                 .attr('class', 'label')
                 .attr('x', d => x(d.value) - 8)
                 .attr('y', d => y(top_n + 1) + 5 + ((y(1) - y(0)) / 2))
+                .on('click', d => console.log(d.name))
                 .style('text-anchor', 'end')
                 .html(d => d.name)
                 .transition()
                 .duration(tickDuration)
                 .ease(d3.easeLinear)
-                .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1);
+                .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
+                ;
     
     
             labels
