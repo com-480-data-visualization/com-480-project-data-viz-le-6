@@ -176,13 +176,15 @@ function create_ranking(rankingId, dataFile, year){
             .attr('height', y(1) - y(0) - barPadding - 2)
             .attr('x', d => 3)
             .attr('y', d => y(d.rank) + 6);
-    
+
+        console.log(width);
         let yearText = svg.append('text')
             .attr('class', 'yearText')
             .attr('x', width - margin.right)
             .attr('y', height - 5)
             .style('text-anchor', 'end')
             .html(formatDate(datevalues[index][0]))
+            .style("font-size", `${width/10}px`)
             .call(halo, 10);
     
         //let ticker = d3.interval(e => {
