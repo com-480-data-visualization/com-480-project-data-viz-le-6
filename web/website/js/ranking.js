@@ -10,7 +10,7 @@ function create_ranking(rankingId, dataFile, year){
         .attr("width", width)
         .attr("height", height);
     
-    function formatDate(date) {
+    function formatDate(date, display=true) {
         var d = new Date(date),
             month = '' + (d.getMonth() + 1),
             day = '' + d.getDate(),
@@ -20,10 +20,16 @@ function create_ranking(rankingId, dataFile, year){
             month = '0' + month;
         if (day.length < 2)
             day = '0' + day;
-    
-        return [day, month, year].join('-');
+        if (display) {
+            return [day, month, year].join('-');
+        }
+        else {
+            return [year, month, day].join('-');
+        }
+
     }
-    
+
+
 
     function get_color(specialty) {
 
@@ -81,7 +87,7 @@ function create_ranking(rankingId, dataFile, year){
                 //d.colour = d3.hsl(Math.random() * 360, 0.75, 0.75)
         });
     
-        //console.log(data);
+        console.log(data);
     
         var datevalues = d3.nest()
             .key(function (d) { return d.date; })
@@ -92,7 +98,7 @@ function create_ranking(rankingId, dataFile, year){
             })
             .entries(data).map(elem => [new Date(elem["key"]), elem["value"]]);
     
-        //console.log(data[1])
+        console.log(data[1])
     
         let yearSlice = datevalues[index][1]
         yearSlice.forEach((d, i) => d.rank = i);
@@ -155,7 +161,7 @@ function create_ranking(rankingId, dataFile, year){
             .style('text-anchor', 'end')
             .html(d => d.name)
             .on('click', d => console.log(d.name));
-    
+
         svg.selectAll('text.valueLabel')
             .data(yearSlice, d => d.name)
             .enter()
@@ -185,6 +191,16 @@ function create_ranking(rankingId, dataFile, year){
             .style('text-anchor', 'end')
             .html(formatDate(datevalues[index][0]))
             .style("font-size", `${width/10}px`)
+            .call(halo, 10);
+
+        //console.log(events["1967-01-07"]);
+        let event_name = svg.append('text')
+            .attr('class', 'eventName')
+            .attr('x', width - margin.right)
+            .attr('y', height - 60)
+            .style('text-anchor', 'end')
+            //.html(events[formatDate(datevalues[index][0], false)])
+            .style("font-size", `${width/15}px`)
             .call(halo, 10);
     
         //let ticker = d3.interval(e => {
