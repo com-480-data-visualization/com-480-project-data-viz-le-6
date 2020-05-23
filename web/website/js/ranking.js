@@ -90,18 +90,13 @@ function create_ranking(rankingId, dataFile, year, locations){
         }
 
     }
-    console.log(getTextWidth("Traudl Hecher"));
-    console.log("Traudl Hecher".length * 8 -10 )
-    console.log(getName("Lara Gut-Behrami", 10));
-    console.log(getName("Lara Gut-Behrami", 40));
-    console.log(getName("Lara Gut-Behrami", 50));
-    console.log(getName("Lara Gut-Behrami", 180));
+
 
     d3.csv(dataFile).then(function (data) {
         //if (error) throw error;
     
     
-        console.log(locations);
+        //console.log(locations);
     
         data.forEach(d => {
             d.value = +d.value,
@@ -112,7 +107,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 //d.colour = d3.hsl(Math.random() * 360, 0.75, 0.75)
         });
     
-        console.log(data);
+        //console.log(data);
     
         var datevalues = d3.nest()
             .key(function (d) { return d.date; })
@@ -122,8 +117,8 @@ function create_ranking(rankingId, dataFile, year, locations){
                     .slice(0, top_n);
             })
             .entries(data).map(elem => [new Date(elem["key"]), elem["value"]]);
-    
-        console.log(data[1])
+
+        // console.log(data[1])
     
         let yearSlice = datevalues[index][1]
         yearSlice.forEach((d, i) => d.rank = i);
@@ -208,7 +203,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .attr('x', d => 3)
             .attr('y', d => y(d.rank) + 6);
 
-        console.log(width);
+        //console.log(width);
         let yearText = svg.append('text')
             .attr('class', 'yearText')
             .attr('x', width - margin.right)
