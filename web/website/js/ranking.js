@@ -141,7 +141,7 @@ function create_ranking(rankingId, dataFile, year, locations){
     
         let x = d3.scaleLinear()
             .domain([0, d3.max(yearSlice, d => d.value)])
-            .range([margin.left+30, width - margin.right - 65]);
+            .range([margin.left+30, width - margin.right - 35]);
     
         let y = d3.scaleLinear()
             .domain([top_n, 0])
