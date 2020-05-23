@@ -33,6 +33,11 @@ text.yearText {
     opacity: 0.25;
 }
 
+text.eventName {
+    font-weight: 700;
+    opacity: 0.25;
+}
+
 .tick text {
     fill: #777777;
 }

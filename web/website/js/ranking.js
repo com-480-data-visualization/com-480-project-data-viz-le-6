@@ -218,17 +218,15 @@ function create_ranking(rankingId, dataFile, year, locations){
             .style("font-size", `${width/10}px`)
             .call(halo, 10);
 
-        //console.log(events["1967-01-07"]);
+        //console.log(locations["1967-01-07"]);
         let event_name = svg.append('text')
             .attr('class', 'eventName')
             .attr('x', width - margin.right)
             .attr('y', height - 60)
             .style('text-anchor', 'end')
-            //.html(events[formatDate(datevalues[index][0], false)])
+            .html(locations[formatDate(datevalues[index][0], false)])
             .style("font-size", `${width/15}px`)
             .call(halo, 10);
-
-
 
 
         //let ticker = d3.interval(e => {
@@ -410,7 +408,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .remove();
     
             yearText.html(formatDate(datevalues[index][0]));
-    
+            event_name.html(locations[formatDate(datevalues[index][0], false)]);
             //if(index == datevalues.length) ticker.stop();
         }
         //}, tickDuration);
@@ -441,6 +439,11 @@ function create_ranking(rankingId, dataFile, year, locations){
     
         var myTimer;
         d3.select("#start").on("click", function () {
+            if (sliderStep.value() < datevalues.length) {
+                sliderStep.value((sliderStep.value() + 1));
+                callback(sliderStep.value() - 1);
+            }
+
             clearInterval(myTimer);
             myTimer = setInterval(function () {
                 if (sliderStep.value() >= datevalues.length) {
