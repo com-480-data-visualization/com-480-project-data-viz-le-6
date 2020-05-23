@@ -1,4 +1,4 @@
-function create_ranking(rankingId, dataFile, year){
+function create_ranking(rankingId, dataFile, year, locations){
     $(rankingId).width($(rankingId).parent().width())
     $(rankingId).height($(rankingId).parent().height())
     
@@ -71,12 +71,13 @@ function create_ranking(rankingId, dataFile, year){
     
     
     let index = 0;
-    
+
+
     d3.csv(dataFile).then(function (data) {
         //if (error) throw error;
     
     
-        //console.log(data);
+        console.log(locations);
     
         data.forEach(d => {
             d.value = +d.value,
@@ -116,7 +117,7 @@ function create_ranking(rankingId, dataFile, year){
     
         let x = d3.scaleLinear()
             .domain([0, d3.max(yearSlice, d => d.value)])
-            .range([margin.left, width - margin.right - 65]);
+            .range([margin.left+30, width - margin.right - 65]);
     
         let y = d3.scaleLinear()
             .domain([top_n, 0])
@@ -202,7 +203,10 @@ function create_ranking(rankingId, dataFile, year){
             //.html(events[formatDate(datevalues[index][0], false)])
             .style("font-size", `${width/15}px`)
             .call(halo, 10);
-    
+
+
+
+
         //let ticker = d3.interval(e => {
         function callback(index) {
             //yearSlice = data.filter(d => d.year == year && !isNaN(d.value))

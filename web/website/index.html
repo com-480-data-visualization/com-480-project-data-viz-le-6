@@ -165,6 +165,11 @@
     <script src="./js/map.js"></script>
     <script src="./js/graph.js"></script>
     <script src="js/ranking.js"></script>
+
+    <script type="text/javascript" src="data/event_location.js"></script>
+    <script type="text/javascript" src="data/wcf_events.js"></script>
+    <script type="text/javascript" src="data/wcm_events.js"></script>
+
     <script>
         var currentRanking = ''
         var isMen = false;
@@ -181,7 +186,7 @@
             $('#' + ranking + '-rank-box').html('<div id="' + ranking + '-rank"></div>')
             $('#slider-step').remove()
             $('#slider-box').html('<div id="slider-step"></div>')
-            create_ranking('#' + ranking + '-rank', '../data/'+getPrefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year)
+            create_ranking('#' + ranking + '-rank', '../data/'+getPrefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations())
         }
 
         function getCurrentYear(){
@@ -191,6 +196,11 @@
         function getPrefix(){
             return isMen ? 'wcm_' : 'wcf_';
         }
+
+        function get_locations(){
+            return isMen ? wcm_events : wcf_events;
+        }
+
 
         $("#timeline").ionRangeSlider({
             type: "single",
