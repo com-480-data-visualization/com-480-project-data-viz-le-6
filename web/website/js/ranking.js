@@ -1,3 +1,4 @@
+//Adapted from https://bl.ocks.org/jrzief/70f1f8a5d066a286da3a1e699823470f
 function create_ranking(rankingId, dataFile, year, locations){
     $(rankingId).width($(rankingId).parent().width())
     $(rankingId).height($(rankingId).parent().height())
@@ -72,6 +73,29 @@ function create_ranking(rankingId, dataFile, year, locations){
     
     let index = 0;
 
+    function getTextWidth(text) {
+        // re-use canvas object for better performance
+        return text.length * 12 ;
+    }
+
+    function getName(name, width) {
+        if (getTextWidth(name) < width) {
+            return name;
+        } else if (getTextWidth(name.split(" ").splice(-1)[0]) < width) {
+            return name.split(" ").splice(-1)[0];
+        } else if (width < 30){
+            return "";
+        } else {
+            return name.match(/\b\w/g).join('');
+        }
+
+    }
+    console.log(getTextWidth("Traudl Hecher"));
+    console.log("Traudl Hecher".length * 8 -10 )
+    console.log(getName("Lara Gut-Behrami", 10));
+    console.log(getName("Lara Gut-Behrami", 40));
+    console.log(getName("Lara Gut-Behrami", 50));
+    console.log(getName("Lara Gut-Behrami", 180));
 
     d3.csv(dataFile).then(function (data) {
         //if (error) throw error;
@@ -160,7 +184,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .attr('x', d => x(d.value) - 8)
             .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
             .style('text-anchor', 'end')
-            .html(d => d.name)
+            .text(d => getName(d.name, x(d.value) - x(0) - 1))
             .on('click', d => console.log(d.name));
 
         svg.selectAll('text.valueLabel')
@@ -245,7 +269,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .duration(tickDuration)
                 .ease(d3.easeLinear)
                 .attr('y', d => y(d.rank) + 5);
-    
+
             bars
                 .transition()
                 .duration(tickDuration)
@@ -264,7 +288,7 @@ function create_ranking(rankingId, dataFile, year, locations){
     
             let labels = svg.selectAll('.label')
                 .data(yearSlice, d => d.name);
-    
+
             labels
                 .enter()
                 .append('text')
@@ -273,7 +297,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .attr('y', d => y(top_n + 1) + 5 + ((y(1) - y(0)) / 2))
                 .on('click', d => console.log(d.name))
                 .style('text-anchor', 'end')
-                .html(d => d.name)
+                .text(d => getName(d.name, x(d.value) - x(0) - 1))
                 .transition()
                 .duration(tickDuration)
                 .ease(d3.easeLinear)
@@ -286,7 +310,8 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .duration(tickDuration)
                 .ease(d3.easeLinear)
                 .attr('x', d => x(d.value) - 8)
-                .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1);
+                .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
+                .text(d => getName(d.name, x(d.value) - x(0) - 1));
     
             labels
                 .exit()
@@ -295,6 +320,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .ease(d3.easeLinear)
                 .attr('x', d => x(d.value) - 8)
                 .attr('y', d => y(top_n + 1) + 5)
+                .text(d => getName(d.name, x(d.value) - x(0) - 1))
                 .remove();
     
     
