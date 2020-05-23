@@ -7,8 +7,8 @@ var oa_summer = oam.api.tilelayer(L, 'oa_map');
 var oa_winter = oam.api.tilelayer(L, 'oa_map_winter');
 
 var mymap = L.map('mapid', {
-    center: [46.8131873, 8.22421],
-    zoom: 9,
+    center: [46, 8],
+    zoom: 7,
     layers: [oa_summer]
 });
 
@@ -29,6 +29,33 @@ var LeafIcon = L.Icon.extend({
 
 var fisIcon = new LeafIcon({ iconUrl: './img/FIS.png' });
 
-L.marker([46.605000, 7.921340], { icon: fisIcon }).bindPopup("Wengen").addTo(mymap);
-L.marker([46.68387, 7.86638], { icon: fisIcon }).bindPopup("Interlaken").addTo(mymap);
-L.marker([46.307165438, 7.476331428], { icon: fisIcon }).bindPopup("Crans-Montana").addTo(mymap);
+var markersList = {};
+
+var markers = L.layerGroup().addTo(mymap);
+
+
+function load_new_events(locations){
+    markers.clearLayers();
+    markersList = {};
+    for(var key in locations) {
+        if( ! (key in markersList)) {
+            var event = locations[key];
+            var marker = L.marker(events_location[event], {icon: fisIcon}).bindPopup(event).on('click', function (e) {
+                mymap.flyTo(e.latlng, 6, {
+                    duration: 2, // in seconds
+                    noMoveStart: true
+                });
+            });
+
+            markers.addLayer(marker);
+            markersList[event] = marker;
+        }
+    }
+}
+
+
+
+function go_to_point(event) {
+    markersList[event].fire("click",{latlng:events_location[event]});
+}
+

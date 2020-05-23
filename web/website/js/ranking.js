@@ -1,5 +1,8 @@
 //Adapted from https://bl.ocks.org/jrzief/70f1f8a5d066a286da3a1e699823470f
 function create_ranking(rankingId, dataFile, year, locations){
+
+    load_new_events(locations);
+
     $(rankingId).width($(rankingId).parent().width())
     $(rankingId).height($(rankingId).parent().height())
     
@@ -231,8 +234,12 @@ function create_ranking(rankingId, dataFile, year, locations){
             //  .slice(0,top_n);
     
             //yearSlice.forEach((d,i) => d.rank = i);
-    
+
             //console.log(datevalues)
+
+
+            go_to_point(locations[formatDate(datevalues[index][0], false)]);
+
             yearSlice = datevalues[index][1]
             yearSlice.forEach((d, i) => d.rank = i);
     
@@ -407,8 +414,6 @@ function create_ranking(rankingId, dataFile, year, locations){
             //if(index == datevalues.length) ticker.stop();
         }
         //}, tickDuration);
-    
-    
     
         var sliderStep = d3
             .sliderBottom()

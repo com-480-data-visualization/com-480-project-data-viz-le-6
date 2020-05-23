@@ -161,14 +161,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/js/ion.rangeSlider.min.js"></script>
 
 
+    <script type="text/javascript" src="data/event_location.js"></script>
+    <script type="text/javascript" src="data/wcf_events.js"></script>
+    <script type="text/javascript" src="data/wcm_events.js"></script>
+
     <script type="text/javascript" src="./js/oam_head.js"></script>
     <script src="./js/map.js"></script>
     <script src="./js/graph.js"></script>
     <script src="js/ranking.js"></script>
-
-    <script type="text/javascript" src="data/event_location.js"></script>
-    <script type="text/javascript" src="data/wcf_events.js"></script>
-    <script type="text/javascript" src="data/wcm_events.js"></script>
 
     <script>
         var currentRanking = ''
@@ -186,7 +186,7 @@
             $('#' + ranking + '-rank-box').html('<div id="' + ranking + '-rank"></div>')
             $('#slider-step').remove()
             $('#slider-box').html('<div id="slider-step"></div>')
-            create_ranking('#' + ranking + '-rank', '../data/'+getPrefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations())
+            create_ranking('#' + ranking + '-rank', '../data/'+getPrefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations(year))
         }
 
         function getCurrentYear(){
@@ -197,8 +197,8 @@
             return isMen ? 'wcm_' : 'wcf_';
         }
 
-        function get_locations(){
-            return isMen ? wcm_events : wcf_events;
+        function get_locations(year){
+            return isMen ? wcm_events[year] : wcf_events[year];
         }
 
 
