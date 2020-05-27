@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
 1990-12-08,Katharina Gutensohn,DE,25,Downhill
-1990-12-08,Carole Merle,FR,10,Downhill
+1990-12-08,Carole Merle,FR,10,Super G
 1990-12-08,Stefanie Schuster,AT,4,Combined
 1990-12-08,Monika Kogler,AT,0,Downhill
 1990-12-08,Lucie Laroche,CA,0,Downhill
@@ -24,7 +24,7 @@ date,name,ath_country,value,specialty
 1990-12-08,Lucia Medzihradska,SK,0,Combined
 1990-12-08,Miriam Vogt,DE,0,Downhill
 1990-12-08,Edith Thys,US,0,Super G
-1990-12-08,Ingrid Stoeckl,AT,3,Downhill
+1990-12-08,Ingrid Stoeckl,AT,3,Combined
 1990-12-08,Heidi Zurbriggen,CH,9,Downhill
 1990-12-08,Megan Gerety,US,0,Downhill
 1990-12-08,Regine Cavagnoud,FR,0,Downhill
@@ -50,7 +50,7 @@ date,name,ath_country,value,specialty
 1990-12-21,Miriam Vogt,DE,9,Downhill
 1990-12-21,Veronika Stallmaier Wallinger,AT,12,Downhill
 1990-12-21,Regine Moesenlechner,DE,0,Super G
-1990-12-21,Ingrid Stoeckl,AT,3,Downhill
+1990-12-21,Ingrid Stoeckl,AT,3,Combined
 1990-12-21,Karin Dedler,DE,18,Super G
 1990-12-21,Cathy Chedal,FR,0,Downhill
 1990-12-21,Krista Schmidinger,US,0,Downhill
@@ -66,7 +66,7 @@ date,name,ath_country,value,specialty
 1990-12-21,Heidi Zeller - Baehler,CH,0,Downhill
 1990-12-21,Andrea Potisk,SK,0,Downhill
 1990-12-21,Sabine Ginther,AT,19,Downhill
-1990-12-21,Carole Merle,FR,21,Downhill
+1990-12-21,Carole Merle,FR,21,Super G
 1990-12-21,Anja Haas,AT,6,Downhill
 1990-12-21,Christina Meier,DE,3,Giant Slalom
 1990-12-21,Megan Gerety,US,0,Downhill
@@ -96,12 +96,12 @@ date,name,ath_country,value,specialty
 1991-01-06,Barbara Sadleder,AT,8,Downhill
 1991-01-06,Anja Haas,AT,7,Downhill
 1991-01-06,Tatiana Lebedeva,RU,0,Downhill
-1991-01-06,Carole Merle,FR,30,Downhill
+1991-01-06,Carole Merle,FR,30,Super G
 1991-01-06,Svetlana Gladishiva,RU,3,Downhill
 1991-01-06,Miriam Vogt,DE,14,Downhill
 1991-01-06,Kerrin Lee- Gartner,CA,27,Downhill
 1991-01-06,Chantal Bournissen,CH,35,Downhill
-1991-01-06,Ingrid Stoeckl,AT,3,Downhill
+1991-01-06,Ingrid Stoeckl,AT,3,Combined
 1991-01-06,Heidi Zurbriggen,CH,9,Downhill
 1991-01-06,Lucie Laroche,CA,0,Downhill
 1991-01-06,Warwara Zelenskaja,RU,26,Downhill
@@ -122,7 +122,7 @@ date,name,ath_country,value,specialty
 1991-01-18,Lucia Medzihradska,SK,10,Combined
 1991-01-18,Michaela Gerg-Leitner,DE,23,Super G
 1991-01-18,Katharina Gutensohn,DE,72,Downhill
-1991-01-18,Ingrid Stoeckl,AT,14,Downhill
+1991-01-18,Ingrid Stoeckl,AT,14,Combined
 1991-01-18,Cathy Chedal,FR,0,Downhill
 1991-01-18,Miriam Vogt,DE,20,Downhill
 1991-01-18,Heidi Zurbriggen,CH,9,Downhill
@@ -133,7 +133,7 @@ date,name,ath_country,value,specialty
 1991-01-18,Sigrid Wolf,AT,5,Super G
 1991-01-18,Romaine Fournier,CH,4,Downhill
 1991-01-18,Sabine Ginther,AT,39,Downhill
-1991-01-18,Carole Merle,FR,50,Downhill
+1991-01-18,Carole Merle,FR,50,Super G
 1991-01-18,Christina Meier,DE,3,Giant Slalom
 1991-01-18,Stefanie Schuster,AT,8,Combined
 1991-01-18,Monika Kogler,AT,2,Downhill
@@ -181,8 +181,8 @@ date,name,ath_country,value,specialty
 1991-02-08,Barbara Sadleder,AT,20,Downhill
 1991-02-08,Veronika Stallmaier Wallinger,AT,49,Downhill
 1991-02-08,Kristin Krone,US,0,Downhill
-1991-02-08,Ingrid Stoeckl,AT,14,Downhill
-1991-02-08,Carole Merle,FR,70,Downhill
+1991-02-08,Ingrid Stoeckl,AT,14,Combined
+1991-02-08,Carole Merle,FR,70,Super G
 1991-02-08,Sabine Ginther,AT,47,Downhill
 1991-02-08,Svetlana Gladishiva,RU,6,Downhill
 1991-02-08,Warwara Zelenskaja,RU,36,Downhill
@@ -216,7 +216,7 @@ date,name,ath_country,value,specialty
 1991-02-24,Romaine Fournier,CH,4,Downhill
 1991-02-24,Sabine Ginther,AT,57,Downhill
 1991-02-24,Stefanie Schuster,AT,8,Combined
-1991-02-24,Carole Merle,FR,73,Downhill
+1991-02-24,Carole Merle,FR,73,Super G
 1991-02-24,Monika Kogler,AT,2,Downhill
 1991-02-24,Lucie Laroche,CA,12,Downhill
 1991-02-24,Kerrin Lee- Gartner,CA,45,Downhill
@@ -232,13 +232,13 @@ date,name,ath_country,value,specialty
 1991-02-24,Lucia Medzihradska,SK,10,Combined
 1991-02-24,Edith Thys,US,0,Super G
 1991-02-24,Miriam Vogt,DE,28,Downhill
-1991-02-24,Ingrid Stoeckl,AT,14,Downhill
+1991-02-24,Ingrid Stoeckl,AT,14,Combined
 1991-03-09,Christina Meier,DE,3,Giant Slalom
 1991-03-09,Regine Moesenlechner,DE,0,Super G
 1991-03-09,Stefanie Schuster,AT,8,Combined
-1991-03-09,Ingrid Stoeckl,AT,14,Downhill
+1991-03-09,Ingrid Stoeckl,AT,14,Combined
 1991-03-09,Svetlana Gladishiva,RU,29,Downhill
-1991-03-09,Carole Merle,FR,76,Downhill
+1991-03-09,Carole Merle,FR,76,Super G
 1991-03-09,Petra Kronberger,AT,90,Downhill
 1991-03-09,Michelle Ruthven Mckendry,CA,6,Downhill
 1991-03-09,Cathy Chedal,FR,0,Downhill
@@ -275,9 +275,9 @@ date,name,ath_country,value,specialty
 1991-03-15,Miriam Vogt,DE,38,Downhill
 1991-03-15,Stefanie Schuster,AT,8,Combined
 1991-03-15,Monika Kogler,AT,2,Downhill
-1991-03-15,Carole Merle,FR,76,Downhill
+1991-03-15,Carole Merle,FR,76,Super G
 1991-03-15,Megan Gerety,US,11,Downhill
-1991-03-15,Ingrid Stoeckl,AT,14,Downhill
+1991-03-15,Ingrid Stoeckl,AT,14,Combined
 1991-03-15,Sabine Ginther,AT,107,Downhill
 1991-03-15,Heidi Zurbriggen,CH,20,Downhill
 1991-03-15,Romaine Fournier,CH,4,Downhill
@@ -322,7 +322,7 @@ date,name,ath_country,value,specialty
 1991-03-16,Cathy Chedal,FR,2,Downhill
 1991-03-16,Petra Kronberger,AT,90,Downhill
 1991-03-16,Nathalie Bouvier,FR,28,Downhill
-1991-03-16,Ingrid Stoeckl,AT,14,Downhill
+1991-03-16,Ingrid Stoeckl,AT,14,Combined
 1991-03-16,Barbara Sadleder,AT,24,Downhill
 1991-03-16,Marlis Spescha,CH,8,Downhill
 1991-03-16,Katja Seizinger,DE,34,Downhill
@@ -344,7 +344,7 @@ date,name,ath_country,value,specialty
 1991-03-16,Monika Kogler,AT,7,Downhill
 1991-03-16,Lucie Laroche,CA,49,Downhill
 1991-03-16,Heidi Zurbriggen,CH,20,Downhill
-1991-03-16,Carole Merle,FR,76,Downhill
+1991-03-16,Carole Merle,FR,76,Super G
 1991-03-16,Stefanie Schuster,AT,8,Combined
 1991-03-16,Sabine Ginther,AT,122,Downhill
 1991-03-16,Romaine Fournier,CH,4,Downhill

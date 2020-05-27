@@ -38,7 +38,7 @@ date,name,ath_country,value,specialty
 1998-11-21,Trine Bakke Rognmo,NO,45,Slalom
 1998-11-21,Pernilla Wiberg,SE,50,Slalom
 1998-11-21,Michaela Dorfmeister,AT,0,Downhill
-1998-11-21,Morena Gallizio Tescari,IT,0,Slalom
+1998-11-21,Morena Gallizio Tescari,IT,0,Combined
 1998-11-21,Kazuko Ikeda,JP,0,Slalom
 1998-11-21,Sandra Haelldahl,SE,0,Giant Slalom
 1998-11-21,Riitta Pitkanen,FI,0,Slalom
@@ -69,7 +69,7 @@ date,name,ath_country,value,specialty
 1998-12-03,Allison Forsyth,CA,0,Giant Slalom
 1998-12-03,Karin Koellerer,AT,34,Slalom
 1998-12-03,Andrine Flemmen,NO,29,Giant Slalom
-1998-12-03,Morena Gallizio Tescari,IT,0,Slalom
+1998-12-03,Morena Gallizio Tescari,IT,0,Combined
 1998-12-03,Alenka Dovzan,SK,62,Slalom
 1998-12-03,Stefanie Wolf,DE,8,Slalom
 1998-12-03,Claudia Riegler,NZ,0,Slalom
@@ -162,7 +162,7 @@ date,name,ath_country,value,specialty
 1998-12-20,Riitta Pitkanen,FI,5,Slalom
 1998-12-20,Kazuko Ikeda,JP,4,Slalom
 1998-12-20,Tamara Mueller,CH,0,Slalom
-1998-12-20,Morena Gallizio Tescari,IT,3,Slalom
+1998-12-20,Morena Gallizio Tescari,IT,3,Combined
 1998-12-20,Anja Paerson,SE,184,Slalom
 1998-12-20,Kristina Koznick,US,100,Slalom
 1998-12-20,Deborah Compagnoni,IT,29,Giant Slalom
@@ -178,7 +178,7 @@ date,name,ath_country,value,specialty
 1998-12-28,Trude Gimle,NO,6,Downhill
 1998-12-28,Riitta Pitkanen,FI,5,Slalom
 1998-12-28,Michaela Dorfmeister,AT,1,Downhill
-1998-12-28,Morena Gallizio Tescari,IT,3,Slalom
+1998-12-28,Morena Gallizio Tescari,IT,3,Combined
 1998-12-28,Sandra Haelldahl,SE,5,Giant Slalom
 1998-12-28,Laure Pequegnot,FR,20,Slalom
 1998-12-28,Urska Hrovat,SK,126,Slalom
@@ -262,7 +262,7 @@ date,name,ath_country,value,specialty
 1999-01-03,Sabine Egger,AT,251,Slalom
 1999-01-03,Elisabetta Biavaschi,IT,16,Slalom
 1999-01-03,Anita Wachter,AT,75,Giant Slalom
-1999-01-03,Morena Gallizio Tescari,IT,3,Slalom
+1999-01-03,Morena Gallizio Tescari,IT,3,Combined
 1999-01-03,Natasa Bokal,SK,117,Slalom
 1999-01-03,Stephanie Clement-Guy,FR,0,Slalom
 1999-01-03,Hilde Gerg,DE,104,Downhill
@@ -324,7 +324,7 @@ date,name,ath_country,value,specialty
 1999-01-08,Linda Ydeskog,SE,67,Slalom
 1999-01-08,Urska Hrovat,SK,192,Slalom
 1999-01-08,Maria Jose Rienda Contreras,ES,14,Giant Slalom
-1999-01-08,Morena Gallizio Tescari,IT,3,Slalom
+1999-01-08,Morena Gallizio Tescari,IT,3,Combined
 1999-01-08,Stephanie Clement-Guy,FR,0,Slalom
 1999-01-08,Leila Piccard,FR,45,Giant Slalom
 1999-01-08,Trude Gimle,NO,6,Downhill
@@ -350,7 +350,7 @@ date,name,ath_country,value,specialty
 1999-01-17,Sarah Schleper,US,7,Giant Slalom
 1999-01-17,Bente Giljarhus,NO,7,Slalom
 1999-01-17,Anja Paerson,SE,314,Slalom
-1999-01-17,Morena Gallizio Tescari,IT,3,Slalom
+1999-01-17,Morena Gallizio Tescari,IT,3,Combined
 1999-01-17,Natasa Bokal,SK,177,Slalom
 1999-01-17,Alenka Dovzan,SK,86,Slalom
 1999-01-17,Brigitte Obermoser,AT,10,Downhill
@@ -422,7 +422,7 @@ date,name,ath_country,value,specialty
 1999-02-23,Zali Steggall,AU,195,Slalom
 1999-02-23,Elisabetta Biavaschi,IT,24,Slalom
 1999-02-23,Leila Piccard,FR,45,Giant Slalom
-1999-02-23,Morena Gallizio Tescari,IT,3,Slalom
+1999-02-23,Morena Gallizio Tescari,IT,3,Combined
 1999-02-23,Marlies Oester,CH,24,Slalom
 1999-02-23,Trude Gimle,NO,30,Downhill
 1999-02-23,Deborah Compagnoni,IT,91,Giant Slalom

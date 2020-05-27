@@ -1,151 +1,221 @@
 date,name,ath_country,value,specialty
-1982-12-19,Peter Mueller,CH,20,Downhill
-1982-12-19,Gerard Rambaud,FR,0,Combined
-1982-12-19,Peter Soltys,SK,0,Combined
-1982-12-19,Bruno Kernen I,CH,0,Downhill
-1982-12-19,Danilo Sbardellotto,IT,6,Downhill
-1982-12-19,Hannes Spiss,AT,0,Combined
-1982-12-19,Urs Raeber,CH,0,Downhill
-1982-12-19,Antal Gotzy,HU,0,Combined
-1982-12-19,Silvano Meli,CH,0,Downhill
-1982-12-19,Mads Boedkner,DK,0,Combined
-1982-12-19,Andreas Voelgyesi,HU,0,Combined
-1982-12-19,Hubertus von Hohenlohe,MX,0,Combined
-1982-12-19,Ivano Edalini,IT,0,Slalom
-1982-12-19,Franck Woerndl,DE,0,Slalom
-1982-12-19,Guido Hinterseer,AT,3,Combined
-1982-12-19,Michel Canac,FR,0,Slalom
-1982-12-19,Max Julen,CH,0,Giant Slalom
+1982-12-19,Franz Heinzer,CH,25,Combined
+1982-12-19,Conradin Cathomen,CH,8,Downhill
+1982-12-19,Robert Erlacher,IT,0,Giant Slalom
+1982-12-19,Helmut Hoeflehner,AT,9,Downhill
 1982-12-19,Tristan Cochrane,US,2,Combined
-1982-12-19,Ingemar Stenmark,SE,0,Giant Slalom
-1982-12-19,Vladimir Andreev,RU,0,Slalom
-1982-12-19,Andy Luhn,US,1,Combined
-1982-12-19,Vladimir Makeev,RU,4,Downhill
 1982-12-19,Bernard Fahner,CH,0,Combined
-1982-12-19,Bojan Krizaj,SK,0,Slalom
-1982-12-19,Martin Bell,GB,0,Combined
-1982-12-19,Pirmin Zurbriggen,CH,10,Giant Slalom
-1982-12-19,Peter Luescher,CH,15,Downhill
 1982-12-19,Jacques Luethy,CH,0,Slalom
-1982-12-19,Christian Orlainsky,AT,0,Slalom
+1982-12-19,Ingemar Stenmark,SE,0,Giant Slalom
+1982-12-19,Silvano Meli,CH,0,Downhill
+1982-12-19,Urs Raeber,CH,11,Downhill
+1982-12-19,Bruno Kernen I,CH,0,Downhill
+1982-12-19,Vladimir Andreev,RU,0,Slalom
+1982-12-19,Bojan Krizaj,SK,0,Slalom
+1982-12-19,Harti Weirather,AT,12,Downhill
+1982-12-19,Steve Mahre,US,0,Slalom
+1982-12-19,Hubert Strolz,AT,0,Super G
+1982-12-19,Franz Gruber,AT,0,Slalom
+1982-12-19,Max Julen,CH,0,Giant Slalom
 1982-12-19,Steven Lee,AU,0,Combined
-1982-12-22,Andreas Voelgyesi,HU,0,Combined
-1982-12-22,Christian Orlainsky,AT,20,Slalom
-1982-12-22,Steven Lee,AU,0,Combined
+1982-12-19,Vladimir Makeev,RU,4,Downhill
+1982-12-19,Andreas Voelgyesi,HU,0,Combined
+1982-12-19,Ivano Edalini,IT,0,Slalom
+1982-12-19,Michael Mair,IT,5,Downhill
+1982-12-19,Hubertus von Hohenlohe,MX,0,Combined
+1982-12-19,Franck Woerndl,DE,0,Slalom
+1982-12-19,Peter Soltys,SK,0,Combined
+1982-12-19,Mads Boedkner,DK,0,Combined
+1982-12-19,Hannes Spiss,AT,0,Combined
+1982-12-19,Guido Hinterseer,AT,3,Combined
+1982-12-19,Danilo Sbardellotto,IT,6,Downhill
+1982-12-19,Martin Bell,GB,0,Combined
+1982-12-19,Michel Canac,FR,0,Slalom
+1982-12-19,Ken Read,CA,7,Downhill
+1982-12-19,Antal Gotzy,HU,0,Combined
+1982-12-19,Andy Luhn,US,1,Combined
+1982-12-19,Gerard Rambaud,FR,0,Combined
+1982-12-19,Peter Luescher,CH,15,Downhill
+1982-12-19,Pirmin Zurbriggen,CH,10,Giant Slalom
+1982-12-19,Phil Mahre,US,0,Giant Slalom
+1982-12-19,Hans Enn,AT,0,Giant Slalom
+1982-12-19,Peter Mueller,CH,20,Downhill
+1982-12-19,Andreas Wenzel,LI,0,Slalom
+1982-12-19,Christian Orlainsky,AT,0,Slalom
+1982-12-19,Marc Girardelli,LU,0,Slalom
 1982-12-22,Antal Gotzy,HU,0,Combined
+1982-12-22,Urs Raeber,CH,11,Downhill
 1982-12-22,Max Julen,CH,3,Giant Slalom
-1982-12-22,Silvano Meli,CH,0,Downhill
-1982-12-22,Peter Luescher,CH,15,Downhill
-1982-12-22,Michel Canac,FR,7,Slalom
-1982-12-22,Mads Boedkner,DK,0,Combined
-1982-12-22,Ivano Edalini,IT,5,Slalom
-1982-12-22,Guido Hinterseer,AT,3,Combined
-1982-12-22,Hubertus von Hohenlohe,MX,0,Combined
-1982-12-22,Vladimir Makeev,RU,4,Downhill
+1982-12-22,Hubert Strolz,AT,11,Super G
 1982-12-22,Ingemar Stenmark,SE,8,Giant Slalom
-1982-12-22,Pirmin Zurbriggen,CH,10,Giant Slalom
-1982-12-22,Franck Woerndl,DE,4,Slalom
-1982-12-22,Urs Raeber,CH,0,Downhill
-1982-12-22,Andy Luhn,US,1,Combined
-1982-12-22,Peter Mueller,CH,20,Downhill
-1982-12-22,Bernard Fahner,CH,0,Combined
-1982-12-22,Jacques Luethy,CH,10,Slalom
 1982-12-22,Hannes Spiss,AT,6,Combined
-1982-12-22,Peter Soltys,SK,0,Combined
-1982-12-22,Vladimir Andreev,RU,2,Slalom
-1982-12-22,Gerard Rambaud,FR,0,Combined
-1982-12-22,Bojan Krizaj,SK,12,Slalom
-1982-12-22,Martin Bell,GB,0,Combined
+1982-12-22,Steven Lee,AU,0,Combined
+1982-12-22,Guido Hinterseer,AT,3,Combined
 1982-12-22,Danilo Sbardellotto,IT,6,Downhill
+1982-12-22,Silvano Meli,CH,0,Downhill
+1982-12-22,Jacques Luethy,CH,10,Slalom
+1982-12-22,Martin Bell,GB,0,Combined
+1982-12-22,Hans Enn,AT,1,Giant Slalom
 1982-12-22,Tristan Cochrane,US,2,Combined
+1982-12-22,Phil Mahre,US,0,Giant Slalom
+1982-12-22,Bernard Fahner,CH,0,Combined
+1982-12-22,Michel Canac,FR,7,Slalom
+1982-12-22,Gerard Rambaud,FR,0,Combined
+1982-12-22,Helmut Hoeflehner,AT,9,Downhill
+1982-12-22,Mads Boedkner,DK,0,Combined
 1982-12-22,Bruno Kernen I,CH,0,Downhill
-1983-01-23,Martin Bell,GB,0,Combined
-1983-01-23,Tristan Cochrane,US,2,Combined
-1983-01-23,Guido Hinterseer,AT,3,Combined
-1983-01-23,Vladimir Andreev,RU,2,Slalom
-1983-01-23,Bojan Krizaj,SK,12,Slalom
-1983-01-23,Christian Orlainsky,AT,20,Slalom
-1983-01-23,Michel Canac,FR,7,Slalom
-1983-01-23,Max Julen,CH,3,Giant Slalom
-1983-01-23,Franck Woerndl,DE,4,Slalom
+1982-12-22,Ken Read,CA,7,Downhill
+1982-12-22,Franz Heinzer,CH,25,Combined
+1982-12-22,Andreas Voelgyesi,HU,0,Combined
+1982-12-22,Peter Luescher,CH,15,Downhill
+1982-12-22,Franz Gruber,AT,15,Slalom
+1982-12-22,Andreas Wenzel,LI,0,Slalom
+1982-12-22,Conradin Cathomen,CH,8,Downhill
+1982-12-22,Peter Mueller,CH,20,Downhill
+1982-12-22,Ivano Edalini,IT,5,Slalom
+1982-12-22,Steve Mahre,US,0,Slalom
+1982-12-22,Robert Erlacher,IT,9,Giant Slalom
+1982-12-22,Franck Woerndl,DE,4,Slalom
+1982-12-22,Harti Weirather,AT,12,Downhill
+1982-12-22,Michael Mair,IT,5,Downhill
+1982-12-22,Peter Soltys,SK,0,Combined
+1982-12-22,Bojan Krizaj,SK,12,Slalom
+1982-12-22,Hubertus von Hohenlohe,MX,0,Combined
+1982-12-22,Pirmin Zurbriggen,CH,35,Giant Slalom
+1982-12-22,Marc Girardelli,LU,0,Slalom
+1982-12-22,Christian Orlainsky,AT,20,Slalom
+1982-12-22,Vladimir Andreev,RU,2,Slalom
+1982-12-22,Andy Luhn,US,1,Combined
+1982-12-22,Vladimir Makeev,RU,4,Downhill
+1983-01-23,Peter Soltys,SK,8,Combined
 1983-01-23,Peter Mueller,CH,27,Downhill
+1983-01-23,Steven Lee,AU,0,Combined
 1983-01-23,Ingemar Stenmark,SE,8,Giant Slalom
 1983-01-23,Peter Luescher,CH,30,Downhill
-1983-01-23,Vladimir Makeev,RU,4,Downhill
-1983-01-23,Urs Raeber,CH,9,Downhill
-1983-01-23,Bruno Kernen I,CH,12,Downhill
-1983-01-23,Pirmin Zurbriggen,CH,10,Giant Slalom
-1983-01-23,Danilo Sbardellotto,IT,6,Downhill
-1983-01-23,Hannes Spiss,AT,6,Combined
-1983-01-23,Andy Luhn,US,1,Combined
+1983-01-23,Michel Canac,FR,7,Slalom
+1983-01-23,Franz Heinzer,CH,25,Combined
 1983-01-23,Andreas Voelgyesi,HU,5,Combined
-1983-01-23,Antal Gotzy,HU,6,Combined
-1983-01-23,Steven Lee,AU,0,Combined
-1983-01-23,Mads Boedkner,DK,0,Combined
-1983-01-23,Peter Soltys,SK,8,Combined
-1983-01-23,Jacques Luethy,CH,10,Slalom
-1983-01-23,Hubertus von Hohenlohe,MX,0,Combined
 1983-01-23,Ivano Edalini,IT,5,Slalom
-1983-01-23,Bernard Fahner,CH,10,Combined
+1983-01-23,Michael Mair,IT,5,Downhill
+1983-01-23,Hans Enn,AT,1,Giant Slalom
+1983-01-23,Hubertus von Hohenlohe,MX,0,Combined
+1983-01-23,Ken Read,CA,7,Downhill
+1983-01-23,Franck Woerndl,DE,4,Slalom
+1983-01-23,Pirmin Zurbriggen,CH,35,Giant Slalom
+1983-01-23,Antal Gotzy,HU,6,Combined
+1983-01-23,Phil Mahre,US,25,Giant Slalom
+1983-01-23,Danilo Sbardellotto,IT,6,Downhill
+1983-01-23,Martin Bell,GB,0,Combined
+1983-01-23,Guido Hinterseer,AT,3,Combined
+1983-01-23,Mads Boedkner,DK,0,Combined
+1983-01-23,Hannes Spiss,AT,6,Combined
+1983-01-23,Vladimir Makeev,RU,4,Downhill
+1983-01-23,Harti Weirather,AT,12,Downhill
+1983-01-23,Hubert Strolz,AT,11,Super G
+1983-01-23,Urs Raeber,CH,20,Downhill
 1983-01-23,Silvano Meli,CH,11,Downhill
+1983-01-23,Bruno Kernen I,CH,12,Downhill
+1983-01-23,Tristan Cochrane,US,2,Combined
+1983-01-23,Marc Girardelli,LU,20,Slalom
+1983-01-23,Bojan Krizaj,SK,12,Slalom
+1983-01-23,Jacques Luethy,CH,10,Slalom
+1983-01-23,Vladimir Andreev,RU,2,Slalom
+1983-01-23,Bernard Fahner,CH,10,Combined
+1983-01-23,Christian Orlainsky,AT,20,Slalom
+1983-01-23,Steve Mahre,US,0,Slalom
 1983-01-23,Gerard Rambaud,FR,0,Combined
-1983-02-06,Bojan Krizaj,SK,12,Slalom
-1983-02-06,Peter Soltys,SK,8,Combined
-1983-02-06,Urs Raeber,CH,9,Downhill
-1983-02-06,Ingemar Stenmark,SE,8,Giant Slalom
+1983-01-23,Andy Luhn,US,1,Combined
+1983-01-23,Helmut Hoeflehner,AT,9,Downhill
+1983-01-23,Conradin Cathomen,CH,8,Downhill
+1983-01-23,Max Julen,CH,3,Giant Slalom
+1983-01-23,Andreas Wenzel,LI,0,Slalom
+1983-01-23,Franz Gruber,AT,15,Slalom
+1983-01-23,Robert Erlacher,IT,9,Giant Slalom
 1983-02-06,Ivano Edalini,IT,5,Slalom
+1983-02-06,Franck Woerndl,DE,4,Slalom
+1983-02-06,Franz Heinzer,CH,25,Combined
+1983-02-06,Mads Boedkner,DK,6,Combined
+1983-02-06,Peter Luescher,CH,41,Downhill
+1983-02-06,Marc Girardelli,LU,32,Slalom
+1983-02-06,Bruno Kernen I,CH,12,Downhill
+1983-02-06,Vladimir Makeev,RU,4,Downhill
+1983-02-06,Harti Weirather,AT,12,Downhill
+1983-02-06,Michael Mair,IT,5,Downhill
 1983-02-06,Andreas Voelgyesi,HU,5,Combined
-1983-02-06,Michel Canac,FR,7,Slalom
+1983-02-06,Steve Mahre,US,15,Slalom
+1983-02-06,Vladimir Andreev,RU,2,Slalom
+1983-02-06,Antal Gotzy,HU,6,Combined
+1983-02-06,Andreas Wenzel,LI,20,Slalom
+1983-02-06,Franz Gruber,AT,15,Slalom
+1983-02-06,Hubertus von Hohenlohe,MX,0,Combined
+1983-02-06,Bojan Krizaj,SK,12,Slalom
+1983-02-06,Peter Mueller,CH,27,Downhill
+1983-02-06,Pirmin Zurbriggen,CH,35,Giant Slalom
+1983-02-06,Guido Hinterseer,AT,3,Combined
+1983-02-06,Ingemar Stenmark,SE,8,Giant Slalom
+1983-02-06,Robert Erlacher,IT,9,Giant Slalom
+1983-02-06,Peter Soltys,SK,8,Combined
+1983-02-06,Max Julen,CH,3,Giant Slalom
 1983-02-06,Steven Lee,AU,8,Combined
-1983-02-06,Silvano Meli,CH,20,Downhill
+1983-02-06,Helmut Hoeflehner,AT,9,Downhill
+1983-02-06,Gerard Rambaud,FR,10,Combined
+1983-02-06,Ken Read,CA,7,Downhill
+1983-02-06,Urs Raeber,CH,20,Downhill
+1983-02-06,Bernard Fahner,CH,10,Combined
+1983-02-06,Christian Orlainsky,AT,20,Slalom
+1983-02-06,Hans Enn,AT,1,Giant Slalom
+1983-02-06,Jacques Luethy,CH,10,Slalom
 1983-02-06,Martin Bell,GB,7,Combined
 1983-02-06,Andy Luhn,US,1,Combined
+1983-02-06,Phil Mahre,US,50,Giant Slalom
+1983-02-06,Silvano Meli,CH,20,Downhill
 1983-02-06,Danilo Sbardellotto,IT,6,Downhill
-1983-02-06,Gerard Rambaud,FR,10,Combined
+1983-02-06,Michel Canac,FR,7,Slalom
 1983-02-06,Hannes Spiss,AT,6,Combined
-1983-02-06,Antal Gotzy,HU,6,Combined
-1983-02-06,Bernard Fahner,CH,10,Combined
-1983-02-06,Mads Boedkner,DK,6,Combined
-1983-02-06,Jacques Luethy,CH,10,Slalom
-1983-02-06,Hubertus von Hohenlohe,MX,0,Combined
-1983-02-06,Vladimir Makeev,RU,4,Downhill
-1983-02-06,Pirmin Zurbriggen,CH,10,Giant Slalom
-1983-02-06,Franck Woerndl,DE,4,Slalom
-1983-02-06,Bruno Kernen I,CH,12,Downhill
-1983-02-06,Guido Hinterseer,AT,3,Combined
-1983-02-06,Peter Mueller,CH,27,Downhill
-1983-02-06,Vladimir Andreev,RU,2,Slalom
-1983-02-06,Christian Orlainsky,AT,20,Slalom
-1983-02-06,Max Julen,CH,3,Giant Slalom
 1983-02-06,Tristan Cochrane,US,2,Combined
-1983-02-06,Peter Luescher,CH,41,Downhill
-1983-02-11,Jacques Luethy,CH,10,Slalom
-1983-02-11,Steven Lee,AU,16,Combined
-1983-02-11,Peter Luescher,CH,52,Downhill
-1983-02-11,Christian Orlainsky,AT,20,Slalom
-1983-02-11,Bernard Fahner,CH,10,Combined
-1983-02-11,Peter Soltys,SK,8,Combined
-1983-02-11,Peter Mueller,CH,27,Downhill
-1983-02-11,Gerard Rambaud,FR,10,Combined
-1983-02-11,Andreas Voelgyesi,HU,5,Combined
-1983-02-11,Pirmin Zurbriggen,CH,22,Giant Slalom
-1983-02-11,Silvano Meli,CH,29,Downhill
-1983-02-11,Urs Raeber,CH,16,Downhill
-1983-02-11,Vladimir Andreev,RU,2,Slalom
-1983-02-11,Bojan Krizaj,SK,12,Slalom
-1983-02-11,Tristan Cochrane,US,2,Combined
-1983-02-11,Max Julen,CH,3,Giant Slalom
-1983-02-11,Ingemar Stenmark,SE,8,Giant Slalom
+1983-02-06,Hubert Strolz,AT,11,Super G
+1983-02-06,Conradin Cathomen,CH,8,Downhill
+1983-02-11,Franck Woerndl,DE,4,Slalom
+1983-02-11,Andy Luhn,US,1,Combined
 1983-02-11,Guido Hinterseer,AT,3,Combined
-1983-02-11,Martin Bell,GB,7,Combined
-1983-02-11,Bruno Kernen I,CH,22,Downhill
-1983-02-11,Michel Canac,FR,7,Slalom
-1983-02-11,Hubertus von Hohenlohe,MX,6,Combined
+1983-02-11,Vladimir Andreev,RU,2,Slalom
+1983-02-11,Max Julen,CH,3,Giant Slalom
+1983-02-11,Vladimir Makeev,RU,4,Downhill
+1983-02-11,Tristan Cochrane,US,2,Combined
+1983-02-11,Conradin Cathomen,CH,8,Downhill
 1983-02-11,Ivano Edalini,IT,5,Slalom
+1983-02-11,Urs Raeber,CH,27,Downhill
+1983-02-11,Bruno Kernen I,CH,22,Downhill
+1983-02-11,Bojan Krizaj,SK,12,Slalom
+1983-02-11,Harti Weirather,AT,12,Downhill
+1983-02-11,Steve Mahre,US,15,Slalom
+1983-02-11,Franz Gruber,AT,15,Slalom
+1983-02-11,Hubert Strolz,AT,11,Super G
+1983-02-11,Peter Luescher,CH,52,Downhill
+1983-02-11,Marc Girardelli,LU,47,Slalom
+1983-02-11,Christian Orlainsky,AT,20,Slalom
+1983-02-11,Peter Mueller,CH,27,Downhill
+1983-02-11,Phil Mahre,US,75,Giant Slalom
+1983-02-11,Pirmin Zurbriggen,CH,47,Giant Slalom
+1983-02-11,Franz Heinzer,CH,25,Combined
+1983-02-11,Andreas Wenzel,LI,40,Slalom
+1983-02-11,Silvano Meli,CH,29,Downhill
+1983-02-11,Jacques Luethy,CH,10,Slalom
+1983-02-11,Bernard Fahner,CH,10,Combined
+1983-02-11,Michael Mair,IT,5,Downhill
+1983-02-11,Hubertus von Hohenlohe,MX,6,Combined
 1983-02-11,Mads Boedkner,DK,6,Combined
 1983-02-11,Antal Gotzy,HU,6,Combined
 1983-02-11,Hannes Spiss,AT,6,Combined
-1983-02-11,Andy Luhn,US,1,Combined
 1983-02-11,Danilo Sbardellotto,IT,6,Downhill
-1983-02-11,Vladimir Makeev,RU,4,Downhill
-1983-02-11,Franck Woerndl,DE,4,Slalom
+1983-02-11,Martin Bell,GB,7,Combined
+1983-02-11,Michel Canac,FR,7,Slalom
+1983-02-11,Ken Read,CA,7,Downhill
+1983-02-11,Steven Lee,AU,16,Combined
+1983-02-11,Peter Soltys,SK,8,Combined
+1983-02-11,Ingemar Stenmark,SE,8,Giant Slalom
+1983-02-11,Robert Erlacher,IT,9,Giant Slalom
+1983-02-11,Helmut Hoeflehner,AT,9,Downhill
+1983-02-11,Gerard Rambaud,FR,10,Combined
+1983-02-11,Andreas Voelgyesi,HU,5,Combined
+1983-02-11,Hans Enn,AT,1,Giant Slalom

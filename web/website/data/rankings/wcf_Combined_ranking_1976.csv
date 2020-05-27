@@ -1,43 +1,67 @@
 date,name,ath_country,value,specialty
-1975-12-17,Brigitte Totschnig,AT,20,Downhill
-1975-12-17,Germaine Michelet,FR,0,Combined
-1975-12-17,Brigitte Schroll,AT,1,Combined
-1975-12-17,Elfi Deufel,AT,0,Downhill
-1975-12-17,Wiltrud Drexel,AT,0,Downhill
-1975-12-17,Ingrid Eberle,AT,2,Combined
+1975-12-17,Rosi Mittermaier,DE,25,Slalom
 1975-12-17,Lea Soelkner,AT,0,Combined
-1975-12-17,Marlies Oberholzer,CH,0,Downhill
-1975-12-17,Irmgard Lukasser,AT,11,Downhill
-1975-12-17,Cindy Nelson,US,6,Downhill
 1975-12-17,Nicola Spiss,AT,0,Downhill
+1975-12-17,Wiltrud Drexel,AT,0,Downhill
+1975-12-17,Irene Epple,DE,0,Downhill
+1975-12-17,Elena Matous,,4,Slalom
+1975-12-17,Irmgard Lukasser,AT,11,Downhill
+1975-12-17,Marlies Oberholzer,CH,0,Downhill
 1975-12-17,Betsy Clifford,CA,0,Combined
 1975-12-17,Wanda Bieler,IT,0,Downhill
+1975-12-17,Hanni Wenzel,LI,3,Slalom
+1975-12-17,Fabienne Serrat,FR,8,Slalom
+1975-12-17,Monika Kaserer,AT,0,Giant Slalom
+1975-12-17,Germaine Michelet,FR,0,Combined
+1975-12-17,Danielle Debernard,FR,0,Giant Slalom
+1975-12-17,Brigitte Totschnig,AT,20,Downhill
+1975-12-17,Abbi Fisher,US,0,Giant Slalom
+1975-12-17,Elfi Deufel,AT,0,Downhill
 1975-12-17,Bernadette Zurbriggen,CH,15,Downhill
+1975-12-17,Ingrid Eberle,AT,2,Combined
+1975-12-17,Brigitte Schroll,AT,1,Combined
+1975-12-17,Cindy Nelson,US,6,Downhill
+1976-01-09,Ingrid Eberle,AT,2,Combined
 1976-01-09,Nicola Spiss,AT,8,Downhill
+1976-01-09,Abbi Fisher,US,1,Giant Slalom
 1976-01-09,Brigitte Schroll,AT,1,Combined
-1976-01-09,Brigitte Totschnig,AT,20,Downhill
+1976-01-09,Elena Matous,,4,Slalom
 1976-01-09,Elfi Deufel,AT,0,Downhill
-1976-01-09,Bernadette Zurbriggen,CH,18,Downhill
-1976-01-09,Betsy Clifford,CA,0,Combined
-1976-01-09,Irmgard Lukasser,AT,17,Downhill
+1976-01-09,Marlies Oberholzer,CH,0,Downhill
+1976-01-09,Danielle Debernard,FR,2,Giant Slalom
 1976-01-09,Wiltrud Drexel,AT,0,Downhill
-1976-01-09,Cindy Nelson,US,6,Downhill
+1976-01-09,Wanda Bieler,IT,0,Downhill
 1976-01-09,Germaine Michelet,FR,0,Combined
 1976-01-09,Lea Soelkner,AT,0,Combined
-1976-01-09,Marlies Oberholzer,CH,0,Downhill
-1976-01-09,Ingrid Eberle,AT,2,Combined
-1976-01-09,Wanda Bieler,IT,0,Downhill
-1976-01-22,Marlies Oberholzer,CH,4,Downhill
-1976-01-22,Nicola Spiss,AT,8,Downhill
-1976-01-22,Wiltrud Drexel,AT,8,Downhill
-1976-01-22,Ingrid Eberle,AT,2,Combined
+1976-01-09,Fabienne Serrat,FR,8,Slalom
+1976-01-09,Monika Kaserer,AT,4,Giant Slalom
+1976-01-09,Hanni Wenzel,LI,18,Slalom
+1976-01-09,Bernadette Zurbriggen,CH,18,Downhill
+1976-01-09,Betsy Clifford,CA,0,Combined
+1976-01-09,Cindy Nelson,US,31,Downhill
+1976-01-09,Brigitte Totschnig,AT,20,Downhill
+1976-01-09,Irene Epple,DE,11,Downhill
+1976-01-09,Rosi Mittermaier,DE,45,Slalom
+1976-01-09,Irmgard Lukasser,AT,17,Downhill
 1976-01-22,Brigitte Schroll,AT,1,Combined
-1976-01-22,Elfi Deufel,AT,2,Downhill
-1976-01-22,Cindy Nelson,US,6,Downhill
-1976-01-22,Lea Soelkner,AT,11,Combined
-1976-01-22,Irmgard Lukasser,AT,17,Downhill
-1976-01-22,Betsy Clifford,CA,15,Combined
+1976-01-22,Danielle Debernard,FR,2,Giant Slalom
 1976-01-22,Bernadette Zurbriggen,CH,43,Downhill
-1976-01-22,Brigitte Totschnig,AT,26,Downhill
+1976-01-22,Rosi Mittermaier,DE,45,Slalom
+1976-01-22,Elfi Deufel,AT,2,Downhill
+1976-01-22,Abbi Fisher,US,1,Giant Slalom
 1976-01-22,Germaine Michelet,FR,1,Combined
+1976-01-22,Cindy Nelson,US,31,Downhill
+1976-01-22,Monika Kaserer,AT,24,Giant Slalom
+1976-01-22,Ingrid Eberle,AT,2,Combined
+1976-01-22,Hanni Wenzel,LI,18,Slalom
 1976-01-22,Wanda Bieler,IT,3,Downhill
+1976-01-22,Betsy Clifford,CA,15,Combined
+1976-01-22,Marlies Oberholzer,CH,4,Downhill
+1976-01-22,Elena Matous,,4,Slalom
+1976-01-22,Irmgard Lukasser,AT,17,Downhill
+1976-01-22,Irene Epple,DE,11,Downhill
+1976-01-22,Wiltrud Drexel,AT,8,Downhill
+1976-01-22,Nicola Spiss,AT,8,Downhill
+1976-01-22,Lea Soelkner,AT,11,Combined
+1976-01-22,Brigitte Totschnig,AT,26,Downhill
+1976-01-22,Fabienne Serrat,FR,8,Slalom

@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1988-12-16,Annette Gersch,DE,7,Slalom
 1988-12-16,Monika Maierhofer,AT,12,Slalom
 1988-12-16,Corinne Schmidhauser,CH,0,Slalom
-1988-12-16,Petra Kronberger,AT,1,Downhill
+1988-12-16,Petra Kronberger,AT,1,Combined
 1988-12-16,Lucia Medzihradska,SK,0,Combined
 1988-12-16,Ida Ladstaetter,AT,0,Slalom
 1988-12-16,Christine von Gruenigen,CH,0,Slalom
@@ -51,7 +51,7 @@ date,name,ath_country,value,specialty
 1988-12-20,Beatrice Filliol,FR,0,Slalom
 1988-12-20,Dorota Tlalka - Mogore,FR,5,Slalom
 1988-12-20,Camilla Lundbaeck,SE,6,Slalom
-1988-12-20,Petra Kronberger,AT,3,Downhill
+1988-12-20,Petra Kronberger,AT,3,Combined
 1988-12-20,Christine von Gruenigen,CH,10,Slalom
 1988-12-20,Karin Buder,AT,0,Slalom
 1988-12-20,Florence Masnada,FR,7,Combined
@@ -100,7 +100,7 @@ date,name,ath_country,value,specialty
 1989-01-03,Mateja Svet,SK,10,Giant Slalom
 1989-01-03,Eva Twardokens,US,0,Slalom
 1989-01-03,Patricia Chauvet,FR,11,Slalom
-1989-01-03,Petra Kronberger,AT,3,Downhill
+1989-01-03,Petra Kronberger,AT,3,Combined
 1989-01-03,Monika Maierhofer,AT,32,Slalom
 1989-01-03,Lucia Medzihradska,SK,1,Combined
 1989-01-03,Blanca Fernandez Ochoa,ES,29,Slalom
@@ -145,7 +145,7 @@ date,name,ath_country,value,specialty
 1989-01-08,Annette Gersch,DE,16,Slalom
 1989-01-08,Anita Wachter,AT,20,Giant Slalom
 1989-01-08,Beatrice Filliol,FR,1,Slalom
-1989-01-08,Petra Kronberger,AT,3,Downhill
+1989-01-08,Petra Kronberger,AT,3,Combined
 1989-01-08,Kristina Andersson,SE,4,Slalom
 1989-01-08,Ingrid Salvenmoser,AT,29,Slalom
 1989-01-08,Jolanda Kindle,LI,0,Giant Slalom
@@ -162,7 +162,7 @@ date,name,ath_country,value,specialty
 1989-01-15,Josee Lacasse,CA,5,Slalom
 1989-01-15,Camilla Lundbaeck,SE,6,Slalom
 1989-01-15,Diann Roffe Steinrotter,US,0,Giant Slalom
-1989-01-15,Petra Kronberger,AT,3,Downhill
+1989-01-15,Petra Kronberger,AT,3,Combined
 1989-01-15,Heidi Voelker,US,6,Slalom
 1989-01-15,Gabriela Zingre-Graf,CH,4,Slalom
 1989-01-15,Patricia Chauvet,FR,35,Slalom
@@ -195,7 +195,7 @@ date,name,ath_country,value,specialty
 1989-03-03,Anita Wachter,AT,31,Giant Slalom
 1989-03-03,Brigitte Gadient,CH,12,Slalom
 1989-03-03,Veronika Sarec,SK,46,Slalom
-1989-03-03,Petra Kronberger,AT,3,Downhill
+1989-03-03,Petra Kronberger,AT,3,Combined
 1989-03-03,Ingrid Salvenmoser,AT,35,Slalom
 1989-03-03,Kristina Andersson,SE,6,Slalom
 1989-03-03,Tamara McKinney,US,65,Slalom
@@ -256,7 +256,7 @@ date,name,ath_country,value,specialty
 1989-03-11,Patricia Chauvet,FR,45,Slalom
 1989-03-11,Beatrice Filliol,FR,6,Slalom
 1989-03-11,Josee Lacasse,CA,5,Slalom
-1989-03-11,Petra Kronberger,AT,3,Downhill
+1989-03-11,Petra Kronberger,AT,3,Combined
 1989-03-11,Ingrid Salvenmoser,AT,35,Slalom
 1989-03-11,Annette Gersch,DE,16,Slalom
 1989-03-11,Jolanda Kindle,LI,13,Giant Slalom

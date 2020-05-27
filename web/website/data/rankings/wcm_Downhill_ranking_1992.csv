@@ -32,7 +32,7 @@ date,name,ath_country,value,specialty
 1991-12-07,Peter Wirnsberger Ii,AT,0,Combined
 1991-12-07,Peter Runggaldier,IT,0,Downhill
 1991-12-07,Peter Eigler,DE,0,Downhill
-1991-12-07,Stephan Eberharter,AT,0,Super G
+1991-12-07,Stephan Eberharter,AT,0,Combined
 1991-12-07,John Mealey,CA,0,Downhill
 1991-12-07,Roman Rupp,AT,0,Downhill
 1991-12-07,Darren Thorburn,CA,0,Downhill
@@ -118,7 +118,7 @@ date,name,ath_country,value,specialty
 1991-12-14,Hans-Joerg Tauscher,DE,36,Downhill
 1991-12-14,Xavier Gigandet,CH,94,Downhill
 1991-12-14,Patrick Ortlieb,AT,98,Downhill
-1991-12-14,Stephan Eberharter,AT,0,Super G
+1991-12-14,Stephan Eberharter,AT,0,Combined
 1991-12-14,Markus Wasmeier,DE,40,Downhill
 1991-12-14,Gianfranco Martin,IT,0,Combined
 1991-12-14,Daniel Brunner,CH,12,Combined
@@ -205,7 +205,7 @@ date,name,ath_country,value,specialty
 1992-01-11,Peter Runggaldier,IT,18,Downhill
 1992-01-11,Peter Wirnsberger,AT,3,Downhill
 1992-01-11,Vitalij Andreev,RU,1,Downhill
-1992-01-11,Stephan Eberharter,AT,0,Super G
+1992-01-11,Stephan Eberharter,AT,0,Combined
 1992-01-17,Tommy Moe,US,34,Downhill
 1992-01-17,Michael Haas,AT,4,Downhill
 1992-01-17,Lionel Finance,FR,22,Downhill
@@ -272,7 +272,7 @@ date,name,ath_country,value,specialty
 1992-01-17,Armin Assinger,AT,77,Downhill
 1992-01-17,Peter Rzehak,AT,103,Downhill
 1992-01-17,Christophe Fivel,FR,0,Downhill
-1992-01-17,Stephan Eberharter,AT,0,Super G
+1992-01-17,Stephan Eberharter,AT,0,Combined
 1992-01-17,Guenther Mader,AT,45,Downhill
 1992-01-17,Paulo Oppliger,CL,0,Downhill
 1992-01-18,Michael Mair,IT,41,Downhill
@@ -333,7 +333,7 @@ date,name,ath_country,value,specialty
 1992-01-18,Adrien Duvillard,FR,56,Downhill
 1992-01-18,Tommy Moe,US,34,Downhill
 1992-01-18,Berni Huber,DE,77,Downhill
-1992-01-18,Stephan Eberharter,AT,10,Super G
+1992-01-18,Stephan Eberharter,AT,10,Combined
 1992-01-18,Roman Rupp,AT,0,Downhill
 1992-01-18,Felix Belczyk,CA,46,Downhill
 1992-01-18,Jeff Olson,US,4,Super G
@@ -351,7 +351,7 @@ date,name,ath_country,value,specialty
 1992-01-25,Brian Stemmle,CA,99,Downhill
 1992-01-25,Hans-Joerg Tauscher,DE,138,Downhill
 1992-01-25,Guenther Mader,AT,135,Downhill
-1992-01-25,Stephan Eberharter,AT,10,Super G
+1992-01-25,Stephan Eberharter,AT,10,Combined
 1992-01-25,Lionel Finance,FR,22,Downhill
 1992-01-25,Bernard Fahner,CH,13,Super G
 1992-01-25,Christophe Ple',FR,5,Downhill
@@ -431,7 +431,7 @@ date,name,ath_country,value,specialty
 1992-03-06,Cary Mullen,CA,23,Downhill
 1992-03-06,Paulo Oppliger,CL,2,Downhill
 1992-03-06,Gianfranco Martin,IT,16,Combined
-1992-03-06,Stephan Eberharter,AT,10,Super G
+1992-03-06,Stephan Eberharter,AT,10,Combined
 1992-03-06,Asgeir Linberg,NO,0,Downhill
 1992-03-06,Darren Thorburn,CA,1,Downhill
 1992-03-06,Roman Rupp,AT,1,Downhill
@@ -497,7 +497,7 @@ date,name,ath_country,value,specialty
 1992-03-07,Peter Eigler,DE,10,Downhill
 1992-03-07,Guenther Mader,AT,262,Downhill
 1992-03-07,Jan Einar Thorsen,NO,290,Downhill
-1992-03-07,Stephan Eberharter,AT,10,Super G
+1992-03-07,Stephan Eberharter,AT,10,Combined
 1992-03-07,Atle Skaardal,NO,103,Downhill
 1992-03-07,Hans-Joerg Tauscher,DE,149,Downhill
 1992-03-07,A.J. Kitt,US,421,Downhill
@@ -567,7 +567,7 @@ date,name,ath_country,value,specialty
 1992-03-14,Jan Einar Thorsen,NO,324,Downhill
 1992-03-14,Werner Franz,AT,12,Downhill
 1992-03-14,Roman Torn,CA,16,Combined
-1992-03-14,Stephan Eberharter,AT,10,Super G
+1992-03-14,Stephan Eberharter,AT,10,Combined
 1992-03-14,Roman Rupp,AT,1,Downhill
 1992-03-14,Josef Polig,IT,12,Giant Slalom
 1992-03-14,Hans-Joerg Tauscher,DE,150,Downhill

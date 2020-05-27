@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 2012-11-25,Jan Hudec,CA,13,Downhill
 2012-11-25,Marc Berthod,CH,0,Combined
 2012-11-25,Siegmar Klotz,IT,0,Super G
-2012-11-25,Thomas Mermillod,FR,0,Super G
+2012-11-25,Thomas Mermillod,FR,0,Combined
 2012-11-25,Marvin Ackermann,DE,0,Combined
 2012-11-25,Rok Perko,SK,0,Downhill
 2012-11-25,Iver Bjerkestrand,NO,0,Super G
@@ -156,7 +156,7 @@ date,name,ath_country,value,specialty
 2012-12-01,Steven Nyman,US,0,Downhill
 2012-12-01,Philipp Zepnik,DE,0,Downhill
 2012-12-01,Cristian Javier Simari Birkner,AR,0,Combined
-2012-12-01,Thomas Mermillod,FR,29,Super G
+2012-12-01,Thomas Mermillod,FR,29,Combined
 2012-12-01,Johan Clarey,FR,40,Downhill
 2012-12-01,Luca De Aliprandini,IT,0,Giant Slalom
 2012-12-01,Dustin Cook,CA,3,Giant Slalom
@@ -261,7 +261,7 @@ date,name,ath_country,value,specialty
 2012-12-14,Patrick Kueng,CH,33,Downhill
 2012-12-14,Ryan Cochran-Siegle,US,11,Super G
 2012-12-14,Peter Fill,IT,34,Downhill
-2012-12-14,Thomas Mermillod,FR,34,Super G
+2012-12-14,Thomas Mermillod,FR,34,Combined
 2012-12-14,Andrew Weibrecht,US,13,Super G
 2012-12-14,Johan Clarey,FR,72,Downhill
 2012-12-14,Manuel Osborne-Paradis,CA,13,Downhill
@@ -291,7 +291,7 @@ date,name,ath_country,value,specialty
 2012-12-14,Joachim Puchner,AT,99,Super G
 2012-12-14,Romed Baumann,AT,11,Downhill
 2013-01-25,Marc Berthod,CH,0,Combined
-2013-01-25,Thomas Mermillod,FR,45,Super G
+2013-01-25,Thomas Mermillod,FR,45,Combined
 2013-01-25,John Kucera,CA,18,Super G
 2013-01-25,Cristian Javier Simari Birkner,AR,0,Combined
 2013-01-25,Florian Scheiber,AT,30,Downhill
@@ -479,7 +479,7 @@ date,name,ath_country,value,specialty
 2013-03-03,Gauthier De Tessieres,FR,47,Giant Slalom
 2013-03-03,Cristian Javier Simari Birkner,AR,0,Combined
 2013-03-03,Manuel Osborne-Paradis,CA,22,Downhill
-2013-03-03,Thomas Mermillod,FR,46,Super G
+2013-03-03,Thomas Mermillod,FR,46,Combined
 2013-03-03,Tilen Debelak,SK,0,Combined
 2013-03-03,Andrej Jerman,SK,0,Downhill
 2013-03-03,Benjamin Raich,AT,17,Slalom

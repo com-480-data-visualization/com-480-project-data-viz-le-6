@@ -1,88 +1,112 @@
 date,name,ath_country,value,specialty
-1992-01-13,Markus Wasmeier,DE,51,Downhill
+1992-01-13,Paul Accola,CH,100,Slalom
 1992-01-13,Adrien Duvillard,FR,0,Downhill
-1992-01-13,Gianfranco Martin,IT,31,Combined
-1992-01-13,Fredrik Nyberg,SE,28,Giant Slalom
-1992-01-13,Jan Einar Thorsen,NO,0,Downhill
-1992-01-13,Kristian Ghedina,IT,26,Downhill
-1992-01-13,Hans-Joerg Tauscher,DE,24,Downhill
-1992-01-13,Lukas Perathoner,IT,0,Combined
-1992-01-13,Jeff Olson,US,0,Super G
-1992-01-13,Patrick Ortlieb,AT,16,Downhill
-1992-01-13,Bruno Kernen,CH,0,Combined
-1992-01-13,Marian Bires,SK,9,Combined
-1992-01-13,Roman Torn,CA,7,Combined
-1992-01-13,Kyle Rasmussen,US,18,Super G
-1992-01-13,Bill Hudson,US,0,Combined
-1992-01-13,Tommy Moe,US,14,Downhill
-1992-01-13,Reggie Crist,US,0,Combined
-1992-01-13,William Besse,CH,10,Downhill
-1992-01-13,Michael Haas,AT,8,Downhill
-1992-01-13,Cary Mullen,CA,20,Downhill
-1992-01-13,Jean Luc Cretier,FR,12,Super G
-1992-01-13,Peter Wirnsberger Ii,AT,0,Combined
-1992-01-13,Xavier Gigandet,CH,22,Downhill
-1992-01-13,Rainer Salzgeber,AT,37,Giant Slalom
-1992-01-13,A.J. Kitt,US,40,Downhill
-1992-01-13,Daniel Brunner,CH,0,Combined
-1992-01-13,Josef Polig,IT,47,Giant Slalom
-1992-01-13,Steve Locher,CH,43,Giant Slalom
 1992-01-13,Lasse Arnesen,NO,34,Downhill
+1992-01-13,Jeff Olson,US,0,Super G
+1992-01-13,Harald Chr. Strand Nilsen,NO,0,Combined
+1992-01-13,Lukas Perathoner,IT,0,Combined
+1992-01-13,Steve Locher,CH,43,Giant Slalom
+1992-01-13,Hans-Joerg Tauscher,DE,24,Downhill
+1992-01-13,Xavier Gigandet,CH,22,Downhill
+1992-01-13,Josef Polig,IT,47,Giant Slalom
+1992-01-13,A.J. Kitt,US,40,Downhill
+1992-01-13,Peter Wirnsberger Ii,AT,0,Combined
+1992-01-13,Daniel Brunner,CH,0,Combined
+1992-01-13,Jan Einar Thorsen,NO,0,Downhill
+1992-01-13,Rainer Salzgeber,AT,37,Giant Slalom
+1992-01-13,Fredrik Nyberg,SE,28,Giant Slalom
+1992-01-13,Jean Luc Cretier,FR,12,Super G
+1992-01-13,Gianfranco Martin,IT,31,Combined
+1992-01-13,Patrick Ortlieb,AT,16,Downhill
+1992-01-13,Kristian Ghedina,IT,26,Downhill
+1992-01-13,Cary Mullen,CA,20,Downhill
+1992-01-13,Bruno Kernen,CH,0,Combined
+1992-01-13,William Besse,CH,10,Downhill
+1992-01-13,Tommy Moe,US,14,Downhill
+1992-01-13,Guenther Mader,AT,0,Downhill
+1992-01-13,Markus Wasmeier,DE,51,Downhill
+1992-01-13,Reggie Crist,US,0,Combined
+1992-01-13,Hubert Strolz,AT,60,Slalom
+1992-01-13,Bill Hudson,US,0,Combined
+1992-01-13,Stephan Eberharter,AT,55,Combined
+1992-01-13,Marc Girardelli,LU,0,Super G
+1992-01-13,Kyle Rasmussen,US,18,Super G
+1992-01-13,Roman Torn,CA,7,Combined
+1992-01-13,Ole Kristian Furuseth,NO,80,Slalom
+1992-01-13,Kjetil Andre Aamodt,NO,0,Super G
+1992-01-13,Marian Bires,SK,9,Combined
+1992-01-13,Michael Haas,AT,8,Downhill
+1992-01-19,Reggie Crist,US,14,Combined
+1992-01-19,Fredrik Nyberg,SE,28,Giant Slalom
+1992-01-19,Jan Einar Thorsen,NO,28,Downhill
+1992-01-19,William Besse,CH,10,Downhill
+1992-01-19,Gianfranco Martin,IT,31,Combined
+1992-01-19,Marian Bires,SK,29,Combined
+1992-01-19,Kristian Ghedina,IT,26,Downhill
+1992-01-19,Peter Wirnsberger Ii,AT,0,Combined
+1992-01-19,Bill Hudson,US,0,Combined
+1992-01-19,Hans-Joerg Tauscher,DE,24,Downhill
 1992-01-19,Lukas Perathoner,IT,24,Combined
-1992-01-19,Xavier Gigandet,CH,65,Downhill
-1992-01-19,Steve Locher,CH,43,Giant Slalom
+1992-01-19,Kyle Rasmussen,US,18,Super G
+1992-01-19,Jeff Olson,US,22,Super G
+1992-01-19,Roman Torn,CA,23,Combined
 1992-01-19,Bruno Kernen,CH,0,Combined
 1992-01-19,Cary Mullen,CA,20,Downhill
-1992-01-19,Marian Bires,SK,29,Combined
-1992-01-19,Rainer Salzgeber,AT,68,Giant Slalom
-1992-01-19,Hans-Joerg Tauscher,DE,24,Downhill
-1992-01-19,Kyle Rasmussen,US,18,Super G
-1992-01-19,Bill Hudson,US,0,Combined
 1992-01-19,Tommy Moe,US,14,Downhill
-1992-01-19,Reggie Crist,US,14,Combined
-1992-01-19,Josef Polig,IT,98,Giant Slalom
-1992-01-19,William Besse,CH,10,Downhill
-1992-01-19,Markus Wasmeier,DE,98,Downhill
-1992-01-19,Lasse Arnesen,NO,34,Downhill
-1992-01-19,Roman Torn,CA,23,Combined
-1992-01-19,Jeff Olson,US,22,Super G
-1992-01-19,Jan Einar Thorsen,NO,28,Downhill
-1992-01-19,Peter Wirnsberger Ii,AT,0,Combined
-1992-01-19,Kristian Ghedina,IT,26,Downhill
 1992-01-19,Michael Haas,AT,8,Downhill
-1992-01-19,Gianfranco Martin,IT,31,Combined
-1992-01-19,Jean Luc Cretier,FR,30,Super G
-1992-01-19,Daniel Brunner,CH,0,Combined
-1992-01-19,Patrick Ortlieb,AT,50,Downhill
 1992-01-19,Adrien Duvillard,FR,26,Downhill
-1992-01-19,Fredrik Nyberg,SE,28,Giant Slalom
+1992-01-19,Xavier Gigandet,CH,65,Downhill
+1992-01-19,Josef Polig,IT,98,Giant Slalom
+1992-01-19,Stephan Eberharter,AT,110,Combined
+1992-01-19,Lasse Arnesen,NO,34,Downhill
+1992-01-19,Harald Chr. Strand Nilsen,NO,0,Combined
+1992-01-19,Steve Locher,CH,83,Giant Slalom
+1992-01-19,Hubert Strolz,AT,120,Slalom
+1992-01-19,Guenther Mader,AT,0,Downhill
+1992-01-19,Markus Wasmeier,DE,98,Downhill
 1992-01-19,A.J. Kitt,US,77,Downhill
-1992-01-26,Bill Hudson,US,18,Combined
-1992-01-26,Josef Polig,IT,112,Giant Slalom
-1992-01-26,Adrien Duvillard,FR,60,Downhill
-1992-01-26,Patrick Ortlieb,AT,50,Downhill
-1992-01-26,Kristian Ghedina,IT,26,Downhill
-1992-01-26,Reggie Crist,US,14,Combined
-1992-01-26,Markus Wasmeier,DE,141,Downhill
-1992-01-26,Jean Luc Cretier,FR,67,Super G
-1992-01-26,William Besse,CH,10,Downhill
-1992-01-26,Rainer Salzgeber,AT,99,Giant Slalom
-1992-01-26,Tommy Moe,US,23,Downhill
-1992-01-26,Kyle Rasmussen,US,34,Super G
-1992-01-26,Roman Torn,CA,43,Combined
-1992-01-26,Daniel Brunner,CH,40,Combined
-1992-01-26,A.J. Kitt,US,89,Downhill
+1992-01-19,Marc Girardelli,LU,80,Super G
+1992-01-19,Kjetil Andre Aamodt,NO,0,Super G
+1992-01-19,Patrick Ortlieb,AT,50,Downhill
+1992-01-19,Daniel Brunner,CH,0,Combined
+1992-01-19,Rainer Salzgeber,AT,68,Giant Slalom
+1992-01-19,Paul Accola,CH,200,Slalom
+1992-01-19,Jean Luc Cretier,FR,30,Super G
+1992-01-19,Ole Kristian Furuseth,NO,80,Slalom
+1992-01-26,Marc Girardelli,LU,80,Super G
 1992-01-26,Marian Bires,SK,29,Combined
+1992-01-26,Roman Torn,CA,43,Combined
+1992-01-26,Kjetil Andre Aamodt,NO,55,Super G
+1992-01-26,Stephan Eberharter,AT,110,Combined
+1992-01-26,Hubert Strolz,AT,180,Slalom
+1992-01-26,William Besse,CH,10,Downhill
+1992-01-26,Bill Hudson,US,18,Combined
+1992-01-26,Paul Accola,CH,300,Slalom
+1992-01-26,Ole Kristian Furuseth,NO,104,Slalom
+1992-01-26,Guenther Mader,AT,80,Downhill
+1992-01-26,Tommy Moe,US,23,Downhill
+1992-01-26,Reggie Crist,US,14,Combined
+1992-01-26,Kyle Rasmussen,US,34,Super G
+1992-01-26,Patrick Ortlieb,AT,50,Downhill
+1992-01-26,Josef Polig,IT,112,Giant Slalom
+1992-01-26,Markus Wasmeier,DE,141,Downhill
 1992-01-26,Gianfranco Martin,IT,57,Combined
-1992-01-26,Cary Mullen,CA,20,Downhill
+1992-01-26,Jean Luc Cretier,FR,67,Super G
+1992-01-26,Rainer Salzgeber,AT,99,Giant Slalom
 1992-01-26,Fredrik Nyberg,SE,28,Giant Slalom
-1992-01-26,Bruno Kernen,CH,22,Combined
-1992-01-26,Steve Locher,CH,43,Giant Slalom
-1992-01-26,Jeff Olson,US,30,Super G
 1992-01-26,Jan Einar Thorsen,NO,28,Downhill
 1992-01-26,Peter Wirnsberger Ii,AT,28,Combined
-1992-01-26,Lukas Perathoner,IT,34,Combined
-1992-01-26,Hans-Joerg Tauscher,DE,24,Downhill
+1992-01-26,Daniel Brunner,CH,40,Combined
+1992-01-26,A.J. Kitt,US,89,Downhill
+1992-01-26,Cary Mullen,CA,20,Downhill
 1992-01-26,Xavier Gigandet,CH,65,Downhill
+1992-01-26,Steve Locher,CH,83,Giant Slalom
+1992-01-26,Hans-Joerg Tauscher,DE,24,Downhill
+1992-01-26,Lukas Perathoner,IT,34,Combined
+1992-01-26,Harald Chr. Strand Nilsen,NO,47,Combined
+1992-01-26,Jeff Olson,US,30,Super G
+1992-01-26,Bruno Kernen,CH,22,Combined
 1992-01-26,Lasse Arnesen,NO,85,Downhill
+1992-01-26,Adrien Duvillard,FR,60,Downhill
+1992-01-26,Kristian Ghedina,IT,26,Downhill
 1992-01-26,Michael Haas,AT,8,Downhill

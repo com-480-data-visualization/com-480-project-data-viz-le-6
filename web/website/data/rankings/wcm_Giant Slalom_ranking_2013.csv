@@ -117,7 +117,7 @@ date,name,ath_country,value,specialty
 2012-10-28,Benedikt Staubitzer,DE,0,Giant Slalom
 2012-10-28,Stephan Goergl,AT,0,Combined
 2012-10-28,Dalibor Samsal,HR,0,Combined
-2012-10-28,Thomas Mermillod,FR,15,Super G
+2012-10-28,Thomas Mermillod,FR,15,Combined
 2012-10-28,Alex Zingerle,IT,0,Combined
 2012-12-02,Andre Myhrer,SE,0,Slalom
 2012-12-02,Leif Kristian Haugen,NO,30,Giant Slalom
@@ -144,7 +144,7 @@ date,name,ath_country,value,specialty
 2012-12-02,Ondrej Bank,CZ,0,Combined
 2012-12-02,Filip Zubcic,HR,0,Combined
 2012-12-02,Andreas Romar,FI,0,Super G
-2012-12-02,Thomas Mermillod,FR,15,Super G
+2012-12-02,Thomas Mermillod,FR,15,Combined
 2012-12-02,Stefan Brennsteiner,AT,0,Combined
 2012-12-02,Warner C Nickerson,US,0,Combined
 2012-12-02,Carlo Janka,CH,7,Combined
@@ -332,7 +332,7 @@ date,name,ath_country,value,specialty
 2012-12-09,Florian Eisath,IT,41,Giant Slalom
 2012-12-09,Matthias Mayer,AT,15,Super G
 2012-12-09,Hannes Reichelt,AT,70,Downhill
-2012-12-09,Thomas Mermillod,FR,22,Super G
+2012-12-09,Thomas Mermillod,FR,22,Combined
 2012-12-09,Thomas Fanara,FR,86,Giant Slalom
 2012-12-09,Luca De Aliprandini,IT,0,Giant Slalom
 2012-12-09,Christoph Noesig,AT,63,Giant Slalom
@@ -431,7 +431,7 @@ date,name,ath_country,value,specialty
 2012-12-16,Dalibor Samsal,HR,0,Combined
 2012-12-16,Stefan Brennsteiner,AT,0,Combined
 2012-12-16,Christof Innerhofer,IT,0,Downhill
-2012-12-16,Thomas Mermillod,FR,22,Super G
+2012-12-16,Thomas Mermillod,FR,22,Combined
 2012-12-16,Samu Torsti,FI,0,Combined
 2012-12-16,Victor Muffat Jeandet,FR,9,Giant Slalom
 2012-12-16,Alexis Pinturault,FR,88,Giant Slalom
@@ -548,7 +548,7 @@ date,name,ath_country,value,specialty
 2013-01-12,Kjetil Jansrud,NO,95,Downhill
 2013-01-12,Fritz Dopfer,DE,166,Slalom
 2013-01-12,Patrick Jazbec,SK,0,Combined
-2013-01-12,Thomas Mermillod,FR,22,Super G
+2013-01-12,Thomas Mermillod,FR,22,Combined
 2013-01-12,Matteo Marsaglia,IT,0,Super G
 2013-01-12,Robert Kelley,US,8,Giant Slalom
 2013-01-12,Truls Ove Karlsen,NO,24,Giant Slalom
@@ -664,7 +664,7 @@ date,name,ath_country,value,specialty
 2013-02-24,Krystof Kryzl,CZ,0,Slalom
 2013-02-24,Maarten Meiners,NL,0,Combined
 2013-02-24,Benjamin Griffin,NZ,0,Combined
-2013-02-24,Thomas Mermillod,FR,29,Super G
+2013-02-24,Thomas Mermillod,FR,29,Combined
 2013-02-24,Stefan Luitz,DE,100,Giant Slalom
 2013-02-24,Alexandru Barbu,RO,0,Combined
 2013-02-24,Matthias Mayer,AT,15,Super G
@@ -785,7 +785,7 @@ date,name,ath_country,value,specialty
 2013-03-09,Alexandr Horoshilov,RU,0,Slalom
 2013-03-09,Aksel-Lund Svindal,NO,229,Super G
 2013-03-09,Dmitry Trelevski,KG,0,Combined
-2013-03-09,Thomas Mermillod,FR,29,Super G
+2013-03-09,Thomas Mermillod,FR,29,Combined
 2013-03-09,Philip Brown,CA,0,Combined
 2013-03-09,Marcus Sandell,FI,168,Giant Slalom
 2013-03-09,Aleksander Aamodt Kilde,NO,0,Combined
@@ -861,7 +861,7 @@ date,name,ath_country,value,specialty
 2013-03-16,Tim Jitloff,US,52,Giant Slalom
 2013-03-16,Leif Kristian Haugen,NO,99,Giant Slalom
 2013-03-16,Benedikt Staubitzer,DE,16,Giant Slalom
-2013-03-16,Thomas Mermillod,FR,29,Super G
+2013-03-16,Thomas Mermillod,FR,29,Combined
 2013-03-16,Matthias Mayer,AT,15,Super G
 2013-03-16,Truls Ove Karlsen,NO,24,Giant Slalom
 2013-03-16,Florian Eisath,IT,93,Giant Slalom

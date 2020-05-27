@@ -17,7 +17,7 @@ date,name,ath_country,value,specialty
 1983-12-12,Thomas Buergler,CH,10,Giant Slalom
 1983-12-12,Christian Orlainsky,AT,0,Slalom
 1983-12-12,Marc Girardelli,LU,0,Slalom
-1983-12-12,Andreas Wenzel,LI,5,Slalom
+1983-12-12,Andreas Wenzel,LI,5,Combined
 1983-12-12,Ernst Riedlsperger,AT,0,Super G
 1983-12-12,Steve Mahre,US,0,Slalom
 1983-12-12,Guenther Mader,AT,11,Super G
@@ -49,7 +49,7 @@ date,name,ath_country,value,specialty
 1984-01-10,Boris Strel,SK,9,Giant Slalom
 1984-01-10,Bojan Krizaj,SK,9,Slalom
 1984-01-10,Marc Girardelli,LU,12,Slalom
-1984-01-10,Andreas Wenzel,LI,5,Slalom
+1984-01-10,Andreas Wenzel,LI,5,Combined
 1984-01-10,Pirmin Zurbriggen,CH,35,Giant Slalom
 1984-01-10,Tiger Shaw,US,3,Giant Slalom
 1984-01-10,Ingemar Stenmark,SE,34,Slalom
@@ -74,7 +74,7 @@ date,name,ath_country,value,specialty
 1984-01-24,Boris Strel,SK,14,Giant Slalom
 1984-01-24,Bojan Krizaj,SK,10,Slalom
 1984-01-24,Egon Hirt,DE,6,Giant Slalom
-1984-01-24,Andreas Wenzel,LI,5,Slalom
+1984-01-24,Andreas Wenzel,LI,5,Combined
 1984-01-24,Guenther Mader,AT,11,Super G
 1984-01-24,Odd Sorli,NO,0,Slalom
 1984-01-24,Steve Mahre,US,0,Slalom
@@ -116,7 +116,7 @@ date,name,ath_country,value,specialty
 1984-02-04,Ernst Riedlsperger,AT,4,Super G
 1984-02-04,Pirmin Zurbriggen,CH,35,Giant Slalom
 1984-02-04,Steve Mahre,US,0,Slalom
-1984-02-04,Andreas Wenzel,LI,11,Slalom
+1984-02-04,Andreas Wenzel,LI,11,Combined
 1984-02-04,Grega Benedik,SK,2,Giant Slalom
 1984-02-04,Egon Hirt,DE,10,Giant Slalom
 1984-02-04,Ingemar Stenmark,SE,84,Slalom
@@ -152,7 +152,7 @@ date,name,ath_country,value,specialty
 1984-03-05,Egon Hirt,DE,10,Giant Slalom
 1984-03-05,Phil Mahre,US,24,Slalom
 1984-03-05,Grega Benedik,SK,2,Giant Slalom
-1984-03-05,Andreas Wenzel,LI,11,Slalom
+1984-03-05,Andreas Wenzel,LI,11,Combined
 1984-03-05,Ingemar Stenmark,SE,84,Slalom
 1984-03-05,Pirmin Zurbriggen,CH,60,Giant Slalom
 1984-03-05,Oswald Toetsch,IT,7,Giant Slalom
@@ -182,7 +182,7 @@ date,name,ath_country,value,specialty
 1984-03-07,Joze Kuralt,SK,11,Slalom
 1984-03-07,Boris Strel,SK,34,Giant Slalom
 1984-03-07,Pirmin Zurbriggen,CH,80,Giant Slalom
-1984-03-07,Andreas Wenzel,LI,11,Slalom
+1984-03-07,Andreas Wenzel,LI,11,Combined
 1984-03-07,Jure Franko,SK,38,Giant Slalom
 1984-03-07,Robert Erlacher,IT,26,Giant Slalom
 1984-03-07,Hans Enn,AT,37,Giant Slalom
@@ -211,7 +211,7 @@ date,name,ath_country,value,specialty
 1984-03-17,Paul Frommelt,LI,5,Slalom
 1984-03-17,Thomas Buergler,CH,49,Giant Slalom
 1984-03-17,Robert Erlacher,IT,32,Giant Slalom
-1984-03-17,Andreas Wenzel,LI,11,Slalom
+1984-03-17,Andreas Wenzel,LI,11,Combined
 1984-03-17,Jure Franko,SK,38,Giant Slalom
 1984-03-17,Joze Kuralt,SK,11,Slalom
 1984-03-17,Grega Benedik,SK,2,Giant Slalom
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 1984-03-23,Franz Gruber,AT,19,Slalom
 1984-03-23,Oswald Toetsch,IT,7,Giant Slalom
 1984-03-23,Steve Mahre,US,9,Slalom
-1984-03-23,Andreas Wenzel,LI,18,Slalom
+1984-03-23,Andreas Wenzel,LI,18,Combined
 1984-03-23,Egon Hirt,DE,17,Giant Slalom
 1984-03-23,Richard Pramotton,IT,6,Giant Slalom
 1984-03-23,Paul Frommelt,LI,5,Slalom

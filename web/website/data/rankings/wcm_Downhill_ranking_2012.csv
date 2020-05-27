@@ -8,7 +8,7 @@ date,name,ath_country,value,specialty
 2011-11-26,Max Franz,AT,6,Super G
 2011-11-26,Thomas Baldwin,GB,0,Combined
 2011-11-26,Andrey Bistrov,RU,0,Combined
-2011-11-26,Silvan Zurbriggen,CH,2,Downhill
+2011-11-26,Silvan Zurbriggen,CH,2,Combined
 2011-11-26,Tommy Ford,US,0,Giant Slalom
 2011-11-26,Mario Scheiber,AT,0,Super G
 2011-11-26,Romed Baumann,AT,50,Downhill
@@ -174,7 +174,7 @@ date,name,ath_country,value,specialty
 2011-12-02,Tobias Stechert,DE,6,Downhill
 2011-12-02,Thomas Baldwin,GB,0,Combined
 2011-12-02,Max Franz,AT,19,Super G
-2011-12-02,Silvan Zurbriggen,CH,20,Downhill
+2011-12-02,Silvan Zurbriggen,CH,20,Combined
 2011-12-02,Patrik Jaerbyn,SE,0,Downhill
 2011-12-02,Tommy Ford,US,0,Giant Slalom
 2011-12-02,Ted Ligety,US,9,Giant Slalom
@@ -253,7 +253,7 @@ date,name,ath_country,value,specialty
 2011-12-29,Kelby Halbert,CA,0,Combined
 2011-12-29,Carlo Janka,CH,3,Downhill
 2011-12-29,Siegmar Klotz,IT,7,Downhill
-2011-12-29,Silvan Zurbriggen,CH,36,Downhill
+2011-12-29,Silvan Zurbriggen,CH,36,Combined
 2011-12-29,Andrew Weibrecht,US,0,Super G
 2011-12-29,Thomas Biesemeyer,US,0,Super G
 2011-12-29,Erik Guay,CA,64,Downhill
@@ -426,7 +426,7 @@ date,name,ath_country,value,specialty
 2012-01-14,Kevin Esteve Rigail,AD,0,Combined
 2012-01-14,Thomas Baldwin,GB,0,Combined
 2012-01-14,Matteo Marsaglia,IT,2,Super G
-2012-01-14,Silvan Zurbriggen,CH,54,Downhill
+2012-01-14,Silvan Zurbriggen,CH,54,Combined
 2012-01-21,Tobias Stechert,DE,6,Downhill
 2012-01-21,Ted Ligety,US,9,Giant Slalom
 2012-01-21,Hagen Patscheider,IT,0,Combined
@@ -472,7 +472,7 @@ date,name,ath_country,value,specialty
 2012-01-21,Paolo Pangrazzi,IT,0,Combined
 2012-01-21,Thomas Baldwin,GB,0,Combined
 2012-01-21,Adrien Theaux,FR,102,Downhill
-2012-01-21,Silvan Zurbriggen,CH,61,Downhill
+2012-01-21,Silvan Zurbriggen,CH,61,Combined
 2012-01-21,Tommy Ford,US,0,Giant Slalom
 2012-01-21,Mario Scheiber,AT,25,Super G
 2012-01-21,Yuri Danilochkin,BY,0,Combined
@@ -598,7 +598,7 @@ date,name,ath_country,value,specialty
 2012-01-28,Kjetil Jansrud,NO,52,Super G
 2012-01-28,Mattia Casse,IT,1,Combined
 2012-01-28,Andrej Sporn,SK,113,Downhill
-2012-01-28,Silvan Zurbriggen,CH,74,Downhill
+2012-01-28,Silvan Zurbriggen,CH,74,Combined
 2012-01-28,Vitus Lueoend,CH,4,Downhill
 2012-01-28,Aksel-Lund Svindal,NO,143,Super G
 2012-01-28,Beat Feuz,CH,308,Downhill
@@ -701,7 +701,7 @@ date,name,ath_country,value,specialty
 2012-02-03,Joachim Puchner,AT,180,Downhill
 2012-02-03,Othmar Striedinger,AT,0,Combined
 2012-02-03,Krystof Kryzl,CZ,0,Slalom
-2012-02-03,Silvan Zurbriggen,CH,77,Downhill
+2012-02-03,Silvan Zurbriggen,CH,77,Combined
 2012-02-03,Andrej Sporn,SK,124,Downhill
 2012-02-03,Tommy Ford,US,0,Giant Slalom
 2012-02-03,Marvin Van Heek,NL,0,Combined
@@ -748,7 +748,7 @@ date,name,ath_country,value,specialty
 2012-02-03,Patrik Jaerbyn,SE,5,Downhill
 2012-02-03,Christoffer Faarup,DK,0,Combined
 2012-02-03,Gasper Markic,SK,0,Super G
-2012-02-04,Silvan Zurbriggen,CH,77,Downhill
+2012-02-04,Silvan Zurbriggen,CH,77,Combined
 2012-02-04,Othmar Striedinger,AT,0,Combined
 2012-02-04,Bostjan Kline,SK,0,Super G
 2012-02-04,Beat Feuz,CH,368,Downhill
@@ -912,7 +912,7 @@ date,name,ath_country,value,specialty
 2012-02-11,Conrad Pridy,CA,6,Downhill
 2012-02-11,Louis-Pierre Helie,CA,0,Combined
 2012-02-11,Travis Ganong,US,55,Downhill
-2012-02-11,Silvan Zurbriggen,CH,77,Downhill
+2012-02-11,Silvan Zurbriggen,CH,77,Combined
 2012-02-11,Ryan Semple,CA,0,Combined
 2012-02-11,Ivica Kostelic,HR,14,Slalom
 2012-02-11,Tobias Gruenenfelder,CH,6,Super G
@@ -1040,7 +1040,7 @@ date,name,ath_country,value,specialty
 2012-03-03,Yannick Bertrand,FR,145,Downhill
 2012-03-03,Marc Gehrig,CH,0,Combined
 2012-03-03,Travis Ganong,US,56,Downhill
-2012-03-03,Silvan Zurbriggen,CH,88,Downhill
+2012-03-03,Silvan Zurbriggen,CH,88,Combined
 2012-03-03,Andrej Sporn,SK,155,Downhill
 2012-03-03,Nikola Chongarov,BG,0,Combined
 2012-03-03,Marvin Van Heek,NL,0,Combined
@@ -1161,7 +1161,7 @@ date,name,ath_country,value,specialty
 2012-03-14,Andrej Sporn,SK,166,Downhill
 2012-03-14,Romed Baumann,AT,369,Downhill
 2012-03-14,Patrick Kueng,CH,171,Downhill
-2012-03-14,Silvan Zurbriggen,CH,88,Downhill
+2012-03-14,Silvan Zurbriggen,CH,88,Combined
 2012-03-14,Patrik Jaerbyn,SE,5,Downhill
 2012-03-14,Werner Heel,IT,10,Super G
 2012-03-14,Othmar Striedinger,AT,0,Combined

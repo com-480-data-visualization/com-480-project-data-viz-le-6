@@ -25,42 +25,42 @@ date,name,ath_country,value,specialty
 1975-12-06,Hanni Wenzel,LI,0,Slalom
 1975-12-06,Cindy Nelson,US,0,Downhill
 1975-12-06,Jacqueline Rouvier,FR,0,Giant Slalom
-1975-12-06,Danielle Debernard,FR,0,Slalom
-1975-12-06,Rosi Mittermaier,DE,20,Slalom
+1975-12-06,Danielle Debernard,FR,0,Giant Slalom
 1975-12-06,Monika Kaserer,AT,15,Giant Slalom
+1975-12-06,Rosi Mittermaier,DE,20,Slalom
 1976-01-09,Irene Epple,DE,8,Downhill
 1976-01-09,Nicola Spiss,AT,0,Downhill
 1976-01-09,Fabienne Serrat,FR,8,Slalom
 1976-01-09,Hanni Wenzel,LI,6,Slalom
 1976-01-09,Marie Therese Nadig,CH,15,Downhill
+1976-01-09,Mary Seaton,US,0,Giant Slalom
 1976-01-09,Monika Kaserer,AT,40,Giant Slalom
 1976-01-09,Patricia Emonet,FR,0,Slalom
 1976-01-09,Martine Ellmer,AT,3,Downhill
-1976-01-09,Mary Seaton,US,0,Giant Slalom
-1976-01-09,Betsy Clifford,CA,1,Combined
 1976-01-09,Evi Mittermaier,DE,6,Downhill
+1976-01-09,Betsy Clifford,CA,1,Combined
 1976-01-09,Regina Sackl,AT,0,Slalom
 1976-01-09,Wiki Fleckenstein,US,0,Giant Slalom
-1976-01-09,Jacqueline Rouvier,FR,0,Giant Slalom
 1976-01-09,Bernadette Zurbriggen,CH,0,Downhill
+1976-01-09,Jacqueline Rouvier,FR,0,Giant Slalom
 1976-01-09,Lise Marie Morerod,CH,25,Giant Slalom
-1976-01-09,Ingrid Gfoelner,AT,0,Giant Slalom
-1976-01-09,Danielle Debernard,FR,20,Slalom
-1976-01-09,Wilma Gatta,IT,0,Slalom
-1976-01-09,Brigitte Totschnig,AT,3,Downhill
-1976-01-09,Lindy Cochran,US,11,Giant Slalom
-1976-01-09,Monika Berwein,DE,0,Slalom
+1976-01-09,Christa Zechmeister,DE,0,Slalom
+1976-01-09,Rosi Mittermaier,DE,24,Slalom
+1976-01-09,Claudia Giordani,IT,4,Slalom
+1976-01-09,Kathy Kreiner,CA,2,Giant Slalom
 1976-01-09,Cindy Nelson,US,11,Downhill
 1976-01-09,Elena Matous,,2,Slalom
-1976-01-09,Kathy Kreiner,CA,2,Giant Slalom
-1976-01-09,Claudia Giordani,IT,4,Slalom
-1976-01-09,Rosi Mittermaier,DE,24,Slalom
-1976-01-09,Christa Zechmeister,DE,0,Slalom
+1976-01-09,Lindy Cochran,US,11,Giant Slalom
+1976-01-09,Brigitte Totschnig,AT,3,Downhill
+1976-01-09,Wilma Gatta,IT,0,Slalom
+1976-01-09,Danielle Debernard,FR,20,Giant Slalom
+1976-01-09,Ingrid Gfoelner,AT,0,Giant Slalom
+1976-01-09,Monika Berwein,DE,0,Slalom
 1976-01-09,Abbi Fisher,US,1,Giant Slalom
 1976-01-14,Lindy Cochran,US,11,Giant Slalom
 1976-01-14,Abbi Fisher,US,2,Giant Slalom
+1976-01-14,Danielle Debernard,FR,31,Giant Slalom
 1976-01-14,Wiki Fleckenstein,US,0,Giant Slalom
-1976-01-14,Danielle Debernard,FR,31,Slalom
 1976-01-14,Patricia Emonet,FR,0,Slalom
 1976-01-14,Brigitte Totschnig,AT,11,Downhill
 1976-01-14,Christa Zechmeister,DE,0,Slalom
@@ -72,8 +72,8 @@ date,name,ath_country,value,specialty
 1976-01-14,Rosi Mittermaier,DE,44,Slalom
 1976-01-14,Kathy Kreiner,CA,2,Giant Slalom
 1976-01-14,Elena Matous,,2,Slalom
-1976-01-14,Cindy Nelson,US,11,Downhill
 1976-01-14,Wilma Gatta,IT,0,Slalom
+1976-01-14,Cindy Nelson,US,11,Downhill
 1976-01-14,Ingrid Gfoelner,AT,0,Giant Slalom
 1976-01-14,Betsy Clifford,CA,1,Combined
 1976-01-14,Fabienne Serrat,FR,12,Slalom
@@ -83,133 +83,133 @@ date,name,ath_country,value,specialty
 1976-01-14,Nicola Spiss,AT,0,Downhill
 1976-01-14,Lise Marie Morerod,CH,50,Giant Slalom
 1976-01-14,Regina Sackl,AT,0,Slalom
-1976-01-14,Bernadette Zurbriggen,CH,0,Downhill
 1976-01-14,Irene Epple,DE,8,Downhill
+1976-01-14,Bernadette Zurbriggen,CH,0,Downhill
 1976-01-14,Mary Seaton,US,6,Giant Slalom
-1976-01-17,Lise Marie Morerod,CH,70,Giant Slalom
-1976-01-17,Elena Matous,,2,Slalom
-1976-01-17,Irene Epple,DE,8,Downhill
+1976-01-17,Mary Seaton,US,6,Giant Slalom
+1976-01-17,Ingrid Gfoelner,AT,3,Giant Slalom
+1976-01-17,Monika Kaserer,AT,70,Giant Slalom
+1976-01-17,Evi Mittermaier,DE,6,Downhill
+1976-01-17,Nicola Spiss,AT,2,Downhill
+1976-01-17,Regina Sackl,AT,0,Slalom
+1976-01-17,Jacqueline Rouvier,FR,5,Giant Slalom
 1976-01-17,Abbi Fisher,US,2,Giant Slalom
 1976-01-17,Wilma Gatta,IT,0,Slalom
-1976-01-17,Monika Kaserer,AT,70,Giant Slalom
 1976-01-17,Hanni Wenzel,LI,9,Slalom
-1976-01-17,Regina Sackl,AT,0,Slalom
-1976-01-17,Nicola Spiss,AT,2,Downhill
-1976-01-17,Ingrid Gfoelner,AT,3,Giant Slalom
-1976-01-17,Evi Mittermaier,DE,6,Downhill
+1976-01-17,Irene Epple,DE,8,Downhill
+1976-01-17,Elena Matous,,2,Slalom
+1976-01-17,Lise Marie Morerod,CH,70,Giant Slalom
 1976-01-17,Wiki Fleckenstein,US,0,Giant Slalom
-1976-01-17,Mary Seaton,US,6,Giant Slalom
-1976-01-17,Jacqueline Rouvier,FR,5,Giant Slalom
 1976-01-17,Martine Ellmer,AT,3,Downhill
 1976-01-17,Christa Zechmeister,DE,0,Slalom
 1976-01-17,Betsy Clifford,CA,1,Combined
-1976-01-17,Patricia Emonet,FR,11,Slalom
-1976-01-17,Kathy Kreiner,CA,2,Giant Slalom
-1976-01-17,Brigitte Totschnig,AT,11,Downhill
-1976-01-17,Marie Therese Nadig,CH,19,Downhill
-1976-01-17,Bernadette Zurbriggen,CH,0,Downhill
-1976-01-17,Rosi Mittermaier,DE,50,Slalom
-1976-01-17,Monika Berwein,DE,0,Slalom
-1976-01-17,Danielle Debernard,FR,56,Slalom
-1976-01-17,Claudia Giordani,IT,4,Slalom
-1976-01-17,Fabienne Serrat,FR,20,Slalom
-1976-01-17,Lindy Cochran,US,11,Giant Slalom
 1976-01-17,Cindy Nelson,US,11,Downhill
-1976-01-25,Abbi Fisher,US,2,Giant Slalom
+1976-01-17,Kathy Kreiner,CA,2,Giant Slalom
+1976-01-17,Lindy Cochran,US,11,Giant Slalom
+1976-01-17,Patricia Emonet,FR,11,Slalom
+1976-01-17,Marie Therese Nadig,CH,19,Downhill
+1976-01-17,Fabienne Serrat,FR,20,Slalom
+1976-01-17,Brigitte Totschnig,AT,11,Downhill
+1976-01-17,Rosi Mittermaier,DE,50,Slalom
+1976-01-17,Bernadette Zurbriggen,CH,0,Downhill
+1976-01-17,Monika Berwein,DE,0,Slalom
+1976-01-17,Danielle Debernard,FR,56,Giant Slalom
+1976-01-17,Claudia Giordani,IT,4,Slalom
+1976-01-25,Danielle Debernard,FR,62,Giant Slalom
+1976-01-25,Betsy Clifford,CA,1,Combined
 1976-01-25,Kathy Kreiner,CA,2,Giant Slalom
-1976-01-25,Lindy Cochran,US,11,Giant Slalom
-1976-01-25,Hanni Wenzel,LI,9,Slalom
-1976-01-25,Fabienne Serrat,FR,31,Slalom
-1976-01-25,Bernadette Zurbriggen,CH,15,Downhill
 1976-01-25,Regina Sackl,AT,4,Slalom
 1976-01-25,Nicola Spiss,AT,2,Downhill
-1976-01-25,Cindy Nelson,US,11,Downhill
-1976-01-25,Marie Therese Nadig,CH,19,Downhill
-1976-01-25,Wilma Gatta,IT,3,Slalom
-1976-01-25,Martine Ellmer,AT,3,Downhill
-1976-01-25,Ingrid Gfoelner,AT,5,Giant Slalom
-1976-01-25,Betsy Clifford,CA,1,Combined
-1976-01-25,Mary Seaton,US,6,Giant Slalom
-1976-01-25,Evi Mittermaier,DE,6,Downhill
-1976-01-25,Danielle Debernard,FR,62,Slalom
-1976-01-25,Brigitte Totschnig,AT,12,Downhill
-1976-01-25,Claudia Giordani,IT,4,Slalom
-1976-01-25,Lise Marie Morerod,CH,95,Giant Slalom
-1976-01-25,Rosi Mittermaier,DE,70,Slalom
-1976-01-25,Monika Kaserer,AT,70,Giant Slalom
-1976-01-25,Monika Berwein,DE,0,Slalom
-1976-01-25,Irene Epple,DE,8,Downhill
-1976-01-25,Wiki Fleckenstein,US,0,Giant Slalom
 1976-01-25,Jacqueline Rouvier,FR,13,Giant Slalom
-1976-01-25,Christa Zechmeister,DE,0,Slalom
-1976-01-25,Patricia Emonet,FR,11,Slalom
+1976-01-25,Fabienne Serrat,FR,31,Slalom
+1976-01-25,Monika Kaserer,AT,70,Giant Slalom
+1976-01-25,Claudia Giordani,IT,4,Slalom
+1976-01-25,Lindy Cochran,US,11,Giant Slalom
+1976-01-25,Bernadette Zurbriggen,CH,15,Downhill
+1976-01-25,Cindy Nelson,US,11,Downhill
+1976-01-25,Wilma Gatta,IT,3,Slalom
+1976-01-25,Hanni Wenzel,LI,9,Slalom
+1976-01-25,Abbi Fisher,US,2,Giant Slalom
+1976-01-25,Evi Mittermaier,DE,6,Downhill
+1976-01-25,Marie Therese Nadig,CH,19,Downhill
+1976-01-25,Mary Seaton,US,6,Giant Slalom
 1976-01-25,Elena Matous,,2,Slalom
-1976-03-05,Christa Zechmeister,DE,0,Slalom
-1976-03-05,Bernadette Zurbriggen,CH,30,Downhill
-1976-03-05,Jacqueline Rouvier,FR,13,Giant Slalom
-1976-03-05,Brigitte Totschnig,AT,23,Downhill
-1976-03-05,Monika Berwein,DE,0,Slalom
+1976-01-25,Wiki Fleckenstein,US,0,Giant Slalom
+1976-01-25,Rosi Mittermaier,DE,70,Slalom
+1976-01-25,Patricia Emonet,FR,11,Slalom
+1976-01-25,Brigitte Totschnig,AT,12,Downhill
+1976-01-25,Martine Ellmer,AT,3,Downhill
+1976-01-25,Monika Berwein,DE,0,Slalom
+1976-01-25,Ingrid Gfoelner,AT,5,Giant Slalom
+1976-01-25,Lise Marie Morerod,CH,95,Giant Slalom
+1976-01-25,Irene Epple,DE,8,Downhill
+1976-01-25,Christa Zechmeister,DE,0,Slalom
 1976-03-05,Marie Therese Nadig,CH,19,Downhill
-1976-03-05,Nicola Spiss,AT,2,Downhill
-1976-03-05,Fabienne Serrat,FR,31,Slalom
+1976-03-05,Mary Seaton,US,6,Giant Slalom
 1976-03-05,Martine Ellmer,AT,3,Downhill
 1976-03-05,Ingrid Gfoelner,AT,5,Giant Slalom
-1976-03-05,Irene Epple,DE,16,Downhill
+1976-03-05,Fabienne Serrat,FR,31,Slalom
+1976-03-05,Bernadette Zurbriggen,CH,30,Downhill
 1976-03-05,Regina Sackl,AT,4,Slalom
-1976-03-05,Elena Matous,,2,Slalom
+1976-03-05,Nicola Spiss,AT,2,Downhill
+1976-03-05,Danielle Debernard,FR,62,Giant Slalom
+1976-03-05,Lindy Cochran,US,17,Giant Slalom
+1976-03-05,Claudia Giordani,IT,4,Slalom
+1976-03-05,Irene Epple,DE,16,Downhill
+1976-03-05,Brigitte Totschnig,AT,23,Downhill
+1976-03-05,Jacqueline Rouvier,FR,13,Giant Slalom
+1976-03-05,Christa Zechmeister,DE,0,Slalom
 1976-03-05,Wiki Fleckenstein,US,2,Giant Slalom
+1976-03-05,Monika Kaserer,AT,71,Giant Slalom
+1976-03-05,Elena Matous,,2,Slalom
+1976-03-05,Patricia Emonet,FR,11,Slalom
 1976-03-05,Betsy Clifford,CA,1,Combined
-1976-03-05,Evi Mittermaier,DE,6,Downhill
+1976-03-05,Rosi Mittermaier,DE,95,Slalom
+1976-03-05,Monika Berwein,DE,0,Slalom
 1976-03-05,Cindy Nelson,US,31,Downhill
 1976-03-05,Lise Marie Morerod,CH,99,Giant Slalom
 1976-03-05,Abbi Fisher,US,5,Giant Slalom
-1976-03-05,Monika Kaserer,AT,71,Giant Slalom
-1976-03-05,Lindy Cochran,US,17,Giant Slalom
-1976-03-05,Mary Seaton,US,6,Giant Slalom
 1976-03-05,Kathy Kreiner,CA,2,Giant Slalom
 1976-03-05,Hanni Wenzel,LI,9,Slalom
 1976-03-05,Wilma Gatta,IT,3,Slalom
-1976-03-05,Rosi Mittermaier,DE,95,Slalom
-1976-03-05,Claudia Giordani,IT,4,Slalom
-1976-03-05,Danielle Debernard,FR,62,Slalom
-1976-03-05,Patricia Emonet,FR,11,Slalom
-1976-03-12,Christa Zechmeister,DE,0,Slalom
-1976-03-12,Cindy Nelson,US,31,Downhill
-1976-03-12,Elena Matous,,5,Slalom
+1976-03-05,Evi Mittermaier,DE,6,Downhill
 1976-03-12,Rosi Mittermaier,DE,95,Slalom
-1976-03-12,Wilma Gatta,IT,3,Slalom
+1976-03-12,Elena Matous,,5,Slalom
+1976-03-12,Christa Zechmeister,DE,0,Slalom
 1976-03-12,Lise Marie Morerod,CH,124,Giant Slalom
+1976-03-12,Wilma Gatta,IT,3,Slalom
+1976-03-12,Cindy Nelson,US,35,Downhill
 1976-03-12,Claudia Giordani,IT,4,Slalom
-1976-03-12,Bernadette Zurbriggen,CH,30,Downhill
+1976-03-12,Monika Berwein,DE,0,Slalom
 1976-03-12,Fabienne Serrat,FR,32,Slalom
-1976-03-12,Monika Kaserer,AT,71,Giant Slalom
 1976-03-12,Irene Epple,DE,16,Downhill
 1976-03-12,Brigitte Totschnig,AT,23,Downhill
 1976-03-12,Jacqueline Rouvier,FR,13,Giant Slalom
 1976-03-12,Wiki Fleckenstein,US,10,Giant Slalom
 1976-03-12,Patricia Emonet,FR,11,Slalom
-1976-03-12,Lindy Cochran,US,17,Giant Slalom
+1976-03-12,Danielle Debernard,FR,82,Giant Slalom
+1976-03-12,Monika Kaserer,AT,86,Giant Slalom
 1976-03-12,Evi Mittermaier,DE,6,Downhill
 1976-03-12,Ingrid Gfoelner,AT,7,Giant Slalom
 1976-03-12,Betsy Clifford,CA,1,Combined
+1976-03-12,Abbi Fisher,US,5,Giant Slalom
 1976-03-12,Hanni Wenzel,LI,15,Slalom
-1976-03-12,Kathy Kreiner,CA,13,Giant Slalom
 1976-03-12,Nicola Spiss,AT,2,Downhill
-1976-03-12,Monika Berwein,DE,0,Slalom
+1976-03-12,Kathy Kreiner,CA,13,Giant Slalom
+1976-03-12,Bernadette Zurbriggen,CH,30,Downhill
 1976-03-12,Mary Seaton,US,6,Giant Slalom
 1976-03-12,Marie Therese Nadig,CH,19,Downhill
 1976-03-12,Regina Sackl,AT,4,Slalom
-1976-03-12,Danielle Debernard,FR,62,Slalom
 1976-03-12,Martine Ellmer,AT,3,Downhill
-1976-03-12,Abbi Fisher,US,5,Giant Slalom
+1976-03-12,Lindy Cochran,US,17,Giant Slalom
 1976-03-19,Monika Berwein,DE,2,Slalom
 1976-03-19,Nicola Spiss,AT,2,Downhill
 1976-03-19,Evi Mittermaier,DE,14,Downhill
 1976-03-19,Elena Matous,,5,Slalom
 1976-03-19,Rosi Mittermaier,DE,95,Slalom
-1976-03-19,Cindy Nelson,US,31,Downhill
+1976-03-19,Cindy Nelson,US,35,Downhill
 1976-03-19,Fabienne Serrat,FR,52,Slalom
-1976-03-19,Danielle Debernard,FR,62,Slalom
+1976-03-19,Danielle Debernard,FR,82,Giant Slalom
 1976-03-19,Marie Therese Nadig,CH,19,Downhill
 1976-03-19,Bernadette Zurbriggen,CH,30,Downhill
 1976-03-19,Kathy Kreiner,CA,28,Giant Slalom
@@ -223,7 +223,7 @@ date,name,ath_country,value,specialty
 1976-03-19,Abbi Fisher,US,13,Giant Slalom
 1976-03-19,Hanni Wenzel,LI,15,Slalom
 1976-03-19,Mary Seaton,US,6,Giant Slalom
-1976-03-19,Monika Kaserer,AT,96,Giant Slalom
+1976-03-19,Monika Kaserer,AT,111,Giant Slalom
 1976-03-19,Regina Sackl,AT,4,Slalom
 1976-03-19,Martine Ellmer,AT,3,Downhill
 1976-03-19,Ingrid Gfoelner,AT,7,Giant Slalom

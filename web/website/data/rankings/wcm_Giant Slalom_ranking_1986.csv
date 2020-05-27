@@ -12,7 +12,7 @@ date,name,ath_country,value,specialty
 1985-12-15,Guenther Mader,AT,0,Slalom
 1985-12-15,Michael Eder,DE,0,Super G
 1985-12-15,Peter Namberger,DE,0,Giant Slalom
-1985-12-15,Andreas Wenzel,LI,0,Slalom
+1985-12-15,Andreas Wenzel,LI,0,Combined
 1985-12-15,Markus Wasmeier,DE,0,Super G
 1985-12-15,Pirmin Zurbriggen,CH,0,Slalom
 1985-12-15,Rok Petrovic,SK,12,Slalom
@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 1985-12-15,Gerhard Lieb,AT,0,Giant Slalom
 1985-12-15,Roland Pfeifer,AT,0,Giant Slalom
 1985-12-15,Thomas Buergler,CH,0,Slalom
-1985-12-15,Frank Piccard,FR,4,Downhill
+1985-12-15,Frank Piccard,FR,4,Combined
 1985-12-15,Peter Roth,DE,0,Super G
 1985-12-15,Hubert Strolz,AT,20,Giant Slalom
 1985-12-15,Hans Pieren,CH,0,Giant Slalom
@@ -42,7 +42,7 @@ date,name,ath_country,value,specialty
 1985-12-20,Tiger Shaw,US,1,Slalom
 1985-12-20,Thomas Buergler,CH,0,Slalom
 1985-12-20,Oswald Toetsch,IT,11,Giant Slalom
-1985-12-20,Andreas Wenzel,LI,0,Slalom
+1985-12-20,Andreas Wenzel,LI,0,Combined
 1985-12-20,Gerhard Lieb,AT,0,Giant Slalom
 1985-12-20,Peter Namberger,DE,0,Giant Slalom
 1985-12-20,Johan Wallner,SE,0,Slalom
@@ -55,7 +55,7 @@ date,name,ath_country,value,specialty
 1985-12-20,Roland Pfeifer,AT,4,Giant Slalom
 1985-12-20,Joergen Sundqvist,SE,6,Slalom
 1985-12-20,Christian Gaidet,FR,15,Slalom
-1985-12-20,Frank Piccard,FR,4,Downhill
+1985-12-20,Frank Piccard,FR,4,Combined
 1985-12-20,Alberto Tomba,IT,0,Giant Slalom
 1985-12-20,Leonhard Stock,AT,0,Downhill
 1985-12-20,Alex Giorgi,IT,3,Slalom
@@ -78,7 +78,7 @@ date,name,ath_country,value,specialty
 1986-01-03,Hubert Strolz,AT,55,Giant Slalom
 1986-01-03,Alex Giorgi,IT,6,Slalom
 1986-01-03,Marco Tonazzi,IT,13,Slalom
-1986-01-03,Frank Piccard,FR,4,Downhill
+1986-01-03,Frank Piccard,FR,4,Combined
 1986-01-03,Johan Wallner,SE,0,Slalom
 1986-01-03,Peter Namberger,DE,0,Giant Slalom
 1986-01-03,Alberto Tomba,IT,0,Giant Slalom
@@ -93,7 +93,7 @@ date,name,ath_country,value,specialty
 1986-01-03,Max Julen,CH,8,Giant Slalom
 1986-01-03,Dietmar Koehlbichler,AT,0,Slalom
 1986-01-03,Richard Pramotton,IT,18,Giant Slalom
-1986-01-03,Andreas Wenzel,LI,10,Slalom
+1986-01-03,Andreas Wenzel,LI,10,Combined
 1986-01-03,Tomaz Cizman,SK,0,Giant Slalom
 1986-01-03,Rok Petrovic,SK,18,Slalom
 1986-01-03,Ingemar Stenmark,SE,42,Slalom
@@ -118,7 +118,7 @@ date,name,ath_country,value,specialty
 1986-01-28,Peter Roth,DE,2,Super G
 1986-01-28,Hans Enn,AT,14,Super G
 1986-01-28,Tiger Shaw,US,1,Slalom
-1986-01-28,Frank Piccard,FR,4,Downhill
+1986-01-28,Frank Piccard,FR,4,Combined
 1986-01-28,Ingemar Stenmark,SE,42,Slalom
 1986-01-28,Gerhard Lieb,AT,0,Giant Slalom
 1986-01-28,Leonhard Stock,AT,0,Downhill
@@ -136,7 +136,7 @@ date,name,ath_country,value,specialty
 1986-01-28,Bojan Krizaj,SK,15,Slalom
 1986-01-28,Markus Wasmeier,DE,22,Super G
 1986-01-28,Peter Namberger,DE,9,Giant Slalom
-1986-01-28,Andreas Wenzel,LI,12,Slalom
+1986-01-28,Andreas Wenzel,LI,12,Combined
 1986-01-28,Michael Eder,DE,0,Super G
 1986-01-28,Rok Petrovic,SK,30,Slalom
 1986-01-28,Guenther Mader,AT,6,Slalom
@@ -158,7 +158,7 @@ date,name,ath_country,value,specialty
 1986-02-27,Markus Wasmeier,DE,22,Super G
 1986-02-27,Johan Wallner,SE,5,Slalom
 1986-02-27,Franz Gruber,AT,3,Giant Slalom
-1986-02-27,Andreas Wenzel,LI,12,Slalom
+1986-02-27,Andreas Wenzel,LI,12,Combined
 1986-02-27,Roland Pfeifer,AT,4,Giant Slalom
 1986-02-27,Alex Giorgi,IT,6,Slalom
 1986-02-27,Tomaz Cizman,SK,11,Giant Slalom
@@ -178,7 +178,7 @@ date,name,ath_country,value,specialty
 1986-02-27,Guenther Mader,AT,6,Slalom
 1986-02-27,Robert Erlacher,IT,42,Giant Slalom
 1986-02-27,Hans Enn,AT,14,Super G
-1986-02-27,Frank Piccard,FR,4,Downhill
+1986-02-27,Frank Piccard,FR,4,Combined
 1986-02-27,Joergen Sundqvist,SE,13,Slalom
 1986-02-27,Hans Pieren,CH,1,Giant Slalom
 1986-02-27,Tiger Shaw,US,3,Slalom
@@ -214,10 +214,10 @@ date,name,ath_country,value,specialty
 1986-03-18,Hans Enn,AT,18,Super G
 1986-03-18,Hubert Strolz,AT,105,Giant Slalom
 1986-03-18,Hans Stuffer,DE,20,Giant Slalom
-1986-03-18,Frank Piccard,FR,7,Downhill
+1986-03-18,Frank Piccard,FR,7,Combined
 1986-03-18,Max Julen,CH,8,Giant Slalom
 1986-03-18,Alex Giorgi,IT,11,Slalom
-1986-03-18,Andreas Wenzel,LI,12,Slalom
+1986-03-18,Andreas Wenzel,LI,12,Combined
 1986-03-18,Tomaz Cizman,SK,11,Giant Slalom
 1986-03-18,Bojan Krizaj,SK,15,Slalom
 1986-03-18,Johan Wallner,SE,5,Slalom
@@ -244,7 +244,7 @@ date,name,ath_country,value,specialty
 1986-03-19,Roland Pfeifer,AT,4,Giant Slalom
 1986-03-19,Martin Hangl,CH,26,Super G
 1986-03-19,Johan Wallner,SE,5,Slalom
-1986-03-19,Andreas Wenzel,LI,12,Slalom
+1986-03-19,Andreas Wenzel,LI,12,Combined
 1986-03-19,Franz Gruber,AT,3,Giant Slalom
 1986-03-19,Dietmar Koehlbichler,AT,6,Slalom
 1986-03-19,Hans Stuffer,DE,20,Giant Slalom
@@ -254,7 +254,7 @@ date,name,ath_country,value,specialty
 1986-03-19,Oswald Toetsch,IT,20,Giant Slalom
 1986-03-19,Peter Namberger,DE,9,Giant Slalom
 1986-03-19,Hubert Strolz,AT,120,Giant Slalom
-1986-03-19,Frank Piccard,FR,7,Downhill
+1986-03-19,Frank Piccard,FR,7,Combined
 1986-03-19,Tiger Shaw,US,4,Slalom
 1986-03-19,Christian Gaidet,FR,27,Slalom
 1986-03-19,Alberto Tomba,IT,11,Giant Slalom

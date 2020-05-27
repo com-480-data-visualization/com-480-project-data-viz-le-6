@@ -4,7 +4,7 @@ date,name,ath_country,value,specialty
 1976-12-19,Miroslav Sochor,SK,0,Giant Slalom
 1976-12-19,Franco Bieler,IT,4,Slalom
 1976-12-19,Gustav Thoeni,IT,15,Slalom
-1976-12-19,Walter Tresch,CH,0,Slalom
+1976-12-19,Walter Tresch,CH,0,Combined
 1976-12-19,Alois Morgenstern,AT,8,Slalom
 1976-12-19,Bruno Noeckler,IT,0,Slalom
 1976-12-19,Steve Mahre,US,0,Slalom
@@ -28,7 +28,7 @@ date,name,ath_country,value,specialty
 1976-12-19,Ingemar Stenmark,SE,0,Slalom
 1976-12-19,Klaus Heidegger,AT,11,Giant Slalom
 1977-01-03,Bogumir Zeman,SK,0,Slalom
-1977-01-03,Walter Tresch,CH,15,Slalom
+1977-01-03,Walter Tresch,CH,15,Combined
 1977-01-03,Willi Frommelt,LI,8,Giant Slalom
 1977-01-03,Hansi Hinterseer,AT,7,Giant Slalom
 1977-01-03,Miroslav Sochor,SK,0,Giant Slalom
@@ -58,7 +58,7 @@ date,name,ath_country,value,specialty
 1977-01-10,Odd Sorli,NO,0,Slalom
 1977-01-10,Bojan Krizaj,SK,0,Slalom
 1977-01-10,Alois Morgenstern,AT,23,Slalom
-1977-01-10,Walter Tresch,CH,15,Slalom
+1977-01-10,Walter Tresch,CH,15,Combined
 1977-01-10,Bogumir Zeman,SK,0,Slalom
 1977-01-10,Andreas Wenzel,LI,0,Giant Slalom
 1977-01-10,Bruno Noeckler,IT,2,Slalom
@@ -108,7 +108,7 @@ date,name,ath_country,value,specialty
 1977-01-16,Alois Morgenstern,AT,26,Slalom
 1977-01-16,Bogumir Zeman,SK,0,Slalom
 1977-01-16,Odd Sorli,NO,0,Slalom
-1977-01-16,Walter Tresch,CH,15,Slalom
+1977-01-16,Walter Tresch,CH,15,Combined
 1977-01-16,Peter Luescher,CH,1,Combined
 1977-01-16,Andreas Wenzel,LI,0,Giant Slalom
 1977-01-23,Torsten Jakobsson,SE,0,Giant Slalom
@@ -125,7 +125,7 @@ date,name,ath_country,value,specialty
 1977-01-23,Heini Hemmi,CH,3,Giant Slalom
 1977-01-23,Piero Gros,IT,49,Slalom
 1977-01-23,Bojan Krizaj,SK,0,Slalom
-1977-01-23,Walter Tresch,CH,21,Slalom
+1977-01-23,Walter Tresch,CH,21,Combined
 1977-01-23,Miroslav Sochor,SK,0,Giant Slalom
 1977-01-23,Gustav Thoeni,IT,45,Slalom
 1977-01-23,Phil Mahre,US,0,Giant Slalom
@@ -157,7 +157,7 @@ date,name,ath_country,value,specialty
 1977-02-06,Fausto Radici,IT,49,Slalom
 1977-02-06,Paul Frommelt,LI,71,Slalom
 1977-02-06,Christian Hemmi,CH,0,Giant Slalom
-1977-02-06,Walter Tresch,CH,21,Slalom
+1977-02-06,Walter Tresch,CH,21,Combined
 1977-02-06,Phil Mahre,US,0,Giant Slalom
 1977-02-06,Hansi Hinterseer,AT,21,Giant Slalom
 1977-02-06,Christian Neureuther,DE,11,Slalom
@@ -177,7 +177,7 @@ date,name,ath_country,value,specialty
 1977-02-27,Toshihiro Kaiwa,JP,4,Slalom
 1977-02-27,Odd Sorli,NO,2,Slalom
 1977-02-27,Franco Bieler,IT,34,Slalom
-1977-02-27,Walter Tresch,CH,21,Slalom
+1977-02-27,Walter Tresch,CH,21,Combined
 1977-02-27,Ingemar Stenmark,SE,145,Slalom
 1977-02-27,Alois Morgenstern,AT,27,Slalom
 1977-02-27,Klaus Heidegger,AT,102,Giant Slalom
@@ -212,7 +212,7 @@ date,name,ath_country,value,specialty
 1977-03-05,Hansi Hinterseer,AT,29,Giant Slalom
 1977-03-05,Gustav Thoeni,IT,56,Slalom
 1977-03-05,Willi Frommelt,LI,9,Giant Slalom
-1977-03-05,Walter Tresch,CH,21,Slalom
+1977-03-05,Walter Tresch,CH,21,Combined
 1977-03-05,Bojan Krizaj,SK,8,Slalom
 1977-03-05,Alois Morgenstern,AT,27,Slalom
 1977-03-05,Franco Bieler,IT,40,Slalom
@@ -230,7 +230,7 @@ date,name,ath_country,value,specialty
 1977-03-18,Piero Gros,IT,81,Slalom
 1977-03-18,Paul Frommelt,LI,84,Slalom
 1977-03-18,Miroslav Sochor,SK,1,Giant Slalom
-1977-03-18,Walter Tresch,CH,29,Slalom
+1977-03-18,Walter Tresch,CH,29,Combined
 1977-03-18,Franco Bieler,IT,46,Slalom
 1977-03-18,Bruno Noeckler,IT,24,Slalom
 1977-03-18,Toshihiro Kaiwa,JP,4,Slalom
@@ -263,7 +263,7 @@ date,name,ath_country,value,specialty
 1977-03-20,Paul Frommelt,LI,95,Slalom
 1977-03-20,Franco Bieler,IT,66,Slalom
 1977-03-20,Gustav Thoeni,IT,71,Slalom
-1977-03-20,Walter Tresch,CH,29,Slalom
+1977-03-20,Walter Tresch,CH,29,Combined
 1977-03-20,Alois Morgenstern,AT,27,Slalom
 1977-03-20,Peter Luescher,CH,1,Combined
 1977-03-20,Bruno Noeckler,IT,24,Slalom

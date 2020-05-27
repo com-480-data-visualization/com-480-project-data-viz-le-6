@@ -17,7 +17,7 @@ date,name,ath_country,value,specialty
 2014-10-26,Alexander Ploner,IT,0,Combined
 2014-10-26,David Chodounsky,US,0,Slalom
 2014-10-26,Cristian Javier Simari Birkner,AR,0,Combined
-2014-10-26,Ondrej Bank,CZ,0,Downhill
+2014-10-26,Ondrej Bank,CZ,0,Combined
 2014-10-26,Giulio Bosca,IT,0,Combined
 2014-10-26,Manfred Moelgg,IT,0,Slalom
 2014-10-26,Andreas Zampa,SK,0,Combined
@@ -165,7 +165,7 @@ date,name,ath_country,value,specialty
 2014-12-07,Yuri Danilochkin,BY,0,Combined
 2014-12-07,Matthias Mayer,AT,7,Downhill
 2014-12-07,Giulio Bosca,IT,0,Combined
-2014-12-07,Ondrej Bank,CZ,0,Downhill
+2014-12-07,Ondrej Bank,CZ,0,Combined
 2014-12-07,Alexandru Barbu,RO,0,Combined
 2014-12-07,Natko Zrncic-Dim,HR,0,Combined
 2014-12-07,Manfred Moelgg,IT,0,Slalom
@@ -379,7 +379,7 @@ date,name,ath_country,value,specialty
 2014-12-12,Philipp Schoerghofer,AT,27,Giant Slalom
 2014-12-12,Kieffer Christianson,US,0,Combined
 2014-12-12,Giulio Bosca,IT,0,Combined
-2014-12-12,Ondrej Bank,CZ,0,Downhill
+2014-12-12,Ondrej Bank,CZ,0,Combined
 2014-12-12,Filip Zubcic,HR,6,Giant Slalom
 2014-12-12,Morgan Pridy,CA,0,Super G
 2014-12-12,Marcus Sandell,FI,57,Giant Slalom
@@ -472,7 +472,7 @@ date,name,ath_country,value,specialty
 2014-12-21,Fritz Dopfer,DE,188,Slalom
 2014-12-21,Carlo Janka,CH,86,Downhill
 2014-12-21,Marcus Sandell,FI,83,Giant Slalom
-2014-12-21,Ondrej Bank,CZ,14,Downhill
+2014-12-21,Ondrej Bank,CZ,14,Combined
 2014-12-21,Cyprien Richard,FR,8,Giant Slalom
 2014-12-21,Thomas Mermillod,FR,0,Super G
 2014-12-21,Filip Zubcic,HR,42,Giant Slalom
@@ -596,7 +596,7 @@ date,name,ath_country,value,specialty
 2015-01-10,Carlo Janka,CH,96,Downhill
 2015-01-10,Andreas Zampa,SK,0,Combined
 2015-01-10,Tim Jitloff,US,83,Giant Slalom
-2015-01-10,Ondrej Bank,CZ,18,Downhill
+2015-01-10,Ondrej Bank,CZ,18,Combined
 2015-01-10,Mark Engel,US,0,Combined
 2015-01-10,Adam Peraudo,IT,0,Combined
 2015-01-10,Giulio Bosca,IT,0,Combined
@@ -775,7 +775,7 @@ date,name,ath_country,value,specialty
 2015-03-01,Tyler Werry,CA,0,Combined
 2015-03-01,Andreas Zampa,SK,0,Combined
 2015-03-01,Luca De Aliprandini,IT,0,Combined
-2015-03-01,Ondrej Bank,CZ,18,Downhill
+2015-03-01,Ondrej Bank,CZ,18,Combined
 2015-03-01,Bjoernar Neteland,NO,0,Super G
 2015-03-01,Alex Benianidze,GE,0,Combined
 2015-03-01,Jonas Fabre,FR,0,Combined
@@ -873,7 +873,7 @@ date,name,ath_country,value,specialty
 2015-03-14,Manfred Moelgg,IT,14,Slalom
 2015-03-14,Maarten Meiners,NL,0,Combined
 2015-03-14,Tyler Werry,CA,0,Combined
-2015-03-14,Ondrej Bank,CZ,18,Downhill
+2015-03-14,Ondrej Bank,CZ,18,Combined
 2015-03-14,Cyprien Richard,FR,21,Giant Slalom
 2015-03-14,Rasmus Windingstad,NO,0,Combined
 2015-03-14,Pavel Trikhichev,RU,0,Slalom
@@ -1030,7 +1030,7 @@ date,name,ath_country,value,specialty
 2015-03-21,Trevor Philp,CA,12,Giant Slalom
 2015-03-21,Adam Kotzmann,CZ,0,Combined
 2015-03-21,Andreas Zampa,SK,0,Combined
-2015-03-21,Ondrej Bank,CZ,18,Downhill
+2015-03-21,Ondrej Bank,CZ,18,Combined
 2015-03-21,Maarten Meiners,NL,0,Combined
 2015-03-21,Alex Benianidze,GE,0,Combined
 2015-03-21,Manfred Moelgg,IT,14,Slalom

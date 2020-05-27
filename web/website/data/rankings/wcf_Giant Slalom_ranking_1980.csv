@@ -17,7 +17,7 @@ date,name,ath_country,value,specialty
 1979-12-06,Heidi Riedler,AT,0,Giant Slalom
 1979-12-06,Fabienne Serrat,FR,9,Slalom
 1979-12-06,Christa Kinshofer,DE,12,Giant Slalom
-1979-12-06,Wiki Fleckenstein,US,4,Giant Slalom
+1979-12-06,Wiki Fleckenstein,US,4,Combined
 1979-12-06,Ann Melander,SE,0,Giant Slalom
 1979-12-06,Annemarie Proell,AT,10,Downhill
 1979-12-06,Perrine Pelen,FR,20,Slalom
@@ -29,7 +29,7 @@ date,name,ath_country,value,specialty
 1979-12-06,Piera Macchi,IT,0,Slalom
 1979-12-06,Regine Moesenlechner,DE,6,Slalom
 1979-12-06,Erika Gfrerer,AT,0,Giant Slalom
-1979-12-06,Kathy Kreiner,CA,0,Giant Slalom
+1979-12-06,Kathy Kreiner,CA,0,Combined
 1979-12-06,Tamara McKinney,US,0,Slalom
 1979-12-06,Cindy Nelson,US,0,Downhill
 1979-12-06,Irene Epple,DE,2,Giant Slalom
@@ -40,7 +40,7 @@ date,name,ath_country,value,specialty
 1979-12-08,Annemarie Proell,AT,18,Downhill
 1979-12-08,Maria Rosa Quario,IT,7,Slalom
 1979-12-08,Christa Kinshofer,DE,12,Giant Slalom
-1979-12-08,Kathy Kreiner,CA,0,Giant Slalom
+1979-12-08,Kathy Kreiner,CA,0,Combined
 1979-12-08,Daniela Zini,IT,13,Slalom
 1979-12-08,Regina Sackl,AT,12,Slalom
 1979-12-08,Lise Marie Morerod,CH,0,Giant Slalom
@@ -74,7 +74,7 @@ date,name,ath_country,value,specialty
 1979-12-08,Maria Epple,DE,3,Giant Slalom
 1979-12-08,Ursula Konzett,LI,7,Giant Slalom
 1979-12-08,Fabienne Serrat,FR,24,Slalom
-1979-12-08,Wiki Fleckenstein,US,4,Giant Slalom
+1979-12-08,Wiki Fleckenstein,US,4,Combined
 1980-01-10,Lenka Vlckova,SK,0,Slalom
 1980-01-10,Annemarie Proell,AT,18,Downhill
 1980-01-10,Regine Moesenlechner,DE,18,Slalom
@@ -91,7 +91,7 @@ date,name,ath_country,value,specialty
 1980-01-10,Maria Rosa Quario,IT,15,Slalom
 1980-01-10,Daniela Zini,IT,13,Slalom
 1980-01-10,Marie Therese Nadig,CH,25,Downhill
-1980-01-10,Kathy Kreiner,CA,0,Giant Slalom
+1980-01-10,Kathy Kreiner,CA,0,Combined
 1980-01-10,Claudia Giordani,IT,30,Slalom
 1980-01-10,Erika Gfrerer,AT,0,Giant Slalom
 1980-01-10,Hanni Wenzel,LI,61,Giant Slalom
@@ -110,7 +110,7 @@ date,name,ath_country,value,specialty
 1980-01-10,Brigitte Glur,CH,0,Slalom
 1980-01-10,Regina Sackl,AT,12,Slalom
 1980-01-10,Heidi Preuss,US,0,Downhill
-1980-01-10,Wiki Fleckenstein,US,4,Giant Slalom
+1980-01-10,Wiki Fleckenstein,US,4,Combined
 1980-01-10,Roswitha Steiner,AT,0,Giant Slalom
 1980-01-10,Christin Cooper,US,11,Giant Slalom
 1980-01-16,Daniela Zini,IT,20,Slalom
@@ -123,7 +123,7 @@ date,name,ath_country,value,specialty
 1980-01-16,Heidi Riedler,AT,0,Giant Slalom
 1980-01-16,Torill Fjelstadt,NO,8,Combined
 1980-01-16,Abbi Fisher,US,3,Slalom
-1980-01-16,Wiki Fleckenstein,US,4,Giant Slalom
+1980-01-16,Wiki Fleckenstein,US,4,Combined
 1980-01-16,Lise Marie Morerod,CH,0,Giant Slalom
 1980-01-16,Marina Laurençon,FR,2,Slalom
 1980-01-16,Ingrid Eberle,AT,7,Slalom
@@ -149,7 +149,7 @@ date,name,ath_country,value,specialty
 1980-01-16,Marie Therese Nadig,CH,45,Downhill
 1980-01-16,Roswitha Steiner,AT,0,Giant Slalom
 1980-01-16,Hanni Wenzel,LI,86,Giant Slalom
-1980-01-16,Kathy Kreiner,CA,0,Giant Slalom
+1980-01-16,Kathy Kreiner,CA,0,Combined
 1980-01-16,Lenka Vlckova,SK,3,Slalom
 1980-01-26,Irene Epple,DE,34,Giant Slalom
 1980-01-26,Olga Charvatova,SK,0,Slalom
@@ -166,7 +166,7 @@ date,name,ath_country,value,specialty
 1980-01-26,Claudia Giordani,IT,36,Slalom
 1980-01-26,Fabienne Serrat,FR,30,Slalom
 1980-01-26,Ann Melander,SE,0,Giant Slalom
-1980-01-26,Wiki Fleckenstein,US,8,Giant Slalom
+1980-01-26,Wiki Fleckenstein,US,8,Combined
 1980-01-26,Maria Epple,DE,6,Giant Slalom
 1980-01-26,Wanda Bieler,IT,17,Slalom
 1980-01-26,Roswitha Steiner,AT,0,Giant Slalom
@@ -180,7 +180,7 @@ date,name,ath_country,value,specialty
 1980-01-26,Lenka Vlckova,SK,3,Slalom
 1980-01-26,Piera Macchi,IT,9,Slalom
 1980-01-26,Tamara McKinney,US,9,Slalom
-1980-01-26,Kathy Kreiner,CA,0,Giant Slalom
+1980-01-26,Kathy Kreiner,CA,0,Combined
 1980-01-26,Regine Moesenlechner,DE,22,Slalom
 1980-01-26,Maria Rosa Quario,IT,15,Slalom
 1980-01-26,Daniela Zini,IT,28,Slalom
@@ -196,7 +196,7 @@ date,name,ath_country,value,specialty
 1980-02-28,Monika Kaserer,AT,8,Giant Slalom
 1980-02-28,Erika Hess,CH,82,Giant Slalom
 1980-02-28,Perrine Pelen,FR,94,Slalom
-1980-02-28,Wiki Fleckenstein,US,8,Giant Slalom
+1980-02-28,Wiki Fleckenstein,US,8,Combined
 1980-02-28,Brigitte Glur,CH,0,Slalom
 1980-02-28,Wanda Bieler,IT,17,Slalom
 1980-02-28,Tamara McKinney,US,16,Slalom
@@ -211,7 +211,7 @@ date,name,ath_country,value,specialty
 1980-02-28,Marie Therese Nadig,CH,70,Downhill
 1980-02-28,Erika Gfrerer,AT,2,Giant Slalom
 1980-02-28,Maria Rosa Quario,IT,15,Slalom
-1980-02-28,Kathy Kreiner,CA,9,Giant Slalom
+1980-02-28,Kathy Kreiner,CA,9,Combined
 1980-02-28,Piera Macchi,IT,9,Slalom
 1980-02-28,Ursula Konzett,LI,17,Giant Slalom
 1980-02-28,Lise Marie Morerod,CH,5,Giant Slalom
@@ -241,7 +241,7 @@ date,name,ath_country,value,specialty
 1980-03-02,Christin Cooper,US,33,Giant Slalom
 1980-03-02,Ingrid Eberle,AT,7,Slalom
 1980-03-02,Olga Charvatova,SK,0,Slalom
-1980-03-02,Kathy Kreiner,CA,11,Giant Slalom
+1980-03-02,Kathy Kreiner,CA,11,Combined
 1980-03-02,Hanni Wenzel,LI,151,Giant Slalom
 1980-03-02,Torill Fjelstadt,NO,8,Combined
 1980-03-02,Lise Marie Morerod,CH,5,Giant Slalom
@@ -250,7 +250,7 @@ date,name,ath_country,value,specialty
 1980-03-02,Fabienne Serrat,FR,46,Slalom
 1980-03-02,Heidi Preuss,US,3,Downhill
 1980-03-02,Heidi Riedler,AT,5,Giant Slalom
-1980-03-02,Wiki Fleckenstein,US,8,Giant Slalom
+1980-03-02,Wiki Fleckenstein,US,8,Combined
 1980-03-02,Wanda Bieler,IT,17,Slalom
 1980-03-02,Maria Epple,DE,26,Giant Slalom
 1980-03-02,Piera Macchi,IT,9,Slalom
@@ -297,9 +297,9 @@ date,name,ath_country,value,specialty
 1980-03-12,Lise Marie Morerod,CH,5,Giant Slalom
 1980-03-12,Heidi Riedler,AT,5,Giant Slalom
 1980-03-12,Ann Melander,SE,13,Giant Slalom
-1980-03-12,Wiki Fleckenstein,US,8,Giant Slalom
+1980-03-12,Wiki Fleckenstein,US,8,Combined
 1980-03-12,Monika Kaserer,AT,8,Giant Slalom
 1980-03-12,Brigitte Glur,CH,4,Slalom
 1980-03-12,Marina Laurençon,FR,2,Slalom
-1980-03-12,Kathy Kreiner,CA,11,Giant Slalom
+1980-03-12,Kathy Kreiner,CA,11,Combined
 1980-03-12,Roswitha Steiner,AT,3,Giant Slalom

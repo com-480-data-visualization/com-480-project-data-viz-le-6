@@ -9,7 +9,7 @@ date,name,ath_country,value,specialty
 1987-11-27,Robert Zan,SK,0,Slalom
 1987-11-27,Ingemar Stenmark,SE,0,Giant Slalom
 1987-11-27,Pirmin Zurbriggen,CH,9,Downhill
-1987-11-27,Peter Jurko,SK,0,Slalom
+1987-11-27,Peter Jurko,SK,0,Combined
 1987-11-27,Bojan Krizaj,SK,6,Slalom
 1987-11-27,Guenther Mader,AT,15,Slalom
 1987-11-27,Armin Bittner,DE,0,Slalom
@@ -61,7 +61,7 @@ date,name,ath_country,value,specialty
 1987-12-16,Hubert Strolz,AT,8,Giant Slalom
 1987-12-16,Bojan Krizaj,SK,21,Slalom
 1987-12-16,Joergen Sundqvist,SE,0,Slalom
-1987-12-16,Peter Jurko,SK,0,Slalom
+1987-12-16,Peter Jurko,SK,0,Combined
 1987-12-16,Rudolph Nierlich,AT,20,Giant Slalom
 1987-12-16,Lars Goeran Halvarsson,SE,6,Slalom
 1987-12-16,Franck Woerndl,DE,7,Giant Slalom
@@ -129,7 +129,7 @@ date,name,ath_country,value,specialty
 1987-12-20,Tetsuya Okabe,JP,2,Slalom
 1987-12-20,Hubert Strolz,AT,16,Giant Slalom
 1987-12-20,Guenther Mader,AT,30,Slalom
-1987-12-20,Peter Jurko,SK,0,Slalom
+1987-12-20,Peter Jurko,SK,0,Combined
 1987-12-20,Bojan Krizaj,SK,21,Slalom
 1988-01-12,Felix McGrath,US,13,Slalom
 1988-01-12,Bernhard Gstrein,AT,25,Slalom
@@ -156,7 +156,7 @@ date,name,ath_country,value,specialty
 1988-01-12,Robert Zan,SK,0,Slalom
 1988-01-12,Roland Pfeifer,AT,13,Slalom
 1988-01-12,Paul Accola,CH,0,Slalom
-1988-01-12,Peter Jurko,SK,0,Slalom
+1988-01-12,Peter Jurko,SK,0,Combined
 1988-01-12,Stefan Pistor,DE,0,Slalom
 1988-01-12,Marc Girardelli,LU,15,Downhill
 1988-01-12,Armin Bittner,DE,24,Slalom
@@ -195,7 +195,7 @@ date,name,ath_country,value,specialty
 1988-01-17,Joergen Sundqvist,SE,0,Slalom
 1988-01-17,Rudolph Nierlich,AT,20,Giant Slalom
 1988-01-17,Rok Petrovic,SK,12,Slalom
-1988-01-17,Peter Jurko,SK,1,Slalom
+1988-01-17,Peter Jurko,SK,1,Combined
 1988-01-17,Thomas Stangassinger,AT,29,Slalom
 1988-01-17,Carlo Gerosa,IT,23,Slalom
 1988-01-17,Paul Frommelt,LI,12,Slalom
@@ -233,7 +233,7 @@ date,name,ath_country,value,specialty
 1988-03-19,Thomas Stangassinger,AT,29,Slalom
 1988-03-19,Roberto Grigis,IT,4,Slalom
 1988-03-19,Stefan Pistor,DE,3,Slalom
-1988-03-19,Peter Jurko,SK,1,Slalom
+1988-03-19,Peter Jurko,SK,1,Combined
 1988-03-19,Richard Pramotton,IT,33,Slalom
 1988-03-19,Franck Woerndl,DE,19,Giant Slalom
 1988-03-19,Peter Roth,DE,7,Slalom
@@ -293,7 +293,7 @@ date,name,ath_country,value,specialty
 1988-03-22,Grega Benedik,SK,44,Slalom
 1988-03-22,Finn Chr. Jagge,NO,11,Slalom
 1988-03-22,Joergen Sundqvist,SE,10,Slalom
-1988-03-22,Peter Jurko,SK,1,Slalom
+1988-03-22,Peter Jurko,SK,1,Combined
 1988-03-22,Paul Frommelt,LI,27,Slalom
 1988-03-22,Michael Tritscher,AT,6,Slalom
 1988-03-22,Felix McGrath,US,42,Slalom
@@ -308,7 +308,7 @@ date,name,ath_country,value,specialty
 1988-03-22,Mathias Berthold,AT,17,Slalom
 1988-03-22,Alberto Tomba,IT,170,Slalom
 1988-03-26,Christian Gaidet,FR,1,Giant Slalom
-1988-03-26,Peter Jurko,SK,1,Slalom
+1988-03-26,Peter Jurko,SK,1,Combined
 1988-03-26,Marco Tonazzi,IT,2,Giant Slalom
 1988-03-26,Ivano Edalini,IT,2,Slalom
 1988-03-26,Christian Orlainsky,AT,20,Slalom

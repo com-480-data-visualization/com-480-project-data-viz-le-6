@@ -39,7 +39,7 @@ date,name,ath_country,value,specialty
 1991-11-24,Jeremy Nobis,US,10,Slalom
 1991-11-24,Johan Wallner,SE,0,Giant Slalom
 1991-11-24,Mats Ericson,SE,0,Slalom
-1991-11-24,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-11-24,Harald Chr. Strand Nilsen,NO,0,Combined
 1991-11-24,Siegfried Voglreiter,AT,0,Slalom
 1991-11-24,Hans Pieren,CH,9,Giant Slalom
 1991-11-24,Fabrizio Tescari,IT,0,Slalom
@@ -54,7 +54,7 @@ date,name,ath_country,value,specialty
 1991-11-24,Stephane Exartier,FR,16,Giant Slalom
 1991-11-24,Tetsuya Okabe,JP,0,Slalom
 1991-11-24,Oliver Kuenzi,CH,0,Slalom
-1991-11-24,Stephan Eberharter,AT,0,Super G
+1991-11-24,Stephan Eberharter,AT,0,Combined
 1991-11-24,Bernhard Bauer,DE,12,Slalom
 1991-11-24,Angelo Weiss,IT,0,Slalom
 1991-11-24,Patrice Bianchi,FR,40,Slalom
@@ -80,13 +80,13 @@ date,name,ath_country,value,specialty
 1991-11-30,Oliver Kuenzi,CH,0,Slalom
 1991-11-30,Espen Hellerud,NO,0,Slalom
 1991-11-30,Roberto Spampatti,IT,0,Giant Slalom
-1991-11-30,Stephan Eberharter,AT,0,Super G
+1991-11-30,Stephan Eberharter,AT,0,Combined
 1991-11-30,Alain Villiard,CA,14,Slalom
 1991-11-30,Christian Polig,IT,50,Slalom
 1991-11-30,Johan Wallner,SE,0,Giant Slalom
 1991-11-30,Thomas Sykora,AT,6,Slalom
 1991-11-30,Christophe Berra,CH,14,Slalom
-1991-11-30,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-11-30,Harald Chr. Strand Nilsen,NO,0,Combined
 1991-11-30,Jeremy Nobis,US,10,Slalom
 1991-11-30,Michael von Gruenigen,CH,12,Giant Slalom
 1991-11-30,Didrik Marksten,NO,0,Giant Slalom
@@ -129,7 +129,7 @@ date,name,ath_country,value,specialty
 1991-12-10,Mats Ericson,SE,38,Slalom
 1991-12-10,Michael Tritscher,AT,28,Slalom
 1991-12-10,Tetsuya Okabe,JP,0,Slalom
-1991-12-10,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-12-10,Harald Chr. Strand Nilsen,NO,0,Combined
 1991-12-10,Thomas Fogdoe,SE,80,Slalom
 1991-12-10,Gregor Grilc,SK,0,Giant Slalom
 1991-12-10,Finn Chr. Jagge,NO,186,Slalom
@@ -140,7 +140,7 @@ date,name,ath_country,value,specialty
 1991-12-10,Oliver Kuenzi,CH,0,Slalom
 1991-12-10,Jeremy Nobis,US,17,Slalom
 1991-12-10,Christian Polig,IT,50,Slalom
-1991-12-10,Stephan Eberharter,AT,0,Super G
+1991-12-10,Stephan Eberharter,AT,0,Combined
 1991-12-10,Willy Raine,CA,0,Slalom
 1991-12-10,Jonas Nilsson,SE,44,Slalom
 1991-12-10,Alain Villiard,CA,14,Slalom
@@ -197,7 +197,7 @@ date,name,ath_country,value,specialty
 1991-12-17,Bernhard Gstrein,AT,102,Slalom
 1991-12-17,Patrick Staub,CH,36,Slalom
 1991-12-17,Gregor Grilc,SK,0,Giant Slalom
-1991-12-17,Stephan Eberharter,AT,5,Super G
+1991-12-17,Stephan Eberharter,AT,5,Combined
 1991-12-17,Takuya Ishioka,JP,6,Slalom
 1991-12-17,Roberto Spampatti,IT,26,Giant Slalom
 1991-12-17,Oliver Kuenzi,CH,0,Slalom
@@ -216,7 +216,7 @@ date,name,ath_country,value,specialty
 1991-12-17,Finn Chr. Jagge,NO,286,Slalom
 1991-12-17,Mats Ericson,SE,58,Slalom
 1991-12-17,Peter Roth,DE,108,Slalom
-1991-12-17,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-12-17,Harald Chr. Strand Nilsen,NO,0,Combined
 1991-12-17,Marc Girardelli,LU,133,Super G
 1991-12-17,Michael Tritscher,AT,71,Slalom
 1991-12-17,Paul Accola,CH,286,Slalom
@@ -241,7 +241,7 @@ date,name,ath_country,value,specialty
 1992-01-05,Paul Accola,CH,337,Slalom
 1992-01-05,Bernhard Bauer,DE,26,Slalom
 1992-01-05,Markus Eberle,AT,16,Slalom
-1992-01-05,Harald Chr. Strand Nilsen,NO,12,Slalom
+1992-01-05,Harald Chr. Strand Nilsen,NO,12,Combined
 1992-01-05,Kjetil Andre Aamodt,NO,0,Super G
 1992-01-05,Finn Chr. Jagge,NO,346,Slalom
 1992-01-05,Mats Ericson,SE,58,Slalom
@@ -252,7 +252,7 @@ date,name,ath_country,value,specialty
 1992-01-05,Angelo Weiss,IT,0,Slalom
 1992-01-05,Alberto Tomba,IT,460,Slalom
 1992-01-05,Fabrizio Tescari,IT,36,Slalom
-1992-01-05,Stephan Eberharter,AT,23,Super G
+1992-01-05,Stephan Eberharter,AT,23,Combined
 1992-01-05,Alain Villiard,CA,14,Slalom
 1992-01-05,Hans Pieren,CH,9,Giant Slalom
 1992-01-05,Dietmar Thoeni,AT,8,Slalom
@@ -326,7 +326,7 @@ date,name,ath_country,value,specialty
 1992-01-13,Oliver Kuenzi,CH,38,Slalom
 1992-01-13,Ole Kristian Furuseth,NO,237,Slalom
 1992-01-13,Fabrizio Tescari,IT,45,Slalom
-1992-01-13,Stephan Eberharter,AT,47,Super G
+1992-01-13,Stephan Eberharter,AT,47,Combined
 1992-01-13,Christian Polig,IT,70,Slalom
 1992-01-13,Heinz Peter Platter,IT,10,Slalom
 1992-01-13,Armin Bittner,DE,215,Slalom
@@ -345,7 +345,7 @@ date,name,ath_country,value,specialty
 1992-01-13,Guenther Mader,AT,90,Downhill
 1992-01-13,Konrad  Kurt Ladstaetter,IT,151,Slalom
 1992-01-13,Espen Hellerud,NO,0,Slalom
-1992-01-13,Harald Chr. Strand Nilsen,NO,12,Slalom
+1992-01-13,Harald Chr. Strand Nilsen,NO,12,Combined
 1992-01-13,Mats Ericson,SE,58,Slalom
 1992-01-13,Michael Tritscher,AT,71,Slalom
 1992-01-13,Paul Accola,CH,377,Slalom
@@ -362,7 +362,7 @@ date,name,ath_country,value,specialty
 1992-01-19,Heinz Peter Platter,IT,10,Slalom
 1992-01-19,Siegfried Voglreiter,AT,0,Slalom
 1992-01-19,Matteo Belfrond,IT,7,Giant Slalom
-1992-01-19,Harald Chr. Strand Nilsen,NO,21,Slalom
+1992-01-19,Harald Chr. Strand Nilsen,NO,21,Combined
 1992-01-19,Markus Eberle,AT,16,Slalom
 1992-01-19,Martin Knoeri,CH,10,Giant Slalom
 1992-01-19,Takuya Ishioka,JP,6,Slalom
@@ -377,7 +377,7 @@ date,name,ath_country,value,specialty
 1992-01-19,Marc Girardelli,LU,228,Super G
 1992-01-19,Thomas Sykora,AT,52,Slalom
 1992-01-19,Guenther Mader,AT,90,Downhill
-1992-01-19,Stephan Eberharter,AT,54,Super G
+1992-01-19,Stephan Eberharter,AT,54,Combined
 1992-01-19,Oliver Kuenzi,CH,38,Slalom
 1992-01-19,Johan Wallner,SE,14,Giant Slalom
 1992-01-19,Bernhard Gstrein,AT,156,Slalom
@@ -451,7 +451,7 @@ date,name,ath_country,value,specialty
 1992-01-26,Tetsuya Okabe,JP,14,Slalom
 1992-01-26,Oliver Kuenzi,CH,56,Slalom
 1992-01-26,Roberto Spampatti,IT,26,Giant Slalom
-1992-01-26,Harald Chr. Strand Nilsen,NO,37,Slalom
+1992-01-26,Harald Chr. Strand Nilsen,NO,37,Combined
 1992-01-26,Alain Villiard,CA,14,Slalom
 1992-01-26,Christian Polig,IT,78,Slalom
 1992-01-26,Dietmar Thoeni,AT,24,Slalom
@@ -461,7 +461,7 @@ date,name,ath_country,value,specialty
 1992-01-26,Mats Ericson,SE,58,Slalom
 1992-01-26,Christophe Berra,CH,66,Slalom
 1992-01-26,Jonas Nilsson,SE,110,Slalom
-1992-01-26,Stephan Eberharter,AT,54,Super G
+1992-01-26,Stephan Eberharter,AT,54,Combined
 1992-01-26,Fabrizio Tescari,IT,74,Slalom
 1992-01-26,Angelo Weiss,IT,0,Slalom
 1992-01-26,Jeremy Nobis,US,17,Slalom
@@ -471,7 +471,7 @@ date,name,ath_country,value,specialty
 1992-01-26,Thomas Sykora,AT,52,Slalom
 1992-01-26,Michael von Gruenigen,CH,95,Giant Slalom
 1992-01-26,Siegfried Voglreiter,AT,0,Slalom
-1992-03-22,Harald Chr. Strand Nilsen,NO,37,Slalom
+1992-03-22,Harald Chr. Strand Nilsen,NO,37,Combined
 1992-03-22,Siegfried Voglreiter,AT,16,Slalom
 1992-03-22,Konrad  Kurt Ladstaetter,IT,187,Slalom
 1992-03-22,Fabrizio Tescari,IT,74,Slalom
@@ -516,7 +516,7 @@ date,name,ath_country,value,specialty
 1992-03-22,Thomas Stangassinger,AT,257,Slalom
 1992-03-22,Marc Girardelli,LU,228,Super G
 1992-03-22,Patrick Staub,CH,277,Slalom
-1992-03-22,Stephan Eberharter,AT,54,Super G
+1992-03-22,Stephan Eberharter,AT,54,Combined
 1992-03-22,Joe Levins,US,15,Slalom
 1992-03-22,Alain Villiard,CA,14,Slalom
 1992-03-22,Johan Wallner,SE,69,Giant Slalom

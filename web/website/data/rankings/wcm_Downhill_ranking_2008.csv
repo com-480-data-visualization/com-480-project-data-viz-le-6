@@ -28,7 +28,7 @@ date,name,ath_country,value,specialty
 2007-11-24,Kurt Sulzenbacher,IT,50,Downhill
 2007-11-24,Didier Defago,CH,9,Super G
 2007-11-24,Erik Guay,CA,14,Super G
-2007-11-24,Rainer Schoenfelder,AT,0,Slalom
+2007-11-24,Rainer Schoenfelder,AT,0,Combined
 2007-11-24,Tobias Gruenenfelder,CH,45,Downhill
 2007-11-24,Marco Buechel,LI,22,Super G
 2007-11-24,Ambrosi Hoffmann,CH,0,Downhill
@@ -202,7 +202,7 @@ date,name,ath_country,value,specialty
 2007-11-30,Stephan Keppler,DE,0,Super G
 2007-11-30,Hermann Maier,AT,39,Super G
 2007-11-30,Thomas Fischer,DE,0,Combined
-2007-11-30,Rainer Schoenfelder,AT,0,Slalom
+2007-11-30,Rainer Schoenfelder,AT,0,Combined
 2007-11-30,Didier Defago,CH,59,Super G
 2007-11-30,Tobias Gruenenfelder,CH,45,Downhill
 2007-11-30,Marco Buechel,LI,67,Super G
@@ -221,7 +221,7 @@ date,name,ath_country,value,specialty
 2007-12-15,Francois Bourque,CA,0,Super G
 2007-12-15,Werner Heel,IT,55,Downhill
 2007-12-15,Andreas Buder,AT,86,Downhill
-2007-12-15,Rainer Schoenfelder,AT,0,Slalom
+2007-12-15,Rainer Schoenfelder,AT,0,Combined
 2007-12-15,Cyril Nocenti,FR,0,Combined
 2007-12-15,Johannes Stehle,DE,21,Downhill
 2007-12-15,Ondrej Bank,CZ,0,Combined
@@ -357,7 +357,7 @@ date,name,ath_country,value,specialty
 2007-12-29,Ted Ligety,US,0,Giant Slalom
 2007-12-29,Marc Bottollier,FR,1,Downhill
 2007-12-29,Werner Heel,IT,55,Downhill
-2007-12-29,Rainer Schoenfelder,AT,0,Slalom
+2007-12-29,Rainer Schoenfelder,AT,0,Combined
 2007-12-29,Adrien Theaux,FR,50,Downhill
 2007-12-29,Antoine Deneriaz,FR,0,Combined
 2007-12-29,Andreas Strodl,DE,6,Downhill
@@ -442,7 +442,7 @@ date,name,ath_country,value,specialty
 2008-01-13,Natko Zrncic-Dim,HR,0,Combined
 2008-01-13,Finlay Mickel,GB,0,Combined
 2008-01-13,Ole Magnus Kulbeck,NO,0,Combined
-2008-01-13,Rainer Schoenfelder,AT,0,Slalom
+2008-01-13,Rainer Schoenfelder,AT,0,Combined
 2008-01-13,Antoine Deneriaz,FR,0,Combined
 2008-01-13,Klaus Kroell,AT,81,Downhill
 2008-01-13,Carlo Janka,CH,0,Giant Slalom
@@ -613,7 +613,7 @@ date,name,ath_country,value,specialty
 2008-01-19,Daniel Ericsson,SE,0,Combined
 2008-01-19,Ted Ligety,US,0,Giant Slalom
 2008-01-19,David Poisson,FR,31,Downhill
-2008-01-19,Rainer Schoenfelder,AT,0,Slalom
+2008-01-19,Rainer Schoenfelder,AT,0,Combined
 2008-01-19,TJ Lanning,US,0,Combined
 2008-01-19,Marc Bottollier,FR,7,Downhill
 2008-01-19,Thomas Fischer,DE,0,Combined
@@ -688,7 +688,7 @@ date,name,ath_country,value,specialty
 2008-01-26,Peter Strodl,DE,0,Combined
 2008-01-26,Hannes Reichelt,AT,8,Super G
 2008-01-26,TJ Lanning,US,8,Combined
-2008-01-26,Rainer Schoenfelder,AT,50,Slalom
+2008-01-26,Rainer Schoenfelder,AT,50,Combined
 2008-01-26,Niklas Rainer,SE,0,Combined
 2008-01-26,Cornel Zueger,CH,15,Downhill
 2008-01-26,Hans Olsson,SE,35,Downhill
@@ -843,7 +843,7 @@ date,name,ath_country,value,specialty
 2008-02-28,Thomas Fischer,DE,0,Combined
 2008-02-28,Olivier Brand,CH,0,Super G
 2008-02-28,Konrad Hari,CH,17,Downhill
-2008-02-28,Rainer Schoenfelder,AT,57,Slalom
+2008-02-28,Rainer Schoenfelder,AT,57,Combined
 2008-02-28,Adrien Theaux,FR,60,Downhill
 2008-02-28,Ondrej Bank,CZ,0,Combined
 2008-02-28,Jeremie Durand,FR,0,Combined
@@ -898,7 +898,7 @@ date,name,ath_country,value,specialty
 2008-03-01,Kurt Sulzenbacher,IT,158,Downhill
 2008-03-01,Didier Defago,CH,225,Super G
 2008-03-01,Erik Guay,CA,201,Super G
-2008-03-01,Rainer Schoenfelder,AT,66,Slalom
+2008-03-01,Rainer Schoenfelder,AT,66,Combined
 2008-03-01,Scott Macartney,US,79,Downhill
 2008-03-01,Tobias Gruenenfelder,CH,57,Downhill
 2008-03-01,David Poisson,FR,85,Downhill

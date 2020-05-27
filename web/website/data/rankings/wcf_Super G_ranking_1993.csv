@@ -39,7 +39,7 @@ date,name,ath_country,value,specialty
 1992-12-13,Rosi Renoth,DE,1,Downhill
 1992-12-13,Madlen Summermatter,CH,0,Combined
 1992-12-13,Sophie Lefranc Duvillard,FR,0,Giant Slalom
-1992-12-13,Bibiana Perez,IT,15,Downhill
+1992-12-13,Bibiana Perez,IT,15,Combined
 1992-12-13,Veronika Stallmaier Wallinger,AT,0,Downhill
 1992-12-13,Katja Seizinger,DE,26,Downhill
 1992-12-13,Kate Pace,CA,0,Downhill
@@ -60,7 +60,7 @@ date,name,ath_country,value,specialty
 1992-12-20,Chantal Bournissen,CH,42,Downhill
 1992-12-20,Veronika Stallmaier Wallinger,AT,0,Downhill
 1992-12-20,Sophie Lefranc Duvillard,FR,0,Giant Slalom
-1992-12-20,Bibiana Perez,IT,15,Downhill
+1992-12-20,Bibiana Perez,IT,15,Combined
 1992-12-20,Michaela Gerg-Leitner,DE,36,Giant Slalom
 1992-12-20,Miriam Vogt,DE,14,Downhill
 1992-12-20,Morena Gallizio Tescari,IT,0,Slalom
@@ -129,7 +129,7 @@ date,name,ath_country,value,specialty
 1993-01-16,Hilary Lindh,US,16,Downhill
 1993-01-16,Madlen Summermatter,CH,1,Combined
 1993-01-16,Alexandra Meissnitzer,AT,0,Downhill
-1993-01-16,Bibiana Perez,IT,27,Downhill
+1993-01-16,Bibiana Perez,IT,27,Combined
 1993-01-16,Christina Meier,DE,38,Giant Slalom
 1993-01-16,Sophie Lefranc Duvillard,FR,0,Giant Slalom
 1993-01-16,Deborah Compagnoni,IT,20,Super G
@@ -228,7 +228,7 @@ date,name,ath_country,value,specialty
 1993-02-28,Pernilla Wiberg,SE,32,Slalom
 1993-02-28,Barbara Merlin,IT,4,Giant Slalom
 1993-02-28,Veronika Stallmaier Wallinger,AT,19,Downhill
-1993-02-28,Bibiana Perez,IT,27,Downhill
+1993-02-28,Bibiana Perez,IT,27,Combined
 1993-02-28,Katharina Gutensohn,DE,26,Downhill
 1993-02-28,Christina Meier,DE,38,Giant Slalom
 1993-03-07,Linn Remmem,NO,8,Downhill
@@ -243,7 +243,7 @@ date,name,ath_country,value,specialty
 1993-03-07,Tanja Schneider,AT,8,Super G
 1993-03-07,Sylvia Eder,AT,234,Super G
 1993-03-07,Alexandra Meissnitzer,AT,4,Downhill
-1993-03-07,Bibiana Perez,IT,39,Downhill
+1993-03-07,Bibiana Perez,IT,39,Combined
 1993-03-07,Warwara Zelenskaja,RU,74,Downhill
 1993-03-07,Ulrike Stangassinger,DE,6,Downhill
 1993-03-07,Nathalie Bouvier,FR,5,Downhill
@@ -303,7 +303,7 @@ date,name,ath_country,value,specialty
 1993-03-26,Kathleen Monahan,US,4,Downhill
 1993-03-26,Tatiana Lebedeva,RU,122,Downhill
 1993-03-26,Deborah Compagnoni,IT,230,Super G
-1993-03-26,Bibiana Perez,IT,39,Downhill
+1993-03-26,Bibiana Perez,IT,39,Combined
 1993-03-26,Astrid Loedemel,NO,131,Downhill
 1993-03-26,Alexandra Meissnitzer,AT,4,Downhill
 1993-03-26,Regina Haeusl,DE,181,Downhill

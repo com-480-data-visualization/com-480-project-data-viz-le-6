@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 1989-08-08,Michelle Ruthven Mckendry,CA,0,Downhill
 1989-08-08,Cathy Chedal,FR,2,Super G
 1989-08-08,Karin Dedler,DE,6,Downhill
-1989-08-08,Brigitte Oertli,CH,0,Downhill
+1989-08-08,Brigitte Oertli,CH,0,Combined
 1989-08-08,Lucie Laroche,CA,1,Downhill
 1989-12-09,Michelle Ruthven Mckendry,CA,0,Downhill
 1989-12-09,Kendra Kobelka,CA,0,Downhill
@@ -54,7 +54,7 @@ date,name,ath_country,value,specialty
 1989-12-09,Maria Walliser,CH,36,Downhill
 1989-12-09,Lucie Laroche,CA,1,Downhill
 1989-12-09,Cathy Chedal,FR,2,Super G
-1989-12-09,Brigitte Oertli,CH,0,Downhill
+1989-12-09,Brigitte Oertli,CH,0,Combined
 1989-12-09,Heidi Zeller - Baehler,CH,28,Downhill
 1989-12-09,Ulrike Stangassinger,DE,0,Downhill
 1989-12-09,Barbara Sadleder,AT,8,Downhill
@@ -75,7 +75,7 @@ date,name,ath_country,value,specialty
 1989-12-16,Sylvia Eder,AT,1,Giant Slalom
 1989-12-16,Lucie Laroche,CA,1,Downhill
 1989-12-16,Cathy Chedal,FR,2,Super G
-1989-12-16,Brigitte Oertli,CH,0,Downhill
+1989-12-16,Brigitte Oertli,CH,0,Combined
 1989-12-16,Ulrike Stangassinger,DE,1,Downhill
 1989-12-16,Christina Meier,DE,2,Giant Slalom
 1989-12-16,Catherine Quittet,FR,8,Giant Slalom
@@ -105,7 +105,7 @@ date,name,ath_country,value,specialty
 1989-12-17,Regine Moesenlechner,DE,9,Super G
 1989-12-17,Maria Walliser,CH,45,Downhill
 1989-12-17,Miriam Vogt,DE,14,Downhill
-1989-12-17,Brigitte Oertli,CH,0,Downhill
+1989-12-17,Brigitte Oertli,CH,0,Combined
 1989-12-17,Heidi Zeller - Baehler,CH,45,Downhill
 1989-12-17,Claudine Emonet,FR,4,Downhill
 1989-12-17,Karen Percy,CA,16,Downhill
@@ -158,7 +158,7 @@ date,name,ath_country,value,specialty
 1990-01-13,Michaela Gerg-Leitner,DE,81,Downhill
 1990-01-13,Cathy Chedal,FR,2,Super G
 1990-01-13,Regine Moesenlechner,DE,9,Super G
-1990-01-13,Brigitte Oertli,CH,0,Downhill
+1990-01-13,Brigitte Oertli,CH,0,Combined
 1990-01-13,Lucie Laroche,CA,1,Downhill
 1990-01-13,Kerrin Lee- Gartner,CA,0,Downhill
 1990-01-13,Barbara Sadleder,AT,30,Downhill
@@ -176,7 +176,7 @@ date,name,ath_country,value,specialty
 1990-01-27,Michela Figini,CH,83,Downhill
 1990-01-27,Maria Walliser,CH,81,Downhill
 1990-01-27,Cathy Chedal,FR,2,Super G
-1990-01-27,Brigitte Oertli,CH,4,Downhill
+1990-01-27,Brigitte Oertli,CH,4,Combined
 1990-01-27,Ulrike Stangassinger,DE,5,Downhill
 1990-01-27,Katharina Gutensohn,DE,60,Downhill
 1990-01-27,Petra Kronberger,AT,95,Downhill
@@ -204,7 +204,7 @@ date,name,ath_country,value,specialty
 1990-01-27,Chantal Bournissen,CH,7,Combined
 1990-01-27,Miriam Vogt,DE,43,Downhill
 1990-02-03,Ulrike Stangassinger,DE,5,Downhill
-1990-02-03,Brigitte Oertli,CH,5,Downhill
+1990-02-03,Brigitte Oertli,CH,5,Combined
 1990-02-03,Heidi Zurbriggen,CH,18,Downhill
 1990-02-03,Kendra Kobelka,CA,8,Downhill
 1990-02-03,Regine Moesenlechner,DE,9,Super G
@@ -261,7 +261,7 @@ date,name,ath_country,value,specialty
 1990-02-04,Heidi Zurbriggen,CH,19,Downhill
 1990-02-04,Heidi Zeller - Baehler,CH,62,Downhill
 1990-02-04,Regine Moesenlechner,DE,9,Super G
-1990-02-04,Brigitte Oertli,CH,5,Downhill
+1990-02-04,Brigitte Oertli,CH,5,Combined
 1990-02-04,Maria Walliser,CH,99,Downhill
 1990-02-04,Michelle Ruthven Mckendry,CA,12,Downhill
 1990-02-04,Hilary Lindh,US,18,Downhill

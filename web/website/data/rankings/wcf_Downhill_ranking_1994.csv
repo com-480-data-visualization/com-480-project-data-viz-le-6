@@ -57,7 +57,7 @@ date,name,ath_country,value,specialty
 1993-12-04,Anja Haas,AT,13,Downhill
 1993-12-04,Tatiana Lebedeva,RU,0,Super G
 1993-12-04,Krista Schmidinger,US,0,Downhill
-1993-12-04,Erika Hansson,SE,0,Slalom
+1993-12-04,Erika Hansson,SE,0,Combined
 1993-12-04,Lindsey Roberts,CA,0,Downhill
 1993-12-04,Renate Goetschl,AT,0,Downhill
 1993-12-18,Eleonore Richon,FR,2,Downhill
@@ -105,7 +105,7 @@ date,name,ath_country,value,specialty
 1993-12-18,Melanie Suchet,FR,46,Downhill
 1993-12-18,Mira Golub,RU,0,Downhill
 1993-12-18,Rosi Renoth,DE,32,Downhill
-1993-12-18,Erika Hansson,SE,0,Slalom
+1993-12-18,Erika Hansson,SE,0,Combined
 1993-12-18,Florence Masnada,FR,0,Slalom
 1993-12-18,Linn Remmem,NO,0,Downhill
 1993-12-18,Michaela Dorfmeister,AT,0,Super G
@@ -153,7 +153,7 @@ date,name,ath_country,value,specialty
 1994-01-14,Florence Masnada,FR,0,Slalom
 1994-01-14,Veronika Stallmaier Wallinger,AT,157,Downhill
 1994-01-14,Michelle Ruthven Mckendry,CA,0,Downhill
-1994-01-14,Erika Hansson,SE,0,Slalom
+1994-01-14,Erika Hansson,SE,0,Combined
 1994-01-14,Tatiana Lebedeva,RU,0,Super G
 1994-01-14,Hilary Lindh,US,64,Downhill
 1994-01-14,Isolde Kostner,IT,38,Downhill
@@ -199,7 +199,7 @@ date,name,ath_country,value,specialty
 1994-01-29,Hilde Gerg,DE,16,Super G
 1994-01-29,Katharina Gutensohn,DE,28,Super G
 1994-01-29,Martina Osterried,DE,19,Downhill
-1994-01-29,Erika Hansson,SE,0,Slalom
+1994-01-29,Erika Hansson,SE,0,Combined
 1994-01-29,Barbara Sadleder,AT,4,Downhill
 1994-01-29,Alexandra Meissnitzer,AT,26,Downhill
 1994-01-29,Olga Kuradchenko,KZ,4,Downhill
@@ -261,7 +261,7 @@ date,name,ath_country,value,specialty
 1994-02-02,Ulrike Stangassinger,DE,40,Super G
 1994-02-02,Eleonore Richon,FR,15,Downhill
 1994-02-02,Martina Koschuttnigg,AT,0,Downhill
-1994-02-02,Erika Hansson,SE,1,Slalom
+1994-02-02,Erika Hansson,SE,1,Combined
 1994-02-02,Veronika Stallmaier Wallinger,AT,157,Downhill
 1994-02-02,Florence Masnada,FR,3,Slalom
 1994-02-02,Mira Golub,RU,3,Downhill
@@ -329,7 +329,7 @@ date,name,ath_country,value,specialty
 1994-03-06,Michaela Gerg-Leitner,DE,41,Giant Slalom
 1994-03-06,Hilary Lindh,US,196,Downhill
 1994-03-06,Ingrid Stoeckl,AT,69,Downhill
-1994-03-06,Erika Hansson,SE,1,Slalom
+1994-03-06,Erika Hansson,SE,1,Combined
 1994-03-06,Rosi Renoth,DE,52,Downhill
 1994-03-06,Renate Goetschl,AT,106,Downhill
 1994-03-06,Katja Seizinger,DE,382,Downhill
@@ -376,7 +376,7 @@ date,name,ath_country,value,specialty
 1994-03-16,Vreni Schneider,CH,112,Slalom
 1994-03-16,Martina Koschuttnigg,AT,1,Downhill
 1994-03-16,Stefanie Schuster,AT,38,Downhill
-1994-03-16,Erika Hansson,SE,1,Slalom
+1994-03-16,Erika Hansson,SE,1,Combined
 1994-03-16,Michaela Gerg-Leitner,DE,41,Giant Slalom
 1994-03-16,Jeanette Lunde,NO,104,Downhill
 1994-03-16,Anja Haas,AT,153,Downhill

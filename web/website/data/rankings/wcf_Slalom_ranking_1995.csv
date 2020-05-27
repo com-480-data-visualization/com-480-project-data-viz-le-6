@@ -9,7 +9,7 @@ date,name,ath_country,value,specialty
 1994-11-27,Kristina Koznick,US,0,Slalom
 1994-11-27,Claudia Riegler,NZ,0,Slalom
 1994-11-27,Ylva Nowen,SE,18,Giant Slalom
-1994-11-27,Katja Seizinger,DE,8,Downhill
+1994-11-27,Katja Seizinger,DE,8,Super G
 1994-11-27,Titti Rodling,SE,32,Slalom
 1994-11-27,Elfi Eder,AT,0,Slalom
 1994-11-27,Annelise Coberger,NZ,26,Slalom
@@ -78,7 +78,7 @@ date,name,ath_country,value,specialty
 1994-12-18,Martina Ertl,DE,33,Giant Slalom
 1994-12-18,Lara Magoni,IT,0,Slalom
 1994-12-18,Ylva Nowen,SE,27,Giant Slalom
-1994-12-18,Katja Seizinger,DE,20,Downhill
+1994-12-18,Katja Seizinger,DE,20,Super G
 1994-12-18,Kari Anne Saude,NO,5,Slalom
 1994-12-18,Karin Koellerer,AT,0,Slalom
 1994-12-18,Claudia Riegler,NZ,0,Slalom
@@ -178,7 +178,7 @@ date,name,ath_country,value,specialty
 1994-12-30,Titti Rodling,SE,39,Slalom
 1994-12-30,Vanessa Vidal,FR,0,Slalom
 1994-12-30,Elisabetta Biavaschi,IT,24,Slalom
-1994-12-30,Katja Seizinger,DE,52,Downhill
+1994-12-30,Katja Seizinger,DE,52,Super G
 1994-12-30,Katrin Neuenschwander,CH,9,Slalom
 1994-12-30,Katja Koren,SK,22,Slalom
 1994-12-30,Sabine Egger,AT,50,Slalom
@@ -234,7 +234,7 @@ date,name,ath_country,value,specialty
 1995-01-15,Alenka Dovzan,SK,22,Super G
 1995-01-15,Katrin Neuenschwander,CH,9,Slalom
 1995-01-15,Monique Pelletier,US,9,Slalom
-1995-01-15,Katja Seizinger,DE,52,Downhill
+1995-01-15,Katja Seizinger,DE,52,Super G
 1995-01-15,Ylva Nowen,SE,49,Giant Slalom
 1995-01-15,Roberta Serra,IT,25,Slalom
 1995-01-15,Marianne Kjoerstad,NO,98,Slalom
@@ -288,7 +288,7 @@ date,name,ath_country,value,specialty
 1995-02-27,Claudia Riegler,NZ,24,Slalom
 1995-02-27,Karin Koellerer,AT,6,Slalom
 1995-02-27,Deborah Compagnoni,IT,80,Giant Slalom
-1995-02-27,Katja Seizinger,DE,65,Downhill
+1995-02-27,Katja Seizinger,DE,65,Super G
 1995-02-27,Titti Rodling,SE,51,Slalom
 1995-02-27,Annelise Coberger,NZ,106,Slalom
 1995-02-27,Pernilla Wiberg,SE,175,Slalom
@@ -358,7 +358,7 @@ date,name,ath_country,value,specialty
 1995-03-12,Ingrid Salvenmoser,AT,4,Giant Slalom
 1995-03-12,Titti Rodling,SE,61,Slalom
 1995-03-12,Bibiana Perez,IT,16,Downhill
-1995-03-12,Katja Seizinger,DE,77,Downhill
+1995-03-12,Katja Seizinger,DE,77,Super G
 1995-03-12,Ylva Nowen,SE,101,Giant Slalom
 1995-03-12,Deborah Compagnoni,IT,125,Giant Slalom
 1995-03-12,Claudia Riegler,NZ,44,Slalom
@@ -381,7 +381,7 @@ date,name,ath_country,value,specialty
 1995-03-19,Roberta Serra,IT,25,Slalom
 1995-03-19,Karin Roten Meier,CH,8,Giant Slalom
 1995-03-19,Ylva Nowen,SE,123,Giant Slalom
-1995-03-19,Katja Seizinger,DE,95,Downhill
+1995-03-19,Katja Seizinger,DE,95,Super G
 1995-03-19,Titti Rodling,SE,75,Slalom
 1995-03-19,Elfi Eder,AT,115,Slalom
 1995-03-19,Annelise Coberger,NZ,125,Slalom

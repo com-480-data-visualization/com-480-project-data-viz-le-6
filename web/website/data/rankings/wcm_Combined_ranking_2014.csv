@@ -1,53 +1,139 @@
 date,name,ath_country,value,specialty
 2014-01-17,Ted Ligety,US,100,Giant Slalom
+2014-01-17,Martin Vrablik,CZ,8,Combined
+2014-01-17,Ivica Kostelic,HR,0,Slalom
+2014-01-17,Alexandr Horoshilov,RU,7,Slalom
+2014-01-17,Mattia Casse,IT,0,Super G
+2014-01-17,Klemen Kosi,SK,9,Combined
+2014-01-17,Florian Scheiber,AT,0,Downhill
+2014-01-17,Ryan Cochran-Siegle,US,0,Combined
+2014-01-17,Arnaud Alessandria,MC,0,Combined
+2014-01-17,Beat Feuz,CH,12,Downhill
+2014-01-17,Josef Ferstl,DE,0,Super G
+2014-01-17,Vincent Kriechmayr,AT,13,Super G
 2014-01-17,Adam Zampa,SK,2,Slalom
-2014-01-17,Maciej Bydlinski,PL,1,Combined
+2014-01-17,Siegmar Klotz,IT,0,Downhill
+2014-01-17,Nikola Chongarov,BG,0,Combined
+2014-01-17,Marc Berthod,CH,14,Combined
+2014-01-17,Romed Baumann,AT,0,Downhill
+2014-01-17,Valentin Giraud Moine,FR,4,Downhill
+2014-01-17,Brice Roger,FR,0,Downhill
+2014-01-17,Morgan Pridy,CA,0,Super G
+2014-01-17,Michal Klusak,PL,0,Combined
+2014-01-17,Douglas Crawford,GB,0,Combined
+2014-01-17,Kevin Esteve Rigail,AD,0,Combined
+2014-01-17,Marc Oliveras,AD,0,Combined
 2014-01-17,Joachim Puchner,AT,0,Super G
 2014-01-17,Krystof Kryzl,CZ,0,Giant Slalom
-2014-01-17,Martin Cater,SK,0,Downhill
-2014-01-17,Kevin Esteve Rigail,AD,0,Combined
-2014-01-17,Douglas Crawford,GB,0,Combined
-2014-01-17,Cristian Javier Simari Birkner,AR,0,Combined
-2014-01-17,Nikola Chongarov,BG,0,Combined
-2014-01-17,Marc Oliveras,AD,0,Combined
-2014-01-17,Andrew Weibrecht,US,3,Super G
 2014-01-17,Andreas Sander,DE,0,Combined
-2014-01-17,Yuri Danilochkin,BY,0,Combined
-2014-01-17,Michal Klusak,PL,0,Combined
-2014-01-17,Romed Baumann,AT,0,Downhill
-2014-01-17,Arnaud Alessandria,MC,0,Combined
-2014-01-17,Mattia Casse,IT,0,Super G
-2014-01-17,Ryan Cochran-Siegle,US,0,Combined
-2014-01-17,Josef Ferstl,DE,0,Super G
-2014-01-17,Siegmar Klotz,IT,0,Downhill
-2014-01-17,Ivica Kostelic,HR,0,Slalom
-2014-01-17,Hans Olsson,SE,0,Downhill
-2014-01-17,Igor Zakurdaev,KZ,0,Combined
-2014-01-17,Valentin Giraud Moine,FR,4,Downhill
-2014-01-17,Maxence Muzaton,FR,5,Combined
+2014-01-17,Maciej Bydlinski,PL,1,Combined
 2014-01-17,Frederic Berthold,AT,6,Combined
-2014-01-17,Alexis Pinturault,FR,80,Giant Slalom
-2014-01-17,Natko Zrncic-Dim,HR,60,Combined
-2014-01-17,Sandro Viletta,CH,50,Combined
+2014-01-17,Martin Cater,SK,0,Combined
+2014-01-17,Igor Zakurdaev,KZ,0,Combined
+2014-01-17,Andrew Weibrecht,US,3,Super G
+2014-01-17,Max Franz,AT,0,Downhill
+2014-01-17,Yuri Danilochkin,BY,0,Combined
+2014-01-17,Maxence Muzaton,FR,5,Combined
+2014-01-17,Hans Olsson,SE,0,Downhill
+2014-01-17,Doglas Hedin,SE,0,Combined
+2014-01-17,Aleksander Aamodt Kilde,NO,0,Super G
+2014-01-17,Ondrej Bank,CZ,15,Combined
+2014-01-17,Cristian Javier Simari Birkner,AR,0,Combined
+2014-01-17,Dominik Paris,IT,16,Downhill
+2014-01-17,Matthias Mayer,AT,32,Downhill
+2014-01-17,Steven Nyman,US,0,Downhill
+2014-01-17,Christof Innerhofer,IT,36,Downhill
+2014-01-17,Peter Fill,IT,26,Downhill
+2014-01-17,Mauro Caviezel,CH,22,Combined
+2014-01-17,Miha Kuerner,SK,0,Combined
 2014-01-17,Aksel-Lund Svindal,NO,45,Downhill
 2014-01-17,Thomas Mermillod,FR,40,Super G
-2014-01-17,Christof Innerhofer,IT,36,Downhill
-2014-01-17,Matthias Mayer,AT,32,Downhill
-2014-01-17,Bode Miller,US,29,Downhill
-2014-01-17,Peter Fill,IT,26,Downhill
+2014-01-17,Martin Khuber,KZ,0,Combined
+2014-01-17,Sandro Viletta,CH,50,Combined
+2014-01-17,Marcel Hirscher,AT,0,Slalom
+2014-01-17,Mark Engel,US,0,Combined
+2014-01-17,Natko Zrncic-Dim,HR,60,Combined
+2014-01-17,Alexis Pinturault,FR,80,Giant Slalom
+2014-01-17,Luca De Aliprandini,IT,0,Giant Slalom
+2014-01-17,Philip Brown,CA,0,Giant Slalom
 2014-01-17,Carlo Janka,CH,24,Super G
-2014-01-17,Mauro Caviezel,CH,22,Combined
-2014-01-17,Adrien Theaux,FR,20,Downhill
+2014-01-17,Travis Ganong,US,0,Downhill
+2014-01-17,Jared Goldberg,US,11,Combined
+2014-01-17,Bode Miller,US,29,Downhill
+2014-01-17,Othmar Striedinger,AT,0,Super G
+2014-01-17,Philipp Schoerghofer,AT,0,Giant Slalom
+2014-01-17,Justin Murisier,CH,0,Combined
 2014-01-17,Silvan Zurbriggen,CH,18,Downhill
-2014-01-17,Dominik Paris,IT,16,Downhill
-2014-01-17,Ondrej Bank,CZ,15,Combined
-2014-01-17,Marc Berthod,CH,14,Combined
-2014-01-17,Vincent Kriechmayr,AT,13,Super G
-2014-01-17,Beat Feuz,CH,12,Downhill
-2014-01-17,Jared Goldberg,US,11,Downhill
+2014-01-17,Tim Jitloff,US,0,Giant Slalom
+2014-01-17,Adrien Theaux,FR,20,Downhill
 2014-01-17,Kjetil Jansrud,NO,10,Downhill
-2014-01-17,Klemen Kosi,SK,9,Combined
-2014-01-17,Martin Vrablik,CZ,8,Combined
-2014-01-17,Alexandr Horoshilov,RU,7,Slalom
-2014-01-17,Morgan Pridy,CA,0,Super G
-2014-01-17,Brice Roger,FR,0,Downhill
+2014-01-17,Bryce Bennett,US,0,Combined
+2014-01-26,Mattia Casse,IT,0,Super G
+2014-01-26,Philipp Schoerghofer,AT,0,Giant Slalom
+2014-01-26,Marc Oliveras,AD,0,Combined
+2014-01-26,Steven Nyman,US,0,Downhill
+2014-01-26,Brice Roger,FR,0,Downhill
+2014-01-26,Nikola Chongarov,BG,0,Combined
+2014-01-26,Luca De Aliprandini,IT,0,Giant Slalom
+2014-01-26,Mark Engel,US,0,Combined
+2014-01-26,Andreas Sander,DE,0,Combined
+2014-01-26,Igor Zakurdaev,KZ,0,Combined
+2014-01-26,Josef Ferstl,DE,0,Super G
+2014-01-26,Miha Kuerner,SK,0,Combined
+2014-01-26,Yuri Danilochkin,BY,0,Combined
+2014-01-26,Travis Ganong,US,0,Downhill
+2014-01-26,Bryce Bennett,US,0,Combined
+2014-01-26,Ryan Cochran-Siegle,US,0,Combined
+2014-01-26,Michal Klusak,PL,0,Combined
+2014-01-26,Philip Brown,CA,0,Giant Slalom
+2014-01-26,Othmar Striedinger,AT,0,Super G
+2014-01-26,Arnaud Alessandria,MC,0,Combined
+2014-01-26,Martin Khuber,KZ,0,Combined
+2014-01-26,Siegmar Klotz,IT,0,Downhill
+2014-01-26,Hans Olsson,SE,6,Downhill
+2014-01-26,Douglas Crawford,GB,0,Combined
+2014-01-26,Silvan Zurbriggen,CH,18,Downhill
+2014-01-26,Tim Jitloff,US,20,Giant Slalom
+2014-01-26,Adrien Theaux,FR,36,Downhill
+2014-01-26,Jared Goldberg,US,35,Combined
+2014-01-26,Kjetil Jansrud,NO,36,Downhill
+2014-01-26,Justin Murisier,CH,29,Combined
+2014-01-26,Bode Miller,US,29,Downhill
+2014-01-26,Carlo Janka,CH,56,Super G
+2014-01-26,Matthias Mayer,AT,50,Downhill
+2014-01-26,Christof Innerhofer,IT,58,Downhill
+2014-01-26,Peter Fill,IT,66,Downhill
+2014-01-26,Mauro Caviezel,CH,67,Combined
+2014-01-26,Aksel-Lund Svindal,NO,45,Downhill
+2014-01-26,Thomas Mermillod,FR,90,Super G
+2014-01-26,Sandro Viletta,CH,86,Combined
+2014-01-26,Marcel Hirscher,AT,60,Slalom
+2014-01-26,Natko Zrncic-Dim,HR,70,Combined
+2014-01-26,Alexis Pinturault,FR,180,Giant Slalom
+2014-01-26,Ted Ligety,US,180,Giant Slalom
+2014-01-26,Dominik Paris,IT,16,Downhill
+2014-01-26,Ondrej Bank,CZ,15,Combined
+2014-01-26,Romed Baumann,AT,15,Downhill
+2014-01-26,Marc Berthod,CH,14,Combined
+2014-01-26,Kevin Esteve Rigail,AD,0,Combined
+2014-01-26,Joachim Puchner,AT,0,Super G
+2014-01-26,Krystof Kryzl,CZ,1,Giant Slalom
+2014-01-26,Maciej Bydlinski,PL,1,Combined
+2014-01-26,Martin Cater,SK,2,Combined
+2014-01-26,Aleksander Aamodt Kilde,NO,3,Super G
+2014-01-26,Andrew Weibrecht,US,7,Super G
+2014-01-26,Max Franz,AT,5,Downhill
+2014-01-26,Maxence Muzaton,FR,5,Combined
+2014-01-26,Cristian Javier Simari Birkner,AR,0,Combined
+2014-01-26,Frederic Berthold,AT,6,Combined
+2014-01-26,Martin Vrablik,CZ,8,Combined
+2014-01-26,Ivica Kostelic,HR,9,Slalom
+2014-01-26,Alexandr Horoshilov,RU,16,Slalom
+2014-01-26,Klemen Kosi,SK,9,Combined
+2014-01-26,Florian Scheiber,AT,11,Downhill
+2014-01-26,Beat Feuz,CH,12,Downhill
+2014-01-26,Valentin Giraud Moine,FR,17,Downhill
+2014-01-26,Vincent Kriechmayr,AT,25,Super G
+2014-01-26,Adam Zampa,SK,16,Slalom
+2014-01-26,Morgan Pridy,CA,7,Super G
+2014-01-26,Doglas Hedin,SE,0,Combined

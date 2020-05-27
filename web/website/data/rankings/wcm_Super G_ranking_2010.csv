@@ -35,7 +35,7 @@ date,name,ath_country,value,specialty
 2009-11-29,Craig Branch,AU,0,Downhill
 2009-11-29,Andrew Weibrecht,US,22,Downhill
 2009-11-29,Stephan Goergl,AT,0,Giant Slalom
-2009-11-29,Ondrej Bank,CZ,0,Giant Slalom
+2009-11-29,Ondrej Bank,CZ,0,Combined
 2009-11-29,Manuel Kramer,AT,0,Combined
 2009-11-29,Christof Innerhofer,IT,24,Super G
 2009-11-29,Stefan Georgiev,BG,0,Combined
@@ -106,7 +106,7 @@ date,name,ath_country,value,specialty
 2009-12-12,Hans Grugger,AT,0,Downhill
 2009-12-12,Natko Zrncic-Dim,HR,0,Combined
 2009-12-12,Andreas Strodl,DE,9,Super G
-2009-12-12,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-12,Ondrej Bank,CZ,0,Combined
 2009-12-12,Jaroslav Babusiak,SK,0,Combined
 2009-12-12,Yannick Bertrand,FR,7,Downhill
 2009-12-12,Marco Sullivan,US,16,Downhill
@@ -222,7 +222,7 @@ date,name,ath_country,value,specialty
 2009-12-18,Yannick Bertrand,FR,7,Downhill
 2009-12-18,Maciej Bydlinski,PL,0,Combined
 2009-12-18,Benjamin Thomsen,CA,0,Combined
-2009-12-18,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-18,Ondrej Bank,CZ,0,Combined
 2009-12-18,Erik Fisher,US,12,Downhill
 2009-12-18,Maxence Muzaton,FR,0,Combined
 2009-12-18,Guillermo Fayed,FR,0,Downhill
@@ -346,7 +346,7 @@ date,name,ath_country,value,specialty
 2010-01-22,Craig Branch,AU,0,Downhill
 2010-01-22,Marcel Hirscher,AT,24,Giant Slalom
 2010-01-22,Frederik Van Buynder,BE,0,Combined
-2010-01-22,Ondrej Bank,CZ,0,Giant Slalom
+2010-01-22,Ondrej Bank,CZ,0,Combined
 2010-01-22,Andrej Jerman,SK,50,Downhill
 2010-01-22,Andrew Weibrecht,US,62,Downhill
 2010-01-22,Stefan Georgiev,BG,0,Combined
@@ -506,7 +506,7 @@ date,name,ath_country,value,specialty
 2010-03-07,Scott Macartney,US,0,Downhill
 2010-03-07,Stefan Georgiev,BG,0,Combined
 2010-03-07,Ales Gorza,SK,86,Super G
-2010-03-07,Ondrej Bank,CZ,0,Giant Slalom
+2010-03-07,Ondrej Bank,CZ,0,Combined
 2010-03-07,Tobias Stechert,DE,10,Super G
 2010-03-07,Yannick Bertrand,FR,15,Downhill
 2010-03-11,Erik Fisher,US,12,Downhill
@@ -559,7 +559,7 @@ date,name,ath_country,value,specialty
 2010-03-11,Marcel Hirscher,AT,24,Giant Slalom
 2010-03-11,Andrej Jerman,SK,83,Downhill
 2010-03-11,Frederik Van Buynder,BE,0,Combined
-2010-03-11,Ondrej Bank,CZ,0,Giant Slalom
+2010-03-11,Ondrej Bank,CZ,0,Combined
 2010-03-11,Craig Branch,AU,0,Downhill
 2010-03-11,Marco Buechel,LI,71,Downhill
 2010-03-11,Silvano Varettoni,IT,0,Combined

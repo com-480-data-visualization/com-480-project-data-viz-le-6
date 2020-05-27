@@ -25,7 +25,7 @@ date,name,ath_country,value,specialty
 1985-12-08,Christine von Gruenigen,CH,0,Slalom
 1985-12-08,Olga Charvatova,SK,0,Giant Slalom
 1985-12-08,Adelheid Gapp,AT,0,Slalom
-1985-12-08,Monika Hess,CH,7,Slalom
+1985-12-08,Monika Hess,CH,7,Combined
 1985-12-08,Helga Lazak,DE,0,Slalom
 1985-12-08,Claudia Strobl,AT,0,Slalom
 1985-12-08,Monika Maierhofer,AT,2,Slalom
@@ -63,7 +63,7 @@ date,name,ath_country,value,specialty
 1985-12-15,Eva Twardokens,US,12,Slalom
 1985-12-15,Daniela Zini,IT,0,Slalom
 1985-12-15,Beth Madsen,US,0,Giant Slalom
-1985-12-15,Monika Hess,CH,7,Slalom
+1985-12-15,Monika Hess,CH,7,Combined
 1985-12-15,Dorota Tlalka - Mogore,FR,0,Slalom
 1985-12-15,Camilla Nilsson,SE,11,Slalom
 1985-12-15,Adelheid Gapp,AT,3,Slalom
@@ -94,7 +94,7 @@ date,name,ath_country,value,specialty
 1986-01-05,Katja Lesjak,SK,5,Slalom
 1986-01-05,Roswitha Steiner,AT,50,Slalom
 1986-01-05,Regula Betschart,CH,0,Giant Slalom
-1986-01-05,Monika Hess,CH,7,Slalom
+1986-01-05,Monika Hess,CH,7,Combined
 1986-01-05,Paoletta Magoni,IT,10,Slalom
 1986-01-05,Olga Charvatova,SK,0,Giant Slalom
 1986-01-05,Annette Gersch,DE,1,Slalom
@@ -155,7 +155,7 @@ date,name,ath_country,value,specialty
 1986-01-12,Brigitte Gadient,CH,32,Slalom
 1986-01-12,Ida Ladstaetter,AT,27,Slalom
 1986-01-12,Maria Rosa Quario,IT,10,Slalom
-1986-01-12,Monika Hess,CH,7,Slalom
+1986-01-12,Monika Hess,CH,7,Combined
 1986-01-12,Christine von Gruenigen,CH,4,Slalom
 1986-01-12,Annette Gersch,DE,1,Slalom
 1986-01-12,Nadia Bonfini,IT,18,Slalom
@@ -210,7 +210,7 @@ date,name,ath_country,value,specialty
 1986-01-26,Brigitte Gadient,CH,32,Slalom
 1986-01-26,Claudia Strobl,AT,10,Slalom
 1986-01-26,Corinne Schmidhauser,CH,12,Slalom
-1986-01-26,Monika Hess,CH,19,Slalom
+1986-01-26,Monika Hess,CH,19,Combined
 1986-01-26,Olga Charvatova,SK,11,Giant Slalom
 1986-01-26,Roswitha Steiner,AT,75,Slalom
 1986-01-26,Tamara McKinney,US,24,Slalom
@@ -262,9 +262,9 @@ date,name,ath_country,value,specialty
 1986-02-04,Adelheid Gapp,AT,6,Slalom
 1986-02-04,Christa Kinshofer,NL,0,Super G
 1986-02-04,Tamara McKinney,US,24,Slalom
-1986-02-04,Monika Hess,CH,19,Slalom
+1986-02-04,Monika Hess,CH,19,Combined
 1986-02-09,Beth Madsen,US,0,Giant Slalom
-1986-02-09,Monika Hess,CH,19,Slalom
+1986-02-09,Monika Hess,CH,19,Combined
 1986-02-09,Helene Barbier,FR,14,Slalom
 1986-02-09,Nadia Bonfini,IT,38,Slalom
 1986-02-09,Perrine Pelen,FR,67,Slalom
@@ -316,7 +316,7 @@ date,name,ath_country,value,specialty
 1986-03-11,Maria Walliser,CH,2,Downhill
 1986-03-11,Anni Kronbichler,AT,41,Slalom
 1986-03-11,Anita Wachter,AT,2,Giant Slalom
-1986-03-11,Monika Hess,CH,25,Slalom
+1986-03-11,Monika Hess,CH,25,Combined
 1986-03-11,Mojca Dezman,SK,4,Slalom
 1986-03-11,Ida Ladstaetter,AT,43,Slalom
 1986-03-11,Annette Gersch,DE,2,Slalom
@@ -358,7 +358,7 @@ date,name,ath_country,value,specialty
 1986-03-18,Maria Rosa Quario,IT,20,Slalom
 1986-03-18,Monika Maierhofer,AT,3,Slalom
 1986-03-18,Adelheid Gapp,AT,23,Slalom
-1986-03-18,Monika Hess,CH,25,Slalom
+1986-03-18,Monika Hess,CH,25,Combined
 1986-03-18,Eva Twardokens,US,19,Slalom
 1986-03-18,Mateja Svet,SK,49,Giant Slalom
 1986-03-18,Vreni Schneider,CH,51,Giant Slalom

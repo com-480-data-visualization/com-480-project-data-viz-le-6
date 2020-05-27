@@ -1,25 +1,33 @@
 date,name,ath_country,value,specialty
-1995-01-15,Kjetil Andre Aamodt,NO,50,Giant Slalom
-1995-01-15,Espen Hellerud,NO,40,Combined
+1995-01-15,Marc Girardelli,LU,100,Slalom
 1995-01-15,A.J. Kitt,US,0,Downhill
-1995-01-15,Paul Accola,CH,0,Giant Slalom
-1995-01-15,Jean Luc Cretier,FR,36,Downhill
 1995-01-15,Roman Torn,CA,0,Combined
-1995-01-15,Ed Podivinsky,CA,0,Downhill
-1995-01-15,Atle Skaardal,NO,0,Downhill
-1995-01-15,Kristian Ghedina,IT,0,Downhill
-1995-01-15,Luc Alphand,FR,0,Downhill
 1995-01-15,Gaetan Llorach,FR,0,Combined
 1995-01-15,Tommy Moe,US,0,Downhill
+1995-01-15,Luc Alphand,FR,0,Downhill
+1995-01-15,Ed Podivinsky,CA,0,Downhill
+1995-01-15,Jean Luc Cretier,FR,36,Downhill
+1995-01-15,Kristian Ghedina,IT,0,Downhill
+1995-01-15,Espen Hellerud,NO,40,Combined
+1995-01-15,Atle Skaardal,NO,0,Downhill
+1995-01-15,Paul Accola,CH,0,Giant Slalom
+1995-01-15,Kjetil Andre Aamodt,NO,50,Giant Slalom
+1995-01-15,Harald Chr. Strand Nilsen,NO,80,Giant Slalom
+1995-01-15,Guenther Mader,AT,60,Super G
+1995-01-15,Lasse Kjus,NO,45,Downhill
+1995-01-22,Kjetil Andre Aamodt,NO,100,Giant Slalom
 1995-01-22,A.J. Kitt,US,18,Downhill
+1995-01-22,Marc Girardelli,LU,200,Slalom
 1995-01-22,Roman Torn,CA,20,Combined
 1995-01-22,Gaetan Llorach,FR,22,Combined
-1995-01-22,Atle Skaardal,NO,45,Downhill
+1995-01-22,Harald Chr. Strand Nilsen,NO,140,Giant Slalom
+1995-01-22,Tommy Moe,US,26,Downhill
 1995-01-22,Luc Alphand,FR,29,Downhill
+1995-01-22,Atle Skaardal,NO,45,Downhill
 1995-01-22,Ed Podivinsky,CA,36,Downhill
 1995-01-22,Jean Luc Cretier,FR,60,Downhill
+1995-01-22,Guenther Mader,AT,60,Super G
 1995-01-22,Paul Accola,CH,40,Giant Slalom
 1995-01-22,Espen Hellerud,NO,72,Combined
-1995-01-22,Kjetil Andre Aamodt,NO,50,Giant Slalom
-1995-01-22,Tommy Moe,US,26,Downhill
+1995-01-22,Lasse Kjus,NO,125,Downhill
 1995-01-22,Kristian Ghedina,IT,16,Downhill

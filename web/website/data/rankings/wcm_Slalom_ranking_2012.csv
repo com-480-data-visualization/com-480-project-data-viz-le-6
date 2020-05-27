@@ -20,7 +20,7 @@ date,name,ath_country,value,specialty
 2011-12-08,Paul Stutz,CA,0,Combined
 2011-12-08,Thomas Fanara,FR,0,Giant Slalom
 2011-12-08,Aksel-Lund Svindal,NO,0,Super G
-2011-12-08,Silvan Zurbriggen,CH,0,Downhill
+2011-12-08,Silvan Zurbriggen,CH,0,Combined
 2011-12-08,Ondrej Bank,CZ,0,Combined
 2011-12-08,Stefan Prisadov,BG,0,Combined
 2011-12-08,Giovanni Borsotti,IT,0,Giant Slalom
@@ -212,7 +212,7 @@ date,name,ath_country,value,specialty
 2011-12-19,Ondrej Bank,CZ,0,Combined
 2011-12-19,Stefan Prisadov,BG,0,Combined
 2011-12-19,Patrick Bechter,AT,0,Combined
-2011-12-19,Silvan Zurbriggen,CH,0,Downhill
+2011-12-19,Silvan Zurbriggen,CH,0,Combined
 2011-12-19,Mario Matt,AT,13,Slalom
 2011-12-19,David Chodounsky,US,0,Combined
 2011-12-19,Aksel-Lund Svindal,NO,0,Super G
@@ -377,7 +377,7 @@ date,name,ath_country,value,specialty
 2011-12-21,Martin Khuber,KZ,0,Combined
 2011-12-21,Benjamin Raich,AT,20,Super G
 2011-12-21,Giovanni Borsotti,IT,0,Giant Slalom
-2011-12-21,Silvan Zurbriggen,CH,0,Downhill
+2011-12-21,Silvan Zurbriggen,CH,0,Combined
 2011-12-21,Dominik Paris,IT,0,Downhill
 2011-12-21,Reinfried Herbst,AT,30,Slalom
 2011-12-21,Patrick Bechter,AT,0,Combined
@@ -436,7 +436,7 @@ date,name,ath_country,value,specialty
 2012-01-05,Patrick Bechter,AT,0,Combined
 2012-01-05,Matteo Marsaglia,IT,0,Super G
 2012-01-05,Sebastiano Gastaldi,AR,0,Combined
-2012-01-05,Silvan Zurbriggen,CH,0,Downhill
+2012-01-05,Silvan Zurbriggen,CH,0,Combined
 2012-01-05,Felix Neureuther,DE,216,Slalom
 2012-01-05,Kai Alaerts,BE,0,Combined
 2012-01-05,Mario Matt,AT,42,Slalom
@@ -601,7 +601,7 @@ date,name,ath_country,value,specialty
 2012-01-08,Ondrej Bank,CZ,0,Combined
 2012-01-08,Antoine Marical,FR,0,Combined
 2012-01-08,Marc Gisin,CH,0,Downhill
-2012-01-08,Silvan Zurbriggen,CH,0,Downhill
+2012-01-08,Silvan Zurbriggen,CH,0,Combined
 2012-01-08,Mario Matt,AT,92,Slalom
 2012-01-08,Robin Buffet,FR,0,Combined
 2012-01-08,Andreas Romar,FI,0,Super G
@@ -823,7 +823,7 @@ date,name,ath_country,value,specialty
 2012-01-15,Beat Feuz,CH,0,Downhill
 2012-01-15,Martin Khuber,KZ,0,Combined
 2012-01-15,Patrick Bechter,AT,0,Combined
-2012-01-15,Silvan Zurbriggen,CH,0,Downhill
+2012-01-15,Silvan Zurbriggen,CH,0,Combined
 2012-01-15,Jaroslav Babusiak,SK,0,Combined
 2012-01-15,Mitja Valencic,SK,125,Slalom
 2012-01-15,Cristian Deville,IT,270,Slalom
@@ -985,7 +985,7 @@ date,name,ath_country,value,specialty
 2012-01-22,Tomoya Ishii,JP,0,Combined
 2012-01-22,Fritz Dopfer,DE,180,Slalom
 2012-01-22,Georgi Georgiev,BG,0,Combined
-2012-01-22,Silvan Zurbriggen,CH,0,Downhill
+2012-01-22,Silvan Zurbriggen,CH,0,Combined
 2012-01-22,Leif Kristian Haugen,NO,20,Giant Slalom
 2012-01-22,Mitja Valencic,SK,125,Slalom
 2012-01-22,Sebastiano Gastaldi,AR,0,Combined
@@ -1026,7 +1026,7 @@ date,name,ath_country,value,specialty
 2012-01-24,Adrien Theaux,FR,0,Downhill
 2012-01-24,Jaba Gelashvili,GE,0,Combined
 2012-01-24,Cristian Deville,IT,370,Slalom
-2012-01-24,Silvan Zurbriggen,CH,0,Downhill
+2012-01-24,Silvan Zurbriggen,CH,0,Combined
 2012-01-24,Marc Berthod,CH,1,Giant Slalom
 2012-01-24,Alexis Pinturault,FR,92,Giant Slalom
 2012-01-24,Manfred Pranger,AT,181,Slalom
@@ -1257,7 +1257,7 @@ date,name,ath_country,value,specialty
 2012-02-19,Antoine Marical,FR,0,Combined
 2012-02-19,Kai Alaerts,BE,0,Combined
 2012-02-19,Kristaps Zvejnieks,LV,0,Combined
-2012-02-19,Silvan Zurbriggen,CH,0,Downhill
+2012-02-19,Silvan Zurbriggen,CH,0,Combined
 2012-02-19,Santeri Paloniemi,FI,0,Slalom
 2012-02-19,Roberto Nani,IT,10,Slalom
 2012-02-19,Stefan Prisadov,BG,0,Combined
@@ -1299,7 +1299,7 @@ date,name,ath_country,value,specialty
 2012-03-11,Jakub Ilewicz,PL,0,Combined
 2012-03-11,Manfred Pranger,AT,234,Slalom
 2012-03-11,Ondrej Bank,CZ,0,Combined
-2012-03-11,Silvan Zurbriggen,CH,0,Downhill
+2012-03-11,Silvan Zurbriggen,CH,0,Combined
 2012-03-11,Aksel-Lund Svindal,NO,0,Super G
 2012-03-11,Patrick Bechter,AT,0,Combined
 2012-03-11,Martin Khuber,KZ,0,Combined
@@ -1494,7 +1494,7 @@ date,name,ath_country,value,specialty
 2012-03-18,Lars Elton Myhre,NO,71,Slalom
 2012-03-18,Axel Baeck,SE,124,Slalom
 2012-03-18,Aksel-Lund Svindal,NO,0,Super G
-2012-03-18,Silvan Zurbriggen,CH,0,Downhill
+2012-03-18,Silvan Zurbriggen,CH,0,Combined
 2012-03-18,Ondrej Bank,CZ,0,Combined
 2012-03-18,Giovanni Borsotti,IT,0,Giant Slalom
 2012-03-18,Francois Place,FR,0,Combined

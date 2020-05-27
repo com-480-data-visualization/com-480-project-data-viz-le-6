@@ -21,7 +21,7 @@ date,name,ath_country,value,specialty
 2007-11-25,Carlo Janka,CH,0,Giant Slalom
 2007-11-25,Christof Innerhofer,IT,24,Super G
 2007-11-25,Jimmy Cochran,US,0,Slalom
-2007-11-25,Rainer Schoenfelder,AT,0,Slalom
+2007-11-25,Rainer Schoenfelder,AT,0,Combined
 2007-11-25,Finlay Mickel,GB,0,Combined
 2007-11-25,Niklas Rainer,SE,0,Combined
 2007-11-25,Tobias Gruenenfelder,CH,4,Downhill
@@ -150,7 +150,7 @@ date,name,ath_country,value,specialty
 2007-12-03,Georg Streitberger,AT,35,Super G
 2007-12-03,Bjarne Solbakken,NO,0,Combined
 2007-12-03,Jimmy Cochran,US,0,Slalom
-2007-12-03,Rainer Schoenfelder,AT,0,Slalom
+2007-12-03,Rainer Schoenfelder,AT,0,Combined
 2007-12-03,Christoph Gruber,AT,86,Super G
 2007-12-03,Pierre Emmanuel Dalcin,FR,8,Downhill
 2007-12-03,Marco Buechel,LI,14,Super G
@@ -298,7 +298,7 @@ date,name,ath_country,value,specialty
 2007-12-14,Marco Buechel,LI,74,Super G
 2007-12-14,Andreas Sander,DE,0,Combined
 2007-12-14,Christoph Gruber,AT,110,Super G
-2007-12-14,Rainer Schoenfelder,AT,0,Slalom
+2007-12-14,Rainer Schoenfelder,AT,0,Combined
 2008-01-18,Konrad Hari,CH,0,Downhill
 2008-01-18,John Kucera,CA,111,Giant Slalom
 2008-01-18,Michael Walchhofer,AT,72,Downhill
@@ -397,7 +397,7 @@ date,name,ath_country,value,specialty
 2008-01-18,Cristian Javier Simari Birkner,AR,0,Combined
 2008-01-18,Walter Girardi,IT,43,Super G
 2008-01-18,Silvan Zurbriggen,CH,13,Slalom
-2008-01-18,Rainer Schoenfelder,AT,0,Slalom
+2008-01-18,Rainer Schoenfelder,AT,0,Combined
 2008-01-18,Ted Ligety,US,8,Giant Slalom
 2008-02-21,Lars Elton Myhre,NO,5,Combined
 2008-02-21,Peter Strodl,DE,0,Combined
@@ -487,7 +487,7 @@ date,name,ath_country,value,specialty
 2008-02-21,Ted Ligety,US,8,Giant Slalom
 2008-02-21,Niklas Rainer,SE,0,Combined
 2008-02-21,Antoine Deneriaz,FR,0,Combined
-2008-02-21,Rainer Schoenfelder,AT,0,Slalom
+2008-02-21,Rainer Schoenfelder,AT,0,Combined
 2008-02-21,Jimmy Cochran,US,0,Slalom
 2008-02-21,Cristian Javier Simari Birkner,AR,0,Combined
 2008-02-21,Gauthier De Tessieres,FR,0,Giant Slalom
@@ -510,7 +510,7 @@ date,name,ath_country,value,specialty
 2008-03-02,Manuel Osborne-Paradis,CA,31,Downhill
 2008-03-02,Ted Ligety,US,8,Giant Slalom
 2008-03-02,Christoph Gruber,AT,251,Super G
-2008-03-02,Rainer Schoenfelder,AT,3,Slalom
+2008-03-02,Rainer Schoenfelder,AT,3,Combined
 2008-03-02,Natko Zrncic-Dim,HR,0,Combined
 2008-03-02,Bjarne Solbakken,NO,0,Combined
 2008-03-02,Gauthier De Tessieres,FR,0,Giant Slalom
@@ -625,7 +625,7 @@ date,name,ath_country,value,specialty
 2008-03-13,Walter Girardi,IT,56,Super G
 2008-03-13,Scott Macartney,US,22,Downhill
 2008-03-13,Manfred Moelgg,IT,27,Slalom
-2008-03-13,Rainer Schoenfelder,AT,17,Slalom
+2008-03-13,Rainer Schoenfelder,AT,17,Combined
 2008-03-13,Stephan Keppler,DE,13,Super G
 2008-03-13,Silvan Zurbriggen,CH,13,Slalom
 2008-03-13,Manuel Osborne-Paradis,CA,31,Downhill

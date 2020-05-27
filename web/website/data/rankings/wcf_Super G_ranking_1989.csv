@@ -5,7 +5,7 @@ date,name,ath_country,value,specialty
 1988-11-26,Elisabeth Kirchler,AT,0,Downhill
 1988-11-26,Zoe Haas,CH,0,Giant Slalom
 1988-11-26,Karen Percy,CA,0,Downhill
-1988-11-26,Petra Kronberger,AT,6,Downhill
+1988-11-26,Petra Kronberger,AT,6,Combined
 1988-11-26,Michela Figini,CH,9,Downhill
 1988-11-26,Heidi Zurbriggen,CH,0,Downhill
 1988-11-26,Ulrike Stangassinger,DE,5,Downhill
@@ -34,7 +34,7 @@ date,name,ath_country,value,specialty
 1989-01-14,Kendra Kobelka,CA,0,Super G
 1989-01-14,Barbara Sadleder,AT,9,Downhill
 1989-01-14,Karen Percy,CA,0,Downhill
-1989-01-14,Petra Kronberger,AT,12,Downhill
+1989-01-14,Petra Kronberger,AT,12,Combined
 1989-01-14,Veronika Stallmaier Wallinger,AT,7,Downhill
 1989-01-14,Zoe Haas,CH,0,Giant Slalom
 1989-01-14,Ulrike Stangassinger,DE,5,Downhill
@@ -76,7 +76,7 @@ date,name,ath_country,value,specialty
 1989-01-20,Karin Dedler,DE,4,Giant Slalom
 1989-01-20,Heidi Zurbriggen,CH,8,Downhill
 1989-01-20,Sabine Ginther,AT,2,Super G
-1989-01-20,Petra Kronberger,AT,12,Downhill
+1989-01-20,Petra Kronberger,AT,12,Combined
 1989-01-20,Catherine Quittet,FR,11,Giant Slalom
 1989-01-20,Vreni Schneider,CH,11,Slalom
 1989-01-20,Sigrid Wolf,AT,46,Super G
@@ -116,7 +116,7 @@ date,name,ath_country,value,specialty
 1989-02-25,Veronika Stallmaier Wallinger,AT,13,Downhill
 1989-02-25,Zoe Haas,CH,7,Giant Slalom
 1989-02-25,Michela Figini,CH,29,Downhill
-1989-02-25,Petra Kronberger,AT,12,Downhill
+1989-02-25,Petra Kronberger,AT,12,Combined
 1989-02-25,Maria Walliser,CH,27,Downhill
 1989-02-25,Ulrike Stangassinger,DE,5,Downhill
 1989-02-25,Brigitte Oertli,CH,8,Combined

@@ -7,21 +7,21 @@ date,name,ath_country,value,specialty
 2000-11-30,Veronika Thanner,AT,2,Downhill
 2000-11-30,Ruth Kuendig,CH,0,Downhill
 2000-11-30,Warwara Zelenskaja,RU,11,Super G
-2000-11-30,Trude Gimle,NO,5,Downhill
+2000-11-30,Trude Gimle,NO,5,Combined
 2000-11-30,Merete Fjeldavlie,NO,6,Super G
-2000-11-30,Ella Alpiger,CH,0,Downhill
-2000-11-30,Sibylle Brauner,DE,20,Downhill
+2000-11-30,Ella Alpiger,CH,0,Combined
+2000-11-30,Sibylle Brauner,DE,20,Super G
 2000-11-30,Monika Dumermuth,CH,0,Downhill
 2000-11-30,Anne Marie Lefrancois,CA,4,Downhill
 2000-11-30,Stefanie Schuster,AT,0,Super G
 2000-11-30,Ingrid Jacquemod,FR,24,Super G
-2000-11-30,Isabelle Huber,DE,0,Downhill
+2000-11-30,Isabelle Huber,DE,0,Combined
 2000-11-30,Selina Heregger,AT,0,Super G
 2000-11-30,Sylviane Berthod,CH,32,Downhill
 2000-11-30,Michaela Dorfmeister,AT,7,Giant Slalom
 2000-11-30,Ingeborg H. Marken,NO,13,Downhill
 2000-11-30,Bibiana Perez,IT,22,Downhill
-2000-11-30,Alexandra Meissnitzer,AT,0,Giant Slalom
+2000-11-30,Alexandra Meissnitzer,AT,0,Super G
 2000-11-30,Megan Gerety,US,40,Downhill
 2000-11-30,Alexandra Grauvogl,DE,0,Downhill
 2000-11-30,Mojca Suhadolc,SK,29,Super G
@@ -32,7 +32,7 @@ date,name,ath_country,value,specialty
 2000-11-30,Catherine Borghi,CH,0,Downhill
 2000-11-30,Spela Bracun,SK,2,Downhill
 2000-11-30,Jonna Mendes,US,26,Downhill
-2000-11-30,Pia Kaeyhkoe,FI,0,Downhill
+2000-11-30,Pia Kaeyhkoe,FI,0,Combined
 2000-11-30,Karen Putzer,IT,0,Giant Slalom
 2000-11-30,Olesja Alieva,RU,0,Downhill
 2000-11-30,Andrea Felber,AT,0,Combined
@@ -75,10 +75,10 @@ date,name,ath_country,value,specialty
 2000-11-30,Isolde Kostner,IT,80,Downhill
 2000-11-30,Corinne Rey Bellet,CH,12,Super G
 2000-11-30,Hilde Gerg,DE,9,Downhill
-2000-11-30,Renate Goetschl,AT,60,Downhill
+2000-11-30,Renate Goetschl,AT,60,Super G
 2000-11-30,Brigitte Obermoser,AT,45,Downhill
 2000-11-30,Carole Montillet,FR,16,Super G
-2000-12-01,Trude Gimle,NO,23,Downhill
+2000-12-01,Trude Gimle,NO,23,Combined
 2000-12-01,Anastasij Popkova,RU,0,Combined
 2000-12-01,Warwara Zelenskaja,RU,11,Super G
 2000-12-01,Ruth Kuendig,CH,0,Downhill
@@ -92,14 +92,14 @@ date,name,ath_country,value,specialty
 2000-12-01,Veronika Thanner,AT,9,Downhill
 2000-12-01,Hilde Gerg,DE,9,Downhill
 2000-12-01,Patrizia Bassis,IT,8,Downhill
-2000-12-01,Sibylle Brauner,DE,20,Downhill
+2000-12-01,Sibylle Brauner,DE,20,Super G
 2000-12-01,Nike Bent,SE,0,Combined
 2000-12-01,Caroline Lalive,US,0,Downhill
 2000-12-01,Picabo Street,US,0,Downhill
 2000-12-01,Alison Powers,US,0,Downhill
 2000-12-01,Catherine Borghi,CH,4,Downhill
 2000-12-01,Spela Bracun,SK,31,Downhill
-2000-12-01,Ella Alpiger,CH,0,Downhill
+2000-12-01,Ella Alpiger,CH,0,Combined
 2000-12-01,Selina Heregger,AT,15,Super G
 2000-12-01,Anja Lampert,LI,0,Combined
 2000-12-01,Ingrid Jacquemod,FR,36,Super G
@@ -107,7 +107,7 @@ date,name,ath_country,value,specialty
 2000-12-01,Anne Marie Lefrancois,CA,4,Downhill
 2000-12-01,Carole Montillet,FR,96,Super G
 2000-12-01,Alexandra Grauvogl,DE,0,Downhill
-2000-12-01,Isabelle Huber,DE,0,Downhill
+2000-12-01,Isabelle Huber,DE,0,Combined
 2000-12-01,Monika Dumermuth,CH,0,Downhill
 2000-12-01,Karen Putzer,IT,0,Giant Slalom
 2000-12-01,Tanja Schneider,AT,46,Downhill
@@ -133,8 +133,8 @@ date,name,ath_country,value,specialty
 2000-12-01,Pernilla Wiberg,SE,0,Super G
 2000-12-01,Janica Kostelic,HR,0,Slalom
 2000-12-01,Ingrid Rumpfhuber,AT,0,Combined
-2000-12-01,Renate Goetschl,AT,73,Downhill
-2000-12-01,Pia Kaeyhkoe,FI,0,Downhill
+2000-12-01,Renate Goetschl,AT,73,Super G
+2000-12-01,Pia Kaeyhkoe,FI,0,Combined
 2000-12-01,Lucia Recchia,IT,0,Super G
 2000-12-01,Marta Antonioli,IT,0,Downhill
 2000-12-01,Karin Blaser,AT,2,Super G
@@ -148,7 +148,7 @@ date,name,ath_country,value,specialty
 2000-12-01,Bibiana Perez,IT,67,Downhill
 2000-12-01,Megan Gerety,US,40,Downhill
 2000-12-01,Mojca Suhadolc,SK,69,Super G
-2000-12-01,Alexandra Meissnitzer,AT,0,Giant Slalom
+2000-12-01,Alexandra Meissnitzer,AT,0,Super G
 2000-12-01,Corinne Rey Bellet,CH,72,Super G
 2000-12-01,Alexandra Coletti,IT,0,Combined
 2000-12-01,Michaela Dorfmeister,AT,18,Giant Slalom
@@ -171,14 +171,14 @@ date,name,ath_country,value,specialty
 2000-12-16,Patrizia Bassis,IT,8,Downhill
 2000-12-16,Celine Daetwyler,CH,0,Combined
 2000-12-16,Carole Montillet,FR,125,Super G
-2000-12-16,Isabelle Huber,DE,26,Downhill
+2000-12-16,Isabelle Huber,DE,26,Combined
 2000-12-16,Warwara Zelenskaja,RU,11,Super G
 2000-12-16,Martina Ertl,DE,14,Slalom
 2000-12-16,Petra Haltmayr,DE,121,Downhill
 2000-12-16,Ruth Kuendig,CH,15,Downhill
 2000-12-16,Gro Kvinlog,NO,1,Super G
 2000-12-16,Silvia Berger,AT,1,Giant Slalom
-2000-12-16,Renate Goetschl,AT,153,Downhill
+2000-12-16,Renate Goetschl,AT,153,Super G
 2000-12-16,Monika Dumermuth,CH,0,Downhill
 2000-12-16,Karin Blaser,AT,2,Super G
 2000-12-16,Anne Marie Lefrancois,CA,26,Downhill
@@ -193,11 +193,11 @@ date,name,ath_country,value,specialty
 2000-12-16,Ingrid Jacquemod,FR,36,Super G
 2000-12-16,Jenny Owens,AU,0,Combined
 2000-12-16,Ingrid Rumpfhuber,AT,0,Combined
-2000-12-16,Alexandra Meissnitzer,AT,45,Giant Slalom
-2000-12-16,Sibylle Brauner,DE,20,Downhill
+2000-12-16,Alexandra Meissnitzer,AT,45,Super G
+2000-12-16,Sibylle Brauner,DE,20,Super G
 2000-12-16,Britt Janyk,CA,0,Giant Slalom
 2000-12-16,Alexandra Coletti,IT,0,Combined
-2000-12-16,Trude Gimle,NO,23,Downhill
+2000-12-16,Trude Gimle,NO,23,Combined
 2000-12-16,Karen Putzer,IT,0,Giant Slalom
 2000-12-16,Ingeborg H. Marken,NO,40,Downhill
 2000-12-16,Caroline Lalive,US,20,Downhill
@@ -210,14 +210,14 @@ date,name,ath_country,value,specialty
 2000-12-16,Sara Maude Boucher,CA,0,Super G
 2000-12-16,Tanja Schneider,AT,86,Downhill
 2000-12-16,Corinne Rey Bellet,CH,80,Super G
-2000-12-16,Pia Kaeyhkoe,FI,0,Downhill
+2000-12-16,Pia Kaeyhkoe,FI,0,Combined
 2000-12-16,Nike Bent,SE,0,Combined
 2000-12-16,Alice Jones,AU,0,Combined
 2000-12-16,Jonna Mendes,US,82,Downhill
 2000-12-16,Christine Hargin,SE,0,Slalom
 2000-12-16,Melanie Suchet,FR,23,Super G
 2000-12-16,Olesja Alieva,RU,6,Downhill
-2000-12-16,Ella Alpiger,CH,20,Downhill
+2000-12-16,Ella Alpiger,CH,20,Combined
 2000-12-16,Catherine Borghi,CH,10,Downhill
 2000-12-16,Floriane Paturel,FR,0,Super G
 2000-12-16,Janette Hargin,SE,0,Super G
@@ -237,14 +237,14 @@ date,name,ath_country,value,specialty
 2000-12-16,Bibiana Perez,IT,67,Downhill
 2000-12-16,Elena Tagliabue,IT,0,Super G
 2000-12-17,Britt Janyk,CA,0,Giant Slalom
-2000-12-17,Trude Gimle,NO,23,Downhill
+2000-12-17,Trude Gimle,NO,23,Combined
 2000-12-17,Janette Hargin,SE,0,Super G
 2000-12-17,Warwara Zelenskaja,RU,11,Super G
-2000-12-17,Alexandra Meissnitzer,AT,67,Giant Slalom
+2000-12-17,Alexandra Meissnitzer,AT,67,Super G
 2000-12-17,Jonna Mendes,US,106,Downhill
 2000-12-17,Patrizia Bassis,IT,19,Downhill
 2000-12-17,Karin Blaser,AT,2,Super G
-2000-12-17,Pia Kaeyhkoe,FI,0,Downhill
+2000-12-17,Pia Kaeyhkoe,FI,0,Combined
 2000-12-17,Kirsten L Clark,US,67,Downhill
 2000-12-17,Alexandra Grauvogl,DE,0,Downhill
 2000-12-17,Karen Putzer,IT,0,Giant Slalom
@@ -267,7 +267,7 @@ date,name,ath_country,value,specialty
 2000-12-17,Michaela Dorfmeister,AT,100,Giant Slalom
 2000-12-17,Ruth Kuendig,CH,19,Downhill
 2000-12-17,Christine Hargin,SE,0,Slalom
-2000-12-17,Sibylle Brauner,DE,30,Downhill
+2000-12-17,Sibylle Brauner,DE,30,Super G
 2000-12-17,Sylviane Berthod,CH,67,Downhill
 2000-12-17,Regine Cavagnoud,FR,170,Super G
 2000-12-17,Nike Bent,SE,0,Combined
@@ -280,7 +280,7 @@ date,name,ath_country,value,specialty
 2000-12-17,Brigitte Obermoser,AT,211,Downhill
 2000-12-17,Christiane Mitterwallner,AT,0,Giant Slalom
 2000-12-17,Linda Alpiger,CH,0,Combined
-2000-12-17,Renate Goetschl,AT,253,Downhill
+2000-12-17,Renate Goetschl,AT,253,Super G
 2000-12-17,Megan Gerety,US,56,Downhill
 2000-12-17,Alison Powers,US,46,Downhill
 2000-12-17,Selina Heregger,AT,33,Super G
@@ -291,7 +291,7 @@ date,name,ath_country,value,specialty
 2000-12-17,Elena Tagliabue,IT,0,Super G
 2000-12-17,Catherine Borghi,CH,22,Downhill
 2000-12-17,Emily Brydon,CA,100,Downhill
-2000-12-17,Isabelle Huber,DE,26,Downhill
+2000-12-17,Isabelle Huber,DE,26,Combined
 2000-12-17,Stefanie Schuster,AT,20,Super G
 2000-12-17,Karine Meilleur,FR,0,Combined
 2000-12-17,Carole Montillet,FR,170,Super G
@@ -299,7 +299,7 @@ date,name,ath_country,value,specialty
 2000-12-17,Sara Maude Boucher,CA,0,Super G
 2000-12-17,Anastasij Popkova,RU,0,Combined
 2000-12-17,Katia Santus,IT,0,Combined
-2000-12-17,Ella Alpiger,CH,20,Downhill
+2000-12-17,Ella Alpiger,CH,20,Combined
 2000-12-17,Tanja Schneider,AT,126,Downhill
 2000-12-17,Floriane Paturel,FR,0,Super G
 2000-12-17,Alice Jones,AU,0,Combined
@@ -333,7 +333,7 @@ date,name,ath_country,value,specialty
 2001-01-13,Brigitte Obermoser,AT,211,Downhill
 2001-01-13,Sylviane Berthod,CH,81,Downhill
 2001-01-13,Floriane Paturel,FR,0,Super G
-2001-01-13,Renate Goetschl,AT,353,Downhill
+2001-01-13,Renate Goetschl,AT,353,Super G
 2001-01-13,Christine Hargin,SE,0,Slalom
 2001-01-13,Britt Janyk,CA,0,Giant Slalom
 2001-01-13,Alessandra Merlin,IT,0,Super G
@@ -354,14 +354,14 @@ date,name,ath_country,value,specialty
 2001-01-13,Janica Kostelic,HR,4,Slalom
 2001-01-13,Marta Antonioli,IT,4,Downhill
 2001-01-13,Ingeborg H. Marken,NO,80,Downhill
-2001-01-13,Pia Kaeyhkoe,FI,3,Downhill
+2001-01-13,Pia Kaeyhkoe,FI,3,Combined
 2001-01-13,Corinne Rey Bellet,CH,116,Super G
 2001-01-13,Patrizia Bassis,IT,31,Downhill
 2001-01-13,Anja Lampert,LI,0,Combined
 2001-01-13,Spela Bracun,SK,31,Downhill
 2001-01-13,Marilyn Sterchi,CH,0,Combined
 2001-01-13,Selina Heregger,AT,45,Super G
-2001-01-13,Isabelle Huber,DE,26,Downhill
+2001-01-13,Isabelle Huber,DE,26,Combined
 2001-01-13,Bibiana Perez,IT,82,Downhill
 2001-01-13,Megan Gerety,US,82,Downhill
 2001-01-13,Ingrid Jacquemod,FR,36,Super G
@@ -374,11 +374,11 @@ date,name,ath_country,value,specialty
 2001-01-13,Monika Dumermuth,CH,22,Downhill
 2001-01-13,Ruth Kuendig,CH,21,Downhill
 2001-01-13,Warwara Zelenskaja,RU,11,Super G
-2001-01-13,Alexandra Meissnitzer,AT,67,Giant Slalom
-2001-01-13,Sibylle Brauner,DE,50,Downhill
+2001-01-13,Alexandra Meissnitzer,AT,67,Super G
+2001-01-13,Sibylle Brauner,DE,50,Super G
 2001-01-13,Anastasij Popkova,RU,0,Combined
-2001-01-13,Trude Gimle,NO,23,Downhill
-2001-01-13,Ella Alpiger,CH,20,Downhill
+2001-01-13,Trude Gimle,NO,23,Combined
+2001-01-13,Ella Alpiger,CH,20,Combined
 2001-01-13,Regine Cavagnoud,FR,220,Super G
 2001-01-13,Melanie Suchet,FR,23,Super G
 2001-01-13,Martina Ertl,DE,14,Slalom
@@ -408,10 +408,10 @@ date,name,ath_country,value,specialty
 2001-01-19,Floriane Paturel,FR,0,Super G
 2001-01-19,Mojca Suhadolc,SK,115,Super G
 2001-01-19,Katia Santus,IT,0,Combined
-2001-01-19,Sibylle Brauner,DE,51,Downhill
+2001-01-19,Sibylle Brauner,DE,51,Super G
 2001-01-19,Jonna Mendes,US,118,Downhill
 2001-01-19,Sara Maude Boucher,CA,0,Super G
-2001-01-19,Ella Alpiger,CH,20,Downhill
+2001-01-19,Ella Alpiger,CH,20,Combined
 2001-01-19,Tanja Schneider,AT,155,Downhill
 2001-01-19,Regine Cavagnoud,FR,280,Super G
 2001-01-19,Elena Tagliabue,IT,0,Super G
@@ -427,7 +427,7 @@ date,name,ath_country,value,specialty
 2001-01-19,Christiane Mitterwallner,AT,0,Giant Slalom
 2001-01-19,Merete Fjeldavlie,NO,40,Super G
 2001-01-19,Chiara May,IT,0,Combined
-2001-01-19,Isabelle Huber,DE,26,Downhill
+2001-01-19,Isabelle Huber,DE,26,Combined
 2001-01-19,Alice Jones,AU,0,Combined
 2001-01-19,Corinne Rey Bellet,CH,138,Super G
 2001-01-19,Emily Brydon,CA,154,Downhill
@@ -441,14 +441,14 @@ date,name,ath_country,value,specialty
 2001-01-19,Linda Alpiger,CH,0,Combined
 2001-01-19,Silvia Berger,AT,1,Giant Slalom
 2001-01-19,Brigitte Obermoser,AT,247,Downhill
-2001-01-19,Pia Kaeyhkoe,FI,12,Downhill
-2001-01-19,Alexandra Meissnitzer,AT,77,Giant Slalom
+2001-01-19,Pia Kaeyhkoe,FI,12,Combined
+2001-01-19,Alexandra Meissnitzer,AT,77,Super G
 2001-01-19,Karin Blaser,AT,2,Super G
 2001-01-19,Kirsten L Clark,US,81,Downhill
 2001-01-19,Daniela Ceccarelli,IT,29,Super G
 2001-01-19,Olesja Alieva,RU,6,Downhill
 2001-01-19,Ruth Kuendig,CH,21,Downhill
-2001-01-19,Renate Goetschl,AT,433,Downhill
+2001-01-19,Renate Goetschl,AT,433,Super G
 2001-01-19,Marta Antonioli,IT,4,Downhill
 2001-01-19,Veronika Thanner,AT,41,Downhill
 2001-01-19,Fujiko Sekino,FR,12,Super G
@@ -470,7 +470,7 @@ date,name,ath_country,value,specialty
 2001-01-19,Karen Putzer,IT,1,Giant Slalom
 2001-01-19,Britt Janyk,CA,0,Giant Slalom
 2001-01-19,Warwara Zelenskaja,RU,29,Super G
-2001-01-19,Trude Gimle,NO,23,Downhill
+2001-01-19,Trude Gimle,NO,23,Combined
 2001-01-19,Janette Hargin,SE,0,Super G
 2001-01-19,Hilde Gerg,DE,57,Downhill
 2001-02-24,Linda Alpiger,CH,0,Combined
@@ -480,7 +480,7 @@ date,name,ath_country,value,specialty
 2001-02-24,Catherine Borghi,CH,62,Downhill
 2001-02-24,Jonna Mendes,US,127,Downhill
 2001-02-24,Melanie Suchet,FR,23,Super G
-2001-02-24,Pia Kaeyhkoe,FI,12,Downhill
+2001-02-24,Pia Kaeyhkoe,FI,12,Combined
 2001-02-24,Katia Santus,IT,0,Combined
 2001-02-24,Alexandra Coletti,IT,0,Combined
 2001-02-24,Alexandra Grauvogl,DE,9,Downhill
@@ -522,10 +522,10 @@ date,name,ath_country,value,specialty
 2001-02-24,Corinne Rey Bellet,CH,183,Super G
 2001-02-24,Brigitte Obermoser,AT,259,Downhill
 2001-02-24,Floriane Paturel,FR,0,Super G
-2001-02-24,Trude Gimle,NO,23,Downhill
-2001-02-24,Sibylle Brauner,DE,57,Downhill
-2001-02-24,Alexandra Meissnitzer,AT,92,Giant Slalom
-2001-02-24,Ella Alpiger,CH,23,Downhill
+2001-02-24,Trude Gimle,NO,23,Combined
+2001-02-24,Sibylle Brauner,DE,57,Super G
+2001-02-24,Alexandra Meissnitzer,AT,92,Super G
+2001-02-24,Ella Alpiger,CH,23,Combined
 2001-02-24,Sara Maude Boucher,CA,0,Super G
 2001-02-24,Janette Hargin,SE,0,Super G
 2001-02-24,Nike Bent,SE,0,Combined
@@ -537,7 +537,7 @@ date,name,ath_country,value,specialty
 2001-02-24,Jenny Owens,AU,0,Combined
 2001-02-24,Hilde Gerg,DE,86,Downhill
 2001-02-24,Christine Hargin,SE,0,Slalom
-2001-02-24,Renate Goetschl,AT,455,Downhill
+2001-02-24,Renate Goetschl,AT,455,Super G
 2001-02-24,Ingrid Jacquemod,FR,56,Super G
 2001-02-24,Megan Gerety,US,159,Downhill
 2001-02-24,Corinne Imlig,CH,5,Downhill
@@ -550,7 +550,7 @@ date,name,ath_country,value,specialty
 2001-02-24,Michaela Dorfmeister,AT,178,Giant Slalom
 2001-02-24,Melanie Turgeon,CA,225,Super G
 2001-02-24,Marta Antonioli,IT,4,Downhill
-2001-02-24,Isabelle Huber,DE,26,Downhill
+2001-02-24,Isabelle Huber,DE,26,Combined
 2001-02-24,Marilyn Sterchi,CH,0,Combined
 2001-03-08,Marilyn Sterchi,CH,0,Combined
 2001-03-08,Petra Haltmayr,DE,215,Downhill
@@ -565,15 +565,15 @@ date,name,ath_country,value,specialty
 2001-03-08,Marianna Salchinger,AT,0,Combined
 2001-03-08,Ruth Kuendig,CH,21,Downhill
 2001-03-08,Warwara Zelenskaja,RU,29,Super G
-2001-03-08,Trude Gimle,NO,23,Downhill
+2001-03-08,Trude Gimle,NO,23,Combined
 2001-03-08,Merete Fjeldavlie,NO,53,Super G
-2001-03-08,Ella Alpiger,CH,23,Downhill
-2001-03-08,Sibylle Brauner,DE,57,Downhill
+2001-03-08,Ella Alpiger,CH,23,Combined
+2001-03-08,Sibylle Brauner,DE,57,Super G
 2001-03-08,Monika Dumermuth,CH,28,Downhill
 2001-03-08,Anne Marie Lefrancois,CA,26,Downhill
 2001-03-08,Stefanie Schuster,AT,80,Super G
 2001-03-08,Ingrid Jacquemod,FR,56,Super G
-2001-03-08,Isabelle Huber,DE,26,Downhill
+2001-03-08,Isabelle Huber,DE,26,Combined
 2001-03-08,Selina Heregger,AT,109,Super G
 2001-03-08,Spela Bracun,SK,31,Downhill
 2001-03-08,Carole Montillet,FR,297,Super G
@@ -594,7 +594,7 @@ date,name,ath_country,value,specialty
 2001-03-08,Jonna Mendes,US,139,Downhill
 2001-03-08,Tanja Schneider,AT,175,Downhill
 2001-03-08,Caroline Lalive,US,97,Downhill
-2001-03-08,Alexandra Meissnitzer,AT,107,Giant Slalom
+2001-03-08,Alexandra Meissnitzer,AT,107,Super G
 2001-03-08,Katia Santus,IT,0,Combined
 2001-03-08,Hilde Gerg,DE,186,Downhill
 2001-03-08,Patrizia Bassis,IT,45,Downhill
@@ -619,11 +619,11 @@ date,name,ath_country,value,specialty
 2001-03-08,Daniela Ceccarelli,IT,37,Super G
 2001-03-08,Fujiko Sekino,FR,13,Super G
 2001-03-08,Kirsten L Clark,US,191,Downhill
-2001-03-08,Pia Kaeyhkoe,FI,12,Downhill
+2001-03-08,Pia Kaeyhkoe,FI,12,Combined
 2001-03-08,Karen Putzer,IT,10,Giant Slalom
 2001-03-08,Martina Ertl,DE,14,Slalom
 2001-03-08,Olesja Alieva,RU,6,Downhill
-2001-03-08,Renate Goetschl,AT,455,Downhill
+2001-03-08,Renate Goetschl,AT,455,Super G
 2001-03-08,Janica Kostelic,HR,4,Slalom
 2001-03-08,Lucia Recchia,IT,6,Super G
 2001-03-08,Corinne Imlig,CH,5,Downhill

@@ -3,18 +3,18 @@ date,name,ath_country,value,specialty
 2003-11-29,Kenneth Sivertsen,NO,0,Super G
 2003-11-29,Andreas Schifferer,AT,50,Downhill
 2003-11-29,Bode Miller,US,1,Giant Slalom
-2003-11-29,Kevin Francis,US,0,Downhill
+2003-11-29,Kevin Francis,US,0,Combined
 2003-11-29,Peter Fill,IT,15,Super G
-2003-11-29,Andrej Sporn,SK,0,Slalom
+2003-11-29,Andrej Sporn,SK,0,Combined
 2003-11-29,Ivica Kostelic,HR,0,Slalom
 2003-11-29,Ambrosi Hoffmann,CH,32,Downhill
 2003-11-29,Peter Rzehak,AT,0,Downhill
-2003-11-29,Stephan Thanei,IT,0,Downhill
+2003-11-29,Stephan Thanei,IT,0,Combined
 2003-11-29,Yannick Bertrand,FR,4,Downhill
-2003-11-29,Jeff Hume,CA,0,Downhill
+2003-11-29,Jeff Hume,CA,0,Combined
 2003-11-29,Alessandro Fattori,IT,0,Downhill
-2003-11-29,Beni Hofer,CH,0,Downhill
-2003-11-29,Darin McBeath,CA,0,Downhill
+2003-11-29,Beni Hofer,CH,0,Combined
+2003-11-29,Darin McBeath,CA,0,Combined
 2003-11-29,Fritz Strobl,AT,14,Downhill
 2003-11-29,Hans Grugger,AT,36,Downhill
 2003-11-29,Werner Franz,AT,0,Downhill
@@ -23,63 +23,63 @@ date,name,ath_country,value,specialty
 2003-11-29,Erik Guay,CA,80,Downhill
 2003-11-29,Jan Hudec,CA,0,Super G
 2003-11-29,Gregor Sparovec,SK,12,Downhill
-2003-11-29,Pavel Chestakov,RU,0,Downhill
-2003-11-29,Peter Pen,SK,0,Downhill
+2003-11-29,Pavel Chestakov,RU,0,Combined
+2003-11-29,Peter Pen,SK,0,Combined
 2003-11-29,Bjarne Solbakken,NO,22,Super G
 2003-11-29,Aksel-Lund Svindal,NO,7,Super G
-2003-11-29,Alex Antor,AD,0,Downhill
-2003-11-29,Saemi Perren,CH,0,Downhill
+2003-11-29,Alex Antor,AD,0,Combined
+2003-11-29,Saemi Perren,CH,0,Combined
 2003-11-29,Florian Eckert,DE,0,Downhill
 2003-11-29,Hans Knauss,AT,45,Downhill
 2003-11-29,Johan Brolenius,SE,0,Slalom
-2003-11-29,Finlay Mickel,GB,0,Downhill
+2003-11-29,Finlay Mickel,GB,0,Combined
 2003-11-29,Markus Larsson,SE,0,Slalom
 2003-11-29,Stefan Stankalla,DE,0,Super G
 2003-11-29,Benjamin Raich,AT,0,Slalom
 2003-11-29,Silvan Zurbriggen,CH,0,Slalom
-2003-11-29,Wade H Bishop,US,0,Downhill
+2003-11-29,Wade H Bishop,US,0,Combined
 2003-11-29,Franco Cavegn,CH,24,Downhill
 2003-11-29,Kristian Ghedina,IT,8,Downhill
 2003-11-29,Pierrick Bourgeat,FR,0,Slalom
 2003-11-29,Paul Accola,CH,0,Downhill
-2003-11-29,Enis Becirbegovic,BA,0,Downhill
-2003-11-29,Johnny Albertsen,DK,0,Downhill
-2003-11-29,Cornel Zueger,CH,0,Downhill
+2003-11-29,Enis Becirbegovic,BA,0,Combined
+2003-11-29,Johnny Albertsen,DK,0,Combined
+2003-11-29,Cornel Zueger,CH,0,Combined
 2003-11-29,Bruno Kernen,CH,0,Downhill
 2003-11-29,Norbert Holzknecht,AT,16,Downhill
-2003-11-29,Marco Sullivan,US,0,Downhill
+2003-11-29,Marco Sullivan,US,0,Combined
 2003-11-29,Michael Gufler,IT,0,Giant Slalom
 2003-11-29,Marco Buechel,LI,0,Downhill
-2003-11-29,Daniel Zueger,CH,0,Downhill
+2003-11-29,Daniel Zueger,CH,0,Combined
 2003-11-29,Scott Macartney,US,0,Super G
 2003-11-29,Max Rauffer,DE,29,Downhill
-2003-11-29,Giorgio Gros,IT,0,Downhill
-2003-11-29,Manuel Carrozza,IT,0,Downhill
+2003-11-29,Giorgio Gros,IT,0,Combined
+2003-11-29,Manuel Carrozza,IT,0,Combined
 2003-11-29,Nicolas Burtin,FR,12,Downhill
 2003-11-29,Christoph Gruber,AT,7,Downhill
 2003-11-29,Kurt Sulzenbacher,IT,0,Downhill
-2003-11-29,Ole Magnus Kulbeck,NO,0,Super G
-2003-11-29,Craig Branch,AU,0,Downhill
+2003-11-29,Ole Magnus Kulbeck,NO,0,Combined
+2003-11-29,Craig Branch,AU,0,Combined
 2003-11-29,Didier Defago,CH,5,Downhill
 2003-11-29,Sebastien Fournier-Bidoz,FR,18,Downhill
-2003-11-29,Werner Heel,IT,0,Downhill
-2003-11-29,Alexandre Pittin,FR,0,Downhill
+2003-11-29,Werner Heel,IT,0,Combined
+2003-11-29,Alexandre Pittin,FR,0,Combined
 2003-11-29,Didier Cuche,CH,0,Downhill
 2003-11-29,Roland Fischnaller,IT,0,Downhill
-2003-11-29,Brad Spence,CA,0,Downhill
-2003-11-29,Matteo Berbenni,IT,0,Downhill
-2003-11-29,Jernej Rebersak,SK,0,Downhill
+2003-11-29,Brad Spence,CA,0,Combined
+2003-11-29,Matteo Berbenni,IT,0,Combined
+2003-11-29,Jernej Rebersak,SK,0,Combined
 2003-11-29,Patrik Jaerbyn,SE,22,Downhill
 2003-11-29,Hannes Trinkl,AT,2,Downhill
-2003-11-29,Thomas Graggaber,AT,0,Downhill
-2003-11-29,Peter Strodl,DE,0,Downhill
+2003-11-29,Thomas Graggaber,AT,0,Combined
+2003-11-29,Peter Strodl,DE,0,Combined
 2003-11-29,Klaus Kroell,AT,3,Downhill
-2003-11-29,Ondrej Bank,CZ,0,Downhill
-2003-11-29,Robin Marullaz,FR,0,Downhill
+2003-11-29,Ondrej Bank,CZ,0,Combined
+2003-11-29,Robin Marullaz,FR,0,Combined
 2003-11-29,Bryon Friedman,US,0,Downhill
 2003-11-29,Lasse Kjus,NO,40,Downhill
-2003-11-29,Cristian Javier Simari Birkner,AR,0,Downhill
-2003-11-29,Hans Olsson,SE,0,Downhill
+2003-11-29,Cristian Javier Simari Birkner,AR,0,Combined
+2003-11-29,Hans Olsson,SE,0,Combined
 2003-11-29,Luca Cattaneo,IT,0,Downhill
 2003-11-29,David Anderson,CA,0,Super G
 2003-11-29,Stephan Eberharter,AT,9,Downhill
@@ -89,27 +89,27 @@ date,name,ath_country,value,specialty
 2003-11-29,Claude Cretier,FR,0,Downhill
 2003-11-29,Johan Clarey,FR,0,Downhill
 2003-11-29,Gauthier De Tessieres,FR,0,Giant Slalom
-2003-11-29,Audun Groenvold,NO,0,Downhill
+2003-11-29,Audun Groenvold,NO,0,Combined
 2003-11-29,Hermann Maier,AT,29,Super G
 2003-11-29,Tobias Gruenenfelder,CH,0,Super G
 2003-11-29,Pierre Emmanuel Dalcin,FR,0,Super G
 2003-11-29,Antoine Deneriaz,FR,60,Downhill
 2003-11-29,David Poisson,FR,0,Downhill
 2003-11-29,Jakub Fiala,US,0,Super G
-2003-11-29,Cedric Meilleur,FR,0,Downhill
+2003-11-29,Cedric Meilleur,FR,0,Combined
 2003-11-29,Giorgio Rocca,IT,0,Slalom
 2003-11-29,AJ Bear,AU,0,Super G
-2003-11-29,Maui Gayme,CL,0,Downhill
+2003-11-29,Maui Gayme,CL,0,Combined
 2003-11-29,Erik Seletto,IT,0,Downhill
-2003-11-29,Juerg Gruenenfelder,CH,0,Downhill
+2003-11-29,Juerg Gruenenfelder,CH,0,Combined
 2003-11-29,Konrad Hari,CH,0,Super G
 2003-11-29,Patrick Staudacher,IT,0,Super G
 2003-11-29,Rolf von Weissenfluh,CH,10,Downhill
 2003-11-29,Romed Baumann,AT,0,Downhill
 2003-12-05,Klaus Kroell,AT,32,Downhill
-2003-12-05,Werner Heel,IT,0,Downhill
-2003-12-05,Craig Branch,AU,0,Downhill
-2003-12-05,Alexandre Pittin,FR,0,Downhill
+2003-12-05,Werner Heel,IT,0,Combined
+2003-12-05,Craig Branch,AU,0,Combined
+2003-12-05,Alexandre Pittin,FR,0,Combined
 2003-12-05,Gauthier De Tessieres,FR,0,Giant Slalom
 2003-12-05,Konrad Hari,CH,0,Super G
 2003-12-05,Michael Walchhofer,AT,150,Downhill
@@ -117,83 +117,83 @@ date,name,ath_country,value,specialty
 2003-12-05,Hermann Maier,AT,74,Super G
 2003-12-05,Johan Clarey,FR,0,Downhill
 2003-12-05,Marco Buechel,LI,0,Downhill
-2003-12-05,Enis Becirbegovic,BA,0,Downhill
+2003-12-05,Enis Becirbegovic,BA,0,Combined
 2003-12-05,Roland Fischnaller,IT,2,Downhill
 2003-12-05,Kurt Sulzenbacher,IT,18,Downhill
-2003-12-05,Ole Magnus Kulbeck,NO,0,Super G
-2003-12-05,Wade H Bishop,US,0,Downhill
+2003-12-05,Ole Magnus Kulbeck,NO,0,Combined
+2003-12-05,Wade H Bishop,US,0,Combined
 2003-12-05,Pierre Emmanuel Dalcin,FR,0,Super G
 2003-12-05,Scott Macartney,US,0,Super G
 2003-12-05,Silvan Zurbriggen,CH,0,Slalom
-2003-12-05,Ondrej Bank,CZ,0,Downhill
-2003-12-05,Darin McBeath,CA,0,Downhill
+2003-12-05,Ondrej Bank,CZ,0,Combined
+2003-12-05,Darin McBeath,CA,0,Combined
 2003-12-05,Bode Miller,US,1,Giant Slalom
 2003-12-05,Hans Grugger,AT,72,Downhill
 2003-12-05,David Anderson,CA,0,Super G
 2003-12-05,Benjamin Raich,AT,0,Slalom
 2003-12-05,Didier Defago,CH,15,Downhill
 2003-12-05,Max Rauffer,DE,29,Downhill
-2003-12-05,Marco Sullivan,US,0,Downhill
-2003-12-05,Matteo Berbenni,IT,0,Downhill
+2003-12-05,Marco Sullivan,US,0,Combined
+2003-12-05,Matteo Berbenni,IT,0,Combined
 2003-12-05,Bruno Kernen,CH,22,Downhill
 2003-12-05,Daron Rahlves,US,113,Downhill
 2003-12-05,Paul Accola,CH,0,Downhill
 2003-12-05,Giorgio Rocca,IT,0,Slalom
 2003-12-05,Pierrick Bourgeat,FR,0,Slalom
 2003-12-05,Kristian Ghedina,IT,21,Downhill
-2003-12-05,Giorgio Gros,IT,0,Downhill
-2003-12-05,Hans Olsson,SE,0,Downhill
+2003-12-05,Giorgio Gros,IT,0,Combined
+2003-12-05,Hans Olsson,SE,0,Combined
 2003-12-05,Franco Cavegn,CH,50,Downhill
 2003-12-05,Romed Baumann,AT,0,Downhill
 2003-12-05,Luca Cattaneo,IT,0,Downhill
 2003-12-05,Nicolas Burtin,FR,36,Downhill
-2003-12-05,Johnny Albertsen,DK,0,Downhill
+2003-12-05,Johnny Albertsen,DK,0,Combined
 2003-12-05,Patrick Staudacher,IT,0,Super G
 2003-12-05,Christoph Gruber,AT,7,Downhill
-2003-12-05,Manuel Carrozza,IT,0,Downhill
-2003-12-05,Peter Strodl,DE,0,Downhill
+2003-12-05,Manuel Carrozza,IT,0,Combined
+2003-12-05,Peter Strodl,DE,0,Combined
 2003-12-05,Norbert Holzknecht,AT,31,Downhill
-2003-12-05,Jernej Rebersak,SK,0,Downhill
+2003-12-05,Jernej Rebersak,SK,0,Combined
 2003-12-05,Michael Gufler,IT,0,Giant Slalom
 2003-12-05,AJ Bear,AU,0,Super G
 2003-12-05,Erik Seletto,IT,0,Downhill
-2003-12-05,Thomas Graggaber,AT,0,Downhill
+2003-12-05,Thomas Graggaber,AT,0,Combined
 2003-12-05,Patrik Jaerbyn,SE,38,Downhill
-2003-12-05,Brad Spence,CA,0,Downhill
+2003-12-05,Brad Spence,CA,0,Combined
 2003-12-05,Hannes Trinkl,AT,34,Downhill
 2003-12-05,Marc Bottollier,FR,0,Downhill
-2003-12-05,Cornel Zueger,CH,0,Downhill
+2003-12-05,Cornel Zueger,CH,0,Combined
 2003-12-05,Jakub Fiala,US,0,Super G
-2003-12-05,Daniel Zueger,CH,0,Downhill
+2003-12-05,Daniel Zueger,CH,0,Combined
 2003-12-05,Alessandro Fattori,IT,0,Downhill
-2003-12-05,Robin Marullaz,FR,0,Downhill
+2003-12-05,Robin Marullaz,FR,0,Combined
 2003-12-05,Fritz Strobl,AT,19,Downhill
 2003-12-05,Vincent Lavoie,CA,0,Super G
-2003-12-05,Cristian Javier Simari Birkner,AR,0,Downhill
+2003-12-05,Cristian Javier Simari Birkner,AR,0,Combined
 2003-12-05,Werner Franz,AT,0,Downhill
 2003-12-05,Stefan Stankalla,DE,0,Super G
 2003-12-05,Claude Cretier,FR,0,Downhill
 2003-12-05,Markus Larsson,SE,0,Slalom
 2003-12-05,Hans Knauss,AT,45,Downhill
-2003-12-05,Finlay Mickel,GB,0,Downhill
+2003-12-05,Finlay Mickel,GB,0,Combined
 2003-12-05,Johan Brolenius,SE,0,Slalom
 2003-12-05,Lasse Kjus,NO,80,Downhill
 2003-12-05,Florian Eckert,DE,0,Downhill
-2003-12-05,Saemi Perren,CH,0,Downhill
+2003-12-05,Saemi Perren,CH,0,Combined
 2003-12-05,Aksel-Lund Svindal,NO,21,Super G
-2003-12-05,Cedric Meilleur,FR,0,Downhill
-2003-12-05,Alex Antor,AD,0,Downhill
-2003-12-05,Peter Pen,SK,0,Downhill
+2003-12-05,Cedric Meilleur,FR,0,Combined
+2003-12-05,Alex Antor,AD,0,Combined
+2003-12-05,Peter Pen,SK,0,Combined
 2003-12-05,Bjarne Solbakken,NO,102,Super G
 2003-12-05,Rolf von Weissenfluh,CH,20,Downhill
-2003-12-05,Pavel Chestakov,RU,0,Downhill
-2003-12-05,Maui Gayme,CL,0,Downhill
+2003-12-05,Pavel Chestakov,RU,0,Combined
+2003-12-05,Maui Gayme,CL,0,Combined
 2003-12-05,Gregor Sparovec,SK,16,Downhill
 2003-12-05,Jan Hudec,CA,0,Super G
 2003-12-05,Erik Guay,CA,81,Downhill
 2003-12-05,Didier Cuche,CH,11,Downhill
 2003-12-05,Andrej Jerman,SK,0,Downhill
-2003-12-05,Juerg Gruenenfelder,CH,0,Downhill
+2003-12-05,Juerg Gruenenfelder,CH,0,Combined
 2003-12-05,Bryon Friedman,US,8,Downhill
 2003-12-05,Kenneth Sivertsen,NO,0,Super G
 2003-12-05,Stephan Eberharter,AT,89,Downhill
@@ -205,20 +205,20 @@ date,name,ath_country,value,specialty
 2003-12-05,Andreas Schifferer,AT,70,Downhill
 2003-12-05,Peter Fill,IT,18,Super G
 2003-12-05,Yannick Bertrand,FR,4,Downhill
-2003-12-05,Andrej Sporn,SK,0,Slalom
-2003-12-05,Jeff Hume,CA,0,Downhill
-2003-12-05,Audun Groenvold,NO,0,Downhill
+2003-12-05,Andrej Sporn,SK,0,Combined
+2003-12-05,Jeff Hume,CA,0,Combined
+2003-12-05,Audun Groenvold,NO,0,Combined
 2003-12-05,Ivica Kostelic,HR,0,Slalom
 2003-12-05,Antoine Deneriaz,FR,67,Downhill
-2003-12-05,Stephan Thanei,IT,0,Downhill
-2003-12-05,Beni Hofer,CH,0,Downhill
-2003-12-05,Kevin Francis,US,0,Downhill
+2003-12-05,Stephan Thanei,IT,0,Combined
+2003-12-05,Beni Hofer,CH,0,Combined
+2003-12-05,Kevin Francis,US,0,Combined
 2003-12-06,Konrad Hari,CH,0,Super G
 2003-12-06,Kenneth Sivertsen,NO,0,Super G
-2003-12-06,Johnny Albertsen,DK,0,Downhill
+2003-12-06,Johnny Albertsen,DK,0,Combined
 2003-12-06,Aksel-Lund Svindal,NO,25,Super G
-2003-12-06,Enis Becirbegovic,BA,0,Downhill
-2003-12-06,Wade H Bishop,US,0,Downhill
+2003-12-06,Enis Becirbegovic,BA,0,Combined
+2003-12-06,Wade H Bishop,US,0,Combined
 2003-12-06,Rolf von Weissenfluh,CH,21,Downhill
 2003-12-06,Peter Rzehak,AT,15,Downhill
 2003-12-06,Tobias Gruenenfelder,CH,0,Super G
@@ -226,126 +226,126 @@ date,name,ath_country,value,specialty
 2003-12-06,Norbert Holzknecht,AT,36,Downhill
 2003-12-06,Ivica Kostelic,HR,0,Slalom
 2003-12-06,Yannick Bertrand,FR,10,Downhill
-2003-12-06,Cedric Meilleur,FR,0,Downhill
+2003-12-06,Cedric Meilleur,FR,0,Combined
 2003-12-06,Erik Seletto,IT,0,Downhill
 2003-12-06,Andrej Jerman,SK,11,Downhill
-2003-12-06,Marco Sullivan,US,0,Downhill
+2003-12-06,Marco Sullivan,US,0,Combined
 2003-12-06,Max Rauffer,DE,29,Downhill
 2003-12-06,Jakub Fiala,US,0,Super G
 2003-12-06,Benjamin Raich,AT,0,Slalom
 2003-12-06,Bryon Friedman,US,15,Downhill
 2003-12-06,Bode Miller,US,1,Giant Slalom
-2003-12-06,Juerg Gruenenfelder,CH,0,Downhill
+2003-12-06,Juerg Gruenenfelder,CH,0,Combined
 2003-12-06,Jan Hudec,CA,0,Super G
 2003-12-06,Kurt Sulzenbacher,IT,33,Downhill
 2003-12-06,Luca Cattaneo,IT,0,Downhill
 2003-12-06,Paul Accola,CH,0,Downhill
-2003-12-06,Werner Heel,IT,0,Downhill
+2003-12-06,Werner Heel,IT,0,Combined
 2003-12-06,Peter Fill,IT,20,Super G
 2003-12-06,Vincent Lavoie,CA,0,Super G
 2003-12-06,Patrik Jaerbyn,SE,64,Downhill
 2003-12-06,David Poisson,FR,0,Downhill
-2003-12-06,Brad Spence,CA,0,Downhill
+2003-12-06,Brad Spence,CA,0,Combined
 2003-12-06,Marc Bottollier,FR,0,Downhill
 2003-12-06,Werner Franz,AT,0,Downhill
 2003-12-06,Stefan Stankalla,DE,0,Super G
 2003-12-06,Sebastien Fournier-Bidoz,FR,43,Downhill
-2003-12-06,Kevin Francis,US,0,Downhill
-2003-12-06,Jernej Rebersak,SK,0,Downhill
+2003-12-06,Kevin Francis,US,0,Combined
+2003-12-06,Jernej Rebersak,SK,0,Combined
 2003-12-06,AJ Bear,AU,3,Super G
-2003-12-06,Peter Pen,SK,0,Downhill
-2003-12-06,Jeff Hume,CA,0,Downhill
+2003-12-06,Peter Pen,SK,0,Combined
+2003-12-06,Jeff Hume,CA,0,Combined
 2003-12-06,Nicolas Burtin,FR,44,Downhill
-2003-12-06,Craig Branch,AU,0,Downhill
+2003-12-06,Craig Branch,AU,0,Combined
 2003-12-06,Josef Strobl,AT,0,Super G
-2003-12-06,Finlay Mickel,GB,0,Downhill
+2003-12-06,Finlay Mickel,GB,0,Combined
 2003-12-06,Claude Cretier,FR,0,Downhill
-2003-12-06,Saemi Perren,CH,0,Downhill
+2003-12-06,Saemi Perren,CH,0,Combined
 2003-12-06,Johan Clarey,FR,0,Downhill
-2003-12-06,Giorgio Gros,IT,0,Downhill
+2003-12-06,Giorgio Gros,IT,0,Combined
 2003-12-06,Franco Cavegn,CH,74,Downhill
 2003-12-06,Florian Eckert,DE,0,Downhill
 2003-12-06,Pierre Emmanuel Dalcin,FR,0,Super G
 2003-12-06,Roland Fischnaller,IT,2,Downhill
 2003-12-06,Giorgio Rocca,IT,0,Slalom
-2003-12-06,Peter Strodl,DE,0,Downhill
-2003-12-06,Darin McBeath,CA,0,Downhill
+2003-12-06,Peter Strodl,DE,0,Combined
+2003-12-06,Darin McBeath,CA,0,Combined
 2003-12-06,Patrick Staudacher,IT,0,Super G
 2003-12-06,Andreas Schifferer,AT,130,Downhill
 2003-12-06,Antoine Deneriaz,FR,67,Downhill
-2003-12-06,Audun Groenvold,NO,0,Downhill
+2003-12-06,Audun Groenvold,NO,0,Combined
 2003-12-06,Hans Knauss,AT,125,Downhill
-2003-12-06,Daniel Zueger,CH,0,Downhill
-2003-12-06,Cristian Javier Simari Birkner,AR,0,Downhill
+2003-12-06,Daniel Zueger,CH,0,Combined
+2003-12-06,Cristian Javier Simari Birkner,AR,0,Combined
 2003-12-06,Pierrick Bourgeat,FR,0,Slalom
-2003-12-06,Alexandre Pittin,FR,0,Downhill
+2003-12-06,Alexandre Pittin,FR,0,Combined
 2003-12-06,Stephan Eberharter,AT,111,Downhill
 2003-12-06,Lasse Kjus,NO,98,Downhill
-2003-12-06,Robin Marullaz,FR,0,Downhill
+2003-12-06,Robin Marullaz,FR,0,Combined
 2003-12-06,Klaus Kroell,AT,77,Downhill
 2003-12-06,Fritz Strobl,AT,48,Downhill
-2003-12-06,Maui Gayme,CL,0,Downhill
-2003-12-06,Ondrej Bank,CZ,0,Downhill
+2003-12-06,Maui Gayme,CL,0,Combined
+2003-12-06,Ondrej Bank,CZ,0,Combined
 2003-12-06,Christoph Gruber,AT,7,Downhill
-2003-12-06,Manuel Carrozza,IT,0,Downhill
+2003-12-06,Manuel Carrozza,IT,0,Combined
 2003-12-06,Didier Cuche,CH,11,Downhill
 2003-12-06,Markus Larsson,SE,0,Slalom
 2003-12-06,Hans Grugger,AT,104,Downhill
 2003-12-06,Erik Guay,CA,81,Downhill
-2003-12-06,Pavel Chestakov,RU,0,Downhill
+2003-12-06,Pavel Chestakov,RU,0,Combined
 2003-12-06,Hannes Trinkl,AT,34,Downhill
 2003-12-06,Johan Brolenius,SE,0,Slalom
-2003-12-06,Thomas Graggaber,AT,0,Downhill
-2003-12-06,Matteo Berbenni,IT,0,Downhill
-2003-12-06,Alex Antor,AD,0,Downhill
+2003-12-06,Thomas Graggaber,AT,0,Combined
+2003-12-06,Matteo Berbenni,IT,0,Combined
+2003-12-06,Alex Antor,AD,0,Combined
 2003-12-06,Bjarne Solbakken,NO,118,Super G
-2003-12-06,Cornel Zueger,CH,0,Downhill
-2003-12-06,Andrej Sporn,SK,0,Slalom
+2003-12-06,Cornel Zueger,CH,0,Combined
+2003-12-06,Andrej Sporn,SK,0,Combined
 2003-12-06,Kristian Ghedina,IT,41,Downhill
 2003-12-06,David Anderson,CA,0,Super G
-2003-12-06,Hans Olsson,SE,0,Downhill
+2003-12-06,Hans Olsson,SE,0,Combined
 2003-12-06,Daron Rahlves,US,163,Downhill
 2003-12-06,Ambrosi Hoffmann,CH,47,Downhill
 2003-12-06,Michael Gufler,IT,0,Giant Slalom
 2003-12-06,Romed Baumann,AT,0,Downhill
 2003-12-06,Marco Buechel,LI,36,Downhill
 2003-12-06,Hermann Maier,AT,174,Super G
-2003-12-06,Stephan Thanei,IT,0,Downhill
+2003-12-06,Stephan Thanei,IT,0,Combined
 2003-12-06,Gauthier De Tessieres,FR,0,Giant Slalom
 2003-12-06,Bruno Kernen,CH,33,Downhill
 2003-12-06,Scott Macartney,US,0,Super G
-2003-12-06,Ole Magnus Kulbeck,NO,0,Super G
+2003-12-06,Ole Magnus Kulbeck,NO,0,Combined
 2003-12-06,Michael Walchhofer,AT,190,Downhill
 2003-12-06,Silvan Zurbriggen,CH,0,Slalom
 2003-12-06,Didier Defago,CH,27,Downhill
 2003-12-06,Alessandro Fattori,IT,0,Downhill
-2003-12-06,Beni Hofer,CH,0,Downhill
+2003-12-06,Beni Hofer,CH,0,Combined
 2003-12-20,Alessandro Fattori,IT,9,Downhill
 2003-12-20,Hans Knauss,AT,185,Downhill
-2003-12-20,Jeff Hume,CA,0,Downhill
-2003-12-20,Saemi Perren,CH,0,Downhill
+2003-12-20,Jeff Hume,CA,0,Combined
+2003-12-20,Saemi Perren,CH,0,Combined
 2003-12-20,Benjamin Raich,AT,0,Slalom
-2003-12-20,Finlay Mickel,GB,0,Downhill
+2003-12-20,Finlay Mickel,GB,0,Combined
 2003-12-20,Josef Strobl,AT,0,Super G
 2003-12-20,Yannick Bertrand,FR,15,Downhill
 2003-12-20,Ivica Kostelic,HR,0,Slalom
-2003-12-20,Beni Hofer,CH,0,Downhill
+2003-12-20,Beni Hofer,CH,0,Combined
 2003-12-20,Fritz Strobl,AT,98,Downhill
 2003-12-20,Andreas Schifferer,AT,141,Downhill
 2003-12-20,Stefan Stankalla,DE,0,Super G
 2003-12-20,Ambrosi Hoffmann,CH,61,Downhill
-2003-12-20,Robin Marullaz,FR,0,Downhill
+2003-12-20,Robin Marullaz,FR,0,Combined
 2003-12-20,Peter Rzehak,AT,15,Downhill
 2003-12-20,Werner Franz,AT,15,Downhill
 2003-12-20,Kenneth Sivertsen,NO,0,Super G
-2003-12-20,Stephan Thanei,IT,0,Downhill
+2003-12-20,Stephan Thanei,IT,0,Combined
 2003-12-20,Peter Fill,IT,20,Super G
-2003-12-20,Andrej Sporn,SK,0,Slalom
-2003-12-20,Kevin Francis,US,0,Downhill
+2003-12-20,Andrej Sporn,SK,0,Combined
+2003-12-20,Kevin Francis,US,0,Combined
 2003-12-20,Markus Larsson,SE,0,Slalom
 2003-12-20,Johan Brolenius,SE,0,Slalom
 2003-12-20,Andrej Jerman,SK,11,Downhill
-2003-12-20,Peter Pen,SK,0,Downhill
+2003-12-20,Peter Pen,SK,0,Combined
 2003-12-20,Jakub Fiala,US,0,Super G
 2003-12-20,Johan Clarey,FR,0,Downhill
 2003-12-20,Antoine Deneriaz,FR,167,Downhill
@@ -354,11 +354,11 @@ date,name,ath_country,value,specialty
 2003-12-20,Pierre Emmanuel Dalcin,FR,6,Super G
 2003-12-20,Gauthier De Tessieres,FR,0,Giant Slalom
 2003-12-20,Marc Bottollier,FR,0,Downhill
-2003-12-20,Audun Groenvold,NO,0,Downhill
+2003-12-20,Audun Groenvold,NO,0,Combined
 2003-12-20,AJ Bear,AU,3,Super G
 2003-12-20,Luca Cattaneo,IT,0,Downhill
 2003-12-20,Giorgio Rocca,IT,0,Slalom
-2003-12-20,Hans Olsson,SE,0,Downhill
+2003-12-20,Hans Olsson,SE,0,Combined
 2003-12-20,Konrad Hari,CH,0,Super G
 2003-12-20,Romed Baumann,AT,0,Downhill
 2003-12-20,Erik Seletto,IT,0,Downhill
@@ -369,81 +369,81 @@ date,name,ath_country,value,specialty
 2003-12-20,Tobias Gruenenfelder,CH,2,Super G
 2003-12-20,Claude Cretier,FR,1,Downhill
 2003-12-20,Bjarne Solbakken,NO,126,Super G
-2003-12-20,Alex Antor,AD,0,Downhill
+2003-12-20,Alex Antor,AD,0,Combined
 2003-12-20,Aksel-Lund Svindal,NO,25,Super G
 2003-12-20,Jan Hudec,CA,0,Super G
-2003-12-20,Pavel Chestakov,RU,0,Downhill
+2003-12-20,Pavel Chestakov,RU,0,Combined
 2003-12-20,Gregor Sparovec,SK,16,Downhill
 2003-12-20,Erik Guay,CA,81,Downhill
 2003-12-20,Bryon Friedman,US,27,Downhill
 2003-12-20,David Poisson,FR,0,Downhill
 2003-12-20,Didier Cuche,CH,31,Downhill
-2003-12-20,Ondrej Bank,CZ,0,Downhill
-2003-12-20,Maui Gayme,CL,0,Downhill
+2003-12-20,Ondrej Bank,CZ,0,Combined
+2003-12-20,Maui Gayme,CL,0,Combined
 2003-12-20,Rolf von Weissenfluh,CH,21,Downhill
-2003-12-20,Cedric Meilleur,FR,0,Downhill
+2003-12-20,Cedric Meilleur,FR,0,Combined
 2003-12-20,Lasse Kjus,NO,112,Downhill
 2003-12-20,Stephan Eberharter,AT,151,Downhill
-2003-12-20,Cristian Javier Simari Birkner,AR,0,Downhill
+2003-12-20,Cristian Javier Simari Birkner,AR,0,Combined
 2003-12-20,Vincent Lavoie,CA,0,Super G
-2003-12-20,Juerg Gruenenfelder,CH,0,Downhill
+2003-12-20,Juerg Gruenenfelder,CH,0,Combined
 2003-12-20,Silvan Zurbriggen,CH,0,Slalom
-2003-12-20,Daniel Zueger,CH,0,Downhill
-2003-12-20,Johnny Albertsen,DK,0,Downhill
-2003-12-20,Brad Spence,CA,0,Downhill
-2003-12-20,Matteo Berbenni,IT,0,Downhill
-2003-12-20,Alexandre Pittin,FR,0,Downhill
-2003-12-20,Craig Branch,AU,0,Downhill
+2003-12-20,Daniel Zueger,CH,0,Combined
+2003-12-20,Johnny Albertsen,DK,0,Combined
+2003-12-20,Brad Spence,CA,0,Combined
+2003-12-20,Matteo Berbenni,IT,0,Combined
+2003-12-20,Alexandre Pittin,FR,0,Combined
+2003-12-20,Craig Branch,AU,0,Combined
 2003-12-20,Michael Gufler,IT,0,Giant Slalom
 2003-12-20,Kristian Ghedina,IT,65,Downhill
 2003-12-20,Pierrick Bourgeat,FR,0,Slalom
-2003-12-20,Giorgio Gros,IT,0,Downhill
+2003-12-20,Giorgio Gros,IT,0,Combined
 2003-12-20,Bruno Kernen,CH,55,Downhill
 2003-12-20,Roland Fischnaller,IT,18,Downhill
 2003-12-20,Sebastien Fournier-Bidoz,FR,43,Downhill
 2003-12-20,Didier Defago,CH,27,Downhill
-2003-12-20,Enis Becirbegovic,BA,0,Downhill
+2003-12-20,Enis Becirbegovic,BA,0,Combined
 2003-12-20,Klaus Kroell,AT,113,Downhill
-2003-12-20,Jernej Rebersak,SK,0,Downhill
+2003-12-20,Jernej Rebersak,SK,0,Combined
 2003-12-20,Paul Accola,CH,7,Downhill
 2003-12-20,Franco Cavegn,CH,74,Downhill
-2003-12-20,Werner Heel,IT,0,Downhill
-2003-12-20,Cornel Zueger,CH,0,Downhill
-2003-12-20,Peter Strodl,DE,0,Downhill
+2003-12-20,Werner Heel,IT,0,Combined
+2003-12-20,Cornel Zueger,CH,0,Combined
+2003-12-20,Peter Strodl,DE,0,Combined
 2003-12-20,Christoph Gruber,AT,7,Downhill
 2003-12-20,Norbert Holzknecht,AT,65,Downhill
-2003-12-20,Wade H Bishop,US,0,Downhill
-2003-12-20,Darin McBeath,CA,0,Downhill
+2003-12-20,Wade H Bishop,US,0,Combined
+2003-12-20,Darin McBeath,CA,0,Combined
 2003-12-20,Bode Miller,US,1,Giant Slalom
 2003-12-20,Nicolas Burtin,FR,70,Downhill
 2003-12-20,Kurt Sulzenbacher,IT,44,Downhill
 2003-12-20,Hannes Trinkl,AT,37,Downhill
 2003-12-20,Scott Macartney,US,0,Super G
 2003-12-20,Hans Grugger,AT,104,Downhill
-2003-12-20,Manuel Carrozza,IT,0,Downhill
+2003-12-20,Manuel Carrozza,IT,0,Combined
 2003-12-20,Patrik Jaerbyn,SE,82,Downhill
 2003-12-20,Max Rauffer,DE,29,Downhill
-2003-12-20,Thomas Graggaber,AT,0,Downhill
-2003-12-20,Ole Magnus Kulbeck,NO,0,Super G
+2003-12-20,Thomas Graggaber,AT,0,Combined
+2003-12-20,Ole Magnus Kulbeck,NO,0,Combined
 2003-12-20,Marco Buechel,LI,41,Downhill
-2003-12-20,Marco Sullivan,US,0,Downhill
+2003-12-20,Marco Sullivan,US,0,Combined
 2004-01-10,Pierrick Bourgeat,FR,0,Slalom
-2004-01-10,Giorgio Gros,IT,0,Downhill
+2004-01-10,Giorgio Gros,IT,0,Combined
 2004-01-10,Kristian Ghedina,IT,75,Downhill
-2004-01-10,Jernej Rebersak,SK,0,Downhill
+2004-01-10,Jernej Rebersak,SK,0,Combined
 2004-01-10,Andrej Jerman,SK,11,Downhill
 2004-01-10,Franco Cavegn,CH,74,Downhill
 2004-01-10,Lasse Kjus,NO,192,Downhill
-2004-01-10,Ondrej Bank,CZ,0,Downhill
+2004-01-10,Ondrej Bank,CZ,0,Combined
 2004-01-10,Hans Grugger,AT,140,Downhill
-2004-01-10,Maui Gayme,CL,0,Downhill
+2004-01-10,Maui Gayme,CL,0,Combined
 2004-01-10,Claude Cretier,FR,1,Downhill
-2004-01-10,Manuel Carrozza,IT,0,Downhill
-2004-01-10,Peter Strodl,DE,0,Downhill
-2004-01-10,Juerg Gruenenfelder,CH,0,Downhill
+2004-01-10,Manuel Carrozza,IT,0,Combined
+2004-01-10,Peter Strodl,DE,0,Combined
+2004-01-10,Juerg Gruenenfelder,CH,0,Combined
 2004-01-10,Didier Cuche,CH,57,Downhill
 2004-01-10,Rolf von Weissenfluh,CH,29,Downhill
-2004-01-10,Cedric Meilleur,FR,0,Downhill
+2004-01-10,Cedric Meilleur,FR,0,Combined
 2004-01-10,Nicolas Burtin,FR,70,Downhill
 2004-01-10,Bryon Friedman,US,53,Downhill
 2004-01-10,Vincent Lavoie,CA,0,Super G
@@ -452,9 +452,9 @@ date,name,ath_country,value,specialty
 2004-01-10,Gauthier De Tessieres,FR,0,Giant Slalom
 2004-01-10,Luca Cattaneo,IT,7,Downhill
 2004-01-10,Giorgio Rocca,IT,0,Slalom
-2004-01-10,Marco Sullivan,US,0,Downhill
+2004-01-10,Marco Sullivan,US,0,Combined
 2004-01-10,Scott Macartney,US,0,Super G
-2004-01-10,Hans Olsson,SE,0,Downhill
+2004-01-10,Hans Olsson,SE,0,Combined
 2004-01-10,Daron Rahlves,US,215,Downhill
 2004-01-10,Konrad Hari,CH,0,Super G
 2004-01-10,Romed Baumann,AT,0,Downhill
@@ -462,34 +462,34 @@ date,name,ath_country,value,specialty
 2004-01-10,Erik Seletto,IT,0,Downhill
 2004-01-10,Michael Walchhofer,AT,330,Downhill
 2004-01-10,Patrick Staudacher,IT,0,Super G
-2004-01-10,Daniel Zueger,CH,0,Downhill
+2004-01-10,Daniel Zueger,CH,0,Combined
 2004-01-10,Max Rauffer,DE,29,Downhill
 2004-01-10,Marco Buechel,LI,51,Downhill
 2004-01-10,Marc Bottollier,FR,0,Downhill
 2004-01-10,Norbert Holzknecht,AT,77,Downhill
 2004-01-10,David Poisson,FR,0,Downhill
-2004-01-10,Cornel Zueger,CH,0,Downhill
+2004-01-10,Cornel Zueger,CH,0,Combined
 2004-01-10,Stephan Eberharter,AT,251,Downhill
 2004-01-10,Antoine Deneriaz,FR,193,Downhill
 2004-01-10,Tobias Gruenenfelder,CH,2,Super G
 2004-01-10,Bruno Kernen,CH,84,Downhill
-2004-01-10,Audun Groenvold,NO,0,Downhill
-2004-01-10,Enis Becirbegovic,BA,0,Downhill
+2004-01-10,Audun Groenvold,NO,0,Combined
+2004-01-10,Enis Becirbegovic,BA,0,Combined
 2004-01-10,Hermann Maier,AT,239,Super G
 2004-01-10,Pierre Emmanuel Dalcin,FR,6,Super G
 2004-01-10,David Anderson,CA,0,Super G
 2004-01-10,Michael Gufler,IT,0,Giant Slalom
 2004-01-10,Johan Clarey,FR,2,Downhill
 2004-01-10,AJ Bear,AU,3,Super G
-2004-01-10,Johnny Albertsen,DK,0,Downhill
-2004-01-10,Cristian Javier Simari Birkner,AR,0,Downhill
+2004-01-10,Johnny Albertsen,DK,0,Combined
+2004-01-10,Cristian Javier Simari Birkner,AR,0,Combined
 2004-01-10,Erik Guay,CA,81,Downhill
 2004-01-10,Silvan Zurbriggen,CH,0,Slalom
-2004-01-10,Pavel Chestakov,RU,0,Downhill
+2004-01-10,Pavel Chestakov,RU,0,Combined
 2004-01-10,Roland Fischnaller,IT,18,Downhill
-2004-01-10,Finlay Mickel,GB,0,Downhill
+2004-01-10,Finlay Mickel,GB,0,Combined
 2004-01-10,Josef Strobl,AT,15,Super G
-2004-01-10,Robin Marullaz,FR,0,Downhill
+2004-01-10,Robin Marullaz,FR,0,Combined
 2004-01-10,Fritz Strobl,AT,138,Downhill
 2004-01-10,Klaus Kroell,AT,127,Downhill
 2004-01-10,Stefan Stankalla,DE,0,Super G
@@ -500,24 +500,24 @@ date,name,ath_country,value,specialty
 2004-01-10,Andreas Schifferer,AT,191,Downhill
 2004-01-10,Kenneth Sivertsen,NO,0,Super G
 2004-01-10,Peter Fill,IT,20,Super G
-2004-01-10,Craig Branch,AU,0,Downhill
-2004-01-10,Andrej Sporn,SK,0,Slalom
-2004-01-10,Alexandre Pittin,FR,0,Downhill
-2004-01-10,Jeff Hume,CA,0,Downhill
+2004-01-10,Craig Branch,AU,0,Combined
+2004-01-10,Andrej Sporn,SK,0,Combined
+2004-01-10,Alexandre Pittin,FR,0,Combined
+2004-01-10,Jeff Hume,CA,0,Combined
 2004-01-10,Benjamin Raich,AT,18,Slalom
 2004-01-10,Alessandro Fattori,IT,11,Downhill
 2004-01-10,Kurt Sulzenbacher,IT,50,Downhill
-2004-01-10,Darin McBeath,CA,0,Downhill
+2004-01-10,Darin McBeath,CA,0,Combined
 2004-01-10,Yannick Bertrand,FR,19,Downhill
-2004-01-10,Matteo Berbenni,IT,0,Downhill
+2004-01-10,Matteo Berbenni,IT,0,Combined
 2004-01-10,Ivica Kostelic,HR,0,Slalom
 2004-01-10,Ambrosi Hoffmann,CH,66,Downhill
-2004-01-10,Ole Magnus Kulbeck,NO,0,Super G
-2004-01-10,Wade H Bishop,US,0,Downhill
+2004-01-10,Ole Magnus Kulbeck,NO,0,Combined
+2004-01-10,Wade H Bishop,US,0,Combined
 2004-01-10,Peter Rzehak,AT,15,Downhill
-2004-01-10,Kevin Francis,US,0,Downhill
-2004-01-10,Stephan Thanei,IT,0,Downhill
-2004-01-10,Beni Hofer,CH,0,Downhill
+2004-01-10,Kevin Francis,US,0,Combined
+2004-01-10,Stephan Thanei,IT,0,Combined
+2004-01-10,Beni Hofer,CH,0,Combined
 2004-01-10,Hans Knauss,AT,199,Downhill
 2004-01-10,Christoph Gruber,AT,39,Downhill
 2004-01-10,Johan Brolenius,SE,0,Slalom
@@ -525,69 +525,69 @@ date,name,ath_country,value,specialty
 2004-01-10,Jan Hudec,CA,0,Super G
 2004-01-10,Hannes Trinkl,AT,82,Downhill
 2004-01-10,Patrik Jaerbyn,SE,93,Downhill
-2004-01-10,Alex Antor,AD,0,Downhill
+2004-01-10,Alex Antor,AD,0,Combined
 2004-01-10,Aksel-Lund Svindal,NO,25,Super G
-2004-01-10,Werner Heel,IT,0,Downhill
-2004-01-10,Peter Pen,SK,0,Downhill
-2004-01-10,Thomas Graggaber,AT,0,Downhill
-2004-01-10,Saemi Perren,CH,0,Downhill
+2004-01-10,Werner Heel,IT,0,Combined
+2004-01-10,Peter Pen,SK,0,Combined
+2004-01-10,Thomas Graggaber,AT,0,Combined
+2004-01-10,Saemi Perren,CH,0,Combined
 2004-01-10,Markus Larsson,SE,0,Slalom
-2004-01-10,Brad Spence,CA,0,Downhill
+2004-01-10,Brad Spence,CA,0,Combined
 2004-01-10,Bjarne Solbakken,NO,126,Super G
 2004-01-22,Giorgio Rocca,IT,0,Slalom
-2004-01-22,Ole Magnus Kulbeck,NO,0,Super G
+2004-01-22,Ole Magnus Kulbeck,NO,0,Combined
 2004-01-22,Scott Macartney,US,0,Super G
-2004-01-22,Beni Hofer,CH,0,Downhill
-2004-01-22,Marco Sullivan,US,0,Downhill
+2004-01-22,Beni Hofer,CH,0,Combined
+2004-01-22,Marco Sullivan,US,0,Combined
 2004-01-22,Gauthier De Tessieres,FR,0,Giant Slalom
-2004-01-22,Juerg Gruenenfelder,CH,0,Downhill
-2004-01-22,Brad Spence,CA,0,Downhill
+2004-01-22,Juerg Gruenenfelder,CH,0,Combined
+2004-01-22,Brad Spence,CA,0,Combined
 2004-01-22,Markus Larsson,SE,0,Slalom
 2004-01-22,Konrad Hari,CH,0,Super G
 2004-01-22,Silvan Zurbriggen,CH,0,Slalom
-2004-01-22,Jeff Hume,CA,0,Downhill
-2004-01-22,Jernej Rebersak,SK,0,Downhill
+2004-01-22,Jeff Hume,CA,0,Combined
+2004-01-22,Jernej Rebersak,SK,0,Combined
 2004-01-22,Patrick Staudacher,IT,0,Super G
 2004-01-22,Andrej Jerman,SK,11,Downhill
 2004-01-22,Romed Baumann,AT,0,Downhill
-2004-01-22,Hans Olsson,SE,0,Downhill
-2004-01-22,Manuel Carrozza,IT,0,Downhill
-2004-01-22,Pavel Chestakov,RU,0,Downhill
-2004-01-22,Daniel Zueger,CH,0,Downhill
-2004-01-22,Darin McBeath,CA,0,Downhill
+2004-01-22,Hans Olsson,SE,0,Combined
+2004-01-22,Manuel Carrozza,IT,0,Combined
+2004-01-22,Pavel Chestakov,RU,0,Combined
+2004-01-22,Daniel Zueger,CH,0,Combined
+2004-01-22,Darin McBeath,CA,0,Combined
 2004-01-22,Ivica Kostelic,HR,0,Slalom
-2004-01-22,Alexandre Pittin,FR,0,Downhill
+2004-01-22,Alexandre Pittin,FR,0,Combined
 2004-01-22,Jan Hudec,CA,0,Super G
-2004-01-22,Alex Antor,AD,0,Downhill
-2004-01-22,Kevin Francis,US,0,Downhill
-2004-01-22,Johnny Albertsen,DK,0,Downhill
-2004-01-22,Wade H Bishop,US,0,Downhill
-2004-01-22,Giorgio Gros,IT,0,Downhill
-2004-01-22,Saemi Perren,CH,0,Downhill
-2004-01-22,Matteo Berbenni,IT,0,Downhill
+2004-01-22,Alex Antor,AD,0,Combined
+2004-01-22,Kevin Francis,US,0,Combined
+2004-01-22,Johnny Albertsen,DK,0,Combined
+2004-01-22,Wade H Bishop,US,0,Combined
+2004-01-22,Giorgio Gros,IT,0,Combined
+2004-01-22,Saemi Perren,CH,0,Combined
+2004-01-22,Matteo Berbenni,IT,0,Combined
 2004-01-22,David Poisson,FR,0,Downhill
-2004-01-22,Robin Marullaz,FR,0,Downhill
-2004-01-22,Cornel Zueger,CH,0,Downhill
-2004-01-22,Cristian Javier Simari Birkner,AR,0,Downhill
+2004-01-22,Robin Marullaz,FR,0,Combined
+2004-01-22,Cornel Zueger,CH,0,Combined
+2004-01-22,Cristian Javier Simari Birkner,AR,0,Combined
 2004-01-22,Claude Cretier,FR,1,Downhill
-2004-01-22,Finlay Mickel,GB,0,Downhill
-2004-01-22,Maui Gayme,CL,0,Downhill
-2004-01-22,Werner Heel,IT,0,Downhill
+2004-01-22,Finlay Mickel,GB,0,Combined
+2004-01-22,Maui Gayme,CL,0,Combined
+2004-01-22,Werner Heel,IT,0,Combined
 2004-01-22,Jakub Fiala,US,0,Super G
-2004-01-22,Thomas Graggaber,AT,0,Downhill
-2004-01-22,Audun Groenvold,NO,0,Downhill
-2004-01-22,Cedric Meilleur,FR,0,Downhill
-2004-01-22,Enis Becirbegovic,BA,0,Downhill
-2004-01-22,Andrej Sporn,SK,0,Slalom
+2004-01-22,Thomas Graggaber,AT,0,Combined
+2004-01-22,Audun Groenvold,NO,0,Combined
+2004-01-22,Cedric Meilleur,FR,0,Combined
+2004-01-22,Enis Becirbegovic,BA,0,Combined
+2004-01-22,Andrej Sporn,SK,0,Combined
 2004-01-22,Michael Gufler,IT,0,Giant Slalom
-2004-01-22,Craig Branch,AU,0,Downhill
-2004-01-22,Peter Strodl,DE,0,Downhill
+2004-01-22,Craig Branch,AU,0,Combined
+2004-01-22,Peter Strodl,DE,0,Combined
 2004-01-22,David Anderson,CA,0,Super G
-2004-01-22,Peter Pen,SK,0,Downhill
-2004-01-22,Ondrej Bank,CZ,0,Downhill
+2004-01-22,Peter Pen,SK,0,Combined
+2004-01-22,Ondrej Bank,CZ,0,Combined
 2004-01-22,AJ Bear,AU,3,Super G
 2004-01-22,Kenneth Sivertsen,NO,0,Super G
-2004-01-22,Stephan Thanei,IT,0,Downhill
+2004-01-22,Stephan Thanei,IT,0,Combined
 2004-01-22,Johan Brolenius,SE,0,Slalom
 2004-01-22,Pierrick Bourgeat,FR,0,Slalom
 2004-01-22,Stefan Stankalla,DE,0,Super G
@@ -648,82 +648,82 @@ date,name,ath_country,value,specialty
 2004-01-24,Hans Grugger,AT,146,Downhill
 2004-01-24,Stefan Stankalla,DE,0,Super G
 2004-01-24,Peter Fill,IT,20,Super G
-2004-01-24,Matteo Berbenni,IT,0,Downhill
-2004-01-24,Manuel Carrozza,IT,0,Downhill
-2004-01-24,Finlay Mickel,GB,0,Downhill
+2004-01-24,Matteo Berbenni,IT,0,Combined
+2004-01-24,Manuel Carrozza,IT,0,Combined
+2004-01-24,Finlay Mickel,GB,0,Combined
 2004-01-24,Hannes Trinkl,AT,132,Downhill
 2004-01-24,Jan Hudec,CA,0,Super G
 2004-01-24,Josef Strobl,AT,22,Super G
-2004-01-24,Alexandre Pittin,FR,0,Downhill
-2004-01-24,Thomas Graggaber,AT,0,Downhill
+2004-01-24,Alexandre Pittin,FR,0,Combined
+2004-01-24,Thomas Graggaber,AT,0,Combined
 2004-01-24,Didier Defago,CH,38,Downhill
-2004-01-24,Saemi Perren,CH,0,Downhill
+2004-01-24,Saemi Perren,CH,0,Combined
 2004-01-24,Klaus Kroell,AT,150,Downhill
-2004-01-24,Peter Pen,SK,0,Downhill
+2004-01-24,Peter Pen,SK,0,Combined
 2004-01-24,Florian Eckert,DE,0,Downhill
 2004-01-24,Werner Franz,AT,18,Downhill
 2004-01-24,Aksel-Lund Svindal,NO,25,Super G
 2004-01-24,Bruno Kernen,CH,126,Downhill
 2004-01-24,Kenneth Sivertsen,NO,0,Super G
 2004-01-24,Sebastien Fournier-Bidoz,FR,43,Downhill
-2004-01-24,Craig Branch,AU,0,Downhill
+2004-01-24,Craig Branch,AU,0,Combined
 2004-01-24,Antoine Deneriaz,FR,226,Downhill
 2004-01-24,Hermann Maier,AT,318,Super G
-2004-01-24,Johnny Albertsen,DK,0,Downhill
+2004-01-24,Johnny Albertsen,DK,0,Combined
 2004-01-24,Roland Fischnaller,IT,62,Downhill
-2004-01-24,Werner Heel,IT,0,Downhill
+2004-01-24,Werner Heel,IT,0,Combined
 2004-01-24,Norbert Holzknecht,AT,77,Downhill
-2004-01-24,Enis Becirbegovic,BA,0,Downhill
-2004-01-24,Audun Groenvold,NO,0,Downhill
+2004-01-24,Enis Becirbegovic,BA,0,Combined
+2004-01-24,Audun Groenvold,NO,0,Combined
 2004-01-24,Patrik Jaerbyn,SE,108,Downhill
-2004-01-24,Brad Spence,CA,0,Downhill
-2004-01-24,Giorgio Gros,IT,0,Downhill
-2004-01-24,Jernej Rebersak,SK,0,Downhill
+2004-01-24,Brad Spence,CA,0,Combined
+2004-01-24,Giorgio Gros,IT,0,Combined
+2004-01-24,Jernej Rebersak,SK,0,Combined
 2004-01-24,Paul Accola,CH,29,Downhill
 2004-01-24,Franco Cavegn,CH,74,Downhill
 2004-01-24,Nicolas Burtin,FR,70,Downhill
 2004-01-24,Max Rauffer,DE,29,Downhill
-2004-01-24,Marco Sullivan,US,0,Downhill
+2004-01-24,Marco Sullivan,US,0,Combined
 2004-01-24,David Anderson,CA,0,Super G
-2004-01-24,Wade H Bishop,US,0,Downhill
+2004-01-24,Wade H Bishop,US,0,Combined
 2004-01-24,Kristian Ghedina,IT,128,Downhill
-2004-01-24,Cristian Javier Simari Birkner,AR,0,Downhill
-2004-01-24,Cornel Zueger,CH,0,Downhill
-2004-01-24,Kevin Francis,US,0,Downhill
+2004-01-24,Cristian Javier Simari Birkner,AR,0,Combined
+2004-01-24,Cornel Zueger,CH,0,Combined
+2004-01-24,Kevin Francis,US,0,Combined
 2004-01-24,Peter Rzehak,AT,31,Downhill
 2004-01-24,Ivica Kostelic,HR,0,Slalom
-2004-01-24,Ole Magnus Kulbeck,NO,0,Super G
+2004-01-24,Ole Magnus Kulbeck,NO,0,Combined
 2004-01-24,Michael Gufler,IT,0,Giant Slalom
 2004-01-24,Pierrick Bourgeat,FR,0,Slalom
 2004-01-24,Yannick Bertrand,FR,24,Downhill
 2004-01-24,Scott Macartney,US,0,Super G
 2004-01-24,Marco Buechel,LI,51,Downhill
 2004-01-24,Benjamin Raich,AT,27,Slalom
-2004-01-24,Darin McBeath,CA,0,Downhill
-2004-01-24,Daniel Zueger,CH,0,Downhill
+2004-01-24,Darin McBeath,CA,0,Combined
+2004-01-24,Daniel Zueger,CH,0,Combined
 2004-01-24,Bode Miller,US,52,Giant Slalom
 2004-01-24,Stephan Eberharter,AT,431,Downhill
 2004-01-24,Kurt Sulzenbacher,IT,65,Downhill
-2004-01-24,Jeff Hume,CA,0,Downhill
+2004-01-24,Jeff Hume,CA,0,Combined
 2004-01-24,Andrej Jerman,SK,11,Downhill
-2004-01-24,Peter Strodl,DE,0,Downhill
+2004-01-24,Peter Strodl,DE,0,Combined
 2004-01-24,Johan Brolenius,SE,0,Slalom
 2004-01-24,Konrad Hari,CH,0,Super G
 2004-01-24,Markus Larsson,SE,0,Slalom
-2004-01-24,Andrej Sporn,SK,0,Slalom
+2004-01-24,Andrej Sporn,SK,0,Combined
 2004-01-24,Bjarne Solbakken,NO,136,Super G
 2004-01-24,Lasse Kjus,NO,316,Downhill
 2004-01-24,Tobias Gruenenfelder,CH,10,Super G
-2004-01-24,Robin Marullaz,FR,0,Downhill
-2004-01-24,Cedric Meilleur,FR,0,Downhill
+2004-01-24,Robin Marullaz,FR,0,Combined
+2004-01-24,Cedric Meilleur,FR,0,Combined
 2004-01-24,Didier Cuche,CH,107,Downhill
 2004-01-24,Romed Baumann,AT,0,Downhill
-2004-01-24,Beni Hofer,CH,0,Downhill
-2004-01-24,Alex Antor,AD,0,Downhill
+2004-01-24,Beni Hofer,CH,0,Combined
+2004-01-24,Alex Antor,AD,0,Combined
 2004-01-24,Rolf von Weissenfluh,CH,29,Downhill
 2004-01-24,Andreas Schifferer,AT,212,Downhill
 2004-01-24,Pierre Emmanuel Dalcin,FR,6,Super G
-2004-01-24,Ondrej Bank,CZ,0,Downhill
+2004-01-24,Ondrej Bank,CZ,0,Combined
 2004-01-24,David Poisson,FR,0,Downhill
 2004-01-24,Hans Knauss,AT,294,Downhill
 2004-01-24,Johan Clarey,FR,2,Downhill
@@ -736,26 +736,26 @@ date,name,ath_country,value,specialty
 2004-01-24,AJ Bear,AU,3,Super G
 2004-01-24,Alessandro Fattori,IT,37,Downhill
 2004-01-24,Vincent Lavoie,CA,13,Super G
-2004-01-24,Pavel Chestakov,RU,0,Downhill
+2004-01-24,Pavel Chestakov,RU,0,Combined
 2004-01-24,Silvan Zurbriggen,CH,0,Slalom
-2004-01-24,Hans Olsson,SE,0,Downhill
+2004-01-24,Hans Olsson,SE,0,Combined
 2004-01-24,Erik Guay,CA,81,Downhill
 2004-01-24,Fritz Strobl,AT,193,Downhill
-2004-01-24,Juerg Gruenenfelder,CH,0,Downhill
+2004-01-24,Juerg Gruenenfelder,CH,0,Combined
 2004-01-24,Claude Cretier,FR,1,Downhill
 2004-01-24,Jakub Fiala,US,2,Super G
 2004-01-24,Erik Seletto,IT,7,Downhill
-2004-01-24,Stephan Thanei,IT,0,Downhill
-2004-01-24,Maui Gayme,CL,0,Downhill
+2004-01-24,Stephan Thanei,IT,0,Combined
+2004-01-24,Maui Gayme,CL,0,Combined
 2004-01-24,Bryon Friedman,US,58,Downhill
 2004-01-30,Bode Miller,US,56,Giant Slalom
-2004-01-30,Darin McBeath,CA,0,Downhill
+2004-01-30,Darin McBeath,CA,0,Combined
 2004-01-30,AJ Bear,AU,3,Super G
 2004-01-30,Bryon Friedman,US,68,Downhill
 2004-01-30,Markus Larsson,SE,0,Slalom
 2004-01-30,Johan Clarey,FR,2,Downhill
 2004-01-30,Kurt Sulzenbacher,IT,74,Downhill
-2004-01-30,Jeff Hume,CA,0,Downhill
+2004-01-30,Jeff Hume,CA,0,Combined
 2004-01-30,Benjamin Raich,AT,27,Slalom
 2004-01-30,Marco Buechel,LI,56,Downhill
 2004-01-30,Hans Knauss,AT,320,Downhill
@@ -764,154 +764,154 @@ date,name,ath_country,value,specialty
 2004-01-30,Yannick Bertrand,FR,26,Downhill
 2004-01-30,Pierre Emmanuel Dalcin,FR,14,Super G
 2004-01-30,Michael Walchhofer,AT,390,Downhill
-2004-01-30,Robin Marullaz,FR,0,Downhill
-2004-01-30,Daniel Zueger,CH,0,Downhill
+2004-01-30,Robin Marullaz,FR,0,Combined
+2004-01-30,Daniel Zueger,CH,0,Combined
 2004-01-30,Scott Macartney,US,0,Super G
-2004-01-30,Ondrej Bank,CZ,0,Downhill
+2004-01-30,Ondrej Bank,CZ,0,Combined
 2004-01-30,Marc Bottollier,FR,1,Downhill
 2004-01-30,Nicolas Burtin,FR,70,Downhill
 2004-01-30,Franco Cavegn,CH,74,Downhill
 2004-01-30,Patrick Staudacher,IT,0,Super G
-2004-01-30,Pavel Chestakov,RU,0,Downhill
-2004-01-30,Jernej Rebersak,SK,0,Downhill
+2004-01-30,Pavel Chestakov,RU,0,Combined
+2004-01-30,Jernej Rebersak,SK,0,Combined
 2004-01-30,Erik Seletto,IT,7,Downhill
-2004-01-30,Giorgio Gros,IT,0,Downhill
+2004-01-30,Giorgio Gros,IT,0,Combined
 2004-01-30,Erik Guay,CA,81,Downhill
-2004-01-30,Audun Groenvold,NO,0,Downhill
+2004-01-30,Audun Groenvold,NO,0,Combined
 2004-01-30,Paul Accola,CH,58,Downhill
-2004-01-30,Brad Spence,CA,0,Downhill
+2004-01-30,Brad Spence,CA,0,Combined
 2004-01-30,Konrad Hari,CH,0,Super G
-2004-01-30,Alex Antor,AD,0,Downhill
+2004-01-30,Alex Antor,AD,0,Combined
 2004-01-30,Patrik Jaerbyn,SE,114,Downhill
 2004-01-30,Romed Baumann,AT,0,Downhill
-2004-01-30,Enis Becirbegovic,BA,0,Downhill
+2004-01-30,Enis Becirbegovic,BA,0,Combined
 2004-01-30,Norbert Holzknecht,AT,77,Downhill
-2004-01-30,Wade H Bishop,US,0,Downhill
+2004-01-30,Wade H Bishop,US,0,Combined
 2004-01-30,Antoine Deneriaz,FR,252,Downhill
-2004-01-30,Marco Sullivan,US,0,Downhill
+2004-01-30,Marco Sullivan,US,0,Combined
 2004-01-30,Johan Brolenius,SE,0,Slalom
 2004-01-30,Max Rauffer,DE,29,Downhill
 2004-01-30,Sebastien Fournier-Bidoz,FR,43,Downhill
 2004-01-30,David Anderson,CA,0,Super G
 2004-01-30,Bjarne Solbakken,NO,149,Super G
-2004-01-30,Craig Branch,AU,0,Downhill
-2004-01-30,Johnny Albertsen,DK,0,Downhill
+2004-01-30,Craig Branch,AU,0,Combined
+2004-01-30,Johnny Albertsen,DK,0,Combined
 2004-01-30,Luca Cattaneo,IT,14,Downhill
 2004-01-30,Roland Fischnaller,IT,75,Downhill
 2004-01-30,Didier Cuche,CH,207,Downhill
-2004-01-30,Werner Heel,IT,0,Downhill
+2004-01-30,Werner Heel,IT,0,Combined
 2004-01-30,Giorgio Rocca,IT,0,Slalom
 2004-01-30,Fritz Strobl,AT,243,Downhill
 2004-01-30,Hermann Maier,AT,363,Super G
 2004-01-30,Bruno Kernen,CH,166,Downhill
 2004-01-30,Klaus Kroell,AT,164,Downhill
-2004-01-30,Stephan Thanei,IT,0,Downhill
+2004-01-30,Stephan Thanei,IT,0,Combined
 2004-01-30,Vincent Lavoie,CA,13,Super G
 2004-01-30,Aksel-Lund Svindal,NO,25,Super G
 2004-01-30,Werner Franz,AT,18,Downhill
-2004-01-30,Manuel Carrozza,IT,0,Downhill
+2004-01-30,Manuel Carrozza,IT,0,Combined
 2004-01-30,Gauthier De Tessieres,FR,0,Giant Slalom
 2004-01-30,Jan Hudec,CA,0,Super G
 2004-01-30,Stephan Eberharter,AT,491,Downhill
 2004-01-30,Hannes Trinkl,AT,148,Downhill
-2004-01-30,Finlay Mickel,GB,0,Downhill
+2004-01-30,Finlay Mickel,GB,0,Combined
 2004-01-30,Didier Defago,CH,56,Downhill
 2004-01-30,Claude Cretier,FR,1,Downhill
 2004-01-30,Josef Strobl,AT,22,Super G
-2004-01-30,Hans Olsson,SE,0,Downhill
+2004-01-30,Hans Olsson,SE,0,Combined
 2004-01-30,Ambrosi Hoffmann,CH,198,Downhill
 2004-01-30,Alessandro Fattori,IT,73,Downhill
-2004-01-30,Thomas Graggaber,AT,0,Downhill
+2004-01-30,Thomas Graggaber,AT,0,Combined
 2004-01-30,Lasse Kjus,NO,316,Downhill
-2004-01-30,Alexandre Pittin,FR,0,Downhill
-2004-01-30,Saemi Perren,CH,0,Downhill
-2004-01-30,Cedric Meilleur,FR,0,Downhill
-2004-01-30,Peter Strodl,DE,0,Downhill
-2004-01-30,Peter Pen,SK,0,Downhill
-2004-01-30,Beni Hofer,CH,0,Downhill
+2004-01-30,Alexandre Pittin,FR,0,Combined
+2004-01-30,Saemi Perren,CH,0,Combined
+2004-01-30,Cedric Meilleur,FR,0,Combined
+2004-01-30,Peter Strodl,DE,0,Combined
+2004-01-30,Peter Pen,SK,0,Combined
+2004-01-30,Beni Hofer,CH,0,Combined
 2004-01-30,Florian Eckert,DE,7,Downhill
 2004-01-30,Rolf von Weissenfluh,CH,29,Downhill
 2004-01-30,Hans Grugger,AT,146,Downhill
 2004-01-30,Christoph Gruber,AT,117,Downhill
 2004-01-30,Stefan Stankalla,DE,0,Super G
-2004-01-30,Matteo Berbenni,IT,0,Downhill
+2004-01-30,Matteo Berbenni,IT,0,Combined
 2004-01-30,Kristian Ghedina,IT,139,Downhill
-2004-01-30,Cornel Zueger,CH,0,Downhill
+2004-01-30,Cornel Zueger,CH,0,Combined
 2004-01-30,Peter Fill,IT,35,Super G
 2004-01-30,David Poisson,FR,0,Downhill
 2004-01-30,Andrej Jerman,SK,11,Downhill
-2004-01-30,Cristian Javier Simari Birkner,AR,0,Downhill
-2004-01-30,Ole Magnus Kulbeck,NO,0,Super G
+2004-01-30,Cristian Javier Simari Birkner,AR,0,Combined
+2004-01-30,Ole Magnus Kulbeck,NO,0,Combined
 2004-01-30,Peter Rzehak,AT,31,Downhill
 2004-01-30,Silvan Zurbriggen,CH,0,Slalom
-2004-01-30,Maui Gayme,CL,0,Downhill
-2004-01-30,Andrej Sporn,SK,0,Slalom
+2004-01-30,Maui Gayme,CL,0,Combined
+2004-01-30,Andrej Sporn,SK,0,Combined
 2004-01-30,Tobias Gruenenfelder,CH,12,Super G
 2004-01-30,Andreas Schifferer,AT,232,Downhill
-2004-01-30,Juerg Gruenenfelder,CH,0,Downhill
+2004-01-30,Juerg Gruenenfelder,CH,0,Combined
 2004-01-30,Jakub Fiala,US,2,Super G
 2004-01-30,Pierrick Bourgeat,FR,0,Slalom
 2004-01-30,Gregor Sparovec,SK,16,Downhill
-2004-01-30,Kevin Francis,US,0,Downhill
+2004-01-30,Kevin Francis,US,0,Combined
 2004-01-30,Daron Rahlves,US,435,Downhill
 2004-01-30,Kenneth Sivertsen,NO,0,Super G
-2004-01-31,Enis Becirbegovic,BA,0,Downhill
+2004-01-31,Enis Becirbegovic,BA,0,Combined
 2004-01-31,Franco Cavegn,CH,74,Downhill
-2004-01-31,Pavel Chestakov,RU,0,Downhill
-2004-01-31,Peter Strodl,DE,0,Downhill
+2004-01-31,Pavel Chestakov,RU,0,Combined
+2004-01-31,Peter Strodl,DE,0,Combined
 2004-01-31,Alessandro Fattori,IT,133,Downhill
-2004-01-31,Audun Groenvold,NO,0,Downhill
-2004-01-31,Alexandre Pittin,FR,0,Downhill
-2004-01-31,Alex Antor,AD,0,Downhill
-2004-01-31,Maui Gayme,CL,0,Downhill
+2004-01-31,Audun Groenvold,NO,0,Combined
+2004-01-31,Alexandre Pittin,FR,0,Combined
+2004-01-31,Alex Antor,AD,0,Combined
+2004-01-31,Maui Gayme,CL,0,Combined
 2004-01-31,Didier Defago,CH,106,Downhill
 2004-01-31,Paul Accola,CH,70,Downhill
 2004-01-31,Silvan Zurbriggen,CH,0,Slalom
 2004-01-31,Erik Guay,CA,81,Downhill
-2004-01-31,Giorgio Gros,IT,0,Downhill
+2004-01-31,Giorgio Gros,IT,0,Combined
 2004-01-31,Hans Grugger,AT,168,Downhill
-2004-01-31,Ole Magnus Kulbeck,NO,0,Super G
+2004-01-31,Ole Magnus Kulbeck,NO,0,Combined
 2004-01-31,Ambrosi Hoffmann,CH,211,Downhill
 2004-01-31,Klaus Kroell,AT,190,Downhill
 2004-01-31,Kristian Ghedina,IT,150,Downhill
 2004-01-31,Bruno Kernen,CH,198,Downhill
-2004-01-31,Robin Marullaz,FR,0,Downhill
+2004-01-31,Robin Marullaz,FR,0,Combined
 2004-01-31,Fritz Strobl,AT,323,Downhill
 2004-01-31,Michael Gufler,IT,0,Giant Slalom
-2004-01-31,Cornel Zueger,CH,0,Downhill
+2004-01-31,Cornel Zueger,CH,0,Combined
 2004-01-31,Hans Knauss,AT,336,Downhill
 2004-01-31,Marco Buechel,LI,70,Downhill
 2004-01-31,Scott Macartney,US,0,Super G
-2004-01-31,Andrej Sporn,SK,0,Slalom
+2004-01-31,Andrej Sporn,SK,0,Combined
 2004-01-31,Andreas Schifferer,AT,252,Downhill
 2004-01-31,Markus Larsson,SE,0,Slalom
 2004-01-31,Pierrick Bourgeat,FR,0,Slalom
-2004-01-31,Ondrej Bank,CZ,0,Downhill
+2004-01-31,Ondrej Bank,CZ,0,Combined
 2004-01-31,Stephan Eberharter,AT,591,Downhill
-2004-01-31,Daniel Zueger,CH,0,Downhill
-2004-01-31,Stephan Thanei,IT,0,Downhill
-2004-01-31,Johnny Albertsen,DK,0,Downhill
-2004-01-31,Beni Hofer,CH,0,Downhill
+2004-01-31,Daniel Zueger,CH,0,Combined
+2004-01-31,Stephan Thanei,IT,0,Combined
+2004-01-31,Johnny Albertsen,DK,0,Combined
+2004-01-31,Beni Hofer,CH,0,Combined
 2004-01-31,Antoine Deneriaz,FR,259,Downhill
 2004-01-31,Max Rauffer,DE,29,Downhill
 2004-01-31,Hannes Trinkl,AT,193,Downhill
-2004-01-31,Thomas Graggaber,AT,0,Downhill
-2004-01-31,Matteo Berbenni,IT,0,Downhill
-2004-01-31,Cristian Javier Simari Birkner,AR,0,Downhill
+2004-01-31,Thomas Graggaber,AT,0,Combined
+2004-01-31,Matteo Berbenni,IT,0,Combined
+2004-01-31,Cristian Javier Simari Birkner,AR,0,Combined
 2004-01-31,Lasse Kjus,NO,316,Downhill
-2004-01-31,Marco Sullivan,US,0,Downhill
-2004-01-31,Manuel Carrozza,IT,0,Downhill
+2004-01-31,Marco Sullivan,US,0,Combined
+2004-01-31,Manuel Carrozza,IT,0,Combined
 2004-01-31,Christoph Gruber,AT,162,Downhill
 2004-01-31,Bode Miller,US,59,Giant Slalom
 2004-01-31,Bjarne Solbakken,NO,149,Super G
 2004-01-31,Johan Brolenius,SE,0,Slalom
 2004-01-31,Norbert Holzknecht,AT,77,Downhill
 2004-01-31,Didier Cuche,CH,236,Downhill
-2004-01-31,Hans Olsson,SE,0,Downhill
+2004-01-31,Hans Olsson,SE,0,Combined
 2004-01-31,Jakub Fiala,US,2,Super G
-2004-01-31,Saemi Perren,CH,0,Downhill
-2004-01-31,Darin McBeath,CA,0,Downhill
-2004-01-31,Peter Pen,SK,0,Downhill
+2004-01-31,Saemi Perren,CH,0,Combined
+2004-01-31,Darin McBeath,CA,0,Combined
+2004-01-31,Peter Pen,SK,0,Combined
 2004-01-31,Giorgio Rocca,IT,0,Slalom
 2004-01-31,Luca Cattaneo,IT,14,Downhill
 2004-01-31,Michael Walchhofer,AT,405,Downhill
@@ -920,17 +920,17 @@ date,name,ath_country,value,specialty
 2004-01-31,Florian Eckert,DE,7,Downhill
 2004-01-31,Tobias Gruenenfelder,CH,14,Super G
 2004-01-31,Sebastien Fournier-Bidoz,FR,43,Downhill
-2004-01-31,Craig Branch,AU,0,Downhill
+2004-01-31,Craig Branch,AU,0,Combined
 2004-01-31,Vincent Lavoie,CA,19,Super G
 2004-01-31,Kurt Sulzenbacher,IT,83,Downhill
 2004-01-31,AJ Bear,AU,3,Super G
-2004-01-31,Jeff Hume,CA,0,Downhill
+2004-01-31,Jeff Hume,CA,0,Combined
 2004-01-31,Benjamin Raich,AT,27,Slalom
 2004-01-31,Daron Rahlves,US,453,Downhill
 2004-01-31,Johan Clarey,FR,2,Downhill
 2004-01-31,Peter Fill,IT,35,Super G
 2004-01-31,Peter Rzehak,AT,31,Downhill
-2004-01-31,Kevin Francis,US,0,Downhill
+2004-01-31,Kevin Francis,US,0,Combined
 2004-01-31,Yannick Bertrand,FR,37,Downhill
 2004-01-31,Ivica Kostelic,HR,0,Slalom
 2004-01-31,Stefan Stankalla,DE,0,Super G
@@ -938,72 +938,72 @@ date,name,ath_country,value,specialty
 2004-01-31,Hermann Maier,AT,408,Super G
 2004-01-31,Pierre Emmanuel Dalcin,FR,19,Super G
 2004-01-31,Marc Bottollier,FR,9,Downhill
-2004-01-31,Finlay Mickel,GB,0,Downhill
+2004-01-31,Finlay Mickel,GB,0,Combined
 2004-01-31,Gauthier De Tessieres,FR,0,Giant Slalom
 2004-01-31,Josef Strobl,AT,22,Super G
 2004-01-31,David Poisson,FR,0,Downhill
 2004-01-31,Konrad Hari,CH,0,Super G
-2004-01-31,Wade H Bishop,US,0,Downhill
+2004-01-31,Wade H Bishop,US,0,Combined
 2004-01-31,Patrick Staudacher,IT,0,Super G
 2004-01-31,Erik Seletto,IT,8,Downhill
 2004-01-31,Nicolas Burtin,FR,70,Downhill
 2004-01-31,Romed Baumann,AT,0,Downhill
-2004-01-31,Brad Spence,CA,0,Downhill
+2004-01-31,Brad Spence,CA,0,Combined
 2004-01-31,Gregor Sparovec,SK,16,Downhill
 2004-01-31,Andrej Jerman,SK,11,Downhill
 2004-01-31,Claude Cretier,FR,1,Downhill
-2004-01-31,Cedric Meilleur,FR,0,Downhill
-2004-01-31,Jernej Rebersak,SK,0,Downhill
+2004-01-31,Cedric Meilleur,FR,0,Combined
+2004-01-31,Jernej Rebersak,SK,0,Combined
 2004-01-31,Bryon Friedman,US,72,Downhill
 2004-01-31,Aksel-Lund Svindal,NO,25,Super G
 2004-01-31,Jan Hudec,CA,0,Super G
-2004-01-31,Werner Heel,IT,0,Downhill
+2004-01-31,Werner Heel,IT,0,Combined
 2004-01-31,Patrik Jaerbyn,SE,138,Downhill
 2004-01-31,Roland Fischnaller,IT,75,Downhill
 2004-01-31,Rolf von Weissenfluh,CH,29,Downhill
-2004-01-31,Juerg Gruenenfelder,CH,0,Downhill
+2004-01-31,Juerg Gruenenfelder,CH,0,Combined
 2004-02-14,Tobias Gruenenfelder,CH,20,Super G
-2004-02-14,Finlay Mickel,GB,0,Downhill
-2004-02-14,Manuel Carrozza,IT,0,Downhill
-2004-02-14,Robin Marullaz,FR,0,Downhill
+2004-02-14,Finlay Mickel,GB,0,Combined
+2004-02-14,Manuel Carrozza,IT,0,Combined
+2004-02-14,Robin Marullaz,FR,0,Combined
 2004-02-14,Hannes Trinkl,AT,193,Downhill
 2004-02-14,Stephan Eberharter,AT,671,Downhill
-2004-02-14,Maui Gayme,CL,0,Downhill
+2004-02-14,Maui Gayme,CL,0,Combined
 2004-02-14,Alessandro Fattori,IT,145,Downhill
 2004-02-14,Claude Cretier,FR,1,Downhill
 2004-02-14,Silvan Zurbriggen,CH,0,Slalom
 2004-02-14,Christoph Gruber,AT,180,Downhill
-2004-02-14,Cedric Meilleur,FR,0,Downhill
+2004-02-14,Cedric Meilleur,FR,0,Combined
 2004-02-14,Daron Rahlves,US,477,Downhill
 2004-02-14,Pierrick Bourgeat,FR,0,Slalom
 2004-02-14,Ambrosi Hoffmann,CH,231,Downhill
 2004-02-14,Peter Fill,IT,44,Super G
 2004-02-14,Rolf von Weissenfluh,CH,34,Downhill
-2004-02-14,Ondrej Bank,CZ,0,Downhill
+2004-02-14,Ondrej Bank,CZ,0,Combined
 2004-02-14,Werner Franz,AT,18,Downhill
 2004-02-14,Stefan Stankalla,DE,0,Super G
-2004-02-14,Hans Olsson,SE,0,Downhill
-2004-02-14,Juerg Gruenenfelder,CH,0,Downhill
+2004-02-14,Hans Olsson,SE,0,Combined
+2004-02-14,Juerg Gruenenfelder,CH,0,Combined
 2004-02-14,Jan Hudec,CA,0,Super G
-2004-02-14,Alexandre Pittin,FR,0,Downhill
+2004-02-14,Alexandre Pittin,FR,0,Combined
 2004-02-14,Aksel-Lund Svindal,NO,38,Super G
 2004-02-14,Andreas Schifferer,AT,252,Downhill
 2004-02-14,Didier Defago,CH,120,Downhill
 2004-02-14,David Poisson,FR,2,Downhill
 2004-02-14,Andrej Jerman,SK,11,Downhill
 2004-02-14,Klaus Kroell,AT,240,Downhill
-2004-02-14,Andrej Sporn,SK,0,Slalom
-2004-02-14,Matteo Berbenni,IT,0,Downhill
-2004-02-14,Ole Magnus Kulbeck,NO,0,Super G
+2004-02-14,Andrej Sporn,SK,0,Combined
+2004-02-14,Matteo Berbenni,IT,0,Combined
+2004-02-14,Ole Magnus Kulbeck,NO,0,Combined
 2004-02-14,Bryon Friedman,US,82,Downhill
-2004-02-14,Stephan Thanei,IT,0,Downhill
-2004-02-14,Peter Pen,SK,0,Downhill
+2004-02-14,Stephan Thanei,IT,0,Combined
+2004-02-14,Peter Pen,SK,0,Combined
 2004-02-14,Franco Cavegn,CH,74,Downhill
 2004-02-14,Jakub Fiala,US,2,Super G
 2004-02-14,Fritz Strobl,AT,352,Downhill
 2004-02-14,Vincent Lavoie,CA,19,Super G
-2004-02-14,Saemi Perren,CH,0,Downhill
-2004-02-14,Thomas Graggaber,AT,0,Downhill
+2004-02-14,Saemi Perren,CH,0,Combined
+2004-02-14,Thomas Graggaber,AT,0,Combined
 2004-02-14,Hans Grugger,AT,228,Downhill
 2004-02-14,Gauthier De Tessieres,FR,0,Giant Slalom
 2004-02-14,Lasse Kjus,NO,316,Downhill
@@ -1013,48 +1013,48 @@ date,name,ath_country,value,specialty
 2004-02-14,Florian Eckert,DE,22,Downhill
 2004-02-14,Hans Knauss,AT,376,Downhill
 2004-02-14,Roland Fischnaller,IT,86,Downhill
-2004-02-14,Alex Antor,AD,0,Downhill
-2004-02-14,Johnny Albertsen,DK,0,Downhill
+2004-02-14,Alex Antor,AD,0,Combined
+2004-02-14,Johnny Albertsen,DK,0,Combined
 2004-02-14,Konrad Hari,CH,0,Super G
-2004-02-14,Craig Branch,AU,0,Downhill
+2004-02-14,Craig Branch,AU,0,Combined
 2004-02-14,Max Rauffer,DE,29,Downhill
-2004-02-14,Werner Heel,IT,0,Downhill
+2004-02-14,Werner Heel,IT,0,Combined
 2004-02-14,Sebastien Fournier-Bidoz,FR,43,Downhill
 2004-02-14,Bjarne Solbakken,NO,199,Super G
-2004-02-14,Wade H Bishop,US,0,Downhill
+2004-02-14,Wade H Bishop,US,0,Combined
 2004-02-14,Kenneth Sivertsen,NO,0,Super G
 2004-02-14,Kurt Sulzenbacher,IT,83,Downhill
-2004-02-14,Darin McBeath,CA,0,Downhill
+2004-02-14,Darin McBeath,CA,0,Combined
 2004-02-14,Giorgio Rocca,IT,0,Slalom
 2004-02-14,Luca Cattaneo,IT,14,Downhill
 2004-02-14,David Anderson,CA,0,Super G
 2004-02-14,Patrick Staudacher,IT,7,Super G
 2004-02-14,Antoine Deneriaz,FR,275,Downhill
-2004-02-14,Peter Strodl,DE,0,Downhill
-2004-02-14,Audun Groenvold,NO,0,Downhill
-2004-02-14,Pavel Chestakov,RU,0,Downhill
-2004-02-14,Jernej Rebersak,SK,0,Downhill
+2004-02-14,Peter Strodl,DE,0,Combined
+2004-02-14,Audun Groenvold,NO,0,Combined
+2004-02-14,Pavel Chestakov,RU,0,Combined
+2004-02-14,Jernej Rebersak,SK,0,Combined
 2004-02-14,Paul Accola,CH,70,Downhill
 2004-02-14,Nicolas Burtin,FR,70,Downhill
 2004-02-14,Norbert Holzknecht,AT,77,Downhill
-2004-02-14,Giorgio Gros,IT,0,Downhill
+2004-02-14,Giorgio Gros,IT,0,Combined
 2004-02-14,Didier Cuche,CH,262,Downhill
-2004-02-14,Brad Spence,CA,0,Downhill
+2004-02-14,Brad Spence,CA,0,Combined
 2004-02-14,Romed Baumann,AT,0,Downhill
 2004-02-14,Erik Seletto,IT,11,Downhill
 2004-02-14,Erik Guay,CA,81,Downhill
-2004-02-14,Enis Becirbegovic,BA,0,Downhill
+2004-02-14,Enis Becirbegovic,BA,0,Combined
 2004-02-14,Patrik Jaerbyn,SE,160,Downhill
-2004-02-14,Daniel Zueger,CH,0,Downhill
-2004-02-14,Marco Sullivan,US,0,Downhill
+2004-02-14,Daniel Zueger,CH,0,Combined
+2004-02-14,Marco Sullivan,US,0,Combined
 2004-02-14,Johan Brolenius,SE,0,Slalom
 2004-02-14,Kristian Ghedina,IT,154,Downhill
-2004-02-14,Beni Hofer,CH,0,Downhill
+2004-02-14,Beni Hofer,CH,0,Combined
 2004-02-14,Hermann Maier,AT,508,Super G
 2004-02-14,Peter Rzehak,AT,31,Downhill
-2004-02-14,Kevin Francis,US,0,Downhill
+2004-02-14,Kevin Francis,US,0,Combined
 2004-02-14,Pierre Emmanuel Dalcin,FR,20,Super G
-2004-02-14,Cristian Javier Simari Birkner,AR,0,Downhill
+2004-02-14,Cristian Javier Simari Birkner,AR,0,Combined
 2004-02-14,Markus Larsson,SE,0,Slalom
 2004-02-14,Michael Gufler,IT,0,Giant Slalom
 2004-02-14,Ivica Kostelic,HR,0,Slalom
@@ -1062,11 +1062,11 @@ date,name,ath_country,value,specialty
 2004-02-14,Bruno Kernen,CH,198,Downhill
 2004-02-14,Yannick Bertrand,FR,46,Downhill
 2004-02-14,Benjamin Raich,AT,27,Slalom
-2004-02-14,Cornel Zueger,CH,0,Downhill
+2004-02-14,Cornel Zueger,CH,0,Combined
 2004-02-14,Marco Buechel,LI,70,Downhill
 2004-02-14,AJ Bear,AU,3,Super G
 2004-02-14,Scott Macartney,US,0,Super G
-2004-02-14,Jeff Hume,CA,0,Downhill
+2004-02-14,Jeff Hume,CA,0,Combined
 2004-02-14,Bode Miller,US,91,Giant Slalom
 2004-02-14,Marc Bottollier,FR,9,Downhill
 2004-03-06,Fritz Strobl,AT,432,Downhill
@@ -1077,8 +1077,8 @@ date,name,ath_country,value,specialty
 2004-03-06,Johan Clarey,FR,2,Downhill
 2004-03-06,AJ Bear,AU,3,Super G
 2004-03-06,Patrick Staudacher,IT,7,Super G
-2004-03-06,Pavel Chestakov,RU,0,Downhill
-2004-03-06,Andrej Sporn,SK,0,Slalom
+2004-03-06,Pavel Chestakov,RU,0,Combined
+2004-03-06,Andrej Sporn,SK,0,Combined
 2004-03-06,Didier Cuche,CH,294,Downhill
 2004-03-06,Lasse Kjus,NO,316,Downhill
 2004-03-06,Claude Cretier,FR,1,Downhill
@@ -1091,127 +1091,127 @@ date,name,ath_country,value,specialty
 2004-03-06,Hans Knauss,AT,421,Downhill
 2004-03-06,Marc Bottollier,FR,10,Downhill
 2004-03-06,Markus Larsson,SE,0,Slalom
-2004-03-06,Stephan Thanei,IT,0,Downhill
-2004-03-06,Ondrej Bank,CZ,0,Downhill
+2004-03-06,Stephan Thanei,IT,0,Combined
+2004-03-06,Ondrej Bank,CZ,0,Combined
 2004-03-06,Johan Brolenius,SE,0,Slalom
 2004-03-06,Michael Walchhofer,AT,458,Downhill
 2004-03-06,Jakub Fiala,US,2,Super G
 2004-03-06,David Poisson,FR,2,Downhill
-2004-03-06,Hans Olsson,SE,0,Downhill
+2004-03-06,Hans Olsson,SE,0,Combined
 2004-03-06,Konrad Hari,CH,5,Super G
 2004-03-06,Erik Guay,CA,81,Downhill
-2004-03-06,Robin Marullaz,FR,0,Downhill
-2004-03-06,Alex Antor,AD,0,Downhill
+2004-03-06,Robin Marullaz,FR,0,Combined
+2004-03-06,Alex Antor,AD,0,Combined
 2004-03-06,Franco Cavegn,CH,74,Downhill
 2004-03-06,Rolf von Weissenfluh,CH,34,Downhill
-2004-03-06,Darin McBeath,CA,0,Downhill
+2004-03-06,Darin McBeath,CA,0,Combined
 2004-03-06,Kurt Sulzenbacher,IT,83,Downhill
-2004-03-06,Daniel Zueger,CH,0,Downhill
+2004-03-06,Daniel Zueger,CH,0,Combined
 2004-03-06,Benjamin Raich,AT,41,Slalom
 2004-03-06,David Anderson,CA,0,Super G
-2004-03-06,Jeff Hume,CA,0,Downhill
+2004-03-06,Jeff Hume,CA,0,Combined
 2004-03-06,Scott Macartney,US,0,Super G
 2004-03-06,Bode Miller,US,96,Giant Slalom
-2004-03-06,Cristian Javier Simari Birkner,AR,0,Downhill
+2004-03-06,Cristian Javier Simari Birkner,AR,0,Combined
 2004-03-06,Yannick Bertrand,FR,64,Downhill
 2004-03-06,Bruno Kernen,CH,205,Downhill
 2004-03-06,Ivica Kostelic,HR,0,Slalom
 2004-03-06,Michael Gufler,IT,0,Giant Slalom
-2004-03-06,Kevin Francis,US,0,Downhill
+2004-03-06,Kevin Francis,US,0,Combined
 2004-03-06,Peter Rzehak,AT,31,Downhill
-2004-03-06,Beni Hofer,CH,0,Downhill
+2004-03-06,Beni Hofer,CH,0,Combined
 2004-03-06,Marco Buechel,LI,83,Downhill
 2004-03-06,Kenneth Sivertsen,NO,0,Super G
-2004-03-06,Marco Sullivan,US,0,Downhill
+2004-03-06,Marco Sullivan,US,0,Combined
 2004-03-06,Sebastien Fournier-Bidoz,FR,43,Downhill
-2004-03-06,Peter Strodl,DE,0,Downhill
-2004-03-06,Audun Groenvold,NO,0,Downhill
-2004-03-06,Jernej Rebersak,SK,0,Downhill
-2004-03-06,Giorgio Gros,IT,0,Downhill
-2004-03-06,Brad Spence,CA,0,Downhill
+2004-03-06,Peter Strodl,DE,0,Combined
+2004-03-06,Audun Groenvold,NO,0,Combined
+2004-03-06,Jernej Rebersak,SK,0,Combined
+2004-03-06,Giorgio Gros,IT,0,Combined
+2004-03-06,Brad Spence,CA,0,Combined
 2004-03-06,Paul Accola,CH,86,Downhill
 2004-03-06,Patrik Jaerbyn,SE,170,Downhill
-2004-03-06,Wade H Bishop,US,0,Downhill
+2004-03-06,Wade H Bishop,US,0,Combined
 2004-03-06,Antoine Deneriaz,FR,335,Downhill
-2004-03-06,Enis Becirbegovic,BA,0,Downhill
+2004-03-06,Enis Becirbegovic,BA,0,Combined
 2004-03-06,Norbert Holzknecht,AT,77,Downhill
 2004-03-06,Roland Fischnaller,IT,97,Downhill
 2004-03-06,Hermann Maier,AT,537,Super G
-2004-03-06,Johnny Albertsen,DK,0,Downhill
-2004-03-06,Craig Branch,AU,0,Downhill
+2004-03-06,Johnny Albertsen,DK,0,Combined
+2004-03-06,Craig Branch,AU,0,Combined
 2004-03-06,Max Rauffer,DE,29,Downhill
-2004-03-06,Werner Heel,IT,0,Downhill
+2004-03-06,Werner Heel,IT,0,Combined
 2004-03-06,Kristian Ghedina,IT,169,Downhill
-2004-03-06,Cornel Zueger,CH,0,Downhill
+2004-03-06,Cornel Zueger,CH,0,Combined
 2004-03-06,Peter Fill,IT,44,Super G
 2004-03-06,Florian Eckert,DE,22,Downhill
 2004-03-06,Didier Defago,CH,129,Downhill
 2004-03-06,Daron Rahlves,US,527,Downhill
 2004-03-06,Aksel-Lund Svindal,NO,40,Super G
-2004-03-06,Alexandre Pittin,FR,0,Downhill
-2004-03-06,Maui Gayme,CL,0,Downhill
+2004-03-06,Alexandre Pittin,FR,0,Combined
+2004-03-06,Maui Gayme,CL,0,Combined
 2004-03-06,Jan Hudec,CA,0,Super G
 2004-03-06,Stephan Eberharter,AT,771,Downhill
 2004-03-06,Andrej Jerman,SK,11,Downhill
 2004-03-06,Gregor Sparovec,SK,16,Downhill
 2004-03-06,Hans Grugger,AT,250,Downhill
 2004-03-06,Alessandro Fattori,IT,171,Downhill
-2004-03-06,Juerg Gruenenfelder,CH,0,Downhill
+2004-03-06,Juerg Gruenenfelder,CH,0,Combined
 2004-03-06,Silvan Zurbriggen,CH,0,Slalom
 2004-03-06,Bryon Friedman,US,82,Downhill
-2004-03-06,Cedric Meilleur,FR,0,Downhill
-2004-03-06,Ole Magnus Kulbeck,NO,0,Super G
-2004-03-06,Matteo Berbenni,IT,0,Downhill
+2004-03-06,Cedric Meilleur,FR,0,Combined
+2004-03-06,Ole Magnus Kulbeck,NO,0,Combined
+2004-03-06,Matteo Berbenni,IT,0,Combined
 2004-03-06,Klaus Kroell,AT,264,Downhill
-2004-03-06,Saemi Perren,CH,0,Downhill
+2004-03-06,Saemi Perren,CH,0,Combined
 2004-03-06,Pierrick Bourgeat,FR,0,Slalom
 2004-03-06,Christoph Gruber,AT,180,Downhill
 2004-03-06,Stefan Stankalla,DE,0,Super G
 2004-03-06,Werner Franz,AT,18,Downhill
-2004-03-06,Finlay Mickel,GB,0,Downhill
-2004-03-06,Manuel Carrozza,IT,0,Downhill
+2004-03-06,Finlay Mickel,GB,0,Combined
+2004-03-06,Manuel Carrozza,IT,0,Combined
 2004-03-06,Hannes Trinkl,AT,200,Downhill
-2004-03-06,Peter Pen,SK,0,Downhill
+2004-03-06,Peter Pen,SK,0,Combined
 2004-03-06,Nicolas Burtin,FR,70,Downhill
 2004-03-06,Josef Strobl,AT,22,Super G
 2004-03-06,Gauthier De Tessieres,FR,0,Giant Slalom
-2004-03-06,Thomas Graggaber,AT,0,Downhill
+2004-03-06,Thomas Graggaber,AT,0,Combined
 2004-03-10,Michael Walchhofer,AT,503,Downhill
-2004-03-10,Ondrej Bank,CZ,0,Downhill
+2004-03-10,Ondrej Bank,CZ,0,Combined
 2004-03-10,Stephan Eberharter,AT,831,Downhill
 2004-03-10,Hermann Maier,AT,550,Super G
-2004-03-10,Hans Olsson,SE,0,Downhill
+2004-03-10,Hans Olsson,SE,0,Combined
 2004-03-10,Daron Rahlves,US,627,Downhill
 2004-03-10,David Anderson,CA,0,Super G
 2004-03-10,Antoine Deneriaz,FR,367,Downhill
-2004-03-10,Cristian Javier Simari Birkner,AR,0,Downhill
-2004-03-10,Audun Groenvold,NO,0,Downhill
+2004-03-10,Cristian Javier Simari Birkner,AR,0,Combined
+2004-03-10,Audun Groenvold,NO,0,Combined
 2004-03-10,Lasse Kjus,NO,316,Downhill
-2004-03-10,Maui Gayme,CL,0,Downhill
+2004-03-10,Maui Gayme,CL,0,Combined
 2004-03-10,Gauthier De Tessieres,FR,0,Giant Slalom
 2004-03-10,Erik Seletto,IT,11,Downhill
-2004-03-10,Pavel Chestakov,RU,0,Downhill
-2004-03-10,Saemi Perren,CH,0,Downhill
+2004-03-10,Pavel Chestakov,RU,0,Combined
+2004-03-10,Saemi Perren,CH,0,Combined
 2004-03-10,Werner Franz,AT,18,Downhill
-2004-03-10,Finlay Mickel,GB,0,Downhill
+2004-03-10,Finlay Mickel,GB,0,Combined
 2004-03-10,Stefan Stankalla,DE,0,Super G
 2004-03-10,Peter Fill,IT,44,Super G
 2004-03-10,Kenneth Sivertsen,NO,0,Super G
 2004-03-10,Peter Rzehak,AT,31,Downhill
-2004-03-10,Kevin Francis,US,0,Downhill
+2004-03-10,Kevin Francis,US,0,Combined
 2004-03-10,Yannick Bertrand,FR,64,Downhill
 2004-03-10,Ivica Kostelic,HR,0,Slalom
-2004-03-10,Jeff Hume,CA,0,Downhill
+2004-03-10,Jeff Hume,CA,0,Combined
 2004-03-10,Benjamin Raich,AT,48,Slalom
 2004-03-10,Kurt Sulzenbacher,IT,83,Downhill
-2004-03-10,Darin McBeath,CA,0,Downhill
+2004-03-10,Darin McBeath,CA,0,Combined
 2004-03-10,Sebastien Fournier-Bidoz,FR,43,Downhill
-2004-03-10,Wade H Bishop,US,0,Downhill
-2004-03-10,Craig Branch,AU,0,Downhill
+2004-03-10,Wade H Bishop,US,0,Combined
+2004-03-10,Craig Branch,AU,0,Combined
 2004-03-10,Roland Fischnaller,IT,108,Downhill
-2004-03-10,Werner Heel,IT,0,Downhill
+2004-03-10,Werner Heel,IT,0,Combined
 2004-03-10,Josef Strobl,AT,22,Super G
-2004-03-10,Peter Pen,SK,0,Downhill
+2004-03-10,Peter Pen,SK,0,Combined
 2004-03-10,Florian Eckert,DE,22,Downhill
 2004-03-10,Jan Hudec,CA,0,Super G
 2004-03-10,Patrick Staudacher,IT,7,Super G
@@ -1228,58 +1228,58 @@ date,name,ath_country,value,specialty
 2004-03-10,David Poisson,FR,2,Downhill
 2004-03-10,Rolf von Weissenfluh,CH,34,Downhill
 2004-03-10,Claude Cretier,FR,1,Downhill
-2004-03-10,Cedric Meilleur,FR,0,Downhill
+2004-03-10,Cedric Meilleur,FR,0,Combined
 2004-03-10,Bryon Friedman,US,82,Downhill
-2004-03-10,Juerg Gruenenfelder,CH,0,Downhill
+2004-03-10,Juerg Gruenenfelder,CH,0,Combined
 2004-03-10,Gregor Sparovec,SK,16,Downhill
 2004-03-10,Andrej Jerman,SK,11,Downhill
 2004-03-10,Aksel-Lund Svindal,NO,40,Super G
 2004-03-10,Vincent Lavoie,CA,27,Super G
 2004-03-10,Didier Cuche,CH,316,Downhill
-2004-03-10,Brad Spence,CA,0,Downhill
-2004-03-10,Jernej Rebersak,SK,0,Downhill
-2004-03-10,Alexandre Pittin,FR,0,Downhill
+2004-03-10,Brad Spence,CA,0,Combined
+2004-03-10,Jernej Rebersak,SK,0,Combined
+2004-03-10,Alexandre Pittin,FR,0,Combined
 2004-03-10,Didier Defago,CH,147,Downhill
-2004-03-10,Ole Magnus Kulbeck,NO,0,Super G
+2004-03-10,Ole Magnus Kulbeck,NO,0,Combined
 2004-03-10,Hans Grugger,AT,266,Downhill
 2004-03-10,Silvan Zurbriggen,CH,0,Slalom
 2004-03-10,Alessandro Fattori,IT,211,Downhill
-2004-03-10,Beni Hofer,CH,0,Downhill
+2004-03-10,Beni Hofer,CH,0,Combined
 2004-03-10,Ambrosi Hoffmann,CH,317,Downhill
-2004-03-10,Stephan Thanei,IT,0,Downhill
-2004-03-10,Andrej Sporn,SK,0,Slalom
+2004-03-10,Stephan Thanei,IT,0,Combined
+2004-03-10,Andrej Sporn,SK,0,Combined
 2004-03-10,Andreas Schifferer,AT,296,Downhill
 2004-03-10,Fritz Strobl,AT,512,Downhill
-2004-03-10,Robin Marullaz,FR,0,Downhill
+2004-03-10,Robin Marullaz,FR,0,Combined
 2004-03-10,Hans Knauss,AT,435,Downhill
 2004-03-10,Markus Larsson,SE,0,Slalom
 2004-03-10,Johan Brolenius,SE,0,Slalom
 2004-03-10,Bjarne Solbakken,NO,268,Super G
 2004-03-10,Erik Guay,CA,81,Downhill
-2004-03-10,Alex Antor,AD,0,Downhill
-2004-03-10,Matteo Berbenni,IT,0,Downhill
+2004-03-10,Alex Antor,AD,0,Combined
+2004-03-10,Matteo Berbenni,IT,0,Combined
 2004-03-10,Klaus Kroell,AT,290,Downhill
-2004-03-10,Thomas Graggaber,AT,0,Downhill
+2004-03-10,Thomas Graggaber,AT,0,Combined
 2004-03-10,Hannes Trinkl,AT,212,Downhill
 2004-03-10,Franco Cavegn,CH,74,Downhill
-2004-03-10,Peter Strodl,DE,0,Downhill
-2004-03-10,Giorgio Gros,IT,0,Downhill
+2004-03-10,Peter Strodl,DE,0,Combined
+2004-03-10,Giorgio Gros,IT,0,Combined
 2004-03-10,Paul Accola,CH,94,Downhill
 2004-03-10,Norbert Holzknecht,AT,77,Downhill
-2004-03-10,Enis Becirbegovic,BA,0,Downhill
-2004-03-10,Johnny Albertsen,DK,0,Downhill
+2004-03-10,Enis Becirbegovic,BA,0,Combined
+2004-03-10,Johnny Albertsen,DK,0,Combined
 2004-03-10,Max Rauffer,DE,29,Downhill
-2004-03-10,Marco Sullivan,US,0,Downhill
+2004-03-10,Marco Sullivan,US,0,Combined
 2004-03-10,Nicolas Burtin,FR,70,Downhill
 2004-03-10,Bode Miller,US,105,Giant Slalom
 2004-03-10,Marco Buechel,LI,89,Downhill
 2004-03-10,Scott Macartney,US,0,Super G
 2004-03-10,Michael Gufler,IT,0,Giant Slalom
 2004-03-10,Bruno Kernen,CH,241,Downhill
-2004-03-10,Cornel Zueger,CH,0,Downhill
+2004-03-10,Cornel Zueger,CH,0,Combined
 2004-03-10,Kristian Ghedina,IT,184,Downhill
 2004-03-10,Christoph Gruber,AT,200,Downhill
 2004-03-10,Pierrick Bourgeat,FR,0,Slalom
-2004-03-10,Manuel Carrozza,IT,0,Downhill
-2004-03-10,Daniel Zueger,CH,0,Downhill
+2004-03-10,Manuel Carrozza,IT,0,Combined
+2004-03-10,Daniel Zueger,CH,0,Combined
 2004-03-10,Romed Baumann,AT,6,Downhill

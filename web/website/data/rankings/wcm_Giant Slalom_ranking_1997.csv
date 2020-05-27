@@ -23,7 +23,7 @@ date,name,ath_country,value,specialty
 1996-10-27,Christian Mayer,AT,40,Slalom
 1996-10-27,Didier Plaschy,CH,0,Slalom
 1996-10-27,Guenther Mader,AT,36,Giant Slalom
-1996-10-27,Lasse Kjus,NO,0,Downhill
+1996-10-27,Lasse Kjus,NO,0,Super G
 1996-10-27,Tom Stiansen,NO,9,Slalom
 1996-10-27,Mitja Kunc,SK,16,Giant Slalom
 1996-10-27,Tobias Barnerssoi,DE,11,Giant Slalom
@@ -64,7 +64,7 @@ date,name,ath_country,value,specialty
 1996-11-25,Jeff Piccard,FR,24,Giant Slalom
 1996-11-25,Christian Mayer,AT,40,Slalom
 1996-11-25,Gerhard Koenigsrainer,IT,22,Giant Slalom
-1996-11-25,Lasse Kjus,NO,13,Downhill
+1996-11-25,Lasse Kjus,NO,13,Super G
 1996-11-25,Rolando Riccardo,IT,0,Giant Slalom
 1996-11-25,Hans Petter Buraas,NO,0,Giant Slalom
 1996-11-25,Ryan Oughtred,CA,0,Giant Slalom
@@ -117,7 +117,7 @@ date,name,ath_country,value,specialty
 1996-11-25,Thomas Sykora,AT,2,Slalom
 1996-11-30,Marco Buechel,LI,16,Giant Slalom
 1996-11-30,Tom Stiansen,NO,27,Slalom
-1996-11-30,Lasse Kjus,NO,49,Downhill
+1996-11-30,Lasse Kjus,NO,49,Super G
 1996-11-30,Mitja Kunc,SK,40,Giant Slalom
 1996-11-30,Massimo Zucchelli,IT,0,Giant Slalom
 1996-11-30,Tobias Barnerssoi,DE,35,Giant Slalom
@@ -223,7 +223,7 @@ date,name,ath_country,value,specialty
 1996-12-22,Michael von Gruenigen,CH,280,Giant Slalom
 1996-12-22,Christian Mayer,AT,90,Slalom
 1996-12-22,Drago Grubelnik,SK,0,Slalom
-1996-12-22,Lasse Kjus,NO,49,Downhill
+1996-12-22,Lasse Kjus,NO,49,Super G
 1996-12-22,Hans Petter Buraas,NO,0,Giant Slalom
 1996-12-22,Jeff Piccard,FR,24,Giant Slalom
 1996-12-22,Benjamin Raich,AT,0,Giant Slalom
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 1997-01-05,Thomas Grandi,CA,89,Giant Slalom
 1997-01-05,Fredrik Nyberg,SE,207,Giant Slalom
 1997-01-05,Vincent Millet,FR,32,Giant Slalom
-1997-01-05,Lasse Kjus,NO,49,Downhill
+1997-01-05,Lasse Kjus,NO,49,Super G
 1997-01-05,Michael von Gruenigen,CH,380,Giant Slalom
 1997-01-05,Guenther Mader,AT,108,Giant Slalom
 1997-01-05,Hermann Maier,AT,82,Super G
@@ -296,7 +296,7 @@ date,name,ath_country,value,specialty
 1997-01-14,Tobias Barnerssoi,DE,49,Giant Slalom
 1997-01-14,Paul Accola,CH,69,Giant Slalom
 1997-01-14,Massimo Zucchelli,IT,11,Giant Slalom
-1997-01-14,Lasse Kjus,NO,85,Downhill
+1997-01-14,Lasse Kjus,NO,85,Super G
 1997-01-14,Achim Vogt,LI,29,Giant Slalom
 1997-01-14,Marcel Sulliger,CH,7,Giant Slalom
 1997-01-14,Thomas Bergamelli,IT,0,Giant Slalom
@@ -369,7 +369,7 @@ date,name,ath_country,value,specialty
 1997-03-08,Didier Plaschy,CH,6,Slalom
 1997-03-08,Christophe Saioni,FR,35,Giant Slalom
 1997-03-08,Iwan Bormolini,IT,22,Giant Slalom
-1997-03-08,Lasse Kjus,NO,85,Downhill
+1997-03-08,Lasse Kjus,NO,85,Super G
 1997-03-08,Thomas Sykora,AT,2,Slalom
 1997-03-08,Fredrik Nyberg,SE,265,Giant Slalom
 1997-03-08,Markus Eberle,DE,15,Slalom
@@ -438,7 +438,7 @@ date,name,ath_country,value,specialty
 1997-03-15,Mitja Kunc,SK,52,Giant Slalom
 1997-03-15,Tobias Barnerssoi,DE,76,Giant Slalom
 1997-03-15,Andreas Ertl,DE,18,Giant Slalom
-1997-03-15,Lasse Kjus,NO,101,Downhill
+1997-03-15,Lasse Kjus,NO,101,Super G
 1997-03-15,Siegfried Voglreiter,AT,191,Giant Slalom
 1997-03-15,Massimo Zucchelli,IT,11,Giant Slalom
 1997-03-15,Marco Buechel,LI,16,Giant Slalom
