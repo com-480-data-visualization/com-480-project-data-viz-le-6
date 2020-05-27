@@ -1,4 +1,8 @@
 //Adapted from https://bl.ocks.org/jrzief/70f1f8a5d066a286da3a1e699823470f
+function get_suffix() {
+    return isMen ? 'wcm' : 'wcf';
+}
+
 function create_ranking(rankingId, dataFile, year, locations){
 
     load_new_events(locations);
@@ -33,11 +37,10 @@ function create_ranking(rankingId, dataFile, year, locations){
 
     }
 
+    const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
+    const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
 
-    function get_suffix() {
-        return isMen ? 'wcm' : 'wcf';
-    }
-
+    //console.log(colors("Downhill"));
 
     function get_color(specialty) {
 
@@ -110,7 +113,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 d.lastValue = +d.value,
                 d.value = isNaN(d.value) ? 0 : d.value,
                 d.date = d.date,
-                d.colour = get_color(d.specialty)
+                d.colour = colors(d.specialty)
                 //d.colour = d3.hsl(Math.random() * 360, 0.75, 0.75)
         });
     
