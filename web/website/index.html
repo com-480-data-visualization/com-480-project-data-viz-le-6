@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="./css/map.css">
     <link rel="stylesheet" href="./css/ranking.css">
     <link rel="stylesheet" href="./css/race.css">
+    <link rel="stylesheet" href="./css/auto-complete.css">
 
     <title>Evolution dashboard</title>
 </head>
@@ -140,7 +141,6 @@
             </div>
             <div class="full_height col-3">
                 <div class="full_height col-12 border rounded mx-2">
-                    <p>PERSONAL INFO PAGE</p>
                     <div class="media">
                         <!--<img class="align-self-start mr-3 img-thumbnail" id="athtlete_img" src="./img/placeholder.png"
                             alt="">-->
@@ -148,7 +148,33 @@
                             <h5 class="mt-0" id="athlete">Unknown</h5>
                         </div>
                     </div>
-                    <!--<img class="img-fluid" src="img/sketch_personal info.png" style="width:200px">-->
+                    <div class="ath_profile">
+                        <div class="time">
+                          <input type="radio" id="career" name="time" value="career" checked="checked">
+                          <label for="male">Career</label><br>
+                          <input type="radio" id="until" name="time" value="until">
+                          <label for="female">Career until...</label><br>
+                          <input type="radio" id="season" name="time" value="season">
+                          <label for="other">Season</label>
+                        </div>
+                        <div class="search">
+                          <input id="ath_search" type="text" placeholder="Athlete name...">
+                          <button id="search_button" type="button">Update</button> 
+                        </div>
+                        <div class="header">
+                          <img id="ath_photo" src="./img/placeholder.png" style="width:auto;height:100px;">
+                          <div class="ath_info">
+                            <div id="ath_name">No skier selected</div>
+                            <div id="ath_details">
+                            </div>
+                          </div>
+                        </div>
+                        <h3>Mean points per event</h3>
+                        <svg id="mean_graph"/>
+                        <h3>Points per season, per event</h3>
+                        <svg id="legend_career_graph"/>
+                        <svg id="career_graph"/>
+                      </div>
                 </div>
             </div>
         </div>
@@ -182,8 +208,11 @@
     <script type="text/javascript" src="./js/oam_head.js"></script>
     <script src="./js/map.js"></script>
     <script src="./js/graph.js"></script>
-    <script src="js/ranking.js"></script>
-    <script src="js/race.js"></script>
+    <script src="./js/ranking.js"></script>
+    <script src="./js/race.js"></script>
+    <script src="./js/auto-complete.min.js"></script>
+    <script src="./js/legend.js"></script>
+    <script src="./js/profile.js"></script>
 
     <script>
         var currentRanking = ''

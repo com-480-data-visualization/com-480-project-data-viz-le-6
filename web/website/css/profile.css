@@ -1,0 +1,15 @@
+.ath_profile .ath_info {
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align:top;
+    font-size: large;
+  }
+  .ath_profile #ath_name {
+    font-weight: bold;
+  }
+  .ath_profile #ath_details {
+    margin-top: 10px;
+  }
+  .ath_profile #ath_details p {
+    margin: 0;
+  }
