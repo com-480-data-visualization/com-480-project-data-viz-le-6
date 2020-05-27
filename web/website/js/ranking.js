@@ -1,4 +1,8 @@
 //Adapted from https://bl.ocks.org/jrzief/70f1f8a5d066a286da3a1e699823470f
+function get_suffix() {
+    return isMen ? 'wcm' : 'wcf';
+}
+
 function create_ranking(rankingId, dataFile, year, locations){
 
     load_new_events(locations);
@@ -33,10 +37,6 @@ function create_ranking(rankingId, dataFile, year, locations){
 
     }
 
-
-    function get_suffix() {
-        return isMen ? 'wcm' : 'wcf';
-    }
 
 
     function get_color(specialty) {

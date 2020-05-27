@@ -33,8 +33,8 @@ var markersList = {};
 
 var markers = L.layerGroup().addTo(mymap);
 
-function help(){
-    console.log("dab");
+function load_race(date){
+    setup(date, "data/race_results_"+get_suffix()+".csv", true);
 }
 
 function getPopup(venue, type) {
@@ -47,7 +47,7 @@ function getPopup(venue, type) {
         var date = type[i].date;
         //Do something
         var className = "click" + event + date;
-        links += '<a onclick="help()" class="'+className+'" href="#"  id="'+className+'">'+ event +'</a> <br>';
+        links += '<a onclick="load_race('+"'"+ date +"'" +')" class="'+className+'" href="#" >'+ event +'</a> <br>';
         //links += '<script> $(".'+ className + '").on("click", function(){console.log("dab"); </script>'
 
         //jQuery("body").on('click','a.'+className, function(e){
@@ -61,10 +61,6 @@ function getPopup(venue, type) {
 
     html_text = "<h3>"+venue+"</h3> <br>" +
         '<div style="text-align: center;"><img src="./img/events/' + venueImage(venue)  + '"  width="150px" /></div><br>'+links;
-
-
-
-
 
 
     return html_text;
