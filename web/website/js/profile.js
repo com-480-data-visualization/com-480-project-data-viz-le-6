@@ -129,15 +129,17 @@ function loadAthlete(name, currentYear = 2020) {
     d3.json("./data/ath.json").then(function (data) {
         const photo = $(".ath_photo");
         let photoLink = data[name]['photo'];
-        if (photoLink == "") {
+        if (photoLink == "" || !photoLink) {
             photoLink = 'img/placeholder_male.jpg'
         }
         photo.attr('src', photoLink);
         const nameEl = $(".ath_name");
         nameEl.html(name);
-        $(".ath_details").html("") ;
-        $(".ath_details").append("<p>Date of birth: " + data[name]['bd']+"</p>");
-        $(".ath_details").append("<p>Club: " + data[name]['club']+"</p>");
+        $(".ath_details").html("");
+        const birthdate = data[name]['bd'];
+        $(".ath_details").append("<p>Date of birth: " + (birthdate ? birthdate : "") +"</p>");
+        const club = data[name]['club'];
+        $(".ath_details").append("<p>Club: " + (club ? club : "") +"</p>");
         $(".ath_details").append("<p>Country: " + data[name]['country']+"</p>");
     });
 
