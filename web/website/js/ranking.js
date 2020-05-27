@@ -127,7 +127,7 @@ function create_ranking(rankingId, dataFile, year, locations){
 
         // console.log(data[1])
     
-        let yearSlice = datevalues[index][1]
+        let yearSlice = datevalues[index][1];
         yearSlice.forEach((d, i) => d.rank = i);
     
         //console.log(yearSlice)
@@ -226,7 +226,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .attr('x', width - margin.right)
             .attr('y', height - 60)
             .style('text-anchor', 'end')
-            .html(locations[formatDate(datevalues[index][0], false)])
+            .html(locations[formatDate(datevalues[index][0], false)][0])
             .style("font-size", `${width/15}px`)
 
 
@@ -415,7 +415,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .remove();
     
             yearText.html(formatDate(datevalues[index][0]));
-            event_name.html(locations[formatDate(datevalues[index][0], false)]);
+            event_name.html(locations[formatDate(datevalues[index][0], false)][0]);
             //if(index == datevalues.length) ticker.stop();
         }
         //}, tickDuration);
