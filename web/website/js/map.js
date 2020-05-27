@@ -3,20 +3,13 @@ var osm = L.tileLayer('http://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18
 });
 
-var oa_summer = oam.api.tilelayer(L, 'oa_map');
 var oa_winter = oam.api.tilelayer(L, 'oa_map_winter');
 
 var mymap = L.map('mapid', {
     center: [46, 8],
     zoom: 7,
-    layers: [oa_summer]
+    layers: [oa_winter]
 });
-
-L.control.layers({
-    "Outdooractive Summer": oa_summer,
-    "Outdooractive Winter": oa_winter,
-    "OpenStreetMap": osm
-}).addTo(mymap);
 
 
 var LeafIcon = L.Icon.extend({
