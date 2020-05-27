@@ -124,7 +124,7 @@ function drawGraphEvent(data, categories, colors, maxPoints) {
 }
 
 function loadAthlete(name, currentYear = 2020) {
-    console.log(name)
+    selectedAthlete=name
     // Modify biography
     d3.json("./data/ath.json").then(function (data) {
         const photo = $(".ath_photo");
