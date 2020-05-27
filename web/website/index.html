@@ -166,7 +166,7 @@
                         </div>
 
                         <button type="button" class="btn btn-primary btn-block" data-toggle="modal"
-                            data-target="#profile-modal">
+                            data-target="#profile-modal" id="see-stats" disabled>
                             See stats
                         </button>
                     </div>
@@ -279,7 +279,7 @@
         var isMen = false;
         var tabToRaceType = {}
         var raceTypeToDatafileSuffix = {}
-        var selectedAthlete = 'Beat Feuz'
+        var selectedAthlete = ''
 
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
             currentRanking = tabToRaceType[e.target.id]

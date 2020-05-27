@@ -202,6 +202,7 @@ function loadAthlete(name, currentYear = 2020) {
             data.push({ "event": key, "value": [(data_tmp[key][1] == 0 ? 0 : data_tmp[key][0] / data_tmp[key][1])] });
         }
         drawGraphEvent(data, categories, colors, maxPoints);
+        $('#see-stats').prop('disabled', false);
     });
 }
 
@@ -236,5 +237,5 @@ whenDocumentLoaded(() => {
             },
         });
     });
-    loadAthlete(selectedAthlete);
+    //loadAthlete(selectedAthlete);
 });
