@@ -182,11 +182,12 @@
     <!-- Modal -->
     <div class="modal fade" id="profile-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
         aria-hidden="true">
-        <div class="modal-dialog modal-lg">
+        <div class="modal-dialog modal-lg modal-dialog-scrollable">
             <div class="modal-content">
                 <div class="modal-header">
                     <div class="media ">
-                        <img src="./img/placeholder.png" class="ath_photo align-self-start mr-3 img-thumbnail">
+                        <img id="ath-photo-modal" src="./img/placeholder.png" class="ath_photo align-self-start mr-3 img-thumbnail" style=" max-width: 100px;
+                        max-height: 100px;">
                         <div class="media-body">
                             <h5 class="ath_name mt-0">No skier selected</h5>
                             <div class="ath_details">
@@ -236,9 +237,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-dark" data-dismiss="modal">Close</button>
             </div>
         </div>
     </div>
