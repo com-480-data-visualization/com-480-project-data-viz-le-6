@@ -1,60 +1,60 @@
-text {
+#interactive-rankings text {
     font-size: 16px;
     font-family: Open Sans, sans-serif;
 }
 
-text.title {
+#interactive-rankings text.title {
     font-size: 24px;
     font-weight: 500;
 }
 
-text.subTitle {
+#interactive-rankings text.subTitle {
     font-weight: 500;
     fill: #777777;
 }
 
-text.caption {
+#interactive-rankings text.caption {
     font-weight: 400;
     font-size: 14px;
     fill: #777777;
 }
 
-text.label {
+#interactive-rankings text.label {
     font-weight: 600;
 }
 
-text.valueLabel {
+#interactive-rankings text.valueLabel {
     font-weight: 300;
 }
 
-text.yearText {
+#interactive-rankings text.yearText {
     font-size: 64px;
     font-weight: 700;
     opacity: 0.25;
 }
 
-text.eventName {
+#interactive-rankings text.eventName {
     font-weight: 700;
     opacity: 0.25;
 }
 
-.tick text {
+#interactive-rankings .tick text {
     fill: #777777;
 }
 
-.xAxis .tick:nth-child(2) text {
+#interactive-rankings .xAxis .tick:nth-child(2) text {
     text-anchor: start;
 }
 
-.tick line {
+#interactive-rankings .tick line {
     shape-rendering: CrispEdges;
     stroke: #dddddd;
 }
 
-.tick line.origin {
+#interactive-rankings  .tick line.origin {
     stroke: #aaaaaa;
 }
 
-path.domain {
+#interactive-rankings path.domain {
     display: none;
 }
