@@ -6,7 +6,12 @@ function venueImage(venue) {
 }
 
 function setup(date, file, isMen) {
-
+    $('#venue').html('')    
+    $('#event').html('')   
+    $('#country_name').html('')   
+    $('#flag').html('') 
+    $('#race-image').html('')  
+    $('#race-table').html('')
 
     function centisToMinutesAndSeconds(centis) {
         if (centis == 0) {
@@ -47,10 +52,8 @@ function setup(date, file, isMen) {
         console.log(encodeURI(src));
         $("#race-image").html('<img class="img-fluid rounded" src='+encodeURI(src)+'>');
 
-        var img = document.createElement("img");
-        img.src = "https://www.countryflags.io/" + filtered[0].country + "/flat/64.png";
-        var src = document.getElementById("flag");
-        src.appendChild(img);
+        var src = "https://www.countryflags.io/" + filtered[0].country + "/flat/64.png";
+        $('#flag').html('<img src="'+src+'" class="img-fluid rounded">')
 
         const table = d3.select("#race-table").append("table").attr('class', 'table table-striped table-hover');
 

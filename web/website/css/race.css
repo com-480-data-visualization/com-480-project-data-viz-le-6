@@ -1,19 +1,4 @@
-#race {
-  width: 30%;
-  float: left;
-}
 
-#race-country {
-  width: 30%;
-  float: left;
-  text-align: center;
-}
-
-#race-image {
-  width: 40%;
-  float: right;
-  text-align: right;
-}
 
 #race-table{
 	text-align: center;
