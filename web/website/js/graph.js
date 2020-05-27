@@ -6,6 +6,8 @@ function create_graph(container, detailContainer,dataFile) {
     var svg = d3.select(container)
     var width = $(container).width()
     var height = $(container).height()
+    console.log(width + " "+ height)
+    var radius = 7
 
    // var color = d3.scaleOrdinal(d3.schemeCategory20);
     var simulation = d3.forceSimulation()
@@ -31,23 +33,23 @@ function create_graph(container, detailContainer,dataFile) {
 
 
         var circles = node.append("circle")
-            .attr("r", 5)
-            //.attr("fill", function (d) { return color(d.group); })
+            .attr("r", radius)
+            .attr("class", getNodeClass)
             .call(d3.drag()
                 .on("start", dragstarted)
                 .on("drag", dragged)
                 .on("end", dragended))
             
-
-        var labels = node.append("text")
+        colorNodes()
+        /*var labels = node.append("text")
             .text(function (d) {
-                return d.id;
+                return d.name;
             })
             .attr('x', 6)
-            .attr('y', 3);
+            .attr('y', 3);*/
 
         node.append("title")
-            .text(function (d) { return d.id; });
+            .text(function (d) { return d.name; });
 
         simulation
             .nodes(graph.nodes)
@@ -67,6 +69,8 @@ function create_graph(container, detailContainer,dataFile) {
                 .attr("transform", function (d) {
                     return "translate(" + d.x + "," + d.y + ")";
                 })
+                .attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
+                .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
         }
     });
 
@@ -88,6 +92,35 @@ function create_graph(container, detailContainer,dataFile) {
     }
 
     function showInfos(d){
+
+        colorNodes()
+        d3.select(this).select("circle")
+                       .style("fill", "pink")
+
         $(detailContainer).html('<h1>'+d.id+'</h1>')
+    }
+
+    function getNodeClass(d){
+        switch(d.group){
+            case 0: return "athlete"
+            case 1: return "overall"
+            case 2: return "downhill"
+            case 3: return "super-g"
+            case 4: return "giant-slalom"
+            case 5: return "slalom"
+            case 6: return "combined"
+            case 7: return "parallel"
+        }
+    }
+
+    function colorNodes(){
+        d3.selectAll('.nodes>g>circle.athlete').style('fill', 'black')
+        d3.selectAll('.nodes>g>circle.overall').style('fill', 'red')
+        d3.selectAll('.nodes>g>circle.downhill').style('fill', 'blue')
+        d3.selectAll('.nodes>g>circle.super-g').style('fill', 'purple')
+        d3.selectAll('.nodes>g>circle.giant-slalom').style('fill', 'yellow')
+        d3.selectAll('.nodes>g>circle.slalom').style('fill', 'orange')
+        d3.selectAll('.nodes>g>circle.combined').style('fill', 'green')
+        d3.selectAll('.nodes>g>circle.parallel').style('fill', 'gray')
     }
 }

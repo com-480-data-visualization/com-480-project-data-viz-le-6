@@ -3,7 +3,7 @@ function create_graph(container, detailContainer,dataFile) {
     var svg = d3.select(container),
         width = +svg.attr("width"),
         height = +svg.attr("height");
-
+    var radius = 5
    // var color = d3.scaleOrdinal(d3.schemeCategory20);
     var simulation = d3.forceSimulation()
         .force("link", d3.forceLink().id(function (d) { return d.id; }))
@@ -28,7 +28,7 @@ function create_graph(container, detailContainer,dataFile) {
 
 
         var circles = node.append("circle")
-            .attr("r", 5)
+            .attr("r", radius)
             //.attr("fill", function (d) { return color(d.group); })
             .call(d3.drag()
                 .on("start", dragstarted)
@@ -38,7 +38,7 @@ function create_graph(container, detailContainer,dataFile) {
 
         var labels = node.append("text")
             .text(function (d) {
-                return d.id;
+                return d.name;
             })
             .attr('x', 6)
             .attr('y', 3);
@@ -64,6 +64,8 @@ function create_graph(container, detailContainer,dataFile) {
                 .attr("transform", function (d) {
                     return "translate(" + d.x + "," + d.y + ")";
                 })
+                .attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
+                .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
         }
     });
 
