@@ -19,7 +19,7 @@ date,name,ath_country,value,specialty
 1989-12-10,Hubert Strolz,AT,2,Giant Slalom
 1989-12-10,Luc Alphand,FR,0,Super G
 1989-12-10,Danilo Sbardellotto,IT,0,Downhill
-1989-12-10,Markus Wasmeier,DE,10,Combined
+1989-12-10,Markus Wasmeier,DE,10,Super G
 1989-12-10,Konrad  Kurt Ladstaetter,IT,6,Slalom
 1989-12-10,Lars Boerje Eriksson,SE,12,Super G
 1989-12-10,Lasse Kjus,NO,0,Giant Slalom
@@ -47,7 +47,7 @@ date,name,ath_country,value,specialty
 1989-12-12,Hubert Strolz,AT,6,Giant Slalom
 1989-12-12,Lasse Kjus,NO,0,Giant Slalom
 1989-12-12,Luc Alphand,FR,10,Super G
-1989-12-12,Markus Wasmeier,DE,10,Combined
+1989-12-12,Markus Wasmeier,DE,10,Super G
 1989-12-12,Peter Rzehak,AT,0,Downhill
 1989-12-12,Danilo Sbardellotto,IT,0,Downhill
 1989-12-12,Konrad  Kurt Ladstaetter,IT,15,Slalom
@@ -74,7 +74,7 @@ date,name,ath_country,value,specialty
 1990-01-29,Kjetil Andre Aamodt,NO,0,Giant Slalom
 1990-01-29,Peter Rzehak,AT,0,Downhill
 1990-01-29,Urs Kaelin,CH,3,Giant Slalom
-1990-01-29,Markus Wasmeier,DE,10,Combined
+1990-01-29,Markus Wasmeier,DE,18,Super G
 1990-01-29,Hans-Joerg Tauscher,DE,10,Super G
 1990-01-29,Peter Mueller,CH,1,Super G
 1990-01-29,Leonhard Stock,AT,1,Downhill
@@ -83,18 +83,18 @@ date,name,ath_country,value,specialty
 1990-01-29,Fredrik Nyberg,SE,0,Giant Slalom
 1990-01-29,Helmut Hoeflehner,AT,7,Downhill
 1990-01-29,Stephan Eberharter,AT,9,Super G
-1990-01-29,Hannes Zehentner,DE,0,Downhill
-1990-01-29,Jean Luc Cretier,FR,11,Super G
 1990-01-29,Josef Polig,IT,8,Super G
+1990-01-29,Jean Luc Cretier,FR,11,Super G
+1990-01-29,Hannes Zehentner,DE,0,Downhill
 1990-01-29,Bernard Fahner,CH,0,Downhill
 1990-01-29,Franz Heinzer,CH,9,Downhill
 1990-01-29,Luc Alphand,FR,10,Super G
 1990-01-29,Lars Boerje Eriksson,SE,42,Super G
-1990-01-29,Pirmin Zurbriggen,CH,33,Downhill
+1990-01-29,Pirmin Zurbriggen,CH,39,Downhill
 1990-01-29,Karl Alpiger,CH,0,Super G
 1990-01-29,Armand Schiele,FR,24,Super G
 1990-01-29,Peter Runggaldier,IT,15,Super G
-1990-01-29,Atle Skaardal,NO,12,Downhill
+1990-01-29,Atle Skaardal,NO,23,Downhill
 1990-01-29,Ole Kristian Furuseth,NO,23,Giant Slalom
 1990-01-29,Hans Stuffer,DE,5,Super G
 1990-01-29,Frank Piccard,FR,42,Super G
@@ -105,7 +105,6 @@ date,name,ath_country,value,specialty
 1990-01-29,Guenther Mader,AT,16,Giant Slalom
 1990-01-29,Konrad  Kurt Ladstaetter,IT,17,Slalom
 1990-01-30,Urs Kaelin,CH,3,Giant Slalom
-1990-01-30,Atle Skaardal,NO,27,Downhill
 1990-01-30,Peter Runggaldier,IT,15,Super G
 1990-01-30,Hans-Joerg Tauscher,DE,10,Super G
 1990-01-30,Jan Einar Thorsen,NO,5,Super G
@@ -117,43 +116,44 @@ date,name,ath_country,value,specialty
 1990-01-30,Karl Alpiger,CH,3,Super G
 1990-01-30,Bernard Fahner,CH,0,Downhill
 1990-01-30,Peter Mueller,CH,1,Super G
-1990-01-30,Pirmin Zurbriggen,CH,42,Downhill
+1990-01-30,Pirmin Zurbriggen,CH,48,Downhill
 1990-01-30,Jean Luc Cretier,FR,17,Super G
 1990-01-30,Kjetil Andre Aamodt,NO,2,Giant Slalom
 1990-01-30,Ole Kristian Furuseth,NO,43,Giant Slalom
-1990-01-30,Steve Locher,CH,25,Super G
+1990-01-30,Atle Skaardal,NO,38,Downhill
 1990-01-30,Frank Piccard,FR,52,Super G
+1990-01-30,Steve Locher,CH,25,Super G
 1990-01-30,Guenther Mader,AT,41,Giant Slalom
-1990-01-30,Lars Boerje Eriksson,SE,54,Super G
 1990-01-30,Franz Heinzer,CH,9,Downhill
+1990-01-30,Lars Boerje Eriksson,SE,54,Super G
 1990-01-30,Niklas Henning,SE,36,Super G
-1990-01-30,Markus Wasmeier,DE,17,Combined
 1990-01-30,Hans Stuffer,DE,5,Super G
 1990-01-30,Hannes Zehentner,DE,4,Downhill
-1990-01-30,Daniel Mahrer,CH,0,Downhill
 1990-01-30,Stephan Eberharter,AT,14,Super G
+1990-01-30,Daniel Mahrer,CH,0,Downhill
 1990-01-30,Luc Alphand,FR,10,Super G
 1990-01-30,Danilo Sbardellotto,IT,4,Downhill
 1990-01-30,Leonhard Stock,AT,1,Downhill
 1990-01-30,Josef Polig,IT,9,Super G
 1990-01-30,Peter Rzehak,AT,0,Downhill
+1990-01-30,Markus Wasmeier,DE,25,Super G
 1990-01-30,Lasse Kjus,NO,0,Giant Slalom
 1990-01-30,Hubert Strolz,AT,15,Giant Slalom
 1990-02-06,Hannes Zehentner,DE,4,Downhill
 1990-02-06,Urs Kaelin,CH,3,Giant Slalom
-1990-02-06,Lasse Kjus,NO,0,Giant Slalom
+1990-02-06,Daniel Mahrer,CH,5,Downhill
 1990-02-06,Fredrik Nyberg,SE,0,Giant Slalom
 1990-02-06,Steve Locher,CH,25,Super G
-1990-02-06,Armand Schiele,FR,35,Super G
 1990-02-06,Jan Einar Thorsen,NO,5,Super G
+1990-02-06,Lasse Kjus,NO,0,Giant Slalom
 1990-02-06,Lars Boerje Eriksson,SE,56,Super G
 1990-02-06,Frank Piccard,FR,52,Super G
-1990-02-06,Daniel Mahrer,CH,5,Downhill
+1990-02-06,Armand Schiele,FR,35,Super G
 1990-02-06,Peter Rzehak,AT,0,Downhill
 1990-02-06,Jean Luc Cretier,FR,17,Super G
 1990-02-06,Konrad  Kurt Ladstaetter,IT,28,Slalom
 1990-02-06,Kjetil Andre Aamodt,NO,2,Giant Slalom
-1990-02-06,Markus Wasmeier,DE,27,Combined
+1990-02-06,Markus Wasmeier,DE,35,Super G
 1990-02-06,Danilo Sbardellotto,IT,12,Downhill
 1990-02-06,Niklas Henning,SE,39,Super G
 1990-02-06,Luc Alphand,FR,10,Super G
@@ -162,37 +162,37 @@ date,name,ath_country,value,specialty
 1990-02-06,Leonhard Stock,AT,1,Downhill
 1990-02-06,Stephan Eberharter,AT,18,Super G
 1990-02-06,Paul Accola,CH,11,Slalom
-1990-02-06,Atle Skaardal,NO,27,Downhill
+1990-02-06,Atle Skaardal,NO,38,Downhill
 1990-02-06,Hans Stuffer,DE,15,Super G
 1990-02-06,Helmut Hoeflehner,AT,8,Downhill
-1990-02-06,Ole Kristian Furuseth,NO,43,Giant Slalom
-1990-02-06,Pirmin Zurbriggen,CH,67,Downhill
+1990-02-06,Josef Polig,IT,9,Super G
+1990-02-06,Pirmin Zurbriggen,CH,73,Downhill
 1990-02-06,Hans-Joerg Tauscher,DE,10,Super G
+1990-02-06,Ole Kristian Furuseth,NO,43,Giant Slalom
 1990-02-06,Karl Alpiger,CH,3,Super G
 1990-02-06,Bernard Fahner,CH,7,Downhill
 1990-02-06,Peter Mueller,CH,1,Super G
 1990-02-06,Guenther Mader,AT,61,Giant Slalom
-1990-02-06,Josef Polig,IT,9,Super G
 1990-02-06,Peter Runggaldier,IT,30,Super G
 1990-03-10,Steve Locher,CH,25,Super G
+1990-03-10,Niklas Henning,SE,39,Super G
 1990-03-10,Peter Mueller,CH,1,Super G
-1990-03-10,Pirmin Zurbriggen,CH,92,Downhill
+1990-03-10,Pirmin Zurbriggen,CH,98,Downhill
 1990-03-10,Fredrik Nyberg,SE,2,Giant Slalom
 1990-03-10,Leonhard Stock,AT,1,Downhill
-1990-03-10,Niklas Henning,SE,39,Super G
 1990-03-10,Peter Rzehak,AT,1,Downhill
 1990-03-10,Urs Kaelin,CH,3,Giant Slalom
 1990-03-10,Kjetil Andre Aamodt,NO,13,Giant Slalom
 1990-03-10,Lasse Kjus,NO,4,Giant Slalom
-1990-03-10,Markus Wasmeier,DE,27,Combined
+1990-03-10,Markus Wasmeier,DE,35,Super G
 1990-03-10,Danilo Sbardellotto,IT,24,Downhill
 1990-03-10,Luc Alphand,FR,10,Super G
 1990-03-10,Hubert Strolz,AT,33,Giant Slalom
 1990-03-10,Franz Heinzer,CH,10,Downhill
 1990-03-10,Stephan Eberharter,AT,26,Super G
 1990-03-10,Hans Stuffer,DE,30,Super G
+1990-03-10,Atle Skaardal,NO,47,Downhill
 1990-03-10,Josef Polig,IT,9,Super G
-1990-03-10,Atle Skaardal,NO,36,Downhill
 1990-03-10,Hans-Joerg Tauscher,DE,10,Super G
 1990-03-10,Peter Runggaldier,IT,37,Super G
 1990-03-10,Helmut Hoeflehner,AT,8,Downhill

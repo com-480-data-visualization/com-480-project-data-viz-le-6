@@ -56,7 +56,7 @@ date,name,ath_country,value,specialty
 2013-11-30,Joachim Puchner,AT,2,Super G
 2013-11-30,Manuel Kramer,AT,0,Combined
 2013-11-30,Bode Miller,US,15,Downhill
-2013-11-30,Jared Goldberg,US,0,Downhill
+2013-11-30,Jared Goldberg,US,0,Combined
 2013-11-30,Igor Zakurdaev,KZ,0,Combined
 2013-11-30,Benjamin Thomsen,CA,0,Downhill
 2013-11-30,Luca De Aliprandini,IT,0,Giant Slalom
@@ -92,7 +92,7 @@ date,name,ath_country,value,specialty
 2013-11-30,Christoffer Faarup,DK,0,Combined
 2013-11-30,Ondrej Bank,CZ,0,Combined
 2013-11-30,Kjetil Jansrud,NO,10,Downhill
-2013-11-30,Martin Cater,SK,0,Downhill
+2013-11-30,Martin Cater,SK,0,Combined
 2013-11-30,Bjoernar Neteland,NO,0,Combined
 2013-11-30,Frederic Berthold,AT,0,Combined
 2013-11-30,Bryce Bennett,US,0,Combined
@@ -149,7 +149,7 @@ date,name,ath_country,value,specialty
 2013-12-06,Conrad Pridy,CA,0,Downhill
 2013-12-06,Matteo Marsaglia,IT,0,Super G
 2013-12-06,Siegmar Klotz,IT,0,Downhill
-2013-12-06,Martin Cater,SK,0,Downhill
+2013-12-06,Martin Cater,SK,0,Combined
 2013-12-06,Arnaud Alessandria,MC,0,Combined
 2013-12-06,Josef Ferstl,DE,0,Super G
 2013-12-06,Vitus Lueoend,CH,0,Combined
@@ -172,7 +172,7 @@ date,name,ath_country,value,specialty
 2013-12-06,Jeffrey Frisch,CA,0,Downhill
 2013-12-06,Brice Roger,FR,25,Downhill
 2013-12-06,Ivica Kostelic,HR,0,Slalom
-2013-12-06,Jared Goldberg,US,0,Downhill
+2013-12-06,Jared Goldberg,US,0,Combined
 2013-12-06,Carlo Janka,CH,34,Super G
 2013-12-06,Adrian Smiseth Sejersted,NO,0,Downhill
 2013-12-06,Bjoernar Neteland,NO,0,Combined
@@ -221,8 +221,8 @@ date,name,ath_country,value,specialty
 2013-12-21,Tobias Stechert,DE,26,Downhill
 2013-12-21,Andreas Strodl,DE,0,Combined
 2013-12-21,Joachim Puchner,AT,8,Super G
-2013-12-21,Martin Cater,SK,0,Downhill
-2013-12-21,Jared Goldberg,US,0,Downhill
+2013-12-21,Martin Cater,SK,0,Combined
+2013-12-21,Jared Goldberg,US,0,Combined
 2013-12-21,Paolo Pangrazzi,IT,0,Combined
 2013-12-21,Thomas Baldwin,GB,0,Combined
 2013-12-21,Fabio Renz,DE,0,Combined
@@ -346,7 +346,7 @@ date,name,ath_country,value,specialty
 2013-12-29,Alek Glebov,RU,0,Super G
 2013-12-29,Mattia Casse,IT,0,Super G
 2013-12-29,Conrad Pridy,CA,2,Downhill
-2013-12-29,Martin Cater,SK,0,Downhill
+2013-12-29,Martin Cater,SK,0,Combined
 2013-12-29,Fabio Renz,DE,0,Combined
 2013-12-29,Doglas Hedin,SE,0,Combined
 2013-12-29,Alexandre Bouillot,FR,0,Combined
@@ -379,7 +379,7 @@ date,name,ath_country,value,specialty
 2013-12-29,Werner Heel,IT,100,Downhill
 2013-12-29,Manuel Kramer,AT,0,Combined
 2013-12-29,Jan Hudec,CA,92,Super G
-2013-12-29,Jared Goldberg,US,0,Downhill
+2013-12-29,Jared Goldberg,US,0,Combined
 2013-12-29,Paolo Pangrazzi,IT,0,Combined
 2013-12-29,Bode Miller,US,80,Downhill
 2013-12-29,Luca De Aliprandini,IT,0,Giant Slalom
@@ -416,7 +416,7 @@ date,name,ath_country,value,specialty
 2014-01-18,Tobias Stechert,DE,26,Downhill
 2014-01-18,Didier Defago,CH,98,Super G
 2014-01-18,Klemen Kosi,SK,0,Combined
-2014-01-18,Martin Cater,SK,1,Downhill
+2014-01-18,Martin Cater,SK,1,Combined
 2014-01-18,Andrej Sporn,SK,11,Downhill
 2014-01-18,Andreas Strodl,DE,0,Combined
 2014-01-18,David Poisson,FR,42,Downhill
@@ -428,7 +428,7 @@ date,name,ath_country,value,specialty
 2014-01-18,Frederic Berthold,AT,0,Combined
 2014-01-18,Kjetil Jansrud,NO,132,Downhill
 2014-01-18,Maxence Muzaton,FR,0,Combined
-2014-01-18,Jared Goldberg,US,22,Downhill
+2014-01-18,Jared Goldberg,US,22,Combined
 2014-01-18,Igor Zakurdaev,KZ,0,Combined
 2014-01-18,Ted Ligety,US,0,Giant Slalom
 2014-01-18,Bjoernar Neteland,NO,0,Combined
@@ -599,11 +599,11 @@ date,name,ath_country,value,specialty
 2014-01-25,Igor Zakurdaev,KZ,0,Combined
 2014-01-25,Josef Ferstl,DE,0,Super G
 2014-01-25,Andrej Sporn,SK,12,Downhill
-2014-01-25,Martin Cater,SK,1,Downhill
+2014-01-25,Martin Cater,SK,1,Combined
 2014-01-25,Tobias Stechert,DE,26,Downhill
 2014-01-25,Hannes Reichelt,AT,360,Downhill
 2014-01-25,Robbie Dixon,CA,0,Combined
-2014-01-25,Jared Goldberg,US,22,Downhill
+2014-01-25,Jared Goldberg,US,22,Combined
 2014-01-25,Andreas Strodl,DE,0,Combined
 2014-01-25,Joachim Puchner,AT,30,Super G
 2014-01-25,Romed Baumann,AT,60,Downhill
@@ -643,7 +643,7 @@ date,name,ath_country,value,specialty
 2014-02-28,Markus Duerager,AT,42,Downhill
 2014-02-28,Tobias Stechert,DE,26,Downhill
 2014-02-28,Joachim Puchner,AT,30,Super G
-2014-02-28,Jared Goldberg,US,22,Downhill
+2014-02-28,Jared Goldberg,US,22,Combined
 2014-02-28,Benjamin Thomsen,CA,22,Downhill
 2014-02-28,Erik Fisher,US,27,Downhill
 2014-02-28,Adrian Smiseth Sejersted,NO,0,Downhill
@@ -703,7 +703,7 @@ date,name,ath_country,value,specialty
 2014-02-28,Doglas Hedin,SE,0,Combined
 2014-02-28,Andrej Sporn,SK,12,Downhill
 2014-02-28,Bryce Bennett,US,0,Combined
-2014-02-28,Martin Cater,SK,1,Downhill
+2014-02-28,Martin Cater,SK,1,Combined
 2014-02-28,Yannick Bertrand,FR,0,Combined
 2014-02-28,Ondrej Bank,CZ,1,Combined
 2014-02-28,Frederic Berthold,AT,0,Combined
@@ -764,7 +764,7 @@ date,name,ath_country,value,specialty
 2014-03-01,Douglas Crawford,GB,0,Combined
 2014-03-01,Jan Hudec,CA,92,Super G
 2014-03-01,Alek Glebov,RU,0,Super G
-2014-03-01,Martin Cater,SK,1,Downhill
+2014-03-01,Martin Cater,SK,1,Combined
 2014-03-01,Florian Scheiber,AT,57,Downhill
 2014-03-01,Stephan Keppler,DE,21,Downhill
 2014-03-01,Ondrej Bank,CZ,1,Combined
@@ -813,7 +813,7 @@ date,name,ath_country,value,specialty
 2014-03-01,Paolo Pangrazzi,IT,0,Combined
 2014-03-01,Thomas Baldwin,GB,0,Combined
 2014-03-01,Joachim Puchner,AT,30,Super G
-2014-03-01,Jared Goldberg,US,22,Downhill
+2014-03-01,Jared Goldberg,US,22,Combined
 2014-03-01,Andrej Sporn,SK,12,Downhill
 2014-03-12,Endre Bjertness,NO,0,Combined
 2014-03-12,Luca De Aliprandini,IT,0,Giant Slalom
@@ -836,7 +836,7 @@ date,name,ath_country,value,specialty
 2014-03-12,Markus Duerager,AT,56,Downhill
 2014-03-12,Tobias Stechert,DE,26,Downhill
 2014-03-12,Joachim Puchner,AT,30,Super G
-2014-03-12,Jared Goldberg,US,22,Downhill
+2014-03-12,Jared Goldberg,US,22,Combined
 2014-03-12,Benjamin Thomsen,CA,22,Downhill
 2014-03-12,Erik Fisher,US,27,Downhill
 2014-03-12,Adrian Smiseth Sejersted,NO,18,Downhill
@@ -903,7 +903,7 @@ date,name,ath_country,value,specialty
 2014-03-12,Siegmar Klotz,IT,2,Downhill
 2014-03-12,Frederic Berthold,AT,2,Combined
 2014-03-12,Ondrej Bank,CZ,1,Combined
-2014-03-12,Martin Cater,SK,1,Downhill
+2014-03-12,Martin Cater,SK,1,Combined
 2014-03-12,Andrej Sporn,SK,12,Downhill
 2014-03-12,Aleksander Aamodt Kilde,NO,1,Super G
 2014-03-12,Josef Ferstl,DE,0,Super G

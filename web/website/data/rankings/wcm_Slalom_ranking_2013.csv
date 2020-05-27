@@ -89,7 +89,7 @@ date,name,ath_country,value,specialty
 2012-11-11,Roberto Nani,IT,0,Giant Slalom
 2012-11-11,Kasper Hietanen,FI,0,Combined
 2012-11-11,Jens Henttinen,FI,0,Combined
-2012-11-11,Thomas Mermillod,FR,0,Super G
+2012-11-11,Thomas Mermillod,FR,0,Combined
 2012-11-11,Matic Skube,SK,0,Combined
 2012-11-11,Sasha Zaitsoff,CA,0,Combined
 2012-11-11,Marc Gini,CH,0,Slalom
@@ -244,7 +244,7 @@ date,name,ath_country,value,specialty
 2012-12-08,Dalibor Samsal,HR,0,Combined
 2012-12-08,Adrien Theaux,FR,0,Downhill
 2012-12-08,Daniel Yule,CH,0,Combined
-2012-12-08,Thomas Mermillod,FR,4,Super G
+2012-12-08,Thomas Mermillod,FR,4,Combined
 2012-12-08,Cristian Deville,IT,36,Slalom
 2012-12-08,Martin Vrablik,CZ,0,Combined
 2012-12-08,Nicolas Thoule,FR,9,Slalom
@@ -290,7 +290,7 @@ date,name,ath_country,value,specialty
 2012-12-18,Nolan Kasper,US,0,Combined
 2012-12-18,Andre Myhrer,SE,200,Slalom
 2012-12-18,David Ryding,GB,5,Slalom
-2012-12-18,Thomas Mermillod,FR,10,Super G
+2012-12-18,Thomas Mermillod,FR,10,Combined
 2012-12-18,Jonathan Nordbotten,NO,0,Combined
 2012-12-18,Dalibor Samsal,HR,0,Combined
 2012-12-18,Marc Gini,CH,8,Slalom
@@ -470,7 +470,7 @@ date,name,ath_country,value,specialty
 2013-01-06,Mattias Hargin,SE,64,Slalom
 2013-01-06,Nicolas Thoule,FR,9,Slalom
 2013-01-06,Reinfried Herbst,AT,106,Slalom
-2013-01-06,Thomas Mermillod,FR,24,Super G
+2013-01-06,Thomas Mermillod,FR,24,Combined
 2013-01-06,Marcel Hirscher,AT,340,Slalom
 2013-01-06,Manfred Moelgg,IT,155,Slalom
 2013-01-06,Fritz Dopfer,DE,74,Slalom
@@ -537,7 +537,7 @@ date,name,ath_country,value,specialty
 2013-01-13,Robert Kelley,US,0,Giant Slalom
 2013-01-13,Klemen Kosi,SK,0,Combined
 2013-01-13,Erjon Tola,AL,0,Combined
-2013-01-13,Thomas Mermillod,FR,24,Super G
+2013-01-13,Thomas Mermillod,FR,24,Combined
 2013-01-13,Mattias Hargin,SE,64,Slalom
 2013-01-13,Erik Read,CA,0,Combined
 2013-01-13,Filip Trejbal,CZ,0,Combined
@@ -751,7 +751,7 @@ date,name,ath_country,value,specialty
 2013-01-20,Filip Trejbal,CZ,0,Combined
 2013-01-20,Dalibor Samsal,HR,0,Combined
 2013-01-20,Felix Neureuther,DE,386,Slalom
-2013-01-20,Thomas Mermillod,FR,27,Super G
+2013-01-20,Thomas Mermillod,FR,27,Combined
 2013-01-20,Sasha Zaitsoff,CA,0,Combined
 2013-01-20,Riccardo Tonetti,IT,0,Slalom
 2013-01-20,Georgi Georgiev,BG,0,Combined
@@ -893,7 +893,7 @@ date,name,ath_country,value,specialty
 2013-01-27,Will Brandenburg,US,16,Slalom
 2013-01-27,Lars Elton Myhre,NO,0,Combined
 2013-01-27,Klemen Kosi,SK,0,Combined
-2013-01-27,Thomas Mermillod,FR,38,Super G
+2013-01-27,Thomas Mermillod,FR,38,Combined
 2013-01-27,Ross Peraudo,AU,0,Combined
 2013-01-27,Matic Skube,SK,0,Combined
 2013-01-27,Felix Neureuther,DE,466,Slalom
@@ -939,7 +939,7 @@ date,name,ath_country,value,specialty
 2013-03-10,Filip Trejbal,CZ,0,Combined
 2013-03-10,Marc Gini,CH,40,Slalom
 2013-03-10,Sasha Zaitsoff,CA,0,Combined
-2013-03-10,Thomas Mermillod,FR,38,Super G
+2013-03-10,Thomas Mermillod,FR,38,Combined
 2013-03-10,Matic Skube,SK,0,Combined
 2013-03-10,Akira Sasaki,JP,22,Slalom
 2013-03-10,Jens Henttinen,FI,0,Combined
@@ -1061,7 +1061,7 @@ date,name,ath_country,value,specialty
 2013-03-17,Manuel Feller,AT,34,Slalom
 2013-03-17,Jean-Baptiste Grange,FR,52,Slalom
 2013-03-17,Akira Sasaki,JP,22,Slalom
-2013-03-17,Thomas Mermillod,FR,38,Super G
+2013-03-17,Thomas Mermillod,FR,38,Combined
 2013-03-17,Marc Gini,CH,40,Slalom
 2013-03-17,Alexandr Horoshilov,RU,61,Slalom
 2013-03-17,Krystof Kryzl,CZ,46,Slalom

@@ -1,39 +1,67 @@
 date,name,ath_country,value,specialty
+1993-12-19,Renate Goetschl,AT,100,Downhill
 1993-12-19,Picabo Street,US,32,Downhill
-1993-12-19,Regina Haeusl,DE,8,Downhill
-1993-12-19,Barbara Merlin,IT,9,Downhill
-1993-12-19,Emi Kawabata,JP,10,Downhill
-1993-12-19,Martina Osterried,DE,11,Downhill
-1993-12-19,Edda Mutter,DE,12,Slalom
 1993-12-19,Lucia Medzihradska,SK,13,Slalom
-1993-12-19,Stefanie Schuster,AT,14,Downhill
-1993-12-19,Regine Cavagnoud,FR,0,Super G
-1993-12-19,Veronika Tarasovicova,SK,7,Combined
-1993-12-19,Anja Haas,AT,18,Downhill
-1993-12-19,Hilde Gerg,DE,15,Super G
-1993-12-19,Marianne Kjoerstad,NO,16,Slalom
-1993-12-19,Svetlana Gladishiva,RU,0,Downhill
+1993-12-19,Katja Koren,SK,0,Slalom
 1993-12-19,Miriam Vogt,DE,29,Giant Slalom
-1993-12-19,Erika Hansson,SE,22,Slalom
+1993-12-19,Stefanie Schuster,AT,14,Downhill
+1993-12-19,Monique Pelletier,US,0,Slalom
+1993-12-19,Erika Hansson,SE,22,Combined
 1993-12-19,Katja Seizinger,DE,26,Downhill
-1993-12-19,Spela Pretnar,SK,24,Giant Slalom
+1993-12-19,Veronika Tarasovicova,SK,7,Combined
 1993-12-19,Leila Piccard,FR,20,Giant Slalom
-1994-02-05,Leila Piccard,FR,20,Giant Slalom
-1994-02-05,Regina Haeusl,DE,8,Downhill
-1994-02-05,Picabo Street,US,32,Downhill
-1994-02-05,Barbara Merlin,IT,9,Downhill
+1993-12-19,Spela Pretnar,SK,24,Giant Slalom
+1993-12-19,Regine Cavagnoud,FR,0,Super G
+1993-12-19,Svetlana Gladishiva,RU,0,Downhill
+1993-12-19,Hilde Gerg,DE,15,Super G
+1993-12-19,Anja Haas,AT,18,Downhill
+1993-12-19,Marianne Kjoerstad,NO,16,Slalom
+1993-12-19,Edda Mutter,DE,12,Slalom
+1993-12-19,Alenka Dovzan,SK,0,Super G
+1993-12-19,Deborah Compagnoni,IT,0,Giant Slalom
+1993-12-19,Regina Haeusl,DE,8,Downhill
+1993-12-19,Pernilla Wiberg,SE,80,Slalom
+1993-12-19,Vreni Schneider,CH,0,Slalom
+1993-12-19,Bibiana Perez,IT,60,Super G
+1993-12-19,Barbara Merlin,IT,9,Downhill
+1993-12-19,Florence Masnada,FR,36,Slalom
+1993-12-19,Emi Kawabata,JP,10,Downhill
+1993-12-19,Anita Wachter,AT,50,Giant Slalom
+1993-12-19,Ulrike Maier,AT,45,Giant Slalom
+1993-12-19,Martina Osterried,DE,11,Downhill
+1993-12-19,Morena Gallizio Tescari,IT,40,Slalom
+1993-12-19,Martina Ertl,DE,0,Giant Slalom
+1993-12-19,Gaby May,CH,0,Slalom
 1994-02-05,Emi Kawabata,JP,10,Downhill
-1994-02-05,Miriam Vogt,DE,29,Giant Slalom
 1994-02-05,Martina Osterried,DE,11,Downhill
-1994-02-05,Edda Mutter,DE,12,Slalom
-1994-02-05,Lucia Medzihradska,SK,13,Slalom
+1994-02-05,Monique Pelletier,US,15,Slalom
 1994-02-05,Stefanie Schuster,AT,14,Downhill
-1994-02-05,Spela Pretnar,SK,24,Giant Slalom
+1994-02-05,Barbara Merlin,IT,9,Downhill
 1994-02-05,Regine Cavagnoud,FR,16,Super G
+1994-02-05,Edda Mutter,DE,12,Slalom
 1994-02-05,Marianne Kjoerstad,NO,16,Slalom
-1994-02-05,Erika Hansson,SE,22,Slalom
+1994-02-05,Lucia Medzihradska,SK,13,Slalom
+1994-02-05,Regina Haeusl,DE,8,Downhill
+1994-02-05,Leila Piccard,FR,46,Giant Slalom
 1994-02-05,Anja Haas,AT,18,Downhill
+1994-02-05,Renate Goetschl,AT,100,Downhill
+1994-02-05,Pernilla Wiberg,SE,180,Slalom
+1994-02-05,Vreni Schneider,CH,80,Slalom
+1994-02-05,Bibiana Perez,IT,120,Super G
+1994-02-05,Anita Wachter,AT,50,Giant Slalom
+1994-02-05,Martina Ertl,DE,50,Giant Slalom
+1994-02-05,Ulrike Maier,AT,45,Giant Slalom
+1994-02-05,Morena Gallizio Tescari,IT,85,Slalom
+1994-02-05,Deborah Compagnoni,IT,40,Giant Slalom
+1994-02-05,Florence Masnada,FR,36,Slalom
+1994-02-05,Alenka Dovzan,SK,36,Super G
+1994-02-05,Picabo Street,US,32,Downhill
+1994-02-05,Katja Koren,SK,32,Slalom
+1994-02-05,Miriam Vogt,DE,29,Giant Slalom
+1994-02-05,Erika Hansson,SE,51,Combined
+1994-02-05,Katja Seizinger,DE,26,Downhill
+1994-02-05,Spela Pretnar,SK,48,Giant Slalom
 1994-02-05,Svetlana Gladishiva,RU,22,Downhill
 1994-02-05,Hilde Gerg,DE,35,Super G
-1994-02-05,Katja Seizinger,DE,26,Downhill
+1994-02-05,Gaby May,CH,18,Slalom
 1994-02-05,Veronika Tarasovicova,SK,7,Combined

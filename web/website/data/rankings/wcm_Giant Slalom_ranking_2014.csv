@@ -118,7 +118,7 @@ date,name,ath_country,value,specialty
 2013-10-27,Jonas Fabre,FR,0,Combined
 2013-10-27,Benjamin Raich,AT,20,Giant Slalom
 2013-10-27,Stefano Baruffaldi,IT,0,Combined
-2013-10-27,Jared Goldberg,US,0,Downhill
+2013-10-27,Jared Goldberg,US,0,Combined
 2013-10-27,Stefan Luitz,DE,9,Giant Slalom
 2013-10-27,Steve Missillier,FR,50,Giant Slalom
 2013-10-27,Paul De La Cuesta,ES,0,Combined
@@ -135,7 +135,7 @@ date,name,ath_country,value,specialty
 2013-12-08,Stefan Hadalin,SK,0,Combined
 2013-12-08,Benjamin Raich,AT,36,Giant Slalom
 2013-12-08,Michal Klusak,PL,0,Combined
-2013-12-08,Jared Goldberg,US,0,Downhill
+2013-12-08,Jared Goldberg,US,0,Combined
 2013-12-08,Dong-Hyun Jung,KR,0,Combined
 2013-12-08,Justin Murisier,CH,0,Combined
 2013-12-08,Ola Buer Johansen,NO,0,Combined
@@ -385,7 +385,7 @@ date,name,ath_country,value,specialty
 2013-12-14,Alex Zingerle,IT,13,Giant Slalom
 2013-12-14,Gabriel Rivas,FR,0,Slalom
 2013-12-14,Adam Kotzmann,CZ,0,Combined
-2013-12-14,Jared Goldberg,US,0,Downhill
+2013-12-14,Jared Goldberg,US,0,Combined
 2013-12-14,Luc Henri Chevalier,AU,0,Combined
 2013-12-14,Johnatan Longhi,BR,0,Combined
 2013-12-14,Benjamin Gardet,FR,0,Combined
@@ -413,7 +413,7 @@ date,name,ath_country,value,specialty
 2013-12-22,Eugenio Claro,CL,0,Combined
 2013-12-22,Antonio Villaroger Ristevski,MK,0,Combined
 2013-12-22,Kieffer Christianson,US,0,Combined
-2013-12-22,Jared Goldberg,US,0,Downhill
+2013-12-22,Jared Goldberg,US,0,Combined
 2013-12-22,Luc Henri Chevalier,AU,0,Combined
 2013-12-22,David Donaldson,CA,0,Combined
 2013-12-22,Dong-Hyun Jung,KR,0,Combined
@@ -611,7 +611,7 @@ date,name,ath_country,value,specialty
 2014-01-11,Ola Buer Johansen,NO,0,Combined
 2014-01-11,Benjamin Raich,AT,114,Giant Slalom
 2014-01-11,Matic Skube,SK,0,Combined
-2014-01-11,Jared Goldberg,US,0,Downhill
+2014-01-11,Jared Goldberg,US,0,Combined
 2014-01-11,Cristian Javier Simari Birkner,AR,0,Combined
 2014-01-11,Jean-Baptiste Grange,FR,0,Slalom
 2014-01-11,Segei Maitakov,RU,0,Combined
@@ -724,7 +724,7 @@ date,name,ath_country,value,specialty
 2014-02-02,Ondrej Bank,CZ,13,Combined
 2014-02-02,Alexandru Barbu,RO,0,Combined
 2014-02-02,Misel Zerak,SK,0,Combined
-2014-02-02,Jared Goldberg,US,0,Downhill
+2014-02-02,Jared Goldberg,US,0,Combined
 2014-02-02,Krystof Kryzl,CZ,11,Giant Slalom
 2014-02-02,Benjamin Gardet,FR,0,Combined
 2014-02-02,Aksel-Lund Svindal,NO,116,Downhill
@@ -820,7 +820,7 @@ date,name,ath_country,value,specialty
 2014-03-08,Luca De Aliprandini,IT,90,Giant Slalom
 2014-03-08,Ola Buer Johansen,NO,0,Combined
 2014-03-08,Benjamin Raich,AT,218,Giant Slalom
-2014-03-08,Jared Goldberg,US,0,Downhill
+2014-03-08,Jared Goldberg,US,0,Combined
 2014-03-08,Felix Neureuther,DE,203,Slalom
 2014-03-08,Misel Zerak,SK,0,Combined
 2014-03-08,Aksel-Lund Svindal,NO,130,Downhill
@@ -932,7 +932,7 @@ date,name,ath_country,value,specialty
 2014-03-15,Benedikt Staubitzer,DE,6,Giant Slalom
 2014-03-15,Thomas Fanara,FR,278,Giant Slalom
 2014-03-15,Tomoya Ishii,JP,0,Combined
-2014-03-15,Jared Goldberg,US,0,Downhill
+2014-03-15,Jared Goldberg,US,0,Combined
 2014-03-15,Ondrej Bank,CZ,13,Combined
 2014-03-15,Thomas Mermillod,FR,33,Super G
 2014-03-15,Dries Van Den Broecke,BE,0,Combined

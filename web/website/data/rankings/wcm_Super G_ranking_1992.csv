@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1991-12-08,Gianfranco Martin,IT,2,Combined
 1991-12-08,Thierry Gentina,FR,4,Super G
 1991-12-08,Alberto Senigagliesi,IT,10,Super G
-1991-12-08,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-12-08,Harald Chr. Strand Nilsen,NO,0,Combined
 1991-12-08,Jan Einar Thorsen,NO,8,Downhill
 1991-12-08,Lasse Arnesen,NO,0,Downhill
 1991-12-08,Franz Heinzer,CH,47,Downhill
@@ -27,7 +27,7 @@ date,name,ath_country,value,specialty
 1991-12-08,Berni Huber,DE,0,Downhill
 1991-12-08,Jean Luc Cretier,FR,0,Super G
 1991-12-08,Tom Stiansen,NO,0,Super G
-1991-12-08,Stephan Eberharter,AT,37,Super G
+1991-12-08,Stephan Eberharter,AT,37,Combined
 1991-12-08,Cary Mullen,CA,0,Downhill
 1991-12-08,Luc Alphand,FR,40,Super G
 1991-12-08,Daniel Brunner,CH,0,Combined
@@ -79,7 +79,7 @@ date,name,ath_country,value,specialty
 1992-01-12,Tom Stiansen,NO,40,Super G
 1992-01-12,Attilio Barcella,IT,15,Super G
 1992-01-12,Luc Alphand,FR,40,Super G
-1992-01-12,Stephan Eberharter,AT,37,Super G
+1992-01-12,Stephan Eberharter,AT,37,Combined
 1992-01-12,Patrick Ortlieb,AT,7,Downhill
 1992-01-12,Adrien Duvillard,FR,0,Downhill
 1992-01-12,Paul Accola,CH,135,Slalom
@@ -95,7 +95,7 @@ date,name,ath_country,value,specialty
 1992-01-12,David Pretot,FR,12,Super G
 1992-01-12,Konstantin Chistiakov,RU,28,Super G
 1992-01-12,Leonhard Stock,AT,0,Downhill
-1992-01-12,Harald Chr. Strand Nilsen,NO,2,Slalom
+1992-01-12,Harald Chr. Strand Nilsen,NO,2,Combined
 1992-01-12,Atle Skaardal,NO,80,Downhill
 1992-01-12,Josef Polig,IT,38,Giant Slalom
 1992-01-12,Kyle Rasmussen,US,0,Super G
@@ -133,7 +133,7 @@ date,name,ath_country,value,specialty
 1992-02-01,Kristian Ghedina,IT,5,Downhill
 1992-02-01,Jeff Olson,US,0,Super G
 1992-02-01,Alberto Tomba,IT,0,Slalom
-1992-02-01,Stephan Eberharter,AT,61,Super G
+1992-02-01,Stephan Eberharter,AT,61,Combined
 1992-02-01,Josef Polig,IT,56,Giant Slalom
 1992-02-01,A.J. Kitt,US,0,Downhill
 1992-02-01,Adrien Duvillard,FR,0,Downhill
@@ -155,7 +155,7 @@ date,name,ath_country,value,specialty
 1992-02-01,Hans-Joerg Tauscher,DE,73,Downhill
 1992-02-01,Reggie Crist,US,0,Combined
 1992-02-01,Markus Wasmeier,DE,92,Downhill
-1992-02-01,Harald Chr. Strand Nilsen,NO,2,Slalom
+1992-02-01,Harald Chr. Strand Nilsen,NO,2,Combined
 1992-02-01,Jan Einar Thorsen,NO,92,Downhill
 1992-02-01,David Pretot,FR,14,Super G
 1992-02-01,Franz Heinzer,CH,111,Downhill
@@ -184,7 +184,7 @@ date,name,ath_country,value,specialty
 1992-02-01,Cary Mullen,CA,0,Downhill
 1992-03-01,Urs Kaelin,CH,144,Super G
 1992-03-01,Armand Schiele,FR,46,Super G
-1992-03-01,Stephan Eberharter,AT,61,Super G
+1992-03-01,Stephan Eberharter,AT,61,Combined
 1992-03-01,Kjetil Andre Aamodt,NO,40,Super G
 1992-03-01,Tommy Moe,US,14,Downhill
 1992-03-01,Peter Rzehak,AT,86,Downhill
@@ -239,14 +239,14 @@ date,name,ath_country,value,specialty
 1992-03-01,Patrick Ortlieb,AT,35,Downhill
 1992-03-01,William Besse,CH,28,Downhill
 1992-03-01,Steve Locher,CH,13,Giant Slalom
-1992-03-01,Harald Chr. Strand Nilsen,NO,2,Slalom
+1992-03-01,Harald Chr. Strand Nilsen,NO,2,Combined
 1992-03-01,Jan Einar Thorsen,NO,152,Downhill
 1992-03-01,Fredrik Nyberg,SE,32,Giant Slalom
 1992-03-01,Reggie Crist,US,0,Combined
 1992-03-08,Attilio Barcella,IT,15,Super G
 1992-03-08,Jerome Noviant,FR,12,Super G
 1992-03-08,Janne Leskinen,FI,3,Super G
-1992-03-08,Harald Chr. Strand Nilsen,NO,2,Slalom
+1992-03-08,Harald Chr. Strand Nilsen,NO,2,Combined
 1992-03-08,Daniel Brunner,CH,9,Combined
 1992-03-08,Bernard Fahner,CH,18,Super G
 1992-03-08,Gianfranco Martin,IT,21,Combined
@@ -269,7 +269,7 @@ date,name,ath_country,value,specialty
 1992-03-08,Peter Rzehak,AT,86,Downhill
 1992-03-08,William Besse,CH,28,Downhill
 1992-03-08,Franz Heinzer,CH,193,Downhill
-1992-03-08,Stephan Eberharter,AT,68,Super G
+1992-03-08,Stephan Eberharter,AT,68,Combined
 1992-03-08,Jean Luc Cretier,FR,50,Super G
 1992-03-08,Jan Einar Thorsen,NO,174,Downhill
 1992-03-08,Konstantin Chistiakov,RU,28,Super G
@@ -304,7 +304,7 @@ date,name,ath_country,value,specialty
 1992-03-08,Atle Skaardal,NO,80,Downhill
 1992-03-08,Kyle Rasmussen,US,42,Super G
 1992-03-08,Armin Assinger,AT,50,Downhill
-1992-03-15,Harald Chr. Strand Nilsen,NO,2,Slalom
+1992-03-15,Harald Chr. Strand Nilsen,NO,2,Combined
 1992-03-15,Daniel Mahrer,CH,109,Downhill
 1992-03-15,Ole Kristian Furuseth,NO,160,Slalom
 1992-03-15,Marco Hangl,CH,152,Super G
@@ -359,7 +359,7 @@ date,name,ath_country,value,specialty
 1992-03-15,Leonhard Stock,AT,74,Downhill
 1992-03-15,Jean Luc Cretier,FR,90,Super G
 1992-03-15,Berni Huber,DE,13,Downhill
-1992-03-15,Stephan Eberharter,AT,68,Super G
+1992-03-15,Stephan Eberharter,AT,68,Combined
 1992-03-15,Patrik Jaerbyn,SE,6,Super G
 1992-03-15,William Besse,CH,65,Downhill
 1992-03-15,A.J. Kitt,US,44,Downhill

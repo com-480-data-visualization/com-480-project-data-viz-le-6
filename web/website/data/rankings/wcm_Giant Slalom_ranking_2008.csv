@@ -39,7 +39,7 @@ date,name,ath_country,value,specialty
 2007-10-28,Stephan Goergl,AT,6,Giant Slalom
 2007-10-28,Stephan Keppler,DE,0,Super G
 2007-10-28,Andre Myhrer,SE,0,Slalom
-2007-10-28,Rainer Schoenfelder,AT,15,Slalom
+2007-10-28,Rainer Schoenfelder,AT,15,Combined
 2007-10-28,Arnold Rieder,IT,0,Combined
 2007-10-28,Robbie Dixon,CA,0,Super G
 2007-10-28,Ales Gorza,SK,0,Super G
@@ -220,7 +220,7 @@ date,name,ath_country,value,specialty
 2007-12-02,Andrew Weibrecht,US,0,Downhill
 2007-12-02,Marcus Sandell,FI,19,Giant Slalom
 2007-12-02,Anthony Obert,FR,0,Combined
-2007-12-02,Rainer Schoenfelder,AT,15,Slalom
+2007-12-02,Rainer Schoenfelder,AT,15,Combined
 2007-12-02,Aksel-Lund Svindal,NO,100,Giant Slalom
 2007-12-02,Marcel Hirscher,AT,0,Slalom
 2007-12-02,Mario Matt,AT,94,Slalom
@@ -308,7 +308,7 @@ date,name,ath_country,value,specialty
 2007-12-08,Jonne Ruoppa,FI,0,Combined
 2007-12-08,Robbie Dixon,CA,0,Super G
 2007-12-08,Ales Gorza,SK,38,Super G
-2007-12-08,Rainer Schoenfelder,AT,15,Slalom
+2007-12-08,Rainer Schoenfelder,AT,15,Combined
 2007-12-08,Jaroslav Babusiak,SK,0,Combined
 2007-12-08,Daniel Albrecht,CH,154,Giant Slalom
 2007-12-08,Davide Simoncelli,IT,40,Giant Slalom
@@ -423,7 +423,7 @@ date,name,ath_country,value,specialty
 2007-12-16,Marcus Sandell,FI,61,Giant Slalom
 2007-12-16,Hannes Reichelt,AT,49,Super G
 2007-12-16,Thomas Fanara,FR,66,Giant Slalom
-2007-12-16,Rainer Schoenfelder,AT,15,Slalom
+2007-12-16,Rainer Schoenfelder,AT,15,Combined
 2007-12-16,Christoph Gruber,AT,49,Super G
 2007-12-16,Ted Ligety,US,235,Giant Slalom
 2007-12-16,Philipp Schoerghofer,AT,13,Giant Slalom
@@ -508,7 +508,7 @@ date,name,ath_country,value,specialty
 2008-01-05,Stephan Goergl,AT,82,Giant Slalom
 2008-01-05,Jonne Ruoppa,FI,0,Combined
 2008-01-05,Steven Nyman,US,0,Downhill
-2008-01-05,Rainer Schoenfelder,AT,47,Slalom
+2008-01-05,Rainer Schoenfelder,AT,47,Combined
 2008-01-05,Marc Gini,CH,0,Slalom
 2008-01-05,Thomas Mermillod,FR,24,Giant Slalom
 2008-01-05,Julien Cousineau,CA,0,Combined
@@ -595,7 +595,7 @@ date,name,ath_country,value,specialty
 2008-02-23,Krystof Kryzl,CZ,0,Combined
 2008-02-23,Jean Philippe Roy,CA,44,Giant Slalom
 2008-02-23,Petteri Kantola,FI,0,Combined
-2008-02-23,Rainer Schoenfelder,AT,60,Slalom
+2008-02-23,Rainer Schoenfelder,AT,60,Combined
 2008-02-23,Matija Zavirsek,SK,0,Combined
 2008-02-23,Tobias Gruenenfelder,CH,0,Downhill
 2008-02-23,Kurt Pittschieler,IT,0,Combined
@@ -799,7 +799,7 @@ date,name,ath_country,value,specialty
 2008-03-08,Michael Walchhofer,AT,0,Downhill
 2008-03-08,Thomas Fanara,FR,66,Giant Slalom
 2008-03-08,Thomas Mermillod,FR,24,Giant Slalom
-2008-03-08,Rainer Schoenfelder,AT,60,Slalom
+2008-03-08,Rainer Schoenfelder,AT,60,Combined
 2008-03-08,Alessandro Roberto,IT,6,Giant Slalom
 2008-03-08,Manfred Moelgg,IT,347,Slalom
 2008-03-08,Omar Longhi,IT,0,Combined
@@ -847,7 +847,7 @@ date,name,ath_country,value,specialty
 2008-03-14,Marcus Sandell,FI,130,Giant Slalom
 2008-03-14,Francois Bourque,CA,87,Super G
 2008-03-14,Marc Gini,CH,0,Slalom
-2008-03-14,Rainer Schoenfelder,AT,86,Slalom
+2008-03-14,Rainer Schoenfelder,AT,86,Combined
 2008-03-14,Jukka Rajala,FI,0,Combined
 2008-03-14,Jonne Ruoppa,FI,0,Combined
 2008-03-14,Stephan Goergl,AT,132,Giant Slalom

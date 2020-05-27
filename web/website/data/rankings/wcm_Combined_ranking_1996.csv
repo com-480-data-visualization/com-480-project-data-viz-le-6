@@ -6,20 +6,24 @@ date,name,ath_country,value,specialty
 1996-01-14,Paul Accola,CH,0,Giant Slalom
 1996-01-14,Fredrik Nyberg,SE,0,Giant Slalom
 1996-01-14,Ed Podivinsky,CA,45,Downhill
+1996-01-14,Kristian Ghedina,IT,50,Downhill
+1996-01-14,Kjetil Andre Aamodt,NO,0,Super G
 1996-01-14,Alessandro Fattori,IT,40,Super G
 1996-01-14,Aane Saeter,NO,0,Combined
-1996-01-14,Kristian Ghedina,IT,50,Downhill
 1996-01-14,Bruno Kernen,CH,60,Downhill
+1996-01-14,Marc Girardelli,LU,0,Slalom
 1996-01-14,Hans Knauss,AT,80,Giant Slalom
-1996-01-21,Kristian Ghedina,IT,76,Downhill
-1996-01-21,Aane Saeter,NO,32,Combined
-1996-01-21,Fredrik Nyberg,SE,45,Giant Slalom
-1996-01-21,Bruno Kernen,CH,60,Downhill
-1996-01-21,Paul Accola,CH,40,Giant Slalom
-1996-01-21,Hans Knauss,AT,80,Giant Slalom
-1996-01-21,Kyle Rasmussen,US,36,Downhill
-1996-01-21,Harald Chr. Strand Nilsen,NO,36,Giant Slalom
-1996-01-21,Guenther Mader,AT,100,Downhill
 1996-01-21,Patrik Jaerbyn,SE,61,Super G
-1996-01-21,Alessandro Fattori,IT,90,Super G
+1996-01-21,Guenther Mader,AT,180,Downhill
+1996-01-21,Marc Girardelli,LU,100,Slalom
+1996-01-21,Harald Chr. Strand Nilsen,NO,36,Giant Slalom
+1996-01-21,Kyle Rasmussen,US,36,Downhill
+1996-01-21,Bruno Kernen,CH,60,Downhill
+1996-01-21,Hans Knauss,AT,80,Giant Slalom
+1996-01-21,Fredrik Nyberg,SE,45,Giant Slalom
 1996-01-21,Ed Podivinsky,CA,45,Downhill
+1996-01-21,Aane Saeter,NO,32,Combined
+1996-01-21,Alessandro Fattori,IT,90,Super G
+1996-01-21,Kristian Ghedina,IT,76,Downhill
+1996-01-21,Kjetil Andre Aamodt,NO,60,Super G
+1996-01-21,Paul Accola,CH,40,Giant Slalom

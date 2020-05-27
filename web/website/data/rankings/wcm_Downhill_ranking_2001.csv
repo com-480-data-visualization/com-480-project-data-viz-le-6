@@ -14,24 +14,24 @@ date,name,ath_country,value,specialty
 2000-11-25,Josef Strobl,AT,50,Super G
 2000-11-25,Lasse Paulsen,NO,0,Giant Slalom
 2000-11-25,Kenneth Sivertsen,NO,14,Downhill
-2000-11-25,Gregor Sparovec,SK,0,Super G
+2000-11-25,Gregor Sparovec,SK,0,Combined
 2000-11-25,Franco Cavegn,CH,9,Downhill
 2000-11-25,Brett Fischer,US,0,Downhill
-2000-11-25,Daisuke Yoshioka,JP,0,Downhill
+2000-11-25,Daisuke Yoshioka,JP,0,Combined
 2000-11-25,Peter Rzehak,AT,0,Downhill
-2000-11-25,Andrej Filischkin,RU,0,Downhill
-2000-11-25,Finlay Mickel,GB,0,Downhill
+2000-11-25,Andrej Filischkin,RU,0,Combined
+2000-11-25,Finlay Mickel,GB,0,Combined
 2000-11-25,Florian Eckert,DE,0,Downhill
-2000-11-25,Borek Zakouril,CZ,0,Downhill
+2000-11-25,Borek Zakouril,CZ,0,Combined
 2000-11-25,Juergen Hasler,LI,0,Downhill
-2000-11-25,Craig Branch,AU,0,Downhill
+2000-11-25,Craig Branch,AU,0,Combined
 2000-11-25,Roland Fischnaller,IT,0,Downhill
-2000-11-25,Jeff Durand,CA,0,Downhill
+2000-11-25,Jeff Durand,CA,0,Combined
 2000-11-25,Vincent Blanc,FR,0,Downhill
 2000-11-25,Daron Rahlves,US,10,Downhill
-2000-11-25,Christian Prassberger,DE,0,Downhill
+2000-11-25,Christian Prassberger,DE,0,Combined
 2000-11-25,Simon Bastelica,FR,0,Super G
-2000-11-25,Manuel Carrozza,IT,0,Downhill
+2000-11-25,Manuel Carrozza,IT,0,Combined
 2000-11-25,Didier Cuche,CH,29,Downhill
 2000-11-25,Matteo Berbenni,IT,0,Downhill
 2000-11-25,Ed Podivinsky,CA,3,Downhill
@@ -45,12 +45,12 @@ date,name,ath_country,value,specialty
 2000-11-25,Max Rauffer,DE,32,Downhill
 2000-11-25,Fredrik Nyberg,SE,20,Giant Slalom
 2000-11-25,Stefan Stankalla,DE,0,Super G
-2000-11-25,Michael Walchhofer,AT,0,Slalom
+2000-11-25,Michael Walchhofer,AT,0,Combined
 2000-11-25,Rolf von Weissenfluh,CH,0,Downhill
 2000-11-25,Patrick Wirth,AT,0,Downhill
 2000-11-25,Paul Accola,CH,15,Giant Slalom
 2000-11-25,Luke Sauder,CA,0,Downhill
-2000-11-25,David Anderson,CA,0,Downhill
+2000-11-25,David Anderson,CA,0,Combined
 2000-11-25,Nicolas Burtin,FR,0,Downhill
 2000-11-25,Darin McBeath,CA,0,Downhill
 2000-11-25,Chris Puckett,US,8,Downhill
@@ -69,64 +69,64 @@ date,name,ath_country,value,specialty
 2000-11-25,Audun Groenvold,NO,18,Super G
 2000-11-25,Kjetil Andre Aamodt,NO,1,Slalom
 2000-11-25,Hannes Trinkl,AT,0,Downhill
-2000-11-25,Konrad Hari,CH,0,Downhill
+2000-11-25,Konrad Hari,CH,0,Combined
 2000-11-25,Kristian Ghedina,IT,0,Downhill
-2000-11-25,Pavel Chestakov,RU,0,Downhill
-2000-11-25,Maurizio Feller,IT,0,Downhill
-2000-11-25,Roland Assinger,AT,0,Downhill
+2000-11-25,Pavel Chestakov,RU,0,Combined
+2000-11-25,Maurizio Feller,IT,0,Combined
+2000-11-25,Roland Assinger,AT,0,Combined
 2000-11-25,Silvano Beltrametti,CH,80,Downhill
 2000-11-25,Hermann Maier,AT,16,Giant Slalom
 2000-11-25,Patrice Manuel,FR,0,Super G
-2000-11-25,Andrej Prevuznak,SK,0,Downhill
-2000-11-25,Ivan Heimschild,SK,0,Downhill
-2000-11-25,Daniel Dorigo,IT,0,Downhill
-2000-11-25,Johnny Albertsen,DK,0,Downhill
-2000-11-25,Yasuyuki Takishita,JP,0,Downhill
-2000-11-25,P Casey Puckett,US,0,Giant Slalom
+2000-11-25,Andrej Prevuznak,SK,0,Combined
+2000-11-25,Ivan Heimschild,SK,0,Combined
+2000-11-25,Daniel Dorigo,IT,0,Combined
+2000-11-25,Johnny Albertsen,DK,0,Combined
+2000-11-25,Yasuyuki Takishita,JP,0,Combined
+2000-11-25,P Casey Puckett,US,0,Combined
 2000-11-25,Alessandro Fattori,IT,6,Downhill
-2000-11-25,Claudio Collenberg,CH,0,Downhill
+2000-11-25,Claudio Collenberg,CH,0,Combined
 2000-11-25,Fritz Strobl,AT,26,Downhill
 2000-11-25,Jernej Rebersak,SK,0,Super G
-2000-11-25,Chad Mullen,CA,0,Downhill
-2000-11-25,Patrick Staudacher,IT,0,Downhill
-2000-11-25,Jan Holicky,CZ,0,Downhill
+2000-11-25,Chad Mullen,CA,0,Combined
+2000-11-25,Patrick Staudacher,IT,0,Combined
+2000-11-25,Jan Holicky,CZ,0,Combined
 2000-11-25,Jernej Koblar,SK,0,Giant Slalom
 2000-11-25,Ozbi Oslak,SK,0,Super G
 2000-11-25,Lasse Kjus,NO,60,Downhill
 2000-11-25,Tobias Gruenenfelder,CH,0,Giant Slalom
 2000-12-02,Chad Fleischer,US,65,Downhill
-2000-12-02,Claudio Collenberg,CH,0,Downhill
+2000-12-02,Claudio Collenberg,CH,0,Combined
 2000-12-02,Jernej Koblar,SK,0,Giant Slalom
 2000-12-02,Christoph Gruber,AT,8,Super G
-2000-12-02,David Anderson,CA,0,Downhill
+2000-12-02,David Anderson,CA,0,Combined
 2000-12-02,Luca Cattaneo,IT,15,Downhill
-2000-12-02,Roland Assinger,AT,0,Downhill
+2000-12-02,Roland Assinger,AT,0,Combined
 2000-12-02,Claude Cretier,FR,18,Downhill
 2000-12-02,Juergen Hasler,LI,0,Downhill
 2000-12-02,Iwan Bormolini,IT,3,Giant Slalom
 2000-12-02,Christophe Saioni,FR,0,Super G
-2000-12-02,Daniel Dorigo,IT,0,Downhill
+2000-12-02,Daniel Dorigo,IT,0,Combined
 2000-12-02,Bruno Kernen,CH,53,Downhill
 2000-12-02,Bode Miller,US,0,Giant Slalom
 2000-12-02,Silvano Beltrametti,CH,93,Downhill
 2000-12-02,Aane Saeter,NO,0,Downhill
 2000-12-02,Matteo Berbenni,IT,0,Downhill
 2000-12-02,Ed Podivinsky,CA,3,Downhill
-2000-12-02,Jan Holicky,CZ,0,Downhill
+2000-12-02,Jan Holicky,CZ,0,Combined
 2000-12-02,Erik Seletto,IT,0,Downhill
 2000-12-02,Alessandro Fattori,IT,15,Downhill
 2000-12-02,Sebastien Fournier-Bidoz,FR,0,Super G
 2000-12-02,Darin McBeath,CA,16,Downhill
-2000-12-02,Patrick Staudacher,IT,0,Downhill
+2000-12-02,Patrick Staudacher,IT,0,Combined
 2000-12-02,Christian Greber,AT,0,Downhill
 2000-12-02,Lorenzo Galli,IT,0,Downhill
 2000-12-02,Kjetil Andre Aamodt,NO,15,Slalom
 2000-12-02,Hans Knauss,AT,47,Downhill
-2000-12-02,Johnny Albertsen,DK,0,Downhill
+2000-12-02,Johnny Albertsen,DK,0,Combined
 2000-12-02,Nicolas Burtin,FR,0,Downhill
 2000-12-02,Didier Defago,CH,24,Downhill
 2000-12-02,Markus Herrmann,CH,0,Downhill
-2000-12-02,Ivan Heimschild,SK,0,Downhill
+2000-12-02,Ivan Heimschild,SK,0,Combined
 2000-12-02,Antoine Deneriaz,FR,0,Downhill
 2000-12-02,Marc Bottollier,FR,0,Downhill
 2000-12-02,Kevin Wert,CA,0,Downhill
@@ -134,7 +134,7 @@ date,name,ath_country,value,specialty
 2000-12-02,Werner Franz,AT,36,Downhill
 2000-12-02,Fritz Strobl,AT,71,Downhill
 2000-12-02,Ambrosi Hoffmann,CH,0,Downhill
-2000-12-02,Pavel Chestakov,RU,0,Downhill
+2000-12-02,Pavel Chestakov,RU,0,Combined
 2000-12-02,Chris Puckett,US,14,Downhill
 2000-12-02,Didier Cuche,CH,41,Downhill
 2000-12-02,Pierre Emmanuel Dalcin,FR,22,Downhill
@@ -145,32 +145,32 @@ date,name,ath_country,value,specialty
 2000-12-02,Daron Rahlves,US,25,Downhill
 2000-12-02,Kristian Ghedina,IT,0,Downhill
 2000-12-02,Vincent Blanc,FR,0,Downhill
-2000-12-02,Jeff Durand,CA,0,Downhill
+2000-12-02,Jeff Durand,CA,0,Combined
 2000-12-02,Roland Fischnaller,IT,0,Downhill
 2000-12-02,Stefan Stankalla,DE,6,Super G
-2000-12-02,Yasuyuki Takishita,JP,0,Downhill
-2000-12-02,Manuel Carrozza,IT,0,Downhill
-2000-12-02,Michael Walchhofer,AT,0,Slalom
-2000-12-02,Craig Branch,AU,0,Downhill
+2000-12-02,Yasuyuki Takishita,JP,0,Combined
+2000-12-02,Manuel Carrozza,IT,0,Combined
+2000-12-02,Michael Walchhofer,AT,0,Combined
+2000-12-02,Craig Branch,AU,0,Combined
 2000-12-02,Stephan Eberharter,AT,160,Downhill
 2000-12-02,Rolf von Weissenfluh,CH,4,Downhill
 2000-12-02,Ozbi Oslak,SK,0,Super G
 2000-12-02,Florian Eckert,DE,4,Downhill
-2000-12-02,Borek Zakouril,CZ,0,Downhill
+2000-12-02,Borek Zakouril,CZ,0,Combined
 2000-12-02,Hannes Trinkl,AT,50,Downhill
-2000-12-02,Finlay Mickel,GB,0,Downhill
+2000-12-02,Finlay Mickel,GB,0,Combined
 2000-12-02,Patrick Wirth,AT,0,Downhill
 2000-12-02,Jernej Rebersak,SK,0,Super G
-2000-12-02,Andrej Filischkin,RU,0,Downhill
+2000-12-02,Andrej Filischkin,RU,0,Combined
 2000-12-02,Paul Accola,CH,44,Giant Slalom
-2000-12-02,Chad Mullen,CA,0,Downhill
-2000-12-02,Daisuke Yoshioka,JP,0,Downhill
+2000-12-02,Chad Mullen,CA,0,Combined
+2000-12-02,Daisuke Yoshioka,JP,0,Combined
 2000-12-02,Peter Rzehak,AT,36,Downhill
-2000-12-02,Christian Prassberger,DE,0,Downhill
+2000-12-02,Christian Prassberger,DE,0,Combined
 2000-12-02,Patrice Manuel,FR,0,Super G
 2000-12-02,Audun Groenvold,NO,18,Super G
-2000-12-02,Andrej Prevuznak,SK,0,Downhill
-2000-12-02,Konrad Hari,CH,0,Downhill
+2000-12-02,Andrej Prevuznak,SK,0,Combined
+2000-12-02,Konrad Hari,CH,0,Combined
 2000-12-02,Steve Locher,CH,0,Giant Slalom
 2000-12-02,Bjarne Solbakken,NO,0,Giant Slalom
 2000-12-02,Fredrik Nyberg,SE,46,Giant Slalom
@@ -180,13 +180,13 @@ date,name,ath_country,value,specialty
 2000-12-02,Luke Sauder,CA,0,Downhill
 2000-12-02,Josef Strobl,AT,82,Super G
 2000-12-02,Hermann Maier,AT,116,Giant Slalom
-2000-12-02,Gregor Sparovec,SK,0,Super G
+2000-12-02,Gregor Sparovec,SK,0,Combined
 2000-12-02,Lasse Kjus,NO,140,Downhill
 2000-12-02,Franco Cavegn,CH,9,Downhill
-2000-12-02,P Casey Puckett,US,0,Giant Slalom
+2000-12-02,P Casey Puckett,US,0,Combined
 2000-12-02,Andreas Schifferer,AT,58,Giant Slalom
 2000-12-02,Brett Fischer,US,2,Downhill
-2000-12-02,Maurizio Feller,IT,0,Downhill
+2000-12-02,Maurizio Feller,IT,0,Combined
 2000-12-02,Simon Bastelica,FR,0,Super G
 2000-12-02,Kenneth Sivertsen,NO,36,Downhill
 2000-12-09,Darin McBeath,CA,22,Downhill
@@ -194,61 +194,61 @@ date,name,ath_country,value,specialty
 2000-12-09,Steve Locher,CH,0,Giant Slalom
 2000-12-09,Claude Cretier,FR,42,Downhill
 2000-12-09,Kevin Wert,CA,22,Downhill
-2000-12-09,Roland Assinger,AT,0,Downhill
+2000-12-09,Roland Assinger,AT,0,Combined
 2000-12-09,Luke Sauder,CA,0,Downhill
 2000-12-09,Luca Cattaneo,IT,15,Downhill
-2000-12-09,Patrick Staudacher,IT,0,Downhill
+2000-12-09,Patrick Staudacher,IT,0,Combined
 2000-12-09,Nicolas Burtin,FR,20,Downhill
-2000-12-09,Michael Walchhofer,AT,0,Slalom
+2000-12-09,Michael Walchhofer,AT,0,Combined
 2000-12-09,Pierre Emmanuel Dalcin,FR,38,Downhill
 2000-12-09,Stefan Stankalla,DE,10,Super G
 2000-12-09,Fredrik Nyberg,SE,46,Giant Slalom
 2000-12-09,Jernej Koblar,SK,0,Giant Slalom
-2000-12-09,Maurizio Feller,IT,0,Downhill
-2000-12-09,David Anderson,CA,0,Downhill
+2000-12-09,Maurizio Feller,IT,0,Combined
+2000-12-09,David Anderson,CA,0,Combined
 2000-12-09,Audun Groenvold,NO,18,Super G
 2000-12-09,Patrick Wirth,AT,12,Downhill
-2000-12-09,Andrej Prevuznak,SK,0,Downhill
-2000-12-09,Konrad Hari,CH,0,Downhill
+2000-12-09,Andrej Prevuznak,SK,0,Combined
+2000-12-09,Konrad Hari,CH,0,Combined
 2000-12-09,Lasse Paulsen,NO,0,Giant Slalom
-2000-12-09,P Casey Puckett,US,0,Giant Slalom
-2000-12-09,Gregor Sparovec,SK,0,Super G
+2000-12-09,P Casey Puckett,US,0,Combined
+2000-12-09,Gregor Sparovec,SK,0,Combined
 2000-12-09,Brett Fischer,US,2,Downhill
 2000-12-09,Patrice Manuel,FR,0,Super G
 2000-12-09,Simon Bastelica,FR,0,Super G
-2000-12-09,Christian Prassberger,DE,0,Downhill
+2000-12-09,Christian Prassberger,DE,0,Combined
 2000-12-09,Vincent Blanc,FR,2,Downhill
-2000-12-09,Yasuyuki Takishita,JP,0,Downhill
-2000-12-09,Jeff Durand,CA,0,Downhill
-2000-12-09,Manuel Carrozza,IT,0,Downhill
-2000-12-09,Craig Branch,AU,0,Downhill
+2000-12-09,Yasuyuki Takishita,JP,0,Combined
+2000-12-09,Jeff Durand,CA,0,Combined
+2000-12-09,Manuel Carrozza,IT,0,Combined
+2000-12-09,Craig Branch,AU,0,Combined
 2000-12-09,Ozbi Oslak,SK,0,Super G
-2000-12-09,Borek Zakouril,CZ,0,Downhill
-2000-12-09,Finlay Mickel,GB,0,Downhill
-2000-12-09,Chad Mullen,CA,0,Downhill
-2000-12-09,Andrej Filischkin,RU,0,Downhill
-2000-12-09,Daisuke Yoshioka,JP,0,Downhill
+2000-12-09,Borek Zakouril,CZ,0,Combined
+2000-12-09,Finlay Mickel,GB,0,Combined
+2000-12-09,Chad Mullen,CA,0,Combined
+2000-12-09,Andrej Filischkin,RU,0,Combined
+2000-12-09,Daisuke Yoshioka,JP,0,Combined
 2000-12-09,Bjarne Solbakken,NO,0,Giant Slalom
-2000-12-09,Jan Holicky,CZ,0,Downhill
+2000-12-09,Jan Holicky,CZ,0,Combined
 2000-12-09,Jakub Fiala,US,0,Super G
 2000-12-09,Ambrosi Hoffmann,CH,0,Downhill
 2000-12-09,Erik Seletto,IT,0,Downhill
 2000-12-09,Sebastien Fournier-Bidoz,FR,0,Super G
 2000-12-09,Lorenzo Galli,IT,8,Downhill
-2000-12-09,Johnny Albertsen,DK,0,Downhill
+2000-12-09,Johnny Albertsen,DK,0,Combined
 2000-12-09,Kjetil Andre Aamodt,NO,15,Slalom
 2000-12-09,Markus Herrmann,CH,0,Downhill
-2000-12-09,Ivan Heimschild,SK,0,Downhill
-2000-12-09,Pavel Chestakov,RU,0,Downhill
+2000-12-09,Ivan Heimschild,SK,0,Combined
+2000-12-09,Pavel Chestakov,RU,0,Combined
 2000-12-09,Marc Bottollier,FR,0,Downhill
 2000-12-09,Marco Buechel,LI,13,Giant Slalom
 2000-12-09,Chris Puckett,US,14,Downhill
 2000-12-09,Ed Podivinsky,CA,3,Downhill
-2000-12-09,Daniel Dorigo,IT,0,Downhill
+2000-12-09,Daniel Dorigo,IT,0,Combined
 2000-12-09,Matteo Berbenni,IT,0,Downhill
 2000-12-09,Juergen Hasler,LI,5,Downhill
 2000-12-09,Bode Miller,US,0,Giant Slalom
-2000-12-09,Claudio Collenberg,CH,0,Downhill
+2000-12-09,Claudio Collenberg,CH,0,Combined
 2000-12-09,Aane Saeter,NO,0,Downhill
 2000-12-09,Christophe Saioni,FR,0,Super G
 2000-12-09,Iwan Bormolini,IT,3,Giant Slalom
@@ -289,23 +289,23 @@ date,name,ath_country,value,specialty
 2000-12-16,Kevin Wert,CA,22,Downhill
 2000-12-16,Chad Fleischer,US,76,Downhill
 2000-12-16,Bruno Kernen,CH,119,Downhill
-2000-12-16,Pavel Chestakov,RU,0,Downhill
-2000-12-16,David Anderson,CA,0,Downhill
-2000-12-16,Andrej Filischkin,RU,0,Downhill
+2000-12-16,Pavel Chestakov,RU,0,Combined
+2000-12-16,David Anderson,CA,0,Combined
+2000-12-16,Andrej Filischkin,RU,0,Combined
 2000-12-16,Darin McBeath,CA,22,Downhill
-2000-12-16,Johnny Albertsen,DK,0,Downhill
+2000-12-16,Johnny Albertsen,DK,0,Combined
 2000-12-16,Pierre Emmanuel Dalcin,FR,38,Downhill
 2000-12-16,Aane Saeter,NO,0,Downhill
 2000-12-16,Nicolas Burtin,FR,20,Downhill
 2000-12-16,Iwan Bormolini,IT,3,Giant Slalom
 2000-12-16,Christian Greber,AT,0,Downhill
-2000-12-16,Ivan Heimschild,SK,0,Downhill
+2000-12-16,Ivan Heimschild,SK,0,Combined
 2000-12-16,Hannes Trinkl,AT,99,Downhill
-2000-12-16,Daisuke Yoshioka,JP,0,Downhill
+2000-12-16,Daisuke Yoshioka,JP,0,Combined
 2000-12-16,Marc Bottollier,FR,11,Downhill
 2000-12-16,Bode Miller,US,5,Giant Slalom
-2000-12-16,P Casey Puckett,US,0,Giant Slalom
-2000-12-16,Andrej Prevuznak,SK,0,Downhill
+2000-12-16,P Casey Puckett,US,0,Combined
+2000-12-16,Andrej Prevuznak,SK,0,Combined
 2000-12-16,Lasse Kjus,NO,140,Downhill
 2000-12-16,Didier Defago,CH,31,Downhill
 2000-12-16,Markus Herrmann,CH,12,Downhill
@@ -323,52 +323,52 @@ date,name,ath_country,value,specialty
 2000-12-16,Silvano Beltrametti,CH,132,Downhill
 2000-12-16,Ed Podivinsky,CA,3,Downhill
 2000-12-16,Sebastien Fournier-Bidoz,FR,0,Super G
-2000-12-16,Claudio Collenberg,CH,0,Downhill
+2000-12-16,Claudio Collenberg,CH,0,Combined
 2000-12-16,Peter Pen,SK,43,Downhill
 2000-12-16,Ozbi Oslak,SK,0,Super G
 2000-12-16,Matteo Berbenni,IT,0,Downhill
 2000-12-16,Fritz Strobl,AT,131,Downhill
 2000-12-16,Ambrosi Hoffmann,CH,0,Downhill
 2000-12-16,Erik Seletto,IT,18,Downhill
-2000-12-16,Chad Mullen,CA,0,Downhill
+2000-12-16,Chad Mullen,CA,0,Combined
 2000-12-16,Juergen Hasler,LI,5,Downhill
-2000-12-16,Yasuyuki Takishita,JP,0,Downhill
-2000-12-16,Daniel Dorigo,IT,0,Downhill
+2000-12-16,Yasuyuki Takishita,JP,0,Combined
+2000-12-16,Daniel Dorigo,IT,0,Combined
 2000-12-16,Christoph Gruber,AT,48,Super G
 2000-12-16,Antoine Deneriaz,FR,0,Downhill
-2000-12-16,Patrick Staudacher,IT,0,Downhill
-2000-12-16,Manuel Carrozza,IT,0,Downhill
-2000-12-16,Jeff Durand,CA,0,Downhill
+2000-12-16,Patrick Staudacher,IT,0,Combined
+2000-12-16,Manuel Carrozza,IT,0,Combined
+2000-12-16,Jeff Durand,CA,0,Combined
 2000-12-16,Florian Eckert,DE,17,Downhill
-2000-12-16,Michael Walchhofer,AT,0,Slalom
-2000-12-16,Roland Assinger,AT,0,Downhill
-2000-12-16,Konrad Hari,CH,0,Downhill
+2000-12-16,Michael Walchhofer,AT,0,Combined
+2000-12-16,Roland Assinger,AT,0,Combined
+2000-12-16,Konrad Hari,CH,0,Combined
 2000-12-16,Brett Fischer,US,2,Downhill
-2000-12-16,Craig Branch,AU,0,Downhill
+2000-12-16,Craig Branch,AU,0,Combined
 2000-12-16,Max Rauffer,DE,32,Downhill
 2000-12-16,Franco Cavegn,CH,74,Downhill
 2000-12-16,Luke Sauder,CA,26,Downhill
 2000-12-16,Roland Fischnaller,IT,60,Downhill
-2000-12-16,Maurizio Feller,IT,0,Downhill
+2000-12-16,Maurizio Feller,IT,0,Combined
 2000-12-16,Kenneth Sivertsen,NO,37,Downhill
-2000-12-16,Gregor Sparovec,SK,0,Super G
+2000-12-16,Gregor Sparovec,SK,0,Combined
 2000-12-16,Lasse Paulsen,NO,0,Giant Slalom
 2000-12-16,Fredrik Nyberg,SE,46,Giant Slalom
 2000-12-16,Stephan Eberharter,AT,240,Downhill
 2000-12-16,Jernej Koblar,SK,0,Giant Slalom
 2000-12-16,Stefan Stankalla,DE,10,Super G
 2000-12-16,Josef Strobl,AT,97,Super G
-2000-12-16,Borek Zakouril,CZ,0,Downhill
+2000-12-16,Borek Zakouril,CZ,0,Combined
 2000-12-16,Bjarne Solbakken,NO,0,Giant Slalom
 2000-12-16,Simon Bastelica,FR,0,Super G
-2000-12-16,Christian Prassberger,DE,0,Downhill
-2000-12-16,Jan Holicky,CZ,0,Downhill
+2000-12-16,Christian Prassberger,DE,0,Combined
+2000-12-16,Jan Holicky,CZ,0,Combined
 2000-12-16,Andreas Schifferer,AT,108,Giant Slalom
 2000-12-16,Daron Rahlves,US,44,Downhill
 2000-12-16,Patrick Wirth,AT,41,Downhill
 2000-12-16,AJ Bear,AU,1,Downhill
 2000-12-16,Paul Accola,CH,54,Giant Slalom
-2000-12-16,Finlay Mickel,GB,0,Downhill
+2000-12-16,Finlay Mickel,GB,0,Combined
 2000-12-16,Jernej Rebersak,SK,0,Super G
 2000-12-16,Kurt Sulzenbacher,IT,13,Downhill
 2000-12-16,Vincent Blanc,FR,2,Downhill
@@ -381,23 +381,23 @@ date,name,ath_country,value,specialty
 2000-12-16,Steve Locher,CH,2,Giant Slalom
 2001-01-20,Kristian Ghedina,IT,80,Downhill
 2001-01-20,Daron Rahlves,US,104,Downhill
-2001-01-20,Yasuyuki Takishita,JP,0,Downhill
+2001-01-20,Yasuyuki Takishita,JP,0,Combined
 2001-01-20,Simon Bastelica,FR,0,Super G
 2001-01-20,Chris Puckett,US,14,Downhill
-2001-01-20,Christian Prassberger,DE,0,Downhill
+2001-01-20,Christian Prassberger,DE,0,Combined
 2001-01-20,Marc Bottollier,FR,11,Downhill
 2001-01-20,Brett Fischer,US,2,Downhill
-2001-01-20,Jeff Durand,CA,0,Downhill
+2001-01-20,Jeff Durand,CA,0,Combined
 2001-01-20,Patrice Manuel,FR,0,Super G
 2001-01-20,Werner Franz,AT,128,Downhill
 2001-01-20,Vincent Blanc,FR,2,Downhill
 2001-01-20,Marco Buechel,LI,20,Giant Slalom
-2001-01-20,Gregor Sparovec,SK,0,Super G
+2001-01-20,Gregor Sparovec,SK,0,Combined
 2001-01-20,Franco Cavegn,CH,90,Downhill
-2001-01-20,Finlay Mickel,GB,0,Downhill
+2001-01-20,Finlay Mickel,GB,0,Combined
 2001-01-20,Roland Fischnaller,IT,72,Downhill
 2001-01-20,Andreas Schifferer,AT,108,Giant Slalom
-2001-01-20,Andrej Filischkin,RU,0,Downhill
+2001-01-20,Andrej Filischkin,RU,0,Combined
 2001-01-20,Iwan Bormolini,IT,3,Giant Slalom
 2001-01-20,Antoine Deneriaz,FR,0,Downhill
 2001-01-20,AJ Bear,AU,1,Downhill
@@ -405,66 +405,66 @@ date,name,ath_country,value,specialty
 2001-01-20,Peter Rzehak,AT,85,Downhill
 2001-01-20,Christophe Saioni,FR,0,Super G
 2001-01-20,Jakub Fiala,US,0,Super G
-2001-01-20,Borek Zakouril,CZ,0,Downhill
-2001-01-20,Daisuke Yoshioka,JP,0,Downhill
+2001-01-20,Borek Zakouril,CZ,0,Combined
+2001-01-20,Daisuke Yoshioka,JP,0,Combined
 2001-01-20,Bruno Kernen,CH,129,Downhill
 2001-01-20,Aane Saeter,NO,0,Downhill
 2001-01-20,Chad Fleischer,US,98,Downhill
 2001-01-20,Bjarne Solbakken,NO,0,Giant Slalom
-2001-01-20,David Anderson,CA,0,Downhill
-2001-01-20,Craig Branch,AU,0,Downhill
-2001-01-20,Konrad Hari,CH,0,Downhill
+2001-01-20,David Anderson,CA,0,Combined
+2001-01-20,Craig Branch,AU,0,Combined
+2001-01-20,Konrad Hari,CH,0,Combined
 2001-01-20,Bode Miller,US,6,Giant Slalom
 2001-01-20,Florian Eckert,DE,17,Downhill
-2001-01-20,Chad Mullen,CA,0,Downhill
+2001-01-20,Chad Mullen,CA,0,Combined
 2001-01-20,Juergen Hasler,LI,9,Downhill
 2001-01-20,Ambrosi Hoffmann,CH,0,Downhill
 2001-01-20,Matteo Berbenni,IT,0,Downhill
 2001-01-20,Kenneth Sivertsen,NO,49,Downhill
 2001-01-20,Lasse Paulsen,NO,0,Giant Slalom
 2001-01-20,Ozbi Oslak,SK,0,Super G
-2001-01-20,Manuel Carrozza,IT,0,Downhill
+2001-01-20,Manuel Carrozza,IT,0,Combined
 2001-01-20,Ed Podivinsky,CA,3,Downhill
 2001-01-20,Didier Cuche,CH,104,Downhill
 2001-01-20,Hannes Trinkl,AT,179,Downhill
 2001-01-20,Paul Accola,CH,54,Giant Slalom
-2001-01-20,Daniel Dorigo,IT,0,Downhill
+2001-01-20,Daniel Dorigo,IT,0,Combined
 2001-01-20,Jernej Koblar,SK,0,Giant Slalom
 2001-01-20,Sebastien Fournier-Bidoz,FR,0,Super G
 2001-01-20,Max Rauffer,DE,32,Downhill
-2001-01-20,Claudio Collenberg,CH,0,Downhill
+2001-01-20,Claudio Collenberg,CH,0,Combined
 2001-01-20,Fredrik Nyberg,SE,46,Giant Slalom
 2001-01-20,Hermann Maier,AT,331,Giant Slalom
 2001-01-20,Luke Sauder,CA,34,Downhill
 2001-01-20,Erik Seletto,IT,18,Downhill
 2001-01-20,Pierre Emmanuel Dalcin,FR,38,Downhill
-2001-01-20,Roland Assinger,AT,0,Downhill
+2001-01-20,Roland Assinger,AT,0,Combined
 2001-01-20,Fritz Strobl,AT,163,Downhill
-2001-01-20,Patrick Staudacher,IT,0,Downhill
+2001-01-20,Patrick Staudacher,IT,0,Combined
 2001-01-20,Audun Groenvold,NO,18,Super G
 2001-01-20,Silvano Beltrametti,CH,158,Downhill
 2001-01-20,Peter Pen,SK,45,Downhill
 2001-01-20,Kurt Sulzenbacher,IT,18,Downhill
-2001-01-20,Pavel Chestakov,RU,0,Downhill
+2001-01-20,Pavel Chestakov,RU,0,Combined
 2001-01-20,Christian Greber,AT,40,Downhill
 2001-01-20,Claude Cretier,FR,64,Downhill
 2001-01-20,Darin McBeath,CA,42,Downhill
 2001-01-20,Luca Cattaneo,IT,39,Downhill
 2001-01-20,Nicolas Burtin,FR,20,Downhill
-2001-01-20,Ivan Heimschild,SK,0,Downhill
-2001-01-20,Jan Holicky,CZ,0,Downhill
+2001-01-20,Ivan Heimschild,SK,0,Combined
+2001-01-20,Jan Holicky,CZ,0,Combined
 2001-01-20,Alessandro Fattori,IT,139,Downhill
 2001-01-20,Kevin Wert,CA,22,Downhill
-2001-01-20,Johnny Albertsen,DK,0,Downhill
-2001-01-20,P Casey Puckett,US,0,Giant Slalom
+2001-01-20,Johnny Albertsen,DK,0,Combined
+2001-01-20,P Casey Puckett,US,0,Combined
 2001-01-20,Steve Locher,CH,2,Giant Slalom
 2001-01-20,Lorenzo Galli,IT,33,Downhill
 2001-01-20,Christoph Gruber,AT,51,Super G
 2001-01-20,Patrick Wirth,AT,41,Downhill
-2001-01-20,Andrej Prevuznak,SK,0,Downhill
+2001-01-20,Andrej Prevuznak,SK,0,Combined
 2001-01-20,Jernej Rebersak,SK,0,Super G
 2001-01-20,Lasse Kjus,NO,185,Downhill
-2001-01-20,Maurizio Feller,IT,0,Downhill
+2001-01-20,Maurizio Feller,IT,0,Combined
 2001-01-20,Kjetil Andre Aamodt,NO,39,Slalom
 2001-01-20,Tobias Gruenenfelder,CH,0,Giant Slalom
 2001-01-20,Markus Herrmann,CH,12,Downhill
@@ -473,7 +473,7 @@ date,name,ath_country,value,specialty
 2001-01-20,Hans Knauss,AT,95,Downhill
 2001-01-20,Didier Defago,CH,45,Downhill
 2001-01-20,Stefan Stankalla,DE,10,Super G
-2001-01-20,Michael Walchhofer,AT,29,Slalom
+2001-01-20,Michael Walchhofer,AT,29,Combined
 2001-01-27,Rolf von Weissenfluh,CH,42,Downhill
 2001-01-27,Hermann Maier,AT,331,Giant Slalom
 2001-01-27,Luca Cattaneo,IT,53,Downhill
@@ -485,34 +485,34 @@ date,name,ath_country,value,specialty
 2001-01-27,Roland Fischnaller,IT,83,Downhill
 2001-01-27,Patrick Wirth,AT,50,Downhill
 2001-01-27,Jernej Rebersak,SK,0,Super G
-2001-01-27,Finlay Mickel,GB,0,Downhill
+2001-01-27,Finlay Mickel,GB,0,Combined
 2001-01-27,Pierre Emmanuel Dalcin,FR,56,Downhill
 2001-01-27,Daron Rahlves,US,120,Downhill
 2001-01-27,Andreas Schifferer,AT,108,Giant Slalom
-2001-01-27,Johnny Albertsen,DK,0,Downhill
+2001-01-27,Johnny Albertsen,DK,0,Combined
 2001-01-27,Paul Accola,CH,54,Giant Slalom
 2001-01-27,Ambrosi Hoffmann,CH,3,Downhill
-2001-01-27,Jan Holicky,CZ,0,Downhill
+2001-01-27,Jan Holicky,CZ,0,Combined
 2001-01-27,Alessandro Fattori,IT,171,Downhill
 2001-01-27,Steve Locher,CH,2,Giant Slalom
-2001-01-27,Borek Zakouril,CZ,0,Downhill
+2001-01-27,Borek Zakouril,CZ,0,Combined
 2001-01-27,Stephan Eberharter,AT,350,Downhill
-2001-01-27,Gregor Sparovec,SK,0,Super G
-2001-01-27,Manuel Carrozza,IT,0,Downhill
+2001-01-27,Gregor Sparovec,SK,0,Combined
+2001-01-27,Manuel Carrozza,IT,0,Combined
 2001-01-27,Lasse Paulsen,NO,0,Giant Slalom
-2001-01-27,Jeff Durand,CA,0,Downhill
+2001-01-27,Jeff Durand,CA,0,Combined
 2001-01-27,Stefan Stankalla,DE,39,Super G
 2001-01-27,Fredrik Nyberg,SE,46,Giant Slalom
 2001-01-27,Max Rauffer,DE,56,Downhill
-2001-01-27,Konrad Hari,CH,0,Downhill
+2001-01-27,Konrad Hari,CH,0,Combined
 2001-01-27,Luke Sauder,CA,34,Downhill
-2001-01-27,Roland Assinger,AT,0,Downhill
-2001-01-27,Michael Walchhofer,AT,29,Slalom
+2001-01-27,Roland Assinger,AT,0,Combined
+2001-01-27,Michael Walchhofer,AT,29,Combined
 2001-01-27,Kenneth Sivertsen,NO,49,Downhill
-2001-01-27,Craig Branch,AU,0,Downhill
+2001-01-27,Craig Branch,AU,0,Combined
 2001-01-27,Bjarne Solbakken,NO,0,Giant Slalom
-2001-01-27,Patrick Staudacher,IT,0,Downhill
-2001-01-27,Maurizio Feller,IT,0,Downhill
+2001-01-27,Patrick Staudacher,IT,0,Combined
+2001-01-27,Maurizio Feller,IT,0,Combined
 2001-01-27,Brett Fischer,US,2,Downhill
 2001-01-27,Florian Eckert,DE,30,Downhill
 2001-01-27,Josef Strobl,AT,117,Super G
@@ -520,24 +520,24 @@ date,name,ath_country,value,specialty
 2001-01-27,Jernej Koblar,SK,0,Giant Slalom
 2001-01-27,Franco Cavegn,CH,150,Downhill
 2001-01-27,Jakub Fiala,US,0,Super G
-2001-01-27,P Casey Puckett,US,0,Giant Slalom
+2001-01-27,P Casey Puckett,US,0,Combined
 2001-01-27,Iwan Bormolini,IT,3,Giant Slalom
-2001-01-27,Christian Prassberger,DE,0,Downhill
+2001-01-27,Christian Prassberger,DE,0,Combined
 2001-01-27,Peter Pen,SK,47,Downhill
 2001-01-27,Chad Fleischer,US,98,Downhill
 2001-01-27,Kristian Ghedina,IT,95,Downhill
 2001-01-27,Erik Seletto,IT,29,Downhill
-2001-01-27,Chad Mullen,CA,0,Downhill
-2001-01-27,Daniel Dorigo,IT,0,Downhill
+2001-01-27,Chad Mullen,CA,0,Combined
+2001-01-27,Daniel Dorigo,IT,0,Combined
 2001-01-27,Juergen Hasler,LI,14,Downhill
 2001-01-27,Hannes Trinkl,AT,219,Downhill
 2001-01-27,Matteo Berbenni,IT,0,Downhill
-2001-01-27,Andrej Filischkin,RU,0,Downhill
-2001-01-27,Andrej Prevuznak,SK,0,Downhill
+2001-01-27,Andrej Filischkin,RU,0,Combined
+2001-01-27,Andrej Prevuznak,SK,0,Combined
 2001-01-27,Marco Buechel,LI,20,Giant Slalom
 2001-01-27,Didier Cuche,CH,149,Downhill
 2001-01-27,Silvano Beltrametti,CH,170,Downhill
-2001-01-27,Claudio Collenberg,CH,0,Downhill
+2001-01-27,Claudio Collenberg,CH,0,Combined
 2001-01-27,Ozbi Oslak,SK,0,Super G
 2001-01-27,Tobias Gruenenfelder,CH,0,Giant Slalom
 2001-01-27,Lorenzo Galli,IT,33,Downhill
@@ -548,18 +548,18 @@ date,name,ath_country,value,specialty
 2001-01-27,Kjetil Andre Aamodt,NO,39,Slalom
 2001-01-27,Bode Miller,US,6,Giant Slalom
 2001-01-27,Audun Groenvold,NO,18,Super G
-2001-01-27,Pavel Chestakov,RU,0,Downhill
+2001-01-27,Pavel Chestakov,RU,0,Combined
 2001-01-27,Kevin Wert,CA,28,Downhill
 2001-01-27,Antoine Deneriaz,FR,0,Downhill
 2001-01-27,Bruno Kernen,CH,155,Downhill
 2001-01-27,Markus Herrmann,CH,12,Downhill
-2001-01-27,Ivan Heimschild,SK,0,Downhill
+2001-01-27,Ivan Heimschild,SK,0,Combined
 2001-01-27,Christian Greber,AT,40,Downhill
 2001-01-27,Nicolas Burtin,FR,20,Downhill
 2001-01-27,Fritz Strobl,AT,263,Downhill
 2001-01-27,Christophe Saioni,FR,4,Super G
-2001-01-27,Daisuke Yoshioka,JP,0,Downhill
-2001-01-27,David Anderson,CA,0,Downhill
+2001-01-27,Daisuke Yoshioka,JP,0,Combined
+2001-01-27,David Anderson,CA,0,Combined
 2001-01-27,Marc Bottollier,FR,11,Downhill
 2001-01-27,Werner Franz,AT,150,Downhill
 2001-01-27,Aane Saeter,NO,0,Downhill
@@ -568,41 +568,41 @@ date,name,ath_country,value,specialty
 2001-01-27,Patrice Manuel,FR,0,Super G
 2001-01-27,Didier Defago,CH,46,Downhill
 2001-01-27,Lasse Kjus,NO,185,Downhill
-2001-01-27,Yasuyuki Takishita,JP,0,Downhill
+2001-01-27,Yasuyuki Takishita,JP,0,Combined
 2001-03-02,Roland Fischnaller,IT,89,Downhill
 2001-03-02,Patrice Manuel,FR,0,Super G
-2001-03-02,Andrej Prevuznak,SK,0,Downhill
+2001-03-02,Andrej Prevuznak,SK,0,Combined
 2001-03-02,Lasse Kjus,NO,245,Downhill
-2001-03-02,P Casey Puckett,US,0,Giant Slalom
+2001-03-02,P Casey Puckett,US,0,Combined
 2001-03-02,Jernej Rebersak,SK,0,Super G
 2001-03-02,Vincent Blanc,FR,2,Downhill
-2001-03-02,Christian Prassberger,DE,0,Downhill
-2001-03-02,Jeff Durand,CA,0,Downhill
-2001-03-02,Yasuyuki Takishita,JP,0,Downhill
-2001-03-02,Maurizio Feller,IT,0,Downhill
+2001-03-02,Christian Prassberger,DE,0,Combined
+2001-03-02,Jeff Durand,CA,0,Combined
+2001-03-02,Yasuyuki Takishita,JP,0,Combined
+2001-03-02,Maurizio Feller,IT,0,Combined
 2001-03-02,Peter Rzehak,AT,180,Downhill
 2001-03-02,Jernej Koblar,SK,0,Giant Slalom
-2001-03-02,Andrej Filischkin,RU,0,Downhill
-2001-03-02,Johnny Albertsen,DK,0,Downhill
-2001-03-02,Finlay Mickel,GB,0,Downhill
+2001-03-02,Andrej Filischkin,RU,0,Combined
+2001-03-02,Johnny Albertsen,DK,0,Combined
+2001-03-02,Finlay Mickel,GB,0,Combined
 2001-03-02,Alessandro Fattori,IT,171,Downhill
-2001-03-02,Ivan Heimschild,SK,0,Downhill
-2001-03-02,Daisuke Yoshioka,JP,0,Downhill
+2001-03-02,Ivan Heimschild,SK,0,Combined
+2001-03-02,Daisuke Yoshioka,JP,0,Combined
 2001-03-02,Florian Eckert,DE,110,Downhill
-2001-03-02,Jan Holicky,CZ,0,Downhill
-2001-03-02,Pavel Chestakov,RU,0,Downhill
-2001-03-02,Borek Zakouril,CZ,0,Downhill
+2001-03-02,Jan Holicky,CZ,0,Combined
+2001-03-02,Pavel Chestakov,RU,0,Combined
+2001-03-02,Borek Zakouril,CZ,0,Combined
 2001-03-02,Hannes Trinkl,AT,237,Downhill
 2001-03-02,Stephan Eberharter,AT,382,Downhill
-2001-03-02,David Anderson,CA,0,Downhill
-2001-03-02,Daniel Dorigo,IT,0,Downhill
-2001-03-02,Patrick Staudacher,IT,0,Downhill
-2001-03-02,Craig Branch,AU,0,Downhill
+2001-03-02,David Anderson,CA,0,Combined
+2001-03-02,Daniel Dorigo,IT,0,Combined
+2001-03-02,Patrick Staudacher,IT,0,Combined
+2001-03-02,Craig Branch,AU,0,Combined
 2001-03-02,Hermann Maier,AT,431,Giant Slalom
-2001-03-02,Chad Mullen,CA,0,Downhill
-2001-03-02,Roland Assinger,AT,0,Downhill
-2001-03-02,Claudio Collenberg,CH,0,Downhill
-2001-03-02,Manuel Carrozza,IT,0,Downhill
+2001-03-02,Chad Mullen,CA,0,Combined
+2001-03-02,Roland Assinger,AT,0,Combined
+2001-03-02,Claudio Collenberg,CH,0,Combined
+2001-03-02,Manuel Carrozza,IT,0,Combined
 2001-03-02,Ozbi Oslak,SK,0,Super G
 2001-03-02,Kristian Ghedina,IT,95,Downhill
 2001-03-02,Tobias Gruenenfelder,CH,0,Giant Slalom
@@ -647,7 +647,7 @@ date,name,ath_country,value,specialty
 2001-03-02,Franco Cavegn,CH,190,Downhill
 2001-03-02,Sebastien Fournier-Bidoz,FR,0,Super G
 2001-03-02,Audun Groenvold,NO,18,Super G
-2001-03-02,Gregor Sparovec,SK,0,Super G
+2001-03-02,Gregor Sparovec,SK,0,Combined
 2001-03-02,Kevin Wert,CA,28,Downhill
 2001-03-02,Darin McBeath,CA,42,Downhill
 2001-03-02,Peter Pen,SK,73,Downhill
@@ -660,84 +660,84 @@ date,name,ath_country,value,specialty
 2001-03-02,Rolf von Weissenfluh,CH,58,Downhill
 2001-03-02,Kenneth Sivertsen,NO,63,Downhill
 2001-03-02,Daron Rahlves,US,120,Downhill
-2001-03-02,Konrad Hari,CH,0,Downhill
+2001-03-02,Konrad Hari,CH,0,Combined
 2001-03-02,Nicolas Burtin,FR,40,Downhill
 2001-03-02,Pierre Emmanuel Dalcin,FR,58,Downhill
-2001-03-02,Michael Walchhofer,AT,29,Slalom
+2001-03-02,Michael Walchhofer,AT,29,Combined
 2001-03-03,Audun Groenvold,NO,18,Super G
 2001-03-03,Fritz Strobl,AT,373,Downhill
 2001-03-03,Claude Cretier,FR,64,Downhill
 2001-03-03,Ed Podivinsky,CA,11,Downhill
 2001-03-03,Ozbi Oslak,SK,0,Super G
 2001-03-03,Darin McBeath,CA,42,Downhill
-2001-03-03,Pavel Chestakov,RU,0,Downhill
+2001-03-03,Pavel Chestakov,RU,0,Combined
 2001-03-03,Kurt Sulzenbacher,IT,54,Downhill
 2001-03-03,Kristian Ghedina,IT,95,Downhill
 2001-03-03,Marco Buechel,LI,24,Giant Slalom
-2001-03-03,Yasuyuki Takishita,JP,0,Downhill
+2001-03-03,Yasuyuki Takishita,JP,0,Combined
 2001-03-03,Chris Puckett,US,14,Downhill
 2001-03-03,Didier Cuche,CH,181,Downhill
 2001-03-03,Werner Franz,AT,210,Downhill
 2001-03-03,Kevin Wert,CA,28,Downhill
 2001-03-03,Pierre Emmanuel Dalcin,FR,72,Downhill
-2001-03-03,Jan Holicky,CZ,0,Downhill
+2001-03-03,Jan Holicky,CZ,0,Combined
 2001-03-03,Silvano Beltrametti,CH,226,Downhill
 2001-03-03,Tobias Gruenenfelder,CH,0,Giant Slalom
 2001-03-03,Hans Knauss,AT,95,Downhill
 2001-03-03,Lorenzo Galli,IT,33,Downhill
 2001-03-03,Sebastien Fournier-Bidoz,FR,18,Super G
-2001-03-03,Johnny Albertsen,DK,0,Downhill
+2001-03-03,Johnny Albertsen,DK,0,Combined
 2001-03-03,Kjetil Andre Aamodt,NO,43,Slalom
-2001-03-03,Andrej Prevuznak,SK,0,Downhill
+2001-03-03,Andrej Prevuznak,SK,0,Combined
 2001-03-03,Christoph Gruber,AT,58,Super G
-2001-03-03,Claudio Collenberg,CH,0,Downhill
+2001-03-03,Claudio Collenberg,CH,0,Combined
 2001-03-03,Patrice Manuel,FR,0,Super G
 2001-03-03,Alessandro Fattori,IT,177,Downhill
 2001-03-03,Erik Seletto,IT,29,Downhill
 2001-03-03,Antoine Deneriaz,FR,22,Downhill
 2001-03-03,Luca Cattaneo,IT,53,Downhill
 2001-03-03,Lasse Kjus,NO,269,Downhill
-2001-03-03,P Casey Puckett,US,0,Giant Slalom
+2001-03-03,P Casey Puckett,US,0,Combined
 2001-03-03,Peter Pen,SK,86,Downhill
 2001-03-03,Didier Defago,CH,123,Downhill
 2001-03-03,Jernej Rebersak,SK,0,Super G
 2001-03-03,Marc Bottollier,FR,22,Downhill
-2001-03-03,Ivan Heimschild,SK,0,Downhill
+2001-03-03,Ivan Heimschild,SK,0,Combined
 2001-03-03,Markus Herrmann,CH,27,Downhill
-2001-03-03,Daniel Dorigo,IT,0,Downhill
-2001-03-03,Christian Prassberger,DE,0,Downhill
+2001-03-03,Daniel Dorigo,IT,0,Combined
+2001-03-03,Christian Prassberger,DE,0,Combined
 2001-03-03,Nicolas Burtin,FR,48,Downhill
-2001-03-03,Maurizio Feller,IT,0,Downhill
+2001-03-03,Maurizio Feller,IT,0,Combined
 2001-03-03,Andreas Schifferer,AT,108,Giant Slalom
 2001-03-03,Peter Rzehak,AT,189,Downhill
 2001-03-03,Brett Fischer,US,2,Downhill
-2001-03-03,Finlay Mickel,GB,0,Downhill
+2001-03-03,Finlay Mickel,GB,0,Combined
 2001-03-03,Ambrosi Hoffmann,CH,3,Downhill
 2001-03-03,Stefan Stankalla,DE,39,Super G
 2001-03-03,AJ Bear,AU,1,Downhill
 2001-03-03,Florian Eckert,DE,190,Downhill
-2001-03-03,Patrick Staudacher,IT,0,Downhill
+2001-03-03,Patrick Staudacher,IT,0,Combined
 2001-03-03,Jernej Koblar,SK,0,Giant Slalom
 2001-03-03,Iwan Bormolini,IT,3,Giant Slalom
-2001-03-03,Gregor Sparovec,SK,0,Super G
+2001-03-03,Gregor Sparovec,SK,0,Combined
 2001-03-03,Josef Strobl,AT,151,Super G
 2001-03-03,Jakub Fiala,US,0,Super G
-2001-03-03,Jeff Durand,CA,0,Downhill
+2001-03-03,Jeff Durand,CA,0,Combined
 2001-03-03,Rolf von Weissenfluh,CH,78,Downhill
-2001-03-03,Craig Branch,AU,0,Downhill
+2001-03-03,Craig Branch,AU,0,Combined
 2001-03-03,Bjarne Solbakken,NO,0,Giant Slalom
-2001-03-03,Michael Walchhofer,AT,29,Slalom
-2001-03-03,Konrad Hari,CH,0,Downhill
+2001-03-03,Michael Walchhofer,AT,29,Combined
+2001-03-03,Konrad Hari,CH,0,Combined
 2001-03-03,Roland Fischnaller,IT,111,Downhill
-2001-03-03,Manuel Carrozza,IT,0,Downhill
+2001-03-03,Manuel Carrozza,IT,0,Combined
 2001-03-03,Lasse Paulsen,NO,0,Giant Slalom
-2001-03-03,Borek Zakouril,CZ,0,Downhill
-2001-03-03,Andrej Filischkin,RU,0,Downhill
+2001-03-03,Borek Zakouril,CZ,0,Combined
+2001-03-03,Andrej Filischkin,RU,0,Combined
 2001-03-03,Max Rauffer,DE,56,Downhill
 2001-03-03,Stephan Eberharter,AT,482,Downhill
 2001-03-03,Matteo Berbenni,IT,10,Downhill
 2001-03-03,Paul Accola,CH,64,Giant Slalom
-2001-03-03,Chad Mullen,CA,0,Downhill
+2001-03-03,Chad Mullen,CA,0,Combined
 2001-03-03,Chad Fleischer,US,98,Downhill
 2001-03-03,Juergen Hasler,LI,18,Downhill
 2001-03-03,Christian Greber,AT,63,Downhill
@@ -745,100 +745,100 @@ date,name,ath_country,value,specialty
 2001-03-03,Hermann Maier,AT,476,Giant Slalom
 2001-03-03,Simon Bastelica,FR,0,Super G
 2001-03-03,Fredrik Nyberg,SE,46,Giant Slalom
-2001-03-03,David Anderson,CA,0,Downhill
+2001-03-03,David Anderson,CA,0,Combined
 2001-03-03,Franco Cavegn,CH,240,Downhill
 2001-03-03,Steve Locher,CH,39,Giant Slalom
 2001-03-03,Luke Sauder,CA,34,Downhill
 2001-03-03,Daron Rahlves,US,149,Downhill
 2001-03-03,Christophe Saioni,FR,4,Super G
-2001-03-03,Roland Assinger,AT,0,Downhill
+2001-03-03,Roland Assinger,AT,0,Combined
 2001-03-03,Patrick Wirth,AT,50,Downhill
 2001-03-03,Bode Miller,US,6,Giant Slalom
 2001-03-03,Aane Saeter,NO,5,Downhill
 2001-03-03,Kenneth Sivertsen,NO,78,Downhill
 2001-03-03,Vincent Blanc,FR,2,Downhill
-2001-03-03,Daisuke Yoshioka,JP,0,Downhill
+2001-03-03,Daisuke Yoshioka,JP,0,Combined
 2001-03-03,Bruno Kernen,CH,163,Downhill
 2001-03-08,Paul Accola,CH,64,Giant Slalom
-2001-03-08,Ivan Heimschild,SK,0,Downhill
+2001-03-08,Ivan Heimschild,SK,0,Combined
 2001-03-08,Kevin Wert,CA,28,Downhill
-2001-03-08,Maurizio Feller,IT,0,Downhill
+2001-03-08,Maurizio Feller,IT,0,Combined
 2001-03-08,Patrick Wirth,AT,50,Downhill
 2001-03-08,Stephan Eberharter,AT,562,Downhill
 2001-03-08,Kurt Sulzenbacher,IT,54,Downhill
 2001-03-08,Alessandro Fattori,IT,186,Downhill
-2001-03-08,Patrick Staudacher,IT,0,Downhill
+2001-03-08,Patrick Staudacher,IT,0,Combined
 2001-03-08,Steve Locher,CH,39,Giant Slalom
 2001-03-08,Hermann Maier,AT,576,Giant Slalom
 2001-03-08,Luke Sauder,CA,34,Downhill
-2001-03-08,Jan Holicky,CZ,0,Downhill
+2001-03-08,Jan Holicky,CZ,0,Combined
 2001-03-08,Fredrik Nyberg,SE,46,Giant Slalom
 2001-03-08,Claude Cretier,FR,64,Downhill
 2001-03-08,Rolf von Weissenfluh,CH,94,Downhill
-2001-03-08,Roland Assinger,AT,0,Downhill
+2001-03-08,Roland Assinger,AT,0,Combined
 2001-03-08,Stefan Stankalla,DE,39,Super G
 2001-03-08,Luca Cattaneo,IT,53,Downhill
-2001-03-08,Johnny Albertsen,DK,0,Downhill
+2001-03-08,Johnny Albertsen,DK,0,Combined
 2001-03-08,Jernej Koblar,SK,0,Giant Slalom
 2001-03-08,Max Rauffer,DE,56,Downhill
-2001-03-08,Michael Walchhofer,AT,29,Slalom
+2001-03-08,Michael Walchhofer,AT,29,Combined
 2001-03-08,Christian Greber,AT,63,Downhill
 2001-03-08,Christoph Gruber,AT,58,Super G
 2001-03-08,Pierre Emmanuel Dalcin,FR,90,Downhill
 2001-03-08,Antoine Deneriaz,FR,22,Downhill
-2001-03-08,Pavel Chestakov,RU,0,Downhill
+2001-03-08,Pavel Chestakov,RU,0,Combined
 2001-03-08,Bode Miller,US,6,Giant Slalom
-2001-03-08,Daisuke Yoshioka,JP,0,Downhill
+2001-03-08,Daisuke Yoshioka,JP,0,Combined
 2001-03-08,Aane Saeter,NO,5,Downhill
 2001-03-08,Bruno Kernen,CH,183,Downhill
 2001-03-08,Peter Rzehak,AT,213,Downhill
 2001-03-08,Christophe Saioni,FR,4,Super G
-2001-03-08,Andrej Filischkin,RU,0,Downhill
+2001-03-08,Andrej Filischkin,RU,0,Combined
 2001-03-08,Andreas Schifferer,AT,108,Giant Slalom
 2001-03-08,Iwan Bormolini,IT,3,Giant Slalom
-2001-03-08,Finlay Mickel,GB,0,Downhill
+2001-03-08,Finlay Mickel,GB,0,Combined
 2001-03-08,Ambrosi Hoffmann,CH,3,Downhill
 2001-03-08,AJ Bear,AU,1,Downhill
-2001-03-08,Borek Zakouril,CZ,0,Downhill
+2001-03-08,Borek Zakouril,CZ,0,Combined
 2001-03-08,Jakub Fiala,US,0,Super G
 2001-03-08,Chad Fleischer,US,120,Downhill
 2001-03-08,Florian Eckert,DE,202,Downhill
 2001-03-08,Bjarne Solbakken,NO,0,Giant Slalom
 2001-03-08,Josef Strobl,AT,196,Super G
-2001-03-08,Konrad Hari,CH,0,Downhill
-2001-03-08,Manuel Carrozza,IT,0,Downhill
+2001-03-08,Konrad Hari,CH,0,Combined
+2001-03-08,Manuel Carrozza,IT,0,Combined
 2001-03-08,Lasse Paulsen,NO,0,Giant Slalom
 2001-03-08,Kenneth Sivertsen,NO,138,Downhill
 2001-03-08,Roland Fischnaller,IT,121,Downhill
-2001-03-08,Jeff Durand,CA,0,Downhill
-2001-03-08,Gregor Sparovec,SK,0,Super G
+2001-03-08,Jeff Durand,CA,0,Combined
+2001-03-08,Gregor Sparovec,SK,0,Combined
 2001-03-08,Brett Fischer,US,2,Downhill
 2001-03-08,Vincent Blanc,FR,2,Downhill
 2001-03-08,Franco Cavegn,CH,290,Downhill
 2001-03-08,Simon Bastelica,FR,0,Super G
-2001-03-08,Christian Prassberger,DE,0,Downhill
-2001-03-08,Craig Branch,AU,0,Downhill
-2001-03-08,David Anderson,CA,0,Downhill
+2001-03-08,Christian Prassberger,DE,0,Combined
+2001-03-08,Craig Branch,AU,0,Combined
+2001-03-08,David Anderson,CA,0,Combined
 2001-03-08,Juergen Hasler,LI,18,Downhill
 2001-03-08,Hannes Trinkl,AT,313,Downhill
 2001-03-08,Darin McBeath,CA,42,Downhill
 2001-03-08,Fritz Strobl,AT,402,Downhill
-2001-03-08,Daniel Dorigo,IT,0,Downhill
+2001-03-08,Daniel Dorigo,IT,0,Combined
 2001-03-08,Audun Groenvold,NO,18,Super G
 2001-03-08,Peter Pen,SK,101,Downhill
 2001-03-08,Silvano Beltrametti,CH,266,Downhill
-2001-03-08,Claudio Collenberg,CH,0,Downhill
+2001-03-08,Claudio Collenberg,CH,0,Combined
 2001-03-08,Erik Seletto,IT,29,Downhill
 2001-03-08,Hans Knauss,AT,95,Downhill
 2001-03-08,Sebastien Fournier-Bidoz,FR,18,Super G
 2001-03-08,Tobias Gruenenfelder,CH,0,Giant Slalom
 2001-03-08,Lorenzo Galli,IT,33,Downhill
 2001-03-08,Didier Defago,CH,123,Downhill
-2001-03-08,Andrej Prevuznak,SK,0,Downhill
+2001-03-08,Andrej Prevuznak,SK,0,Combined
 2001-03-08,Kjetil Andre Aamodt,NO,43,Slalom
 2001-03-08,Markus Herrmann,CH,27,Downhill
 2001-03-08,Lasse Kjus,NO,301,Downhill
-2001-03-08,Chad Mullen,CA,0,Downhill
+2001-03-08,Chad Mullen,CA,0,Combined
 2001-03-08,Matteo Berbenni,IT,10,Downhill
 2001-03-08,Kristian Ghedina,IT,95,Downhill
 2001-03-08,Ed Podivinsky,CA,11,Downhill
@@ -851,6 +851,6 @@ date,name,ath_country,value,specialty
 2001-03-08,Patrice Manuel,FR,0,Super G
 2001-03-08,Marc Bottollier,FR,22,Downhill
 2001-03-08,Daron Rahlves,US,162,Downhill
-2001-03-08,P Casey Puckett,US,0,Giant Slalom
-2001-03-08,Yasuyuki Takishita,JP,0,Downhill
+2001-03-08,P Casey Puckett,US,0,Combined
+2001-03-08,Yasuyuki Takishita,JP,0,Combined
 2001-03-08,Jernej Rebersak,SK,0,Super G

@@ -5,10 +5,10 @@ date,name,ath_country,value,specialty
 1980-12-07,Doug Powell,US,5,Downhill
 1980-12-07,Phil Mahre,US,0,Giant Slalom
 1980-12-07,Valeri Tsiganov,RU,3,Downhill
-1980-12-07,Peter Luescher,CH,0,Downhill
+1980-12-07,Peter Luescher,CH,0,Combined
 1980-12-07,Ken Read,CA,20,Downhill
 1980-12-07,Werner Grissmann,AT,0,Downhill
-1980-12-07,Andreas Wenzel,LI,0,Giant Slalom
+1980-12-07,Andreas Wenzel,LI,0,Combined
 1980-12-07,Michael Veith,DE,0,Downhill
 1980-12-07,Peter Wirnsberger,AT,0,Downhill
 1980-12-07,Erwin Josi,CH,0,Downhill
@@ -45,7 +45,7 @@ date,name,ath_country,value,specialty
 1980-12-14,Gerhard Pfaffenbichler,AT,8,Downhill
 1980-12-14,Dave Murray,CA,11,Downhill
 1980-12-14,Siegfried Kerschbaumer,IT,2,Combined
-1980-12-14,Andreas Wenzel,LI,1,Giant Slalom
+1980-12-14,Andreas Wenzel,LI,1,Combined
 1980-12-14,Dave Irwin,CA,11,Downhill
 1980-12-14,Erwin Josi,CH,9,Downhill
 1980-12-14,Gerard Rambaud,FR,0,Downhill
@@ -66,7 +66,7 @@ date,name,ath_country,value,specialty
 1980-12-14,Peter Wirnsberger,AT,0,Downhill
 1980-12-14,Steve Podborski,CA,30,Downhill
 1980-12-14,Ken Read,CA,25,Downhill
-1980-12-14,Peter Luescher,CH,7,Downhill
+1980-12-14,Peter Luescher,CH,7,Combined
 1980-12-14,Valeri Tsiganov,RU,3,Downhill
 1980-12-14,Philip Pugnat,FR,4,Downhill
 1980-12-14,Doug Powell,US,5,Downhill
@@ -99,13 +99,13 @@ date,name,ath_country,value,specialty
 1980-12-15,Dave Irwin,CA,11,Downhill
 1980-12-15,Uli Spiess,AT,56,Downhill
 1980-12-15,Ken Read,CA,35,Downhill
-1980-12-15,Andreas Wenzel,LI,1,Giant Slalom
+1980-12-15,Andreas Wenzel,LI,1,Combined
 1980-12-15,Harti Weirather,AT,45,Downhill
 1980-12-15,Herbert Plank,IT,3,Downhill
 1980-12-15,Michael Veith,DE,13,Downhill
 1980-12-15,Karl Anderson,US,0,Downhill
 1980-12-15,Siegfried Kerschbaumer,IT,2,Combined
-1980-12-15,Peter Luescher,CH,7,Downhill
+1980-12-15,Peter Luescher,CH,7,Combined
 1980-12-15,Peter Wirnsberger,AT,0,Downhill
 1980-12-15,Franz Heinzer,CH,0,Downhill
 1980-12-15,Helmut Hoeflehner,AT,8,Downhill
@@ -130,11 +130,11 @@ date,name,ath_country,value,specialty
 1980-12-21,Hubert Nachbauer,AT,0,Downhill
 1980-12-21,Doug Powell,US,5,Downhill
 1980-12-21,Phil Mahre,US,0,Giant Slalom
-1980-12-21,Peter Luescher,CH,7,Downhill
+1980-12-21,Peter Luescher,CH,7,Combined
 1980-12-21,Philip Pugnat,FR,4,Downhill
 1980-12-21,Werner Grissmann,AT,0,Downhill
 1980-12-21,Hans Enn,AT,0,Giant Slalom
-1980-12-21,Andreas Wenzel,LI,1,Giant Slalom
+1980-12-21,Andreas Wenzel,LI,1,Combined
 1980-12-21,Siegfried Kerschbaumer,IT,2,Combined
 1980-12-21,Dave Murray,CA,18,Downhill
 1980-12-21,Conradin Cathomen,CH,1,Downhill
@@ -174,7 +174,7 @@ date,name,ath_country,value,specialty
 1981-01-10,Erwin Resch,AT,23,Downhill
 1981-01-10,Erwin Josi,CH,9,Downhill
 1981-01-10,Michael Veith,DE,21,Downhill
-1981-01-10,Andreas Wenzel,LI,1,Giant Slalom
+1981-01-10,Andreas Wenzel,LI,1,Combined
 1981-01-10,Philip Pugnat,FR,4,Downhill
 1981-01-10,Hubert Nachbauer,AT,0,Downhill
 1981-01-10,Siegfried Kerschbaumer,IT,2,Combined
@@ -191,7 +191,7 @@ date,name,ath_country,value,specialty
 1981-01-10,Ken Read,CA,42,Downhill
 1981-01-10,Werner Grissmann,AT,5,Downhill
 1981-01-10,Peter Mueller,CH,75,Downhill
-1981-01-10,Peter Luescher,CH,7,Downhill
+1981-01-10,Peter Luescher,CH,7,Combined
 1981-01-10,Herbert Plank,IT,13,Downhill
 1981-01-10,Dave Irwin,CA,20,Downhill
 1981-01-10,Josef Walcher,AT,9,Downhill
@@ -207,7 +207,7 @@ date,name,ath_country,value,specialty
 1981-01-17,Steve Podborski,CA,111,Downhill
 1981-01-17,Michael Veith,DE,21,Downhill
 1981-01-17,Peter Wirnsberger,AT,44,Downhill
-1981-01-17,Peter Luescher,CH,7,Downhill
+1981-01-17,Peter Luescher,CH,7,Combined
 1981-01-17,Walter Vesti,CH,17,Downhill
 1981-01-17,Valeri Tsiganov,RU,19,Downhill
 1981-01-17,Franz Heinzer,CH,8,Downhill
@@ -221,7 +221,7 @@ date,name,ath_country,value,specialty
 1981-01-17,Giuliano Giardini,IT,10,Downhill
 1981-01-17,Vladimir Makeev,RU,7,Downhill
 1981-01-17,Dave Murray,CA,20,Downhill
-1981-01-17,Andreas Wenzel,LI,1,Giant Slalom
+1981-01-17,Andreas Wenzel,LI,1,Combined
 1981-01-17,Hans Enn,AT,0,Giant Slalom
 1981-01-17,Silvano Meli,CH,4,Downhill
 1981-01-17,Werner Grissmann,AT,11,Downhill
@@ -241,7 +241,7 @@ date,name,ath_country,value,specialty
 1981-01-17,Uli Spiess,AT,56,Downhill
 1981-01-24,Michael Veith,DE,21,Downhill
 1981-01-24,Werner Grissmann,AT,11,Downhill
-1981-01-24,Andreas Wenzel,LI,1,Giant Slalom
+1981-01-24,Andreas Wenzel,LI,1,Combined
 1981-01-24,Valeri Tsiganov,RU,30,Downhill
 1981-01-24,Dave Irwin,CA,20,Downhill
 1981-01-24,Ken Read,CA,42,Downhill
@@ -264,7 +264,7 @@ date,name,ath_country,value,specialty
 1981-01-24,Toni Buergler,CH,43,Downhill
 1981-01-24,Phil Mahre,US,10,Giant Slalom
 1981-01-24,Steve Podborski,CA,126,Downhill
-1981-01-24,Peter Luescher,CH,7,Downhill
+1981-01-24,Peter Luescher,CH,7,Combined
 1981-01-24,Giuliano Giardini,IT,10,Downhill
 1981-01-24,Erwin Josi,CH,11,Downhill
 1981-01-24,Franz Klammer,AT,34,Downhill
@@ -302,7 +302,7 @@ date,name,ath_country,value,specialty
 1981-01-31,Pete Patterson,US,15,Downhill
 1981-01-31,Michael Veith,DE,21,Downhill
 1981-01-31,Karl Anderson,US,1,Downhill
-1981-01-31,Andreas Wenzel,LI,9,Giant Slalom
+1981-01-31,Andreas Wenzel,LI,9,Combined
 1981-01-31,Peter Wirnsberger,AT,70,Downhill
 1981-01-31,Herbert Plank,IT,29,Downhill
 1981-01-31,Erwin Resch,AT,23,Downhill
@@ -312,7 +312,7 @@ date,name,ath_country,value,specialty
 1981-01-31,Ken Read,CA,42,Downhill
 1981-01-31,Hans Enn,AT,2,Giant Slalom
 1981-01-31,Dave Irwin,CA,20,Downhill
-1981-01-31,Peter Luescher,CH,7,Downhill
+1981-01-31,Peter Luescher,CH,7,Combined
 1981-01-31,Gerhard Pfaffenbichler,AT,23,Downhill
 1981-01-31,Vladimir Makeev,RU,26,Downhill
 1981-01-31,Valeri Tsiganov,RU,30,Downhill
@@ -341,7 +341,7 @@ date,name,ath_country,value,specialty
 1981-03-05,Urs Raeber,CH,15,Downhill
 1981-03-05,Andy Mill,US,12,Downhill
 1981-03-05,Gerhard Pfaffenbichler,AT,38,Downhill
-1981-03-05,Peter Luescher,CH,7,Downhill
+1981-03-05,Peter Luescher,CH,7,Combined
 1981-03-05,Erwin Josi,CH,12,Downhill
 1981-03-05,Dave Murray,CA,20,Downhill
 1981-03-05,Valeri Tsiganov,RU,55,Downhill
@@ -353,7 +353,7 @@ date,name,ath_country,value,specialty
 1981-03-05,Conradin Cathomen,CH,23,Downhill
 1981-03-05,Michael Veith,DE,21,Downhill
 1981-03-05,Giuliano Giardini,IT,10,Downhill
-1981-03-05,Andreas Wenzel,LI,9,Giant Slalom
+1981-03-05,Andreas Wenzel,LI,9,Combined
 1981-03-05,Steve Podborski,CA,147,Downhill
 1981-03-05,Leonhard Stock,AT,37,Downhill
 1981-03-05,Dave Irwin,CA,23,Downhill
@@ -364,7 +364,7 @@ date,name,ath_country,value,specialty
 1981-03-06,Peter Wirnsberger,AT,82,Downhill
 1981-03-06,Uli Spiess,AT,56,Downhill
 1981-03-06,Ken Read,CA,42,Downhill
-1981-03-06,Andreas Wenzel,LI,9,Giant Slalom
+1981-03-06,Andreas Wenzel,LI,9,Combined
 1981-03-06,Erwin Resch,AT,32,Downhill
 1981-03-06,Erwin Josi,CH,12,Downhill
 1981-03-06,Werner Grissmann,AT,27,Downhill
@@ -392,7 +392,7 @@ date,name,ath_country,value,specialty
 1981-03-06,Peter Mueller,CH,118,Downhill
 1981-03-06,Dave Murray,CA,20,Downhill
 1981-03-06,Gerhard Pfaffenbichler,AT,48,Downhill
-1981-03-06,Peter Luescher,CH,7,Downhill
+1981-03-06,Peter Luescher,CH,7,Combined
 1981-03-06,Siegfried Kerschbaumer,IT,3,Combined
 1981-03-06,Urs Raeber,CH,15,Downhill
 1981-03-06,Dave Irwin,CA,23,Downhill

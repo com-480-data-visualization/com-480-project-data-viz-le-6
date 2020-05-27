@@ -1,70 +1,79 @@
 date,name,ath_country,value,specialty
-1988-12-22,Hubert Strolz,AT,15,Giant Slalom
+1988-12-22,Pirmin Zurbriggen,CH,25,Downhill
+1988-12-22,Marian Bires,SK,0,Combined
+1988-12-22,Denis Rey,FR,0,Combined
+1988-12-22,Jean Luc Cretier,FR,9,Combined
+1988-12-22,Frank Piccard,FR,0,Super G
+1988-12-22,Hans-Joerg Tauscher,DE,10,Downhill
 1988-12-22,Gustav Oehrli,CH,3,Combined
-1988-12-22,Atle Skaardal,NO,0,Downhill
-1988-12-22,Fredrik Nyberg,SE,6,Combined
-1988-12-22,Willibald Zechner,AT,0,Combined
-1988-12-22,William Besse,CH,0,Downhill
+1988-12-22,Berni Huber,DE,5,Combined
+1988-12-22,Jeff Olson,US,0,Combined
 1988-12-22,Peter Mueller,CH,4,Downhill
 1988-12-22,Peter Wirnsberger Ii,AT,8,Combined
-1988-12-22,Marian Bires,SK,0,Combined
-1988-12-22,Daniel Mahrer,CH,0,Downhill
-1988-12-22,Rob Boyd,CA,0,Downhill
-1988-12-22,Peter Eigler,DE,1,Super G
-1988-12-22,Pirmin Zurbriggen,CH,0,Downhill
+1988-12-22,Lars Boerje Eriksson,SE,11,Super G
 1988-12-22,Josef Polig,IT,0,Combined
-1988-12-22,Hubertus von Hohenlohe,MX,0,Combined
-1988-12-22,Jeff Olson,US,0,Combined
-1988-12-22,Berni Huber,DE,5,Combined
-1988-12-22,Frank Piccard,FR,0,Super G
-1988-12-22,Markus Wasmeier,DE,0,Downhill
-1988-12-22,Denis Rey,FR,0,Combined
 1988-12-22,Michael Mair,IT,0,Downhill
+1988-12-22,William Besse,CH,2,Downhill
+1988-12-22,Rob Boyd,CA,0,Downhill
+1988-12-22,Hubertus von Hohenlohe,MX,0,Combined
+1988-12-22,Hubert Strolz,AT,15,Giant Slalom
+1988-12-22,Peter Eigler,DE,1,Super G
+1988-12-22,Fredrik Nyberg,SE,6,Combined
 1988-12-22,Paul Accola,CH,12,Combined
-1988-12-22,Jean Luc Cretier,FR,9,Combined
-1989-01-15,Peter Mueller,CH,15,Downhill
-1989-01-15,Peter Eigler,DE,1,Super G
-1989-01-15,William Besse,CH,1,Downhill
-1989-01-15,Rob Boyd,CA,0,Downhill
-1989-01-15,Willibald Zechner,AT,7,Combined
-1989-01-15,Paul Accola,CH,32,Combined
-1989-01-15,Michael Mair,IT,15,Downhill
-1989-01-15,Daniel Mahrer,CH,3,Downhill
-1989-01-15,Hubertus von Hohenlohe,MX,0,Combined
-1989-01-15,Frank Piccard,FR,6,Super G
-1989-01-15,Pirmin Zurbriggen,CH,0,Downhill
+1988-12-22,Willibald Zechner,AT,0,Combined
+1988-12-22,Atle Skaardal,NO,7,Downhill
+1988-12-22,Markus Wasmeier,DE,20,Downhill
+1988-12-22,Marc Girardelli,LU,0,Downhill
+1988-12-22,Daniel Mahrer,CH,0,Downhill
 1989-01-15,Fredrik Nyberg,SE,6,Combined
-1989-01-15,Markus Wasmeier,DE,12,Downhill
-1989-01-15,Atle Skaardal,NO,5,Downhill
-1989-01-15,Josef Polig,IT,0,Combined
-1989-01-15,Jeff Olson,US,2,Combined
-1989-01-15,Jean Luc Cretier,FR,19,Combined
-1989-01-15,Gustav Oehrli,CH,11,Combined
-1989-01-15,Hubert Strolz,AT,15,Giant Slalom
-1989-01-15,Peter Wirnsberger Ii,AT,8,Combined
-1989-01-15,Denis Rey,FR,9,Combined
-1989-01-15,Berni Huber,DE,5,Combined
+1989-01-15,Peter Eigler,DE,1,Super G
 1989-01-15,Marian Bires,SK,4,Combined
-1989-01-22,Michael Mair,IT,15,Downhill
-1989-01-22,Berni Huber,DE,14,Combined
-1989-01-22,Pirmin Zurbriggen,CH,20,Downhill
-1989-01-22,Hubert Strolz,AT,15,Giant Slalom
-1989-01-22,Josef Polig,IT,10,Combined
-1989-01-22,Peter Eigler,DE,1,Super G
+1989-01-15,Atle Skaardal,NO,12,Downhill
+1989-01-15,Daniel Mahrer,CH,3,Downhill
+1989-01-15,Peter Wirnsberger Ii,AT,8,Combined
+1989-01-15,William Besse,CH,3,Downhill
+1989-01-15,Willibald Zechner,AT,7,Combined
+1989-01-15,Berni Huber,DE,5,Combined
+1989-01-15,Denis Rey,FR,9,Combined
+1989-01-15,Hans-Joerg Tauscher,DE,10,Downhill
+1989-01-15,Hubert Strolz,AT,15,Giant Slalom
+1989-01-15,Pirmin Zurbriggen,CH,25,Downhill
+1989-01-15,Marc Girardelli,LU,25,Downhill
+1989-01-15,Hubertus von Hohenlohe,MX,0,Combined
+1989-01-15,Markus Wasmeier,DE,32,Downhill
+1989-01-15,Paul Accola,CH,32,Combined
+1989-01-15,Josef Polig,IT,0,Combined
+1989-01-15,Rob Boyd,CA,0,Downhill
+1989-01-15,Frank Piccard,FR,6,Super G
+1989-01-15,Lars Boerje Eriksson,SE,11,Super G
+1989-01-15,Peter Mueller,CH,15,Downhill
+1989-01-15,Jeff Olson,US,2,Combined
+1989-01-15,Gustav Oehrli,CH,11,Combined
+1989-01-15,Jean Luc Cretier,FR,19,Combined
+1989-01-15,Michael Mair,IT,15,Downhill
 1989-01-22,Rob Boyd,CA,3,Downhill
-1989-01-22,Peter Mueller,CH,15,Downhill
-1989-01-22,Markus Wasmeier,DE,27,Downhill
+1989-01-22,Hubertus von Hohenlohe,MX,2,Combined
+1989-01-22,William Besse,CH,8,Downhill
+1989-01-22,Frank Piccard,FR,6,Super G
 1989-01-22,Jeff Olson,US,6,Combined
 1989-01-22,Marian Bires,SK,4,Combined
 1989-01-22,Denis Rey,FR,9,Combined
-1989-01-22,Paul Accola,CH,44,Combined
-1989-01-22,William Besse,CH,6,Downhill
-1989-01-22,Willibald Zechner,AT,13,Combined
-1989-01-22,Frank Piccard,FR,6,Super G
-1989-01-22,Fredrik Nyberg,SE,6,Combined
-1989-01-22,Jean Luc Cretier,FR,19,Combined
-1989-01-22,Atle Skaardal,NO,13,Downhill
-1989-01-22,Gustav Oehrli,CH,22,Combined
-1989-01-22,Peter Wirnsberger Ii,AT,8,Combined
 1989-01-22,Daniel Mahrer,CH,10,Downhill
-1989-01-22,Hubertus von Hohenlohe,MX,2,Combined
+1989-01-22,Pirmin Zurbriggen,CH,45,Downhill
+1989-01-22,Marc Girardelli,LU,50,Downhill
+1989-01-22,Markus Wasmeier,DE,47,Downhill
+1989-01-22,Paul Accola,CH,44,Combined
+1989-01-22,Hubert Strolz,AT,15,Giant Slalom
+1989-01-22,Michael Mair,IT,15,Downhill
+1989-01-22,Lars Boerje Eriksson,SE,11,Super G
+1989-01-22,Fredrik Nyberg,SE,6,Combined
+1989-01-22,Peter Mueller,CH,15,Downhill
+1989-01-22,Hans-Joerg Tauscher,DE,10,Downhill
+1989-01-22,Jean Luc Cretier,FR,19,Combined
+1989-01-22,Josef Polig,IT,10,Combined
+1989-01-22,Berni Huber,DE,14,Combined
+1989-01-22,Peter Wirnsberger Ii,AT,8,Combined
+1989-01-22,Atle Skaardal,NO,20,Downhill
+1989-01-22,Willibald Zechner,AT,13,Combined
+1989-01-22,Gustav Oehrli,CH,22,Combined
+1989-01-22,Peter Eigler,DE,1,Super G

@@ -16,7 +16,7 @@ date,name,ath_country,value,specialty
 1981-12-18,Traudl Haecher,DE,0,Combined
 1981-12-18,Roxanne Toly,US,0,Downhill
 1981-12-18,Cindy Nelson,US,1,Downhill
-1981-12-18,Zoe Haas,CH,5,Giant Slalom
+1981-12-18,Zoe Haas,CH,5,Combined
 1981-12-18,Elisabeth Kirchler,AT,0,Giant Slalom
 1981-12-18,Lea Soelkner,AT,0,Downhill
 1981-12-18,Diana Haight,CA,4,Giant Slalom
@@ -36,13 +36,13 @@ date,name,ath_country,value,specialty
 1981-12-18,Christin Cooper,US,0,Slalom
 1981-12-18,Torill Fjelstadt,NO,0,Downhill
 1981-12-18,Monika Henkel,DE,8,Downhill
-1981-12-18,Michaela Gerg-Leitner,DE,0,Downhill
+1981-12-18,Michaela Gerg-Leitner,DE,0,Combined
 1981-12-19,Elisabeth Chaud,FR,6,Downhill
 1981-12-19,Torill Fjelstadt,NO,0,Downhill
 1981-12-19,Cindy Nelson,US,1,Downhill
 1981-12-19,Traudl Haecher,DE,0,Combined
 1981-12-19,Cindy Oak,US,0,Downhill
-1981-12-19,Zoe Haas,CH,5,Giant Slalom
+1981-12-19,Zoe Haas,CH,5,Combined
 1981-12-19,Ingrid Eberle,AT,12,Downhill
 1981-12-19,Maria Walliser,CH,0,Downhill
 1981-12-19,Cornelia Proell,AT,11,Downhill
@@ -68,7 +68,7 @@ date,name,ath_country,value,specialty
 1981-12-19,Roxanne Toly,US,3,Downhill
 1981-12-19,Doris De Agostini,CH,45,Downhill
 1981-12-19,Shanne Leavitt,CA,0,Downhill
-1981-12-19,Michaela Gerg-Leitner,DE,0,Downhill
+1981-12-19,Michaela Gerg-Leitner,DE,0,Combined
 1981-12-19,Olga Charvatova,SK,2,Slalom
 1981-12-19,Elisabeth Kirchler,AT,0,Giant Slalom
 1981-12-19,Regine Moesenlechner,DE,0,Downhill
@@ -79,7 +79,7 @@ date,name,ath_country,value,specialty
 1982-01-13,Sieglinde Winkler,AT,0,Downhill
 1982-01-13,Holly Beth Flanders,US,10,Downhill
 1982-01-13,Ingrid Eberle,AT,23,Downhill
-1982-01-13,Michaela Gerg-Leitner,DE,0,Downhill
+1982-01-13,Michaela Gerg-Leitner,DE,0,Combined
 1982-01-13,Marie Lucie Waldmeier,FR,2,Downhill
 1982-01-13,Elisabeth Chaud,FR,21,Downhill
 1982-01-13,Brigitte Oertli,CH,0,Combined
@@ -96,7 +96,7 @@ date,name,ath_country,value,specialty
 1982-01-13,Diana Haight,CA,6,Giant Slalom
 1982-01-13,Erika Hess,CH,2,Slalom
 1982-01-13,Laurie Graham,CA,16,Downhill
-1982-01-13,Zoe Haas,CH,5,Giant Slalom
+1982-01-13,Zoe Haas,CH,5,Combined
 1982-01-13,Lea Soelkner,AT,21,Downhill
 1982-01-13,Torill Fjelstadt,NO,0,Downhill
 1982-01-13,Elisabeth Kirchler,AT,0,Giant Slalom
@@ -114,7 +114,7 @@ date,name,ath_country,value,specialty
 1982-01-13,Jana Gantnerova,SK,7,Downhill
 1982-01-13,Veronika Vitzthum,AT,7,Downhill
 1982-01-14,Diana Haight,CA,6,Giant Slalom
-1982-01-14,Zoe Haas,CH,5,Giant Slalom
+1982-01-14,Zoe Haas,CH,5,Combined
 1982-01-14,Elisabeth Kirchler,AT,4,Giant Slalom
 1982-01-14,Olga Charvatova,SK,2,Slalom
 1982-01-14,Christin Cooper,US,10,Slalom
@@ -127,7 +127,7 @@ date,name,ath_country,value,specialty
 1982-01-14,Roxanne Toly,US,3,Downhill
 1982-01-14,Dianne Lehodey,CA,18,Downhill
 1982-01-14,Brigitte Oertli,CH,0,Combined
-1982-01-14,Michaela Gerg-Leitner,DE,2,Downhill
+1982-01-14,Michaela Gerg-Leitner,DE,2,Combined
 1982-01-14,Claudine Emonet,FR,14,Downhill
 1982-01-14,Sieglinde Winkler,AT,0,Downhill
 1982-01-14,Veronika Vitzthum,AT,7,Downhill
@@ -155,7 +155,7 @@ date,name,ath_country,value,specialty
 1982-01-18,Cindy Nelson,US,36,Downhill
 1982-01-18,Monika Henkel,DE,8,Downhill
 1982-01-18,Gerry Sorensen,CA,66,Downhill
-1982-01-18,Michaela Gerg-Leitner,DE,2,Downhill
+1982-01-18,Michaela Gerg-Leitner,DE,2,Combined
 1982-01-18,Ingrid Eberle,AT,34,Downhill
 1982-01-18,Laurie Graham,CA,25,Downhill
 1982-01-18,Lea Soelkner,AT,53,Downhill
@@ -167,7 +167,7 @@ date,name,ath_country,value,specialty
 1982-01-18,Holly Beth Flanders,US,44,Downhill
 1982-01-18,Maria Walliser,CH,22,Downhill
 1982-01-18,Sylvia Eder,AT,20,Downhill
-1982-01-18,Zoe Haas,CH,5,Giant Slalom
+1982-01-18,Zoe Haas,CH,5,Combined
 1982-01-18,Jana Gantnerova,SK,7,Downhill
 1982-01-18,Cindy Oak,US,0,Downhill
 1982-01-18,Roxanne Toly,US,3,Downhill
@@ -202,7 +202,7 @@ date,name,ath_country,value,specialty
 1982-01-19,Elisabeth Chaud,FR,52,Downhill
 1982-01-19,Sylvia Eder,AT,45,Downhill
 1982-01-19,Diana Haight,CA,6,Giant Slalom
-1982-01-19,Zoe Haas,CH,5,Giant Slalom
+1982-01-19,Zoe Haas,CH,5,Combined
 1982-01-19,Irene Epple,DE,77,Giant Slalom
 1982-01-19,Sieglinde Winkler,AT,0,Downhill
 1982-01-19,Dianne Lehodey,CA,22,Downhill
@@ -218,7 +218,7 @@ date,name,ath_country,value,specialty
 1982-01-19,Ariane Ehrat,CH,11,Downhill
 1982-01-19,Cindy Oak,US,0,Downhill
 1982-01-19,Heidi Wiesler,DE,8,Downhill
-1982-01-19,Michaela Gerg-Leitner,DE,2,Downhill
+1982-01-19,Michaela Gerg-Leitner,DE,2,Combined
 1982-01-19,Regine Moesenlechner,DE,6,Downhill
 1982-01-19,Laurie Graham,CA,35,Downhill
 1982-01-19,Jana Gantnerova,SK,7,Downhill
@@ -236,7 +236,7 @@ date,name,ath_country,value,specialty
 1982-02-13,Shanne Leavitt,CA,3,Downhill
 1982-02-13,Olga Charvatova,SK,5,Slalom
 1982-02-13,Doris De Agostini,CH,60,Downhill
-1982-02-13,Michaela Gerg-Leitner,DE,2,Downhill
+1982-02-13,Michaela Gerg-Leitner,DE,2,Combined
 1982-02-13,Gerry Sorensen,CA,79,Downhill
 1982-02-13,Erika Hess,CH,2,Slalom
 1982-02-13,Sylvia Eder,AT,45,Downhill
@@ -258,7 +258,7 @@ date,name,ath_country,value,specialty
 1982-02-13,Ariane Ehrat,CH,11,Downhill
 1982-02-13,Dianne Lehodey,CA,22,Downhill
 1982-02-13,Cindy Nelson,US,62,Downhill
-1982-02-13,Zoe Haas,CH,5,Giant Slalom
+1982-02-13,Zoe Haas,CH,5,Combined
 1982-02-13,Cornelia Proell,AT,16,Downhill
 1982-02-13,Lea Soelkner,AT,71,Downhill
 1982-02-13,Cindy Oak,US,10,Downhill
@@ -287,10 +287,10 @@ date,name,ath_country,value,specialty
 1982-02-14,Diana Haight,CA,6,Giant Slalom
 1982-02-14,Sylvia Eder,AT,45,Downhill
 1982-02-14,Elisabeth Chaud,FR,59,Downhill
-1982-02-14,Zoe Haas,CH,5,Giant Slalom
+1982-02-14,Zoe Haas,CH,5,Combined
 1982-02-14,Shanne Leavitt,CA,3,Downhill
 1982-02-14,Olga Charvatova,SK,8,Slalom
-1982-02-14,Michaela Gerg-Leitner,DE,2,Downhill
+1982-02-14,Michaela Gerg-Leitner,DE,2,Combined
 1982-02-14,Traudl Haecher,DE,8,Combined
 1982-02-14,Holly Beth Flanders,US,84,Downhill
 1982-02-14,Maria Walliser,CH,65,Downhill

@@ -25,7 +25,7 @@ date,name,ath_country,value,specialty
 1992-11-29,Christelle Guignard,FR,0,Giant Slalom
 1992-11-29,Kari Anne Saude,NO,0,Slalom
 1992-11-29,Lucia Medzihradska,SK,0,Slalom
-1992-11-29,Bibiana Perez,IT,15,Downhill
+1992-11-29,Bibiana Perez,IT,15,Combined
 1992-11-29,Astrid Plank,IT,0,Slalom
 1992-11-29,Christine von Gruenigen,CH,8,Slalom
 1992-11-29,Heidi Voelker,US,0,Slalom
@@ -98,7 +98,7 @@ date,name,ath_country,value,specialty
 1992-12-06,Corinne Rey Bellet,CH,0,Giant Slalom
 1992-12-06,Edda Mutter,DE,23,Slalom
 1992-12-06,Claudia Strobl,AT,0,Slalom
-1992-12-06,Bibiana Perez,IT,15,Downhill
+1992-12-06,Bibiana Perez,IT,15,Combined
 1992-12-06,Annelise Coberger,NZ,140,Slalom
 1992-12-06,Spela Pretnar,SK,12,Giant Slalom
 1992-12-06,Julie M. J. Parisien,US,100,Slalom
@@ -130,7 +130,7 @@ date,name,ath_country,value,specialty
 1993-01-06,Ingrid Salvenmoser,AT,86,Slalom
 1993-01-06,Martina Ertl,DE,0,Giant Slalom
 1993-01-06,Picabo Street,US,9,Downhill
-1993-01-06,Bibiana Perez,IT,15,Downhill
+1993-01-06,Bibiana Perez,IT,15,Combined
 1993-01-06,Hilde Gerg,DE,0,Slalom
 1993-01-06,Gabriela Zingre-Graf,CH,4,Slalom
 1993-01-06,Anne Berge,NO,0,Giant Slalom
@@ -181,7 +181,7 @@ date,name,ath_country,value,specialty
 1993-01-06,Diann Roffe Steinrotter,US,25,Giant Slalom
 1993-01-17,Kristina Koznick,US,0,Slalom
 1993-01-17,Regina Haeusl,DE,0,Downhill
-1993-01-17,Bibiana Perez,IT,15,Downhill
+1993-01-17,Bibiana Perez,IT,15,Combined
 1993-01-17,Gabriela Zingre-Graf,CH,13,Slalom
 1993-01-17,Diann Roffe Steinrotter,US,25,Giant Slalom
 1993-01-17,Sabina Panzanini,IT,12,Giant Slalom
@@ -270,7 +270,7 @@ date,name,ath_country,value,specialty
 1993-01-24,Natasa Bokal,SK,77,Slalom
 1993-01-24,Astrid Plank,IT,42,Slalom
 1993-01-24,Urska Hrovat,SK,53,Slalom
-1993-01-24,Bibiana Perez,IT,26,Downhill
+1993-01-24,Bibiana Perez,IT,26,Combined
 1993-01-24,Pernilla Wiberg,SE,180,Slalom
 1993-01-24,Heidi Voelker,US,8,Slalom
 1993-01-24,Picabo Street,US,9,Downhill
@@ -331,7 +331,7 @@ date,name,ath_country,value,specialty
 1993-03-14,Martina Accola,CH,93,Slalom
 1993-03-14,Natasa Bokal,SK,77,Slalom
 1993-03-14,Christine von Gruenigen,CH,100,Slalom
-1993-03-14,Bibiana Perez,IT,50,Downhill
+1993-03-14,Bibiana Perez,IT,50,Combined
 1993-03-14,Picabo Street,US,9,Downhill
 1993-03-14,Lucia Medzihradska,SK,38,Slalom
 1993-03-14,Kari Anne Saude,NO,43,Slalom
@@ -380,7 +380,7 @@ date,name,ath_country,value,specialty
 1993-03-19,Martina Ertl,DE,14,Giant Slalom
 1993-03-19,Karin Koellerer,AT,114,Slalom
 1993-03-19,Petra Kronberger,AT,96,Slalom
-1993-03-19,Bibiana Perez,IT,50,Downhill
+1993-03-19,Bibiana Perez,IT,50,Combined
 1993-03-19,Lucia Medzihradska,SK,38,Slalom
 1993-03-19,Kristina Koznick,US,10,Slalom
 1993-03-19,Deborah Compagnoni,IT,60,Super G
@@ -478,4 +478,4 @@ date,name,ath_country,value,specialty
 1993-03-28,Lucia Medzihradska,SK,38,Slalom
 1993-03-28,Angela Grassinger,DE,13,Slalom
 1993-03-28,Kerstin Riediger,DE,13,Slalom
-1993-03-28,Bibiana Perez,IT,50,Downhill
+1993-03-28,Bibiana Perez,IT,50,Combined

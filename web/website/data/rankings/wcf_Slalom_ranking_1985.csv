@@ -8,7 +8,7 @@ date,name,ath_country,value,specialty
 1984-12-01,Sylvia Eder,AT,0,Downhill
 1984-12-01,Olga Charvatova,SK,0,Slalom
 1984-12-01,Daniela Zini,IT,8,Slalom
-1984-12-01,Cristina Brichetti,IT,0,Slalom
+1984-12-01,Cristina Brichetti,IT,0,Combined
 1984-12-01,Andreja Leskovsek,,0,Giant Slalom
 1984-12-01,Erika Hess,CH,11,Slalom
 1984-12-01,Sonja Stotz,DE,0,Slalom
@@ -81,7 +81,7 @@ date,name,ath_country,value,specialty
 1984-12-09,Diann Roffe Steinrotter,US,0,Giant Slalom
 1984-12-09,Elisabeth Kirchler,AT,0,Downhill
 1984-12-09,Anja Zavadlav,,6,Slalom
-1984-12-09,Cristina Brichetti,IT,3,Slalom
+1984-12-09,Cristina Brichetti,IT,3,Combined
 1984-12-09,Traudl Haecher,DE,0,Giant Slalom
 1984-12-09,Olga Charvatova,SK,10,Slalom
 1984-12-09,Maria Epple,DE,24,Slalom
@@ -126,7 +126,7 @@ date,name,ath_country,value,specialty
 1984-12-14,Ursula Konzett,LI,8,Slalom
 1984-12-14,Amy Liveran,US,0,Slalom
 1984-12-14,Brigitte Gadient,CH,26,Slalom
-1984-12-14,Cristina Brichetti,IT,3,Slalom
+1984-12-14,Cristina Brichetti,IT,3,Combined
 1984-12-14,Zoe Haas,CH,0,Giant Slalom
 1984-12-14,Perrine Pelen,FR,42,Slalom
 1984-12-14,Karin Buder,AT,0,Slalom
@@ -174,7 +174,7 @@ date,name,ath_country,value,specialty
 1985-01-05,Amy Liveran,US,0,Slalom
 1985-01-05,Helene Barbier,FR,15,Slalom
 1985-01-05,Dorota Tlalka,PL,40,Slalom
-1985-01-05,Cristina Brichetti,IT,3,Slalom
+1985-01-05,Cristina Brichetti,IT,3,Combined
 1985-01-05,Tamara McKinney,US,37,Slalom
 1985-01-05,Brigitte Oertli,CH,17,Downhill
 1985-01-05,Caroline Beer,AT,3,Slalom
@@ -197,7 +197,7 @@ date,name,ath_country,value,specialty
 1985-01-11,Monika Maierhofer,AT,2,Slalom
 1985-01-11,Amy Liveran,US,0,Slalom
 1985-01-11,Camilla Nilsson,SE,0,Slalom
-1985-01-11,Cristina Brichetti,IT,3,Slalom
+1985-01-11,Cristina Brichetti,IT,3,Combined
 1985-01-11,Traudl Haecher,DE,0,Giant Slalom
 1985-01-11,Michela Figini,CH,0,Downhill
 1985-01-11,Caroline Beer,AT,3,Slalom
@@ -269,7 +269,7 @@ date,name,ath_country,value,specialty
 1985-01-14,Renate Lazak,DE,3,Slalom
 1985-01-14,Andreja Leskovsek,,3,Giant Slalom
 1985-01-14,Erika Hess,CH,58,Slalom
-1985-01-14,Cristina Brichetti,IT,3,Slalom
+1985-01-14,Cristina Brichetti,IT,3,Combined
 1985-01-14,Brigitte Gadient,CH,53,Slalom
 1985-01-14,Tamara McKinney,US,37,Slalom
 1985-01-14,Corinne Schmidhauser,CH,36,Slalom
@@ -293,7 +293,7 @@ date,name,ath_country,value,specialty
 1985-01-25,Erika Hess,CH,73,Slalom
 1985-01-25,Ida Ladstaetter,AT,0,Slalom
 1985-01-25,Olga Charvatova,SK,65,Slalom
-1985-01-25,Cristina Brichetti,IT,3,Slalom
+1985-01-25,Cristina Brichetti,IT,3,Combined
 1985-01-25,Maria Rosa Quario,IT,40,Slalom
 1985-01-25,Brigitte Gadient,CH,53,Slalom
 1985-01-25,Amy Liveran,US,0,Slalom
@@ -359,7 +359,7 @@ date,name,ath_country,value,specialty
 1985-03-16,Maria Epple,DE,58,Slalom
 1985-03-16,Brigitte Gadient,CH,61,Slalom
 1985-03-16,Eva Twardokens,US,21,Super G
-1985-03-16,Cristina Brichetti,IT,3,Slalom
+1985-03-16,Cristina Brichetti,IT,3,Combined
 1985-03-16,Diann Roffe Steinrotter,US,1,Giant Slalom
 1985-03-16,Monika Aeijae,SE,22,Slalom
 1985-03-16,Sonja Stotz,DE,1,Slalom
@@ -406,7 +406,7 @@ date,name,ath_country,value,specialty
 1985-03-19,Sylvia Eder,AT,3,Downhill
 1985-03-19,Ida Ladstaetter,AT,11,Slalom
 1985-03-19,Olga Charvatova,SK,67,Slalom
-1985-03-19,Cristina Brichetti,IT,3,Slalom
+1985-03-19,Cristina Brichetti,IT,3,Combined
 1985-03-19,Helene Barbier,FR,23,Slalom
 1985-03-19,Blanca Fernandez Ochoa,ES,33,Giant Slalom
 1985-03-19,Diann Roffe Steinrotter,US,1,Giant Slalom
@@ -464,7 +464,7 @@ date,name,ath_country,value,specialty
 1985-03-22,Heidi Bowes,US,3,Slalom
 1985-03-22,Renate Lazak,DE,3,Slalom
 1985-03-22,Andreja Leskovsek,,3,Giant Slalom
-1985-03-22,Cristina Brichetti,IT,3,Slalom
+1985-03-22,Cristina Brichetti,IT,3,Combined
 1985-03-22,Sylvia Eder,AT,7,Downhill
 1985-03-22,Amy Liveran,US,4,Slalom
 1985-03-22,Ursula Konzett,LI,18,Slalom

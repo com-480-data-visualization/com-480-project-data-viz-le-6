@@ -3,7 +3,7 @@ date,name,ath_country,value,specialty
 1980-12-09,Piero Gros,IT,9,Slalom
 1980-12-09,Helmuth Gstrein,AT,0,Slalom
 1980-12-09,Stig Strand,SE,11,Slalom
-1980-12-09,Andreas Wenzel,LI,0,Giant Slalom
+1980-12-09,Andreas Wenzel,LI,0,Combined
 1980-12-09,Roberto Grigis,IT,3,Slalom
 1980-12-09,Peter Mally,IT,12,Slalom
 1980-12-09,Klaus Heidegger,AT,0,Slalom
@@ -72,14 +72,14 @@ date,name,ath_country,value,specialty
 1981-01-11,Paul Frommelt,LI,35,Slalom
 1981-01-11,Phil Mahre,US,6,Giant Slalom
 1981-01-11,Michel Canac,FR,2,Slalom
-1981-01-11,Andreas Wenzel,LI,0,Giant Slalom
+1981-01-11,Andreas Wenzel,LI,0,Combined
 1981-01-11,Marco Tonazzi,IT,4,Slalom
 1981-01-11,Aleksandr Zhirov,RU,0,Giant Slalom
 1981-01-11,Joel Gaspoz,CH,8,Giant Slalom
 1981-01-11,Petar Popangelov,BG,20,Slalom
 1981-01-11,Roberto Grigis,IT,3,Slalom
 1981-01-11,Franz Gruber,AT,7,Slalom
-1981-01-13,Andreas Wenzel,LI,0,Giant Slalom
+1981-01-13,Andreas Wenzel,LI,0,Combined
 1981-01-13,Lars Goeran Halvarsson,SE,0,Slalom
 1981-01-13,Roberto Grigis,IT,3,Slalom
 1981-01-13,Odd Sorli,NO,0,Giant Slalom
@@ -124,7 +124,7 @@ date,name,ath_country,value,specialty
 1981-01-18,Bruno Noeckler,IT,8,Giant Slalom
 1981-01-18,Ingemar Stenmark,SE,70,Giant Slalom
 1981-01-18,Lars Goeran Halvarsson,SE,9,Slalom
-1981-01-18,Andreas Wenzel,LI,0,Giant Slalom
+1981-01-18,Andreas Wenzel,LI,0,Combined
 1981-01-18,Michel Canac,FR,2,Slalom
 1981-01-18,Klaus Heidegger,AT,2,Slalom
 1981-01-18,Florian Beck,DE,1,Slalom
@@ -185,7 +185,7 @@ date,name,ath_country,value,specialty
 1981-01-25,Petar Popangelov,BG,20,Slalom
 1981-01-25,Ingemar Stenmark,SE,85,Giant Slalom
 1981-01-25,Stig Strand,SE,40,Slalom
-1981-01-25,Andreas Wenzel,LI,0,Giant Slalom
+1981-01-25,Andreas Wenzel,LI,0,Combined
 1981-01-25,Didier Bouvet,FR,6,Slalom
 1981-01-25,Helmuth Gstrein,AT,1,Slalom
 1981-01-25,Peter Mally,IT,12,Slalom
@@ -225,7 +225,7 @@ date,name,ath_country,value,specialty
 1981-02-01,Michel Canac,FR,2,Slalom
 1981-02-01,Paolo De Chiesa,IT,36,Slalom
 1981-02-01,Steve Mahre,US,49,Slalom
-1981-02-01,Andreas Wenzel,LI,0,Giant Slalom
+1981-02-01,Andreas Wenzel,LI,0,Combined
 1981-02-01,Paul Frommelt,LI,67,Slalom
 1981-02-01,Wolfram Ortner,AT,11,Giant Slalom
 1981-02-01,Joel Gaspoz,CH,23,Giant Slalom
@@ -276,12 +276,12 @@ date,name,ath_country,value,specialty
 1981-02-08,Bengt Fjaellberg,SE,23,Slalom
 1981-02-08,Paul Frommelt,LI,76,Slalom
 1981-02-08,Jarle Halsnes,NO,28,Giant Slalom
-1981-02-08,Andreas Wenzel,LI,1,Giant Slalom
+1981-02-08,Andreas Wenzel,LI,1,Combined
 1981-02-08,Bruno Noeckler,IT,18,Giant Slalom
 1981-02-08,Roberto Grigis,IT,15,Slalom
 1981-02-15,Petar Popangelov,BG,24,Slalom
 1981-02-15,Klaus Heidegger,AT,2,Slalom
-1981-02-15,Andreas Wenzel,LI,5,Giant Slalom
+1981-02-15,Andreas Wenzel,LI,5,Combined
 1981-02-15,Aleksandr Zhirov,RU,43,Giant Slalom
 1981-02-15,Bojan Krizaj,SK,64,Slalom
 1981-02-15,Didier Bouvet,FR,6,Slalom
@@ -339,7 +339,7 @@ date,name,ath_country,value,specialty
 1981-03-15,Piero Gros,IT,53,Slalom
 1981-03-15,Peter Mally,IT,16,Slalom
 1981-03-15,Stig Strand,SE,66,Slalom
-1981-03-15,Andreas Wenzel,LI,16,Giant Slalom
+1981-03-15,Andreas Wenzel,LI,16,Combined
 1981-03-15,Roberto Grigis,IT,15,Slalom
 1981-03-15,Paolo De Chiesa,IT,47,Slalom
 1981-03-15,Toshihiro Kaiwa,JP,15,Slalom
@@ -379,7 +379,7 @@ date,name,ath_country,value,specialty
 1981-03-25,Steve Mahre,US,89,Slalom
 1981-03-25,Ingemar Stenmark,SE,181,Giant Slalom
 1981-03-25,Petar Popangelov,BG,24,Slalom
-1981-03-25,Andreas Wenzel,LI,28,Giant Slalom
+1981-03-25,Andreas Wenzel,LI,28,Combined
 1981-03-25,Stig Strand,SE,69,Slalom
 1981-03-25,Piero Gros,IT,55,Slalom
 1981-03-25,Joze Kuralt,SK,10,Giant Slalom

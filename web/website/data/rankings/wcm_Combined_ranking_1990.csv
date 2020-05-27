@@ -1,5 +1,5 @@
 date,name,ath_country,value,specialty
-1990-01-12,Markus Wasmeier,DE,12,Combined
+1990-01-12,Pirmin Zurbriggen,CH,25,Downhill
 1990-01-12,A.J. Kitt,US,0,Downhill
 1990-01-12,Jeff Olson,US,2,Combined
 1990-01-12,Gustav Oehrli,CH,0,Combined
@@ -12,30 +12,36 @@ date,name,ath_country,value,specialty
 1990-01-12,Peter Rzehak,AT,7,Downhill
 1990-01-12,Bernard Fahner,CH,0,Downhill
 1990-01-12,Urs Kaelin,CH,8,Giant Slalom
-1990-01-12,Franz Heinzer,CH,0,Downhill
-1990-01-12,Kristian Ghedina,IT,10,Downhill
-1990-01-12,Peter Runggaldier,IT,9,Super G
-1990-01-12,Thomas Hangl,AT,11,Combined
-1990-01-12,Frank Piccard,FR,0,Super G
-1990-01-12,William Besse,CH,3,Downhill
 1990-01-12,Peter Wirnsberger Ii,AT,0,Combined
-1990-01-21,Markus Wasmeier,DE,27,Combined
-1990-01-21,A.J. Kitt,US,2,Downhill
-1990-01-21,Jeff Olson,US,2,Combined
-1990-01-21,Thomas Hangl,AT,23,Combined
-1990-01-21,Gustav Oehrli,CH,3,Combined
-1990-01-21,Daniel Mahrer,CH,8,Downhill
-1990-01-21,William Besse,CH,14,Downhill
+1990-01-12,Peter Runggaldier,IT,9,Super G
+1990-01-12,Franz Heinzer,CH,0,Downhill
+1990-01-12,Frank Piccard,FR,0,Super G
+1990-01-12,Kristian Ghedina,IT,10,Downhill
+1990-01-12,Paul Accola,CH,20,Slalom
+1990-01-12,Thomas Hangl,AT,11,Combined
+1990-01-12,William Besse,CH,3,Downhill
+1990-01-12,Markus Wasmeier,DE,12,Super G
+1990-01-12,Guenther Mader,AT,15,Giant Slalom
+1990-01-21,Frank Piccard,FR,10,Super G
 1990-01-21,Mario Summermatter,CH,5,Downhill
-1990-01-21,Peter Wirnsberger Ii,AT,9,Combined
-1990-01-21,Kristian Ghedina,IT,10,Downhill
+1990-01-21,Guenther Mader,AT,15,Giant Slalom
+1990-01-21,Gustav Oehrli,CH,3,Combined
+1990-01-21,Paul Accola,CH,40,Slalom
+1990-01-21,Jeff Olson,US,2,Combined
+1990-01-21,A.J. Kitt,US,2,Downhill
+1990-01-21,Pirmin Zurbriggen,CH,50,Downhill
+1990-01-21,Daniel Mahrer,CH,8,Downhill
+1990-01-21,Lukas Perathoner,IT,5,Combined
 1990-01-21,Bill Hudson,US,7,Combined
 1990-01-21,Xavier Gigandet,CH,6,Downhill
-1990-01-21,Frank Piccard,FR,10,Super G
+1990-01-21,Thomas Hangl,AT,23,Combined
 1990-01-21,Patrick Ortlieb,AT,7,Downhill
-1990-01-21,Franz Heinzer,CH,1,Downhill
-1990-01-21,Peter Runggaldier,IT,9,Super G
-1990-01-21,Bernard Fahner,CH,8,Downhill
-1990-01-21,Urs Kaelin,CH,8,Giant Slalom
-1990-01-21,Lukas Perathoner,IT,5,Combined
 1990-01-21,Peter Rzehak,AT,7,Downhill
+1990-01-21,William Besse,CH,14,Downhill
+1990-01-21,Franz Heinzer,CH,1,Downhill
+1990-01-21,Urs Kaelin,CH,8,Giant Slalom
+1990-01-21,Kristian Ghedina,IT,10,Downhill
+1990-01-21,Peter Wirnsberger Ii,AT,9,Combined
+1990-01-21,Peter Runggaldier,IT,9,Super G
+1990-01-21,Markus Wasmeier,DE,27,Super G
+1990-01-21,Bernard Fahner,CH,8,Downhill

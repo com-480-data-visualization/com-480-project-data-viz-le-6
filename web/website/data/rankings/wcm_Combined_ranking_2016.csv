@@ -1,139 +1,238 @@
 date,name,ath_country,value,specialty
 2016-01-15,Kjetil Jansrud,NO,100,Downhill
-2016-01-15,Tim Jitloff,US,0,Giant Slalom
-2016-01-15,Stefan Hadalin,SK,0,Slalom
-2016-01-15,Max Ullrich,HR,0,Combined
-2016-01-15,Steven Nyman,US,0,Downhill
-2016-01-15,Othmar Striedinger,AT,0,Downhill
+2016-01-15,Jakub Klusak,PL,0,Combined
 2016-01-15,Cyprien Sarrazin,FR,0,Combined
-2016-01-15,Maciej Bydlinski,PL,2,Combined
-2016-01-15,Andreas Sander,DE,1,Super G
+2016-01-15,Cristian Javier Simari Birkner,AR,0,Combined
+2016-01-15,Paolo Pangrazzi,IT,0,Combined
 2016-01-15,Broderick Thompson,CA,3,Combined
-2016-01-15,Emanuele Buzzi,IT,0,Downhill
+2016-01-15,Drew Duffy,US,0,Combined
+2016-01-15,Andreas Romar,FI,4,Downhill
+2016-01-15,Maciej Bydlinski,PL,2,Combined
 2016-01-15,Krystof Kryzl,CZ,6,Giant Slalom
-2016-01-15,Niels Hintermann,CH,0,Downhill
-2016-01-15,Nils Mani,CH,5,Combined
+2016-01-15,Andreas Zampa,SK,0,Combined
 2016-01-15,Patrick Schweiger,AT,8,Super G
 2016-01-15,Ralph Weber,CH,0,Super G
-2016-01-15,Bryce Bennett,US,9,Downhill
+2016-01-15,Othmar Striedinger,AT,0,Downhill
+2016-01-15,Niklas Koeck,AT,0,Combined
+2016-01-15,Nils Mani,CH,5,Combined
 2016-01-15,Martin Cater,SK,11,Super G
 2016-01-15,Siegmar Klotz,IT,12,Combined
 2016-01-15,Mattia Casse,IT,13,Super G
-2016-01-15,Tyler Werry,CA,0,Combined
-2016-01-15,Andreas Zampa,SK,0,Combined
-2016-01-15,Marc Oliveras,AD,0,Combined
-2016-01-15,Henrik Von Appen,CL,0,Combined
-2016-01-15,Frederic Berthold,AT,0,Combined
+2016-01-15,Filip Zubcic,HR,0,Giant Slalom
+2016-01-15,Maxence Muzaton,FR,14,Downhill
+2016-01-15,Thomas Dressen,DE,0,Downhill
+2016-01-15,Bostjan Kline,SK,0,Downhill
+2016-01-15,Andreas Sander,DE,1,Super G
+2016-01-15,Max Franz,AT,16,Downhill
+2016-01-15,Justin Murisier,CH,10,Giant Slalom
+2016-01-15,Christof Innerhofer,IT,0,Downhill
+2016-01-15,Trevor Philp,CA,0,Slalom
+2016-01-15,Valentin Giraud Moine,FR,18,Downhill
+2016-01-15,Steven Nyman,US,0,Downhill
+2016-01-15,Stefan Hadalin,SK,0,Slalom
 2016-01-15,Arnaud Alessandria,MC,0,Combined
 2016-01-15,Filip Forejtek,CZ,0,Combined
 2016-01-15,Fernando Schmed,CH,0,Super G
 2016-01-15,Misel Zerak,SK,0,Combined
 2016-01-15,Henri Battilani,IT,0,Downhill
-2016-01-15,Miha Hrobat,SK,0,Combined
-2016-01-15,Guglielmo Bosca,IT,0,Combined
 2016-01-15,Christian Walder,AT,0,Super G
-2016-01-15,Maxence Muzaton,FR,14,Downhill
+2016-01-15,Christopher Neumayer,AT,0,Combined
+2016-01-15,Johannes Kroell,AT,0,Downhill
+2016-01-15,Miha Hrobat,SK,0,Combined
+2016-01-15,James Crawford,CA,0,Combined
+2016-01-15,Emanuele Buzzi,IT,0,Downhill
+2016-01-15,Frederic Berthold,AT,0,Combined
+2016-01-15,Max Ullrich,HR,0,Combined
 2016-01-15,Gino Caviezel,CH,0,Giant Slalom
-2016-01-15,Christof Innerhofer,IT,0,Downhill
-2016-01-15,Paolo Pangrazzi,IT,0,Combined
+2016-01-15,Guglielmo Bosca,IT,0,Combined
+2016-01-15,Ondrej Berndt,CZ,0,Combined
 2016-01-15,Pavel Trikhichev,RU,0,Combined
 2016-01-15,Andrew Weibrecht,US,0,Super G
 2016-01-15,Ted Ligety,US,0,Giant Slalom
-2016-01-15,Bostjan Kline,SK,0,Downhill
 2016-01-15,Ryoh Sugai,JP,0,Combined
 2016-01-15,Marko Vukicevic,RS,0,Combined
 2016-01-15,Michal Klusak,PL,0,Combined
-2016-01-15,Ondrej Berndt,CZ,0,Combined
-2016-01-15,Thomas Dressen,DE,0,Downhill
-2016-01-15,Andreas Romar,FI,4,Downhill
-2016-01-15,Aksel-Lund Svindal,NO,80,Downhill
+2016-01-15,Henrik Von Appen,CL,0,Combined
+2016-01-15,Marc Oliveras,AD,0,Combined
+2016-01-15,Tyler Werry,CA,0,Combined
+2016-01-15,Tim Jitloff,US,0,Giant Slalom
+2016-01-15,Marcel Hirscher,AT,0,Slalom
+2016-01-15,Jared Goldberg,US,22,Combined
+2016-01-15,Niels Hintermann,CH,0,Downhill
+2016-01-15,Adam Zampa,SK,15,Combined
+2016-01-15,Aleksander Aamodt Kilde,NO,0,Super G
+2016-01-15,Peter Fill,IT,26,Downhill
+2016-01-15,Alexis Pinturault,FR,20,Giant Slalom
 2016-01-15,Ivica Kostelic,HR,7,Combined
 2016-01-15,Dominik Paris,IT,45,Downhill
-2016-01-15,Aleksander Aamodt Kilde,NO,0,Super G
-2016-01-15,Jared Goldberg,US,22,Combined
+2016-01-15,Aksel-Lund Svindal,NO,80,Downhill
+2016-01-15,Klemen Kosi,SK,36,Combined
 2016-01-15,Marc Gisin,CH,40,Downhill
+2016-01-15,Adrien Theaux,FR,60,Downhill
+2016-01-15,Blaise Giezendanner,FR,0,Downhill
+2016-01-15,Bryce Bennett,US,9,Combined
 2016-01-15,Romed Baumann,AT,32,Downhill
 2016-01-15,Thomas Mermillod,FR,50,Combined
-2016-01-15,Vincent Kriechmayr,AT,29,Super G
-2016-01-15,Valentin Giraud Moine,FR,18,Downhill
-2016-01-15,Natko Zrncic-Dim,HR,24,Combined
-2016-01-15,Victor Muffat Jeandet,FR,0,Giant Slalom
-2016-01-15,Riccardo Tonetti,IT,0,Giant Slalom
-2016-01-15,Alexis Pinturault,FR,20,Giant Slalom
-2016-01-15,Blaise Giezendanner,FR,0,Downhill
-2016-01-15,Justin Murisier,CH,10,Giant Slalom
-2016-01-15,Max Franz,AT,16,Downhill
 2016-01-15,Carlo Janka,CH,0,Downhill
-2016-01-15,Peter Fill,IT,26,Downhill
-2016-01-15,Klemen Kosi,SK,36,Super G
-2016-01-15,Adam Zampa,SK,15,Slalom
-2016-01-15,Adrien Theaux,FR,60,Downhill
-2016-02-19,Paolo Pangrazzi,IT,0,Combined
-2016-02-19,Adam Zampa,SK,15,Slalom
-2016-02-19,Marc Gisin,CH,60,Downhill
-2016-02-19,Andrew Weibrecht,US,0,Super G
+2016-01-15,Victor Muffat Jeandet,FR,0,Giant Slalom
+2016-01-15,Vincent Kriechmayr,AT,29,Super G
+2016-01-15,Riccardo Tonetti,IT,0,Giant Slalom
+2016-01-15,Natko Zrncic-Dim,HR,24,Combined
+2016-01-22,Frederic Berthold,AT,0,Combined
+2016-01-22,James Crawford,CA,0,Combined
+2016-01-22,Maciej Bydlinski,PL,8,Combined
+2016-01-22,Cyprien Sarrazin,FR,0,Combined
+2016-01-22,Andreas Romar,FI,4,Downhill
+2016-01-22,Emanuele Buzzi,IT,0,Downhill
+2016-01-22,Drew Duffy,US,4,Combined
+2016-01-22,Cristian Javier Simari Birkner,AR,2,Combined
+2016-01-22,Vincent Kriechmayr,AT,61,Super G
+2016-01-22,Klemen Kosi,SK,58,Combined
+2016-01-22,Jakub Klusak,PL,1,Combined
+2016-01-22,Paolo Pangrazzi,IT,3,Combined
+2016-01-22,Broderick Thompson,CA,3,Combined
+2016-01-22,Gino Caviezel,CH,0,Giant Slalom
+2016-01-22,Othmar Striedinger,AT,0,Downhill
+2016-01-22,Marcel Hirscher,AT,0,Slalom
+2016-01-22,Krystof Kryzl,CZ,11,Giant Slalom
+2016-01-22,Thomas Mermillod,FR,110,Combined
+2016-01-22,Ryoh Sugai,JP,0,Combined
+2016-01-22,Andrew Weibrecht,US,0,Super G
+2016-01-22,Marko Vukicevic,RS,0,Combined
+2016-01-22,Carlo Janka,CH,50,Downhill
+2016-01-22,Michal Klusak,PL,0,Combined
+2016-01-22,Adrien Theaux,FR,60,Downhill
+2016-01-22,Pavel Trikhichev,RU,0,Combined
+2016-01-22,Henrik Von Appen,CL,0,Combined
+2016-01-22,Romed Baumann,AT,72,Downhill
+2016-01-22,Marc Oliveras,AD,0,Combined
+2016-01-22,Tyler Werry,CA,0,Combined
+2016-01-22,Ondrej Berndt,CZ,0,Combined
+2016-01-22,Tim Jitloff,US,0,Giant Slalom
+2016-01-22,Stefan Hadalin,SK,0,Slalom
+2016-01-22,Guglielmo Bosca,IT,0,Combined
+2016-01-22,Max Ullrich,HR,0,Combined
+2016-01-22,Dominik Paris,IT,81,Downhill
+2016-01-22,Steven Nyman,US,0,Downhill
+2016-01-22,Marc Gisin,CH,40,Downhill
+2016-01-22,Adam Zampa,SK,60,Combined
+2016-01-22,Niels Hintermann,CH,0,Downhill
+2016-01-22,Ted Ligety,US,0,Giant Slalom
+2016-01-22,Victor Muffat Jeandet,FR,80,Giant Slalom
+2016-01-22,Mattia Casse,IT,13,Super G
+2016-01-22,Henri Battilani,IT,0,Downhill
+2016-01-22,Arnaud Alessandria,MC,0,Combined
+2016-01-22,Maxence Muzaton,FR,14,Downhill
+2016-01-22,Peter Fill,IT,26,Downhill
+2016-01-22,Thomas Dressen,DE,0,Downhill
+2016-01-22,Misel Zerak,SK,0,Combined
+2016-01-22,Bostjan Kline,SK,15,Downhill
+2016-01-22,Blaise Giezendanner,FR,0,Downhill
+2016-01-22,Alexis Pinturault,FR,120,Giant Slalom
+2016-01-22,Andreas Sander,DE,17,Super G
+2016-01-22,Fernando Schmed,CH,0,Super G
+2016-01-22,Max Franz,AT,16,Downhill
+2016-01-22,Natko Zrncic-Dim,HR,37,Combined
+2016-01-22,Justin Murisier,CH,22,Giant Slalom
+2016-01-22,Kjetil Jansrud,NO,120,Downhill
+2016-01-22,Filip Forejtek,CZ,0,Combined
+2016-01-22,Christof Innerhofer,IT,18,Downhill
+2016-01-22,Valentin Giraud Moine,FR,18,Downhill
+2016-01-22,Aleksander Aamodt Kilde,NO,24,Super G
+2016-01-22,Jared Goldberg,US,22,Combined
+2016-01-22,Ivica Kostelic,HR,7,Combined
+2016-01-22,Christian Walder,AT,0,Super G
+2016-01-22,Filip Zubcic,HR,14,Giant Slalom
+2016-01-22,Martin Cater,SK,11,Super G
+2016-01-22,Miha Hrobat,SK,0,Combined
+2016-01-22,Riccardo Tonetti,IT,26,Giant Slalom
+2016-01-22,Andreas Zampa,SK,8,Combined
+2016-01-22,Patrick Schweiger,AT,8,Super G
+2016-01-22,Bryce Bennett,US,38,Combined
+2016-01-22,Ralph Weber,CH,7,Super G
+2016-01-22,Siegmar Klotz,IT,12,Combined
+2016-01-22,Niklas Koeck,AT,9,Combined
+2016-01-22,Aksel-Lund Svindal,NO,80,Downhill
+2016-01-22,Johannes Kroell,AT,0,Downhill
+2016-01-22,Nils Mani,CH,16,Combined
+2016-01-22,Christopher Neumayer,AT,0,Combined
+2016-01-22,Trevor Philp,CA,10,Slalom
+2016-02-19,Guglielmo Bosca,IT,0,Combined
+2016-02-19,Kjetil Jansrud,NO,165,Downhill
 2016-02-19,Ted Ligety,US,0,Giant Slalom
-2016-02-19,Carlo Janka,CH,40,Downhill
-2016-02-19,Bostjan Kline,SK,0,Downhill
-2016-02-19,Ryoh Sugai,JP,0,Combined
-2016-02-19,Pavel Trikhichev,RU,0,Combined
-2016-02-19,Victor Muffat Jeandet,FR,50,Giant Slalom
-2016-02-19,Gino Caviezel,CH,0,Giant Slalom
-2016-02-19,Ondrej Berndt,CZ,0,Combined
-2016-02-19,Frederic Berthold,AT,0,Combined
-2016-02-19,Kjetil Jansrud,NO,145,Downhill
-2016-02-19,Arnaud Alessandria,MC,0,Combined
-2016-02-19,Alexis Pinturault,FR,120,Giant Slalom
 2016-02-19,Filip Forejtek,CZ,0,Combined
+2016-02-19,Marcel Hirscher,AT,0,Slalom
+2016-02-19,Gino Caviezel,CH,0,Giant Slalom
+2016-02-19,Andrew Weibrecht,US,0,Super G
+2016-02-19,Victor Muffat Jeandet,FR,130,Giant Slalom
+2016-02-19,Emanuele Buzzi,IT,0,Downhill
 2016-02-19,Fernando Schmed,CH,0,Super G
-2016-02-19,Misel Zerak,SK,0,Combined
+2016-02-19,Miha Hrobat,SK,0,Combined
+2016-02-19,Christian Walder,AT,0,Super G
+2016-02-19,Christopher Neumayer,AT,0,Combined
+2016-02-19,Adrien Theaux,FR,96,Downhill
 2016-02-19,Aksel-Lund Svindal,NO,80,Downhill
 2016-02-19,Henri Battilani,IT,0,Downhill
-2016-02-19,Dominik Paris,IT,125,Downhill
-2016-02-19,Miha Hrobat,SK,0,Combined
-2016-02-19,Guglielmo Bosca,IT,0,Combined
-2016-02-19,Christian Walder,AT,0,Super G
-2016-02-19,Adrien Theaux,FR,96,Downhill
-2016-02-19,Thomas Mermillod,FR,110,Combined
-2016-02-19,Christof Innerhofer,IT,0,Downhill
-2016-02-19,Marko Vukicevic,RS,0,Combined
-2016-02-19,Riccardo Tonetti,IT,32,Giant Slalom
-2016-02-19,Michal Klusak,PL,0,Combined
-2016-02-19,Andreas Romar,FI,4,Downhill
-2016-02-19,Aleksander Aamodt Kilde,NO,24,Super G
-2016-02-19,Krystof Kryzl,CZ,7,Giant Slalom
-2016-02-19,Niels Hintermann,CH,7,Downhill
-2016-02-19,Jared Goldberg,US,33,Combined
-2016-02-19,Nils Mani,CH,13,Combined
+2016-02-19,Frederic Berthold,AT,0,Combined
+2016-02-19,Johannes Kroell,AT,0,Downhill
+2016-02-19,Ondrej Berndt,CZ,0,Combined
+2016-02-19,Misel Zerak,SK,0,Combined
+2016-02-19,Dominik Paris,IT,161,Downhill
+2016-02-19,Alexis Pinturault,FR,220,Giant Slalom
+2016-02-19,Pavel Trikhichev,RU,0,Combined
+2016-02-19,James Crawford,CA,0,Combined
+2016-02-19,Aleksander Aamodt Kilde,NO,48,Super G
+2016-02-19,Ryoh Sugai,JP,0,Combined
 2016-02-19,Patrick Schweiger,AT,8,Super G
-2016-02-19,Broderick Thompson,CA,7,Combined
-2016-02-19,Valentin Giraud Moine,FR,31,Downhill
-2016-02-19,Justin Murisier,CH,28,Giant Slalom
-2016-02-19,Bryce Bennett,US,19,Downhill
+2016-02-19,Ralph Weber,CH,16,Super G
+2016-02-19,Niklas Koeck,AT,9,Combined
+2016-02-19,Bryce Bennett,US,48,Combined
+2016-02-19,Trevor Philp,CA,10,Slalom
+2016-02-19,Ivica Kostelic,HR,36,Combined
+2016-02-19,Nils Mani,CH,24,Combined
 2016-02-19,Martin Cater,SK,11,Super G
 2016-02-19,Siegmar Klotz,IT,17,Combined
 2016-02-19,Mattia Casse,IT,14,Super G
-2016-02-19,Max Franz,AT,16,Downhill
+2016-02-19,Filip Zubcic,HR,14,Giant Slalom
+2016-02-19,Peter Fill,IT,48,Downhill
 2016-02-19,Maxence Muzaton,FR,14,Downhill
-2016-02-19,Ralph Weber,CH,9,Super G
-2016-02-19,Klemen Kosi,SK,42,Super G
-2016-02-19,Natko Zrncic-Dim,HR,36,Combined
-2016-02-19,Maciej Bydlinski,PL,2,Combined
-2016-02-19,Henrik Von Appen,CL,0,Combined
-2016-02-19,Romed Baumann,AT,48,Downhill
-2016-02-19,Marc Oliveras,AD,0,Combined
+2016-02-19,Blaise Giezendanner,FR,26,Downhill
 2016-02-19,Thomas Dressen,DE,15,Downhill
-2016-02-19,Andreas Zampa,SK,0,Combined
+2016-02-19,Bostjan Kline,SK,15,Downhill
+2016-02-19,Andreas Sander,DE,20,Super G
+2016-02-19,Max Franz,AT,16,Downhill
+2016-02-19,Justin Murisier,CH,40,Giant Slalom
+2016-02-19,Christof Innerhofer,IT,18,Downhill
+2016-02-19,Natko Zrncic-Dim,HR,49,Combined
+2016-02-19,Valentin Giraud Moine,FR,31,Downhill
+2016-02-19,Jared Goldberg,US,33,Combined
+2016-02-19,Andreas Zampa,SK,8,Combined
+2016-02-19,Niels Hintermann,CH,7,Downhill
+2016-02-19,Riccardo Tonetti,IT,58,Giant Slalom
+2016-02-19,Krystof Kryzl,CZ,12,Giant Slalom
+2016-02-19,Marko Vukicevic,RS,0,Combined
+2016-02-19,Michal Klusak,PL,0,Combined
+2016-02-19,Carlo Janka,CH,90,Downhill
+2016-02-19,Henrik Von Appen,CL,0,Combined
+2016-02-19,Marc Oliveras,AD,0,Combined
 2016-02-19,Tyler Werry,CA,0,Combined
 2016-02-19,Tim Jitloff,US,0,Giant Slalom
-2016-02-19,Andreas Sander,DE,4,Super G
-2016-02-19,Vincent Kriechmayr,AT,43,Super G
-2016-02-19,Ivica Kostelic,HR,36,Combined
-2016-02-19,Max Ullrich,HR,0,Combined
-2016-02-19,Steven Nyman,US,0,Downhill
-2016-02-19,Othmar Striedinger,AT,0,Downhill
-2016-02-19,Peter Fill,IT,48,Downhill
-2016-02-19,Blaise Giezendanner,FR,26,Downhill
-2016-02-19,Cyprien Sarrazin,FR,2,Combined
+2016-02-19,Adam Zampa,SK,60,Combined
 2016-02-19,Stefan Hadalin,SK,0,Slalom
-2016-02-19,Emanuele Buzzi,IT,0,Downhill
+2016-02-19,Max Ullrich,HR,0,Combined
+2016-02-19,Marc Gisin,CH,60,Downhill
+2016-02-19,Thomas Mermillod,FR,170,Combined
+2016-02-19,Steven Nyman,US,0,Downhill
+2016-02-19,Jakub Klusak,PL,1,Combined
+2016-02-19,Romed Baumann,AT,88,Downhill
+2016-02-19,Cyprien Sarrazin,FR,2,Combined
+2016-02-19,Cristian Javier Simari Birkner,AR,2,Combined
+2016-02-19,Paolo Pangrazzi,IT,3,Combined
+2016-02-19,Klemen Kosi,SK,64,Combined
+2016-02-19,Broderick Thompson,CA,7,Combined
+2016-02-19,Drew Duffy,US,4,Combined
+2016-02-19,Andreas Romar,FI,4,Downhill
+2016-02-19,Maciej Bydlinski,PL,8,Combined
+2016-02-19,Vincent Kriechmayr,AT,75,Super G
+2016-02-19,Othmar Striedinger,AT,0,Downhill
+2016-02-19,Arnaud Alessandria,MC,0,Combined

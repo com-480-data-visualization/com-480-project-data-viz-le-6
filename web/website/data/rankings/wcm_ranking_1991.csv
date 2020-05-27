@@ -85,6 +85,7 @@ date,name,ath_country,value,specialty
 1990-08-08,Stephan Eberharter,AT,0,Giant Slalom
 1990-08-08,A.J. Kitt,US,0,Downhill
 1990-08-08,Bernhard Bauer,DE,0,Slalom
+1990-08-08,Oliver Kuenzi,CH,0,Slalom
 1990-08-08,Lars Boerje Eriksson,SE,0,Giant Slalom
 1990-08-08,Patrick Ortlieb,AT,0,Downhill
 1990-08-08,Fabio De Crignis,IT,12,Slalom
@@ -92,13 +93,12 @@ date,name,ath_country,value,specialty
 1990-08-08,Thomas Stangassinger,AT,10,Slalom
 1990-08-08,Kyle Rasmussen,US,0,Downhill
 1990-08-08,Heinz Peter Platter,IT,0,Slalom
-1990-08-08,Oliver Kuenzi,CH,0,Slalom
-1990-08-09,Karl Alpiger,CH,0,Downhill
 1990-08-09,Roberto Spampatti,IT,0,Slalom
 1990-08-09,Hubert Strolz,AT,0,Giant Slalom
 1990-08-09,Franz Heinzer,CH,0,Downhill
 1990-08-09,Konrad  Kurt Ladstaetter,IT,9,Slalom
-1990-08-09,Christophe Ple',FR,0,Downhill
+1990-08-09,Karl Alpiger,CH,0,Downhill
+1990-08-09,Alain Feutrier,FR,0,Giant Slalom
 1990-08-09,Kristian Ghedina,IT,3,Downhill
 1990-08-09,Lasse Arnesen,NO,0,Downhill
 1990-08-09,Marc Girardelli,LU,9,Slalom
@@ -107,7 +107,7 @@ date,name,ath_country,value,specialty
 1990-08-09,Helmut Hoeflehner,AT,0,Downhill
 1990-08-09,Ed Podivinsky,CA,0,Downhill
 1990-08-09,Thomas Stangassinger,AT,10,Slalom
-1990-08-09,Alain Feutrier,FR,0,Giant Slalom
+1990-08-09,Christophe Ple',FR,0,Downhill
 1990-08-09,Konrad Walk,AT,0,Giant Slalom
 1990-08-09,Thomas Fogdoe,SE,0,Slalom
 1990-08-09,Ole Kristian Furuseth,NO,8,Slalom
@@ -171,14 +171,14 @@ date,name,ath_country,value,specialty
 1990-08-09,Bernhard Gstrein,AT,8,Slalom
 1990-08-09,A.J. Kitt,US,0,Downhill
 1990-08-09,Mitja Kunc,SK,0,Giant Slalom
-1990-08-09,Didrik Marksten,NO,0,Super G
+1990-08-09,Xavier Gigandet,CH,0,Downhill
 1990-08-09,Asgeir Linberg,NO,0,Super G
 1990-08-09,Felix Belczyk,CA,0,Downhill
 1990-08-09,Berni Huber,DE,0,Downhill
 1990-08-09,Michael von Gruenigen,CH,5,Giant Slalom
 1990-08-09,Stephan Eberharter,AT,0,Giant Slalom
 1990-08-09,William Besse,CH,0,Downhill
-1990-08-09,Xavier Gigandet,CH,0,Downhill
+1990-08-09,Didrik Marksten,NO,0,Super G
 1990-08-09,Rainer Salzgeber,AT,0,Giant Slalom
 1990-08-09,Bernhard Bauer,DE,0,Slalom
 1990-08-09,Harald Chr. Strand Nilsen,NO,0,Slalom
@@ -308,8 +308,8 @@ date,name,ath_country,value,specialty
 1990-12-08,Markus Wasmeier,DE,0,Super G
 1990-12-08,Patrice Bianchi,FR,0,Slalom
 1990-12-08,Thomas Fogdoe,SE,0,Slalom
-1990-12-08,Bernhard Bauer,DE,0,Slalom
 1990-12-08,Mats Ericson,SE,0,Slalom
+1990-12-08,Bernhard Bauer,DE,0,Slalom
 1990-12-08,Patrick Holzer,IT,0,Super G
 1990-12-08,Erwin Resch,AT,0,Downhill
 1990-12-08,Roberto Spampatti,IT,0,Slalom
@@ -330,84 +330,84 @@ date,name,ath_country,value,specialty
 1990-12-08,Rob Boyd,CA,0,Downhill
 1990-12-08,Jeremy Nobis,US,0,Giant Slalom
 1990-12-08,Peter Wirnsberger,AT,15,Downhill
-1990-12-08,Lasse Kjus,NO,25,Slalom
-1990-12-08,Stephan Eberharter,AT,15,Giant Slalom
-1990-12-08,Xavier Gigandet,CH,0,Downhill
-1990-12-08,Didrik Marksten,NO,0,Super G
-1990-12-08,William Besse,CH,0,Downhill
-1990-12-08,Felix Belczyk,CA,0,Downhill
-1990-12-08,Luca Pesando,IT,7,Giant Slalom
-1990-12-08,Berni Huber,DE,0,Downhill
-1990-12-08,Guenther Mader,AT,1,Slalom
+1990-12-08,Konrad Walk,AT,0,Giant Slalom
+1990-12-08,Peter Mueller,CH,0,Downhill
+1990-12-08,Christophe Ple',FR,0,Downhill
 1990-12-08,Martin Knoeri,CH,0,Giant Slalom
 1990-12-08,Michael von Gruenigen,CH,5,Giant Slalom
+1990-12-08,Tetsuya Okabe,JP,0,Slalom
+1990-12-08,Peter Roth,DE,25,Slalom
+1990-12-08,Stephan Eberharter,AT,15,Giant Slalom
+1990-12-08,Tommy Moe,US,1,Downhill
 1990-12-08,Luc Alphand,FR,3,Downhill
-1990-12-08,Alberto Tomba,IT,22,Giant Slalom
+1990-12-08,Jean Luc Cretier,FR,11,Super G
+1990-12-08,Xavier Gigandet,CH,0,Downhill
+1990-12-08,Francois Simond,FR,0,Slalom
+1990-12-08,Didrik Marksten,NO,0,Super G
+1990-12-08,Daniel Mahrer,CH,7,Downhill
 1990-12-08,Christian Polig,IT,0,Slalom
 1990-12-08,A.J. Kitt,US,0,Downhill
-1990-12-08,Daniel Mahrer,CH,7,Downhill
-1990-12-08,Francois Simond,FR,0,Slalom
-1990-12-08,Jean Luc Cretier,FR,11,Super G
-1990-12-08,Tommy Moe,US,1,Downhill
-1990-12-08,Peter Mueller,CH,0,Downhill
-1990-12-08,Harald Chr. Strand Nilsen,NO,0,Slalom
-1990-12-08,Bernhard Gstrein,AT,8,Slalom
-1990-12-08,Brian Stemmle,CA,6,Downhill
-1990-12-08,Peter Runggaldier,IT,2,Downhill
-1990-12-08,Peter Roth,DE,25,Slalom
-1990-12-08,Tetsuya Okabe,JP,0,Slalom
-1990-12-08,Konrad Walk,AT,0,Giant Slalom
-1990-12-08,Oliver Kuenzi,CH,0,Slalom
-1990-12-08,Christophe Berra,CH,0,Slalom
-1990-12-08,Helmut Hoeflehner,AT,0,Downhill
-1990-12-08,Giovanni Moro,IT,1,Slalom
-1990-12-08,Frank Piccard,FR,42,Giant Slalom
-1990-12-08,Marc Girardelli,LU,9,Slalom
-1990-12-08,Jonas Nilsson,SE,2,Slalom
-1990-12-08,Leonhard Stock,AT,25,Downhill
-1990-12-08,Paul Accola,CH,16,Slalom
-1990-12-08,Lars Boerje Eriksson,SE,17,Giant Slalom
-1990-12-08,Hubert Strolz,AT,3,Giant Slalom
-1990-12-08,Hans Pieren,CH,0,Giant Slalom
-1990-12-08,Ole Kristian Furuseth,NO,18,Slalom
-1990-12-08,Kyle Rasmussen,US,1,Downhill
+1990-12-08,Luca Pesando,IT,7,Giant Slalom
+1990-12-08,Lasse Kjus,NO,25,Slalom
+1990-12-08,William Besse,CH,0,Downhill
 1990-12-08,Richard Pramotton,IT,0,Giant Slalom
-1990-12-08,Alain Feutrier,FR,0,Giant Slalom
+1990-12-08,Felix Belczyk,CA,0,Downhill
 1990-12-08,Kristian Ghedina,IT,3,Downhill
-1990-12-08,Christophe Ple',FR,0,Downhill
-1990-12-11,Peter Runggaldier,IT,2,Downhill
-1990-12-11,Roberto Spampatti,IT,0,Slalom
-1990-12-11,Bernhard Bauer,DE,0,Slalom
-1990-12-11,Jan Einar Thorsen,NO,10,Downhill
-1990-12-11,Brian Stemmle,CA,6,Downhill
+1990-12-08,Alain Feutrier,FR,0,Giant Slalom
+1990-12-08,Berni Huber,DE,0,Downhill
+1990-12-08,Peter Runggaldier,IT,2,Downhill
+1990-12-08,Kyle Rasmussen,US,1,Downhill
+1990-12-08,Brian Stemmle,CA,6,Downhill
+1990-12-08,Bernhard Gstrein,AT,8,Slalom
+1990-12-08,Hans Pieren,CH,0,Giant Slalom
+1990-12-08,Paul Accola,CH,16,Slalom
+1990-12-08,Leonhard Stock,AT,25,Downhill
+1990-12-08,Guenther Mader,AT,1,Slalom
+1990-12-08,Jonas Nilsson,SE,2,Slalom
+1990-12-08,Helmut Hoeflehner,AT,0,Downhill
+1990-12-08,Ole Kristian Furuseth,NO,18,Slalom
+1990-12-08,Hubert Strolz,AT,3,Giant Slalom
+1990-12-08,Giovanni Moro,IT,1,Slalom
+1990-12-08,Christophe Berra,CH,0,Slalom
+1990-12-08,Marc Girardelli,LU,9,Slalom
+1990-12-08,Frank Piccard,FR,42,Giant Slalom
+1990-12-08,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-08,Oliver Kuenzi,CH,0,Slalom
+1990-12-08,Lars Boerje Eriksson,SE,17,Giant Slalom
+1990-12-08,Alberto Tomba,IT,22,Giant Slalom
 1990-12-11,Franz Heinzer,CH,40,Downhill
-1990-12-11,Jonas Nilsson,SE,2,Slalom
-1990-12-11,Asgeir Linberg,NO,4,Super G
+1990-12-11,Roberto Spampatti,IT,0,Slalom
 1990-12-11,A.J. Kitt,US,0,Downhill
+1990-12-11,Brian Stemmle,CA,6,Downhill
+1990-12-11,Asgeir Linberg,NO,4,Super G
+1990-12-11,Bernhard Bauer,DE,0,Slalom
+1990-12-11,Peter Runggaldier,IT,2,Downhill
+1990-12-11,Michael von Gruenigen,CH,5,Giant Slalom
+1990-12-11,Ed Podivinsky,CA,0,Downhill
+1990-12-11,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-11,Jan Einar Thorsen,NO,10,Downhill
+1990-12-11,Konrad  Kurt Ladstaetter,IT,15,Slalom
 1990-12-11,Oliver Kuenzi,CH,0,Slalom
 1990-12-11,Urs Kaelin,CH,4,Giant Slalom
-1990-12-11,Konrad  Kurt Ladstaetter,IT,15,Slalom
-1990-12-11,Paul Accola,CH,16,Slalom
-1990-12-11,Harald Chr. Strand Nilsen,NO,0,Slalom
-1990-12-11,Niklas Henning,SE,0,Downhill
+1990-12-11,Jonas Nilsson,SE,2,Slalom
+1990-12-11,Lukas Perathoner,IT,0,Downhill
 1990-12-11,Thomas Stangassinger,AT,10,Slalom
-1990-12-11,Lasse Kjus,NO,33,Slalom
-1990-12-11,Rainer Salzgeber,AT,0,Giant Slalom
+1990-12-11,Kristian Ghedina,IT,3,Downhill
+1990-12-11,Paul Accola,CH,16,Slalom
 1990-12-11,Didrik Marksten,NO,0,Super G
+1990-12-11,Rainer Salzgeber,AT,0,Giant Slalom
+1990-12-11,Lasse Kjus,NO,33,Slalom
 1990-12-11,Karl Alpiger,CH,9,Downhill
 1990-12-11,Mitja Kunc,SK,0,Giant Slalom
 1990-12-11,Thomas Fogdoe,SE,10,Slalom
-1990-12-11,Michael von Gruenigen,CH,5,Giant Slalom
 1990-12-11,Lasse Arnesen,NO,8,Downhill
-1990-12-11,Richard Pramotton,IT,0,Giant Slalom
+1990-12-11,Patrick Staub,CH,0,Slalom
 1990-12-11,William Besse,CH,0,Downhill
 1990-12-11,Fredrik Nyberg,SE,25,Giant Slalom
-1990-12-11,Lukas Perathoner,IT,0,Downhill
 1990-12-11,Alberto Tomba,IT,47,Giant Slalom
 1990-12-11,Berni Huber,DE,0,Downhill
-1990-12-11,Kristian Ghedina,IT,3,Downhill
-1990-12-11,Patrick Staub,CH,0,Slalom
-1990-12-11,Ed Podivinsky,CA,0,Downhill
+1990-12-11,Niklas Henning,SE,0,Downhill
+1990-12-11,Richard Pramotton,IT,0,Giant Slalom
 1990-12-11,Hans-Joerg Tauscher,DE,0,Combined
 1990-12-11,Konrad Walk,AT,0,Giant Slalom
 1990-12-11,Christophe Ple',FR,0,Downhill
@@ -515,24 +515,24 @@ date,name,ath_country,value,specialty
 1990-12-14,Steve Locher,CH,7,Giant Slalom
 1990-12-14,Atle Skaardal,NO,27,Downhill
 1990-12-14,Alain Feutrier,FR,2,Giant Slalom
-1990-12-14,Marc Girardelli,LU,21,Slalom
+1990-12-14,Ole Kristian Furuseth,NO,38,Slalom
 1990-12-14,Brian Stemmle,CA,7,Downhill
 1990-12-14,Peter Wirnsberger,AT,15,Downhill
 1990-12-14,Peter Mueller,CH,0,Downhill
 1990-12-14,Francois Simond,FR,0,Slalom
 1990-12-14,Luc Alphand,FR,5,Downhill
-1990-12-14,Daniel Mahrer,CH,18,Downhill
-1990-12-14,Christian Polig,IT,0,Slalom
-1990-12-14,Hubert Strolz,AT,7,Giant Slalom
-1990-12-14,Giovanni Moro,IT,1,Slalom
 1990-12-14,Luca Pesando,IT,7,Giant Slalom
+1990-12-14,Daniel Mahrer,CH,18,Downhill
+1990-12-14,Marc Girardelli,LU,21,Slalom
+1990-12-14,Christian Polig,IT,0,Slalom
+1990-12-14,Guenther Mader,AT,6,Slalom
 1990-12-14,Stephan Eberharter,AT,15,Giant Slalom
 1990-12-14,Xavier Gigandet,CH,0,Downhill
 1990-12-14,Felix Belczyk,CA,0,Downhill
 1990-12-14,Peter Roth,DE,34,Slalom
 1990-12-14,Christophe Ple',FR,0,Downhill
-1990-12-14,Ole Kristian Furuseth,NO,38,Slalom
-1990-12-14,Guenther Mader,AT,6,Slalom
+1990-12-14,Hubert Strolz,AT,7,Giant Slalom
+1990-12-14,Giovanni Moro,IT,1,Slalom
 1990-12-14,Markus Wasmeier,DE,0,Super G
 1990-12-14,Michael Mair,IT,0,Downhill
 1990-12-14,Patrice Bianchi,FR,0,Slalom
@@ -559,8 +559,8 @@ date,name,ath_country,value,specialty
 1990-12-14,Niklas Henning,SE,9,Downhill
 1990-12-14,Armin Assinger,AT,0,Downhill
 1990-12-14,Fredrik Nyberg,SE,25,Giant Slalom
-1990-12-14,Konrad Walk,AT,0,Giant Slalom
 1990-12-14,Roberto Spampatti,IT,0,Slalom
+1990-12-14,Konrad Walk,AT,0,Giant Slalom
 1990-12-14,Armin Bittner,DE,29,Slalom
 1990-12-14,Thomas Fogdoe,SE,10,Slalom
 1990-12-15,Harald Chr. Strand Nilsen,NO,0,Slalom
@@ -604,8 +604,8 @@ date,name,ath_country,value,specialty
 1990-12-15,Ole Kristian Furuseth,NO,38,Slalom
 1990-12-15,Hubert Strolz,AT,7,Giant Slalom
 1990-12-15,Richard Pramotton,IT,0,Giant Slalom
-1990-12-15,Lasse Kjus,NO,33,Slalom
 1990-12-15,Alberto Tomba,IT,47,Giant Slalom
+1990-12-15,Lasse Kjus,NO,33,Slalom
 1990-12-15,Roberto Spampatti,IT,0,Slalom
 1990-12-15,Franz Heinzer,CH,76,Downhill
 1990-12-15,Peter Rzehak,AT,0,Downhill
@@ -726,426 +726,426 @@ date,name,ath_country,value,specialty
 1990-12-16,Bernhard Gstrein,AT,15,Slalom
 1990-12-16,William Besse,CH,16,Downhill
 1990-12-16,Paul Accola,CH,16,Slalom
-1990-12-16,Michael Tritscher,AT,20,Slalom
-1990-12-16,Franz Heinzer,CH,76,Downhill
-1990-12-16,Ole Kristian Furuseth,NO,38,Slalom
-1990-12-16,Alberto Tomba,IT,72,Giant Slalom
-1990-12-16,Peter Roth,DE,34,Slalom
-1990-12-16,Leonhard Stock,AT,30,Downhill
-1990-12-16,Hannes Zehentner,DE,40,Downhill
-1990-12-16,Frank Piccard,FR,45,Giant Slalom
-1990-12-16,Peter Runggaldier,IT,2,Downhill
-1990-12-16,Rob Boyd,CA,29,Downhill
-1990-12-16,Markus Wasmeier,DE,0,Super G
-1990-12-16,Fredrik Nyberg,SE,37,Giant Slalom
-1990-12-16,Bernhard Bauer,DE,0,Slalom
-1990-12-16,Daniel Mahrer,CH,24,Downhill
 1990-12-16,Marc Girardelli,LU,36,Slalom
+1990-12-16,Atle Skaardal,NO,52,Downhill
+1990-12-16,Peter Runggaldier,IT,2,Downhill
 1990-12-16,Thomas Stangassinger,AT,10,Slalom
+1990-12-16,Stephan Eberharter,AT,23,Giant Slalom
+1990-12-16,Lasse Kjus,NO,33,Slalom
+1990-12-16,Frank Piccard,FR,45,Giant Slalom
 1990-12-16,Urs Kaelin,CH,24,Giant Slalom
+1990-12-16,Rudolph Nierlich,AT,34,Giant Slalom
+1990-12-16,Hannes Zehentner,DE,40,Downhill
+1990-12-16,Michael Tritscher,AT,20,Slalom
+1990-12-16,Thomas Fogdoe,SE,10,Slalom
+1990-12-16,Franz Heinzer,CH,76,Downhill
+1990-12-16,Peter Roth,DE,34,Slalom
+1990-12-16,Alberto Tomba,IT,72,Giant Slalom
 1990-12-16,Berni Huber,DE,20,Downhill
 1990-12-16,Guenther Mader,AT,16,Slalom
-1990-12-16,Thomas Fogdoe,SE,10,Slalom
-1990-12-16,Atle Skaardal,NO,52,Downhill
-1990-12-16,Lasse Kjus,NO,33,Slalom
-1990-12-16,Stephan Eberharter,AT,23,Giant Slalom
+1990-12-16,Fredrik Nyberg,SE,37,Giant Slalom
+1990-12-16,Leonhard Stock,AT,30,Downhill
 1990-12-16,Patrick Holzer,IT,0,Super G
-1990-12-16,Rudolph Nierlich,AT,34,Giant Slalom
-1990-12-18,Felix Belczyk,CA,0,Downhill
-1990-12-18,Marc Girardelli,LU,51,Slalom
-1990-12-18,Erwin Resch,AT,0,Downhill
-1990-12-18,Peter Runggaldier,IT,2,Downhill
-1990-12-18,Tetsuya Okabe,JP,0,Slalom
-1990-12-18,Johan Wallner,SE,24,Giant Slalom
-1990-12-18,Hubert Strolz,AT,11,Giant Slalom
-1990-12-18,Armin Assinger,AT,0,Downhill
-1990-12-18,Francois Simond,FR,0,Slalom
-1990-12-18,Jean Luc Cretier,FR,11,Super G
+1990-12-16,Ole Kristian Furuseth,NO,38,Slalom
+1990-12-16,Bernhard Bauer,DE,0,Slalom
+1990-12-16,Markus Wasmeier,DE,0,Super G
+1990-12-16,Rob Boyd,CA,29,Downhill
+1990-12-16,Daniel Mahrer,CH,24,Downhill
+1990-12-18,Roger Pramotton,IT,0,Slalom
+1990-12-18,Leonhard Stock,AT,30,Downhill
+1990-12-18,Daniel Mahrer,CH,24,Downhill
 1990-12-18,Christian Polig,IT,0,Slalom
 1990-12-18,Josef Polig,IT,10,Super G
-1990-12-18,Karl Alpiger,CH,14,Downhill
-1990-12-18,Fabio De Crignis,IT,12,Slalom
-1990-12-18,Konrad Walk,AT,9,Giant Slalom
-1990-12-18,Christophe Berra,CH,0,Slalom
-1990-12-18,William Besse,CH,16,Downhill
-1990-12-18,Leonhard Stock,AT,30,Downhill
-1990-12-18,Guenther Mader,AT,16,Slalom
-1990-12-18,Armin Bittner,DE,29,Slalom
-1990-12-18,Thomas Fogdoe,SE,30,Slalom
-1990-12-18,Bernhard Gstrein,AT,25,Slalom
-1990-12-18,Hans-Joerg Tauscher,DE,1,Combined
-1990-12-18,Jan Einar Thorsen,NO,10,Downhill
-1990-12-18,Peter Roth,DE,34,Slalom
-1990-12-18,Heinz Peter Platter,IT,3,Slalom
-1990-12-18,Lasse Arnesen,NO,32,Downhill
-1990-12-18,Lukas Perathoner,IT,0,Downhill
-1990-12-18,Jonas Nilsson,SE,2,Slalom
-1990-12-18,Finn Chr. Jagge,NO,1,Slalom
-1990-12-18,Mats Ericson,SE,9,Slalom
-1990-12-18,Peter Wirnsberger,AT,15,Downhill
-1990-12-18,Ole Kristian Furuseth,NO,63,Slalom
-1990-12-18,Daniel Mahrer,CH,24,Downhill
-1990-12-18,Markus Wasmeier,DE,0,Super G
-1990-12-18,Helmut Mayer,AT,0,Giant Slalom
-1990-12-18,Urs Kaelin,CH,24,Giant Slalom
-1990-12-18,Xavier Gigandet,CH,0,Downhill
 1990-12-18,Lars Boerje Eriksson,SE,17,Giant Slalom
-1990-12-18,Patrice Bianchi,FR,5,Slalom
-1990-12-18,Mitja Kunc,SK,0,Giant Slalom
-1990-12-18,Kjetil Andre Aamodt,NO,22,Giant Slalom
-1990-12-18,Roger Pramotton,IT,0,Slalom
-1990-12-18,Rob Boyd,CA,29,Downhill
-1990-12-18,Bernard Fahner,CH,0,Downhill
-1990-12-18,Hans Pieren,CH,6,Giant Slalom
-1990-12-18,Michael Mair,IT,0,Downhill
-1990-12-18,Asgeir Linberg,NO,4,Super G
-1990-12-18,Patrick Ortlieb,AT,19,Downhill
-1990-12-18,Berni Huber,DE,20,Downhill
-1990-12-18,Peter Mueller,CH,0,Downhill
-1990-12-18,Patrick Holzer,IT,0,Super G
-1990-12-18,Kyle Rasmussen,US,1,Downhill
-1990-12-18,Konrad  Kurt Ladstaetter,IT,21,Slalom
-1990-12-18,Thomas Stangassinger,AT,22,Slalom
-1990-12-18,Rainer Salzgeber,AT,0,Giant Slalom
-1990-12-18,Niklas Henning,SE,18,Downhill
-1990-12-18,Denis Rey,FR,5,Downhill
-1990-12-18,Oliver Kuenzi,CH,0,Slalom
-1990-12-18,Alberto Tomba,IT,72,Giant Slalom
-1990-12-18,Steve Locher,CH,7,Giant Slalom
-1990-12-18,Stephan Eberharter,AT,23,Giant Slalom
-1990-12-18,Christophe Ple',FR,0,Downhill
-1990-12-18,Atle Skaardal,NO,52,Downhill
-1990-12-18,Patrick Staub,CH,0,Slalom
-1990-12-18,Rudolph Nierlich,AT,34,Giant Slalom
-1990-12-18,Franz Heinzer,CH,76,Downhill
-1990-12-18,Carlo Gerosa,IT,1,Slalom
-1990-12-18,Luc Alphand,FR,20,Downhill
-1990-12-18,Didrik Marksten,NO,0,Super G
-1990-12-18,Peter Rzehak,AT,0,Downhill
-1990-12-18,Fredrik Nyberg,SE,37,Giant Slalom
-1990-12-18,Richard Pramotton,IT,0,Giant Slalom
-1990-12-18,Tommy Moe,US,7,Downhill
+1990-12-18,Hans-Joerg Tauscher,DE,1,Combined
+1990-12-18,Mats Ericson,SE,9,Slalom
+1990-12-18,Jan Einar Thorsen,NO,10,Downhill
+1990-12-18,Urs Kaelin,CH,24,Giant Slalom
+1990-12-18,Helmut Mayer,AT,0,Giant Slalom
+1990-12-18,Karl Alpiger,CH,14,Downhill
 1990-12-18,Jeremy Nobis,US,0,Giant Slalom
-1990-12-18,Hannes Zehentner,DE,40,Downhill
-1990-12-18,Frank Piccard,FR,45,Giant Slalom
-1990-12-18,Martin Knoeri,CH,2,Giant Slalom
-1990-12-18,Paul Accola,CH,18,Slalom
+1990-12-18,Markus Wasmeier,DE,0,Super G
+1990-12-18,Armin Bittner,DE,29,Slalom
 1990-12-18,Alain Feutrier,FR,2,Giant Slalom
 1990-12-18,Luca Pesando,IT,7,Giant Slalom
-1990-12-18,Ed Podivinsky,CA,0,Downhill
-1990-12-18,Kristian Ghedina,IT,12,Downhill
-1990-12-18,Alain Villiard,CA,5,Slalom
-1990-12-18,Roberto Spampatti,IT,0,Slalom
+1990-12-18,Ole Kristian Furuseth,NO,63,Slalom
+1990-12-18,Konrad Walk,AT,9,Giant Slalom
+1990-12-18,William Besse,CH,16,Downhill
+1990-12-18,Peter Roth,DE,34,Slalom
+1990-12-18,Christophe Berra,CH,0,Slalom
+1990-12-18,Fabio De Crignis,IT,12,Slalom
+1990-12-18,Johan Wallner,SE,24,Giant Slalom
+1990-12-18,Patrick Ortlieb,AT,19,Downhill
+1990-12-18,Patrick Holzer,IT,0,Super G
+1990-12-18,Asgeir Linberg,NO,4,Super G
+1990-12-18,Jonas Nilsson,SE,2,Slalom
+1990-12-18,Lukas Perathoner,IT,0,Downhill
+1990-12-18,Heinz Peter Platter,IT,3,Slalom
+1990-12-18,Michael Mair,IT,0,Downhill
+1990-12-18,Peter Runggaldier,IT,2,Downhill
+1990-12-18,Erwin Resch,AT,0,Downhill
+1990-12-18,Hubert Strolz,AT,11,Giant Slalom
+1990-12-18,Kjetil Andre Aamodt,NO,22,Giant Slalom
 1990-12-18,Brian Stemmle,CA,7,Downhill
-1990-12-18,Lasse Kjus,NO,40,Slalom
-1990-12-18,Bernhard Bauer,DE,0,Slalom
+1990-12-18,Hans Pieren,CH,6,Giant Slalom
+1990-12-18,Patrice Bianchi,FR,5,Slalom
+1990-12-18,Guenther Mader,AT,16,Slalom
+1990-12-18,Jean Luc Cretier,FR,11,Super G
+1990-12-18,Lasse Arnesen,NO,32,Downhill
+1990-12-18,Xavier Gigandet,CH,0,Downhill
+1990-12-18,Rob Boyd,CA,29,Downhill
+1990-12-18,Konrad  Kurt Ladstaetter,IT,21,Slalom
+1990-12-18,Berni Huber,DE,20,Downhill
+1990-12-18,Armin Assinger,AT,0,Downhill
+1990-12-18,Bernhard Gstrein,AT,25,Slalom
 1990-12-18,Helmut Hoeflehner,AT,0,Downhill
-1990-12-18,Michael Tritscher,AT,31,Slalom
-1990-12-18,Giovanni Moro,IT,1,Slalom
-1990-12-18,A.J. Kitt,US,8,Downhill
+1990-12-18,Alberto Tomba,IT,72,Giant Slalom
+1990-12-18,Luc Alphand,FR,20,Downhill
+1990-12-18,Oliver Kuenzi,CH,0,Slalom
+1990-12-18,Stephan Eberharter,AT,23,Giant Slalom
+1990-12-18,Patrick Staub,CH,0,Slalom
+1990-12-18,Bernhard Bauer,DE,0,Slalom
+1990-12-18,Felix Belczyk,CA,0,Downhill
+1990-12-18,Richard Pramotton,IT,0,Giant Slalom
+1990-12-18,Rudolph Nierlich,AT,34,Giant Slalom
 1990-12-18,Michael von Gruenigen,CH,6,Giant Slalom
+1990-12-18,Carlo Gerosa,IT,1,Slalom
+1990-12-18,Alain Villiard,CA,5,Slalom
+1990-12-18,Mitja Kunc,SK,0,Giant Slalom
+1990-12-18,Niklas Henning,SE,18,Downhill
+1990-12-18,Frank Piccard,FR,45,Giant Slalom
+1990-12-18,Francois Simond,FR,0,Slalom
+1990-12-18,Marc Girardelli,LU,51,Slalom
+1990-12-18,A.J. Kitt,US,8,Downhill
+1990-12-18,Peter Wirnsberger,AT,15,Downhill
+1990-12-18,Bernard Fahner,CH,0,Downhill
+1990-12-18,Kyle Rasmussen,US,1,Downhill
+1990-12-18,Tetsuya Okabe,JP,0,Slalom
+1990-12-18,Peter Mueller,CH,0,Downhill
+1990-12-18,Christophe Ple',FR,0,Downhill
+1990-12-18,Ed Podivinsky,CA,0,Downhill
+1990-12-18,Fredrik Nyberg,SE,37,Giant Slalom
+1990-12-18,Denis Rey,FR,5,Downhill
+1990-12-18,Atle Skaardal,NO,52,Downhill
+1990-12-18,Finn Chr. Jagge,NO,1,Slalom
 1990-12-18,Harald Chr. Strand Nilsen,NO,0,Slalom
-1990-12-21,Johan Wallner,SE,24,Giant Slalom
-1990-12-21,Tommy Moe,US,7,Downhill
-1990-12-21,Roger Pramotton,IT,0,Slalom
-1990-12-21,Alain Villiard,CA,5,Slalom
-1990-12-21,Hubert Strolz,AT,19,Giant Slalom
-1990-12-21,Konrad  Kurt Ladstaetter,IT,21,Slalom
-1990-12-21,A.J. Kitt,US,8,Downhill
+1990-12-18,Peter Rzehak,AT,0,Downhill
+1990-12-18,Thomas Stangassinger,AT,22,Slalom
+1990-12-18,Roberto Spampatti,IT,0,Slalom
+1990-12-18,Franz Heinzer,CH,76,Downhill
+1990-12-18,Hannes Zehentner,DE,40,Downhill
+1990-12-18,Thomas Fogdoe,SE,30,Slalom
+1990-12-18,Giovanni Moro,IT,1,Slalom
+1990-12-18,Paul Accola,CH,18,Slalom
+1990-12-18,Kristian Ghedina,IT,12,Downhill
+1990-12-18,Michael Tritscher,AT,31,Slalom
+1990-12-18,Lasse Kjus,NO,40,Slalom
+1990-12-18,Martin Knoeri,CH,2,Giant Slalom
+1990-12-18,Steve Locher,CH,7,Giant Slalom
+1990-12-18,Didrik Marksten,NO,0,Super G
+1990-12-18,Rainer Salzgeber,AT,0,Giant Slalom
+1990-12-18,Tommy Moe,US,7,Downhill
 1990-12-21,Niklas Henning,SE,18,Downhill
-1990-12-21,Christophe Ple',FR,0,Downhill
-1990-12-21,Armin Bittner,DE,29,Slalom
-1990-12-21,Marc Girardelli,LU,66,Slalom
-1990-12-21,Hannes Zehentner,DE,40,Downhill
-1990-12-21,Richard Pramotton,IT,0,Giant Slalom
-1990-12-21,Josef Polig,IT,10,Super G
-1990-12-21,Ed Podivinsky,CA,0,Downhill
-1990-12-21,Kristian Ghedina,IT,12,Downhill
-1990-12-21,William Besse,CH,16,Downhill
-1990-12-21,Paul Accola,CH,18,Slalom
-1990-12-21,Konrad Walk,AT,16,Giant Slalom
-1990-12-21,Thomas Fogdoe,SE,30,Slalom
-1990-12-21,Bernard Fahner,CH,0,Downhill
+1990-12-21,Hubert Strolz,AT,19,Giant Slalom
+1990-12-21,Alain Villiard,CA,5,Slalom
+1990-12-21,A.J. Kitt,US,8,Downhill
 1990-12-21,Karl Alpiger,CH,14,Downhill
-1990-12-21,Denis Rey,FR,5,Downhill
-1990-12-21,Christian Polig,IT,0,Slalom
-1990-12-21,Asgeir Linberg,NO,4,Super G
-1990-12-21,Carlo Gerosa,IT,1,Slalom
-1990-12-21,Bernhard Bauer,DE,0,Slalom
-1990-12-21,Tetsuya Okabe,JP,0,Slalom
-1990-12-21,Atle Skaardal,NO,52,Downhill
-1990-12-21,Patrick Staub,CH,0,Slalom
+1990-12-21,Tommy Moe,US,7,Downhill
+1990-12-21,Armin Bittner,DE,29,Slalom
+1990-12-21,Finn Chr. Jagge,NO,1,Slalom
+1990-12-21,Christophe Ple',FR,0,Downhill
+1990-12-21,Helmut Mayer,AT,9,Giant Slalom
+1990-12-21,Konrad  Kurt Ladstaetter,IT,21,Slalom
+1990-12-21,Kristian Ghedina,IT,12,Downhill
 1990-12-21,Urs Kaelin,CH,44,Giant Slalom
+1990-12-21,Roger Pramotton,IT,0,Slalom
 1990-12-21,Lasse Arnesen,NO,32,Downhill
-1990-12-21,Rainer Salzgeber,AT,5,Giant Slalom
+1990-12-21,Konrad Walk,AT,16,Giant Slalom
 1990-12-21,Thomas Stangassinger,AT,22,Slalom
 1990-12-21,Michael Mair,IT,0,Downhill
+1990-12-21,Carlo Gerosa,IT,1,Slalom
+1990-12-21,Bernhard Bauer,DE,0,Slalom
+1990-12-21,William Besse,CH,16,Downhill
+1990-12-21,Atle Skaardal,NO,52,Downhill
+1990-12-21,Paul Accola,CH,18,Slalom
+1990-12-21,Josef Polig,IT,10,Super G
 1990-12-21,Berni Huber,DE,20,Downhill
-1990-12-21,Finn Chr. Jagge,NO,1,Slalom
-1990-12-21,Rob Boyd,CA,29,Downhill
-1990-12-21,Peter Wirnsberger,AT,15,Downhill
-1990-12-21,Daniel Mahrer,CH,24,Downhill
-1990-12-21,Hans-Joerg Tauscher,DE,1,Combined
-1990-12-21,Luca Pesando,IT,7,Giant Slalom
-1990-12-21,Alain Feutrier,FR,2,Giant Slalom
-1990-12-21,Jeremy Nobis,US,0,Giant Slalom
-1990-12-21,Harald Chr. Strand Nilsen,NO,0,Slalom
-1990-12-21,Helmut Hoeflehner,AT,0,Downhill
-1990-12-21,Peter Roth,DE,34,Slalom
-1990-12-21,Guenther Mader,AT,19,Slalom
-1990-12-21,Helmut Mayer,AT,9,Giant Slalom
-1990-12-21,Christophe Berra,CH,0,Slalom
-1990-12-21,Fabio De Crignis,IT,12,Slalom
-1990-12-21,Heinz Peter Platter,IT,3,Slalom
-1990-12-21,Mitja Kunc,SK,0,Giant Slalom
-1990-12-21,Jan Einar Thorsen,NO,10,Downhill
-1990-12-21,Kyle Rasmussen,US,1,Downhill
-1990-12-21,Giovanni Moro,IT,1,Slalom
-1990-12-21,Ole Kristian Furuseth,NO,63,Slalom
-1990-12-21,Rudolph Nierlich,AT,46,Giant Slalom
-1990-12-21,Francois Simond,FR,0,Slalom
-1990-12-21,Alberto Tomba,IT,97,Giant Slalom
-1990-12-21,Oliver Kuenzi,CH,0,Slalom
-1990-12-21,Stephan Eberharter,AT,23,Giant Slalom
-1990-12-21,Lasse Kjus,NO,40,Slalom
-1990-12-21,Luc Alphand,FR,20,Downhill
-1990-12-21,Steve Locher,CH,7,Giant Slalom
-1990-12-21,Roberto Spampatti,IT,0,Slalom
-1990-12-21,Michael Tritscher,AT,31,Slalom
+1990-12-21,Thomas Fogdoe,SE,30,Slalom
+1990-12-21,Asgeir Linberg,NO,4,Super G
+1990-12-21,Johan Wallner,SE,24,Giant Slalom
+1990-12-21,Richard Pramotton,IT,0,Giant Slalom
+1990-12-21,Rainer Salzgeber,AT,5,Giant Slalom
+1990-12-21,Christian Polig,IT,0,Slalom
+1990-12-21,Denis Rey,FR,5,Downhill
+1990-12-21,Patrick Staub,CH,0,Slalom
+1990-12-21,Marc Girardelli,LU,66,Slalom
+1990-12-21,Mats Ericson,SE,9,Slalom
+1990-12-21,Xavier Gigandet,CH,0,Downhill
 1990-12-21,Franz Heinzer,CH,76,Downhill
 1990-12-21,Didrik Marksten,NO,0,Super G
 1990-12-21,Peter Rzehak,AT,0,Downhill
 1990-12-21,Brian Stemmle,CA,7,Downhill
 1990-12-21,Martin Knoeri,CH,13,Giant Slalom
-1990-12-21,Frank Piccard,FR,51,Giant Slalom
-1990-12-21,Hans Pieren,CH,10,Giant Slalom
-1990-12-21,Leonhard Stock,AT,30,Downhill
-1990-12-21,Jean Luc Cretier,FR,11,Super G
+1990-12-21,Ole Kristian Furuseth,NO,63,Slalom
+1990-12-21,Giovanni Moro,IT,1,Slalom
+1990-12-21,Kyle Rasmussen,US,1,Downhill
+1990-12-21,Helmut Hoeflehner,AT,0,Downhill
+1990-12-21,Daniel Mahrer,CH,24,Downhill
 1990-12-21,Fredrik Nyberg,SE,47,Giant Slalom
-1990-12-21,Xavier Gigandet,CH,0,Downhill
-1990-12-21,Patrice Bianchi,FR,5,Slalom
-1990-12-21,Markus Wasmeier,DE,0,Super G
-1990-12-21,Lars Boerje Eriksson,SE,17,Giant Slalom
-1990-12-21,Felix Belczyk,CA,0,Downhill
-1990-12-21,Lukas Perathoner,IT,0,Downhill
-1990-12-21,Patrick Ortlieb,AT,19,Downhill
-1990-12-21,Bernhard Gstrein,AT,25,Slalom
-1990-12-21,Mats Ericson,SE,9,Slalom
-1990-12-21,Patrick Holzer,IT,0,Super G
-1990-12-21,Jonas Nilsson,SE,2,Slalom
-1990-12-21,Kjetil Andre Aamodt,NO,23,Giant Slalom
-1990-12-21,Peter Mueller,CH,0,Downhill
+1990-12-21,Luca Pesando,IT,7,Giant Slalom
+1990-12-21,Alain Feutrier,FR,2,Giant Slalom
+1990-12-21,Jeremy Nobis,US,0,Giant Slalom
+1990-12-21,Peter Roth,DE,34,Slalom
+1990-12-21,Michael Tritscher,AT,31,Slalom
+1990-12-21,Jan Einar Thorsen,NO,10,Downhill
+1990-12-21,Roberto Spampatti,IT,0,Slalom
+1990-12-21,Luc Alphand,FR,20,Downhill
+1990-12-21,Tetsuya Okabe,JP,0,Slalom
+1990-12-21,Ed Podivinsky,CA,0,Downhill
+1990-12-21,Bernard Fahner,CH,0,Downhill
+1990-12-21,Hannes Zehentner,DE,40,Downhill
+1990-12-21,Peter Wirnsberger,AT,15,Downhill
 1990-12-21,Michael von Gruenigen,CH,8,Giant Slalom
+1990-12-21,Mitja Kunc,SK,0,Giant Slalom
+1990-12-21,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-21,Lasse Kjus,NO,40,Slalom
+1990-12-21,Felix Belczyk,CA,0,Downhill
+1990-12-21,Rudolph Nierlich,AT,46,Giant Slalom
+1990-12-21,Francois Simond,FR,0,Slalom
+1990-12-21,Alberto Tomba,IT,97,Giant Slalom
+1990-12-21,Oliver Kuenzi,CH,0,Slalom
+1990-12-21,Stephan Eberharter,AT,23,Giant Slalom
+1990-12-21,Steve Locher,CH,7,Giant Slalom
+1990-12-21,Guenther Mader,AT,19,Slalom
+1990-12-21,Hans-Joerg Tauscher,DE,1,Combined
+1990-12-21,Kjetil Andre Aamodt,NO,23,Giant Slalom
 1990-12-21,Peter Runggaldier,IT,2,Downhill
+1990-12-21,Patrick Holzer,IT,0,Super G
+1990-12-21,Lars Boerje Eriksson,SE,17,Giant Slalom
+1990-12-21,Heinz Peter Platter,IT,3,Slalom
 1990-12-21,Erwin Resch,AT,0,Downhill
+1990-12-21,Peter Mueller,CH,0,Downhill
+1990-12-21,Rob Boyd,CA,29,Downhill
 1990-12-21,Armin Assinger,AT,0,Downhill
-1990-12-22,Alain Villiard,CA,5,Slalom
-1990-12-22,Heinz Peter Platter,IT,3,Slalom
+1990-12-21,Markus Wasmeier,DE,0,Super G
+1990-12-21,Jonas Nilsson,SE,2,Slalom
+1990-12-21,Jean Luc Cretier,FR,11,Super G
+1990-12-21,Hans Pieren,CH,10,Giant Slalom
+1990-12-21,Frank Piccard,FR,51,Giant Slalom
+1990-12-21,Patrick Ortlieb,AT,19,Downhill
+1990-12-21,Lukas Perathoner,IT,0,Downhill
+1990-12-21,Fabio De Crignis,IT,12,Slalom
+1990-12-21,Christophe Berra,CH,0,Slalom
+1990-12-21,Leonhard Stock,AT,30,Downhill
+1990-12-21,Patrice Bianchi,FR,5,Slalom
+1990-12-21,Bernhard Gstrein,AT,25,Slalom
 1990-12-22,Carlo Gerosa,IT,4,Slalom
-1990-12-22,Karl Alpiger,CH,14,Downhill
-1990-12-22,Urs Kaelin,CH,44,Giant Slalom
-1990-12-22,Martin Knoeri,CH,13,Giant Slalom
-1990-12-22,Bernhard Bauer,DE,0,Slalom
+1990-12-22,Felix Belczyk,CA,0,Downhill
+1990-12-22,Tetsuya Okabe,JP,11,Slalom
+1990-12-22,Asgeir Linberg,NO,4,Super G
+1990-12-22,Lars Boerje Eriksson,SE,17,Giant Slalom
+1990-12-22,Lasse Kjus,NO,40,Slalom
+1990-12-22,Kjetil Andre Aamodt,NO,24,Giant Slalom
+1990-12-22,Michael von Gruenigen,CH,14,Giant Slalom
+1990-12-22,Hannes Zehentner,DE,40,Downhill
+1990-12-22,Finn Chr. Jagge,NO,1,Slalom
+1990-12-22,Alain Villiard,CA,5,Slalom
+1990-12-22,Niklas Henning,SE,18,Downhill
 1990-12-22,Xavier Gigandet,CH,0,Downhill
 1990-12-22,Ole Kristian Furuseth,NO,88,Slalom
-1990-12-22,Felix Belczyk,CA,0,Downhill
-1990-12-22,Michael Mair,IT,0,Downhill
-1990-12-22,Asgeir Linberg,NO,4,Super G
-1990-12-22,Francois Simond,FR,0,Slalom
-1990-12-22,Niklas Henning,SE,18,Downhill
-1990-12-22,Finn Chr. Jagge,NO,1,Slalom
-1990-12-22,Lukas Perathoner,IT,0,Downhill
-1990-12-22,Tommy Moe,US,7,Downhill
-1990-12-22,Jonas Nilsson,SE,7,Slalom
-1990-12-22,Fredrik Nyberg,SE,47,Giant Slalom
-1990-12-22,Alain Feutrier,FR,2,Giant Slalom
-1990-12-22,Peter Runggaldier,IT,2,Downhill
-1990-12-22,Paul Accola,CH,25,Slalom
-1990-12-22,Rainer Salzgeber,AT,5,Giant Slalom
-1990-12-22,Lasse Kjus,NO,40,Slalom
-1990-12-22,Oliver Kuenzi,CH,2,Slalom
-1990-12-22,Tetsuya Okabe,JP,11,Slalom
-1990-12-22,Michael von Gruenigen,CH,14,Giant Slalom
-1990-12-22,Jean Luc Cretier,FR,11,Super G
+1990-12-22,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1990-12-22,Urs Kaelin,CH,44,Giant Slalom
 1990-12-22,Johan Wallner,SE,24,Giant Slalom
+1990-12-22,Lukas Perathoner,IT,0,Downhill
+1990-12-22,Michael Mair,IT,0,Downhill
+1990-12-22,Alain Feutrier,FR,2,Giant Slalom
+1990-12-22,Karl Alpiger,CH,14,Downhill
+1990-12-22,Bernhard Bauer,DE,0,Slalom
+1990-12-22,Jean Luc Cretier,FR,11,Super G
+1990-12-22,Rainer Salzgeber,AT,5,Giant Slalom
+1990-12-22,Jonas Nilsson,SE,7,Slalom
+1990-12-22,Tommy Moe,US,7,Downhill
+1990-12-22,Bernhard Gstrein,AT,25,Slalom
 1990-12-22,Luca Pesando,IT,7,Giant Slalom
 1990-12-22,Didrik Marksten,NO,0,Super G
-1990-12-22,Kjetil Andre Aamodt,NO,24,Giant Slalom
-1990-12-22,Bernhard Gstrein,AT,25,Slalom
-1990-12-22,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1990-12-22,Hannes Zehentner,DE,40,Downhill
-1990-12-22,Lars Boerje Eriksson,SE,17,Giant Slalom
+1990-12-22,Paul Accola,CH,25,Slalom
+1990-12-22,Oliver Kuenzi,CH,2,Slalom
+1990-12-22,Peter Runggaldier,IT,2,Downhill
+1990-12-22,Fredrik Nyberg,SE,47,Giant Slalom
+1990-12-22,Heinz Peter Platter,IT,3,Slalom
+1990-12-22,Martin Knoeri,CH,13,Giant Slalom
+1990-12-22,Francois Simond,FR,0,Slalom
+1990-12-22,Peter Mueller,CH,0,Downhill
 1990-12-22,Guenther Mader,AT,29,Slalom
-1990-12-22,Brian Stemmle,CA,7,Downhill
-1990-12-22,Stephan Eberharter,AT,23,Giant Slalom
-1990-12-22,Marc Girardelli,LU,78,Slalom
-1990-12-22,Alberto Tomba,IT,97,Giant Slalom
-1990-12-22,Roberto Spampatti,IT,0,Slalom
-1990-12-22,Jan Einar Thorsen,NO,10,Downhill
-1990-12-22,Steve Locher,CH,7,Giant Slalom
-1990-12-22,Hubert Strolz,AT,19,Giant Slalom
-1990-12-22,Luc Alphand,FR,20,Downhill
-1990-12-22,Fabio De Crignis,IT,12,Slalom
-1990-12-22,Lasse Arnesen,NO,32,Downhill
+1990-12-22,Christophe Ple',FR,0,Downhill
+1990-12-22,Erwin Resch,AT,0,Downhill
+1990-12-22,Franz Heinzer,CH,76,Downhill
+1990-12-22,Peter Roth,DE,34,Slalom
+1990-12-22,Christophe Berra,CH,0,Slalom
+1990-12-22,Kyle Rasmussen,US,1,Downhill
+1990-12-22,Patrick Holzer,IT,0,Super G
+1990-12-22,Patrick Staub,CH,0,Slalom
+1990-12-22,Patrick Ortlieb,AT,19,Downhill
+1990-12-22,Rob Boyd,CA,29,Downhill
 1990-12-22,Bernard Fahner,CH,0,Downhill
-1990-12-22,Josef Polig,IT,10,Super G
-1990-12-22,Mats Ericson,SE,17,Slalom
-1990-12-22,Hans-Joerg Tauscher,DE,1,Combined
-1990-12-22,Armin Assinger,AT,0,Downhill
-1990-12-22,Michael Tritscher,AT,31,Slalom
-1990-12-22,Berni Huber,DE,20,Downhill
-1990-12-22,Roger Pramotton,IT,0,Slalom
-1990-12-22,Peter Rzehak,AT,0,Downhill
 1990-12-22,Patrice Bianchi,FR,5,Slalom
 1990-12-22,Helmut Mayer,AT,9,Giant Slalom
 1990-12-22,Armin Bittner,DE,38,Slalom
 1990-12-22,Markus Wasmeier,DE,0,Super G
-1990-12-22,Giovanni Moro,IT,1,Slalom
-1990-12-22,Helmut Hoeflehner,AT,0,Downhill
-1990-12-22,Jeremy Nobis,US,0,Giant Slalom
-1990-12-22,Christophe Berra,CH,0,Slalom
-1990-12-22,Rob Boyd,CA,29,Downhill
-1990-12-22,Christian Polig,IT,0,Slalom
-1990-12-22,Erwin Resch,AT,0,Downhill
-1990-12-22,Christophe Ple',FR,0,Downhill
-1990-12-22,Peter Roth,DE,34,Slalom
-1990-12-22,Franz Heinzer,CH,76,Downhill
+1990-12-22,Mats Ericson,SE,17,Slalom
+1990-12-22,Roger Pramotton,IT,0,Slalom
+1990-12-22,Berni Huber,DE,20,Downhill
+1990-12-22,Leonhard Stock,AT,30,Downhill
+1990-12-22,Josef Polig,IT,10,Super G
+1990-12-22,Jan Einar Thorsen,NO,10,Downhill
+1990-12-22,Armin Assinger,AT,0,Downhill
 1990-12-22,Ed Podivinsky,CA,0,Downhill
 1990-12-22,Peter Wirnsberger,AT,15,Downhill
-1990-12-22,A.J. Kitt,US,8,Downhill
-1990-12-22,Kyle Rasmussen,US,1,Downhill
 1990-12-22,Mitja Kunc,SK,0,Giant Slalom
-1990-12-22,Richard Pramotton,IT,0,Giant Slalom
-1990-12-22,Frank Piccard,FR,51,Giant Slalom
-1990-12-22,Patrick Holzer,IT,0,Super G
-1990-12-22,Leonhard Stock,AT,30,Downhill
-1990-12-22,Atle Skaardal,NO,52,Downhill
 1990-12-22,Harald Chr. Strand Nilsen,NO,0,Slalom
+1990-12-22,Rudolph Nierlich,AT,46,Giant Slalom
+1990-12-22,Stephan Eberharter,AT,23,Giant Slalom
+1990-12-22,Roberto Spampatti,IT,0,Slalom
+1990-12-22,Steve Locher,CH,7,Giant Slalom
+1990-12-22,Luc Alphand,FR,20,Downhill
+1990-12-22,Hans-Joerg Tauscher,DE,1,Combined
+1990-12-22,Brian Stemmle,CA,7,Downhill
+1990-12-22,Michael Tritscher,AT,31,Slalom
+1990-12-22,Peter Rzehak,AT,0,Downhill
+1990-12-22,Giovanni Moro,IT,1,Slalom
+1990-12-22,Helmut Hoeflehner,AT,0,Downhill
 1990-12-22,Daniel Mahrer,CH,24,Downhill
+1990-12-22,Jeremy Nobis,US,0,Giant Slalom
+1990-12-22,Fabio De Crignis,IT,12,Slalom
+1990-12-22,Lasse Arnesen,NO,32,Downhill
+1990-12-22,Hans Pieren,CH,10,Giant Slalom
+1990-12-22,William Besse,CH,16,Downhill
+1990-12-22,Atle Skaardal,NO,52,Downhill
+1990-12-22,Alberto Tomba,IT,97,Giant Slalom
+1990-12-22,Christian Polig,IT,0,Slalom
+1990-12-22,Kristian Ghedina,IT,12,Downhill
 1990-12-22,Denis Rey,FR,5,Downhill
-1990-12-22,Patrick Staub,CH,0,Slalom
-1990-12-22,Peter Mueller,CH,0,Downhill
+1990-12-22,Frank Piccard,FR,51,Giant Slalom
+1990-12-22,Richard Pramotton,IT,0,Giant Slalom
 1990-12-22,Thomas Stangassinger,AT,37,Slalom
 1990-12-22,Thomas Fogdoe,SE,50,Slalom
+1990-12-22,Marc Girardelli,LU,78,Slalom
+1990-12-22,Hubert Strolz,AT,19,Giant Slalom
+1990-12-22,A.J. Kitt,US,8,Downhill
 1990-12-22,Konrad Walk,AT,16,Giant Slalom
-1990-12-22,Hans Pieren,CH,10,Giant Slalom
-1990-12-22,Patrick Ortlieb,AT,19,Downhill
-1990-12-22,Rudolph Nierlich,AT,46,Giant Slalom
-1990-12-22,Kristian Ghedina,IT,12,Downhill
-1990-12-22,William Besse,CH,16,Downhill
-1991-01-05,Michael Tritscher,AT,31,Slalom
-1991-01-05,Alain Feutrier,FR,2,Giant Slalom
-1991-01-05,Erwin Resch,AT,0,Downhill
-1991-01-05,Bernhard Gstrein,AT,25,Slalom
-1991-01-05,Armin Assinger,AT,0,Downhill
-1991-01-05,Frank Piccard,FR,53,Giant Slalom
-1991-01-05,Fabio De Crignis,IT,12,Slalom
-1991-01-05,Guenther Mader,AT,29,Slalom
 1991-01-05,Jean Luc Cretier,FR,11,Super G
-1991-01-05,Christophe Ple',FR,0,Downhill
-1991-01-05,Jan Einar Thorsen,NO,16,Downhill
-1991-01-05,Tetsuya Okabe,JP,11,Slalom
-1991-01-05,Peter Wirnsberger,AT,20,Downhill
-1991-01-05,Ed Podivinsky,CA,0,Downhill
-1991-01-05,Mitja Kunc,SK,0,Giant Slalom
+1991-01-05,Tommy Moe,US,7,Downhill
+1991-01-05,Frank Piccard,FR,53,Giant Slalom
+1991-01-05,Erwin Resch,AT,0,Downhill
 1991-01-05,Lasse Kjus,NO,40,Slalom
+1991-01-05,Jan Einar Thorsen,NO,16,Downhill
+1991-01-05,Bernhard Bauer,DE,0,Slalom
+1991-01-05,Jeremy Nobis,US,0,Giant Slalom
+1991-01-05,Michael Tritscher,AT,31,Slalom
+1991-01-05,Bernhard Gstrein,AT,25,Slalom
+1991-01-05,Alain Feutrier,FR,2,Giant Slalom
 1991-01-05,Bernard Fahner,CH,1,Downhill
-1991-01-05,Felix Belczyk,CA,0,Downhill
-1991-01-05,Michael von Gruenigen,CH,14,Giant Slalom
-1991-01-05,Rudolph Nierlich,AT,46,Giant Slalom
-1991-01-05,Oliver Kuenzi,CH,2,Slalom
+1991-01-05,Ole Kristian Furuseth,NO,88,Slalom
+1991-01-05,Denis Rey,FR,5,Downhill
+1991-01-05,Fabio De Crignis,IT,12,Slalom
+1991-01-05,Marc Girardelli,LU,78,Slalom
+1991-01-05,Armin Assinger,AT,0,Downhill
+1991-01-05,Carlo Gerosa,IT,4,Slalom
+1991-01-05,Kristian Ghedina,IT,19,Downhill
 1991-01-05,Harald Chr. Strand Nilsen,NO,0,Slalom
 1991-01-05,Roberto Spampatti,IT,0,Slalom
+1991-01-05,Alain Villiard,CA,5,Slalom
 1991-01-05,Brian Stemmle,CA,7,Downhill
-1991-01-05,Jeremy Nobis,US,0,Giant Slalom
 1991-01-05,Steve Locher,CH,7,Giant Slalom
+1991-01-05,Stephan Eberharter,AT,23,Giant Slalom
+1991-01-05,Paul Accola,CH,25,Slalom
 1991-01-05,Heinz Peter Platter,IT,3,Slalom
 1991-01-05,Rob Boyd,CA,39,Downhill
+1991-01-05,Christian Polig,IT,0,Slalom
+1991-01-05,Patrick Staub,CH,0,Slalom
 1991-01-05,Francois Simond,FR,0,Slalom
 1991-01-05,Martin Knoeri,CH,13,Giant Slalom
 1991-01-05,Luc Alphand,FR,20,Downhill
+1991-01-05,Rudolph Nierlich,AT,46,Giant Slalom
 1991-01-05,Franz Heinzer,CH,84,Downhill
+1991-01-05,Thomas Fogdoe,SE,50,Slalom
 1991-01-05,Helmut Hoeflehner,AT,12,Downhill
 1991-01-05,Didrik Marksten,NO,0,Super G
+1991-01-05,Felix Belczyk,CA,0,Downhill
 1991-01-05,Luca Pesando,IT,7,Giant Slalom
 1991-01-05,Peter Rzehak,AT,0,Downhill
-1991-01-05,Giovanni Moro,IT,1,Slalom
-1991-01-05,Patrick Staub,CH,0,Slalom
-1991-01-05,Ole Kristian Furuseth,NO,88,Slalom
-1991-01-05,Stephan Eberharter,AT,23,Giant Slalom
-1991-01-05,Peter Roth,DE,34,Slalom
-1991-01-05,Xavier Gigandet,CH,0,Downhill
-1991-01-05,Bernhard Bauer,DE,0,Slalom
-1991-01-05,Christian Polig,IT,0,Slalom
 1991-01-05,Richard Pramotton,IT,0,Giant Slalom
-1991-01-05,Kyle Rasmussen,US,1,Downhill
-1991-01-05,Johan Wallner,SE,24,Giant Slalom
-1991-01-05,Josef Polig,IT,10,Super G
-1991-01-05,Lukas Perathoner,IT,0,Downhill
+1991-01-05,Giovanni Moro,IT,1,Slalom
 1991-01-05,Leonhard Stock,AT,30,Downhill
-1991-01-05,Kjetil Andre Aamodt,NO,24,Giant Slalom
-1991-01-05,Lasse Arnesen,NO,44,Downhill
-1991-01-05,Thomas Stangassinger,AT,37,Slalom
-1991-01-05,Marc Girardelli,LU,78,Slalom
-1991-01-05,Paul Accola,CH,25,Slalom
-1991-01-05,Daniel Mahrer,CH,49,Downhill
-1991-01-05,Alberto Tomba,IT,97,Giant Slalom
-1991-01-05,Michael Mair,IT,0,Downhill
-1991-01-05,Hubert Strolz,AT,19,Giant Slalom
-1991-01-05,Asgeir Linberg,NO,4,Super G
-1991-01-05,Peter Mueller,CH,0,Downhill
-1991-01-05,Konrad Walk,AT,16,Giant Slalom
-1991-01-05,Karl Alpiger,CH,14,Downhill
-1991-01-05,Carlo Gerosa,IT,4,Slalom
-1991-01-05,Berni Huber,DE,30,Downhill
-1991-01-05,Rainer Salzgeber,AT,5,Giant Slalom
-1991-01-05,Kristian Ghedina,IT,19,Downhill
-1991-01-05,Thomas Fogdoe,SE,50,Slalom
-1991-01-05,Denis Rey,FR,5,Downhill
-1991-01-05,Fredrik Nyberg,SE,47,Giant Slalom
-1991-01-05,Hans-Joerg Tauscher,DE,4,Combined
-1991-01-05,Christophe Berra,CH,0,Slalom
-1991-01-05,Mats Ericson,SE,17,Slalom
-1991-01-05,Patrick Holzer,IT,0,Super G
-1991-01-05,Jonas Nilsson,SE,7,Slalom
-1991-01-05,Patrick Ortlieb,AT,19,Downhill
-1991-01-05,Niklas Henning,SE,18,Downhill
-1991-01-05,Hans Pieren,CH,10,Giant Slalom
-1991-01-05,Urs Kaelin,CH,44,Giant Slalom
-1991-01-05,A.J. Kitt,US,8,Downhill
-1991-01-05,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-01-05,Helmut Mayer,AT,9,Giant Slalom
-1991-01-05,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-01-05,Patrice Bianchi,FR,5,Slalom
-1991-01-05,Markus Wasmeier,DE,0,Super G
-1991-01-05,Alain Villiard,CA,5,Slalom
+1991-01-05,Oliver Kuenzi,CH,2,Slalom
 1991-01-05,Hannes Zehentner,DE,60,Downhill
+1991-01-05,Ed Podivinsky,CA,0,Downhill
 1991-01-05,Roger Pramotton,IT,0,Slalom
+1991-01-05,Michael Mair,IT,0,Downhill
 1991-01-05,Atle Skaardal,NO,72,Downhill
 1991-01-05,Armin Bittner,DE,38,Slalom
 1991-01-05,Finn Chr. Jagge,NO,1,Slalom
 1991-01-05,William Besse,CH,20,Downhill
+1991-01-05,Hans-Joerg Tauscher,DE,4,Combined
+1991-01-05,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-01-05,Peter Roth,DE,34,Slalom
+1991-01-05,Fredrik Nyberg,SE,47,Giant Slalom
+1991-01-05,Kyle Rasmussen,US,1,Downhill
+1991-01-05,Alberto Tomba,IT,97,Giant Slalom
+1991-01-05,Johan Wallner,SE,24,Giant Slalom
+1991-01-05,Josef Polig,IT,10,Super G
+1991-01-05,Lukas Perathoner,IT,0,Downhill
+1991-01-05,Kjetil Andre Aamodt,NO,24,Giant Slalom
+1991-01-05,Lasse Arnesen,NO,44,Downhill
+1991-01-05,Tetsuya Okabe,JP,11,Slalom
+1991-01-05,Thomas Stangassinger,AT,37,Slalom
+1991-01-05,Daniel Mahrer,CH,49,Downhill
+1991-01-05,Peter Wirnsberger,AT,20,Downhill
+1991-01-05,Markus Wasmeier,DE,0,Super G
+1991-01-05,Niklas Henning,SE,18,Downhill
+1991-01-05,Asgeir Linberg,NO,4,Super G
+1991-01-05,Rainer Salzgeber,AT,5,Giant Slalom
+1991-01-05,A.J. Kitt,US,8,Downhill
+1991-01-05,Christophe Berra,CH,0,Slalom
+1991-01-05,Guenther Mader,AT,29,Slalom
+1991-01-05,Mats Ericson,SE,17,Slalom
+1991-01-05,Patrick Holzer,IT,0,Super G
+1991-01-05,Konrad Walk,AT,16,Giant Slalom
+1991-01-05,Jonas Nilsson,SE,7,Slalom
+1991-01-05,Berni Huber,DE,30,Downhill
+1991-01-05,Karl Alpiger,CH,14,Downhill
+1991-01-05,Patrick Ortlieb,AT,19,Downhill
+1991-01-05,Hubert Strolz,AT,19,Giant Slalom
+1991-01-05,Michael von Gruenigen,CH,14,Giant Slalom
+1991-01-05,Xavier Gigandet,CH,0,Downhill
+1991-01-05,Hans Pieren,CH,10,Giant Slalom
+1991-01-05,Urs Kaelin,CH,44,Giant Slalom
+1991-01-05,Peter Mueller,CH,0,Downhill
+1991-01-05,Mitja Kunc,SK,0,Giant Slalom
+1991-01-05,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-01-05,Helmut Mayer,AT,9,Giant Slalom
+1991-01-05,Patrice Bianchi,FR,5,Slalom
 1991-01-05,Peter Runggaldier,IT,2,Downhill
-1991-01-05,Tommy Moe,US,7,Downhill
-1991-01-06,William Besse,CH,20,Downhill
+1991-01-05,Christophe Ple',FR,0,Downhill
+1991-01-06,Mitja Kunc,SK,0,Giant Slalom
 1991-01-06,Guenther Mader,AT,54,Slalom
 1991-01-06,Christian Polig,IT,0,Slalom
-1991-01-06,Mitja Kunc,SK,0,Giant Slalom
-1991-01-06,Mats Ericson,SE,17,Slalom
-1991-01-06,Harald Chr. Strand Nilsen,NO,0,Slalom
-1991-01-06,Francois Simond,FR,0,Slalom
 1991-01-06,Asgeir Linberg,NO,4,Super G
-1991-01-06,Berni Huber,DE,30,Downhill
-1991-01-06,Bernhard Gstrein,AT,25,Slalom
-1991-01-06,Fredrik Nyberg,SE,47,Giant Slalom
-1991-01-06,Peter Mueller,CH,0,Downhill
-1991-01-06,Patrick Staub,CH,0,Slalom
-1991-01-06,Daniel Mahrer,CH,49,Downhill
-1991-01-06,Hannes Zehentner,DE,64,Downhill
-1991-01-06,Rob Boyd,CA,39,Downhill
-1991-01-06,Jan Einar Thorsen,NO,16,Downhill
-1991-01-06,Carlo Gerosa,IT,4,Slalom
 1991-01-06,Kjetil Andre Aamodt,NO,35,Giant Slalom
+1991-01-06,William Besse,CH,20,Downhill
+1991-01-06,Bernhard Gstrein,AT,25,Slalom
+1991-01-06,Daniel Mahrer,CH,49,Downhill
+1991-01-06,Jan Einar Thorsen,NO,16,Downhill
+1991-01-06,Mats Ericson,SE,17,Slalom
+1991-01-06,Rob Boyd,CA,39,Downhill
+1991-01-06,Hannes Zehentner,DE,64,Downhill
+1991-01-06,Patrick Staub,CH,0,Slalom
+1991-01-06,Peter Mueller,CH,0,Downhill
+1991-01-06,Fredrik Nyberg,SE,47,Giant Slalom
+1991-01-06,Berni Huber,DE,30,Downhill
+1991-01-06,Francois Simond,FR,0,Slalom
+1991-01-06,Harald Chr. Strand Nilsen,NO,0,Slalom
+1991-01-06,Carlo Gerosa,IT,4,Slalom
 1991-01-06,Bernard Fahner,CH,1,Downhill
 1991-01-06,Bernhard Bauer,DE,0,Slalom
 1991-01-06,Kristian Ghedina,IT,29,Downhill
@@ -1185,10 +1185,10 @@ date,name,ath_country,value,specialty
 1991-01-06,Thomas Stangassinger,AT,37,Slalom
 1991-01-06,Hubert Strolz,AT,20,Giant Slalom
 1991-01-06,Erwin Resch,AT,0,Downhill
-1991-01-06,Franz Heinzer,CH,104,Downhill
+1991-01-06,Rainer Salzgeber,AT,5,Giant Slalom
 1991-01-06,Giovanni Moro,IT,1,Slalom
 1991-01-06,Karl Alpiger,CH,14,Downhill
-1991-01-06,Rainer Salzgeber,AT,5,Giant Slalom
+1991-01-06,Franz Heinzer,CH,104,Downhill
 1991-01-06,Jean Luc Cretier,FR,11,Super G
 1991-01-06,Alain Feutrier,FR,2,Giant Slalom
 1991-01-06,Ole Kristian Furuseth,NO,88,Slalom
@@ -1199,17 +1199,17 @@ date,name,ath_country,value,specialty
 1991-01-06,Didrik Marksten,NO,2,Super G
 1991-01-06,Heinz Peter Platter,IT,3,Slalom
 1991-01-06,Rudolph Nierlich,AT,46,Giant Slalom
-1991-01-06,Felix Belczyk,CA,0,Downhill
 1991-01-06,Peter Wirnsberger,AT,20,Downhill
-1991-01-06,Oliver Kuenzi,CH,2,Slalom
+1991-01-06,Felix Belczyk,CA,0,Downhill
 1991-01-06,Michael von Gruenigen,CH,14,Giant Slalom
+1991-01-06,Oliver Kuenzi,CH,2,Slalom
 1991-01-06,Hans-Joerg Tauscher,DE,4,Combined
 1991-01-06,Jonas Nilsson,SE,7,Slalom
 1991-01-06,Peter Runggaldier,IT,3,Downhill
 1991-01-06,Xavier Gigandet,CH,0,Downhill
-1991-01-06,Tommy Moe,US,7,Downhill
 1991-01-06,Richard Pramotton,IT,0,Giant Slalom
 1991-01-06,Michael Mair,IT,0,Downhill
+1991-01-06,Tommy Moe,US,7,Downhill
 1991-01-06,Stephan Eberharter,AT,26,Giant Slalom
 1991-01-06,Luc Alphand,FR,29,Downhill
 1991-01-06,Roberto Spampatti,IT,0,Slalom
@@ -1265,15 +1265,16 @@ date,name,ath_country,value,specialty
 1991-01-12,Brian Stemmle,CA,7,Downhill
 1991-01-12,Peter Wirnsberger,AT,26,Downhill
 1991-01-12,Hannes Zehentner,DE,64,Downhill
-1991-01-12,Alain Villiard,CA,5,Slalom
-1991-01-12,Oliver Kuenzi,CH,2,Slalom
-1991-01-12,Richard Pramotton,IT,0,Giant Slalom
+1991-01-12,Alberto Tomba,IT,97,Giant Slalom
+1991-01-12,Denis Rey,FR,5,Downhill
+1991-01-12,Felix Belczyk,CA,0,Downhill
 1991-01-12,Kjetil Andre Aamodt,NO,35,Giant Slalom
-1991-01-12,Kyle Rasmussen,US,1,Downhill
+1991-01-12,Richard Pramotton,IT,0,Giant Slalom
 1991-01-12,Armin Bittner,DE,38,Slalom
+1991-01-12,Kyle Rasmussen,US,1,Downhill
 1991-01-12,Atle Skaardal,NO,79,Downhill
-1991-01-12,Rainer Salzgeber,AT,5,Giant Slalom
 1991-01-12,A.J. Kitt,US,9,Downhill
+1991-01-12,Rainer Salzgeber,AT,5,Giant Slalom
 1991-01-12,Patrick Holzer,IT,0,Super G
 1991-01-12,Ole Kristian Furuseth,NO,88,Slalom
 1991-01-12,Fabio De Crignis,IT,12,Slalom
@@ -1283,447 +1284,352 @@ date,name,ath_country,value,specialty
 1991-01-12,Asgeir Linberg,NO,4,Super G
 1991-01-12,Paul Accola,CH,25,Slalom
 1991-01-12,Fredrik Nyberg,SE,47,Giant Slalom
-1991-01-12,Martin Knoeri,CH,13,Giant Slalom
 1991-01-12,Carlo Gerosa,IT,4,Slalom
+1991-01-12,Martin Knoeri,CH,13,Giant Slalom
 1991-01-12,Armin Assinger,AT,5,Downhill
 1991-01-12,Patrice Bianchi,FR,5,Slalom
-1991-01-12,Felix Belczyk,CA,0,Downhill
 1991-01-12,Patrick Ortlieb,AT,19,Downhill
 1991-01-12,Christian Polig,IT,0,Slalom
-1991-01-12,Alberto Tomba,IT,97,Giant Slalom
 1991-01-12,Johan Wallner,SE,24,Giant Slalom
-1991-01-12,Denis Rey,FR,5,Downhill
-1991-01-12,Mats Ericson,SE,17,Slalom
+1991-01-12,Helmut Hoeflehner,AT,23,Downhill
+1991-01-12,Oliver Kuenzi,CH,2,Slalom
+1991-01-12,Giovanni Moro,IT,1,Slalom
+1991-01-12,Franz Heinzer,CH,129,Downhill
+1991-01-12,Michael Mair,IT,2,Downhill
+1991-01-12,Peter Roth,DE,34,Slalom
+1991-01-12,Mitja Kunc,SK,0,Giant Slalom
+1991-01-12,Rob Boyd,CA,54,Downhill
+1991-01-12,Tetsuya Okabe,JP,11,Slalom
 1991-01-12,Harald Chr. Strand Nilsen,NO,0,Slalom
 1991-01-12,Ed Podivinsky,CA,0,Downhill
-1991-01-12,Rob Boyd,CA,54,Downhill
-1991-01-12,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-01-12,Helmut Hoeflehner,AT,23,Downhill
-1991-01-12,Mitja Kunc,SK,0,Giant Slalom
+1991-01-12,Mats Ericson,SE,17,Slalom
 1991-01-12,Finn Chr. Jagge,NO,1,Slalom
 1991-01-12,Roberto Spampatti,IT,0,Slalom
 1991-01-12,Lasse Arnesen,NO,56,Downhill
-1991-01-12,Tetsuya Okabe,JP,11,Slalom
-1991-01-12,Kristian Ghedina,IT,41,Downhill
-1991-01-12,Michael Mair,IT,2,Downhill
-1991-01-12,Luc Alphand,FR,29,Downhill
+1991-01-12,Lars Boerje Eriksson,SE,17,Giant Slalom
 1991-01-12,Alain Feutrier,FR,2,Giant Slalom
 1991-01-12,Thomas Stangassinger,AT,37,Slalom
-1991-01-12,Franz Heinzer,CH,129,Downhill
-1991-01-12,Peter Runggaldier,IT,23,Downhill
 1991-01-12,Jean Luc Cretier,FR,11,Super G
-1991-01-12,Giovanni Moro,IT,1,Slalom
+1991-01-12,Kristian Ghedina,IT,41,Downhill
+1991-01-12,Peter Runggaldier,IT,23,Downhill
+1991-01-12,Alain Villiard,CA,5,Slalom
 1991-01-12,Stephan Eberharter,AT,26,Giant Slalom
-1991-01-12,Peter Roth,DE,34,Slalom
-1991-01-13,Frank Piccard,FR,60,Giant Slalom
-1991-01-13,Niklas Henning,SE,18,Downhill
-1991-01-13,Niklas Henning,SE,18,Downhill
-1991-01-13,A.J. Kitt,US,9,Downhill
-1991-01-13,Peter Roth,DE,34,Slalom
-1991-01-13,Konrad Walk,AT,16,Giant Slalom
+1991-01-12,Luc Alphand,FR,29,Downhill
 1991-01-13,Paul Accola,CH,25,Slalom
-1991-01-13,A.J. Kitt,US,10,Downhill
-1991-01-13,Peter Roth,DE,34,Slalom
-1991-01-13,Kristian Ghedina,IT,41,Downhill
-1991-01-13,Thomas Stangassinger,AT,45,Slalom
-1991-01-13,Kristian Ghedina,IT,51,Downhill
-1991-01-13,Denis Rey,FR,5,Downhill
-1991-01-13,Konrad Walk,AT,16,Giant Slalom
 1991-01-13,Alain Villiard,CA,5,Slalom
+1991-01-13,Niklas Henning,SE,18,Downhill
+1991-01-13,Denis Rey,FR,5,Downhill
+1991-01-13,Kristian Ghedina,IT,41,Downhill
+1991-01-13,Peter Roth,DE,34,Slalom
+1991-01-13,Konrad Walk,AT,16,Giant Slalom
+1991-01-13,A.J. Kitt,US,10,Downhill
+1991-01-13,Thomas Stangassinger,AT,45,Slalom
 1991-01-13,Karl Alpiger,CH,14,Downhill
 1991-01-13,Atle Skaardal,NO,79,Downhill
 1991-01-13,Xavier Gigandet,CH,3,Downhill
 1991-01-13,Ole Kristian Furuseth,NO,108,Slalom
 1991-01-13,Urs Kaelin,CH,50,Giant Slalom
 1991-01-13,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-01-13,Lars Boerje Eriksson,SE,17,Giant Slalom
 1991-01-13,Peter Runggaldier,IT,23,Downhill
 1991-01-13,Finn Chr. Jagge,NO,1,Slalom
 1991-01-13,Johan Wallner,SE,24,Giant Slalom
 1991-01-13,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-01-13,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-01-13,Johan Wallner,SE,24,Giant Slalom
 1991-01-13,Lukas Perathoner,IT,4,Downhill
 1991-01-13,Marc Girardelli,LU,126,Slalom
 1991-01-13,Richard Pramotton,IT,0,Giant Slalom
-1991-01-13,Alain Villiard,CA,5,Slalom
 1991-01-13,Tommy Moe,US,7,Downhill
-1991-01-13,Paul Accola,CH,37,Slalom
-1991-01-13,Xavier Gigandet,CH,10,Downhill
 1991-01-13,Rainer Salzgeber,AT,5,Giant Slalom
-1991-01-13,Rainer Salzgeber,AT,5,Giant Slalom
-1991-01-13,Karl Alpiger,CH,14,Downhill
 1991-01-13,Mitja Kunc,SK,0,Giant Slalom
-1991-01-13,Lukas Perathoner,IT,4,Downhill
 1991-01-13,Frank Piccard,FR,60,Giant Slalom
 1991-01-13,Michael Mair,IT,2,Downhill
 1991-01-13,Christophe Ple',FR,0,Downhill
-1991-01-13,Christophe Ple',FR,0,Downhill
-1991-01-13,Atle Skaardal,NO,79,Downhill
 1991-01-13,Thomas Fogdoe,SE,50,Slalom
-1991-01-13,Thomas Fogdoe,SE,50,Slalom
-1991-01-13,Tommy Moe,US,7,Downhill
-1991-01-13,Michael Mair,IT,2,Downhill
 1991-01-13,Josef Polig,IT,18,Super G
-1991-01-13,Denis Rey,FR,5,Downhill
 1991-01-13,Roberto Spampatti,IT,5,Slalom
 1991-01-13,Helmut Hoeflehner,AT,23,Downhill
 1991-01-13,Peter Rzehak,AT,0,Downhill
-1991-01-13,Peter Rzehak,AT,0,Downhill
-1991-01-13,Helmut Hoeflehner,AT,23,Downhill
 1991-01-13,Jeremy Nobis,US,0,Giant Slalom
 1991-01-13,Stephan Eberharter,AT,37,Giant Slalom
-1991-01-13,Jeremy Nobis,US,0,Giant Slalom
-1991-01-13,Michael Tritscher,AT,31,Slalom
 1991-01-13,Michael Tritscher,AT,31,Slalom
 1991-01-13,Armin Assinger,AT,5,Downhill
-1991-01-13,Patrick Holzer,IT,0,Super G
 1991-01-13,Patrick Holzer,IT,0,Super G
 1991-01-13,Rudolph Nierlich,AT,61,Giant Slalom
-1991-01-13,Armin Assinger,AT,5,Downhill
 1991-01-13,Fabio De Crignis,IT,12,Slalom
 1991-01-13,Giovanni Moro,IT,1,Slalom
 1991-01-13,Ed Podivinsky,CA,0,Downhill
 1991-01-13,Peter Wirnsberger,AT,26,Downhill
-1991-01-13,Peter Wirnsberger,AT,26,Downhill
-1991-01-13,Rudolph Nierlich,AT,61,Giant Slalom
-1991-01-13,Bernard Fahner,CH,1,Downhill
 1991-01-13,Bernard Fahner,CH,1,Downhill
 1991-01-13,Hans-Joerg Tauscher,DE,4,Combined
-1991-01-13,Giovanni Moro,IT,1,Slalom
-1991-01-13,Ed Podivinsky,CA,0,Downhill
 1991-01-13,Bernhard Bauer,DE,0,Slalom
 1991-01-13,Steve Locher,CH,7,Giant Slalom
-1991-01-13,Steve Locher,CH,7,Giant Slalom
-1991-01-13,Stephan Eberharter,AT,37,Giant Slalom
 1991-01-13,Luc Alphand,FR,29,Downhill
-1991-01-13,Luc Alphand,FR,29,Downhill
-1991-01-13,Roberto Spampatti,IT,5,Slalom
-1991-01-13,Hubert Strolz,AT,20,Giant Slalom
 1991-01-13,Erwin Resch,AT,9,Downhill
-1991-01-13,Fabio De Crignis,IT,12,Slalom
 1991-01-13,Hans Pieren,CH,10,Giant Slalom
 1991-01-13,Alberto Tomba,IT,97,Giant Slalom
 1991-01-13,Armin Bittner,DE,38,Slalom
 1991-01-13,Leonhard Stock,AT,30,Downhill
-1991-01-13,Alberto Tomba,IT,97,Giant Slalom
 1991-01-13,Jonas Nilsson,SE,7,Slalom
 1991-01-13,Markus Wasmeier,DE,0,Super G
-1991-01-13,Thomas Stangassinger,AT,45,Slalom
-1991-01-13,Leonhard Stock,AT,30,Downhill
-1991-01-13,Marc Girardelli,LU,126,Slalom
-1991-01-13,Lasse Arnesen,NO,56,Downhill
 1991-01-13,Lasse Arnesen,NO,56,Downhill
 1991-01-13,Hubert Strolz,AT,20,Giant Slalom
-1991-01-13,Josef Polig,IT,26,Super G
-1991-01-13,Hans-Joerg Tauscher,DE,8,Combined
-1991-01-13,Erwin Resch,AT,9,Downhill
-1991-01-13,Richard Pramotton,IT,2,Giant Slalom
 1991-01-13,Roger Pramotton,IT,0,Slalom
 1991-01-13,Franz Heinzer,CH,129,Downhill
-1991-01-13,Franz Heinzer,CH,129,Downhill
-1991-01-13,Bernhard Bauer,DE,0,Slalom
 1991-01-13,Christophe Berra,CH,0,Slalom
-1991-01-13,Markus Wasmeier,DE,5,Super G
-1991-01-13,Christophe Berra,CH,0,Slalom
-1991-01-13,Roger Pramotton,IT,0,Slalom
 1991-01-13,Patrick Ortlieb,AT,19,Downhill
-1991-01-13,Hans Pieren,CH,10,Giant Slalom
-1991-01-13,Helmut Mayer,AT,9,Giant Slalom
 1991-01-13,Helmut Mayer,AT,9,Giant Slalom
 1991-01-13,Patrice Bianchi,FR,5,Slalom
-1991-01-13,Patrice Bianchi,FR,5,Slalom
-1991-01-13,Armin Bittner,DE,50,Slalom
-1991-01-13,Patrick Ortlieb,AT,19,Downhill
-1991-01-13,Finn Chr. Jagge,NO,5,Slalom
 1991-01-13,Asgeir Linberg,NO,4,Super G
 1991-01-13,Bernhard Gstrein,AT,25,Slalom
+1991-01-13,Martin Knoeri,CH,13,Giant Slalom
+1991-01-13,Guenther Mader,AT,69,Slalom
+1991-01-13,Lasse Kjus,NO,50,Slalom
+1991-01-13,Christian Polig,IT,0,Slalom
+1991-01-13,William Besse,CH,20,Downhill
+1991-01-13,Carlo Gerosa,IT,4,Slalom
 1991-01-13,Kyle Rasmussen,US,1,Downhill
 1991-01-13,Oliver Kuenzi,CH,2,Slalom
-1991-01-13,Luca Pesando,IT,7,Giant Slalom
-1991-01-13,Oliver Kuenzi,CH,2,Slalom
-1991-01-13,William Besse,CH,23,Downhill
-1991-01-13,Didrik Marksten,NO,2,Super G
-1991-01-13,Luca Pesando,IT,7,Giant Slalom
 1991-01-13,Berni Huber,DE,30,Downhill
 1991-01-13,Didrik Marksten,NO,2,Super G
+1991-01-13,Mats Ericson,SE,27,Slalom
+1991-01-13,Fredrik Nyberg,SE,47,Giant Slalom
+1991-01-13,Hannes Zehentner,DE,64,Downhill
+1991-01-13,Tetsuya Okabe,JP,11,Slalom
+1991-01-13,Michael von Gruenigen,CH,14,Giant Slalom
+1991-01-13,Patrick Staub,CH,0,Slalom
+1991-01-13,Luca Pesando,IT,7,Giant Slalom
+1991-01-13,Kjetil Andre Aamodt,NO,41,Giant Slalom
+1991-01-13,Francois Simond,FR,0,Slalom
+1991-01-13,Felix Belczyk,CA,0,Downhill
+1991-01-13,Heinz Peter Platter,IT,3,Slalom
 1991-01-13,Rob Boyd,CA,54,Downhill
 1991-01-13,Peter Mueller,CH,0,Downhill
-1991-01-13,Berni Huber,DE,30,Downhill
-1991-01-13,Rob Boyd,CA,56,Downhill
-1991-01-13,Peter Mueller,CH,0,Downhill
-1991-01-13,Felix Belczyk,CA,0,Downhill
-1991-01-13,Mats Ericson,SE,27,Slalom
-1991-01-13,Patrick Staub,CH,0,Slalom
-1991-01-13,Kjetil Andre Aamodt,NO,41,Giant Slalom
-1991-01-13,Carlo Gerosa,IT,4,Slalom
-1991-01-13,Bernhard Gstrein,AT,34,Slalom
-1991-01-13,Fredrik Nyberg,SE,47,Giant Slalom
-1991-01-13,Felix Belczyk,CA,0,Downhill
-1991-01-13,Martin Knoeri,CH,13,Giant Slalom
-1991-01-13,Martin Knoeri,CH,13,Giant Slalom
-1991-01-13,Heinz Peter Platter,IT,3,Slalom
-1991-01-13,Lasse Kjus,NO,50,Slalom
-1991-01-13,Heinz Peter Platter,IT,3,Slalom
-1991-01-13,Christian Polig,IT,0,Slalom
-1991-01-13,Francois Simond,FR,0,Slalom
-1991-01-13,Christian Polig,IT,0,Slalom
-1991-01-13,Francois Simond,FR,0,Slalom
-1991-01-13,William Besse,CH,23,Downhill
-1991-01-13,Kjetil Andre Aamodt,NO,41,Giant Slalom
-1991-01-13,Carlo Gerosa,IT,4,Slalom
-1991-01-13,Hannes Zehentner,DE,64,Downhill
-1991-01-13,Michael von Gruenigen,CH,14,Giant Slalom
-1991-01-13,Patrick Staub,CH,0,Slalom
-1991-01-13,Daniel Mahrer,CH,59,Downhill
-1991-01-13,Brian Stemmle,CA,7,Downhill
-1991-01-13,Mitja Kunc,SK,0,Giant Slalom
-1991-01-13,Brian Stemmle,CA,7,Downhill
-1991-01-13,Guenther Mader,AT,61,Slalom
-1991-01-13,Urs Kaelin,CH,50,Giant Slalom
-1991-01-13,Lasse Kjus,NO,50,Slalom
-1991-01-13,Harald Chr. Strand Nilsen,NO,0,Slalom
-1991-01-13,Harald Chr. Strand Nilsen,NO,0,Slalom
-1991-01-13,Hannes Zehentner,DE,64,Downhill
 1991-01-13,Jan Einar Thorsen,NO,22,Downhill
-1991-01-13,Guenther Mader,AT,61,Slalom
-1991-01-13,Kyle Rasmussen,US,1,Downhill
+1991-01-13,Alain Feutrier,FR,2,Giant Slalom
+1991-01-13,Jean Luc Cretier,FR,11,Super G
+1991-01-13,Brian Stemmle,CA,7,Downhill
+1991-01-13,Harald Chr. Strand Nilsen,NO,0,Slalom
 1991-01-13,Daniel Mahrer,CH,59,Downhill
-1991-01-13,Tetsuya Okabe,JP,11,Slalom
-1991-01-13,Tetsuya Okabe,JP,22,Slalom
-1991-01-13,Fredrik Nyberg,SE,47,Giant Slalom
-1991-01-13,Ole Kristian Furuseth,NO,108,Slalom
-1991-01-13,Alain Feutrier,FR,2,Giant Slalom
-1991-01-13,Alain Feutrier,FR,2,Giant Slalom
-1991-01-13,Peter Runggaldier,IT,32,Downhill
-1991-01-13,Michael von Gruenigen,CH,14,Giant Slalom
-1991-01-13,Jan Einar Thorsen,NO,22,Downhill
-1991-01-13,Asgeir Linberg,NO,4,Super G
-1991-01-13,Mats Ericson,SE,27,Slalom
-1991-01-13,Jean Luc Cretier,FR,11,Super G
-1991-01-13,Jonas Nilsson,SE,8,Slalom
-1991-01-13,Jean Luc Cretier,FR,11,Super G
-1991-01-15,Frank Piccard,FR,60,Giant Slalom
-1991-01-15,Francois Simond,FR,0,Slalom
-1991-01-15,Markus Wasmeier,DE,5,Super G
-1991-01-15,Michael von Gruenigen,CH,24,Giant Slalom
-1991-01-15,Denis Rey,FR,5,Downhill
 1991-01-15,Kjetil Andre Aamodt,NO,49,Giant Slalom
-1991-01-15,Armin Bittner,DE,50,Slalom
-1991-01-15,Heinz Peter Platter,IT,3,Slalom
-1991-01-15,Bernhard Gstrein,AT,34,Slalom
-1991-01-15,Kyle Rasmussen,US,1,Downhill
-1991-01-15,Lasse Arnesen,NO,56,Downhill
-1991-01-15,Fredrik Nyberg,SE,52,Giant Slalom
-1991-01-15,Bernhard Bauer,DE,0,Slalom
-1991-01-15,Tetsuya Okabe,JP,22,Slalom
-1991-01-15,Josef Polig,IT,26,Super G
 1991-01-15,Thomas Stangassinger,AT,45,Slalom
-1991-01-15,Fabio De Crignis,IT,12,Slalom
-1991-01-15,Helmut Mayer,AT,9,Giant Slalom
-1991-01-15,Mats Ericson,SE,27,Slalom
-1991-01-15,Berni Huber,DE,30,Downhill
-1991-01-15,Rudolph Nierlich,AT,76,Giant Slalom
-1991-01-15,Luc Alphand,FR,29,Downhill
-1991-01-15,Giovanni Moro,IT,1,Slalom
-1991-01-15,Daniel Mahrer,CH,59,Downhill
-1991-01-15,Asgeir Linberg,NO,4,Super G
-1991-01-15,Steve Locher,CH,7,Giant Slalom
-1991-01-15,Roberto Spampatti,IT,5,Slalom
+1991-01-15,Josef Polig,IT,26,Super G
+1991-01-15,Armin Bittner,DE,50,Slalom
 1991-01-15,Harald Chr. Strand Nilsen,NO,0,Slalom
 1991-01-15,Hans-Joerg Tauscher,DE,8,Combined
-1991-01-15,Bernard Fahner,CH,1,Downhill
-1991-01-15,Brian Stemmle,CA,7,Downhill
-1991-01-15,Peter Wirnsberger,AT,26,Downhill
-1991-01-15,Stephan Eberharter,AT,37,Giant Slalom
-1991-01-15,Jan Einar Thorsen,NO,22,Downhill
-1991-01-15,Peter Rzehak,AT,0,Downhill
-1991-01-15,Helmut Hoeflehner,AT,23,Downhill
-1991-01-15,Ed Podivinsky,CA,0,Downhill
-1991-01-15,Guenther Mader,AT,72,Slalom
-1991-01-15,Patrice Bianchi,FR,5,Slalom
-1991-01-15,Patrick Ortlieb,AT,19,Downhill
-1991-01-15,Christian Polig,IT,0,Slalom
-1991-01-15,Christophe Berra,CH,0,Slalom
-1991-01-15,William Besse,CH,23,Downhill
-1991-01-15,Franz Heinzer,CH,129,Downhill
-1991-01-15,Roger Pramotton,IT,0,Slalom
-1991-01-15,Rob Boyd,CA,56,Downhill
-1991-01-15,Erwin Resch,AT,9,Downhill
-1991-01-15,Hans Pieren,CH,11,Giant Slalom
+1991-01-15,Kyle Rasmussen,US,1,Downhill
 1991-01-15,Patrick Holzer,IT,0,Super G
-1991-01-15,Jeremy Nobis,US,9,Giant Slalom
+1991-01-15,Brian Stemmle,CA,7,Downhill
+1991-01-15,Bernhard Gstrein,AT,34,Slalom
+1991-01-15,Roberto Spampatti,IT,5,Slalom
+1991-01-15,Fredrik Nyberg,SE,52,Giant Slalom
+1991-01-15,Tetsuya Okabe,JP,22,Slalom
+1991-01-15,Guenther Mader,AT,87,Slalom
+1991-01-15,Lasse Arnesen,NO,56,Downhill
+1991-01-15,Heinz Peter Platter,IT,3,Slalom
+1991-01-15,Stephan Eberharter,AT,37,Giant Slalom
+1991-01-15,Denis Rey,FR,5,Downhill
+1991-01-15,Michael von Gruenigen,CH,24,Giant Slalom
+1991-01-15,Hubert Strolz,AT,20,Giant Slalom
+1991-01-15,Frank Piccard,FR,60,Giant Slalom
+1991-01-15,Bernhard Bauer,DE,0,Slalom
+1991-01-15,Bernard Fahner,CH,1,Downhill
+1991-01-15,Peter Wirnsberger,AT,26,Downhill
+1991-01-15,Francois Simond,FR,0,Slalom
+1991-01-15,Asgeir Linberg,NO,4,Super G
 1991-01-15,Michael Tritscher,AT,31,Slalom
 1991-01-15,Peter Mueller,CH,0,Downhill
+1991-01-15,Hans Pieren,CH,11,Giant Slalom
 1991-01-15,Armin Assinger,AT,5,Downhill
+1991-01-15,Erwin Resch,AT,9,Downhill
+1991-01-15,Ed Podivinsky,CA,0,Downhill
+1991-01-15,Helmut Hoeflehner,AT,23,Downhill
+1991-01-15,Peter Rzehak,AT,0,Downhill
+1991-01-15,Jan Einar Thorsen,NO,22,Downhill
 1991-01-15,Carlo Gerosa,IT,4,Slalom
-1991-01-15,Hubert Strolz,AT,20,Giant Slalom
+1991-01-15,Rob Boyd,CA,56,Downhill
+1991-01-15,Franz Heinzer,CH,129,Downhill
+1991-01-15,Mats Ericson,SE,27,Slalom
+1991-01-15,William Besse,CH,23,Downhill
+1991-01-15,Berni Huber,DE,30,Downhill
+1991-01-15,Christophe Berra,CH,0,Slalom
+1991-01-15,Christian Polig,IT,0,Slalom
+1991-01-15,Patrick Ortlieb,AT,19,Downhill
+1991-01-15,Patrice Bianchi,FR,5,Slalom
+1991-01-15,Helmut Mayer,AT,9,Giant Slalom
+1991-01-15,Rudolph Nierlich,AT,76,Giant Slalom
+1991-01-15,Luc Alphand,FR,29,Downhill
+1991-01-15,Roger Pramotton,IT,0,Slalom
+1991-01-15,Giovanni Moro,IT,1,Slalom
+1991-01-15,Jeremy Nobis,US,9,Giant Slalom
+1991-01-15,Daniel Mahrer,CH,59,Downhill
+1991-01-15,Markus Wasmeier,DE,5,Super G
+1991-01-15,Steve Locher,CH,7,Giant Slalom
+1991-01-15,Fabio De Crignis,IT,12,Slalom
 1991-01-15,Mitja Kunc,SK,0,Giant Slalom
-1991-01-15,Alain Villiard,CA,5,Slalom
-1991-01-15,Alberto Tomba,IT,117,Giant Slalom
-1991-01-15,Marc Girardelli,LU,151,Slalom
+1991-01-15,Alain Feutrier,FR,2,Giant Slalom
+1991-01-15,Tommy Moe,US,7,Downhill
 1991-01-15,Luca Pesando,IT,7,Giant Slalom
 1991-01-15,A.J. Kitt,US,10,Downhill
-1991-01-15,Atle Skaardal,NO,79,Downhill
-1991-01-15,Didrik Marksten,NO,2,Super G
-1991-01-15,Christophe Ple',FR,0,Downhill
-1991-01-15,Xavier Gigandet,CH,10,Downhill
-1991-01-15,Rainer Salzgeber,AT,7,Giant Slalom
-1991-01-15,Niklas Henning,SE,18,Downhill
-1991-01-15,Karl Alpiger,CH,14,Downhill
-1991-01-15,Martin Knoeri,CH,19,Giant Slalom
-1991-01-15,Thomas Fogdoe,SE,50,Slalom
-1991-01-15,Leonhard Stock,AT,30,Downhill
-1991-01-15,Tommy Moe,US,7,Downhill
-1991-01-15,Felix Belczyk,CA,0,Downhill
-1991-01-15,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-01-15,Michael Mair,IT,2,Downhill
-1991-01-15,Johan Wallner,SE,27,Giant Slalom
 1991-01-15,Peter Runggaldier,IT,32,Downhill
-1991-01-15,Kristian Ghedina,IT,51,Downhill
-1991-01-15,Ole Kristian Furuseth,NO,112,Slalom
-1991-01-15,Alain Feutrier,FR,2,Giant Slalom
-1991-01-15,Konrad Walk,AT,16,Giant Slalom
-1991-01-15,Jean Luc Cretier,FR,11,Super G
-1991-01-15,Jonas Nilsson,SE,8,Slalom
-1991-01-15,Peter Roth,DE,34,Slalom
-1991-01-15,Hannes Zehentner,DE,64,Downhill
-1991-01-15,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-01-15,Oliver Kuenzi,CH,2,Slalom
-1991-01-15,Patrick Staub,CH,0,Slalom
-1991-01-15,Lukas Perathoner,IT,4,Downhill
-1991-01-15,Urs Kaelin,CH,57,Giant Slalom
-1991-01-15,Richard Pramotton,IT,2,Giant Slalom
-1991-01-15,Finn Chr. Jagge,NO,5,Slalom
 1991-01-15,Paul Accola,CH,49,Slalom
-1991-01-15,Lasse Kjus,NO,50,Slalom
-1991-02-26,Erwin Resch,AT,9,Downhill
-1991-02-26,Oliver Kuenzi,CH,2,Slalom
-1991-02-26,Patrick Holzer,IT,0,Super G
-1991-02-26,Atle Skaardal,NO,79,Downhill
-1991-02-26,Patrick Staub,CH,1,Slalom
-1991-02-26,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-01-15,Richard Pramotton,IT,2,Giant Slalom
+1991-01-15,Alberto Tomba,IT,117,Giant Slalom
+1991-01-15,Niklas Henning,SE,18,Downhill
+1991-01-15,Alain Villiard,CA,5,Slalom
+1991-01-15,Felix Belczyk,CA,0,Downhill
+1991-01-15,Atle Skaardal,NO,79,Downhill
+1991-01-15,Urs Kaelin,CH,57,Giant Slalom
+1991-01-15,Marc Girardelli,LU,176,Slalom
+1991-01-15,Christophe Ple',FR,0,Downhill
+1991-01-15,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-01-15,Michael Mair,IT,2,Downhill
+1991-01-15,Jean Luc Cretier,FR,11,Super G
+1991-01-15,Finn Chr. Jagge,NO,5,Slalom
+1991-01-15,Rainer Salzgeber,AT,7,Giant Slalom
+1991-01-15,Ole Kristian Furuseth,NO,112,Slalom
+1991-01-15,Johan Wallner,SE,27,Giant Slalom
+1991-01-15,Thomas Fogdoe,SE,50,Slalom
+1991-01-15,Kristian Ghedina,IT,51,Downhill
+1991-01-15,Xavier Gigandet,CH,10,Downhill
+1991-01-15,Peter Roth,DE,34,Slalom
+1991-01-15,Didrik Marksten,NO,2,Super G
+1991-01-15,Martin Knoeri,CH,19,Giant Slalom
+1991-01-15,Konrad Walk,AT,16,Giant Slalom
+1991-01-15,Hannes Zehentner,DE,64,Downhill
+1991-01-15,Karl Alpiger,CH,14,Downhill
+1991-01-15,Lukas Perathoner,IT,4,Downhill
+1991-01-15,Jonas Nilsson,SE,8,Slalom
+1991-01-15,Patrick Staub,CH,0,Slalom
+1991-01-15,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-01-15,Leonhard Stock,AT,30,Downhill
+1991-01-15,Oliver Kuenzi,CH,2,Slalom
+1991-01-15,Lasse Kjus,NO,70,Slalom
+1991-02-26,Peter Mueller,CH,0,Downhill
+1991-02-26,Helmut Hoeflehner,AT,23,Downhill
+1991-02-26,Jeremy Nobis,US,9,Giant Slalom
+1991-02-26,Kyle Rasmussen,US,1,Downhill
 1991-02-26,Didrik Marksten,NO,2,Super G
-1991-02-26,Rainer Salzgeber,AT,7,Giant Slalom
-1991-02-26,Christian Polig,IT,6,Slalom
-1991-02-26,Alain Feutrier,FR,2,Giant Slalom
+1991-02-26,Patrick Staub,CH,1,Slalom
+1991-02-26,Ed Podivinsky,CA,0,Downhill
+1991-02-26,Armin Assinger,AT,5,Downhill
+1991-02-26,Paul Accola,CH,69,Slalom
+1991-02-26,Tommy Moe,US,7,Downhill
+1991-02-26,Patrick Holzer,IT,0,Super G
+1991-02-26,Peter Rzehak,AT,0,Downhill
+1991-02-26,Oliver Kuenzi,CH,2,Slalom
 1991-02-26,Michael Tritscher,AT,31,Slalom
 1991-02-26,Hubert Strolz,AT,20,Giant Slalom
-1991-02-26,Kyle Rasmussen,US,1,Downhill
-1991-02-26,Rudolph Nierlich,AT,101,Giant Slalom
-1991-02-26,Armin Assinger,AT,5,Downhill
+1991-02-26,Luc Alphand,FR,29,Downhill
+1991-02-26,Jan Einar Thorsen,NO,22,Downhill
+1991-02-26,Mitja Kunc,SK,0,Giant Slalom
+1991-02-26,Jonas Nilsson,SE,8,Slalom
+1991-02-26,Xavier Gigandet,CH,10,Downhill
+1991-02-26,Fredrik Nyberg,SE,52,Giant Slalom
+1991-02-26,Bernard Fahner,CH,1,Downhill
+1991-02-26,Peter Wirnsberger,AT,26,Downhill
+1991-02-26,Hans-Joerg Tauscher,DE,8,Combined
+1991-02-26,Urs Kaelin,CH,57,Giant Slalom
+1991-02-26,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-02-26,Alain Feutrier,FR,2,Giant Slalom
+1991-02-26,Roberto Spampatti,IT,5,Slalom
+1991-02-26,Brian Stemmle,CA,7,Downhill
+1991-02-26,Leonhard Stock,AT,30,Downhill
+1991-02-26,Giovanni Moro,IT,1,Slalom
+1991-02-26,Steve Locher,CH,7,Giant Slalom
+1991-02-26,Peter Runggaldier,IT,32,Downhill
+1991-02-26,Richard Pramotton,IT,2,Giant Slalom
 1991-02-26,Stephan Eberharter,AT,46,Giant Slalom
 1991-02-26,Daniel Mahrer,CH,59,Downhill
 1991-02-26,Asgeir Linberg,NO,4,Super G
 1991-02-26,Berni Huber,DE,30,Downhill
-1991-02-26,Luc Alphand,FR,29,Downhill
+1991-02-26,Christian Polig,IT,6,Slalom
 1991-02-26,Johan Wallner,SE,27,Giant Slalom
 1991-02-26,Mats Ericson,SE,27,Slalom
 1991-02-26,Konrad  Kurt Ladstaetter,IT,25,Slalom
 1991-02-26,Finn Chr. Jagge,NO,5,Slalom
 1991-02-26,Jean Luc Cretier,FR,11,Super G
-1991-02-26,Paul Accola,CH,69,Slalom
-1991-02-26,Jan Einar Thorsen,NO,22,Downhill
-1991-02-26,Peter Rzehak,AT,0,Downhill
-1991-02-26,Giovanni Moro,IT,1,Slalom
-1991-02-26,Jeremy Nobis,US,9,Giant Slalom
-1991-02-26,Leonhard Stock,AT,30,Downhill
-1991-02-26,Peter Mueller,CH,0,Downhill
-1991-02-26,Brian Stemmle,CA,7,Downhill
-1991-02-26,Helmut Hoeflehner,AT,23,Downhill
-1991-02-26,Tommy Moe,US,7,Downhill
-1991-02-26,Ed Podivinsky,CA,0,Downhill
-1991-02-26,Roberto Spampatti,IT,5,Slalom
-1991-02-26,Steve Locher,CH,7,Giant Slalom
-1991-02-26,Bernhard Bauer,DE,0,Slalom
-1991-02-26,Rob Boyd,CA,56,Downhill
-1991-02-26,Lasse Kjus,NO,62,Slalom
-1991-02-26,Karl Alpiger,CH,14,Downhill
+1991-02-26,Guenther Mader,AT,91,Slalom
+1991-02-26,Atle Skaardal,NO,79,Downhill
+1991-02-26,Rudolph Nierlich,AT,101,Giant Slalom
+1991-02-26,Peter Roth,DE,34,Slalom
+1991-02-26,Helmut Mayer,AT,9,Giant Slalom
+1991-02-26,Tetsuya Okabe,JP,29,Slalom
+1991-02-26,Ole Kristian Furuseth,NO,112,Slalom
+1991-02-26,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-02-26,Thomas Stangassinger,AT,53,Slalom
+1991-02-26,Roger Pramotton,IT,2,Slalom
+1991-02-26,Carlo Gerosa,IT,15,Slalom
+1991-02-26,Martin Knoeri,CH,19,Giant Slalom
+1991-02-26,Felix Belczyk,CA,0,Downhill
+1991-02-26,Michael Mair,IT,2,Downhill
+1991-02-26,Rainer Salzgeber,AT,7,Giant Slalom
+1991-02-26,Thomas Fogdoe,SE,50,Slalom
+1991-02-26,Armin Bittner,DE,60,Slalom
+1991-02-26,Francois Simond,FR,0,Slalom
+1991-02-26,Alberto Tomba,IT,117,Giant Slalom
+1991-02-26,Kjetil Andre Aamodt,NO,49,Giant Slalom
 1991-02-26,Niklas Henning,SE,18,Downhill
 1991-02-26,Markus Wasmeier,DE,5,Super G
 1991-02-26,Hans Pieren,CH,11,Giant Slalom
-1991-02-26,A.J. Kitt,US,10,Downhill
-1991-02-26,Luca Pesando,IT,7,Giant Slalom
-1991-02-26,Josef Polig,IT,26,Super G
-1991-02-26,Jonas Nilsson,SE,8,Slalom
-1991-02-26,Michael von Gruenigen,CH,24,Giant Slalom
 1991-02-26,Kristian Ghedina,IT,51,Downhill
-1991-02-26,Roger Pramotton,IT,2,Slalom
-1991-02-26,Kjetil Andre Aamodt,NO,49,Giant Slalom
-1991-02-26,Marc Girardelli,LU,166,Slalom
-1991-02-26,Ole Kristian Furuseth,NO,112,Slalom
-1991-02-26,Tetsuya Okabe,JP,29,Slalom
-1991-02-26,Hannes Zehentner,DE,64,Downhill
-1991-02-26,Peter Roth,DE,34,Slalom
-1991-02-26,Lasse Arnesen,NO,56,Downhill
-1991-02-26,Denis Rey,FR,5,Downhill
-1991-02-26,Heinz Peter Platter,IT,3,Slalom
-1991-02-26,Konrad Walk,AT,16,Giant Slalom
-1991-02-26,Frank Piccard,FR,60,Giant Slalom
-1991-02-26,Mitja Kunc,SK,0,Giant Slalom
-1991-02-26,Guenther Mader,AT,76,Slalom
-1991-02-26,Thomas Stangassinger,AT,53,Slalom
-1991-02-26,Alberto Tomba,IT,117,Giant Slalom
 1991-02-26,Alain Villiard,CA,5,Slalom
+1991-02-26,Michael von Gruenigen,CH,24,Giant Slalom
+1991-02-26,A.J. Kitt,US,10,Downhill
+1991-02-26,Josef Polig,IT,26,Super G
 1991-02-26,Bernhard Gstrein,AT,39,Slalom
+1991-02-26,Hannes Zehentner,DE,64,Downhill
+1991-02-26,Luca Pesando,IT,7,Giant Slalom
+1991-02-26,Patrick Ortlieb,AT,19,Downhill
+1991-02-26,Erwin Resch,AT,9,Downhill
+1991-02-26,Bernhard Bauer,DE,0,Slalom
+1991-02-26,Karl Alpiger,CH,14,Downhill
+1991-02-26,Lasse Kjus,NO,82,Slalom
 1991-02-26,Fabio De Crignis,IT,12,Slalom
 1991-02-26,Lukas Perathoner,IT,4,Downhill
-1991-02-26,Urs Kaelin,CH,57,Giant Slalom
-1991-02-26,Hans-Joerg Tauscher,DE,8,Combined
+1991-02-26,Marc Girardelli,LU,191,Slalom
+1991-02-26,Konrad Walk,AT,16,Giant Slalom
 1991-02-26,Franz Heinzer,CH,129,Downhill
-1991-02-26,Richard Pramotton,IT,2,Giant Slalom
-1991-02-26,Peter Wirnsberger,AT,26,Downhill
-1991-02-26,Christophe Ple',FR,0,Downhill
+1991-02-26,Frank Piccard,FR,60,Giant Slalom
+1991-02-26,Rob Boyd,CA,56,Downhill
 1991-02-26,Patrice Bianchi,FR,5,Slalom
+1991-02-26,Heinz Peter Platter,IT,3,Slalom
 1991-02-26,William Besse,CH,23,Downhill
-1991-02-26,Bernard Fahner,CH,1,Downhill
 1991-02-26,Christophe Berra,CH,0,Slalom
-1991-02-26,Francois Simond,FR,0,Slalom
-1991-02-26,Patrick Ortlieb,AT,19,Downhill
-1991-02-26,Helmut Mayer,AT,9,Giant Slalom
-1991-02-26,Armin Bittner,DE,60,Slalom
-1991-02-26,Xavier Gigandet,CH,10,Downhill
-1991-02-26,Michael Mair,IT,2,Downhill
-1991-02-26,Felix Belczyk,CA,0,Downhill
-1991-02-26,Thomas Fogdoe,SE,50,Slalom
-1991-02-26,Peter Runggaldier,IT,32,Downhill
-1991-02-26,Carlo Gerosa,IT,15,Slalom
-1991-02-26,Fredrik Nyberg,SE,52,Giant Slalom
-1991-02-26,Harald Chr. Strand Nilsen,NO,3,Slalom
-1991-02-26,Martin Knoeri,CH,19,Giant Slalom
-1991-03-01,Brian Stemmle,CA,7,Downhill
+1991-02-26,Denis Rey,FR,5,Downhill
+1991-02-26,Lasse Arnesen,NO,56,Downhill
+1991-02-26,Christophe Ple',FR,0,Downhill
 1991-03-01,Xavier Gigandet,CH,10,Downhill
-1991-03-01,Alain Feutrier,FR,2,Giant Slalom
-1991-03-01,Guenther Mader,AT,76,Slalom
+1991-03-01,Brian Stemmle,CA,7,Downhill
 1991-03-01,Richard Pramotton,IT,2,Giant Slalom
-1991-03-01,Bernard Fahner,CH,1,Downhill
-1991-03-01,Hubert Strolz,AT,20,Giant Slalom
-1991-03-01,Daniel Mahrer,CH,59,Downhill
-1991-03-01,Marc Girardelli,LU,178,Slalom
 1991-03-01,Leonhard Stock,AT,30,Downhill
 1991-03-01,Denis Rey,FR,5,Downhill
-1991-03-01,Luca Pesando,IT,7,Giant Slalom
-1991-03-01,Alain Villiard,CA,5,Slalom
-1991-03-01,Hans Pieren,CH,11,Giant Slalom
-1991-03-01,Francois Simond,FR,0,Slalom
-1991-03-01,Christian Polig,IT,6,Slalom
-1991-03-01,Felix Belczyk,CA,0,Downhill
-1991-03-01,Alberto Tomba,IT,142,Giant Slalom
-1991-03-01,Patrice Bianchi,FR,5,Slalom
-1991-03-01,Roberto Spampatti,IT,7,Slalom
-1991-03-01,Franz Heinzer,CH,129,Downhill
-1991-03-01,Lukas Perathoner,IT,4,Downhill
+1991-03-01,Bernard Fahner,CH,1,Downhill
+1991-03-01,Alain Feutrier,FR,2,Giant Slalom
+1991-03-01,Marc Girardelli,LU,203,Slalom
 1991-03-01,Rudolph Nierlich,AT,121,Giant Slalom
+1991-03-01,Francois Simond,FR,0,Slalom
+1991-03-01,Guenther Mader,AT,91,Slalom
+1991-03-01,Hubert Strolz,AT,20,Giant Slalom
 1991-03-01,Atle Skaardal,NO,79,Downhill
-1991-03-01,Ole Kristian Furuseth,NO,119,Slalom
+1991-03-01,Lukas Perathoner,IT,4,Downhill
+1991-03-01,Christophe Ple',FR,0,Downhill
+1991-03-01,Franz Heinzer,CH,129,Downhill
+1991-03-01,Finn Chr. Jagge,NO,5,Slalom
+1991-03-01,Patrice Bianchi,FR,5,Slalom
 1991-03-01,Armin Assinger,AT,5,Downhill
 1991-03-01,Ed Podivinsky,CA,0,Downhill
-1991-03-01,Finn Chr. Jagge,NO,5,Slalom
+1991-03-01,Alberto Tomba,IT,142,Giant Slalom
+1991-03-01,Ole Kristian Furuseth,NO,119,Slalom
+1991-03-01,Felix Belczyk,CA,0,Downhill
 1991-03-01,Peter Mueller,CH,0,Downhill
 1991-03-01,Asgeir Linberg,NO,4,Super G
 1991-03-01,Peter Rzehak,AT,0,Downhill
 1991-03-01,Kyle Rasmussen,US,1,Downhill
-1991-03-01,Christophe Ple',FR,0,Downhill
+1991-03-01,Daniel Mahrer,CH,59,Downhill
+1991-03-01,Christian Polig,IT,6,Slalom
+1991-03-01,Roberto Spampatti,IT,7,Slalom
+1991-03-01,Hans Pieren,CH,11,Giant Slalom
+1991-03-01,Alain Villiard,CA,5,Slalom
+1991-03-01,Luca Pesando,IT,7,Giant Slalom
 1991-03-01,Bernhard Bauer,DE,0,Slalom
 1991-03-01,Karl Alpiger,CH,14,Downhill
 1991-03-01,Mats Ericson,SE,31,Slalom
@@ -1752,11 +1658,11 @@ date,name,ath_country,value,specialty
 1991-03-01,Didrik Marksten,NO,2,Super G
 1991-03-01,Michael von Gruenigen,CH,24,Giant Slalom
 1991-03-01,Thomas Fogdoe,SE,50,Slalom
-1991-03-01,Lasse Kjus,NO,62,Slalom
+1991-03-01,Lasse Kjus,NO,82,Slalom
 1991-03-01,Niklas Henning,SE,18,Downhill
 1991-03-01,Heinz Peter Platter,IT,3,Slalom
-1991-03-01,Bernhard Gstrein,AT,39,Slalom
 1991-03-01,Konrad Walk,AT,16,Giant Slalom
+1991-03-01,Bernhard Gstrein,AT,39,Slalom
 1991-03-01,William Besse,CH,23,Downhill
 1991-03-01,Jan Einar Thorsen,NO,22,Downhill
 1991-03-01,Berni Huber,DE,30,Downhill
@@ -1803,10 +1709,10 @@ date,name,ath_country,value,specialty
 1991-03-02,Luc Alphand,FR,29,Downhill
 1991-03-02,Bernhard Gstrein,AT,39,Slalom
 1991-03-02,Heinz Peter Platter,IT,3,Slalom
-1991-03-02,Guenther Mader,AT,82,Slalom
+1991-03-02,Lasse Kjus,NO,82,Slalom
 1991-03-02,Urs Kaelin,CH,65,Giant Slalom
 1991-03-02,Mitja Kunc,SK,0,Giant Slalom
-1991-03-02,Lasse Kjus,NO,62,Slalom
+1991-03-02,Guenther Mader,AT,97,Slalom
 1991-03-02,Francois Simond,FR,7,Slalom
 1991-03-02,Leonhard Stock,AT,30,Downhill
 1991-03-02,Jonas Nilsson,SE,16,Slalom
@@ -1839,8 +1745,8 @@ date,name,ath_country,value,specialty
 1991-03-02,Brian Stemmle,CA,7,Downhill
 1991-03-02,Jean Luc Cretier,FR,11,Super G
 1991-03-02,Felix Belczyk,CA,0,Downhill
-1991-03-02,Rudolph Nierlich,AT,121,Giant Slalom
 1991-03-02,Fabio De Crignis,IT,15,Slalom
+1991-03-02,Rudolph Nierlich,AT,121,Giant Slalom
 1991-03-02,Harald Chr. Strand Nilsen,NO,3,Slalom
 1991-03-02,Alain Villiard,CA,5,Slalom
 1991-03-02,Patrick Holzer,IT,11,Super G
@@ -1859,51 +1765,51 @@ date,name,ath_country,value,specialty
 1991-03-02,Oliver Kuenzi,CH,2,Slalom
 1991-03-02,Alberto Tomba,IT,142,Giant Slalom
 1991-03-02,Peter Rzehak,AT,0,Downhill
-1991-03-02,Lukas Perathoner,IT,4,Downhill
+1991-03-02,Steve Locher,CH,16,Giant Slalom
+1991-03-02,Michael Tritscher,AT,56,Slalom
+1991-03-02,Christophe Ple',FR,0,Downhill
+1991-03-02,Thomas Fogdoe,SE,50,Slalom
+1991-03-02,Helmut Mayer,AT,10,Giant Slalom
 1991-03-02,Erwin Resch,AT,9,Downhill
-1991-03-02,Frank Piccard,FR,60,Giant Slalom
-1991-03-02,Marc Girardelli,LU,190,Slalom
 1991-03-02,Christophe Berra,CH,0,Slalom
+1991-03-02,Niklas Henning,SE,18,Downhill
+1991-03-02,Hans Pieren,CH,11,Giant Slalom
+1991-03-02,Lukas Perathoner,IT,4,Downhill
+1991-03-02,Marc Girardelli,LU,215,Slalom
+1991-03-02,Frank Piccard,FR,60,Giant Slalom
 1991-03-02,Bernard Fahner,CH,1,Downhill
 1991-03-02,Josef Polig,IT,28,Super G
-1991-03-02,Niklas Henning,SE,18,Downhill
-1991-03-02,Thomas Fogdoe,SE,50,Slalom
+1991-03-02,Jeremy Nobis,US,9,Giant Slalom
 1991-03-02,Hubert Strolz,AT,26,Giant Slalom
+1991-03-02,Konrad Walk,AT,16,Giant Slalom
 1991-03-02,Hans-Joerg Tauscher,DE,8,Combined
 1991-03-02,Markus Wasmeier,DE,5,Super G
 1991-03-02,Karl Alpiger,CH,14,Downhill
-1991-03-02,Helmut Mayer,AT,10,Giant Slalom
-1991-03-02,Christophe Ple',FR,0,Downhill
-1991-03-02,Michael Tritscher,AT,56,Slalom
-1991-03-02,Steve Locher,CH,16,Giant Slalom
-1991-03-02,Jeremy Nobis,US,9,Giant Slalom
-1991-03-02,Konrad Walk,AT,16,Giant Slalom
-1991-03-02,Hans Pieren,CH,11,Giant Slalom
+1991-03-08,Alain Villiard,CA,5,Slalom
+1991-03-08,Francois Simond,FR,7,Slalom
+1991-03-08,Peter Rzehak,AT,0,Downhill
 1991-03-08,Lukas Perathoner,IT,4,Downhill
-1991-03-08,Finn Chr. Jagge,NO,5,Slalom
+1991-03-08,Kristian Ghedina,IT,56,Downhill
+1991-03-08,Peter Roth,DE,38,Slalom
+1991-03-08,Bernhard Bauer,DE,1,Slalom
 1991-03-08,Asgeir Linberg,NO,4,Super G
 1991-03-08,Rainer Salzgeber,AT,13,Giant Slalom
 1991-03-08,Christophe Ple',FR,8,Downhill
-1991-03-08,A.J. Kitt,US,10,Downhill
+1991-03-08,Frank Piccard,FR,60,Giant Slalom
 1991-03-08,Fredrik Nyberg,SE,52,Giant Slalom
 1991-03-08,William Besse,CH,33,Downhill
 1991-03-08,Michael Mair,IT,2,Downhill
-1991-03-08,Michael Tritscher,AT,56,Slalom
-1991-03-08,Daniel Mahrer,CH,59,Downhill
-1991-03-08,Frank Piccard,FR,60,Giant Slalom
-1991-03-08,Alain Villiard,CA,5,Slalom
+1991-03-08,A.J. Kitt,US,10,Downhill
+1991-03-08,Finn Chr. Jagge,NO,5,Slalom
 1991-03-08,Paul Accola,CH,94,Slalom
-1991-03-08,Bernhard Bauer,DE,1,Slalom
-1991-03-08,Peter Roth,DE,38,Slalom
-1991-03-08,Kristian Ghedina,IT,56,Downhill
-1991-03-08,Peter Rzehak,AT,0,Downhill
-1991-03-08,Francois Simond,FR,7,Slalom
+1991-03-08,Konrad Walk,AT,16,Giant Slalom
+1991-03-08,Daniel Mahrer,CH,59,Downhill
 1991-03-08,Erwin Resch,AT,9,Downhill
-1991-03-08,Berni Huber,DE,30,Downhill
+1991-03-08,Michael Tritscher,AT,56,Slalom
 1991-03-08,Rudolph Nierlich,AT,121,Giant Slalom
-1991-03-08,Patrick Staub,CH,1,Slalom
+1991-03-08,Johan Wallner,SE,27,Giant Slalom
 1991-03-08,Felix Belczyk,CA,6,Downhill
-1991-03-08,Marc Girardelli,LU,190,Slalom
+1991-03-08,Marc Girardelli,LU,215,Slalom
 1991-03-08,Ole Kristian Furuseth,NO,119,Slalom
 1991-03-08,Christian Polig,IT,6,Slalom
 1991-03-08,Tetsuya Okabe,JP,29,Slalom
@@ -1921,263 +1827,261 @@ date,name,ath_country,value,specialty
 1991-03-08,Mats Ericson,SE,41,Slalom
 1991-03-08,Christophe Berra,CH,0,Slalom
 1991-03-08,Brian Stemmle,CA,7,Downhill
-1991-03-08,Konrad Walk,AT,16,Giant Slalom
 1991-03-08,Alain Feutrier,FR,2,Giant Slalom
 1991-03-08,Richard Pramotton,IT,2,Giant Slalom
 1991-03-08,Hubert Strolz,AT,26,Giant Slalom
 1991-03-08,Mitja Kunc,SK,0,Giant Slalom
 1991-03-08,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-03-08,Helmut Mayer,AT,10,Giant Slalom
 1991-03-08,Lasse Arnesen,NO,56,Downhill
 1991-03-08,Jan Einar Thorsen,NO,27,Downhill
-1991-03-08,Johan Wallner,SE,27,Giant Slalom
-1991-03-08,Helmut Mayer,AT,10,Giant Slalom
+1991-03-08,Berni Huber,DE,30,Downhill
+1991-03-08,Patrick Staub,CH,1,Slalom
 1991-03-08,Peter Mueller,CH,7,Downhill
-1991-03-08,Kjetil Andre Aamodt,NO,63,Giant Slalom
-1991-03-08,Roberto Spampatti,IT,7,Slalom
-1991-03-08,Jonas Nilsson,SE,16,Slalom
-1991-03-08,Niklas Henning,SE,18,Downhill
-1991-03-08,Patrick Holzer,IT,11,Super G
-1991-03-08,Helmut Hoeflehner,AT,38,Downhill
-1991-03-08,Kyle Rasmussen,US,1,Downhill
-1991-03-08,Patrice Bianchi,FR,5,Slalom
 1991-03-08,Didrik Marksten,NO,2,Super G
-1991-03-08,Guenther Mader,AT,82,Slalom
-1991-03-08,Urs Kaelin,CH,65,Giant Slalom
-1991-03-08,Denis Rey,FR,5,Downhill
-1991-03-08,Giovanni Moro,IT,1,Slalom
-1991-03-08,Steve Locher,CH,16,Giant Slalom
-1991-03-08,Fabio De Crignis,IT,15,Slalom
-1991-03-08,Luca Pesando,IT,7,Giant Slalom
-1991-03-08,Bernard Fahner,CH,10,Downhill
 1991-03-08,Thomas Fogdoe,SE,50,Slalom
 1991-03-08,Michael von Gruenigen,CH,24,Giant Slalom
-1991-03-08,Xavier Gigandet,CH,10,Downhill
+1991-03-08,Patrick Ortlieb,AT,30,Downhill
+1991-03-08,Fabio De Crignis,IT,15,Slalom
+1991-03-08,Steve Locher,CH,16,Giant Slalom
+1991-03-08,Denis Rey,FR,5,Downhill
+1991-03-08,Patrick Holzer,IT,11,Super G
+1991-03-08,Armin Assinger,AT,5,Downhill
+1991-03-08,Helmut Hoeflehner,AT,38,Downhill
+1991-03-08,Guenther Mader,AT,97,Slalom
+1991-03-08,Urs Kaelin,CH,65,Giant Slalom
+1991-03-08,Bernard Fahner,CH,10,Downhill
+1991-03-08,Luca Pesando,IT,7,Giant Slalom
 1991-03-08,Luc Alphand,FR,31,Downhill
+1991-03-08,Xavier Gigandet,CH,10,Downhill
+1991-03-08,Jonas Nilsson,SE,16,Slalom
+1991-03-08,Roberto Spampatti,IT,7,Slalom
 1991-03-08,Peter Wirnsberger,AT,26,Downhill
 1991-03-08,Hans-Joerg Tauscher,DE,8,Combined
-1991-03-08,Heinz Peter Platter,IT,3,Slalom
-1991-03-08,Jeremy Nobis,US,9,Giant Slalom
-1991-03-08,Alberto Tomba,IT,142,Giant Slalom
-1991-03-08,Franz Heinzer,CH,154,Downhill
-1991-03-08,Bernhard Gstrein,AT,39,Slalom
-1991-03-08,Armin Bittner,DE,63,Slalom
-1991-03-08,Atle Skaardal,NO,99,Downhill
-1991-03-08,Leonhard Stock,AT,42,Downhill
-1991-03-08,Ed Podivinsky,CA,2,Downhill
-1991-03-08,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-03-08,Thomas Stangassinger,AT,73,Slalom
-1991-03-08,Karl Alpiger,CH,14,Downhill
-1991-03-08,Armin Assinger,AT,5,Downhill
 1991-03-08,Tommy Moe,US,7,Downhill
-1991-03-08,Roger Pramotton,IT,2,Slalom
-1991-03-08,Lasse Kjus,NO,62,Slalom
+1991-03-08,Karl Alpiger,CH,14,Downhill
+1991-03-08,Konrad  Kurt Ladstaetter,IT,25,Slalom
 1991-03-08,Stephan Eberharter,AT,61,Giant Slalom
-1991-03-08,Patrick Ortlieb,AT,30,Downhill
-1991-03-09,Bernhard Bauer,DE,1,Slalom
-1991-03-09,Hans-Joerg Tauscher,DE,8,Combined
-1991-03-09,Luc Alphand,FR,31,Downhill
-1991-03-09,Peter Wirnsberger,AT,26,Downhill
+1991-03-08,Ed Podivinsky,CA,2,Downhill
+1991-03-08,Franz Heinzer,CH,154,Downhill
+1991-03-08,Alberto Tomba,IT,142,Giant Slalom
+1991-03-08,Giovanni Moro,IT,1,Slalom
+1991-03-08,Patrice Bianchi,FR,5,Slalom
+1991-03-08,Kjetil Andre Aamodt,NO,63,Giant Slalom
+1991-03-08,Roger Pramotton,IT,2,Slalom
+1991-03-08,Atle Skaardal,NO,99,Downhill
+1991-03-08,Armin Bittner,DE,63,Slalom
+1991-03-08,Bernhard Gstrein,AT,39,Slalom
+1991-03-08,Niklas Henning,SE,18,Downhill
+1991-03-08,Kyle Rasmussen,US,1,Downhill
+1991-03-08,Lasse Kjus,NO,82,Slalom
+1991-03-08,Leonhard Stock,AT,42,Downhill
+1991-03-08,Jeremy Nobis,US,9,Giant Slalom
+1991-03-08,Heinz Peter Platter,IT,3,Slalom
+1991-03-08,Thomas Stangassinger,AT,73,Slalom
 1991-03-09,Bernard Fahner,CH,10,Downhill
-1991-03-09,Jean Luc Cretier,FR,11,Super G
-1991-03-09,Ole Kristian Furuseth,NO,127,Slalom
-1991-03-09,Hannes Zehentner,DE,64,Downhill
 1991-03-09,Alberto Tomba,IT,167,Giant Slalom
-1991-03-09,Felix Belczyk,CA,6,Downhill
+1991-03-09,Jean Luc Cretier,FR,11,Super G
+1991-03-09,Hans Pieren,CH,11,Giant Slalom
+1991-03-09,Alain Villiard,CA,5,Slalom
+1991-03-09,Ole Kristian Furuseth,NO,127,Slalom
+1991-03-09,Peter Wirnsberger,AT,26,Downhill
+1991-03-09,Hannes Zehentner,DE,64,Downhill
+1991-03-09,Paul Accola,CH,94,Slalom
 1991-03-09,Josef Polig,IT,28,Super G
+1991-03-09,Felix Belczyk,CA,6,Downhill
+1991-03-09,Markus Wasmeier,DE,5,Super G
+1991-03-09,Thomas Stangassinger,AT,73,Slalom
 1991-03-09,Roberto Spampatti,IT,7,Slalom
 1991-03-09,Martin Knoeri,CH,19,Giant Slalom
-1991-03-09,Tetsuya Okabe,JP,29,Slalom
-1991-03-09,Giovanni Moro,IT,1,Slalom
-1991-03-09,Hans Pieren,CH,11,Giant Slalom
-1991-03-09,Alain Feutrier,FR,2,Giant Slalom
-1991-03-09,Denis Rey,FR,5,Downhill
-1991-03-09,Stephan Eberharter,AT,73,Giant Slalom
-1991-03-09,Michael Mair,IT,2,Downhill
-1991-03-09,A.J. Kitt,US,10,Downhill
-1991-03-09,Michael Tritscher,AT,57,Slalom
-1991-03-09,Patrick Ortlieb,AT,30,Downhill
-1991-03-09,Frank Piccard,FR,60,Giant Slalom
-1991-03-09,Thomas Stangassinger,AT,73,Slalom
-1991-03-09,Patrick Holzer,IT,16,Super G
-1991-03-09,Alain Villiard,CA,5,Slalom
-1991-03-09,Kristian Ghedina,IT,56,Downhill
-1991-03-09,Markus Wasmeier,DE,5,Super G
 1991-03-09,Peter Rzehak,AT,0,Downhill
 1991-03-09,Armin Bittner,DE,63,Slalom
 1991-03-09,Jeremy Nobis,US,9,Giant Slalom
 1991-03-09,Lasse Arnesen,NO,56,Downhill
-1991-03-09,Paul Accola,CH,94,Slalom
-1991-03-09,Rainer Salzgeber,AT,20,Giant Slalom
-1991-03-09,Erwin Resch,AT,9,Downhill
+1991-03-09,Tetsuya Okabe,JP,29,Slalom
+1991-03-09,Giovanni Moro,IT,1,Slalom
+1991-03-09,Kristian Ghedina,IT,56,Downhill
+1991-03-09,Frank Piccard,FR,60,Giant Slalom
 1991-03-09,Patrick Staub,CH,1,Slalom
-1991-03-09,Helmut Hoeflehner,AT,38,Downhill
-1991-03-09,Armin Assinger,AT,5,Downhill
-1991-03-09,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-03-09,Steve Locher,CH,16,Giant Slalom
-1991-03-09,Helmut Mayer,AT,10,Giant Slalom
-1991-03-09,Fabio De Crignis,IT,15,Slalom
-1991-03-09,Peter Roth,DE,38,Slalom
-1991-03-09,Finn Chr. Jagge,NO,5,Slalom
-1991-03-09,Johan Wallner,SE,29,Giant Slalom
-1991-03-09,Atle Skaardal,NO,99,Downhill
-1991-03-09,Franz Heinzer,CH,154,Downhill
-1991-03-09,Roger Pramotton,IT,2,Slalom
+1991-03-09,Erwin Resch,AT,9,Downhill
+1991-03-09,Patrice Bianchi,FR,5,Slalom
 1991-03-09,Ed Podivinsky,CA,2,Downhill
 1991-03-09,Rudolph Nierlich,AT,141,Giant Slalom
-1991-03-09,Patrice Bianchi,FR,5,Slalom
-1991-03-09,Richard Pramotton,IT,2,Giant Slalom
+1991-03-09,Roger Pramotton,IT,2,Slalom
+1991-03-09,Franz Heinzer,CH,154,Downhill
+1991-03-09,Rainer Salzgeber,AT,20,Giant Slalom
+1991-03-09,Atle Skaardal,NO,99,Downhill
+1991-03-09,Johan Wallner,SE,29,Giant Slalom
+1991-03-09,Finn Chr. Jagge,NO,5,Slalom
+1991-03-09,Michael Mair,IT,2,Downhill
+1991-03-09,Fabio De Crignis,IT,15,Slalom
+1991-03-09,Peter Roth,DE,38,Slalom
+1991-03-09,A.J. Kitt,US,10,Downhill
+1991-03-09,Patrick Holzer,IT,16,Super G
+1991-03-09,Michael Tritscher,AT,57,Slalom
 1991-03-09,Peter Runggaldier,IT,35,Downhill
+1991-03-09,Helmut Mayer,AT,10,Giant Slalom
+1991-03-09,Steve Locher,CH,16,Giant Slalom
+1991-03-09,Patrick Ortlieb,AT,30,Downhill
+1991-03-09,Armin Assinger,AT,5,Downhill
+1991-03-09,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-03-09,Helmut Hoeflehner,AT,38,Downhill
+1991-03-09,Stephan Eberharter,AT,73,Giant Slalom
+1991-03-09,Richard Pramotton,IT,2,Giant Slalom
+1991-03-09,Alain Feutrier,FR,2,Giant Slalom
+1991-03-09,Hans-Joerg Tauscher,DE,8,Combined
+1991-03-09,Bernhard Bauer,DE,1,Slalom
+1991-03-09,Luc Alphand,FR,31,Downhill
+1991-03-09,Denis Rey,FR,5,Downhill
 1991-03-09,Thomas Fogdoe,SE,50,Slalom
 1991-03-09,Oliver Kuenzi,CH,2,Slalom
-1991-03-09,Christophe Ple',FR,8,Downhill
-1991-03-09,Konrad Walk,AT,22,Giant Slalom
-1991-03-09,Berni Huber,DE,30,Downhill
-1991-03-09,Didrik Marksten,NO,2,Super G
-1991-03-09,Francois Simond,FR,7,Slalom
+1991-03-09,Lasse Kjus,NO,92,Slalom
 1991-03-09,Harald Chr. Strand Nilsen,NO,3,Slalom
-1991-03-09,Lasse Kjus,NO,72,Slalom
 1991-03-09,Michael von Gruenigen,CH,24,Giant Slalom
-1991-03-09,Lukas Perathoner,IT,4,Downhill
 1991-03-09,Luca Pesando,IT,7,Giant Slalom
 1991-03-09,Leonhard Stock,AT,42,Downhill
-1991-03-09,Marc Girardelli,LU,205,Slalom
 1991-03-09,Niklas Henning,SE,18,Downhill
 1991-03-09,Brian Stemmle,CA,7,Downhill
 1991-03-09,Mats Ericson,SE,41,Slalom
-1991-03-09,Bernhard Gstrein,AT,39,Slalom
 1991-03-09,Mitja Kunc,SK,9,Giant Slalom
-1991-03-09,Guenther Mader,AT,93,Slalom
-1991-03-09,Heinz Peter Platter,IT,3,Slalom
-1991-03-09,Kyle Rasmussen,US,1,Downhill
-1991-03-09,Kjetil Andre Aamodt,NO,67,Giant Slalom
-1991-03-09,Carlo Gerosa,IT,26,Slalom
-1991-03-09,Fredrik Nyberg,SE,52,Giant Slalom
-1991-03-09,Peter Mueller,CH,7,Downhill
-1991-03-09,Asgeir Linberg,NO,4,Super G
-1991-03-09,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-03-09,Urs Kaelin,CH,68,Giant Slalom
-1991-03-09,Tommy Moe,US,7,Downhill
-1991-03-09,Christian Polig,IT,6,Slalom
-1991-03-09,William Besse,CH,33,Downhill
-1991-03-09,Daniel Mahrer,CH,59,Downhill
-1991-03-09,Jan Einar Thorsen,NO,27,Downhill
-1991-03-09,Jonas Nilsson,SE,16,Slalom
-1991-03-09,Karl Alpiger,CH,14,Downhill
-1991-03-09,Xavier Gigandet,CH,10,Downhill
+1991-03-09,Konrad Walk,AT,22,Giant Slalom
+1991-03-09,Guenther Mader,AT,108,Slalom
+1991-03-09,Didrik Marksten,NO,2,Super G
 1991-03-09,Hubert Strolz,AT,26,Giant Slalom
+1991-03-09,Marc Girardelli,LU,230,Slalom
+1991-03-09,Heinz Peter Platter,IT,3,Slalom
+1991-03-09,Francois Simond,FR,7,Slalom
+1991-03-09,Kjetil Andre Aamodt,NO,67,Giant Slalom
+1991-03-09,Berni Huber,DE,30,Downhill
+1991-03-09,Lukas Perathoner,IT,4,Downhill
+1991-03-09,Daniel Mahrer,CH,59,Downhill
+1991-03-09,William Besse,CH,33,Downhill
+1991-03-09,Jan Einar Thorsen,NO,27,Downhill
+1991-03-09,Asgeir Linberg,NO,4,Super G
+1991-03-09,Peter Mueller,CH,7,Downhill
+1991-03-09,Bernhard Gstrein,AT,39,Slalom
+1991-03-09,Christophe Ple',FR,8,Downhill
+1991-03-09,Fredrik Nyberg,SE,52,Giant Slalom
+1991-03-09,Urs Kaelin,CH,68,Giant Slalom
 1991-03-09,Christophe Berra,CH,0,Slalom
+1991-03-09,Kyle Rasmussen,US,1,Downhill
+1991-03-09,Carlo Gerosa,IT,26,Slalom
 1991-03-09,Rob Boyd,CA,56,Downhill
-1991-03-10,William Besse,CH,33,Downhill
-1991-03-10,A.J. Kitt,US,10,Downhill
-1991-03-10,Jeremy Nobis,US,9,Giant Slalom
-1991-03-10,Paul Accola,CH,94,Slalom
-1991-03-10,Patrice Bianchi,FR,7,Slalom
-1991-03-10,Thomas Fogdoe,SE,70,Slalom
-1991-03-10,Marc Girardelli,LU,217,Slalom
-1991-03-10,Alain Villiard,CA,5,Slalom
-1991-03-10,Alberto Tomba,IT,177,Giant Slalom
-1991-03-10,Daniel Mahrer,CH,59,Downhill
-1991-03-10,Lasse Kjus,NO,72,Slalom
-1991-03-10,Michael Mair,IT,2,Downhill
-1991-03-10,Denis Rey,FR,5,Downhill
-1991-03-10,Kristian Ghedina,IT,56,Downhill
-1991-03-10,Peter Rzehak,AT,0,Downhill
+1991-03-09,Konrad  Kurt Ladstaetter,IT,25,Slalom
+1991-03-09,Christian Polig,IT,6,Slalom
+1991-03-09,Tommy Moe,US,7,Downhill
+1991-03-09,Xavier Gigandet,CH,10,Downhill
+1991-03-09,Karl Alpiger,CH,14,Downhill
+1991-03-09,Jonas Nilsson,SE,16,Slalom
 1991-03-10,Heinz Peter Platter,IT,3,Slalom
-1991-03-10,Francois Simond,FR,7,Slalom
+1991-03-10,Kristian Ghedina,IT,56,Downhill
 1991-03-10,Thomas Stangassinger,AT,80,Slalom
-1991-03-10,Asgeir Linberg,NO,4,Super G
-1991-03-10,Lasse Arnesen,NO,56,Downhill
-1991-03-10,Bernhard Gstrein,AT,45,Slalom
-1991-03-10,Leonhard Stock,AT,42,Downhill
-1991-03-10,Armin Bittner,DE,68,Slalom
-1991-03-10,Jonas Nilsson,SE,17,Slalom
-1991-03-10,Urs Kaelin,CH,68,Giant Slalom
-1991-03-10,Luc Alphand,FR,31,Downhill
-1991-03-10,Christophe Ple',FR,8,Downhill
-1991-03-10,Bernard Fahner,CH,10,Downhill
-1991-03-10,Xavier Gigandet,CH,10,Downhill
-1991-03-10,Hans-Joerg Tauscher,DE,8,Combined
-1991-03-10,Peter Wirnsberger,AT,26,Downhill
 1991-03-10,Tommy Moe,US,7,Downhill
+1991-03-10,Francois Simond,FR,7,Slalom
+1991-03-10,Denis Rey,FR,5,Downhill
+1991-03-10,Peter Rzehak,AT,0,Downhill
+1991-03-10,Bernhard Gstrein,AT,45,Slalom
+1991-03-10,Lasse Arnesen,NO,56,Downhill
+1991-03-10,Armin Assinger,AT,5,Downhill
+1991-03-10,Michael Mair,IT,2,Downhill
+1991-03-10,Alberto Tomba,IT,177,Giant Slalom
+1991-03-10,Paul Accola,CH,94,Slalom
+1991-03-10,William Besse,CH,33,Downhill
+1991-03-10,Alain Villiard,CA,5,Slalom
+1991-03-10,Asgeir Linberg,NO,4,Super G
+1991-03-10,Daniel Mahrer,CH,59,Downhill
 1991-03-10,Stephan Eberharter,AT,73,Giant Slalom
 1991-03-10,Konrad  Kurt Ladstaetter,IT,25,Slalom
 1991-03-10,Bernhard Bauer,DE,1,Slalom
+1991-03-10,A.J. Kitt,US,10,Downhill
 1991-03-10,Kyle Rasmussen,US,1,Downhill
-1991-03-10,Giovanni Moro,IT,1,Slalom
-1991-03-10,Roberto Spampatti,IT,7,Slalom
-1991-03-10,Armin Assinger,AT,5,Downhill
-1991-03-10,Didrik Marksten,NO,2,Super G
-1991-03-10,Helmut Hoeflehner,AT,38,Downhill
-1991-03-10,Frank Piccard,FR,60,Giant Slalom
-1991-03-10,Patrick Ortlieb,AT,30,Downhill
-1991-03-10,Niklas Henning,SE,18,Downhill
 1991-03-10,Erwin Resch,AT,9,Downhill
-1991-03-10,Michael Tritscher,AT,65,Slalom
-1991-03-10,Ed Podivinsky,CA,2,Downhill
-1991-03-10,Luca Pesando,IT,7,Giant Slalom
-1991-03-10,Roger Pramotton,IT,2,Slalom
-1991-03-10,Michael von Gruenigen,CH,24,Giant Slalom
-1991-03-10,Karl Alpiger,CH,14,Downhill
-1991-03-10,Guenther Mader,AT,97,Slalom
-1991-03-10,Patrick Holzer,IT,16,Super G
-1991-03-10,Fabio De Crignis,IT,30,Slalom
-1991-03-10,Peter Roth,DE,41,Slalom
+1991-03-10,Giovanni Moro,IT,1,Slalom
+1991-03-10,Lasse Kjus,NO,92,Slalom
+1991-03-10,Roberto Spampatti,IT,7,Slalom
+1991-03-10,Jeremy Nobis,US,9,Giant Slalom
+1991-03-10,Patrice Bianchi,FR,7,Slalom
+1991-03-10,Guenther Mader,AT,112,Slalom
+1991-03-10,Helmut Hoeflehner,AT,38,Downhill
 1991-03-10,Steve Locher,CH,16,Giant Slalom
-1991-03-10,Franz Heinzer,CH,154,Downhill
+1991-03-10,Peter Roth,DE,41,Slalom
+1991-03-10,Fabio De Crignis,IT,30,Slalom
+1991-03-10,Patrick Holzer,IT,16,Super G
+1991-03-10,Didrik Marksten,NO,2,Super G
+1991-03-10,Jonas Nilsson,SE,17,Slalom
+1991-03-10,Karl Alpiger,CH,14,Downhill
+1991-03-10,Urs Kaelin,CH,68,Giant Slalom
+1991-03-10,Michael von Gruenigen,CH,24,Giant Slalom
+1991-03-10,Luc Alphand,FR,31,Downhill
+1991-03-10,Roger Pramotton,IT,2,Slalom
+1991-03-10,Luca Pesando,IT,7,Giant Slalom
+1991-03-10,Ed Podivinsky,CA,2,Downhill
+1991-03-10,Christophe Ple',FR,8,Downhill
 1991-03-10,Patrick Staub,CH,1,Slalom
+1991-03-10,Leonhard Stock,AT,42,Downhill
+1991-03-10,Bernard Fahner,CH,10,Downhill
+1991-03-10,Niklas Henning,SE,18,Downhill
+1991-03-10,Patrick Ortlieb,AT,30,Downhill
+1991-03-10,Frank Piccard,FR,60,Giant Slalom
+1991-03-10,Armin Bittner,DE,68,Slalom
+1991-03-10,Franz Heinzer,CH,154,Downhill
+1991-03-10,Xavier Gigandet,CH,10,Downhill
+1991-03-10,Peter Wirnsberger,AT,26,Downhill
+1991-03-10,Hans-Joerg Tauscher,DE,8,Combined
+1991-03-10,Thomas Fogdoe,SE,70,Slalom
+1991-03-10,Michael Tritscher,AT,65,Slalom
 1991-03-10,Kjetil Andre Aamodt,NO,67,Giant Slalom
-1991-03-10,Fredrik Nyberg,SE,52,Giant Slalom
-1991-03-10,Harald Chr. Strand Nilsen,NO,3,Slalom
-1991-03-10,Martin Knoeri,CH,19,Giant Slalom
-1991-03-10,Rob Boyd,CA,56,Downhill
-1991-03-10,Christophe Berra,CH,0,Slalom
-1991-03-10,Richard Pramotton,IT,2,Giant Slalom
-1991-03-10,Josef Polig,IT,28,Super G
-1991-03-10,Carlo Gerosa,IT,26,Slalom
-1991-03-10,Felix Belczyk,CA,6,Downhill
-1991-03-10,Johan Wallner,SE,29,Giant Slalom
-1991-03-10,Hannes Zehentner,DE,64,Downhill
-1991-03-10,Konrad Walk,AT,22,Giant Slalom
-1991-03-10,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-03-10,Berni Huber,DE,30,Downhill
-1991-03-10,Peter Runggaldier,IT,35,Downhill
-1991-03-10,Mitja Kunc,SK,9,Giant Slalom
-1991-03-10,Helmut Mayer,AT,10,Giant Slalom
-1991-03-10,Ole Kristian Furuseth,NO,136,Slalom
+1991-03-10,Jan Einar Thorsen,NO,27,Downhill
 1991-03-10,Alain Feutrier,FR,2,Giant Slalom
 1991-03-10,Hans Pieren,CH,11,Giant Slalom
-1991-03-10,Hubert Strolz,AT,26,Giant Slalom
-1991-03-10,Jean Luc Cretier,FR,11,Super G
+1991-03-10,Martin Knoeri,CH,19,Giant Slalom
+1991-03-10,Rob Boyd,CA,56,Downhill
+1991-03-10,Richard Pramotton,IT,2,Giant Slalom
+1991-03-10,Christophe Berra,CH,0,Slalom
+1991-03-10,Josef Polig,IT,28,Super G
+1991-03-10,Felix Belczyk,CA,6,Downhill
+1991-03-10,Berni Huber,DE,30,Downhill
+1991-03-10,Johan Wallner,SE,29,Giant Slalom
+1991-03-10,Lars Boerje Eriksson,SE,17,Giant Slalom
+1991-03-10,Hannes Zehentner,DE,64,Downhill
+1991-03-10,Carlo Gerosa,IT,26,Slalom
+1991-03-10,Peter Runggaldier,IT,35,Downhill
+1991-03-10,Ole Kristian Furuseth,NO,136,Slalom
+1991-03-10,Mitja Kunc,SK,9,Giant Slalom
+1991-03-10,Helmut Mayer,AT,10,Giant Slalom
+1991-03-10,Konrad Walk,AT,22,Giant Slalom
+1991-03-10,Marc Girardelli,LU,242,Slalom
+1991-03-10,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-03-10,Markus Wasmeier,DE,5,Super G
+1991-03-10,Peter Mueller,CH,7,Downhill
 1991-03-10,Mats Ericson,SE,52,Slalom
+1991-03-10,Brian Stemmle,CA,7,Downhill
+1991-03-10,Fredrik Nyberg,SE,52,Giant Slalom
+1991-03-10,Oliver Kuenzi,CH,2,Slalom
 1991-03-10,Atle Skaardal,NO,99,Downhill
 1991-03-10,Rainer Salzgeber,AT,20,Giant Slalom
-1991-03-10,Lukas Perathoner,IT,4,Downhill
-1991-03-10,Oliver Kuenzi,CH,2,Slalom
+1991-03-10,Jean Luc Cretier,FR,11,Super G
 1991-03-10,Rudolph Nierlich,AT,166,Giant Slalom
-1991-03-10,Peter Mueller,CH,7,Downhill
-1991-03-10,Jan Einar Thorsen,NO,27,Downhill
-1991-03-10,Finn Chr. Jagge,NO,5,Slalom
-1991-03-10,Brian Stemmle,CA,7,Downhill
-1991-03-10,Tetsuya Okabe,JP,29,Slalom
-1991-03-10,Markus Wasmeier,DE,5,Super G
+1991-03-10,Hubert Strolz,AT,26,Giant Slalom
 1991-03-10,Christian Polig,IT,6,Slalom
-1991-03-15,Roger Pramotton,IT,2,Slalom
+1991-03-10,Tetsuya Okabe,JP,29,Slalom
+1991-03-10,Lukas Perathoner,IT,4,Downhill
+1991-03-10,Finn Chr. Jagge,NO,5,Slalom
+1991-03-15,Josef Polig,IT,28,Super G
 1991-03-15,Armin Assinger,AT,5,Downhill
 1991-03-15,Didrik Marksten,NO,2,Super G
-1991-03-15,Christophe Berra,CH,0,Slalom
-1991-03-15,Leonhard Stock,AT,50,Downhill
-1991-03-15,Daniel Mahrer,CH,69,Downhill
-1991-03-15,Steve Locher,CH,16,Giant Slalom
-1991-03-15,Michael von Gruenigen,CH,24,Giant Slalom
-1991-03-15,Richard Pramotton,IT,2,Giant Slalom
-1991-03-15,Jean Luc Cretier,FR,11,Super G
-1991-03-15,Hannes Zehentner,DE,64,Downhill
-1991-03-15,Josef Polig,IT,28,Super G
-1991-03-15,Thomas Fogdoe,SE,70,Slalom
+1991-03-15,Roger Pramotton,IT,2,Slalom
 1991-03-15,Fabio De Crignis,IT,30,Slalom
+1991-03-15,Jean Luc Cretier,FR,11,Super G
+1991-03-15,Steve Locher,CH,16,Giant Slalom
+1991-03-15,Daniel Mahrer,CH,69,Downhill
+1991-03-15,Richard Pramotton,IT,2,Giant Slalom
 1991-03-15,Hans Pieren,CH,11,Giant Slalom
-1991-03-15,Luc Alphand,FR,31,Downhill
-1991-03-15,Patrick Holzer,IT,16,Super G
+1991-03-15,Thomas Fogdoe,SE,70,Slalom
+1991-03-15,Michael von Gruenigen,CH,24,Giant Slalom
+1991-03-15,Hannes Zehentner,DE,64,Downhill
+1991-03-15,Urs Kaelin,CH,68,Giant Slalom
+1991-03-15,Harald Chr. Strand Nilsen,NO,3,Slalom
 1991-03-15,Alberto Tomba,IT,177,Giant Slalom
 1991-03-15,Kjetil Andre Aamodt,NO,67,Giant Slalom
 1991-03-15,Bernhard Bauer,DE,1,Slalom
@@ -2187,89 +2091,91 @@ date,name,ath_country,value,specialty
 1991-03-15,Tetsuya Okabe,JP,29,Slalom
 1991-03-15,Ole Kristian Furuseth,NO,136,Slalom
 1991-03-15,Rudolph Nierlich,AT,166,Giant Slalom
-1991-03-15,Marc Girardelli,LU,217,Slalom
+1991-03-15,Marc Girardelli,LU,242,Slalom
 1991-03-15,Roberto Spampatti,IT,7,Slalom
-1991-03-15,Hans-Joerg Tauscher,DE,8,Combined
-1991-03-15,Markus Wasmeier,DE,5,Super G
+1991-03-15,Tommy Moe,US,7,Downhill
+1991-03-15,Leonhard Stock,AT,50,Downhill
 1991-03-15,Jonas Nilsson,SE,17,Slalom
-1991-03-15,Martin Knoeri,CH,19,Giant Slalom
 1991-03-15,Peter Wirnsberger,AT,26,Downhill
+1991-03-15,Markus Wasmeier,DE,5,Super G
 1991-03-15,Xavier Gigandet,CH,10,Downhill
 1991-03-15,Bernard Fahner,CH,10,Downhill
 1991-03-15,Franz Heinzer,CH,174,Downhill
 1991-03-15,Felix Belczyk,CA,6,Downhill
-1991-03-15,Urs Kaelin,CH,68,Giant Slalom
+1991-03-15,Luc Alphand,FR,31,Downhill
+1991-03-15,Christophe Berra,CH,0,Slalom
 1991-03-15,Helmut Hoeflehner,AT,53,Downhill
 1991-03-15,Carlo Gerosa,IT,26,Slalom
-1991-03-15,Harald Chr. Strand Nilsen,NO,3,Slalom
-1991-03-15,Tommy Moe,US,7,Downhill
+1991-03-15,Patrick Holzer,IT,16,Super G
+1991-03-15,Hans-Joerg Tauscher,DE,8,Combined
+1991-03-15,Martin Knoeri,CH,19,Giant Slalom
 1991-03-15,Karl Alpiger,CH,14,Downhill
-1991-03-15,Patrice Bianchi,FR,7,Slalom
+1991-03-15,Niklas Henning,SE,24,Downhill
 1991-03-15,Patrick Ortlieb,AT,41,Downhill
-1991-03-15,Lasse Kjus,NO,72,Slalom
-1991-03-15,Denis Rey,FR,5,Downhill
-1991-03-15,Hubert Strolz,AT,26,Giant Slalom
-1991-03-15,Alain Villiard,CA,5,Slalom
-1991-03-15,Heinz Peter Platter,IT,3,Slalom
-1991-03-15,Konrad Walk,AT,22,Giant Slalom
-1991-03-15,Johan Wallner,SE,29,Giant Slalom
 1991-03-15,Lasse Arnesen,NO,56,Downhill
 1991-03-15,Helmut Mayer,AT,10,Giant Slalom
-1991-03-15,Michael Tritscher,AT,65,Slalom
 1991-03-15,Francois Simond,FR,7,Slalom
-1991-03-15,Finn Chr. Jagge,NO,5,Slalom
-1991-03-15,Peter Runggaldier,IT,35,Downhill
+1991-03-15,Michael Tritscher,AT,65,Slalom
 1991-03-15,Peter Rzehak,AT,0,Downhill
-1991-03-15,Paul Accola,CH,94,Slalom
 1991-03-15,Peter Mueller,CH,10,Downhill
-1991-03-15,Peter Roth,DE,41,Slalom
-1991-03-15,A.J. Kitt,US,22,Downhill
-1991-03-15,Patrick Staub,CH,1,Slalom
+1991-03-15,Peter Runggaldier,IT,35,Downhill
 1991-03-15,Kristian Ghedina,IT,56,Downhill
-1991-03-15,Brian Stemmle,CA,8,Downhill
-1991-03-15,Jan Einar Thorsen,NO,36,Downhill
+1991-03-15,Peter Roth,DE,41,Slalom
 1991-03-15,Michael Mair,IT,2,Downhill
-1991-03-15,Armin Bittner,DE,68,Slalom
-1991-03-15,Berni Huber,DE,30,Downhill
-1991-03-15,Erwin Resch,AT,9,Downhill
-1991-03-15,Luca Pesando,IT,7,Giant Slalom
-1991-03-15,Ed Podivinsky,CA,2,Downhill
+1991-03-15,Brian Stemmle,CA,8,Downhill
+1991-03-15,Lukas Perathoner,IT,4,Downhill
+1991-03-15,Patrick Staub,CH,1,Slalom
+1991-03-15,A.J. Kitt,US,22,Downhill
+1991-03-15,Paul Accola,CH,94,Slalom
+1991-03-15,Alain Villiard,CA,5,Slalom
+1991-03-15,Finn Chr. Jagge,NO,5,Slalom
+1991-03-15,Asgeir Linberg,NO,4,Super G
+1991-03-15,Rainer Salzgeber,AT,20,Giant Slalom
+1991-03-15,Christophe Ple',FR,10,Downhill
+1991-03-15,Giovanni Moro,IT,1,Slalom
+1991-03-15,Kyle Rasmussen,US,1,Downhill
 1991-03-15,William Besse,CH,40,Downhill
 1991-03-15,Fredrik Nyberg,SE,52,Giant Slalom
-1991-03-15,Niklas Henning,SE,24,Downhill
+1991-03-15,Erwin Resch,AT,9,Downhill
+1991-03-15,Heinz Peter Platter,IT,3,Slalom
+1991-03-15,Hubert Strolz,AT,26,Giant Slalom
+1991-03-15,Johan Wallner,SE,29,Giant Slalom
+1991-03-15,Denis Rey,FR,5,Downhill
+1991-03-15,Konrad Walk,AT,22,Giant Slalom
+1991-03-15,Luca Pesando,IT,7,Giant Slalom
+1991-03-15,Ed Podivinsky,CA,2,Downhill
+1991-03-15,Patrice Bianchi,FR,7,Slalom
 1991-03-15,Oliver Kuenzi,CH,2,Slalom
-1991-03-15,Giovanni Moro,IT,1,Slalom
+1991-03-15,Guenther Mader,AT,117,Slalom
 1991-03-15,Lars Boerje Eriksson,SE,17,Giant Slalom
-1991-03-15,Guenther Mader,AT,102,Slalom
-1991-03-15,Asgeir Linberg,NO,4,Super G
-1991-03-15,Christophe Ple',FR,10,Downhill
-1991-03-15,Kyle Rasmussen,US,1,Downhill
 1991-03-15,Frank Piccard,FR,60,Giant Slalom
 1991-03-15,Alain Feutrier,FR,2,Giant Slalom
-1991-03-15,Rob Boyd,CA,60,Downhill
+1991-03-15,Mats Ericson,SE,52,Slalom
 1991-03-15,Jeremy Nobis,US,9,Giant Slalom
-1991-03-15,Thomas Stangassinger,AT,80,Slalom
+1991-03-15,Jan Einar Thorsen,NO,36,Downhill
 1991-03-15,Atle Skaardal,NO,124,Downhill
-1991-03-15,Rainer Salzgeber,AT,20,Giant Slalom
+1991-03-15,Thomas Stangassinger,AT,80,Slalom
 1991-03-15,Bernhard Gstrein,AT,45,Slalom
 1991-03-15,Mitja Kunc,SK,9,Giant Slalom
-1991-03-15,Mats Ericson,SE,52,Slalom
-1991-03-15,Lukas Perathoner,IT,4,Downhill
-1991-03-16,Fredrik Nyberg,SE,52,Giant Slalom
-1991-03-16,Peter Roth,DE,41,Slalom
-1991-03-16,Harald Chr. Strand Nilsen,NO,3,Slalom
-1991-03-16,Asgeir Linberg,NO,4,Super G
-1991-03-16,Heinz Peter Platter,IT,3,Slalom
-1991-03-16,Leonhard Stock,AT,50,Downhill
+1991-03-15,Armin Bittner,DE,68,Slalom
+1991-03-15,Lasse Kjus,NO,92,Slalom
+1991-03-15,Rob Boyd,CA,60,Downhill
+1991-03-15,Berni Huber,DE,30,Downhill
 1991-03-16,Tommy Moe,US,7,Downhill
-1991-03-16,Hans-Joerg Tauscher,DE,8,Combined
-1991-03-16,Richard Pramotton,IT,2,Giant Slalom
-1991-03-16,Bernhard Bauer,DE,1,Slalom
-1991-03-16,Frank Piccard,FR,60,Giant Slalom
-1991-03-16,Oliver Kuenzi,CH,2,Slalom
-1991-03-16,Roger Pramotton,IT,2,Slalom
+1991-03-16,Peter Roth,DE,41,Slalom
 1991-03-16,Christophe Berra,CH,0,Slalom
+1991-03-16,Roger Pramotton,IT,2,Slalom
+1991-03-16,Hans-Joerg Tauscher,DE,8,Combined
+1991-03-16,Oliver Kuenzi,CH,2,Slalom
+1991-03-16,Frank Piccard,FR,60,Giant Slalom
+1991-03-16,Fredrik Nyberg,SE,52,Giant Slalom
+1991-03-16,Bernhard Bauer,DE,1,Slalom
+1991-03-16,Heinz Peter Platter,IT,3,Slalom
+1991-03-16,Asgeir Linberg,NO,4,Super G
+1991-03-16,Richard Pramotton,IT,2,Giant Slalom
 1991-03-16,Lukas Perathoner,IT,4,Downhill
+1991-03-16,Harald Chr. Strand Nilsen,NO,3,Slalom
+1991-03-16,Leonhard Stock,AT,50,Downhill
 1991-03-16,Michael Mair,IT,2,Downhill
 1991-03-16,Giovanni Moro,IT,1,Slalom
 1991-03-16,Daniel Mahrer,CH,81,Downhill
@@ -2316,8 +2222,8 @@ date,name,ath_country,value,specialty
 1991-03-16,Tetsuya Okabe,JP,29,Slalom
 1991-03-16,Xavier Gigandet,CH,18,Downhill
 1991-03-16,Jeremy Nobis,US,9,Giant Slalom
-1991-03-16,Guenther Mader,AT,102,Slalom
-1991-03-16,Marc Girardelli,LU,217,Slalom
+1991-03-16,Guenther Mader,AT,117,Slalom
+1991-03-16,Marc Girardelli,LU,242,Slalom
 1991-03-16,Karl Alpiger,CH,14,Downhill
 1991-03-16,Peter Rzehak,AT,9,Downhill
 1991-03-16,Patrick Holzer,IT,16,Super G
@@ -2333,7 +2239,7 @@ date,name,ath_country,value,specialty
 1991-03-16,Fabio De Crignis,IT,30,Slalom
 1991-03-16,Urs Kaelin,CH,68,Giant Slalom
 1991-03-16,Alain Villiard,CA,5,Slalom
-1991-03-16,Lasse Kjus,NO,72,Slalom
+1991-03-16,Lasse Kjus,NO,92,Slalom
 1991-03-16,Peter Wirnsberger,AT,26,Downhill
 1991-03-16,Franz Heinzer,CH,199,Downhill
 1991-03-16,Jonas Nilsson,SE,17,Slalom
@@ -2360,7 +2266,7 @@ date,name,ath_country,value,specialty
 1991-03-17,Michael von Gruenigen,CH,24,Giant Slalom
 1991-03-17,Steve Locher,CH,16,Giant Slalom
 1991-03-17,Jeremy Nobis,US,9,Giant Slalom
-1991-03-17,Lasse Kjus,NO,72,Slalom
+1991-03-17,Lasse Kjus,NO,92,Slalom
 1991-03-17,Heinz Peter Platter,IT,3,Slalom
 1991-03-17,Didrik Marksten,NO,12,Super G
 1991-03-17,Niklas Henning,SE,31,Downhill
@@ -2391,7 +2297,7 @@ date,name,ath_country,value,specialty
 1991-03-17,Hannes Zehentner,DE,68,Downhill
 1991-03-17,Jonas Nilsson,SE,17,Slalom
 1991-03-17,Alberto Tomba,IT,177,Giant Slalom
-1991-03-17,Marc Girardelli,LU,217,Slalom
+1991-03-17,Marc Girardelli,LU,242,Slalom
 1991-03-17,Peter Rzehak,AT,9,Downhill
 1991-03-17,Peter Mueller,CH,10,Downhill
 1991-03-17,Lasse Arnesen,NO,56,Downhill
@@ -2431,7 +2337,7 @@ date,name,ath_country,value,specialty
 1991-03-17,Peter Runggaldier,IT,35,Downhill
 1991-03-17,Rainer Salzgeber,AT,32,Giant Slalom
 1991-03-17,Hans Pieren,CH,11,Giant Slalom
-1991-03-17,Guenther Mader,AT,102,Slalom
+1991-03-17,Guenther Mader,AT,117,Slalom
 1991-03-17,Hubert Strolz,AT,26,Giant Slalom
 1991-03-17,Xavier Gigandet,CH,18,Downhill
 1991-03-17,A.J. Kitt,US,22,Downhill
@@ -2450,7 +2356,7 @@ date,name,ath_country,value,specialty
 1991-03-21,Lars Boerje Eriksson,SE,17,Giant Slalom
 1991-03-21,Peter Runggaldier,IT,35,Downhill
 1991-03-21,Bernhard Bauer,DE,1,Slalom
-1991-03-21,Lasse Kjus,NO,72,Slalom
+1991-03-21,Lasse Kjus,NO,92,Slalom
 1991-03-21,Jean Luc Cretier,FR,11,Super G
 1991-03-21,Luc Alphand,FR,37,Downhill
 1991-03-21,William Besse,CH,50,Downhill
@@ -2483,7 +2389,7 @@ date,name,ath_country,value,specialty
 1991-03-21,Johan Wallner,SE,41,Giant Slalom
 1991-03-21,Fabio De Crignis,IT,30,Slalom
 1991-03-21,Konrad  Kurt Ladstaetter,IT,25,Slalom
-1991-03-21,Marc Girardelli,LU,217,Slalom
+1991-03-21,Marc Girardelli,LU,242,Slalom
 1991-03-21,Bernhard Gstrein,AT,45,Slalom
 1991-03-21,Alain Villiard,CA,5,Slalom
 1991-03-21,Christophe Berra,CH,0,Slalom
@@ -2514,7 +2420,7 @@ date,name,ath_country,value,specialty
 1991-03-21,Francois Simond,FR,7,Slalom
 1991-03-21,Denis Rey,FR,6,Downhill
 1991-03-21,Michael von Gruenigen,CH,24,Giant Slalom
-1991-03-21,Guenther Mader,AT,102,Slalom
+1991-03-21,Guenther Mader,AT,117,Slalom
 1991-03-21,Roberto Spampatti,IT,7,Slalom
 1991-03-21,Luca Pesando,IT,8,Giant Slalom
 1991-03-21,Armin Assinger,AT,5,Downhill
@@ -2598,13 +2504,13 @@ date,name,ath_country,value,specialty
 1991-03-23,Fredrik Nyberg,SE,52,Giant Slalom
 1991-03-23,William Besse,CH,50,Downhill
 1991-03-23,Bernhard Gstrein,AT,48,Slalom
-1991-03-23,Lasse Kjus,NO,83,Slalom
+1991-03-23,Lasse Kjus,NO,103,Slalom
 1991-03-23,Michael von Gruenigen,CH,24,Giant Slalom
 1991-03-23,Michael Tritscher,AT,65,Slalom
 1991-03-23,Xavier Gigandet,CH,18,Downhill
 1991-03-23,Rob Boyd,CA,64,Downhill
 1991-03-23,Erwin Resch,AT,9,Downhill
-1991-03-23,Guenther Mader,AT,102,Slalom
+1991-03-23,Guenther Mader,AT,117,Slalom
 1991-03-23,Christophe Ple',FR,10,Downhill
 1991-03-23,Paul Accola,CH,114,Slalom
 1991-03-23,Hubert Strolz,AT,26,Giant Slalom
@@ -2612,7 +2518,7 @@ date,name,ath_country,value,specialty
 1991-03-23,Peter Runggaldier,IT,35,Downhill
 1991-03-23,Lukas Perathoner,IT,4,Downhill
 1991-03-23,Hans Pieren,CH,20,Giant Slalom
-1991-03-23,Marc Girardelli,LU,217,Slalom
+1991-03-23,Marc Girardelli,LU,242,Slalom
 1991-03-23,Rudolph Nierlich,AT,201,Giant Slalom
 1991-03-23,Peter Rzehak,AT,9,Downhill
 1991-03-23,Johan Wallner,SE,41,Giant Slalom
@@ -2667,14 +2573,14 @@ date,name,ath_country,value,specialty
 1991-03-24,Atle Skaardal,NO,163,Downhill
 1991-03-24,Ole Kristian Furuseth,NO,171,Slalom
 1991-03-24,Daniel Mahrer,CH,99,Downhill
-1991-03-24,Guenther Mader,AT,112,Slalom
-1991-03-24,Marc Girardelli,LU,217,Slalom
+1991-03-24,Guenther Mader,AT,127,Slalom
+1991-03-24,Marc Girardelli,LU,242,Slalom
 1991-03-24,Rudolph Nierlich,AT,205,Giant Slalom
 1991-03-24,Michael Tritscher,AT,77,Slalom
 1991-03-24,Markus Wasmeier,DE,30,Super G
 1991-03-24,Thomas Fogdoe,SE,100,Slalom
 1991-03-24,Urs Kaelin,CH,95,Giant Slalom
-1991-03-24,Lasse Kjus,NO,83,Slalom
+1991-03-24,Lasse Kjus,NO,103,Slalom
 1991-03-24,Berni Huber,DE,30,Downhill
 1991-03-24,Rob Boyd,CA,64,Downhill
 1991-03-24,Carlo Gerosa,IT,26,Slalom

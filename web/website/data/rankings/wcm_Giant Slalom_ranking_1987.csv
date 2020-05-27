@@ -15,7 +15,7 @@ date,name,ath_country,value,specialty
 1986-11-30,Klemen Bergant,SK,2,Giant Slalom
 1986-11-30,Markus Wasmeier,DE,0,Downhill
 1986-11-30,Thomas Buergler,CH,0,Giant Slalom
-1986-11-30,Andreas Wenzel,LI,0,Super G
+1986-11-30,Andreas Wenzel,LI,0,Combined
 1986-11-30,Ingemar Stenmark,SE,0,Slalom
 1986-11-30,Ivano Camozzi,IT,10,Giant Slalom
 1986-11-30,Rudolph Nierlich,AT,0,Giant Slalom
@@ -38,7 +38,7 @@ date,name,ath_country,value,specialty
 1986-11-30,Leonhard Stock,AT,0,Downhill
 1986-11-30,Yves Tavernier,FR,0,Giant Slalom
 1986-12-14,Martin Hangl,CH,9,Giant Slalom
-1986-12-14,Andreas Wenzel,LI,0,Super G
+1986-12-14,Andreas Wenzel,LI,0,Combined
 1986-12-14,Markus Wasmeier,DE,1,Downhill
 1986-12-14,Rok Petrovic,SK,3,Slalom
 1986-12-14,Walter Gugele,AT,0,Giant Slalom
@@ -92,7 +92,7 @@ date,name,ath_country,value,specialty
 1986-12-15,Frank Piccard,FR,4,Super G
 1986-12-15,Leonhard Stock,AT,0,Downhill
 1986-12-15,Klemen Bergant,SK,2,Giant Slalom
-1986-12-15,Andreas Wenzel,LI,10,Super G
+1986-12-15,Andreas Wenzel,LI,10,Combined
 1986-12-15,Guido Hinterseer,AT,0,Super G
 1986-12-15,Yves Tavernier,FR,5,Giant Slalom
 1986-12-15,Ivano Camozzi,IT,10,Giant Slalom
@@ -145,7 +145,7 @@ date,name,ath_country,value,specialty
 1986-12-19,Martin Knoeri,CH,11,Giant Slalom
 1986-12-19,Ivano Camozzi,IT,10,Giant Slalom
 1986-12-19,Ingemar Stenmark,SE,31,Slalom
-1986-12-19,Andreas Wenzel,LI,10,Super G
+1986-12-19,Andreas Wenzel,LI,10,Combined
 1986-12-19,Klemen Bergant,SK,2,Giant Slalom
 1986-12-19,Hans Pieren,CH,18,Giant Slalom
 1986-12-19,Josef Schick,DE,2,Giant Slalom
@@ -180,7 +180,7 @@ date,name,ath_country,value,specialty
 1987-01-13,Hans Stuffer,DE,19,Super G
 1987-01-13,Oswald Toetsch,IT,31,Giant Slalom
 1987-01-13,Martin Hangl,CH,23,Giant Slalom
-1987-01-13,Andreas Wenzel,LI,10,Super G
+1987-01-13,Andreas Wenzel,LI,10,Combined
 1987-01-13,Robert Erlacher,IT,48,Giant Slalom
 1987-01-13,Markus Wasmeier,DE,35,Downhill
 1987-01-13,Marco Tonazzi,IT,3,Giant Slalom
@@ -226,7 +226,7 @@ date,name,ath_country,value,specialty
 1987-01-20,Hans Pieren,CH,18,Giant Slalom
 1987-01-20,Josef Schick,DE,2,Giant Slalom
 1987-01-20,Guido Hinterseer,AT,4,Super G
-1987-01-20,Andreas Wenzel,LI,15,Super G
+1987-01-20,Andreas Wenzel,LI,15,Combined
 1987-02-15,Rok Petrovic,SK,3,Slalom
 1987-02-15,Klemen Bergant,SK,2,Giant Slalom
 1987-02-15,Christian Gaidet,FR,7,Giant Slalom
@@ -239,7 +239,7 @@ date,name,ath_country,value,specialty
 1987-02-15,Hubert Strolz,AT,71,Giant Slalom
 1987-02-15,Ivano Camozzi,IT,16,Giant Slalom
 1987-02-15,Hans Pieren,CH,24,Giant Slalom
-1987-02-15,Andreas Wenzel,LI,15,Super G
+1987-02-15,Andreas Wenzel,LI,15,Combined
 1987-02-15,Alberto Tomba,IT,40,Giant Slalom
 1987-02-15,Martin Hangl,CH,24,Giant Slalom
 1987-02-15,Oswald Toetsch,IT,31,Giant Slalom
@@ -293,7 +293,7 @@ date,name,ath_country,value,specialty
 1987-03-22,Josef Schick,DE,2,Giant Slalom
 1987-03-22,Marco Tonazzi,IT,3,Giant Slalom
 1987-03-22,Martin Hangl,CH,24,Giant Slalom
-1987-03-22,Andreas Wenzel,LI,15,Super G
+1987-03-22,Andreas Wenzel,LI,15,Combined
 1987-03-22,Christian Gaidet,FR,7,Giant Slalom
 1987-03-22,Ivano Camozzi,IT,16,Giant Slalom
 1987-03-22,Franck Woerndl,DE,29,Giant Slalom

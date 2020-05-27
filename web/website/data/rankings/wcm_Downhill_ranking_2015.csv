@@ -68,7 +68,7 @@ date,name,ath_country,value,specialty
 2014-11-29,Hans Olsson,SE,0,Combined
 2014-11-29,Tobias Stechert,DE,0,Downhill
 2014-11-29,Travis Ganong,US,26,Downhill
-2014-11-29,Ondrej Bank,CZ,0,Downhill
+2014-11-29,Ondrej Bank,CZ,0,Combined
 2014-11-29,Willy Delberghe,FR,0,Combined
 2014-11-29,Tyler Werry,CA,0,Combined
 2014-11-29,Didier Defago,CH,10,Downhill
@@ -106,7 +106,7 @@ date,name,ath_country,value,specialty
 2014-12-05,Peter Fill,IT,38,Downhill
 2014-12-05,Werner Heel,IT,62,Downhill
 2014-12-05,Benjamin Thomsen,CA,2,Downhill
-2014-12-05,Ondrej Bank,CZ,9,Downhill
+2014-12-05,Ondrej Bank,CZ,9,Combined
 2014-12-05,Vincent Kriechmayr,AT,0,Super G
 2014-12-05,Ralph Weber,CH,0,Downhill
 2014-12-05,Mauro Caviezel,CH,0,Super G
@@ -196,7 +196,7 @@ date,name,ath_country,value,specialty
 2014-12-19,Nils Mani,CH,0,Super G
 2014-12-19,Sandro Viletta,CH,36,Downhill
 2014-12-19,Tyler Werry,CA,0,Combined
-2014-12-19,Ondrej Bank,CZ,11,Downhill
+2014-12-19,Ondrej Bank,CZ,11,Combined
 2014-12-19,Peter Fill,IT,60,Downhill
 2014-12-19,Klaus Kroell,AT,50,Downhill
 2014-12-19,Ami Oreiller,CH,0,Combined
@@ -344,7 +344,7 @@ date,name,ath_country,value,specialty
 2014-12-28,Ralph Weber,CH,26,Downhill
 2014-12-28,Beat Feuz,CH,152,Downhill
 2014-12-28,Rok Perko,SK,0,Combined
-2014-12-28,Ondrej Bank,CZ,22,Downhill
+2014-12-28,Ondrej Bank,CZ,22,Combined
 2014-12-28,Sandro Viletta,CH,58,Downhill
 2014-12-28,Marc Oliveras,AD,0,Combined
 2014-12-28,Max Franz,AT,63,Downhill
@@ -440,7 +440,7 @@ date,name,ath_country,value,specialty
 2015-01-18,Henri Battilani,IT,0,Downhill
 2015-01-18,Jared Goldberg,US,15,Downhill
 2015-01-18,Martin Cater,SK,0,Combined
-2015-01-18,Ondrej Bank,CZ,51,Downhill
+2015-01-18,Ondrej Bank,CZ,51,Combined
 2015-01-18,Vincent Kriechmayr,AT,11,Super G
 2015-01-18,Benjamin Thomsen,CA,8,Downhill
 2015-01-18,Mattia Casse,IT,0,Downhill
@@ -525,7 +525,7 @@ date,name,ath_country,value,specialty
 2015-01-24,Peter Fill,IT,84,Downhill
 2015-01-24,Benjamin Thomsen,CA,22,Downhill
 2015-01-24,Werner Heel,IT,123,Downhill
-2015-01-24,Ondrej Bank,CZ,63,Downhill
+2015-01-24,Ondrej Bank,CZ,63,Combined
 2015-01-24,Vincent Kriechmayr,AT,14,Super G
 2015-01-24,Ami Oreiller,CH,0,Combined
 2015-01-24,Ralph Weber,CH,26,Downhill
@@ -573,7 +573,7 @@ date,name,ath_country,value,specialty
 2015-02-21,Maxence Muzaton,FR,25,Downhill
 2015-02-21,Romed Baumann,AT,144,Downhill
 2015-02-21,Kjetil Jansrud,NO,457,Downhill
-2015-02-21,Ondrej Bank,CZ,63,Downhill
+2015-02-21,Ondrej Bank,CZ,63,Combined
 2015-02-21,Paul De La Cuesta,ES,0,Combined
 2015-02-21,Marvin Van Heek,NL,0,Combined
 2015-02-21,Ami Oreiller,CH,0,Combined
@@ -721,7 +721,7 @@ date,name,ath_country,value,specialty
 2015-02-28,Klaus Brandner,DE,25,Downhill
 2015-02-28,Jeffrey Frisch,CA,0,Combined
 2015-02-28,Carlo Janka,CH,168,Downhill
-2015-02-28,Ondrej Bank,CZ,63,Downhill
+2015-02-28,Ondrej Bank,CZ,63,Combined
 2015-02-28,Marc Gisin,CH,39,Downhill
 2015-02-28,Marvin Van Heek,NL,0,Combined
 2015-02-28,Benjamin Thomsen,CA,67,Downhill
@@ -755,7 +755,7 @@ date,name,ath_country,value,specialty
 2015-03-07,Peter Fill,IT,139,Downhill
 2015-03-07,Benjamin Thomsen,CA,81,Downhill
 2015-03-07,Ami Oreiller,CH,0,Combined
-2015-03-07,Ondrej Bank,CZ,63,Downhill
+2015-03-07,Ondrej Bank,CZ,63,Combined
 2015-03-07,Vincent Kriechmayr,AT,112,Super G
 2015-03-07,Ralph Weber,CH,26,Downhill
 2015-03-07,Thomas Dressen,DE,0,Combined
@@ -830,7 +830,7 @@ date,name,ath_country,value,specialty
 2015-03-18,Martin Cater,SK,0,Combined
 2015-03-18,Thomas Dressen,DE,0,Combined
 2015-03-18,Emanuele Buzzi,IT,0,Combined
-2015-03-18,Ondrej Bank,CZ,63,Downhill
+2015-03-18,Ondrej Bank,CZ,63,Combined
 2015-03-18,Josef Ferstl,DE,75,Downhill
 2015-03-18,Max Franz,AT,256,Downhill
 2015-03-18,Morgan Pridy,CA,0,Super G

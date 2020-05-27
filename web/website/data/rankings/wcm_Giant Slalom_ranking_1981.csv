@@ -18,7 +18,7 @@ date,name,ath_country,value,specialty
 1980-12-10,Paul Arne Skajem,NO,0,Giant Slalom
 1980-12-10,Hans Enn,AT,12,Giant Slalom
 1980-12-10,Ernst Riedlsperger,AT,0,Giant Slalom
-1980-12-10,Andreas Wenzel,LI,7,Giant Slalom
+1980-12-10,Andreas Wenzel,LI,7,Combined
 1980-12-10,Vladimir Andreev,RU,3,Slalom
 1980-12-10,Jean Luc Fournier,CH,0,Giant Slalom
 1980-12-10,Bojan Krizaj,SK,6,Slalom
@@ -52,7 +52,7 @@ date,name,ath_country,value,specialty
 1981-01-04,Alain Navillod,FR,4,Giant Slalom
 1981-01-04,Valeri Tsiganov,RU,0,Downhill
 1981-01-04,Marc Girardelli,LU,0,Slalom
-1981-01-04,Andreas Wenzel,LI,16,Giant Slalom
+1981-01-04,Andreas Wenzel,LI,16,Combined
 1981-01-04,Christian Orlainsky,AT,27,Giant Slalom
 1981-01-04,Ingemar Stenmark,SE,25,Giant Slalom
 1981-01-04,Franck Woerndl,DE,1,Slalom
@@ -77,7 +77,7 @@ date,name,ath_country,value,specialty
 1981-01-06,Alex Giorgi,IT,0,Giant Slalom
 1981-01-06,Jarle Halsnes,NO,4,Giant Slalom
 1981-01-06,Marc Girardelli,LU,2,Slalom
-1981-01-06,Andreas Wenzel,LI,26,Giant Slalom
+1981-01-06,Andreas Wenzel,LI,26,Combined
 1981-01-06,Paul Arne Skajem,NO,4,Giant Slalom
 1981-01-06,Steve Mahre,US,11,Slalom
 1981-01-06,Leonhard Stock,AT,8,Downhill
@@ -117,7 +117,7 @@ date,name,ath_country,value,specialty
 1981-01-26,Phil Mahre,US,40,Giant Slalom
 1981-01-26,Leonhard Stock,AT,8,Downhill
 1981-01-26,Franck Woerndl,DE,1,Slalom
-1981-01-26,Andreas Wenzel,LI,33,Giant Slalom
+1981-01-26,Andreas Wenzel,LI,33,Combined
 1981-01-26,Marc Girardelli,LU,2,Slalom
 1981-01-26,Pirmin Zurbriggen,CH,19,Giant Slalom
 1981-01-26,Christian Orlainsky,AT,53,Giant Slalom
@@ -152,7 +152,7 @@ date,name,ath_country,value,specialty
 1981-02-02,Bojan Krizaj,SK,24,Slalom
 1981-02-02,Franck Woerndl,DE,1,Slalom
 1981-02-02,Marc Girardelli,LU,2,Slalom
-1981-02-02,Andreas Wenzel,LI,33,Giant Slalom
+1981-02-02,Andreas Wenzel,LI,33,Combined
 1981-02-02,Bruno Noeckler,IT,47,Giant Slalom
 1981-02-02,Valeri Tsiganov,RU,0,Downhill
 1981-02-02,Gerhard Jaeger,AT,23,Giant Slalom
@@ -175,7 +175,7 @@ date,name,ath_country,value,specialty
 1981-02-02,Franz Gruber,AT,8,Slalom
 1981-02-02,Boris Strel,SK,26,Giant Slalom
 1981-02-11,Paul Arne Skajem,NO,8,Giant Slalom
-1981-02-11,Andreas Wenzel,LI,33,Giant Slalom
+1981-02-11,Andreas Wenzel,LI,33,Combined
 1981-02-11,Alain Navillod,FR,4,Giant Slalom
 1981-02-11,Torsten Jakobsson,SE,5,Giant Slalom
 1981-02-11,Franz Gruber,AT,8,Slalom
@@ -224,7 +224,7 @@ date,name,ath_country,value,specialty
 1981-02-14,Riccardo Foppa,IT,1,Giant Slalom
 1981-02-14,Valeri Tsiganov,RU,0,Downhill
 1981-02-14,Torsten Jakobsson,SE,5,Giant Slalom
-1981-02-14,Andreas Wenzel,LI,36,Giant Slalom
+1981-02-14,Andreas Wenzel,LI,36,Combined
 1981-02-14,Gerhard Jaeger,AT,23,Giant Slalom
 1981-02-14,Paul Arne Skajem,NO,15,Giant Slalom
 1981-02-14,Phil Mahre,US,75,Giant Slalom
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 1981-03-07,Pirmin Zurbriggen,CH,23,Giant Slalom
 1981-03-07,Kurt Gubser,CH,2,Slalom
 1981-03-07,Marc Girardelli,LU,11,Slalom
-1981-03-07,Andreas Wenzel,LI,41,Giant Slalom
+1981-03-07,Andreas Wenzel,LI,41,Combined
 1981-03-07,Wolfram Ortner,AT,27,Giant Slalom
 1981-03-07,Leonhard Stock,AT,8,Downhill
 1981-03-07,Odd Sorli,NO,12,Giant Slalom
@@ -313,12 +313,12 @@ date,name,ath_country,value,specialty
 1981-03-14,Steve Mahre,US,39,Slalom
 1981-03-14,Franz Gruber,AT,8,Slalom
 1981-03-14,Alex Giorgi,IT,9,Giant Slalom
-1981-03-14,Andreas Wenzel,LI,41,Giant Slalom
+1981-03-14,Andreas Wenzel,LI,41,Combined
 1981-03-24,Phil Mahre,US,111,Giant Slalom
 1981-03-24,Hubert Strolz,AT,1,Giant Slalom
 1981-03-24,Joel Gaspoz,CH,82,Giant Slalom
 1981-03-24,Kurt Gubser,CH,2,Slalom
-1981-03-24,Andreas Wenzel,LI,41,Giant Slalom
+1981-03-24,Andreas Wenzel,LI,41,Combined
 1981-03-24,Leonhard Stock,AT,24,Downhill
 1981-03-24,Ernst Riedlsperger,AT,7,Giant Slalom
 1981-03-24,Hannes Spiss,AT,41,Giant Slalom
@@ -350,7 +350,7 @@ date,name,ath_country,value,specialty
 1981-03-24,Alain Navillod,FR,4,Giant Slalom
 1981-03-24,Franck Woerndl,DE,1,Slalom
 1981-03-28,Phil Mahre,US,131,Giant Slalom
-1981-03-28,Andreas Wenzel,LI,41,Giant Slalom
+1981-03-28,Andreas Wenzel,LI,41,Combined
 1981-03-28,Pirmin Zurbriggen,CH,37,Giant Slalom
 1981-03-28,Kurt Gubser,CH,2,Slalom
 1981-03-28,Christian Orlainsky,AT,61,Giant Slalom

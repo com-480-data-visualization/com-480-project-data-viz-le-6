@@ -1,41 +1,59 @@
 date,name,ath_country,value,specialty
-1993-01-17,Katja Seizinger,DE,50,Downhill
-1993-01-17,Erika Hansson,SE,15,Combined
-1993-01-17,Veronika Tarasovicova,SK,12,Combined
-1993-01-17,Barbara Merlin,IT,16,Giant Slalom
-1993-01-17,Jeanette Lunde,NO,0,Combined
-1993-01-17,Michelle Ruthven Mckendry,CA,18,Downhill
-1993-01-17,Madlen Summermatter,CH,0,Combined
-1993-01-17,Manuela Heubi,CH,11,Combined
-1993-01-17,Regina Haeusl,DE,20,Downhill
-1993-01-17,Heidi Zeller - Baehler,CH,0,Giant Slalom
-1993-01-17,Krista Schmidinger,US,14,Downhill
-1993-01-17,Regine Cavagnoud,FR,13,Downhill
+1993-01-17,Anita Wachter,AT,100,Giant Slalom
 1993-01-17,Kerrin Lee- Gartner,CA,22,Downhill
-1993-01-17,Kate Pace,CA,26,Downhill
-1993-01-17,Anja Haas,AT,0,Downhill
+1993-01-17,Jeanette Lunde,NO,0,Combined
+1993-01-17,Madlen Summermatter,CH,0,Combined
+1993-01-17,Karin Koellerer,AT,24,Slalom
+1993-01-17,Spela Pretnar,SK,0,Giant Slalom
 1993-01-17,Stefanie Schuster,AT,0,Downhill
-1993-01-17,Chantal Bournissen,CH,36,Downhill
+1993-01-17,Michelle Ruthven Mckendry,CA,18,Downhill
+1993-01-17,Kate Pace,CA,26,Downhill
+1993-01-17,Regine Cavagnoud,FR,13,Downhill
+1993-01-17,Barbara Merlin,IT,16,Giant Slalom
+1993-01-17,Ulrike Maier,AT,29,Super G
 1993-01-17,Martina Osterried,DE,0,Combined
-1993-01-17,Martina Ertl,DE,45,Giant Slalom
+1993-01-17,Erika Hansson,SE,15,Combined
+1993-01-17,Regina Haeusl,DE,20,Downhill
+1993-01-17,Anja Haas,AT,0,Downhill
+1993-01-17,Lucia Medzihradska,SK,32,Slalom
+1993-01-17,Krista Schmidinger,US,14,Downhill
 1993-01-17,Svetlana Novikova,RU,10,Combined
-1993-03-14,Svetlana Novikova,RU,10,Combined
-1993-03-14,Veronika Tarasovicova,SK,12,Combined
-1993-03-14,Stefanie Schuster,AT,40,Downhill
-1993-03-14,Martina Osterried,DE,32,Combined
-1993-03-14,Regine Cavagnoud,FR,42,Downhill
-1993-03-14,Manuela Heubi,CH,11,Combined
+1993-01-17,Bibiana Perez,IT,0,Combined
+1993-01-17,Miriam Vogt,DE,80,Downhill
+1993-01-17,Manuela Heubi,CH,11,Combined
+1993-01-17,Sabine Ginther,AT,60,Downhill
+1993-01-17,Morena Gallizio Tescari,IT,45,Slalom
+1993-01-17,Veronika Tarasovicova,SK,12,Combined
+1993-01-17,Martina Ertl,DE,45,Giant Slalom
+1993-01-17,Chantal Bournissen,CH,36,Downhill
+1993-01-17,Katja Seizinger,DE,50,Downhill
+1993-01-17,Heidi Zeller - Baehler,CH,0,Giant Slalom
 1993-03-14,Michelle Ruthven Mckendry,CA,18,Downhill
+1993-03-14,Veronika Tarasovicova,SK,12,Combined
 1993-03-14,Erika Hansson,SE,15,Combined
+1993-03-14,Manuela Heubi,CH,11,Combined
 1993-03-14,Barbara Merlin,IT,16,Giant Slalom
-1993-03-14,Madlen Summermatter,CH,20,Combined
-1993-03-14,Regina Haeusl,DE,20,Downhill
-1993-03-14,Heidi Zeller - Baehler,CH,22,Giant Slalom
-1993-03-14,Kerrin Lee- Gartner,CA,22,Downhill
-1993-03-14,Kate Pace,CA,26,Downhill
-1993-03-14,Anja Haas,AT,36,Downhill
-1993-03-14,Chantal Bournissen,CH,36,Downhill
-1993-03-14,Martina Ertl,DE,90,Giant Slalom
-1993-03-14,Katja Seizinger,DE,50,Downhill
 1993-03-14,Krista Schmidinger,US,14,Downhill
+1993-03-14,Madlen Summermatter,CH,20,Combined
+1993-03-14,Svetlana Novikova,RU,10,Combined
+1993-03-14,Regina Haeusl,DE,20,Downhill
+1993-03-14,Spela Pretnar,SK,26,Giant Slalom
+1993-03-14,Kerrin Lee- Gartner,CA,22,Downhill
+1993-03-14,Anita Wachter,AT,150,Giant Slalom
+1993-03-14,Bibiana Perez,IT,100,Combined
+1993-03-14,Miriam Vogt,DE,140,Downhill
+1993-03-14,Morena Gallizio Tescari,IT,125,Slalom
+1993-03-14,Sabine Ginther,AT,60,Downhill
+1993-03-14,Katja Seizinger,DE,50,Downhill
+1993-03-14,Martina Ertl,DE,90,Giant Slalom
+1993-03-14,Heidi Zeller - Baehler,CH,22,Giant Slalom
+1993-03-14,Chantal Bournissen,CH,36,Downhill
+1993-03-14,Lucia Medzihradska,SK,32,Slalom
+1993-03-14,Martina Osterried,DE,32,Combined
+1993-03-14,Ulrike Maier,AT,29,Super G
+1993-03-14,Regine Cavagnoud,FR,42,Downhill
+1993-03-14,Kate Pace,CA,26,Downhill
+1993-03-14,Karin Koellerer,AT,24,Slalom
 1993-03-14,Jeanette Lunde,NO,24,Combined
+1993-03-14,Anja Haas,AT,36,Downhill
+1993-03-14,Stefanie Schuster,AT,40,Downhill

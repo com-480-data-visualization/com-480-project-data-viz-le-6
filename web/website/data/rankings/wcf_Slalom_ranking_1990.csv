@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1989-11-25,Stefanie Schuster,AT,0,Downhill
 1989-11-25,Karen Percy,CA,0,Downhill
 1989-11-25,Ida Ladstaetter,AT,6,Slalom
-1989-11-25,Brigitte Oertli,CH,0,Downhill
+1989-11-25,Brigitte Oertli,CH,0,Combined
 1989-11-25,Patricia Chauvet,FR,0,Slalom
 1989-11-25,Karin Buder,AT,11,Slalom
 1989-11-25,Gabriela Zingre-Graf,CH,5,Slalom
@@ -42,7 +42,7 @@ date,name,ath_country,value,specialty
 1989-12-10,Chantal Bournissen,CH,0,Combined
 1989-12-10,Karin Buder,AT,26,Slalom
 1989-12-10,Patricia Chauvet,FR,7,Slalom
-1989-12-10,Brigitte Oertli,CH,5,Downhill
+1989-12-10,Brigitte Oertli,CH,5,Combined
 1989-12-10,Karen Percy,CA,0,Downhill
 1989-12-10,Katrin Stotz,DE,0,Slalom
 1989-12-10,Gabriela Zingre-Graf,CH,5,Slalom
@@ -98,7 +98,7 @@ date,name,ath_country,value,specialty
 1990-01-06,Vreni Schneider,CH,50,Slalom
 1990-01-06,Ida Ladstaetter,AT,24,Slalom
 1990-01-06,Eva Twardokens,US,6,Slalom
-1990-01-06,Brigitte Oertli,CH,5,Downhill
+1990-01-06,Brigitte Oertli,CH,5,Combined
 1990-01-06,Ingrid Salvenmoser,AT,0,Slalom
 1990-01-06,Anita Wachter,AT,35,Giant Slalom
 1990-01-06,Gabriela Zingre-Graf,CH,5,Slalom
@@ -117,7 +117,7 @@ date,name,ath_country,value,specialty
 1990-01-09,Beatrice Filliol,FR,9,Slalom
 1990-01-09,Karen Percy,CA,5,Downhill
 1990-01-09,Cecilia Lucco,IT,2,Slalom
-1990-01-09,Brigitte Oertli,CH,5,Downhill
+1990-01-09,Brigitte Oertli,CH,5,Combined
 1990-01-09,Chantal Bournissen,CH,2,Combined
 1990-01-09,Eva Twardokens,US,6,Slalom
 1990-01-09,Monique Pelletier,US,0,Slalom
@@ -180,7 +180,7 @@ date,name,ath_country,value,specialty
 1990-01-14,Brigitte Gadient,CH,3,Slalom
 1990-01-14,Chantal Bournissen,CH,3,Combined
 1990-01-14,Anita Wachter,AT,60,Giant Slalom
-1990-01-14,Brigitte Oertli,CH,5,Downhill
+1990-01-14,Brigitte Oertli,CH,5,Combined
 1990-01-14,Claudia Strobl,AT,73,Slalom
 1990-01-14,Annette Gersch,DE,21,Slalom
 1990-01-14,Vreni Schneider,CH,75,Slalom
@@ -194,7 +194,7 @@ date,name,ath_country,value,specialty
 1990-01-21,Monika Maierhofer,AT,71,Slalom
 1990-01-21,Petra Kronberger,AT,22,Downhill
 1990-01-21,Gabriela Zingre-Graf,CH,9,Slalom
-1990-01-21,Brigitte Oertli,CH,5,Downhill
+1990-01-21,Brigitte Oertli,CH,5,Combined
 1990-01-21,Karen Percy,CA,5,Downhill
 1990-01-21,Brigitte Gadient,CH,3,Slalom
 1990-01-21,Pernilla Wiberg,SE,0,Slalom
@@ -244,7 +244,7 @@ date,name,ath_country,value,specialty
 1990-03-11,Diann Roffe Steinrotter,US,7,Giant Slalom
 1990-03-11,Gabriela Zingre-Graf,CH,10,Slalom
 1990-03-11,Mateja Svet,SK,41,Giant Slalom
-1990-03-11,Brigitte Oertli,CH,5,Downhill
+1990-03-11,Brigitte Oertli,CH,5,Combined
 1990-03-11,Annette Gersch,DE,22,Slalom
 1990-03-11,Katjusa Pusnik,SK,14,Giant Slalom
 1990-03-11,Beatrice Filliol,FR,9,Slalom
@@ -287,7 +287,7 @@ date,name,ath_country,value,specialty
 1990-03-13,Brigitte Gadient,CH,8,Slalom
 1990-03-13,Patricia Chauvet,FR,39,Slalom
 1990-03-13,Monique Pelletier,US,5,Slalom
-1990-03-13,Brigitte Oertli,CH,5,Downhill
+1990-03-13,Brigitte Oertli,CH,5,Combined
 1990-03-13,Katrin Stotz,DE,7,Slalom
 1990-03-13,Ingrid Stoeckl,AT,4,Combined
 1990-03-13,Florence Masnada,FR,4,Giant Slalom
@@ -297,7 +297,7 @@ date,name,ath_country,value,specialty
 1990-03-13,Petra Kronberger,AT,56,Downhill
 1990-03-18,Vreni Schneider,CH,125,Slalom
 1990-03-18,Chantal Bournissen,CH,3,Combined
-1990-03-18,Brigitte Oertli,CH,5,Downhill
+1990-03-18,Brigitte Oertli,CH,5,Combined
 1990-03-18,Ida Ladstaetter,AT,98,Slalom
 1990-03-18,Stefanie Schuster,AT,5,Downhill
 1990-03-18,Kristi Terzian,US,32,Giant Slalom

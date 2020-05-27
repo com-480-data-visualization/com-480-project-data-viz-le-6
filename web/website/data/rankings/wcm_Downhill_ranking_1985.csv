@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
 1984-12-15,Helmut Hoeflehner,AT,25,Downhill
-1984-12-15,Andreas Wenzel,LI,0,Slalom
+1984-12-15,Andreas Wenzel,LI,0,Combined
 1984-12-15,Peter Mueller,CH,4,Downhill
 1984-12-15,Conradin Cathomen,CH,20,Downhill
 1984-12-15,Donald Stevens,CA,0,Downhill
@@ -62,7 +62,7 @@ date,name,ath_country,value,specialty
 1985-01-11,Peter Luescher,CH,0,Downhill
 1985-01-11,Doug Lewis,US,13,Downhill
 1985-01-11,Klaus Gattermann,DE,12,Downhill
-1985-01-11,Andreas Wenzel,LI,0,Slalom
+1985-01-11,Andreas Wenzel,LI,0,Combined
 1985-01-11,Bruno Kernen I,CH,0,Downhill
 1985-01-11,Marc Girardelli,LU,0,Slalom
 1985-01-11,Todd Brooker,CA,0,Downhill
@@ -94,7 +94,7 @@ date,name,ath_country,value,specialty
 1985-01-12,Doug Lewis,US,13,Downhill
 1985-01-12,Franz Heinzer,CH,38,Downhill
 1985-01-12,Conradin Cathomen,CH,39,Downhill
-1985-01-12,Andreas Wenzel,LI,1,Slalom
+1985-01-12,Andreas Wenzel,LI,1,Combined
 1985-01-12,Vladimir Makeev,RU,5,Downhill
 1985-01-12,Todd Brooker,CA,15,Downhill
 1985-01-12,Peter Mueller,CH,26,Downhill
@@ -115,7 +115,7 @@ date,name,ath_country,value,specialty
 1985-01-19,Silvano Meli,CH,3,Downhill
 1985-01-19,Bruno Kernen I,CH,10,Downhill
 1985-01-19,Todd Brooker,CA,17,Downhill
-1985-01-19,Andreas Wenzel,LI,1,Slalom
+1985-01-19,Andreas Wenzel,LI,1,Combined
 1985-01-19,Klaus Gattermann,DE,12,Downhill
 1985-01-19,Karl Alpiger,CH,15,Downhill
 1985-01-19,Rudolf Huber,AT,8,Downhill
@@ -173,7 +173,7 @@ date,name,ath_country,value,specialty
 1985-01-20,Alberto Ghidoni,IT,0,Downhill
 1985-01-20,Silvano Meli,CH,3,Downhill
 1985-01-20,Bruno Kernen I,CH,12,Downhill
-1985-01-20,Andreas Wenzel,LI,1,Slalom
+1985-01-20,Andreas Wenzel,LI,1,Combined
 1985-01-20,Rudolf Huber,AT,8,Downhill
 1985-01-20,Pirmin Zurbriggen,CH,59,Downhill
 1985-01-20,Karl Alpiger,CH,23,Downhill
@@ -191,7 +191,7 @@ date,name,ath_country,value,specialty
 1985-01-26,Vladimir Makeev,RU,7,Downhill
 1985-01-26,Ivan Marzola,IT,0,Super G
 1985-01-26,Doug Lewis,US,13,Downhill
-1985-01-26,Andreas Wenzel,LI,1,Slalom
+1985-01-26,Andreas Wenzel,LI,1,Combined
 1985-01-26,Alberto Ghidoni,IT,0,Downhill
 1985-01-26,Michael Mair,IT,38,Downhill
 1985-01-26,Pirmin Zurbriggen,CH,59,Downhill
@@ -226,7 +226,7 @@ date,name,ath_country,value,specialty
 1985-02-14,Donald Stevens,CA,0,Downhill
 1985-02-14,Todd Brooker,CA,32,Downhill
 1985-02-14,Karl Alpiger,CH,60,Downhill
-1985-02-14,Andreas Wenzel,LI,1,Slalom
+1985-02-14,Andreas Wenzel,LI,1,Combined
 1985-02-14,Silvano Meli,CH,3,Downhill
 1985-02-14,Franz Heinzer,CH,77,Downhill
 1985-02-14,Mauro Cornaz,IT,13,Downhill
@@ -251,7 +251,7 @@ date,name,ath_country,value,specialty
 1985-02-14,Daniel Mahrer,CH,33,Downhill
 1985-02-14,Stefan Niederseer,AT,25,Downhill
 1985-02-14,Helmut Hoeflehner,AT,122,Downhill
-1985-03-02,Andreas Wenzel,LI,1,Slalom
+1985-03-02,Andreas Wenzel,LI,1,Combined
 1985-03-02,Danilo Sbardellotto,IT,8,Downhill
 1985-03-02,Alberto Ghidoni,IT,6,Downhill
 1985-03-02,Donald Stevens,CA,2,Downhill
@@ -288,7 +288,7 @@ date,name,ath_country,value,specialty
 1985-03-02,Steven Lee,AU,16,Super G
 1985-03-02,Rudolf Huber,AT,8,Downhill
 1985-03-09,Alberto Ghidoni,IT,6,Downhill
-1985-03-09,Andreas Wenzel,LI,1,Slalom
+1985-03-09,Andreas Wenzel,LI,1,Combined
 1985-03-09,Conradin Cathomen,CH,51,Downhill
 1985-03-09,Karl Alpiger,CH,92,Downhill
 1985-03-09,Stefan Niederseer,AT,25,Downhill
@@ -327,7 +327,7 @@ date,name,ath_country,value,specialty
 1985-03-16,Peter Mueller,CH,139,Downhill
 1985-03-16,Pirmin Zurbriggen,CH,79,Downhill
 1985-03-16,Todd Brooker,CA,62,Downhill
-1985-03-16,Andreas Wenzel,LI,1,Slalom
+1985-03-16,Andreas Wenzel,LI,1,Combined
 1985-03-16,Frank Piccard,FR,8,Combined
 1985-03-16,Mauro Cornaz,IT,21,Downhill
 1985-03-16,Karl Alpiger,CH,97,Downhill

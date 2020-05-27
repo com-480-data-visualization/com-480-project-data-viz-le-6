@@ -56,7 +56,7 @@ date,name,ath_country,value,specialty
 2015-11-28,Ondrej Bank,CZ,0,Combined
 2015-11-28,Thomas Mermillod,FR,0,Combined
 2015-11-28,Maxence Muzaton,FR,2,Downhill
-2015-11-28,Bryce Bennett,US,0,Downhill
+2015-11-28,Bryce Bennett,US,0,Combined
 2015-11-28,Florian Scheiber,AT,0,Combined
 2015-11-28,Marc Gisin,CH,0,Downhill
 2015-11-28,Mattia Casse,IT,0,Super G
@@ -80,7 +80,7 @@ date,name,ath_country,value,specialty
 2015-11-28,Frederic Berthold,AT,0,Combined
 2015-11-28,Thomas Biesemeyer,US,0,Super G
 2015-11-28,Johan Clarey,FR,20,Downhill
-2015-11-28,Klemen Kosi,SK,0,Super G
+2015-11-28,Klemen Kosi,SK,0,Combined
 2015-11-28,Urs Kryenbuehl,CH,0,Downhill
 2015-11-28,Drew Duffy,US,0,Combined
 2015-11-28,Rok Perko,SK,0,Combined
@@ -109,7 +109,7 @@ date,name,ath_country,value,specialty
 2015-12-04,Thomas Biesemeyer,US,0,Super G
 2015-12-04,Niels Hintermann,CH,0,Downhill
 2015-12-04,Ondrej Berndt,CZ,0,Combined
-2015-12-04,Klemen Kosi,SK,12,Super G
+2015-12-04,Klemen Kosi,SK,12,Combined
 2015-12-04,Willy Delberghe,FR,0,Combined
 2015-12-04,Marco Sullivan,US,0,Downhill
 2015-12-04,Brice Roger,FR,0,Downhill
@@ -159,7 +159,7 @@ date,name,ath_country,value,specialty
 2015-12-04,Emanuele Buzzi,IT,0,Downhill
 2015-12-04,Michal Klusak,PL,0,Combined
 2015-12-04,Martin Khuber,KZ,0,Combined
-2015-12-04,Bryce Bennett,US,2,Downhill
+2015-12-04,Bryce Bennett,US,2,Combined
 2015-12-04,Arnaud Alessandria,MC,0,Combined
 2015-12-04,Aksel-Lund Svindal,NO,200,Downhill
 2015-12-04,Adrian Smiseth Sejersted,NO,0,Super G
@@ -192,7 +192,7 @@ date,name,ath_country,value,specialty
 2015-12-04,Artem Borodaykin,RU,0,Combined
 2015-12-04,Hannes Reichelt,AT,63,Downhill
 2015-12-19,Blaise Giezendanner,FR,5,Downhill
-2015-12-19,Bryce Bennett,US,42,Downhill
+2015-12-19,Bryce Bennett,US,42,Combined
 2015-12-19,Ondrej Berndt,CZ,0,Combined
 2015-12-19,Thomas Tumler,CH,0,Super G
 2015-12-19,Andreas Sander,DE,8,Super G
@@ -238,7 +238,7 @@ date,name,ath_country,value,specialty
 2015-12-19,Mattia Casse,IT,9,Super G
 2015-12-19,Willy Delberghe,FR,0,Combined
 2015-12-19,Marco Sullivan,US,0,Downhill
-2015-12-19,Klemen Kosi,SK,12,Super G
+2015-12-19,Klemen Kosi,SK,12,Combined
 2015-12-19,Brice Roger,FR,12,Downhill
 2015-12-19,Marc Oliveras,AD,0,Combined
 2015-12-19,Andreas Romar,FI,0,Downhill
@@ -295,7 +295,7 @@ date,name,ath_country,value,specialty
 2015-12-29,Johan Clarey,FR,68,Downhill
 2015-12-29,Bostjan Kline,SK,20,Downhill
 2015-12-29,Olivier Jenot,MC,0,Combined
-2015-12-29,Klemen Kosi,SK,14,Super G
+2015-12-29,Klemen Kosi,SK,14,Combined
 2015-12-29,Thomas Mayrpeter,AT,0,Combined
 2015-12-29,Natko Zrncic-Dim,HR,6,Combined
 2015-12-29,Artem Borodaykin,RU,0,Combined
@@ -375,7 +375,7 @@ date,name,ath_country,value,specialty
 2015-12-29,Ondrej Bank,CZ,0,Combined
 2015-12-29,Marcus Vorre,DK,0,Combined
 2015-12-29,Max Franz,AT,90,Downhill
-2015-12-29,Bryce Bennett,US,42,Downhill
+2015-12-29,Bryce Bennett,US,42,Combined
 2015-12-29,Dominik Paris,IT,67,Downhill
 2015-12-29,Arnaud Alessandria,MC,0,Combined
 2015-12-29,Kjetil Jansrud,NO,173,Downhill
@@ -405,7 +405,7 @@ date,name,ath_country,value,specialty
 2016-01-16,Aksel-Lund Svindal,NO,436,Downhill
 2016-01-16,Michal Klusak,PL,0,Combined
 2016-01-16,Andreas Romar,FI,0,Downhill
-2016-01-16,Klemen Kosi,SK,14,Super G
+2016-01-16,Klemen Kosi,SK,14,Combined
 2016-01-16,Max Ullrich,HR,0,Combined
 2016-01-16,Beat Feuz,CH,24,Downhill
 2016-01-16,Adrian Smiseth Sejersted,NO,0,Super G
@@ -462,7 +462,7 @@ date,name,ath_country,value,specialty
 2016-01-16,Matteo Marsaglia,IT,7,Downhill
 2016-01-16,Marc Gisin,CH,47,Downhill
 2016-01-16,Vincent Kriechmayr,AT,108,Super G
-2016-01-16,Bryce Bennett,US,42,Downhill
+2016-01-16,Bryce Bennett,US,42,Combined
 2016-01-16,Matthias Mayer,AT,42,Super G
 2016-01-16,Erik Guay,CA,113,Downhill
 2016-01-16,Willy Delberghe,FR,0,Combined
@@ -546,14 +546,14 @@ date,name,ath_country,value,specialty
 2016-01-23,Aksel-Lund Svindal,NO,436,Downhill
 2016-01-23,Klaus Kroell,AT,106,Downhill
 2016-01-23,Erik Guay,CA,137,Downhill
-2016-01-23,Bryce Bennett,US,42,Downhill
+2016-01-23,Bryce Bennett,US,42,Combined
 2016-01-23,Brice Roger,FR,12,Downhill
 2016-01-23,Carlo Janka,CH,211,Downhill
 2016-01-23,Marc Oliveras,AD,0,Combined
 2016-01-23,Marco Sullivan,US,10,Downhill
 2016-01-23,Arnaud Alessandria,MC,0,Combined
 2016-01-23,Broderick Thompson,CA,0,Combined
-2016-01-23,Klemen Kosi,SK,14,Super G
+2016-01-23,Klemen Kosi,SK,14,Combined
 2016-01-23,Dominik Paris,IT,132,Downhill
 2016-01-23,Max Franz,AT,116,Downhill
 2016-01-23,Maciej Bydlinski,PL,0,Combined
@@ -632,7 +632,7 @@ date,name,ath_country,value,specialty
 2016-01-30,Georg Streitberger,AT,33,Super G
 2016-01-30,Michal Klusak,PL,0,Combined
 2016-01-30,Marco Sullivan,US,10,Downhill
-2016-01-30,Klemen Kosi,SK,14,Super G
+2016-01-30,Klemen Kosi,SK,14,Combined
 2016-01-30,Arnaud Alessandria,MC,0,Combined
 2016-01-30,Mattia Casse,IT,25,Super G
 2016-01-30,Brice Roger,FR,12,Downhill
@@ -642,7 +642,7 @@ date,name,ath_country,value,specialty
 2016-01-30,Martin Khuber,KZ,0,Combined
 2016-01-30,Jared Goldberg,US,15,Combined
 2016-01-30,Erik Guay,CA,137,Downhill
-2016-01-30,Bryce Bennett,US,42,Downhill
+2016-01-30,Bryce Bennett,US,42,Combined
 2016-01-30,Marc Oliveras,AD,0,Combined
 2016-01-30,Aksel-Lund Svindal,NO,436,Downhill
 2016-01-30,Urs Kryenbuehl,CH,6,Downhill
@@ -673,7 +673,7 @@ date,name,ath_country,value,specialty
 2016-01-30,Florian Scheiber,AT,0,Combined
 2016-02-06,Martin Khuber,KZ,0,Combined
 2016-02-06,Pavel Trikhichev,RU,0,Combined
-2016-02-06,Bryce Bennett,US,42,Downhill
+2016-02-06,Bryce Bennett,US,42,Combined
 2016-02-06,Andreas Zampa,SK,0,Combined
 2016-02-06,Othmar Striedinger,AT,118,Downhill
 2016-02-06,Dominik Paris,IT,232,Downhill
@@ -754,7 +754,7 @@ date,name,ath_country,value,specialty
 2016-02-06,Manuel Osborne-Paradis,CA,49,Downhill
 2016-02-06,Andrew Weibrecht,US,125,Super G
 2016-02-06,Andreas Romar,FI,12,Downhill
-2016-02-06,Klemen Kosi,SK,14,Super G
+2016-02-06,Klemen Kosi,SK,14,Combined
 2016-02-06,Brice Roger,FR,12,Downhill
 2016-02-06,Henrik Von Appen,CL,0,Combined
 2016-02-06,Patrick Kueng,CH,44,Downhill
@@ -774,7 +774,7 @@ date,name,ath_country,value,specialty
 2016-02-20,Alexander Koell,SE,0,Combined
 2016-02-20,Thomas Tumler,CH,0,Super G
 2016-02-20,Klaus Brandner,DE,0,Super G
-2016-02-20,Klemen Kosi,SK,14,Super G
+2016-02-20,Klemen Kosi,SK,14,Combined
 2016-02-20,Johannes Kroell,AT,12,Downhill
 2016-02-20,Arnaud Alessandria,MC,0,Combined
 2016-02-20,Max Franz,AT,116,Downhill
@@ -789,7 +789,7 @@ date,name,ath_country,value,specialty
 2016-02-20,Nicolas Raffort,FR,0,Combined
 2016-02-20,Martin Cater,SK,0,Super G
 2016-02-20,Christof Innerhofer,IT,226,Downhill
-2016-02-20,Bryce Bennett,US,42,Downhill
+2016-02-20,Bryce Bennett,US,42,Combined
 2016-02-20,Andreas Romar,FI,12,Downhill
 2016-02-20,Pavel Trikhichev,RU,0,Combined
 2016-02-20,Marcus Vorre,DK,0,Combined
@@ -876,7 +876,7 @@ date,name,ath_country,value,specialty
 2016-03-12,Romed Baumann,AT,177,Downhill
 2016-03-12,Marc Gisin,CH,122,Downhill
 2016-03-12,Max Franz,AT,116,Downhill
-2016-03-12,Bryce Bennett,US,42,Downhill
+2016-03-12,Bryce Bennett,US,42,Combined
 2016-03-12,Vincent Kriechmayr,AT,153,Super G
 2016-03-12,Matteo Marsaglia,IT,55,Downhill
 2016-03-12,Othmar Striedinger,AT,138,Downhill
@@ -938,7 +938,7 @@ date,name,ath_country,value,specialty
 2016-03-12,Michal Klusak,PL,0,Combined
 2016-03-12,Martin Khuber,KZ,0,Combined
 2016-03-12,Morgan Pridy,CA,0,Combined
-2016-03-12,Klemen Kosi,SK,14,Super G
+2016-03-12,Klemen Kosi,SK,14,Combined
 2016-03-12,Fernando Schmed,CH,0,Super G
 2016-03-12,Johannes Kroell,AT,12,Downhill
 2016-03-12,Andreas Romar,FI,12,Downhill
@@ -970,7 +970,7 @@ date,name,ath_country,value,specialty
 2016-03-16,Thomas Biesemeyer,US,0,Super G
 2016-03-16,Marc Gisin,CH,122,Downhill
 2016-03-16,Max Franz,AT,116,Downhill
-2016-03-16,Bryce Bennett,US,42,Downhill
+2016-03-16,Bryce Bennett,US,42,Combined
 2016-03-16,Vincent Kriechmayr,AT,182,Super G
 2016-03-16,Matteo Marsaglia,IT,55,Downhill
 2016-03-16,Othmar Striedinger,AT,151,Downhill
@@ -1009,7 +1009,7 @@ date,name,ath_country,value,specialty
 2016-03-16,Erik Guay,CA,247,Downhill
 2016-03-16,Christof Innerhofer,IT,247,Downhill
 2016-03-16,Bostjan Kline,SK,185,Downhill
-2016-03-16,Klemen Kosi,SK,14,Super G
+2016-03-16,Klemen Kosi,SK,14,Combined
 2016-03-16,Brice Roger,FR,12,Downhill
 2016-03-16,Andreas Romar,FI,12,Downhill
 2016-03-16,Sandro Viletta,CH,0,Super G

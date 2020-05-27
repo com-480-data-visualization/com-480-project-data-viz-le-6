@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 1984-12-07,Doug Lewis,US,0,Downhill
 1984-12-07,Bernd Felbinger,DE,0,Super G
 1984-12-07,Philip Verneret,FR,0,Downhill
-1984-12-07,Andreas Wenzel,LI,1,Slalom
+1984-12-07,Andreas Wenzel,LI,1,Combined
 1984-12-07,Thomas Stangassinger,AT,0,Slalom
 1984-12-07,Giacomo Erlacher,IT,0,Downhill
 1984-12-07,Steven Lee,AU,0,Super G
@@ -41,7 +41,7 @@ date,name,ath_country,value,specialty
 1984-12-07,Daniel Mahrer,CH,0,Downhill
 1984-12-07,Peter Mueller,CH,0,Downhill
 1984-12-07,Bill Johnson,US,0,Downhill
-1984-12-07,Joachim Buchner,AT,0,Giant Slalom
+1984-12-07,Joachim Buchner,AT,0,Combined
 1984-12-17,Jacques Luethy,CH,0,Super G
 1984-12-17,Daniel Mahrer,CH,0,Downhill
 1984-12-17,Alberto Ghidoni,IT,0,Downhill
@@ -71,14 +71,14 @@ date,name,ath_country,value,specialty
 1984-12-17,Frank Piccard,FR,2,Combined
 1984-12-17,Hans Stuffer,DE,0,Super G
 1984-12-17,Joel Gaspoz,CH,2,Giant Slalom
-1984-12-17,Joachim Buchner,AT,0,Giant Slalom
+1984-12-17,Joachim Buchner,AT,0,Combined
 1984-12-17,Pirmin Zurbriggen,CH,45,Downhill
 1984-12-17,Karl Alpiger,CH,0,Downhill
 1984-12-17,Rudolf Huber,AT,0,Downhill
 1984-12-17,Philip Verneret,FR,0,Downhill
 1984-12-17,Bernd Felbinger,DE,0,Super G
 1984-12-17,Markus Wasmeier,DE,16,Combined
-1984-12-17,Andreas Wenzel,LI,11,Slalom
+1984-12-17,Andreas Wenzel,LI,11,Combined
 1984-12-17,Franz Heinzer,CH,0,Downhill
 1984-12-17,Hans Enn,AT,21,Giant Slalom
 1984-12-17,Peter Roth,DE,10,Super G
@@ -105,7 +105,7 @@ date,name,ath_country,value,specialty
 1985-01-27,Joel Gaspoz,CH,2,Giant Slalom
 1985-01-27,Frank Piccard,FR,2,Combined
 1985-01-27,Rok Petrovic,SK,0,Slalom
-1985-01-27,Joachim Buchner,AT,3,Giant Slalom
+1985-01-27,Joachim Buchner,AT,3,Combined
 1985-01-27,Richard Pramotton,IT,12,Giant Slalom
 1985-01-27,Markus Wasmeier,DE,16,Combined
 1985-01-27,Hans Enn,AT,21,Giant Slalom
@@ -118,7 +118,7 @@ date,name,ath_country,value,specialty
 1985-01-27,Michael Eder,DE,15,Super G
 1985-01-27,Robert Erlacher,IT,13,Giant Slalom
 1985-01-27,Michael Mair,IT,0,Downhill
-1985-01-27,Andreas Wenzel,LI,31,Slalom
+1985-01-27,Andreas Wenzel,LI,31,Combined
 1985-01-27,Hubert Strolz,AT,0,Giant Slalom
 1985-01-27,Thomas Buergler,CH,29,Giant Slalom
 1985-01-27,Peter Luescher,CH,12,Downhill
@@ -137,7 +137,7 @@ date,name,ath_country,value,specialty
 1985-03-03,Brian Stemmle,CA,15,Super G
 1985-03-03,Hans Stuffer,DE,15,Super G
 1985-03-03,Bill Johnson,US,3,Downhill
-1985-03-03,Joachim Buchner,AT,3,Giant Slalom
+1985-03-03,Joachim Buchner,AT,3,Combined
 1985-03-03,Martin Hangl,CH,15,Giant Slalom
 1985-03-03,Giacomo Erlacher,IT,8,Downhill
 1985-03-03,Steven Lee,AU,25,Super G
@@ -148,7 +148,7 @@ date,name,ath_country,value,specialty
 1985-03-03,Robert Erlacher,IT,13,Giant Slalom
 1985-03-03,Peter Mueller,CH,4,Downhill
 1985-03-03,Philip Verneret,FR,1,Downhill
-1985-03-03,Andreas Wenzel,LI,31,Slalom
+1985-03-03,Andreas Wenzel,LI,31,Combined
 1985-03-03,Daniel Mahrer,CH,25,Downhill
 1985-03-03,Marc Girardelli,LU,70,Slalom
 1985-03-03,Joel Gaspoz,CH,2,Giant Slalom
@@ -178,7 +178,7 @@ date,name,ath_country,value,specialty
 1985-03-17,Alberto Ghidoni,IT,5,Downhill
 1985-03-17,Sepp Wildgruber,DE,9,Downhill
 1985-03-17,Steven Lee,AU,25,Super G
-1985-03-17,Andreas Wenzel,LI,31,Slalom
+1985-03-17,Andreas Wenzel,LI,31,Combined
 1985-03-17,Peter Roth,DE,31,Super G
 1985-03-17,Giacomo Erlacher,IT,8,Downhill
 1985-03-17,Franz Heinzer,CH,9,Downhill
@@ -187,7 +187,7 @@ date,name,ath_country,value,specialty
 1985-03-17,Karl Alpiger,CH,10,Downhill
 1985-03-17,Richard Pramotton,IT,14,Giant Slalom
 1985-03-17,Pirmin Zurbriggen,CH,70,Downhill
-1985-03-17,Joachim Buchner,AT,3,Giant Slalom
+1985-03-17,Joachim Buchner,AT,3,Combined
 1985-03-17,Rok Petrovic,SK,7,Slalom
 1985-03-17,Doug Lewis,US,2,Downhill
 1985-03-17,Peter Mueller,CH,4,Downhill

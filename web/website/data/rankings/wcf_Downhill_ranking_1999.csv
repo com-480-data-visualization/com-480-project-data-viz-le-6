@@ -1,9 +1,9 @@
 date,name,ath_country,value,specialty
 1998-11-27,Renate Goetschl,AT,100,Downhill
-1998-11-27,Mojca Suhadolc,SK,0,Downhill
+1998-11-27,Mojca Suhadolc,SK,0,Super G
 1998-11-27,Kristine Kristiansen,NO,0,Super G
 1998-11-27,Nadia Styger,CH,0,Downhill
-1998-11-27,Karin Blaser,AT,22,Downhill
+1998-11-27,Karin Blaser,AT,22,Super G
 1998-11-27,Patrizia Bassis,IT,14,Downhill
 1998-11-27,Selina Heregger,AT,0,Downhill
 1998-11-27,Sylviane Berthod,CH,0,Super G
@@ -37,7 +37,7 @@ date,name,ath_country,value,specialty
 1998-11-27,Petra Haltmayr,DE,0,Super G
 1998-11-27,Lucia Recchia,IT,0,Downhill
 1998-11-27,Jeanette Collenberg,CH,0,Downhill
-1998-11-27,Alessandra Merlin,IT,0,Downhill
+1998-11-27,Alessandra Merlin,IT,0,Super G
 1998-11-27,Jonna Mendes,US,5,Super G
 1998-11-27,Kirsten L Clark,US,0,Downhill
 1998-11-27,Monika Tschirky,CH,0,Super G
@@ -51,8 +51,8 @@ date,name,ath_country,value,specialty
 1998-11-27,Catherine Borghi,CH,0,Combined
 1998-11-27,Hilde Gerg,DE,29,Downhill
 1998-11-27,Isolde Kostner,IT,80,Downhill
-1998-11-27,Corinne Rey Bellet,CH,9,Downhill
-1998-11-27,Regine Cavagnoud,FR,32,Downhill
+1998-11-27,Corinne Rey Bellet,CH,9,Super G
+1998-11-27,Regine Cavagnoud,FR,32,Super G
 1998-11-27,Alexandra Meissnitzer,AT,60,Giant Slalom
 1998-11-28,Spela Bracun,SK,15,Downhill
 1998-11-28,Janica Kostelic,HR,0,Giant Slalom
@@ -67,7 +67,7 @@ date,name,ath_country,value,specialty
 1998-11-28,Hilde Gerg,DE,49,Downhill
 1998-11-28,Daniela Ceccarelli,IT,7,Super G
 1998-11-28,Melanie Turgeon,CA,14,Downhill
-1998-11-28,Mojca Suhadolc,SK,18,Downhill
+1998-11-28,Mojca Suhadolc,SK,18,Super G
 1998-11-28,Catherine Borghi,CH,0,Combined
 1998-11-28,Monika Tschirky,CH,0,Super G
 1998-11-28,Melanie Suchet,FR,21,Downhill
@@ -77,12 +77,12 @@ date,name,ath_country,value,specialty
 1998-11-28,Stefanie Schuster,AT,44,Super G
 1998-11-28,Sylviane Berthod,CH,12,Super G
 1998-11-28,Brigitte Obermoser,AT,61,Downhill
-1998-11-28,Corinne Rey Bellet,CH,20,Downhill
+1998-11-28,Corinne Rey Bellet,CH,20,Super G
 1998-11-28,Selina Heregger,AT,0,Downhill
 1998-11-28,Patrizia Bassis,IT,36,Downhill
 1998-11-28,Trude Gimle,NO,60,Downhill
-1998-11-28,Karin Blaser,AT,46,Downhill
-1998-11-28,Regine Cavagnoud,FR,61,Downhill
+1998-11-28,Karin Blaser,AT,46,Super G
+1998-11-28,Regine Cavagnoud,FR,61,Super G
 1998-11-28,Nadia Styger,CH,0,Downhill
 1998-11-28,Florence Masnada,FR,40,Downhill
 1998-11-28,Kristine Kristiansen,NO,0,Super G
@@ -108,7 +108,7 @@ date,name,ath_country,value,specialty
 1998-11-28,Regina Haeusl,DE,96,Downhill
 1998-11-28,Ingeborg H. Marken,NO,42,Downhill
 1998-11-28,Jeanette Collenberg,CH,0,Downhill
-1998-11-28,Alessandra Merlin,IT,0,Downhill
+1998-11-28,Alessandra Merlin,IT,0,Super G
 1998-12-18,Patrizia Bassis,IT,52,Downhill
 1998-12-18,Selina Heregger,AT,0,Downhill
 1998-12-18,Nathalie Robert,FR,1,Downhill
@@ -117,10 +117,10 @@ date,name,ath_country,value,specialty
 1998-12-18,Sylviane Berthod,CH,41,Super G
 1998-12-18,Stefanie Schuster,AT,44,Super G
 1998-12-18,Alexandra Meissnitzer,AT,155,Giant Slalom
-1998-12-18,Alessandra Merlin,IT,5,Downhill
+1998-12-18,Alessandra Merlin,IT,5,Super G
 1998-12-18,Tanja Schneider,AT,0,Super G
 1998-12-18,Megan Gerety,US,46,Downhill
-1998-12-18,Corinne Rey Bellet,CH,20,Downhill
+1998-12-18,Corinne Rey Bellet,CH,20,Super G
 1998-12-18,Sibylle Brauner,DE,20,Super G
 1998-12-18,Jonna Mendes,US,11,Super G
 1998-12-18,Marianna Salchinger,AT,25,Downhill
@@ -140,7 +140,7 @@ date,name,ath_country,value,specialty
 1998-12-18,Grete Stroem,NO,3,Super G
 1998-12-18,Marianne Brechu,FR,12,Downhill
 1998-12-18,Spela Bracun,SK,28,Downhill
-1998-12-18,Mojca Suhadolc,SK,26,Downhill
+1998-12-18,Mojca Suhadolc,SK,26,Super G
 1998-12-18,Melanie Suchet,FR,31,Downhill
 1998-12-18,Kristine Kristiansen,NO,0,Super G
 1998-12-18,Kirsten L Clark,US,5,Downhill
@@ -149,7 +149,7 @@ date,name,ath_country,value,specialty
 1998-12-18,Doris Goetzenbrucker,AT,0,Downhill
 1998-12-18,Nadia Styger,CH,0,Downhill
 1998-12-18,Jeanette Collenberg,CH,0,Downhill
-1998-12-18,Karin Blaser,AT,46,Downhill
+1998-12-18,Karin Blaser,AT,46,Super G
 1998-12-18,Renate Goetschl,AT,218,Downhill
 1998-12-18,Isolde Kostner,IT,180,Downhill
 1998-12-18,Pernilla Wiberg,SE,80,Slalom
@@ -162,7 +162,7 @@ date,name,ath_country,value,specialty
 1998-12-18,Trude Gimle,NO,92,Downhill
 1998-12-18,Michaela Dorfmeister,AT,116,Downhill
 1998-12-18,Brigitte Obermoser,AT,72,Downhill
-1998-12-18,Regine Cavagnoud,FR,106,Downhill
+1998-12-18,Regine Cavagnoud,FR,106,Super G
 1998-12-18,Ingeborg H. Marken,NO,64,Downhill
 1998-12-19,Nathalie Robert,FR,1,Downhill
 1998-12-19,Kirsten L Clark,US,5,Downhill
@@ -175,7 +175,7 @@ date,name,ath_country,value,specialty
 1998-12-19,Kristine Kristiansen,NO,0,Super G
 1998-12-19,Doris Goetzenbrucker,AT,0,Downhill
 1998-12-19,Regina Haeusl,DE,158,Downhill
-1998-12-19,Mojca Suhadolc,SK,36,Downhill
+1998-12-19,Mojca Suhadolc,SK,36,Super G
 1998-12-19,Trude Gimle,NO,105,Downhill
 1998-12-19,Patrizia Bassis,IT,68,Downhill
 1998-12-19,Ingeborg H. Marken,NO,88,Downhill
@@ -186,11 +186,11 @@ date,name,ath_country,value,specialty
 1998-12-19,Renate Goetschl,AT,278,Downhill
 1998-12-19,Marlies Oester,CH,8,Slalom
 1998-12-19,Alexandra Meissnitzer,AT,255,Giant Slalom
-1998-12-19,Karin Blaser,AT,46,Downhill
+1998-12-19,Karin Blaser,AT,46,Super G
 1998-12-19,Daniela Ceccarelli,IT,14,Super G
 1998-12-19,Catherine Borghi,CH,36,Combined
 1998-12-19,Tonje Norheim,NO,4,Downhill
-1998-12-19,Corinne Rey Bellet,CH,70,Downhill
+1998-12-19,Corinne Rey Bellet,CH,70,Super G
 1998-12-19,Caroline Lalive,US,1,Giant Slalom
 1998-12-19,Bibiana Perez,IT,96,Downhill
 1998-12-19,Jonna Mendes,US,11,Super G
@@ -204,7 +204,7 @@ date,name,ath_country,value,specialty
 1998-12-19,Kathleen Monahan,US,26,Super G
 1998-12-19,Marianne Brechu,FR,18,Downhill
 1998-12-19,Hilde Gerg,DE,189,Downhill
-1998-12-19,Alessandra Merlin,IT,6,Downhill
+1998-12-19,Alessandra Merlin,IT,6,Super G
 1998-12-19,Elisabeth Brandner,DE,0,Downhill
 1998-12-19,Lucia Recchia,IT,4,Downhill
 1998-12-19,Janica Kostelic,HR,3,Giant Slalom
@@ -216,7 +216,7 @@ date,name,ath_country,value,specialty
 1998-12-19,Spela Bracun,SK,43,Downhill
 1998-12-19,Tanja Schneider,AT,0,Super G
 1998-12-19,Stefanie Schuster,AT,44,Super G
-1998-12-19,Regine Cavagnoud,FR,186,Downhill
+1998-12-19,Regine Cavagnoud,FR,186,Super G
 1998-12-19,Brigitte Obermoser,AT,76,Downhill
 1998-12-19,Jeanette Collenberg,CH,0,Downhill
 1999-01-16,Janica Kostelic,HR,3,Giant Slalom
@@ -229,13 +229,13 @@ date,name,ath_country,value,specialty
 1999-01-16,Doris Goetzenbrucker,AT,0,Downhill
 1999-01-16,Marianne Brechu,FR,22,Downhill
 1999-01-16,Celine Daetwyler,CH,11,Downhill
-1999-01-16,Corinne Rey Bellet,CH,170,Downhill
+1999-01-16,Corinne Rey Bellet,CH,170,Super G
 1999-01-16,Tonje Norheim,NO,4,Downhill
 1999-01-16,Kathleen Monahan,US,26,Super G
 1999-01-16,Nathalie Robert,FR,1,Downhill
 1999-01-16,Elisabeth Brandner,DE,0,Downhill
 1999-01-16,Renate Goetschl,AT,328,Downhill
-1999-01-16,Mojca Suhadolc,SK,44,Downhill
+1999-01-16,Mojca Suhadolc,SK,44,Super G
 1999-01-16,Melanie Turgeon,CA,72,Downhill
 1999-01-16,Paola Mosca Barberis,IT,2,Downhill
 1999-01-16,Kristine Kristiansen,NO,2,Super G
@@ -248,7 +248,7 @@ date,name,ath_country,value,specialty
 1999-01-16,Megan Gerety,US,52,Downhill
 1999-01-16,Hilde Gerg,DE,249,Downhill
 1999-01-16,Carole Montillet,FR,118,Downhill
-1999-01-16,Alessandra Merlin,IT,11,Downhill
+1999-01-16,Alessandra Merlin,IT,11,Super G
 1999-01-16,Tanja Schneider,AT,13,Super G
 1999-01-16,Lucia Recchia,IT,4,Downhill
 1999-01-16,Sibylle Brauner,DE,67,Super G
@@ -272,8 +272,8 @@ date,name,ath_country,value,specialty
 1999-01-16,Caroline Lalive,US,1,Giant Slalom
 1999-01-16,Selina Heregger,AT,0,Downhill
 1999-01-16,Kirsten L Clark,US,12,Downhill
-1999-01-16,Regine Cavagnoud,FR,195,Downhill
-1999-01-16,Karin Blaser,AT,70,Downhill
+1999-01-16,Regine Cavagnoud,FR,195,Super G
+1999-01-16,Karin Blaser,AT,70,Super G
 1999-01-21,Paola Mosca Barberis,IT,2,Downhill
 1999-01-21,Lucia Recchia,IT,4,Downhill
 1999-01-21,Grete Stroem,NO,3,Super G
@@ -285,7 +285,7 @@ date,name,ath_country,value,specialty
 1999-01-21,Jeanette Collenberg,CH,0,Downhill
 1999-01-21,Kirsten L Clark,US,13,Downhill
 1999-01-21,Isolde Kostner,IT,287,Downhill
-1999-01-21,Alessandra Merlin,IT,17,Downhill
+1999-01-21,Alessandra Merlin,IT,17,Super G
 1999-01-21,Renate Goetschl,AT,360,Downhill
 1999-01-21,Doris Goetzenbrucker,AT,0,Downhill
 1999-01-21,Celine Daetwyler,CH,15,Downhill
@@ -306,11 +306,11 @@ date,name,ath_country,value,specialty
 1999-01-21,Catherine Borghi,CH,63,Combined
 1999-01-21,Nadia Styger,CH,0,Downhill
 1999-01-21,Caroline Lalive,US,1,Giant Slalom
-1999-01-21,Karin Blaser,AT,70,Downhill
+1999-01-21,Karin Blaser,AT,70,Super G
 1999-01-21,Patrizia Bassis,IT,86,Downhill
 1999-01-21,Trude Gimle,NO,130,Downhill
 1999-01-21,Selina Heregger,AT,0,Downhill
-1999-01-21,Mojca Suhadolc,SK,60,Downhill
+1999-01-21,Mojca Suhadolc,SK,60,Super G
 1999-01-21,Christiane Mitterwallner,AT,1,Super G
 1999-01-21,Pernilla Wiberg,SE,149,Slalom
 1999-01-21,Stefanie Schuster,AT,44,Super G
@@ -319,12 +319,12 @@ date,name,ath_country,value,specialty
 1999-01-21,Brigitte Obermoser,AT,96,Downhill
 1999-01-21,Sibylle Brauner,DE,78,Super G
 1999-01-21,Marianna Salchinger,AT,42,Downhill
-1999-01-21,Regine Cavagnoud,FR,295,Downhill
+1999-01-21,Regine Cavagnoud,FR,295,Super G
 1999-01-21,Veronika Thanner,AT,0,Downhill
 1999-01-21,Melanie Suchet,FR,49,Downhill
 1999-01-21,Sylviane Berthod,CH,79,Super G
 1999-01-21,Alexandra Meissnitzer,AT,308,Giant Slalom
-1999-01-21,Corinne Rey Bellet,CH,215,Downhill
+1999-01-21,Corinne Rey Bellet,CH,215,Super G
 1999-01-21,Marianne Brechu,FR,30,Downhill
 1999-01-21,Elisabeth Brandner,DE,0,Downhill
 1999-01-21,Spela Bracun,SK,50,Downhill
@@ -344,7 +344,7 @@ date,name,ath_country,value,specialty
 1999-02-27,Melanie Turgeon,CA,92,Downhill
 1999-02-27,Megan Gerety,US,77,Downhill
 1999-02-27,Tanja Schneider,AT,13,Super G
-1999-02-27,Alessandra Merlin,IT,21,Downhill
+1999-02-27,Alessandra Merlin,IT,21,Super G
 1999-02-27,Sibylle Brauner,DE,78,Super G
 1999-02-27,Carole Montillet,FR,157,Downhill
 1999-02-27,Isolde Kostner,IT,287,Downhill
@@ -360,7 +360,7 @@ date,name,ath_country,value,specialty
 1999-02-27,Trude Gimle,NO,130,Downhill
 1999-02-27,Melanie Suchet,FR,94,Downhill
 1999-02-27,Selina Heregger,AT,0,Downhill
-1999-02-27,Mojca Suhadolc,SK,73,Downhill
+1999-02-27,Mojca Suhadolc,SK,73,Super G
 1999-02-27,Nathalie Robert,FR,1,Downhill
 1999-02-27,Spela Bracun,SK,66,Downhill
 1999-02-27,Kristine Kristiansen,NO,17,Super G
@@ -376,13 +376,13 @@ date,name,ath_country,value,specialty
 1999-02-27,Grete Stroem,NO,3,Super G
 1999-02-27,Monika Tschirky,CH,7,Super G
 1999-02-27,Pernilla Wiberg,SE,164,Slalom
-1999-02-27,Karin Blaser,AT,77,Downhill
+1999-02-27,Karin Blaser,AT,77,Super G
 1999-02-27,Caroline Lalive,US,1,Giant Slalom
 1999-02-27,Patrizia Bassis,IT,112,Downhill
 1999-02-27,Daniela Ceccarelli,IT,14,Super G
-1999-02-27,Regine Cavagnoud,FR,295,Downhill
+1999-02-27,Regine Cavagnoud,FR,295,Super G
 1999-02-27,Celine Daetwyler,CH,20,Downhill
-1999-02-27,Corinne Rey Bellet,CH,233,Downhill
+1999-02-27,Corinne Rey Bellet,CH,233,Super G
 1999-02-27,Elisabeth Brandner,DE,0,Downhill
 1999-03-05,Michaela Dorfmeister,AT,414,Downhill
 1999-03-05,Renate Goetschl,AT,560,Downhill
@@ -403,11 +403,11 @@ date,name,ath_country,value,specialty
 1999-03-05,Kristine Kristiansen,NO,37,Super G
 1999-03-05,Celine Daetwyler,CH,21,Downhill
 1999-03-05,Sylviane Berthod,CH,126,Super G
-1999-03-05,Regine Cavagnoud,FR,295,Downhill
+1999-03-05,Regine Cavagnoud,FR,295,Super G
 1999-03-05,Selina Heregger,AT,32,Downhill
 1999-03-05,Kathleen Monahan,US,37,Super G
 1999-03-05,Melanie Turgeon,CA,97,Downhill
-1999-03-05,Corinne Rey Bellet,CH,251,Downhill
+1999-03-05,Corinne Rey Bellet,CH,251,Super G
 1999-03-05,Ingrid Jacquemod,FR,10,Super G
 1999-03-05,Janica Kostelic,HR,3,Giant Slalom
 1999-03-05,Patrizia Bassis,IT,134,Downhill
@@ -416,15 +416,15 @@ date,name,ath_country,value,specialty
 1999-03-05,Martina Ertl,DE,181,Super G
 1999-03-05,Trude Gimle,NO,146,Downhill
 1999-03-05,Spela Bracun,SK,66,Downhill
-1999-03-05,Karin Blaser,AT,91,Downhill
+1999-03-05,Karin Blaser,AT,91,Super G
 1999-03-05,Nadia Styger,CH,35,Downhill
-1999-03-05,Mojca Suhadolc,SK,73,Downhill
+1999-03-05,Mojca Suhadolc,SK,73,Super G
 1999-03-05,Florence Masnada,FR,271,Downhill
 1999-03-05,Catherine Borghi,CH,63,Combined
 1999-03-05,Brigitte Obermoser,AT,158,Downhill
 1999-03-05,Bibiana Perez,IT,122,Downhill
 1999-03-05,Doris Goetzenbrucker,AT,9,Downhill
-1999-03-05,Alessandra Merlin,IT,21,Downhill
+1999-03-05,Alessandra Merlin,IT,21,Super G
 1999-03-05,Jonna Mendes,US,11,Super G
 1999-03-05,Marlies Oester,CH,8,Slalom
 1999-03-05,Marianna Salchinger,AT,96,Downhill
@@ -441,11 +441,11 @@ date,name,ath_country,value,specialty
 1999-03-05,Carole Montillet,FR,186,Downhill
 1999-03-10,Melanie Suchet,FR,105,Downhill
 1999-03-10,Nadia Styger,CH,35,Downhill
-1999-03-10,Karin Blaser,AT,91,Downhill
+1999-03-10,Karin Blaser,AT,91,Super G
 1999-03-10,Veronika Thanner,AT,13,Downhill
 1999-03-10,Marianna Salchinger,AT,110,Downhill
 1999-03-10,Stefanie Schuster,AT,44,Super G
-1999-03-10,Corinne Rey Bellet,CH,264,Downhill
+1999-03-10,Corinne Rey Bellet,CH,264,Super G
 1999-03-10,Carole Montillet,FR,212,Downhill
 1999-03-10,Patrizia Bassis,IT,152,Downhill
 1999-03-10,Selina Heregger,AT,32,Downhill
@@ -462,7 +462,7 @@ date,name,ath_country,value,specialty
 1999-03-10,Florence Masnada,FR,316,Downhill
 1999-03-10,Grete Stroem,NO,3,Super G
 1999-03-10,Marlies Oester,CH,8,Slalom
-1999-03-10,Regine Cavagnoud,FR,295,Downhill
+1999-03-10,Regine Cavagnoud,FR,295,Super G
 1999-03-10,Bibiana Perez,IT,134,Downhill
 1999-03-10,Daniela Ceccarelli,IT,14,Super G
 1999-03-10,Ingeborg H. Marken,NO,247,Downhill
@@ -473,13 +473,13 @@ date,name,ath_country,value,specialty
 1999-03-10,Regina Haeusl,DE,330,Downhill
 1999-03-10,Jonna Mendes,US,11,Super G
 1999-03-10,Lucia Recchia,IT,7,Downhill
-1999-03-10,Alessandra Merlin,IT,21,Downhill
+1999-03-10,Alessandra Merlin,IT,21,Super G
 1999-03-10,Petra Haltmayr,DE,4,Super G
 1999-03-10,Nathalie Robert,FR,1,Downhill
 1999-03-10,Michaela Dorfmeister,AT,454,Downhill
 1999-03-10,Alexandra Meissnitzer,AT,468,Giant Slalom
 1999-03-10,Kristine Kristiansen,NO,37,Super G
-1999-03-10,Mojca Suhadolc,SK,91,Downhill
+1999-03-10,Mojca Suhadolc,SK,91,Super G
 1999-03-10,Pernilla Wiberg,SE,164,Slalom
 1999-03-10,Isolde Kostner,IT,371,Downhill
 1999-03-10,Elisabeth Brandner,DE,2,Downhill

@@ -1,2481 +1,2161 @@
 date,name,ath_country,value,specialty
 1982-12-07,Doris De Agostini,CH,25,Downhill
-1982-12-07,Maria Walliser,CH,15,Downhill
-1982-12-07,Anja Zavadlav,,0,Slalom
-1982-12-07,Elena Medzihradska,SK,0,Giant Slalom
-1982-12-07,Huberta Wolf,AT,5,Downhill
-1982-12-07,Claudia Riedl,AT,0,Giant Slalom
-1982-12-07,Olga Charvatova,SK,0,Slalom
-1982-12-07,Brigitte Nansoz,CH,0,Slalom
-1982-12-07,Karin Buder,AT,0,Slalom
-1982-12-07,Elisabeth Kirchler,AT,10,Downhill
-1982-12-07,Lorena Frigo,IT,0,Slalom
-1982-12-07,Blanca Fernandez Ochoa,ES,0,Giant Slalom
-1982-12-07,Maria Rosa Quario,IT,0,Slalom
-1982-12-07,Holly Beth Flanders,US,0,Downhill
-1982-12-07,Sylvia Eder,AT,8,Downhill
-1982-12-07,Ivana Valesova,SK,0,Combined
-1982-12-07,Karen Stemmle,CA,0,Downhill
-1982-12-07,Marina Kiehl,DE,0,Combined
-1982-12-07,Christa Kinshofer,DE,0,Slalom
-1982-12-07,Heidi Preuss,US,0,Giant Slalom
-1982-12-07,Myriam Difant,FR,0,Combined
+1982-12-07,Roswitha Steiner,AT,0,Slalom
 1982-12-07,Caroline Attia,FR,4,Downhill
-1982-12-07,Katharina Gutensohn,AT,0,Combined
-1982-12-07,Eva Twardokens,US,0,Combined
-1982-12-07,Paola Toniolli,IT,0,Slalom
-1982-12-07,Anni Kronbichler,AT,0,Slalom
-1982-12-07,Irene Epple,DE,6,Super G
-1982-12-07,Diana Haight,CA,3,Downhill
-1982-12-07,Elisabeth Warter,AT,0,Downhill
-1982-12-07,Ida Ladstaetter,AT,0,Slalom
-1982-12-07,Cindy Nelson,US,1,Giant Slalom
-1982-12-07,Veronique Robin,CH,0,Combined
-1982-12-07,Fulvia Stevenin,IT,0,Slalom
-1982-12-07,Andreja Leskovsek,,0,Slalom
+1982-12-07,Helene Barbier,FR,0,Giant Slalom
+1982-12-07,Rosi Aschenwald,AT,0,Slalom
+1982-12-07,Brigitte Nansoz,CH,0,Slalom
+1982-12-07,Lea Soelkner,AT,20,Downhill
+1982-12-07,Myriam Difant,FR,0,Combined
+1982-12-07,Claudine Emonet,FR,0,Downhill
 1982-12-07,Tamara McKinney,US,0,Giant Slalom
-1982-12-07,Laurie Graham,CA,10,Downhill
-1982-12-07,Paoletta Magoni,IT,0,Slalom
-1982-12-07,Michela Figini,CH,0,Giant Slalom
-1982-12-07,Ariane Ehrat,CH,0,Downhill
-1982-12-07,Dorota Tlalka,PL,0,Slalom
+1982-12-07,Karin Buder,AT,0,Slalom
+1982-12-07,Monika Hess,CH,0,Slalom
 1982-12-07,Perrine Pelen,FR,0,Slalom
+1982-12-07,Marina Kiehl,DE,0,Combined
+1982-12-07,Eva Grabowska,PL,0,Slalom
+1982-12-07,Katharina Gutensohn,AT,0,Combined
+1982-12-07,Zoe Haas,CH,2,Super G
+1982-12-07,Sieglinde Winkler,AT,0,Downhill
+1982-12-07,Elisabeth Chaud,FR,11,Downhill
+1982-12-07,Brigitte Oertli,CH,0,Combined
+1982-12-07,Eva Twardokens,US,0,Combined
+1982-12-07,Christa Kinshofer,DE,0,Slalom
+1982-12-07,Malgorzata Tlalka,PL,0,Slalom
+1982-12-07,Elisabeth Kirchler,AT,10,Downhill
+1982-12-07,Maria Maricich,US,0,Downhill
+1982-12-07,Catherine Quittet,FR,0,Downhill
+1982-12-07,Heidi Preuss,US,0,Giant Slalom
+1982-12-07,Fulvia Stevenin,IT,0,Slalom
+1982-12-07,Daniela Zini,IT,0,Slalom
+1982-12-07,Liisa Savijarvi,CA,0,Downhill
+1982-12-07,Sigrid Wolf,AT,0,Downhill
+1982-12-07,Regine Moesenlechner,DE,0,Downhill
+1982-12-07,Cindy Nelson,US,1,Giant Slalom
+1982-12-07,Irene Epple,DE,6,Combined
+1982-12-07,Paoletta Magoni,IT,0,Slalom
+1982-12-07,Huberta Wolf,AT,5,Downhill
+1982-12-07,Anni Kronbichler,AT,0,Slalom
+1982-12-07,Claudia Riedl,AT,0,Giant Slalom
+1982-12-07,Alexandra Marasova,SK,0,Slalom
+1982-12-07,Maria Walliser,CH,15,Downhill
+1982-12-07,Ursula Konzett,LI,0,Slalom
+1982-12-07,Karen Stemmle,CA,0,Downhill
+1982-12-07,Renate Lazak,DE,0,Slalom
+1982-12-07,Debbie Armstrong,US,0,Downhill
+1982-12-07,Olga Charvatova,SK,0,Slalom
+1982-12-07,Elena Medzihradska,SK,0,Giant Slalom
+1982-12-07,Christin Cooper,US,0,Combined
+1982-12-07,Maria Rosa Quario,IT,0,Slalom
+1982-12-07,Sonja Stotz,DE,0,Combined
+1982-12-07,Jana Gantnerova,SK,0,Downhill
+1982-12-07,Hanni Wenzel,LI,0,Slalom
+1982-12-07,Laurie Graham,CA,10,Downhill
+1982-12-07,Francoise Bozon,FR,0,Downhill
+1982-12-07,Anja Zavadlav,,0,Slalom
+1982-12-07,Holly Beth Flanders,US,0,Downhill
+1982-12-07,Anne Flore Rey,FR,0,Giant Slalom
+1982-12-07,Pam Fletcher,US,0,Downhill
+1982-12-07,Petra Wenzel,LI,0,Slalom
+1982-12-07,Fabienne Serrat,FR,0,Giant Slalom
+1982-12-07,Andreja Leskovsek,,0,Slalom
+1982-12-07,Michela Figini,CH,0,Giant Slalom
+1982-12-07,Ida Ladstaetter,AT,0,Slalom
+1982-12-07,Marie Lucie Waldmeier,FR,8,Downhill
+1982-12-07,Lorena Frigo,IT,0,Slalom
+1982-12-07,Veronique Robin,CH,0,Combined
+1982-12-07,Erika Hess,CH,0,Slalom
+1982-12-07,Heidi Wiesler,DE,0,Combined
+1982-12-07,Maria Epple,DE,0,Giant Slalom
+1982-12-07,Diana Haight,CA,3,Downhill
+1982-12-07,Gerry Sorensen,CA,12,Downhill
+1982-12-07,Ivana Valesova,SK,0,Combined
+1982-12-07,Michaela Gerg-Leitner,DE,0,Downhill
+1982-12-07,Dorota Tlalka,PL,0,Slalom
+1982-12-07,Paola Toniolli,IT,0,Slalom
+1982-12-07,Ariane Ehrat,CH,0,Downhill
 1982-12-07,Veronika Vitzthum,AT,0,Downhill
 1982-12-07,Carole Merle,FR,0,Giant Slalom
-1982-12-07,Claudine Emonet,FR,0,Downhill
-1982-12-07,Marie Lucie Waldmeier,FR,8,Downhill
-1982-12-07,Zoe Haas,CH,2,Super G
-1982-12-07,Fabienne Serrat,FR,0,Giant Slalom
-1982-12-07,Maria Epple,DE,0,Giant Slalom
-1982-12-07,Elisabeth Chaud,FR,11,Downhill
-1982-12-07,Christin Cooper,US,0,Giant Slalom
-1982-12-07,Maria Maricich,US,0,Downhill
-1982-12-07,Heidi Wiesler,DE,0,Combined
-1982-12-07,Sigrid Wolf,AT,0,Downhill
-1982-12-07,Gerry Sorensen,CA,12,Downhill
-1982-12-07,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-07,Ursula Konzett,LI,0,Slalom
-1982-12-07,Debbie Armstrong,US,0,Downhill
-1982-12-07,Anne Flore Rey,FR,0,Giant Slalom
-1982-12-07,Jana Gantnerova,SK,0,Downhill
-1982-12-07,Francoise Bozon,FR,0,Downhill
-1982-12-07,Daniela Zini,IT,0,Slalom
-1982-12-07,Catherine Quittet,FR,0,Downhill
-1982-12-07,Roswitha Steiner,AT,0,Slalom
-1982-12-07,Monika Hess,CH,0,Slalom
-1982-12-07,Petra Wenzel,LI,0,Slalom
-1982-12-07,Hanni Wenzel,LI,0,Slalom
-1982-12-07,Sieglinde Winkler,AT,0,Downhill
-1982-12-07,Brigitte Oertli,CH,0,Combined
-1982-12-07,Lea Soelkner,AT,20,Downhill
-1982-12-07,Helene Barbier,FR,0,Giant Slalom
-1982-12-07,Liisa Savijarvi,CA,0,Downhill
-1982-12-07,Eva Grabowska,PL,0,Slalom
-1982-12-07,Malgorzata Tlalka,PL,0,Slalom
-1982-12-07,Rosi Aschenwald,AT,0,Slalom
-1982-12-07,Pam Fletcher,US,0,Downhill
-1982-12-07,Sonja Stotz,DE,0,Combined
-1982-12-07,Renate Lazak,DE,0,Slalom
-1982-12-07,Erika Hess,CH,0,Slalom
-1982-12-07,Alexandra Marasova,SK,0,Slalom
-1982-12-07,Regine Moesenlechner,DE,0,Downhill
-1982-12-08,Maria Walliser,CH,15,Downhill
-1982-12-08,Lea Soelkner,AT,20,Downhill
-1982-12-08,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-08,Elena Medzihradska,SK,0,Giant Slalom
-1982-12-08,Elena Medzihradska,SK,5,Giant Slalom
-1982-12-08,Rosi Aschenwald,AT,0,Slalom
-1982-12-08,Brigitte Oertli,CH,0,Combined
-1982-12-08,Brigitte Oertli,CH,0,Combined
-1982-12-08,Huberta Wolf,AT,5,Downhill
-1982-12-08,Rosi Aschenwald,AT,0,Slalom
-1982-12-08,Sieglinde Winkler,AT,0,Downhill
-1982-12-08,Hanni Wenzel,LI,0,Slalom
-1982-12-08,Claudia Riedl,AT,0,Giant Slalom
-1982-12-08,Olga Charvatova,SK,6,Slalom
-1982-12-08,Claudia Riedl,AT,0,Giant Slalom
-1982-12-08,Erika Hess,CH,0,Slalom
-1982-12-08,Sieglinde Winkler,AT,0,Downhill
-1982-12-08,Petra Wenzel,LI,0,Slalom
-1982-12-08,Huberta Wolf,AT,5,Downhill
-1982-12-08,Lea Soelkner,AT,20,Downhill
+1982-12-07,Sylvia Eder,AT,8,Combined
+1982-12-07,Elisabeth Warter,AT,0,Downhill
+1982-12-07,Blanca Fernandez Ochoa,ES,0,Giant Slalom
+1982-12-08,Dorota Tlalka,PL,0,Slalom
+1982-12-08,Sonja Stotz,DE,0,Combined
+1982-12-08,Laurie Graham,CA,19,Downhill
 1982-12-08,Anja Zavadlav,,0,Slalom
-1982-12-08,Maria Walliser,CH,26,Downhill
-1982-12-08,Ariane Ehrat,CH,0,Downhill
-1982-12-08,Ariane Ehrat,CH,0,Downhill
-1982-12-08,Cindy Nelson,US,8,Giant Slalom
-1982-12-08,Michela Figini,CH,0,Giant Slalom
-1982-12-08,Michela Figini,CH,0,Giant Slalom
-1982-12-08,Christa Kinshofer,DE,0,Slalom
-1982-12-08,Christa Kinshofer,DE,0,Slalom
-1982-12-08,Claudine Emonet,FR,0,Downhill
-1982-12-08,Anni Kronbichler,AT,0,Slalom
-1982-12-08,Anni Kronbichler,AT,0,Slalom
-1982-12-08,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-08,Claudine Emonet,FR,0,Downhill
-1982-12-08,Gerry Sorensen,CA,12,Downhill
-1982-12-08,Marina Kiehl,DE,0,Combined
-1982-12-08,Marina Kiehl,DE,0,Combined
-1982-12-08,Renate Lazak,DE,0,Slalom
-1982-12-08,Brigitte Nansoz,CH,0,Slalom
-1982-12-08,Brigitte Nansoz,CH,0,Slalom
-1982-12-08,Paoletta Magoni,IT,0,Slalom
-1982-12-08,Catherine Quittet,FR,0,Downhill
-1982-12-08,Catherine Quittet,FR,0,Downhill
-1982-12-08,Anja Zavadlav,,0,Slalom
-1982-12-08,Gerry Sorensen,CA,12,Downhill
-1982-12-08,Olga Charvatova,SK,6,Slalom
+1982-12-08,Maria Rosa Quario,IT,0,Slalom
+1982-12-08,Diana Haight,CA,3,Downhill
+1982-12-08,Heidi Wiesler,DE,0,Combined
 1982-12-08,Hanni Wenzel,LI,15,Slalom
-1982-12-08,Petra Wenzel,LI,0,Slalom
-1982-12-08,Maria Rosa Quario,IT,0,Slalom
-1982-12-08,Jana Gantnerova,SK,8,Downhill
-1982-12-08,Alexandra Marasova,SK,0,Slalom
-1982-12-08,Holly Beth Flanders,US,0,Downhill
-1982-12-08,Holly Beth Flanders,US,0,Downhill
-1982-12-08,Jana Gantnerova,SK,8,Downhill
-1982-12-08,Sylvia Eder,AT,8,Downhill
-1982-12-08,Sylvia Eder,AT,8,Downhill
-1982-12-08,Anne Flore Rey,FR,0,Giant Slalom
-1982-12-08,Debbie Armstrong,US,2,Downhill
-1982-12-08,Maria Rosa Quario,IT,0,Slalom
-1982-12-08,Erika Hess,CH,25,Slalom
-1982-12-08,Karen Stemmle,CA,0,Downhill
-1982-12-08,Karen Stemmle,CA,0,Downhill
-1982-12-08,Anne Flore Rey,FR,6,Giant Slalom
-1982-12-08,Laurie Graham,CA,19,Downhill
-1982-12-08,Ursula Konzett,LI,0,Slalom
-1982-12-08,Liisa Savijarvi,CA,0,Downhill
-1982-12-08,Ursula Konzett,LI,9,Slalom
-1982-12-08,Laurie Graham,CA,19,Downhill
-1982-12-08,Sigrid Wolf,AT,0,Downhill
-1982-12-08,Sigrid Wolf,AT,0,Downhill
-1982-12-08,Debbie Armstrong,US,2,Downhill
-1982-12-08,Regine Moesenlechner,DE,0,Downhill
 1982-12-08,Francoise Bozon,FR,0,Downhill
-1982-12-08,Alexandra Marasova,SK,0,Slalom
-1982-12-08,Karin Buder,AT,0,Slalom
-1982-12-08,Karin Buder,AT,0,Slalom
-1982-12-08,Monika Hess,CH,0,Slalom
-1982-12-08,Monika Hess,CH,0,Slalom
-1982-12-08,Ivana Valesova,SK,0,Combined
-1982-12-08,Ivana Valesova,SK,0,Combined
-1982-12-08,Helene Barbier,FR,11,Giant Slalom
-1982-12-08,Helene Barbier,FR,11,Giant Slalom
-1982-12-08,Elisabeth Kirchler,AT,22,Downhill
-1982-12-08,Lorena Frigo,IT,0,Slalom
-1982-12-08,Lorena Frigo,IT,0,Slalom
-1982-12-08,Roswitha Steiner,AT,0,Slalom
-1982-12-08,Elisabeth Kirchler,AT,22,Downhill
-1982-12-08,Roswitha Steiner,AT,0,Slalom
-1982-12-08,Daniela Zini,IT,5,Slalom
-1982-12-08,Blanca Fernandez Ochoa,ES,0,Giant Slalom
-1982-12-08,Regine Moesenlechner,DE,0,Downhill
-1982-12-08,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1982-12-08,Daniela Zini,IT,5,Slalom
-1982-12-08,Eva Grabowska,PL,0,Slalom
-1982-12-08,Eva Grabowska,PL,0,Slalom
-1982-12-08,Francoise Bozon,FR,2,Downhill
-1982-12-08,Malgorzata Tlalka,PL,0,Slalom
-1982-12-08,Fulvia Stevenin,IT,0,Slalom
-1982-12-08,Fulvia Stevenin,IT,0,Slalom
-1982-12-08,Renate Lazak,DE,0,Slalom
-1982-12-08,Zoe Haas,CH,2,Super G
+1982-12-08,Elena Medzihradska,SK,0,Giant Slalom
 1982-12-08,Fabienne Serrat,FR,0,Giant Slalom
-1982-12-08,Paola Toniolli,IT,0,Slalom
-1982-12-08,Paola Toniolli,IT,0,Slalom
-1982-12-08,Zoe Haas,CH,2,Super G
-1982-12-08,Pam Fletcher,US,0,Downhill
-1982-12-08,Pam Fletcher,US,0,Downhill
-1982-12-08,Heidi Wiesler,DE,4,Combined
-1982-12-08,Doris De Agostini,CH,26,Downhill
-1982-12-08,Eva Twardokens,US,0,Combined
-1982-12-08,Irene Epple,DE,16,Super G
-1982-12-08,Heidi Wiesler,DE,4,Combined
-1982-12-08,Andreja Leskovsek,,0,Slalom
-1982-12-08,Marie Lucie Waldmeier,FR,8,Downhill
-1982-12-08,Marie Lucie Waldmeier,FR,8,Downhill
-1982-12-08,Irene Epple,DE,16,Super G
-1982-12-08,Doris De Agostini,CH,26,Downhill
-1982-12-08,Diana Haight,CA,3,Downhill
-1982-12-08,Diana Haight,CA,3,Downhill
-1982-12-08,Andreja Leskovsek,,0,Slalom
-1982-12-08,Eva Twardokens,US,0,Combined
-1982-12-08,Fabienne Serrat,FR,10,Giant Slalom
-1982-12-08,Maria Epple,DE,0,Giant Slalom
-1982-12-08,Malgorzata Tlalka,PL,0,Slalom
-1982-12-08,Tamara McKinney,US,20,Giant Slalom
-1982-12-08,Tamara McKinney,US,20,Giant Slalom
-1982-12-08,Maria Maricich,US,0,Downhill
-1982-12-08,Maria Maricich,US,0,Downhill
-1982-12-08,Heidi Preuss,US,0,Giant Slalom
-1982-12-08,Heidi Preuss,US,0,Giant Slalom
 1982-12-08,Liisa Savijarvi,CA,0,Downhill
-1982-12-08,Elisabeth Chaud,FR,11,Downhill
-1982-12-08,Myriam Difant,FR,0,Combined
-1982-12-08,Myriam Difant,FR,0,Combined
-1982-12-08,Elisabeth Chaud,FR,11,Downhill
-1982-12-08,Christin Cooper,US,0,Giant Slalom
-1982-12-08,Caroline Attia,FR,4,Downhill
-1982-12-08,Caroline Attia,FR,4,Downhill
-1982-12-08,Christin Cooper,US,7,Giant Slalom
-1982-12-08,Maria Epple,DE,8,Giant Slalom
-1982-12-08,Katharina Gutensohn,AT,0,Combined
-1982-12-08,Katharina Gutensohn,AT,0,Combined
+1982-12-08,Jana Gantnerova,SK,0,Downhill
+1982-12-08,Paola Toniolli,IT,0,Slalom
 1982-12-08,Carole Merle,FR,0,Giant Slalom
-1982-12-08,Carole Merle,FR,0,Giant Slalom
+1982-12-08,Regine Moesenlechner,DE,0,Downhill
+1982-12-08,Cindy Nelson,US,1,Giant Slalom
 1982-12-08,Paoletta Magoni,IT,0,Slalom
-1982-12-08,Veronika Vitzthum,AT,0,Downhill
-1982-12-08,Cindy Nelson,US,8,Giant Slalom
-1982-12-08,Ida Ladstaetter,AT,0,Slalom
-1982-12-08,Ida Ladstaetter,AT,0,Slalom
-1982-12-08,Veronique Robin,CH,0,Combined
-1982-12-08,Veronique Robin,CH,0,Combined
-1982-12-08,Veronika Vitzthum,AT,0,Downhill
-1982-12-08,Dorota Tlalka,PL,0,Slalom
-1982-12-08,Dorota Tlalka,PL,0,Slalom
+1982-12-08,Ursula Konzett,LI,9,Slalom
 1982-12-08,Elisabeth Warter,AT,0,Downhill
-1982-12-08,Elisabeth Warter,AT,0,Downhill
-1982-12-08,Perrine Pelen,FR,0,Slalom
+1982-12-08,Anni Kronbichler,AT,0,Slalom
+1982-12-08,Huberta Wolf,AT,5,Downhill
+1982-12-08,Veronika Vitzthum,AT,0,Downhill
+1982-12-08,Marie Lucie Waldmeier,FR,8,Downhill
+1982-12-08,Maria Walliser,CH,26,Downhill
+1982-12-08,Renate Lazak,DE,0,Slalom
+1982-12-08,Ida Ladstaetter,AT,0,Slalom
+1982-12-08,Olga Charvatova,SK,6,Slalom
+1982-12-08,Anne Flore Rey,FR,6,Giant Slalom
+1982-12-08,Debbie Armstrong,US,2,Downhill
+1982-12-08,Heidi Preuss,US,0,Giant Slalom
+1982-12-08,Daniela Zini,IT,0,Slalom
+1982-12-08,Katharina Gutensohn,AT,0,Combined
+1982-12-08,Andreja Leskovsek,,0,Slalom
+1982-12-08,Michaela Gerg-Leitner,DE,0,Downhill
+1982-12-08,Zoe Haas,CH,2,Super G
+1982-12-08,Sieglinde Winkler,AT,0,Downhill
+1982-12-08,Elisabeth Chaud,FR,11,Downhill
+1982-12-08,Brigitte Oertli,CH,0,Combined
+1982-12-08,Eva Twardokens,US,0,Combined
+1982-12-08,Gerry Sorensen,CA,12,Downhill
+1982-12-08,Christa Kinshofer,DE,0,Slalom
+1982-12-08,Malgorzata Tlalka,PL,0,Slalom
+1982-12-08,Sylvia Eder,AT,8,Combined
+1982-12-08,Maria Maricich,US,0,Downhill
+1982-12-08,Catherine Quittet,FR,0,Downhill
+1982-12-08,Fulvia Stevenin,IT,0,Slalom
+1982-12-08,Marina Kiehl,DE,0,Combined
+1982-12-08,Ariane Ehrat,CH,0,Downhill
+1982-12-08,Roswitha Steiner,AT,0,Slalom
+1982-12-08,Helene Barbier,FR,0,Giant Slalom
+1982-12-08,Maria Epple,DE,0,Giant Slalom
+1982-12-08,Brigitte Nansoz,CH,0,Slalom
+1982-12-08,Veronique Robin,CH,0,Combined
+1982-12-08,Lea Soelkner,AT,20,Downhill
+1982-12-08,Myriam Difant,FR,0,Combined
+1982-12-08,Claudine Emonet,FR,0,Downhill
+1982-12-08,Monika Hess,CH,0,Slalom
+1982-12-08,Michela Figini,CH,0,Giant Slalom
+1982-12-08,Petra Wenzel,LI,0,Slalom
+1982-12-08,Sigrid Wolf,AT,0,Downhill
 1982-12-08,Perrine Pelen,FR,3,Slalom
-1982-12-08,Sonja Stotz,DE,0,Combined
-1982-12-08,Sonja Stotz,DE,0,Combined
-1982-12-10,Maria Rosa Quario,IT,12,Slalom
-1982-12-10,Caroline Attia,FR,4,Downhill
-1982-12-10,Holly Beth Flanders,US,0,Downhill
-1982-12-10,Sonja Stotz,DE,0,Combined
-1982-12-10,Maria Epple,DE,18,Giant Slalom
-1982-12-10,Veronique Robin,CH,0,Combined
-1982-12-10,Francoise Bozon,FR,2,Downhill
-1982-12-10,Roswitha Steiner,AT,0,Slalom
-1982-12-10,Katharina Gutensohn,AT,0,Combined
-1982-12-10,Alexandra Marasova,SK,0,Slalom
-1982-12-10,Perrine Pelen,FR,7,Slalom
-1982-12-10,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1982-12-10,Elisabeth Kirchler,AT,22,Downhill
-1982-12-10,Pam Fletcher,US,0,Downhill
+1982-12-08,Caroline Attia,FR,4,Downhill
+1982-12-08,Blanca Fernandez Ochoa,ES,0,Giant Slalom
+1982-12-08,Elisabeth Kirchler,AT,22,Downhill
+1982-12-08,Ivana Valesova,SK,0,Combined
+1982-12-08,Erika Hess,CH,25,Slalom
+1982-12-08,Christin Cooper,US,3,Combined
+1982-12-08,Doris De Agostini,CH,26,Downhill
+1982-12-08,Lorena Frigo,IT,0,Slalom
+1982-12-08,Tamara McKinney,US,20,Giant Slalom
+1982-12-08,Eva Grabowska,PL,0,Slalom
+1982-12-08,Claudia Riedl,AT,0,Giant Slalom
+1982-12-08,Pam Fletcher,US,0,Downhill
+1982-12-08,Irene Epple,DE,16,Combined
+1982-12-08,Holly Beth Flanders,US,0,Downhill
+1982-12-08,Rosi Aschenwald,AT,0,Slalom
+1982-12-08,Karin Buder,AT,0,Slalom
+1982-12-08,Karen Stemmle,CA,0,Downhill
+1982-12-08,Alexandra Marasova,SK,0,Slalom
+1982-12-10,Andreja Leskovsek,,3,Slalom
 1982-12-10,Eva Twardokens,US,0,Combined
-1982-12-10,Lorena Frigo,IT,6,Slalom
-1982-12-10,Eva Grabowska,PL,0,Slalom
-1982-12-10,Claudine Emonet,FR,0,Downhill
-1982-12-10,Liisa Savijarvi,CA,0,Downhill
-1982-12-10,Cindy Nelson,US,8,Giant Slalom
-1982-12-10,Erika Hess,CH,45,Slalom
-1982-12-10,Malgorzata Tlalka,PL,0,Slalom
-1982-12-10,Paoletta Magoni,IT,8,Slalom
-1982-12-10,Ursula Konzett,LI,18,Slalom
-1982-12-10,Laurie Graham,CA,19,Downhill
-1982-12-10,Sigrid Wolf,AT,0,Downhill
-1982-12-10,Debbie Armstrong,US,2,Downhill
-1982-12-10,Heidi Preuss,US,0,Giant Slalom
-1982-12-10,Ariane Ehrat,CH,0,Downhill
-1982-12-10,Dorota Tlalka,PL,1,Slalom
-1982-12-10,Christin Cooper,US,7,Giant Slalom
-1982-12-10,Karen Stemmle,CA,0,Downhill
-1982-12-10,Maria Maricich,US,0,Downhill
-1982-12-10,Elisabeth Chaud,FR,11,Downhill
-1982-12-10,Myriam Difant,FR,0,Combined
-1982-12-10,Sylvia Eder,AT,8,Downhill
-1982-12-10,Anne Flore Rey,FR,6,Giant Slalom
-1982-12-10,Jana Gantnerova,SK,8,Downhill
-1982-12-10,Christa Kinshofer,DE,0,Slalom
-1982-12-10,Regine Moesenlechner,DE,0,Downhill
-1982-12-10,Michela Figini,CH,0,Giant Slalom
-1982-12-10,Daniela Zini,IT,16,Slalom
+1982-12-10,Elisabeth Kirchler,AT,47,Downhill
+1982-12-10,Veronique Robin,CH,0,Combined
 1982-12-10,Veronika Vitzthum,AT,0,Downhill
-1982-12-10,Marina Kiehl,DE,0,Combined
-1982-12-10,Fulvia Stevenin,IT,0,Slalom
-1982-12-10,Tamara McKinney,US,45,Giant Slalom
-1982-12-10,Huberta Wolf,AT,5,Downhill
-1982-12-10,Renate Lazak,DE,0,Slalom
-1982-12-10,Hanni Wenzel,LI,30,Slalom
+1982-12-10,Zoe Haas,CH,2,Super G
 1982-12-10,Olga Charvatova,SK,6,Slalom
-1982-12-10,Brigitte Oertli,CH,2,Combined
-1982-12-10,Brigitte Nansoz,CH,0,Slalom
-1982-12-10,Diana Haight,CA,3,Downhill
-1982-12-10,Elena Medzihradska,SK,5,Giant Slalom
+1982-12-10,Debbie Armstrong,US,7,Downhill
 1982-12-10,Sieglinde Winkler,AT,0,Downhill
 1982-12-10,Doris De Agostini,CH,26,Downhill
-1982-12-10,Anni Kronbichler,AT,7,Slalom
-1982-12-10,Fabienne Serrat,FR,10,Giant Slalom
-1982-12-10,Heidi Wiesler,DE,4,Combined
-1982-12-10,Andreja Leskovsek,,3,Slalom
-1982-12-10,Claudia Riedl,AT,0,Giant Slalom
-1982-12-10,Irene Epple,DE,16,Super G
+1982-12-10,Maria Rosa Quario,IT,12,Slalom
+1982-12-10,Karen Stemmle,CA,0,Downhill
+1982-12-10,Christin Cooper,US,10,Combined
+1982-12-10,Eva Grabowska,PL,0,Slalom
+1982-12-10,Elisabeth Chaud,FR,11,Downhill
 1982-12-10,Marie Lucie Waldmeier,FR,8,Downhill
-1982-12-10,Gerry Sorensen,CA,12,Downhill
-1982-12-10,Karin Buder,AT,0,Slalom
-1982-12-10,Zoe Haas,CH,2,Super G
-1982-12-10,Helene Barbier,FR,11,Giant Slalom
-1982-12-10,Anja Zavadlav,,5,Slalom
+1982-12-10,Michela Figini,CH,0,Giant Slalom
+1982-12-10,Elena Medzihradska,SK,5,Giant Slalom
+1982-12-10,Maria Epple,DE,18,Giant Slalom
+1982-12-10,Perrine Pelen,FR,7,Slalom
+1982-12-10,Erika Hess,CH,60,Slalom
+1982-12-10,Lorena Frigo,IT,6,Slalom
+1982-12-10,Holly Beth Flanders,US,0,Downhill
+1982-12-10,Myriam Difant,FR,0,Combined
+1982-12-10,Anne Flore Rey,FR,6,Giant Slalom
 1982-12-10,Lea Soelkner,AT,20,Downhill
-1982-12-10,Carole Merle,FR,0,Giant Slalom
-1982-12-10,Elisabeth Warter,AT,0,Downhill
-1982-12-10,Monika Hess,CH,0,Slalom
-1982-12-10,Rosi Aschenwald,AT,0,Slalom
-1982-12-10,Maria Walliser,CH,26,Downhill
-1982-12-10,Catherine Quittet,FR,0,Downhill
-1982-12-10,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-10,Paola Toniolli,IT,0,Slalom
-1982-12-10,Ivana Valesova,SK,0,Combined
-1982-12-10,Petra Wenzel,LI,0,Slalom
+1982-12-10,Karin Buder,AT,0,Slalom
+1982-12-10,Anja Zavadlav,,5,Slalom
+1982-12-10,Brigitte Nansoz,CH,0,Slalom
+1982-12-10,Caroline Attia,FR,4,Downhill
+1982-12-10,Diana Haight,CA,3,Downhill
+1982-12-10,Helene Barbier,FR,11,Giant Slalom
+1982-12-10,Daniela Zini,IT,16,Slalom
+1982-12-10,Fabienne Serrat,FR,10,Giant Slalom
+1982-12-10,Roswitha Steiner,AT,0,Slalom
+1982-12-10,Heidi Preuss,US,0,Giant Slalom
 1982-12-10,Ida Ladstaetter,AT,0,Slalom
-1982-12-15,Rosi Aschenwald,AT,0,Slalom
-1982-12-15,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-15,Malgorzata Tlalka,PL,0,Slalom
-1982-12-15,Debbie Armstrong,US,11,Downhill
-1982-12-15,Ariane Ehrat,CH,8,Downhill
-1982-12-15,Brigitte Oertli,CH,9,Combined
-1982-12-15,Maria Maricich,US,0,Downhill
-1982-12-15,Elisabeth Chaud,FR,11,Downhill
-1982-12-15,Dorota Tlalka,PL,1,Slalom
-1982-12-15,Ursula Konzett,LI,18,Slalom
-1982-12-15,Helene Barbier,FR,11,Giant Slalom
-1982-12-15,Veronika Vitzthum,AT,2,Downhill
-1982-12-15,Fabienne Serrat,FR,10,Giant Slalom
-1982-12-15,Zoe Haas,CH,2,Super G
-1982-12-15,Roswitha Steiner,AT,0,Slalom
-1982-12-15,Carole Merle,FR,0,Giant Slalom
-1982-12-15,Monika Hess,CH,0,Slalom
-1982-12-15,Claudine Emonet,FR,20,Downhill
-1982-12-15,Alexandra Marasova,SK,0,Slalom
-1982-12-15,Maria Epple,DE,18,Giant Slalom
-1982-12-15,Michela Figini,CH,0,Giant Slalom
-1982-12-15,Petra Wenzel,LI,0,Slalom
-1982-12-15,Daniela Zini,IT,16,Slalom
-1982-12-15,Francoise Bozon,FR,13,Downhill
-1982-12-15,Pam Fletcher,US,0,Downhill
-1982-12-15,Gerry Sorensen,CA,12,Downhill
-1982-12-15,Heidi Wiesler,DE,19,Combined
-1982-12-15,Catherine Quittet,FR,12,Downhill
-1982-12-15,Jana Gantnerova,SK,18,Downhill
-1982-12-15,Perrine Pelen,FR,7,Slalom
-1982-12-15,Christin Cooper,US,7,Giant Slalom
-1982-12-15,Doris De Agostini,CH,27,Downhill
-1982-12-15,Hanni Wenzel,LI,30,Slalom
-1982-12-15,Anne Flore Rey,FR,6,Giant Slalom
-1982-12-15,Marie Lucie Waldmeier,FR,12,Downhill
-1982-12-15,Sieglinde Winkler,AT,6,Downhill
-1982-12-15,Lea Soelkner,AT,20,Downhill
-1982-12-15,Sigrid Wolf,AT,0,Downhill
-1982-12-15,Holly Beth Flanders,US,0,Downhill
-1982-12-15,Christa Kinshofer,DE,0,Slalom
-1982-12-15,Huberta Wolf,AT,5,Downhill
-1982-12-15,Maria Rosa Quario,IT,12,Slalom
-1982-12-15,Ida Ladstaetter,AT,0,Slalom
-1982-12-15,Eva Twardokens,US,0,Combined
-1982-12-15,Erika Hess,CH,45,Slalom
-1982-12-15,Claudia Riedl,AT,0,Giant Slalom
-1982-12-15,Eva Grabowska,PL,0,Slalom
-1982-12-15,Paola Toniolli,IT,0,Slalom
-1982-12-15,Fulvia Stevenin,IT,0,Slalom
-1982-12-15,Katharina Gutensohn,AT,0,Combined
-1982-12-15,Andreja Leskovsek,,3,Slalom
-1982-12-15,Sonja Stotz,DE,0,Combined
-1982-12-15,Elisabeth Kirchler,AT,22,Downhill
-1982-12-15,Irene Epple,DE,20,Super G
-1982-12-15,Karin Buder,AT,0,Slalom
-1982-12-15,Olga Charvatova,SK,6,Slalom
-1982-12-15,Lorena Frigo,IT,6,Slalom
-1982-12-15,Diana Haight,CA,3,Downhill
-1982-12-15,Elisabeth Warter,AT,0,Downhill
-1982-12-15,Cindy Nelson,US,8,Giant Slalom
-1982-12-15,Veronique Robin,CH,0,Combined
-1982-12-15,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1982-12-15,Anni Kronbichler,AT,7,Slalom
-1982-12-15,Ivana Valesova,SK,0,Combined
-1982-12-15,Sylvia Eder,AT,8,Downhill
-1982-12-15,Paoletta Magoni,IT,8,Slalom
-1982-12-15,Maria Walliser,CH,26,Downhill
-1982-12-15,Renate Lazak,DE,0,Slalom
-1982-12-15,Myriam Difant,FR,0,Combined
-1982-12-15,Caroline Attia,FR,29,Downhill
-1982-12-15,Laurie Graham,CA,24,Downhill
-1982-12-15,Marina Kiehl,DE,0,Combined
-1982-12-15,Brigitte Nansoz,CH,0,Slalom
-1982-12-15,Karen Stemmle,CA,0,Downhill
-1982-12-15,Anja Zavadlav,,5,Slalom
-1982-12-15,Liisa Savijarvi,CA,0,Downhill
-1982-12-15,Tamara McKinney,US,45,Giant Slalom
-1982-12-15,Heidi Preuss,US,0,Giant Slalom
-1982-12-15,Elena Medzihradska,SK,5,Giant Slalom
+1982-12-10,Heidi Wiesler,DE,4,Combined
+1982-12-10,Laurie Graham,CA,19,Downhill
+1982-12-10,Tamara McKinney,US,65,Giant Slalom
+1982-12-10,Katharina Gutensohn,AT,0,Combined
+1982-12-10,Jana Gantnerova,SK,8,Downhill
+1982-12-10,Marina Kiehl,DE,0,Combined
+1982-12-10,Hanni Wenzel,LI,42,Slalom
+1982-12-10,Brigitte Oertli,CH,2,Combined
+1982-12-10,Claudine Emonet,FR,0,Downhill
+1982-12-10,Dorota Tlalka,PL,1,Slalom
+1982-12-10,Petra Wenzel,LI,0,Slalom
+1982-12-10,Liisa Savijarvi,CA,0,Downhill
+1982-12-10,Ariane Ehrat,CH,0,Downhill
+1982-12-10,Francoise Bozon,FR,2,Downhill
+1982-12-10,Rosi Aschenwald,AT,0,Slalom
+1982-12-10,Monika Hess,CH,0,Slalom
+1982-12-10,Irene Epple,DE,16,Combined
+1982-12-10,Pam Fletcher,US,0,Downhill
+1982-12-10,Sonja Stotz,DE,0,Combined
+1982-12-10,Huberta Wolf,AT,5,Downhill
+1982-12-10,Sigrid Wolf,AT,0,Downhill
+1982-12-10,Christa Kinshofer,DE,0,Slalom
+1982-12-10,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1982-12-10,Anni Kronbichler,AT,7,Slalom
+1982-12-10,Elisabeth Warter,AT,0,Downhill
+1982-12-10,Fulvia Stevenin,IT,0,Slalom
+1982-12-10,Regine Moesenlechner,DE,0,Downhill
+1982-12-10,Renate Lazak,DE,0,Slalom
+1982-12-10,Gerry Sorensen,CA,12,Downhill
+1982-12-10,Alexandra Marasova,SK,0,Slalom
+1982-12-10,Ivana Valesova,SK,0,Combined
+1982-12-10,Ursula Konzett,LI,18,Slalom
+1982-12-10,Michaela Gerg-Leitner,DE,0,Downhill
+1982-12-10,Paoletta Magoni,IT,8,Slalom
+1982-12-10,Paola Toniolli,IT,0,Slalom
+1982-12-10,Catherine Quittet,FR,0,Downhill
+1982-12-10,Claudia Riedl,AT,0,Giant Slalom
+1982-12-10,Maria Maricich,US,0,Downhill
+1982-12-10,Maria Walliser,CH,26,Downhill
+1982-12-10,Cindy Nelson,US,8,Giant Slalom
+1982-12-10,Carole Merle,FR,0,Giant Slalom
+1982-12-10,Sylvia Eder,AT,8,Combined
+1982-12-10,Malgorzata Tlalka,PL,0,Slalom
 1982-12-15,Regine Moesenlechner,DE,0,Downhill
-1982-12-17,Veronika Vitzthum,AT,2,Downhill
-1982-12-17,Veronika Vitzthum,AT,2,Downhill
-1982-12-17,Perrine Pelen,FR,27,Slalom
-1982-12-17,Rosi Aschenwald,AT,0,Slalom
-1982-12-17,Veronique Robin,CH,0,Combined
-1982-12-17,Dorota Tlalka,PL,9,Slalom
-1982-12-17,Doris De Agostini,CH,27,Downhill
-1982-12-17,Cindy Nelson,US,8,Giant Slalom
-1982-12-17,Doris De Agostini,CH,27,Downhill
-1982-12-17,Cindy Nelson,US,8,Giant Slalom
-1982-12-17,Gerry Sorensen,CA,12,Downhill
-1982-12-17,Veronique Robin,CH,4,Combined
-1982-12-17,Marina Kiehl,DE,0,Combined
-1982-12-17,Claudine Emonet,FR,20,Downhill
-1982-12-17,Claudine Emonet,FR,20,Downhill
-1982-12-17,Anni Kronbichler,AT,13,Slalom
-1982-12-17,Christa Kinshofer,DE,0,Slalom
-1982-12-17,Christa Kinshofer,DE,0,Slalom
-1982-12-17,Michela Figini,CH,0,Giant Slalom
-1982-12-17,Michela Figini,CH,0,Giant Slalom
-1982-12-17,Brigitte Nansoz,CH,0,Slalom
-1982-12-17,Marina Kiehl,DE,0,Combined
-1982-12-17,Ariane Ehrat,CH,8,Downhill
-1982-12-17,Fulvia Stevenin,IT,4,Slalom
-1982-12-17,Sonja Stotz,DE,0,Combined
-1982-12-17,Rosi Aschenwald,AT,0,Slalom
-1982-12-17,Fulvia Stevenin,IT,4,Slalom
-1982-12-17,Dorota Tlalka,PL,9,Slalom
-1982-12-17,Anni Kronbichler,AT,13,Slalom
-1982-12-17,Ariane Ehrat,CH,8,Downhill
-1982-12-17,Paoletta Magoni,IT,8,Slalom
-1982-12-17,Marie Lucie Waldmeier,FR,12,Downhill
-1982-12-17,Perrine Pelen,FR,27,Slalom
-1982-12-17,Liisa Savijarvi,CA,0,Downhill
-1982-12-17,Katharina Gutensohn,AT,0,Combined
-1982-12-17,Caroline Attia,FR,29,Downhill
-1982-12-17,Maria Epple,DE,29,Giant Slalom
-1982-12-17,Caroline Attia,FR,29,Downhill
-1982-12-17,Pam Fletcher,US,0,Downhill
-1982-12-17,Christin Cooper,US,7,Giant Slalom
-1982-12-17,Katharina Gutensohn,AT,9,Combined
-1982-12-17,Pam Fletcher,US,0,Downhill
-1982-12-17,Christin Cooper,US,22,Giant Slalom
+1982-12-15,Anne Flore Rey,FR,6,Giant Slalom
+1982-12-15,Maria Epple,DE,18,Giant Slalom
+1982-12-15,Maria Maricich,US,0,Downhill
+1982-12-15,Jana Gantnerova,SK,18,Downhill
+1982-12-15,Marina Kiehl,DE,0,Combined
+1982-12-15,Diana Haight,CA,3,Downhill
+1982-12-15,Claudia Riedl,AT,0,Giant Slalom
+1982-12-15,Perrine Pelen,FR,7,Slalom
+1982-12-15,Ariane Ehrat,CH,8,Downhill
+1982-12-15,Anni Kronbichler,AT,7,Slalom
+1982-12-15,Lea Soelkner,AT,20,Downhill
+1982-12-15,Katharina Gutensohn,AT,0,Combined
+1982-12-15,Hanni Wenzel,LI,42,Slalom
+1982-12-15,Erika Hess,CH,60,Slalom
+1982-12-15,Irene Epple,DE,20,Combined
+1982-12-15,Carole Merle,FR,0,Giant Slalom
+1982-12-15,Francoise Bozon,FR,13,Downhill
+1982-12-15,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1982-12-15,Tamara McKinney,US,65,Giant Slalom
+1982-12-15,Holly Beth Flanders,US,0,Downhill
+1982-12-15,Cindy Nelson,US,8,Giant Slalom
+1982-12-15,Paola Toniolli,IT,0,Slalom
+1982-12-15,Laurie Graham,CA,24,Downhill
+1982-12-15,Anja Zavadlav,,5,Slalom
+1982-12-15,Claudine Emonet,FR,20,Downhill
+1982-12-15,Catherine Quittet,FR,12,Downhill
+1982-12-15,Liisa Savijarvi,CA,0,Downhill
+1982-12-15,Myriam Difant,FR,0,Combined
+1982-12-15,Petra Wenzel,LI,0,Slalom
+1982-12-15,Ivana Valesova,SK,0,Combined
+1982-12-15,Dorota Tlalka,PL,1,Slalom
+1982-12-15,Heidi Wiesler,DE,19,Combined
+1982-12-15,Paoletta Magoni,IT,8,Slalom
+1982-12-15,Lorena Frigo,IT,6,Slalom
+1982-12-15,Ida Ladstaetter,AT,0,Slalom
+1982-12-15,Veronika Vitzthum,AT,2,Downhill
+1982-12-15,Huberta Wolf,AT,5,Downhill
+1982-12-15,Rosi Aschenwald,AT,0,Slalom
+1982-12-15,Elena Medzihradska,SK,5,Giant Slalom
+1982-12-15,Zoe Haas,CH,2,Super G
+1982-12-15,Olga Charvatova,SK,6,Slalom
+1982-12-15,Christa Kinshofer,DE,0,Slalom
+1982-12-15,Renate Lazak,DE,0,Slalom
+1982-12-15,Karen Stemmle,CA,0,Downhill
+1982-12-15,Elisabeth Chaud,FR,11,Downhill
+1982-12-15,Sigrid Wolf,AT,0,Downhill
+1982-12-15,Michela Figini,CH,0,Giant Slalom
+1982-12-15,Helene Barbier,FR,11,Giant Slalom
+1982-12-15,Veronique Robin,CH,0,Combined
+1982-12-15,Caroline Attia,FR,29,Downhill
+1982-12-15,Fulvia Stevenin,IT,0,Slalom
+1982-12-15,Malgorzata Tlalka,PL,0,Slalom
+1982-12-15,Fabienne Serrat,FR,10,Giant Slalom
+1982-12-15,Elisabeth Kirchler,AT,47,Downhill
+1982-12-15,Debbie Armstrong,US,16,Downhill
+1982-12-15,Alexandra Marasova,SK,0,Slalom
+1982-12-15,Maria Walliser,CH,26,Downhill
+1982-12-15,Pam Fletcher,US,0,Downhill
+1982-12-15,Andreja Leskovsek,,3,Slalom
+1982-12-15,Ursula Konzett,LI,18,Slalom
+1982-12-15,Doris De Agostini,CH,27,Downhill
+1982-12-15,Eva Twardokens,US,0,Combined
+1982-12-15,Gerry Sorensen,CA,12,Downhill
+1982-12-15,Elisabeth Warter,AT,0,Downhill
+1982-12-15,Brigitte Oertli,CH,9,Combined
+1982-12-15,Karin Buder,AT,0,Slalom
+1982-12-15,Marie Lucie Waldmeier,FR,12,Downhill
+1982-12-15,Daniela Zini,IT,16,Slalom
+1982-12-15,Brigitte Nansoz,CH,0,Slalom
+1982-12-15,Maria Rosa Quario,IT,12,Slalom
+1982-12-15,Michaela Gerg-Leitner,DE,0,Downhill
+1982-12-15,Sylvia Eder,AT,8,Combined
+1982-12-15,Heidi Preuss,US,0,Giant Slalom
+1982-12-15,Christin Cooper,US,10,Combined
+1982-12-15,Roswitha Steiner,AT,0,Slalom
+1982-12-15,Monika Hess,CH,0,Slalom
+1982-12-15,Sieglinde Winkler,AT,6,Downhill
+1982-12-15,Eva Grabowska,PL,0,Slalom
+1982-12-15,Sonja Stotz,DE,0,Combined
 1982-12-17,Myriam Difant,FR,0,Combined
-1982-12-17,Myriam Difant,FR,0,Combined
-1982-12-17,Elisabeth Chaud,FR,11,Downhill
-1982-12-17,Elisabeth Chaud,FR,11,Downhill
-1982-12-17,Maria Maricich,US,0,Downhill
-1982-12-17,Maria Maricich,US,0,Downhill
-1982-12-17,Tamara McKinney,US,45,Giant Slalom
-1982-12-17,Tamara McKinney,US,45,Giant Slalom
-1982-12-17,Malgorzata Tlalka,PL,0,Slalom
-1982-12-17,Malgorzata Tlalka,PL,0,Slalom
-1982-12-17,Heidi Preuss,US,0,Giant Slalom
-1982-12-17,Maria Epple,DE,29,Giant Slalom
-1982-12-17,Eva Twardokens,US,0,Combined
-1982-12-17,Fabienne Serrat,FR,11,Giant Slalom
-1982-12-17,Liisa Savijarvi,CA,0,Downhill
-1982-12-17,Ida Ladstaetter,AT,0,Slalom
-1982-12-17,Carole Merle,FR,0,Giant Slalom
-1982-12-17,Carole Merle,FR,0,Giant Slalom
-1982-12-17,Elisabeth Warter,AT,0,Downhill
-1982-12-17,Elisabeth Warter,AT,0,Downhill
 1982-12-17,Brigitte Nansoz,CH,5,Slalom
-1982-12-17,Marie Lucie Waldmeier,FR,12,Downhill
-1982-12-17,Irene Epple,DE,20,Super G
+1982-12-17,Blanca Fernandez Ochoa,ES,1,Giant Slalom
 1982-12-17,Diana Haight,CA,3,Downhill
-1982-12-17,Diana Haight,CA,3,Downhill
-1982-12-17,Ida Ladstaetter,AT,0,Slalom
-1982-12-17,Heidi Wiesler,DE,19,Combined
-1982-12-17,Irene Epple,DE,28,Super G
+1982-12-17,Fulvia Stevenin,IT,0,Slalom
+1982-12-17,Fabienne Serrat,FR,10,Giant Slalom
+1982-12-17,Monika Hess,CH,0,Slalom
+1982-12-17,Karin Buder,AT,0,Slalom
+1982-12-17,Sylvia Eder,AT,8,Combined
+1982-12-17,Lea Soelkner,AT,20,Downhill
+1982-12-17,Helene Barbier,FR,11,Giant Slalom
 1982-12-17,Andreja Leskovsek,,3,Slalom
-1982-12-17,Heidi Wiesler,DE,30,Combined
-1982-12-17,Andreja Leskovsek,,3,Slalom
-1982-12-17,Paola Toniolli,IT,3,Slalom
-1982-12-17,Paola Toniolli,IT,3,Slalom
-1982-12-17,Zoe Haas,CH,2,Super G
-1982-12-17,Zoe Haas,CH,2,Super G
-1982-12-17,Fabienne Serrat,FR,11,Giant Slalom
-1982-12-17,Eva Twardokens,US,3,Combined
-1982-12-17,Sonja Stotz,DE,2,Combined
-1982-12-17,Anja Zavadlav,,5,Slalom
 1982-12-17,Gerry Sorensen,CA,12,Downhill
-1982-12-17,Helene Barbier,FR,11,Giant Slalom
-1982-12-17,Holly Beth Flanders,US,0,Downhill
-1982-12-17,Elisabeth Kirchler,AT,29,Downhill
-1982-12-17,Daniela Zini,IT,16,Slalom
-1982-12-17,Daniela Zini,IT,16,Slalom
-1982-12-17,Eva Grabowska,PL,0,Slalom
-1982-12-17,Eva Grabowska,PL,0,Slalom
-1982-12-17,Elisabeth Kirchler,AT,29,Downhill
-1982-12-17,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1982-12-17,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1982-12-17,Roswitha Steiner,AT,0,Slalom
-1982-12-17,Roswitha Steiner,AT,0,Slalom
-1982-12-17,Helene Barbier,FR,11,Giant Slalom
+1982-12-17,Brigitte Oertli,CH,19,Combined
+1982-12-17,Tamara McKinney,US,65,Giant Slalom
 1982-12-17,Catherine Quittet,FR,12,Downhill
-1982-12-17,Lorena Frigo,IT,6,Slalom
-1982-12-17,Alexandra Marasova,SK,0,Slalom
-1982-12-17,Lorena Frigo,IT,15,Slalom
-1982-12-17,Monika Hess,CH,0,Slalom
-1982-12-17,Monika Hess,CH,0,Slalom
-1982-12-17,Ivana Valesova,SK,6,Combined
-1982-12-17,Renate Lazak,DE,0,Slalom
-1982-12-17,Ivana Valesova,SK,6,Combined
-1982-12-17,Holly Beth Flanders,US,0,Downhill
-1982-12-17,Alexandra Marasova,SK,0,Slalom
+1982-12-17,Sieglinde Winkler,AT,6,Downhill
+1982-12-17,Michaela Gerg-Leitner,DE,0,Downhill
+1982-12-17,Christa Kinshofer,DE,0,Slalom
+1982-12-17,Eva Grabowska,PL,0,Slalom
+1982-12-17,Veronique Robin,CH,4,Combined
+1982-12-17,Maria Epple,DE,29,Giant Slalom
+1982-12-17,Pam Fletcher,US,0,Downhill
+1982-12-17,Elisabeth Chaud,FR,11,Downhill
+1982-12-17,Malgorzata Tlalka,PL,0,Slalom
+1982-12-17,Michela Figini,CH,0,Giant Slalom
+1982-12-17,Eva Twardokens,US,0,Combined
+1982-12-17,Elisabeth Kirchler,AT,47,Downhill
+1982-12-17,Zoe Haas,CH,2,Super G
+1982-12-17,Erika Hess,CH,80,Slalom
+1982-12-17,Claudine Emonet,FR,20,Downhill
+1982-12-17,Paola Toniolli,IT,0,Slalom
+1982-12-17,Ariane Ehrat,CH,8,Downhill
+1982-12-17,Katharina Gutensohn,AT,9,Combined
+1982-12-17,Petra Wenzel,LI,0,Slalom
+1982-12-17,Ivana Valesova,SK,0,Combined
+1982-12-17,Rosi Aschenwald,AT,0,Slalom
+1982-12-17,Maria Maricich,US,0,Downhill
+1982-12-17,Perrine Pelen,FR,7,Slalom
+1982-12-17,Marina Kiehl,DE,0,Combined
+1982-12-17,Roswitha Steiner,AT,0,Slalom
+1982-12-17,Irene Epple,DE,20,Combined
+1982-12-17,Marie Lucie Waldmeier,FR,12,Downhill
 1982-12-17,Francoise Bozon,FR,13,Downhill
-1982-12-17,Maria Rosa Quario,IT,12,Slalom
+1982-12-17,Doris De Agostini,CH,27,Downhill
+1982-12-17,Huberta Wolf,AT,5,Downhill
+1982-12-17,Liisa Savijarvi,CA,0,Downhill
+1982-12-17,Sonja Stotz,DE,0,Combined
+1982-12-17,Cindy Nelson,US,8,Giant Slalom
+1982-12-17,Claudia Riedl,AT,0,Giant Slalom
+1982-12-17,Carole Merle,FR,0,Giant Slalom
+1982-12-17,Heidi Wiesler,DE,19,Combined
+1982-12-17,Debbie Armstrong,US,21,Downhill
+1982-12-17,Karen Stemmle,CA,0,Downhill
 1982-12-17,Laurie Graham,CA,24,Downhill
 1982-12-17,Paoletta Magoni,IT,18,Slalom
-1982-12-17,Laurie Graham,CA,24,Downhill
-1982-12-17,Ursula Konzett,LI,18,Slalom
-1982-12-17,Ursula Konzett,LI,18,Slalom
-1982-12-17,Sigrid Wolf,AT,0,Downhill
-1982-12-17,Regine Moesenlechner,DE,0,Downhill
-1982-12-17,Erika Hess,CH,70,Slalom
-1982-12-17,Sigrid Wolf,AT,0,Downhill
-1982-12-17,Debbie Armstrong,US,11,Downhill
-1982-12-17,Maria Rosa Quario,IT,19,Slalom
-1982-12-17,Regine Moesenlechner,DE,0,Downhill
-1982-12-17,Karen Stemmle,CA,0,Downhill
-1982-12-17,Karen Stemmle,CA,0,Downhill
-1982-12-17,Sylvia Eder,AT,8,Downhill
-1982-12-17,Anne Flore Rey,FR,6,Giant Slalom
-1982-12-17,Anne Flore Rey,FR,6,Giant Slalom
-1982-12-17,Debbie Armstrong,US,16,Downhill
-1982-12-17,Jana Gantnerova,SK,18,Downhill
-1982-12-17,Jana Gantnerova,SK,18,Downhill
-1982-12-17,Sylvia Eder,AT,8,Downhill
-1982-12-17,Francoise Bozon,FR,13,Downhill
-1982-12-17,Petra Wenzel,LI,0,Slalom
-1982-12-17,Heidi Preuss,US,0,Giant Slalom
-1982-12-17,Huberta Wolf,AT,5,Downhill
-1982-12-17,Hanni Wenzel,LI,30,Slalom
-1982-12-17,Elena Medzihradska,SK,5,Giant Slalom
-1982-12-17,Claudia Riedl,AT,0,Giant Slalom
-1982-12-17,Maria Walliser,CH,26,Downhill
-1982-12-17,Karin Buder,AT,0,Slalom
-1982-12-17,Elena Medzihradska,SK,5,Giant Slalom
-1982-12-17,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-17,Karin Buder,AT,0,Slalom
+1982-12-17,Lorena Frigo,IT,6,Slalom
 1982-12-17,Anja Zavadlav,,7,Slalom
-1982-12-17,Lea Soelkner,AT,20,Downhill
-1982-12-17,Sieglinde Winkler,AT,6,Downhill
-1982-12-17,Claudia Riedl,AT,0,Giant Slalom
-1982-12-17,Sieglinde Winkler,AT,6,Downhill
-1982-12-17,Brigitte Oertli,CH,9,Combined
-1982-12-17,Lea Soelkner,AT,20,Downhill
-1982-12-17,Erika Hess,CH,70,Slalom
-1982-12-17,Renate Lazak,DE,0,Slalom
+1982-12-17,Christin Cooper,US,25,Combined
+1982-12-17,Dorota Tlalka,PL,2,Slalom
+1982-12-17,Anni Kronbichler,AT,19,Slalom
+1982-12-17,Jana Gantnerova,SK,18,Downhill
+1982-12-17,Maria Rosa Quario,IT,19,Slalom
+1982-12-17,Elisabeth Warter,AT,0,Downhill
+1982-12-17,Elena Medzihradska,SK,5,Giant Slalom
+1982-12-17,Ursula Konzett,LI,18,Slalom
+1982-12-17,Hanni Wenzel,LI,57,Slalom
+1982-12-17,Ida Ladstaetter,AT,0,Slalom
+1982-12-17,Holly Beth Flanders,US,0,Downhill
 1982-12-17,Olga Charvatova,SK,6,Slalom
-1982-12-17,Olga Charvatova,SK,6,Slalom
-1982-12-17,Brigitte Oertli,CH,19,Combined
-1982-12-17,Catherine Quittet,FR,12,Downhill
-1982-12-17,Hanni Wenzel,LI,42,Slalom
-1982-12-17,Michaela Gerg-Leitner,DE,0,Downhill
-1982-12-17,Petra Wenzel,LI,0,Slalom
-1982-12-17,Huberta Wolf,AT,5,Downhill
+1982-12-17,Anne Flore Rey,FR,6,Giant Slalom
+1982-12-17,Veronika Vitzthum,AT,2,Downhill
+1982-12-17,Caroline Attia,FR,29,Downhill
+1982-12-17,Alexandra Marasova,SK,0,Slalom
 1982-12-17,Maria Walliser,CH,26,Downhill
-1983-01-09,Karen Stemmle,CA,0,Downhill
-1983-01-09,Christin Cooper,US,22,Giant Slalom
-1983-01-09,Katharina Gutensohn,AT,9,Combined
-1983-01-09,Maria Epple,DE,39,Giant Slalom
-1983-01-09,Michela Figini,CH,0,Giant Slalom
-1983-01-09,Rosi Aschenwald,AT,0,Slalom
-1983-01-09,Sigrid Wolf,AT,0,Downhill
-1983-01-09,Debbie Armstrong,US,16,Downhill
-1983-01-09,Jana Gantnerova,SK,18,Downhill
+1982-12-17,Sigrid Wolf,AT,0,Downhill
+1982-12-17,Renate Lazak,DE,0,Slalom
+1982-12-17,Daniela Zini,IT,16,Slalom
+1982-12-17,Heidi Preuss,US,0,Giant Slalom
+1982-12-17,Regine Moesenlechner,DE,0,Downhill
+1983-01-09,Renate Lazak,DE,0,Slalom
+1983-01-09,Maria Walliser,CH,26,Downhill
+1983-01-09,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-09,Eva Grabowska,PL,0,Slalom
 1983-01-09,Elena Medzihradska,SK,5,Giant Slalom
+1983-01-09,Debbie Armstrong,US,21,Downhill
+1983-01-09,Elisabeth Kirchler,AT,59,Downhill
+1983-01-09,Elisabeth Chaud,FR,19,Downhill
+1983-01-09,Brigitte Oertli,CH,19,Combined
+1983-01-09,Olga Charvatova,SK,6,Slalom
+1983-01-09,Zoe Haas,CH,6,Super G
+1983-01-09,Anni Kronbichler,AT,27,Slalom
+1983-01-09,Maria Rosa Quario,IT,19,Slalom
+1983-01-09,Lorena Frigo,IT,15,Slalom
+1983-01-09,Irene Epple,DE,53,Combined
+1983-01-09,Christa Kinshofer,DE,0,Slalom
+1983-01-09,Christin Cooper,US,50,Combined
+1983-01-09,Eva Twardokens,US,3,Combined
+1983-01-09,Veronika Vitzthum,AT,2,Downhill
+1983-01-09,Sieglinde Winkler,AT,6,Downhill
+1983-01-09,Marie Lucie Waldmeier,FR,12,Downhill
+1983-01-09,Alexandra Marasova,SK,0,Slalom
+1983-01-09,Karen Stemmle,CA,0,Downhill
+1983-01-09,Sonja Stotz,DE,2,Combined
+1983-01-09,Catherine Quittet,FR,12,Downhill
+1983-01-09,Huberta Wolf,AT,5,Downhill
 1983-01-09,Ursula Konzett,LI,22,Slalom
-1983-01-09,Brigitte Nansoz,CH,5,Slalom
-1983-01-09,Myriam Difant,FR,0,Combined
-1983-01-09,Heidi Preuss,US,1,Giant Slalom
-1983-01-09,Gerry Sorensen,CA,12,Downhill
 1983-01-09,Pam Fletcher,US,0,Downhill
+1983-01-09,Michela Figini,CH,0,Giant Slalom
+1983-01-09,Maria Epple,DE,39,Giant Slalom
+1983-01-09,Roswitha Steiner,AT,0,Slalom
+1983-01-09,Ariane Ehrat,CH,8,Downhill
+1983-01-09,Gerry Sorensen,CA,12,Downhill
+1983-01-09,Karin Buder,AT,0,Slalom
+1983-01-09,Diana Haight,CA,3,Downhill
+1983-01-09,Dorota Tlalka,PL,10,Slalom
+1983-01-09,Marina Kiehl,DE,0,Combined
+1983-01-09,Daniela Zini,IT,16,Slalom
+1983-01-09,Myriam Difant,FR,0,Combined
+1983-01-09,Cindy Nelson,US,20,Giant Slalom
+1983-01-09,Holly Beth Flanders,US,0,Downhill
+1983-01-09,Fabienne Serrat,FR,22,Giant Slalom
+1983-01-09,Monika Hess,CH,0,Slalom
+1983-01-09,Regine Moesenlechner,DE,0,Downhill
+1983-01-09,Lea Soelkner,AT,20,Downhill
+1983-01-09,Carole Merle,FR,0,Giant Slalom
+1983-01-09,Sylvia Eder,AT,8,Combined
+1983-01-09,Brigitte Nansoz,CH,5,Slalom
+1983-01-09,Caroline Attia,FR,29,Downhill
+1983-01-09,Anja Zavadlav,,7,Slalom
+1983-01-09,Andreja Leskovsek,,3,Slalom
+1983-01-09,Anne Flore Rey,FR,13,Giant Slalom
+1983-01-09,Heidi Preuss,US,1,Giant Slalom
+1983-01-09,Sigrid Wolf,AT,0,Downhill
+1983-01-09,Helene Barbier,FR,20,Giant Slalom
+1983-01-09,Veronique Robin,CH,4,Combined
+1983-01-09,Fulvia Stevenin,IT,4,Slalom
+1983-01-09,Erika Hess,CH,105,Slalom
+1983-01-09,Laurie Graham,CA,24,Downhill
+1983-01-09,Claudine Emonet,FR,20,Downhill
 1983-01-09,Malgorzata Tlalka,PL,0,Slalom
 1983-01-09,Michaela Gerg-Leitner,DE,1,Downhill
-1983-01-09,Catherine Quittet,FR,12,Downhill
-1983-01-09,Regine Moesenlechner,DE,0,Downhill
 1983-01-09,Paoletta Magoni,IT,18,Slalom
-1983-01-09,Maria Maricich,US,0,Downhill
-1983-01-09,Marina Kiehl,DE,0,Combined
-1983-01-09,Petra Wenzel,LI,0,Slalom
-1983-01-09,Eva Twardokens,US,3,Combined
-1983-01-09,Dorota Tlalka,PL,9,Slalom
-1983-01-09,Renate Lazak,DE,0,Slalom
-1983-01-09,Fulvia Stevenin,IT,4,Slalom
-1983-01-09,Marie Lucie Waldmeier,FR,12,Downhill
-1983-01-09,Elisabeth Warter,AT,0,Downhill
-1983-01-09,Lorena Frigo,IT,15,Slalom
-1983-01-09,Diana Haight,CA,3,Downhill
-1983-01-09,Sieglinde Winkler,AT,6,Downhill
-1983-01-09,Monika Hess,CH,0,Slalom
-1983-01-09,Carole Merle,FR,0,Giant Slalom
-1983-01-09,Ida Ladstaetter,AT,0,Slalom
-1983-01-09,Veronika Vitzthum,AT,2,Downhill
 1983-01-09,Ivana Valesova,SK,6,Combined
-1983-01-09,Veronique Robin,CH,4,Combined
-1983-01-09,Alexandra Marasova,SK,0,Slalom
-1983-01-09,Sonja Stotz,DE,2,Combined
-1983-01-09,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-09,Karin Buder,AT,0,Slalom
-1983-01-09,Fabienne Serrat,FR,22,Giant Slalom
-1983-01-09,Sylvia Eder,AT,8,Downhill
-1983-01-09,Huberta Wolf,AT,5,Downhill
-1983-01-09,Francoise Bozon,FR,13,Downhill
-1983-01-09,Paola Toniolli,IT,3,Slalom
-1983-01-09,Brigitte Oertli,CH,19,Combined
-1983-01-09,Heidi Wiesler,DE,30,Combined
-1983-01-09,Holly Beth Flanders,US,0,Downhill
-1983-01-09,Daniela Zini,IT,16,Slalom
-1983-01-09,Liisa Savijarvi,CA,0,Downhill
 1983-01-09,Claudia Riedl,AT,0,Giant Slalom
-1983-01-09,Andreja Leskovsek,,3,Slalom
-1983-01-09,Christa Kinshofer,DE,0,Slalom
-1983-01-09,Eva Grabowska,PL,0,Slalom
-1983-01-09,Ariane Ehrat,CH,8,Downhill
-1983-01-09,Anja Zavadlav,,7,Slalom
-1983-01-09,Helene Barbier,FR,20,Giant Slalom
-1983-01-09,Zoe Haas,CH,6,Super G
-1983-01-09,Tamara McKinney,US,60,Giant Slalom
-1983-01-09,Anni Kronbichler,AT,15,Slalom
-1983-01-09,Claudine Emonet,FR,20,Downhill
-1983-01-09,Elisabeth Kirchler,AT,34,Downhill
 1983-01-09,Doris De Agostini,CH,27,Downhill
-1983-01-09,Irene Epple,DE,53,Super G
+1983-01-09,Elisabeth Warter,AT,0,Downhill
 1983-01-09,Perrine Pelen,FR,33,Slalom
-1983-01-09,Caroline Attia,FR,29,Downhill
-1983-01-09,Anne Flore Rey,FR,13,Giant Slalom
-1983-01-09,Laurie Graham,CA,24,Downhill
-1983-01-09,Lea Soelkner,AT,20,Downhill
-1983-01-09,Cindy Nelson,US,20,Giant Slalom
-1983-01-09,Roswitha Steiner,AT,0,Slalom
-1983-01-09,Hanni Wenzel,LI,62,Slalom
-1983-01-09,Maria Rosa Quario,IT,19,Slalom
-1983-01-09,Maria Walliser,CH,26,Downhill
-1983-01-09,Olga Charvatova,SK,6,Slalom
-1983-01-09,Elisabeth Chaud,FR,19,Downhill
-1983-01-09,Erika Hess,CH,70,Slalom
-1983-01-10,Perrine Pelen,FR,33,Slalom
-1983-01-10,Claudia Riedl,AT,0,Giant Slalom
-1983-01-10,Paoletta Magoni,IT,18,Slalom
-1983-01-10,Laurie Graham,CA,24,Downhill
-1983-01-10,Michaela Gerg-Leitner,DE,1,Downhill
-1983-01-10,Elisabeth Warter,AT,0,Downhill
-1983-01-10,Maria Walliser,CH,32,Downhill
-1983-01-10,Elena Medzihradska,SK,5,Giant Slalom
-1983-01-10,Veronika Vitzthum,AT,2,Downhill
-1983-01-10,Monika Hess,CH,0,Slalom
-1983-01-10,Ursula Konzett,LI,22,Slalom
-1983-01-10,Maria Epple,DE,49,Giant Slalom
-1983-01-10,Ida Ladstaetter,AT,0,Slalom
-1983-01-10,Cindy Nelson,US,45,Giant Slalom
-1983-01-10,Karen Stemmle,CA,0,Downhill
-1983-01-10,Rosi Aschenwald,AT,0,Slalom
-1983-01-10,Lea Soelkner,AT,20,Downhill
-1983-01-10,Myriam Difant,FR,0,Combined
-1983-01-10,Brigitte Nansoz,CH,5,Slalom
-1983-01-10,Veronique Robin,CH,4,Combined
-1983-01-10,Sigrid Wolf,AT,0,Downhill
-1983-01-10,Fabienne Serrat,FR,30,Giant Slalom
-1983-01-10,Renate Lazak,DE,0,Slalom
-1983-01-10,Erika Hess,CH,70,Slalom
-1983-01-10,Roswitha Steiner,AT,0,Slalom
-1983-01-10,Helene Barbier,FR,20,Giant Slalom
-1983-01-10,Petra Wenzel,LI,0,Slalom
-1983-01-10,Marie Lucie Waldmeier,FR,12,Downhill
-1983-01-10,Anni Kronbichler,AT,22,Slalom
-1983-01-10,Paola Toniolli,IT,3,Slalom
-1983-01-10,Regine Moesenlechner,DE,0,Downhill
-1983-01-10,Daniela Zini,IT,18,Slalom
-1983-01-10,Karin Buder,AT,0,Slalom
-1983-01-10,Caroline Attia,FR,29,Downhill
-1983-01-10,Katharina Gutensohn,AT,9,Combined
-1983-01-10,Francoise Bozon,FR,13,Downhill
-1983-01-10,Andreja Leskovsek,,3,Slalom
-1983-01-10,Irene Epple,DE,68,Super G
-1983-01-10,Heidi Wiesler,DE,30,Combined
+1983-01-09,Hanni Wenzel,LI,89,Slalom
+1983-01-09,Rosi Aschenwald,AT,0,Slalom
+1983-01-09,Ida Ladstaetter,AT,0,Slalom
+1983-01-09,Maria Maricich,US,0,Downhill
+1983-01-09,Tamara McKinney,US,80,Giant Slalom
+1983-01-09,Petra Wenzel,LI,0,Slalom
+1983-01-09,Paola Toniolli,IT,3,Slalom
+1983-01-09,Liisa Savijarvi,CA,0,Downhill
+1983-01-09,Katharina Gutensohn,AT,9,Combined
+1983-01-09,Heidi Wiesler,DE,30,Combined
+1983-01-09,Jana Gantnerova,SK,18,Downhill
+1983-01-09,Francoise Bozon,FR,13,Downhill
+1983-01-10,Ivana Valesova,SK,6,Combined
+1983-01-10,Maria Maricich,US,0,Downhill
 1983-01-10,Carole Merle,FR,0,Giant Slalom
+1983-01-10,Erika Hess,CH,105,Slalom
+1983-01-10,Andreja Leskovsek,,3,Slalom
+1983-01-10,Malgorzata Tlalka,PL,0,Slalom
+1983-01-10,Irene Epple,DE,68,Combined
+1983-01-10,Sylvia Eder,AT,8,Combined
+1983-01-10,Anni Kronbichler,AT,34,Slalom
+1983-01-10,Catherine Quittet,FR,16,Downhill
+1983-01-10,Ursula Konzett,LI,22,Slalom
+1983-01-10,Paoletta Magoni,IT,18,Slalom
+1983-01-10,Regine Moesenlechner,DE,0,Downhill
+1983-01-10,Cindy Nelson,US,45,Giant Slalom
+1983-01-10,Christa Kinshofer,DE,0,Slalom
+1983-01-10,Michaela Gerg-Leitner,DE,1,Downhill
+1983-01-10,Paola Toniolli,IT,3,Slalom
+1983-01-10,Sigrid Wolf,AT,0,Downhill
+1983-01-10,Renate Lazak,DE,0,Slalom
+1983-01-10,Ida Ladstaetter,AT,0,Slalom
+1983-01-10,Claudia Riedl,AT,0,Giant Slalom
+1983-01-10,Gerry Sorensen,CA,12,Downhill
+1983-01-10,Michela Figini,CH,0,Giant Slalom
+1983-01-10,Lorena Frigo,IT,15,Slalom
+1983-01-10,Sieglinde Winkler,AT,6,Downhill
+1983-01-10,Elisabeth Chaud,FR,28,Downhill
+1983-01-10,Doris De Agostini,CH,27,Downhill
+1983-01-10,Hanni Wenzel,LI,100,Slalom
+1983-01-10,Liisa Savijarvi,CA,0,Downhill
+1983-01-10,Maria Walliser,CH,32,Downhill
+1983-01-10,Petra Wenzel,LI,0,Slalom
+1983-01-10,Heidi Wiesler,DE,30,Combined
+1983-01-10,Brigitte Nansoz,CH,5,Slalom
+1983-01-10,Tamara McKinney,US,92,Giant Slalom
+1983-01-10,Diana Haight,CA,3,Downhill
+1983-01-10,Karin Buder,AT,0,Slalom
+1983-01-10,Claudine Emonet,FR,20,Downhill
+1983-01-10,Laurie Graham,CA,24,Downhill
+1983-01-10,Dorota Tlalka,PL,10,Slalom
+1983-01-10,Heidi Preuss,US,1,Giant Slalom
+1983-01-10,Myriam Difant,FR,0,Combined
+1983-01-10,Monika Hess,CH,0,Slalom
+1983-01-10,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-10,Fabienne Serrat,FR,30,Giant Slalom
+1983-01-10,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-10,Lea Soelkner,AT,20,Downhill
+1983-01-10,Caroline Attia,FR,29,Downhill
+1983-01-10,Daniela Zini,IT,18,Slalom
+1983-01-10,Anja Zavadlav,,7,Slalom
+1983-01-10,Veronique Robin,CH,4,Combined
+1983-01-10,Helene Barbier,FR,20,Giant Slalom
+1983-01-10,Holly Beth Flanders,US,0,Downhill
+1983-01-10,Roswitha Steiner,AT,0,Slalom
+1983-01-10,Perrine Pelen,FR,33,Slalom
+1983-01-10,Ariane Ehrat,CH,8,Downhill
+1983-01-10,Francoise Bozon,FR,13,Downhill
+1983-01-10,Christin Cooper,US,55,Combined
+1983-01-10,Huberta Wolf,AT,5,Downhill
+1983-01-10,Veronika Vitzthum,AT,2,Downhill
+1983-01-10,Eva Twardokens,US,3,Combined
+1983-01-10,Elisabeth Kirchler,AT,59,Downhill
+1983-01-10,Marie Lucie Waldmeier,FR,12,Downhill
+1983-01-10,Sonja Stotz,DE,2,Combined
+1983-01-10,Eva Grabowska,PL,0,Slalom
+1983-01-10,Brigitte Oertli,CH,19,Combined
+1983-01-10,Olga Charvatova,SK,6,Slalom
+1983-01-10,Debbie Armstrong,US,24,Downhill
+1983-01-10,Rosi Aschenwald,AT,0,Slalom
+1983-01-10,Maria Epple,DE,49,Giant Slalom
+1983-01-10,Pam Fletcher,US,0,Downhill
+1983-01-10,Maria Rosa Quario,IT,19,Slalom
+1983-01-10,Elena Medzihradska,SK,5,Giant Slalom
+1983-01-10,Fulvia Stevenin,IT,4,Slalom
+1983-01-10,Elisabeth Warter,AT,0,Downhill
+1983-01-10,Marina Kiehl,DE,0,Combined
 1983-01-10,Zoe Haas,CH,26,Super G
 1983-01-10,Jana Gantnerova,SK,18,Downhill
-1983-01-10,Sieglinde Winkler,AT,6,Downhill
-1983-01-10,Ariane Ehrat,CH,8,Downhill
-1983-01-10,Hanni Wenzel,LI,73,Slalom
+1983-01-10,Katharina Gutensohn,AT,9,Combined
+1983-01-10,Karen Stemmle,CA,0,Downhill
 1983-01-10,Alexandra Marasova,SK,0,Slalom
-1983-01-10,Debbie Armstrong,US,19,Downhill
-1983-01-10,Anne Flore Rey,FR,14,Giant Slalom
-1983-01-10,Diana Haight,CA,3,Downhill
-1983-01-10,Anja Zavadlav,,7,Slalom
-1983-01-10,Brigitte Oertli,CH,19,Combined
-1983-01-10,Huberta Wolf,AT,5,Downhill
-1983-01-10,Sylvia Eder,AT,8,Downhill
-1983-01-10,Eva Twardokens,US,3,Combined
-1983-01-10,Claudine Emonet,FR,20,Downhill
-1983-01-10,Malgorzata Tlalka,PL,0,Slalom
-1983-01-10,Sonja Stotz,DE,2,Combined
-1983-01-10,Elisabeth Kirchler,AT,34,Downhill
-1983-01-10,Marina Kiehl,DE,0,Combined
-1983-01-10,Holly Beth Flanders,US,0,Downhill
-1983-01-10,Gerry Sorensen,CA,12,Downhill
-1983-01-10,Heidi Preuss,US,1,Giant Slalom
-1983-01-10,Ivana Valesova,SK,6,Combined
-1983-01-10,Christa Kinshofer,DE,0,Slalom
-1983-01-10,Christin Cooper,US,27,Giant Slalom
-1983-01-10,Pam Fletcher,US,0,Downhill
-1983-01-10,Doris De Agostini,CH,27,Downhill
-1983-01-10,Maria Rosa Quario,IT,19,Slalom
-1983-01-10,Dorota Tlalka,PL,9,Slalom
-1983-01-10,Lorena Frigo,IT,15,Slalom
-1983-01-10,Olga Charvatova,SK,6,Slalom
-1983-01-10,Tamara McKinney,US,72,Giant Slalom
-1983-01-10,Fulvia Stevenin,IT,4,Slalom
-1983-01-10,Maria Maricich,US,0,Downhill
-1983-01-10,Elisabeth Chaud,FR,28,Downhill
-1983-01-10,Eva Grabowska,PL,0,Slalom
-1983-01-10,Catherine Quittet,FR,16,Downhill
-1983-01-10,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-10,Liisa Savijarvi,CA,0,Downhill
-1983-01-10,Michela Figini,CH,0,Giant Slalom
-1983-01-11,Pam Fletcher,US,0,Downhill
-1983-01-11,Carole Merle,FR,0,Giant Slalom
-1983-01-11,Heidi Wiesler,DE,30,Combined
-1983-01-11,Brigitte Nansoz,CH,5,Slalom
-1983-01-11,Sieglinde Winkler,AT,6,Downhill
-1983-01-11,Michela Figini,CH,0,Giant Slalom
-1983-01-11,Hanni Wenzel,LI,84,Slalom
-1983-01-11,Maria Walliser,CH,32,Downhill
-1983-01-11,Christa Kinshofer,DE,0,Slalom
-1983-01-11,Alexandra Marasova,SK,0,Slalom
-1983-01-11,Anne Flore Rey,FR,14,Giant Slalom
-1983-01-11,Diana Haight,CA,3,Downhill
-1983-01-11,Irene Epple,DE,68,Super G
-1983-01-11,Jana Gantnerova,SK,18,Downhill
-1983-01-11,Anni Kronbichler,AT,25,Slalom
-1983-01-11,Andreja Leskovsek,,3,Slalom
-1983-01-11,Claudine Emonet,FR,20,Downhill
-1983-01-11,Monika Hess,CH,0,Slalom
-1983-01-11,Eva Twardokens,US,3,Combined
-1983-01-11,Petra Wenzel,LI,9,Slalom
-1983-01-11,Olga Charvatova,SK,10,Slalom
-1983-01-11,Ariane Ehrat,CH,8,Downhill
-1983-01-11,Helene Barbier,FR,20,Giant Slalom
-1983-01-11,Marie Lucie Waldmeier,FR,12,Downhill
-1983-01-11,Karin Buder,AT,6,Slalom
-1983-01-11,Liisa Savijarvi,CA,0,Downhill
-1983-01-11,Erika Hess,CH,90,Slalom
-1983-01-11,Lorena Frigo,IT,15,Slalom
-1983-01-11,Paola Toniolli,IT,5,Slalom
-1983-01-11,Roswitha Steiner,AT,10,Slalom
-1983-01-11,Regine Moesenlechner,DE,0,Downhill
-1983-01-11,Daniela Zini,IT,18,Slalom
-1983-01-11,Caroline Attia,FR,29,Downhill
-1983-01-11,Malgorzata Tlalka,PL,0,Slalom
-1983-01-11,Tamara McKinney,US,97,Giant Slalom
-1983-01-11,Marina Kiehl,DE,0,Combined
-1983-01-11,Brigitte Oertli,CH,19,Combined
-1983-01-11,Francoise Bozon,FR,13,Downhill
-1983-01-11,Katharina Gutensohn,AT,9,Combined
-1983-01-11,Ivana Valesova,SK,6,Combined
-1983-01-11,Fabienne Serrat,FR,30,Giant Slalom
-1983-01-11,Sigrid Wolf,AT,0,Downhill
-1983-01-11,Paoletta Magoni,IT,26,Slalom
-1983-01-11,Heidi Preuss,US,1,Giant Slalom
-1983-01-11,Michaela Gerg-Leitner,DE,1,Downhill
-1983-01-11,Eva Grabowska,PL,0,Slalom
-1983-01-11,Renate Lazak,DE,1,Slalom
-1983-01-11,Laurie Graham,CA,24,Downhill
-1983-01-11,Perrine Pelen,FR,48,Slalom
-1983-01-11,Zoe Haas,CH,26,Super G
-1983-01-11,Ida Ladstaetter,AT,0,Slalom
-1983-01-11,Fulvia Stevenin,IT,4,Slalom
-1983-01-11,Elena Medzihradska,SK,5,Giant Slalom
-1983-01-11,Sonja Stotz,DE,2,Combined
-1983-01-11,Veronika Vitzthum,AT,2,Downhill
-1983-01-11,Gerry Sorensen,CA,12,Downhill
-1983-01-11,Lea Soelkner,AT,20,Downhill
-1983-01-11,Holly Beth Flanders,US,0,Downhill
-1983-01-11,Anja Zavadlav,,7,Slalom
-1983-01-11,Maria Rosa Quario,IT,24,Slalom
-1983-01-11,Doris De Agostini,CH,27,Downhill
-1983-01-11,Christin Cooper,US,39,Giant Slalom
-1983-01-11,Myriam Difant,FR,0,Combined
-1983-01-11,Rosi Aschenwald,AT,0,Slalom
-1983-01-11,Karen Stemmle,CA,0,Downhill
-1983-01-11,Elisabeth Kirchler,AT,34,Downhill
-1983-01-11,Blanca Fernandez Ochoa,ES,1,Giant Slalom
 1983-01-11,Maria Epple,DE,56,Giant Slalom
-1983-01-11,Claudia Riedl,AT,0,Giant Slalom
+1983-01-11,Carole Merle,FR,0,Giant Slalom
 1983-01-11,Elisabeth Warter,AT,0,Downhill
+1983-01-11,Fabienne Serrat,FR,30,Giant Slalom
+1983-01-11,Andreja Leskovsek,,3,Slalom
+1983-01-11,Veronika Vitzthum,AT,2,Downhill
+1983-01-11,Fulvia Stevenin,IT,4,Slalom
+1983-01-11,Doris De Agostini,CH,27,Downhill
+1983-01-11,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-11,Michaela Gerg-Leitner,DE,1,Downhill
+1983-01-11,Marie Lucie Waldmeier,FR,12,Downhill
+1983-01-11,Dorota Tlalka,PL,10,Slalom
+1983-01-11,Heidi Wiesler,DE,30,Combined
+1983-01-11,Ida Ladstaetter,AT,0,Slalom
+1983-01-11,Diana Haight,CA,3,Downhill
+1983-01-11,Pam Fletcher,US,0,Downhill
+1983-01-11,Lorena Frigo,IT,15,Slalom
+1983-01-11,Erika Hess,CH,125,Slalom
+1983-01-11,Michela Figini,CH,0,Giant Slalom
 1983-01-11,Veronique Robin,CH,4,Combined
-1983-01-11,Debbie Armstrong,US,19,Downhill
+1983-01-11,Ariane Ehrat,CH,8,Downhill
+1983-01-11,Perrine Pelen,FR,48,Slalom
+1983-01-11,Roswitha Steiner,AT,10,Slalom
+1983-01-11,Karen Stemmle,CA,0,Downhill
+1983-01-11,Jana Gantnerova,SK,18,Downhill
+1983-01-11,Petra Wenzel,LI,9,Slalom
+1983-01-11,Christin Cooper,US,67,Combined
+1983-01-11,Maria Rosa Quario,IT,24,Slalom
+1983-01-11,Tamara McKinney,US,117,Giant Slalom
+1983-01-11,Brigitte Nansoz,CH,5,Slalom
+1983-01-11,Katharina Gutensohn,AT,9,Combined
+1983-01-11,Marina Kiehl,DE,0,Combined
+1983-01-11,Sonja Stotz,DE,2,Combined
+1983-01-11,Zoe Haas,CH,26,Super G
+1983-01-11,Debbie Armstrong,US,24,Downhill
 1983-01-11,Huberta Wolf,AT,5,Downhill
+1983-01-11,Sieglinde Winkler,AT,6,Downhill
+1983-01-11,Rosi Aschenwald,AT,0,Slalom
+1983-01-11,Renate Lazak,DE,1,Slalom
+1983-01-11,Karin Buder,AT,6,Slalom
+1983-01-11,Claudine Emonet,FR,20,Downhill
+1983-01-11,Caroline Attia,FR,29,Downhill
+1983-01-11,Heidi Preuss,US,1,Giant Slalom
+1983-01-11,Anja Zavadlav,,7,Slalom
+1983-01-11,Daniela Zini,IT,18,Slalom
+1983-01-11,Laurie Graham,CA,24,Downhill
+1983-01-11,Helene Barbier,FR,20,Giant Slalom
+1983-01-11,Elena Medzihradska,SK,5,Giant Slalom
+1983-01-11,Francoise Bozon,FR,13,Downhill
+1983-01-11,Lea Soelkner,AT,20,Downhill
+1983-01-11,Liisa Savijarvi,CA,0,Downhill
+1983-01-11,Hanni Wenzel,LI,111,Slalom
+1983-01-11,Monika Hess,CH,0,Slalom
+1983-01-11,Myriam Difant,FR,0,Combined
+1983-01-11,Alexandra Marasova,SK,0,Slalom
+1983-01-11,Holly Beth Flanders,US,0,Downhill
+1983-01-11,Maria Walliser,CH,32,Downhill
+1983-01-11,Olga Charvatova,SK,10,Slalom
 1983-01-11,Ursula Konzett,LI,22,Slalom
-1983-01-11,Catherine Quittet,FR,16,Downhill
+1983-01-11,Irene Epple,DE,68,Combined
+1983-01-11,Regine Moesenlechner,DE,0,Downhill
+1983-01-11,Sigrid Wolf,AT,0,Downhill
+1983-01-11,Sylvia Eder,AT,8,Combined
+1983-01-11,Claudia Riedl,AT,0,Giant Slalom
+1983-01-11,Gerry Sorensen,CA,12,Downhill
+1983-01-11,Paola Toniolli,IT,5,Slalom
 1983-01-11,Maria Maricich,US,0,Downhill
+1983-01-11,Ivana Valesova,SK,6,Combined
+1983-01-11,Catherine Quittet,FR,16,Downhill
+1983-01-11,Christa Kinshofer,DE,0,Slalom
+1983-01-11,Malgorzata Tlalka,PL,0,Slalom
+1983-01-11,Paoletta Magoni,IT,26,Slalom
 1983-01-11,Cindy Nelson,US,45,Giant Slalom
+1983-01-11,Elisabeth Kirchler,AT,59,Downhill
+1983-01-11,Brigitte Oertli,CH,19,Combined
+1983-01-11,Eva Twardokens,US,3,Combined
 1983-01-11,Elisabeth Chaud,FR,28,Downhill
-1983-01-11,Sylvia Eder,AT,8,Downhill
-1983-01-11,Dorota Tlalka,PL,9,Slalom
-1983-01-14,Catherine Quittet,FR,16,Downhill
-1983-01-14,Michaela Gerg-Leitner,DE,5,Downhill
-1983-01-14,Tamara McKinney,US,97,Giant Slalom
-1983-01-14,Marie Lucie Waldmeier,FR,19,Downhill
-1983-01-14,Ariane Ehrat,CH,13,Downhill
-1983-01-14,Petra Wenzel,LI,9,Slalom
-1983-01-14,Liisa Savijarvi,CA,0,Downhill
-1983-01-14,Myriam Difant,FR,0,Combined
-1983-01-14,Eva Twardokens,US,3,Combined
-1983-01-14,Lea Soelkner,AT,20,Downhill
-1983-01-14,Claudine Emonet,FR,20,Downhill
-1983-01-14,Sonja Stotz,DE,2,Combined
-1983-01-14,Dorota Tlalka,PL,9,Slalom
-1983-01-14,Gerry Sorensen,CA,23,Downhill
-1983-01-14,Michela Figini,CH,0,Giant Slalom
-1983-01-14,Brigitte Oertli,CH,19,Combined
-1983-01-14,Hanni Wenzel,LI,84,Slalom
-1983-01-14,Erika Hess,CH,90,Slalom
-1983-01-14,Katharina Gutensohn,AT,12,Combined
-1983-01-14,Caroline Attia,FR,44,Downhill
-1983-01-14,Veronika Vitzthum,AT,8,Downhill
-1983-01-14,Carole Merle,FR,0,Giant Slalom
-1983-01-14,Perrine Pelen,FR,48,Slalom
-1983-01-14,Heidi Preuss,US,1,Giant Slalom
-1983-01-14,Sieglinde Winkler,AT,6,Downhill
-1983-01-14,Huberta Wolf,AT,5,Downhill
-1983-01-14,Anja Zavadlav,,7,Slalom
-1983-01-14,Renate Lazak,DE,1,Slalom
-1983-01-14,Karin Buder,AT,6,Slalom
-1983-01-14,Monika Hess,CH,0,Slalom
-1983-01-14,Zoe Haas,CH,26,Super G
-1983-01-14,Elisabeth Chaud,FR,48,Downhill
-1983-01-14,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-14,Claudia Riedl,AT,0,Giant Slalom
-1983-01-14,Elisabeth Warter,AT,0,Downhill
-1983-01-14,Ursula Konzett,LI,22,Slalom
-1983-01-14,Maria Maricich,US,0,Downhill
-1983-01-14,Elisabeth Kirchler,AT,35,Downhill
-1983-01-14,Paoletta Magoni,IT,26,Slalom
-1983-01-14,Eva Grabowska,PL,0,Slalom
-1983-01-14,Ida Ladstaetter,AT,0,Slalom
-1983-01-14,Maria Epple,DE,56,Giant Slalom
-1983-01-14,Laurie Graham,CA,36,Downhill
-1983-01-14,Sigrid Wolf,AT,0,Downhill
-1983-01-14,Elena Medzihradska,SK,5,Giant Slalom
-1983-01-14,Fulvia Stevenin,IT,4,Slalom
-1983-01-14,Maria Walliser,CH,40,Downhill
-1983-01-14,Rosi Aschenwald,AT,0,Slalom
-1983-01-14,Karen Stemmle,CA,0,Downhill
-1983-01-14,Veronique Robin,CH,4,Combined
-1983-01-14,Cindy Nelson,US,45,Giant Slalom
-1983-01-14,Holly Beth Flanders,US,0,Downhill
+1983-01-11,Eva Grabowska,PL,0,Slalom
+1983-01-11,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-11,Anni Kronbichler,AT,37,Slalom
 1983-01-14,Maria Rosa Quario,IT,24,Slalom
-1983-01-14,Sylvia Eder,AT,8,Downhill
-1983-01-14,Brigitte Nansoz,CH,5,Slalom
-1983-01-14,Fabienne Serrat,FR,30,Giant Slalom
-1983-01-14,Diana Haight,CA,3,Downhill
-1983-01-14,Debbie Armstrong,US,19,Downhill
-1983-01-14,Marina Kiehl,DE,0,Combined
-1983-01-14,Roswitha Steiner,AT,10,Slalom
-1983-01-14,Olga Charvatova,SK,10,Slalom
-1983-01-14,Helene Barbier,FR,20,Giant Slalom
-1983-01-14,Paola Toniolli,IT,5,Slalom
-1983-01-14,Anni Kronbichler,AT,25,Slalom
-1983-01-14,Regine Moesenlechner,DE,0,Downhill
-1983-01-14,Ivana Valesova,SK,6,Combined
+1983-01-14,Doris De Agostini,CH,52,Downhill
+1983-01-14,Francoise Bozon,FR,13,Downhill
+1983-01-14,Debbie Armstrong,US,24,Downhill
+1983-01-14,Huberta Wolf,AT,5,Downhill
+1983-01-14,Laurie Graham,CA,36,Downhill
+1983-01-14,Karin Buder,AT,6,Slalom
+1983-01-14,Sigrid Wolf,AT,0,Downhill
+1983-01-14,Heidi Wiesler,DE,32,Combined
 1983-01-14,Daniela Zini,IT,18,Slalom
+1983-01-14,Anni Kronbichler,AT,37,Slalom
+1983-01-14,Heidi Preuss,US,1,Giant Slalom
+1983-01-14,Christin Cooper,US,67,Combined
+1983-01-14,Regine Moesenlechner,DE,0,Downhill
+1983-01-14,Hanni Wenzel,LI,111,Slalom
+1983-01-14,Renate Lazak,DE,1,Slalom
+1983-01-14,Karen Stemmle,CA,0,Downhill
+1983-01-14,Lorena Frigo,IT,15,Slalom
+1983-01-14,Irene Epple,DE,78,Combined
+1983-01-14,Paoletta Magoni,IT,26,Slalom
+1983-01-14,Marie Lucie Waldmeier,FR,19,Downhill
+1983-01-14,Cindy Nelson,US,45,Giant Slalom
+1983-01-14,Ursula Konzett,LI,22,Slalom
+1983-01-14,Maria Walliser,CH,40,Downhill
+1983-01-14,Veronika Vitzthum,AT,8,Downhill
+1983-01-14,Elena Medzihradska,SK,5,Giant Slalom
+1983-01-14,Sonja Stotz,DE,2,Combined
+1983-01-14,Elisabeth Warter,AT,0,Downhill
+1983-01-14,Alexandra Marasova,SK,0,Slalom
+1983-01-14,Claudia Riedl,AT,0,Giant Slalom
+1983-01-14,Liisa Savijarvi,CA,0,Downhill
+1983-01-14,Olga Charvatova,SK,10,Slalom
+1983-01-14,Dorota Tlalka,PL,10,Slalom
+1983-01-14,Jana Gantnerova,SK,27,Downhill
+1983-01-14,Gerry Sorensen,CA,23,Downhill
+1983-01-14,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-14,Diana Haight,CA,3,Downhill
+1983-01-14,Brigitte Nansoz,CH,5,Slalom
+1983-01-14,Petra Wenzel,LI,9,Slalom
+1983-01-14,Perrine Pelen,FR,48,Slalom
+1983-01-14,Maria Epple,DE,56,Giant Slalom
+1983-01-14,Katharina Gutensohn,AT,12,Combined
+1983-01-14,Marina Kiehl,DE,0,Combined
+1983-01-14,Rosi Aschenwald,AT,0,Slalom
+1983-01-14,Zoe Haas,CH,26,Super G
+1983-01-14,Sieglinde Winkler,AT,6,Downhill
+1983-01-14,Eva Twardokens,US,3,Combined
+1983-01-14,Elisabeth Chaud,FR,48,Downhill
+1983-01-14,Claudine Emonet,FR,20,Downhill
+1983-01-14,Brigitte Oertli,CH,19,Combined
+1983-01-14,Eva Grabowska,PL,0,Slalom
+1983-01-14,Ivana Valesova,SK,6,Combined
 1983-01-14,Malgorzata Tlalka,PL,0,Slalom
 1983-01-14,Christa Kinshofer,DE,0,Slalom
-1983-01-14,Andreja Leskovsek,,3,Slalom
-1983-01-14,Francoise Bozon,FR,13,Downhill
-1983-01-14,Christin Cooper,US,39,Giant Slalom
-1983-01-14,Alexandra Marasova,SK,0,Slalom
-1983-01-14,Irene Epple,DE,78,Super G
+1983-01-14,Catherine Quittet,FR,16,Downhill
+1983-01-14,Paola Toniolli,IT,5,Slalom
+1983-01-14,Maria Maricich,US,0,Downhill
+1983-01-14,Michela Figini,CH,0,Giant Slalom
+1983-01-14,Michaela Gerg-Leitner,DE,5,Downhill
+1983-01-14,Sylvia Eder,AT,8,Combined
+1983-01-14,Fulvia Stevenin,IT,4,Slalom
+1983-01-14,Erika Hess,CH,125,Slalom
+1983-01-14,Elisabeth Kirchler,AT,60,Downhill
+1983-01-14,Tamara McKinney,US,117,Giant Slalom
+1983-01-14,Ida Ladstaetter,AT,0,Slalom
+1983-01-14,Ariane Ehrat,CH,13,Downhill
+1983-01-14,Caroline Attia,FR,44,Downhill
 1983-01-14,Pam Fletcher,US,0,Downhill
-1983-01-14,Anne Flore Rey,FR,14,Giant Slalom
-1983-01-14,Heidi Wiesler,DE,32,Combined
-1983-01-14,Jana Gantnerova,SK,27,Downhill
-1983-01-14,Doris De Agostini,CH,52,Downhill
-1983-01-14,Lorena Frigo,IT,15,Slalom
-1983-01-16,Elisabeth Kirchler,AT,35,Downhill
-1983-01-16,Karin Buder,AT,6,Slalom
-1983-01-16,Brigitte Nansoz,CH,5,Slalom
-1983-01-16,Gerry Sorensen,CA,23,Downhill
-1983-01-16,Maria Rosa Quario,IT,44,Slalom
-1983-01-16,Anni Kronbichler,AT,50,Slalom
-1983-01-16,Ariane Ehrat,CH,13,Downhill
-1983-01-16,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-16,Holly Beth Flanders,US,0,Downhill
-1983-01-16,Fulvia Stevenin,IT,4,Slalom
-1983-01-16,Heidi Preuss,US,1,Giant Slalom
-1983-01-16,Ivana Valesova,SK,6,Combined
-1983-01-16,Christa Kinshofer,DE,0,Slalom
-1983-01-16,Lorena Frigo,IT,20,Slalom
-1983-01-16,Marina Kiehl,DE,0,Combined
-1983-01-16,Eva Grabowska,PL,0,Slalom
-1983-01-16,Liisa Savijarvi,CA,0,Downhill
-1983-01-16,Michela Figini,CH,0,Giant Slalom
-1983-01-16,Ida Ladstaetter,AT,4,Slalom
-1983-01-16,Lea Soelkner,AT,20,Downhill
-1983-01-16,Diana Haight,CA,3,Downhill
-1983-01-16,Jana Gantnerova,SK,27,Downhill
-1983-01-16,Anne Flore Rey,FR,14,Giant Slalom
-1983-01-16,Francoise Bozon,FR,13,Downhill
-1983-01-16,Sieglinde Winkler,AT,6,Downhill
-1983-01-16,Katharina Gutensohn,AT,12,Combined
-1983-01-16,Andreja Leskovsek,,3,Slalom
-1983-01-16,Daniela Zini,IT,18,Slalom
-1983-01-16,Caroline Attia,FR,44,Downhill
-1983-01-16,Roswitha Steiner,AT,21,Slalom
-1983-01-16,Petra Wenzel,LI,12,Slalom
-1983-01-16,Paola Toniolli,IT,5,Slalom
-1983-01-16,Helene Barbier,FR,20,Giant Slalom
-1983-01-16,Eva Twardokens,US,3,Combined
-1983-01-16,Monika Hess,CH,0,Slalom
-1983-01-16,Hanni Wenzel,LI,84,Slalom
-1983-01-16,Tamara McKinney,US,97,Giant Slalom
-1983-01-16,Brigitte Oertli,CH,19,Combined
-1983-01-16,Debbie Armstrong,US,19,Downhill
-1983-01-16,Cindy Nelson,US,45,Giant Slalom
-1983-01-16,Catherine Quittet,FR,16,Downhill
-1983-01-16,Sylvia Eder,AT,9,Downhill
-1983-01-16,Huberta Wolf,AT,5,Downhill
-1983-01-16,Myriam Difant,FR,0,Combined
-1983-01-16,Veronique Robin,CH,4,Combined
-1983-01-16,Karen Stemmle,CA,0,Downhill
+1983-01-14,Helene Barbier,FR,20,Giant Slalom
+1983-01-14,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-14,Holly Beth Flanders,US,0,Downhill
+1983-01-14,Roswitha Steiner,AT,10,Slalom
+1983-01-14,Lea Soelkner,AT,20,Downhill
+1983-01-14,Fabienne Serrat,FR,30,Giant Slalom
+1983-01-14,Veronique Robin,CH,4,Combined
+1983-01-14,Myriam Difant,FR,0,Combined
+1983-01-14,Anja Zavadlav,,7,Slalom
+1983-01-14,Monika Hess,CH,0,Slalom
+1983-01-14,Carole Merle,FR,0,Giant Slalom
+1983-01-14,Andreja Leskovsek,,3,Slalom
 1983-01-16,Sigrid Wolf,AT,0,Downhill
+1983-01-16,Lorena Frigo,IT,20,Slalom
+1983-01-16,Christa Kinshofer,DE,0,Slalom
+1983-01-16,Fulvia Stevenin,IT,4,Slalom
+1983-01-16,Catherine Quittet,FR,16,Downhill
 1983-01-16,Paoletta Magoni,IT,26,Slalom
-1983-01-16,Laurie Graham,CA,36,Downhill
-1983-01-16,Olga Charvatova,SK,20,Slalom
-1983-01-16,Michaela Gerg-Leitner,DE,5,Downhill
-1983-01-16,Ursula Konzett,LI,22,Slalom
-1983-01-16,Elisabeth Warter,AT,0,Downhill
 1983-01-16,Claudia Riedl,AT,0,Giant Slalom
-1983-01-16,Irene Epple,DE,78,Super G
-1983-01-16,Claudine Emonet,FR,20,Downhill
-1983-01-16,Malgorzata Tlalka,PL,20,Slalom
-1983-01-16,Carole Merle,FR,0,Giant Slalom
-1983-01-16,Christin Cooper,US,39,Giant Slalom
-1983-01-16,Sonja Stotz,DE,2,Combined
-1983-01-16,Fabienne Serrat,FR,38,Giant Slalom
-1983-01-16,Heidi Wiesler,DE,32,Combined
-1983-01-16,Zoe Haas,CH,26,Super G
-1983-01-16,Elisabeth Chaud,FR,48,Downhill
-1983-01-16,Perrine Pelen,FR,48,Slalom
-1983-01-16,Maria Maricich,US,0,Downhill
-1983-01-16,Doris De Agostini,CH,52,Downhill
-1983-01-16,Veronika Vitzthum,AT,8,Downhill
-1983-01-16,Marie Lucie Waldmeier,FR,19,Downhill
-1983-01-16,Maria Epple,DE,62,Giant Slalom
-1983-01-16,Alexandra Marasova,SK,9,Slalom
-1983-01-16,Regine Moesenlechner,DE,0,Downhill
-1983-01-16,Rosi Aschenwald,AT,7,Slalom
-1983-01-16,Elena Medzihradska,SK,5,Giant Slalom
-1983-01-16,Erika Hess,CH,90,Slalom
-1983-01-16,Dorota Tlalka,PL,21,Slalom
-1983-01-16,Maria Walliser,CH,40,Downhill
-1983-01-16,Renate Lazak,DE,1,Slalom
 1983-01-16,Anja Zavadlav,,9,Slalom
+1983-01-16,Daniela Zini,IT,18,Slalom
+1983-01-16,Gerry Sorensen,CA,23,Downhill
+1983-01-16,Helene Barbier,FR,20,Giant Slalom
+1983-01-16,Michela Figini,CH,0,Giant Slalom
+1983-01-16,Ivana Valesova,SK,6,Combined
+1983-01-16,Karen Stemmle,CA,0,Downhill
+1983-01-16,Ursula Konzett,LI,22,Slalom
+1983-01-16,Elena Medzihradska,SK,5,Giant Slalom
+1983-01-16,Veronika Vitzthum,AT,8,Downhill
+1983-01-16,Jana Gantnerova,SK,27,Downhill
+1983-01-16,Brigitte Nansoz,CH,5,Slalom
+1983-01-16,Ida Ladstaetter,AT,4,Slalom
+1983-01-16,Petra Wenzel,LI,12,Slalom
+1983-01-16,Veronique Robin,CH,4,Combined
+1983-01-16,Dorota Tlalka,PL,22,Slalom
+1983-01-16,Eva Grabowska,PL,0,Slalom
+1983-01-16,Monika Hess,CH,0,Slalom
+1983-01-16,Holly Beth Flanders,US,0,Downhill
+1983-01-16,Marina Kiehl,DE,0,Combined
+1983-01-16,Debbie Armstrong,US,24,Downhill
+1983-01-16,Huberta Wolf,AT,5,Downhill
+1983-01-16,Sieglinde Winkler,AT,6,Downhill
+1983-01-16,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-16,Brigitte Oertli,CH,19,Combined
+1983-01-16,Karin Buder,AT,6,Slalom
+1983-01-16,Francoise Bozon,FR,13,Downhill
+1983-01-16,Ariane Ehrat,CH,13,Downhill
+1983-01-16,Fabienne Serrat,FR,38,Giant Slalom
+1983-01-16,Christin Cooper,US,67,Combined
+1983-01-16,Maria Walliser,CH,40,Downhill
+1983-01-16,Lea Soelkner,AT,20,Downhill
+1983-01-16,Elisabeth Kirchler,AT,60,Downhill
+1983-01-16,Liisa Savijarvi,CA,0,Downhill
+1983-01-16,Paola Toniolli,IT,5,Slalom
+1983-01-16,Roswitha Steiner,AT,21,Slalom
+1983-01-16,Maria Maricich,US,0,Downhill
+1983-01-16,Heidi Wiesler,DE,32,Combined
+1983-01-16,Michaela Gerg-Leitner,DE,5,Downhill
+1983-01-16,Zoe Haas,CH,26,Super G
+1983-01-16,Tamara McKinney,US,117,Giant Slalom
+1983-01-16,Renate Lazak,DE,1,Slalom
+1983-01-16,Anni Kronbichler,AT,62,Slalom
+1983-01-16,Alexandra Marasova,SK,9,Slalom
+1983-01-16,Hanni Wenzel,LI,111,Slalom
+1983-01-16,Caroline Attia,FR,44,Downhill
+1983-01-16,Diana Haight,CA,3,Downhill
+1983-01-16,Sylvia Eder,AT,9,Combined
+1983-01-16,Cindy Nelson,US,45,Giant Slalom
+1983-01-16,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-16,Heidi Preuss,US,1,Giant Slalom
+1983-01-16,Maria Epple,DE,62,Giant Slalom
+1983-01-16,Regine Moesenlechner,DE,0,Downhill
+1983-01-16,Irene Epple,DE,78,Combined
+1983-01-16,Andreja Leskovsek,,3,Slalom
+1983-01-16,Laurie Graham,CA,36,Downhill
+1983-01-16,Perrine Pelen,FR,48,Slalom
+1983-01-16,Eva Twardokens,US,3,Combined
+1983-01-16,Katharina Gutensohn,AT,12,Combined
+1983-01-16,Elisabeth Warter,AT,0,Downhill
+1983-01-16,Rosi Aschenwald,AT,7,Slalom
+1983-01-16,Claudine Emonet,FR,20,Downhill
+1983-01-16,Erika Hess,CH,125,Slalom
+1983-01-16,Sonja Stotz,DE,2,Combined
+1983-01-16,Malgorzata Tlalka,PL,20,Slalom
+1983-01-16,Doris De Agostini,CH,52,Downhill
+1983-01-16,Marie Lucie Waldmeier,FR,19,Downhill
+1983-01-16,Carole Merle,FR,0,Giant Slalom
+1983-01-16,Myriam Difant,FR,0,Combined
+1983-01-16,Elisabeth Chaud,FR,48,Downhill
 1983-01-16,Pam Fletcher,US,0,Downhill
-1983-01-21,Claudia Riedl,AT,0,Giant Slalom
-1983-01-21,Veronika Vitzthum,AT,13,Downhill
-1983-01-21,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-21,Irene Epple,DE,78,Super G
-1983-01-21,Maria Rosa Quario,IT,44,Slalom
-1983-01-21,Sylvia Eder,AT,17,Downhill
-1983-01-21,Erika Hess,CH,90,Slalom
-1983-01-21,Claudia Riedl,AT,0,Giant Slalom
-1983-01-21,Eva Twardokens,US,3,Combined
-1983-01-21,Alexandra Marasova,SK,9,Slalom
-1983-01-21,Michaela Gerg-Leitner,DE,5,Downhill
-1983-01-21,Maria Rosa Quario,IT,44,Slalom
-1983-01-21,Veronika Vitzthum,AT,13,Downhill
-1983-01-21,Sylvia Eder,AT,17,Downhill
-1983-01-21,Brigitte Nansoz,CH,5,Slalom
-1983-01-21,Alexandra Marasova,SK,9,Slalom
-1983-01-21,Maria Walliser,CH,65,Downhill
-1983-01-21,Holly Beth Flanders,US,0,Downhill
-1983-01-21,Elena Medzihradska,SK,5,Giant Slalom
-1983-01-21,Brigitte Nansoz,CH,5,Slalom
-1983-01-21,Irene Epple,DE,82,Super G
-1983-01-21,Fabienne Serrat,FR,38,Giant Slalom
-1983-01-21,Myriam Difant,FR,0,Combined
-1983-01-21,Michaela Gerg-Leitner,DE,17,Downhill
-1983-01-21,Zoe Haas,CH,26,Super G
-1983-01-21,Elisabeth Chaud,FR,51,Downhill
-1983-01-21,Holly Beth Flanders,US,8,Downhill
-1983-01-21,Christin Cooper,US,39,Giant Slalom
-1983-01-21,Debbie Armstrong,US,19,Downhill
-1983-01-21,Debbie Armstrong,US,19,Downhill
-1983-01-21,Lea Soelkner,AT,22,Downhill
-1983-01-21,Christin Cooper,US,39,Giant Slalom
-1983-01-21,Elisabeth Warter,AT,0,Downhill
-1983-01-21,Karen Stemmle,CA,0,Downhill
-1983-01-21,Myriam Difant,FR,3,Combined
-1983-01-21,Maria Epple,DE,62,Giant Slalom
-1983-01-21,Ursula Konzett,LI,22,Slalom
-1983-01-21,Ursula Konzett,LI,22,Slalom
-1983-01-21,Katharina Gutensohn,AT,12,Combined
-1983-01-21,Ida Ladstaetter,AT,4,Slalom
-1983-01-21,Carole Merle,FR,0,Giant Slalom
+1983-01-16,Maria Rosa Quario,IT,44,Slalom
+1983-01-16,Olga Charvatova,SK,20,Slalom
 1983-01-21,Perrine Pelen,FR,48,Slalom
-1983-01-21,Sieglinde Winkler,AT,6,Downhill
-1983-01-21,Sieglinde Winkler,AT,6,Downhill
-1983-01-21,Ida Ladstaetter,AT,4,Slalom
-1983-01-21,Renate Lazak,DE,1,Slalom
-1983-01-21,Fabienne Serrat,FR,53,Giant Slalom
-1983-01-21,Carole Merle,FR,6,Giant Slalom
-1983-01-21,Caroline Attia,FR,44,Downhill
-1983-01-21,Olga Charvatova,SK,45,Slalom
-1983-01-21,Perrine Pelen,FR,48,Slalom
-1983-01-21,Caroline Attia,FR,44,Downhill
-1983-01-21,Paoletta Magoni,IT,26,Slalom
-1983-01-21,Paoletta Magoni,IT,26,Slalom
-1983-01-21,Maria Epple,DE,62,Giant Slalom
-1983-01-21,Brigitte Oertli,CH,31,Combined
-1983-01-21,Hanni Wenzel,LI,84,Slalom
-1983-01-21,Renate Lazak,DE,1,Slalom
-1983-01-21,Katharina Gutensohn,AT,21,Combined
-1983-01-21,Karen Stemmle,CA,0,Downhill
-1983-01-21,Fulvia Stevenin,IT,4,Slalom
-1983-01-21,Heidi Wiesler,DE,39,Combined
-1983-01-21,Rosi Aschenwald,AT,7,Slalom
-1983-01-21,Rosi Aschenwald,AT,7,Slalom
-1983-01-21,Veronique Robin,CH,4,Combined
-1983-01-21,Veronique Robin,CH,4,Combined
-1983-01-21,Petra Wenzel,LI,12,Slalom
-1983-01-21,Brigitte Oertli,CH,31,Combined
-1983-01-21,Petra Wenzel,LI,12,Slalom
-1983-01-21,Elisabeth Warter,AT,0,Downhill
-1983-01-21,Doris De Agostini,CH,52,Downhill
+1983-01-21,Hanni Wenzel,LI,111,Slalom
+1983-01-21,Sylvia Eder,AT,17,Combined
+1983-01-21,Claudia Riedl,AT,0,Giant Slalom
+1983-01-21,Sonja Stotz,DE,2,Combined
+1983-01-21,Brigitte Oertli,CH,19,Combined
+1983-01-21,Gerry Sorensen,CA,23,Downhill
 1983-01-21,Cindy Nelson,US,55,Giant Slalom
 1983-01-21,Eva Twardokens,US,3,Combined
-1983-01-21,Anja Zavadlav,,9,Slalom
-1983-01-21,Anja Zavadlav,,9,Slalom
-1983-01-21,Sigrid Wolf,AT,0,Downhill
-1983-01-21,Sigrid Wolf,AT,0,Downhill
-1983-01-21,Hanni Wenzel,LI,84,Slalom
-1983-01-21,Laurie Graham,CA,36,Downhill
-1983-01-21,Fulvia Stevenin,IT,4,Slalom
-1983-01-21,Catherine Quittet,FR,16,Downhill
-1983-01-21,Pam Fletcher,US,0,Downhill
-1983-01-21,Malgorzata Tlalka,PL,20,Slalom
-1983-01-21,Andreja Leskovsek,,3,Slalom
-1983-01-21,Malgorzata Tlalka,PL,20,Slalom
-1983-01-21,Andreja Leskovsek,,3,Slalom
-1983-01-21,Marina Kiehl,DE,0,Combined
-1983-01-21,Maria Walliser,CH,65,Downhill
-1983-01-21,Francoise Bozon,FR,13,Downhill
-1983-01-21,Helene Barbier,FR,20,Giant Slalom
-1983-01-21,Helene Barbier,FR,20,Giant Slalom
-1983-01-21,Michela Figini,CH,0,Giant Slalom
-1983-01-21,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-21,Francoise Bozon,FR,13,Downhill
-1983-01-21,Lorena Frigo,IT,20,Slalom
-1983-01-21,Lorena Frigo,IT,20,Slalom
-1983-01-21,Doris De Agostini,CH,62,Downhill
-1983-01-21,Maria Maricich,US,20,Downhill
-1983-01-21,Roswitha Steiner,AT,21,Slalom
-1983-01-21,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-21,Michela Figini,CH,6,Giant Slalom
-1983-01-21,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-21,Pam Fletcher,US,0,Downhill
-1983-01-21,Paola Toniolli,IT,5,Slalom
-1983-01-21,Claudine Emonet,FR,20,Downhill
-1983-01-21,Claudine Emonet,FR,20,Downhill
-1983-01-21,Olga Charvatova,SK,45,Slalom
-1983-01-21,Karin Buder,AT,6,Slalom
-1983-01-21,Ariane Ehrat,CH,15,Downhill
-1983-01-21,Karin Buder,AT,6,Slalom
-1983-01-21,Ariane Ehrat,CH,15,Downhill
 1983-01-21,Marina Kiehl,DE,5,Combined
-1983-01-21,Regine Moesenlechner,DE,0,Downhill
-1983-01-21,Anni Kronbichler,AT,50,Slalom
-1983-01-21,Anni Kronbichler,AT,50,Slalom
-1983-01-21,Regine Moesenlechner,DE,0,Downhill
-1983-01-21,Daniela Zini,IT,18,Slalom
-1983-01-21,Ivana Valesova,SK,6,Combined
-1983-01-21,Elena Medzihradska,SK,9,Giant Slalom
-1983-01-21,Liisa Savijarvi,CA,0,Downhill
-1983-01-21,Liisa Savijarvi,CA,0,Downhill
-1983-01-21,Ivana Valesova,SK,6,Combined
-1983-01-21,Daniela Zini,IT,18,Slalom
-1983-01-21,Paola Toniolli,IT,5,Slalom
-1983-01-21,Elisabeth Chaud,FR,51,Downhill
-1983-01-21,Roswitha Steiner,AT,21,Slalom
+1983-01-21,Zoe Haas,CH,26,Super G
+1983-01-21,Olga Charvatova,SK,20,Slalom
+1983-01-21,Katharina Gutensohn,AT,12,Combined
+1983-01-21,Maria Rosa Quario,IT,44,Slalom
 1983-01-21,Laurie Graham,CA,36,Downhill
-1983-01-21,Monika Hess,CH,0,Slalom
-1983-01-21,Sonja Stotz,DE,2,Combined
-1983-01-21,Elisabeth Kirchler,AT,35,Downhill
-1983-01-21,Elisabeth Kirchler,AT,35,Downhill
-1983-01-21,Anne Flore Rey,FR,14,Giant Slalom
-1983-01-21,Christa Kinshofer,DE,0,Slalom
-1983-01-21,Eva Grabowska,PL,0,Slalom
-1983-01-21,Anne Flore Rey,FR,14,Giant Slalom
-1983-01-21,Sonja Stotz,DE,2,Combined
-1983-01-21,Huberta Wolf,AT,5,Downhill
-1983-01-21,Tamara McKinney,US,97,Giant Slalom
-1983-01-21,Tamara McKinney,US,97,Giant Slalom
-1983-01-21,Zoe Haas,CH,34,Super G
-1983-01-21,Huberta Wolf,AT,5,Downhill
-1983-01-21,Dorota Tlalka,PL,21,Slalom
+1983-01-21,Michela Figini,CH,0,Giant Slalom
+1983-01-21,Sigrid Wolf,AT,0,Downhill
+1983-01-21,Elisabeth Chaud,FR,51,Downhill
+1983-01-21,Michaela Gerg-Leitner,DE,17,Downhill
+1983-01-21,Irene Epple,DE,82,Combined
+1983-01-21,Regine Moesenlechner,DE,0,Downhill
+1983-01-21,Andreja Leskovsek,,3,Slalom
+1983-01-21,Elena Medzihradska,SK,9,Giant Slalom
+1983-01-21,Paoletta Magoni,IT,26,Slalom
 1983-01-21,Jana Gantnerova,SK,27,Downhill
-1983-01-21,Eva Grabowska,PL,0,Slalom
-1983-01-21,Monika Hess,CH,0,Slalom
+1983-01-21,Liisa Savijarvi,CA,0,Downhill
 1983-01-21,Catherine Quittet,FR,16,Downhill
-1983-01-21,Cindy Nelson,US,55,Giant Slalom
-1983-01-21,Heidi Wiesler,DE,39,Combined
-1983-01-21,Heidi Preuss,US,1,Giant Slalom
-1983-01-21,Heidi Preuss,US,1,Giant Slalom
-1983-01-21,Diana Haight,CA,3,Downhill
-1983-01-21,Dorota Tlalka,PL,21,Slalom
-1983-01-21,Gerry Sorensen,CA,32,Downhill
-1983-01-21,Christa Kinshofer,DE,0,Slalom
-1983-01-21,Diana Haight,CA,3,Downhill
-1983-01-21,Lea Soelkner,AT,22,Downhill
-1983-01-21,Erika Hess,CH,90,Slalom
+1983-01-21,Paola Toniolli,IT,5,Slalom
+1983-01-21,Sieglinde Winkler,AT,6,Downhill
+1983-01-21,Ursula Konzett,LI,22,Slalom
+1983-01-21,Maria Walliser,CH,65,Downhill
+1983-01-21,Huberta Wolf,AT,5,Downhill
+1983-01-21,Malgorzata Tlalka,PL,20,Slalom
+1983-01-21,Debbie Armstrong,US,24,Downhill
+1983-01-21,Francoise Bozon,FR,13,Downhill
+1983-01-21,Renate Lazak,DE,1,Slalom
 1983-01-21,Maria Maricich,US,20,Downhill
-1983-01-21,Gerry Sorensen,CA,32,Downhill
-1983-01-21,Jana Gantnerova,SK,38,Downhill
-1983-01-22,Fabienne Serrat,FR,53,Giant Slalom
-1983-01-22,Monika Hess,CH,0,Slalom
-1983-01-22,Regine Moesenlechner,DE,0,Downhill
-1983-01-22,Claudia Riedl,AT,0,Giant Slalom
-1983-01-22,Elisabeth Warter,AT,0,Downhill
-1983-01-22,Diana Haight,CA,3,Downhill
-1983-01-22,Heidi Wiesler,DE,39,Combined
-1983-01-22,Roswitha Steiner,AT,21,Slalom
-1983-01-22,Francoise Bozon,FR,13,Downhill
-1983-01-22,Petra Wenzel,LI,12,Slalom
-1983-01-22,Irene Epple,DE,82,Super G
-1983-01-22,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-22,Helene Barbier,FR,20,Giant Slalom
-1983-01-22,Ursula Konzett,LI,22,Slalom
-1983-01-22,Jana Gantnerova,SK,48,Downhill
-1983-01-22,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-21,Anni Kronbichler,AT,62,Slalom
+1983-01-21,Christa Kinshofer,DE,0,Slalom
+1983-01-21,Rosi Aschenwald,AT,7,Slalom
+1983-01-21,Anja Zavadlav,,9,Slalom
+1983-01-21,Veronique Robin,CH,4,Combined
+1983-01-21,Elisabeth Kirchler,AT,60,Downhill
+1983-01-21,Myriam Difant,FR,0,Combined
+1983-01-21,Heidi Wiesler,DE,32,Combined
+1983-01-21,Claudine Emonet,FR,20,Downhill
+1983-01-21,Doris De Agostini,CH,52,Downhill
+1983-01-21,Dorota Tlalka,PL,22,Slalom
+1983-01-21,Carole Merle,FR,0,Giant Slalom
+1983-01-21,Tamara McKinney,US,117,Giant Slalom
+1983-01-21,Eva Grabowska,PL,0,Slalom
+1983-01-21,Lea Soelkner,AT,20,Downhill
+1983-01-21,Pam Fletcher,US,0,Downhill
+1983-01-21,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-21,Veronika Vitzthum,AT,13,Downhill
+1983-01-21,Marie Lucie Waldmeier,FR,19,Downhill
+1983-01-21,Helene Barbier,FR,20,Giant Slalom
+1983-01-21,Erika Hess,CH,125,Slalom
+1983-01-21,Elisabeth Warter,AT,0,Downhill
+1983-01-21,Monika Hess,CH,0,Slalom
+1983-01-21,Ivana Valesova,SK,6,Combined
+1983-01-21,Ida Ladstaetter,AT,4,Slalom
+1983-01-21,Roswitha Steiner,AT,21,Slalom
+1983-01-21,Petra Wenzel,LI,12,Slalom
+1983-01-21,Heidi Preuss,US,1,Giant Slalom
+1983-01-21,Karen Stemmle,CA,0,Downhill
+1983-01-21,Alexandra Marasova,SK,9,Slalom
+1983-01-21,Karin Buder,AT,6,Slalom
+1983-01-21,Lorena Frigo,IT,20,Slalom
+1983-01-21,Fulvia Stevenin,IT,4,Slalom
+1983-01-21,Daniela Zini,IT,18,Slalom
+1983-01-21,Christin Cooper,US,67,Combined
+1983-01-21,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-21,Diana Haight,CA,3,Downhill
+1983-01-21,Holly Beth Flanders,US,0,Downhill
+1983-01-21,Fabienne Serrat,FR,38,Giant Slalom
+1983-01-21,Brigitte Nansoz,CH,5,Slalom
+1983-01-21,Ariane Ehrat,CH,15,Downhill
+1983-01-21,Caroline Attia,FR,44,Downhill
+1983-01-21,Maria Epple,DE,62,Giant Slalom
 1983-01-22,Eva Twardokens,US,3,Combined
-1983-01-22,Debbie Armstrong,US,19,Downhill
-1983-01-22,Andreja Leskovsek,,3,Slalom
-1983-01-22,Daniela Zini,IT,18,Slalom
-1983-01-22,Paola Toniolli,IT,5,Slalom
-1983-01-22,Zoe Haas,CH,34,Super G
-1983-01-22,Renate Lazak,DE,1,Slalom
-1983-01-22,Alexandra Marasova,SK,9,Slalom
-1983-01-22,Rosi Aschenwald,AT,7,Slalom
-1983-01-22,Perrine Pelen,FR,48,Slalom
-1983-01-22,Heidi Preuss,US,1,Giant Slalom
-1983-01-22,Erika Hess,CH,90,Slalom
-1983-01-22,Gerry Sorensen,CA,32,Downhill
-1983-01-22,Maria Maricich,US,20,Downhill
-1983-01-22,Huberta Wolf,AT,5,Downhill
-1983-01-22,Christa Kinshofer,DE,0,Slalom
-1983-01-22,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-22,Tamara McKinney,US,97,Giant Slalom
-1983-01-22,Caroline Attia,FR,59,Downhill
-1983-01-22,Brigitte Nansoz,CH,5,Slalom
-1983-01-22,Cindy Nelson,US,55,Giant Slalom
-1983-01-22,Holly Beth Flanders,US,8,Downhill
-1983-01-22,Elena Medzihradska,SK,9,Giant Slalom
 1983-01-22,Myriam Difant,FR,3,Combined
-1983-01-22,Catherine Quittet,FR,21,Downhill
-1983-01-22,Fulvia Stevenin,IT,4,Slalom
-1983-01-22,Doris De Agostini,CH,82,Downhill
-1983-01-22,Michela Figini,CH,6,Giant Slalom
-1983-01-22,Anni Kronbichler,AT,50,Slalom
-1983-01-22,Karin Buder,AT,6,Slalom
-1983-01-22,Ivana Valesova,SK,6,Combined
-1983-01-22,Liisa Savijarvi,CA,0,Downhill
-1983-01-22,Pam Fletcher,US,0,Downhill
-1983-01-22,Ariane Ehrat,CH,24,Downhill
-1983-01-22,Lorena Frigo,IT,20,Slalom
-1983-01-22,Olga Charvatova,SK,45,Slalom
-1983-01-22,Elisabeth Kirchler,AT,60,Downhill
-1983-01-22,Malgorzata Tlalka,PL,20,Slalom
+1983-01-22,Sieglinde Winkler,AT,18,Downhill
+1983-01-22,Katharina Gutensohn,AT,21,Combined
+1983-01-22,Helene Barbier,FR,20,Giant Slalom
+1983-01-22,Daniela Zini,IT,18,Slalom
+1983-01-22,Heidi Preuss,US,1,Giant Slalom
+1983-01-22,Laurie Graham,CA,40,Downhill
+1983-01-22,Petra Wenzel,LI,12,Slalom
+1983-01-22,Hanni Wenzel,LI,111,Slalom
+1983-01-22,Brigitte Nansoz,CH,5,Slalom
+1983-01-22,Perrine Pelen,FR,48,Slalom
+1983-01-22,Francoise Bozon,FR,13,Downhill
+1983-01-22,Anne Flore Rey,FR,14,Giant Slalom
+1983-01-22,Elena Medzihradska,SK,9,Giant Slalom
 1983-01-22,Claudine Emonet,FR,31,Downhill
 1983-01-22,Lea Soelkner,AT,31,Downhill
-1983-01-22,Marina Kiehl,DE,5,Combined
-1983-01-22,Dorota Tlalka,PL,21,Slalom
-1983-01-22,Sonja Stotz,DE,4,Combined
-1983-01-22,Elisabeth Chaud,FR,54,Downhill
-1983-01-22,Eva Grabowska,PL,0,Slalom
-1983-01-22,Carole Merle,FR,6,Giant Slalom
-1983-01-22,Sieglinde Winkler,AT,18,Downhill
-1983-01-22,Sigrid Wolf,AT,0,Downhill
-1983-01-22,Veronika Vitzthum,AT,13,Downhill
-1983-01-22,Brigitte Oertli,CH,31,Combined
-1983-01-22,Veronique Robin,CH,4,Combined
-1983-01-22,Katharina Gutensohn,AT,21,Combined
-1983-01-22,Hanni Wenzel,LI,84,Slalom
-1983-01-22,Karen Stemmle,CA,0,Downhill
-1983-01-22,Maria Epple,DE,62,Giant Slalom
-1983-01-22,Laurie Graham,CA,40,Downhill
-1983-01-22,Michaela Gerg-Leitner,DE,26,Downhill
-1983-01-22,Ida Ladstaetter,AT,4,Slalom
-1983-01-22,Maria Walliser,CH,71,Downhill
+1983-01-22,Monika Hess,CH,0,Slalom
+1983-01-22,Zoe Haas,CH,34,Super G
 1983-01-22,Anja Zavadlav,,9,Slalom
-1983-01-22,Christin Cooper,US,39,Giant Slalom
+1983-01-22,Jana Gantnerova,SK,48,Downhill
+1983-01-22,Liisa Savijarvi,CA,0,Downhill
+1983-01-22,Sonja Stotz,DE,4,Combined
+1983-01-22,Carole Merle,FR,6,Giant Slalom
+1983-01-22,Renate Lazak,DE,1,Slalom
+1983-01-22,Elisabeth Kirchler,AT,85,Downhill
 1983-01-22,Paoletta Magoni,IT,26,Slalom
-1983-01-22,Sylvia Eder,AT,18,Downhill
+1983-01-22,Elisabeth Warter,AT,0,Downhill
+1983-01-22,Gerry Sorensen,CA,32,Downhill
+1983-01-22,Dorota Tlalka,PL,22,Slalom
+1983-01-22,Sylvia Eder,AT,38,Combined
+1983-01-22,Claudia Riedl,AT,0,Giant Slalom
+1983-01-22,Ivana Valesova,SK,6,Combined
+1983-01-22,Irene Epple,DE,93,Combined
+1983-01-22,Andreja Leskovsek,,3,Slalom
+1983-01-22,Regine Moesenlechner,DE,0,Downhill
+1983-01-22,Rosi Aschenwald,AT,7,Slalom
+1983-01-22,Erika Hess,CH,125,Slalom
+1983-01-22,Michela Figini,CH,6,Giant Slalom
+1983-01-22,Eva Grabowska,PL,0,Slalom
+1983-01-22,Veronique Robin,CH,4,Combined
+1983-01-22,Michaela Gerg-Leitner,DE,26,Downhill
+1983-01-22,Maria Epple,DE,62,Giant Slalom
+1983-01-22,Christin Cooper,US,67,Combined
+1983-01-22,Marina Kiehl,DE,5,Combined
+1983-01-22,Fulvia Stevenin,IT,4,Slalom
+1983-01-22,Ariane Ehrat,CH,24,Downhill
+1983-01-22,Karen Stemmle,CA,0,Downhill
+1983-01-22,Heidi Wiesler,DE,39,Combined
+1983-01-22,Alexandra Marasova,SK,9,Slalom
+1983-01-22,Sigrid Wolf,AT,0,Downhill
+1983-01-22,Cindy Nelson,US,55,Giant Slalom
+1983-01-22,Veronika Vitzthum,AT,13,Downhill
+1983-01-22,Roswitha Steiner,AT,21,Slalom
 1983-01-22,Maria Rosa Quario,IT,44,Slalom
-1983-01-23,Anni Kronbichler,AT,50,Slalom
-1983-01-23,Laurie Graham,CA,40,Downhill
-1983-01-23,Karin Buder,AT,6,Slalom
-1983-01-23,Marina Kiehl,DE,5,Combined
-1983-01-23,Fabienne Serrat,FR,65,Giant Slalom
-1983-01-23,Alexandra Marasova,SK,9,Slalom
-1983-01-23,Heidi Wiesler,DE,39,Combined
-1983-01-23,Paoletta Magoni,IT,26,Slalom
-1983-01-23,Ivana Valesova,SK,6,Combined
-1983-01-23,Maria Epple,DE,69,Giant Slalom
-1983-01-23,Anne Flore Rey,FR,23,Giant Slalom
-1983-01-23,Regine Moesenlechner,DE,0,Downhill
-1983-01-23,Pam Fletcher,US,0,Downhill
-1983-01-23,Ursula Konzett,LI,22,Slalom
-1983-01-23,Andreja Leskovsek,,3,Slalom
-1983-01-23,Olga Charvatova,SK,45,Slalom
-1983-01-23,Ida Ladstaetter,AT,4,Slalom
-1983-01-23,Sylvia Eder,AT,18,Downhill
-1983-01-23,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-23,Malgorzata Tlalka,PL,20,Slalom
-1983-01-23,Fulvia Stevenin,IT,4,Slalom
-1983-01-23,Debbie Armstrong,US,19,Downhill
-1983-01-23,Christin Cooper,US,59,Giant Slalom
+1983-01-22,Doris De Agostini,CH,82,Downhill
+1983-01-22,Olga Charvatova,SK,45,Slalom
+1983-01-22,Brigitte Oertli,CH,31,Combined
+1983-01-22,Ida Ladstaetter,AT,4,Slalom
+1983-01-22,Tamara McKinney,US,117,Giant Slalom
+1983-01-22,Elisabeth Chaud,FR,54,Downhill
+1983-01-22,Debbie Armstrong,US,24,Downhill
+1983-01-22,Holly Beth Flanders,US,8,Downhill
+1983-01-22,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-22,Huberta Wolf,AT,5,Downhill
+1983-01-22,Karin Buder,AT,6,Slalom
+1983-01-22,Malgorzata Tlalka,PL,20,Slalom
+1983-01-22,Maria Walliser,CH,71,Downhill
+1983-01-22,Ursula Konzett,LI,22,Slalom
+1983-01-22,Fabienne Serrat,FR,53,Giant Slalom
+1983-01-22,Marie Lucie Waldmeier,FR,34,Downhill
+1983-01-22,Anni Kronbichler,AT,62,Slalom
+1983-01-22,Paola Toniolli,IT,5,Slalom
+1983-01-22,Maria Maricich,US,20,Downhill
+1983-01-22,Catherine Quittet,FR,21,Downhill
+1983-01-22,Lorena Frigo,IT,20,Slalom
+1983-01-22,Caroline Attia,FR,59,Downhill
+1983-01-22,Christa Kinshofer,DE,0,Slalom
+1983-01-22,Pam Fletcher,US,0,Downhill
+1983-01-22,Diana Haight,CA,3,Downhill
+1983-01-23,Tamara McKinney,US,142,Giant Slalom
 1983-01-23,Maria Rosa Quario,IT,44,Slalom
-1983-01-23,Holly Beth Flanders,US,8,Downhill
-1983-01-23,Elena Medzihradska,SK,9,Giant Slalom
-1983-01-23,Cindy Nelson,US,61,Giant Slalom
-1983-01-23,Rosi Aschenwald,AT,7,Slalom
-1983-01-23,Brigitte Nansoz,CH,5,Slalom
-1983-01-23,Elisabeth Kirchler,AT,60,Downhill
-1983-01-23,Elisabeth Warter,AT,0,Downhill
-1983-01-23,Lorena Frigo,IT,20,Slalom
-1983-01-23,Eva Grabowska,PL,0,Slalom
-1983-01-23,Claudia Riedl,AT,0,Giant Slalom
-1983-01-23,Jana Gantnerova,SK,48,Downhill
-1983-01-23,Christa Kinshofer,DE,0,Slalom
-1983-01-23,Karen Stemmle,CA,0,Downhill
-1983-01-23,Maria Maricich,US,20,Downhill
-1983-01-23,Irene Epple,DE,93,Super G
-1983-01-23,Veronique Robin,CH,4,Combined
-1983-01-23,Doris De Agostini,CH,82,Downhill
-1983-01-23,Elisabeth Chaud,FR,55,Downhill
-1983-01-23,Sigrid Wolf,AT,0,Downhill
-1983-01-23,Francoise Bozon,FR,13,Downhill
-1983-01-23,Diana Haight,CA,3,Downhill
-1983-01-23,Claudine Emonet,FR,31,Downhill
-1983-01-23,Zoe Haas,CH,42,Super G
-1983-01-23,Erika Hess,CH,100,Slalom
+1983-01-23,Elisabeth Kirchler,AT,85,Downhill
 1983-01-23,Heidi Preuss,US,4,Giant Slalom
-1983-01-23,Lea Soelkner,AT,31,Downhill
-1983-01-23,Sonja Stotz,DE,4,Combined
-1983-01-23,Helene Barbier,FR,20,Giant Slalom
-1983-01-23,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-23,Catherine Quittet,FR,21,Downhill
-1983-01-23,Myriam Difant,FR,3,Combined
-1983-01-23,Michaela Gerg-Leitner,DE,28,Downhill
-1983-01-23,Veronika Vitzthum,AT,13,Downhill
-1983-01-23,Daniela Zini,IT,22,Slalom
-1983-01-23,Brigitte Oertli,CH,31,Combined
-1983-01-23,Katharina Gutensohn,AT,21,Combined
-1983-01-23,Hanni Wenzel,LI,89,Slalom
-1983-01-23,Sieglinde Winkler,AT,18,Downhill
-1983-01-23,Perrine Pelen,FR,48,Slalom
-1983-01-23,Monika Hess,CH,0,Slalom
+1983-01-23,Eva Grabowska,PL,0,Slalom
 1983-01-23,Anja Zavadlav,,9,Slalom
-1983-01-23,Carole Merle,FR,21,Giant Slalom
-1983-01-23,Eva Twardokens,US,3,Combined
-1983-01-23,Renate Lazak,DE,1,Slalom
-1983-01-23,Petra Wenzel,LI,12,Slalom
-1983-01-23,Gerry Sorensen,CA,32,Downhill
-1983-01-23,Huberta Wolf,AT,5,Downhill
-1983-01-23,Roswitha Steiner,AT,21,Slalom
-1983-01-23,Caroline Attia,FR,59,Downhill
-1983-01-23,Michela Figini,CH,6,Giant Slalom
-1983-01-23,Dorota Tlalka,PL,21,Slalom
+1983-01-23,Helene Barbier,FR,20,Giant Slalom
+1983-01-23,Erika Hess,CH,135,Slalom
+1983-01-23,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-23,Pam Fletcher,US,0,Downhill
+1983-01-23,Doris De Agostini,CH,82,Downhill
+1983-01-23,Rosi Aschenwald,AT,7,Slalom
+1983-01-23,Ivana Valesova,SK,6,Combined
+1983-01-23,Christin Cooper,US,87,Combined
+1983-01-23,Daniela Zini,IT,22,Slalom
+1983-01-23,Olga Charvatova,SK,45,Slalom
+1983-01-23,Sonja Stotz,DE,4,Combined
+1983-01-23,Jana Gantnerova,SK,48,Downhill
 1983-01-23,Liisa Savijarvi,CA,0,Downhill
-1983-01-23,Paola Toniolli,IT,5,Slalom
-1983-01-23,Tamara McKinney,US,122,Giant Slalom
+1983-01-23,Debbie Armstrong,US,24,Downhill
+1983-01-23,Huberta Wolf,AT,5,Downhill
 1983-01-23,Maria Walliser,CH,71,Downhill
+1983-01-23,Ursula Konzett,LI,22,Slalom
+1983-01-23,Anni Kronbichler,AT,62,Slalom
+1983-01-23,Elena Medzihradska,SK,9,Giant Slalom
+1983-01-23,Francoise Bozon,FR,13,Downhill
+1983-01-23,Renate Lazak,DE,1,Slalom
+1983-01-23,Hanni Wenzel,LI,116,Slalom
+1983-01-23,Paoletta Magoni,IT,26,Slalom
+1983-01-23,Claudia Riedl,AT,0,Giant Slalom
+1983-01-23,Cindy Nelson,US,61,Giant Slalom
+1983-01-23,Regine Moesenlechner,DE,0,Downhill
+1983-01-23,Sigrid Wolf,AT,0,Downhill
+1983-01-23,Irene Epple,DE,104,Combined
+1983-01-23,Laurie Graham,CA,40,Downhill
+1983-01-23,Karen Stemmle,CA,0,Downhill
+1983-01-23,Karin Buder,AT,6,Slalom
+1983-01-23,Alexandra Marasova,SK,9,Slalom
+1983-01-23,Caroline Attia,FR,59,Downhill
+1983-01-23,Holly Beth Flanders,US,8,Downhill
+1983-01-23,Anne Flore Rey,FR,23,Giant Slalom
+1983-01-23,Roswitha Steiner,AT,21,Slalom
+1983-01-23,Lorena Frigo,IT,20,Slalom
+1983-01-23,Monika Hess,CH,0,Slalom
+1983-01-23,Maria Maricich,US,20,Downhill
+1983-01-23,Lea Soelkner,AT,31,Downhill
+1983-01-23,Katharina Gutensohn,AT,21,Combined
 1983-01-23,Ariane Ehrat,CH,24,Downhill
-1983-01-29,Laurie Graham,CA,46,Downhill
-1983-01-29,Brigitte Oertli,CH,31,Combined
-1983-01-29,Sigrid Wolf,AT,10,Downhill
-1983-01-29,Carole Merle,FR,21,Giant Slalom
-1983-01-29,Veronique Robin,CH,4,Combined
-1983-01-29,Dorota Tlalka,PL,21,Slalom
-1983-01-29,Olga Charvatova,SK,45,Slalom
-1983-01-29,Maria Walliser,CH,83,Downhill
-1983-01-29,Ida Ladstaetter,AT,4,Slalom
-1983-01-29,Katharina Gutensohn,AT,21,Combined
-1983-01-29,Paoletta Magoni,IT,26,Slalom
-1983-01-29,Perrine Pelen,FR,48,Slalom
-1983-01-29,Maria Epple,DE,69,Giant Slalom
-1983-01-29,Sieglinde Winkler,AT,27,Downhill
-1983-01-29,Alexandra Marasova,SK,9,Slalom
-1983-01-29,Liisa Savijarvi,CA,0,Downhill
-1983-01-29,Ursula Konzett,LI,22,Slalom
-1983-01-29,Ivana Valesova,SK,6,Combined
-1983-01-29,Eva Twardokens,US,3,Combined
-1983-01-29,Ariane Ehrat,CH,24,Downhill
-1983-01-29,Anni Kronbichler,AT,50,Slalom
-1983-01-29,Petra Wenzel,LI,12,Slalom
-1983-01-29,Elisabeth Warter,AT,0,Downhill
+1983-01-23,Claudine Emonet,FR,31,Downhill
+1983-01-23,Marina Kiehl,DE,5,Combined
+1983-01-23,Michela Figini,CH,6,Giant Slalom
+1983-01-23,Sieglinde Winkler,AT,18,Downhill
+1983-01-23,Eva Twardokens,US,3,Combined
+1983-01-23,Perrine Pelen,FR,48,Slalom
+1983-01-23,Maria Epple,DE,69,Giant Slalom
+1983-01-23,Fabienne Serrat,FR,65,Giant Slalom
+1983-01-23,Marie Lucie Waldmeier,FR,34,Downhill
+1983-01-23,Veronika Vitzthum,AT,13,Downhill
+1983-01-23,Petra Wenzel,LI,12,Slalom
+1983-01-23,Christa Kinshofer,DE,0,Slalom
+1983-01-23,Paola Toniolli,IT,5,Slalom
+1983-01-23,Dorota Tlalka,PL,22,Slalom
+1983-01-23,Brigitte Nansoz,CH,5,Slalom
+1983-01-23,Michaela Gerg-Leitner,DE,28,Downhill
+1983-01-23,Sylvia Eder,AT,38,Combined
+1983-01-23,Brigitte Oertli,CH,31,Combined
+1983-01-23,Myriam Difant,FR,3,Combined
+1983-01-23,Ida Ladstaetter,AT,4,Slalom
+1983-01-23,Fulvia Stevenin,IT,4,Slalom
+1983-01-23,Heidi Wiesler,DE,39,Combined
+1983-01-23,Carole Merle,FR,21,Giant Slalom
+1983-01-23,Elisabeth Chaud,FR,55,Downhill
+1983-01-23,Catherine Quittet,FR,21,Downhill
+1983-01-23,Veronique Robin,CH,4,Combined
+1983-01-23,Zoe Haas,CH,42,Super G
+1983-01-23,Elisabeth Warter,AT,0,Downhill
+1983-01-23,Andreja Leskovsek,,3,Slalom
+1983-01-23,Diana Haight,CA,3,Downhill
+1983-01-23,Malgorzata Tlalka,PL,20,Slalom
+1983-01-23,Gerry Sorensen,CA,32,Downhill
 1983-01-29,Zoe Haas,CH,42,Super G
-1983-01-29,Renate Lazak,DE,1,Slalom
-1983-01-29,Pam Fletcher,US,0,Downhill
-1983-01-29,Hanni Wenzel,LI,89,Slalom
-1983-01-29,Heidi Preuss,US,4,Giant Slalom
-1983-01-29,Karen Stemmle,CA,0,Downhill
-1983-01-29,Gerry Sorensen,CA,34,Downhill
-1983-01-29,Erika Hess,CH,100,Slalom
-1983-01-29,Huberta Wolf,AT,5,Downhill
-1983-01-29,Christa Kinshofer,DE,0,Slalom
-1983-01-29,Eva Grabowska,PL,0,Slalom
-1983-01-29,Doris De Agostini,CH,107,Downhill
-1983-01-29,Maria Maricich,US,20,Downhill
-1983-01-29,Karin Buder,AT,6,Slalom
-1983-01-29,Brigitte Nansoz,CH,5,Slalom
-1983-01-29,Elisabeth Kirchler,AT,80,Downhill
-1983-01-29,Malgorzata Tlalka,PL,20,Slalom
-1983-01-29,Michela Figini,CH,6,Giant Slalom
-1983-01-29,Sonja Stotz,DE,4,Combined
-1983-01-29,Elena Medzihradska,SK,9,Giant Slalom
-1983-01-29,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-29,Catherine Quittet,FR,21,Downhill
-1983-01-29,Myriam Difant,FR,3,Combined
-1983-01-29,Lorena Frigo,IT,20,Slalom
-1983-01-29,Elisabeth Chaud,FR,60,Downhill
-1983-01-29,Irene Epple,DE,93,Super G
-1983-01-29,Fulvia Stevenin,IT,4,Slalom
-1983-01-29,Marina Kiehl,DE,5,Combined
-1983-01-29,Michaela Gerg-Leitner,DE,29,Downhill
-1983-01-29,Lea Soelkner,AT,35,Downhill
-1983-01-29,Christin Cooper,US,59,Giant Slalom
-1983-01-29,Tamara McKinney,US,122,Giant Slalom
-1983-01-29,Maria Rosa Quario,IT,44,Slalom
-1983-01-29,Sylvia Eder,AT,26,Downhill
-1983-01-29,Cindy Nelson,US,64,Giant Slalom
-1983-01-29,Rosi Aschenwald,AT,7,Slalom
-1983-01-29,Holly Beth Flanders,US,8,Downhill
-1983-01-29,Veronika Vitzthum,AT,28,Downhill
-1983-01-29,Anja Zavadlav,,9,Slalom
-1983-01-29,Paola Toniolli,IT,5,Slalom
-1983-01-29,Diana Haight,CA,3,Downhill
-1983-01-29,Caroline Attia,FR,66,Downhill
-1983-01-29,Francoise Bozon,FR,13,Downhill
-1983-01-29,Monika Hess,CH,0,Slalom
-1983-01-29,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-29,Helene Barbier,FR,20,Giant Slalom
-1983-01-29,Heidi Wiesler,DE,39,Combined
-1983-01-29,Roswitha Steiner,AT,21,Slalom
-1983-01-29,Claudia Riedl,AT,0,Giant Slalom
-1983-01-29,Daniela Zini,IT,22,Slalom
-1983-01-29,Debbie Armstrong,US,30,Downhill
-1983-01-29,Regine Moesenlechner,DE,0,Downhill
-1983-01-29,Fabienne Serrat,FR,65,Giant Slalom
-1983-01-29,Jana Gantnerova,SK,48,Downhill
-1983-01-29,Anne Flore Rey,FR,23,Giant Slalom
-1983-01-29,Claudine Emonet,FR,31,Downhill
+1983-01-29,Tamara McKinney,US,142,Giant Slalom
+1983-01-29,Dorota Tlalka,PL,22,Slalom
 1983-01-29,Andreja Leskovsek,,3,Slalom
-1983-01-30,Rosi Aschenwald,AT,7,Slalom
-1983-01-30,Maria Walliser,CH,83,Downhill
-1983-01-30,Hanni Wenzel,LI,89,Slalom
-1983-01-30,Liisa Savijarvi,CA,0,Downhill
-1983-01-30,Eva Twardokens,US,5,Combined
-1983-01-30,Michaela Gerg-Leitner,DE,31,Downhill
-1983-01-30,Sylvia Eder,AT,35,Downhill
-1983-01-30,Paola Toniolli,IT,5,Slalom
-1983-01-30,Claudia Riedl,AT,0,Giant Slalom
-1983-01-30,Veronika Vitzthum,AT,28,Downhill
-1983-01-30,Dorota Tlalka,PL,21,Slalom
-1983-01-30,Maria Rosa Quario,IT,69,Slalom
-1983-01-30,Maria Walliser,CH,83,Downhill
-1983-01-30,Veronique Robin,CH,4,Combined
-1983-01-30,Myriam Difant,FR,3,Combined
-1983-01-30,Myriam Difant,FR,3,Combined
-1983-01-30,Veronique Robin,CH,4,Combined
-1983-01-30,Fulvia Stevenin,IT,4,Slalom
-1983-01-30,Fulvia Stevenin,IT,4,Slalom
-1983-01-30,Anja Zavadlav,,9,Slalom
-1983-01-30,Veronika Vitzthum,AT,28,Downhill
-1983-01-30,Tamara McKinney,US,122,Giant Slalom
-1983-01-30,Olga Charvatova,SK,45,Slalom
-1983-01-30,Anne Flore Rey,FR,23,Giant Slalom
-1983-01-30,Karen Stemmle,CA,0,Downhill
-1983-01-30,Olga Charvatova,SK,45,Slalom
-1983-01-30,Christin Cooper,US,59,Giant Slalom
-1983-01-30,Christin Cooper,US,59,Giant Slalom
-1983-01-30,Maria Rosa Quario,IT,69,Slalom
-1983-01-30,Ivana Valesova,SK,11,Combined
-1983-01-30,Michaela Gerg-Leitner,DE,31,Downhill
-1983-01-30,Perrine Pelen,FR,54,Slalom
-1983-01-30,Sonja Stotz,DE,11,Combined
-1983-01-30,Karen Stemmle,CA,0,Downhill
-1983-01-30,Anne Flore Rey,FR,23,Giant Slalom
-1983-01-30,Claudia Riedl,AT,0,Giant Slalom
-1983-01-30,Regine Moesenlechner,DE,0,Downhill
-1983-01-30,Irene Epple,DE,104,Super G
-1983-01-30,Sylvia Eder,AT,35,Downhill
-1983-01-30,Erika Hess,CH,100,Slalom
-1983-01-30,Rosi Aschenwald,AT,7,Slalom
-1983-01-30,Marina Kiehl,DE,5,Combined
-1983-01-30,Catherine Quittet,FR,21,Downhill
-1983-01-30,Holly Beth Flanders,US,8,Downhill
-1983-01-30,Tamara McKinney,US,132,Giant Slalom
+1983-01-29,Elena Medzihradska,SK,9,Giant Slalom
+1983-01-29,Maria Walliser,CH,83,Downhill
+1983-01-29,Michela Figini,CH,6,Giant Slalom
+1983-01-29,Ivana Valesova,SK,6,Combined
+1983-01-29,Elisabeth Warter,AT,0,Downhill
+1983-01-29,Francoise Bozon,FR,13,Downhill
+1983-01-29,Sieglinde Winkler,AT,27,Downhill
+1983-01-29,Eva Twardokens,US,3,Combined
+1983-01-29,Liisa Savijarvi,CA,0,Downhill
+1983-01-29,Caroline Attia,FR,66,Downhill
+1983-01-29,Elisabeth Chaud,FR,60,Downhill
+1983-01-29,Fulvia Stevenin,IT,4,Slalom
+1983-01-29,Brigitte Oertli,CH,31,Combined
+1983-01-29,Huberta Wolf,AT,5,Downhill
+1983-01-29,Karen Stemmle,CA,0,Downhill
+1983-01-29,Karin Buder,AT,6,Slalom
+1983-01-29,Olga Charvatova,SK,45,Slalom
+1983-01-29,Debbie Armstrong,US,35,Downhill
+1983-01-29,Holly Beth Flanders,US,8,Downhill
+1983-01-29,Sonja Stotz,DE,4,Combined
+1983-01-29,Alexandra Marasova,SK,9,Slalom
+1983-01-29,Michaela Gerg-Leitner,DE,29,Downhill
+1983-01-29,Marina Kiehl,DE,5,Combined
+1983-01-29,Maria Rosa Quario,IT,44,Slalom
+1983-01-29,Regine Moesenlechner,DE,0,Downhill
+1983-01-29,Maria Epple,DE,69,Giant Slalom
+1983-01-29,Jana Gantnerova,SK,48,Downhill
+1983-01-29,Fabienne Serrat,FR,65,Giant Slalom
+1983-01-29,Malgorzata Tlalka,PL,20,Slalom
+1983-01-29,Ariane Ehrat,CH,24,Downhill
+1983-01-29,Heidi Wiesler,DE,39,Combined
+1983-01-29,Christin Cooper,US,87,Combined
+1983-01-29,Perrine Pelen,FR,48,Slalom
+1983-01-29,Anne Flore Rey,FR,23,Giant Slalom
+1983-01-29,Sigrid Wolf,AT,10,Downhill
+1983-01-29,Catherine Quittet,FR,21,Downhill
+1983-01-29,Christa Kinshofer,DE,0,Slalom
+1983-01-29,Veronika Vitzthum,AT,28,Downhill
+1983-01-29,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-01-29,Cindy Nelson,US,64,Giant Slalom
+1983-01-29,Pam Fletcher,US,0,Downhill
+1983-01-29,Monika Hess,CH,0,Slalom
+1983-01-29,Anja Zavadlav,,9,Slalom
+1983-01-29,Marie Lucie Waldmeier,FR,34,Downhill
+1983-01-29,Renate Lazak,DE,1,Slalom
+1983-01-29,Claudia Riedl,AT,0,Giant Slalom
+1983-01-29,Paoletta Magoni,IT,26,Slalom
+1983-01-29,Lorena Frigo,IT,20,Slalom
+1983-01-29,Helene Barbier,FR,20,Giant Slalom
+1983-01-29,Lea Soelkner,AT,35,Downhill
+1983-01-29,Ida Ladstaetter,AT,4,Slalom
+1983-01-29,Myriam Difant,FR,3,Combined
+1983-01-29,Doris De Agostini,CH,107,Downhill
+1983-01-29,Roswitha Steiner,AT,21,Slalom
+1983-01-29,Carole Merle,FR,21,Giant Slalom
+1983-01-29,Sylvia Eder,AT,46,Combined
+1983-01-29,Petra Wenzel,LI,12,Slalom
+1983-01-29,Claudine Emonet,FR,31,Downhill
+1983-01-29,Maria Maricich,US,20,Downhill
+1983-01-29,Diana Haight,CA,3,Downhill
+1983-01-29,Rosi Aschenwald,AT,7,Slalom
+1983-01-29,Ursula Konzett,LI,22,Slalom
+1983-01-29,Hanni Wenzel,LI,116,Slalom
+1983-01-29,Laurie Graham,CA,46,Downhill
+1983-01-29,Brigitte Nansoz,CH,5,Slalom
+1983-01-29,Eva Grabowska,PL,0,Slalom
+1983-01-29,Irene Epple,DE,104,Combined
+1983-01-29,Gerry Sorensen,CA,34,Downhill
+1983-01-29,Anni Kronbichler,AT,62,Slalom
+1983-01-29,Veronique Robin,CH,4,Combined
+1983-01-29,Paola Toniolli,IT,5,Slalom
+1983-01-29,Heidi Preuss,US,4,Giant Slalom
+1983-01-29,Elisabeth Kirchler,AT,105,Downhill
+1983-01-29,Daniela Zini,IT,22,Slalom
+1983-01-29,Erika Hess,CH,135,Slalom
+1983-01-29,Katharina Gutensohn,AT,21,Combined
+1983-01-30,Christin Cooper,US,87,Combined
 1983-01-30,Gerry Sorensen,CA,34,Downhill
-1983-01-30,Gerry Sorensen,CA,34,Downhill
-1983-01-30,Helene Barbier,FR,20,Giant Slalom
-1983-01-30,Andreja Leskovsek,,3,Slalom
-1983-01-30,Erika Hess,CH,100,Slalom
-1983-01-30,Helene Barbier,FR,20,Giant Slalom
-1983-01-30,Elisabeth Chaud,FR,60,Downhill
-1983-01-30,Elisabeth Chaud,FR,60,Downhill
-1983-01-30,Heidi Preuss,US,4,Giant Slalom
-1983-01-30,Malgorzata Tlalka,PL,20,Slalom
-1983-01-30,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-30,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-30,Karin Buder,AT,6,Slalom
-1983-01-30,Elisabeth Kirchler,AT,95,Downhill
-1983-01-30,Elena Medzihradska,SK,9,Giant Slalom
-1983-01-30,Paola Toniolli,IT,5,Slalom
-1983-01-30,Huberta Wolf,AT,5,Downhill
-1983-01-30,Daniela Zini,IT,29,Slalom
-1983-01-30,Huberta Wolf,AT,5,Downhill
-1983-01-30,Karin Buder,AT,6,Slalom
-1983-01-30,Dorota Tlalka,PL,36,Slalom
-1983-01-30,Heidi Preuss,US,7,Giant Slalom
-1983-01-30,Michela Figini,CH,6,Giant Slalom
-1983-01-30,Christa Kinshofer,DE,0,Slalom
-1983-01-30,Holly Beth Flanders,US,8,Downhill
-1983-01-30,Marina Kiehl,DE,5,Combined
-1983-01-30,Roswitha Steiner,AT,33,Slalom
-1983-01-30,Catherine Quittet,FR,21,Downhill
-1983-01-30,Francoise Bozon,FR,13,Downhill
-1983-01-30,Daniela Zini,IT,29,Slalom
-1983-01-30,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-30,Sonja Stotz,DE,11,Combined
-1983-01-30,Eva Grabowska,PL,1,Slalom
-1983-01-30,Cindy Nelson,US,64,Giant Slalom
-1983-01-30,Francoise Bozon,FR,13,Downhill
-1983-01-30,Lorena Frigo,IT,20,Slalom
-1983-01-30,Elisabeth Kirchler,AT,95,Downhill
-1983-01-30,Heidi Wiesler,DE,39,Combined
-1983-01-30,Maria Maricich,US,20,Downhill
-1983-01-30,Maria Maricich,US,20,Downhill
-1983-01-30,Lea Soelkner,AT,35,Downhill
-1983-01-30,Lea Soelkner,AT,35,Downhill
-1983-01-30,Eva Grabowska,PL,1,Slalom
-1983-01-30,Brigitte Nansoz,CH,5,Slalom
-1983-01-30,Andreja Leskovsek,,3,Slalom
-1983-01-30,Christa Kinshofer,DE,0,Slalom
-1983-01-30,Lorena Frigo,IT,20,Slalom
-1983-01-30,Zoe Haas,CH,50,Super G
-1983-01-30,Michela Figini,CH,12,Giant Slalom
 1983-01-30,Cindy Nelson,US,76,Giant Slalom
-1983-01-30,Marie Lucie Waldmeier,FR,34,Downhill
-1983-01-30,Irene Epple,DE,104,Super G
-1983-01-30,Petra Wenzel,LI,23,Slalom
-1983-01-30,Alexandra Marasova,SK,9,Slalom
-1983-01-30,Anni Kronbichler,AT,50,Slalom
-1983-01-30,Alexandra Marasova,SK,9,Slalom
-1983-01-30,Paoletta Magoni,IT,31,Slalom
-1983-01-30,Anni Kronbichler,AT,59,Slalom
-1983-01-30,Ariane Ehrat,CH,24,Downhill
-1983-01-30,Pam Fletcher,US,0,Downhill
-1983-01-30,Brigitte Oertli,CH,31,Combined
-1983-01-30,Perrine Pelen,FR,54,Slalom
-1983-01-30,Maria Epple,DE,69,Giant Slalom
-1983-01-30,Diana Haight,CA,3,Downhill
-1983-01-30,Diana Haight,CA,3,Downhill
-1983-01-30,Ariane Ehrat,CH,24,Downhill
-1983-01-30,Monika Hess,CH,0,Slalom
-1983-01-30,Paoletta Magoni,IT,31,Slalom
-1983-01-30,Ida Ladstaetter,AT,4,Slalom
-1983-01-30,Ida Ladstaetter,AT,4,Slalom
-1983-01-30,Laurie Graham,CA,46,Downhill
-1983-01-30,Ursula Konzett,LI,22,Slalom
-1983-01-30,Ursula Konzett,LI,22,Slalom
-1983-01-30,Claudine Emonet,FR,31,Downhill
-1983-01-30,Caroline Attia,FR,66,Downhill
-1983-01-30,Caroline Attia,FR,66,Downhill
-1983-01-30,Monika Hess,CH,1,Slalom
-1983-01-30,Brigitte Nansoz,CH,5,Slalom
-1983-01-30,Debbie Armstrong,US,30,Downhill
-1983-01-30,Debbie Armstrong,US,30,Downhill
-1983-01-30,Elena Medzihradska,SK,9,Giant Slalom
-1983-01-30,Anja Zavadlav,,9,Slalom
-1983-01-30,Renate Lazak,DE,1,Slalom
-1983-01-30,Renate Lazak,DE,1,Slalom
-1983-01-30,Fabienne Serrat,FR,65,Giant Slalom
-1983-01-30,Elisabeth Warter,AT,0,Downhill
-1983-01-30,Elisabeth Warter,AT,0,Downhill
-1983-01-30,Fabienne Serrat,FR,65,Giant Slalom
-1983-01-30,Petra Wenzel,LI,23,Slalom
-1983-01-30,Roswitha Steiner,AT,33,Slalom
-1983-01-30,Hanni Wenzel,LI,109,Slalom
-1983-01-30,Malgorzata Tlalka,PL,24,Slalom
-1983-01-30,Zoe Haas,CH,50,Super G
-1983-01-30,Eva Twardokens,US,5,Combined
-1983-01-30,Claudine Emonet,FR,31,Downhill
-1983-01-30,Sieglinde Winkler,AT,27,Downhill
-1983-01-30,Sieglinde Winkler,AT,27,Downhill
-1983-01-30,Laurie Graham,CA,46,Downhill
-1983-01-30,Jana Gantnerova,SK,48,Downhill
 1983-01-30,Sigrid Wolf,AT,10,Downhill
+1983-01-30,Michaela Gerg-Leitner,DE,31,Downhill
+1983-01-30,Andreja Leskovsek,,3,Slalom
+1983-01-30,Sylvia Eder,AT,55,Combined
+1983-01-30,Karin Buder,AT,6,Slalom
+1983-01-30,Michela Figini,CH,6,Giant Slalom
+1983-01-30,Paoletta Magoni,IT,26,Slalom
 1983-01-30,Regine Moesenlechner,DE,0,Downhill
-1983-01-30,Katharina Gutensohn,AT,21,Combined
-1983-01-30,Heidi Wiesler,DE,43,Combined
-1983-01-30,Liisa Savijarvi,CA,0,Downhill
-1983-01-30,Katharina Gutensohn,AT,21,Combined
-1983-01-30,Sigrid Wolf,AT,10,Downhill
-1983-01-30,Doris De Agostini,CH,107,Downhill
-1983-01-30,Pam Fletcher,US,0,Downhill
-1983-01-30,Carole Merle,FR,21,Giant Slalom
-1983-01-30,Doris De Agostini,CH,107,Downhill
+1983-01-30,Irene Epple,DE,104,Combined
+1983-01-30,Renate Lazak,DE,1,Slalom
+1983-01-30,Fabienne Serrat,FR,65,Giant Slalom
+1983-01-30,Diana Haight,CA,3,Downhill
+1983-01-30,Eva Grabowska,PL,0,Slalom
+1983-01-30,Veronique Robin,CH,4,Combined
+1983-01-30,Rosi Aschenwald,AT,7,Slalom
+1983-01-30,Elisabeth Kirchler,AT,120,Downhill
+1983-01-30,Erika Hess,CH,135,Slalom
+1983-01-30,Veronika Vitzthum,AT,28,Downhill
+1983-01-30,Marie Lucie Waldmeier,FR,34,Downhill
+1983-01-30,Dorota Tlalka,PL,37,Slalom
+1983-01-30,Ida Ladstaetter,AT,4,Slalom
+1983-01-30,Blanca Fernandez Ochoa,ES,1,Giant Slalom
 1983-01-30,Ivana Valesova,SK,11,Combined
+1983-01-30,Pam Fletcher,US,0,Downhill
+1983-01-30,Lorena Frigo,IT,20,Slalom
+1983-01-30,Doris De Agostini,CH,107,Downhill
 1983-01-30,Carole Merle,FR,21,Giant Slalom
+1983-01-30,Heidi Wiesler,DE,39,Combined
+1983-01-30,Fulvia Stevenin,IT,4,Slalom
+1983-01-30,Karen Stemmle,CA,0,Downhill
 1983-01-30,Maria Epple,DE,77,Giant Slalom
+1983-01-30,Ariane Ehrat,CH,24,Downhill
+1983-01-30,Alexandra Marasova,SK,9,Slalom
+1983-01-30,Caroline Attia,FR,66,Downhill
+1983-01-30,Maria Maricich,US,20,Downhill
+1983-01-30,Holly Beth Flanders,US,8,Downhill
+1983-01-30,Tamara McKinney,US,152,Giant Slalom
+1983-01-30,Elisabeth Warter,AT,0,Downhill
+1983-01-30,Heidi Preuss,US,7,Giant Slalom
+1983-01-30,Elena Medzihradska,SK,9,Giant Slalom
+1983-01-30,Liisa Savijarvi,CA,0,Downhill
+1983-01-30,Petra Wenzel,LI,12,Slalom
+1983-01-30,Elisabeth Chaud,FR,60,Downhill
+1983-01-30,Eva Twardokens,US,5,Combined
+1983-01-30,Debbie Armstrong,US,35,Downhill
+1983-01-30,Claudine Emonet,FR,31,Downhill
+1983-01-30,Anne Flore Rey,FR,23,Giant Slalom
+1983-01-30,Huberta Wolf,AT,5,Downhill
+1983-01-30,Hanni Wenzel,LI,141,Slalom
+1983-01-30,Paola Toniolli,IT,5,Slalom
+1983-01-30,Zoe Haas,CH,42,Super G
 1983-01-30,Jana Gantnerova,SK,48,Downhill
 1983-01-30,Brigitte Oertli,CH,31,Combined
-1983-02-05,Anne Flore Rey,FR,23,Giant Slalom
-1983-02-05,Eva Twardokens,US,5,Combined
-1983-02-05,Brigitte Oertli,CH,31,Combined
-1983-02-05,Christa Kinshofer,DE,0,Slalom
-1983-02-05,Karin Buder,AT,6,Slalom
-1983-02-05,Zoe Haas,CH,50,Super G
-1983-02-05,Jana Gantnerova,SK,55,Downhill
-1983-02-05,Andreja Leskovsek,,3,Slalom
-1983-02-05,Eva Grabowska,PL,1,Slalom
-1983-02-05,Heidi Wiesler,DE,43,Combined
-1983-02-05,Ivana Valesova,SK,11,Combined
-1983-02-05,Pam Fletcher,US,0,Downhill
-1983-02-05,Daniela Zini,IT,29,Slalom
-1983-02-05,Cindy Nelson,US,85,Giant Slalom
-1983-02-05,Fabienne Serrat,FR,65,Giant Slalom
-1983-02-05,Sigrid Wolf,AT,10,Downhill
-1983-02-05,Michela Figini,CH,12,Giant Slalom
-1983-02-05,Caroline Attia,FR,66,Downhill
-1983-02-05,Anni Kronbichler,AT,59,Slalom
-1983-02-05,Marina Kiehl,DE,5,Combined
+1983-01-30,Sonja Stotz,DE,4,Combined
+1983-01-30,Maria Rosa Quario,IT,44,Slalom
+1983-01-30,Daniela Zini,IT,29,Slalom
+1983-01-30,Laurie Graham,CA,46,Downhill
+1983-01-30,Marina Kiehl,DE,5,Combined
+1983-01-30,Perrine Pelen,FR,54,Slalom
+1983-01-30,Brigitte Nansoz,CH,5,Slalom
+1983-01-30,Olga Charvatova,SK,45,Slalom
+1983-01-30,Katharina Gutensohn,AT,21,Combined
+1983-01-30,Monika Hess,CH,1,Slalom
+1983-01-30,Malgorzata Tlalka,PL,24,Slalom
+1983-01-30,Roswitha Steiner,AT,33,Slalom
+1983-01-30,Helene Barbier,FR,20,Giant Slalom
+1983-01-30,Christa Kinshofer,DE,0,Slalom
+1983-01-30,Francoise Bozon,FR,13,Downhill
+1983-01-30,Claudia Riedl,AT,0,Giant Slalom
+1983-01-30,Myriam Difant,FR,3,Combined
+1983-01-30,Anni Kronbichler,AT,62,Slalom
+1983-01-30,Sieglinde Winkler,AT,27,Downhill
+1983-01-30,Ursula Konzett,LI,22,Slalom
+1983-01-30,Maria Walliser,CH,83,Downhill
+1983-01-30,Lea Soelkner,AT,35,Downhill
+1983-01-30,Anja Zavadlav,,9,Slalom
+1983-01-30,Catherine Quittet,FR,21,Downhill
+1983-02-05,Laurie Graham,CA,56,Downhill
+1983-02-05,Hanni Wenzel,LI,161,Slalom
+1983-02-05,Francoise Bozon,FR,13,Downhill
 1983-02-05,Elena Medzihradska,SK,9,Giant Slalom
-1983-02-05,Veronique Robin,CH,4,Combined
 1983-02-05,Brigitte Nansoz,CH,5,Slalom
+1983-02-05,Perrine Pelen,FR,54,Slalom
+1983-02-05,Heidi Wiesler,DE,43,Combined
 1983-02-05,Renate Lazak,DE,1,Slalom
-1983-02-05,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-02-05,Elisabeth Kirchler,AT,115,Downhill
-1983-02-05,Hanni Wenzel,LI,109,Slalom
-1983-02-05,Debbie Armstrong,US,30,Downhill
-1983-02-05,Ariane Ehrat,CH,39,Downhill
-1983-02-05,Carole Merle,FR,21,Giant Slalom
-1983-02-05,Helene Barbier,FR,20,Giant Slalom
+1983-02-05,Veronique Robin,CH,4,Combined
 1983-02-05,Roswitha Steiner,AT,33,Slalom
+1983-02-05,Carole Merle,FR,21,Giant Slalom
+1983-02-05,Doris De Agostini,CH,113,Downhill
+1983-02-05,Lea Soelkner,AT,40,Downhill
+1983-02-05,Monika Hess,CH,1,Slalom
+1983-02-05,Pam Fletcher,US,0,Downhill
+1983-02-05,Helene Barbier,FR,20,Giant Slalom
+1983-02-05,Lorena Frigo,IT,20,Slalom
+1983-02-05,Anja Zavadlav,,9,Slalom
+1983-02-05,Blanca Fernandez Ochoa,ES,1,Giant Slalom
+1983-02-05,Eva Grabowska,PL,1,Slalom
+1983-02-05,Claudine Emonet,FR,39,Downhill
+1983-02-05,Ida Ladstaetter,AT,4,Slalom
+1983-02-05,Elisabeth Warter,AT,4,Downhill
+1983-02-05,Marie Lucie Waldmeier,FR,34,Downhill
+1983-02-05,Katharina Gutensohn,AT,21,Combined
+1983-02-05,Erika Hess,CH,135,Slalom
+1983-02-05,Veronika Vitzthum,AT,28,Downhill
+1983-02-05,Daniela Zini,IT,29,Slalom
+1983-02-05,Elisabeth Kirchler,AT,140,Downhill
+1983-02-05,Rosi Aschenwald,AT,7,Slalom
+1983-02-05,Heidi Preuss,US,7,Giant Slalom
+1983-02-05,Anne Flore Rey,FR,23,Giant Slalom
+1983-02-05,Petra Wenzel,LI,23,Slalom
+1983-02-05,Liisa Savijarvi,CA,0,Downhill
+1983-02-05,Diana Haight,CA,3,Downhill
+1983-02-05,Fulvia Stevenin,IT,4,Slalom
+1983-02-05,Elisabeth Chaud,FR,71,Downhill
+1983-02-05,Olga Charvatova,SK,57,Slalom
+1983-02-05,Debbie Armstrong,US,35,Downhill
+1983-02-05,Christin Cooper,US,87,Combined
+1983-02-05,Paola Toniolli,IT,5,Slalom
+1983-02-05,Karin Buder,AT,6,Slalom
+1983-02-05,Michaela Gerg-Leitner,DE,51,Downhill
+1983-02-05,Sonja Stotz,DE,11,Combined
+1983-02-05,Sigrid Wolf,AT,10,Downhill
+1983-02-05,Malgorzata Tlalka,PL,24,Slalom
+1983-02-05,Maria Walliser,CH,108,Downhill
+1983-02-05,Brigitte Oertli,CH,31,Combined
+1983-02-05,Catherine Quittet,FR,21,Downhill
+1983-02-05,Anni Kronbichler,AT,71,Slalom
+1983-02-05,Ursula Konzett,LI,22,Slalom
+1983-02-05,Irene Epple,DE,115,Combined
 1983-02-05,Gerry Sorensen,CA,36,Downhill
 1983-02-05,Claudia Riedl,AT,0,Giant Slalom
-1983-02-05,Katharina Gutensohn,AT,21,Combined
-1983-02-05,Liisa Savijarvi,CA,0,Downhill
-1983-02-05,Petra Wenzel,LI,23,Slalom
-1983-02-05,Heidi Preuss,US,7,Giant Slalom
-1983-02-05,Maria Maricich,US,20,Downhill
-1983-02-05,Karen Stemmle,CA,0,Downhill
-1983-02-05,Lea Soelkner,AT,40,Downhill
-1983-02-05,Marie Lucie Waldmeier,FR,34,Downhill
-1983-02-05,Alexandra Marasova,SK,9,Slalom
-1983-02-05,Maria Epple,DE,77,Giant Slalom
-1983-02-05,Francoise Bozon,FR,13,Downhill
-1983-02-05,Michaela Gerg-Leitner,DE,31,Downhill
-1983-02-05,Rosi Aschenwald,AT,7,Slalom
-1983-02-05,Claudine Emonet,FR,39,Downhill
-1983-02-05,Veronika Vitzthum,AT,28,Downhill
-1983-02-05,Maria Rosa Quario,IT,69,Slalom
-1983-02-05,Holly Beth Flanders,US,11,Downhill
-1983-02-05,Diana Haight,CA,3,Downhill
-1983-02-05,Anja Zavadlav,,9,Slalom
-1983-02-05,Sieglinde Winkler,AT,27,Downhill
-1983-02-05,Paoletta Magoni,IT,31,Slalom
-1983-02-05,Ida Ladstaetter,AT,4,Slalom
-1983-02-05,Dorota Tlalka,PL,36,Slalom
-1983-02-05,Elisabeth Chaud,FR,71,Downhill
-1983-02-05,Monika Hess,CH,1,Slalom
-1983-02-05,Erika Hess,CH,100,Slalom
-1983-02-05,Sylvia Eder,AT,35,Downhill
-1983-02-05,Maria Walliser,CH,108,Downhill
-1983-02-05,Perrine Pelen,FR,54,Slalom
-1983-02-05,Myriam Difant,FR,3,Combined
-1983-02-05,Laurie Graham,CA,56,Downhill
-1983-02-05,Elisabeth Warter,AT,4,Downhill
-1983-02-05,Malgorzata Tlalka,PL,24,Slalom
-1983-02-05,Ursula Konzett,LI,22,Slalom
-1983-02-05,Irene Epple,DE,104,Super G
-1983-02-05,Lorena Frigo,IT,20,Slalom
-1983-02-05,Sonja Stotz,DE,11,Combined
-1983-02-05,Tamara McKinney,US,132,Giant Slalom
-1983-02-05,Paola Toniolli,IT,5,Slalom
-1983-02-05,Doris De Agostini,CH,113,Downhill
-1983-02-05,Olga Charvatova,SK,57,Slalom
-1983-02-05,Fulvia Stevenin,IT,4,Slalom
 1983-02-05,Regine Moesenlechner,DE,1,Downhill
-1983-02-05,Christin Cooper,US,59,Giant Slalom
-1983-02-05,Catherine Quittet,FR,21,Downhill
+1983-02-05,Sylvia Eder,AT,55,Combined
+1983-02-05,Christa Kinshofer,DE,0,Slalom
+1983-02-05,Andreja Leskovsek,,3,Slalom
+1983-02-05,Paoletta Magoni,IT,31,Slalom
+1983-02-05,Cindy Nelson,US,85,Giant Slalom
+1983-02-05,Maria Maricich,US,20,Downhill
+1983-02-05,Michela Figini,CH,12,Giant Slalom
 1983-02-05,Huberta Wolf,AT,5,Downhill
-1983-02-09,Erika Hess,CH,125,Slalom
-1983-02-09,Marina Kiehl,DE,5,Combined
-1983-02-09,Ariane Ehrat,CH,39,Downhill
-1983-02-09,Daniela Zini,IT,40,Slalom
+1983-02-05,Myriam Difant,FR,3,Combined
+1983-02-05,Maria Epple,DE,77,Giant Slalom
+1983-02-05,Tamara McKinney,US,162,Giant Slalom
+1983-02-05,Karen Stemmle,CA,0,Downhill
+1983-02-05,Maria Rosa Quario,IT,69,Slalom
+1983-02-05,Caroline Attia,FR,66,Downhill
+1983-02-05,Alexandra Marasova,SK,9,Slalom
+1983-02-05,Holly Beth Flanders,US,11,Downhill
+1983-02-05,Eva Twardokens,US,5,Combined
+1983-02-05,Zoe Haas,CH,50,Super G
+1983-02-05,Fabienne Serrat,FR,65,Giant Slalom
+1983-02-05,Marina Kiehl,DE,5,Combined
+1983-02-05,Dorota Tlalka,PL,40,Slalom
+1983-02-05,Jana Gantnerova,SK,55,Downhill
+1983-02-05,Ivana Valesova,SK,11,Combined
+1983-02-05,Sieglinde Winkler,AT,27,Downhill
+1983-02-05,Ariane Ehrat,CH,39,Downhill
+1983-02-09,Myriam Difant,FR,3,Combined
+1983-02-09,Anja Zavadlav,,9,Slalom
 1983-02-09,Ivana Valesova,SK,11,Combined
-1983-02-09,Andreja Leskovsek,,3,Slalom
 1983-02-09,Pam Fletcher,US,0,Downhill
-1983-02-09,Olga Charvatova,SK,57,Slalom
-1983-02-09,Lorena Frigo,IT,20,Slalom
-1983-02-09,Liisa Savijarvi,CA,0,Downhill
-1983-02-09,Huberta Wolf,AT,5,Downhill
+1983-02-09,Renate Lazak,DE,1,Slalom
 1983-02-09,Claudia Riedl,AT,0,Giant Slalom
 1983-02-09,Brigitte Nansoz,CH,9,Slalom
-1983-02-09,Claudine Emonet,FR,39,Downhill
-1983-02-09,Michela Figini,CH,12,Giant Slalom
-1983-02-09,Caroline Attia,FR,66,Downhill
-1983-02-09,Christa Kinshofer,DE,5,Slalom
-1983-02-09,Brigitte Oertli,CH,34,Combined
-1983-02-09,Maria Walliser,CH,108,Downhill
-1983-02-09,Elena Medzihradska,SK,9,Giant Slalom
-1983-02-09,Carole Merle,FR,21,Giant Slalom
-1983-02-09,Anja Zavadlav,,9,Slalom
-1983-02-09,Veronique Robin,CH,4,Combined
-1983-02-09,Sigrid Wolf,AT,10,Downhill
-1983-02-09,Katharina Gutensohn,AT,21,Combined
-1983-02-09,Doris De Agostini,CH,113,Downhill
-1983-02-09,Alexandra Marasova,SK,9,Slalom
-1983-02-09,Zoe Haas,CH,50,Super G
-1983-02-09,Jana Gantnerova,SK,55,Downhill
-1983-02-09,Sieglinde Winkler,AT,27,Downhill
-1983-02-09,Paoletta Magoni,IT,33,Slalom
-1983-02-09,Ida Ladstaetter,AT,4,Slalom
-1983-02-09,Laurie Graham,CA,56,Downhill
-1983-02-09,Maria Epple,DE,86,Giant Slalom
-1983-02-09,Petra Wenzel,LI,35,Slalom
-1983-02-09,Irene Epple,DE,104,Super G
-1983-02-09,Ursula Konzett,LI,22,Slalom
-1983-02-09,Eva Twardokens,US,5,Combined
-1983-02-09,Regine Moesenlechner,DE,1,Downhill
-1983-02-09,Marie Lucie Waldmeier,FR,34,Downhill
-1983-02-09,Hanni Wenzel,LI,129,Slalom
+1983-02-09,Andreja Leskovsek,,3,Slalom
 1983-02-09,Elisabeth Warter,AT,4,Downhill
-1983-02-09,Debbie Armstrong,US,30,Downhill
-1983-02-09,Renate Lazak,DE,1,Slalom
-1983-02-09,Roswitha Steiner,AT,33,Slalom
-1983-02-09,Fabienne Serrat,FR,66,Giant Slalom
-1983-02-09,Malgorzata Tlalka,PL,24,Slalom
-1983-02-09,Tamara McKinney,US,132,Giant Slalom
-1983-02-09,Karen Stemmle,CA,0,Downhill
-1983-02-09,Christin Cooper,US,59,Giant Slalom
-1983-02-09,Eva Grabowska,PL,9,Slalom
-1983-02-09,Cindy Nelson,US,85,Giant Slalom
-1983-02-09,Elisabeth Kirchler,AT,115,Downhill
-1983-02-09,Lea Soelkner,AT,40,Downhill
-1983-02-09,Anne Flore Rey,FR,23,Giant Slalom
-1983-02-09,Karin Buder,AT,6,Slalom
-1983-02-09,Heidi Wiesler,DE,43,Combined
-1983-02-09,Blanca Fernandez Ochoa,ES,7,Giant Slalom
-1983-02-09,Gerry Sorensen,CA,36,Downhill
-1983-02-09,Dorota Tlalka,PL,46,Slalom
-1983-02-09,Heidi Preuss,US,7,Giant Slalom
-1983-02-09,Helene Barbier,FR,20,Giant Slalom
-1983-02-09,Perrine Pelen,FR,54,Slalom
-1983-02-09,Elisabeth Chaud,FR,71,Downhill
-1983-02-09,Anni Kronbichler,AT,74,Slalom
-1983-02-09,Maria Maricich,US,20,Downhill
-1983-02-09,Paola Toniolli,IT,5,Slalom
-1983-02-09,Sonja Stotz,DE,11,Combined
-1983-02-09,Catherine Quittet,FR,21,Downhill
-1983-02-09,Maria Rosa Quario,IT,69,Slalom
-1983-02-09,Michaela Gerg-Leitner,DE,31,Downhill
-1983-02-09,Diana Haight,CA,3,Downhill
-1983-02-09,Sylvia Eder,AT,35,Downhill
-1983-02-09,Monika Hess,CH,8,Slalom
-1983-02-09,Holly Beth Flanders,US,11,Downhill
+1983-02-09,Christa Kinshofer,DE,5,Slalom
+1983-02-09,Alexandra Marasova,SK,9,Slalom
+1983-02-09,Veronique Robin,CH,4,Combined
 1983-02-09,Fulvia Stevenin,IT,4,Slalom
-1983-02-09,Veronika Vitzthum,AT,28,Downhill
-1983-02-09,Francoise Bozon,FR,13,Downhill
+1983-02-09,Katharina Gutensohn,AT,21,Combined
+1983-02-09,Paola Toniolli,IT,5,Slalom
+1983-02-09,Eva Twardokens,US,5,Combined
+1983-02-09,Diana Haight,CA,3,Downhill
+1983-02-09,Huberta Wolf,AT,5,Downhill
 1983-02-09,Rosi Aschenwald,AT,7,Slalom
-1983-02-09,Myriam Difant,FR,3,Combined
-1983-02-12,Anni Kronbichler,AT,74,Slalom
-1983-02-12,Maria Walliser,CH,108,Downhill
-1983-02-12,Huberta Wolf,AT,5,Downhill
-1983-02-12,Anja Zavadlav,,16,Slalom
-1983-02-12,Olga Charvatova,SK,63,Slalom
-1983-02-12,Claudia Riedl,AT,0,Giant Slalom
-1983-02-12,Elena Medzihradska,SK,9,Giant Slalom
-1983-02-12,Karin Buder,AT,9,Slalom
-1983-02-12,Hanni Wenzel,LI,129,Slalom
-1983-02-12,Brigitte Oertli,CH,34,Combined
-1983-02-12,Katharina Gutensohn,AT,21,Combined
-1983-02-12,Sieglinde Winkler,AT,27,Downhill
-1983-02-12,Brigitte Nansoz,CH,9,Slalom
-1983-02-12,Eva Twardokens,US,5,Combined
-1983-02-12,Petra Wenzel,LI,44,Slalom
-1983-02-12,Caroline Attia,FR,66,Downhill
-1983-02-12,Monika Hess,CH,8,Slalom
-1983-02-12,Fabienne Serrat,FR,67,Giant Slalom
-1983-02-12,Maria Epple,DE,86,Giant Slalom
-1983-02-12,Paola Toniolli,IT,5,Slalom
-1983-02-12,Helene Barbier,FR,20,Giant Slalom
-1983-02-12,Daniela Zini,IT,50,Slalom
-1983-02-12,Zoe Haas,CH,50,Super G
-1983-02-12,Regine Moesenlechner,DE,1,Downhill
-1983-02-12,Andreja Leskovsek,,3,Slalom
-1983-02-12,Tamara McKinney,US,132,Giant Slalom
-1983-02-12,Lea Soelkner,AT,44,Downhill
+1983-02-09,Marina Kiehl,DE,5,Combined
+1983-02-09,Ida Ladstaetter,AT,4,Slalom
+1983-02-09,Karin Buder,AT,6,Slalom
+1983-02-09,Regine Moesenlechner,DE,1,Downhill
+1983-02-09,Heidi Preuss,US,7,Giant Slalom
+1983-02-09,Sonja Stotz,DE,11,Combined
+1983-02-09,Liisa Savijarvi,CA,0,Downhill
+1983-02-09,Lorena Frigo,IT,20,Slalom
+1983-02-09,Elena Medzihradska,SK,9,Giant Slalom
+1983-02-09,Monika Hess,CH,8,Slalom
+1983-02-09,Caroline Attia,FR,66,Downhill
+1983-02-09,Michaela Gerg-Leitner,DE,51,Downhill
+1983-02-09,Sylvia Eder,AT,55,Combined
+1983-02-09,Maria Maricich,US,20,Downhill
+1983-02-09,Paoletta Magoni,IT,33,Slalom
+1983-02-09,Elisabeth Kirchler,AT,140,Downhill
+1983-02-09,Malgorzata Tlalka,PL,24,Slalom
+1983-02-09,Sigrid Wolf,AT,10,Downhill
+1983-02-09,Doris De Agostini,CH,113,Downhill
+1983-02-09,Elisabeth Chaud,FR,71,Downhill
+1983-02-09,Perrine Pelen,FR,54,Slalom
+1983-02-09,Claudine Emonet,FR,39,Downhill
+1983-02-09,Lea Soelkner,AT,40,Downhill
+1983-02-09,Karen Stemmle,CA,0,Downhill
+1983-02-09,Roswitha Steiner,AT,33,Slalom
+1983-02-09,Anne Flore Rey,FR,23,Giant Slalom
+1983-02-09,Holly Beth Flanders,US,11,Downhill
+1983-02-09,Zoe Haas,CH,50,Super G
+1983-02-09,Maria Epple,DE,86,Giant Slalom
+1983-02-09,Ursula Konzett,LI,22,Slalom
+1983-02-09,Fabienne Serrat,FR,66,Giant Slalom
+1983-02-09,Erika Hess,CH,160,Slalom
+1983-02-09,Daniela Zini,IT,40,Slalom
+1983-02-09,Petra Wenzel,LI,35,Slalom
+1983-02-09,Sieglinde Winkler,AT,27,Downhill
+1983-02-09,Brigitte Oertli,CH,34,Combined
+1983-02-09,Catherine Quittet,FR,21,Downhill
+1983-02-09,Gerry Sorensen,CA,36,Downhill
+1983-02-09,Francoise Bozon,FR,13,Downhill
+1983-02-09,Michela Figini,CH,12,Giant Slalom
+1983-02-09,Ariane Ehrat,CH,39,Downhill
+1983-02-09,Jana Gantnerova,SK,55,Downhill
+1983-02-09,Dorota Tlalka,PL,50,Slalom
+1983-02-09,Veronika Vitzthum,AT,28,Downhill
+1983-02-09,Carole Merle,FR,21,Giant Slalom
+1983-02-09,Marie Lucie Waldmeier,FR,34,Downhill
+1983-02-09,Heidi Wiesler,DE,43,Combined
+1983-02-09,Debbie Armstrong,US,35,Downhill
+1983-02-09,Tamara McKinney,US,162,Giant Slalom
+1983-02-09,Laurie Graham,CA,56,Downhill
+1983-02-09,Helene Barbier,FR,20,Giant Slalom
+1983-02-09,Blanca Fernandez Ochoa,ES,7,Giant Slalom
+1983-02-09,Cindy Nelson,US,85,Giant Slalom
+1983-02-09,Maria Walliser,CH,108,Downhill
+1983-02-09,Maria Rosa Quario,IT,69,Slalom
+1983-02-09,Olga Charvatova,SK,57,Slalom
+1983-02-09,Irene Epple,DE,115,Combined
+1983-02-09,Christin Cooper,US,87,Combined
+1983-02-09,Anni Kronbichler,AT,86,Slalom
+1983-02-09,Hanni Wenzel,LI,181,Slalom
+1983-02-09,Eva Grabowska,PL,9,Slalom
 1983-02-12,Marie Lucie Waldmeier,FR,34,Downhill
-1983-02-12,Veronika Vitzthum,AT,28,Downhill
-1983-02-12,Sonja Stotz,DE,11,Combined
-1983-02-12,Dorota Tlalka,PL,54,Slalom
-1983-02-12,Claudine Emonet,FR,39,Downhill
-1983-02-12,Perrine Pelen,FR,54,Slalom
-1983-02-12,Liisa Savijarvi,CA,0,Downhill
-1983-02-12,Ariane Ehrat,CH,39,Downhill
-1983-02-12,Michela Figini,CH,12,Giant Slalom
-1983-02-12,Erika Hess,CH,145,Slalom
-1983-02-12,Heidi Preuss,US,7,Giant Slalom
-1983-02-12,Gerry Sorensen,CA,36,Downhill
-1983-02-12,Heidi Wiesler,DE,43,Combined
-1983-02-12,Myriam Difant,FR,3,Combined
-1983-02-12,Catherine Quittet,FR,21,Downhill
-1983-02-12,Michaela Gerg-Leitner,DE,31,Downhill
-1983-02-12,Renate Lazak,DE,1,Slalom
-1983-02-12,Roswitha Steiner,AT,45,Slalom
-1983-02-12,Alexandra Marasova,SK,9,Slalom
-1983-02-12,Fulvia Stevenin,IT,4,Slalom
-1983-02-12,Maria Rosa Quario,IT,94,Slalom
-1983-02-12,Holly Beth Flanders,US,11,Downhill
-1983-02-12,Cindy Nelson,US,85,Giant Slalom
-1983-02-12,Maria Maricich,US,20,Downhill
-1983-02-12,Elisabeth Kirchler,AT,115,Downhill
-1983-02-12,Eva Grabowska,PL,9,Slalom
-1983-02-12,Elisabeth Chaud,FR,71,Downhill
-1983-02-12,Christa Kinshofer,DE,5,Slalom
-1983-02-12,Blanca Fernandez Ochoa,ES,7,Giant Slalom
-1983-02-12,Pam Fletcher,US,0,Downhill
-1983-02-12,Marina Kiehl,DE,5,Combined
-1983-02-12,Lorena Frigo,IT,20,Slalom
-1983-02-12,Ivana Valesova,SK,11,Combined
-1983-02-12,Malgorzata Tlalka,PL,39,Slalom
-1983-02-12,Sylvia Eder,AT,35,Downhill
-1983-02-12,Francoise Bozon,FR,13,Downhill
-1983-02-12,Karen Stemmle,CA,0,Downhill
-1983-02-12,Doris De Agostini,CH,113,Downhill
-1983-02-12,Diana Haight,CA,3,Downhill
-1983-02-12,Jana Gantnerova,SK,55,Downhill
-1983-02-12,Anne Flore Rey,FR,25,Giant Slalom
-1983-02-12,Debbie Armstrong,US,30,Downhill
-1983-02-12,Elisabeth Warter,AT,4,Downhill
 1983-02-12,Ursula Konzett,LI,33,Slalom
-1983-02-12,Irene Epple,DE,104,Super G
-1983-02-12,Veronique Robin,CH,4,Combined
-1983-02-12,Carole Merle,FR,21,Giant Slalom
-1983-02-12,Christin Cooper,US,59,Giant Slalom
+1983-02-12,Huberta Wolf,AT,5,Downhill
 1983-02-12,Ida Ladstaetter,AT,4,Slalom
-1983-02-12,Laurie Graham,CA,56,Downhill
-1983-02-12,Paoletta Magoni,IT,38,Slalom
+1983-02-12,Renate Lazak,DE,1,Slalom
+1983-02-12,Caroline Attia,FR,66,Downhill
+1983-02-12,Heidi Wiesler,DE,43,Combined
+1983-02-12,Debbie Armstrong,US,35,Downhill
+1983-02-12,Blanca Fernandez Ochoa,ES,7,Giant Slalom
+1983-02-12,Carole Merle,FR,21,Giant Slalom
+1983-02-12,Elisabeth Warter,AT,4,Downhill
 1983-02-12,Rosi Aschenwald,AT,7,Slalom
+1983-02-12,Fabienne Serrat,FR,67,Giant Slalom
+1983-02-12,Doris De Agostini,CH,113,Downhill
+1983-02-12,Hanni Wenzel,LI,181,Slalom
+1983-02-12,Maria Epple,DE,86,Giant Slalom
+1983-02-12,Diana Haight,CA,3,Downhill
+1983-02-12,Michaela Gerg-Leitner,DE,51,Downhill
+1983-02-12,Anni Kronbichler,AT,86,Slalom
+1983-02-12,Cindy Nelson,US,85,Giant Slalom
+1983-02-12,Veronika Vitzthum,AT,28,Downhill
+1983-02-12,Jana Gantnerova,SK,55,Downhill
+1983-02-12,Dorota Tlalka,PL,58,Slalom
+1983-02-12,Anja Zavadlav,,16,Slalom
+1983-02-12,Monika Hess,CH,8,Slalom
+1983-02-12,Petra Wenzel,LI,44,Slalom
+1983-02-12,Erika Hess,CH,180,Slalom
+1983-02-12,Brigitte Nansoz,CH,9,Slalom
+1983-02-12,Daniela Zini,IT,50,Slalom
+1983-02-12,Christin Cooper,US,87,Combined
+1983-02-12,Sieglinde Winkler,AT,27,Downhill
+1983-02-12,Lorena Frigo,IT,20,Slalom
+1983-02-12,Marina Kiehl,DE,5,Combined
+1983-02-12,Brigitte Oertli,CH,34,Combined
+1983-02-12,Catherine Quittet,FR,21,Downhill
+1983-02-12,Alexandra Marasova,SK,9,Slalom
+1983-02-12,Christa Kinshofer,DE,5,Slalom
+1983-02-12,Gerry Sorensen,CA,36,Downhill
+1983-02-12,Elena Medzihradska,SK,9,Giant Slalom
+1983-02-12,Regine Moesenlechner,DE,1,Downhill
+1983-02-12,Francoise Bozon,FR,13,Downhill
+1983-02-12,Michela Figini,CH,12,Giant Slalom
+1983-02-12,Fulvia Stevenin,IT,4,Slalom
+1983-02-12,Ariane Ehrat,CH,39,Downhill
+1983-02-12,Irene Epple,DE,115,Combined
+1983-02-12,Sylvia Eder,AT,55,Combined
+1983-02-12,Veronique Robin,CH,4,Combined
+1983-02-12,Andreja Leskovsek,,3,Slalom
+1983-02-12,Paoletta Magoni,IT,38,Slalom
+1983-02-12,Claudia Riedl,AT,0,Giant Slalom
+1983-02-12,Eva Grabowska,PL,9,Slalom
+1983-02-12,Zoe Haas,CH,50,Super G
+1983-02-12,Eva Twardokens,US,5,Combined
+1983-02-12,Perrine Pelen,FR,54,Slalom
+1983-02-12,Olga Charvatova,SK,63,Slalom
+1983-02-12,Claudine Emonet,FR,39,Downhill
+1983-02-12,Maria Rosa Quario,IT,94,Slalom
+1983-02-12,Lea Soelkner,AT,44,Downhill
+1983-02-12,Karen Stemmle,CA,0,Downhill
+1983-02-12,Ivana Valesova,SK,11,Combined
+1983-02-12,Myriam Difant,FR,3,Combined
+1983-02-12,Roswitha Steiner,AT,45,Slalom
+1983-02-12,Anne Flore Rey,FR,25,Giant Slalom
+1983-02-12,Liisa Savijarvi,CA,0,Downhill
+1983-02-12,Holly Beth Flanders,US,11,Downhill
+1983-02-12,Heidi Preuss,US,7,Giant Slalom
+1983-02-12,Tamara McKinney,US,162,Giant Slalom
+1983-02-12,Karin Buder,AT,9,Slalom
+1983-02-12,Laurie Graham,CA,56,Downhill
+1983-02-12,Elisabeth Chaud,FR,71,Downhill
 1983-02-12,Sigrid Wolf,AT,10,Downhill
-1983-03-05,Alexandra Marasova,SK,9,Slalom
-1983-03-05,Regine Moesenlechner,DE,1,Downhill
-1983-03-05,Doris De Agostini,CH,124,Downhill
-1983-03-05,Renate Lazak,DE,1,Slalom
-1983-03-05,Rosi Aschenwald,AT,7,Slalom
-1983-03-05,Eva Twardokens,US,5,Combined
-1983-03-05,Sonja Stotz,DE,11,Combined
-1983-03-05,Brigitte Nansoz,CH,9,Slalom
-1983-03-05,Marina Kiehl,DE,5,Combined
+1983-02-12,Katharina Gutensohn,AT,21,Combined
+1983-02-12,Paola Toniolli,IT,5,Slalom
+1983-02-12,Maria Maricich,US,20,Downhill
+1983-02-12,Sonja Stotz,DE,11,Combined
+1983-02-12,Malgorzata Tlalka,PL,39,Slalom
+1983-02-12,Elisabeth Kirchler,AT,140,Downhill
+1983-02-12,Helene Barbier,FR,20,Giant Slalom
+1983-02-12,Pam Fletcher,US,0,Downhill
+1983-02-12,Maria Walliser,CH,108,Downhill
 1983-03-05,Christa Kinshofer,DE,5,Slalom
-1983-03-05,Cindy Nelson,US,85,Giant Slalom
-1983-03-05,Fulvia Stevenin,IT,4,Slalom
-1983-03-05,Veronique Robin,CH,4,Combined
-1983-03-05,Anni Kronbichler,AT,74,Slalom
-1983-03-05,Ida Ladstaetter,AT,4,Slalom
-1983-03-05,Irene Epple,DE,104,Super G
-1983-03-05,Maria Walliser,CH,128,Downhill
-1983-03-05,Elisabeth Warter,AT,4,Downhill
-1983-03-05,Andreja Leskovsek,,3,Slalom
-1983-03-05,Anja Zavadlav,,16,Slalom
-1983-03-05,Caroline Attia,FR,66,Downhill
-1983-03-05,Katharina Gutensohn,AT,21,Combined
-1983-03-05,Tamara McKinney,US,132,Giant Slalom
-1983-03-05,Myriam Difant,FR,3,Combined
-1983-03-05,Heidi Preuss,US,7,Giant Slalom
-1983-03-05,Liisa Savijarvi,CA,3,Downhill
-1983-03-05,Erika Hess,CH,145,Slalom
-1983-03-05,Diana Haight,CA,3,Downhill
-1983-03-05,Paola Toniolli,IT,5,Slalom
-1983-03-05,Pam Fletcher,US,9,Downhill
-1983-03-05,Zoe Haas,CH,50,Super G
-1983-03-05,Elisabeth Kirchler,AT,115,Downhill
-1983-03-05,Lorena Frigo,IT,20,Slalom
-1983-03-05,Debbie Armstrong,US,32,Downhill
-1983-03-05,Hanni Wenzel,LI,129,Slalom
-1983-03-05,Brigitte Oertli,CH,38,Combined
-1983-03-05,Maria Epple,DE,86,Giant Slalom
-1983-03-05,Veronika Vitzthum,AT,36,Downhill
-1983-03-05,Holly Beth Flanders,US,11,Downhill
-1983-03-05,Christin Cooper,US,59,Giant Slalom
-1983-03-05,Michaela Gerg-Leitner,DE,31,Downhill
-1983-03-05,Sigrid Wolf,AT,16,Downhill
-1983-03-05,Karin Buder,AT,9,Slalom
-1983-03-05,Fabienne Serrat,FR,67,Giant Slalom
-1983-03-05,Paoletta Magoni,IT,38,Slalom
 1983-03-05,Catherine Quittet,FR,33,Downhill
-1983-03-05,Lea Soelkner,AT,44,Downhill
-1983-03-05,Sylvia Eder,AT,36,Downhill
-1983-03-05,Olga Charvatova,SK,71,Slalom
-1983-03-05,Ursula Konzett,LI,33,Slalom
-1983-03-05,Dorota Tlalka,PL,54,Slalom
-1983-03-05,Maria Rosa Quario,IT,94,Slalom
-1983-03-05,Ivana Valesova,SK,11,Combined
-1983-03-05,Claudia Riedl,AT,0,Giant Slalom
+1983-03-05,Diana Haight,CA,3,Downhill
 1983-03-05,Gerry Sorensen,CA,36,Downhill
-1983-03-05,Jana Gantnerova,SK,55,Downhill
-1983-03-05,Eva Grabowska,PL,9,Slalom
-1983-03-05,Blanca Fernandez Ochoa,ES,7,Giant Slalom
-1983-03-05,Helene Barbier,FR,20,Giant Slalom
-1983-03-05,Karen Stemmle,CA,10,Downhill
-1983-03-05,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-05,Michela Figini,CH,27,Giant Slalom
-1983-03-05,Perrine Pelen,FR,54,Slalom
-1983-03-05,Monika Hess,CH,8,Slalom
-1983-03-05,Roswitha Steiner,AT,45,Slalom
-1983-03-05,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-05,Heidi Wiesler,DE,43,Combined
-1983-03-05,Daniela Zini,IT,50,Slalom
-1983-03-05,Sieglinde Winkler,AT,27,Downhill
-1983-03-05,Elisabeth Chaud,FR,71,Downhill
-1983-03-05,Ariane Ehrat,CH,39,Downhill
-1983-03-05,Petra Wenzel,LI,44,Slalom
+1983-03-05,Brigitte Oertli,CH,38,Combined
+1983-03-05,Christin Cooper,US,87,Combined
+1983-03-05,Maria Rosa Quario,IT,94,Slalom
+1983-03-05,Marina Kiehl,DE,5,Combined
+1983-03-05,Michaela Gerg-Leitner,DE,51,Downhill
+1983-03-05,Myriam Difant,FR,3,Combined
 1983-03-05,Anne Flore Rey,FR,25,Giant Slalom
-1983-03-05,Francoise Bozon,FR,13,Downhill
-1983-03-05,Claudine Emonet,FR,44,Downhill
-1983-03-05,Huberta Wolf,AT,5,Downhill
-1983-03-05,Laurie Graham,CA,81,Downhill
+1983-03-05,Elisabeth Kirchler,AT,140,Downhill
+1983-03-05,Sieglinde Winkler,AT,27,Downhill
+1983-03-05,Anni Kronbichler,AT,86,Slalom
+1983-03-05,Brigitte Nansoz,CH,9,Slalom
+1983-03-05,Heidi Preuss,US,7,Giant Slalom
 1983-03-05,Maria Maricich,US,20,Downhill
+1983-03-05,Maria Walliser,CH,128,Downhill
+1983-03-05,Liisa Savijarvi,CA,3,Downhill
+1983-03-05,Petra Wenzel,LI,44,Slalom
+1983-03-05,Sylvia Eder,AT,56,Combined
+1983-03-05,Tamara McKinney,US,162,Giant Slalom
+1983-03-05,Monika Hess,CH,8,Slalom
+1983-03-05,Caroline Attia,FR,66,Downhill
+1983-03-05,Laurie Graham,CA,81,Downhill
+1983-03-05,Regine Moesenlechner,DE,1,Downhill
+1983-03-05,Sonja Stotz,DE,11,Combined
+1983-03-05,Erika Hess,CH,180,Slalom
+1983-03-05,Maria Epple,DE,86,Giant Slalom
+1983-03-05,Olga Charvatova,SK,71,Slalom
+1983-03-05,Elisabeth Chaud,FR,71,Downhill
+1983-03-05,Heidi Wiesler,DE,43,Combined
+1983-03-05,Elisabeth Warter,AT,4,Downhill
+1983-03-05,Zoe Haas,CH,50,Super G
+1983-03-05,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-05,Fabienne Serrat,FR,67,Giant Slalom
+1983-03-05,Ida Ladstaetter,AT,4,Slalom
+1983-03-05,Paola Toniolli,IT,5,Slalom
+1983-03-05,Eva Twardokens,US,5,Combined
+1983-03-05,Perrine Pelen,FR,54,Slalom
 1983-03-05,Carole Merle,FR,21,Giant Slalom
+1983-03-05,Veronika Vitzthum,AT,36,Downhill
+1983-03-05,Roswitha Steiner,AT,45,Slalom
+1983-03-05,Renate Lazak,DE,1,Slalom
+1983-03-05,Irene Epple,DE,115,Combined
+1983-03-05,Andreja Leskovsek,,3,Slalom
+1983-03-05,Dorota Tlalka,PL,58,Slalom
+1983-03-05,Katharina Gutensohn,AT,21,Combined
+1983-03-05,Claudine Emonet,FR,44,Downhill
+1983-03-05,Lea Soelkner,AT,44,Downhill
+1983-03-05,Ariane Ehrat,CH,39,Downhill
+1983-03-05,Fulvia Stevenin,IT,4,Slalom
+1983-03-05,Cindy Nelson,US,85,Giant Slalom
+1983-03-05,Michela Figini,CH,27,Giant Slalom
+1983-03-05,Alexandra Marasova,SK,9,Slalom
 1983-03-05,Malgorzata Tlalka,PL,39,Slalom
-1983-03-06,Maria Rosa Quario,IT,94,Slalom
-1983-03-06,Liisa Savijarvi,CA,3,Downhill
-1983-03-06,Karen Stemmle,CA,10,Downhill
-1983-03-06,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-06,Dorota Tlalka,PL,54,Slalom
-1983-03-06,Sylvia Eder,AT,36,Downhill
-1983-03-06,Veronika Vitzthum,AT,36,Downhill
-1983-03-06,Sonja Stotz,DE,11,Combined
-1983-03-06,Holly Beth Flanders,US,11,Downhill
-1983-03-06,Fulvia Stevenin,IT,5,Slalom
-1983-03-06,Carole Merle,FR,24,Giant Slalom
-1983-03-06,Christa Kinshofer,DE,5,Slalom
-1983-03-06,Eva Grabowska,PL,9,Slalom
-1983-03-06,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-06,Renate Lazak,DE,1,Slalom
-1983-03-06,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-06,Cindy Nelson,US,90,Giant Slalom
-1983-03-06,Elisabeth Kirchler,AT,122,Downhill
-1983-03-06,Lea Soelkner,AT,44,Downhill
+1983-03-05,Rosi Aschenwald,AT,7,Slalom
+1983-03-05,Veronique Robin,CH,4,Combined
+1983-03-05,Hanni Wenzel,LI,181,Slalom
+1983-03-05,Pam Fletcher,US,9,Downhill
+1983-03-05,Holly Beth Flanders,US,11,Downhill
+1983-03-05,Ivana Valesova,SK,11,Combined
+1983-03-05,Jana Gantnerova,SK,55,Downhill
+1983-03-05,Karin Buder,AT,9,Slalom
+1983-03-05,Blanca Fernandez Ochoa,ES,7,Giant Slalom
+1983-03-05,Ursula Konzett,LI,33,Slalom
+1983-03-05,Karen Stemmle,CA,10,Downhill
+1983-03-05,Sigrid Wolf,AT,16,Downhill
+1983-03-05,Eva Grabowska,PL,9,Slalom
+1983-03-05,Claudia Riedl,AT,0,Giant Slalom
+1983-03-05,Daniela Zini,IT,50,Slalom
+1983-03-05,Huberta Wolf,AT,5,Downhill
+1983-03-05,Debbie Armstrong,US,37,Downhill
+1983-03-05,Anja Zavadlav,,16,Slalom
+1983-03-05,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-05,Helene Barbier,FR,20,Giant Slalom
+1983-03-05,Paoletta Magoni,IT,38,Slalom
+1983-03-05,Francoise Bozon,FR,13,Downhill
+1983-03-05,Doris De Agostini,CH,124,Downhill
+1983-03-05,Lorena Frigo,IT,20,Slalom
 1983-03-06,Veronique Robin,CH,4,Combined
-1983-03-06,Brigitte Oertli,CH,38,Combined
-1983-03-06,Jana Gantnerova,SK,55,Downhill
-1983-03-06,Sieglinde Winkler,AT,27,Downhill
-1983-03-06,Diana Haight,CA,3,Downhill
-1983-03-06,Petra Wenzel,LI,55,Slalom
-1983-03-06,Eva Twardokens,US,5,Combined
 1983-03-06,Katharina Gutensohn,AT,21,Combined
-1983-03-06,Francoise Bozon,FR,13,Downhill
-1983-03-06,Andreja Leskovsek,,3,Slalom
-1983-03-06,Roswitha Steiner,AT,45,Slalom
-1983-03-06,Monika Hess,CH,8,Slalom
-1983-03-06,Caroline Attia,FR,66,Downhill
-1983-03-06,Paola Toniolli,IT,5,Slalom
-1983-03-06,Helene Barbier,FR,20,Giant Slalom
-1983-03-06,Daniela Zini,IT,50,Slalom
-1983-03-06,Hanni Wenzel,LI,129,Slalom
-1983-03-06,Debbie Armstrong,US,32,Downhill
-1983-03-06,Tamara McKinney,US,132,Giant Slalom
-1983-03-06,Michela Figini,CH,31,Giant Slalom
-1983-03-06,Sigrid Wolf,AT,16,Downhill
-1983-03-06,Heidi Preuss,US,7,Giant Slalom
-1983-03-06,Paoletta Magoni,IT,38,Slalom
-1983-03-06,Laurie Graham,CA,81,Downhill
-1983-03-06,Ida Ladstaetter,AT,4,Slalom
-1983-03-06,Perrine Pelen,FR,54,Slalom
-1983-03-06,Gerry Sorensen,CA,36,Downhill
-1983-03-06,Irene Epple,DE,104,Super G
 1983-03-06,Ursula Konzett,LI,33,Slalom
-1983-03-06,Myriam Difant,FR,3,Combined
-1983-03-06,Catherine Quittet,FR,33,Downhill
-1983-03-06,Anne Flore Rey,FR,50,Giant Slalom
-1983-03-06,Elisabeth Warter,AT,4,Downhill
-1983-03-06,Michaela Gerg-Leitner,DE,31,Downhill
-1983-03-06,Ariane Ehrat,CH,39,Downhill
-1983-03-06,Anni Kronbichler,AT,86,Slalom
+1983-03-06,Brigitte Oertli,CH,38,Combined
 1983-03-06,Claudine Emonet,FR,44,Downhill
-1983-03-06,Erika Hess,CH,160,Slalom
-1983-03-06,Christin Cooper,US,59,Giant Slalom
-1983-03-06,Rosi Aschenwald,AT,7,Slalom
+1983-03-06,Lea Soelkner,AT,44,Downhill
+1983-03-06,Marina Kiehl,DE,5,Combined
+1983-03-06,Elisabeth Warter,AT,4,Downhill
+1983-03-06,Roswitha Steiner,AT,45,Slalom
+1983-03-06,Myriam Difant,FR,3,Combined
+1983-03-06,Fabienne Serrat,FR,69,Giant Slalom
+1983-03-06,Karin Buder,AT,9,Slalom
+1983-03-06,Karen Stemmle,CA,10,Downhill
+1983-03-06,Eva Twardokens,US,5,Combined
+1983-03-06,Catherine Quittet,FR,33,Downhill
+1983-03-06,Andreja Leskovsek,,3,Slalom
+1983-03-06,Maria Maricich,US,20,Downhill
+1983-03-06,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-06,Malgorzata Tlalka,PL,39,Slalom
+1983-03-06,Fulvia Stevenin,IT,5,Slalom
+1983-03-06,Gerry Sorensen,CA,36,Downhill
+1983-03-06,Paoletta Magoni,IT,38,Slalom
+1983-03-06,Paola Toniolli,IT,5,Slalom
+1983-03-06,Sylvia Eder,AT,56,Combined
+1983-03-06,Elisabeth Kirchler,AT,147,Downhill
+1983-03-06,Christa Kinshofer,DE,5,Slalom
+1983-03-06,Sigrid Wolf,AT,16,Downhill
+1983-03-06,Michaela Gerg-Leitner,DE,51,Downhill
 1983-03-06,Zoe Haas,CH,50,Super G
 1983-03-06,Claudia Riedl,AT,6,Giant Slalom
-1983-03-06,Anja Zavadlav,,16,Slalom
+1983-03-06,Pam Fletcher,US,9,Downhill
+1983-03-06,Ariane Ehrat,CH,39,Downhill
+1983-03-06,Diana Haight,CA,3,Downhill
 1983-03-06,Maria Epple,DE,106,Giant Slalom
-1983-03-06,Lorena Frigo,IT,20,Slalom
-1983-03-06,Maria Maricich,US,20,Downhill
-1983-03-06,Regine Moesenlechner,DE,1,Downhill
-1983-03-06,Maria Walliser,CH,137,Downhill
-1983-03-06,Marina Kiehl,DE,5,Combined
-1983-03-06,Karin Buder,AT,9,Slalom
-1983-03-06,Doris De Agostini,CH,124,Downhill
+1983-03-06,Perrine Pelen,FR,54,Slalom
+1983-03-06,Elisabeth Chaud,FR,71,Downhill
+1983-03-06,Anne Flore Rey,FR,50,Giant Slalom
+1983-03-06,Anja Zavadlav,,16,Slalom
+1983-03-06,Dorota Tlalka,PL,58,Slalom
 1983-03-06,Huberta Wolf,AT,5,Downhill
-1983-03-06,Ivana Valesova,SK,11,Combined
+1983-03-06,Sonja Stotz,DE,11,Combined
+1983-03-06,Francoise Bozon,FR,13,Downhill
+1983-03-06,Anni Kronbichler,AT,98,Slalom
+1983-03-06,Jana Gantnerova,SK,55,Downhill
+1983-03-06,Blanca Fernandez Ochoa,ES,15,Giant Slalom
+1983-03-06,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-06,Renate Lazak,DE,1,Slalom
+1983-03-06,Cindy Nelson,US,90,Giant Slalom
+1983-03-06,Eva Grabowska,PL,9,Slalom
+1983-03-06,Monika Hess,CH,8,Slalom
+1983-03-06,Ida Ladstaetter,AT,4,Slalom
+1983-03-06,Irene Epple,DE,115,Combined
+1983-03-06,Helene Barbier,FR,20,Giant Slalom
+1983-03-06,Carole Merle,FR,24,Giant Slalom
+1983-03-06,Regine Moesenlechner,DE,1,Downhill
+1983-03-06,Lorena Frigo,IT,20,Slalom
+1983-03-06,Christin Cooper,US,87,Combined
+1983-03-06,Veronika Vitzthum,AT,36,Downhill
+1983-03-06,Caroline Attia,FR,66,Downhill
+1983-03-06,Alexandra Marasova,SK,9,Slalom
+1983-03-06,Maria Walliser,CH,137,Downhill
+1983-03-06,Michela Figini,CH,31,Giant Slalom
 1983-03-06,Olga Charvatova,SK,81,Slalom
 1983-03-06,Heidi Wiesler,DE,43,Combined
-1983-03-06,Malgorzata Tlalka,PL,39,Slalom
-1983-03-06,Alexandra Marasova,SK,9,Slalom
-1983-03-06,Elisabeth Chaud,FR,71,Downhill
-1983-03-06,Fabienne Serrat,FR,69,Giant Slalom
+1983-03-06,Laurie Graham,CA,81,Downhill
 1983-03-06,Brigitte Nansoz,CH,9,Slalom
-1983-03-06,Pam Fletcher,US,9,Downhill
-1983-03-08,Paoletta Magoni,IT,38,Slalom
-1983-03-08,Christin Cooper,US,59,Giant Slalom
-1983-03-08,Olga Charvatova,SK,91,Slalom
-1983-03-08,Ariane Ehrat,CH,39,Downhill
-1983-03-08,Myriam Difant,FR,3,Combined
-1983-03-08,Veronique Robin,CH,4,Combined
-1983-03-08,Ursula Konzett,LI,33,Slalom
-1983-03-08,Brigitte Nansoz,CH,9,Slalom
-1983-03-08,Gerry Sorensen,CA,36,Downhill
-1983-03-08,Irene Epple,DE,104,Super G
-1983-03-08,Heidi Preuss,US,7,Giant Slalom
-1983-03-08,Lea Soelkner,AT,44,Downhill
-1983-03-08,Michela Figini,CH,31,Giant Slalom
-1983-03-08,Sigrid Wolf,AT,16,Downhill
-1983-03-08,Anni Kronbichler,AT,96,Slalom
-1983-03-08,Zoe Haas,CH,50,Super G
-1983-03-08,Catherine Quittet,FR,33,Downhill
-1983-03-08,Karin Buder,AT,9,Slalom
-1983-03-08,Alexandra Marasova,SK,9,Slalom
-1983-03-08,Tamara McKinney,US,152,Giant Slalom
-1983-03-08,Laurie Graham,CA,81,Downhill
-1983-03-08,Rosi Aschenwald,AT,7,Slalom
-1983-03-08,Claudia Riedl,AT,6,Giant Slalom
-1983-03-08,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-08,Caroline Attia,FR,66,Downhill
-1983-03-08,Helene Barbier,FR,28,Giant Slalom
-1983-03-08,Paola Toniolli,IT,5,Slalom
-1983-03-08,Pam Fletcher,US,9,Downhill
-1983-03-08,Malgorzata Tlalka,PL,50,Slalom
-1983-03-08,Andreja Leskovsek,,3,Slalom
-1983-03-08,Elisabeth Chaud,FR,71,Downhill
-1983-03-08,Roswitha Steiner,AT,70,Slalom
-1983-03-08,Monika Hess,CH,20,Slalom
-1983-03-08,Daniela Zini,IT,57,Slalom
-1983-03-08,Hanni Wenzel,LI,144,Slalom
-1983-03-08,Huberta Wolf,AT,5,Downhill
-1983-03-08,Francoise Bozon,FR,13,Downhill
-1983-03-08,Petra Wenzel,LI,60,Slalom
-1983-03-08,Maria Walliser,CH,137,Downhill
-1983-03-08,Eva Twardokens,US,5,Combined
-1983-03-08,Sieglinde Winkler,AT,27,Downhill
-1983-03-08,Diana Haight,CA,3,Downhill
-1983-03-08,Maria Maricich,US,20,Downhill
-1983-03-08,Jana Gantnerova,SK,55,Downhill
-1983-03-08,Brigitte Oertli,CH,38,Combined
-1983-03-08,Katharina Gutensohn,AT,21,Combined
-1983-03-08,Anne Flore Rey,FR,54,Giant Slalom
-1983-03-08,Anja Zavadlav,,16,Slalom
-1983-03-08,Debbie Armstrong,US,32,Downhill
-1983-03-08,Elisabeth Warter,AT,4,Downhill
-1983-03-08,Michaela Gerg-Leitner,DE,32,Downhill
-1983-03-08,Maria Epple,DE,106,Giant Slalom
-1983-03-08,Ida Ladstaetter,AT,4,Slalom
-1983-03-08,Fabienne Serrat,FR,72,Giant Slalom
-1983-03-08,Dorota Tlalka,PL,60,Slalom
-1983-03-08,Cindy Nelson,US,90,Giant Slalom
-1983-03-08,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-06,Tamara McKinney,US,162,Giant Slalom
+1983-03-06,Sieglinde Winkler,AT,27,Downhill
+1983-03-06,Daniela Zini,IT,50,Slalom
+1983-03-06,Ivana Valesova,SK,11,Combined
+1983-03-06,Doris De Agostini,CH,124,Downhill
+1983-03-06,Erika Hess,CH,195,Slalom
+1983-03-06,Liisa Savijarvi,CA,3,Downhill
+1983-03-06,Petra Wenzel,LI,55,Slalom
+1983-03-06,Heidi Preuss,US,7,Giant Slalom
+1983-03-06,Debbie Armstrong,US,37,Downhill
+1983-03-06,Maria Rosa Quario,IT,94,Slalom
+1983-03-06,Rosi Aschenwald,AT,7,Slalom
+1983-03-06,Holly Beth Flanders,US,11,Downhill
+1983-03-06,Hanni Wenzel,LI,181,Slalom
 1983-03-08,Doris De Agostini,CH,124,Downhill
-1983-03-08,Christa Kinshofer,DE,5,Slalom
-1983-03-08,Marina Kiehl,DE,5,Combined
-1983-03-08,Claudine Emonet,FR,44,Downhill
-1983-03-08,Regine Moesenlechner,DE,1,Downhill
-1983-03-08,Elisabeth Kirchler,AT,122,Downhill
-1983-03-08,Fulvia Stevenin,IT,5,Slalom
-1983-03-08,Eva Grabowska,PL,9,Slalom
 1983-03-08,Carole Merle,FR,24,Giant Slalom
+1983-03-08,Elisabeth Warter,AT,4,Downhill
+1983-03-08,Ida Ladstaetter,AT,4,Slalom
+1983-03-08,Claudia Riedl,AT,6,Giant Slalom
+1983-03-08,Rosi Aschenwald,AT,7,Slalom
+1983-03-08,Sylvia Eder,AT,56,Combined
+1983-03-08,Maria Epple,DE,106,Giant Slalom
+1983-03-08,Michaela Gerg-Leitner,DE,52,Downhill
+1983-03-08,Diana Haight,CA,3,Downhill
+1983-03-08,Huberta Wolf,AT,5,Downhill
 1983-03-08,Heidi Wiesler,DE,43,Combined
-1983-03-08,Erika Hess,CH,160,Slalom
-1983-03-08,Renate Lazak,DE,1,Slalom
-1983-03-08,Sylvia Eder,AT,36,Downhill
-1983-03-08,Karen Stemmle,CA,10,Downhill
+1983-03-08,Ursula Konzett,LI,33,Slalom
+1983-03-08,Fabienne Serrat,FR,72,Giant Slalom
+1983-03-08,Debbie Armstrong,US,37,Downhill
+1983-03-08,Karin Buder,AT,9,Slalom
+1983-03-08,Maria Maricich,US,20,Downhill
+1983-03-08,Ivana Valesova,SK,11,Combined
 1983-03-08,Liisa Savijarvi,CA,3,Downhill
 1983-03-08,Maria Rosa Quario,IT,96,Slalom
-1983-03-08,Ivana Valesova,SK,11,Combined
-1983-03-08,Veronika Vitzthum,AT,36,Downhill
-1983-03-08,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-08,Lorena Frigo,IT,20,Slalom
-1983-03-08,Perrine Pelen,FR,54,Slalom
-1983-03-08,Holly Beth Flanders,US,11,Downhill
+1983-03-08,Olga Charvatova,SK,91,Slalom
+1983-03-08,Eva Grabowska,PL,9,Slalom
 1983-03-08,Sonja Stotz,DE,11,Combined
-1983-03-09,Carole Merle,FR,24,Giant Slalom
-1983-03-09,Lorena Frigo,IT,20,Slalom
-1983-03-09,Claudia Riedl,AT,15,Giant Slalom
-1983-03-09,Hanni Wenzel,LI,150,Slalom
-1983-03-09,Fabienne Serrat,FR,87,Giant Slalom
-1983-03-09,Maria Maricich,US,20,Downhill
-1983-03-09,Rosi Aschenwald,AT,7,Slalom
-1983-03-09,Anja Zavadlav,,16,Slalom
-1983-03-09,Jana Gantnerova,SK,55,Downhill
-1983-03-09,Brigitte Oertli,CH,38,Combined
-1983-03-09,Elisabeth Kirchler,AT,127,Downhill
-1983-03-09,Katharina Gutensohn,AT,21,Combined
-1983-03-09,Holly Beth Flanders,US,11,Downhill
-1983-03-09,Diana Haight,CA,3,Downhill
-1983-03-09,Francoise Bozon,FR,13,Downhill
-1983-03-09,Eva Twardokens,US,5,Combined
-1983-03-09,Erika Hess,CH,172,Slalom
-1983-03-09,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-09,Caroline Attia,FR,66,Downhill
-1983-03-09,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-09,Paola Toniolli,IT,5,Slalom
-1983-03-09,Pam Fletcher,US,9,Downhill
-1983-03-09,Perrine Pelen,FR,54,Slalom
-1983-03-09,Maria Walliser,CH,138,Downhill
-1983-03-09,Roswitha Steiner,AT,70,Slalom
-1983-03-09,Andreja Leskovsek,,3,Slalom
-1983-03-09,Renate Lazak,DE,1,Slalom
-1983-03-09,Sieglinde Winkler,AT,27,Downhill
-1983-03-09,Monika Hess,CH,30,Slalom
-1983-03-09,Daniela Zini,IT,57,Slalom
-1983-03-09,Malgorzata Tlalka,PL,50,Slalom
-1983-03-09,Eva Grabowska,PL,9,Slalom
-1983-03-09,Petra Wenzel,LI,64,Slalom
+1983-03-08,Maria Walliser,CH,137,Downhill
+1983-03-08,Anni Kronbichler,AT,108,Slalom
+1983-03-08,Cindy Nelson,US,90,Giant Slalom
+1983-03-08,Blanca Fernandez Ochoa,ES,15,Giant Slalom
+1983-03-08,Renate Lazak,DE,1,Slalom
+1983-03-08,Alexandra Marasova,SK,9,Slalom
+1983-03-08,Irene Epple,DE,115,Combined
+1983-03-08,Lorena Frigo,IT,20,Slalom
+1983-03-08,Regine Moesenlechner,DE,1,Downhill
+1983-03-08,Christin Cooper,US,87,Combined
+1983-03-08,Caroline Attia,FR,66,Downhill
+1983-03-08,Hanni Wenzel,LI,196,Slalom
+1983-03-08,Heidi Preuss,US,7,Giant Slalom
+1983-03-08,Holly Beth Flanders,US,11,Downhill
+1983-03-08,Laurie Graham,CA,81,Downhill
+1983-03-08,Paoletta Magoni,IT,38,Slalom
+1983-03-08,Malgorzata Tlalka,PL,50,Slalom
+1983-03-08,Paola Toniolli,IT,5,Slalom
+1983-03-08,Elisabeth Chaud,FR,71,Downhill
+1983-03-08,Sigrid Wolf,AT,16,Downhill
+1983-03-08,Elisabeth Kirchler,AT,147,Downhill
+1983-03-08,Zoe Haas,CH,50,Super G
+1983-03-08,Eva Twardokens,US,5,Combined
+1983-03-08,Andreja Leskovsek,,3,Slalom
+1983-03-08,Perrine Pelen,FR,54,Slalom
+1983-03-08,Katharina Gutensohn,AT,21,Combined
+1983-03-08,Lea Soelkner,AT,44,Downhill
+1983-03-08,Pam Fletcher,US,9,Downhill
+1983-03-08,Karen Stemmle,CA,10,Downhill
+1983-03-08,Myriam Difant,FR,3,Combined
+1983-03-08,Tamara McKinney,US,182,Giant Slalom
+1983-03-08,Roswitha Steiner,AT,70,Slalom
+1983-03-08,Anne Flore Rey,FR,54,Giant Slalom
+1983-03-08,Claudine Emonet,FR,44,Downhill
+1983-03-08,Veronika Vitzthum,AT,36,Downhill
+1983-03-08,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-08,Monika Hess,CH,20,Slalom
+1983-03-08,Catherine Quittet,FR,33,Downhill
+1983-03-08,Jana Gantnerova,SK,55,Downhill
+1983-03-08,Francoise Bozon,FR,13,Downhill
+1983-03-08,Michela Figini,CH,31,Giant Slalom
+1983-03-08,Fulvia Stevenin,IT,5,Slalom
+1983-03-08,Erika Hess,CH,195,Slalom
+1983-03-08,Helene Barbier,FR,28,Giant Slalom
+1983-03-08,Marina Kiehl,DE,5,Combined
+1983-03-08,Brigitte Oertli,CH,38,Combined
+1983-03-08,Ariane Ehrat,CH,39,Downhill
+1983-03-08,Petra Wenzel,LI,60,Slalom
+1983-03-08,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-08,Veronique Robin,CH,4,Combined
+1983-03-08,Daniela Zini,IT,57,Slalom
+1983-03-08,Christa Kinshofer,DE,5,Slalom
+1983-03-08,Dorota Tlalka,PL,64,Slalom
+1983-03-08,Sieglinde Winkler,AT,27,Downhill
+1983-03-08,Anja Zavadlav,,16,Slalom
+1983-03-08,Gerry Sorensen,CA,36,Downhill
+1983-03-08,Brigitte Nansoz,CH,9,Slalom
 1983-03-09,Anne Flore Rey,FR,54,Giant Slalom
-1983-03-09,Huberta Wolf,AT,5,Downhill
-1983-03-09,Marina Kiehl,DE,5,Combined
-1983-03-09,Michaela Gerg-Leitner,DE,39,Downhill
-1983-03-09,Christa Kinshofer,DE,5,Slalom
-1983-03-09,Irene Epple,DE,112,Super G
-1983-03-09,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-09,Heidi Wiesler,DE,43,Combined
-1983-03-09,Elisabeth Chaud,FR,73,Downhill
-1983-03-09,Debbie Armstrong,US,32,Downhill
-1983-03-09,Elisabeth Warter,AT,4,Downhill
-1983-03-09,Dorota Tlalka,PL,60,Slalom
-1983-03-09,Veronika Vitzthum,AT,36,Downhill
-1983-03-09,Gerry Sorensen,CA,36,Downhill
-1983-03-09,Cindy Nelson,US,101,Giant Slalom
-1983-03-09,Maria Epple,DE,126,Giant Slalom
-1983-03-09,Sigrid Wolf,AT,16,Downhill
-1983-03-09,Karen Stemmle,CA,10,Downhill
-1983-03-09,Zoe Haas,CH,50,Super G
-1983-03-09,Tamara McKinney,US,177,Giant Slalom
-1983-03-09,Lea Soelkner,AT,44,Downhill
-1983-03-09,Regine Moesenlechner,DE,1,Downhill
-1983-03-09,Claudine Emonet,FR,44,Downhill
-1983-03-09,Karin Buder,AT,9,Slalom
-1983-03-09,Helene Barbier,FR,28,Giant Slalom
-1983-03-09,Paoletta Magoni,IT,38,Slalom
-1983-03-09,Michela Figini,CH,31,Giant Slalom
-1983-03-09,Alexandra Marasova,SK,9,Slalom
-1983-03-09,Olga Charvatova,SK,94,Slalom
-1983-03-09,Ida Ladstaetter,AT,4,Slalom
 1983-03-09,Myriam Difant,FR,3,Combined
-1983-03-09,Fulvia Stevenin,IT,5,Slalom
-1983-03-09,Doris De Agostini,CH,124,Downhill
-1983-03-09,Liisa Savijarvi,CA,3,Downhill
-1983-03-09,Sonja Stotz,DE,11,Combined
-1983-03-09,Catherine Quittet,FR,33,Downhill
-1983-03-09,Maria Rosa Quario,IT,96,Slalom
-1983-03-09,Veronique Robin,CH,4,Combined
+1983-03-09,Diana Haight,CA,3,Downhill
+1983-03-09,Marina Kiehl,DE,5,Combined
 1983-03-09,Ariane Ehrat,CH,39,Downhill
-1983-03-09,Christin Cooper,US,59,Giant Slalom
-1983-03-09,Ursula Konzett,LI,33,Slalom
-1983-03-09,Anni Kronbichler,AT,96,Slalom
-1983-03-09,Heidi Preuss,US,7,Giant Slalom
-1983-03-09,Brigitte Nansoz,CH,9,Slalom
+1983-03-09,Pam Fletcher,US,9,Downhill
+1983-03-09,Maria Epple,DE,126,Giant Slalom
+1983-03-09,Michaela Gerg-Leitner,DE,59,Downhill
+1983-03-09,Brigitte Oertli,CH,38,Combined
 1983-03-09,Laurie Graham,CA,81,Downhill
-1983-03-09,Sylvia Eder,AT,36,Downhill
+1983-03-09,Fulvia Stevenin,IT,5,Slalom
+1983-03-09,Daniela Zini,IT,57,Slalom
+1983-03-09,Paola Toniolli,IT,5,Slalom
+1983-03-09,Holly Beth Flanders,US,11,Downhill
+1983-03-09,Fabienne Serrat,FR,87,Giant Slalom
+1983-03-09,Ursula Konzett,LI,33,Slalom
+1983-03-09,Karen Stemmle,CA,10,Downhill
+1983-03-09,Maria Maricich,US,20,Downhill
+1983-03-09,Roswitha Steiner,AT,70,Slalom
+1983-03-09,Paoletta Magoni,IT,38,Slalom
+1983-03-09,Christa Kinshofer,DE,5,Slalom
+1983-03-09,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-09,Malgorzata Tlalka,PL,50,Slalom
+1983-03-09,Sigrid Wolf,AT,16,Downhill
+1983-03-09,Elisabeth Chaud,FR,73,Downhill
+1983-03-09,Gerry Sorensen,CA,36,Downhill
+1983-03-09,Zoe Haas,CH,50,Super G
+1983-03-09,Michela Figini,CH,31,Giant Slalom
+1983-03-09,Eva Twardokens,US,5,Combined
+1983-03-09,Perrine Pelen,FR,54,Slalom
+1983-03-09,Claudia Riedl,AT,15,Giant Slalom
+1983-03-09,Tamara McKinney,US,207,Giant Slalom
+1983-03-09,Claudine Emonet,FR,44,Downhill
+1983-03-09,Francoise Bozon,FR,13,Downhill
+1983-03-09,Catherine Quittet,FR,33,Downhill
+1983-03-09,Karin Buder,AT,9,Slalom
+1983-03-09,Veronique Robin,CH,4,Combined
+1983-03-09,Katharina Gutensohn,AT,21,Combined
+1983-03-09,Sylvia Eder,AT,56,Combined
+1983-03-09,Elisabeth Kirchler,AT,152,Downhill
+1983-03-09,Sieglinde Winkler,AT,27,Downhill
+1983-03-09,Lea Soelkner,AT,44,Downhill
+1983-03-09,Erika Hess,CH,207,Slalom
+1983-03-09,Andreja Leskovsek,,3,Slalom
+1983-03-09,Hanni Wenzel,LI,202,Slalom
+1983-03-09,Heidi Preuss,US,7,Giant Slalom
+1983-03-09,Alexandra Marasova,SK,9,Slalom
+1983-03-09,Regine Moesenlechner,DE,1,Downhill
+1983-03-09,Sonja Stotz,DE,11,Combined
+1983-03-09,Heidi Wiesler,DE,43,Combined
+1983-03-09,Lorena Frigo,IT,20,Slalom
+1983-03-09,Petra Wenzel,LI,64,Slalom
+1983-03-09,Eva Grabowska,PL,9,Slalom
+1983-03-09,Anni Kronbichler,AT,108,Slalom
+1983-03-09,Renate Lazak,DE,1,Slalom
+1983-03-09,Dorota Tlalka,PL,64,Slalom
+1983-03-09,Carole Merle,FR,24,Giant Slalom
+1983-03-09,Huberta Wolf,AT,5,Downhill
+1983-03-09,Jana Gantnerova,SK,55,Downhill
+1983-03-09,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-09,Irene Epple,DE,123,Combined
+1983-03-09,Maria Walliser,CH,138,Downhill
+1983-03-09,Cindy Nelson,US,101,Giant Slalom
+1983-03-09,Doris De Agostini,CH,124,Downhill
+1983-03-09,Ida Ladstaetter,AT,4,Slalom
 1983-03-09,Ivana Valesova,SK,11,Combined
-1983-03-10,Elisabeth Chaud,FR,73,Downhill
-1983-03-10,Renate Lazak,DE,1,Slalom
-1983-03-10,Liisa Savijarvi,CA,3,Downhill
-1983-03-10,Erika Hess,CH,183,Slalom
-1983-03-10,Dorota Tlalka,PL,60,Slalom
-1983-03-10,Perrine Pelen,FR,54,Slalom
-1983-03-10,Pam Fletcher,US,9,Downhill
-1983-03-10,Roswitha Steiner,AT,70,Slalom
-1983-03-10,Michela Figini,CH,43,Giant Slalom
-1983-03-10,Ariane Ehrat,CH,39,Downhill
-1983-03-10,Monika Hess,CH,38,Slalom
-1983-03-10,Heidi Preuss,US,7,Giant Slalom
-1983-03-10,Tamara McKinney,US,202,Giant Slalom
-1983-03-10,Claudine Emonet,FR,44,Downhill
-1983-03-10,Alexandra Marasova,SK,9,Slalom
-1983-03-10,Michaela Gerg-Leitner,DE,46,Downhill
-1983-03-10,Hanni Wenzel,LI,150,Slalom
-1983-03-10,Catherine Quittet,FR,33,Downhill
-1983-03-10,Regine Moesenlechner,DE,1,Downhill
-1983-03-10,Doris De Agostini,CH,124,Downhill
-1983-03-10,Sonja Stotz,DE,11,Combined
-1983-03-10,Katharina Gutensohn,AT,21,Combined
-1983-03-10,Carole Merle,FR,24,Giant Slalom
-1983-03-10,Rosi Aschenwald,AT,7,Slalom
-1983-03-10,Maria Maricich,US,20,Downhill
-1983-03-10,Christin Cooper,US,59,Giant Slalom
-1983-03-10,Heidi Wiesler,DE,45,Combined
-1983-03-10,Brigitte Oertli,CH,38,Combined
-1983-03-10,Gerry Sorensen,CA,36,Downhill
-1983-03-10,Zoe Haas,CH,53,Super G
-1983-03-10,Veronika Vitzthum,AT,36,Downhill
-1983-03-10,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-10,Sieglinde Winkler,AT,27,Downhill
-1983-03-10,Malgorzata Tlalka,PL,50,Slalom
-1983-03-10,Eva Twardokens,US,5,Combined
-1983-03-10,Maria Epple,DE,146,Giant Slalom
-1983-03-10,Lea Soelkner,AT,44,Downhill
-1983-03-10,Fabienne Serrat,FR,87,Giant Slalom
-1983-03-10,Petra Wenzel,LI,68,Slalom
-1983-03-10,Myriam Difant,FR,3,Combined
-1983-03-10,Helene Barbier,FR,28,Giant Slalom
-1983-03-10,Paola Toniolli,IT,5,Slalom
-1983-03-10,Sylvia Eder,AT,36,Downhill
-1983-03-10,Paoletta Magoni,IT,38,Slalom
-1983-03-10,Elisabeth Kirchler,AT,132,Downhill
-1983-03-10,Maria Rosa Quario,IT,96,Slalom
-1983-03-10,Eva Grabowska,PL,9,Slalom
-1983-03-10,Christa Kinshofer,DE,5,Slalom
-1983-03-10,Anne Flore Rey,FR,65,Giant Slalom
+1983-03-09,Anja Zavadlav,,16,Slalom
+1983-03-09,Caroline Attia,FR,66,Downhill
+1983-03-09,Rosi Aschenwald,AT,7,Slalom
+1983-03-09,Maria Rosa Quario,IT,96,Slalom
+1983-03-09,Elisabeth Warter,AT,4,Downhill
+1983-03-09,Brigitte Nansoz,CH,9,Slalom
+1983-03-09,Blanca Fernandez Ochoa,ES,15,Giant Slalom
+1983-03-09,Liisa Savijarvi,CA,3,Downhill
+1983-03-09,Debbie Armstrong,US,37,Downhill
+1983-03-09,Veronika Vitzthum,AT,36,Downhill
+1983-03-09,Helene Barbier,FR,28,Giant Slalom
+1983-03-09,Olga Charvatova,SK,94,Slalom
+1983-03-09,Christin Cooper,US,87,Combined
+1983-03-09,Monika Hess,CH,30,Slalom
 1983-03-10,Cindy Nelson,US,116,Giant Slalom
+1983-03-10,Helene Barbier,FR,28,Giant Slalom
+1983-03-10,Claudine Emonet,FR,44,Downhill
+1983-03-10,Irene Epple,DE,129,Combined
+1983-03-10,Karin Buder,AT,9,Slalom
+1983-03-10,Ivana Valesova,SK,11,Combined
+1983-03-10,Zoe Haas,CH,53,Super G
+1983-03-10,Eva Twardokens,US,5,Combined
 1983-03-10,Sigrid Wolf,AT,16,Downhill
-1983-03-10,Anni Kronbichler,AT,96,Slalom
-1983-03-10,Olga Charvatova,SK,95,Slalom
-1983-03-10,Francoise Bozon,FR,13,Downhill
-1983-03-10,Jana Gantnerova,SK,55,Downhill
-1983-03-10,Irene Epple,DE,118,Super G
+1983-03-10,Gerry Sorensen,CA,36,Downhill
+1983-03-10,Regine Moesenlechner,DE,1,Downhill
+1983-03-10,Christin Cooper,US,87,Combined
+1983-03-10,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-10,Anja Zavadlav,,16,Slalom
+1983-03-10,Caroline Attia,FR,66,Downhill
+1983-03-10,Elisabeth Chaud,FR,73,Downhill
+1983-03-10,Paola Toniolli,IT,5,Slalom
+1983-03-10,Perrine Pelen,FR,54,Slalom
+1983-03-10,Lorena Frigo,IT,20,Slalom
+1983-03-10,Doris De Agostini,CH,124,Downhill
+1983-03-10,Monika Hess,CH,38,Slalom
+1983-03-10,Hanni Wenzel,LI,202,Slalom
+1983-03-10,Pam Fletcher,US,9,Downhill
+1983-03-10,Maria Rosa Quario,IT,96,Slalom
 1983-03-10,Holly Beth Flanders,US,11,Downhill
+1983-03-10,Heidi Preuss,US,7,Giant Slalom
+1983-03-10,Liisa Savijarvi,CA,3,Downhill
+1983-03-10,Olga Charvatova,SK,95,Slalom
+1983-03-10,Laurie Graham,CA,81,Downhill
+1983-03-10,Brigitte Oertli,CH,38,Combined
+1983-03-10,Brigitte Nansoz,CH,9,Slalom
+1983-03-10,Anne Flore Rey,FR,65,Giant Slalom
+1983-03-10,Maria Walliser,CH,147,Downhill
+1983-03-10,Sonja Stotz,DE,11,Combined
+1983-03-10,Daniela Zini,IT,57,Slalom
+1983-03-10,Myriam Difant,FR,3,Combined
+1983-03-10,Eva Grabowska,PL,9,Slalom
+1983-03-10,Karen Stemmle,CA,10,Downhill
+1983-03-10,Marina Kiehl,DE,5,Combined
+1983-03-10,Anni Kronbichler,AT,108,Slalom
+1983-03-10,Roswitha Steiner,AT,70,Slalom
+1983-03-10,Petra Wenzel,LI,68,Slalom
+1983-03-10,Alexandra Marasova,SK,9,Slalom
+1983-03-10,Lea Soelkner,AT,44,Downhill
+1983-03-10,Sieglinde Winkler,AT,27,Downhill
+1983-03-10,Erika Hess,CH,218,Slalom
+1983-03-10,Tamara McKinney,US,232,Giant Slalom
+1983-03-10,Katharina Gutensohn,AT,21,Combined
+1983-03-10,Blanca Fernandez Ochoa,ES,15,Giant Slalom
+1983-03-10,Catherine Quittet,FR,33,Downhill
+1983-03-10,Renate Lazak,DE,1,Slalom
+1983-03-10,Christa Kinshofer,DE,5,Slalom
+1983-03-10,Veronique Robin,CH,4,Combined
+1983-03-10,Michaela Gerg-Leitner,DE,66,Downhill
+1983-03-10,Francoise Bozon,FR,13,Downhill
+1983-03-10,Ursula Konzett,LI,33,Slalom
+1983-03-10,Ariane Ehrat,CH,39,Downhill
+1983-03-10,Maria Maricich,US,20,Downhill
+1983-03-10,Heidi Wiesler,DE,45,Combined
+1983-03-10,Veronika Vitzthum,AT,36,Downhill
+1983-03-10,Carole Merle,FR,24,Giant Slalom
+1983-03-10,Maria Epple,DE,146,Giant Slalom
+1983-03-10,Dorota Tlalka,PL,64,Slalom
+1983-03-10,Rosi Aschenwald,AT,7,Slalom
+1983-03-10,Andreja Leskovsek,,3,Slalom
+1983-03-10,Diana Haight,CA,3,Downhill
+1983-03-10,Elisabeth Kirchler,AT,157,Downhill
 1983-03-10,Claudia Riedl,AT,15,Giant Slalom
 1983-03-10,Fulvia Stevenin,IT,5,Slalom
-1983-03-10,Anja Zavadlav,,16,Slalom
-1983-03-10,Veronique Robin,CH,4,Combined
-1983-03-10,Karen Stemmle,CA,10,Downhill
-1983-03-10,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-10,Andreja Leskovsek,,3,Slalom
-1983-03-10,Daniela Zini,IT,57,Slalom
-1983-03-10,Karin Buder,AT,9,Slalom
-1983-03-10,Brigitte Nansoz,CH,9,Slalom
-1983-03-10,Laurie Graham,CA,81,Downhill
-1983-03-10,Caroline Attia,FR,66,Downhill
-1983-03-10,Ivana Valesova,SK,11,Combined
-1983-03-10,Debbie Armstrong,US,32,Downhill
-1983-03-10,Elisabeth Warter,AT,4,Downhill
-1983-03-10,Ursula Konzett,LI,33,Slalom
-1983-03-10,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-10,Maria Walliser,CH,147,Downhill
-1983-03-10,Diana Haight,CA,3,Downhill
-1983-03-10,Lorena Frigo,IT,20,Slalom
+1983-03-10,Michela Figini,CH,43,Giant Slalom
+1983-03-10,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-10,Malgorzata Tlalka,PL,50,Slalom
 1983-03-10,Huberta Wolf,AT,5,Downhill
+1983-03-10,Jana Gantnerova,SK,55,Downhill
+1983-03-10,Paoletta Magoni,IT,38,Slalom
+1983-03-10,Debbie Armstrong,US,37,Downhill
+1983-03-10,Elisabeth Warter,AT,4,Downhill
 1983-03-10,Ida Ladstaetter,AT,4,Slalom
-1983-03-10,Marina Kiehl,DE,5,Combined
-1983-03-12,Dorota Tlalka,PL,60,Slalom
-1983-03-12,Lea Soelkner,AT,44,Downhill
-1983-03-12,Anja Zavadlav,,16,Slalom
-1983-03-12,Laurie Graham,CA,81,Downhill
-1983-03-12,Veronique Robin,CH,4,Combined
-1983-03-12,Ariane Ehrat,CH,39,Downhill
-1983-03-12,Ida Ladstaetter,AT,4,Slalom
-1983-03-12,Sigrid Wolf,AT,16,Downhill
-1983-03-12,Heidi Preuss,US,7,Giant Slalom
-1983-03-12,Paoletta Magoni,IT,38,Slalom
-1983-03-12,Gerry Sorensen,CA,36,Downhill
-1983-03-12,Michela Figini,CH,52,Giant Slalom
-1983-03-12,Ursula Konzett,LI,33,Slalom
-1983-03-12,Myriam Difant,FR,3,Combined
-1983-03-12,Rosi Aschenwald,AT,7,Slalom
-1983-03-12,Cindy Nelson,US,136,Giant Slalom
-1983-03-12,Claudia Riedl,AT,15,Giant Slalom
-1983-03-12,Maria Maricich,US,20,Downhill
-1983-03-12,Tamara McKinney,US,227,Giant Slalom
-1983-03-12,Liisa Savijarvi,CA,3,Downhill
-1983-03-12,Erika Hess,CH,198,Slalom
+1983-03-10,Sylvia Eder,AT,56,Combined
+1983-03-10,Fabienne Serrat,FR,87,Giant Slalom
 1983-03-12,Heidi Wiesler,DE,45,Combined
-1983-03-12,Maria Epple,DE,157,Giant Slalom
-1983-03-12,Marina Kiehl,DE,5,Combined
-1983-03-12,Zoe Haas,CH,53,Super G
-1983-03-12,Elisabeth Kirchler,AT,142,Downhill
-1983-03-12,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-12,Lorena Frigo,IT,20,Slalom
-1983-03-12,Karin Buder,AT,9,Slalom
-1983-03-12,Doris De Agostini,CH,124,Downhill
-1983-03-12,Olga Charvatova,SK,102,Slalom
-1983-03-12,Fabienne Serrat,FR,87,Giant Slalom
-1983-03-12,Ivana Valesova,SK,11,Combined
-1983-03-12,Brigitte Nansoz,CH,9,Slalom
-1983-03-12,Regine Moesenlechner,DE,1,Downhill
-1983-03-12,Maria Rosa Quario,IT,96,Slalom
-1983-03-12,Renate Lazak,DE,1,Slalom
-1983-03-12,Christa Kinshofer,DE,5,Slalom
-1983-03-12,Karen Stemmle,CA,10,Downhill
-1983-03-12,Helene Barbier,FR,28,Giant Slalom
-1983-03-12,Claudine Emonet,FR,44,Downhill
-1983-03-12,Veronika Vitzthum,AT,36,Downhill
-1983-03-12,Fulvia Stevenin,IT,5,Slalom
-1983-03-12,Catherine Quittet,FR,33,Downhill
-1983-03-12,Eva Grabowska,PL,9,Slalom
-1983-03-12,Sylvia Eder,AT,36,Downhill
-1983-03-12,Anni Kronbichler,AT,96,Slalom
-1983-03-12,Perrine Pelen,FR,62,Slalom
-1983-03-12,Holly Beth Flanders,US,11,Downhill
-1983-03-12,Carole Merle,FR,24,Giant Slalom
-1983-03-12,Christin Cooper,US,59,Giant Slalom
-1983-03-12,Marie Lucie Waldmeier,FR,34,Downhill
 1983-03-12,Sonja Stotz,DE,11,Combined
-1983-03-12,Malgorzata Tlalka,PL,50,Slalom
-1983-03-12,Alexandra Marasova,SK,9,Slalom
+1983-03-12,Myriam Difant,FR,3,Combined
 1983-03-12,Diana Haight,CA,3,Downhill
-1983-03-12,Katharina Gutensohn,AT,21,Combined
-1983-03-12,Daniela Zini,IT,58,Slalom
+1983-03-12,Dorota Tlalka,PL,64,Slalom
 1983-03-12,Roswitha Steiner,AT,70,Slalom
-1983-03-12,Andreja Leskovsek,,3,Slalom
-1983-03-12,Jana Gantnerova,SK,55,Downhill
-1983-03-12,Anne Flore Rey,FR,77,Giant Slalom
-1983-03-12,Brigitte Oertli,CH,38,Combined
+1983-03-12,Ariane Ehrat,CH,39,Downhill
+1983-03-12,Michaela Gerg-Leitner,DE,68,Downhill
+1983-03-12,Anni Kronbichler,AT,108,Slalom
+1983-03-12,Ursula Konzett,LI,33,Slalom
+1983-03-12,Marina Kiehl,DE,5,Combined
+1983-03-12,Alexandra Marasova,SK,9,Slalom
+1983-03-12,Eva Grabowska,PL,9,Slalom
+1983-03-12,Elisabeth Kirchler,AT,167,Downhill
 1983-03-12,Petra Wenzel,LI,73,Slalom
+1983-03-12,Paoletta Magoni,IT,38,Slalom
+1983-03-12,Maria Walliser,CH,147,Downhill
+1983-03-12,Hanni Wenzel,LI,205,Slalom
+1983-03-12,Ivana Valesova,SK,11,Combined
+1983-03-12,Christa Kinshofer,DE,5,Slalom
+1983-03-12,Maria Rosa Quario,IT,96,Slalom
+1983-03-12,Elisabeth Warter,AT,4,Downhill
+1983-03-12,Daniela Zini,IT,58,Slalom
+1983-03-12,Liisa Savijarvi,CA,3,Downhill
+1983-03-12,Heidi Preuss,US,7,Giant Slalom
+1983-03-12,Holly Beth Flanders,US,11,Downhill
+1983-03-12,Fulvia Stevenin,IT,5,Slalom
+1983-03-12,Erika Hess,CH,233,Slalom
+1983-03-12,Brigitte Nansoz,CH,9,Slalom
+1983-03-12,Brigitte Oertli,CH,38,Combined
+1983-03-12,Olga Charvatova,SK,102,Slalom
+1983-03-12,Laurie Graham,CA,81,Downhill
+1983-03-12,Fabienne Serrat,FR,87,Giant Slalom
+1983-03-12,Pam Fletcher,US,9,Downhill
+1983-03-12,Maria Epple,DE,157,Giant Slalom
+1983-03-12,Anne Flore Rey,FR,77,Giant Slalom
 1983-03-12,Francoise Bozon,FR,13,Downhill
-1983-03-12,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-12,Irene Epple,DE,124,Super G
-1983-03-12,Huberta Wolf,AT,5,Downhill
+1983-03-12,Lea Soelkner,AT,44,Downhill
+1983-03-12,Debbie Armstrong,US,41,Downhill
+1983-03-12,Doris De Agostini,CH,124,Downhill
+1983-03-12,Karen Stemmle,CA,10,Downhill
+1983-03-12,Tamara McKinney,US,257,Giant Slalom
+1983-03-12,Sieglinde Winkler,AT,27,Downhill
+1983-03-12,Lorena Frigo,IT,20,Slalom
+1983-03-12,Gerry Sorensen,CA,36,Downhill
+1983-03-12,Karin Buder,AT,9,Slalom
+1983-03-12,Anja Zavadlav,,16,Slalom
+1983-03-12,Veronika Vitzthum,AT,36,Downhill
+1983-03-12,Malgorzata Tlalka,PL,50,Slalom
+1983-03-12,Cindy Nelson,US,136,Giant Slalom
+1983-03-12,Monika Hess,CH,38,Slalom
+1983-03-12,Michela Figini,CH,52,Giant Slalom
+1983-03-12,Jana Gantnerova,SK,55,Downhill
+1983-03-12,Zoe Haas,CH,53,Super G
+1983-03-12,Irene Epple,DE,135,Combined
 1983-03-12,Eva Twardokens,US,5,Combined
+1983-03-12,Maria Maricich,US,20,Downhill
+1983-03-12,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-12,Carole Merle,FR,24,Giant Slalom
+1983-03-12,Sigrid Wolf,AT,16,Downhill
+1983-03-12,Regine Moesenlechner,DE,1,Downhill
+1983-03-12,Elisabeth Chaud,FR,73,Downhill
+1983-03-12,Perrine Pelen,FR,62,Slalom
+1983-03-12,Blanca Fernandez Ochoa,ES,15,Giant Slalom
 1983-03-12,Caroline Attia,FR,66,Downhill
 1983-03-12,Paola Toniolli,IT,5,Slalom
-1983-03-12,Debbie Armstrong,US,36,Downhill
-1983-03-12,Hanni Wenzel,LI,153,Slalom
-1983-03-12,Sieglinde Winkler,AT,27,Downhill
-1983-03-12,Maria Walliser,CH,147,Downhill
-1983-03-12,Elisabeth Warter,AT,4,Downhill
-1983-03-12,Michaela Gerg-Leitner,DE,48,Downhill
-1983-03-12,Elisabeth Chaud,FR,73,Downhill
-1983-03-12,Pam Fletcher,US,9,Downhill
-1983-03-12,Monika Hess,CH,38,Slalom
-1983-03-18,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-18,Carole Merle,FR,35,Giant Slalom
-1983-03-18,Christin Cooper,US,59,Giant Slalom
-1983-03-18,Liisa Savijarvi,CA,3,Downhill
-1983-03-18,Sieglinde Winkler,AT,27,Downhill
-1983-03-18,Erika Hess,CH,204,Slalom
-1983-03-18,Holly Beth Flanders,US,11,Downhill
-1983-03-18,Elisabeth Chaud,FR,73,Downhill
-1983-03-18,Cindy Nelson,US,146,Giant Slalom
-1983-03-18,Sonja Stotz,DE,11,Combined
-1983-03-18,Claudine Emonet,FR,44,Downhill
-1983-03-18,Sylvia Eder,AT,36,Downhill
-1983-03-18,Hanni Wenzel,LI,178,Slalom
-1983-03-18,Fulvia Stevenin,IT,5,Slalom
-1983-03-18,Veronika Vitzthum,AT,36,Downhill
-1983-03-18,Michaela Gerg-Leitner,DE,53,Downhill
-1983-03-18,Anne Flore Rey,FR,77,Giant Slalom
-1983-03-18,Karen Stemmle,CA,10,Downhill
-1983-03-18,Eva Twardokens,US,5,Combined
-1983-03-18,Roswitha Steiner,AT,70,Slalom
-1983-03-18,Alexandra Marasova,SK,9,Slalom
-1983-03-18,Brigitte Nansoz,CH,9,Slalom
-1983-03-18,Fabienne Serrat,FR,107,Giant Slalom
-1983-03-18,Ivana Valesova,SK,11,Combined
-1983-03-18,Pam Fletcher,US,9,Downhill
-1983-03-18,Anni Kronbichler,AT,97,Slalom
-1983-03-18,Olga Charvatova,SK,111,Slalom
-1983-03-18,Monika Hess,CH,38,Slalom
-1983-03-18,Maria Epple,DE,165,Giant Slalom
-1983-03-18,Lorena Frigo,IT,20,Slalom
-1983-03-18,Doris De Agostini,CH,124,Downhill
+1983-03-12,Sylvia Eder,AT,56,Combined
+1983-03-12,Veronique Robin,CH,4,Combined
+1983-03-12,Rosi Aschenwald,AT,7,Slalom
+1983-03-12,Helene Barbier,FR,28,Giant Slalom
+1983-03-12,Ida Ladstaetter,AT,4,Slalom
+1983-03-12,Katharina Gutensohn,AT,21,Combined
+1983-03-12,Huberta Wolf,AT,5,Downhill
+1983-03-12,Catherine Quittet,FR,33,Downhill
+1983-03-12,Christin Cooper,US,87,Combined
+1983-03-12,Claudine Emonet,FR,44,Downhill
+1983-03-12,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-12,Renate Lazak,DE,1,Slalom
+1983-03-12,Andreja Leskovsek,,3,Slalom
+1983-03-12,Claudia Riedl,AT,15,Giant Slalom
+1983-03-18,Anja Zavadlav,,16,Slalom
+1983-03-18,Maria Rosa Quario,IT,96,Slalom
 1983-03-18,Caroline Attia,FR,66,Downhill
+1983-03-18,Brigitte Nansoz,CH,9,Slalom
+1983-03-18,Jana Gantnerova,SK,55,Downhill
+1983-03-18,Liisa Savijarvi,CA,3,Downhill
+1983-03-18,Veronique Robin,CH,4,Combined
+1983-03-18,Francoise Bozon,FR,13,Downhill
+1983-03-18,Holly Beth Flanders,US,11,Downhill
+1983-03-18,Sieglinde Winkler,AT,27,Downhill
+1983-03-18,Blanca Fernandez Ochoa,ES,15,Giant Slalom
+1983-03-18,Petra Wenzel,LI,73,Slalom
+1983-03-18,Olga Charvatova,SK,111,Slalom
+1983-03-18,Hanni Wenzel,LI,230,Slalom
+1983-03-18,Helene Barbier,FR,28,Giant Slalom
+1983-03-18,Anni Kronbichler,AT,109,Slalom
+1983-03-18,Eva Grabowska,PL,9,Slalom
+1983-03-18,Rosi Aschenwald,AT,7,Slalom
+1983-03-18,Veronika Vitzthum,AT,36,Downhill
+1983-03-18,Maria Walliser,CH,162,Downhill
+1983-03-18,Renate Lazak,DE,1,Slalom
+1983-03-18,Heidi Wiesler,DE,45,Combined
+1983-03-18,Alexandra Marasova,SK,9,Slalom
 1983-03-18,Regine Moesenlechner,DE,1,Downhill
-1983-03-18,Paola Toniolli,IT,5,Slalom
-1983-03-18,Elisabeth Kirchler,AT,154,Downhill
-1983-03-18,Zoe Haas,CH,56,Super G
+1983-03-18,Sonja Stotz,DE,11,Combined
+1983-03-18,Cindy Nelson,US,146,Giant Slalom
+1983-03-18,Carole Merle,FR,35,Giant Slalom
+1983-03-18,Dorota Tlalka,PL,64,Slalom
+1983-03-18,Huberta Wolf,AT,5,Downhill
+1983-03-18,Doris De Agostini,CH,124,Downhill
+1983-03-18,Monika Hess,CH,38,Slalom
+1983-03-18,Lorena Frigo,IT,20,Slalom
+1983-03-18,Pam Fletcher,US,9,Downhill
+1983-03-18,Irene Epple,DE,137,Combined
+1983-03-18,Christin Cooper,US,87,Combined
+1983-03-18,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-18,Ida Ladstaetter,AT,4,Slalom
+1983-03-18,Debbie Armstrong,US,41,Downhill
+1983-03-18,Sigrid Wolf,AT,16,Downhill
+1983-03-18,Daniela Zini,IT,58,Slalom
+1983-03-18,Myriam Difant,FR,3,Combined
+1983-03-18,Diana Haight,CA,3,Downhill
+1983-03-18,Elisabeth Kirchler,AT,179,Downhill
+1983-03-18,Marina Kiehl,DE,5,Combined
+1983-03-18,Roswitha Steiner,AT,70,Slalom
+1983-03-18,Michaela Gerg-Leitner,DE,73,Downhill
+1983-03-18,Lea Soelkner,AT,44,Downhill
+1983-03-18,Elisabeth Warter,AT,4,Downhill
+1983-03-18,Sylvia Eder,AT,56,Combined
+1983-03-18,Katharina Gutensohn,AT,21,Combined
+1983-03-18,Ariane Ehrat,CH,39,Downhill
+1983-03-18,Claudia Riedl,AT,15,Giant Slalom
+1983-03-18,Claudine Emonet,FR,44,Downhill
+1983-03-18,Anne Flore Rey,FR,77,Giant Slalom
+1983-03-18,Andreja Leskovsek,,3,Slalom
 1983-03-18,Elena Medzihradska,SK,9,Giant Slalom
 1983-03-18,Perrine Pelen,FR,69,Slalom
-1983-03-18,Marina Kiehl,DE,5,Combined
-1983-03-18,Heidi Wiesler,DE,45,Combined
-1983-03-18,Karin Buder,AT,9,Slalom
-1983-03-18,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-18,Andreja Leskovsek,,3,Slalom
-1983-03-18,Diana Haight,CA,3,Downhill
-1983-03-18,Eva Grabowska,PL,9,Slalom
-1983-03-18,Petra Wenzel,LI,73,Slalom
-1983-03-18,Daniela Zini,IT,58,Slalom
-1983-03-18,Christa Kinshofer,DE,5,Slalom
-1983-03-18,Renate Lazak,DE,1,Slalom
-1983-03-18,Helene Barbier,FR,28,Giant Slalom
-1983-03-18,Sigrid Wolf,AT,16,Downhill
-1983-03-18,Ariane Ehrat,CH,39,Downhill
-1983-03-18,Veronique Robin,CH,4,Combined
-1983-03-18,Brigitte Oertli,CH,38,Combined
-1983-03-18,Gerry Sorensen,CA,36,Downhill
-1983-03-18,Ursula Konzett,LI,33,Slalom
-1983-03-18,Tamara McKinney,US,231,Giant Slalom
-1983-03-18,Claudia Riedl,AT,15,Giant Slalom
-1983-03-18,Jana Gantnerova,SK,55,Downhill
-1983-03-18,Myriam Difant,FR,3,Combined
-1983-03-18,Ida Ladstaetter,AT,4,Slalom
-1983-03-18,Rosi Aschenwald,AT,7,Slalom
-1983-03-18,Heidi Preuss,US,7,Giant Slalom
-1983-03-18,Irene Epple,DE,126,Super G
-1983-03-18,Paoletta Magoni,IT,38,Slalom
-1983-03-18,Katharina Gutensohn,AT,21,Combined
-1983-03-18,Michela Figini,CH,52,Giant Slalom
-1983-03-18,Maria Rosa Quario,IT,96,Slalom
-1983-03-18,Lea Soelkner,AT,44,Downhill
-1983-03-18,Maria Walliser,CH,162,Downhill
-1983-03-18,Elisabeth Warter,AT,4,Downhill
-1983-03-18,Huberta Wolf,AT,5,Downhill
-1983-03-18,Debbie Armstrong,US,36,Downhill
-1983-03-18,Anja Zavadlav,,16,Slalom
-1983-03-18,Francoise Bozon,FR,13,Downhill
-1983-03-18,Catherine Quittet,FR,33,Downhill
-1983-03-18,Malgorzata Tlalka,PL,50,Slalom
-1983-03-18,Laurie Graham,CA,81,Downhill
-1983-03-18,Dorota Tlalka,PL,60,Slalom
 1983-03-18,Maria Maricich,US,20,Downhill
-1983-03-20,Malgorzata Tlalka,PL,65,Slalom
-1983-03-20,Andreja Leskovsek,,3,Slalom
-1983-03-20,Paoletta Magoni,IT,46,Slalom
+1983-03-18,Eva Twardokens,US,5,Combined
+1983-03-18,Zoe Haas,CH,56,Super G
+1983-03-18,Gerry Sorensen,CA,36,Downhill
+1983-03-18,Michela Figini,CH,52,Giant Slalom
+1983-03-18,Ursula Konzett,LI,33,Slalom
+1983-03-18,Malgorzata Tlalka,PL,50,Slalom
+1983-03-18,Erika Hess,CH,239,Slalom
+1983-03-18,Christa Kinshofer,DE,5,Slalom
+1983-03-18,Elisabeth Chaud,FR,73,Downhill
+1983-03-18,Paoletta Magoni,IT,38,Slalom
+1983-03-18,Paola Toniolli,IT,5,Slalom
+1983-03-18,Karin Buder,AT,9,Slalom
+1983-03-18,Karen Stemmle,CA,10,Downhill
+1983-03-18,Catherine Quittet,FR,33,Downhill
+1983-03-18,Laurie Graham,CA,81,Downhill
+1983-03-18,Maria Epple,DE,165,Giant Slalom
+1983-03-18,Fulvia Stevenin,IT,5,Slalom
+1983-03-18,Brigitte Oertli,CH,38,Combined
+1983-03-18,Fabienne Serrat,FR,107,Giant Slalom
+1983-03-18,Tamara McKinney,US,261,Giant Slalom
+1983-03-18,Ivana Valesova,SK,11,Combined
+1983-03-18,Heidi Preuss,US,7,Giant Slalom
 1983-03-20,Pam Fletcher,US,9,Downhill
-1983-03-20,Maria Epple,DE,169,Giant Slalom
-1983-03-20,Heidi Wiesler,DE,45,Combined
-1983-03-20,Zoe Haas,CH,56,Super G
-1983-03-20,Helene Barbier,FR,28,Giant Slalom
-1983-03-20,Perrine Pelen,FR,69,Slalom
-1983-03-20,Irene Epple,DE,128,Super G
-1983-03-20,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-20,Erika Hess,CH,224,Slalom
-1983-03-20,Anni Kronbichler,AT,103,Slalom
-1983-03-20,Lea Soelkner,AT,44,Downhill
-1983-03-20,Debbie Armstrong,US,36,Downhill
-1983-03-20,Marina Kiehl,DE,5,Combined
-1983-03-20,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-20,Michaela Gerg-Leitner,DE,53,Downhill
-1983-03-20,Fabienne Serrat,FR,107,Giant Slalom
-1983-03-20,Myriam Difant,FR,3,Combined
-1983-03-20,Maria Walliser,CH,162,Downhill
-1983-03-20,Doris De Agostini,CH,124,Downhill
-1983-03-20,Elisabeth Warter,AT,4,Downhill
-1983-03-20,Gerry Sorensen,CA,36,Downhill
 1983-03-20,Monika Hess,CH,38,Slalom
-1983-03-20,Regine Moesenlechner,DE,1,Downhill
-1983-03-20,Brigitte Nansoz,CH,9,Slalom
-1983-03-20,Laurie Graham,CA,81,Downhill
-1983-03-20,Caroline Attia,FR,66,Downhill
-1983-03-20,Ursula Konzett,LI,44,Slalom
-1983-03-20,Claudia Riedl,AT,15,Giant Slalom
-1983-03-20,Paola Toniolli,IT,5,Slalom
-1983-03-20,Ivana Valesova,SK,11,Combined
-1983-03-20,Alexandra Marasova,SK,9,Slalom
-1983-03-20,Lorena Frigo,IT,23,Slalom
-1983-03-20,Ida Ladstaetter,AT,4,Slalom
-1983-03-20,Karin Buder,AT,9,Slalom
-1983-03-20,Maria Rosa Quario,IT,96,Slalom
-1983-03-20,Roswitha Steiner,AT,80,Slalom
-1983-03-20,Veronique Robin,CH,4,Combined
-1983-03-20,Sonja Stotz,DE,11,Combined
-1983-03-20,Katharina Gutensohn,AT,21,Combined
-1983-03-20,Sylvia Eder,AT,36,Downhill
-1983-03-20,Brigitte Oertli,CH,38,Combined
-1983-03-20,Ariane Ehrat,CH,39,Downhill
-1983-03-20,Eva Twardokens,US,5,Combined
-1983-03-20,Elisabeth Chaud,FR,73,Downhill
-1983-03-20,Veronika Vitzthum,AT,36,Downhill
-1983-03-20,Anja Zavadlav,,16,Slalom
-1983-03-20,Tamara McKinney,US,256,Giant Slalom
-1983-03-20,Claudine Emonet,FR,44,Downhill
-1983-03-20,Francoise Bozon,FR,13,Downhill
-1983-03-20,Diana Haight,CA,3,Downhill
-1983-03-20,Fulvia Stevenin,IT,5,Slalom
-1983-03-20,Karen Stemmle,CA,10,Downhill
-1983-03-20,Cindy Nelson,US,147,Giant Slalom
-1983-03-20,Dorota Tlalka,PL,69,Slalom
-1983-03-20,Sieglinde Winkler,AT,27,Downhill
-1983-03-20,Maria Maricich,US,20,Downhill
-1983-03-20,Liisa Savijarvi,CA,3,Downhill
-1983-03-20,Sigrid Wolf,AT,16,Downhill
-1983-03-20,Anne Flore Rey,FR,77,Giant Slalom
-1983-03-20,Catherine Quittet,FR,33,Downhill
-1983-03-20,Hanni Wenzel,LI,190,Slalom
-1983-03-20,Renate Lazak,DE,1,Slalom
-1983-03-20,Michela Figini,CH,52,Giant Slalom
-1983-03-20,Eva Grabowska,PL,9,Slalom
-1983-03-20,Petra Wenzel,LI,73,Slalom
-1983-03-20,Rosi Aschenwald,AT,7,Slalom
+1983-03-20,Elisabeth Kirchler,AT,179,Downhill
+1983-03-20,Irene Epple,DE,139,Combined
+1983-03-20,Doris De Agostini,CH,124,Downhill
 1983-03-20,Heidi Preuss,US,7,Giant Slalom
-1983-03-20,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-20,Christa Kinshofer,DE,5,Slalom
+1983-03-20,Eva Twardokens,US,5,Combined
+1983-03-20,Perrine Pelen,FR,69,Slalom
 1983-03-20,Huberta Wolf,AT,5,Downhill
-1983-03-20,Christin Cooper,US,59,Giant Slalom
-1983-03-20,Elisabeth Kirchler,AT,154,Downhill
-1983-03-20,Holly Beth Flanders,US,11,Downhill
-1983-03-20,Olga Charvatova,SK,116,Slalom
+1983-03-20,Karin Buder,AT,9,Slalom
+1983-03-20,Maria Maricich,US,20,Downhill
+1983-03-20,Christin Cooper,US,87,Combined
+1983-03-20,Gerry Sorensen,CA,36,Downhill
 1983-03-20,Carole Merle,FR,35,Giant Slalom
+1983-03-20,Erika Hess,CH,259,Slalom
+1983-03-20,Maria Walliser,CH,162,Downhill
+1983-03-20,Liisa Savijarvi,CA,3,Downhill
+1983-03-20,Blanca Fernandez Ochoa,ES,15,Giant Slalom
+1983-03-20,Hanni Wenzel,LI,242,Slalom
+1983-03-20,Paola Toniolli,IT,5,Slalom
+1983-03-20,Veronique Robin,CH,4,Combined
+1983-03-20,Maria Rosa Quario,IT,96,Slalom
+1983-03-20,Malgorzata Tlalka,PL,65,Slalom
+1983-03-20,Elisabeth Chaud,FR,73,Downhill
+1983-03-20,Caroline Attia,FR,66,Downhill
+1983-03-20,Debbie Armstrong,US,41,Downhill
+1983-03-20,Christa Kinshofer,DE,5,Slalom
+1983-03-20,Ivana Valesova,SK,11,Combined
+1983-03-20,Ursula Konzett,LI,44,Slalom
+1983-03-20,Paoletta Magoni,IT,46,Slalom
+1983-03-20,Zoe Haas,CH,56,Super G
+1983-03-20,Michela Figini,CH,52,Giant Slalom
+1983-03-20,Anja Zavadlav,,16,Slalom
+1983-03-20,Regine Moesenlechner,DE,1,Downhill
+1983-03-20,Sieglinde Winkler,AT,27,Downhill
+1983-03-20,Fulvia Stevenin,IT,5,Slalom
 1983-03-20,Jana Gantnerova,SK,55,Downhill
+1983-03-20,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-20,Elisabeth Warter,AT,4,Downhill
+1983-03-20,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-20,Sigrid Wolf,AT,16,Downhill
+1983-03-20,Marina Kiehl,DE,5,Combined
+1983-03-20,Fabienne Serrat,FR,107,Giant Slalom
+1983-03-20,Claudia Riedl,AT,15,Giant Slalom
+1983-03-20,Alexandra Marasova,SK,9,Slalom
+1983-03-20,Tamara McKinney,US,286,Giant Slalom
+1983-03-20,Michaela Gerg-Leitner,DE,73,Downhill
+1983-03-20,Heidi Wiesler,DE,45,Combined
+1983-03-20,Olga Charvatova,SK,116,Slalom
+1983-03-20,Diana Haight,CA,3,Downhill
+1983-03-20,Sonja Stotz,DE,11,Combined
+1983-03-20,Laurie Graham,CA,81,Downhill
+1983-03-20,Francoise Bozon,FR,13,Downhill
+1983-03-20,Myriam Difant,FR,3,Combined
+1983-03-20,Roswitha Steiner,AT,80,Slalom
+1983-03-20,Rosi Aschenwald,AT,7,Slalom
+1983-03-20,Helene Barbier,FR,28,Giant Slalom
+1983-03-20,Anne Flore Rey,FR,77,Giant Slalom
+1983-03-20,Karen Stemmle,CA,10,Downhill
 1983-03-20,Daniela Zini,IT,65,Slalom
-1983-03-21,Maria Walliser,CH,170,Downhill
+1983-03-20,Dorota Tlalka,PL,73,Slalom
+1983-03-20,Eva Grabowska,PL,9,Slalom
+1983-03-20,Anni Kronbichler,AT,115,Slalom
+1983-03-20,Cindy Nelson,US,147,Giant Slalom
+1983-03-20,Andreja Leskovsek,,3,Slalom
+1983-03-20,Renate Lazak,DE,1,Slalom
+1983-03-20,Brigitte Nansoz,CH,9,Slalom
+1983-03-20,Claudine Emonet,FR,44,Downhill
+1983-03-20,Lorena Frigo,IT,23,Slalom
+1983-03-20,Ariane Ehrat,CH,39,Downhill
+1983-03-20,Brigitte Oertli,CH,38,Combined
+1983-03-20,Sylvia Eder,AT,56,Combined
+1983-03-20,Veronika Vitzthum,AT,36,Downhill
+1983-03-20,Catherine Quittet,FR,33,Downhill
+1983-03-20,Petra Wenzel,LI,73,Slalom
+1983-03-20,Maria Epple,DE,169,Giant Slalom
+1983-03-20,Lea Soelkner,AT,44,Downhill
+1983-03-20,Holly Beth Flanders,US,11,Downhill
+1983-03-20,Ida Ladstaetter,AT,4,Slalom
+1983-03-20,Katharina Gutensohn,AT,21,Combined
+1983-03-21,Tamara McKinney,US,293,Giant Slalom
+1983-03-21,Erika Hess,CH,269,Slalom
 1983-03-21,Rosi Aschenwald,AT,7,Slalom
-1983-03-21,Zoe Haas,CH,56,Super G
-1983-03-21,Christin Cooper,US,59,Giant Slalom
-1983-03-21,Elisabeth Chaud,FR,73,Downhill
-1983-03-21,Alexandra Marasova,SK,9,Slalom
-1983-03-21,Huberta Wolf,AT,5,Downhill
-1983-03-21,Anja Zavadlav,,16,Slalom
-1983-03-21,Malgorzata Tlalka,PL,65,Slalom
-1983-03-21,Elena Medzihradska,SK,9,Giant Slalom
-1983-03-21,Claudia Riedl,AT,15,Giant Slalom
-1983-03-21,Maria Maricich,US,20,Downhill
-1983-03-21,Karin Buder,AT,9,Slalom
-1983-03-21,Karen Stemmle,CA,10,Downhill
-1983-03-21,Ivana Valesova,SK,11,Combined
-1983-03-21,Ida Ladstaetter,AT,4,Slalom
-1983-03-21,Ursula Konzett,LI,44,Slalom
-1983-03-21,Irene Epple,DE,128,Super G
-1983-03-21,Gerry Sorensen,CA,36,Downhill
-1983-03-21,Myriam Difant,FR,3,Combined
-1983-03-21,Laurie Graham,CA,81,Downhill
-1983-03-21,Debbie Armstrong,US,36,Downhill
-1983-03-21,Catherine Quittet,FR,33,Downhill
-1983-03-21,Michaela Gerg-Leitner,DE,56,Downhill
-1983-03-21,Elisabeth Warter,AT,4,Downhill
-1983-03-21,Tamara McKinney,US,263,Giant Slalom
-1983-03-21,Anne Flore Rey,FR,102,Giant Slalom
-1983-03-21,Katharina Gutensohn,AT,21,Combined
-1983-03-21,Jana Gantnerova,SK,55,Downhill
-1983-03-21,Brigitte Oertli,CH,38,Combined
-1983-03-21,Francoise Bozon,FR,13,Downhill
-1983-03-21,Sieglinde Winkler,AT,27,Downhill
-1983-03-21,Petra Wenzel,LI,79,Slalom
-1983-03-21,Eva Twardokens,US,5,Combined
-1983-03-21,Diana Haight,CA,3,Downhill
-1983-03-21,Hanni Wenzel,LI,210,Slalom
-1983-03-21,Andreja Leskovsek,,3,Slalom
-1983-03-21,Daniela Zini,IT,70,Slalom
-1983-03-21,Roswitha Steiner,AT,81,Slalom
-1983-03-21,Paola Toniolli,IT,5,Slalom
-1983-03-21,Caroline Attia,FR,66,Downhill
-1983-03-21,Monika Hess,CH,38,Slalom
-1983-03-21,Pam Fletcher,US,9,Downhill
-1983-03-21,Helene Barbier,FR,28,Giant Slalom
-1983-03-21,Lea Soelkner,AT,44,Downhill
-1983-03-21,Michela Figini,CH,52,Giant Slalom
-1983-03-21,Paoletta Magoni,IT,46,Slalom
-1983-03-21,Heidi Preuss,US,7,Giant Slalom
-1983-03-21,Brigitte Nansoz,CH,9,Slalom
-1983-03-21,Maria Epple,DE,178,Giant Slalom
-1983-03-21,Lorena Frigo,IT,23,Slalom
 1983-03-21,Doris De Agostini,CH,124,Downhill
-1983-03-21,Regine Moesenlechner,DE,1,Downhill
-1983-03-21,Fabienne Serrat,FR,107,Giant Slalom
-1983-03-21,Marina Kiehl,DE,5,Combined
-1983-03-21,Heidi Wiesler,DE,45,Combined
+1983-03-21,Elisabeth Kirchler,AT,181,Downhill
+1983-03-21,Alexandra Marasova,SK,9,Slalom
 1983-03-21,Blanca Fernandez Ochoa,ES,15,Giant Slalom
-1983-03-21,Anni Kronbichler,AT,118,Slalom
-1983-03-21,Renate Lazak,DE,1,Slalom
-1983-03-21,Elisabeth Kirchler,AT,156,Downhill
-1983-03-21,Eva Grabowska,PL,9,Slalom
-1983-03-21,Marie Lucie Waldmeier,FR,34,Downhill
-1983-03-21,Olga Charvatova,SK,120,Slalom
+1983-03-21,Regine Moesenlechner,DE,1,Downhill
+1983-03-21,Monika Hess,CH,38,Slalom
+1983-03-21,Petra Wenzel,LI,79,Slalom
+1983-03-21,Brigitte Nansoz,CH,9,Slalom
+1983-03-21,Sieglinde Winkler,AT,27,Downhill
+1983-03-21,Brigitte Oertli,CH,38,Combined
+1983-03-21,Marina Kiehl,DE,5,Combined
+1983-03-21,Pam Fletcher,US,9,Downhill
+1983-03-21,Catherine Quittet,FR,33,Downhill
 1983-03-21,Christa Kinshofer,DE,5,Slalom
-1983-03-21,Carole Merle,FR,35,Giant Slalom
-1983-03-21,Perrine Pelen,FR,81,Slalom
-1983-03-21,Sonja Stotz,DE,11,Combined
-1983-03-21,Sylvia Eder,AT,36,Downhill
-1983-03-21,Claudine Emonet,FR,44,Downhill
-1983-03-21,Veronika Vitzthum,AT,36,Downhill
-1983-03-21,Fulvia Stevenin,IT,5,Slalom
-1983-03-21,Liisa Savijarvi,CA,3,Downhill
-1983-03-21,Dorota Tlalka,PL,69,Slalom
-1983-03-21,Maria Rosa Quario,IT,96,Slalom
-1983-03-21,Sigrid Wolf,AT,16,Downhill
+1983-03-21,Michela Figini,CH,52,Giant Slalom
 1983-03-21,Ariane Ehrat,CH,39,Downhill
-1983-03-21,Veronique Robin,CH,4,Combined
-1983-03-21,Cindy Nelson,US,158,Giant Slalom
-1983-03-21,Erika Hess,CH,234,Slalom
+1983-03-21,Fulvia Stevenin,IT,5,Slalom
+1983-03-21,Dorota Tlalka,PL,73,Slalom
+1983-03-21,Veronika Vitzthum,AT,36,Downhill
+1983-03-21,Gerry Sorensen,CA,36,Downhill
+1983-03-21,Anja Zavadlav,,16,Slalom
+1983-03-21,Helene Barbier,FR,28,Giant Slalom
+1983-03-21,Daniela Zini,IT,70,Slalom
+1983-03-21,Lorena Frigo,IT,23,Slalom
+1983-03-21,Eva Grabowska,PL,9,Slalom
 1983-03-21,Holly Beth Flanders,US,11,Downhill
+1983-03-21,Ivana Valesova,SK,11,Combined
+1983-03-21,Karen Stemmle,CA,10,Downhill
+1983-03-21,Sigrid Wolf,AT,16,Downhill
+1983-03-21,Karin Buder,AT,9,Slalom
+1983-03-21,Paoletta Magoni,IT,46,Slalom
+1983-03-21,Ursula Konzett,LI,44,Slalom
+1983-03-21,Claudia Riedl,AT,15,Giant Slalom
+1983-03-21,Debbie Armstrong,US,41,Downhill
+1983-03-21,Jana Gantnerova,SK,55,Downhill
+1983-03-21,Huberta Wolf,AT,5,Downhill
+1983-03-21,Francoise Bozon,FR,13,Downhill
+1983-03-21,Elena Medzihradska,SK,9,Giant Slalom
+1983-03-21,Veronique Robin,CH,4,Combined
+1983-03-21,Caroline Attia,FR,66,Downhill
+1983-03-21,Carole Merle,FR,35,Giant Slalom
+1983-03-21,Ida Ladstaetter,AT,4,Slalom
+1983-03-21,Anne Flore Rey,FR,102,Giant Slalom
+1983-03-21,Laurie Graham,CA,81,Downhill
+1983-03-21,Heidi Preuss,US,7,Giant Slalom
+1983-03-21,Hanni Wenzel,LI,262,Slalom
+1983-03-21,Maria Rosa Quario,IT,96,Slalom
+1983-03-21,Liisa Savijarvi,CA,3,Downhill
+1983-03-21,Myriam Difant,FR,3,Combined
+1983-03-21,Olga Charvatova,SK,120,Slalom
+1983-03-21,Maria Walliser,CH,170,Downhill
+1983-03-21,Anni Kronbichler,AT,130,Slalom
+1983-03-21,Renate Lazak,DE,1,Slalom
+1983-03-21,Cindy Nelson,US,158,Giant Slalom
+1983-03-21,Irene Epple,DE,139,Combined
+1983-03-21,Christin Cooper,US,87,Combined
+1983-03-21,Sonja Stotz,DE,11,Combined
+1983-03-21,Roswitha Steiner,AT,81,Slalom
+1983-03-21,Lea Soelkner,AT,44,Downhill
+1983-03-21,Katharina Gutensohn,AT,21,Combined
+1983-03-21,Heidi Wiesler,DE,45,Combined
+1983-03-21,Fabienne Serrat,FR,107,Giant Slalom
+1983-03-21,Elisabeth Warter,AT,4,Downhill
+1983-03-21,Diana Haight,CA,3,Downhill
+1983-03-21,Michaela Gerg-Leitner,DE,76,Downhill
+1983-03-21,Sylvia Eder,AT,56,Combined
+1983-03-21,Maria Maricich,US,20,Downhill
+1983-03-21,Andreja Leskovsek,,3,Slalom
+1983-03-21,Malgorzata Tlalka,PL,65,Slalom
+1983-03-21,Paola Toniolli,IT,5,Slalom
+1983-03-21,Elisabeth Chaud,FR,73,Downhill
+1983-03-21,Zoe Haas,CH,56,Super G
+1983-03-21,Eva Twardokens,US,5,Combined
+1983-03-21,Perrine Pelen,FR,81,Slalom
+1983-03-21,Claudine Emonet,FR,44,Downhill
+1983-03-21,Marie Lucie Waldmeier,FR,34,Downhill
+1983-03-21,Maria Epple,DE,178,Giant Slalom

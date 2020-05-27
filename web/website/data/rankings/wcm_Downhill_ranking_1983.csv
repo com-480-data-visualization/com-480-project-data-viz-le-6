@@ -9,7 +9,7 @@ date,name,ath_country,value,specialty
 1982-12-05,Steven Lee,AU,0,Combined
 1982-12-05,Klaus Gattermann,DE,0,Downhill
 1982-12-05,Franz Klammer,AT,20,Downhill
-1982-12-05,Franz Heinzer,CH,2,Super G
+1982-12-05,Franz Heinzer,CH,2,Combined
 1982-12-05,Erwin Resch,AT,0,Downhill
 1982-12-05,Gerhard Pfaffenbichler,AT,0,Downhill
 1982-12-05,Mike Brown,US,0,Downhill
@@ -46,7 +46,7 @@ date,name,ath_country,value,specialty
 1982-12-19,Gerhard Pfaffenbichler,AT,0,Downhill
 1982-12-19,Danilo Sbardellotto,IT,1,Downhill
 1982-12-19,Stefan Niederseer,AT,3,Downhill
-1982-12-19,Franz Heinzer,CH,11,Super G
+1982-12-19,Franz Heinzer,CH,11,Combined
 1982-12-19,Peter Mueller,CH,15,Downhill
 1982-12-19,Robin McLeish,CA,0,Downhill
 1982-12-19,Steven Lee,AU,0,Combined
@@ -103,13 +103,13 @@ date,name,ath_country,value,specialty
 1982-12-20,Robin McLeish,CA,0,Downhill
 1982-12-20,Peter Luescher,CH,0,Downhill
 1982-12-20,Michael Mair,IT,2,Downhill
-1982-12-20,Franz Heinzer,CH,23,Super G
+1982-12-20,Franz Heinzer,CH,23,Combined
 1982-12-20,Steven Lee,AU,0,Combined
 1982-12-20,Leonhard Stock,AT,16,Downhill
 1982-12-20,Klaus Gattermann,DE,1,Downhill
 1983-01-09,Steven Lee,AU,0,Combined
 1983-01-09,Phil Mahre,US,2,Giant Slalom
-1983-01-09,Franz Heinzer,CH,23,Super G
+1983-01-09,Franz Heinzer,CH,23,Combined
 1983-01-09,Andreas Wenzel,LI,0,Slalom
 1983-01-09,Bill Johnson,US,0,Downhill
 1983-01-09,Steve Podborski,CA,4,Downhill
@@ -149,7 +149,7 @@ date,name,ath_country,value,specialty
 1983-01-10,Fritz Stoelzl,AT,16,Downhill
 1983-01-10,Erwin Resch,AT,45,Downhill
 1983-01-10,Gerhard Pfaffenbichler,AT,0,Downhill
-1983-01-10,Franz Heinzer,CH,23,Super G
+1983-01-10,Franz Heinzer,CH,23,Combined
 1983-01-10,Danilo Sbardellotto,IT,16,Downhill
 1983-01-10,Bill Johnson,US,0,Downhill
 1983-01-10,Pirmin Zurbriggen,CH,0,Giant Slalom
@@ -208,7 +208,7 @@ date,name,ath_country,value,specialty
 1983-01-21,Gerhard Pfaffenbichler,AT,0,Downhill
 1983-01-21,Helmut Hoeflehner,AT,33,Downhill
 1983-01-21,Bernhard Flaschberger,AT,12,Downhill
-1983-01-21,Franz Heinzer,CH,23,Super G
+1983-01-21,Franz Heinzer,CH,23,Combined
 1983-01-21,Michael Mair,IT,16,Downhill
 1983-01-21,Andreas Wenzel,LI,0,Slalom
 1983-01-21,Urs Raeber,CH,65,Downhill
@@ -241,7 +241,7 @@ date,name,ath_country,value,specialty
 1983-01-22,Mike Brown,US,0,Downhill
 1983-01-22,Bruno Kernen I,CH,52,Downhill
 1983-01-22,Franz Klammer,AT,85,Downhill
-1983-01-22,Franz Heinzer,CH,23,Super G
+1983-01-22,Franz Heinzer,CH,23,Combined
 1983-01-22,Bill Johnson,US,0,Downhill
 1983-01-22,Andreas Wenzel,LI,0,Slalom
 1983-01-22,Peter Luescher,CH,37,Downhill
@@ -275,7 +275,7 @@ date,name,ath_country,value,specialty
 1983-01-28,Bill Johnson,US,0,Downhill
 1983-01-28,Michael Mair,IT,28,Downhill
 1983-01-28,Peter Mueller,CH,71,Downhill
-1983-01-28,Franz Heinzer,CH,23,Super G
+1983-01-28,Franz Heinzer,CH,23,Combined
 1983-01-28,Harti Weirather,AT,77,Downhill
 1983-01-28,Leonhard Stock,AT,30,Downhill
 1983-01-28,Gerhard Pfaffenbichler,AT,25,Downhill
@@ -302,7 +302,7 @@ date,name,ath_country,value,specialty
 1983-02-05,Silvano Meli,CH,67,Downhill
 1983-02-05,Urs Raeber,CH,94,Downhill
 1983-02-05,Peter Duerr,DE,5,Downhill
-1983-02-05,Franz Heinzer,CH,23,Super G
+1983-02-05,Franz Heinzer,CH,23,Combined
 1983-02-05,Conradin Cathomen,CH,85,Downhill
 1983-02-05,Stefan Niederseer,AT,11,Downhill
 1983-02-05,Fritz Stoelzl,AT,16,Downhill
@@ -350,7 +350,7 @@ date,name,ath_country,value,specialty
 1983-03-06,Steve Podborski,CA,63,Downhill
 1983-03-06,Phil Mahre,US,27,Giant Slalom
 1983-03-06,Michael Mair,IT,48,Downhill
-1983-03-06,Franz Heinzer,CH,23,Super G
+1983-03-06,Franz Heinzer,CH,23,Combined
 1983-03-06,Andreas Wenzel,LI,7,Slalom
 1983-03-06,Klaus Gattermann,DE,1,Downhill
 1983-03-06,Danilo Sbardellotto,IT,16,Downhill
@@ -377,7 +377,7 @@ date,name,ath_country,value,specialty
 1983-03-12,Uli Spiess,AT,10,Downhill
 1983-03-12,Pirmin Zurbriggen,CH,11,Giant Slalom
 1983-03-12,Phil Mahre,US,30,Giant Slalom
-1983-03-12,Franz Heinzer,CH,23,Super G
+1983-03-12,Franz Heinzer,CH,23,Combined
 1983-03-12,Andreas Wenzel,LI,7,Slalom
 1983-03-12,Danilo Sbardellotto,IT,16,Downhill
 1983-03-12,Michael Mair,IT,48,Downhill

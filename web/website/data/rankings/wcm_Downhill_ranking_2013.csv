@@ -64,7 +64,7 @@ date,name,ath_country,value,specialty
 2012-11-24,Daniel Ericsson,SE,0,Combined
 2012-11-24,Yuri Danilochkin,BY,0,Combined
 2012-11-24,Kevin Esteve Rigail,AD,0,Combined
-2012-11-24,Thomas Mermillod,FR,0,Super G
+2012-11-24,Thomas Mermillod,FR,0,Combined
 2012-11-24,Douglas Crawford,GB,0,Combined
 2012-11-24,Yannick Bertrand,FR,0,Super G
 2012-11-24,Conrad Pridy,CA,0,Downhill
@@ -167,7 +167,7 @@ date,name,ath_country,value,specialty
 2012-11-30,Kevin Esteve Rigail,AD,0,Combined
 2012-11-30,Johannes Kroell,AT,16,Downhill
 2012-11-30,Morgan Pridy,CA,0,Combined
-2012-11-30,Thomas Mermillod,FR,0,Super G
+2012-11-30,Thomas Mermillod,FR,0,Combined
 2012-11-30,Alek Glebov,RU,0,Combined
 2012-11-30,Guillermo Fayed,FR,58,Downhill
 2012-11-30,Nicolas Raffort,FR,0,Combined
@@ -280,7 +280,7 @@ date,name,ath_country,value,specialty
 2012-12-15,Romed Baumann,AT,12,Downhill
 2012-12-15,Andrew Weibrecht,US,0,Super G
 2012-12-15,Vitus Lueoend,CH,7,Downhill
-2012-12-15,Thomas Mermillod,FR,0,Super G
+2012-12-15,Thomas Mermillod,FR,0,Combined
 2012-12-15,Igor Zakurdaev,KZ,0,Combined
 2012-12-15,Fernando Schmed,CH,0,Combined
 2012-12-15,Thomas Biesemeyer,US,0,Super G
@@ -314,7 +314,7 @@ date,name,ath_country,value,specialty
 2012-12-29,Natko Zrncic-Dim,HR,0,Combined
 2012-12-29,Yuri Danilochkin,BY,0,Combined
 2012-12-29,Marc Berthod,CH,0,Combined
-2012-12-29,Thomas Mermillod,FR,0,Super G
+2012-12-29,Thomas Mermillod,FR,0,Combined
 2012-12-29,Ivica Kostelic,HR,11,Slalom
 2012-12-29,Silvan Zurbriggen,CH,21,Downhill
 2012-12-29,Nils Mani,CH,4,Downhill
@@ -415,7 +415,7 @@ date,name,ath_country,value,specialty
 2013-01-19,Maciej Bydlinski,PL,0,Combined
 2013-01-19,Iver Bjerkestrand,NO,0,Super G
 2013-01-19,Hannes Reichelt,AT,180,Downhill
-2013-01-19,Thomas Mermillod,FR,0,Super G
+2013-01-19,Thomas Mermillod,FR,0,Combined
 2013-01-19,Benjamin Raich,AT,0,Slalom
 2013-01-19,Paolo Pangrazzi,IT,0,Combined
 2013-01-19,Conrad Pridy,CA,0,Downhill
@@ -500,7 +500,7 @@ date,name,ath_country,value,specialty
 2013-01-19,Frederic Berthold,AT,8,Downhill
 2013-01-19,Guillermo Fayed,FR,74,Downhill
 2013-01-26,Wiley Maple,US,0,Combined
-2013-01-26,Thomas Mermillod,FR,0,Super G
+2013-01-26,Thomas Mermillod,FR,0,Combined
 2013-01-26,Alexis Pinturault,FR,0,Giant Slalom
 2013-01-26,Andrew Weibrecht,US,0,Super G
 2013-01-26,Sandro Viletta,CH,0,Combined
@@ -666,7 +666,7 @@ date,name,ath_country,value,specialty
 2013-02-23,Christian Spescha,CH,0,Combined
 2013-02-23,Dominik Paris,IT,349,Downhill
 2013-02-23,Tobias Gruenenfelder,CH,2,Downhill
-2013-02-23,Thomas Mermillod,FR,0,Super G
+2013-02-23,Thomas Mermillod,FR,0,Combined
 2013-02-23,Maciej Bydlinski,PL,0,Combined
 2013-02-23,Ondrej Bank,CZ,0,Combined
 2013-02-23,Jeffrey Frisch,CA,0,Combined
@@ -708,7 +708,7 @@ date,name,ath_country,value,specialty
 2013-03-02,Nicolas Raffort,FR,0,Combined
 2013-03-02,Marc Berthod,CH,0,Combined
 2013-03-02,Blaise Giezendanner,FR,0,Combined
-2013-03-02,Thomas Mermillod,FR,0,Super G
+2013-03-02,Thomas Mermillod,FR,0,Combined
 2013-03-02,Alexis Pinturault,FR,0,Giant Slalom
 2013-03-02,Ryan Cochran-Siegle,US,6,Super G
 2013-03-02,Ralph Weber,CH,0,Combined

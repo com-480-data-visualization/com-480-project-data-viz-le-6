@@ -14,7 +14,7 @@ date,name,ath_country,value,specialty
 2010-11-28,Hagen Patscheider,IT,0,Downhill
 2010-11-28,Matthias Mayer,AT,0,Super G
 2010-11-28,Steven Nyman,US,0,Downhill
-2010-11-28,Matteo Marsaglia,IT,0,Downhill
+2010-11-28,Matteo Marsaglia,IT,0,Combined
 2010-11-28,Andrej Krizaj,SK,0,Super G
 2010-11-28,Stepan Zuev,RU,0,Combined
 2010-11-28,Iver Bjerkestrand,NO,0,Super G
@@ -145,7 +145,7 @@ date,name,ath_country,value,specialty
 2010-12-04,Stepan Zuev,RU,0,Combined
 2010-12-04,Jan Hudec,CA,0,Downhill
 2010-12-04,Benjamin Raich,AT,54,Super G
-2010-12-04,Matteo Marsaglia,IT,0,Downhill
+2010-12-04,Matteo Marsaglia,IT,0,Combined
 2010-12-04,Andrej Krizaj,SK,5,Super G
 2010-12-04,Stephan Keppler,DE,16,Super G
 2010-12-04,Ted Ligety,US,8,Giant Slalom
@@ -233,7 +233,7 @@ date,name,ath_country,value,specialty
 2010-12-17,Stephan Keppler,DE,96,Super G
 2010-12-17,Stepan Zuev,RU,0,Combined
 2010-12-17,Andrej Krizaj,SK,5,Super G
-2010-12-17,Matteo Marsaglia,IT,6,Downhill
+2010-12-17,Matteo Marsaglia,IT,6,Combined
 2010-12-17,Marc Oliveras,AD,0,Combined
 2010-12-17,Vitus Lueoend,CH,0,Downhill
 2010-12-17,Matthias Mayer,AT,0,Super G
@@ -405,7 +405,7 @@ date,name,ath_country,value,specialty
 2011-01-21,Hans Grugger,AT,9,Downhill
 2011-01-21,Jan Hudec,CA,0,Downhill
 2011-01-21,Marc Oliveras,AD,0,Combined
-2011-01-21,Matteo Marsaglia,IT,6,Downhill
+2011-01-21,Matteo Marsaglia,IT,6,Combined
 2011-01-21,Stepan Zuev,RU,0,Combined
 2011-01-21,Adrien Theaux,FR,142,Downhill
 2011-01-21,Chris Frank,US,0,Combined
@@ -496,7 +496,7 @@ date,name,ath_country,value,specialty
 2011-02-05,Hans Grugger,AT,9,Downhill
 2011-02-05,Steven Nyman,US,6,Downhill
 2011-02-05,Jan Hudec,CA,1,Downhill
-2011-02-05,Matteo Marsaglia,IT,13,Downhill
+2011-02-05,Matteo Marsaglia,IT,13,Combined
 2011-02-05,Andrej Krizaj,SK,5,Super G
 2011-02-05,Ted Ligety,US,27,Giant Slalom
 2011-02-05,Ambrosi Hoffmann,CH,1,Downhill
@@ -629,7 +629,7 @@ date,name,ath_country,value,specialty
 2011-03-13,Hagen Patscheider,IT,8,Downhill
 2011-03-13,Matthias Mayer,AT,8,Super G
 2011-03-13,Steven Nyman,US,6,Downhill
-2011-03-13,Matteo Marsaglia,IT,15,Downhill
+2011-03-13,Matteo Marsaglia,IT,15,Combined
 2011-03-13,Andrej Krizaj,SK,5,Super G
 2011-03-13,Iver Bjerkestrand,NO,5,Super G
 2011-03-13,Marc Gisin,CH,3,Downhill

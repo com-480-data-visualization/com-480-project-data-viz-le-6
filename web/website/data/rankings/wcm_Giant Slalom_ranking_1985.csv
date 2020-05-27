@@ -20,7 +20,7 @@ date,name,ath_country,value,specialty
 1984-12-08,Ingemar Stenmark,SE,0,Slalom
 1984-12-08,Hubert Strolz,AT,0,Giant Slalom
 1984-12-08,Hans Enn,AT,0,Giant Slalom
-1984-12-08,Joachim Buchner,AT,0,Giant Slalom
+1984-12-08,Joachim Buchner,AT,0,Combined
 1984-12-08,Marc Girardelli,LU,0,Slalom
 1984-12-08,Bernhard Gstrein,AT,4,Super G
 1984-12-08,Bernd Felbinger,DE,0,Super G
@@ -49,7 +49,7 @@ date,name,ath_country,value,specialty
 1984-12-11,Oswald Toetsch,IT,10,Slalom
 1984-12-11,Michael Eder,DE,1,Super G
 1984-12-11,Boris Strel,SK,0,Giant Slalom
-1984-12-11,Joachim Buchner,AT,7,Giant Slalom
+1984-12-11,Joachim Buchner,AT,7,Combined
 1984-12-11,Peter Namberger,DE,0,Giant Slalom
 1984-12-11,Joergen Sundqvist,SE,0,Giant Slalom
 1984-12-11,Ernst Riedlsperger,AT,5,Super G
@@ -82,7 +82,7 @@ date,name,ath_country,value,specialty
 1985-01-08,Markus Wasmeier,DE,24,Combined
 1985-01-08,Anton Steiner,AT,2,Downhill
 1985-01-08,Richard Pramotton,IT,25,Giant Slalom
-1985-01-08,Joachim Buchner,AT,7,Giant Slalom
+1985-01-08,Joachim Buchner,AT,7,Combined
 1985-01-08,Bojan Krizaj,SK,5,Slalom
 1985-01-08,Yves Tavernier,FR,1,Giant Slalom
 1985-01-08,Guenther Mader,AT,12,Giant Slalom
@@ -100,7 +100,7 @@ date,name,ath_country,value,specialty
 1985-01-08,Pirmin Zurbriggen,CH,23,Downhill
 1985-01-15,Boris Strel,SK,8,Giant Slalom
 1985-01-15,Oswald Toetsch,IT,13,Slalom
-1985-01-15,Joachim Buchner,AT,7,Giant Slalom
+1985-01-15,Joachim Buchner,AT,7,Combined
 1985-01-15,Thomas Buergler,CH,42,Giant Slalom
 1985-01-15,Michael Eder,DE,1,Super G
 1985-01-15,Bernhard Gstrein,AT,4,Super G
@@ -161,7 +161,7 @@ date,name,ath_country,value,specialty
 1985-02-15,Hans Enn,AT,40,Giant Slalom
 1985-02-15,Joergen Sundqvist,SE,6,Giant Slalom
 1985-02-15,Ingemar Stenmark,SE,29,Slalom
-1985-02-15,Joachim Buchner,AT,7,Giant Slalom
+1985-02-15,Joachim Buchner,AT,7,Combined
 1985-02-15,Pirmin Zurbriggen,CH,43,Downhill
 1985-02-15,Martin Hangl,CH,54,Giant Slalom
 1985-03-10,Alex Giorgi,IT,28,Slalom
@@ -180,7 +180,7 @@ date,name,ath_country,value,specialty
 1985-03-10,Marc Girardelli,LU,85,Slalom
 1985-03-10,Joergen Sundqvist,SE,6,Giant Slalom
 1985-03-10,Bernhard Gstrein,AT,4,Super G
-1985-03-10,Joachim Buchner,AT,7,Giant Slalom
+1985-03-10,Joachim Buchner,AT,7,Combined
 1985-03-10,Thomas Buergler,CH,67,Giant Slalom
 1985-03-10,Boris Strel,SK,9,Giant Slalom
 1985-03-10,Peter Namberger,DE,4,Giant Slalom

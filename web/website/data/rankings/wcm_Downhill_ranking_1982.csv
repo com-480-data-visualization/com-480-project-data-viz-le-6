@@ -5,7 +5,7 @@ date,name,ath_country,value,specialty
 1981-12-06,Karl Alpiger,CH,0,Downhill
 1981-12-06,Steve Podborski,CA,12,Downhill
 1981-12-06,Toni Buergler,CH,15,Downhill
-1981-12-06,Peter Luescher,CH,0,Giant Slalom
+1981-12-06,Peter Luescher,CH,0,Combined
 1981-12-06,Oskar Delago,IT,0,Downhill
 1981-12-06,Philip Verneret,FR,0,Downhill
 1981-12-06,Peter Wirnsberger,AT,10,Downhill
@@ -46,7 +46,7 @@ date,name,ath_country,value,specialty
 1981-12-13,Gerhard Pfaffenbichler,AT,12,Downhill
 1981-12-13,Valeri Tsiganov,RU,4,Downhill
 1981-12-13,Ken Read,CA,11,Downhill
-1981-12-13,Peter Luescher,CH,0,Giant Slalom
+1981-12-13,Peter Luescher,CH,0,Combined
 1981-12-13,Vladimir Makeev,RU,3,Downhill
 1981-12-13,Dave Irwin,CA,0,Downhill
 1981-12-13,Urs Raeber,CH,0,Downhill
@@ -76,7 +76,7 @@ date,name,ath_country,value,specialty
 1981-12-21,Leonhard Stock,AT,15,Downhill
 1981-12-21,Gerhard Pfaffenbichler,AT,12,Downhill
 1981-12-21,Konrad Bartelski,GB,21,Downhill
-1981-12-21,Peter Luescher,CH,0,Giant Slalom
+1981-12-21,Peter Luescher,CH,0,Combined
 1981-12-21,Doug Powell,US,3,Downhill
 1981-12-21,Bob Styan,CA,0,Downhill
 1981-12-21,Bruno Fretz,CH,0,Downhill
@@ -141,7 +141,7 @@ date,name,ath_country,value,specialty
 1982-01-15,Franz Klammer,AT,39,Downhill
 1982-01-15,Bruno Fretz,CH,1,Downhill
 1982-01-15,Valeri Tsiganov,RU,11,Downhill
-1982-01-15,Peter Luescher,CH,0,Giant Slalom
+1982-01-15,Peter Luescher,CH,0,Combined
 1982-01-15,Harti Weirather,AT,49,Downhill
 1982-01-15,Philip Verneret,FR,4,Downhill
 1982-01-15,Peter Wirnsberger,AT,34,Downhill
@@ -156,7 +156,7 @@ date,name,ath_country,value,specialty
 1982-01-16,Urs Raeber,CH,0,Downhill
 1982-01-16,Vladimir Makeev,RU,11,Downhill
 1982-01-16,Bruno Fretz,CH,1,Downhill
-1982-01-16,Peter Luescher,CH,0,Giant Slalom
+1982-01-16,Peter Luescher,CH,0,Combined
 1982-01-16,Bob Styan,CA,0,Downhill
 1982-01-16,Valeri Tsiganov,RU,11,Downhill
 1982-01-16,Gerhard Pfaffenbichler,AT,18,Downhill
@@ -218,7 +218,7 @@ date,name,ath_country,value,specialty
 1982-01-24,Phil Mahre,US,2,Giant Slalom
 1982-01-24,Walter Vesti,CH,0,Downhill
 1982-01-24,Todd Brooker,CA,7,Downhill
-1982-01-24,Peter Luescher,CH,0,Giant Slalom
+1982-01-24,Peter Luescher,CH,0,Combined
 1982-01-24,Erwin Resch,AT,76,Downhill
 1982-01-24,Philip Verneret,FR,4,Downhill
 1982-02-13,Todd Brooker,CA,8,Downhill
@@ -253,7 +253,7 @@ date,name,ath_country,value,specialty
 1982-02-13,Vladimir Makeev,RU,15,Downhill
 1982-02-13,Walter Vesti,CH,0,Downhill
 1982-02-13,Bruno Fretz,CH,1,Downhill
-1982-02-13,Peter Luescher,CH,8,Giant Slalom
+1982-02-13,Peter Luescher,CH,8,Combined
 1982-02-13,Uli Spiess,AT,6,Downhill
 1982-02-13,Peter Wirnsberger,AT,55,Downhill
 1982-02-13,Silvano Meli,CH,21,Downhill
@@ -293,7 +293,7 @@ date,name,ath_country,value,specialty
 1982-02-27,Harti Weirather,AT,98,Downhill
 1982-02-27,Urs Raeber,CH,9,Downhill
 1982-02-27,Josef Walcher,AT,21,Downhill
-1982-02-27,Peter Luescher,CH,8,Giant Slalom
+1982-02-27,Peter Luescher,CH,8,Combined
 1982-02-27,Paul Mahre,US,7,Downhill
 1982-03-05,Bob Styan,CA,3,Downhill
 1982-03-05,Harti Weirather,AT,118,Downhill
@@ -312,7 +312,7 @@ date,name,ath_country,value,specialty
 1982-03-05,Peter Wirnsberger,AT,64,Downhill
 1982-03-05,Vladimir Makeev,RU,15,Downhill
 1982-03-05,Josef Walcher,AT,21,Downhill
-1982-03-05,Peter Luescher,CH,8,Giant Slalom
+1982-03-05,Peter Luescher,CH,8,Combined
 1982-03-05,Valeri Tsiganov,RU,16,Downhill
 1982-03-05,Ken Read,CA,73,Downhill
 1982-03-05,Bernhard Flaschberger,AT,10,Downhill
@@ -362,7 +362,7 @@ date,name,ath_country,value,specialty
 1982-03-06,Leonhard Stock,AT,49,Downhill
 1982-03-06,Steve Podborski,CA,148,Downhill
 1982-03-06,Valeri Tsiganov,RU,24,Downhill
-1982-03-06,Peter Luescher,CH,8,Giant Slalom
+1982-03-06,Peter Luescher,CH,8,Combined
 1982-03-06,Ken Read,CA,73,Downhill
 1982-03-06,Konrad Bartelski,GB,25,Downhill
 1982-03-06,Bruno Fretz,CH,1,Downhill

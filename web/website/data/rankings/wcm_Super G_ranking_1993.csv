@@ -34,7 +34,7 @@ date,name,ath_country,value,specialty
 1992-12-05,Denis Rey,FR,20,Downhill
 1992-12-05,Thierry Gentina,FR,26,Super G
 1992-12-05,William Besse,CH,0,Downhill
-1992-12-05,Steve Locher,CH,10,Giant Slalom
+1992-12-05,Steve Locher,CH,10,Combined
 1992-12-05,Daniel Caduff,CH,0,Downhill
 1992-12-05,Harald Chr. Strand Nilsen,NO,0,Super G
 1992-12-05,Alessandro Fattori,IT,0,Super G
@@ -110,7 +110,7 @@ date,name,ath_country,value,specialty
 1992-12-22,Didrik Marksten,NO,32,Giant Slalom
 1992-12-22,Bill Hudson,US,2,Downhill
 1992-12-22,Janne Leskinen,FI,0,Super G
-1992-12-22,Steve Locher,CH,23,Giant Slalom
+1992-12-22,Steve Locher,CH,23,Combined
 1992-12-22,Massimilano Iezza,IT,0,Super G
 1992-12-22,Stephan Eberharter,AT,0,Super G
 1992-12-22,Dietmar Thoeni,AT,5,Slalom
@@ -163,7 +163,7 @@ date,name,ath_country,value,specialty
 1993-01-12,Thierry Gentina,FR,56,Super G
 1993-01-12,Daniel Mahrer,CH,22,Downhill
 1993-01-12,William Besse,CH,36,Downhill
-1993-01-12,Steve Locher,CH,23,Giant Slalom
+1993-01-12,Steve Locher,CH,23,Combined
 1993-01-12,Peter Rzehak,AT,0,Downhill
 1993-01-12,Luigi Colturi,IT,100,Super G
 1993-01-12,Kyle Rasmussen,US,8,Combined
@@ -269,7 +269,7 @@ date,name,ath_country,value,specialty
 1993-02-28,Thierry Gentina,FR,56,Super G
 1993-02-28,Dietmar Thoeni,AT,5,Slalom
 1993-02-28,Tommy Moe,US,26,Downhill
-1993-02-28,Steve Locher,CH,23,Giant Slalom
+1993-02-28,Steve Locher,CH,23,Combined
 1993-02-28,Leonhard Stock,AT,80,Downhill
 1993-03-07,Franz Heinzer,CH,228,Downhill
 1993-03-07,Hannes Trinkl,AT,11,Downhill
@@ -324,7 +324,7 @@ date,name,ath_country,value,specialty
 1993-03-07,Harald Chr. Strand Nilsen,NO,29,Super G
 1993-03-07,Daniel Caduff,CH,20,Downhill
 1993-03-07,William Besse,CH,36,Downhill
-1993-03-07,Steve Locher,CH,29,Giant Slalom
+1993-03-07,Steve Locher,CH,29,Combined
 1993-03-07,Denis Rey,FR,27,Downhill
 1993-03-07,Thierry Gentina,FR,56,Super G
 1993-03-07,Jan Einar Thorsen,NO,266,Super G
@@ -346,7 +346,7 @@ date,name,ath_country,value,specialty
 1993-03-21,Paulo Oppliger,CL,0,Super G
 1993-03-21,Didrik Marksten,NO,32,Giant Slalom
 1993-03-21,William Besse,CH,44,Downhill
-1993-03-21,Steve Locher,CH,39,Giant Slalom
+1993-03-21,Steve Locher,CH,39,Combined
 1993-03-21,Atle Skaardal,NO,169,Downhill
 1993-03-21,Kyle Rasmussen,US,8,Combined
 1993-03-21,Hannes Trinkl,AT,11,Downhill
@@ -439,7 +439,7 @@ date,name,ath_country,value,specialty
 1993-03-26,Alessandro Fattori,IT,35,Super G
 1993-03-26,Daniel Caduff,CH,25,Downhill
 1993-03-26,Harald Chr. Strand Nilsen,NO,29,Super G
-1993-03-26,Steve Locher,CH,68,Giant Slalom
+1993-03-26,Steve Locher,CH,68,Combined
 1993-03-26,William Besse,CH,58,Downhill
 1993-03-26,Denis Rey,FR,27,Downhill
 1993-03-26,Thierry Gentina,FR,56,Super G

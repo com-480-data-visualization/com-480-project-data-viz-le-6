@@ -41,7 +41,7 @@ date,name,ath_country,value,specialty
 2014-11-30,Joachim Puchner,AT,9,Super G
 2014-11-30,Ted Ligety,US,0,Giant Slalom
 2014-11-30,Sandro Viletta,CH,8,Downhill
-2014-11-30,Ondrej Bank,CZ,0,Downhill
+2014-11-30,Ondrej Bank,CZ,0,Combined
 2014-11-30,Thomas Tumler,CH,0,Super G
 2014-11-30,Johan Clarey,FR,32,Downhill
 2014-11-30,Max Franz,AT,45,Downhill
@@ -131,7 +131,7 @@ date,name,ath_country,value,specialty
 2014-12-06,Tyler Werry,CA,0,Combined
 2014-12-06,Marc Oliveras,AD,0,Combined
 2014-12-06,Beat Feuz,CH,20,Downhill
-2014-12-06,Ondrej Bank,CZ,0,Downhill
+2014-12-06,Ondrej Bank,CZ,0,Combined
 2014-12-06,Joachim Puchner,AT,9,Super G
 2014-12-06,Silvano Varettoni,IT,0,Downhill
 2014-12-06,Nils Mani,CH,0,Super G
@@ -322,7 +322,7 @@ date,name,ath_country,value,specialty
 2014-12-20,Felix Monsen,SE,0,Combined
 2014-12-20,Marc Oliveras,AD,0,Combined
 2014-12-20,Othmar Striedinger,AT,86,Super G
-2014-12-20,Ondrej Bank,CZ,4,Downhill
+2014-12-20,Ondrej Bank,CZ,4,Combined
 2015-01-23,Kjetil Jansrud,NO,316,Downhill
 2015-01-23,Yuri Danilochkin,BY,0,Combined
 2015-01-23,Sandro Viletta,CH,49,Downhill
@@ -351,7 +351,7 @@ date,name,ath_country,value,specialty
 2015-01-23,Broderick Thompson,CA,0,Combined
 2015-01-23,Andrej Sporn,SK,0,Combined
 2015-01-23,Adrien Theaux,FR,74,Super G
-2015-01-23,Ondrej Bank,CZ,26,Downhill
+2015-01-23,Ondrej Bank,CZ,26,Combined
 2015-01-23,Siegmar Klotz,IT,1,Downhill
 2015-01-23,Ted Ligety,US,24,Giant Slalom
 2015-01-23,Bjoernar Neteland,NO,0,Super G
@@ -528,7 +528,7 @@ date,name,ath_country,value,specialty
 2015-02-22,Andreas Zampa,SK,0,Combined
 2015-02-22,David Poisson,FR,0,Downhill
 2015-02-22,Carlo Janka,CH,136,Downhill
-2015-02-22,Ondrej Bank,CZ,26,Downhill
+2015-02-22,Ondrej Bank,CZ,26,Combined
 2015-02-22,Wiley Maple,US,0,Downhill
 2015-02-22,Hans Olsson,SE,1,Combined
 2015-02-22,Nils Mani,CH,0,Super G
@@ -579,7 +579,7 @@ date,name,ath_country,value,specialty
 2015-03-08,Wiley Maple,US,0,Downhill
 2015-03-08,Vincent Kriechmayr,AT,176,Super G
 2015-03-08,Thomas Tumler,CH,37,Super G
-2015-03-08,Ondrej Bank,CZ,26,Downhill
+2015-03-08,Ondrej Bank,CZ,26,Combined
 2015-03-08,Siegmar Klotz,IT,1,Downhill
 2015-03-08,Nils Mani,CH,1,Super G
 2015-03-08,Adrien Theaux,FR,154,Super G
@@ -669,7 +669,7 @@ date,name,ath_country,value,specialty
 2015-03-19,Joachim Puchner,AT,49,Super G
 2015-03-19,Ted Ligety,US,24,Giant Slalom
 2015-03-19,Sandro Viletta,CH,49,Downhill
-2015-03-19,Ondrej Bank,CZ,26,Downhill
+2015-03-19,Ondrej Bank,CZ,26,Combined
 2015-03-19,Thomas Tumler,CH,37,Super G
 2015-03-19,Steven Nyman,US,22,Downhill
 2015-03-19,Thomas Mermillod,FR,47,Super G

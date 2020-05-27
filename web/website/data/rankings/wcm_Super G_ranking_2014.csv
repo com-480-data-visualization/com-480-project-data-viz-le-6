@@ -77,7 +77,7 @@ date,name,ath_country,value,specialty
 2013-12-01,Tim Jitloff,US,0,Giant Slalom
 2013-12-01,David Poisson,FR,0,Downhill
 2013-12-01,Jan Hudec,CA,26,Super G
-2013-12-01,Jared Goldberg,US,0,Downhill
+2013-12-01,Jared Goldberg,US,0,Combined
 2013-12-01,Morgan Pridy,CA,0,Super G
 2013-12-01,Didier Defago,CH,16,Super G
 2013-12-01,Yannick Bertrand,FR,0,Combined
@@ -99,7 +99,7 @@ date,name,ath_country,value,specialty
 2013-12-01,Gauthier De Tessieres,FR,0,Giant Slalom
 2013-12-01,Hannes Reichelt,AT,40,Downhill
 2013-12-01,Conrad Pridy,CA,0,Downhill
-2013-12-01,Martin Cater,SK,0,Downhill
+2013-12-01,Martin Cater,SK,0,Combined
 2013-12-01,Andrej Sporn,SK,0,Downhill
 2013-12-01,Michal Klusak,PL,0,Combined
 2013-12-01,Alek Glebov,RU,0,Super G
@@ -170,7 +170,7 @@ date,name,ath_country,value,specialty
 2013-12-07,Klaus Kroell,AT,6,Downhill
 2013-12-07,Henrik Von Appen,CL,0,Combined
 2013-12-07,Rok Perko,SK,0,Super G
-2013-12-07,Jared Goldberg,US,0,Downhill
+2013-12-07,Jared Goldberg,US,0,Combined
 2013-12-07,Yannick Bertrand,FR,0,Combined
 2013-12-07,Marcel Hirscher,AT,15,Slalom
 2013-12-07,Robbie Dixon,CA,0,Combined
@@ -219,7 +219,7 @@ date,name,ath_country,value,specialty
 2013-12-07,Patrick Kueng,CH,145,Downhill
 2013-12-07,Manuel Osborne-Paradis,CA,26,Downhill
 2013-12-07,Christof Innerhofer,IT,60,Downhill
-2013-12-07,Martin Cater,SK,0,Downhill
+2013-12-07,Martin Cater,SK,0,Combined
 2013-12-07,Douglas Crawford,GB,0,Combined
 2013-12-07,Aleksander Aamodt Kilde,NO,19,Super G
 2013-12-07,Ted Ligety,US,45,Giant Slalom
@@ -236,7 +236,7 @@ date,name,ath_country,value,specialty
 2013-12-20,Georg Streitberger,AT,112,Downhill
 2013-12-20,Andrej Sporn,SK,0,Downhill
 2013-12-20,Stefano Baruffaldi,IT,0,Combined
-2013-12-20,Martin Cater,SK,0,Downhill
+2013-12-20,Martin Cater,SK,0,Combined
 2013-12-20,Hannes Reichelt,AT,100,Downhill
 2013-12-20,Tobias Stechert,DE,1,Downhill
 2013-12-20,Martin Vrablik,CZ,0,Combined
@@ -270,7 +270,7 @@ date,name,ath_country,value,specialty
 2013-12-20,Miha Kuerner,SK,0,Combined
 2013-12-20,Endre Bjertness,NO,0,Combined
 2013-12-20,Ondrej Bank,CZ,0,Combined
-2013-12-20,Jared Goldberg,US,0,Downhill
+2013-12-20,Jared Goldberg,US,0,Combined
 2013-12-20,Jan Hudec,CA,126,Super G
 2013-12-20,Morgan Pridy,CA,7,Super G
 2013-12-20,Krystof Kryzl,CZ,0,Giant Slalom
@@ -368,7 +368,7 @@ date,name,ath_country,value,specialty
 2014-01-26,Michal Klusak,PL,0,Combined
 2014-01-26,Henrik Von Appen,CL,0,Combined
 2014-01-26,Benjamin Griffin,NZ,0,Combined
-2014-01-26,Jared Goldberg,US,0,Downhill
+2014-01-26,Jared Goldberg,US,0,Combined
 2014-01-26,Thomas Baldwin,GB,0,Combined
 2014-01-26,Miha Kuerner,SK,0,Combined
 2014-01-26,Klemen Kosi,SK,0,Combined
@@ -380,7 +380,7 @@ date,name,ath_country,value,specialty
 2014-01-26,Dustin Cook,CA,0,Combined
 2014-01-26,Doglas Hedin,SE,0,Combined
 2014-01-26,Bryce Bennett,US,0,Combined
-2014-01-26,Martin Cater,SK,0,Downhill
+2014-01-26,Martin Cater,SK,0,Combined
 2014-01-26,Frederic Berthold,AT,0,Combined
 2014-01-26,Benjamin Thomsen,CA,0,Downhill
 2014-01-26,Mattia Casse,IT,0,Super G
@@ -462,7 +462,7 @@ date,name,ath_country,value,specialty
 2014-03-02,Willis Feasey,NZ,0,Combined
 2014-03-02,Alexandre Bouillot,FR,0,Combined
 2014-03-02,Andrew Weibrecht,US,65,Super G
-2014-03-02,Martin Cater,SK,0,Downhill
+2014-03-02,Martin Cater,SK,0,Combined
 2014-03-02,Philipp Schoerghofer,AT,0,Giant Slalom
 2014-03-02,Bjoernar Neteland,NO,0,Combined
 2014-03-02,Cristian Javier Simari Birkner,AR,0,Combined
@@ -537,7 +537,7 @@ date,name,ath_country,value,specialty
 2014-03-02,Klemen Kosi,SK,0,Combined
 2014-03-02,Morgan Pridy,CA,17,Super G
 2014-03-02,Ondrej Bank,CZ,0,Combined
-2014-03-02,Jared Goldberg,US,0,Downhill
+2014-03-02,Jared Goldberg,US,0,Combined
 2014-03-02,Dmitriy Koshkin,KZ,0,Combined
 2014-03-02,Siegmar Klotz,IT,2,Downhill
 2014-03-02,Klaus Kroell,AT,17,Downhill
@@ -570,7 +570,7 @@ date,name,ath_country,value,specialty
 2014-03-02,Steven Nyman,US,9,Downhill
 2014-03-02,Klaus Brandner,DE,11,Super G
 2014-03-13,Alexandr Horoshilov,RU,0,Slalom
-2014-03-13,Martin Cater,SK,0,Downhill
+2014-03-13,Martin Cater,SK,0,Combined
 2014-03-13,Miha Kuerner,SK,0,Combined
 2014-03-13,Frederic Berthold,AT,0,Combined
 2014-03-13,Nikola Chongarov,BG,0,Combined
@@ -678,7 +678,7 @@ date,name,ath_country,value,specialty
 2014-03-13,Tim Jitloff,US,0,Giant Slalom
 2014-03-13,Dustin Cook,CA,0,Combined
 2014-03-13,Klemen Kosi,SK,0,Combined
-2014-03-13,Jared Goldberg,US,0,Downhill
+2014-03-13,Jared Goldberg,US,0,Combined
 2014-03-13,Maciej Bydlinski,PL,0,Combined
 2014-03-13,Andrej Sporn,SK,0,Downhill
 2014-03-13,Florian Scheiber,AT,4,Downhill

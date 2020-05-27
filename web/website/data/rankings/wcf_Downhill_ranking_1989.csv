@@ -26,7 +26,7 @@ date,name,ath_country,value,specialty
 1988-12-02,Pam Fletcher,US,0,Downhill
 1988-12-02,Karin Dedler,DE,0,Giant Slalom
 1988-12-02,Michelle Ruthven Mckendry,CA,0,Downhill
-1988-12-02,Petra Kronberger,AT,4,Downhill
+1988-12-02,Petra Kronberger,AT,4,Combined
 1988-12-02,Regine Moesenlechner,DE,20,Downhill
 1988-12-02,Marlis Spescha,CH,0,Downhill
 1988-12-02,Warwara Zelenskaja,RU,0,Downhill
@@ -49,7 +49,7 @@ date,name,ath_country,value,specialty
 1988-12-15,Claudine Emonet,FR,2,Downhill
 1988-12-15,Brigitte Oertli,CH,2,Combined
 1988-12-15,Michelle Ruthven Mckendry,CA,0,Downhill
-1988-12-15,Petra Kronberger,AT,4,Downhill
+1988-12-15,Petra Kronberger,AT,4,Combined
 1988-12-15,Heidi Zeller - Baehler,CH,0,Downhill
 1988-12-15,Katharina Gutensohn,AT,8,Downhill
 1988-12-15,Lucie Laroche,CA,3,Downhill
@@ -85,7 +85,7 @@ date,name,ath_country,value,specialty
 1989-01-12,Brigitte Oertli,CH,2,Combined
 1989-01-12,Claudine Emonet,FR,3,Downhill
 1989-01-12,Katharina Gutensohn,AT,8,Downhill
-1989-01-12,Petra Kronberger,AT,4,Downhill
+1989-01-12,Petra Kronberger,AT,4,Combined
 1989-01-12,Regine Moesenlechner,DE,24,Downhill
 1989-01-12,Chantal Bournissen,CH,7,Downhill
 1989-01-12,Heidi Zurbriggen,CH,12,Downhill
@@ -130,7 +130,7 @@ date,name,ath_country,value,specialty
 1989-01-13,Michela Figini,CH,90,Downhill
 1989-01-13,Sigrid Wolf,AT,19,Super G
 1989-01-13,Maria Walliser,CH,57,Downhill
-1989-01-13,Petra Kronberger,AT,8,Downhill
+1989-01-13,Petra Kronberger,AT,8,Combined
 1989-01-13,Tanja Steinebrunner,CH,10,Downhill
 1989-01-13,Regine Moesenlechner,DE,35,Downhill
 1989-01-13,Ulla Lodzinja,RU,6,Downhill
@@ -152,7 +152,7 @@ date,name,ath_country,value,specialty
 1989-01-19,Hilary Lindh,US,8,Downhill
 1989-01-19,Maria Walliser,CH,82,Downhill
 1989-01-19,Michelle Ruthven Mckendry,CA,4,Downhill
-1989-01-19,Petra Kronberger,AT,8,Downhill
+1989-01-19,Petra Kronberger,AT,8,Combined
 1989-01-19,Regine Moesenlechner,DE,45,Downhill
 1989-01-19,Brigitte Oertli,CH,2,Combined
 1989-01-19,Christina Meier,DE,0,Giant Slalom
@@ -176,7 +176,7 @@ date,name,ath_country,value,specialty
 1989-01-19,Kerrin Lee- Gartner,CA,2,Downhill
 1989-02-18,Hilary Lindh,US,8,Downhill
 1989-02-18,Regine Moesenlechner,DE,45,Downhill
-1989-02-18,Petra Kronberger,AT,8,Downhill
+1989-02-18,Petra Kronberger,AT,8,Combined
 1989-02-18,Heidi Zurbriggen,CH,41,Downhill
 1989-02-18,Michela Figini,CH,126,Downhill
 1989-02-18,Karen Percy,CA,31,Downhill
@@ -209,7 +209,7 @@ date,name,ath_country,value,specialty
 1989-02-18,Barbara Sadleder,AT,32,Downhill
 1989-02-18,Kerrin Lee- Gartner,CA,11,Downhill
 1989-02-18,Tanja Steinebrunner,CH,10,Downhill
-1989-02-19,Petra Kronberger,AT,12,Downhill
+1989-02-19,Petra Kronberger,AT,12,Combined
 1989-02-19,Ulrike Stangassinger,DE,14,Downhill
 1989-02-19,Michelle Ruthven Mckendry,CA,8,Downhill
 1989-02-19,Warwara Zelenskaja,RU,9,Downhill
@@ -271,7 +271,7 @@ date,name,ath_country,value,specialty
 1989-02-24,Petra Bernet,CH,5,Downhill
 1989-02-24,Ulla Lodzinja,RU,12,Downhill
 1989-02-24,Carole Merle,FR,67,Super G
-1989-02-24,Petra Kronberger,AT,16,Downhill
+1989-02-24,Petra Kronberger,AT,16,Combined
 1989-02-24,Maria Walliser,CH,142,Downhill
 1989-02-24,Sigrid Wolf,AT,28,Super G
 1989-02-24,Michelle Ruthven Mckendry,CA,8,Downhill

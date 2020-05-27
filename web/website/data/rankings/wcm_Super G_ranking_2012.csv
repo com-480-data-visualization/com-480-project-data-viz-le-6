@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 2011-11-27,Othmar Striedinger,AT,0,Combined
 2011-11-27,Dustin Cook,CA,0,Combined
 2011-11-27,Iver Bjerkestrand,NO,0,Combined
-2011-11-27,Silvan Zurbriggen,CH,2,Downhill
+2011-11-27,Silvan Zurbriggen,CH,2,Combined
 2011-11-27,Thomas Baldwin,GB,0,Combined
 2011-11-27,Arjan Wanders,NL,0,Combined
 2011-11-27,Brice Roger,FR,0,Combined
@@ -187,7 +187,7 @@ date,name,ath_country,value,specialty
 2011-12-03,Robbie Dixon,CA,50,Super G
 2011-12-03,Othmar Striedinger,AT,0,Combined
 2011-12-03,Thomas Baldwin,GB,0,Combined
-2011-12-03,Silvan Zurbriggen,CH,2,Downhill
+2011-12-03,Silvan Zurbriggen,CH,2,Combined
 2011-12-03,Marc Oliveras,AD,0,Combined
 2011-12-03,Iver Bjerkestrand,NO,0,Combined
 2011-12-03,Will Gregorak,US,0,Combined
@@ -292,7 +292,7 @@ date,name,ath_country,value,specialty
 2011-12-16,Kjetil Jansrud,NO,100,Super G
 2011-12-16,Johan Clarey,FR,26,Downhill
 2011-12-16,Stephan Keppler,DE,56,Super G
-2011-12-16,Silvan Zurbriggen,CH,2,Downhill
+2011-12-16,Silvan Zurbriggen,CH,2,Combined
 2011-12-16,Andrew Weibrecht,US,38,Super G
 2011-12-16,Erik Guay,CA,76,Downhill
 2011-12-16,Matteo Marsaglia,IT,32,Super G
@@ -374,7 +374,7 @@ date,name,ath_country,value,specialty
 2012-02-24,Thomas Baldwin,GB,0,Combined
 2012-02-24,Rok Perko,SK,15,Super G
 2012-02-24,Georg Streitberger,AT,22,Super G
-2012-02-24,Silvan Zurbriggen,CH,52,Downhill
+2012-02-24,Silvan Zurbriggen,CH,52,Combined
 2012-02-24,Manuel Kramer,AT,22,Super G
 2012-02-24,Marcus Sandell,FI,0,Giant Slalom
 2012-02-24,Gauthier De Tessieres,FR,5,Giant Slalom
@@ -450,7 +450,7 @@ date,name,ath_country,value,specialty
 2012-02-25,Stephan Keppler,DE,63,Super G
 2012-02-25,Thomas Baldwin,GB,0,Combined
 2012-02-25,Chris Frank,US,0,Combined
-2012-02-25,Silvan Zurbriggen,CH,66,Downhill
+2012-02-25,Silvan Zurbriggen,CH,66,Combined
 2012-02-25,Guillermo Fayed,FR,0,Downhill
 2012-02-25,Brice Roger,FR,0,Combined
 2012-02-25,Beat Feuz,CH,208,Downhill
@@ -528,7 +528,7 @@ date,name,ath_country,value,specialty
 2012-03-02,Thomas Baldwin,GB,0,Combined
 2012-03-02,Adrien Theaux,FR,195,Downhill
 2012-03-02,Marvin Van Heek,NL,0,Combined
-2012-03-02,Silvan Zurbriggen,CH,66,Downhill
+2012-03-02,Silvan Zurbriggen,CH,66,Combined
 2012-03-02,Benjamin Raich,AT,202,Super G
 2012-03-02,Rok Perko,SK,21,Super G
 2012-03-02,Georg Streitberger,AT,54,Super G
@@ -707,7 +707,7 @@ date,name,ath_country,value,specialty
 2012-03-04,Brice Roger,FR,0,Combined
 2012-03-04,Arjan Wanders,NL,0,Combined
 2012-03-04,Max Franz,AT,156,Super G
-2012-03-04,Silvan Zurbriggen,CH,71,Downhill
+2012-03-04,Silvan Zurbriggen,CH,71,Combined
 2012-03-04,Didier Cuche,CH,371,Downhill
 2012-03-04,Iver Bjerkestrand,NO,0,Combined
 2012-03-04,Robbie Dixon,CA,50,Super G
@@ -834,7 +834,7 @@ date,name,ath_country,value,specialty
 2012-03-15,Matteo Marsaglia,IT,119,Super G
 2012-03-15,Arjan Wanders,NL,0,Combined
 2012-03-15,Thomas Baldwin,GB,0,Combined
-2012-03-15,Silvan Zurbriggen,CH,78,Downhill
+2012-03-15,Silvan Zurbriggen,CH,78,Combined
 2012-03-15,Iver Bjerkestrand,NO,0,Combined
 2012-03-15,Robbie Dixon,CA,50,Super G
 2012-03-15,Klaus Kroell,AT,318,Downhill

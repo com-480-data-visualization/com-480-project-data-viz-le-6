@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
 1984-12-02,Marc Girardelli,LU,25,Slalom
-1984-12-02,Andreas Wenzel,LI,0,Slalom
+1984-12-02,Andreas Wenzel,LI,0,Combined
 1984-12-02,Franck Woerndl,DE,0,Slalom
 1984-12-02,Joel Gaspoz,CH,0,Giant Slalom
 1984-12-02,Felix McGrath,US,0,Slalom
@@ -89,7 +89,7 @@ date,name,ath_country,value,specialty
 1984-12-10,Felix McGrath,US,0,Slalom
 1984-12-10,Florian Beck,DE,8,Slalom
 1984-12-10,Dietmar Koehlbichler,AT,0,Slalom
-1984-12-10,Andreas Wenzel,LI,11,Slalom
+1984-12-10,Andreas Wenzel,LI,11,Combined
 1984-12-10,Paolo De Chiesa,IT,35,Slalom
 1984-12-10,Bengt Fjaellberg,SE,2,Slalom
 1984-12-10,Pirmin Zurbriggen,CH,27,Downhill
@@ -105,7 +105,7 @@ date,name,ath_country,value,specialty
 1984-12-10,Marc Girardelli,LU,25,Slalom
 1984-12-10,Anton Steiner,AT,0,Downhill
 1984-12-10,Robert Ormsby,US,0,Slalom
-1984-12-16,Andreas Wenzel,LI,31,Slalom
+1984-12-16,Andreas Wenzel,LI,31,Combined
 1984-12-16,Daniel Mougel,FR,7,Slalom
 1984-12-16,Robert Ormsby,US,0,Slalom
 1984-12-16,Daniel Stripp,US,0,Slalom
@@ -201,7 +201,7 @@ date,name,ath_country,value,specialty
 1985-01-04,Alex Giorgi,IT,1,Slalom
 1985-01-04,Martin Hangl,CH,11,Giant Slalom
 1985-01-04,Paolo De Chiesa,IT,47,Slalom
-1985-01-04,Andreas Wenzel,LI,40,Slalom
+1985-01-04,Andreas Wenzel,LI,40,Combined
 1985-01-04,Thomas Stangassinger,AT,17,Slalom
 1985-01-04,Ivano Edalini,IT,28,Slalom
 1985-01-04,Bojan Krizaj,SK,43,Slalom
@@ -249,7 +249,7 @@ date,name,ath_country,value,specialty
 1985-01-06,Gunnar Neuriesser,SE,2,Slalom
 1985-01-06,Ivano Edalini,IT,28,Slalom
 1985-01-06,Robert Ormsby,US,0,Slalom
-1985-01-06,Andreas Wenzel,LI,65,Slalom
+1985-01-06,Andreas Wenzel,LI,65,Combined
 1985-01-06,Thomas Buergler,CH,7,Giant Slalom
 1985-01-06,Marc Girardelli,LU,50,Slalom
 1985-01-06,Paolo De Chiesa,IT,59,Slalom
@@ -283,7 +283,7 @@ date,name,ath_country,value,specialty
 1985-01-13,Bojan Krizaj,SK,58,Slalom
 1985-01-13,Gunnar Neuriesser,SE,2,Slalom
 1985-01-13,Robert Ormsby,US,0,Slalom
-1985-01-13,Andreas Wenzel,LI,75,Slalom
+1985-01-13,Andreas Wenzel,LI,75,Combined
 1985-01-13,Felix McGrath,US,0,Slalom
 1985-01-13,Mathias Berthold,AT,0,Slalom
 1985-01-13,Marco Tonazzi,IT,0,Slalom
@@ -323,7 +323,7 @@ date,name,ath_country,value,specialty
 1985-01-21,Ernst Riedlsperger,AT,3,Super G
 1985-01-21,Daniel Mougel,FR,7,Slalom
 1985-01-21,Daniel Fontaine,FR,9,Slalom
-1985-01-21,Andreas Wenzel,LI,75,Slalom
+1985-01-21,Andreas Wenzel,LI,75,Combined
 1985-01-21,Marco Tonazzi,IT,0,Slalom
 1985-01-21,Klaus Heidegger,AT,32,Slalom
 1985-01-21,Florian Beck,DE,32,Slalom
@@ -388,7 +388,7 @@ date,name,ath_country,value,specialty
 1985-02-16,Franz Gruber,AT,11,Giant Slalom
 1985-02-16,Thomas Buergler,CH,16,Giant Slalom
 1985-02-16,Bojan Krizaj,SK,69,Slalom
-1985-02-16,Andreas Wenzel,LI,75,Slalom
+1985-02-16,Andreas Wenzel,LI,75,Combined
 1985-02-16,Jonas Nilsson,SE,67,Slalom
 1985-02-16,Tiger Shaw,US,0,Slalom
 1985-02-16,Marco Tonazzi,IT,3,Slalom
@@ -432,7 +432,7 @@ date,name,ath_country,value,specialty
 1985-03-20,Daniel Mougel,FR,7,Slalom
 1985-03-20,Franz Gruber,AT,11,Giant Slalom
 1985-03-20,Bojan Krizaj,SK,69,Slalom
-1985-03-20,Andreas Wenzel,LI,75,Slalom
+1985-03-20,Andreas Wenzel,LI,75,Combined
 1985-03-20,Anton Steiner,AT,4,Downhill
 1985-03-20,Thomas Stangassinger,AT,26,Slalom
 1985-03-20,Chiaki Ishioka,JP,9,Slalom
@@ -503,7 +503,7 @@ date,name,ath_country,value,specialty
 1985-03-23,Daniel Fontaine,FR,9,Slalom
 1985-03-23,Martin Hangl,CH,11,Giant Slalom
 1985-03-23,Marco Tonazzi,IT,3,Slalom
-1985-03-23,Andreas Wenzel,LI,75,Slalom
+1985-03-23,Andreas Wenzel,LI,75,Combined
 1985-03-23,Didier Bouvet,FR,30,Slalom
 1985-03-23,Peter Namberger,DE,4,Giant Slalom
 1985-03-23,Daniel Mougel,FR,14,Slalom

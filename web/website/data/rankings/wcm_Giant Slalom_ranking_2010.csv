@@ -36,7 +36,7 @@ date,name,ath_country,value,specialty
 2009-10-25,Sandro Viletta,CH,14,Giant Slalom
 2009-10-25,Marc Berthod,CH,16,Giant Slalom
 2009-10-25,Alexandru Barbu,RO,0,Combined
-2009-10-25,Ondrej Bank,CZ,7,Giant Slalom
+2009-10-25,Ondrej Bank,CZ,7,Combined
 2009-10-25,Hannes Brenner,AT,0,Combined
 2009-10-25,Steve Missillier,FR,9,Slalom
 2009-10-25,Gauthier De Tessieres,FR,0,Giant Slalom
@@ -249,7 +249,7 @@ date,name,ath_country,value,specialty
 2009-12-06,Marcel Mathis,AT,0,Combined
 2009-12-06,Cristian Javier Simari Birkner,AR,0,Combined
 2009-12-06,Bode Miller,US,0,Combined
-2009-12-06,Ondrej Bank,CZ,18,Giant Slalom
+2009-12-06,Ondrej Bank,CZ,18,Combined
 2009-12-06,Patrick Staudacher,IT,0,Super G
 2009-12-06,Christian Spescha,CH,0,Combined
 2009-12-06,Florian Eisath,IT,0,Giant Slalom
@@ -351,7 +351,7 @@ date,name,ath_country,value,specialty
 2009-12-13,Cyprien Richard,FR,51,Giant Slalom
 2009-12-13,Hagen Patscheider,IT,0,Combined
 2009-12-13,Felix Neureuther,DE,11,Slalom
-2009-12-13,Ondrej Bank,CZ,18,Giant Slalom
+2009-12-13,Ondrej Bank,CZ,18,Combined
 2009-12-13,Silvan Zurbriggen,CH,11,Slalom
 2009-12-13,Alberto Schieppati,IT,49,Giant Slalom
 2009-12-13,Matic Skube,SK,0,Slalom
@@ -398,7 +398,7 @@ date,name,ath_country,value,specialty
 2009-12-20,Christoph Noesig,AT,16,Giant Slalom
 2009-12-20,Steve Missillier,FR,33,Slalom
 2009-12-20,Silvan Zurbriggen,CH,25,Slalom
-2009-12-20,Ondrej Bank,CZ,40,Giant Slalom
+2009-12-20,Ondrej Bank,CZ,40,Combined
 2009-12-20,Thomas Mermillod,FR,53,Giant Slalom
 2009-12-20,Tim Cafe,NZ,0,Combined
 2009-12-20,Bernard Vajdic,SK,0,Slalom
@@ -511,7 +511,7 @@ date,name,ath_country,value,specialty
 2009-12-20,Davide Simoncelli,IT,141,Giant Slalom
 2009-12-20,Felix Neureuther,DE,11,Slalom
 2009-12-20,Maciej Bydlinski,PL,0,Combined
-2010-01-29,Ondrej Bank,CZ,47,Giant Slalom
+2010-01-29,Ondrej Bank,CZ,47,Combined
 2010-01-29,Manuel Osborne-Paradis,CA,0,Downhill
 2010-01-29,Hans Olsson,SE,0,Downhill
 2010-01-29,Patrick Biggs,CA,0,Slalom
@@ -685,7 +685,7 @@ date,name,ath_country,value,specialty
 2010-01-30,Krystof Kryzl,CZ,14,Giant Slalom
 2010-01-30,Cristian Javier Simari Birkner,AR,0,Combined
 2010-01-30,Bjoern Sieber,AT,12,Giant Slalom
-2010-01-30,Ondrej Bank,CZ,63,Giant Slalom
+2010-01-30,Ondrej Bank,CZ,63,Combined
 2010-01-30,Jake Zamansky,US,10,Giant Slalom
 2010-01-30,Marc Berthod,CH,79,Giant Slalom
 2010-01-30,Michael Gufler,IT,52,Giant Slalom
@@ -823,7 +823,7 @@ date,name,ath_country,value,specialty
 2010-03-12,Aksel-Lund Svindal,NO,211,Super G
 2010-03-12,Cyprien Richard,FR,180,Giant Slalom
 2010-03-12,Philipp Schoerghofer,AT,170,Giant Slalom
-2010-03-12,Ondrej Bank,CZ,63,Giant Slalom
+2010-03-12,Ondrej Bank,CZ,63,Combined
 2010-03-12,Manfred Moelgg,IT,167,Slalom
 2010-03-12,Romed Baumann,AT,164,Giant Slalom
 2010-03-12,Alexander Ploner,IT,186,Giant Slalom

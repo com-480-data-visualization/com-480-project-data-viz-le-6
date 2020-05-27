@@ -73,7 +73,7 @@ date,name,ath_country,value,specialty
 2010-11-27,David Poisson,FR,0,Downhill
 2010-11-27,Natko Zrncic-Dim,HR,0,Combined
 2010-11-27,Kelby Halbert,CA,0,Combined
-2010-11-27,Matteo Marsaglia,IT,0,Downhill
+2010-11-27,Matteo Marsaglia,IT,0,Combined
 2010-11-27,Carlo Janka,CH,36,Giant Slalom
 2010-11-27,Christian Spescha,CH,0,Combined
 2010-11-27,Tommy Ford,US,0,Super G
@@ -156,7 +156,7 @@ date,name,ath_country,value,specialty
 2010-12-18,Travis Ganong,US,0,Downhill
 2010-12-18,Klaus Kroell,AT,90,Downhill
 2010-12-18,Ondrej Bank,CZ,0,Giant Slalom
-2010-12-18,Matteo Marsaglia,IT,0,Downhill
+2010-12-18,Matteo Marsaglia,IT,0,Combined
 2010-12-18,Andy Plank,IT,0,Combined
 2010-12-18,Manuel Osborne-Paradis,CA,52,Downhill
 2010-12-18,Manuel Kramer,AT,0,Combined
@@ -314,7 +314,7 @@ date,name,ath_country,value,specialty
 2010-12-29,Guillermo Fayed,FR,40,Downhill
 2010-12-29,Hans Olsson,SE,18,Downhill
 2010-12-29,Carlo Janka,CH,65,Giant Slalom
-2010-12-29,Matteo Marsaglia,IT,0,Downhill
+2010-12-29,Matteo Marsaglia,IT,0,Combined
 2010-12-29,Silvan Zurbriggen,CH,230,Downhill
 2010-12-29,Klaus Kroell,AT,90,Downhill
 2011-01-15,Sandro Viletta,CH,0,Giant Slalom
@@ -403,7 +403,7 @@ date,name,ath_country,value,specialty
 2011-01-15,Bostjan Kline,SK,0,Downhill
 2011-01-15,Kjetil Jansrud,NO,0,Giant Slalom
 2011-01-15,Travis Ganong,US,14,Downhill
-2011-01-15,Matteo Marsaglia,IT,0,Downhill
+2011-01-15,Matteo Marsaglia,IT,0,Combined
 2011-01-15,Ted Ligety,US,1,Giant Slalom
 2011-01-15,Hans Olsson,SE,44,Downhill
 2011-01-15,Benjamin Thomsen,CA,15,Downhill
@@ -517,7 +517,7 @@ date,name,ath_country,value,specialty
 2011-01-22,Paolo Pangrazzi,IT,0,Combined
 2011-01-22,Andreas Strodl,DE,6,Downhill
 2011-01-22,Wiley Maple,US,0,Combined
-2011-01-22,Matteo Marsaglia,IT,1,Downhill
+2011-01-22,Matteo Marsaglia,IT,1,Combined
 2011-01-22,Frederik Van Buynder,BE,0,Combined
 2011-01-22,Kelby Halbert,CA,0,Combined
 2011-01-22,Maxence Muzaton,FR,0,Combined
@@ -601,7 +601,7 @@ date,name,ath_country,value,specialty
 2011-01-29,Benjamin Raich,AT,9,Super G
 2011-01-29,Erik Fisher,US,0,Downhill
 2011-01-29,Tobias Stechert,DE,18,Downhill
-2011-01-29,Matteo Marsaglia,IT,9,Downhill
+2011-01-29,Matteo Marsaglia,IT,9,Combined
 2011-01-29,Ferran Terra,ES,0,Combined
 2011-01-29,Cornel Zueger,CH,14,Downhill
 2011-01-29,Kelby Halbert,CA,0,Combined
@@ -637,7 +637,7 @@ date,name,ath_country,value,specialty
 2011-01-29,Manuel Osborne-Paradis,CA,80,Downhill
 2011-03-11,Benjamin Thomsen,CA,33,Downhill
 2011-03-11,Aksel-Lund Svindal,NO,160,Giant Slalom
-2011-03-11,Matteo Marsaglia,IT,9,Downhill
+2011-03-11,Matteo Marsaglia,IT,9,Combined
 2011-03-11,Stephan Thanei,IT,4,Combined
 2011-03-11,Maxence Muzaton,FR,0,Combined
 2011-03-11,Brice Roger,FR,0,Combined
@@ -765,7 +765,7 @@ date,name,ath_country,value,specialty
 2011-03-12,Patrik Jaerbyn,SE,51,Super G
 2011-03-12,Ami Oreiller,CH,0,Combined
 2011-03-12,Petr Zahrobsky,CZ,0,Combined
-2011-03-12,Matteo Marsaglia,IT,45,Downhill
+2011-03-12,Matteo Marsaglia,IT,45,Combined
 2011-03-12,Patrick Kueng,CH,174,Downhill
 2011-03-12,Andrej Sporn,SK,180,Downhill
 2011-03-12,Bernhard Graf,AT,0,Combined
@@ -860,7 +860,7 @@ date,name,ath_country,value,specialty
 2011-03-16,Andreas Strodl,DE,6,Downhill
 2011-03-16,Paolo Pangrazzi,IT,0,Combined
 2011-03-16,Patrik Jaerbyn,SE,51,Super G
-2011-03-16,Matteo Marsaglia,IT,45,Downhill
+2011-03-16,Matteo Marsaglia,IT,45,Combined
 2011-03-16,Manuel Osborne-Paradis,CA,80,Downhill
 2011-03-16,Ambrosi Hoffmann,CH,87,Downhill
 2011-03-16,Stephan Keppler,DE,57,Super G

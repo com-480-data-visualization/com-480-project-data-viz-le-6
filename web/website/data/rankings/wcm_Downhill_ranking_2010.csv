@@ -34,7 +34,7 @@ date,name,ath_country,value,specialty
 2009-11-28,Patrick Kueng,CH,24,Downhill
 2009-11-28,Max Franz,AT,0,Combined
 2009-11-28,Florian Scheiber,AT,0,Super G
-2009-11-28,Ondrej Bank,CZ,0,Giant Slalom
+2009-11-28,Ondrej Bank,CZ,0,Combined
 2009-11-28,Alexandr Horoshilov,RU,0,Combined
 2009-11-28,Aronne Pieruz,IT,0,Combined
 2009-11-28,Robbie Dixon,CA,32,Downhill
@@ -174,7 +174,7 @@ date,name,ath_country,value,specialty
 2009-12-05,Bode Miller,US,52,Combined
 2009-12-05,Erik Guay,CA,12,Super G
 2009-12-05,Roger Vidosa,AD,0,Combined
-2009-12-05,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-05,Ondrej Bank,CZ,0,Combined
 2009-12-05,Peter Strodl,DE,0,Combined
 2009-12-05,Travis Ganong,US,0,Super G
 2009-12-05,Aksel-Lund Svindal,NO,60,Super G
@@ -262,7 +262,7 @@ date,name,ath_country,value,specialty
 2009-12-19,Yannick Bertrand,FR,6,Downhill
 2009-12-19,Dominik Paris,IT,3,Combined
 2009-12-19,Andy Plank,IT,0,Combined
-2009-12-19,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-19,Ondrej Bank,CZ,0,Combined
 2009-12-19,Travis Ganong,US,0,Super G
 2009-12-19,Lars Elton Myhre,NO,0,Slalom
 2009-12-19,Kjetil Jansrud,NO,8,Giant Slalom
@@ -318,7 +318,7 @@ date,name,ath_country,value,specialty
 2009-12-29,Christoph Gruber,AT,2,Super G
 2009-12-29,Erik Guay,CA,36,Super G
 2009-12-29,Lars Elton Myhre,NO,0,Slalom
-2009-12-29,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-29,Ondrej Bank,CZ,0,Combined
 2009-12-29,Aronne Pieruz,IT,0,Combined
 2009-12-29,Andrej Krizaj,SK,8,Super G
 2009-12-29,Benjamin Raich,AT,0,Giant Slalom
@@ -462,7 +462,7 @@ date,name,ath_country,value,specialty
 2010-01-16,Bostjan Kline,SK,0,Combined
 2010-01-16,Erik Fisher,US,21,Downhill
 2010-01-16,Roberts Rode,LV,0,Combined
-2010-01-16,Ondrej Bank,CZ,0,Giant Slalom
+2010-01-16,Ondrej Bank,CZ,0,Combined
 2010-01-16,Christof Innerhofer,IT,56,Super G
 2010-01-16,Silvano Varettoni,IT,0,Combined
 2010-01-16,Erik Guay,CA,49,Super G
@@ -610,7 +610,7 @@ date,name,ath_country,value,specialty
 2010-01-23,Peter Fill,IT,32,Downhill
 2010-01-23,John Kucera,CA,40,Downhill
 2010-01-23,Erik Guay,CA,67,Super G
-2010-01-23,Ondrej Bank,CZ,0,Giant Slalom
+2010-01-23,Ondrej Bank,CZ,0,Combined
 2010-01-23,Dominik Paris,IT,18,Combined
 2010-01-23,Ted Ligety,US,0,Giant Slalom
 2010-01-23,Max Franz,AT,0,Combined
@@ -677,7 +677,7 @@ date,name,ath_country,value,specialty
 2010-03-06,Peter Fill,IT,32,Downhill
 2010-03-06,Werner Heel,IT,252,Downhill
 2010-03-06,Gasper Markic,SK,0,Combined
-2010-03-06,Ondrej Bank,CZ,0,Giant Slalom
+2010-03-06,Ondrej Bank,CZ,0,Combined
 2010-03-06,Georg Streitberger,AT,40,Super G
 2010-03-06,Didier Defago,CH,210,Downhill
 2010-03-06,David Poisson,FR,100,Downhill
@@ -827,7 +827,7 @@ date,name,ath_country,value,specialty
 2010-03-10,Andreas Buder,AT,0,Combined
 2010-03-10,Jeremy Transue,US,0,Combined
 2010-03-10,Lars Elton Myhre,NO,0,Slalom
-2010-03-10,Ondrej Bank,CZ,0,Giant Slalom
+2010-03-10,Ondrej Bank,CZ,0,Combined
 2010-03-10,Benjamin Raich,AT,0,Giant Slalom
 2010-03-10,Andreas Strodl,DE,0,Super G
 2010-03-10,Truls Ove Karlsen,NO,0,Giant Slalom

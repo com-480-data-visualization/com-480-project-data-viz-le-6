@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
 1996-12-15,Fritz Strobl,AT,100,Downhill
-1996-12-15,Lasse Kjus,NO,0,Downhill
+1996-12-15,Lasse Kjus,NO,0,Super G
 1996-12-15,Andreas Schifferer,AT,26,Super G
 1996-12-15,Stefan Krauss,DE,12,Downhill
 1996-12-15,Werner Franz,AT,80,Downhill
@@ -108,7 +108,7 @@ date,name,ath_country,value,specialty
 1996-12-20,Matteo Berbenni,IT,0,Downhill
 1996-12-20,Fredrik Nyberg,SE,0,Giant Slalom
 1996-12-20,Alessandro Fattori,IT,1,Downhill
-1996-12-20,Lasse Kjus,NO,0,Downhill
+1996-12-20,Lasse Kjus,NO,0,Super G
 1996-12-20,Graham Bell,GB,0,Downhill
 1996-12-20,Kenneth Sivertsen,NO,0,Super G
 1996-12-21,Roland Assinger,AT,38,Downhill
@@ -124,7 +124,7 @@ date,name,ath_country,value,specialty
 1996-12-21,Paul Accola,CH,0,Giant Slalom
 1996-12-21,Rob Boyd,CA,26,Downhill
 1996-12-21,Andreas Schifferer,AT,39,Super G
-1996-12-21,Lasse Kjus,NO,0,Downhill
+1996-12-21,Lasse Kjus,NO,0,Super G
 1996-12-21,Audun Groenvold,NO,6,Downhill
 1996-12-21,Graham Bell,GB,0,Downhill
 1996-12-21,Kevin Wert,CA,31,Downhill
@@ -213,7 +213,7 @@ date,name,ath_country,value,specialty
 1996-12-29,Werner Franz,AT,168,Downhill
 1996-12-29,Audun Groenvold,NO,24,Downhill
 1996-12-29,Patrick Ortlieb,AT,85,Downhill
-1996-12-29,Lasse Kjus,NO,0,Downhill
+1996-12-29,Lasse Kjus,NO,0,Super G
 1996-12-29,Stefan Krauss,DE,35,Downhill
 1996-12-29,Andreas Schifferer,AT,68,Super G
 1996-12-29,Oswald Schranzhofer,IT,0,Downhill
@@ -257,7 +257,7 @@ date,name,ath_country,value,specialty
 1997-01-11,Cary Mullen,CA,37,Downhill
 1997-01-11,Markus Herrmann,CH,71,Downhill
 1997-01-11,Ed Podivinsky,CA,100,Downhill
-1997-01-11,Lasse Kjus,NO,0,Downhill
+1997-01-11,Lasse Kjus,NO,0,Super G
 1997-01-11,Guenther Mader,AT,41,Giant Slalom
 1997-01-11,Hannes Trinkl,AT,85,Downhill
 1997-01-11,Werner Franz,AT,228,Downhill
@@ -309,7 +309,7 @@ date,name,ath_country,value,specialty
 1997-01-18,Alberto Senigagliesi,IT,18,Downhill
 1997-01-18,Kjetil Andre Aamodt,NO,15,Giant Slalom
 1997-01-18,Pietro Vitalini,IT,157,Downhill
-1997-01-18,Lasse Kjus,NO,14,Downhill
+1997-01-18,Lasse Kjus,NO,14,Super G
 1997-01-18,Janne Leskinen,FI,0,Super G
 1997-01-18,Kyle Rasmussen,US,65,Downhill
 1997-01-18,Oswald Schranzhofer,IT,0,Downhill
@@ -361,7 +361,7 @@ date,name,ath_country,value,specialty
 1997-01-24,Lasse Paulsen,NO,11,Super G
 1997-01-24,Werner Franz,AT,358,Downhill
 1997-01-24,Lorenzo Galli,IT,0,Downhill
-1997-01-24,Lasse Kjus,NO,27,Downhill
+1997-01-24,Lasse Kjus,NO,27,Super G
 1997-01-24,Kristian Ghedina,IT,489,Downhill
 1997-01-24,Patrick Ortlieb,AT,133,Downhill
 1997-01-24,Chad Fleischer,US,40,Downhill
@@ -430,7 +430,7 @@ date,name,ath_country,value,specialty
 1997-01-25,Kenneth Sivertsen,NO,0,Super G
 1997-01-25,Norbert Holzknecht,AT,29,Downhill
 1997-01-25,Oswald Schranzhofer,IT,3,Downhill
-1997-01-25,Lasse Kjus,NO,53,Downhill
+1997-01-25,Lasse Kjus,NO,53,Super G
 1997-01-25,Tommy Moe,US,37,Downhill
 1997-01-25,Kyle Rasmussen,US,65,Downhill
 1997-01-25,Alberto Senigagliesi,IT,18,Downhill
@@ -447,7 +447,7 @@ date,name,ath_country,value,specialty
 1997-01-25,Hans Knauss,AT,115,Giant Slalom
 1997-01-25,Paul Accola,CH,5,Giant Slalom
 1997-01-25,Luke Sauder,CA,68,Downhill
-1997-02-22,Lasse Kjus,NO,73,Downhill
+1997-02-22,Lasse Kjus,NO,73,Super G
 1997-02-22,Heinrich Rupp,CH,13,Downhill
 1997-02-22,Luca Cattaneo,IT,101,Downhill
 1997-02-22,Kjetil Andre Aamodt,NO,32,Giant Slalom
@@ -507,7 +507,7 @@ date,name,ath_country,value,specialty
 1997-03-02,Kristian Ghedina,IT,620,Downhill
 1997-03-02,Lorenzo Galli,IT,6,Downhill
 1997-03-02,Kyle Rasmussen,US,65,Downhill
-1997-03-02,Lasse Kjus,NO,173,Downhill
+1997-03-02,Lasse Kjus,NO,173,Super G
 1997-03-02,Werner Franz,AT,467,Downhill
 1997-03-02,Janne Leskinen,FI,4,Super G
 1997-03-02,Luke Sauder,CA,94,Downhill
@@ -594,7 +594,7 @@ date,name,ath_country,value,specialty
 1997-03-12,Josef Strobl,AT,470,Downhill
 1997-03-12,Xavier Gigandet,CH,10,Downhill
 1997-03-12,Guenther Mader,AT,85,Giant Slalom
-1997-03-12,Lasse Kjus,NO,173,Downhill
+1997-03-12,Lasse Kjus,NO,173,Super G
 1997-03-12,Janne Leskinen,FI,4,Super G
 1997-03-12,Werner Franz,AT,517,Downhill
 1997-03-12,Lorenzo Galli,IT,6,Downhill

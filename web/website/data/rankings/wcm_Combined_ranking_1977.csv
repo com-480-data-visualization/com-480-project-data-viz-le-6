@@ -1,49 +1,52 @@
 date,name,ath_country,value,specialty
-1977-01-16,Walter Tresch,CH,20,Slalom
-1977-01-16,Michael Veith,DE,0,Downhill
-1977-01-16,Andreas Wenzel,LI,6,Giant Slalom
-1977-01-16,Hans Enn,AT,0,Combined
-1977-01-16,Peter Mueller,CH,3,Giant Slalom
-1977-01-16,Franz Klammer,AT,8,Downhill
-1977-01-16,Dave Murray,CA,0,Combined
-1977-01-16,Ken Read,CA,0,Combined
-1977-01-16,Sepp Ferstl,DE,11,Combined
-1977-01-16,Peter Fischer,DE,1,Downhill
-1977-01-16,Greg Jones,US,2,Combined
-1977-01-16,Anton Steiner,AT,15,Downhill
-1977-01-16,Peter Luescher,CH,0,Combined
-1977-01-16,Herbert Plank,IT,0,Downhill
+1977-01-16,Gustav Thoeni,IT,25,Slalom
 1977-01-16,Ron Biedermann,US,0,Combined
+1977-01-16,Herbert Plank,IT,0,Downhill
+1977-01-16,Greg Jones,US,2,Combined
+1977-01-16,Peter Fischer,DE,1,Downhill
+1977-01-16,Dave Murray,CA,0,Combined
+1977-01-16,Peter Mueller,CH,3,Giant Slalom
+1977-01-16,Andreas Wenzel,LI,6,Giant Slalom
+1977-01-16,Ken Read,CA,0,Combined
+1977-01-16,Michael Veith,DE,0,Downhill
+1977-01-16,Hans Enn,AT,0,Combined
+1977-01-16,Franz Klammer,AT,8,Downhill
 1977-01-16,Leonhard Stock,AT,4,Combined
-1977-01-23,Greg Jones,US,2,Combined
+1977-01-16,Peter Luescher,CH,0,Combined
+1977-01-16,Walter Tresch,CH,20,Combined
+1977-01-16,Anton Steiner,AT,15,Downhill
+1977-01-16,Sepp Ferstl,DE,11,Combined
+1977-01-23,Anton Steiner,AT,15,Downhill
+1977-01-23,Ron Biedermann,US,0,Combined
+1977-01-23,Gustav Thoeni,IT,45,Slalom
 1977-01-23,Herbert Plank,IT,2,Downhill
+1977-01-23,Greg Jones,US,2,Combined
+1977-01-23,Walter Tresch,CH,45,Combined
+1977-01-23,Peter Fischer,DE,2,Downhill
 1977-01-23,Dave Murray,CA,3,Combined
 1977-01-23,Peter Mueller,CH,9,Giant Slalom
 1977-01-23,Andreas Wenzel,LI,6,Giant Slalom
-1977-01-23,Ron Biedermann,US,0,Combined
-1977-01-23,Peter Fischer,DE,2,Downhill
 1977-01-23,Ken Read,CA,0,Combined
-1977-01-23,Michael Veith,DE,4,Downhill
-1977-01-23,Walter Tresch,CH,20,Slalom
-1977-01-23,Peter Luescher,CH,0,Combined
-1977-01-23,Anton Steiner,AT,15,Downhill
-1977-01-23,Leonhard Stock,AT,12,Combined
-1977-01-23,Franz Klammer,AT,8,Downhill
-1977-01-23,Sepp Ferstl,DE,26,Combined
 1977-01-23,Hans Enn,AT,11,Combined
-1977-02-06,Franz Klammer,AT,23,Downhill
+1977-01-23,Leonhard Stock,AT,12,Combined
+1977-01-23,Michael Veith,DE,4,Downhill
+1977-01-23,Peter Luescher,CH,0,Combined
+1977-01-23,Sepp Ferstl,DE,26,Combined
+1977-01-23,Franz Klammer,AT,8,Downhill
 1977-02-06,Ken Read,CA,1,Combined
-1977-02-06,Michael Veith,DE,15,Downhill
-1977-02-06,Walter Tresch,CH,20,Slalom
+1977-02-06,Anton Steiner,AT,15,Downhill
+1977-02-06,Franz Klammer,AT,23,Downhill
 1977-02-06,Ron Biedermann,US,2,Combined
 1977-02-06,Herbert Plank,IT,2,Downhill
+1977-02-06,Gustav Thoeni,IT,45,Slalom
+1977-02-06,Greg Jones,US,2,Combined
+1977-02-06,Leonhard Stock,AT,16,Combined
+1977-02-06,Michael Veith,DE,15,Downhill
+1977-02-06,Peter Fischer,DE,5,Downhill
+1977-02-06,Dave Murray,CA,3,Combined
+1977-02-06,Walter Tresch,CH,45,Combined
+1977-02-06,Sepp Ferstl,DE,51,Combined
 1977-02-06,Peter Luescher,CH,20,Combined
 1977-02-06,Andreas Wenzel,LI,6,Giant Slalom
 1977-02-06,Hans Enn,AT,19,Combined
-1977-02-06,Anton Steiner,AT,15,Downhill
 1977-02-06,Peter Mueller,CH,15,Giant Slalom
-1977-02-06,Sepp Ferstl,DE,51,Combined
-1977-02-06,Peter Fischer,DE,5,Downhill
-1977-02-06,Dave Murray,CA,3,Combined
-1977-02-06,Greg Jones,US,2,Combined
-1977-02-06,Leonhard Stock,AT,16,Combined

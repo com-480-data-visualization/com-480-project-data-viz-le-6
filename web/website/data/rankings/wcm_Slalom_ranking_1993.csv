@@ -41,7 +41,7 @@ date,name,ath_country,value,specialty
 1992-11-29,Carlo Gerosa,IT,0,Slalom
 1992-11-29,Niklas Nilsson,SE,0,Slalom
 1992-11-29,Guenther Mader,AT,0,Super G
-1992-11-29,Steve Locher,CH,9,Giant Slalom
+1992-11-29,Steve Locher,CH,9,Combined
 1992-11-29,Angelo Weiss,IT,8,Slalom
 1992-11-29,Mika Marila,FI,7,Slalom
 1992-11-29,Bernhard Gstrein,AT,22,Slalom
@@ -70,7 +70,7 @@ date,name,ath_country,value,specialty
 1992-12-06,Takuya Ishioka,JP,12,Slalom
 1992-12-06,Patrick Staub,CH,24,Slalom
 1992-12-06,Niklas Nilsson,SE,0,Slalom
-1992-12-06,Steve Locher,CH,24,Giant Slalom
+1992-12-06,Steve Locher,CH,24,Combined
 1992-12-06,Konrad  Kurt Ladstaetter,IT,14,Slalom
 1992-12-06,Dietmar Thoeni,AT,48,Slalom
 1992-12-06,Paul Accola,CH,20,Giant Slalom
@@ -121,7 +121,7 @@ date,name,ath_country,value,specialty
 1992-12-15,Fabio De Crignis,IT,36,Slalom
 1992-12-15,Ole Kristian Furuseth,NO,26,Slalom
 1992-12-15,Michael von Gruenigen,CH,46,Giant Slalom
-1992-12-15,Steve Locher,CH,24,Giant Slalom
+1992-12-15,Steve Locher,CH,24,Combined
 1992-12-15,Gregor Grilc,SK,7,Slalom
 1992-12-15,Francois Simond,FR,10,Slalom
 1992-12-15,Dietmar Thoeni,AT,48,Slalom
@@ -214,7 +214,7 @@ date,name,ath_country,value,specialty
 1992-12-19,Michael Tritscher,AT,120,Slalom
 1992-12-19,Paul Accola,CH,34,Giant Slalom
 1992-12-19,Roger Pramotton,IT,32,Slalom
-1992-12-19,Steve Locher,CH,24,Giant Slalom
+1992-12-19,Steve Locher,CH,24,Combined
 1993-01-09,Heinz Peter Platter,IT,8,Slalom
 1993-01-09,Gregor Grilc,SK,29,Slalom
 1993-01-09,Harald Chr. Strand Nilsen,NO,9,Super G
@@ -240,7 +240,7 @@ date,name,ath_country,value,specialty
 1993-01-09,Roger Pramotton,IT,32,Slalom
 1993-01-09,Didier Schmidt,FR,7,Slalom
 1993-01-09,Paul Accola,CH,34,Giant Slalom
-1993-01-09,Steve Locher,CH,24,Giant Slalom
+1993-01-09,Steve Locher,CH,24,Combined
 1993-01-09,Johan Wallner,SE,36,Giant Slalom
 1993-01-09,Michael Tritscher,AT,120,Slalom
 1993-01-09,Alberto Tomba,IT,296,Slalom
@@ -277,7 +277,7 @@ date,name,ath_country,value,specialty
 1993-01-17,Niklas Nilsson,SE,39,Slalom
 1993-01-17,Matthew Grosjean,US,30,Slalom
 1993-01-17,Takuya Ishioka,JP,12,Slalom
-1993-01-17,Steve Locher,CH,24,Giant Slalom
+1993-01-17,Steve Locher,CH,24,Combined
 1993-01-17,Espen Hellerud,NO,17,Slalom
 1993-01-17,Yves Dimier,FR,10,Slalom
 1993-01-17,Christian Mayer,AT,27,Slalom
@@ -366,7 +366,7 @@ date,name,ath_country,value,specialty
 1993-01-24,Guenther Mader,AT,75,Super G
 1993-01-24,Niklas Nilsson,SE,39,Slalom
 1993-01-24,Angelo Weiss,IT,8,Slalom
-1993-01-24,Steve Locher,CH,35,Giant Slalom
+1993-01-24,Steve Locher,CH,35,Combined
 1993-01-24,Dietmar Thoeni,AT,89,Slalom
 1993-01-24,Roger Pramotton,IT,32,Slalom
 1993-01-24,Johan Wallner,SE,36,Giant Slalom
@@ -413,7 +413,7 @@ date,name,ath_country,value,specialty
 1993-03-28,Takuya Ishioka,JP,12,Slalom
 1993-03-28,Andrej Miklavc,SK,22,Slalom
 1993-03-28,Markus Eberle,AT,30,Slalom
-1993-03-28,Steve Locher,CH,35,Giant Slalom
+1993-03-28,Steve Locher,CH,35,Combined
 1993-03-28,Niklas Nilsson,SE,55,Slalom
 1993-03-28,Christian Mayer,AT,35,Slalom
 1993-03-28,Markus Wasmeier,DE,18,Downhill

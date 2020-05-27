@@ -12,10 +12,10 @@ date,name,ath_country,value,specialty
 1979-12-11,Stig Strand,SE,4,Slalom
 1979-12-11,Paul Frommelt,LI,15,Slalom
 1979-12-11,Florian Beck,DE,1,Slalom
-1979-12-11,Anton Steiner,AT,8,Slalom
+1979-12-11,Anton Steiner,AT,8,Combined
 1979-12-11,Franck Woerndl,DE,0,Slalom
 1979-12-11,Jacques Luethy,CH,10,Giant Slalom
-1979-12-11,Phil Mahre,US,0,Giant Slalom
+1979-12-11,Phil Mahre,US,0,Combined
 1979-12-11,Peter Aellig,CH,0,Slalom
 1979-12-11,Joze Kuralt,SK,0,Giant Slalom
 1979-12-11,Paolo De Chiesa,IT,0,Slalom
@@ -44,7 +44,7 @@ date,name,ath_country,value,specialty
 1980-01-08,Ingemar Stenmark,SE,40,Giant Slalom
 1980-01-08,Jacques Luethy,CH,10,Giant Slalom
 1980-01-08,Joze Kuralt,SK,6,Giant Slalom
-1980-01-08,Anton Steiner,AT,11,Slalom
+1980-01-08,Anton Steiner,AT,11,Combined
 1980-01-08,Paolo De Chiesa,IT,0,Slalom
 1980-01-08,Christian Orlainsky,AT,7,Slalom
 1980-01-08,Martial Donnet,CH,0,Slalom
@@ -54,7 +54,7 @@ date,name,ath_country,value,specialty
 1980-01-08,Mauro Bernardi,IT,12,Slalom
 1980-01-08,Hans Enn,AT,8,Giant Slalom
 1980-01-08,Klaus Heidegger,AT,0,Slalom
-1980-01-08,Phil Mahre,US,12,Giant Slalom
+1980-01-08,Phil Mahre,US,12,Combined
 1980-01-08,Paul Frommelt,LI,19,Slalom
 1980-01-08,Lars Goeran Halvarsson,SE,0,Slalom
 1980-01-08,Stig Strand,SE,4,Slalom
@@ -72,7 +72,7 @@ date,name,ath_country,value,specialty
 1980-01-08,Aleksandr Zhirov,RU,20,Slalom
 1980-01-08,Bruno Noeckler,IT,0,Giant Slalom
 1980-01-13,Gustav Thoeni,IT,14,Slalom
-1980-01-13,Anton Steiner,AT,11,Slalom
+1980-01-13,Anton Steiner,AT,11,Combined
 1980-01-13,Vladimir Andreev,RU,6,Slalom
 1980-01-13,Bogumir Zeman,SK,0,Giant Slalom
 1980-01-13,Paul Arne Skajem,NO,9,Slalom
@@ -81,7 +81,7 @@ date,name,ath_country,value,specialty
 1980-01-13,Piero Gros,IT,8,Slalom
 1980-01-13,Karl Trojer,IT,0,Slalom
 1980-01-13,Franz Gruber,AT,9,Slalom
-1980-01-13,Phil Mahre,US,12,Giant Slalom
+1980-01-13,Phil Mahre,US,12,Combined
 1980-01-13,Osamu Kodama,JP,10,Slalom
 1980-01-13,Florian Beck,DE,1,Slalom
 1980-01-13,Bruno Noeckler,IT,11,Giant Slalom
@@ -126,12 +126,12 @@ date,name,ath_country,value,specialty
 1980-01-20,Andreas Wenzel,LI,45,Giant Slalom
 1980-01-20,Hans Enn,AT,18,Giant Slalom
 1980-01-20,Jostein Masdal,NO,0,Slalom
-1980-01-20,Phil Mahre,US,20,Giant Slalom
+1980-01-20,Phil Mahre,US,20,Combined
 1980-01-20,Paolo De Chiesa,IT,7,Slalom
 1980-01-20,Joze Kuralt,SK,6,Giant Slalom
 1980-01-20,Jacques Luethy,CH,35,Giant Slalom
 1980-01-20,Peter Aellig,CH,1,Slalom
-1980-01-20,Anton Steiner,AT,23,Slalom
+1980-01-20,Anton Steiner,AT,23,Combined
 1980-01-20,Bogumir Zeman,SK,3,Giant Slalom
 1980-01-20,Mauro Bernardi,IT,17,Slalom
 1980-01-20,Christian Orlainsky,AT,16,Slalom
@@ -160,14 +160,14 @@ date,name,ath_country,value,specialty
 1980-01-27,Christian Orlainsky,AT,31,Slalom
 1980-01-27,Christian Neureuther,DE,34,Slalom
 1980-01-27,Karl Trojer,IT,0,Slalom
-1980-01-27,Anton Steiner,AT,34,Slalom
+1980-01-27,Anton Steiner,AT,34,Combined
 1980-01-27,Aleksandr Zhirov,RU,28,Slalom
 1980-01-27,Gustav Thoeni,IT,14,Slalom
 1980-01-27,Jacques Luethy,CH,43,Giant Slalom
 1980-01-27,Bojan Krizaj,SK,85,Slalom
 1980-01-27,Bruno Noeckler,IT,12,Giant Slalom
 1980-01-27,Paul Frommelt,LI,34,Slalom
-1980-01-27,Phil Mahre,US,29,Giant Slalom
+1980-01-27,Phil Mahre,US,29,Combined
 1980-01-27,Steve Mahre,US,7,Slalom
 1980-01-27,Vladimir Andreev,RU,18,Slalom
 1980-01-27,Petar Popangelov,BG,37,Slalom
@@ -204,9 +204,9 @@ date,name,ath_country,value,specialty
 1980-02-27,Piero Gros,IT,18,Slalom
 1980-02-27,Vladimir Andreev,RU,18,Slalom
 1980-02-27,Paul Arne Skajem,NO,13,Slalom
-1980-02-27,Anton Steiner,AT,44,Slalom
+1980-02-27,Anton Steiner,AT,44,Combined
 1980-02-27,Bruno Noeckler,IT,12,Giant Slalom
-1980-02-27,Phil Mahre,US,36,Giant Slalom
+1980-02-27,Phil Mahre,US,36,Combined
 1980-02-27,Franck Woerndl,DE,6,Slalom
 1980-02-27,Franz Gruber,AT,20,Slalom
 1980-02-27,Florian Beck,DE,1,Slalom
@@ -239,7 +239,7 @@ date,name,ath_country,value,specialty
 1980-03-10,Mauro Bernardi,IT,21,Slalom
 1980-03-10,Joze Kuralt,SK,7,Giant Slalom
 1980-03-10,Jacques Luethy,CH,45,Giant Slalom
-1980-03-10,Phil Mahre,US,39,Giant Slalom
+1980-03-10,Phil Mahre,US,39,Combined
 1980-03-10,Peter Aellig,CH,1,Slalom
 1980-03-10,Florian Beck,DE,1,Slalom
 1980-03-10,Paul Frommelt,LI,43,Slalom
@@ -250,7 +250,7 @@ date,name,ath_country,value,specialty
 1980-03-10,Lars Goeran Halvarsson,SE,6,Slalom
 1980-03-10,Paul Arne Skajem,NO,13,Slalom
 1980-03-10,Christian Neureuther,DE,64,Slalom
-1980-03-10,Anton Steiner,AT,44,Slalom
+1980-03-10,Anton Steiner,AT,44,Combined
 1980-03-15,Jostein Masdal,NO,2,Slalom
 1980-03-15,Peter Aellig,CH,1,Slalom
 1980-03-15,Florian Beck,DE,1,Slalom
@@ -268,8 +268,8 @@ date,name,ath_country,value,specialty
 1980-03-15,Christian Orlainsky,AT,55,Slalom
 1980-03-15,Klaus Heidegger,AT,24,Slalom
 1980-03-15,Mauro Bernardi,IT,21,Slalom
-1980-03-15,Phil Mahre,US,42,Giant Slalom
-1980-03-15,Anton Steiner,AT,52,Slalom
+1980-03-15,Phil Mahre,US,42,Combined
+1980-03-15,Anton Steiner,AT,52,Combined
 1980-03-15,Karl Trojer,IT,12,Slalom
 1980-03-15,Gustav Thoeni,IT,18,Slalom
 1980-03-15,Bruno Noeckler,IT,12,Giant Slalom
