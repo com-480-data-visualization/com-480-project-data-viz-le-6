@@ -139,7 +139,7 @@ function create_ranking(rankingId, dataFile, year, locations){
     
         let x = d3.scaleLinear()
             .domain([0, d3.max(yearSlice, d => d.value)])
-            .range([margin.left+30, width - margin.right - 35]);
+            .range([margin.left+30, width - margin.right - 45]);
     
         let y = d3.scaleLinear()
             .domain([top_n, 0])
@@ -203,7 +203,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .attr('xlink:href',d =>  "https://www.countryflags.io/"+d.ath_country+"/flat/64.png")
             .attr('width', y(1) - y(0) - barPadding - 2)
             .attr('height', y(1) - y(0) - barPadding - 2)
-            .attr('x', d => 3)
+            .attr('x', d => 0)
             .attr('y', d => y(d.rank) + 6);
 
         //console.log(width);
@@ -214,7 +214,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .style('text-anchor', 'end')
             .html(formatDate(datevalues[index][0]))
             .style("font-size", `${width/10}px`)
-            .call(halo, 10);
+
 
         //console.log(locations["1967-01-07"]);
         let event_name = svg.append('text')
@@ -224,7 +224,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .style('text-anchor', 'end')
             .html(locations[formatDate(datevalues[index][0], false)])
             .style("font-size", `${width/15}px`)
-            .call(halo, 10);
+
 
 
         //let ticker = d3.interval(e => {
@@ -334,7 +334,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 .attr('xlink:href',d =>  "https://www.countryflags.io/"+d.ath_country+"/flat/64.png")
                 .attr('width', y(1) - y(0) - barPadding - 2)
                 .attr('height', y(1) - y(0) - barPadding - 2)
-                .attr('x', d => 3)
+                .attr('x', d => 0)
                 .attr('y', d => y(top_n + 1) + 6)
                 .html(d => d.name)
                 .transition()
@@ -462,14 +462,6 @@ function create_ranking(rankingId, dataFile, year, locations){
     
     });
     
-    const halo = function (text, strokeWidth) {
-        text.select(function () { return this.parentNode.insertBefore(this.cloneNode(true), this); })
-            .style('fill', '#ffffff')
-            .style('stroke', '#ffffff')
-            .style('stroke-width', strokeWidth)
-            .style('stroke-linejoin', 'round')
-            .style('opacity', 1);
-    
-    }
+
 }
 
