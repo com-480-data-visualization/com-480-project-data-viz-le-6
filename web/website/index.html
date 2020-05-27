@@ -178,7 +178,7 @@
 
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
             currentRanking = tabToRaceType[e.target.id]
-            refresh_ranking(currentRanking,getCurrentYear())
+            refresh_ranking(currentRanking,get_current_year())
         })
 
         function refresh_ranking(ranking, year) {
@@ -186,27 +186,26 @@
             $('#' + ranking + '-rank-box').html('<div id="' + ranking + '-rank"></div>')
             $('#slider-step').remove()
             $('#slider-box').html('<div id="slider-step"></div>')
-            create_ranking('#' + ranking + '-rank', '../data/rankings/'+getPrefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations(year))
+            create_ranking('#' + ranking + '-rank', '../data/rankings/'+get_prefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations(year))
         }
 
         function refresh_graph(year){
             $('#graph').remove()
             $('#graph-box').html('<svg id="graph"></svg>')
-            create_graph("#graph", "#athlete", "./data/similarity/"+getPrefix()+"graph_" + year + ".json")
+            create_graph("#graph", "#athlete", "./data/similarity/"+get_prefix()+"graph_" + year + ".json")
         }
 
-        function getCurrentYear(){
+        function get_current_year(){
             return $("#timeline").data("ionRangeSlider").result.from
         }
 
-        function getPrefix(){
+        function get_prefix(){
             return isMen ? 'wcm_' : 'wcf_';
         }
 
         function get_locations(year){
             return isMen ? wcm_events[year] : wcf_events[year];
         }
-
 
         $("#timeline").ionRangeSlider({
             type: "single",
@@ -231,13 +230,13 @@
 
         $('#women').on("click",function(e){
            isMen = false
-           refresh_ranking(currentRanking,getCurrentYear())
-           refresh_graph(getCurrentYear())
+           refresh_ranking(currentRanking,get_current_year())
+           refresh_graph(get_current_year())
         })
         $('#men').on("click",function(e){
            isMen = true
-           refresh_ranking(currentRanking,getCurrentYear())
-           refresh_graph(getCurrentYear())
+           refresh_ranking(currentRanking,get_current_year())
+           refresh_graph(get_current_year())
         })
     </script>
 </body>
