@@ -5,6 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
@@ -20,14 +25,14 @@
     <link rel="stylesheet" href="./css/race.css">
     <link rel="stylesheet" href="./css/auto-complete.css">
     <link rel="stylesheet" href="./css/profile.css">
-    <title>Evolution dashboard</title>
+    <title>Tout Schuss</title>
 </head>
 
 <body>
     <div class="container-fluid full_height">
         <div class="headline row my-3">
             <div class="mx-auto">
-                <h1>Alpine skiing - evolution dashboard</h1>
+                <h1>Tout Schuss</h1>
             </div>
         </div>
         <div class="first_row row my-2">
@@ -109,7 +114,7 @@
                             <div id="flag"></div>
                         </div>
 
-                    <div id="race-image"class="col-5"></div>
+                        <div id="race-image" class="col-5"></div>
                     </div>
                     <div id="race-table" class="full_height row"></div>
                 </div>
@@ -160,7 +165,8 @@
                             </div>
                         </div>
 
-                        <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#profile-modal">
+                        <button type="button" class="btn btn-primary btn-block" data-toggle="modal"
+                            data-target="#profile-modal">
                             See stats
                         </button>
                     </div>
@@ -201,10 +207,12 @@
                                         Career
                                     </label>
                                     <label class="btn btn-secondary">
-                                        <input type="radio" id="until" name="time" value="until"> Career until <span class="season-year"></span>
+                                        <input type="radio" id="until" name="time" value="until"> Career until <span
+                                            class="season-year"></span>
                                     </label>
                                     <label class="btn btn-secondary">
-                                        <input type="radio" id="season" name="time" value="season">Season (<span class="season-year"></span>)
+                                        <input type="radio" id="season" name="time" value="season">Season (<span
+                                            class="season-year"></span>)
                                     </label>
                                 </div>
                             </div>
@@ -338,19 +346,19 @@
             refresh_graph(get_current_year())
         })
 
-        $('#career').on("click", function(){
+        $('#career').on("click", function () {
             loadAthlete(selectedAthlete, get_current_year())
         })
 
-        $('#until').on("click", function(){
+        $('#until').on("click", function () {
             loadAthlete(selectedAthlete, get_current_year())
         })
 
-        $('#season').on("click", function(){
+        $('#season').on("click", function () {
             loadAthlete(selectedAthlete, get_current_year())
         })
 
-        function update_season(){
+        function update_season() {
             $('.season-year').html(get_current_year())
         }
 
