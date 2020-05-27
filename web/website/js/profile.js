@@ -173,9 +173,7 @@ function loadAthlete(name, currentYear = 2020) {
 
         const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
         const stack = d3.stack().keys(categories);
-        const colors = d3.scaleOrdinal()
-            .domain(categories)
-            .range(d3.schemeGnBu[categories.length]);
+        const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
 
         drawGraphCareer(data, stack, colors, maxPoints);
 
