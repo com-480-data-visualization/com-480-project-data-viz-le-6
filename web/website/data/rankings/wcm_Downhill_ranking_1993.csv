@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1992-12-11,Xavier Fournier,FR,0,Downhill
 1992-12-11,A.J. Kitt,US,24,Downhill
 1992-12-11,Werner Perathoner,IT,8,Downhill
-1992-12-11,Steve Locher,CH,0,Combined
+1992-12-11,Steve Locher,CH,0,Giant Slalom
 1992-12-11,Jean Luc Cretier,FR,0,Super G
 1992-12-11,Tommy Moe,US,13,Downhill
 1992-12-11,Bill Hudson,US,0,Downhill
@@ -18,7 +18,7 @@ date,name,ath_country,value,specialty
 1992-12-11,Paul Accola,CH,0,Giant Slalom
 1992-12-11,Peter Runggaldier,IT,12,Downhill
 1992-12-11,Peter Rzehak,AT,6,Downhill
-1992-12-11,Martin Fiala,DE,0,Combined
+1992-12-11,Martin Fiala,DE,0,Downhill
 1992-12-11,Pietro Vitalini,IT,10,Downhill
 1992-12-11,Hubert Strolz,AT,0,Slalom
 1992-12-11,Jan Einar Thorsen,NO,80,Super G
@@ -92,7 +92,7 @@ date,name,ath_country,value,specialty
 1992-12-12,Michael Haas,AT,0,Downhill
 1992-12-12,Marc Girardelli,LU,79,Giant Slalom
 1992-12-12,Ed Podivinsky,CA,0,Downhill
-1992-12-12,Steve Locher,CH,0,Combined
+1992-12-12,Steve Locher,CH,0,Giant Slalom
 1992-12-12,Werner Perathoner,IT,22,Downhill
 1992-12-12,Franco Cavegn,CH,4,Downhill
 1992-12-12,Frank Piccard,FR,0,Giant Slalom
@@ -126,7 +126,7 @@ date,name,ath_country,value,specialty
 1992-12-12,Pietro Vitalini,IT,19,Downhill
 1992-12-12,Luc Alphand,FR,7,Super G
 1992-12-12,Gianfranco Martin,IT,0,Combined
-1992-12-12,Martin Fiala,DE,0,Combined
+1992-12-12,Martin Fiala,DE,0,Downhill
 1993-01-10,Michael Haas,AT,0,Downhill
 1993-01-10,Urs Lehmann,CH,86,Downhill
 1993-01-10,Helmut Hoeflehner,AT,64,Downhill
@@ -160,7 +160,7 @@ date,name,ath_country,value,specialty
 1993-01-10,Denis Rey,FR,61,Downhill
 1993-01-10,Patrik Jaerbyn,SE,0,Super G
 1993-01-10,Lionel Finance,FR,0,Combined
-1993-01-10,Steve Locher,CH,0,Combined
+1993-01-10,Steve Locher,CH,0,Giant Slalom
 1993-01-10,Franco Cavegn,CH,22,Downhill
 1993-01-10,Hubert Strolz,AT,0,Slalom
 1993-01-10,Stefan Krauss,DE,1,Downhill
@@ -173,7 +173,7 @@ date,name,ath_country,value,specialty
 1993-01-10,William Besse,CH,206,Downhill
 1993-01-10,Patrick Ortlieb,AT,86,Downhill
 1993-01-10,Bill Hudson,US,0,Downhill
-1993-01-10,Martin Fiala,DE,3,Combined
+1993-01-10,Martin Fiala,DE,3,Downhill
 1993-01-10,Paul Accola,CH,0,Giant Slalom
 1993-01-10,Peter Runggaldier,IT,44,Downhill
 1993-01-10,Peter Rzehak,AT,24,Downhill
@@ -206,7 +206,7 @@ date,name,ath_country,value,specialty
 1993-01-11,Christophe Ple',FR,23,Downhill
 1993-01-11,Josef Polig,IT,0,Super G
 1993-01-11,Lasse Arnesen,NO,16,Combined
-1993-01-11,Martin Fiala,DE,3,Combined
+1993-01-11,Martin Fiala,DE,3,Downhill
 1993-01-11,Daniel Caduff,CH,0,Downhill
 1993-01-11,Rob Boyd,CA,18,Downhill
 1993-01-11,Helmut Hoeflehner,AT,78,Downhill
@@ -228,7 +228,7 @@ date,name,ath_country,value,specialty
 1993-01-11,Daniel Mahrer,CH,150,Downhill
 1993-01-11,Ed Podivinsky,CA,0,Downhill
 1993-01-11,Werner Perathoner,IT,32,Downhill
-1993-01-11,Steve Locher,CH,1,Combined
+1993-01-11,Steve Locher,CH,1,Giant Slalom
 1993-01-11,Franco Cavegn,CH,22,Downhill
 1993-01-11,Urs Lehmann,CH,98,Downhill
 1993-01-11,A.J. Kitt,US,84,Downhill
@@ -283,7 +283,7 @@ date,name,ath_country,value,specialty
 1993-01-16,A.J. Kitt,US,91,Downhill
 1993-01-16,Stefan Krauss,DE,1,Downhill
 1993-01-16,Werner Perathoner,IT,58,Downhill
-1993-01-16,Steve Locher,CH,1,Combined
+1993-01-16,Steve Locher,CH,1,Giant Slalom
 1993-01-16,Tommy Moe,US,44,Downhill
 1993-01-16,Ed Podivinsky,CA,0,Downhill
 1993-01-16,Jean Luc Cretier,FR,6,Super G
@@ -293,7 +293,7 @@ date,name,ath_country,value,specialty
 1993-01-16,Paul Accola,CH,0,Giant Slalom
 1993-01-16,Peter Rzehak,AT,119,Downhill
 1993-01-16,Martin Bell,GB,0,Downhill
-1993-01-16,Martin Fiala,DE,3,Combined
+1993-01-16,Martin Fiala,DE,3,Downhill
 1993-01-16,Pietro Vitalini,IT,121,Downhill
 1993-01-16,Hubert Strolz,AT,3,Slalom
 1993-01-16,Jan Einar Thorsen,NO,111,Super G
@@ -325,7 +325,7 @@ date,name,ath_country,value,specialty
 1993-01-23,Hubert Strolz,AT,3,Slalom
 1993-01-23,Brian Stemmle,CA,32,Downhill
 1993-01-23,Jeff Olson,US,11,Downhill
-1993-01-23,Martin Fiala,DE,3,Combined
+1993-01-23,Martin Fiala,DE,3,Downhill
 1993-01-23,Frank Piccard,FR,41,Giant Slalom
 1993-01-23,Daniel Caduff,CH,0,Downhill
 1993-01-23,Martin Bell,GB,0,Downhill
@@ -340,7 +340,7 @@ date,name,ath_country,value,specialty
 1993-01-23,Stefan Krauss,DE,1,Downhill
 1993-01-23,Gianfranco Martin,IT,14,Combined
 1993-01-23,Christophe Fivel,FR,0,Downhill
-1993-01-23,Steve Locher,CH,1,Combined
+1993-01-23,Steve Locher,CH,1,Giant Slalom
 1993-01-23,Lionel Finance,FR,13,Combined
 1993-01-23,Franco Cavegn,CH,33,Downhill
 1993-01-23,Xavier Fournier,FR,7,Downhill
@@ -384,7 +384,7 @@ date,name,ath_country,value,specialty
 1993-01-23,William Besse,CH,300,Downhill
 1993-01-23,Bruno Kernen,CH,74,Downhill
 1993-02-27,Brian Stemmle,CA,32,Downhill
-1993-02-27,Steve Locher,CH,1,Combined
+1993-02-27,Steve Locher,CH,1,Giant Slalom
 1993-02-27,Ralf Socher,CA,30,Downhill
 1993-02-27,Denis Rey,FR,144,Downhill
 1993-02-27,Franz Heinzer,CH,484,Downhill
@@ -422,7 +422,7 @@ date,name,ath_country,value,specialty
 1993-02-27,Franco Cavegn,CH,33,Downhill
 1993-02-27,Kristian Ghedina,IT,102,Downhill
 1993-02-27,Armin Assinger,AT,120,Downhill
-1993-02-27,Martin Fiala,DE,3,Combined
+1993-02-27,Martin Fiala,DE,3,Downhill
 1993-02-27,Bruno Kernen,CH,98,Downhill
 1993-02-27,Michael Haas,AT,5,Downhill
 1993-02-27,Kjetil Andre Aamodt,NO,25,Super G
@@ -452,7 +452,7 @@ date,name,ath_country,value,specialty
 1993-03-15,Jostein Haugen,NO,1,Downhill
 1993-03-15,Marc Girardelli,LU,283,Giant Slalom
 1993-03-15,Franz Teppan,AT,2,Downhill
-1993-03-15,Steve Locher,CH,1,Combined
+1993-03-15,Steve Locher,CH,1,Giant Slalom
 1993-03-15,A.J. Kitt,US,154,Downhill
 1993-03-15,Hubert Strolz,AT,3,Slalom
 1993-03-15,Tommy Moe,US,146,Downhill
@@ -468,7 +468,7 @@ date,name,ath_country,value,specialty
 1993-03-15,Armin Assinger,AT,220,Downhill
 1993-03-15,Paul Accola,CH,4,Giant Slalom
 1993-03-15,Peter Rzehak,AT,191,Downhill
-1993-03-15,Martin Fiala,DE,3,Combined
+1993-03-15,Martin Fiala,DE,3,Downhill
 1993-03-15,Patrik Jaerbyn,SE,0,Super G
 1993-03-15,Patrick Ortlieb,AT,243,Downhill
 1993-03-15,Lionel Finance,FR,13,Combined
@@ -539,7 +539,7 @@ date,name,ath_country,value,specialty
 1993-03-19,Jan Einar Thorsen,NO,154,Super G
 1993-03-19,Bruno Kernen,CH,155,Downhill
 1993-03-19,Kjetil Andre Aamodt,NO,45,Super G
-1993-03-19,Martin Fiala,DE,3,Combined
+1993-03-19,Martin Fiala,DE,3,Downhill
 1993-03-19,Stephan Eberharter,AT,10,Super G
 1993-03-19,Kristian Ghedina,IT,110,Downhill
 1993-03-19,Franco Cavegn,CH,42,Downhill
@@ -557,7 +557,7 @@ date,name,ath_country,value,specialty
 1993-03-19,Xavier Fournier,FR,7,Downhill
 1993-03-19,Atle Skaardal,NO,398,Downhill
 1993-03-19,Helmut Hoeflehner,AT,124,Downhill
-1993-03-19,Steve Locher,CH,5,Combined
+1993-03-19,Steve Locher,CH,5,Giant Slalom
 1993-03-19,Daniel Mahrer,CH,321,Downhill
 1993-03-19,Ralf Socher,CA,62,Downhill
 1993-03-19,Armand Schiele,FR,14,Downhill
@@ -615,7 +615,7 @@ date,name,ath_country,value,specialty
 1993-03-20,Cary Mullen,CA,125,Downhill
 1993-03-20,Stephan Eberharter,AT,10,Super G
 1993-03-20,Jan Einar Thorsen,NO,164,Super G
-1993-03-20,Martin Fiala,DE,3,Combined
+1993-03-20,Martin Fiala,DE,3,Downhill
 1993-03-20,Pietro Vitalini,IT,203,Downhill
 1993-03-20,Paul Accola,CH,4,Giant Slalom
 1993-03-20,Peter Rzehak,AT,255,Downhill
@@ -625,7 +625,7 @@ date,name,ath_country,value,specialty
 1993-03-20,Jean Luc Cretier,FR,10,Super G
 1993-03-20,Tommy Moe,US,164,Downhill
 1993-03-20,Werner Perathoner,IT,256,Downhill
-1993-03-20,Steve Locher,CH,12,Combined
+1993-03-20,Steve Locher,CH,12,Giant Slalom
 1993-03-20,Xavier Fournier,FR,7,Downhill
 1993-03-20,A.J. Kitt,US,156,Downhill
 1993-03-20,Lionel Finance,FR,13,Combined

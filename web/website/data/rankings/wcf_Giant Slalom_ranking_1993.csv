@@ -19,7 +19,7 @@ date,name,ath_country,value,specialty
 1992-11-28,Zali Steggall,AU,0,Giant Slalom
 1992-11-28,Julie M. J. Parisien,US,29,Slalom
 1992-11-28,Natasa Bokal,SK,7,Slalom
-1992-11-28,Bibiana Perez,IT,0,Combined
+1992-11-28,Bibiana Perez,IT,0,Downhill
 1992-11-28,Lara Magoni,IT,0,Giant Slalom
 1992-11-28,Kristina Andersson,SE,0,Slalom
 1992-11-28,Merete Fjeldavlie,NO,40,Giant Slalom
@@ -79,7 +79,7 @@ date,name,ath_country,value,specialty
 1992-12-05,Barbara Raggl,AT,0,Giant Slalom
 1992-12-05,Diann Roffe Steinrotter,US,51,Giant Slalom
 1992-12-05,Julie M. J. Parisien,US,29,Slalom
-1992-12-05,Bibiana Perez,IT,29,Combined
+1992-12-05,Bibiana Perez,IT,29,Downhill
 1992-12-05,Ingrid Salvenmoser,AT,20,Slalom
 1992-12-05,Anne Parisien,US,11,Giant Slalom
 1992-12-05,Edith Thys,US,20,Giant Slalom
@@ -130,7 +130,7 @@ date,name,ath_country,value,specialty
 1993-01-05,Caroline Gedde Dahl,NO,12,Giant Slalom
 1993-01-05,Julie M. J. Parisien,US,29,Slalom
 1993-01-05,Kristina Andersson,SE,53,Slalom
-1993-01-05,Bibiana Perez,IT,29,Combined
+1993-01-05,Bibiana Perez,IT,29,Downhill
 1993-01-05,Ingrid Salvenmoser,AT,35,Slalom
 1993-01-05,Sabine Ginther,AT,17,Downhill
 1993-01-05,Andrea Schwarzenberger,DE,36,Giant Slalom
@@ -248,7 +248,7 @@ date,name,ath_country,value,specialty
 1993-01-10,Corinne Rey Bellet,CH,85,Giant Slalom
 1993-01-10,Nives Sitar,SK,4,Giant Slalom
 1993-01-10,Andrea Schwarzenberger,DE,36,Giant Slalom
-1993-01-10,Bibiana Perez,IT,29,Combined
+1993-01-10,Bibiana Perez,IT,29,Downhill
 1993-01-10,Barbara Merlin,IT,21,Giant Slalom
 1993-01-10,Deborah Compagnoni,IT,120,Super G
 1993-03-15,Carole Merle,FR,320,Giant Slalom
@@ -304,7 +304,7 @@ date,name,ath_country,value,specialty
 1993-03-15,Pernilla Wiberg,SE,90,Slalom
 1993-03-15,Heidi Zeller - Baehler,CH,120,Giant Slalom
 1993-03-15,Anne Parisien,US,11,Giant Slalom
-1993-03-15,Bibiana Perez,IT,29,Combined
+1993-03-15,Bibiana Perez,IT,29,Downhill
 1993-03-15,Beatrice Filliol,FR,1,Slalom
 1993-03-15,Kerrin Lee- Gartner,CA,42,Downhill
 1993-03-15,Petra Bernet,CH,47,Giant Slalom
@@ -362,7 +362,7 @@ date,name,ath_country,value,specialty
 1993-03-20,Ulrike Maier,AT,223,Super G
 1993-03-20,Kerrin Lee- Gartner,CA,50,Downhill
 1993-03-20,Edith Thys,US,20,Giant Slalom
-1993-03-20,Bibiana Perez,IT,61,Combined
+1993-03-20,Bibiana Perez,IT,61,Downhill
 1993-03-20,Leila Piccard,FR,18,Super G
 1993-03-20,Eva Twardokens,US,22,Giant Slalom
 1993-03-20,Karin Roten Meier,CH,0,Giant Slalom
@@ -414,7 +414,7 @@ date,name,ath_country,value,specialty
 1993-03-27,Heidi Zurbriggen,CH,55,Downhill
 1993-03-27,Julie M. J. Parisien,US,38,Slalom
 1993-03-27,Regina Haeusl,DE,29,Downhill
-1993-03-27,Bibiana Perez,IT,61,Combined
+1993-03-27,Bibiana Perez,IT,61,Downhill
 1993-03-27,Gabriela Zingre-Graf,CH,10,Slalom
 1993-03-27,Gaby May,CH,19,Giant Slalom
 1993-03-27,Astrid Loedemel,NO,32,Downhill

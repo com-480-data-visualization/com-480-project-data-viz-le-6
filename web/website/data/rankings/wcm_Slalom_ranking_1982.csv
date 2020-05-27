@@ -12,7 +12,7 @@ date,name,ath_country,value,specialty
 1981-12-09,Anton Steiner,AT,0,Slalom
 1981-12-09,Roberto Grigis,IT,0,Slalom
 1981-12-09,Paul Frommelt,LI,12,Slalom
-1981-12-09,Peter Luescher,CH,0,Combined
+1981-12-09,Peter Luescher,CH,0,Giant Slalom
 1981-12-09,Paolo De Chiesa,IT,15,Slalom
 1981-12-09,Bogumir Zeman,SK,0,Combined
 1981-12-09,Odd Sorli,NO,0,Slalom
@@ -28,7 +28,7 @@ date,name,ath_country,value,specialty
 1981-12-09,Ivano Edalini,IT,0,Slalom
 1981-12-09,Wolfram Ortner,AT,0,Giant Slalom
 1981-12-09,Bruno Noeckler,IT,0,Giant Slalom
-1981-12-09,Michel Vion,FR,0,Combined
+1981-12-09,Michel Vion,FR,0,Slalom
 1981-12-09,Pirmin Zurbriggen,CH,0,Giant Slalom
 1981-12-09,Marco Tonazzi,IT,0,Slalom
 1981-12-09,Michel Canac,FR,0,Slalom
@@ -45,7 +45,7 @@ date,name,ath_country,value,specialty
 1981-12-14,Steve Mahre,US,30,Slalom
 1981-12-14,Bruno Noeckler,IT,5,Giant Slalom
 1981-12-14,Bogumir Zeman,SK,0,Combined
-1981-12-14,Michel Vion,FR,0,Combined
+1981-12-14,Michel Vion,FR,0,Slalom
 1981-12-14,Pirmin Zurbriggen,CH,4,Giant Slalom
 1981-12-14,Marco Tonazzi,IT,3,Slalom
 1981-12-14,Peter Mally,IT,0,Slalom
@@ -73,7 +73,7 @@ date,name,ath_country,value,specialty
 1981-12-14,Alex Giorgi,IT,0,Giant Slalom
 1981-12-14,Hubert Strolz,AT,8,Giant Slalom
 1981-12-14,Aleksandr Zhirov,RU,7,Giant Slalom
-1981-12-14,Peter Luescher,CH,0,Combined
+1981-12-14,Peter Luescher,CH,0,Giant Slalom
 1981-12-14,Paul Frommelt,LI,12,Slalom
 1981-12-14,Stig Strand,SE,8,Slalom
 1981-12-14,Petar Popangelov,BG,1,Slalom
@@ -100,7 +100,7 @@ date,name,ath_country,value,specialty
 1982-01-12,Phil Mahre,US,60,Giant Slalom
 1982-01-12,Daniel Fontaine,FR,0,Slalom
 1982-01-12,Helmuth Gstrein,AT,0,Slalom
-1982-01-12,Michel Vion,FR,0,Combined
+1982-01-12,Michel Vion,FR,0,Slalom
 1982-01-12,Marco Tonazzi,IT,3,Slalom
 1982-01-12,Stig Strand,SE,8,Slalom
 1982-01-12,Alex Giorgi,IT,0,Giant Slalom
@@ -116,7 +116,7 @@ date,name,ath_country,value,specialty
 1982-01-12,Florian Beck,DE,1,Slalom
 1982-01-12,Andreas Wenzel,LI,12,Combined
 1982-01-12,Anton Steiner,AT,0,Slalom
-1982-01-12,Peter Luescher,CH,0,Combined
+1982-01-12,Peter Luescher,CH,0,Giant Slalom
 1982-01-12,Joel Gaspoz,CH,14,Giant Slalom
 1982-01-12,Paolo De Chiesa,IT,38,Slalom
 1982-01-12,Joze Kuralt,SK,0,Giant Slalom
@@ -126,7 +126,7 @@ date,name,ath_country,value,specialty
 1982-01-12,Bogumir Zeman,SK,0,Combined
 1982-01-12,Bengt Fjaellberg,SE,6,Slalom
 1982-01-17,Toshihiro Kaiwa,JP,3,Slalom
-1982-01-17,Michel Vion,FR,0,Combined
+1982-01-17,Michel Vion,FR,0,Slalom
 1982-01-17,Egon Hirt,DE,0,Slalom
 1982-01-17,Steve Mahre,US,45,Slalom
 1982-01-17,Joel Gaspoz,CH,14,Giant Slalom
@@ -140,7 +140,7 @@ date,name,ath_country,value,specialty
 1982-01-17,Stig Strand,SE,16,Slalom
 1982-01-17,Alex Giorgi,IT,0,Giant Slalom
 1982-01-17,Paul Frommelt,LI,29,Slalom
-1982-01-17,Peter Luescher,CH,2,Combined
+1982-01-17,Peter Luescher,CH,2,Giant Slalom
 1982-01-17,Phil Mahre,US,80,Giant Slalom
 1982-01-17,Hubert Strolz,AT,8,Giant Slalom
 1982-01-17,Paolo De Chiesa,IT,53,Slalom
@@ -197,13 +197,13 @@ date,name,ath_country,value,specialty
 1982-01-24,Paul Arne Skajem,NO,0,Giant Slalom
 1982-01-24,Andreas Wenzel,LI,22,Combined
 1982-01-24,Ingemar Stenmark,SE,105,Slalom
-1982-01-24,Michel Vion,FR,0,Combined
+1982-01-24,Michel Vion,FR,0,Slalom
 1982-01-24,Bogumir Zeman,SK,0,Combined
 1982-01-24,Phil Mahre,US,105,Giant Slalom
 1982-01-24,Jarle Halsnes,NO,19,Slalom
 1982-01-24,Bojan Krizaj,SK,19,Slalom
 1982-01-24,Wolfram Ortner,AT,0,Giant Slalom
-1982-01-24,Peter Luescher,CH,2,Combined
+1982-01-24,Peter Luescher,CH,2,Giant Slalom
 1982-01-24,Vladimir Andreev,RU,0,Slalom
 1982-01-24,Lars Goeran Halvarsson,SE,7,Slalom
 1982-01-24,Jacques Luethy,CH,5,Giant Slalom
@@ -215,7 +215,7 @@ date,name,ath_country,value,specialty
 1982-02-14,Pirmin Zurbriggen,CH,4,Giant Slalom
 1982-02-14,Toshihiro Kaiwa,JP,3,Slalom
 1982-02-14,Joze Kuralt,SK,3,Giant Slalom
-1982-02-14,Peter Luescher,CH,3,Combined
+1982-02-14,Peter Luescher,CH,3,Giant Slalom
 1982-02-14,Roberto Grigis,IT,2,Slalom
 1982-02-14,Odd Sorli,NO,4,Slalom
 1982-02-14,Florian Beck,DE,1,Slalom
@@ -229,7 +229,7 @@ date,name,ath_country,value,specialty
 1982-02-14,Ivano Edalini,IT,0,Slalom
 1982-02-14,Christian Orlainsky,AT,18,Slalom
 1982-02-14,Wolfram Ortner,AT,0,Giant Slalom
-1982-02-14,Michel Vion,FR,10,Combined
+1982-02-14,Michel Vion,FR,10,Slalom
 1982-02-14,Marco Tonazzi,IT,13,Slalom
 1982-02-14,Peter Mally,IT,13,Slalom
 1982-02-14,Ingemar Stenmark,SE,105,Slalom
@@ -270,7 +270,7 @@ date,name,ath_country,value,specialty
 1982-03-14,Daniel Fontaine,FR,1,Slalom
 1982-03-14,Paul Arne Skajem,NO,0,Giant Slalom
 1982-03-14,Joel Gaspoz,CH,22,Giant Slalom
-1982-03-14,Peter Luescher,CH,3,Combined
+1982-03-14,Peter Luescher,CH,3,Giant Slalom
 1982-03-14,Bogumir Zeman,SK,0,Combined
 1982-03-14,Petar Popangelov,BG,15,Slalom
 1982-03-14,Anton Steiner,AT,34,Slalom
@@ -288,7 +288,7 @@ date,name,ath_country,value,specialty
 1982-03-14,Vladimir Andreev,RU,0,Slalom
 1982-03-14,Florian Beck,DE,1,Slalom
 1982-03-14,Bruno Noeckler,IT,14,Giant Slalom
-1982-03-14,Michel Vion,FR,10,Combined
+1982-03-14,Michel Vion,FR,10,Slalom
 1982-03-14,Marco Tonazzi,IT,13,Slalom
 1982-03-14,Ingemar Stenmark,SE,125,Slalom
 1982-03-14,Wolfram Ortner,AT,10,Giant Slalom
@@ -297,7 +297,7 @@ date,name,ath_country,value,specialty
 1982-03-20,Piero Gros,IT,26,Slalom
 1982-03-20,Vladimir Andreev,RU,0,Slalom
 1982-03-20,Pirmin Zurbriggen,CH,4,Giant Slalom
-1982-03-20,Peter Luescher,CH,3,Combined
+1982-03-20,Peter Luescher,CH,3,Giant Slalom
 1982-03-20,Florian Beck,DE,1,Slalom
 1982-03-20,Lars Goeran Halvarsson,SE,12,Slalom
 1982-03-20,Joel Gaspoz,CH,34,Giant Slalom
@@ -329,7 +329,7 @@ date,name,ath_country,value,specialty
 1982-03-20,Aleksandr Zhirov,RU,7,Giant Slalom
 1982-03-20,Toshihiro Kaiwa,JP,3,Slalom
 1982-03-20,Bengt Fjaellberg,SE,17,Slalom
-1982-03-20,Michel Vion,FR,10,Combined
+1982-03-20,Michel Vion,FR,10,Slalom
 1982-03-20,Peter Mally,IT,13,Slalom
 1982-03-20,Andreas Wenzel,LI,22,Combined
 1982-03-20,Michel Canac,FR,4,Slalom
@@ -338,7 +338,7 @@ date,name,ath_country,value,specialty
 1982-03-26,Franz Gruber,AT,75,Slalom
 1982-03-26,Egon Hirt,DE,2,Slalom
 1982-03-26,Florian Beck,DE,1,Slalom
-1982-03-26,Peter Luescher,CH,3,Combined
+1982-03-26,Peter Luescher,CH,3,Giant Slalom
 1982-03-26,Steve Mahre,US,97,Slalom
 1982-03-26,Ingemar Stenmark,SE,165,Slalom
 1982-03-26,Bojan Krizaj,SK,67,Slalom
@@ -354,7 +354,7 @@ date,name,ath_country,value,specialty
 1982-03-26,Vladimir Andreev,RU,6,Slalom
 1982-03-26,Ivano Edalini,IT,23,Slalom
 1982-03-26,Wolfram Ortner,AT,17,Giant Slalom
-1982-03-26,Michel Vion,FR,10,Combined
+1982-03-26,Michel Vion,FR,10,Slalom
 1982-03-26,Bruno Noeckler,IT,14,Giant Slalom
 1982-03-26,Marco Tonazzi,IT,14,Slalom
 1982-03-26,Peter Mally,IT,13,Slalom

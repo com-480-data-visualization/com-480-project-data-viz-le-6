@@ -3,12 +3,12 @@ date,name,ath_country,value,specialty
 1982-12-08,Blanca Fernandez Ochoa,ES,1,Giant Slalom
 1982-12-08,Zoe Haas,CH,0,Super G
 1982-12-08,Claudia Riedl,AT,0,Giant Slalom
-1982-12-08,Christin Cooper,US,7,Combined
+1982-12-08,Christin Cooper,US,7,Giant Slalom
 1982-12-08,Ursula Konzett,LI,9,Slalom
 1982-12-08,Monika Hess,CH,0,Slalom
 1982-12-08,Olga Charvatova,SK,0,Slalom
 1982-12-08,Petra Wenzel,LI,0,Slalom
-1982-12-08,Irene Epple,DE,0,Combined
+1982-12-08,Irene Epple,DE,0,Super G
 1982-12-08,Maria Epple,DE,8,Giant Slalom
 1982-12-08,Helene Barbier,FR,11,Giant Slalom
 1982-12-08,Michela Figini,CH,0,Giant Slalom
@@ -39,7 +39,7 @@ date,name,ath_country,value,specialty
 1983-01-23,Michela Figini,CH,0,Giant Slalom
 1983-01-23,Heidi Wiesler,DE,0,Combined
 1983-01-23,Blanca Fernandez Ochoa,ES,1,Giant Slalom
-1983-01-23,Irene Epple,DE,11,Combined
+1983-01-23,Irene Epple,DE,11,Super G
 1983-01-23,Perrine Pelen,FR,3,Slalom
 1983-01-23,Heidi Preuss,US,3,Giant Slalom
 1983-01-23,Olga Charvatova,SK,0,Slalom
@@ -56,7 +56,7 @@ date,name,ath_country,value,specialty
 1983-01-23,Fabienne Serrat,FR,22,Giant Slalom
 1983-01-23,Cindy Nelson,US,6,Giant Slalom
 1983-01-23,Maria Epple,DE,15,Giant Slalom
-1983-01-23,Christin Cooper,US,27,Combined
+1983-01-23,Christin Cooper,US,27,Giant Slalom
 1983-01-23,Hanni Wenzel,LI,20,Slalom
 1983-01-23,Tamara McKinney,US,45,Giant Slalom
 1983-01-23,Erika Hess,CH,35,Slalom
@@ -76,7 +76,7 @@ date,name,ath_country,value,specialty
 1983-03-06,Elisabeth Kirchler,AT,19,Downhill
 1983-03-06,Heidi Preuss,US,3,Giant Slalom
 1983-03-06,Hanni Wenzel,LI,20,Slalom
-1983-03-06,Irene Epple,DE,11,Combined
+1983-03-06,Irene Epple,DE,11,Super G
 1983-03-06,Carole Merle,FR,18,Giant Slalom
 1983-03-06,Petra Wenzel,LI,11,Slalom
 1983-03-06,Daniela Zini,IT,9,Slalom
@@ -89,7 +89,7 @@ date,name,ath_country,value,specialty
 1983-03-06,Cindy Nelson,US,11,Giant Slalom
 1983-03-06,Fabienne Serrat,FR,24,Giant Slalom
 1983-03-06,Claudia Riedl,AT,6,Giant Slalom
-1983-03-06,Christin Cooper,US,27,Combined
+1983-03-06,Christin Cooper,US,27,Giant Slalom
 1983-03-06,Tamara McKinney,US,45,Giant Slalom
 1983-03-06,Blanca Fernandez Ochoa,ES,9,Giant Slalom
 1983-03-09,Heidi Preuss,US,3,Giant Slalom
@@ -99,7 +99,7 @@ date,name,ath_country,value,specialty
 1983-03-09,Monika Hess,CH,10,Slalom
 1983-03-09,Anne Flore Rey,FR,40,Giant Slalom
 1983-03-09,Hanni Wenzel,LI,26,Slalom
-1983-03-09,Christin Cooper,US,27,Combined
+1983-03-09,Christin Cooper,US,27,Giant Slalom
 1983-03-09,Petra Wenzel,LI,15,Slalom
 1983-03-09,Michaela Gerg-Leitner,DE,9,Downhill
 1983-03-09,Blanca Fernandez Ochoa,ES,9,Giant Slalom
@@ -121,7 +121,7 @@ date,name,ath_country,value,specialty
 1983-03-09,Michela Figini,CH,4,Giant Slalom
 1983-03-09,Helene Barbier,FR,11,Giant Slalom
 1983-03-09,Daniela Zini,IT,9,Slalom
-1983-03-09,Irene Epple,DE,19,Combined
+1983-03-09,Irene Epple,DE,19,Super G
 1983-03-09,Cindy Nelson,US,22,Giant Slalom
 1983-03-10,Fabienne Serrat,FR,39,Giant Slalom
 1983-03-10,Daniela Zini,IT,9,Slalom
@@ -143,19 +143,19 @@ date,name,ath_country,value,specialty
 1983-03-10,Olga Charvatova,SK,14,Slalom
 1983-03-10,Cindy Nelson,US,37,Giant Slalom
 1983-03-10,Helene Barbier,FR,11,Giant Slalom
-1983-03-10,Christin Cooper,US,27,Combined
+1983-03-10,Christin Cooper,US,27,Giant Slalom
 1983-03-10,Maria Walliser,CH,19,Downhill
 1983-03-10,Monika Hess,CH,18,Slalom
 1983-03-10,Carole Merle,FR,18,Giant Slalom
 1983-03-10,Maria Epple,DE,75,Giant Slalom
 1983-03-10,Petra Wenzel,LI,19,Slalom
-1983-03-10,Irene Epple,DE,25,Combined
+1983-03-10,Irene Epple,DE,25,Super G
 1983-03-10,Michela Figini,CH,16,Giant Slalom
 1983-03-10,Claudia Riedl,AT,15,Giant Slalom
 1983-03-10,Anni Kronbichler,AT,12,Slalom
 1983-03-10,Ursula Konzett,LI,9,Slalom
 1983-03-12,Elisabeth Chaud,FR,3,Downhill
-1983-03-12,Irene Epple,DE,31,Combined
+1983-03-12,Irene Epple,DE,31,Super G
 1983-03-12,Daniela Zini,IT,10,Slalom
 1983-03-12,Elena Medzihradska,SK,5,Giant Slalom
 1983-03-12,Hanni Wenzel,LI,29,Slalom
@@ -181,7 +181,7 @@ date,name,ath_country,value,specialty
 1983-03-12,Perrine Pelen,FR,11,Slalom
 1983-03-12,Debbie Armstrong,US,6,Downhill
 1983-03-12,Heidi Wiesler,DE,2,Combined
-1983-03-12,Christin Cooper,US,27,Combined
+1983-03-12,Christin Cooper,US,27,Giant Slalom
 1983-03-12,Olga Charvatova,SK,21,Slalom
 1983-03-12,Michaela Gerg-Leitner,DE,18,Downhill
 1983-03-12,Maria Walliser,CH,19,Downhill
@@ -203,11 +203,11 @@ date,name,ath_country,value,specialty
 1983-03-18,Blanca Fernandez Ochoa,ES,9,Giant Slalom
 1983-03-18,Perrine Pelen,FR,18,Slalom
 1983-03-18,Anne Flore Rey,FR,63,Giant Slalom
-1983-03-18,Christin Cooper,US,27,Combined
+1983-03-18,Christin Cooper,US,27,Giant Slalom
 1983-03-18,Debbie Armstrong,US,6,Downhill
 1983-03-18,Olga Charvatova,SK,30,Slalom
 1983-03-18,Petra Wenzel,LI,24,Slalom
-1983-03-18,Irene Epple,DE,33,Combined
+1983-03-18,Irene Epple,DE,33,Super G
 1983-03-18,Elena Medzihradska,SK,5,Giant Slalom
 1983-03-18,Tamara McKinney,US,124,Giant Slalom
 1983-03-18,Claudia Riedl,AT,15,Giant Slalom

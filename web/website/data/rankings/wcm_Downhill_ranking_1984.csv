@@ -29,7 +29,7 @@ date,name,ath_country,value,specialty
 1983-12-04,Jean Francoise Rey,FR,0,Downhill
 1983-12-04,Michael Mair,IT,0,Downhill
 1983-12-04,Leonhard Stock,AT,1,Super G
-1983-12-04,Andreas Wenzel,LI,0,Combined
+1983-12-04,Andreas Wenzel,LI,0,Slalom
 1983-12-04,Harti Weirather,AT,20,Downhill
 1983-12-04,Peter Wirnsberger,AT,6,Downhill
 1983-12-04,Conradin Cathomen,CH,8,Downhill
@@ -57,7 +57,7 @@ date,name,ath_country,value,specialty
 1983-12-09,Guido Hinterseer,AT,0,Giant Slalom
 1983-12-09,Jean Francoise Rey,FR,1,Downhill
 1983-12-09,Leonhard Stock,AT,1,Super G
-1983-12-09,Andreas Wenzel,LI,0,Combined
+1983-12-09,Andreas Wenzel,LI,0,Slalom
 1983-12-09,Phil Mahre,US,0,Slalom
 1983-12-09,Martin Bell,GB,0,Downhill
 1983-12-09,Danilo Sbardellotto,IT,0,Downhill
@@ -93,7 +93,7 @@ date,name,ath_country,value,specialty
 1983-12-18,Peter Wirnsberger,AT,8,Downhill
 1983-12-18,Oskar Delago,IT,0,Combined
 1983-12-18,Erwin Resch,AT,35,Downhill
-1983-12-18,Andreas Wenzel,LI,0,Combined
+1983-12-18,Andreas Wenzel,LI,0,Slalom
 1983-12-18,Pirmin Zurbriggen,CH,0,Giant Slalom
 1983-12-18,Helmut Hoeflehner,AT,0,Downhill
 1983-12-18,Phil Mahre,US,0,Slalom
@@ -167,7 +167,7 @@ date,name,ath_country,value,specialty
 1984-01-07,Pirmin Zurbriggen,CH,0,Giant Slalom
 1984-01-07,Oskar Delago,IT,0,Combined
 1984-01-07,Bill Johnson,US,0,Downhill
-1984-01-07,Andreas Wenzel,LI,0,Combined
+1984-01-07,Andreas Wenzel,LI,0,Slalom
 1984-01-07,Peter Mueller,CH,11,Downhill
 1984-01-07,Jean Francoise Rey,FR,1,Downhill
 1984-01-07,Conradin Cathomen,CH,19,Downhill
@@ -183,7 +183,7 @@ date,name,ath_country,value,specialty
 1984-01-15,Philip Verneret,FR,4,Combined
 1984-01-15,Franz Klammer,AT,48,Downhill
 1984-01-15,Pirmin Zurbriggen,CH,10,Giant Slalom
-1984-01-15,Andreas Wenzel,LI,0,Combined
+1984-01-15,Andreas Wenzel,LI,0,Slalom
 1984-01-15,Bruno Kernen I,CH,17,Downhill
 1984-01-15,Guido Hinterseer,AT,0,Giant Slalom
 1984-01-15,Oskar Delago,IT,6,Combined
@@ -231,7 +231,7 @@ date,name,ath_country,value,specialty
 1984-01-21,Stefan Niederseer,AT,10,Downhill
 1984-01-21,Peter Mueller,CH,19,Downhill
 1984-01-21,Phil Mahre,US,2,Slalom
-1984-01-21,Andreas Wenzel,LI,2,Combined
+1984-01-21,Andreas Wenzel,LI,2,Slalom
 1984-01-21,Peter Wirnsberger,AT,31,Downhill
 1984-01-21,Pirmin Zurbriggen,CH,22,Giant Slalom
 1984-01-21,Steve Podborski,CA,39,Downhill
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 1984-01-28,Danilo Sbardellotto,IT,1,Downhill
 1984-01-28,Urs Raeber,CH,85,Downhill
 1984-01-28,Alberto Ghidoni,IT,12,Downhill
-1984-01-28,Andreas Wenzel,LI,3,Combined
+1984-01-28,Andreas Wenzel,LI,3,Slalom
 1984-01-28,Peter Duerr,DE,0,Downhill
 1984-01-28,Phil Mahre,US,2,Slalom
 1984-01-28,Franz Heinzer,CH,60,Downhill
@@ -306,7 +306,7 @@ date,name,ath_country,value,specialty
 1984-02-02,Franz Klammer,AT,90,Downhill
 1984-02-02,Phil Mahre,US,2,Slalom
 1984-02-02,Peter Duerr,DE,4,Downhill
-1984-02-02,Andreas Wenzel,LI,3,Combined
+1984-02-02,Andreas Wenzel,LI,3,Slalom
 1984-02-02,Peter Wirnsberger,AT,47,Downhill
 1984-02-02,Silvano Meli,CH,37,Downhill
 1984-02-02,Pirmin Zurbriggen,CH,32,Giant Slalom
@@ -353,7 +353,7 @@ date,name,ath_country,value,specialty
 1984-03-04,Peter Mueller,CH,37,Downhill
 1984-03-04,Helmut Hoeflehner,AT,54,Downhill
 1984-03-04,Martin Bell,GB,2,Downhill
-1984-03-04,Andreas Wenzel,LI,3,Combined
+1984-03-04,Andreas Wenzel,LI,3,Slalom
 1984-03-04,Bill Johnson,US,62,Downhill
 1984-03-04,Peter Wirnsberger,AT,47,Downhill
 1984-03-04,Phil Mahre,US,2,Slalom
@@ -389,7 +389,7 @@ date,name,ath_country,value,specialty
 1984-03-11,Anton Steiner,AT,72,Downhill
 1984-03-11,Jean Francoise Rey,FR,1,Downhill
 1984-03-11,Todd Brooker,CA,64,Downhill
-1984-03-11,Andreas Wenzel,LI,3,Combined
+1984-03-11,Andreas Wenzel,LI,3,Slalom
 1984-03-11,Pirmin Zurbriggen,CH,59,Giant Slalom
 1984-03-11,Leonhard Stock,AT,1,Super G
 1984-03-11,Michael Mair,IT,34,Downhill

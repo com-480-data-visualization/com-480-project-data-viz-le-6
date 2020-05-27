@@ -20,7 +20,7 @@ date,name,ath_country,value,specialty
 1997-11-23,Spela Pretnar,SK,0,Slalom
 1997-11-23,Deborah Compagnoni,IT,0,Giant Slalom
 1997-11-23,Ana Galindo Santolaria,ES,14,Giant Slalom
-1997-11-23,Stefanie Wolf,DE,0,Combined
+1997-11-23,Stefanie Wolf,DE,0,Slalom
 1997-11-23,Trine Bakke Rognmo,NO,45,Slalom
 1997-11-23,Petra Haltmayr,DE,18,Slalom
 1997-11-23,Kristina Andersson,SE,0,Slalom
@@ -102,7 +102,7 @@ date,name,ath_country,value,specialty
 1997-12-20,Annemarie Gerg,DE,11,Slalom
 1997-12-20,Ana Galindo Santolaria,ES,14,Giant Slalom
 1997-12-20,Kristina Andersson,SE,4,Slalom
-1997-12-20,Stefanie Wolf,DE,10,Combined
+1997-12-20,Stefanie Wolf,DE,10,Slalom
 1997-12-27,Christel Pascal,FR,0,Slalom
 1997-12-27,Edith Rozsa,CA,0,Giant Slalom
 1997-12-27,Natasa Bokal,SK,32,Slalom
@@ -134,7 +134,7 @@ date,name,ath_country,value,specialty
 1997-12-27,Elisabetta Biavaschi,IT,26,Slalom
 1997-12-27,Catherine Borghi,CH,0,Giant Slalom
 1997-12-27,Patricia Chauvet,FR,14,Slalom
-1997-12-27,Stefanie Wolf,DE,10,Combined
+1997-12-27,Stefanie Wolf,DE,10,Slalom
 1997-12-27,Monika Bergmann,DE,36,Slalom
 1997-12-27,Ingrid Salvenmoser,AT,32,Slalom
 1997-12-27,Stefanie Schuster,AT,0,Giant Slalom
@@ -168,7 +168,7 @@ date,name,ath_country,value,specialty
 1997-12-28,Ana Galindo Santolaria,ES,14,Giant Slalom
 1997-12-28,Elisabetta Biavaschi,IT,44,Slalom
 1997-12-28,Karin Koellerer,AT,9,Giant Slalom
-1997-12-28,Stefanie Wolf,DE,18,Combined
+1997-12-28,Stefanie Wolf,DE,18,Slalom
 1997-12-28,Karin Roten Meier,CH,76,Slalom
 1997-12-28,Spela Pretnar,SK,63,Slalom
 1997-12-28,Marlies Oester,CH,9,Slalom
@@ -241,7 +241,7 @@ date,name,ath_country,value,specialty
 1998-01-05,Leila Piccard,FR,59,Giant Slalom
 1998-01-05,Martina Accola,CH,106,Slalom
 1998-01-05,Martina Ertl,DE,76,Giant Slalom
-1998-01-05,Stefanie Wolf,DE,18,Combined
+1998-01-05,Stefanie Wolf,DE,18,Slalom
 1998-01-05,Laure Pequegnot,FR,89,Slalom
 1998-01-05,Elisabetta Biavaschi,IT,68,Slalom
 1998-01-05,Ylva Nowen,SE,480,Slalom
@@ -265,7 +265,7 @@ date,name,ath_country,value,specialty
 1998-01-11,Martina Ertl,DE,100,Giant Slalom
 1998-01-11,Barbara Milani,IT,23,Slalom
 1998-01-11,Claudia Riegler,NZ,121,Slalom
-1998-01-11,Stefanie Wolf,DE,18,Combined
+1998-01-11,Stefanie Wolf,DE,18,Slalom
 1998-01-11,Isabelle Sourd,FR,0,Slalom
 1998-01-11,Stefanie Schuster,AT,0,Giant Slalom
 1998-01-11,Katharina Tichy,CA,37,Slalom
@@ -355,7 +355,7 @@ date,name,ath_country,value,specialty
 1998-01-29,Trine Bakke Rognmo,NO,201,Slalom
 1998-01-29,Marlies Oester,CH,9,Slalom
 1998-01-29,Anita Wachter,AT,58,Giant Slalom
-1998-01-29,Stefanie Wolf,DE,26,Combined
+1998-01-29,Stefanie Wolf,DE,26,Slalom
 1998-01-29,Patricia Chauvet,FR,25,Slalom
 1998-01-29,Karin Roten Meier,CH,148,Slalom
 1998-01-29,Laure Pequegnot,FR,161,Slalom
@@ -413,7 +413,7 @@ date,name,ath_country,value,specialty
 1998-03-01,Linda Ydeskog,SE,27,Slalom
 1998-03-01,Ana Galindo Santolaria,ES,14,Giant Slalom
 1998-03-01,Deborah Compagnoni,IT,304,Giant Slalom
-1998-03-01,Stefanie Wolf,DE,26,Combined
+1998-03-01,Stefanie Wolf,DE,26,Slalom
 1998-03-01,Annemarie Gerg,DE,31,Slalom
 1998-03-14,Alenka Dovzan,SK,136,Slalom
 1998-03-14,Monica Bosch-forellad,ES,6,Slalom
@@ -445,7 +445,7 @@ date,name,ath_country,value,specialty
 1998-03-14,Catherine Borghi,CH,17,Giant Slalom
 1998-03-14,Ana Galindo Santolaria,ES,14,Giant Slalom
 1998-03-14,Deborah Compagnoni,IT,304,Giant Slalom
-1998-03-14,Stefanie Wolf,DE,42,Combined
+1998-03-14,Stefanie Wolf,DE,42,Slalom
 1998-03-14,Patricia Chauvet,FR,25,Slalom
 1998-03-14,Kristina Andersson,SE,47,Slalom
 1998-03-14,Trine Bakke Rognmo,NO,281,Slalom

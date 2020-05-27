@@ -1,211 +1,181 @@
 date,name,ath_country,value,specialty
-1984-12-17,Andreas Wenzel,LI,25,Combined
+1984-12-17,Thomas Stangassinger,AT,20,Slalom
+1984-12-17,Thomas Buergler,CH,0,Giant Slalom
 1984-12-17,Peter Luescher,CH,0,Downhill
-1984-12-17,Max Julen,CH,15,Giant Slalom
-1984-12-17,Pavel Pochobradski,SK,0,Combined
-1984-12-17,Atle Skaardal,NO,0,Combined
-1984-12-17,Gerard Rambaud,FR,0,Combined
-1984-12-17,Thomas Buergler,CH,12,Giant Slalom
-1984-12-17,Stefan Niederseer,AT,0,Downhill
-1984-12-17,Markus Wasmeier,DE,0,Combined
-1984-12-17,Peter Wirnsberger,AT,0,Downhill
-1984-12-17,Jonas Nilsson,SE,2,Slalom
-1984-12-17,Frank Piccard,FR,0,Combined
 1984-12-17,Petar Popangelov,BG,11,Slalom
+1984-12-17,Philip Verneret,FR,0,Downhill
+1984-12-17,Frank Piccard,FR,0,Combined
+1984-12-17,Lasse Arnesen,NO,0,Combined
+1984-12-17,Alexei Bogdanow,RU,0,Combined
+1984-12-17,Markus Wasmeier,DE,0,Combined
 1984-12-17,Bojan Krizaj,SK,10,Slalom
-1984-12-17,Peter Duerr,DE,0,Combined
+1984-12-17,Rudolph Nierlich,AT,1,Combined
+1984-12-17,Gerard Rambaud,FR,0,Combined
 1984-12-17,Bruno Kernen I,CH,0,Downhill
+1984-12-17,Martin Hangl,CH,0,Giant Slalom
 1984-12-17,Miroslav Kolar,SK,0,Combined
-1984-12-17,Hans Enn,AT,6,Giant Slalom
-1984-12-17,Martin Hangl,CH,3,Giant Slalom
 1984-12-17,Karl Alpiger,CH,0,Downhill
-1984-12-17,Leonhard Stock,AT,0,Combined
-1984-12-17,Richard Pramotton,IT,9,Giant Slalom
-1984-12-17,Shinya Chiba,JP,0,Combined
+1984-12-17,Jonas Nilsson,SE,2,Slalom
 1984-12-17,Ingemar Stenmark,SE,8,Slalom
 1984-12-17,Joze Kuralt,SK,4,Slalom
 1984-12-17,Oswald Toetsch,IT,8,Slalom
-1984-12-17,Michael Mair,IT,0,Downhill
 1984-12-17,Mauro Cornaz,IT,0,Downhill
-1984-12-17,Joachim Buchner,AT,0,Combined
+1984-12-17,Atle Skaardal,NO,0,Combined
 1984-12-17,Daniel Mahrer,CH,0,Downhill
-1984-12-17,Rudolph Nierlich,AT,1,Combined
-1984-12-17,Peter Roth,DE,0,Super G
-1984-12-17,Ernst Riedlsperger,AT,5,Super G
-1984-12-17,Thomas Stangassinger,AT,20,Slalom
+1984-12-17,Pavel Pochobradski,SK,0,Combined
+1984-12-17,Hans Enn,AT,0,Giant Slalom
 1984-12-17,Peter Mueller,CH,0,Downhill
-1984-12-17,Michel Vion,FR,0,Combined
-1984-12-17,Lasse Arnesen,NO,0,Combined
+1984-12-17,Ernst Riedlsperger,AT,5,Super G
 1984-12-17,Franz Heinzer,CH,0,Downhill
-1984-12-17,Pirmin Zurbriggen,CH,0,Downhill
-1984-12-17,Philip Verneret,FR,0,Downhill
-1984-12-17,Helmut Hoeflehner,AT,0,Downhill
-1984-12-17,Alexei Bogdanow,RU,0,Combined
-1985-01-11,Peter Roth,DE,0,Super G
-1985-01-11,Frank Piccard,FR,0,Combined
-1985-01-11,Pirmin Zurbriggen,CH,25,Downhill
-1985-01-11,Joachim Buchner,AT,0,Combined
-1985-01-11,Petar Popangelov,BG,11,Slalom
-1985-01-11,Ingemar Stenmark,SE,8,Slalom
-1985-01-11,Peter Duerr,DE,0,Combined
-1985-01-11,Peter Mueller,CH,11,Downhill
-1985-01-11,Joze Kuralt,SK,4,Slalom
-1985-01-11,Rudolph Nierlich,AT,1,Combined
-1985-01-11,Miroslav Kolar,SK,0,Combined
-1985-01-11,Bruno Kernen I,CH,1,Downhill
-1985-01-11,Philip Verneret,FR,0,Downhill
-1985-01-11,Shinya Chiba,JP,0,Combined
-1985-01-11,Michel Vion,FR,0,Combined
-1985-01-11,Martin Hangl,CH,3,Giant Slalom
-1985-01-11,Karl Alpiger,CH,0,Downhill
-1985-01-11,Leonhard Stock,AT,3,Combined
-1985-01-11,Bojan Krizaj,SK,10,Slalom
-1985-01-11,Thomas Stangassinger,AT,20,Slalom
-1985-01-11,Jonas Nilsson,SE,2,Slalom
-1985-01-11,Peter Wirnsberger,AT,10,Downhill
-1985-01-11,Daniel Mahrer,CH,5,Downhill
-1985-01-11,Peter Luescher,CH,4,Downhill
-1985-01-11,Hans Enn,AT,13,Giant Slalom
-1985-01-11,Max Julen,CH,15,Giant Slalom
-1985-01-11,Andreas Wenzel,LI,40,Combined
+1984-12-17,Peter Wirnsberger,AT,0,Downhill
+1984-12-17,Peter Roth,DE,0,Super G
+1984-12-17,Shinya Chiba,JP,0,Combined
+1984-12-17,Peter Duerr,DE,0,Combined
+1984-12-17,Max Julen,CH,15,Giant Slalom
+1984-12-17,Leonhard Stock,AT,0,Combined
+1984-12-17,Michel Vion,FR,0,Combined
+1984-12-17,Andreas Wenzel,LI,0,Slalom
+1985-01-11,Andreas Wenzel,LI,15,Slalom
 1985-01-11,Pavel Pochobradski,SK,0,Combined
-1985-01-11,Helmut Hoeflehner,AT,6,Downhill
-1985-01-11,Ernst Riedlsperger,AT,5,Super G
-1985-01-11,Franz Heinzer,CH,20,Downhill
-1985-01-11,Gerard Rambaud,FR,0,Combined
-1985-01-11,Atle Skaardal,NO,0,Combined
-1985-01-11,Richard Pramotton,IT,9,Giant Slalom
-1985-01-11,Thomas Buergler,CH,21,Giant Slalom
-1985-01-11,Lasse Arnesen,NO,0,Combined
-1985-01-11,Michael Mair,IT,8,Downhill
-1985-01-11,Alexei Bogdanow,RU,0,Combined
-1985-01-11,Markus Wasmeier,DE,12,Combined
-1985-01-11,Stefan Niederseer,AT,2,Downhill
+1985-01-11,Bruno Kernen I,CH,1,Downhill
+1985-01-11,Peter Roth,DE,0,Super G
+1985-01-11,Miroslav Kolar,SK,0,Combined
+1985-01-11,Daniel Mahrer,CH,0,Downhill
+1985-01-11,Thomas Buergler,CH,9,Giant Slalom
 1985-01-11,Mauro Cornaz,IT,0,Downhill
+1985-01-11,Martin Hangl,CH,0,Giant Slalom
+1985-01-11,Peter Duerr,DE,0,Combined
+1985-01-11,Jonas Nilsson,SE,2,Slalom
+1985-01-11,Peter Wirnsberger,AT,0,Downhill
+1985-01-11,Karl Alpiger,CH,0,Downhill
+1985-01-11,Franz Heinzer,CH,0,Downhill
+1985-01-11,Gerard Rambaud,FR,0,Combined
+1985-01-11,Ingemar Stenmark,SE,8,Slalom
 1985-01-11,Oswald Toetsch,IT,8,Slalom
-1985-01-13,Richard Pramotton,IT,9,Giant Slalom
-1985-01-13,Andreas Wenzel,LI,65,Combined
+1985-01-11,Frank Piccard,FR,0,Combined
+1985-01-11,Hans Enn,AT,7,Giant Slalom
+1985-01-11,Rudolph Nierlich,AT,1,Combined
+1985-01-11,Petar Popangelov,BG,11,Slalom
+1985-01-11,Philip Verneret,FR,0,Downhill
+1985-01-11,Thomas Stangassinger,AT,20,Slalom
+1985-01-11,Ernst Riedlsperger,AT,5,Super G
+1985-01-11,Michel Vion,FR,0,Combined
+1985-01-11,Leonhard Stock,AT,3,Combined
+1985-01-11,Peter Mueller,CH,0,Downhill
+1985-01-11,Atle Skaardal,NO,0,Combined
+1985-01-11,Max Julen,CH,15,Giant Slalom
+1985-01-11,Lasse Arnesen,NO,0,Combined
+1985-01-11,Markus Wasmeier,DE,12,Combined
+1985-01-11,Joze Kuralt,SK,4,Slalom
+1985-01-11,Peter Luescher,CH,4,Downhill
+1985-01-11,Bojan Krizaj,SK,10,Slalom
+1985-01-11,Alexei Bogdanow,RU,0,Combined
+1985-01-11,Shinya Chiba,JP,0,Combined
 1985-01-13,Ernst Riedlsperger,AT,5,Super G
-1985-01-13,Joachim Buchner,AT,0,Combined
-1985-01-13,Shinya Chiba,JP,9,Combined
-1985-01-13,Daniel Mahrer,CH,13,Downhill
-1985-01-13,Mauro Cornaz,IT,0,Downhill
-1985-01-13,Pirmin Zurbriggen,CH,25,Downhill
-1985-01-13,Lasse Arnesen,NO,0,Combined
-1985-01-13,Joze Kuralt,SK,4,Slalom
-1985-01-13,Ingemar Stenmark,SE,8,Slalom
-1985-01-13,Oswald Toetsch,IT,8,Slalom
-1985-01-13,Michael Mair,IT,8,Downhill
-1985-01-13,Miroslav Kolar,SK,0,Combined
-1985-01-13,Karl Alpiger,CH,0,Downhill
-1985-01-13,Peter Roth,DE,0,Super G
-1985-01-13,Rudolph Nierlich,AT,1,Combined
-1985-01-13,Pavel Pochobradski,SK,0,Combined
-1985-01-13,Peter Luescher,CH,4,Downhill
-1985-01-13,Max Julen,CH,15,Giant Slalom
-1985-01-13,Gerard Rambaud,FR,15,Combined
-1985-01-13,Franz Heinzer,CH,40,Downhill
-1985-01-13,Stefan Niederseer,AT,2,Downhill
-1985-01-13,Thomas Buergler,CH,21,Giant Slalom
-1985-01-13,Hans Enn,AT,13,Giant Slalom
-1985-01-13,Thomas Stangassinger,AT,20,Slalom
-1985-01-13,Markus Wasmeier,DE,12,Combined
-1985-01-13,Peter Wirnsberger,AT,22,Downhill
-1985-01-13,Frank Piccard,FR,0,Combined
-1985-01-13,Helmut Hoeflehner,AT,6,Downhill
-1985-01-13,Alexei Bogdanow,RU,7,Combined
-1985-01-13,Petar Popangelov,BG,11,Slalom
-1985-01-13,Peter Duerr,DE,0,Combined
-1985-01-13,Peter Mueller,CH,22,Downhill
-1985-01-13,Bojan Krizaj,SK,10,Slalom
-1985-01-13,Bruno Kernen I,CH,11,Downhill
+1985-01-13,Peter Wirnsberger,AT,12,Downhill
 1985-01-13,Michel Vion,FR,0,Combined
-1985-01-13,Martin Hangl,CH,3,Giant Slalom
-1985-01-13,Atle Skaardal,NO,0,Combined
+1985-01-13,Joze Kuralt,SK,4,Slalom
+1985-01-13,Jonas Nilsson,SE,2,Slalom
+1985-01-13,Hans Enn,AT,7,Giant Slalom
+1985-01-13,Lasse Arnesen,NO,0,Combined
+1985-01-13,Rudolph Nierlich,AT,1,Combined
+1985-01-13,Alexei Bogdanow,RU,7,Combined
 1985-01-13,Leonhard Stock,AT,3,Combined
 1985-01-13,Philip Verneret,FR,0,Downhill
-1985-01-13,Jonas Nilsson,SE,2,Slalom
-1985-01-21,Peter Duerr,DE,0,Combined
-1985-01-21,Mauro Cornaz,IT,0,Downhill
-1985-01-21,Joze Kuralt,SK,4,Slalom
-1985-01-21,Leonhard Stock,AT,3,Combined
-1985-01-21,Miroslav Kolar,SK,3,Combined
-1985-01-21,Jonas Nilsson,SE,2,Slalom
-1985-01-21,Stefan Niederseer,AT,2,Downhill
-1985-01-21,Pavel Pochobradski,SK,2,Combined
-1985-01-21,Rudolph Nierlich,AT,1,Combined
-1985-01-21,Alexei Bogdanow,RU,8,Combined
+1985-01-13,Thomas Buergler,CH,9,Giant Slalom
+1985-01-13,Mauro Cornaz,IT,0,Downhill
+1985-01-13,Pavel Pochobradski,SK,0,Combined
+1985-01-13,Shinya Chiba,JP,9,Combined
+1985-01-13,Daniel Mahrer,CH,8,Downhill
+1985-01-13,Peter Luescher,CH,4,Downhill
+1985-01-13,Markus Wasmeier,DE,12,Combined
+1985-01-13,Frank Piccard,FR,0,Combined
+1985-01-13,Bojan Krizaj,SK,10,Slalom
+1985-01-13,Gerard Rambaud,FR,15,Combined
+1985-01-13,Miroslav Kolar,SK,0,Combined
+1985-01-13,Bruno Kernen I,CH,11,Downhill
+1985-01-13,Andreas Wenzel,LI,15,Slalom
+1985-01-13,Peter Mueller,CH,11,Downhill
+1985-01-13,Martin Hangl,CH,0,Giant Slalom
+1985-01-13,Karl Alpiger,CH,0,Downhill
+1985-01-13,Petar Popangelov,BG,11,Slalom
+1985-01-13,Peter Roth,DE,0,Super G
+1985-01-13,Thomas Stangassinger,AT,20,Slalom
+1985-01-13,Atle Skaardal,NO,0,Combined
+1985-01-13,Max Julen,CH,15,Giant Slalom
+1985-01-13,Peter Duerr,DE,0,Combined
+1985-01-13,Franz Heinzer,CH,20,Downhill
+1985-01-13,Oswald Toetsch,IT,8,Slalom
+1985-01-13,Ingemar Stenmark,SE,8,Slalom
+1985-01-21,Frank Piccard,FR,0,Combined
+1985-01-21,Andreas Wenzel,LI,15,Slalom
+1985-01-21,Franz Heinzer,CH,20,Downhill
+1985-01-21,Peter Wirnsberger,AT,21,Downhill
+1985-01-21,Peter Roth,DE,20,Super G
+1985-01-21,Thomas Buergler,CH,9,Giant Slalom
+1985-01-21,Thomas Stangassinger,AT,20,Slalom
+1985-01-21,Gerard Rambaud,FR,27,Combined
+1985-01-21,Peter Luescher,CH,19,Downhill
 1985-01-21,Philip Verneret,FR,0,Downhill
-1985-01-21,Ernst Riedlsperger,AT,5,Super G
-1985-01-21,Atle Skaardal,NO,6,Combined
+1985-01-21,Leonhard Stock,AT,3,Combined
+1985-01-21,Hans Enn,AT,7,Giant Slalom
+1985-01-21,Max Julen,CH,15,Giant Slalom
+1985-01-21,Miroslav Kolar,SK,3,Combined
+1985-01-21,Michel Vion,FR,25,Combined
+1985-01-21,Ingemar Stenmark,SE,8,Slalom
+1985-01-21,Karl Alpiger,CH,0,Downhill
+1985-01-21,Joze Kuralt,SK,4,Slalom
 1985-01-21,Lasse Arnesen,NO,7,Combined
-1985-01-21,Helmut Hoeflehner,AT,6,Downhill
-1985-01-21,Martin Hangl,CH,13,Giant Slalom
+1985-01-21,Atle Skaardal,NO,6,Combined
+1985-01-21,Jonas Nilsson,SE,2,Slalom
+1985-01-21,Petar Popangelov,BG,11,Slalom
+1985-01-21,Oswald Toetsch,IT,8,Slalom
+1985-01-21,Pavel Pochobradski,SK,2,Combined
+1985-01-21,Martin Hangl,CH,10,Giant Slalom
 1985-01-21,Bruno Kernen I,CH,19,Downhill
 1985-01-21,Bojan Krizaj,SK,10,Slalom
-1985-01-21,Petar Popangelov,BG,11,Slalom
-1985-01-21,Peter Wirnsberger,AT,31,Downhill
+1985-01-21,Peter Duerr,DE,0,Combined
+1985-01-21,Ernst Riedlsperger,AT,5,Super G
+1985-01-21,Rudolph Nierlich,AT,1,Combined
+1985-01-21,Alexei Bogdanow,RU,8,Combined
 1985-01-21,Markus Wasmeier,DE,23,Combined
-1985-01-21,Thomas Buergler,CH,21,Giant Slalom
-1985-01-21,Gerard Rambaud,FR,27,Combined
-1985-01-21,Max Julen,CH,15,Giant Slalom
-1985-01-21,Peter Luescher,CH,19,Downhill
-1985-01-21,Peter Roth,DE,20,Super G
-1985-01-21,Franz Heinzer,CH,40,Downhill
-1985-01-21,Thomas Stangassinger,AT,20,Slalom
-1985-01-21,Peter Mueller,CH,27,Downhill
-1985-01-21,Michel Vion,FR,25,Combined
-1985-01-21,Pirmin Zurbriggen,CH,25,Downhill
-1985-01-21,Andreas Wenzel,LI,65,Combined
-1985-01-21,Karl Alpiger,CH,0,Downhill
-1985-01-21,Richard Pramotton,IT,9,Giant Slalom
-1985-01-21,Frank Piccard,FR,0,Combined
-1985-01-21,Hans Enn,AT,13,Giant Slalom
+1985-01-21,Daniel Mahrer,CH,12,Downhill
+1985-01-21,Peter Mueller,CH,16,Downhill
+1985-01-21,Mauro Cornaz,IT,0,Downhill
 1985-01-21,Shinya Chiba,JP,9,Combined
-1985-01-21,Joachim Buchner,AT,0,Combined
-1985-01-21,Michael Mair,IT,8,Downhill
-1985-01-21,Ingemar Stenmark,SE,8,Slalom
-1985-01-21,Daniel Mahrer,CH,17,Downhill
-1985-01-21,Oswald Toetsch,IT,8,Slalom
-1985-01-27,Richard Pramotton,IT,9,Giant Slalom
-1985-01-27,Pavel Pochobradski,SK,2,Combined
-1985-01-27,Peter Luescher,CH,39,Downhill
-1985-01-27,Peter Roth,DE,26,Super G
-1985-01-27,Daniel Mahrer,CH,17,Downhill
-1985-01-27,Ernst Riedlsperger,AT,7,Super G
-1985-01-27,Rudolph Nierlich,AT,1,Combined
-1985-01-27,Franz Heinzer,CH,55,Downhill
-1985-01-27,Alexei Bogdanow,RU,8,Combined
-1985-01-27,Joachim Buchner,AT,8,Combined
-1985-01-27,Atle Skaardal,NO,6,Combined
-1985-01-27,Philip Verneret,FR,1,Downhill
-1985-01-27,Peter Mueller,CH,52,Downhill
+1985-01-27,Frank Piccard,FR,12,Combined
+1985-01-27,Miroslav Kolar,SK,3,Combined
 1985-01-27,Michel Vion,FR,25,Combined
-1985-01-27,Pirmin Zurbriggen,CH,25,Downhill
-1985-01-27,Hans Enn,AT,13,Giant Slalom
-1985-01-27,Andreas Wenzel,LI,76,Combined
+1985-01-27,Lasse Arnesen,NO,7,Combined
+1985-01-27,Atle Skaardal,NO,6,Combined
+1985-01-27,Ernst Riedlsperger,AT,5,Super G
+1985-01-27,Peter Wirnsberger,AT,21,Downhill
 1985-01-27,Thomas Stangassinger,AT,20,Slalom
-1985-01-27,Michael Mair,IT,8,Downhill
+1985-01-27,Franz Heinzer,CH,20,Downhill
+1985-01-27,Peter Roth,DE,20,Super G
+1985-01-27,Max Julen,CH,15,Giant Slalom
+1985-01-27,Andreas Wenzel,LI,15,Slalom
+1985-01-27,Gerard Rambaud,FR,27,Combined
+1985-01-27,Peter Luescher,CH,19,Downhill
+1985-01-27,Petar Popangelov,BG,11,Slalom
+1985-01-27,Peter Mueller,CH,16,Downhill
+1985-01-27,Markus Wasmeier,DE,32,Combined
+1985-01-27,Bojan Krizaj,SK,10,Slalom
+1985-01-27,Bruno Kernen I,CH,19,Downhill
+1985-01-27,Martin Hangl,CH,10,Giant Slalom
+1985-01-27,Karl Alpiger,CH,10,Downhill
+1985-01-27,Ingemar Stenmark,SE,8,Slalom
+1985-01-27,Oswald Toetsch,IT,8,Slalom
+1985-01-27,Daniel Mahrer,CH,12,Downhill
 1985-01-27,Mauro Cornaz,IT,5,Downhill
 1985-01-27,Joze Kuralt,SK,4,Slalom
-1985-01-27,Karl Alpiger,CH,10,Downhill
-1985-01-27,Martin Hangl,CH,13,Giant Slalom
-1985-01-27,Leonhard Stock,AT,10,Combined
-1985-01-27,Bruno Kernen I,CH,19,Downhill
-1985-01-27,Lasse Arnesen,NO,7,Combined
-1985-01-27,Bojan Krizaj,SK,10,Slalom
-1985-01-27,Miroslav Kolar,SK,3,Combined
-1985-01-27,Peter Duerr,DE,3,Combined
-1985-01-27,Petar Popangelov,BG,11,Slalom
-1985-01-27,Ingemar Stenmark,SE,8,Slalom
-1985-01-27,Helmut Hoeflehner,AT,6,Downhill
-1985-01-27,Frank Piccard,FR,12,Combined
-1985-01-27,Peter Wirnsberger,AT,31,Downhill
-1985-01-27,Markus Wasmeier,DE,32,Combined
 1985-01-27,Jonas Nilsson,SE,2,Slalom
-1985-01-27,Oswald Toetsch,IT,8,Slalom
-1985-01-27,Thomas Buergler,CH,25,Giant Slalom
-1985-01-27,Gerard Rambaud,FR,27,Combined
-1985-01-27,Stefan Niederseer,AT,2,Downhill
-1985-01-27,Max Julen,CH,15,Giant Slalom
+1985-01-27,Pavel Pochobradski,SK,2,Combined
+1985-01-27,Rudolph Nierlich,AT,1,Combined
+1985-01-27,Alexei Bogdanow,RU,8,Combined
+1985-01-27,Philip Verneret,FR,1,Downhill
+1985-01-27,Thomas Buergler,CH,9,Giant Slalom
+1985-01-27,Hans Enn,AT,7,Giant Slalom
+1985-01-27,Leonhard Stock,AT,10,Combined
 1985-01-27,Shinya Chiba,JP,9,Combined
+1985-01-27,Peter Duerr,DE,3,Combined

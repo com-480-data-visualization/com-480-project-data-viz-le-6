@@ -6,7 +6,7 @@ date,name,ath_country,value,specialty
 1994-11-26,Alenka Dovzan,SK,0,Super G
 1994-11-26,Astrid Plank,IT,0,Slalom
 1994-11-26,Mojca Suhadolc,SK,0,Giant Slalom
-1994-11-26,Katja Seizinger,DE,20,Super G
+1994-11-26,Katja Seizinger,DE,20,Downhill
 1994-11-26,Gabriela Zingre-Graf,CH,7,Slalom
 1994-11-26,Sylvia Eder,AT,18,Super G
 1994-11-26,Spela Pretnar,SK,14,Giant Slalom
@@ -81,7 +81,7 @@ date,name,ath_country,value,specialty
 1994-12-04,Sylvia Eder,AT,29,Super G
 1994-12-04,Isolde Kostner,IT,13,Downhill
 1994-12-04,Barbara Merlin,IT,19,Downhill
-1994-12-04,Katja Seizinger,DE,49,Super G
+1994-12-04,Katja Seizinger,DE,49,Downhill
 1994-12-04,Leila Piccard,FR,56,Slalom
 1994-12-04,Alexandra Meissnitzer,AT,29,Super G
 1994-12-04,Katja Koren,SK,15,Slalom
@@ -170,7 +170,7 @@ date,name,ath_country,value,specialty
 1994-12-21,Sonja Nef,CH,28,Giant Slalom
 1994-12-21,Gro Kvinlog,NO,81,Giant Slalom
 1994-12-21,Birgit Heeb-Batliner,LI,113,Giant Slalom
-1994-12-21,Katja Seizinger,DE,69,Super G
+1994-12-21,Katja Seizinger,DE,69,Downhill
 1994-12-21,Michaela Gerg-Leitner,DE,4,Downhill
 1994-12-21,Mojca Suhadolc,SK,0,Giant Slalom
 1994-12-21,Urska Hrovat,SK,107,Slalom
@@ -191,7 +191,7 @@ date,name,ath_country,value,specialty
 1995-01-08,Sylvia Eder,AT,36,Super G
 1995-01-08,Kristina Andersson,SE,5,Slalom
 1995-01-08,Barbara Merlin,IT,19,Downhill
-1995-01-08,Katja Seizinger,DE,114,Super G
+1995-01-08,Katja Seizinger,DE,114,Downhill
 1995-01-08,Karin Koellerer,AT,0,Slalom
 1995-01-08,Pernilla Wiberg,SE,20,Slalom
 1995-01-08,Alenka Dovzan,SK,22,Super G
@@ -299,7 +299,7 @@ date,name,ath_country,value,specialty
 1995-01-23,Ingrid Salvenmoser,AT,65,Giant Slalom
 1995-01-23,Bibiana Perez,IT,2,Downhill
 1995-01-23,Renate Goetschl,AT,0,Super G
-1995-01-23,Katja Seizinger,DE,150,Super G
+1995-01-23,Katja Seizinger,DE,150,Downhill
 1995-01-23,Sabina Panzanini,IT,212,Giant Slalom
 1995-01-23,Michaela Dorfmeister,AT,48,Downhill
 1995-01-23,Barbara Merlin,IT,19,Downhill
@@ -335,7 +335,7 @@ date,name,ath_country,value,specialty
 1995-02-18,Trude Gimle,NO,0,Slalom
 1995-02-18,Eva Twardokens,US,125,Giant Slalom
 1995-02-18,Michaela Dorfmeister,AT,64,Downhill
-1995-02-18,Katja Seizinger,DE,164,Super G
+1995-02-18,Katja Seizinger,DE,164,Downhill
 1995-02-18,Astrid Loedemel,NO,90,Giant Slalom
 1995-02-18,Florence Masnada,FR,17,Downhill
 1995-02-18,Stefanie Schuster,AT,16,Downhill
@@ -413,7 +413,7 @@ date,name,ath_country,value,specialty
 1995-02-25,Karin Roten Meier,CH,75,Giant Slalom
 1995-02-25,Corinne Rey Bellet,CH,69,Giant Slalom
 1995-02-25,Michaela Gerg-Leitner,DE,62,Downhill
-1995-02-25,Katja Seizinger,DE,182,Super G
+1995-02-25,Katja Seizinger,DE,182,Downhill
 1995-02-25,Urska Hrovat,SK,200,Slalom
 1995-02-25,Maria Jose Rienda Contreras,ES,19,Giant Slalom
 1995-02-25,Birgit Heeb-Batliner,LI,164,Giant Slalom
@@ -470,7 +470,7 @@ date,name,ath_country,value,specialty
 1995-03-18,Regine Cavagnoud,FR,5,Super G
 1995-03-18,Trude Gimle,NO,7,Slalom
 1995-03-18,Leila Piccard,FR,117,Slalom
-1995-03-18,Katja Seizinger,DE,206,Super G
+1995-03-18,Katja Seizinger,DE,206,Downhill
 1995-03-18,Astrid Plank,IT,13,Slalom
 1995-03-18,Karin Koellerer,AT,16,Slalom
 1995-03-18,Alenka Dovzan,SK,22,Super G

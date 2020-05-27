@@ -1,101 +1,89 @@
 date,name,ath_country,value,specialty
-1978-12-18,Marie Therese Nadig,CH,25,Downhill
-1978-12-18,Regine Moesenlechner,DE,21,Slalom
-1978-12-18,Abbi Fisher,US,0,Slalom
 1978-12-18,Andrea Haaser,AT,20,Combined
-1978-12-18,Jana Soltysova,SK,0,Downhill
-1978-12-18,Brigitte Glur,CH,0,Slalom
-1978-12-18,Martine Liouche,FR,0,Combined
-1978-12-18,Kathy Kreiner,CA,18,Combined
-1978-12-18,Marie Cecile Gros - Gaudenier,FR,0,Downhill
-1978-12-18,Ursula Konzett,LI,17,Giant Slalom
-1978-12-18,Perrine Pelen,FR,0,Slalom
-1978-12-18,Anne Flore Rey,FR,0,Combined
-1978-12-18,Marianne Zechmeister,DE,0,Combined
 1978-12-18,Heidi Wiesler,DE,0,Giant Slalom
-1978-12-18,Evi Mittermaier,DE,16,Downhill
+1978-12-18,Marianne Zechmeister,DE,0,Combined
 1978-12-18,Nadezda Patrakjeva-andreeva,RU,0,Combined
+1978-12-18,Anne Flore Rey,FR,0,Combined
+1978-12-18,Perrine Pelen,FR,0,Slalom
 1978-12-18,Brigitte Nansoz,CH,0,Combined
+1978-12-18,Ursula Konzett,LI,17,Giant Slalom
 1978-12-18,Monika Kaserer,AT,0,Slalom
-1978-12-18,Claudia Giordani,IT,0,Slalom
-1978-12-18,Fabienne Serrat,FR,19,Slalom
+1978-12-18,Marie Cecile Gros - Gaudenier,FR,0,Downhill
+1978-12-18,Annemarie Proell,AT,0,Downhill
+1978-12-18,Kathy Kreiner,CA,18,Combined
+1978-12-18,Cindy Nelson,US,0,Downhill
 1978-12-18,Jamie Kurlander,US,0,Downhill
-1978-12-18,Cindy Nelson,US,22,Downhill
+1978-12-18,Fabienne Serrat,FR,19,Slalom
+1978-12-18,Evi Mittermaier,DE,16,Downhill
+1978-12-18,Hanni Wenzel,LI,0,Giant Slalom
+1978-12-18,Brigitte Glur,CH,0,Slalom
+1978-12-18,Claudia Giordani,IT,0,Slalom
+1978-12-18,Jana Soltysova,SK,0,Downhill
+1978-12-18,Abbi Fisher,US,0,Slalom
 1978-12-18,Irene Epple,DE,0,Downhill
-1978-12-18,Hanni Wenzel,LI,23,Giant Slalom
-1978-12-18,Annemarie Proell,AT,24,Downhill
-1979-01-19,Jana Soltysova,SK,20,Downhill
-1979-01-19,Marianne Zechmeister,DE,0,Combined
-1979-01-19,Brigitte Glur,CH,0,Slalom
-1979-01-19,Jamie Kurlander,US,19,Downhill
-1979-01-19,Monika Kaserer,AT,0,Slalom
-1979-01-19,Anne Flore Rey,FR,17,Combined
-1979-01-19,Perrine Pelen,FR,0,Slalom
-1979-01-19,Cindy Nelson,US,46,Downhill
-1979-01-19,Martine Liouche,FR,0,Combined
 1979-01-19,Ursula Konzett,LI,17,Giant Slalom
-1979-01-19,Kathy Kreiner,CA,18,Combined
-1979-01-19,Heidi Wiesler,DE,0,Giant Slalom
-1979-01-19,Andrea Haaser,AT,20,Combined
-1979-01-19,Marie Cecile Gros - Gaudenier,FR,18,Downhill
-1979-01-19,Annemarie Proell,AT,49,Downhill
-1979-01-19,Fabienne Serrat,FR,19,Slalom
-1979-01-19,Claudia Giordani,IT,22,Slalom
-1979-01-19,Marie Therese Nadig,CH,25,Downhill
 1979-01-19,Brigitte Nansoz,CH,0,Combined
 1979-01-19,Irene Epple,DE,21,Downhill
+1979-01-19,Perrine Pelen,FR,0,Slalom
+1979-01-19,Claudia Giordani,IT,0,Slalom
 1979-01-19,Nadezda Patrakjeva-andreeva,RU,16,Combined
-1979-01-19,Regine Moesenlechner,DE,21,Slalom
-1979-01-19,Abbi Fisher,US,0,Slalom
+1979-01-19,Andrea Haaser,AT,20,Combined
+1979-01-19,Marianne Zechmeister,DE,0,Combined
 1979-01-19,Evi Mittermaier,DE,16,Downhill
-1979-01-19,Hanni Wenzel,LI,46,Giant Slalom
-1979-01-26,Annemarie Proell,AT,49,Downhill
+1979-01-19,Abbi Fisher,US,0,Slalom
+1979-01-19,Anne Flore Rey,FR,17,Combined
+1979-01-19,Jana Soltysova,SK,20,Downhill
+1979-01-19,Kathy Kreiner,CA,18,Combined
+1979-01-19,Annemarie Proell,AT,25,Downhill
+1979-01-19,Marie Cecile Gros - Gaudenier,FR,18,Downhill
+1979-01-19,Brigitte Glur,CH,0,Slalom
+1979-01-19,Fabienne Serrat,FR,19,Slalom
+1979-01-19,Cindy Nelson,US,24,Downhill
+1979-01-19,Heidi Wiesler,DE,0,Giant Slalom
+1979-01-19,Hanni Wenzel,LI,23,Giant Slalom
+1979-01-19,Monika Kaserer,AT,0,Slalom
+1979-01-19,Jamie Kurlander,US,19,Downhill
+1979-01-26,Evi Mittermaier,DE,16,Downhill
+1979-01-26,Cindy Nelson,US,24,Downhill
+1979-01-26,Monika Kaserer,AT,0,Slalom
 1979-01-26,Nadezda Patrakjeva-andreeva,RU,16,Combined
 1979-01-26,Brigitte Nansoz,CH,16,Combined
+1979-01-26,Annemarie Proell,AT,25,Downhill
+1979-01-26,Hanni Wenzel,LI,23,Giant Slalom
+1979-01-26,Irene Epple,DE,21,Downhill
+1979-01-26,Abbi Fisher,US,21,Slalom
+1979-01-26,Fabienne Serrat,FR,41,Slalom
+1979-01-26,Andrea Haaser,AT,20,Combined
+1979-01-26,Marianne Zechmeister,DE,17,Combined
+1979-01-26,Jana Soltysova,SK,20,Downhill
+1979-01-26,Anne Flore Rey,FR,17,Combined
 1979-01-26,Heidi Wiesler,DE,0,Giant Slalom
 1979-01-26,Perrine Pelen,FR,0,Slalom
-1979-01-26,Marianne Zechmeister,DE,17,Combined
-1979-01-26,Marie Therese Nadig,CH,25,Downhill
-1979-01-26,Evi Mittermaier,DE,16,Downhill
-1979-01-26,Hanni Wenzel,LI,71,Giant Slalom
-1979-01-26,Marie Cecile Gros - Gaudenier,FR,18,Downhill
-1979-01-26,Ursula Konzett,LI,35,Giant Slalom
-1979-01-26,Anne Flore Rey,FR,17,Combined
-1979-01-26,Fabienne Serrat,FR,41,Slalom
-1979-01-26,Monika Kaserer,AT,0,Slalom
-1979-01-26,Irene Epple,DE,45,Downhill
 1979-01-26,Kathy Kreiner,CA,18,Combined
-1979-01-26,Abbi Fisher,US,21,Slalom
-1979-01-26,Jana Soltysova,SK,20,Downhill
-1979-01-26,Claudia Giordani,IT,22,Slalom
-1979-01-26,Martine Liouche,FR,19,Combined
-1979-01-26,Regine Moesenlechner,DE,21,Slalom
-1979-01-26,Jamie Kurlander,US,19,Downhill
-1979-01-26,Andrea Haaser,AT,20,Combined
-1979-01-26,Cindy Nelson,US,69,Downhill
 1979-01-26,Brigitte Glur,CH,20,Slalom
-1979-02-04,Evi Mittermaier,DE,16,Downhill
-1979-02-04,Marie Therese Nadig,CH,25,Downhill
-1979-02-04,Nadezda Patrakjeva-andreeva,RU,16,Combined
-1979-02-04,Irene Epple,DE,66,Downhill
-1979-02-04,Brigitte Nansoz,CH,16,Combined
-1979-02-04,Monika Kaserer,AT,16,Slalom
-1979-02-04,Claudia Giordani,IT,42,Slalom
-1979-02-04,Regine Moesenlechner,DE,21,Slalom
-1979-02-04,Abbi Fisher,US,21,Slalom
-1979-02-04,Marie Cecile Gros - Gaudenier,FR,18,Downhill
-1979-02-04,Andrea Haaser,AT,39,Combined
-1979-02-04,Fabienne Serrat,FR,65,Slalom
+1979-01-26,Jamie Kurlander,US,19,Downhill
+1979-01-26,Claudia Giordani,IT,0,Slalom
+1979-01-26,Ursula Konzett,LI,35,Giant Slalom
+1979-01-26,Marie Cecile Gros - Gaudenier,FR,18,Downhill
+1979-02-04,Fabienne Serrat,FR,41,Slalom
 1979-02-04,Heidi Wiesler,DE,17,Giant Slalom
-1979-02-04,Marianne Zechmeister,DE,17,Combined
+1979-02-04,Hanni Wenzel,LI,23,Giant Slalom
 1979-02-04,Jana Soltysova,SK,20,Downhill
-1979-02-04,Anne Flore Rey,FR,17,Combined
+1979-02-04,Irene Epple,DE,21,Downhill
+1979-02-04,Andrea Haaser,AT,39,Combined
+1979-02-04,Claudia Giordani,IT,20,Slalom
 1979-02-04,Brigitte Glur,CH,20,Slalom
 1979-02-04,Jamie Kurlander,US,19,Downhill
-1979-02-04,Martine Liouche,FR,19,Combined
-1979-02-04,Perrine Pelen,FR,18,Slalom
-1979-02-04,Ursula Konzett,LI,35,Giant Slalom
-1979-02-04,Hanni Wenzel,LI,94,Giant Slalom
+1979-02-04,Annemarie Proell,AT,50,Downhill
 1979-02-04,Kathy Kreiner,CA,18,Combined
-1979-02-04,Cindy Nelson,US,91,Downhill
-1979-02-04,Annemarie Proell,AT,74,Downhill
+1979-02-04,Marie Cecile Gros - Gaudenier,FR,18,Downhill
+1979-02-04,Monika Kaserer,AT,16,Slalom
+1979-02-04,Brigitte Nansoz,CH,16,Combined
+1979-02-04,Ursula Konzett,LI,35,Giant Slalom
+1979-02-04,Perrine Pelen,FR,18,Slalom
+1979-02-04,Nadezda Patrakjeva-andreeva,RU,16,Combined
+1979-02-04,Abbi Fisher,US,21,Slalom
+1979-02-04,Evi Mittermaier,DE,16,Downhill
+1979-02-04,Marianne Zechmeister,DE,17,Combined
+1979-02-04,Cindy Nelson,US,24,Downhill
+1979-02-04,Anne Flore Rey,FR,17,Combined

@@ -1,636 +1,757 @@
 date,name,ath_country,value,specialty
 2014-11-30,Kjetil Jansrud,NO,100,Downhill
-2014-11-30,Andrej Sporn,SK,0,Combined
-2014-11-30,Jan Hudec,CA,29,Super G
-2014-11-30,Maxence Muzaton,FR,0,Downhill
-2014-11-30,Johan Clarey,FR,32,Downhill
-2014-11-30,Adam Zampa,SK,0,Slalom
-2014-11-30,Patrick Kueng,CH,26,Downhill
-2014-11-30,Victor Muffat Jeandet,FR,0,Giant Slalom
-2014-11-30,Aleksander Aamodt Kilde,NO,22,Super G
-2014-11-30,Justin Murisier,CH,0,Giant Slalom
-2014-11-30,Didier Defago,CH,24,Downhill
-2014-11-30,Martin Vrablik,CZ,0,Combined
-2014-11-30,Manuel Osborne-Paradis,CA,36,Downhill
-2014-11-30,Ondrej Berndt,CZ,0,Combined
-2014-11-30,Romed Baumann,AT,18,Downhill
-2014-11-30,Philip Brown,CA,0,Giant Slalom
-2014-11-30,Mauro Caviezel,CH,0,Super G
-2014-11-30,Yuri Danilochkin,BY,0,Combined
-2014-11-30,Andrew Weibrecht,US,11,Super G
-2014-11-30,Valentin Giraud Moine,FR,0,Combined
-2014-11-30,Wiley Maple,US,0,Downhill
-2014-11-30,Matteo De Vettori,IT,0,Combined
-2014-11-30,Max Franz,AT,45,Downhill
-2014-11-30,Ami Oreiller,CH,0,Combined
-2014-11-30,Marcel Hirscher,AT,0,Giant Slalom
-2014-11-30,Carlo Janka,CH,7,Downhill
-2014-11-30,Thomas Dressen,DE,0,Combined
-2014-11-30,Sam Robertson,AU,0,Combined
-2014-11-30,Peter Fill,IT,16,Downhill
-2014-11-30,Christoffer Faarup,DK,0,Combined
-2014-11-30,Arnaud Alessandria,MC,0,Combined
-2014-11-30,Travis Ganong,US,10,Downhill
-2014-11-30,Ola Buer Johansen,NO,0,Combined
-2014-11-30,Pavel Trikhichev,RU,0,Slalom
-2014-11-30,Tim Jitloff,US,0,Giant Slalom
-2014-11-30,Marc Berthod,CH,0,Downhill
-2014-11-30,Jared Goldberg,US,6,Downhill
-2014-11-30,Ralph Weber,CH,0,Downhill
-2014-11-30,Andreas Sander,DE,4,Downhill
-2014-11-30,Fernando Schmed,CH,0,Super G
-2014-11-30,Bostjan Kline,SK,0,Downhill
-2014-11-30,Marco Sullivan,US,0,Downhill
-2014-11-30,Markus Duerager,AT,0,Downhill
-2014-11-30,Klaus Brandner,DE,0,Downhill
-2014-11-30,Bjoernar Neteland,NO,0,Super G
-2014-11-30,Werner Heel,IT,3,Downhill
-2014-11-30,Guillermo Fayed,FR,0,Downhill
 2014-11-30,Morgan Pridy,CA,14,Super G
-2014-11-30,Othmar Striedinger,AT,50,Super G
-2014-11-30,Nils Mani,CH,0,Super G
-2014-11-30,Andreas Romar,FI,0,Combined
+2014-11-30,Guillermo Fayed,FR,0,Downhill
+2014-11-30,Werner Heel,IT,3,Downhill
+2014-11-30,Klaus Brandner,DE,0,Downhill
+2014-11-30,Thomas Dressen,DE,0,Combined
+2014-11-30,Mattia Casse,IT,0,Downhill
+2014-11-30,Bostjan Kline,SK,0,Downhill
+2014-11-30,Klemen Kosi,SK,0,Downhill
+2014-11-30,Josef Ferstl,DE,0,Downhill
+2014-11-30,Andreas Sander,DE,4,Downhill
+2014-11-30,Jared Goldberg,US,6,Downhill
+2014-11-30,Tim Jitloff,US,0,Giant Slalom
+2014-11-30,Ami Oreiller,CH,0,Combined
+2014-11-30,Marc Berthod,CH,0,Downhill
+2014-11-30,Ralph Weber,CH,0,Downhill
+2014-11-30,Fernando Schmed,CH,0,Super G
+2014-11-30,Alek Glebov,RU,0,Super G
+2014-11-30,Natko Zrncic-Dim,HR,0,Combined
+2014-11-30,Marco Sullivan,US,0,Downhill
+2014-11-30,Patrick Schweiger,AT,15,Super G
+2014-11-30,Thomas Mermillod,FR,0,Super G
 2014-11-30,Steven Nyman,US,2,Downhill
+2014-11-30,Sam Robertson,AU,0,Combined
+2014-11-30,Christof Innerhofer,IT,0,Super G
+2014-11-30,Andrew Weibrecht,US,11,Super G
+2014-11-30,Mauro Caviezel,CH,0,Super G
+2014-11-30,Felix Monsen,SE,0,Combined
+2014-11-30,Matteo Marsaglia,IT,0,Super G
+2014-11-30,Romed Baumann,AT,18,Downhill
+2014-11-30,Manuel Osborne-Paradis,CA,36,Downhill
+2014-11-30,Didier Defago,CH,24,Downhill
+2014-11-30,Aleksander Aamodt Kilde,NO,22,Super G
+2014-11-30,Markus Duerager,AT,0,Downhill
+2014-11-30,Patrick Kueng,CH,26,Downhill
+2014-11-30,Jan Hudec,CA,29,Super G
+2014-11-30,Christoffer Faarup,DK,0,Combined
+2014-11-30,Travis Ganong,US,10,Downhill
+2014-11-30,Beat Feuz,CH,12,Downhill
+2014-11-30,Joachim Puchner,AT,9,Super G
+2014-11-30,Ted Ligety,US,0,Giant Slalom
+2014-11-30,Sandro Viletta,CH,8,Downhill
+2014-11-30,Ondrej Bank,CZ,0,Downhill
+2014-11-30,Thomas Tumler,CH,0,Super G
+2014-11-30,Johan Clarey,FR,32,Downhill
+2014-11-30,Max Franz,AT,45,Downhill
+2014-11-30,Matteo De Vettori,IT,0,Combined
+2014-11-30,Florian Scheiber,AT,0,Downhill
 2014-11-30,Tobias Stechert,DE,0,Downhill
 2014-11-30,Marvin Van Heek,NL,0,Combined
-2014-11-30,Thomas Tumler,CH,0,Super G
 2014-11-30,Andreas Zampa,SK,0,Combined
 2014-11-30,Cristian Javier Simari Birkner,AR,0,Combined
 2014-11-30,Martin Cater,SK,0,Combined
-2014-11-30,Sandro Viletta,CH,8,Downhill
-2014-11-30,Ted Ligety,US,0,Giant Slalom
+2014-11-30,Philip Brown,CA,0,Giant Slalom
 2014-11-30,Klaus Kroell,AT,0,Downhill
-2014-11-30,Joachim Puchner,AT,9,Super G
 2014-11-30,Silvan Zurbriggen,CH,0,Downhill
-2014-11-30,Beat Feuz,CH,12,Downhill
-2014-11-30,Patrick Schweiger,AT,15,Super G
-2014-11-30,Brice Roger,FR,0,Super G
+2014-11-30,Pavel Trikhichev,RU,0,Slalom
+2014-11-30,Ola Buer Johansen,NO,0,Combined
+2014-11-30,Arnaud Alessandria,MC,0,Combined
+2014-11-30,Andrej Sporn,SK,0,Combined
+2014-11-30,Maxence Muzaton,FR,0,Downhill
+2014-11-30,Ondrej Berndt,CZ,0,Combined
+2014-11-30,Adam Zampa,SK,0,Slalom
+2014-11-30,Victor Muffat Jeandet,FR,0,Giant Slalom
+2014-11-30,Justin Murisier,CH,0,Giant Slalom
 2014-11-30,Krystof Kryzl,CZ,0,Giant Slalom
+2014-11-30,Martin Vrablik,CZ,0,Combined
+2014-11-30,Andreas Romar,FI,0,Combined
+2014-11-30,Artem Borodaykin,RU,0,Combined
+2014-11-30,Yuri Danilochkin,BY,0,Combined
+2014-11-30,Henrik Von Appen,CL,0,Combined
+2014-11-30,Hans Olsson,SE,0,Combined
+2014-11-30,Siegmar Klotz,IT,0,Downhill
+2014-11-30,Nils Mani,CH,0,Super G
+2014-11-30,David Poisson,FR,0,Downhill
+2014-11-30,Ivica Kostelic,HR,0,Combined
+2014-11-30,Wiley Maple,US,0,Downhill
+2014-11-30,Blaise Giezendanner,FR,0,Downhill
+2014-11-30,Marc Gisin,CH,0,Downhill
+2014-11-30,Jeffrey Frisch,CA,0,Combined
+2014-11-30,Bjoernar Neteland,NO,0,Super G
+2014-11-30,Fabio Renz,DE,0,Combined
+2014-11-30,Tyler Werry,CA,0,Combined
+2014-11-30,Silvano Varettoni,IT,0,Downhill
+2014-11-30,Valentin Giraud Moine,FR,0,Combined
+2014-11-30,Paul De La Cuesta,ES,0,Combined
+2014-11-30,Broderick Thompson,CA,0,Combined
+2014-11-30,Henri Battilani,IT,0,Downhill
+2014-11-30,Bryce Bennett,US,0,Combined
+2014-11-30,Maciej Bydlinski,PL,0,Combined
+2014-11-30,Rok Perko,SK,0,Combined
+2014-11-30,Benjamin Thomsen,CA,0,Downhill
+2014-11-30,Marcel Hirscher,AT,0,Giant Slalom
 2014-11-30,Thomas Biesemeyer,US,0,Super G
-2014-11-30,Matthias Mayer,AT,80,Downhill
-2014-11-30,Dustin Cook,CA,20,Super G
-2014-11-30,Dominik Paris,IT,60,Downhill
+2014-11-30,Vincent Kriechmayr,AT,13,Super G
 2014-11-30,Hannes Reichelt,AT,40,Downhill
-2014-11-30,Miha Hrobat,SK,0,Combined
+2014-11-30,Dustin Cook,CA,20,Super G
+2014-11-30,Matthias Mayer,AT,80,Downhill
+2014-11-30,Alexis Pinturault,FR,0,Giant Slalom
+2014-11-30,Brice Roger,FR,0,Super G
 2014-11-30,Adrien Theaux,FR,5,Super G
+2014-11-30,Carlo Janka,CH,7,Downhill
+2014-11-30,Miha Hrobat,SK,0,Combined
+2014-11-30,Othmar Striedinger,AT,50,Super G
+2014-11-30,Peter Fill,IT,16,Downhill
+2014-11-30,Dominik Paris,IT,60,Downhill
 2014-11-30,Georg Streitberger,AT,1,Downhill
 2014-11-30,Marc Oliveras,AD,0,Combined
-2014-11-30,Felix Monsen,SE,0,Combined
-2014-11-30,Vincent Kriechmayr,AT,13,Super G
-2014-12-06,Silvan Zurbriggen,CH,0,Downhill
-2014-12-06,Beat Feuz,CH,20,Downhill
-2014-12-06,Klaus Kroell,AT,0,Downhill
-2014-12-06,Silvano Varettoni,IT,0,Downhill
-2014-12-06,Ted Ligety,US,24,Giant Slalom
-2014-12-06,Broderick Thompson,CA,0,Combined
-2014-12-06,Travis Ganong,US,13,Downhill
-2014-12-06,Tyler Werry,CA,0,Combined
-2014-12-06,Arnaud Alessandria,MC,0,Combined
-2014-12-06,Dustin Cook,CA,42,Super G
-2014-12-06,Pavel Trikhichev,RU,0,Slalom
-2014-12-06,Jan Hudec,CA,47,Super G
-2014-12-06,Andrej Sporn,SK,0,Combined
-2014-12-06,Johan Clarey,FR,36,Downhill
-2014-12-06,Maxence Muzaton,FR,0,Downhill
+2014-12-06,Wiley Maple,US,0,Downhill
+2014-12-06,Ivica Kostelic,HR,0,Combined
+2014-12-06,David Poisson,FR,0,Downhill
+2014-12-06,Sandro Viletta,CH,17,Downhill
 2014-12-06,Adrien Theaux,FR,21,Super G
-2014-12-06,Patrick Kueng,CH,26,Downhill
-2014-12-06,Adam Zampa,SK,0,Slalom
-2014-12-06,Jeffrey Frisch,CA,0,Combined
-2014-12-06,Victor Muffat Jeandet,FR,0,Giant Slalom
-2014-12-06,Aleksander Aamodt Kilde,NO,22,Super G
-2014-12-06,Justin Murisier,CH,0,Giant Slalom
-2014-12-06,Thomas Biesemeyer,US,6,Super G
-2014-12-06,Krystof Kryzl,CZ,0,Giant Slalom
-2014-12-06,Didier Defago,CH,60,Downhill
+2014-12-06,Blaise Giezendanner,FR,0,Downhill
+2014-12-06,Marc Gisin,CH,0,Downhill
+2014-12-06,Othmar Striedinger,AT,60,Super G
+2014-12-06,Ted Ligety,US,24,Giant Slalom
+2014-12-06,Marcel Hirscher,AT,0,Giant Slalom
+2014-12-06,Benjamin Thomsen,CA,0,Downhill
 2014-12-06,Fabio Renz,DE,0,Combined
-2014-12-06,Martin Cater,SK,0,Combined
+2014-12-06,Miha Hrobat,SK,0,Combined
+2014-12-06,Jan Hudec,CA,47,Super G
+2014-12-06,Broderick Thompson,CA,0,Combined
+2014-12-06,Paul De La Cuesta,ES,0,Combined
+2014-12-06,Peter Fill,IT,66,Downhill
+2014-12-06,Dustin Cook,CA,42,Super G
+2014-12-06,Jeffrey Frisch,CA,0,Combined
+2014-12-06,Travis Ganong,US,13,Downhill
+2014-12-06,Mattia Casse,IT,0,Downhill
+2014-12-06,Tyler Werry,CA,0,Combined
+2014-12-06,Marc Oliveras,AD,0,Combined
+2014-12-06,Beat Feuz,CH,20,Downhill
+2014-12-06,Ondrej Bank,CZ,0,Downhill
+2014-12-06,Joachim Puchner,AT,9,Super G
+2014-12-06,Silvano Varettoni,IT,0,Downhill
+2014-12-06,Nils Mani,CH,0,Super G
+2014-12-06,Hans Olsson,SE,0,Combined
 2014-12-06,Thomas Tumler,CH,20,Super G
-2014-12-06,Matthias Mayer,AT,94,Downhill
-2014-12-06,Tim Jitloff,US,7,Giant Slalom
 2014-12-06,Marc Berthod,CH,0,Downhill
-2014-12-06,Kjetil Jansrud,NO,180,Downhill
-2014-12-06,Andreas Sander,DE,4,Downhill
+2014-12-06,Martin Vrablik,CZ,0,Combined
+2014-12-06,Thomas Biesemeyer,US,6,Super G
+2014-12-06,Guillermo Fayed,FR,0,Downhill
+2014-12-06,Tim Jitloff,US,7,Giant Slalom
+2014-12-06,Werner Heel,IT,15,Downhill
 2014-12-06,Ralph Weber,CH,0,Downhill
+2014-12-06,Ami Oreiller,CH,0,Combined
+2014-12-06,Thomas Dressen,DE,0,Combined
+2014-12-06,Andreas Sander,DE,4,Downhill
+2014-12-06,Klaus Brandner,DE,0,Downhill
+2014-12-06,Georg Streitberger,AT,41,Downhill
+2014-12-06,Josef Ferstl,DE,0,Downhill
+2014-12-06,Klemen Kosi,SK,0,Downhill
+2014-12-06,Jared Goldberg,US,6,Downhill
+2014-12-06,Sam Robertson,AU,0,Combined
 2014-12-06,Fernando Schmed,CH,0,Super G
 2014-12-06,Alek Glebov,RU,5,Super G
-2014-12-06,Bostjan Kline,SK,0,Downhill
-2014-12-06,Hannes Reichelt,AT,140,Downhill
-2014-12-06,Natko Zrncic-Dim,HR,1,Combined
-2014-12-06,Marco Sullivan,US,0,Downhill
-2014-12-06,Markus Duerager,AT,0,Downhill
-2014-12-06,Klaus Brandner,DE,0,Downhill
-2014-12-06,Werner Heel,IT,15,Downhill
-2014-12-06,Sandro Viletta,CH,17,Downhill
-2014-12-06,Bjoernar Neteland,NO,0,Super G
-2014-12-06,Guillermo Fayed,FR,0,Downhill
-2014-12-06,Hans Olsson,SE,0,Combined
-2014-12-06,Morgan Pridy,CA,29,Super G
-2014-12-06,Patrick Schweiger,AT,15,Super G
 2014-12-06,Siegmar Klotz,IT,0,Downhill
-2014-12-06,Nils Mani,CH,0,Super G
-2014-12-06,Thomas Mermillod,FR,13,Super G
-2014-12-06,Andreas Romar,FI,0,Combined
-2014-12-06,Steven Nyman,US,2,Downhill
-2014-12-06,Dominik Paris,IT,105,Downhill
-2014-12-06,Tobias Stechert,DE,0,Downhill
-2014-12-06,Rok Perko,SK,0,Combined
-2014-12-06,Marvin Van Heek,NL,0,Combined
-2014-12-06,Blaise Giezendanner,FR,0,Downhill
+2014-12-06,Henri Battilani,IT,0,Downhill
 2014-12-06,Florian Scheiber,AT,0,Downhill
-2014-12-06,Manuel Osborne-Paradis,CA,36,Downhill
-2014-12-06,Brice Roger,FR,0,Super G
-2014-12-06,Martin Vrablik,CZ,0,Combined
-2014-12-06,Miha Hrobat,SK,0,Combined
-2014-12-06,Yuri Danilochkin,BY,0,Combined
-2014-12-06,Valentin Giraud Moine,FR,0,Combined
-2014-12-06,Andrew Weibrecht,US,37,Super G
-2014-12-06,Wiley Maple,US,0,Downhill
-2014-12-06,Christof Innerhofer,IT,11,Super G
-2014-12-06,Max Franz,AT,45,Downhill
-2014-12-06,Matteo De Vettori,IT,0,Combined
-2014-12-06,Georg Streitberger,AT,41,Downhill
-2014-12-06,Marcel Hirscher,AT,0,Giant Slalom
-2014-12-06,Marc Oliveras,AD,0,Combined
-2014-12-06,Ami Oreiller,CH,0,Combined
-2014-12-06,Carlo Janka,CH,36,Downhill
-2014-12-06,Thomas Dressen,DE,0,Combined
-2014-12-06,Sam Robertson,AU,0,Combined
-2014-12-06,Peter Fill,IT,66,Downhill
-2014-12-06,Felix Monsen,SE,0,Combined
-2014-12-06,Othmar Striedinger,AT,60,Super G
-2014-12-06,Christoffer Faarup,DK,0,Combined
-2014-12-06,Mauro Caviezel,CH,0,Super G
-2014-12-06,Matteo Marsaglia,IT,32,Super G
-2014-12-06,Ola Buer Johansen,NO,0,Combined
+2014-12-06,Steven Nyman,US,2,Downhill
+2014-12-06,Bjoernar Neteland,NO,0,Super G
+2014-12-06,Markus Duerager,AT,0,Downhill
+2014-12-06,Morgan Pridy,CA,29,Super G
+2014-12-06,Thomas Mermillod,FR,13,Super G
 2014-12-06,Vincent Kriechmayr,AT,13,Super G
-2014-12-06,Philip Brown,CA,0,Giant Slalom
+2014-12-06,Brice Roger,FR,0,Super G
+2014-12-06,Matteo De Vettori,IT,0,Combined
 2014-12-06,Alexis Pinturault,FR,60,Giant Slalom
+2014-12-06,Natko Zrncic-Dim,HR,1,Combined
+2014-12-06,Patrick Schweiger,AT,15,Super G
+2014-12-06,Marco Sullivan,US,0,Downhill
+2014-12-06,Johan Clarey,FR,36,Downhill
+2014-12-06,Valentin Giraud Moine,FR,0,Combined
+2014-12-06,Bostjan Kline,SK,0,Downhill
+2014-12-06,Tobias Stechert,DE,0,Downhill
+2014-12-06,Didier Defago,CH,60,Downhill
+2014-12-06,Dominik Paris,IT,105,Downhill
+2014-12-06,Marvin Van Heek,NL,0,Combined
+2014-12-06,Manuel Osborne-Paradis,CA,36,Downhill
+2014-12-06,Maxence Muzaton,FR,0,Downhill
+2014-12-06,Hannes Reichelt,AT,140,Downhill
+2014-12-06,Andreas Zampa,SK,0,Combined
 2014-12-06,Romed Baumann,AT,20,Downhill
 2014-12-06,Ondrej Berndt,CZ,0,Combined
-2014-12-20,Patrick Kueng,CH,26,Downhill
-2014-12-20,Blaise Giezendanner,FR,0,Downhill
-2014-12-20,Florian Scheiber,AT,0,Downhill
-2014-12-20,Guillermo Fayed,FR,15,Downhill
-2014-12-20,Hans Olsson,SE,1,Combined
-2014-12-20,Paul De La Cuesta,ES,0,Combined
-2014-12-20,Ami Oreiller,CH,0,Combined
-2014-12-20,Justin Murisier,CH,0,Giant Slalom
-2014-12-20,Dominik Paris,IT,185,Downhill
-2014-12-20,Marcel Hirscher,AT,0,Giant Slalom
-2014-12-20,Nils Mani,CH,0,Super G
-2014-12-20,Thomas Mermillod,FR,23,Super G
-2014-12-20,Georg Streitberger,AT,59,Downhill
-2014-12-20,Philip Brown,CA,0,Giant Slalom
-2014-12-20,Andreas Romar,FI,0,Combined
-2014-12-20,Steven Nyman,US,2,Downhill
-2014-12-20,Matteo De Vettori,IT,0,Combined
-2014-12-20,Marc Gisin,CH,0,Downhill
-2014-12-20,Ondrej Berndt,CZ,0,Combined
-2014-12-20,Max Franz,AT,67,Downhill
-2014-12-20,Vincent Kriechmayr,AT,63,Super G
-2014-12-20,Carlo Janka,CH,76,Downhill
-2014-12-20,Maciej Bydlinski,PL,0,Combined
-2014-12-20,Manuel Osborne-Paradis,CA,47,Downhill
-2014-12-20,Marc Berthod,CH,6,Downhill
-2014-12-20,Kjetil Jansrud,NO,280,Downhill
-2014-12-20,Christoffer Faarup,DK,0,Combined
-2014-12-20,Othmar Striedinger,AT,86,Super G
-2014-12-20,Martin Vrablik,CZ,0,Combined
-2014-12-20,Krystof Kryzl,CZ,0,Giant Slalom
-2014-12-20,Ralph Weber,CH,0,Downhill
-2014-12-20,Josef Ferstl,DE,2,Downhill
-2014-12-20,Artem Borodaykin,RU,0,Combined
-2014-12-20,Fernando Schmed,CH,0,Super G
+2014-12-06,Cristian Javier Simari Birkner,AR,0,Combined
+2014-12-06,Adam Zampa,SK,0,Slalom
+2014-12-06,Andrej Sporn,SK,0,Combined
+2014-12-06,Martin Cater,SK,0,Combined
+2014-12-06,Andrew Weibrecht,US,37,Super G
+2014-12-06,Christoffer Faarup,DK,0,Combined
+2014-12-06,Klaus Kroell,AT,0,Downhill
+2014-12-06,Carlo Janka,CH,36,Downhill
+2014-12-06,Matteo Marsaglia,IT,32,Super G
+2014-12-06,Silvan Zurbriggen,CH,0,Downhill
+2014-12-06,Arnaud Alessandria,MC,0,Combined
+2014-12-06,Felix Monsen,SE,0,Combined
+2014-12-06,Pavel Trikhichev,RU,0,Slalom
+2014-12-06,Mauro Caviezel,CH,0,Super G
+2014-12-06,Philip Brown,CA,0,Giant Slalom
+2014-12-06,Max Franz,AT,45,Downhill
+2014-12-06,Christof Innerhofer,IT,11,Super G
+2014-12-06,Ola Buer Johansen,NO,0,Combined
+2014-12-06,Krystof Kryzl,CZ,0,Giant Slalom
+2014-12-06,Andreas Romar,FI,0,Combined
+2014-12-06,Yuri Danilochkin,BY,0,Combined
+2014-12-06,Justin Murisier,CH,0,Giant Slalom
+2014-12-06,Henrik Von Appen,CL,0,Combined
+2014-12-06,Rok Perko,SK,0,Combined
+2014-12-06,Kjetil Jansrud,NO,180,Downhill
+2014-12-06,Maciej Bydlinski,PL,0,Combined
+2014-12-06,Matthias Mayer,AT,94,Downhill
+2014-12-06,Artem Borodaykin,RU,0,Combined
+2014-12-06,Patrick Kueng,CH,26,Downhill
+2014-12-06,Victor Muffat Jeandet,FR,0,Giant Slalom
+2014-12-06,Bryce Bennett,US,0,Combined
+2014-12-06,Aleksander Aamodt Kilde,NO,22,Super G
 2014-12-20,Klemen Kosi,SK,9,Downhill
+2014-12-20,Arnaud Alessandria,MC,0,Combined
+2014-12-20,Ondrej Berndt,CZ,0,Combined
 2014-12-20,Bostjan Kline,SK,0,Downhill
-2014-12-20,Didier Defago,CH,89,Downhill
-2014-12-20,Sam Robertson,AU,0,Combined
-2014-12-20,Felix Monsen,SE,0,Combined
-2014-12-20,Hannes Reichelt,AT,200,Downhill
-2014-12-20,Mattia Casse,IT,8,Downhill
-2014-12-20,Peter Fill,IT,66,Downhill
-2014-12-20,Klaus Brandner,DE,13,Downhill
-2014-12-20,Markus Duerager,AT,0,Downhill
-2014-12-20,Henrik Von Appen,CL,0,Combined
-2014-12-20,Thomas Dressen,DE,0,Combined
-2014-12-20,Marc Oliveras,AD,0,Combined
-2014-12-20,Thomas Tumler,CH,21,Super G
-2014-12-20,Marvin Van Heek,NL,0,Combined
-2014-12-20,Tyler Werry,CA,0,Combined
-2014-12-20,Beat Feuz,CH,27,Downhill
+2014-12-20,Natko Zrncic-Dim,HR,1,Combined
+2014-12-20,Josef Ferstl,DE,2,Downhill
+2014-12-20,Georg Streitberger,AT,59,Downhill
+2014-12-20,Kjetil Jansrud,NO,280,Downhill
+2014-12-20,Matteo De Vettori,IT,0,Combined
+2014-12-20,Alek Glebov,RU,5,Super G
+2014-12-20,Krystof Kryzl,CZ,0,Giant Slalom
 2014-12-20,Adam Zampa,SK,0,Slalom
-2014-12-20,Aleksander Aamodt Kilde,NO,22,Super G
-2014-12-20,Dustin Cook,CA,64,Super G
-2014-12-20,Alexis Pinturault,FR,74,Giant Slalom
-2014-12-20,Yuri Danilochkin,BY,0,Combined
-2014-12-20,Travis Ganong,US,18,Downhill
-2014-12-20,Valentin Giraud Moine,FR,0,Combined
-2014-12-20,Brice Roger,FR,16,Super G
-2014-12-20,Miha Hrobat,SK,0,Combined
-2014-12-20,Jan Hudec,CA,47,Super G
-2014-12-20,Mauro Caviezel,CH,0,Super G
-2014-12-20,Johan Clarey,FR,36,Downhill
+2014-12-20,Fernando Schmed,CH,0,Super G
+2014-12-20,Ralph Weber,CH,0,Downhill
 2014-12-20,Andrej Sporn,SK,0,Combined
-2014-12-20,Jeffrey Frisch,CA,0,Combined
-2014-12-20,Matteo Marsaglia,IT,68,Super G
-2014-12-20,Maxence Muzaton,FR,0,Downhill
-2014-12-20,Adrien Theaux,FR,24,Super G
-2014-12-20,Romed Baumann,AT,52,Downhill
-2014-12-20,Andrew Weibrecht,US,49,Super G
+2014-12-20,Alexis Pinturault,FR,74,Giant Slalom
+2014-12-20,Marc Berthod,CH,6,Downhill
+2014-12-20,Thomas Biesemeyer,US,6,Super G
+2014-12-20,Andreas Sander,DE,4,Downhill
 2014-12-20,Victor Muffat Jeandet,FR,0,Giant Slalom
-2014-12-20,Ted Ligety,US,24,Giant Slalom
+2014-12-20,Ola Buer Johansen,NO,0,Combined
+2014-12-20,Ami Oreiller,CH,0,Combined
+2014-12-20,Tim Jitloff,US,7,Giant Slalom
+2014-12-20,Maxence Muzaton,FR,0,Downhill
+2014-12-20,Jared Goldberg,US,6,Downhill
+2014-12-20,Hannes Reichelt,AT,200,Downhill
+2014-12-20,Justin Murisier,CH,0,Giant Slalom
+2014-12-20,Henri Battilani,IT,0,Downhill
+2014-12-20,Marco Sullivan,US,0,Downhill
+2014-12-20,Andreas Romar,FI,0,Combined
+2014-12-20,Fabio Renz,DE,0,Combined
+2014-12-20,Miha Hrobat,SK,0,Combined
+2014-12-20,Benjamin Thomsen,CA,0,Downhill
+2014-12-20,Valentin Giraud Moine,FR,0,Combined
+2014-12-20,Artem Borodaykin,RU,0,Combined
+2014-12-20,Henrik Von Appen,CL,0,Combined
+2014-12-20,Tyler Werry,CA,0,Combined
+2014-12-20,Dustin Cook,CA,64,Super G
+2014-12-20,Rok Perko,SK,0,Combined
+2014-12-20,Silvano Varettoni,IT,0,Downhill
+2014-12-20,Yuri Danilochkin,BY,0,Combined
+2014-12-20,Maciej Bydlinski,PL,0,Combined
+2014-12-20,Paul De La Cuesta,ES,0,Combined
 2014-12-20,Broderick Thompson,CA,0,Combined
 2014-12-20,Matthias Mayer,AT,94,Downhill
-2014-12-20,Ondrej Bank,CZ,4,Combined
-2014-12-20,Sandro Viletta,CH,41,Downhill
-2014-12-20,Wiley Maple,US,0,Downhill
+2014-12-20,Bryce Bennett,US,0,Combined
+2014-12-20,Jeffrey Frisch,CA,0,Combined
+2014-12-20,Tobias Stechert,DE,0,Downhill
+2014-12-20,Marc Gisin,CH,0,Downhill
+2014-12-20,Blaise Giezendanner,FR,0,Downhill
+2014-12-20,Silvan Zurbriggen,CH,0,Downhill
+2014-12-20,Markus Duerager,AT,0,Downhill
+2014-12-20,Bjoernar Neteland,NO,0,Super G
+2014-12-20,Klaus Kroell,AT,0,Downhill
+2014-12-20,Hans Olsson,SE,1,Combined
+2014-12-20,Vincent Kriechmayr,AT,63,Super G
 2014-12-20,Martin Cater,SK,0,Combined
+2014-12-20,Dominik Paris,IT,185,Downhill
+2014-12-20,Pavel Trikhichev,RU,0,Slalom
+2014-12-20,Siegmar Klotz,IT,0,Downhill
+2014-12-20,Nils Mani,CH,0,Super G
+2014-12-20,Wiley Maple,US,0,Downhill
+2014-12-20,Adrien Theaux,FR,24,Super G
+2014-12-20,David Poisson,FR,0,Downhill
+2014-12-20,Philip Brown,CA,0,Giant Slalom
+2014-12-20,Andreas Zampa,SK,0,Combined
+2014-12-20,Marvin Van Heek,NL,0,Combined
+2014-12-20,Ivica Kostelic,HR,0,Combined
 2014-12-20,Cristian Javier Simari Birkner,AR,0,Combined
+2014-12-20,Florian Scheiber,AT,0,Downhill
+2014-12-20,Martin Vrablik,CZ,0,Combined
+2014-12-20,Andrew Weibrecht,US,49,Super G
+2014-12-20,Matteo Marsaglia,IT,68,Super G
+2014-12-20,Didier Defago,CH,89,Downhill
+2014-12-20,Werner Heel,IT,15,Downhill
+2014-12-20,Johan Clarey,FR,36,Downhill
+2014-12-20,Thomas Dressen,DE,0,Combined
+2014-12-20,Ted Ligety,US,24,Giant Slalom
+2014-12-20,Thomas Tumler,CH,21,Super G
+2014-12-20,Guillermo Fayed,FR,15,Downhill
+2014-12-20,Joachim Puchner,AT,9,Super G
+2014-12-20,Steven Nyman,US,2,Downhill
+2014-12-20,Patrick Kueng,CH,26,Downhill
+2014-12-20,Christoffer Faarup,DK,0,Combined
+2014-12-20,Aleksander Aamodt Kilde,NO,22,Super G
+2014-12-20,Morgan Pridy,CA,29,Super G
+2014-12-20,Brice Roger,FR,16,Super G
 2014-12-20,Christof Innerhofer,IT,56,Super G
-2015-01-23,Marc Berthod,CH,6,Downhill
-2015-01-23,Fabio Renz,DE,0,Combined
-2015-01-23,Thomas Biesemeyer,US,6,Super G
-2015-01-23,Alek Glebov,RU,5,Super G
-2015-01-23,Sam Robertson,AU,0,Combined
-2015-01-23,Andreas Romar,FI,0,Combined
-2015-01-23,Arnaud Alessandria,MC,0,Combined
-2015-01-23,Broderick Thompson,CA,0,Combined
-2015-01-23,Matteo De Vettori,IT,0,Combined
-2015-01-23,Ralph Weber,CH,0,Downhill
-2015-01-23,Jeffrey Frisch,CA,0,Combined
-2015-01-23,Marvin Van Heek,NL,0,Combined
-2015-01-23,Christoffer Faarup,DK,0,Combined
-2015-01-23,Ola Buer Johansen,NO,0,Combined
-2015-01-23,Artem Borodaykin,RU,0,Combined
-2015-01-23,Bryce Bennett,US,0,Combined
-2015-01-23,Philip Brown,CA,0,Giant Slalom
-2015-01-23,Tobias Stechert,DE,0,Downhill
-2015-01-23,Henri Battilani,IT,0,Downhill
-2015-01-23,Andreas Zampa,SK,0,Combined
-2015-01-23,Siegmar Klotz,IT,1,Downhill
-2015-01-23,Cristian Javier Simari Birkner,AR,0,Combined
-2015-01-23,Blaise Giezendanner,FR,0,Downhill
-2015-01-23,Martin Cater,SK,0,Combined
-2015-01-23,Marc Oliveras,AD,0,Combined
-2015-01-23,Hans Olsson,SE,1,Combined
-2015-01-23,Ami Oreiller,CH,0,Combined
-2015-01-23,Valentin Giraud Moine,FR,0,Combined
-2015-01-23,Tyler Werry,CA,0,Combined
-2015-01-23,Florian Scheiber,AT,0,Downhill
-2015-01-23,Paul De La Cuesta,ES,0,Combined
-2015-01-23,Klaus Kroell,AT,0,Downhill
-2015-01-23,Bjoernar Neteland,NO,0,Super G
-2015-01-23,Ondrej Berndt,CZ,0,Combined
-2015-01-23,Nils Mani,CH,0,Super G
-2015-01-23,Wiley Maple,US,0,Downhill
-2015-01-23,Henrik Von Appen,CL,0,Combined
-2015-01-23,Thomas Dressen,DE,0,Combined
-2015-01-23,Felix Monsen,SE,0,Combined
-2015-01-23,Pavel Trikhichev,RU,0,Slalom
-2015-01-23,Markus Duerager,AT,4,Downhill
-2015-01-23,Marco Sullivan,US,0,Downhill
-2015-01-23,Miha Hrobat,SK,0,Combined
-2015-01-23,Yuri Danilochkin,BY,0,Combined
-2015-01-23,Natko Zrncic-Dim,HR,6,Combined
-2015-01-23,Marc Gisin,CH,0,Downhill
-2015-01-23,Fernando Schmed,CH,0,Super G
-2015-01-23,Guillermo Fayed,FR,18,Downhill
-2015-01-23,Georg Streitberger,AT,119,Downhill
-2015-01-23,Klaus Brandner,DE,13,Downhill
-2015-01-23,Brice Roger,FR,16,Super G
-2015-01-23,Othmar Striedinger,AT,126,Super G
-2015-01-23,Werner Heel,IT,30,Downhill
-2015-01-23,Peter Fill,IT,66,Downhill
-2015-01-23,Ted Ligety,US,24,Giant Slalom
-2015-01-23,Carlo Janka,CH,86,Downhill
-2015-01-23,Max Franz,AT,93,Downhill
-2015-01-23,Christof Innerhofer,IT,85,Super G
-2015-01-23,Morgan Pridy,CA,29,Super G
-2015-01-23,Andrew Weibrecht,US,94,Super G
-2015-01-23,Mauro Caviezel,CH,20,Super G
-2015-01-23,Matteo Marsaglia,IT,68,Super G
-2015-01-23,Thomas Mermillod,FR,23,Super G
-2015-01-23,Romed Baumann,AT,65,Downhill
-2015-01-23,Manuel Osborne-Paradis,CA,47,Downhill
-2015-01-23,Didier Defago,CH,115,Downhill
-2015-01-23,Steven Nyman,US,22,Downhill
-2015-01-23,Aleksander Aamodt Kilde,NO,22,Super G
-2015-01-23,Patrick Kueng,CH,58,Downhill
-2015-01-23,Thomas Tumler,CH,21,Super G
-2015-01-23,Johan Clarey,FR,52,Downhill
-2015-01-23,Jan Hudec,CA,47,Super G
-2015-01-23,Ondrej Bank,CZ,26,Combined
-2015-01-23,Travis Ganong,US,18,Downhill
-2015-01-23,Beat Feuz,CH,41,Downhill
-2015-01-23,Alexis Pinturault,FR,80,Giant Slalom
-2015-01-23,Vincent Kriechmayr,AT,74,Super G
-2015-01-23,Sandro Viletta,CH,49,Downhill
-2015-01-23,Josef Ferstl,DE,11,Downhill
-2015-01-23,Dominik Paris,IT,285,Downhill
-2015-01-23,Matthias Mayer,AT,174,Downhill
-2015-01-23,Dustin Cook,CA,76,Super G
-2015-01-23,Bostjan Kline,SK,0,Downhill
-2015-01-23,Hannes Reichelt,AT,207,Downhill
+2014-12-20,Travis Ganong,US,18,Downhill
+2014-12-20,Max Franz,AT,67,Downhill
+2014-12-20,Patrick Schweiger,AT,15,Super G
+2014-12-20,Thomas Mermillod,FR,23,Super G
+2014-12-20,Peter Fill,IT,66,Downhill
+2014-12-20,Mauro Caviezel,CH,0,Super G
+2014-12-20,Klaus Brandner,DE,13,Downhill
+2014-12-20,Romed Baumann,AT,52,Downhill
+2014-12-20,Marcel Hirscher,AT,0,Giant Slalom
+2014-12-20,Sam Robertson,AU,0,Combined
+2014-12-20,Jan Hudec,CA,47,Super G
+2014-12-20,Sandro Viletta,CH,41,Downhill
+2014-12-20,Carlo Janka,CH,76,Downhill
+2014-12-20,Manuel Osborne-Paradis,CA,47,Downhill
+2014-12-20,Mattia Casse,IT,8,Downhill
+2014-12-20,Beat Feuz,CH,27,Downhill
+2014-12-20,Felix Monsen,SE,0,Combined
+2014-12-20,Marc Oliveras,AD,0,Combined
+2014-12-20,Othmar Striedinger,AT,86,Super G
+2014-12-20,Ondrej Bank,CZ,4,Downhill
 2015-01-23,Kjetil Jansrud,NO,316,Downhill
-2015-01-23,Klemen Kosi,SK,11,Downhill
+2015-01-23,Yuri Danilochkin,BY,0,Combined
+2015-01-23,Sandro Viletta,CH,49,Downhill
+2015-01-23,Klaus Kroell,AT,0,Downhill
+2015-01-23,Silvan Zurbriggen,CH,0,Downhill
+2015-01-23,Silvano Varettoni,IT,0,Downhill
+2015-01-23,Jan Hudec,CA,47,Super G
+2015-01-23,Hannes Reichelt,AT,207,Downhill
+2015-01-23,Markus Duerager,AT,4,Downhill
+2015-01-23,Maciej Bydlinski,PL,0,Combined
+2015-01-23,Marco Sullivan,US,0,Downhill
+2015-01-23,Travis Ganong,US,18,Downhill
+2015-01-23,Ivica Kostelic,HR,0,Combined
+2015-01-23,Blaise Giezendanner,FR,0,Downhill
+2015-01-23,Paul De La Cuesta,ES,0,Combined
+2015-01-23,Sam Robertson,AU,0,Combined
+2015-01-23,Adam Zampa,SK,0,Slalom
+2015-01-23,Vincent Kriechmayr,AT,74,Super G
+2015-01-23,Brice Roger,FR,16,Super G
+2015-01-23,Christof Innerhofer,IT,85,Super G
+2015-01-23,Bryce Bennett,US,0,Combined
+2015-01-23,Andrew Weibrecht,US,94,Super G
+2015-01-23,Wiley Maple,US,0,Downhill
+2015-01-23,Felix Monsen,SE,0,Combined
+2015-01-23,Nils Mani,CH,0,Super G
+2015-01-23,Broderick Thompson,CA,0,Combined
+2015-01-23,Andrej Sporn,SK,0,Combined
 2015-01-23,Adrien Theaux,FR,74,Super G
-2015-02-22,Aleksander Aamodt Kilde,NO,58,Super G
-2015-02-22,Victor Muffat Jeandet,FR,0,Giant Slalom
-2015-02-22,Justin Murisier,CH,0,Giant Slalom
-2015-02-22,Hannes Reichelt,AT,207,Downhill
-2015-02-22,Krystof Kryzl,CZ,0,Giant Slalom
-2015-02-22,Adam Zampa,SK,0,Slalom
-2015-02-22,Henrik Von Appen,CL,0,Combined
-2015-02-22,Paul De La Cuesta,ES,0,Combined
-2015-02-22,Patrick Kueng,CH,68,Downhill
-2015-02-22,Maxence Muzaton,FR,0,Downhill
-2015-02-22,Martin Vrablik,CZ,0,Combined
-2015-02-22,Didier Defago,CH,130,Downhill
-2015-02-22,Maciej Bydlinski,PL,0,Combined
-2015-02-22,Kjetil Jansrud,NO,376,Downhill
-2015-02-22,Andrej Sporn,SK,0,Combined
-2015-02-22,Artem Borodaykin,RU,0,Combined
-2015-02-22,Arnaud Alessandria,MC,0,Combined
-2015-02-22,Jan Hudec,CA,47,Super G
-2015-02-22,Ola Buer Johansen,NO,0,Combined
-2015-02-22,Henri Battilani,IT,0,Downhill
+2015-01-23,Ondrej Bank,CZ,26,Downhill
+2015-01-23,Siegmar Klotz,IT,1,Downhill
+2015-01-23,Ted Ligety,US,24,Giant Slalom
+2015-01-23,Bjoernar Neteland,NO,0,Super G
+2015-01-23,Henri Battilani,IT,0,Downhill
+2015-01-23,Hans Olsson,SE,1,Combined
+2015-01-23,Othmar Striedinger,AT,126,Super G
+2015-01-23,Thomas Tumler,CH,21,Super G
+2015-01-23,Marc Gisin,CH,0,Downhill
+2015-01-23,Florian Scheiber,AT,0,Downhill
+2015-01-23,Johan Clarey,FR,52,Downhill
+2015-01-23,Steven Nyman,US,22,Downhill
+2015-01-23,David Poisson,FR,0,Downhill
+2015-01-23,Ondrej Berndt,CZ,0,Combined
+2015-01-23,Maxence Muzaton,FR,0,Downhill
+2015-01-23,Thomas Mermillod,FR,23,Super G
+2015-01-23,Patrick Kueng,CH,58,Downhill
+2015-01-23,Miha Hrobat,SK,0,Combined
+2015-01-23,Christoffer Faarup,DK,0,Combined
+2015-01-23,Tim Jitloff,US,7,Giant Slalom
+2015-01-23,Mauro Caviezel,CH,20,Super G
+2015-01-23,Werner Heel,IT,30,Downhill
+2015-01-23,Didier Defago,CH,115,Downhill
+2015-01-23,Jared Goldberg,US,6,Downhill
+2015-01-23,Tobias Stechert,DE,0,Downhill
+2015-01-23,Georg Streitberger,AT,119,Downhill
+2015-01-23,Valentin Giraud Moine,FR,0,Combined
+2015-01-23,Dustin Cook,CA,76,Super G
+2015-01-23,Beat Feuz,CH,41,Downhill
+2015-01-23,Andreas Sander,DE,4,Downhill
+2015-01-23,Klaus Brandner,DE,13,Downhill
+2015-01-23,Manuel Osborne-Paradis,CA,47,Downhill
+2015-01-23,Alexis Pinturault,FR,80,Giant Slalom
+2015-01-23,Ami Oreiller,CH,0,Combined
+2015-01-23,Marvin Van Heek,NL,0,Combined
+2015-01-23,Krystof Kryzl,CZ,0,Giant Slalom
+2015-01-23,Josef Ferstl,DE,11,Downhill
+2015-01-23,Benjamin Thomsen,CA,0,Downhill
+2015-01-23,Philip Brown,CA,0,Giant Slalom
+2015-01-23,Cristian Javier Simari Birkner,AR,0,Combined
+2015-01-23,Martin Vrablik,CZ,0,Combined
+2015-01-23,Marc Oliveras,AD,0,Combined
+2015-01-23,Klemen Kosi,SK,11,Downhill
+2015-01-23,Bostjan Kline,SK,0,Downhill
+2015-01-23,Romed Baumann,AT,65,Downhill
+2015-01-23,Mattia Casse,IT,8,Downhill
+2015-01-23,Andreas Zampa,SK,0,Combined
+2015-01-23,Marcel Hirscher,AT,0,Giant Slalom
+2015-01-23,Matteo Marsaglia,IT,68,Super G
+2015-01-23,Fabio Renz,DE,0,Combined
+2015-01-23,Justin Murisier,CH,0,Giant Slalom
+2015-01-23,Rok Perko,SK,0,Combined
+2015-01-23,Joachim Puchner,AT,9,Super G
+2015-01-23,Natko Zrncic-Dim,HR,6,Combined
+2015-01-23,Arnaud Alessandria,MC,0,Combined
+2015-01-23,Alek Glebov,RU,5,Super G
+2015-01-23,Patrick Schweiger,AT,15,Super G
+2015-01-23,Matthias Mayer,AT,174,Downhill
+2015-01-23,Aleksander Aamodt Kilde,NO,22,Super G
+2015-01-23,Matteo De Vettori,IT,0,Combined
+2015-01-23,Fernando Schmed,CH,0,Super G
+2015-01-23,Henrik Von Appen,CL,0,Combined
+2015-01-23,Max Franz,AT,93,Downhill
+2015-01-23,Jeffrey Frisch,CA,0,Combined
+2015-01-23,Victor Muffat Jeandet,FR,0,Giant Slalom
+2015-01-23,Guillermo Fayed,FR,18,Downhill
+2015-01-23,Ralph Weber,CH,0,Downhill
+2015-01-23,Peter Fill,IT,66,Downhill
+2015-01-23,Thomas Biesemeyer,US,6,Super G
+2015-01-23,Andreas Romar,FI,0,Combined
+2015-01-23,Ola Buer Johansen,NO,0,Combined
+2015-01-23,Martin Cater,SK,0,Combined
+2015-01-23,Morgan Pridy,CA,29,Super G
+2015-01-23,Thomas Dressen,DE,0,Combined
+2015-01-23,Tyler Werry,CA,0,Combined
+2015-01-23,Artem Borodaykin,RU,0,Combined
+2015-01-23,Pavel Trikhichev,RU,0,Slalom
+2015-01-23,Carlo Janka,CH,86,Downhill
+2015-01-23,Marc Berthod,CH,6,Downhill
+2015-01-23,Dominik Paris,IT,285,Downhill
 2015-02-22,Travis Ganong,US,47,Downhill
-2015-02-22,Bryce Bennett,US,0,Combined
 2015-02-22,Pavel Trikhichev,RU,0,Slalom
-2015-02-22,Silvan Zurbriggen,CH,0,Downhill
-2015-02-22,Ivica Kostelic,HR,0,Combined
-2015-02-22,Beat Feuz,CH,41,Downhill
-2015-02-22,Klaus Kroell,AT,0,Downhill
-2015-02-22,Joachim Puchner,AT,35,Super G
-2015-02-22,Johan Clarey,FR,68,Downhill
-2015-02-22,Romed Baumann,AT,89,Downhill
-2015-02-22,Vincent Kriechmayr,AT,96,Super G
-2015-02-22,Ondrej Berndt,CZ,0,Combined
-2015-02-22,Miha Hrobat,SK,0,Combined
-2015-02-22,Alexis Pinturault,FR,125,Giant Slalom
-2015-02-22,Marc Oliveras,AD,0,Combined
-2015-02-22,Jeffrey Frisch,CA,0,Combined
-2015-02-22,Adrien Theaux,FR,154,Super G
-2015-02-22,Georg Streitberger,AT,128,Downhill
-2015-02-22,Dustin Cook,CA,79,Super G
-2015-02-22,Felix Monsen,SE,0,Combined
-2015-02-22,Brice Roger,FR,48,Super G
-2015-02-22,Christoffer Faarup,DK,0,Combined
-2015-02-22,Fabio Renz,DE,0,Combined
-2015-02-22,Othmar Striedinger,AT,137,Super G
-2015-02-22,Sam Robertson,AU,0,Combined
-2015-02-22,Peter Fill,IT,71,Downhill
-2015-02-22,Tyler Werry,CA,0,Combined
-2015-02-22,Thomas Dressen,DE,0,Combined
-2015-02-22,Carlo Janka,CH,136,Downhill
-2015-02-22,Blaise Giezendanner,FR,0,Downhill
-2015-02-22,Matteo Marsaglia,IT,108,Super G
-2015-02-22,Philip Brown,CA,0,Giant Slalom
-2015-02-22,Mauro Caviezel,CH,33,Super G
-2015-02-22,Dominik Paris,IT,303,Downhill
-2015-02-22,Yuri Danilochkin,BY,0,Combined
-2015-02-22,Marc Gisin,CH,0,Downhill
-2015-02-22,Andrew Weibrecht,US,106,Super G
-2015-02-22,Christof Innerhofer,IT,85,Super G
-2015-02-22,Broderick Thompson,CA,0,Combined
-2015-02-22,Matthias Mayer,AT,274,Downhill
-2015-02-22,Max Franz,AT,115,Downhill
-2015-02-22,Marcel Hirscher,AT,14,Giant Slalom
 2015-02-22,Silvano Varettoni,IT,0,Downhill
-2015-02-22,Rok Perko,SK,0,Combined
-2015-02-22,Thomas Biesemeyer,US,6,Super G
-2015-02-22,Manuel Osborne-Paradis,CA,47,Downhill
-2015-02-22,Ondrej Bank,CZ,26,Combined
-2015-02-22,Fernando Schmed,CH,2,Super G
-2015-02-22,Steven Nyman,US,22,Downhill
-2015-02-22,Ralph Weber,CH,6,Downhill
-2015-02-22,Andreas Romar,FI,0,Combined
-2015-02-22,Bjoernar Neteland,NO,0,Super G
-2015-02-22,Marvin Van Heek,NL,0,Combined
-2015-02-22,Andreas Zampa,SK,0,Combined
-2015-02-22,Hans Olsson,SE,1,Combined
-2015-02-22,Jared Goldberg,US,7,Downhill
-2015-02-22,Thomas Mermillod,FR,27,Super G
-2015-02-22,Florian Scheiber,AT,0,Downhill
-2015-02-22,Marc Berthod,CH,6,Downhill
-2015-02-22,Klemen Kosi,SK,11,Downhill
-2015-02-22,Tobias Stechert,DE,0,Downhill
-2015-02-22,Guillermo Fayed,FR,18,Downhill
-2015-02-22,Markus Duerager,AT,4,Downhill
-2015-02-22,Thomas Tumler,CH,21,Super G
-2015-02-22,Mattia Casse,IT,15,Downhill
-2015-02-22,Nils Mani,CH,0,Super G
-2015-02-22,Natko Zrncic-Dim,HR,6,Combined
-2015-02-22,Klaus Brandner,DE,13,Downhill
-2015-02-22,Patrick Schweiger,AT,23,Super G
-2015-02-22,Sandro Viletta,CH,49,Downhill
+2015-02-22,Ondrej Berndt,CZ,0,Combined
+2015-02-22,Tyler Werry,CA,0,Combined
+2015-02-22,Silvan Zurbriggen,CH,0,Downhill
 2015-02-22,Cristian Javier Simari Birkner,AR,0,Combined
+2015-02-22,Marvin Van Heek,NL,0,Combined
+2015-02-22,Manuel Osborne-Paradis,CA,47,Downhill
+2015-02-22,Philip Brown,CA,0,Giant Slalom
+2015-02-22,Tobias Stechert,DE,0,Downhill
+2015-02-22,Dominik Paris,IT,303,Downhill
+2015-02-22,Romed Baumann,AT,89,Downhill
+2015-02-22,Andreas Romar,FI,0,Combined
+2015-02-22,Christoffer Faarup,DK,0,Combined
+2015-02-22,Martin Cater,SK,0,Combined
+2015-02-22,Artem Borodaykin,RU,0,Combined
+2015-02-22,Didier Defago,CH,130,Downhill
+2015-02-22,Aleksander Aamodt Kilde,NO,58,Super G
+2015-02-22,Paul De La Cuesta,ES,0,Combined
+2015-02-22,Matthias Mayer,AT,274,Downhill
+2015-02-22,Rok Perko,SK,0,Combined
+2015-02-22,Maciej Bydlinski,PL,0,Combined
+2015-02-22,Beat Feuz,CH,41,Downhill
+2015-02-22,Bryce Bennett,US,0,Combined
+2015-02-22,Peter Fill,IT,71,Downhill
+2015-02-22,Klaus Kroell,AT,0,Downhill
+2015-02-22,Yuri Danilochkin,BY,0,Combined
+2015-02-22,Henri Battilani,IT,0,Downhill
+2015-02-22,Johan Clarey,FR,68,Downhill
+2015-02-22,Hannes Reichelt,AT,207,Downhill
+2015-02-22,Matteo Marsaglia,IT,108,Super G
+2015-02-22,Broderick Thompson,CA,0,Combined
+2015-02-22,Jan Hudec,CA,47,Super G
+2015-02-22,Henrik Von Appen,CL,0,Combined
+2015-02-22,Patrick Kueng,CH,68,Downhill
+2015-02-22,Sandro Viletta,CH,49,Downhill
+2015-02-22,Joachim Puchner,AT,35,Super G
+2015-02-22,Morgan Pridy,CA,29,Super G
+2015-02-22,Matteo De Vettori,IT,0,Combined
+2015-02-22,Fernando Schmed,CH,2,Super G
+2015-02-22,Marc Oliveras,AD,0,Combined
+2015-02-22,Thomas Dressen,DE,0,Combined
+2015-02-22,Alexis Pinturault,FR,125,Giant Slalom
+2015-02-22,Alek Glebov,RU,5,Super G
+2015-02-22,Victor Muffat Jeandet,FR,0,Giant Slalom
+2015-02-22,Miha Hrobat,SK,0,Combined
+2015-02-22,Natko Zrncic-Dim,HR,6,Combined
+2015-02-22,Adam Zampa,SK,0,Slalom
+2015-02-22,Benjamin Thomsen,CA,0,Downhill
+2015-02-22,Max Franz,AT,115,Downhill
 2015-02-22,Marco Sullivan,US,0,Downhill
-2015-03-08,Mauro Caviezel,CH,55,Super G
-2015-03-08,Ondrej Berndt,CZ,0,Combined
-2015-03-08,Vincent Kriechmayr,AT,176,Super G
-2015-03-08,Silvano Varettoni,IT,0,Downhill
-2015-03-08,Wiley Maple,US,0,Downhill
-2015-03-08,Matteo Marsaglia,IT,108,Super G
-2015-03-08,Morgan Pridy,CA,29,Super G
-2015-03-08,Nils Mani,CH,1,Super G
-2015-03-08,Patrick Schweiger,AT,27,Super G
-2015-03-08,Matthias Mayer,AT,274,Downhill
-2015-03-08,Hans Olsson,SE,1,Combined
-2015-03-08,Rok Perko,SK,0,Combined
-2015-03-08,Andrew Weibrecht,US,151,Super G
-2015-03-08,Philip Brown,CA,0,Giant Slalom
-2015-03-08,Max Franz,AT,147,Downhill
-2015-03-08,Siegmar Klotz,IT,1,Downhill
-2015-03-08,Fernando Schmed,CH,8,Super G
-2015-03-08,Broderick Thompson,CA,0,Combined
-2015-03-08,Yuri Danilochkin,BY,0,Combined
-2015-03-08,Christof Innerhofer,IT,85,Super G
-2015-03-08,Ted Ligety,US,24,Giant Slalom
-2015-03-08,Guillermo Fayed,FR,28,Downhill
+2015-02-22,Marcel Hirscher,AT,14,Giant Slalom
+2015-02-22,Kjetil Jansrud,NO,376,Downhill
+2015-02-22,Patrick Schweiger,AT,23,Super G
+2015-02-22,Ralph Weber,CH,6,Downhill
+2015-02-22,Marc Berthod,CH,6,Downhill
+2015-02-22,Felix Monsen,SE,0,Combined
+2015-02-22,Georg Streitberger,AT,128,Downhill
+2015-02-22,Mattia Casse,IT,15,Downhill
+2015-02-22,Bostjan Kline,SK,0,Downhill
+2015-02-22,Klemen Kosi,SK,11,Downhill
+2015-02-22,Ami Oreiller,CH,0,Combined
+2015-02-22,Krystof Kryzl,CZ,0,Giant Slalom
+2015-02-22,Klaus Brandner,DE,13,Downhill
+2015-02-22,Josef Ferstl,DE,11,Downhill
+2015-02-22,Andreas Sander,DE,4,Downhill
+2015-02-22,Martin Vrablik,CZ,0,Combined
+2015-02-22,Jared Goldberg,US,7,Downhill
+2015-02-22,Werner Heel,IT,30,Downhill
+2015-02-22,Brice Roger,FR,48,Super G
+2015-02-22,Guillermo Fayed,FR,18,Downhill
+2015-02-22,Tim Jitloff,US,7,Giant Slalom
+2015-02-22,Justin Murisier,CH,0,Giant Slalom
+2015-02-22,Thomas Biesemeyer,US,6,Super G
+2015-02-22,Markus Duerager,AT,4,Downhill
+2015-02-22,Steven Nyman,US,22,Downhill
+2015-02-22,Thomas Mermillod,FR,27,Super G
+2015-02-22,Maxence Muzaton,FR,0,Downhill
+2015-02-22,Othmar Striedinger,AT,137,Super G
+2015-02-22,Ivica Kostelic,HR,0,Combined
+2015-02-22,Arnaud Alessandria,MC,0,Combined
+2015-02-22,Ted Ligety,US,24,Giant Slalom
+2015-02-22,Blaise Giezendanner,FR,0,Downhill
+2015-02-22,Andrew Weibrecht,US,106,Super G
+2015-02-22,Marc Gisin,CH,0,Downhill
+2015-02-22,Adrien Theaux,FR,154,Super G
+2015-02-22,Sam Robertson,AU,0,Combined
+2015-02-22,Jeffrey Frisch,CA,0,Combined
+2015-02-22,Ola Buer Johansen,NO,0,Combined
+2015-02-22,Valentin Giraud Moine,FR,0,Combined
+2015-02-22,Dustin Cook,CA,79,Super G
+2015-02-22,Fabio Renz,DE,0,Combined
+2015-02-22,Mauro Caviezel,CH,33,Super G
+2015-02-22,Andreas Zampa,SK,0,Combined
+2015-02-22,David Poisson,FR,0,Downhill
+2015-02-22,Carlo Janka,CH,136,Downhill
+2015-02-22,Ondrej Bank,CZ,26,Downhill
+2015-02-22,Wiley Maple,US,0,Downhill
+2015-02-22,Hans Olsson,SE,1,Combined
+2015-02-22,Nils Mani,CH,0,Super G
+2015-02-22,Florian Scheiber,AT,0,Downhill
+2015-02-22,Andrej Sporn,SK,0,Combined
+2015-02-22,Christof Innerhofer,IT,85,Super G
+2015-02-22,Siegmar Klotz,IT,1,Downhill
+2015-02-22,Thomas Tumler,CH,21,Super G
+2015-02-22,Vincent Kriechmayr,AT,96,Super G
+2015-02-22,Bjoernar Neteland,NO,0,Super G
+2015-03-08,Pavel Trikhichev,RU,0,Slalom
+2015-03-08,Carlo Janka,CH,168,Downhill
+2015-03-08,Klaus Kroell,AT,0,Downhill
 2015-03-08,Marcel Hirscher,AT,14,Giant Slalom
-2015-03-08,Miha Hrobat,SK,0,Combined
-2015-03-08,Mattia Casse,IT,27,Downhill
-2015-03-08,Blaise Giezendanner,FR,0,Downhill
-2015-03-08,Alexis Pinturault,FR,143,Giant Slalom
-2015-03-08,Marc Oliveras,AD,0,Combined
-2015-03-08,Adrien Theaux,FR,154,Super G
-2015-03-08,Klaus Brandner,DE,13,Downhill
+2015-03-08,Kjetil Jansrud,NO,476,Downhill
+2015-03-08,Cristian Javier Simari Birkner,AR,0,Combined
+2015-03-08,Ola Buer Johansen,NO,0,Combined
+2015-03-08,Krystof Kryzl,CZ,0,Giant Slalom
+2015-03-08,Christof Innerhofer,IT,85,Super G
+2015-03-08,Adam Zampa,SK,0,Slalom
+2015-03-08,Ondrej Berndt,CZ,0,Combined
+2015-03-08,Justin Murisier,CH,0,Giant Slalom
+2015-03-08,Silvan Zurbriggen,CH,0,Downhill
+2015-03-08,Andrej Sporn,SK,0,Combined
+2015-03-08,Romed Baumann,AT,129,Downhill
+2015-03-08,Matteo Marsaglia,IT,108,Super G
 2015-03-08,Felix Monsen,SE,0,Combined
-2015-03-08,Georg Streitberger,AT,128,Downhill
-2015-03-08,Jeffrey Frisch,CA,0,Combined
-2015-03-08,Brice Roger,FR,72,Super G
+2015-03-08,Hannes Reichelt,AT,207,Downhill
+2015-03-08,Maxence Muzaton,FR,0,Downhill
+2015-03-08,Martin Vrablik,CZ,0,Combined
+2015-03-08,Victor Muffat Jeandet,FR,0,Giant Slalom
+2015-03-08,Andrew Weibrecht,US,151,Super G
+2015-03-08,Arnaud Alessandria,MC,0,Combined
+2015-03-08,Martin Cater,SK,0,Combined
+2015-03-08,Mauro Caviezel,CH,55,Super G
+2015-03-08,Max Franz,AT,147,Downhill
+2015-03-08,Bostjan Kline,SK,11,Downhill
 2015-03-08,Christoffer Faarup,DK,0,Combined
-2015-03-08,Matteo De Vettori,IT,0,Combined
+2015-03-08,Natko Zrncic-Dim,HR,6,Combined
+2015-03-08,Marco Sullivan,US,5,Downhill
+2015-03-08,Thomas Mermillod,FR,47,Super G
+2015-03-08,Steven Nyman,US,22,Downhill
 2015-03-08,Markus Duerager,AT,4,Downhill
 2015-03-08,Bjoernar Neteland,NO,3,Super G
-2015-03-08,Werner Heel,IT,30,Downhill
-2015-03-08,Othmar Striedinger,AT,137,Super G
-2015-03-08,Sam Robertson,AU,0,Combined
-2015-03-08,Fabio Renz,DE,0,Combined
-2015-03-08,Dustin Cook,CA,139,Super G
-2015-03-08,Thomas Dressen,DE,0,Combined
+2015-03-08,Marc Oliveras,AD,0,Combined
 2015-03-08,Florian Scheiber,AT,2,Downhill
-2015-03-08,Peter Fill,IT,71,Downhill
-2015-03-08,Carlo Janka,CH,168,Downhill
-2015-03-08,Ami Oreiller,CH,0,Combined
-2015-03-08,Tyler Werry,CA,0,Combined
-2015-03-08,Bostjan Kline,SK,11,Downhill
-2015-03-08,Dominik Paris,IT,353,Downhill
-2015-03-08,Ralph Weber,CH,6,Downhill
-2015-03-08,Andrej Sporn,SK,0,Combined
-2015-03-08,Henrik Von Appen,CL,0,Combined
+2015-03-08,Thomas Dressen,DE,0,Combined
+2015-03-08,Wiley Maple,US,0,Downhill
+2015-03-08,Vincent Kriechmayr,AT,176,Super G
 2015-03-08,Thomas Tumler,CH,37,Super G
-2015-03-08,Jared Goldberg,US,15,Downhill
-2015-03-08,Romed Baumann,AT,129,Downhill
-2015-03-08,Ondrej Bank,CZ,26,Combined
-2015-03-08,Johan Clarey,FR,68,Downhill
-2015-03-08,Artem Borodaykin,RU,0,Combined
-2015-03-08,Arnaud Alessandria,MC,0,Combined
-2015-03-08,Marvin Van Heek,NL,0,Combined
-2015-03-08,Jan Hudec,CA,47,Super G
-2015-03-08,Tim Jitloff,US,7,Giant Slalom
-2015-03-08,Ola Buer Johansen,NO,0,Combined
-2015-03-08,Travis Ganong,US,54,Downhill
-2015-03-08,Andreas Zampa,SK,0,Combined
-2015-03-08,Henri Battilani,IT,0,Downhill
-2015-03-08,Pavel Trikhichev,RU,0,Slalom
-2015-03-08,Kjetil Jansrud,NO,476,Downhill
-2015-03-08,Beat Feuz,CH,56,Downhill
-2015-03-08,Bryce Bennett,US,0,Combined
+2015-03-08,Ondrej Bank,CZ,26,Downhill
+2015-03-08,Siegmar Klotz,IT,1,Downhill
+2015-03-08,Nils Mani,CH,1,Super G
+2015-03-08,Adrien Theaux,FR,154,Super G
 2015-03-08,Sandro Viletta,CH,49,Downhill
-2015-03-08,Thomas Biesemeyer,US,6,Super G
-2015-03-08,Klaus Kroell,AT,0,Downhill
-2015-03-08,Cristian Javier Simari Birkner,AR,0,Combined
-2015-03-08,Joachim Puchner,AT,49,Super G
-2015-03-08,Ivica Kostelic,HR,0,Combined
-2015-03-08,Martin Cater,SK,0,Combined
 2015-03-08,David Poisson,FR,0,Downhill
-2015-03-08,Tobias Stechert,DE,0,Downhill
-2015-03-08,Patrick Kueng,CH,104,Downhill
-2015-03-08,Marco Sullivan,US,5,Downhill
-2015-03-08,Adam Zampa,SK,0,Slalom
-2015-03-08,Marc Gisin,CH,0,Downhill
-2015-03-08,Martin Vrablik,CZ,0,Combined
+2015-03-08,Hans Olsson,SE,1,Combined
+2015-03-08,Andreas Zampa,SK,0,Combined
+2015-03-08,Patrick Schweiger,AT,27,Super G
+2015-03-08,Fernando Schmed,CH,8,Super G
+2015-03-08,Ami Oreiller,CH,0,Combined
+2015-03-08,Mattia Casse,IT,27,Downhill
+2015-03-08,Klemen Kosi,SK,11,Downhill
+2015-03-08,Georg Streitberger,AT,128,Downhill
+2015-03-08,Klaus Brandner,DE,13,Downhill
+2015-03-08,Josef Ferstl,DE,11,Downhill
 2015-03-08,Andreas Sander,DE,13,Downhill
-2015-03-08,Manuel Osborne-Paradis,CA,60,Downhill
-2015-03-08,Thomas Mermillod,FR,47,Super G
-2015-03-08,Hannes Reichelt,AT,207,Downhill
-2015-03-08,Krystof Kryzl,CZ,0,Giant Slalom
-2015-03-08,Paul De La Cuesta,ES,0,Combined
-2015-03-08,Didier Defago,CH,156,Downhill
-2015-03-08,Justin Murisier,CH,0,Giant Slalom
-2015-03-08,Andreas Romar,FI,0,Combined
-2015-03-08,Steven Nyman,US,22,Downhill
+2015-03-08,Werner Heel,IT,30,Downhill
+2015-03-08,Alek Glebov,RU,5,Super G
+2015-03-08,Jared Goldberg,US,15,Downhill
+2015-03-08,Brice Roger,FR,72,Super G
+2015-03-08,Guillermo Fayed,FR,28,Downhill
+2015-03-08,Thomas Biesemeyer,US,6,Super G
+2015-03-08,Morgan Pridy,CA,29,Super G
 2015-03-08,Marc Berthod,CH,6,Downhill
-2015-03-08,Aleksander Aamodt Kilde,NO,58,Super G
+2015-03-08,Matteo De Vettori,IT,0,Combined
+2015-03-08,Alexis Pinturault,FR,143,Giant Slalom
+2015-03-08,Ralph Weber,CH,6,Downhill
+2015-03-08,Tim Jitloff,US,7,Giant Slalom
+2015-03-08,Ted Ligety,US,24,Giant Slalom
+2015-03-08,Ivica Kostelic,HR,0,Combined
+2015-03-08,Yuri Danilochkin,BY,0,Combined
+2015-03-08,Johan Clarey,FR,68,Downhill
+2015-03-08,Henri Battilani,IT,0,Downhill
+2015-03-08,Matthias Mayer,AT,274,Downhill
+2015-03-08,Bryce Bennett,US,0,Combined
 2015-03-08,Maciej Bydlinski,PL,0,Combined
-2015-03-08,Victor Muffat Jeandet,FR,0,Giant Slalom
-2015-03-19,Dustin Cook,CA,239,Super G
-2015-03-19,Silvano Varettoni,IT,0,Downhill
-2015-03-19,Bryce Bennett,US,0,Combined
-2015-03-19,Adrien Theaux,FR,190,Super G
-2015-03-19,Ralph Weber,CH,6,Downhill
-2015-03-19,David Poisson,FR,0,Downhill
-2015-03-19,Marc Berthod,CH,6,Downhill
-2015-03-19,Blaise Giezendanner,FR,0,Downhill
-2015-03-19,Rok Perko,SK,0,Combined
-2015-03-19,Marc Gisin,CH,0,Downhill
-2015-03-19,Natko Zrncic-Dim,HR,6,Combined
-2015-03-19,Ivica Kostelic,HR,0,Combined
-2015-03-19,Hannes Reichelt,AT,243,Downhill
-2015-03-19,Tyler Werry,CA,0,Combined
-2015-03-19,Henrik Von Appen,CL,0,Combined
-2015-03-19,Mattia Casse,IT,27,Downhill
-2015-03-19,Andreas Sander,DE,13,Downhill
-2015-03-19,Henri Battilani,IT,0,Downhill
-2015-03-19,Klemen Kosi,SK,11,Downhill
-2015-03-19,Fernando Schmed,CH,8,Super G
-2015-03-19,Jared Goldberg,US,15,Downhill
-2015-03-19,Fabio Renz,DE,0,Combined
-2015-03-19,Artem Borodaykin,RU,0,Combined
-2015-03-19,Bostjan Kline,SK,11,Downhill
-2015-03-19,Thomas Biesemeyer,US,6,Super G
-2015-03-19,Alek Glebov,RU,5,Super G
-2015-03-19,Paul De La Cuesta,ES,0,Combined
-2015-03-19,Maciej Bydlinski,PL,0,Combined
-2015-03-19,Matthias Mayer,AT,274,Downhill
-2015-03-19,Broderick Thompson,CA,0,Combined
-2015-03-19,Jeffrey Frisch,CA,0,Combined
-2015-03-19,Dominik Paris,IT,367,Downhill
-2015-03-19,Kjetil Jansrud,NO,556,Downhill
-2015-03-19,Josef Ferstl,DE,11,Downhill
+2015-03-08,Patrick Kueng,CH,104,Downhill
+2015-03-08,Rok Perko,SK,0,Combined
+2015-03-08,Aleksander Aamodt Kilde,NO,58,Super G
+2015-03-08,Blaise Giezendanner,FR,0,Downhill
+2015-03-08,Henrik Von Appen,CL,0,Combined
+2015-03-08,Peter Fill,IT,71,Downhill
+2015-03-08,Didier Defago,CH,156,Downhill
+2015-03-08,Andreas Romar,FI,0,Combined
+2015-03-08,Philip Brown,CA,0,Giant Slalom
+2015-03-08,Tobias Stechert,DE,0,Downhill
+2015-03-08,Marvin Van Heek,NL,0,Combined
+2015-03-08,Dominik Paris,IT,353,Downhill
+2015-03-08,Manuel Osborne-Paradis,CA,60,Downhill
+2015-03-08,Artem Borodaykin,RU,0,Combined
+2015-03-08,Broderick Thompson,CA,0,Combined
+2015-03-08,Miha Hrobat,SK,0,Combined
+2015-03-08,Tyler Werry,CA,0,Combined
+2015-03-08,Joachim Puchner,AT,49,Super G
+2015-03-08,Paul De La Cuesta,ES,0,Combined
+2015-03-08,Fabio Renz,DE,0,Combined
+2015-03-08,Sam Robertson,AU,0,Combined
+2015-03-08,Othmar Striedinger,AT,137,Super G
+2015-03-08,Jeffrey Frisch,CA,0,Combined
+2015-03-08,Beat Feuz,CH,56,Downhill
+2015-03-08,Valentin Giraud Moine,FR,0,Combined
+2015-03-08,Travis Ganong,US,54,Downhill
+2015-03-08,Marc Gisin,CH,0,Downhill
+2015-03-08,Dustin Cook,CA,139,Super G
+2015-03-08,Jan Hudec,CA,47,Super G
+2015-03-08,Silvano Varettoni,IT,0,Downhill
+2015-03-08,Benjamin Thomsen,CA,0,Downhill
+2015-03-19,Marc Oliveras,AD,0,Combined
+2015-03-19,Christoffer Faarup,DK,0,Combined
+2015-03-19,Yuri Danilochkin,BY,0,Combined
 2015-03-19,Ami Oreiller,CH,0,Combined
-2015-03-19,Miha Hrobat,SK,0,Combined
-2015-03-19,Maxence Muzaton,FR,0,Downhill
-2015-03-19,Adam Zampa,SK,0,Slalom
-2015-03-19,Aleksander Aamodt Kilde,NO,58,Super G
-2015-03-19,Thomas Tumler,CH,37,Super G
-2015-03-19,Andreas Romar,FI,0,Combined
-2015-03-19,Victor Muffat Jeandet,FR,0,Giant Slalom
-2015-03-19,Tobias Stechert,DE,0,Downhill
-2015-03-19,Didier Defago,CH,178,Downhill
-2015-03-19,Tim Jitloff,US,7,Giant Slalom
-2015-03-19,Steven Nyman,US,22,Downhill
-2015-03-19,Krystof Kryzl,CZ,0,Giant Slalom
-2015-03-19,Manuel Osborne-Paradis,CA,75,Downhill
-2015-03-19,Nils Mani,CH,1,Super G
+2015-03-19,Matteo De Vettori,IT,0,Combined
+2015-03-19,Felix Monsen,SE,0,Combined
+2015-03-19,Sam Robertson,AU,0,Combined
+2015-03-19,Wiley Maple,US,0,Downhill
+2015-03-19,Ondrej Berndt,CZ,0,Combined
 2015-03-19,Martin Vrablik,CZ,0,Combined
+2015-03-19,Thomas Dressen,DE,0,Combined
+2015-03-19,Philip Brown,CA,0,Giant Slalom
+2015-03-19,Valentin Giraud Moine,FR,0,Combined
+2015-03-19,Marco Sullivan,US,5,Downhill
 2015-03-19,Justin Murisier,CH,0,Giant Slalom
-2015-03-19,Patrick Kueng,CH,114,Downhill
-2015-03-19,Ondrej Bank,CZ,26,Combined
-2015-03-19,Andrej Sporn,SK,0,Combined
-2015-03-19,Cristian Javier Simari Birkner,AR,0,Combined
-2015-03-19,Martin Cater,SK,0,Combined
-2015-03-19,Joachim Puchner,AT,49,Super G
-2015-03-19,Klaus Kroell,AT,0,Downhill
-2015-03-19,Sandro Viletta,CH,49,Downhill
-2015-03-19,Silvan Zurbriggen,CH,0,Downhill
-2015-03-19,Beat Feuz,CH,85,Downhill
+2015-03-19,Johan Clarey,FR,79,Downhill
+2015-03-19,Jan Hudec,CA,47,Super G
 2015-03-19,Travis Ganong,US,54,Downhill
+2015-03-19,Beat Feuz,CH,85,Downhill
+2015-03-19,Joachim Puchner,AT,49,Super G
+2015-03-19,Ted Ligety,US,24,Giant Slalom
+2015-03-19,Sandro Viletta,CH,49,Downhill
+2015-03-19,Ondrej Bank,CZ,26,Downhill
+2015-03-19,Thomas Tumler,CH,37,Super G
+2015-03-19,Steven Nyman,US,22,Downhill
+2015-03-19,Thomas Mermillod,FR,47,Super G
+2015-03-19,Patrick Schweiger,AT,27,Super G
+2015-03-19,Morgan Pridy,CA,29,Super G
+2015-03-19,Guillermo Fayed,FR,28,Downhill
+2015-03-19,Werner Heel,IT,30,Downhill
+2015-03-19,Klaus Brandner,DE,13,Downhill
+2015-03-19,Mattia Casse,IT,27,Downhill
+2015-03-19,Bostjan Kline,SK,11,Downhill
+2015-03-19,Klemen Kosi,SK,11,Downhill
+2015-03-19,Patrick Kueng,CH,114,Downhill
+2015-03-19,Aleksander Aamodt Kilde,NO,58,Super G
+2015-03-19,Didier Defago,CH,178,Downhill
+2015-03-19,Manuel Osborne-Paradis,CA,75,Downhill
+2015-03-19,Kjetil Jansrud,NO,556,Downhill
+2015-03-19,Hannes Reichelt,AT,243,Downhill
+2015-03-19,Dominik Paris,IT,367,Downhill
+2015-03-19,Matthias Mayer,AT,274,Downhill
+2015-03-19,Dustin Cook,CA,239,Super G
+2015-03-19,Adrien Theaux,FR,190,Super G
+2015-03-19,Vincent Kriechmayr,AT,196,Super G
+2015-03-19,Alexis Pinturault,FR,169,Giant Slalom
+2015-03-19,Georg Streitberger,AT,140,Downhill
+2015-03-19,Josef Ferstl,DE,11,Downhill
+2015-03-19,Brice Roger,FR,132,Super G
+2015-03-19,Peter Fill,IT,95,Downhill
+2015-03-19,Carlo Janka,CH,168,Downhill
+2015-03-19,Marcel Hirscher,AT,64,Giant Slalom
+2015-03-19,Max Franz,AT,187,Downhill
+2015-03-19,Christof Innerhofer,IT,85,Super G
+2015-03-19,Andrew Weibrecht,US,167,Super G
+2015-03-19,Mauro Caviezel,CH,100,Super G
+2015-03-19,Matteo Marsaglia,IT,121,Super G
+2015-03-19,Romed Baumann,AT,147,Downhill
+2015-03-19,Othmar Striedinger,AT,137,Super G
+2015-03-19,Andreas Sander,DE,13,Downhill
+2015-03-19,Jared Goldberg,US,15,Downhill
+2015-03-19,Tim Jitloff,US,7,Giant Slalom
+2015-03-19,Bryce Bennett,US,0,Combined
+2015-03-19,Maciej Bydlinski,PL,0,Combined
+2015-03-19,Rok Perko,SK,0,Combined
+2015-03-19,Henrik Von Appen,CL,0,Combined
+2015-03-19,Artem Borodaykin,RU,0,Combined
+2015-03-19,Andreas Romar,FI,0,Combined
+2015-03-19,Tobias Stechert,DE,0,Downhill
+2015-03-19,Marvin Van Heek,NL,0,Combined
 2015-03-19,Andreas Zampa,SK,0,Combined
+2015-03-19,Henri Battilani,IT,0,Downhill
+2015-03-19,Cristian Javier Simari Birkner,AR,0,Combined
+2015-03-19,Klaus Kroell,AT,0,Downhill
+2015-03-19,Silvan Zurbriggen,CH,0,Downhill
 2015-03-19,Pavel Trikhichev,RU,0,Slalom
 2015-03-19,Ola Buer Johansen,NO,0,Combined
-2015-03-19,Jan Hudec,CA,47,Super G
-2015-03-19,Marvin Van Heek,NL,0,Combined
 2015-03-19,Arnaud Alessandria,MC,0,Combined
-2015-03-19,Johan Clarey,FR,79,Downhill
-2015-03-19,Romed Baumann,AT,147,Downhill
-2015-03-19,Vincent Kriechmayr,AT,196,Super G
-2015-03-19,Thomas Mermillod,FR,47,Super G
-2015-03-19,Matteo Marsaglia,IT,121,Super G
-2015-03-19,Peter Fill,IT,95,Downhill
-2015-03-19,Othmar Striedinger,AT,137,Super G
-2015-03-19,Guillermo Fayed,FR,28,Downhill
-2015-03-19,Sam Robertson,AU,0,Combined
+2015-03-19,Andrej Sporn,SK,0,Combined
+2015-03-19,Maxence Muzaton,FR,0,Downhill
+2015-03-19,Adam Zampa,SK,0,Slalom
+2015-03-19,Victor Muffat Jeandet,FR,0,Giant Slalom
+2015-03-19,Martin Cater,SK,0,Combined
+2015-03-19,Krystof Kryzl,CZ,0,Giant Slalom
+2015-03-19,Broderick Thompson,CA,0,Combined
+2015-03-19,Silvano Varettoni,IT,0,Downhill
+2015-03-19,Thomas Biesemeyer,US,6,Super G
+2015-03-19,Marc Berthod,CH,6,Downhill
+2015-03-19,Ralph Weber,CH,6,Downhill
+2015-03-19,Fernando Schmed,CH,8,Super G
+2015-03-19,Alek Glebov,RU,5,Super G
+2015-03-19,Natko Zrncic-Dim,HR,6,Combined
 2015-03-19,Markus Duerager,AT,4,Downhill
-2015-03-19,Christoffer Faarup,DK,0,Combined
 2015-03-19,Bjoernar Neteland,NO,3,Super G
-2015-03-19,Brice Roger,FR,132,Super G
-2015-03-19,Felix Monsen,SE,0,Combined
-2015-03-19,Georg Streitberger,AT,140,Downhill
-2015-03-19,Marco Sullivan,US,5,Downhill
-2015-03-19,Marc Oliveras,AD,0,Combined
-2015-03-19,Alexis Pinturault,FR,169,Giant Slalom
-2015-03-19,Klaus Brandner,DE,13,Downhill
-2015-03-19,Werner Heel,IT,30,Downhill
-2015-03-19,Thomas Dressen,DE,0,Combined
-2015-03-19,Ted Ligety,US,24,Giant Slalom
-2015-03-19,Carlo Janka,CH,168,Downhill
-2015-03-19,Siegmar Klotz,IT,1,Downhill
-2015-03-19,Philip Brown,CA,0,Giant Slalom
-2015-03-19,Mauro Caviezel,CH,100,Super G
-2015-03-19,Patrick Schweiger,AT,27,Super G
-2015-03-19,Yuri Danilochkin,BY,0,Combined
-2015-03-19,Hans Olsson,SE,1,Combined
-2015-03-19,Andrew Weibrecht,US,167,Super G
-2015-03-19,Valentin Giraud Moine,FR,0,Combined
-2015-03-19,Christof Innerhofer,IT,85,Super G
-2015-03-19,Wiley Maple,US,0,Downhill
-2015-03-19,Morgan Pridy,CA,29,Super G
 2015-03-19,Florian Scheiber,AT,2,Downhill
-2015-03-19,Max Franz,AT,187,Downhill
-2015-03-19,Matteo De Vettori,IT,0,Combined
-2015-03-19,Marcel Hirscher,AT,64,Giant Slalom
-2015-03-19,Ondrej Berndt,CZ,0,Combined
+2015-03-19,Paul De La Cuesta,ES,0,Combined
+2015-03-19,Hans Olsson,SE,1,Combined
+2015-03-19,Nils Mani,CH,1,Super G
+2015-03-19,David Poisson,FR,0,Downhill
+2015-03-19,Ivica Kostelic,HR,0,Combined
+2015-03-19,Blaise Giezendanner,FR,0,Downhill
+2015-03-19,Marc Gisin,CH,0,Downhill
+2015-03-19,Jeffrey Frisch,CA,0,Combined
+2015-03-19,Fabio Renz,DE,0,Combined
 2015-03-19,Benjamin Thomsen,CA,0,Downhill
+2015-03-19,Tyler Werry,CA,0,Combined
+2015-03-19,Siegmar Klotz,IT,1,Downhill
+2015-03-19,Miha Hrobat,SK,0,Combined

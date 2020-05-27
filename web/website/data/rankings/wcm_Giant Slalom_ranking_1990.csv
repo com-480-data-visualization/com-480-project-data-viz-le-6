@@ -38,7 +38,7 @@ date,name,ath_country,value,specialty
 1989-08-11,Mitja Kunc,SK,0,Giant Slalom
 1989-08-11,Guenther Mader,AT,15,Giant Slalom
 1989-08-11,Urs Kaelin,CH,0,Giant Slalom
-1989-08-11,Markus Wasmeier,DE,0,Super G
+1989-08-11,Markus Wasmeier,DE,0,Combined
 1989-08-11,Steve Locher,CH,0,Super G
 1989-11-23,Alberto Tomba,IT,11,Slalom
 1989-11-23,Armin Bittner,DE,19,Slalom
@@ -58,7 +58,7 @@ date,name,ath_country,value,specialty
 1989-11-23,Mitja Kunc,SK,0,Giant Slalom
 1989-11-23,Jonas Nilsson,SE,2,Slalom
 1989-11-23,Martin Hangl,CH,0,Giant Slalom
-1989-11-23,Markus Wasmeier,DE,0,Super G
+1989-11-23,Markus Wasmeier,DE,0,Combined
 1989-11-23,Rainer Salzgeber,AT,3,Giant Slalom
 1989-11-23,Saso Robic,SK,0,Giant Slalom
 1989-11-23,Johan Wallner,SE,0,Giant Slalom
@@ -89,7 +89,7 @@ date,name,ath_country,value,specialty
 1989-11-30,Konrad Walk,AT,6,Giant Slalom
 1989-11-30,Rainer Salzgeber,AT,10,Giant Slalom
 1989-11-30,Christian Gaidet,FR,14,Giant Slalom
-1989-11-30,Markus Wasmeier,DE,0,Super G
+1989-11-30,Markus Wasmeier,DE,0,Combined
 1989-11-30,Michael von Gruenigen,CH,10,Giant Slalom
 1989-11-30,Stephan Eberharter,AT,8,Super G
 1989-11-30,Helmut Mayer,AT,14,Giant Slalom
@@ -123,7 +123,7 @@ date,name,ath_country,value,specialty
 1989-11-30,Ivano Camozzi,IT,19,Giant Slalom
 1989-11-30,Marc Girardelli,LU,23,Slalom
 1989-12-02,Thomas Stangassinger,AT,9,Slalom
-1989-12-02,Markus Wasmeier,DE,9,Super G
+1989-12-02,Markus Wasmeier,DE,9,Combined
 1989-12-02,Mitja Kunc,SK,0,Giant Slalom
 1989-12-02,Martin Knoeri,CH,2,Giant Slalom
 1989-12-02,Rainer Salzgeber,AT,10,Giant Slalom
@@ -187,7 +187,7 @@ date,name,ath_country,value,specialty
 1990-01-14,Tomaz Cizman,SK,0,Giant Slalom
 1990-01-14,Lars Boerje Eriksson,SE,45,Super G
 1990-01-14,Christian Gaidet,FR,15,Giant Slalom
-1990-01-14,Markus Wasmeier,DE,9,Super G
+1990-01-14,Markus Wasmeier,DE,9,Combined
 1990-01-14,Martin Knoeri,CH,2,Giant Slalom
 1990-01-14,Lasse Kjus,NO,9,Giant Slalom
 1990-01-14,Kjetil Andre Aamodt,NO,9,Giant Slalom
@@ -238,7 +238,7 @@ date,name,ath_country,value,specialty
 1990-01-23,Thomas Stangassinger,AT,9,Slalom
 1990-01-23,Mathias Berthold,AT,16,Giant Slalom
 1990-01-23,Rudolph Nierlich,AT,42,Slalom
-1990-01-23,Markus Wasmeier,DE,9,Super G
+1990-01-23,Markus Wasmeier,DE,9,Combined
 1990-01-23,Marc Girardelli,LU,23,Slalom
 1990-01-23,Jonas Nilsson,SE,9,Slalom
 1990-01-23,Christian Gaidet,FR,15,Giant Slalom
@@ -251,7 +251,7 @@ date,name,ath_country,value,specialty
 1990-03-03,Lars Boerje Eriksson,SE,56,Super G
 1990-03-03,Urs Kaelin,CH,25,Giant Slalom
 1990-03-03,Kjetil Andre Aamodt,NO,21,Giant Slalom
-1990-03-03,Markus Wasmeier,DE,9,Super G
+1990-03-03,Markus Wasmeier,DE,9,Combined
 1990-03-03,Niklas Henning,SE,9,Super G
 1990-03-03,Christian Gaidet,FR,15,Giant Slalom
 1990-03-03,Hans Pieren,CH,31,Giant Slalom

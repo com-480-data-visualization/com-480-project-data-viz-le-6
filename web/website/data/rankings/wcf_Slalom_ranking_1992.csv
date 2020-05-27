@@ -25,7 +25,7 @@ date,name,ath_country,value,specialty
 1991-11-30,Christine von Gruenigen,CH,0,Slalom
 1991-11-30,Renate Oberhofer,IT,0,Slalom
 1991-11-30,Pernilla Wiberg,SE,0,Slalom
-1991-11-30,Morena Gallizio Tescari,IT,8,Combined
+1991-11-30,Morena Gallizio Tescari,IT,8,Slalom
 1991-11-30,Anita Wachter,AT,0,Giant Slalom
 1991-11-30,Karin Buder,AT,40,Slalom
 1991-11-30,Heidi Voelker,US,0,Slalom
@@ -51,7 +51,7 @@ date,name,ath_country,value,specialty
 1991-11-30,Lara Magoni,IT,18,Slalom
 1991-11-30,Ingrid Salvenmoser,AT,16,Giant Slalom
 1991-11-30,Titti Rodling,SE,9,Slalom
-1991-11-30,Gaby May,CH,26,Combined
+1991-11-30,Gaby May,CH,26,Slalom
 1991-11-30,Katjusa Pusnik,SK,10,Slalom
 1991-12-01,Christelle Guignard,FR,20,Giant Slalom
 1991-12-01,Heidi Voelker,US,28,Slalom
@@ -97,9 +97,9 @@ date,name,ath_country,value,specialty
 1991-12-01,Monika Kaeslin,CH,0,Slalom
 1991-12-01,Pernilla Wiberg,SE,55,Slalom
 1991-12-01,Titti Rodling,SE,9,Slalom
-1991-12-01,Gaby May,CH,26,Combined
+1991-12-01,Gaby May,CH,26,Slalom
 1991-12-01,Anne Berge,NO,0,Slalom
-1991-12-01,Morena Gallizio Tescari,IT,22,Combined
+1991-12-01,Morena Gallizio Tescari,IT,22,Slalom
 1991-12-01,Blanca Fernandez Ochoa,ES,160,Slalom
 1991-12-01,Claudia Strobl,AT,106,Slalom
 1991-12-01,Martina Accola,CH,0,Slalom
@@ -120,7 +120,7 @@ date,name,ath_country,value,specialty
 1992-01-12,Sabine Ginther,AT,147,Downhill
 1992-01-12,Anouk Barnier,FR,0,Slalom
 1992-01-12,Gabriela Zingre-Graf,CH,46,Slalom
-1992-01-12,Gaby May,CH,33,Combined
+1992-01-12,Gaby May,CH,33,Slalom
 1992-01-12,Brigitte Auer,AT,0,Giant Slalom
 1992-01-12,Bibiana Perez,IT,34,Slalom
 1992-01-12,Blanca Fernandez Ochoa,ES,240,Slalom
@@ -137,7 +137,7 @@ date,name,ath_country,value,specialty
 1992-01-12,Christine von Gruenigen,CH,37,Slalom
 1992-01-12,Annick Bonzon,CH,70,Slalom
 1992-01-12,Eva Twardokens,US,36,Giant Slalom
-1992-01-12,Morena Gallizio Tescari,IT,22,Combined
+1992-01-12,Morena Gallizio Tescari,IT,22,Slalom
 1992-01-12,Renate Oberhofer,IT,18,Slalom
 1992-01-12,Kerstin Riediger,DE,0,Slalom
 1992-01-12,Veronika Sarec,SK,0,Slalom
@@ -173,14 +173,14 @@ date,name,ath_country,value,specialty
 1992-01-14,Ylva Nowen,SE,27,Giant Slalom
 1992-01-14,Annick Bonzon,CH,70,Slalom
 1992-01-14,Ingrid Salvenmoser,AT,56,Giant Slalom
-1992-01-14,Gaby May,CH,33,Combined
+1992-01-14,Gaby May,CH,33,Slalom
 1992-01-14,Ulrike Maier,AT,0,Giant Slalom
 1992-01-14,Edda Mutter,DE,38,Slalom
 1992-01-14,Claudia Strobl,AT,106,Slalom
 1992-01-14,Marianne Kjoerstad,NO,0,Slalom
 1992-01-14,Karin Buder,AT,157,Slalom
 1992-01-14,Pernilla Wiberg,SE,145,Slalom
-1992-01-14,Morena Gallizio Tescari,IT,22,Combined
+1992-01-14,Morena Gallizio Tescari,IT,22,Slalom
 1992-01-14,Deborah Compagnoni,IT,40,Giant Slalom
 1992-01-14,Kerstin Riediger,DE,0,Slalom
 1992-01-14,Petra Kronberger,AT,195,Downhill
@@ -226,7 +226,7 @@ date,name,ath_country,value,specialty
 1992-01-18,Katjusa Pusnik,SK,44,Slalom
 1992-01-18,Kerstin Riediger,DE,0,Slalom
 1992-01-18,Anja Haas,AT,26,Downhill
-1992-01-18,Morena Gallizio Tescari,IT,22,Combined
+1992-01-18,Morena Gallizio Tescari,IT,22,Slalom
 1992-01-18,Ylva Nowen,SE,27,Giant Slalom
 1992-01-18,Ulrike Maier,AT,8,Giant Slalom
 1992-01-18,Edda Mutter,DE,38,Slalom
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 1992-01-18,Annelise Coberger,NZ,241,Slalom
 1992-01-18,Julie M. J. Parisien,US,162,Slalom
 1992-01-18,Sabine Ginther,AT,187,Downhill
-1992-01-18,Gaby May,CH,45,Combined
+1992-01-18,Gaby May,CH,45,Slalom
 1992-01-18,Vreni Schneider,CH,360,Slalom
 1992-01-18,Monika Maierhofer,AT,154,Slalom
 1992-02-02,Vreni Schneider,CH,360,Slalom
@@ -290,7 +290,7 @@ date,name,ath_country,value,specialty
 1992-02-02,Pernilla Wiberg,SE,285,Slalom
 1992-02-02,Marianne Kjoerstad,NO,0,Slalom
 1992-02-02,Anja Haas,AT,26,Downhill
-1992-02-02,Morena Gallizio Tescari,IT,30,Combined
+1992-02-02,Morena Gallizio Tescari,IT,30,Slalom
 1992-02-02,Annelise Coberger,NZ,301,Slalom
 1992-02-02,Titti Rodling,SE,27,Slalom
 1992-02-02,Edda Mutter,DE,38,Slalom
@@ -319,7 +319,7 @@ date,name,ath_country,value,specialty
 1992-02-02,Christelle Guignard,FR,20,Giant Slalom
 1992-02-02,Brigitte Auer,AT,16,Giant Slalom
 1992-02-02,Kristina Andersson,SE,109,Slalom
-1992-02-02,Gaby May,CH,45,Combined
+1992-02-02,Gaby May,CH,45,Slalom
 1992-02-02,Katjusa Pusnik,SK,44,Slalom
 1992-02-02,Lara Magoni,IT,92,Slalom
 1992-02-02,Anne Berge,NO,18,Slalom
@@ -329,7 +329,7 @@ date,name,ath_country,value,specialty
 1992-02-29,Marianne Kjoerstad,NO,5,Slalom
 1992-02-29,Julie M. J. Parisien,US,162,Slalom
 1992-02-29,Martina Accola,CH,19,Slalom
-1992-02-29,Gaby May,CH,61,Combined
+1992-02-29,Gaby May,CH,61,Slalom
 1992-02-29,Veronika Sarec,SK,90,Slalom
 1992-02-29,Vreni Schneider,CH,460,Slalom
 1992-02-29,Petra Kronberger,AT,326,Downhill
@@ -370,7 +370,7 @@ date,name,ath_country,value,specialty
 1992-02-29,Roberta Serra,IT,31,Slalom
 1992-02-29,Anna Boden,SE,22,Slalom
 1992-02-29,Elfi Eder,AT,164,Slalom
-1992-02-29,Morena Gallizio Tescari,IT,30,Combined
+1992-02-29,Morena Gallizio Tescari,IT,30,Slalom
 1992-02-29,Diann Roffe Steinrotter,US,14,Giant Slalom
 1992-02-29,Kerstin Riediger,DE,14,Slalom
 1992-02-29,Anja Haas,AT,26,Downhill
@@ -411,7 +411,7 @@ date,name,ath_country,value,specialty
 1992-03-02,Monika Kaeslin,CH,12,Slalom
 1992-03-02,Patricia Chauvet,FR,24,Slalom
 1992-03-02,Kerstin Riediger,DE,14,Slalom
-1992-03-02,Morena Gallizio Tescari,IT,30,Combined
+1992-03-02,Morena Gallizio Tescari,IT,30,Slalom
 1992-03-02,Edda Mutter,DE,56,Slalom
 1992-03-02,Renate Oberhofer,IT,34,Slalom
 1992-03-02,Ingrid Stoeckl,AT,18,Downhill
@@ -425,7 +425,7 @@ date,name,ath_country,value,specialty
 1992-03-02,Annick Bonzon,CH,110,Slalom
 1992-03-02,Katjusa Pusnik,SK,49,Slalom
 1992-03-02,Wendy Fisher,US,26,Slalom
-1992-03-02,Gaby May,CH,68,Combined
+1992-03-02,Gaby May,CH,68,Slalom
 1992-03-02,Anne Berge,NO,68,Slalom
 1992-03-02,Heidi Voelker,US,51,Slalom
 1992-03-02,Veronika Sarec,SK,116,Slalom

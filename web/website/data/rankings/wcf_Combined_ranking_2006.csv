@@ -1,112 +1,129 @@
 date,name,ath_country,value,specialty
 2006-01-22,Janica Kostelic,HR,100,Slalom
-2006-01-22,Jessica Puenchera,CH,16,Combined
-2006-01-22,Martina Schild,CH,5,Downhill
-2006-01-22,Michaela Dorfmeister,AT,14,Super G
-2006-01-22,Daniela Merighetti,IT,15,Downhill
-2006-01-22,Alexandra Coletti,MC,0,Downhill
-2006-01-22,Fanny Chmelar,DE,11,Slalom
-2006-01-22,Aurelie Santon,FR,0,Combined
-2006-01-22,Petra Robnik,SK,0,Combined
-2006-01-22,Sarka Strachova Zahrobska,CZ,13,Slalom
-2006-01-22,Urska Rabic,SK,1,Super G
-2006-01-22,Resi Stiegler,US,0,Slalom
-2006-01-22,Allison Forsyth,CA,12,Giant Slalom
-2006-01-22,Veronika Velez Zuzulova,SK,0,Slalom
-2006-01-22,Tanja Poutiainen,FI,0,Slalom
-2006-01-22,Ana Drev,SK,0,Giant Slalom
-2006-01-22,Manuela Moelgg,IT,0,Giant Slalom
-2006-01-22,Monika Bergmann,DE,10,Slalom
-2006-01-22,Fraenzi Aufdenblatten,CH,0,Downhill
-2006-01-22,Gina Stechert,DE,9,Combined
-2006-01-22,Catherine Borghi,CH,3,Downhill
 2006-01-22,Sandrine Aubert,FR,0,Slalom
-2006-01-22,Tina Maze,SK,0,Giant Slalom
-2006-01-22,Nika Fleiss,HR,8,Slalom
-2006-01-22,Marie Marchand-Arvier,FR,2,Super G
-2006-01-22,Anne Sophie Barthet,FR,7,Slalom
-2006-01-22,Kaylin L Richardson,US,6,Slalom
 2006-01-22,Angelika Gruener,IT,4,Super G
 2006-01-22,Chemmy Alcott,GB,0,Super G
+2006-01-22,Martina Schild,CH,5,Downhill
 2006-01-22,Nadia Styger,CH,0,Super G
-2006-01-22,Emily Brydon,CA,18,Super G
-2006-01-22,Michaela Kirchgasser,AT,0,Giant Slalom
-2006-01-22,Camilla Borsotti,IT,0,Combined
-2006-01-22,Jessica Lindell-Vikarby,SE,20,Downhill
-2006-01-22,Anja Paerson,SE,80,Giant Slalom
-2006-01-22,Lindsey Vonn,US,60,Downhill
-2006-01-22,Marlies Schild,AT,45,Slalom
-2006-01-22,Nicole Hosp,AT,50,Giant Slalom
-2006-01-22,Kathrin Zettel,AT,40,Slalom
-2006-01-22,Janette Hargin,SE,36,Downhill
+2006-01-22,Kaylin L Richardson,US,6,Slalom
+2006-01-22,Anne Sophie Barthet,FR,7,Slalom
+2006-01-22,Marie Marchand-Arvier,FR,2,Super G
+2006-01-22,Catherine Borghi,CH,3,Downhill
+2006-01-22,Nika Fleiss,HR,8,Slalom
+2006-01-22,Gina Stechert,DE,9,Combined
+2006-01-22,Fraenzi Aufdenblatten,CH,0,Downhill
+2006-01-22,Monika Bergmann,DE,10,Slalom
+2006-01-22,Manuela Moelgg,IT,0,Giant Slalom
+2006-01-22,Tanja Poutiainen,FI,0,Slalom
+2006-01-22,Allison Forsyth,CA,12,Giant Slalom
+2006-01-22,Resi Stiegler,US,0,Slalom
+2006-01-22,Sarka Strachova Zahrobska,CZ,13,Slalom
 2006-01-22,Therese Borssen,SE,0,Slalom
+2006-01-22,Petra Robnik,SK,0,Combined
+2006-01-22,Ana Drev,SK,0,Giant Slalom
+2006-01-22,Urska Rabic,SK,1,Super G
 2006-01-22,Marion Bertrand,FR,0,Combined
-2006-01-22,Nadia Fanchini,IT,0,Downhill
-2006-01-22,Nike Bent,SE,32,Downhill
 2006-01-22,Kathrin Hoelzl,DE,0,Giant Slalom
 2006-01-22,Ana Jelusic,HR,0,Slalom
-2006-01-22,Anna Ottosson,SE,0,Giant Slalom
-2006-01-22,Martina Ertl,DE,22,Giant Slalom
 2006-01-22,Macarena Simari-Birkner,AR,0,Combined
-2006-01-22,Elisabeth Goergl,AT,0,Downhill
-2006-01-22,Johanna Schnarf,IT,26,Combined
 2006-01-22,Jelena Lolovic,RS,0,Combined
-2006-01-22,Julia Mancuso,US,29,Super G
-2006-01-22,Andrea Fischbacher,AT,24,Super G
 2006-01-22,Anne Marie Mueller,NO,0,Slalom
-2006-03-04,Aurelie Santon,FR,1,Combined
-2006-03-04,Hedda Berntsen,NO,0,Combined
-2006-03-04,Camilla Borsotti,IT,0,Combined
-2006-03-04,Shona Rubens,CA,0,Downhill
-2006-03-04,Nadia Fanchini,IT,0,Downhill
-2006-03-04,Angelika Gruener,IT,4,Super G
-2006-03-04,Kelly Vanderbeek,CA,0,Super G
-2006-03-04,Wendy Siorpaes,IT,0,Downhill
-2006-03-04,Caroline Lalive,US,0,Downhill
-2006-03-04,Therese Borssen,SE,0,Slalom
-2006-03-04,Alexandra Coletti,MC,0,Downhill
-2006-03-04,Catherine Borghi,CH,3,Downhill
-2006-03-04,Ana Drev,SK,3,Giant Slalom
-2006-03-04,Jelena Lolovic,RS,0,Combined
-2006-03-04,Veronika Velez Zuzulova,SK,2,Slalom
-2006-03-04,Macarena Simari-Birkner,AR,0,Combined
-2006-03-04,Sandrine Aubert,FR,4,Slalom
-2006-03-04,Chemmy Alcott,GB,5,Super G
-2006-03-04,Monika Bergmann,DE,10,Slalom
-2006-03-04,Nadia Styger,CH,6,Super G
-2006-03-04,Andrea Fischbacher,AT,42,Super G
-2006-03-04,Brigitte Acton,CA,26,Giant Slalom
-2006-03-04,Johanna Schnarf,IT,26,Combined
-2006-03-04,Elisabeth Goergl,AT,29,Downhill
-2006-03-04,Julia Mancuso,US,53,Super G
-2006-03-04,Anna Ottosson,SE,32,Giant Slalom
-2006-03-04,Nike Bent,SE,32,Downhill
+2006-01-22,Nadia Fanchini,IT,0,Downhill
+2006-01-22,Camilla Borsotti,IT,0,Combined
+2006-01-22,Veronika Velez Zuzulova,SK,0,Slalom
+2006-01-22,Alexandra Coletti,MC,0,Downhill
+2006-01-22,Maria Belen Simari-Birkner,AR,0,Combined
+2006-01-22,Hedda Berntsen,NO,0,Combined
+2006-01-22,Shona Rubens,CA,0,Downhill
+2006-01-22,Stacey J Cook,US,0,Downhill
+2006-01-22,Kelly Vanderbeek,CA,0,Super G
+2006-01-22,Wendy Siorpaes,IT,0,Downhill
+2006-01-22,Caroline Lalive,US,0,Downhill
+2006-01-22,Aurelie Santon,FR,0,Combined
+2006-01-22,Dagny Linda Kristjansdottir,IS,0,Combined
+2006-01-22,Fanny Chmelar,DE,11,Slalom
+2006-01-22,Tina Maze,SK,0,Giant Slalom
+2006-01-22,Elisabeth Goergl,AT,0,Downhill
+2006-01-22,Kathrin Zettel,AT,40,Slalom
+2006-01-22,Janette Hargin,SE,36,Downhill
+2006-01-22,Nicole Hosp,AT,50,Giant Slalom
+2006-01-22,Jessica Lindell-Vikarby,SE,20,Downhill
+2006-01-22,Marlies Schild,AT,45,Slalom
+2006-01-22,Johanna Schnarf,IT,26,Combined
+2006-01-22,Michaela Kirchgasser,AT,0,Giant Slalom
+2006-01-22,Emily Brydon,CA,18,Super G
+2006-01-22,Andrea Fischbacher,AT,24,Super G
+2006-01-22,Jessica Puenchera,CH,16,Combined
+2006-01-22,Brigitte Acton,CA,0,Giant Slalom
+2006-01-22,Martina Ertl,DE,22,Giant Slalom
+2006-01-22,Anja Paerson,SE,80,Giant Slalom
+2006-01-22,Michaela Dorfmeister,AT,14,Super G
+2006-01-22,Nike Bent,SE,32,Downhill
+2006-01-22,Julia Mancuso,US,29,Super G
+2006-01-22,Daniela Merighetti,IT,15,Downhill
+2006-01-22,Anna Ottosson,SE,0,Giant Slalom
+2006-01-22,Lindsey Vonn,US,60,Downhill
 2006-03-04,Martina Ertl,DE,58,Giant Slalom
+2006-03-04,Kelly Vanderbeek,CA,0,Super G
+2006-03-04,Stacey J Cook,US,0,Downhill
+2006-03-04,Wendy Siorpaes,IT,0,Downhill
 2006-03-04,Janette Hargin,SE,36,Downhill
+2006-03-04,Shona Rubens,CA,0,Downhill
+2006-03-04,Hedda Berntsen,NO,0,Combined
+2006-03-04,Petra Robnik,SK,14,Combined
+2006-03-04,Alexandra Coletti,MC,0,Downhill
 2006-03-04,Kathrin Zettel,AT,85,Slalom
-2006-03-04,Nicole Hosp,AT,90,Giant Slalom
-2006-03-04,Marlies Schild,AT,105,Slalom
-2006-03-04,Lindsey Vonn,US,110,Downhill
-2006-03-04,Anja Paerson,SE,160,Giant Slalom
+2006-03-04,Marion Bertrand,FR,0,Combined
 2006-03-04,Janica Kostelic,HR,200,Slalom
-2006-03-04,Jessica Lindell-Vikarby,SE,44,Downhill
-2006-03-04,Martina Schild,CH,5,Downhill
+2006-03-04,Kathrin Hoelzl,DE,0,Giant Slalom
+2006-03-04,Ana Jelusic,HR,0,Slalom
+2006-03-04,Anja Paerson,SE,160,Giant Slalom
+2006-03-04,Macarena Simari-Birkner,AR,0,Combined
+2006-03-04,Jelena Lolovic,RS,0,Combined
+2006-03-04,Lindsey Vonn,US,110,Downhill
+2006-03-04,Anne Marie Mueller,NO,0,Slalom
+2006-03-04,Marlies Schild,AT,105,Slalom
+2006-03-04,Nadia Fanchini,IT,0,Downhill
+2006-03-04,Camilla Borsotti,IT,0,Combined
+2006-03-04,Caroline Lalive,US,0,Downhill
+2006-03-04,Nicole Hosp,AT,90,Giant Slalom
+2006-03-04,Dagny Linda Kristjansdottir,IS,0,Combined
+2006-03-04,Maria Belen Simari-Birkner,AR,0,Combined
+2006-03-04,Nike Bent,SE,32,Downhill
+2006-03-04,Julia Mancuso,US,53,Super G
+2006-03-04,Aurelie Santon,FR,1,Combined
 2006-03-04,Michaela Kirchgasser,AT,20,Giant Slalom
-2006-03-04,Michaela Dorfmeister,AT,30,Super G
-2006-03-04,Kaylin L Richardson,US,6,Slalom
-2006-03-04,Anne Sophie Barthet,FR,7,Slalom
-2006-03-04,Marie Marchand-Arvier,FR,10,Super G
 2006-03-04,Tina Maze,SK,9,Giant Slalom
 2006-03-04,Gina Stechert,DE,9,Combined
 2006-03-04,Fraenzi Aufdenblatten,CH,10,Downhill
-2006-03-04,Maria Belen Simari-Birkner,AR,0,Combined
+2006-03-04,Monika Bergmann,DE,10,Slalom
+2006-03-04,Emily Brydon,CA,18,Super G
+2006-03-04,Nika Fleiss,HR,8,Slalom
 2006-03-04,Manuela Moelgg,IT,11,Giant Slalom
 2006-03-04,Tanja Poutiainen,FI,12,Slalom
 2006-03-04,Allison Forsyth,CA,12,Giant Slalom
+2006-03-04,Michaela Dorfmeister,AT,30,Super G
 2006-03-04,Resi Stiegler,US,13,Slalom
 2006-03-04,Sarka Strachova Zahrobska,CZ,13,Slalom
-2006-03-04,Petra Robnik,SK,14,Combined
-2006-03-04,Fanny Chmelar,DE,26,Slalom
 2006-03-04,Daniela Merighetti,IT,22,Downhill
-2006-03-04,Emily Brydon,CA,18,Super G
-2006-03-04,Dagny Linda Kristjansdottir,IS,0,Combined
+2006-03-04,Jessica Puenchera,CH,16,Combined
+2006-03-04,Marie Marchand-Arvier,FR,10,Super G
+2006-03-04,Jessica Lindell-Vikarby,SE,44,Downhill
+2006-03-04,Andrea Fischbacher,AT,42,Super G
+2006-03-04,Urska Rabic,SK,1,Super G
+2006-03-04,Veronika Velez Zuzulova,SK,2,Slalom
+2006-03-04,Fanny Chmelar,DE,26,Slalom
+2006-03-04,Ana Drev,SK,3,Giant Slalom
+2006-03-04,Catherine Borghi,CH,3,Downhill
+2006-03-04,Elisabeth Goergl,AT,29,Downhill
+2006-03-04,Sandrine Aubert,FR,4,Slalom
+2006-03-04,Angelika Gruener,IT,4,Super G
+2006-03-04,Johanna Schnarf,IT,26,Combined
+2006-03-04,Chemmy Alcott,GB,5,Super G
+2006-03-04,Martina Schild,CH,5,Downhill
+2006-03-04,Brigitte Acton,CA,26,Giant Slalom
+2006-03-04,Nadia Styger,CH,6,Super G
+2006-03-04,Kaylin L Richardson,US,6,Slalom
+2006-03-04,Anne Sophie Barthet,FR,7,Slalom
+2006-03-04,Anna Ottosson,SE,32,Giant Slalom
+2006-03-04,Therese Borssen,SE,0,Slalom

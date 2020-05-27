@@ -1,570 +1,701 @@
 date,name,ath_country,value,specialty
 2007-11-25,Aksel-Lund Svindal,NO,100,Giant Slalom
-2007-11-25,Gauthier De Tessieres,FR,0,Giant Slalom
-2007-11-25,Gareth Sine,CA,0,Combined
-2007-11-25,Christof Innerhofer,IT,24,Super G
-2007-11-25,Alexandr Horoshilov,RU,0,Combined
-2007-11-25,Tobias Gruenenfelder,CH,4,Downhill
-2007-11-25,Jeffrey Frisch,CA,0,Combined
 2007-11-25,Jan Hudec,CA,32,Downhill
-2007-11-25,Werner Heel,IT,18,Downhill
-2007-11-25,Cyprien Richard,FR,0,Giant Slalom
-2007-11-25,Sebastien Pichot,FR,0,Giant Slalom
-2007-11-25,Patrick Wright,CA,0,Combined
-2007-11-25,John Kucera,CA,36,Giant Slalom
-2007-11-25,Kjetil Jansrud,NO,0,Slalom
-2007-11-25,Michael Walchhofer,AT,5,Downhill
 2007-11-25,Marcus Sandell,FI,0,Giant Slalom
-2007-11-25,Felix Neureuther,DE,0,Slalom
-2007-11-25,Ambrosi Hoffmann,CH,40,Downhill
-2007-11-25,Cristian Javier Simari Birkner,AR,0,Combined
-2007-11-25,Patrick Staudacher,IT,13,Super G
-2007-11-25,Jens Byggmark,SE,0,Slalom
-2007-11-25,Erik Guay,CA,45,Super G
-2007-11-25,Daniel Albrecht,CH,0,Giant Slalom
-2007-11-25,Jimmy Cochran,US,0,Slalom
-2007-11-25,Kevin Francis,US,0,Combined
-2007-11-25,Andrej Jerman,SK,50,Downhill
-2007-11-25,Ales Gorza,SK,0,Super G
-2007-11-25,Matteo Marsaglia,IT,0,Combined
-2007-11-25,Didier Defago,CH,29,Super G
-2007-11-25,Stephan Thanei,IT,0,Combined
-2007-11-25,Ivica Kostelic,HR,3,Slalom
-2007-11-25,Hermann Maier,AT,15,Super G
-2007-11-25,Natko Zrncic-Dim,HR,0,Combined
-2007-11-25,Bjarne Solbakken,NO,0,Combined
-2007-11-25,Olivier Brand,CH,0,Super G
-2007-11-25,Alek Glebov,SK,0,Super G
-2007-11-25,Marc Berthod,CH,0,Giant Slalom
-2007-11-25,Silvano Varettoni,IT,0,Downhill
-2007-11-25,Ted Ligety,US,0,Giant Slalom
-2007-11-25,Andrej Sporn,SK,1,Combined
-2007-11-25,Pierre Emmanuel Dalcin,FR,8,Downhill
-2007-11-25,Alex Happacher,IT,0,Combined
-2007-11-25,Ondrej Bank,CZ,0,Combined
-2007-11-25,Manuel Osborne-Paradis,CA,0,Downhill
-2007-11-25,Michael Bonetti,CH,0,Combined
-2007-11-25,Silvan Zurbriggen,CH,3,Slalom
+2007-11-25,Cornel Zueger,CH,0,Downhill
 2007-11-25,Craig Branch,AU,0,Downhill
-2007-11-25,Stephan Keppler,DE,13,Super G
-2007-11-25,Rainer Schoenfelder,AT,0,Combined
-2007-11-25,Andrew Weibrecht,US,0,Downhill
-2007-11-25,Florian Eisath,IT,0,Combined
-2007-11-25,Kurt Sulzenbacher,IT,0,Downhill
-2007-11-25,David Poisson,FR,0,Downhill
-2007-11-25,Finlay Mickel,GB,0,Combined
-2007-11-25,Scott Macartney,US,14,Downhill
 2007-11-25,Matthias Lanzinger,AT,0,Giant Slalom
-2007-11-25,Jouni Pellinen,FI,0,Combined
-2007-11-25,Michael Gufler,IT,0,Combined
-2007-11-25,Petr Zahrobsky,CZ,0,Combined
-2007-11-25,Steven Nyman,US,20,Downhill
-2007-11-25,Frederik Van Buynder,BE,0,Combined
-2007-11-25,Stephan Goergl,AT,22,Giant Slalom
-2007-11-25,Peter Strodl,DE,0,Combined
-2007-11-25,Peter Fill,IT,7,Downhill
+2007-11-25,Andrew Weibrecht,US,0,Downhill
+2007-11-25,Hans Olsson,SE,0,Downhill
+2007-11-25,Andrej Jerman,SK,50,Downhill
+2007-11-25,Florian Eisath,IT,0,Combined
+2007-11-25,Ales Gorza,SK,0,Super G
+2007-11-25,Cristian Javier Simari Birkner,AR,0,Combined
+2007-11-25,Daniel Albrecht,CH,0,Giant Slalom
 2007-11-25,Ole Magnus Kulbeck,NO,0,Combined
-2007-11-25,Francois Bourque,CA,10,Super G
+2007-11-25,Kurt Sulzenbacher,IT,0,Downhill
+2007-11-25,Didier Defago,CH,29,Super G
+2007-11-25,Massimiliano Blardone,IT,0,Giant Slalom
+2007-11-25,Silvano Varettoni,IT,0,Downhill
+2007-11-25,David Poisson,FR,0,Downhill
 2007-11-25,Carlo Janka,CH,0,Giant Slalom
+2007-11-25,Christof Innerhofer,IT,24,Super G
+2007-11-25,Jimmy Cochran,US,0,Slalom
+2007-11-25,Rainer Schoenfelder,AT,0,Slalom
+2007-11-25,Finlay Mickel,GB,0,Combined
+2007-11-25,Niklas Rainer,SE,0,Combined
+2007-11-25,Tobias Gruenenfelder,CH,4,Downhill
+2007-11-25,Michael Bonetti,CH,0,Combined
+2007-11-25,Manfred Moelgg,IT,0,Slalom
+2007-11-25,Erik Guay,CA,45,Super G
+2007-11-25,Stephan Thanei,IT,0,Combined
+2007-11-25,Matts Olsson,SE,0,Combined
+2007-11-25,Michael Walchhofer,AT,5,Downhill
+2007-11-25,Manuel Osborne-Paradis,CA,0,Downhill
+2007-11-25,Felix Neureuther,DE,0,Slalom
+2007-11-25,Konrad Hari,CH,0,Downhill
+2007-11-25,Antoine Deneriaz,FR,0,Combined
+2007-11-25,Scott Macartney,US,14,Downhill
+2007-11-25,Robbie Dixon,CA,0,Super G
+2007-11-25,Johannes Stehle,DE,0,Downhill
+2007-11-25,Johan Clarey,FR,0,Downhill
+2007-11-25,Francois Bourque,CA,10,Super G
+2007-11-25,Rok Perko,SK,0,Combined
+2007-11-25,Ambrosi Hoffmann,CH,40,Downhill
+2007-11-25,Marc Berthod,CH,0,Giant Slalom
+2007-11-25,Mark Bridgwater,NZ,0,Combined
+2007-11-25,Andreas Buder,AT,0,Downhill
+2007-11-25,Patrick Staudacher,IT,13,Super G
+2007-11-25,Kevin Francis,US,0,Combined
+2007-11-25,Alek Glebov,SK,0,Super G
+2007-11-25,Brenton Fetterplace,AU,0,Combined
+2007-11-25,Werner Heel,IT,18,Downhill
+2007-11-25,Yannick Bertrand,FR,0,Downhill
+2007-11-25,Adrien Theaux,FR,0,Downhill
+2007-11-25,Ondrej Bank,CZ,0,Combined
+2007-11-25,Bode Miller,US,6,Downhill
+2007-11-25,Jouni Pellinen,FI,0,Combined
+2007-11-25,Hermann Maier,AT,15,Super G
+2007-11-25,John Kucera,CA,36,Giant Slalom
+2007-11-25,Georg Streitberger,AT,13,Super G
+2007-11-25,Gareth Sine,CA,0,Combined
+2007-11-25,Bjarne Solbakken,NO,0,Combined
+2007-11-25,Peter Fill,IT,7,Downhill
+2007-11-25,Andreas Sander,DE,0,Combined
+2007-11-25,Peter Struger,AT,0,Super G
+2007-11-25,Olivier Brand,CH,0,Super G
+2007-11-25,TJ Lanning,US,0,Combined
+2007-11-25,Natko Zrncic-Dim,HR,0,Combined
+2007-11-25,Walter Girardi,IT,0,Super G
+2007-11-25,Alexandr Horoshilov,RU,0,Combined
+2007-11-25,Beni Hofer,CH,0,Downhill
+2007-11-25,Hannes Reichelt,AT,9,Super G
+2007-11-25,Marco Sullivan,US,0,Downhill
 2007-11-25,Marco Buechel,LI,0,Super G
 2007-11-25,Didier Cuche,CH,60,Downhill
+2007-11-25,Christoph Alster,AT,0,Super G
+2007-11-25,Gauthier De Tessieres,FR,0,Giant Slalom
+2007-11-25,Stephan Goergl,AT,22,Giant Slalom
+2007-11-25,Pierre Emmanuel Dalcin,FR,8,Downhill
 2007-11-25,Christoph Gruber,AT,26,Super G
-2007-11-25,Hannes Reichelt,AT,9,Super G
-2007-11-25,Bode Miller,US,6,Downhill
-2007-11-25,Georg Streitberger,AT,13,Super G
-2007-11-25,Andreas Sander,DE,0,Combined
-2007-11-25,Benjamin Raich,AT,80,Giant Slalom
+2007-11-25,Andrej Sporn,SK,1,Combined
+2007-11-25,Jeffrey Frisch,CA,0,Combined
+2007-11-25,Peter Strodl,DE,0,Combined
+2007-11-25,Kjetil Jansrud,NO,0,Slalom
+2007-11-25,Michael Gufler,IT,0,Combined
 2007-11-25,Mario Scheiber,AT,16,Super G
-2007-12-03,Jan Hudec,CA,61,Downhill
+2007-11-25,Sebastien Pichot,FR,0,Giant Slalom
+2007-11-25,Matteo Marsaglia,IT,0,Combined
+2007-11-25,Ted Ligety,US,0,Giant Slalom
+2007-11-25,Petr Zahrobsky,CZ,0,Combined
+2007-11-25,Jens Byggmark,SE,0,Slalom
+2007-11-25,Lars Elton Myhre,NO,0,Combined
+2007-11-25,Alex Happacher,IT,0,Combined
+2007-11-25,Patrick Wright,CA,0,Combined
+2007-11-25,Cyprien Richard,FR,0,Giant Slalom
+2007-11-25,Ivica Kostelic,HR,3,Slalom
+2007-11-25,Frederik Van Buynder,BE,0,Combined
+2007-11-25,Benjamin Raich,AT,80,Giant Slalom
+2007-11-25,Steven Nyman,US,20,Downhill
+2007-11-25,Stephan Keppler,DE,13,Super G
+2007-11-25,Silvan Zurbriggen,CH,3,Slalom
 2007-12-03,Steven Nyman,US,20,Downhill
-2007-12-03,Petr Zahrobsky,CZ,0,Combined
-2007-12-03,Sebastien Pichot,FR,0,Giant Slalom
-2007-12-03,Johannes Stehle,DE,0,Downhill
-2007-12-03,Frederik Van Buynder,BE,0,Combined
 2007-12-03,Stephan Goergl,AT,42,Giant Slalom
-2007-12-03,Christoph Gruber,AT,86,Super G
-2007-12-03,Peter Strodl,DE,0,Combined
-2007-12-03,Cornel Zueger,CH,0,Downhill
-2007-12-03,Marco Sullivan,US,0,Downhill
-2007-12-03,Alexandr Horoshilov,RU,0,Combined
-2007-12-03,Cyprien Richard,FR,0,Giant Slalom
-2007-12-03,Bjarne Solbakken,NO,0,Combined
-2007-12-03,Ivica Kostelic,HR,10,Slalom
-2007-12-03,Natko Zrncic-Dim,HR,0,Combined
-2007-12-03,Marco Buechel,LI,14,Super G
-2007-12-03,Christof Innerhofer,IT,36,Super G
-2007-12-03,Gauthier De Tessieres,FR,0,Giant Slalom
-2007-12-03,Konrad Hari,CH,0,Downhill
-2007-12-03,Georg Streitberger,AT,35,Super G
-2007-12-03,Andreas Buder,AT,0,Downhill
-2007-12-03,Gareth Sine,CA,0,Combined
-2007-12-03,Jeffrey Frisch,CA,0,Combined
-2007-12-03,Tobias Gruenenfelder,CH,36,Downhill
-2007-12-03,Walter Girardi,IT,13,Super G
-2007-12-03,Francois Bourque,CA,30,Super G
-2007-12-03,Aksel-Lund Svindal,NO,100,Giant Slalom
-2007-12-03,Alek Glebov,SK,0,Super G
-2007-12-03,Olivier Brand,CH,0,Super G
-2007-12-03,Marc Berthod,CH,0,Giant Slalom
-2007-12-03,Lars Elton Myhre,NO,5,Combined
-2007-12-03,Adrien Theaux,FR,7,Downhill
 2007-12-03,TJ Lanning,US,0,Combined
-2007-12-03,Silvano Varettoni,IT,0,Downhill
-2007-12-03,Christoph Alster,AT,4,Super G
-2007-12-03,Peter Struger,AT,3,Super G
-2007-12-03,Ted Ligety,US,8,Giant Slalom
-2007-12-03,Pierre Emmanuel Dalcin,FR,8,Downhill
-2007-12-03,Hannes Reichelt,AT,109,Super G
-2007-12-03,Michael Gufler,IT,0,Combined
-2007-12-03,Alex Happacher,IT,0,Combined
-2007-12-03,Michael Bonetti,CH,0,Combined
-2007-12-03,Silvan Zurbriggen,CH,3,Slalom
-2007-12-03,Brenton Fetterplace,AU,0,Combined
-2007-12-03,Craig Branch,AU,0,Downhill
-2007-12-03,Rainer Schoenfelder,AT,0,Combined
-2007-12-03,Andrew Weibrecht,US,0,Downhill
-2007-12-03,Manfred Moelgg,IT,0,Slalom
-2007-12-03,Mark Bridgwater,NZ,0,Combined
-2007-12-03,Didier Cuche,CH,84,Downhill
-2007-12-03,Finlay Mickel,GB,0,Combined
-2007-12-03,Rok Perko,SK,0,Combined
-2007-12-03,Jouni Pellinen,FI,0,Combined
-2007-12-03,Matthias Lanzinger,AT,15,Giant Slalom
-2007-12-03,Manuel Osborne-Paradis,CA,0,Downhill
-2007-12-03,Benjamin Raich,AT,125,Giant Slalom
-2007-12-03,Antoine Deneriaz,FR,0,Combined
-2007-12-03,Jens Byggmark,SE,0,Slalom
-2007-12-03,Mario Scheiber,AT,96,Super G
-2007-12-03,Ambrosi Hoffmann,CH,52,Downhill
+2007-12-03,Andreas Buder,AT,0,Downhill
+2007-12-03,John Kucera,CA,52,Giant Slalom
+2007-12-03,Francois Bourque,CA,30,Super G
+2007-12-03,Johan Clarey,FR,0,Downhill
+2007-12-03,Konrad Hari,CH,0,Downhill
+2007-12-03,Olivier Brand,CH,0,Super G
 2007-12-03,Kevin Francis,US,0,Combined
-2007-12-03,Andrej Jerman,SK,52,Downhill
-2007-12-03,Felix Neureuther,DE,0,Slalom
-2007-12-03,Daniel Albrecht,CH,50,Giant Slalom
-2007-12-03,Marcus Sandell,FI,0,Giant Slalom
-2007-12-03,Massimiliano Blardone,IT,0,Giant Slalom
-2007-12-03,Jimmy Cochran,US,0,Slalom
-2007-12-03,Michael Walchhofer,AT,50,Downhill
-2007-12-03,Ales Gorza,SK,29,Super G
-2007-12-03,Matteo Marsaglia,IT,0,Combined
+2007-12-03,Matthias Lanzinger,AT,15,Giant Slalom
+2007-12-03,Yannick Bertrand,FR,0,Downhill
+2007-12-03,Christof Innerhofer,IT,36,Super G
 2007-12-03,Niklas Rainer,SE,0,Combined
-2007-12-03,Didier Defago,CH,38,Super G
-2007-12-03,Andreas Sander,DE,0,Combined
-2007-12-03,Kjetil Jansrud,NO,0,Slalom
-2007-12-03,Ole Magnus Kulbeck,NO,0,Combined
+2007-12-03,Matteo Marsaglia,IT,0,Combined
+2007-12-03,Scott Macartney,US,14,Downhill
+2007-12-03,Ivica Kostelic,HR,10,Slalom
 2007-12-03,Cristian Javier Simari Birkner,AR,0,Combined
-2007-12-03,Patrick Staudacher,IT,49,Super G
-2007-12-03,Patrick Wright,CA,0,Combined
-2007-12-03,Stephan Thanei,IT,0,Combined
+2007-12-03,Carlo Janka,CH,0,Giant Slalom
+2007-12-03,Andrej Sporn,SK,1,Combined
+2007-12-03,Massimiliano Blardone,IT,0,Giant Slalom
+2007-12-03,Sebastien Pichot,FR,0,Giant Slalom
+2007-12-03,Tobias Gruenenfelder,CH,36,Downhill
+2007-12-03,Peter Fill,IT,7,Downhill
+2007-12-03,Hans Olsson,SE,0,Downhill
+2007-12-03,Peter Struger,AT,3,Super G
+2007-12-03,Cornel Zueger,CH,0,Downhill
+2007-12-03,Jan Hudec,CA,61,Downhill
+2007-12-03,Alex Happacher,IT,0,Combined
+2007-12-03,Alek Glebov,SK,0,Super G
+2007-12-03,Werner Heel,IT,18,Downhill
+2007-12-03,Marco Sullivan,US,0,Downhill
+2007-12-03,Walter Girardi,IT,13,Super G
+2007-12-03,Christoph Alster,AT,4,Super G
+2007-12-03,Beni Hofer,CH,0,Downhill
 2007-12-03,Erik Guay,CA,45,Super G
+2007-12-03,Matts Olsson,SE,0,Combined
+2007-12-03,Felix Neureuther,DE,0,Slalom
+2007-12-03,Kjetil Jansrud,NO,0,Slalom
+2007-12-03,Jouni Pellinen,FI,0,Combined
+2007-12-03,Michael Gufler,IT,0,Combined
+2007-12-03,Mario Scheiber,AT,96,Super G
+2007-12-03,Petr Zahrobsky,CZ,0,Combined
+2007-12-03,Ted Ligety,US,8,Giant Slalom
+2007-12-03,Frederik Van Buynder,BE,0,Combined
+2007-12-03,Benjamin Raich,AT,125,Giant Slalom
+2007-12-03,Peter Strodl,DE,0,Combined
+2007-12-03,Stephan Keppler,DE,13,Super G
+2007-12-03,Georg Streitberger,AT,35,Super G
+2007-12-03,Bjarne Solbakken,NO,0,Combined
+2007-12-03,Jimmy Cochran,US,0,Slalom
+2007-12-03,Rainer Schoenfelder,AT,0,Slalom
+2007-12-03,Christoph Gruber,AT,86,Super G
+2007-12-03,Pierre Emmanuel Dalcin,FR,8,Downhill
+2007-12-03,Marco Buechel,LI,14,Super G
+2007-12-03,Andreas Sander,DE,0,Combined
+2007-12-03,Patrick Wright,CA,0,Combined
+2007-12-03,Gauthier De Tessieres,FR,0,Giant Slalom
+2007-12-03,Didier Cuche,CH,84,Downhill
+2007-12-03,Gareth Sine,CA,0,Combined
+2007-12-03,Alexandr Horoshilov,RU,0,Combined
+2007-12-03,Manuel Osborne-Paradis,CA,0,Downhill
+2007-12-03,Jeffrey Frisch,CA,0,Combined
+2007-12-03,Hannes Reichelt,AT,109,Super G
+2007-12-03,Cyprien Richard,FR,0,Giant Slalom
+2007-12-03,Silvan Zurbriggen,CH,3,Slalom
+2007-12-03,Aksel-Lund Svindal,NO,100,Giant Slalom
+2007-12-03,Natko Zrncic-Dim,HR,0,Combined
+2007-12-03,Finlay Mickel,GB,0,Combined
 2007-12-03,Bode Miller,US,7,Downhill
 2007-12-03,Hermann Maier,AT,27,Super G
-2007-12-03,John Kucera,CA,52,Giant Slalom
-2007-12-14,Scott Macartney,US,22,Downhill
-2007-12-14,Erik Guay,CA,90,Super G
-2007-12-14,Didier Cuche,CH,184,Downhill
-2007-12-14,Rainer Schoenfelder,AT,0,Combined
-2007-12-14,Jens Byggmark,SE,0,Slalom
+2007-12-03,Michael Walchhofer,AT,50,Downhill
+2007-12-03,Stephan Thanei,IT,0,Combined
+2007-12-03,Robbie Dixon,CA,0,Super G
+2007-12-03,Antoine Deneriaz,FR,0,Combined
+2007-12-03,Johannes Stehle,DE,0,Downhill
+2007-12-03,Ambrosi Hoffmann,CH,52,Downhill
+2007-12-03,Marc Berthod,CH,0,Giant Slalom
+2007-12-03,Rok Perko,SK,0,Combined
+2007-12-03,Mark Bridgwater,NZ,0,Combined
+2007-12-03,Patrick Staudacher,IT,49,Super G
+2007-12-03,Brenton Fetterplace,AU,0,Combined
+2007-12-03,Lars Elton Myhre,NO,5,Combined
+2007-12-03,Ondrej Bank,CZ,0,Combined
+2007-12-03,David Poisson,FR,0,Downhill
+2007-12-03,Marcus Sandell,FI,0,Giant Slalom
+2007-12-03,Jens Byggmark,SE,0,Slalom
+2007-12-03,Manfred Moelgg,IT,0,Slalom
+2007-12-03,Ole Magnus Kulbeck,NO,0,Combined
+2007-12-03,Kurt Sulzenbacher,IT,0,Downhill
+2007-12-03,Didier Defago,CH,38,Super G
+2007-12-03,Silvano Varettoni,IT,0,Downhill
+2007-12-03,Ales Gorza,SK,29,Super G
+2007-12-03,Michael Bonetti,CH,0,Combined
+2007-12-03,Andrew Weibrecht,US,0,Downhill
+2007-12-03,Florian Eisath,IT,0,Combined
+2007-12-03,Craig Branch,AU,0,Downhill
+2007-12-03,Andrej Jerman,SK,52,Downhill
+2007-12-03,Daniel Albrecht,CH,50,Giant Slalom
+2007-12-03,Adrien Theaux,FR,7,Downhill
+2007-12-14,Silvano Varettoni,IT,0,Downhill
+2007-12-14,Carlo Janka,CH,0,Giant Slalom
 2007-12-14,Jimmy Cochran,US,0,Slalom
-2007-12-14,Mark Bridgwater,NZ,0,Combined
-2007-12-14,Manfred Moelgg,IT,0,Slalom
-2007-12-14,Florian Eisath,IT,0,Combined
-2007-12-14,Finlay Mickel,GB,0,Combined
-2007-12-14,Bode Miller,US,87,Downhill
-2007-12-14,Stephan Keppler,DE,13,Super G
-2007-12-14,Rok Perko,SK,0,Combined
-2007-12-14,Matthias Lanzinger,AT,15,Giant Slalom
-2007-12-14,Andreas Sander,DE,0,Combined
-2007-12-14,John Kucera,CA,66,Giant Slalom
-2007-12-14,Andrej Jerman,SK,67,Downhill
-2007-12-14,Stephan Thanei,IT,0,Combined
-2007-12-14,Aksel-Lund Svindal,NO,100,Giant Slalom
-2007-12-14,Alek Glebov,SK,6,Super G
-2007-12-14,Olivier Brand,CH,2,Super G
-2007-12-14,Marc Berthod,CH,0,Giant Slalom
-2007-12-14,Didier Defago,CH,88,Super G
-2007-12-14,Lars Elton Myhre,NO,5,Combined
-2007-12-14,Ole Magnus Kulbeck,NO,0,Combined
-2007-12-14,TJ Lanning,US,5,Combined
-2007-12-14,Matteo Marsaglia,IT,0,Combined
-2007-12-14,Silvan Zurbriggen,CH,13,Slalom
 2007-12-14,Ted Ligety,US,8,Giant Slalom
+2007-12-14,Marc Berthod,CH,0,Giant Slalom
+2007-12-14,Adrien Theaux,FR,7,Downhill
+2007-12-14,Alek Glebov,SK,6,Super G
 2007-12-14,Pierre Emmanuel Dalcin,FR,8,Downhill
-2007-12-14,Alex Happacher,IT,1,Combined
-2007-12-14,Hans Olsson,SE,0,Downhill
-2007-12-14,Ales Gorza,SK,29,Super G
-2007-12-14,Hannes Reichelt,AT,135,Super G
-2007-12-14,Manuel Osborne-Paradis,CA,7,Downhill
+2007-12-14,Jens Byggmark,SE,0,Slalom
+2007-12-14,Matts Olsson,SE,0,Combined
+2007-12-14,Lars Elton Myhre,NO,5,Combined
+2007-12-14,Craig Branch,AU,0,Downhill
+2007-12-14,Andrew Weibrecht,US,0,Downhill
+2007-12-14,Florian Eisath,IT,0,Combined
+2007-12-14,Kurt Sulzenbacher,IT,0,Downhill
+2007-12-14,David Poisson,FR,0,Downhill
+2007-12-14,Kjetil Jansrud,NO,0,Slalom
+2007-12-14,Finlay Mickel,GB,0,Combined
+2007-12-14,Jouni Pellinen,FI,0,Combined
+2007-12-14,Michael Gufler,IT,0,Combined
+2007-12-14,Michael Bonetti,CH,0,Combined
+2007-12-14,Petr Zahrobsky,CZ,0,Combined
+2007-12-14,Peter Strodl,DE,0,Combined
+2007-12-14,Bjarne Solbakken,NO,0,Combined
+2007-12-14,Patrick Wright,CA,0,Combined
+2007-12-14,Natko Zrncic-Dim,HR,0,Combined
+2007-12-14,Gauthier De Tessieres,FR,0,Giant Slalom
+2007-12-14,Gareth Sine,CA,0,Combined
+2007-12-14,Alexandr Horoshilov,RU,0,Combined
+2007-12-14,Jeffrey Frisch,CA,0,Combined
+2007-12-14,Cyprien Richard,FR,0,Giant Slalom
+2007-12-14,Frederik Van Buynder,BE,0,Combined
+2007-12-14,Olivier Brand,CH,2,Super G
 2007-12-14,Ondrej Bank,CZ,0,Combined
 2007-12-14,Brenton Fetterplace,AU,0,Combined
-2007-12-14,Jouni Pellinen,FI,0,Combined
-2007-12-14,Michael Bonetti,CH,0,Combined
+2007-12-14,TJ Lanning,US,5,Combined
+2007-12-14,Christoph Alster,AT,4,Super G
+2007-12-14,Beni Hofer,CH,0,Downhill
+2007-12-14,Peter Struger,AT,3,Super G
 2007-12-14,Andrej Sporn,SK,1,Combined
-2007-12-14,Kevin Francis,US,0,Combined
-2007-12-14,Marco Buechel,LI,74,Super G
-2007-12-14,Gauthier De Tessieres,FR,0,Giant Slalom
-2007-12-14,Andreas Buder,AT,0,Downhill
-2007-12-14,Werner Heel,IT,21,Downhill
-2007-12-14,Peter Fill,IT,17,Downhill
-2007-12-14,Bjarne Solbakken,NO,0,Combined
-2007-12-14,Christoph Gruber,AT,110,Super G
-2007-12-14,Hermann Maier,AT,59,Super G
-2007-12-14,Natko Zrncic-Dim,HR,0,Combined
-2007-12-14,Massimiliano Blardone,IT,0,Giant Slalom
-2007-12-14,Ambrosi Hoffmann,CH,66,Downhill
-2007-12-14,Christof Innerhofer,IT,47,Super G
-2007-12-14,Jan Hudec,CA,90,Downhill
-2007-12-14,Johannes Stehle,DE,0,Downhill
-2007-12-14,Robbie Dixon,CA,0,Super G
-2007-12-14,Gareth Sine,CA,0,Combined
-2007-12-14,Tobias Gruenenfelder,CH,36,Downhill
-2007-12-14,Jeffrey Frisch,CA,0,Combined
-2007-12-14,Alexandr Horoshilov,RU,0,Combined
-2007-12-14,Kjetil Jansrud,NO,0,Slalom
-2007-12-14,Marcus Sandell,FI,0,Giant Slalom
-2007-12-14,Georg Streitberger,AT,47,Super G
-2007-12-14,Antoine Deneriaz,FR,0,Combined
-2007-12-14,Michael Walchhofer,AT,68,Downhill
-2007-12-14,Patrick Staudacher,IT,89,Super G
-2007-12-14,Benjamin Raich,AT,161,Giant Slalom
-2007-12-14,Patrick Wright,CA,0,Combined
-2007-12-14,Mario Scheiber,AT,116,Super G
-2007-12-14,Peter Strodl,DE,0,Combined
-2007-12-14,Carlo Janka,CH,0,Giant Slalom
-2007-12-14,Francois Bourque,CA,30,Super G
+2007-12-14,Alex Happacher,IT,1,Combined
 2007-12-14,Cristian Javier Simari Birkner,AR,0,Combined
-2007-12-14,Stephan Goergl,AT,64,Giant Slalom
-2007-12-14,Cyprien Richard,FR,0,Giant Slalom
-2007-12-14,Sebastien Pichot,FR,0,Giant Slalom
-2007-12-14,Felix Neureuther,DE,0,Slalom
 2007-12-14,Niklas Rainer,SE,0,Combined
-2007-12-14,Marco Sullivan,US,4,Downhill
+2007-12-14,Massimiliano Blardone,IT,0,Giant Slalom
+2007-12-14,Marcus Sandell,FI,0,Giant Slalom
+2007-12-14,Hans Olsson,SE,0,Downhill
+2007-12-14,Yannick Bertrand,FR,0,Downhill
+2007-12-14,Andreas Buder,AT,0,Downhill
+2007-12-14,Johan Clarey,FR,0,Downhill
+2007-12-14,Felix Neureuther,DE,0,Slalom
+2007-12-14,Konrad Hari,CH,0,Downhill
+2007-12-14,Antoine Deneriaz,FR,0,Combined
+2007-12-14,Johannes Stehle,DE,0,Downhill
+2007-12-14,Rok Perko,SK,0,Combined
+2007-12-14,Mark Bridgwater,NZ,0,Combined
+2007-12-14,Cornel Zueger,CH,0,Downhill
+2007-12-14,Manuel Osborne-Paradis,CA,7,Downhill
+2007-12-14,Sebastien Pichot,FR,0,Giant Slalom
+2007-12-14,Robbie Dixon,CA,0,Super G
+2007-12-14,Bode Miller,US,87,Downhill
+2007-12-14,Hermann Maier,AT,59,Super G
+2007-12-14,Scott Macartney,US,22,Downhill
+2007-12-14,Ole Magnus Kulbeck,NO,0,Combined
+2007-12-14,Matthias Lanzinger,AT,15,Giant Slalom
+2007-12-14,Didier Defago,CH,88,Super G
+2007-12-14,Kevin Francis,US,0,Combined
+2007-12-14,Ales Gorza,SK,29,Super G
+2007-12-14,Andrej Jerman,SK,67,Downhill
 2007-12-14,Walter Girardi,IT,29,Super G
+2007-12-14,Daniel Albrecht,CH,50,Giant Slalom
 2007-12-14,Steven Nyman,US,20,Downhill
-2008-01-18,Peter Struger,AT,3,Super G
-2008-01-18,Yannick Bertrand,FR,0,Downhill
-2008-01-18,Sebastien Pichot,FR,0,Giant Slalom
-2008-01-18,Jeffrey Frisch,CA,0,Combined
-2008-01-18,Lars Elton Myhre,NO,5,Combined
-2008-01-18,Cyprien Richard,FR,0,Giant Slalom
-2008-01-18,TJ Lanning,US,5,Combined
-2008-01-18,Matts Olsson,SE,0,Combined
-2008-01-18,Patrick Wright,CA,0,Combined
-2008-01-18,Matteo Marsaglia,IT,0,Combined
-2008-01-18,Massimiliano Blardone,IT,0,Giant Slalom
-2008-01-18,Christoph Alster,AT,7,Super G
-2008-01-18,Johan Clarey,FR,0,Downhill
-2008-01-18,Jouni Pellinen,FI,0,Combined
-2008-01-18,Kjetil Jansrud,NO,0,Slalom
-2008-01-18,Cristian Javier Simari Birkner,AR,0,Combined
-2008-01-18,Andreas Sander,DE,0,Combined
-2008-01-18,Finlay Mickel,GB,0,Combined
-2008-01-18,Petr Zahrobsky,CZ,0,Combined
-2008-01-18,Frederik Van Buynder,BE,0,Combined
-2008-01-18,Jens Byggmark,SE,0,Slalom
-2008-01-18,Rok Perko,SK,0,Combined
-2008-01-18,Kurt Sulzenbacher,IT,0,Downhill
-2008-01-18,Antoine Deneriaz,FR,0,Combined
-2008-01-18,Felix Neureuther,DE,0,Slalom
-2008-01-18,Andrew Weibrecht,US,0,Downhill
-2008-01-18,Mark Bridgwater,NZ,0,Combined
-2008-01-18,Peter Strodl,DE,0,Combined
-2008-01-18,Craig Branch,AU,0,Downhill
-2008-01-18,Jimmy Cochran,US,0,Slalom
-2008-01-18,Michael Bonetti,CH,0,Combined
+2007-12-14,Erik Guay,CA,90,Super G
+2007-12-14,Patrick Staudacher,IT,89,Super G
+2007-12-14,Ambrosi Hoffmann,CH,66,Downhill
+2007-12-14,Stephan Thanei,IT,0,Combined
+2007-12-14,Stephan Goergl,AT,64,Giant Slalom
+2007-12-14,Michael Walchhofer,AT,68,Downhill
+2007-12-14,Marco Sullivan,US,4,Downhill
+2007-12-14,John Kucera,CA,66,Giant Slalom
+2007-12-14,Francois Bourque,CA,30,Super G
+2007-12-14,Peter Fill,IT,17,Downhill
+2007-12-14,Werner Heel,IT,21,Downhill
+2007-12-14,Jan Hudec,CA,90,Downhill
+2007-12-14,Tobias Gruenenfelder,CH,36,Downhill
+2007-12-14,Matteo Marsaglia,IT,0,Combined
+2007-12-14,Ivica Kostelic,HR,10,Slalom
+2007-12-14,Mario Scheiber,AT,116,Super G
+2007-12-14,Benjamin Raich,AT,161,Giant Slalom
+2007-12-14,Christof Innerhofer,IT,47,Super G
+2007-12-14,Silvan Zurbriggen,CH,13,Slalom
+2007-12-14,Manfred Moelgg,IT,0,Slalom
+2007-12-14,Aksel-Lund Svindal,NO,100,Giant Slalom
+2007-12-14,Stephan Keppler,DE,13,Super G
+2007-12-14,Didier Cuche,CH,184,Downhill
+2007-12-14,Hannes Reichelt,AT,135,Super G
+2007-12-14,Georg Streitberger,AT,47,Super G
+2007-12-14,Marco Buechel,LI,74,Super G
+2007-12-14,Andreas Sander,DE,0,Combined
+2007-12-14,Christoph Gruber,AT,110,Super G
+2007-12-14,Rainer Schoenfelder,AT,0,Slalom
 2008-01-18,Konrad Hari,CH,0,Downhill
-2008-01-18,Marcus Sandell,FI,0,Giant Slalom
-2008-01-18,Ondrej Bank,CZ,0,Combined
-2008-01-18,Andreas Buder,AT,0,Downhill
-2008-01-18,Brenton Fetterplace,AU,0,Combined
-2008-01-18,Ole Magnus Kulbeck,NO,0,Combined
-2008-01-18,Kevin Francis,US,0,Combined
-2008-01-18,Hans Olsson,SE,0,Downhill
-2008-01-18,Stephan Thanei,IT,0,Combined
-2008-01-18,Carlo Janka,CH,0,Giant Slalom
-2008-01-18,Francois Bourque,CA,42,Super G
-2008-01-18,Christof Innerhofer,IT,79,Super G
-2008-01-18,Robbie Dixon,CA,40,Super G
-2008-01-18,Christoph Gruber,AT,125,Super G
-2008-01-18,Michael Walchhofer,AT,72,Downhill
-2008-01-18,Pierre Emmanuel Dalcin,FR,9,Downhill
-2008-01-18,Benjamin Raich,AT,197,Giant Slalom
-2008-01-18,Manuel Osborne-Paradis,CA,9,Downhill
 2008-01-18,John Kucera,CA,111,Giant Slalom
-2008-01-18,Peter Fill,IT,46,Downhill
-2008-01-18,Manfred Moelgg,IT,0,Slalom
-2008-01-18,Ivica Kostelic,HR,19,Slalom
-2008-01-18,Matthias Lanzinger,AT,29,Giant Slalom
-2008-01-18,Werner Heel,IT,41,Downhill
-2008-01-18,Jan Hudec,CA,90,Downhill
-2008-01-18,Hannes Reichelt,AT,145,Super G
-2008-01-18,Georg Streitberger,AT,52,Super G
-2008-01-18,Silvan Zurbriggen,CH,13,Slalom
-2008-01-18,Didier Cuche,CH,244,Downhill
-2008-01-18,Tobias Gruenenfelder,CH,36,Downhill
-2008-01-18,Mario Scheiber,AT,176,Super G
-2008-01-18,Marco Sullivan,US,30,Downhill
+2008-01-18,Michael Walchhofer,AT,72,Downhill
+2008-01-18,Benjamin Raich,AT,197,Giant Slalom
+2008-01-18,Matts Olsson,SE,0,Combined
+2008-01-18,Robbie Dixon,CA,40,Super G
+2008-01-18,Antoine Deneriaz,FR,0,Combined
+2008-01-18,Gareth Sine,CA,0,Combined
 2008-01-18,Ambrosi Hoffmann,CH,77,Downhill
-2008-01-18,Scott Macartney,US,22,Downhill
-2008-01-18,Hermann Maier,AT,139,Super G
-2008-01-18,Walter Girardi,IT,43,Super G
-2008-01-18,Steven Nyman,US,20,Downhill
+2008-01-18,Johannes Stehle,DE,0,Downhill
+2008-01-18,Hannes Reichelt,AT,145,Super G
+2008-01-18,Alexandr Horoshilov,RU,0,Combined
+2008-01-18,Felix Neureuther,DE,0,Slalom
+2008-01-18,Andreas Buder,AT,0,Downhill
+2008-01-18,Niklas Rainer,SE,0,Combined
+2008-01-18,Sebastien Pichot,FR,0,Giant Slalom
+2008-01-18,Tobias Gruenenfelder,CH,36,Downhill
+2008-01-18,Cyprien Richard,FR,0,Giant Slalom
+2008-01-18,Massimiliano Blardone,IT,0,Giant Slalom
+2008-01-18,Matteo Marsaglia,IT,0,Combined
+2008-01-18,Hans Olsson,SE,0,Downhill
+2008-01-18,Jan Hudec,CA,90,Downhill
+2008-01-18,Cornel Zueger,CH,0,Downhill
 2008-01-18,Aksel-Lund Svindal,NO,100,Giant Slalom
-2008-01-18,Didier Defago,CH,106,Super G
-2008-01-18,Marc Berthod,CH,7,Giant Slalom
+2008-01-18,Werner Heel,IT,41,Downhill
+2008-01-18,Jeffrey Frisch,CA,0,Combined
+2008-01-18,Yannick Bertrand,FR,0,Downhill
+2008-01-18,Francois Bourque,CA,42,Super G
+2008-01-18,Andreas Sander,DE,0,Combined
+2008-01-18,Johan Clarey,FR,0,Downhill
+2008-01-18,Rok Perko,SK,0,Combined
+2008-01-18,Mark Bridgwater,NZ,0,Combined
 2008-01-18,Patrick Staudacher,IT,107,Super G
+2008-01-18,David Poisson,FR,0,Downhill
+2008-01-18,Christoph Gruber,AT,125,Super G
+2008-01-18,Patrick Wright,CA,0,Combined
+2008-01-18,Peter Strodl,DE,0,Combined
+2008-01-18,Georg Streitberger,AT,52,Super G
+2008-01-18,Hermann Maier,AT,139,Super G
+2008-01-18,Bjarne Solbakken,NO,0,Combined
+2008-01-18,Finlay Mickel,GB,0,Combined
 2008-01-18,Bode Miller,US,109,Downhill
-2008-01-18,Andrej Jerman,SK,67,Downhill
-2008-01-18,Rainer Schoenfelder,AT,0,Combined
-2008-01-18,Daniel Albrecht,CH,56,Giant Slalom
+2008-01-18,Jouni Pellinen,FI,0,Combined
+2008-01-18,Frederik Van Buynder,BE,0,Combined
+2008-01-18,Michael Gufler,IT,0,Combined
+2008-01-18,Mario Scheiber,AT,176,Super G
+2008-01-18,Petr Zahrobsky,CZ,0,Combined
+2008-01-18,Ole Magnus Kulbeck,NO,0,Combined
+2008-01-18,Kjetil Jansrud,NO,0,Slalom
+2008-01-18,Kurt Sulzenbacher,IT,0,Downhill
+2008-01-18,Didier Defago,CH,106,Super G
+2008-01-18,Marcus Sandell,FI,0,Giant Slalom
+2008-01-18,Didier Cuche,CH,244,Downhill
 2008-01-18,Erik Guay,CA,114,Super G
-2008-01-18,Silvano Varettoni,IT,8,Downhill
+2008-01-18,Brenton Fetterplace,AU,0,Combined
+2008-01-18,Gauthier De Tessieres,FR,0,Giant Slalom
+2008-01-18,Ondrej Bank,CZ,0,Combined
+2008-01-18,Daniel Albrecht,CH,56,Giant Slalom
+2008-01-18,Michael Bonetti,CH,0,Combined
 2008-01-18,Marco Buechel,LI,174,Super G
-2008-02-21,Bjarne Solbakken,NO,0,Combined
-2008-02-21,Gauthier De Tessieres,FR,0,Giant Slalom
-2008-02-21,Johannes Stehle,DE,0,Downhill
-2008-02-21,Christof Innerhofer,IT,82,Super G
-2008-02-21,Stephan Thanei,IT,0,Combined
-2008-02-21,Christoph Gruber,AT,225,Super G
-2008-02-21,Steven Nyman,US,26,Downhill
-2008-02-21,Antoine Deneriaz,FR,0,Combined
-2008-02-21,Petr Zahrobsky,CZ,0,Combined
-2008-02-21,Natko Zrncic-Dim,HR,0,Combined
-2008-02-21,Peter Fill,IT,46,Downhill
-2008-02-21,Stephan Goergl,AT,76,Giant Slalom
-2008-02-21,Frederik Van Buynder,BE,0,Combined
-2008-02-21,Ivica Kostelic,HR,51,Slalom
-2008-02-21,Marco Sullivan,US,30,Downhill
-2008-02-21,Cornel Zueger,CH,0,Downhill
-2008-02-21,Gareth Sine,CA,0,Combined
-2008-02-21,Hermann Maier,AT,139,Super G
-2008-02-21,Didier Defago,CH,146,Super G
-2008-02-21,Bode Miller,US,109,Downhill
-2008-02-21,Matteo Marsaglia,IT,0,Combined
-2008-02-21,Ales Gorza,SK,89,Super G
-2008-02-21,Ole Magnus Kulbeck,NO,0,Combined
-2008-02-21,Kevin Francis,US,0,Combined
-2008-02-21,Andrej Jerman,SK,76,Downhill
-2008-02-21,Daniel Albrecht,CH,69,Giant Slalom
-2008-02-21,Erik Guay,CA,164,Super G
-2008-02-21,Andreas Sander,DE,0,Combined
-2008-02-21,Patrick Staudacher,IT,157,Super G
-2008-02-21,Ambrosi Hoffmann,CH,92,Downhill
-2008-02-21,Mario Scheiber,AT,205,Super G
-2008-02-21,Robbie Dixon,CA,58,Super G
-2008-02-21,Michael Walchhofer,AT,75,Downhill
-2008-02-21,Benjamin Raich,AT,221,Giant Slalom
-2008-02-21,Massimiliano Blardone,IT,0,Giant Slalom
-2008-02-21,John Kucera,CA,127,Giant Slalom
-2008-02-21,Francois Bourque,CA,62,Super G
-2008-02-21,Carlo Janka,CH,6,Giant Slalom
-2008-02-21,Jan Hudec,CA,90,Downhill
-2008-02-21,Alexandr Horoshilov,RU,0,Combined
-2008-02-21,Tobias Gruenenfelder,CH,43,Downhill
-2008-02-21,Georg Streitberger,AT,74,Super G
-2008-02-21,Andreas Buder,AT,0,Downhill
-2008-02-21,Jouni Pellinen,FI,0,Combined
+2008-01-18,Andrej Jerman,SK,67,Downhill
+2008-01-18,Craig Branch,AU,0,Downhill
+2008-01-18,Ales Gorza,SK,29,Super G
+2008-01-18,Christof Innerhofer,IT,79,Super G
+2008-01-18,Natko Zrncic-Dim,HR,0,Combined
+2008-01-18,Florian Eisath,IT,0,Combined
+2008-01-18,Stephan Thanei,IT,0,Combined
+2008-01-18,Andrew Weibrecht,US,0,Downhill
+2008-01-18,Jimmy Cochran,US,0,Slalom
+2008-01-18,TJ Lanning,US,5,Combined
+2008-01-18,Lars Elton Myhre,NO,5,Combined
+2008-01-18,Adrien Theaux,FR,7,Downhill
+2008-01-18,Marco Sullivan,US,30,Downhill
+2008-01-18,Jens Byggmark,SE,0,Slalom
+2008-01-18,Manuel Osborne-Paradis,CA,9,Downhill
+2008-01-18,Peter Struger,AT,3,Super G
+2008-01-18,Steven Nyman,US,20,Downhill
+2008-01-18,Matthias Lanzinger,AT,29,Giant Slalom
+2008-01-18,Kevin Francis,US,0,Combined
+2008-01-18,Carlo Janka,CH,0,Giant Slalom
+2008-01-18,Stephan Keppler,DE,13,Super G
+2008-01-18,Olivier Brand,CH,2,Super G
+2008-01-18,Beni Hofer,CH,0,Downhill
+2008-01-18,Pierre Emmanuel Dalcin,FR,9,Downhill
+2008-01-18,Manfred Moelgg,IT,0,Slalom
+2008-01-18,Alek Glebov,SK,6,Super G
+2008-01-18,Christoph Alster,AT,7,Super G
+2008-01-18,Silvano Varettoni,IT,8,Downhill
+2008-01-18,Peter Fill,IT,46,Downhill
+2008-01-18,Alex Happacher,IT,1,Combined
+2008-01-18,Marc Berthod,CH,7,Giant Slalom
+2008-01-18,Ivica Kostelic,HR,19,Slalom
+2008-01-18,Stephan Goergl,AT,64,Giant Slalom
+2008-01-18,Scott Macartney,US,22,Downhill
+2008-01-18,Andrej Sporn,SK,1,Combined
+2008-01-18,Cristian Javier Simari Birkner,AR,0,Combined
+2008-01-18,Walter Girardi,IT,43,Super G
+2008-01-18,Silvan Zurbriggen,CH,13,Slalom
+2008-01-18,Rainer Schoenfelder,AT,0,Slalom
+2008-01-18,Ted Ligety,US,8,Giant Slalom
+2008-02-21,Lars Elton Myhre,NO,5,Combined
 2008-02-21,Peter Strodl,DE,0,Combined
-2008-02-21,Hannes Reichelt,AT,225,Super G
-2008-02-21,Beni Hofer,CH,4,Downhill
-2008-02-21,Mark Bridgwater,NZ,0,Combined
-2008-02-21,Ted Ligety,US,8,Giant Slalom
-2008-02-21,Michael Bonetti,CH,0,Combined
-2008-02-21,Yannick Bertrand,FR,0,Downhill
-2008-02-21,Didier Cuche,CH,280,Downhill
-2008-02-21,Andrej Sporn,SK,4,Combined
-2008-02-21,Florian Eisath,IT,0,Combined
-2008-02-21,Silvan Zurbriggen,CH,13,Slalom
-2008-02-21,Silvano Varettoni,IT,8,Downhill
-2008-02-21,Manfred Moelgg,IT,14,Slalom
 2008-02-21,Rok Perko,SK,0,Combined
-2008-02-21,Kurt Sulzenbacher,IT,0,Downhill
-2008-02-21,Aksel-Lund Svindal,NO,100,Giant Slalom
-2008-02-21,Rainer Schoenfelder,AT,0,Combined
-2008-02-21,Alek Glebov,SK,6,Super G
-2008-02-21,Adrien Theaux,FR,7,Downhill
-2008-02-21,Matthias Lanzinger,AT,37,Giant Slalom
-2008-02-21,Scott Macartney,US,22,Downhill
+2008-02-21,Patrick Staudacher,IT,157,Super G
+2008-02-21,Michael Bonetti,CH,0,Combined
+2008-02-21,Marcus Sandell,FI,0,Giant Slalom
+2008-02-21,Daniel Albrecht,CH,69,Giant Slalom
+2008-02-21,Stephan Thanei,IT,0,Combined
+2008-02-21,Mark Bridgwater,NZ,0,Combined
+2008-02-21,Georg Streitberger,AT,74,Super G
 2008-02-21,Ondrej Bank,CZ,0,Combined
+2008-02-21,Bjarne Solbakken,NO,0,Combined
+2008-02-21,Stephan Goergl,AT,76,Giant Slalom
+2008-02-21,Erik Guay,CA,164,Super G
+2008-02-21,Steven Nyman,US,26,Downhill
+2008-02-21,Kevin Francis,US,0,Combined
 2008-02-21,Brenton Fetterplace,AU,0,Combined
-2008-02-21,Johan Clarey,FR,0,Downhill
-2008-02-21,Marco Buechel,LI,200,Super G
-2008-02-21,Alex Happacher,IT,1,Combined
+2008-02-21,Olivier Brand,CH,2,Super G
+2008-02-21,Alek Glebov,SK,6,Super G
+2008-02-21,Silvano Varettoni,IT,8,Downhill
+2008-02-21,Jouni Pellinen,FI,0,Combined
+2008-02-21,Mario Scheiber,AT,205,Super G
+2008-02-21,Scott Macartney,US,22,Downhill
+2008-02-21,Finlay Mickel,GB,0,Combined
+2008-02-21,Marc Berthod,CH,7,Giant Slalom
+2008-02-21,Bode Miller,US,109,Downhill
+2008-02-21,Michael Gufler,IT,0,Combined
+2008-02-21,Jens Byggmark,SE,0,Slalom
 2008-02-21,David Poisson,FR,11,Downhill
+2008-02-21,Adrien Theaux,FR,7,Downhill
+2008-02-21,Hermann Maier,AT,139,Super G
+2008-02-21,Matthias Lanzinger,AT,37,Giant Slalom
+2008-02-21,Benjamin Raich,AT,221,Giant Slalom
+2008-02-21,Kurt Sulzenbacher,IT,0,Downhill
+2008-02-21,Didier Defago,CH,146,Super G
+2008-02-21,Petr Zahrobsky,CZ,0,Combined
+2008-02-21,Carlo Janka,CH,6,Giant Slalom
+2008-02-21,Kjetil Jansrud,NO,0,Slalom
+2008-02-21,Florian Eisath,IT,0,Combined
+2008-02-21,Ales Gorza,SK,89,Super G
+2008-02-21,Walter Girardi,IT,43,Super G
+2008-02-21,Manfred Moelgg,IT,14,Slalom
+2008-02-21,Andrew Weibrecht,US,0,Downhill
+2008-02-21,Christoph Gruber,AT,225,Super G
+2008-02-21,Alex Happacher,IT,1,Combined
+2008-02-21,Patrick Wright,CA,0,Combined
+2008-02-21,Craig Branch,AU,0,Downhill
+2008-02-21,Andrej Jerman,SK,76,Downhill
+2008-02-21,Frederik Van Buynder,BE,0,Combined
+2008-02-21,Ole Magnus Kulbeck,NO,0,Combined
+2008-02-21,Alexandr Horoshilov,RU,0,Combined
+2008-02-21,Cornel Zueger,CH,0,Downhill
+2008-02-21,John Kucera,CA,127,Giant Slalom
+2008-02-21,Gareth Sine,CA,0,Combined
+2008-02-21,Tobias Gruenenfelder,CH,43,Downhill
+2008-02-21,Aksel-Lund Svindal,NO,100,Giant Slalom
+2008-02-21,Stephan Keppler,DE,13,Super G
+2008-02-21,Johan Clarey,FR,0,Downhill
+2008-02-21,Francois Bourque,CA,62,Super G
+2008-02-21,Jan Hudec,CA,90,Downhill
+2008-02-21,Andreas Buder,AT,0,Downhill
+2008-02-21,Ambrosi Hoffmann,CH,92,Downhill
+2008-02-21,Hans Olsson,SE,0,Downhill
+2008-02-21,Sebastien Pichot,FR,0,Giant Slalom
+2008-02-21,Matteo Marsaglia,IT,0,Combined
+2008-02-21,Felix Neureuther,DE,0,Slalom
+2008-02-21,Hannes Reichelt,AT,225,Super G
+2008-02-21,Andrej Sporn,SK,4,Combined
+2008-02-21,Yannick Bertrand,FR,0,Downhill
+2008-02-21,Peter Fill,IT,46,Downhill
+2008-02-21,Jeffrey Frisch,CA,0,Combined
+2008-02-21,Werner Heel,IT,41,Downhill
+2008-02-21,Peter Struger,AT,3,Super G
+2008-02-21,Andreas Sander,DE,0,Combined
+2008-02-21,Konrad Hari,CH,0,Downhill
+2008-02-21,Pierre Emmanuel Dalcin,FR,9,Downhill
+2008-02-21,Beni Hofer,CH,4,Downhill
+2008-02-21,Massimiliano Blardone,IT,0,Giant Slalom
+2008-02-21,Christof Innerhofer,IT,82,Super G
+2008-02-21,Natko Zrncic-Dim,HR,0,Combined
 2008-02-21,Manuel Osborne-Paradis,CA,19,Downhill
+2008-02-21,Johannes Stehle,DE,0,Downhill
+2008-02-21,TJ Lanning,US,5,Combined
+2008-02-21,Ivica Kostelic,HR,51,Slalom
+2008-02-21,Marco Buechel,LI,200,Super G
+2008-02-21,Ted Ligety,US,8,Giant Slalom
+2008-02-21,Niklas Rainer,SE,0,Combined
+2008-02-21,Antoine Deneriaz,FR,0,Combined
+2008-02-21,Rainer Schoenfelder,AT,0,Slalom
+2008-02-21,Jimmy Cochran,US,0,Slalom
+2008-02-21,Cristian Javier Simari Birkner,AR,0,Combined
+2008-02-21,Gauthier De Tessieres,FR,0,Giant Slalom
+2008-02-21,Silvan Zurbriggen,CH,13,Slalom
+2008-02-21,Didier Cuche,CH,280,Downhill
 2008-02-21,Matts Olsson,SE,0,Combined
-2008-03-02,Massimiliano Blardone,IT,0,Giant Slalom
-2008-03-02,Ted Ligety,US,8,Giant Slalom
-2008-03-02,Marcus Sandell,FI,0,Giant Slalom
-2008-03-02,Robbie Dixon,CA,108,Super G
-2008-03-02,Patrick Wright,CA,0,Combined
-2008-03-02,Peter Struger,AT,5,Super G
-2008-03-02,Manuel Osborne-Paradis,CA,31,Downhill
-2008-03-02,Benjamin Raich,AT,236,Giant Slalom
-2008-03-02,Ambrosi Hoffmann,CH,142,Downhill
-2008-03-02,Pierre Emmanuel Dalcin,FR,11,Downhill
-2008-03-02,Brenton Fetterplace,AU,0,Combined
-2008-03-02,Alex Happacher,IT,1,Combined
-2008-03-02,Michael Walchhofer,AT,115,Downhill
-2008-03-02,Mario Scheiber,AT,205,Super G
-2008-03-02,Andreas Sander,DE,0,Combined
-2008-03-02,Hermann Maier,AT,163,Super G
-2008-03-02,Alek Glebov,SK,6,Super G
-2008-03-02,Matts Olsson,SE,0,Combined
-2008-03-02,Olivier Brand,CH,8,Super G
-2008-03-02,Didier Defago,CH,182,Super G
-2008-03-02,Marc Berthod,CH,7,Giant Slalom
-2008-03-02,Kevin Francis,US,0,Combined
-2008-03-02,Ales Gorza,SK,97,Super G
-2008-03-02,Andrej Jerman,SK,98,Downhill
-2008-03-02,Jimmy Cochran,US,0,Slalom
-2008-03-02,Silvano Varettoni,IT,8,Downhill
-2008-03-02,Bode Miller,US,189,Downhill
-2008-03-02,TJ Lanning,US,5,Combined
-2008-03-02,Jens Byggmark,SE,0,Slalom
-2008-03-02,Daniel Albrecht,CH,69,Giant Slalom
-2008-03-02,Sebastien Pichot,FR,0,Giant Slalom
-2008-03-02,Erik Guay,CA,200,Super G
+2008-02-21,Marco Sullivan,US,30,Downhill
+2008-02-21,Christoph Alster,AT,7,Super G
+2008-02-21,Cyprien Richard,FR,0,Giant Slalom
+2008-02-21,Michael Walchhofer,AT,75,Downhill
+2008-02-21,Robbie Dixon,CA,58,Super G
 2008-03-02,Aksel-Lund Svindal,NO,100,Giant Slalom
+2008-03-02,Jeffrey Frisch,CA,0,Combined
+2008-03-02,Michael Gufler,IT,0,Combined
+2008-03-02,Adrien Theaux,FR,7,Downhill
+2008-03-02,Cyprien Richard,FR,0,Giant Slalom
+2008-03-02,Jens Byggmark,SE,0,Slalom
+2008-03-02,Benjamin Raich,AT,236,Giant Slalom
+2008-03-02,Mario Scheiber,AT,205,Super G
+2008-03-02,Manuel Osborne-Paradis,CA,31,Downhill
+2008-03-02,Ted Ligety,US,8,Giant Slalom
+2008-03-02,Christoph Gruber,AT,251,Super G
+2008-03-02,Rainer Schoenfelder,AT,3,Slalom
+2008-03-02,Natko Zrncic-Dim,HR,0,Combined
+2008-03-02,Bjarne Solbakken,NO,0,Combined
+2008-03-02,Gauthier De Tessieres,FR,0,Giant Slalom
+2008-03-02,Jimmy Cochran,US,0,Slalom
+2008-03-02,Georg Streitberger,AT,174,Super G
+2008-03-02,Didier Cuche,CH,340,Downhill
+2008-03-02,Pierre Emmanuel Dalcin,FR,11,Downhill
+2008-03-02,Manfred Moelgg,IT,14,Slalom
+2008-03-02,Peter Strodl,DE,0,Combined
+2008-03-02,Gareth Sine,CA,0,Combined
+2008-03-02,Hannes Reichelt,AT,241,Super G
+2008-03-02,Stephan Keppler,DE,13,Super G
+2008-03-02,Silvano Varettoni,IT,8,Downhill
+2008-03-02,Frederik Van Buynder,BE,0,Combined
+2008-03-02,Alexandr Horoshilov,RU,0,Combined
+2008-03-02,Sebastien Pichot,FR,0,Giant Slalom
+2008-03-02,Ole Magnus Kulbeck,NO,0,Combined
+2008-03-02,Patrick Wright,CA,0,Combined
+2008-03-02,Petr Zahrobsky,CZ,0,Combined
+2008-03-02,Marco Buechel,LI,212,Super G
+2008-03-02,Alex Happacher,IT,1,Combined
+2008-03-02,Scott Macartney,US,22,Downhill
+2008-03-02,Johan Clarey,FR,0,Downhill
+2008-03-02,John Kucera,CA,139,Giant Slalom
+2008-03-02,Marco Sullivan,US,44,Downhill
+2008-03-02,Konrad Hari,CH,0,Downhill
 2008-03-02,Cristian Javier Simari Birkner,AR,0,Combined
 2008-03-02,Christoph Alster,AT,7,Super G
-2008-03-02,Patrick Staudacher,IT,157,Super G
-2008-03-02,Felix Neureuther,DE,0,Slalom
-2008-03-02,John Kucera,CA,139,Giant Slalom
-2008-03-02,Johannes Stehle,DE,0,Downhill
-2008-03-02,Walter Girardi,IT,56,Super G
-2008-03-02,Gauthier De Tessieres,FR,0,Giant Slalom
-2008-03-02,Christof Innerhofer,IT,91,Super G
-2008-03-02,Rainer Schoenfelder,AT,3,Combined
-2008-03-02,Georg Streitberger,AT,174,Super G
-2008-03-02,Andrew Weibrecht,US,0,Downhill
-2008-03-02,Didier Cuche,CH,340,Downhill
-2008-03-02,Peter Fill,IT,66,Downhill
-2008-03-02,Christoph Gruber,AT,251,Super G
-2008-03-02,Marco Sullivan,US,44,Downhill
-2008-03-02,Andreas Buder,AT,0,Downhill
-2008-03-02,Kurt Sulzenbacher,IT,0,Downhill
-2008-03-02,Frederik Van Buynder,BE,0,Combined
-2008-03-02,Stephan Goergl,AT,80,Giant Slalom
-2008-03-02,Antoine Deneriaz,FR,0,Combined
-2008-03-02,Steven Nyman,US,33,Downhill
-2008-03-02,Matthias Lanzinger,AT,37,Giant Slalom
-2008-03-02,Finlay Mickel,GB,0,Combined
-2008-03-02,Marco Buechel,LI,212,Super G
-2008-03-02,Michael Gufler,IT,0,Combined
-2008-03-02,Jouni Pellinen,FI,0,Combined
-2008-03-02,Scott Macartney,US,22,Downhill
-2008-03-02,Craig Branch,AU,0,Downhill
-2008-03-02,Manfred Moelgg,IT,14,Slalom
-2008-03-02,Stephan Keppler,DE,13,Super G
-2008-03-02,Ondrej Bank,CZ,0,Combined
-2008-03-02,Alexandr Horoshilov,RU,0,Combined
-2008-03-02,Werner Heel,IT,70,Downhill
+2008-03-02,Matteo Marsaglia,IT,0,Combined
+2008-03-02,Matts Olsson,SE,0,Combined
 2008-03-02,Silvan Zurbriggen,CH,13,Slalom
-2008-03-02,Hannes Reichelt,AT,241,Super G
-2008-03-02,Cyprien Richard,FR,0,Giant Slalom
-2008-03-02,Tobias Gruenenfelder,CH,48,Downhill
-2008-03-02,Mark Bridgwater,NZ,0,Combined
-2008-03-02,Gareth Sine,CA,0,Combined
+2008-03-02,Kevin Francis,US,0,Combined
+2008-03-02,Antoine Deneriaz,FR,0,Combined
+2008-03-02,Robbie Dixon,CA,108,Super G
+2008-03-02,Jouni Pellinen,FI,0,Combined
+2008-03-02,Johannes Stehle,DE,0,Downhill
+2008-03-02,Michael Walchhofer,AT,115,Downhill
 2008-03-02,Francois Bourque,CA,80,Super G
-2008-03-02,Michael Bonetti,CH,0,Combined
+2008-03-02,Andreas Buder,AT,0,Downhill
+2008-03-02,Beni Hofer,CH,4,Downhill
+2008-03-02,Christof Innerhofer,IT,91,Super G
+2008-03-02,Niklas Rainer,SE,0,Combined
+2008-03-02,Andrej Sporn,SK,4,Combined
+2008-03-02,Tobias Gruenenfelder,CH,48,Downhill
+2008-03-02,Ivica Kostelic,HR,51,Slalom
+2008-03-02,Massimiliano Blardone,IT,0,Giant Slalom
 2008-03-02,Jan Hudec,CA,90,Downhill
-2008-03-13,Benjamin Raich,AT,286,Giant Slalom
-2008-03-13,Marco Buechel,LI,230,Super G
-2008-03-13,Johan Clarey,FR,0,Downhill
-2008-03-13,Cornel Zueger,CH,0,Downhill
-2008-03-13,Bode Miller,US,211,Downhill
-2008-03-13,Johannes Stehle,DE,0,Downhill
-2008-03-13,Antoine Deneriaz,FR,0,Combined
-2008-03-13,Brenton Fetterplace,AU,0,Combined
-2008-03-13,Yannick Bertrand,FR,0,Downhill
-2008-03-13,Didier Cuche,CH,355,Downhill
-2008-03-13,Andreas Sander,DE,0,Combined
-2008-03-13,Georg Streitberger,AT,174,Super G
-2008-03-13,Niklas Rainer,SE,0,Combined
-2008-03-13,Rok Perko,SK,0,Combined
-2008-03-13,Mark Bridgwater,NZ,0,Combined
-2008-03-13,Mario Scheiber,AT,205,Super G
-2008-03-13,Konrad Hari,CH,0,Downhill
-2008-03-13,Christoph Gruber,AT,251,Super G
-2008-03-13,Hannes Reichelt,AT,341,Super G
-2008-03-13,Massimiliano Blardone,IT,0,Giant Slalom
-2008-03-13,Hans Olsson,SE,0,Downhill
-2008-03-13,Aksel-Lund Svindal,NO,100,Giant Slalom
-2008-03-13,Andreas Buder,AT,0,Downhill
-2008-03-13,Ole Magnus Kulbeck,NO,0,Combined
-2008-03-13,Hermann Maier,AT,192,Super G
-2008-03-13,Alek Glebov,SK,6,Super G
-2008-03-13,Didier Defago,CH,262,Super G
-2008-03-13,Craig Branch,AU,0,Downhill
-2008-03-13,Rainer Schoenfelder,AT,17,Combined
-2008-03-13,Andrew Weibrecht,US,0,Downhill
-2008-03-13,Manfred Moelgg,IT,27,Slalom
-2008-03-13,Florian Eisath,IT,0,Combined
-2008-03-13,Scott Macartney,US,22,Downhill
-2008-03-13,Michael Bonetti,CH,0,Combined
-2008-03-13,Kurt Sulzenbacher,IT,0,Downhill
-2008-03-13,Matthias Lanzinger,AT,37,Giant Slalom
-2008-03-13,Finlay Mickel,GB,0,Combined
-2008-03-13,Walter Girardi,IT,56,Super G
-2008-03-13,Jouni Pellinen,FI,0,Combined
-2008-03-13,Steven Nyman,US,33,Downhill
-2008-03-13,Michael Gufler,IT,0,Combined
-2008-03-13,David Poisson,FR,11,Downhill
-2008-03-13,Stephan Keppler,DE,13,Super G
-2008-03-13,Ondrej Bank,CZ,0,Combined
-2008-03-13,Silvan Zurbriggen,CH,13,Slalom
-2008-03-13,Carlo Janka,CH,6,Giant Slalom
-2008-03-13,Marc Berthod,CH,7,Giant Slalom
-2008-03-13,Olivier Brand,CH,8,Super G
-2008-03-13,Adrien Theaux,FR,7,Downhill
-2008-03-13,Lars Elton Myhre,NO,5,Combined
-2008-03-13,Silvano Varettoni,IT,8,Downhill
-2008-03-13,TJ Lanning,US,5,Combined
-2008-03-13,Ted Ligety,US,8,Giant Slalom
-2008-03-13,Christoph Alster,AT,7,Super G
-2008-03-13,Beni Hofer,CH,4,Downhill
-2008-03-13,Peter Struger,AT,5,Super G
-2008-03-13,Pierre Emmanuel Dalcin,FR,11,Downhill
-2008-03-13,Andrej Sporn,SK,4,Combined
-2008-03-13,Alex Happacher,IT,1,Combined
-2008-03-13,Manuel Osborne-Paradis,CA,31,Downhill
-2008-03-13,Petr Zahrobsky,CZ,0,Combined
-2008-03-13,Stephan Goergl,AT,92,Giant Slalom
-2008-03-13,Frederik Van Buynder,BE,0,Combined
-2008-03-13,Marco Sullivan,US,44,Downhill
-2008-03-13,Robbie Dixon,CA,108,Super G
-2008-03-13,Kjetil Jansrud,NO,0,Slalom
-2008-03-13,Marcus Sandell,FI,0,Giant Slalom
-2008-03-13,Ambrosi Hoffmann,CH,142,Downhill
-2008-03-13,Patrick Staudacher,IT,157,Super G
-2008-03-13,Felix Neureuther,DE,0,Slalom
+2008-03-02,Peter Fill,IT,66,Downhill
+2008-03-02,Hans Olsson,SE,0,Downhill
+2008-03-02,Peter Struger,AT,5,Super G
+2008-03-02,Cornel Zueger,CH,0,Downhill
+2008-03-02,Felix Neureuther,DE,0,Slalom
+2008-03-02,Werner Heel,IT,70,Downhill
+2008-03-02,Yannick Bertrand,FR,0,Downhill
+2008-03-02,Andreas Sander,DE,0,Combined
+2008-03-02,Marcus Sandell,FI,0,Giant Slalom
+2008-03-02,Ambrosi Hoffmann,CH,142,Downhill
+2008-03-02,TJ Lanning,US,5,Combined
+2008-03-02,Rok Perko,SK,0,Combined
+2008-03-02,Carlo Janka,CH,6,Giant Slalom
+2008-03-02,Andrew Weibrecht,US,0,Downhill
+2008-03-02,Kjetil Jansrud,NO,0,Slalom
+2008-03-02,Ales Gorza,SK,97,Super G
+2008-03-02,Florian Eisath,IT,0,Combined
+2008-03-02,Didier Defago,CH,182,Super G
+2008-03-02,Stephan Goergl,AT,80,Giant Slalom
+2008-03-02,Kurt Sulzenbacher,IT,0,Downhill
+2008-03-02,Hermann Maier,AT,163,Super G
+2008-03-02,David Poisson,FR,11,Downhill
+2008-03-02,Matthias Lanzinger,AT,37,Giant Slalom
+2008-03-02,Marc Berthod,CH,7,Giant Slalom
+2008-03-02,Finlay Mickel,GB,0,Combined
+2008-03-02,Bode Miller,US,189,Downhill
+2008-03-02,Alek Glebov,SK,6,Super G
+2008-03-02,Craig Branch,AU,0,Downhill
+2008-03-02,Andrej Jerman,SK,98,Downhill
+2008-03-02,Ondrej Bank,CZ,0,Combined
+2008-03-02,Patrick Staudacher,IT,157,Super G
+2008-03-02,Walter Girardi,IT,56,Super G
+2008-03-02,Mark Bridgwater,NZ,0,Combined
+2008-03-02,Olivier Brand,CH,8,Super G
+2008-03-02,Lars Elton Myhre,NO,5,Combined
+2008-03-02,Stephan Thanei,IT,0,Combined
+2008-03-02,Michael Bonetti,CH,0,Combined
+2008-03-02,Daniel Albrecht,CH,69,Giant Slalom
+2008-03-02,Steven Nyman,US,33,Downhill
+2008-03-02,Erik Guay,CA,200,Super G
+2008-03-02,Brenton Fetterplace,AU,0,Combined
 2008-03-13,Cristian Javier Simari Birkner,AR,0,Combined
-2008-03-13,Erik Guay,CA,240,Super G
-2008-03-13,Jens Byggmark,SE,0,Slalom
-2008-03-13,Daniel Albrecht,CH,93,Giant Slalom
-2008-03-13,Jimmy Cochran,US,0,Slalom
-2008-03-13,Andrej Jerman,SK,124,Downhill
-2008-03-13,Kevin Francis,US,0,Combined
-2008-03-13,Ales Gorza,SK,157,Super G
-2008-03-13,Matteo Marsaglia,IT,0,Combined
 2008-03-13,Patrick Wright,CA,0,Combined
-2008-03-13,Stephan Thanei,IT,0,Combined
-2008-03-13,Michael Walchhofer,AT,115,Downhill
+2008-03-13,Marcus Sandell,FI,0,Giant Slalom
+2008-03-13,Ole Magnus Kulbeck,NO,0,Combined
 2008-03-13,Sebastien Pichot,FR,0,Giant Slalom
-2008-03-13,Peter Strodl,DE,0,Combined
-2008-03-13,Peter Fill,IT,66,Downhill
-2008-03-13,Bjarne Solbakken,NO,0,Combined
+2008-03-13,Jimmy Cochran,US,0,Slalom
+2008-03-13,Kevin Francis,US,0,Combined
+2008-03-13,Jens Byggmark,SE,0,Slalom
+2008-03-13,Matteo Marsaglia,IT,0,Combined
+2008-03-13,Kjetil Jansrud,NO,0,Slalom
+2008-03-13,Felix Neureuther,DE,0,Slalom
+2008-03-13,Stephan Thanei,IT,0,Combined
+2008-03-13,Beni Hofer,CH,4,Downhill
+2008-03-13,Jeffrey Frisch,CA,0,Combined
+2008-03-13,Jan Hudec,CA,90,Downhill
+2008-03-13,Tobias Gruenenfelder,CH,48,Downhill
+2008-03-13,Christof Innerhofer,IT,107,Super G
 2008-03-13,Ivica Kostelic,HR,83,Slalom
+2008-03-13,Peter Fill,IT,66,Downhill
+2008-03-13,Marco Sullivan,US,44,Downhill
+2008-03-13,Stephan Goergl,AT,92,Giant Slalom
+2008-03-13,Steven Nyman,US,33,Downhill
+2008-03-13,Werner Heel,IT,106,Downhill
+2008-03-13,Walter Girardi,IT,56,Super G
+2008-03-13,Scott Macartney,US,22,Downhill
+2008-03-13,Manfred Moelgg,IT,27,Slalom
+2008-03-13,Rainer Schoenfelder,AT,17,Slalom
+2008-03-13,Stephan Keppler,DE,13,Super G
+2008-03-13,Silvan Zurbriggen,CH,13,Slalom
+2008-03-13,Manuel Osborne-Paradis,CA,31,Downhill
+2008-03-13,Pierre Emmanuel Dalcin,FR,11,Downhill
+2008-03-13,Ted Ligety,US,8,Giant Slalom
+2008-03-13,Matthias Lanzinger,AT,37,Giant Slalom
+2008-03-13,Silvano Varettoni,IT,8,Downhill
+2008-03-13,Francois Bourque,CA,125,Super G
+2008-03-13,Michael Walchhofer,AT,115,Downhill
+2008-03-13,Aksel-Lund Svindal,NO,100,Giant Slalom
+2008-03-13,Hannes Reichelt,AT,341,Super G
+2008-03-13,Didier Cuche,CH,355,Downhill
+2008-03-13,Marco Buechel,LI,230,Super G
+2008-03-13,Christoph Gruber,AT,251,Super G
+2008-03-13,Georg Streitberger,AT,174,Super G
+2008-03-13,Benjamin Raich,AT,286,Giant Slalom
+2008-03-13,Mario Scheiber,AT,205,Super G
+2008-03-13,John Kucera,CA,159,Giant Slalom
+2008-03-13,Bode Miller,US,211,Downhill
+2008-03-13,Didier Defago,CH,262,Super G
+2008-03-13,Ales Gorza,SK,157,Super G
+2008-03-13,Andrej Jerman,SK,124,Downhill
+2008-03-13,Daniel Albrecht,CH,93,Giant Slalom
+2008-03-13,Erik Guay,CA,240,Super G
+2008-03-13,Patrick Staudacher,IT,157,Super G
+2008-03-13,Ambrosi Hoffmann,CH,142,Downhill
+2008-03-13,Robbie Dixon,CA,108,Super G
+2008-03-13,Hermann Maier,AT,192,Super G
+2008-03-13,Cyprien Richard,FR,0,Giant Slalom
+2008-03-13,Adrien Theaux,FR,7,Downhill
+2008-03-13,Alek Glebov,SK,6,Super G
+2008-03-13,Ondrej Bank,CZ,0,Combined
+2008-03-13,Michael Bonetti,CH,0,Combined
+2008-03-13,Craig Branch,AU,0,Downhill
+2008-03-13,Andrew Weibrecht,US,0,Downhill
+2008-03-13,Florian Eisath,IT,0,Combined
+2008-03-13,Kurt Sulzenbacher,IT,0,Downhill
+2008-03-13,David Poisson,FR,11,Downhill
+2008-03-13,Finlay Mickel,GB,0,Combined
+2008-03-13,Brenton Fetterplace,AU,0,Combined
+2008-03-13,Jouni Pellinen,FI,0,Combined
+2008-03-13,Petr Zahrobsky,CZ,0,Combined
+2008-03-13,Frederik Van Buynder,BE,0,Combined
+2008-03-13,Peter Strodl,DE,0,Combined
+2008-03-13,Bjarne Solbakken,NO,0,Combined
 2008-03-13,Natko Zrncic-Dim,HR,0,Combined
 2008-03-13,Gauthier De Tessieres,FR,0,Giant Slalom
-2008-03-13,Christof Innerhofer,IT,107,Super G
-2008-03-13,Tobias Gruenenfelder,CH,48,Downhill
 2008-03-13,Gareth Sine,CA,0,Combined
 2008-03-13,Alexandr Horoshilov,RU,0,Combined
-2008-03-13,Jan Hudec,CA,90,Downhill
-2008-03-13,Jeffrey Frisch,CA,0,Combined
-2008-03-13,Werner Heel,IT,106,Downhill
-2008-03-13,Cyprien Richard,FR,0,Giant Slalom
-2008-03-13,Francois Bourque,CA,125,Super G
-2008-03-13,John Kucera,CA,159,Giant Slalom
+2008-03-13,Michael Gufler,IT,0,Combined
+2008-03-13,Marc Berthod,CH,7,Giant Slalom
+2008-03-13,Mark Bridgwater,NZ,0,Combined
+2008-03-13,Johannes Stehle,DE,0,Downhill
+2008-03-13,Carlo Janka,CH,6,Giant Slalom
+2008-03-13,Olivier Brand,CH,8,Super G
+2008-03-13,Lars Elton Myhre,NO,5,Combined
+2008-03-13,TJ Lanning,US,5,Combined
+2008-03-13,Christoph Alster,AT,7,Super G
+2008-03-13,Peter Struger,AT,5,Super G
+2008-03-13,Andrej Sporn,SK,4,Combined
+2008-03-13,Alex Happacher,IT,1,Combined
+2008-03-13,Rok Perko,SK,0,Combined
+2008-03-13,Niklas Rainer,SE,0,Combined
+2008-03-13,Hans Olsson,SE,0,Downhill
+2008-03-13,Cornel Zueger,CH,0,Downhill
+2008-03-13,Yannick Bertrand,FR,0,Downhill
+2008-03-13,Andreas Buder,AT,0,Downhill
+2008-03-13,Johan Clarey,FR,0,Downhill
+2008-03-13,Konrad Hari,CH,0,Downhill
 2008-03-13,Matts Olsson,SE,0,Combined
+2008-03-13,Antoine Deneriaz,FR,0,Combined
+2008-03-13,Massimiliano Blardone,IT,0,Giant Slalom
+2008-03-13,Andreas Sander,DE,0,Combined

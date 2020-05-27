@@ -4,7 +4,7 @@ date,name,ath_country,value,specialty
 1975-12-07,Bernard Russi,CH,15,Downhill
 1975-12-07,Erik Haaker,NO,0,Downhill
 1975-12-07,Rene Berthod,CH,0,Downhill
-1975-12-07,Jim Hunter,CA,2,Combined
+1975-12-07,Jim Hunter,CA,2,Downhill
 1975-12-07,Anton Steiner,AT,0,Combined
 1975-12-07,Josef Walcher,AT,0,Downhill
 1975-12-07,Werner Grissmann,AT,8,Downhill
@@ -45,13 +45,13 @@ date,name,ath_country,value,specialty
 1975-12-12,Patrice Pellat Finet,FR,0,Downhill
 1975-12-12,Herbert Plank,IT,20,Downhill
 1975-12-12,Steve Podborski,CA,1,Combined
-1975-12-12,Jim Hunter,CA,2,Combined
+1975-12-12,Jim Hunter,CA,2,Downhill
 1975-12-12,Sepp Ferstl,DE,0,Combined
 1975-12-12,Karl Cordin,AT,7,Downhill
 1975-12-12,Bernard Russi,CH,21,Downhill
 1975-12-20,Anton Steiner,AT,0,Combined
 1975-12-20,Franz Klammer,AT,36,Downhill
-1975-12-20,Jim Hunter,CA,2,Combined
+1975-12-20,Jim Hunter,CA,2,Downhill
 1975-12-20,Josef Walcher,AT,0,Downhill
 1975-12-20,Peter Luescher,CH,0,Combined
 1975-12-20,Martin Berthod,CH,0,Downhill
@@ -90,7 +90,7 @@ date,name,ath_country,value,specialty
 1976-01-09,Erik Haaker,NO,15,Downhill
 1976-01-09,Dave Murray,CA,5,Downhill
 1976-01-09,Patrice Pellat Finet,FR,3,Downhill
-1976-01-09,Jim Hunter,CA,8,Combined
+1976-01-09,Jim Hunter,CA,8,Downhill
 1976-01-09,Herbert Plank,IT,60,Downhill
 1976-01-09,Philippe Roux,CH,43,Downhill
 1976-01-09,Ken Read,CA,25,Downhill
@@ -115,7 +115,7 @@ date,name,ath_country,value,specialty
 1976-01-10,Werner Grissmann,AT,20,Downhill
 1976-01-10,Klaus Eberhard,AT,24,Downhill
 1976-01-10,Rene Berthod,CH,2,Downhill
-1976-01-10,Jim Hunter,CA,23,Combined
+1976-01-10,Jim Hunter,CA,23,Downhill
 1976-01-10,Sepp Ferstl,DE,2,Combined
 1976-01-10,Anton Steiner,AT,5,Combined
 1976-01-10,Herbert Plank,IT,71,Downhill
@@ -134,7 +134,7 @@ date,name,ath_country,value,specialty
 1976-01-17,Bernard Russi,CH,64,Downhill
 1976-01-17,Karl Cordin,AT,7,Downhill
 1976-01-17,Erik Haaker,NO,15,Downhill
-1976-01-17,Jim Hunter,CA,23,Combined
+1976-01-17,Jim Hunter,CA,23,Downhill
 1976-01-17,Klaus Eberhard,AT,35,Downhill
 1976-01-17,Anton Steiner,AT,20,Combined
 1976-01-17,Philippe Roux,CH,69,Downhill
@@ -155,7 +155,7 @@ date,name,ath_country,value,specialty
 1976-01-25,Klaus Eberhard,AT,41,Downhill
 1976-01-25,Hans Enn,AT,2,Downhill
 1976-01-25,Rene Berthod,CH,2,Downhill
-1976-01-25,Jim Hunter,CA,27,Combined
+1976-01-25,Jim Hunter,CA,27,Downhill
 1976-01-25,Martin Berthod,CH,1,Downhill
 1976-01-25,Anton Steiner,AT,20,Combined
 1976-01-25,Josef Walcher,AT,16,Downhill
@@ -186,7 +186,7 @@ date,name,ath_country,value,specialty
 1976-03-12,Bernard Russi,CH,72,Downhill
 1976-03-12,Erik Haaker,NO,35,Downhill
 1976-03-12,Rene Berthod,CH,22,Downhill
-1976-03-12,Jim Hunter,CA,27,Combined
+1976-03-12,Jim Hunter,CA,27,Downhill
 1976-03-12,Anton Steiner,AT,22,Combined
 1976-03-12,Josef Walcher,AT,20,Downhill
 1976-03-12,Ernst Winkler,AT,24,Downhill

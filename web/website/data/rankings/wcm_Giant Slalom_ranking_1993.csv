@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1992-11-28,Mitja Kunc,SK,0,Giant Slalom
 1992-11-28,Ole Kristian Furuseth,NO,0,Slalom
 1992-11-28,Stephan Eberharter,AT,0,Super G
-1992-11-28,Steve Locher,CH,32,Combined
+1992-11-28,Steve Locher,CH,32,Giant Slalom
 1992-11-28,Frank Piccard,FR,0,Giant Slalom
 1992-11-28,Michel Lucatelli,FR,0,Giant Slalom
 1992-11-28,Ian Piccard,FR,0,Giant Slalom
@@ -74,7 +74,7 @@ date,name,ath_country,value,specialty
 1992-12-13,Marcel Sulliger,CH,0,Super G
 1992-12-13,Helmut Mayer,AT,0,Giant Slalom
 1992-12-13,Kjetil Andre Aamodt,NO,120,Super G
-1992-12-13,Steve Locher,CH,68,Combined
+1992-12-13,Steve Locher,CH,68,Giant Slalom
 1992-12-13,Rainer Salzgeber,AT,29,Combined
 1992-12-13,Guenther Marxer,LI,4,Giant Slalom
 1992-12-13,Luca Pesando,IT,0,Giant Slalom
@@ -141,7 +141,7 @@ date,name,ath_country,value,specialty
 1992-12-20,Matteo Belfrond,IT,40,Giant Slalom
 1992-12-20,Richard Pramotton,IT,1,Slalom
 1992-12-20,Paul Accola,CH,99,Giant Slalom
-1992-12-20,Steve Locher,CH,68,Combined
+1992-12-20,Steve Locher,CH,68,Giant Slalom
 1992-12-20,Michel Lucatelli,FR,7,Giant Slalom
 1992-12-20,Ian Piccard,FR,40,Giant Slalom
 1992-12-20,Kjetil Andre Aamodt,NO,170,Super G
@@ -196,7 +196,7 @@ date,name,ath_country,value,specialty
 1993-01-19,Franck Carmagnolle,FR,5,Giant Slalom
 1993-01-19,Ole Kristian Furuseth,NO,34,Slalom
 1993-01-19,Stephan Eberharter,AT,12,Super G
-1993-01-19,Steve Locher,CH,82,Combined
+1993-01-19,Steve Locher,CH,82,Giant Slalom
 1993-01-19,Frank Piccard,FR,50,Giant Slalom
 1993-01-19,Ian Piccard,FR,49,Giant Slalom
 1993-01-19,Michel Lucatelli,FR,9,Giant Slalom
@@ -264,7 +264,7 @@ date,name,ath_country,value,specialty
 1993-03-23,Mitja Kunc,SK,43,Giant Slalom
 1993-03-23,Ian Piccard,FR,59,Giant Slalom
 1993-03-23,Ole Kristian Furuseth,NO,70,Slalom
-1993-03-23,Steve Locher,CH,98,Combined
+1993-03-23,Steve Locher,CH,98,Giant Slalom
 1993-03-23,Johan Wallner,SE,208,Giant Slalom
 1993-03-23,Christian Mayer,AT,30,Slalom
 1993-03-23,Hubert Strolz,AT,32,Slalom
@@ -305,7 +305,7 @@ date,name,ath_country,value,specialty
 1993-03-27,Hans Pieren,CH,143,Giant Slalom
 1993-03-27,Lasse Kjus,NO,254,Giant Slalom
 1993-03-27,Siegfried Voglreiter,AT,21,Slalom
-1993-03-27,Steve Locher,CH,124,Combined
+1993-03-27,Steve Locher,CH,124,Giant Slalom
 1993-03-27,Christian Mayer,AT,30,Slalom
 1993-03-27,Markus Wasmeier,DE,21,Downhill
 1993-03-27,Atle Skaardal,NO,10,Downhill

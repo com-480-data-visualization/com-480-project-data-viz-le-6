@@ -2,7 +2,7 @@ date,name,ath_country,value,specialty
 1975-12-05,Gustav Thoeni,IT,25,Giant Slalom
 1975-12-05,Steve Podborski,CA,0,Combined
 1975-12-05,Diego Amplatz,IT,0,Slalom
-1975-12-05,Phil Mahre,US,6,Giant Slalom
+1975-12-05,Steve Mahre,US,0,Slalom
 1975-12-05,Miroslav Sochor,SK,1,Giant Slalom
 1975-12-05,Bartl Gensbichler,AT,0,Combined
 1975-12-05,Arnold Senoner,IT,0,Giant Slalom
@@ -13,17 +13,17 @@ date,name,ath_country,value,specialty
 1975-12-05,Odd Sorli,NO,0,Slalom
 1975-12-05,Werner Grissmann,AT,0,Downhill
 1975-12-05,Peter Schwendener,CH,0,Slalom
-1975-12-05,Peter Fischer,DE,0,Combined
 1975-12-05,Walter Tresch,CH,0,Combined
-1975-12-05,Steve Mahre,US,0,Slalom
+1975-12-05,Rene Berthod,CH,0,Downhill
 1975-12-05,Paolo De Chiesa,IT,0,Slalom
+1975-12-05,Peter Fischer,DE,0,Combined
 1975-12-05,Franz Klammer,AT,0,Downhill
 1975-12-05,Philippe Hardy,FR,0,Slalom
 1975-12-05,Peter Luescher,CH,0,Combined
 1975-12-05,Ernst Good,CH,8,Giant Slalom
 1975-12-05,Klaus Heidegger,AT,0,Giant Slalom
-1975-12-05,Herbert Plank,IT,0,Downhill
-1975-12-05,Jim Hunter,CA,0,Combined
+1975-12-05,Michael Veith,DE,0,Downhill
+1975-12-05,Klaus Eberhard,AT,0,Downhill
 1975-12-05,Bernard Russi,CH,0,Downhill
 1975-12-05,Sepp Oberfrank,IT,0,Slalom
 1975-12-05,Stig Strand,SE,0,Slalom
@@ -33,54 +33,53 @@ date,name,ath_country,value,specialty
 1975-12-05,Erik Haaker,NO,0,Downhill
 1975-12-05,Piero Gros,IT,15,Slalom
 1975-12-05,Philippe Barroso,FR,0,Giant Slalom
-1975-12-05,Klaus Eberhard,AT,0,Downhill
+1975-12-05,Herbert Plank,IT,0,Downhill
 1975-12-05,Fausto Radici,IT,0,Slalom
 1975-12-05,Cary Adgate,US,0,Slalom
 1975-12-05,Hans Enn,AT,0,Downhill
 1975-12-05,Alois Morgenstern,AT,0,Slalom
 1975-12-05,Sepp Ferstl,DE,0,Combined
 1975-12-05,Erwin Stricker,IT,0,Combined
+1975-12-05,Phil Mahre,US,6,Giant Slalom
 1975-12-05,Willi Frommelt,LI,0,Slalom
-1975-12-05,Michael Veith,DE,0,Downhill
 1975-12-05,Jan Bachleda,PL,0,Slalom
 1975-12-05,Ingemar Stenmark,SE,20,Slalom
 1975-12-05,Dave Irwin,CA,0,Downhill
 1975-12-05,Philippe Roux,CH,0,Downhill
 1975-12-05,Albert Burger,DE,0,Giant Slalom
-1975-12-05,Ernst Winkler,AT,0,Downhill
-1975-12-05,Bogumir Zeman,SK,0,Combined
-1975-12-05,Thomas Hauser,AT,11,Giant Slalom
-1975-12-05,Karl Cordin,AT,0,Downhill
 1975-12-05,Dave Murray,CA,0,Downhill
+1975-12-05,Bogumir Zeman,SK,0,Combined
+1975-12-05,Ernst Winkler,AT,0,Downhill
 1975-12-05,Walter Vesti,CH,0,Downhill
 1975-12-05,Wolfgang Junginger,DE,3,Slalom
-1975-12-05,Rene Berthod,CH,0,Downhill
+1975-12-05,Jim Hunter,CA,0,Downhill
 1975-12-05,Heini Hemmi,CH,0,Giant Slalom
-1975-12-05,Greg Jones,US,0,Giant Slalom
-1975-12-05,Martin Berthod,CH,0,Downhill
-1975-12-05,Josef Walcher,AT,0,Downhill
 1975-12-05,Ken Read,CA,0,Downhill
+1975-12-05,Martin Berthod,CH,0,Downhill
 1975-12-05,Christian Neureuther,DE,0,Slalom
+1975-12-05,Josef Walcher,AT,0,Downhill
+1975-12-05,Franco Bieler,IT,4,Giant Slalom
+1975-12-05,Thomas Hauser,AT,11,Giant Slalom
 1975-12-05,Anton Steiner,AT,0,Combined
-1975-12-05,Patrice Pellat Finet,FR,0,Downhill
+1975-12-05,Karl Cordin,AT,0,Downhill
 1975-12-05,Francisco Fernandez Ochoa,ES,0,Combined
 1975-12-05,Masami Ichimura,JP,0,Slalom
-1975-12-05,Franco Bieler,IT,4,Giant Slalom
-1975-12-07,Alois Morgenstern,AT,0,Slalom
-1975-12-07,Jim Hunter,CA,2,Combined
-1975-12-07,Klaus Eberhard,AT,0,Downhill
-1975-12-07,Herbert Plank,IT,20,Downhill
-1975-12-07,Wolfgang Junginger,DE,3,Slalom
-1975-12-07,Sepp Ferstl,DE,0,Combined
-1975-12-07,Ingemar Stenmark,SE,20,Slalom
-1975-12-07,Willi Frommelt,LI,0,Slalom
-1975-12-07,Michael Veith,DE,4,Downhill
-1975-12-07,Jan Bachleda,PL,0,Slalom
+1975-12-05,Greg Jones,US,0,Giant Slalom
+1975-12-05,Patrice Pellat Finet,FR,0,Downhill
 1975-12-07,Christian Neureuther,DE,0,Slalom
+1975-12-07,Herbert Plank,IT,20,Downhill
+1975-12-07,Willi Frommelt,LI,0,Slalom
+1975-12-07,Jan Bachleda,PL,0,Slalom
+1975-12-07,Ingemar Stenmark,SE,20,Slalom
+1975-12-07,Sepp Ferstl,DE,0,Combined
+1975-12-07,Phil Mahre,US,6,Giant Slalom
+1975-12-07,Heini Hemmi,CH,0,Giant Slalom
 1975-12-07,Erwin Stricker,IT,0,Combined
-1975-12-07,Gustav Thoeni,IT,25,Giant Slalom
+1975-12-07,Alois Morgenstern,AT,0,Slalom
+1975-12-07,Wolfgang Junginger,DE,3,Slalom
+1975-12-07,Klaus Eberhard,AT,0,Downhill
 1975-12-07,Thomas Hauser,AT,11,Giant Slalom
-1975-12-07,Greg Jones,US,0,Giant Slalom
+1975-12-07,Gustav Thoeni,IT,25,Giant Slalom
 1975-12-07,Albert Burger,DE,0,Giant Slalom
 1975-12-07,Anton Steiner,AT,0,Combined
 1975-12-07,Hansi Hinterseer,AT,2,Slalom
@@ -89,66 +88,66 @@ date,name,ath_country,value,specialty
 1975-12-07,Sepp Oberfrank,IT,0,Slalom
 1975-12-07,Stig Strand,SE,0,Slalom
 1975-12-07,Pete Patterson,US,0,Combined
-1975-12-07,Hans Enn,AT,0,Downhill
 1975-12-07,Josef Walcher,AT,0,Downhill
-1975-12-07,Piero Gros,IT,15,Slalom
+1975-12-07,Hans Enn,AT,0,Downhill
+1975-12-07,Paul Frommelt,LI,0,Slalom
 1975-12-07,Bruno Noeckler,IT,0,Slalom
 1975-12-07,Erik Haaker,NO,0,Downhill
 1975-12-07,Bogumir Zeman,SK,0,Combined
 1975-12-07,Philippe Barroso,FR,0,Giant Slalom
 1975-12-07,Walter Vesti,CH,0,Downhill
 1975-12-07,Cary Adgate,US,0,Slalom
-1975-12-07,Dave Irwin,CA,11,Downhill
-1975-12-07,Paul Frommelt,LI,0,Slalom
 1975-12-07,Fausto Radici,IT,0,Slalom
-1975-12-07,Heini Hemmi,CH,0,Giant Slalom
+1975-12-07,Dave Irwin,CA,11,Downhill
+1975-12-07,Greg Jones,US,0,Giant Slalom
+1975-12-07,Piero Gros,IT,15,Slalom
+1975-12-07,Michael Veith,DE,4,Downhill
 1975-12-07,Sigbert Prestl,DE,0,Combined
-1975-12-07,Walter Tresch,CH,0,Combined
-1975-12-07,Rene Berthod,CH,0,Downhill
-1975-12-07,Franco Bieler,IT,4,Giant Slalom
-1975-12-07,Peter Fischer,DE,0,Combined
-1975-12-07,Peter Schwendener,CH,0,Slalom
-1975-12-07,Franz Klammer,AT,0,Downhill
+1975-12-07,Jim Hunter,CA,2,Downhill
+1975-12-07,Paolo De Chiesa,IT,0,Slalom
 1975-12-07,Ernst Good,CH,8,Giant Slalom
 1975-12-07,Dave Murray,CA,0,Downhill
-1975-12-07,Paolo De Chiesa,IT,0,Slalom
+1975-12-07,Peter Schwendener,CH,0,Slalom
 1975-12-07,Odd Sorli,NO,0,Slalom
-1975-12-07,Ernst Winkler,AT,0,Downhill
+1975-12-07,Peter Fischer,DE,0,Combined
 1975-12-07,Peter Luescher,CH,0,Combined
+1975-12-07,Ernst Winkler,AT,0,Downhill
+1975-12-07,Walter Tresch,CH,0,Combined
 1975-12-07,Werner Grissmann,AT,8,Downhill
-1975-12-07,Engelhard Pargaetzi,CH,0,Giant Slalom
-1975-12-07,Francisco Fernandez Ochoa,ES,0,Combined
 1975-12-07,Miroslav Sochor,SK,1,Giant Slalom
-1975-12-07,Arnold Senoner,IT,0,Giant Slalom
-1975-12-07,Philippe Roux,CH,6,Downhill
-1975-12-07,Andy Mill,US,0,Combined
-1975-12-07,Klaus Heidegger,AT,0,Giant Slalom
-1975-12-07,Steve Podborski,CA,1,Combined
-1975-12-07,Bartl Gensbichler,AT,0,Combined
+1975-12-07,Francisco Fernandez Ochoa,ES,0,Combined
+1975-12-07,Engelhard Pargaetzi,CH,0,Giant Slalom
+1975-12-07,Franz Klammer,AT,0,Downhill
 1975-12-07,Philippe Hardy,FR,0,Slalom
-1975-12-07,Ken Read,CA,25,Downhill
-1975-12-07,Martin Berthod,CH,0,Downhill
-1975-12-07,Diego Amplatz,IT,0,Slalom
-1975-12-07,Karl Cordin,AT,3,Downhill
+1975-12-07,Arnold Senoner,IT,0,Giant Slalom
 1975-12-07,Masami Ichimura,JP,0,Slalom
-1975-12-07,Phil Mahre,US,6,Giant Slalom
+1975-12-07,Karl Cordin,AT,3,Downhill
 1975-12-07,Steve Mahre,US,0,Slalom
+1975-12-07,Martin Berthod,CH,0,Downhill
+1975-12-07,Ken Read,CA,25,Downhill
+1975-12-07,Diego Amplatz,IT,0,Slalom
+1975-12-07,Bartl Gensbichler,AT,0,Combined
+1975-12-07,Klaus Heidegger,AT,0,Giant Slalom
+1975-12-07,Philippe Roux,CH,6,Downhill
+1975-12-07,Steve Podborski,CA,1,Combined
+1975-12-07,Andy Mill,US,0,Combined
+1975-12-07,Rene Berthod,CH,0,Downhill
+1975-12-07,Franco Bieler,IT,4,Giant Slalom
+1975-12-12,Piero Gros,IT,15,Slalom
+1975-12-12,Heini Hemmi,CH,0,Giant Slalom
 1975-12-12,Paolo De Chiesa,IT,0,Slalom
 1975-12-12,Karl Cordin,AT,7,Downhill
-1975-12-12,Philippe Roux,CH,26,Downhill
-1975-12-12,Walter Tresch,CH,0,Combined
-1975-12-12,Klaus Heidegger,AT,0,Giant Slalom
-1975-12-12,Hansi Hinterseer,AT,2,Slalom
 1975-12-12,Stig Strand,SE,0,Slalom
-1975-12-12,Piero Gros,IT,15,Slalom
+1975-12-12,Hansi Hinterseer,AT,2,Slalom
+1975-12-12,Klaus Heidegger,AT,0,Giant Slalom
+1975-12-12,Philippe Roux,CH,26,Downhill
 1975-12-12,Albert Burger,DE,0,Giant Slalom
-1975-12-12,Herbert Plank,IT,20,Downhill
-1975-12-12,Bruno Noeckler,IT,0,Slalom
-1975-12-12,Heini Hemmi,CH,0,Giant Slalom
+1975-12-12,Greg Jones,US,0,Giant Slalom
+1975-12-12,Bogumir Zeman,SK,0,Combined
 1975-12-12,Wolfgang Junginger,DE,3,Slalom
 1975-12-12,Bartl Gensbichler,AT,0,Combined
-1975-12-12,Steve Podborski,CA,1,Combined
 1975-12-12,Sepp Ferstl,DE,0,Combined
+1975-12-12,Steve Podborski,CA,1,Combined
 1975-12-12,Arnold Senoner,IT,0,Giant Slalom
 1975-12-12,Willi Frommelt,LI,0,Slalom
 1975-12-12,Masami Ichimura,JP,0,Slalom
@@ -161,28 +160,29 @@ date,name,ath_country,value,specialty
 1975-12-12,Klaus Eberhard,AT,2,Downhill
 1975-12-12,Franco Bieler,IT,4,Giant Slalom
 1975-12-12,Philippe Barroso,FR,0,Giant Slalom
-1975-12-12,Bogumir Zeman,SK,0,Combined
-1975-12-12,Greg Jones,US,0,Giant Slalom
+1975-12-12,Bruno Noeckler,IT,0,Slalom
+1975-12-12,Walter Tresch,CH,0,Combined
+1975-12-12,Herbert Plank,IT,20,Downhill
 1975-12-12,Pete Patterson,US,0,Combined
 1975-12-12,Francisco Fernandez Ochoa,ES,0,Combined
 1975-12-12,Franz Klammer,AT,25,Downhill
 1975-12-12,Ken Read,CA,25,Downhill
 1975-12-12,Dave Irwin,CA,22,Downhill
 1975-12-12,Hans Enn,AT,0,Downhill
-1975-12-12,Phil Mahre,US,6,Giant Slalom
+1975-12-12,Steve Mahre,US,0,Slalom
 1975-12-12,Diego Amplatz,IT,0,Slalom
 1975-12-12,Andy Mill,US,0,Combined
 1975-12-12,Martin Berthod,CH,0,Downhill
-1975-12-12,Erwin Stricker,IT,0,Combined
-1975-12-12,Rene Berthod,CH,1,Downhill
+1975-12-12,Jim Hunter,CA,2,Downhill
+1975-12-12,Bernard Russi,CH,21,Downhill
 1975-12-12,Ingemar Stenmark,SE,20,Slalom
 1975-12-12,Peter Luescher,CH,0,Combined
 1975-12-12,Philippe Hardy,FR,0,Slalom
 1975-12-12,Michael Veith,DE,4,Downhill
 1975-12-12,Thomas Hauser,AT,11,Giant Slalom
-1975-12-12,Jim Hunter,CA,2,Combined
-1975-12-12,Bernard Russi,CH,21,Downhill
-1975-12-12,Steve Mahre,US,0,Slalom
+1975-12-12,Phil Mahre,US,6,Giant Slalom
+1975-12-12,Erwin Stricker,IT,0,Combined
+1975-12-12,Rene Berthod,CH,1,Downhill
 1975-12-12,Cary Adgate,US,0,Slalom
 1975-12-12,Ernst Winkler,AT,3,Downhill
 1975-12-12,Anton Steiner,AT,0,Combined
@@ -190,9 +190,9 @@ date,name,ath_country,value,specialty
 1975-12-12,Sepp Oberfrank,IT,0,Slalom
 1975-12-12,Miroslav Sochor,SK,1,Giant Slalom
 1975-12-12,Walter Vesti,CH,0,Downhill
-1975-12-12,Josef Walcher,AT,0,Downhill
 1975-12-12,Engelhard Pargaetzi,CH,0,Giant Slalom
 1975-12-12,Werner Grissmann,AT,16,Downhill
+1975-12-12,Josef Walcher,AT,0,Downhill
 1975-12-12,Gustav Thoeni,IT,25,Giant Slalom
 1975-12-12,Jan Bachleda,PL,0,Slalom
 1975-12-12,Patrice Pellat Finet,FR,0,Downhill
@@ -200,15 +200,15 @@ date,name,ath_country,value,specialty
 1975-12-12,Erik Haaker,NO,15,Downhill
 1975-12-12,Christian Neureuther,DE,0,Slalom
 1975-12-12,Peter Schwendener,CH,0,Slalom
-1975-12-14,Franz Klammer,AT,25,Downhill
-1975-12-14,Steve Mahre,US,0,Slalom
-1975-12-14,Werner Grissmann,AT,16,Downhill
+1975-12-14,Walter Tresch,CH,0,Combined
 1975-12-14,Ernst Good,CH,28,Giant Slalom
+1975-12-14,Paolo De Chiesa,IT,0,Slalom
+1975-12-14,Werner Grissmann,AT,16,Downhill
 1975-12-14,Peter Fischer,DE,0,Combined
 1975-12-14,Philippe Roux,CH,26,Downhill
 1975-12-14,Peter Schwendener,CH,0,Slalom
-1975-12-14,Walter Tresch,CH,0,Combined
-1975-12-14,Paolo De Chiesa,IT,0,Slalom
+1975-12-14,Rene Berthod,CH,1,Downhill
+1975-12-14,Franz Klammer,AT,25,Downhill
 1975-12-14,Bernard Russi,CH,21,Downhill
 1975-12-14,Philippe Hardy,FR,0,Slalom
 1975-12-14,Anton Steiner,AT,0,Combined
@@ -225,9 +225,9 @@ date,name,ath_country,value,specialty
 1975-12-14,Masami Ichimura,JP,0,Slalom
 1975-12-14,Dave Murray,CA,0,Downhill
 1975-12-14,Ernst Winkler,AT,3,Downhill
-1975-12-14,Thomas Hauser,AT,19,Giant Slalom
-1975-12-14,Rene Berthod,CH,1,Downhill
+1975-12-14,Jim Hunter,CA,2,Downhill
 1975-12-14,Francisco Fernandez Ochoa,ES,0,Combined
+1975-12-14,Thomas Hauser,AT,19,Giant Slalom
 1975-12-14,Karl Cordin,AT,7,Downhill
 1975-12-14,Franco Bieler,IT,15,Giant Slalom
 1975-12-14,Peter Luescher,CH,6,Combined
@@ -261,22 +261,22 @@ date,name,ath_country,value,specialty
 1975-12-14,Diego Amplatz,IT,0,Slalom
 1975-12-14,Andy Mill,US,0,Combined
 1975-12-14,Steve Podborski,CA,1,Combined
-1975-12-14,Phil Mahre,US,6,Giant Slalom
+1975-12-14,Steve Mahre,US,0,Slalom
 1975-12-14,Sigbert Prestl,DE,0,Combined
 1975-12-14,Miroslav Sochor,SK,1,Giant Slalom
 1975-12-14,Odd Sorli,NO,0,Slalom
-1975-12-14,Jim Hunter,CA,2,Combined
+1975-12-14,Phil Mahre,US,6,Giant Slalom
 1975-12-14,Herbert Plank,IT,20,Downhill
 1975-12-15,Albert Burger,DE,3,Giant Slalom
 1975-12-15,Pete Patterson,US,0,Combined
-1975-12-15,Christian Neureuther,DE,0,Slalom
 1975-12-15,Bruno Noeckler,IT,6,Slalom
-1975-12-15,Phil Mahre,US,6,Giant Slalom
+1975-12-15,Christian Neureuther,DE,0,Slalom
+1975-12-15,Steve Mahre,US,0,Slalom
 1975-12-15,Steve Podborski,CA,1,Combined
 1975-12-15,Werner Grissmann,AT,16,Downhill
 1975-12-15,Josef Walcher,AT,0,Downhill
-1975-12-15,Piero Gros,IT,45,Slalom
 1975-12-15,Anton Steiner,AT,0,Combined
+1975-12-15,Piero Gros,IT,45,Slalom
 1975-12-15,Arnold Senoner,IT,0,Giant Slalom
 1975-12-15,Bernard Russi,CH,21,Downhill
 1975-12-15,Erik Haaker,NO,15,Downhill
@@ -286,15 +286,15 @@ date,name,ath_country,value,specialty
 1975-12-15,Sepp Ferstl,DE,0,Combined
 1975-12-15,Thomas Hauser,AT,19,Giant Slalom
 1975-12-15,Philippe Roux,CH,26,Downhill
-1975-12-15,Jim Hunter,CA,2,Combined
+1975-12-15,Phil Mahre,US,6,Giant Slalom
 1975-12-15,Michael Veith,DE,4,Downhill
 1975-12-15,Karl Cordin,AT,7,Downhill
 1975-12-15,Cary Adgate,US,0,Slalom
 1975-12-15,Ernst Good,CH,28,Giant Slalom
-1975-12-15,Rene Berthod,CH,1,Downhill
 1975-12-15,Erwin Stricker,IT,0,Combined
+1975-12-15,Jim Hunter,CA,2,Downhill
 1975-12-15,Ernst Winkler,AT,3,Downhill
-1975-12-15,Steve Mahre,US,0,Slalom
+1975-12-15,Rene Berthod,CH,1,Downhill
 1975-12-15,Diego Amplatz,IT,0,Slalom
 1975-12-15,Alois Morgenstern,AT,3,Slalom
 1975-12-15,Paolo De Chiesa,IT,4,Slalom
@@ -305,7 +305,7 @@ date,name,ath_country,value,specialty
 1975-12-15,Dave Irwin,CA,22,Downhill
 1975-12-15,Franco Bieler,IT,15,Giant Slalom
 1975-12-15,Willi Frommelt,LI,0,Slalom
-1975-12-15,Engelhard Pargaetzi,CH,25,Giant Slalom
+1975-12-15,Peter Fischer,DE,0,Combined
 1975-12-15,Francisco Fernandez Ochoa,ES,0,Combined
 1975-12-15,Masami Ichimura,JP,0,Slalom
 1975-12-15,Bartl Gensbichler,AT,0,Combined
@@ -323,31 +323,31 @@ date,name,ath_country,value,specialty
 1975-12-15,Miroslav Sochor,SK,1,Giant Slalom
 1975-12-15,Ken Read,CA,25,Downhill
 1975-12-15,Martin Berthod,CH,0,Downhill
-1975-12-15,Peter Fischer,DE,0,Combined
-1975-12-15,Hansi Hinterseer,AT,22,Slalom
+1975-12-15,Engelhard Pargaetzi,CH,25,Giant Slalom
+1975-12-15,Fausto Radici,IT,11,Slalom
+1975-12-15,Gustav Thoeni,IT,31,Giant Slalom
 1975-12-15,Greg Jones,US,0,Giant Slalom
 1975-12-15,Sepp Oberfrank,IT,0,Slalom
 1975-12-15,Walter Vesti,CH,0,Downhill
-1975-12-15,Philippe Barroso,FR,2,Giant Slalom
-1975-12-15,Fausto Radici,IT,11,Slalom
+1975-12-15,Hansi Hinterseer,AT,22,Slalom
 1975-12-15,Patrice Pellat Finet,FR,0,Downhill
 1975-12-15,Wolfgang Junginger,DE,3,Slalom
-1975-12-15,Gustav Thoeni,IT,31,Giant Slalom
+1975-12-15,Philippe Barroso,FR,2,Giant Slalom
 1975-12-15,Paul Frommelt,LI,0,Slalom
 1975-12-20,Bernard Russi,CH,29,Downhill
-1975-12-20,Engelhard Pargaetzi,CH,25,Giant Slalom
+1975-12-20,Steve Mahre,US,0,Slalom
 1975-12-20,Ernst Good,CH,28,Giant Slalom
 1975-12-20,Phil Mahre,US,6,Giant Slalom
 1975-12-20,Piero Gros,IT,45,Slalom
 1975-12-20,Sigbert Prestl,DE,0,Combined
 1975-12-20,Andy Mill,US,0,Combined
+1975-12-20,Odd Sorli,NO,8,Slalom
+1975-12-20,Diego Amplatz,IT,0,Slalom
 1975-12-20,Stig Strand,SE,0,Slalom
 1975-12-20,Philippe Barroso,FR,2,Giant Slalom
-1975-12-20,Diego Amplatz,IT,0,Slalom
-1975-12-20,Hansi Hinterseer,AT,22,Slalom
 1975-12-20,Steve Podborski,CA,1,Combined
-1975-12-20,Jim Hunter,CA,2,Combined
-1975-12-20,Odd Sorli,NO,8,Slalom
+1975-12-20,Hansi Hinterseer,AT,22,Slalom
+1975-12-20,Engelhard Pargaetzi,CH,25,Giant Slalom
 1975-12-20,Paul Frommelt,LI,0,Slalom
 1975-12-20,Bruno Noeckler,IT,6,Slalom
 1975-12-20,Jan Bachleda,PL,1,Slalom
@@ -370,119 +370,118 @@ date,name,ath_country,value,specialty
 1975-12-20,Peter Fischer,DE,0,Combined
 1975-12-20,Albert Burger,DE,3,Giant Slalom
 1975-12-20,Miroslav Sochor,SK,1,Giant Slalom
-1975-12-20,Heini Hemmi,CH,0,Giant Slalom
-1975-12-20,Philippe Hardy,FR,0,Slalom
-1975-12-20,Thomas Hauser,AT,19,Giant Slalom
 1975-12-20,Philippe Roux,CH,32,Downhill
-1975-12-20,Josef Walcher,AT,0,Downhill
 1975-12-20,Masami Ichimura,JP,0,Slalom
 1975-12-20,Karl Cordin,AT,7,Downhill
-1975-12-20,Wolfgang Junginger,DE,3,Slalom
-1975-12-20,Rene Berthod,CH,2,Downhill
 1975-12-20,Francisco Fernandez Ochoa,ES,0,Combined
 1975-12-20,Arnold Senoner,IT,0,Giant Slalom
 1975-12-20,Dave Murray,CA,4,Downhill
 1975-12-20,Franco Bieler,IT,15,Giant Slalom
-1975-12-20,Martin Berthod,CH,0,Downhill
 1975-12-20,Ernst Winkler,AT,3,Downhill
-1975-12-20,Gustav Thoeni,IT,31,Giant Slalom
-1975-12-20,Peter Luescher,CH,6,Combined
-1975-12-20,Klaus Heidegger,AT,0,Giant Slalom
-1975-12-20,Christian Neureuther,DE,0,Slalom
-1975-12-20,Anton Steiner,AT,0,Combined
-1975-12-20,Patrice Pellat Finet,FR,3,Downhill
-1975-12-20,Werner Grissmann,AT,16,Downhill
-1975-12-20,Walter Tresch,CH,0,Combined
-1975-12-20,Walter Vesti,CH,0,Downhill
-1975-12-20,Peter Schwendener,CH,0,Slalom
-1975-12-20,Greg Jones,US,0,Giant Slalom
 1975-12-20,Ken Read,CA,25,Downhill
-1975-12-20,Franz Klammer,AT,36,Downhill
-1975-12-20,Steve Mahre,US,0,Slalom
+1975-12-20,Thomas Hauser,AT,19,Giant Slalom
+1975-12-20,Heini Hemmi,CH,0,Giant Slalom
+1975-12-20,Wolfgang Junginger,DE,3,Slalom
+1975-12-20,Josef Walcher,AT,0,Downhill
+1975-12-20,Gustav Thoeni,IT,31,Giant Slalom
+1975-12-20,Greg Jones,US,0,Giant Slalom
+1975-12-20,Christian Neureuther,DE,0,Slalom
 1975-12-20,Bogumir Zeman,SK,0,Combined
+1975-12-20,Walter Vesti,CH,0,Downhill
+1975-12-20,Patrice Pellat Finet,FR,3,Downhill
+1975-12-20,Anton Steiner,AT,0,Combined
+1975-12-20,Martin Berthod,CH,0,Downhill
+1975-12-20,Philippe Hardy,FR,0,Slalom
+1975-12-20,Jim Hunter,CA,2,Downhill
+1975-12-20,Werner Grissmann,AT,16,Downhill
+1975-12-20,Klaus Heidegger,AT,0,Giant Slalom
 1975-12-20,Paolo De Chiesa,IT,4,Slalom
+1975-12-20,Rene Berthod,CH,2,Downhill
+1975-12-20,Peter Schwendener,CH,0,Slalom
+1975-12-20,Peter Luescher,CH,6,Combined
+1975-12-20,Franz Klammer,AT,36,Downhill
+1975-12-20,Walter Tresch,CH,0,Combined
+1975-12-21,Martin Berthod,CH,0,Downhill
+1975-12-21,Christian Neureuther,DE,11,Slalom
+1975-12-21,Gustav Thoeni,IT,31,Giant Slalom
+1975-12-21,Peter Schwendener,CH,1,Slalom
+1975-12-21,Engelhard Pargaetzi,CH,25,Giant Slalom
+1975-12-21,Thomas Hauser,AT,19,Giant Slalom
+1975-12-21,Pete Patterson,US,0,Combined
 1975-12-21,Hansi Hinterseer,AT,47,Slalom
 1975-12-21,Bernard Russi,CH,29,Downhill
-1975-12-21,Pete Patterson,US,0,Combined
-1975-12-21,Martin Berthod,CH,0,Downhill
+1975-12-21,Werner Grissmann,AT,16,Downhill
 1975-12-21,Anton Steiner,AT,0,Combined
-1975-12-21,Christian Neureuther,DE,11,Slalom
-1975-12-21,Josef Walcher,AT,0,Downhill
-1975-12-21,Gustav Thoeni,IT,31,Giant Slalom
-1975-12-21,Paul Frommelt,LI,0,Slalom
+1975-12-21,Steve Mahre,US,0,Slalom
+1975-12-21,Miroslav Sochor,SK,1,Giant Slalom
 1975-12-21,Walter Vesti,CH,0,Downhill
 1975-12-21,Cary Adgate,US,0,Slalom
-1975-12-21,Francisco Fernandez Ochoa,ES,0,Combined
-1975-12-21,Dave Irwin,CA,47,Downhill
-1975-12-21,Phil Mahre,US,6,Giant Slalom
-1975-12-21,Miroslav Sochor,SK,1,Giant Slalom
-1975-12-21,Werner Grissmann,AT,16,Downhill
-1975-12-21,Engelhard Pargaetzi,CH,25,Giant Slalom
-1975-12-21,Peter Schwendener,CH,1,Slalom
 1975-12-21,Odd Sorli,NO,8,Slalom
+1975-12-21,Paul Frommelt,LI,0,Slalom
 1975-12-21,Andy Mill,US,0,Combined
-1975-12-21,Franz Klammer,AT,36,Downhill
-1975-12-21,Diego Amplatz,IT,0,Slalom
-1975-12-21,Jim Hunter,CA,2,Combined
-1975-12-21,Erik Haaker,NO,15,Downhill
-1975-12-21,Steve Mahre,US,0,Slalom
 1975-12-21,Peter Luescher,CH,9,Combined
-1975-12-21,Ingemar Stenmark,SE,66,Slalom
-1975-12-21,Thomas Hauser,AT,19,Giant Slalom
 1975-12-21,Philippe Hardy,FR,0,Slalom
+1975-12-21,Jan Bachleda,PL,1,Slalom
 1975-12-21,Michael Veith,DE,4,Downhill
 1975-12-21,Hans Enn,AT,0,Downhill
+1975-12-21,Phil Mahre,US,6,Giant Slalom
+1975-12-21,Francisco Fernandez Ochoa,ES,0,Combined
 1975-12-21,Rene Berthod,CH,2,Downhill
+1975-12-21,Diego Amplatz,IT,0,Slalom
+1975-12-21,Jim Hunter,CA,2,Downhill
 1975-12-21,Erwin Stricker,IT,0,Combined
 1975-12-21,Ernst Winkler,AT,3,Downhill
+1975-12-21,Franz Klammer,AT,36,Downhill
 1975-12-21,Ken Read,CA,25,Downhill
-1975-12-21,Jan Bachleda,PL,1,Slalom
+1975-12-21,Dave Irwin,CA,47,Downhill
+1975-12-21,Erik Haaker,NO,15,Downhill
+1975-12-21,Ingemar Stenmark,SE,66,Slalom
+1975-12-21,Josef Walcher,AT,0,Downhill
 1975-12-21,Patrice Pellat Finet,FR,3,Downhill
 1975-12-21,Sepp Oberfrank,IT,0,Slalom
-1975-12-21,Peter Fischer,DE,0,Combined
-1975-12-21,Albert Burger,DE,3,Giant Slalom
-1975-12-21,Dave Murray,CA,4,Downhill
-1975-12-21,Bartl Gensbichler,AT,0,Combined
-1975-12-21,Franco Bieler,IT,15,Giant Slalom
-1975-12-21,Klaus Eberhard,AT,22,Downhill
-1975-12-21,Arnold Senoner,IT,0,Giant Slalom
-1975-12-21,Piero Gros,IT,60,Slalom
-1975-12-21,Alois Morgenstern,AT,7,Slalom
-1975-12-21,Masami Ichimura,JP,0,Slalom
-1975-12-21,Walter Tresch,CH,6,Combined
-1975-12-21,Steve Podborski,CA,1,Combined
-1975-12-21,Philippe Roux,CH,32,Downhill
-1975-12-21,Klaus Heidegger,AT,0,Giant Slalom
-1975-12-21,Willi Frommelt,LI,0,Slalom
-1975-12-21,Karl Cordin,AT,7,Downhill
-1975-12-21,Bruno Noeckler,IT,6,Slalom
 1975-12-21,Fausto Radici,IT,19,Slalom
-1975-12-21,Heini Hemmi,CH,0,Giant Slalom
-1975-12-21,Stig Strand,SE,2,Slalom
-1975-12-21,Bogumir Zeman,SK,0,Combined
-1975-12-21,Herbert Plank,IT,35,Downhill
+1975-12-21,Masami Ichimura,JP,0,Slalom
+1975-12-21,Arnold Senoner,IT,0,Giant Slalom
+1975-12-21,Walter Tresch,CH,6,Combined
+1975-12-21,Peter Fischer,DE,0,Combined
+1975-12-21,Klaus Eberhard,AT,22,Downhill
+1975-12-21,Franco Bieler,IT,15,Giant Slalom
+1975-12-21,Bartl Gensbichler,AT,0,Combined
+1975-12-21,Dave Murray,CA,4,Downhill
+1975-12-21,Paolo De Chiesa,IT,4,Slalom
+1975-12-21,Albert Burger,DE,3,Giant Slalom
+1975-12-21,Piero Gros,IT,60,Slalom
+1975-12-21,Bruno Noeckler,IT,6,Slalom
 1975-12-21,Philippe Barroso,FR,2,Giant Slalom
-1975-12-21,Sigbert Prestl,DE,0,Combined
-1975-12-21,Greg Jones,US,0,Giant Slalom
+1975-12-21,Heini Hemmi,CH,0,Giant Slalom
 1975-12-21,Sepp Ferstl,DE,2,Combined
+1975-12-21,Steve Podborski,CA,1,Combined
 1975-12-21,Wolfgang Junginger,DE,3,Slalom
 1975-12-21,Ernst Good,CH,28,Giant Slalom
-1975-12-21,Paolo De Chiesa,IT,4,Slalom
-1976-01-05,Arnold Senoner,IT,0,Giant Slalom
-1976-01-05,Phil Mahre,US,6,Giant Slalom
-1976-01-05,Franz Klammer,AT,36,Downhill
-1976-01-05,Peter Fischer,DE,0,Combined
-1976-01-05,Odd Sorli,NO,8,Slalom
-1976-01-05,Ernst Good,CH,28,Giant Slalom
-1976-01-05,Diego Amplatz,IT,8,Slalom
+1975-12-21,Philippe Roux,CH,32,Downhill
+1975-12-21,Herbert Plank,IT,35,Downhill
+1975-12-21,Greg Jones,US,0,Giant Slalom
+1975-12-21,Sigbert Prestl,DE,0,Combined
+1975-12-21,Bogumir Zeman,SK,0,Combined
+1975-12-21,Stig Strand,SE,2,Slalom
+1975-12-21,Klaus Heidegger,AT,0,Giant Slalom
+1975-12-21,Willi Frommelt,LI,0,Slalom
+1975-12-21,Alois Morgenstern,AT,7,Slalom
+1975-12-21,Karl Cordin,AT,7,Downhill
 1976-01-05,Miroslav Sochor,SK,1,Giant Slalom
 1976-01-05,Werner Grissmann,AT,16,Downhill
-1976-01-05,Andy Mill,US,0,Combined
-1976-01-05,Peter Luescher,CH,9,Combined
-1976-01-05,Steve Podborski,CA,1,Combined
 1976-01-05,Peter Schwendener,CH,1,Slalom
+1976-01-05,Albert Burger,DE,3,Giant Slalom
 1976-01-05,Walter Tresch,CH,17,Combined
+1976-01-05,Peter Fischer,DE,0,Combined
+1976-01-05,Ernst Good,CH,28,Giant Slalom
 1976-01-05,Engelhard Pargaetzi,CH,25,Giant Slalom
+1976-01-05,Odd Sorli,NO,8,Slalom
+1976-01-05,Diego Amplatz,IT,8,Slalom
+1976-01-05,Andy Mill,US,0,Combined
+1976-01-05,Steve Podborski,CA,1,Combined
+1976-01-05,Arnold Senoner,IT,0,Giant Slalom
+1976-01-05,Franz Klammer,AT,36,Downhill
 1976-01-05,Thomas Hauser,AT,19,Giant Slalom
 1976-01-05,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-05,Walter Vesti,CH,0,Downhill
@@ -495,61 +494,62 @@ date,name,ath_country,value,specialty
 1976-01-05,Christian Neureuther,DE,15,Slalom
 1976-01-05,Dave Murray,CA,4,Downhill
 1976-01-05,Josef Walcher,AT,0,Downhill
-1976-01-05,Paolo De Chiesa,IT,4,Slalom
 1976-01-05,Wolfgang Junginger,DE,3,Slalom
+1976-01-05,Heini Hemmi,CH,0,Giant Slalom
 1976-01-05,Franco Bieler,IT,15,Giant Slalom
-1976-01-05,Ernst Winkler,AT,3,Downhill
+1976-01-05,Jim Hunter,CA,2,Downhill
 1976-01-05,Ken Read,CA,25,Downhill
-1976-01-05,Rene Berthod,CH,2,Downhill
 1976-01-05,Francisco Fernandez Ochoa,ES,0,Combined
+1976-01-05,Ernst Winkler,AT,3,Downhill
 1976-01-05,Karl Cordin,AT,7,Downhill
 1976-01-05,Masami Ichimura,JP,0,Slalom
 1976-01-05,Philippe Roux,CH,32,Downhill
 1976-01-05,Philippe Hardy,FR,1,Slalom
-1976-01-05,Steve Mahre,US,0,Slalom
-1976-01-05,Heini Hemmi,CH,0,Giant Slalom
+1976-01-05,Peter Luescher,CH,9,Combined
+1976-01-05,Rene Berthod,CH,2,Downhill
+1976-01-05,Paolo De Chiesa,IT,4,Slalom
 1976-01-05,Sigbert Prestl,DE,0,Combined
-1976-01-05,Albert Burger,DE,3,Giant Slalom
-1976-01-05,Jim Hunter,CA,2,Combined
+1976-01-05,Steve Mahre,US,0,Slalom
+1976-01-05,Bernard Russi,CH,29,Downhill
 1976-01-05,Erwin Stricker,IT,0,Combined
 1976-01-05,Philippe Barroso,FR,2,Giant Slalom
 1976-01-05,Paul Frommelt,LI,0,Slalom
-1976-01-05,Bernard Russi,CH,29,Downhill
 1976-01-05,Willi Frommelt,LI,0,Slalom
+1976-01-05,Dave Irwin,CA,47,Downhill
 1976-01-05,Bartl Gensbichler,AT,0,Combined
 1976-01-05,Hans Enn,AT,0,Downhill
-1976-01-05,Dave Irwin,CA,47,Downhill
 1976-01-05,Sepp Oberfrank,IT,2,Slalom
 1976-01-05,Michael Veith,DE,4,Downhill
 1976-01-05,Klaus Eberhard,AT,22,Downhill
-1976-01-05,Pete Patterson,US,0,Combined
+1976-01-05,Fausto Radici,IT,44,Slalom
 1976-01-05,Sepp Ferstl,DE,2,Combined
 1976-01-05,Cary Adgate,US,0,Slalom
-1976-01-05,Ingemar Stenmark,SE,81,Slalom
 1976-01-05,Erik Haaker,NO,15,Downhill
-1976-01-05,Piero Gros,IT,80,Slalom
-1976-01-05,Alois Morgenstern,AT,13,Slalom
-1976-01-05,Hansi Hinterseer,AT,47,Slalom
-1976-01-05,Herbert Plank,IT,35,Downhill
-1976-01-05,Fausto Radici,IT,44,Slalom
-1976-01-05,Bruno Noeckler,IT,9,Slalom
+1976-01-05,Ingemar Stenmark,SE,81,Slalom
+1976-01-05,Pete Patterson,US,0,Combined
 1976-01-05,Stig Strand,SE,2,Slalom
+1976-01-05,Herbert Plank,IT,35,Downhill
+1976-01-05,Piero Gros,IT,80,Slalom
+1976-01-05,Bruno Noeckler,IT,9,Slalom
+1976-01-05,Phil Mahre,US,6,Giant Slalom
 1976-01-05,Jan Bachleda,PL,1,Slalom
-1976-01-09,Dave Murray,CA,5,Downhill
-1976-01-09,Bruno Noeckler,IT,9,Slalom
-1976-01-09,Karl Cordin,AT,7,Downhill
-1976-01-09,Francisco Fernandez Ochoa,ES,0,Combined
-1976-01-09,Ernst Winkler,AT,3,Downhill
-1976-01-09,Cary Adgate,US,0,Slalom
-1976-01-09,Ernst Winkler,AT,3,Downhill
-1976-01-09,Bruno Noeckler,IT,9,Slalom
-1976-01-09,Cary Adgate,US,0,Slalom
+1976-01-05,Hansi Hinterseer,AT,47,Slalom
+1976-01-05,Alois Morgenstern,AT,13,Slalom
 1976-01-09,Sepp Oberfrank,IT,2,Slalom
-1976-01-09,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-09,Wolfgang Junginger,DE,3,Slalom
+1976-01-09,Ernst Winkler,AT,3,Downhill
+1976-01-09,Sepp Oberfrank,IT,2,Slalom
+1976-01-09,Francisco Fernandez Ochoa,ES,0,Combined
+1976-01-09,Cary Adgate,US,0,Slalom
+1976-01-09,Bruno Noeckler,IT,9,Slalom
+1976-01-09,Dave Murray,CA,5,Downhill
 1976-01-09,Karl Cordin,AT,7,Downhill
-1976-01-09,Wolfgang Junginger,DE,5,Slalom
-1976-01-09,Pete Patterson,US,0,Combined
+1976-01-09,Bruno Noeckler,IT,9,Slalom
+1976-01-09,Karl Cordin,AT,7,Downhill
+1976-01-09,Cary Adgate,US,0,Slalom
+1976-01-09,Ernst Winkler,AT,3,Downhill
+1976-01-09,Diego Amplatz,IT,8,Slalom
+1976-01-09,Josef Walcher,AT,0,Downhill
 1976-01-09,Walter Vesti,CH,0,Downhill
 1976-01-09,Walter Vesti,CH,0,Downhill
 1976-01-09,Albert Burger,DE,3,Giant Slalom
@@ -557,22 +557,23 @@ date,name,ath_country,value,specialty
 1976-01-09,Bogumir Zeman,SK,0,Combined
 1976-01-09,Albert Burger,DE,3,Giant Slalom
 1976-01-09,Anton Steiner,AT,0,Combined
-1976-01-09,Martin Berthod,CH,0,Downhill
 1976-01-09,Stig Strand,SE,2,Slalom
 1976-01-09,Stig Strand,SE,2,Slalom
 1976-01-09,Patrice Pellat Finet,FR,3,Downhill
 1976-01-09,Bogumir Zeman,SK,4,Combined
 1976-01-09,Martin Berthod,CH,0,Downhill
+1976-01-09,Martin Berthod,CH,0,Downhill
 1976-01-09,Philippe Barroso,FR,2,Giant Slalom
 1976-01-09,Philippe Barroso,FR,2,Giant Slalom
 1976-01-09,Dave Murray,CA,5,Downhill
+1976-01-09,Wolfgang Junginger,DE,5,Slalom
 1976-01-09,Pete Patterson,US,0,Combined
 1976-01-09,Josef Walcher,AT,0,Downhill
-1976-01-09,Josef Walcher,AT,0,Downhill
-1976-01-09,Sepp Oberfrank,IT,2,Slalom
-1976-01-09,Philippe Hardy,FR,1,Slalom
+1976-01-09,Pete Patterson,US,0,Combined
+1976-01-09,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-09,Thomas Hauser,AT,19,Giant Slalom
-1976-01-09,Paul Frommelt,LI,0,Slalom
+1976-01-09,Philippe Hardy,FR,1,Slalom
+1976-01-09,Arnold Senoner,IT,0,Giant Slalom
 1976-01-09,Arnold Senoner,IT,0,Giant Slalom
 1976-01-09,Bartl Gensbichler,AT,0,Combined
 1976-01-09,Werner Grissmann,AT,16,Downhill
@@ -580,23 +581,23 @@ date,name,ath_country,value,specialty
 1976-01-09,Michael Veith,DE,4,Downhill
 1976-01-09,Hans Enn,AT,0,Downhill
 1976-01-09,Sepp Ferstl,DE,2,Combined
+1976-01-09,Peter Fischer,DE,0,Combined
+1976-01-09,Miroslav Sochor,SK,1,Giant Slalom
+1976-01-09,Andy Mill,US,0,Combined
+1976-01-09,Sigbert Prestl,DE,0,Combined
+1976-01-09,Odd Sorli,NO,8,Slalom
+1976-01-09,Odd Sorli,NO,8,Slalom
+1976-01-09,Sigbert Prestl,DE,0,Combined
+1976-01-09,Steve Podborski,CA,1,Combined
+1976-01-09,Steve Podborski,CA,1,Combined
+1976-01-09,Jan Bachleda,PL,1,Slalom
+1976-01-09,Jan Bachleda,PL,1,Slalom
 1976-01-09,Michael Veith,DE,12,Downhill
 1976-01-09,Andy Mill,US,0,Combined
-1976-01-09,Arnold Senoner,IT,0,Giant Slalom
-1976-01-09,Peter Fischer,DE,0,Combined
-1976-01-09,Andy Mill,US,0,Combined
-1976-01-09,Odd Sorli,NO,8,Slalom
-1976-01-09,Odd Sorli,NO,8,Slalom
-1976-01-09,Jan Bachleda,PL,1,Slalom
-1976-01-09,Steve Podborski,CA,1,Combined
-1976-01-09,Steve Podborski,CA,1,Combined
-1976-01-09,Sigbert Prestl,DE,0,Combined
-1976-01-09,Jan Bachleda,PL,1,Slalom
-1976-01-09,Sigbert Prestl,DE,0,Combined
-1976-01-09,Diego Amplatz,IT,8,Slalom
-1976-01-09,Miroslav Sochor,SK,1,Giant Slalom
 1976-01-09,Miroslav Sochor,SK,1,Giant Slalom
 1976-01-09,Peter Fischer,DE,3,Combined
+1976-01-09,Werner Grissmann,AT,20,Downhill
+1976-01-09,Paul Frommelt,LI,0,Slalom
 1976-01-09,Masami Ichimura,JP,0,Slalom
 1976-01-09,Willi Frommelt,LI,0,Slalom
 1976-01-09,Thomas Hauser,AT,19,Giant Slalom
@@ -607,437 +608,436 @@ date,name,ath_country,value,specialty
 1976-01-09,Paul Frommelt,LI,0,Slalom
 1976-01-09,Peter Schwendener,CH,1,Slalom
 1976-01-09,Peter Schwendener,CH,1,Slalom
+1976-01-09,Peter Luescher,CH,20,Combined
 1976-01-09,Alois Morgenstern,AT,13,Slalom
-1976-01-09,Paolo De Chiesa,IT,4,Slalom
-1976-01-09,Paolo De Chiesa,IT,4,Slalom
 1976-01-09,Erwin Stricker,IT,0,Combined
+1976-01-09,Paolo De Chiesa,IT,4,Slalom
+1976-01-09,Paolo De Chiesa,IT,4,Slalom
 1976-01-09,Alois Morgenstern,AT,13,Slalom
 1976-01-09,Sepp Ferstl,DE,8,Combined
 1976-01-09,Bartl Gensbichler,AT,0,Combined
-1976-01-09,Peter Luescher,CH,20,Combined
 1976-01-09,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-09,Klaus Heidegger,AT,0,Giant Slalom
-1976-01-09,Werner Grissmann,AT,20,Downhill
 1976-01-09,Philippe Hardy,FR,1,Slalom
 1976-01-09,Anton Steiner,AT,3,Combined
 1976-01-09,Erwin Stricker,IT,0,Combined
-1976-01-09,Engelhard Pargaetzi,CH,25,Giant Slalom
-1976-01-09,Engelhard Pargaetzi,CH,25,Giant Slalom
-1976-01-09,Steve Mahre,US,0,Slalom
-1976-01-09,Jim Hunter,CA,8,Combined
-1976-01-09,Christian Neureuther,DE,15,Slalom
-1976-01-09,Christian Neureuther,DE,15,Slalom
-1976-01-09,Jim Hunter,CA,16,Combined
-1976-01-09,Gustav Thoeni,IT,31,Giant Slalom
-1976-01-09,Piero Gros,IT,100,Slalom
-1976-01-09,Ingemar Stenmark,SE,81,Slalom
-1976-01-09,Walter Tresch,CH,42,Combined
-1976-01-09,Klaus Eberhard,AT,22,Downhill
-1976-01-09,Philippe Roux,CH,43,Downhill
-1976-01-09,Fausto Radici,IT,44,Slalom
-1976-01-09,Klaus Eberhard,AT,24,Downhill
-1976-01-09,Ingemar Stenmark,SE,81,Slalom
-1976-01-09,Herbert Plank,IT,35,Downhill
-1976-01-09,Philippe Roux,CH,43,Downhill
-1976-01-09,Heini Hemmi,CH,0,Giant Slalom
-1976-01-09,Herbert Plank,IT,60,Downhill
-1976-01-09,Steve Mahre,US,0,Slalom
-1976-01-09,Heini Hemmi,CH,0,Giant Slalom
-1976-01-09,Greg Jones,US,0,Giant Slalom
-1976-01-09,Greg Jones,US,0,Giant Slalom
-1976-01-09,Walter Tresch,CH,42,Combined
-1976-01-09,Dave Irwin,CA,47,Downhill
-1976-01-09,Ernst Good,CH,28,Giant Slalom
-1976-01-09,Phil Mahre,US,6,Giant Slalom
-1976-01-09,Phil Mahre,US,6,Giant Slalom
-1976-01-09,Rene Berthod,CH,2,Downhill
 1976-01-09,Gustav Thoeni,IT,46,Giant Slalom
+1976-01-09,Franz Klammer,AT,56,Downhill
+1976-01-09,Klaus Eberhard,AT,24,Downhill
+1976-01-09,Engelhard Pargaetzi,CH,25,Giant Slalom
+1976-01-09,Engelhard Pargaetzi,CH,25,Giant Slalom
+1976-01-09,Christian Neureuther,DE,15,Slalom
+1976-01-09,Christian Neureuther,DE,15,Slalom
+1976-01-09,Phil Mahre,US,6,Giant Slalom
+1976-01-09,Phil Mahre,US,6,Giant Slalom
+1976-01-09,Ingemar Stenmark,SE,81,Slalom
+1976-01-09,Ingemar Stenmark,SE,81,Slalom
+1976-01-09,Greg Jones,US,0,Giant Slalom
+1976-01-09,Piero Gros,IT,100,Slalom
+1976-01-09,Philippe Roux,CH,43,Downhill
 1976-01-09,Fausto Radici,IT,44,Slalom
+1976-01-09,Jim Hunter,CA,2,Downhill
+1976-01-09,Rene Berthod,CH,2,Downhill
+1976-01-09,Herbert Plank,IT,35,Downhill
+1976-01-09,Rene Berthod,CH,2,Downhill
+1976-01-09,Heini Hemmi,CH,0,Giant Slalom
+1976-01-09,Heini Hemmi,CH,0,Giant Slalom
+1976-01-09,Klaus Eberhard,AT,24,Downhill
+1976-01-09,Herbert Plank,IT,60,Downhill
+1976-01-09,Walter Tresch,CH,17,Combined
+1976-01-09,Greg Jones,US,0,Giant Slalom
+1976-01-09,Fausto Radici,IT,44,Slalom
+1976-01-09,Franz Klammer,AT,56,Downhill
 1976-01-09,Ken Read,CA,25,Downhill
 1976-01-09,Hansi Hinterseer,AT,47,Slalom
+1976-01-09,Piero Gros,IT,100,Slalom
+1976-01-09,Ken Read,CA,25,Downhill
+1976-01-09,Walter Tresch,CH,42,Combined
+1976-01-09,Jim Hunter,CA,8,Downhill
+1976-01-09,Ernst Good,CH,28,Giant Slalom
+1976-01-09,Steve Mahre,US,0,Slalom
+1976-01-09,Steve Mahre,US,0,Slalom
+1976-01-09,Hansi Hinterseer,AT,47,Slalom
+1976-01-09,Franco Bieler,IT,15,Giant Slalom
 1976-01-09,Dave Irwin,CA,47,Downhill
 1976-01-09,Ernst Good,CH,28,Giant Slalom
-1976-01-09,Piero Gros,IT,100,Slalom
-1976-01-09,Erik Haaker,NO,15,Downhill
-1976-01-09,Franz Klammer,AT,36,Downhill
 1976-01-09,Franco Bieler,IT,15,Giant Slalom
-1976-01-09,Rene Berthod,CH,2,Downhill
-1976-01-09,Franco Bieler,IT,15,Giant Slalom
-1976-01-09,Ken Read,CA,25,Downhill
+1976-01-09,Bernard Russi,CH,29,Downhill
+1976-01-09,Gustav Thoeni,IT,46,Giant Slalom
 1976-01-09,Bernard Russi,CH,44,Downhill
-1976-01-09,Franz Klammer,AT,56,Downhill
-1976-01-09,Bernard Russi,CH,44,Downhill
+1976-01-09,Dave Irwin,CA,47,Downhill
 1976-01-09,Erik Haaker,NO,15,Downhill
-1976-01-09,Hansi Hinterseer,AT,47,Slalom
-1976-01-10,Dave Irwin,CA,47,Downhill
-1976-01-10,Erwin Stricker,IT,0,Combined
-1976-01-10,Philippe Roux,CH,63,Downhill
+1976-01-09,Philippe Roux,CH,43,Downhill
+1976-01-09,Erik Haaker,NO,15,Downhill
 1976-01-10,Klaus Eberhard,AT,24,Downhill
 1976-01-10,Willi Frommelt,LI,0,Slalom
 1976-01-10,Thomas Hauser,AT,19,Giant Slalom
+1976-01-10,Fausto Radici,IT,44,Slalom
+1976-01-10,Jim Hunter,CA,23,Downhill
+1976-01-10,Philippe Roux,CH,63,Downhill
+1976-01-10,Dave Irwin,CA,47,Downhill
 1976-01-10,Karl Cordin,AT,7,Downhill
-1976-01-10,Sepp Ferstl,DE,8,Combined
-1976-01-10,Piero Gros,IT,100,Slalom
-1976-01-10,Walter Tresch,CH,42,Combined
-1976-01-10,Franz Klammer,AT,81,Downhill
+1976-01-10,Erwin Stricker,IT,0,Combined
+1976-01-10,Klaus Heidegger,AT,0,Giant Slalom
+1976-01-10,Wolfgang Junginger,DE,5,Slalom
 1976-01-10,Arnold Senoner,IT,0,Giant Slalom
 1976-01-10,Hansi Hinterseer,AT,47,Slalom
 1976-01-10,Odd Sorli,NO,8,Slalom
-1976-01-10,Phil Mahre,US,6,Giant Slalom
+1976-01-10,Steve Mahre,US,0,Slalom
 1976-01-10,Ernst Good,CH,28,Giant Slalom
-1976-01-10,Masami Ichimura,JP,0,Slalom
 1976-01-10,Diego Amplatz,IT,8,Slalom
-1976-01-10,Philippe Hardy,FR,1,Slalom
+1976-01-10,Masami Ichimura,JP,0,Slalom
 1976-01-10,Andy Mill,US,0,Combined
-1976-01-10,Werner Grissmann,AT,20,Downhill
-1976-01-10,Franco Bieler,IT,15,Giant Slalom
+1976-01-10,Philippe Hardy,FR,1,Slalom
 1976-01-10,Martin Berthod,CH,0,Downhill
+1976-01-10,Werner Grissmann,AT,20,Downhill
+1976-01-10,Franz Klammer,AT,81,Downhill
+1976-01-10,Franco Bieler,IT,15,Giant Slalom
 1976-01-10,Engelhard Pargaetzi,CH,25,Giant Slalom
 1976-01-10,Michael Veith,DE,20,Downhill
 1976-01-10,Sepp Oberfrank,IT,2,Slalom
-1976-01-10,Jim Hunter,CA,31,Combined
 1976-01-10,Gustav Thoeni,IT,46,Giant Slalom
 1976-01-10,Paolo De Chiesa,IT,4,Slalom
-1976-01-10,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-10,Philippe Barroso,FR,2,Giant Slalom
 1976-01-10,Steve Podborski,CA,4,Combined
+1976-01-10,Walter Tresch,CH,42,Combined
 1976-01-10,Peter Luescher,CH,20,Combined
-1976-01-10,Wolfgang Junginger,DE,5,Slalom
-1976-01-10,Steve Mahre,US,0,Slalom
-1976-01-10,Fausto Radici,IT,44,Slalom
+1976-01-10,Rene Berthod,CH,2,Downhill
+1976-01-10,Sepp Ferstl,DE,8,Combined
+1976-01-10,Phil Mahre,US,6,Giant Slalom
 1976-01-10,Paul Frommelt,LI,0,Slalom
+1976-01-10,Piero Gros,IT,100,Slalom
 1976-01-10,Stig Strand,SE,2,Slalom
+1976-01-10,Hans Enn,AT,0,Downhill
 1976-01-10,Patrice Pellat Finet,FR,3,Downhill
 1976-01-10,Greg Jones,US,0,Giant Slalom
-1976-01-10,Hans Enn,AT,0,Downhill
+1976-01-10,Ingemar Stenmark,SE,81,Slalom
 1976-01-10,Pete Patterson,US,0,Combined
 1976-01-10,Bernard Russi,CH,44,Downhill
-1976-01-10,Ingemar Stenmark,SE,81,Slalom
 1976-01-10,Herbert Plank,IT,71,Downhill
-1976-01-10,Bartl Gensbichler,AT,0,Combined
-1976-01-10,Ernst Winkler,AT,9,Downhill
 1976-01-10,Heini Hemmi,CH,0,Giant Slalom
-1976-01-10,Josef Walcher,AT,1,Downhill
-1976-01-10,Bruno Noeckler,IT,9,Slalom
-1976-01-10,Ken Read,CA,25,Downhill
-1976-01-10,Dave Murray,CA,9,Downhill
-1976-01-10,Alois Morgenstern,AT,13,Slalom
 1976-01-10,Albert Burger,DE,3,Giant Slalom
+1976-01-10,Josef Walcher,AT,1,Downhill
+1976-01-10,Bartl Gensbichler,AT,0,Combined
+1976-01-10,Bruno Noeckler,IT,9,Slalom
+1976-01-10,Dave Murray,CA,9,Downhill
+1976-01-10,Ken Read,CA,25,Downhill
+1976-01-10,Bogumir Zeman,SK,4,Combined
+1976-01-10,Ernst Winkler,AT,9,Downhill
 1976-01-10,Jan Bachleda,PL,1,Slalom
+1976-01-10,Walter Vesti,CH,0,Downhill
 1976-01-10,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-10,Miroslav Sochor,SK,1,Giant Slalom
-1976-01-10,Walter Vesti,CH,0,Downhill
-1976-01-10,Sigbert Prestl,DE,0,Combined
 1976-01-10,Erik Haaker,NO,15,Downhill
-1976-01-10,Bogumir Zeman,SK,4,Combined
+1976-01-10,Sigbert Prestl,DE,0,Combined
+1976-01-10,Alois Morgenstern,AT,13,Slalom
 1976-01-10,Peter Schwendener,CH,1,Slalom
-1976-01-10,Peter Fischer,DE,3,Combined
 1976-01-10,Cary Adgate,US,0,Slalom
-1976-01-10,Anton Steiner,AT,5,Combined
+1976-01-10,Peter Fischer,DE,3,Combined
 1976-01-10,Christian Neureuther,DE,15,Slalom
-1976-01-10,Rene Berthod,CH,2,Downhill
-1976-01-11,Bruno Noeckler,IT,9,Slalom
+1976-01-10,Anton Steiner,AT,5,Combined
 1976-01-11,Ken Read,CA,25,Downhill
 1976-01-11,Sigbert Prestl,DE,3,Combined
-1976-01-11,Miroslav Sochor,SK,1,Giant Slalom
-1976-01-11,Miroslav Sochor,SK,1,Giant Slalom
-1976-01-11,Diego Amplatz,IT,12,Slalom
-1976-01-11,Francisco Fernandez Ochoa,ES,1,Combined
-1976-01-11,Martin Berthod,CH,0,Downhill
-1976-01-11,Martin Berthod,CH,0,Downhill
-1976-01-11,Albert Burger,DE,3,Giant Slalom
-1976-01-11,Ernst Good,CH,28,Giant Slalom
-1976-01-11,Ernst Good,CH,28,Giant Slalom
-1976-01-11,Francisco Fernandez Ochoa,ES,1,Combined
-1976-01-11,Bruno Noeckler,IT,9,Slalom
-1976-01-11,Steve Podborski,CA,4,Combined
-1976-01-11,Sigbert Prestl,DE,3,Combined
-1976-01-11,Jim Hunter,CA,31,Combined
-1976-01-11,Diego Amplatz,IT,12,Slalom
-1976-01-11,Jim Hunter,CA,32,Combined
-1976-01-11,Albert Burger,DE,3,Giant Slalom
 1976-01-11,Hansi Hinterseer,AT,47,Slalom
+1976-01-11,Miroslav Sochor,SK,1,Giant Slalom
+1976-01-11,Diego Amplatz,IT,12,Slalom
+1976-01-11,Miroslav Sochor,SK,1,Giant Slalom
+1976-01-11,Albert Burger,DE,3,Giant Slalom
+1976-01-11,Francisco Fernandez Ochoa,ES,1,Combined
+1976-01-11,Francisco Fernandez Ochoa,ES,1,Combined
+1976-01-11,Martin Berthod,CH,0,Downhill
+1976-01-11,Albert Burger,DE,3,Giant Slalom
+1976-01-11,Sigbert Prestl,DE,3,Combined
+1976-01-11,Ernst Good,CH,28,Giant Slalom
+1976-01-11,Ernst Good,CH,28,Giant Slalom
+1976-01-11,Bruno Noeckler,IT,9,Slalom
+1976-01-11,Phil Mahre,US,6,Giant Slalom
+1976-01-11,Steve Podborski,CA,4,Combined
 1976-01-11,Masami Ichimura,JP,0,Slalom
+1976-01-11,Diego Amplatz,IT,12,Slalom
+1976-01-11,Martin Berthod,CH,0,Downhill
 1976-01-11,Masami Ichimura,JP,0,Slalom
-1976-01-11,Fausto Radici,IT,44,Slalom
+1976-01-11,Phil Mahre,US,6,Giant Slalom
+1976-01-11,Bruno Noeckler,IT,9,Slalom
+1976-01-11,Walter Tresch,CH,57,Combined
 1976-01-11,Herbert Plank,IT,71,Downhill
 1976-01-11,Willi Frommelt,LI,0,Slalom
-1976-01-11,Bartl Gensbichler,AT,0,Combined
-1976-01-11,Bartl Gensbichler,AT,0,Combined
-1976-01-11,Peter Fischer,DE,3,Combined
-1976-01-11,Alois Morgenstern,AT,13,Slalom
-1976-01-11,Alois Morgenstern,AT,13,Slalom
 1976-01-11,Willi Frommelt,LI,0,Slalom
-1976-01-11,Erwin Stricker,IT,0,Combined
-1976-01-11,Klaus Eberhard,AT,24,Downhill
-1976-01-11,Cary Adgate,US,0,Slalom
-1976-01-11,Cary Adgate,US,0,Slalom
-1976-01-11,Erik Haaker,NO,15,Downhill
-1976-01-11,Erik Haaker,NO,15,Downhill
-1976-01-11,Walter Tresch,CH,57,Combined
-1976-01-11,Klaus Eberhard,AT,24,Downhill
-1976-01-11,Sepp Ferstl,DE,8,Combined
-1976-01-11,Sepp Ferstl,DE,8,Combined
+1976-01-11,Bartl Gensbichler,AT,0,Combined
+1976-01-11,Bartl Gensbichler,AT,0,Combined
 1976-01-11,Peter Fischer,DE,3,Combined
+1976-01-11,Alois Morgenstern,AT,13,Slalom
+1976-01-11,Alois Morgenstern,AT,13,Slalom
+1976-01-11,Erwin Stricker,IT,0,Combined
+1976-01-11,Cary Adgate,US,0,Slalom
+1976-01-11,Klaus Eberhard,AT,24,Downhill
+1976-01-11,Klaus Eberhard,AT,24,Downhill
+1976-01-11,Cary Adgate,US,0,Slalom
+1976-01-11,Fausto Radici,IT,44,Slalom
+1976-01-11,Erik Haaker,NO,15,Downhill
+1976-01-11,Erik Haaker,NO,15,Downhill
+1976-01-11,Peter Fischer,DE,3,Combined
+1976-01-11,Ken Read,CA,25,Downhill
+1976-01-11,Sepp Ferstl,DE,8,Combined
+1976-01-11,Erwin Stricker,IT,8,Combined
 1976-01-11,Piero Gros,IT,120,Slalom
-1976-01-11,Pete Patterson,US,0,Combined
+1976-01-11,Gustav Thoeni,IT,46,Giant Slalom
 1976-01-11,Philippe Barroso,FR,2,Giant Slalom
 1976-01-11,Michael Veith,DE,20,Downhill
 1976-01-11,Fausto Radici,IT,44,Slalom
 1976-01-11,Walter Tresch,CH,57,Combined
 1976-01-11,Pete Patterson,US,0,Combined
-1976-01-11,Philippe Barroso,FR,2,Giant Slalom
 1976-01-11,Klaus Heidegger,AT,0,Giant Slalom
-1976-01-11,Bernard Russi,CH,44,Downhill
+1976-01-11,Philippe Barroso,FR,2,Giant Slalom
+1976-01-11,Pete Patterson,US,0,Combined
 1976-01-11,Steve Podborski,CA,10,Combined
 1976-01-11,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-11,Bernard Russi,CH,44,Downhill
+1976-01-11,Bernard Russi,CH,44,Downhill
 1976-01-11,Herbert Plank,IT,71,Downhill
-1976-01-11,Erwin Stricker,IT,8,Combined
-1976-01-11,Ken Read,CA,25,Downhill
+1976-01-11,Sepp Ferstl,DE,8,Combined
 1976-01-11,Michael Veith,DE,20,Downhill
 1976-01-11,Odd Sorli,NO,8,Slalom
-1976-01-11,Philippe Hardy,FR,1,Slalom
+1976-01-11,Paul Frommelt,LI,0,Slalom
 1976-01-11,Franz Klammer,AT,106,Downhill
 1976-01-11,Josef Walcher,AT,1,Downhill
-1976-01-11,Paul Frommelt,LI,2,Slalom
+1976-01-11,Wolfgang Junginger,DE,5,Slalom
+1976-01-11,Rene Berthod,CH,2,Downhill
 1976-01-11,Josef Walcher,AT,1,Downhill
-1976-01-11,Steve Mahre,US,0,Slalom
-1976-01-11,Steve Mahre,US,0,Slalom
+1976-01-11,Rene Berthod,CH,2,Downhill
 1976-01-11,Peter Luescher,CH,20,Combined
-1976-01-11,Patrice Pellat Finet,FR,3,Downhill
 1976-01-11,Peter Luescher,CH,20,Combined
 1976-01-11,Hans Enn,AT,0,Downhill
-1976-01-11,Wolfgang Junginger,DE,5,Slalom
-1976-01-11,Wolfgang Junginger,DE,5,Slalom
 1976-01-11,Christian Neureuther,DE,30,Slalom
+1976-01-11,Wolfgang Junginger,DE,5,Slalom
+1976-01-11,Hans Enn,AT,0,Downhill
 1976-01-11,Engelhard Pargaetzi,CH,25,Giant Slalom
 1976-01-11,Ernst Winkler,AT,9,Downhill
-1976-01-11,Hans Enn,AT,0,Downhill
 1976-01-11,Paolo De Chiesa,IT,4,Slalom
+1976-01-11,Gustav Thoeni,IT,52,Giant Slalom
 1976-01-11,Philippe Roux,CH,63,Downhill
-1976-01-11,Dave Murray,CA,9,Downhill
-1976-01-11,Patrice Pellat Finet,FR,3,Downhill
-1976-01-11,Dave Irwin,CA,47,Downhill
-1976-01-11,Rene Berthod,CH,2,Downhill
-1976-01-11,Rene Berthod,CH,2,Downhill
+1976-01-11,Philippe Roux,CH,63,Downhill
+1976-01-11,Greg Jones,US,0,Giant Slalom
+1976-01-11,Paul Frommelt,LI,2,Slalom
+1976-01-11,Ingemar Stenmark,SE,81,Slalom
 1976-01-11,Peter Schwendener,CH,1,Slalom
 1976-01-11,Franz Klammer,AT,106,Downhill
+1976-01-11,Jim Hunter,CA,24,Downhill
+1976-01-11,Jim Hunter,CA,24,Downhill
+1976-01-11,Karl Cordin,AT,7,Downhill
+1976-01-11,Walter Vesti,CH,0,Downhill
+1976-01-11,Walter Vesti,CH,0,Downhill
+1976-01-11,Karl Cordin,AT,7,Downhill
 1976-01-11,Dave Murray,CA,13,Downhill
-1976-01-11,Walter Vesti,CH,0,Downhill
-1976-01-11,Gustav Thoeni,IT,66,Giant Slalom
-1976-01-11,Karl Cordin,AT,7,Downhill
-1976-01-11,Gustav Thoeni,IT,72,Giant Slalom
 1976-01-11,Heini Hemmi,CH,0,Giant Slalom
-1976-01-11,Karl Cordin,AT,7,Downhill
-1976-01-11,Stig Strand,SE,2,Slalom
-1976-01-11,Paul Frommelt,LI,2,Slalom
 1976-01-11,Dave Irwin,CA,47,Downhill
-1976-01-11,Thomas Hauser,AT,19,Giant Slalom
-1976-01-11,Thomas Hauser,AT,19,Giant Slalom
-1976-01-11,Walter Vesti,CH,0,Downhill
-1976-01-11,Ingemar Stenmark,SE,81,Slalom
+1976-01-11,Dave Irwin,CA,47,Downhill
 1976-01-11,Heini Hemmi,CH,0,Giant Slalom
-1976-01-11,Philippe Roux,CH,63,Downhill
+1976-01-11,Thomas Hauser,AT,19,Giant Slalom
+1976-01-11,Thomas Hauser,AT,19,Giant Slalom
+1976-01-11,Patrice Pellat Finet,FR,3,Downhill
+1976-01-11,Dave Murray,CA,13,Downhill
+1976-01-11,Patrice Pellat Finet,FR,3,Downhill
+1976-01-11,Greg Jones,US,0,Giant Slalom
 1976-01-11,Ernst Winkler,AT,9,Downhill
-1976-01-11,Phil Mahre,US,6,Giant Slalom
-1976-01-11,Arnold Senoner,IT,0,Giant Slalom
-1976-01-11,Franco Bieler,IT,23,Giant Slalom
-1976-01-11,Arnold Senoner,IT,0,Giant Slalom
 1976-01-11,Jan Bachleda,PL,1,Slalom
+1976-01-11,Sepp Oberfrank,IT,2,Slalom
+1976-01-11,Franco Bieler,IT,23,Giant Slalom
+1976-01-11,Peter Schwendener,CH,1,Slalom
+1976-01-11,Arnold Senoner,IT,0,Giant Slalom
 1976-01-11,Andy Mill,US,0,Combined
+1976-01-11,Stig Strand,SE,2,Slalom
 1976-01-11,Bogumir Zeman,SK,4,Combined
 1976-01-11,Stig Strand,SE,2,Slalom
+1976-01-11,Steve Mahre,US,0,Slalom
 1976-01-11,Bogumir Zeman,SK,6,Combined
-1976-01-11,Piero Gros,IT,120,Slalom
-1976-01-11,Odd Sorli,NO,11,Slalom
+1976-01-11,Andy Mill,US,0,Combined
 1976-01-11,Hansi Hinterseer,AT,58,Slalom
 1976-01-11,Ingemar Stenmark,SE,106,Slalom
-1976-01-11,Christian Neureuther,DE,30,Slalom
+1976-01-11,Anton Steiner,AT,16,Combined
+1976-01-11,Werner Grissmann,AT,20,Downhill
+1976-01-11,Odd Sorli,NO,11,Slalom
+1976-01-11,Werner Grissmann,AT,20,Downhill
 1976-01-11,Philippe Hardy,FR,1,Slalom
-1976-01-11,Anton Steiner,AT,5,Combined
-1976-01-11,Werner Grissmann,AT,20,Downhill
-1976-01-11,Werner Grissmann,AT,20,Downhill
 1976-01-11,Franco Bieler,IT,23,Giant Slalom
 1976-01-11,Engelhard Pargaetzi,CH,25,Giant Slalom
-1976-01-11,Anton Steiner,AT,16,Combined
-1976-01-11,Phil Mahre,US,6,Giant Slalom
 1976-01-11,Paolo De Chiesa,IT,5,Slalom
+1976-01-11,Philippe Hardy,FR,1,Slalom
+1976-01-11,Christian Neureuther,DE,30,Slalom
+1976-01-11,Arnold Senoner,IT,0,Giant Slalom
+1976-01-11,Steve Mahre,US,0,Slalom
+1976-01-11,Anton Steiner,AT,16,Combined
 1976-01-11,Sepp Oberfrank,IT,2,Slalom
-1976-01-11,Peter Schwendener,CH,1,Slalom
-1976-01-11,Greg Jones,US,0,Giant Slalom
-1976-01-11,Sepp Oberfrank,IT,2,Slalom
-1976-01-11,Greg Jones,US,0,Giant Slalom
+1976-01-11,Piero Gros,IT,120,Slalom
 1976-01-11,Jan Bachleda,PL,1,Slalom
-1976-01-11,Andy Mill,US,0,Combined
-1976-01-12,Greg Jones,US,8,Giant Slalom
 1976-01-12,Herbert Plank,IT,71,Downhill
-1976-01-12,Peter Schwendener,CH,1,Slalom
-1976-01-12,Jan Bachleda,PL,1,Slalom
-1976-01-12,Bogumir Zeman,SK,6,Combined
-1976-01-12,Cary Adgate,US,0,Slalom
-1976-01-12,Bartl Gensbichler,AT,0,Combined
-1976-01-12,Rene Berthod,CH,2,Downhill
-1976-01-12,Peter Fischer,DE,3,Combined
-1976-01-12,Patrice Pellat Finet,FR,3,Downhill
-1976-01-12,Hans Enn,AT,0,Downhill
-1976-01-12,Ken Read,CA,25,Downhill
 1976-01-12,Anton Steiner,AT,16,Combined
-1976-01-12,Bruno Noeckler,IT,9,Slalom
-1976-01-12,Pete Patterson,US,0,Combined
-1976-01-12,Christian Neureuther,DE,30,Slalom
-1976-01-12,Sigbert Prestl,DE,3,Combined
-1976-01-12,Heini Hemmi,CH,4,Giant Slalom
-1976-01-12,Josef Walcher,AT,1,Downhill
-1976-01-12,Piero Gros,IT,120,Slalom
-1976-01-12,Dave Murray,CA,13,Downhill
-1976-01-12,Ingemar Stenmark,SE,126,Slalom
-1976-01-12,Bernard Russi,CH,44,Downhill
-1976-01-12,Francisco Fernandez Ochoa,ES,1,Combined
-1976-01-12,Albert Burger,DE,3,Giant Slalom
+1976-01-12,Bartl Gensbichler,AT,0,Combined
+1976-01-12,Peter Schwendener,CH,1,Slalom
+1976-01-12,Bogumir Zeman,SK,6,Combined
 1976-01-12,Walter Vesti,CH,0,Downhill
+1976-01-12,Cary Adgate,US,0,Slalom
+1976-01-12,Jim Hunter,CA,24,Downhill
+1976-01-12,Jan Bachleda,PL,1,Slalom
+1976-01-12,Dave Murray,CA,13,Downhill
+1976-01-12,Peter Fischer,DE,3,Combined
+1976-01-12,Bruno Noeckler,IT,9,Slalom
+1976-01-12,Francisco Fernandez Ochoa,ES,1,Combined
+1976-01-12,Greg Jones,US,8,Giant Slalom
 1976-01-12,Engelhard Pargaetzi,CH,40,Giant Slalom
-1976-01-12,Paul Frommelt,LI,2,Slalom
+1976-01-12,Ken Read,CA,25,Downhill
+1976-01-12,Christian Neureuther,DE,30,Slalom
+1976-01-12,Patrice Pellat Finet,FR,3,Downhill
+1976-01-12,Sigbert Prestl,DE,3,Combined
+1976-01-12,Pete Patterson,US,0,Combined
+1976-01-12,Piero Gros,IT,120,Slalom
+1976-01-12,Ingemar Stenmark,SE,126,Slalom
+1976-01-12,Albert Burger,DE,3,Giant Slalom
+1976-01-12,Josef Walcher,AT,1,Downhill
+1976-01-12,Bernard Russi,CH,44,Downhill
+1976-01-12,Heini Hemmi,CH,4,Giant Slalom
+1976-01-12,Hans Enn,AT,0,Downhill
+1976-01-12,Philippe Hardy,FR,1,Slalom
 1976-01-12,Alois Morgenstern,AT,13,Slalom
+1976-01-12,Diego Amplatz,IT,12,Slalom
+1976-01-12,Willi Frommelt,LI,0,Slalom
+1976-01-12,Rene Berthod,CH,2,Downhill
+1976-01-12,Arnold Senoner,IT,6,Giant Slalom
+1976-01-12,Sepp Ferstl,DE,8,Combined
+1976-01-12,Masami Ichimura,JP,0,Slalom
+1976-01-12,Klaus Heidegger,AT,0,Giant Slalom
+1976-01-12,Peter Luescher,CH,20,Combined
 1976-01-12,Wolfgang Junginger,DE,5,Slalom
 1976-01-12,Ernst Winkler,AT,9,Downhill
-1976-01-12,Michael Veith,DE,20,Downhill
-1976-01-12,Walter Tresch,CH,57,Combined
-1976-01-12,Sepp Oberfrank,IT,2,Slalom
-1976-01-12,Philippe Barroso,FR,2,Giant Slalom
-1976-01-12,Philippe Roux,CH,63,Downhill
-1976-01-12,Martin Berthod,CH,0,Downhill
-1976-01-12,Werner Grissmann,AT,20,Downhill
-1976-01-12,Steve Podborski,CA,10,Combined
-1976-01-12,Masami Ichimura,JP,0,Slalom
-1976-01-12,Arnold Senoner,IT,6,Giant Slalom
-1976-01-12,Diego Amplatz,IT,12,Slalom
-1976-01-12,Jim Hunter,CA,32,Combined
-1976-01-12,Phil Mahre,US,9,Giant Slalom
-1976-01-12,Andy Mill,US,0,Combined
-1976-01-12,Ernst Good,CH,30,Giant Slalom
-1976-01-12,Stig Strand,SE,2,Slalom
-1976-01-12,Odd Sorli,NO,11,Slalom
-1976-01-12,Philippe Hardy,FR,1,Slalom
-1976-01-12,Hansi Hinterseer,AT,69,Slalom
-1976-01-12,Peter Luescher,CH,20,Combined
-1976-01-12,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-12,Paolo De Chiesa,IT,5,Slalom
-1976-01-12,Franz Klammer,AT,106,Downhill
-1976-01-12,Klaus Eberhard,AT,24,Downhill
-1976-01-12,Erwin Stricker,IT,8,Combined
-1976-01-12,Gustav Thoeni,IT,97,Giant Slalom
-1976-01-12,Dave Irwin,CA,47,Downhill
+1976-01-12,Michael Veith,DE,20,Downhill
+1976-01-12,Sepp Oberfrank,IT,2,Slalom
+1976-01-12,Walter Tresch,CH,57,Combined
+1976-01-12,Philippe Barroso,FR,2,Giant Slalom
+1976-01-12,Phil Mahre,US,9,Giant Slalom
+1976-01-12,Philippe Roux,CH,63,Downhill
+1976-01-12,Werner Grissmann,AT,20,Downhill
 1976-01-12,Erik Haaker,NO,15,Downhill
-1976-01-12,Thomas Hauser,AT,19,Giant Slalom
-1976-01-12,Karl Cordin,AT,7,Downhill
-1976-01-12,Miroslav Sochor,SK,2,Giant Slalom
-1976-01-12,Willi Frommelt,LI,0,Slalom
-1976-01-12,Steve Mahre,US,0,Slalom
-1976-01-12,Sepp Ferstl,DE,8,Combined
 1976-01-12,Franco Bieler,IT,23,Giant Slalom
+1976-01-12,Steve Podborski,CA,10,Combined
+1976-01-12,Odd Sorli,NO,11,Slalom
+1976-01-12,Karl Cordin,AT,7,Downhill
+1976-01-12,Gustav Thoeni,IT,77,Giant Slalom
+1976-01-12,Paul Frommelt,LI,2,Slalom
+1976-01-12,Steve Mahre,US,0,Slalom
+1976-01-12,Martin Berthod,CH,0,Downhill
 1976-01-12,Fausto Radici,IT,44,Slalom
-1976-01-17,Franz Klammer,AT,131,Downhill
+1976-01-12,Miroslav Sochor,SK,2,Giant Slalom
+1976-01-12,Stig Strand,SE,2,Slalom
+1976-01-12,Dave Irwin,CA,47,Downhill
+1976-01-12,Klaus Eberhard,AT,24,Downhill
+1976-01-12,Thomas Hauser,AT,19,Giant Slalom
+1976-01-12,Erwin Stricker,IT,8,Combined
+1976-01-12,Franz Klammer,AT,106,Downhill
+1976-01-12,Ernst Good,CH,30,Giant Slalom
+1976-01-12,Andy Mill,US,0,Combined
+1976-01-12,Hansi Hinterseer,AT,69,Slalom
+1976-01-17,Bogumir Zeman,SK,6,Combined
+1976-01-17,Steve Podborski,CA,10,Combined
+1976-01-17,Arnold Senoner,IT,6,Giant Slalom
 1976-01-17,Philippe Hardy,FR,1,Slalom
-1976-01-17,Karl Cordin,AT,7,Downhill
+1976-01-17,Greg Jones,US,8,Giant Slalom
+1976-01-17,Masami Ichimura,JP,0,Slalom
+1976-01-17,Patrice Pellat Finet,FR,7,Downhill
+1976-01-17,Wolfgang Junginger,DE,5,Slalom
+1976-01-17,Walter Tresch,CH,57,Combined
 1976-01-17,Alois Morgenstern,AT,13,Slalom
+1976-01-17,Franz Klammer,AT,131,Downhill
+1976-01-17,Karl Cordin,AT,7,Downhill
 1976-01-17,Sepp Ferstl,DE,11,Combined
 1976-01-17,Heini Hemmi,CH,4,Giant Slalom
-1976-01-17,Arnold Senoner,IT,6,Giant Slalom
-1976-01-17,Bogumir Zeman,SK,6,Combined
-1976-01-17,Patrice Pellat Finet,FR,7,Downhill
-1976-01-17,Greg Jones,US,8,Giant Slalom
-1976-01-17,Klaus Heidegger,AT,0,Giant Slalom
-1976-01-17,Steve Podborski,CA,10,Combined
-1976-01-17,Dave Murray,CA,13,Downhill
-1976-01-17,Ernst Good,CH,30,Giant Slalom
-1976-01-17,Franco Bieler,IT,23,Giant Slalom
-1976-01-17,Bruno Noeckler,IT,9,Slalom
-1976-01-17,Walter Tresch,CH,57,Combined
 1976-01-17,Peter Fischer,DE,3,Combined
+1976-01-17,Franco Bieler,IT,23,Giant Slalom
 1976-01-17,Philippe Roux,CH,69,Downhill
-1976-01-17,Miroslav Sochor,SK,2,Giant Slalom
+1976-01-17,Dave Murray,CA,13,Downhill
 1976-01-17,Klaus Eberhard,AT,35,Downhill
-1976-01-17,Paolo De Chiesa,IT,5,Slalom
-1976-01-17,Wolfgang Junginger,DE,5,Slalom
 1976-01-17,Ken Read,CA,25,Downhill
-1976-01-17,Masami Ichimura,JP,0,Slalom
+1976-01-17,Klaus Heidegger,AT,0,Giant Slalom
+1976-01-17,Paolo De Chiesa,IT,5,Slalom
+1976-01-17,Miroslav Sochor,SK,2,Giant Slalom
+1976-01-17,Bruno Noeckler,IT,9,Slalom
+1976-01-17,Ernst Good,CH,30,Giant Slalom
 1976-01-17,Bartl Gensbichler,AT,0,Combined
 1976-01-17,Peter Schwendener,CH,1,Slalom
 1976-01-17,Cary Adgate,US,0,Slalom
-1976-01-17,Engelhard Pargaetzi,CH,40,Giant Slalom
 1976-01-17,Christian Neureuther,DE,30,Slalom
 1976-01-17,Hansi Hinterseer,AT,69,Slalom
-1976-01-17,Steve Mahre,US,0,Slalom
-1976-01-17,Jim Hunter,CA,32,Combined
-1976-01-17,Diego Amplatz,IT,12,Slalom
 1976-01-17,Andy Mill,US,0,Combined
-1976-01-17,Dave Irwin,CA,47,Downhill
-1976-01-17,Thomas Hauser,AT,19,Giant Slalom
+1976-01-17,Phil Mahre,US,9,Giant Slalom
+1976-01-17,Diego Amplatz,IT,12,Slalom
+1976-01-17,Engelhard Pargaetzi,CH,40,Giant Slalom
 1976-01-17,Josef Walcher,AT,1,Downhill
-1976-01-17,Paul Frommelt,LI,2,Slalom
-1976-01-17,Fausto Radici,IT,44,Slalom
+1976-01-17,Dave Irwin,CA,47,Downhill
 1976-01-17,Ingemar Stenmark,SE,126,Slalom
+1976-01-17,Fausto Radici,IT,44,Slalom
+1976-01-17,Rene Berthod,CH,2,Downhill
+1976-01-17,Thomas Hauser,AT,19,Giant Slalom
 1976-01-17,Erwin Stricker,IT,8,Combined
 1976-01-17,Martin Berthod,CH,1,Downhill
 1976-01-17,Erik Haaker,NO,15,Downhill
+1976-01-17,Paul Frommelt,LI,2,Slalom
 1976-01-17,Walter Vesti,CH,0,Downhill
-1976-01-17,Hans Enn,AT,2,Downhill
 1976-01-17,Willi Frommelt,LI,0,Slalom
-1976-01-17,Philippe Barroso,FR,2,Giant Slalom
-1976-01-17,Gustav Thoeni,IT,97,Giant Slalom
+1976-01-17,Hans Enn,AT,2,Downhill
+1976-01-17,Gustav Thoeni,IT,77,Giant Slalom
 1976-01-17,Michael Veith,DE,20,Downhill
-1976-01-17,Rene Berthod,CH,2,Downhill
-1976-01-17,Peter Luescher,CH,20,Combined
+1976-01-17,Jim Hunter,CA,24,Downhill
+1976-01-17,Philippe Barroso,FR,2,Giant Slalom
 1976-01-17,Odd Sorli,NO,11,Slalom
 1976-01-17,Ernst Winkler,AT,9,Downhill
 1976-01-17,Stig Strand,SE,2,Slalom
-1976-01-17,Phil Mahre,US,9,Giant Slalom
-1976-01-17,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-17,Bernard Russi,CH,64,Downhill
+1976-01-17,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-17,Sigbert Prestl,DE,3,Combined
 1976-01-17,Piero Gros,IT,120,Slalom
 1976-01-17,Albert Burger,DE,3,Giant Slalom
+1976-01-17,Steve Mahre,US,0,Slalom
+1976-01-17,Anton Steiner,AT,31,Combined
 1976-01-17,Sepp Oberfrank,IT,2,Slalom
-1976-01-17,Pete Patterson,US,0,Combined
-1976-01-17,Jan Bachleda,PL,1,Slalom
 1976-01-17,Herbert Plank,IT,71,Downhill
 1976-01-17,Werner Grissmann,AT,28,Downhill
-1976-01-17,Anton Steiner,AT,31,Combined
-1976-01-18,Werner Grissmann,AT,28,Downhill
-1976-01-18,Phil Mahre,US,9,Giant Slalom
-1976-01-18,Michael Veith,DE,20,Downhill
+1976-01-17,Peter Luescher,CH,20,Combined
+1976-01-17,Jan Bachleda,PL,1,Slalom
+1976-01-17,Pete Patterson,US,0,Combined
+1976-01-18,Paul Frommelt,LI,2,Slalom
+1976-01-18,Sepp Oberfrank,IT,2,Slalom
 1976-01-18,Ernst Good,CH,30,Giant Slalom
+1976-01-18,Michael Veith,DE,20,Downhill
 1976-01-18,Karl Cordin,AT,7,Downhill
-1976-01-18,Fausto Radici,IT,47,Slalom
+1976-01-18,Ernst Winkler,AT,9,Downhill
 1976-01-18,Philippe Roux,CH,69,Downhill
 1976-01-18,Philippe Barroso,FR,2,Giant Slalom
-1976-01-18,Paul Frommelt,LI,2,Slalom
-1976-01-18,Gustav Thoeni,IT,105,Giant Slalom
-1976-01-18,Steve Podborski,CA,10,Combined
-1976-01-18,Peter Luescher,CH,20,Combined
-1976-01-18,Hansi Hinterseer,AT,80,Slalom
-1976-01-18,Martin Berthod,CH,1,Downhill
-1976-01-18,Stig Strand,SE,2,Slalom
-1976-01-18,Arnold Senoner,IT,6,Giant Slalom
-1976-01-18,Wolfgang Junginger,DE,5,Slalom
 1976-01-18,Steve Mahre,US,0,Slalom
-1976-01-18,Ernst Winkler,AT,9,Downhill
-1976-01-18,Andy Mill,US,0,Combined
-1976-01-18,Jim Hunter,CA,32,Combined
-1976-01-18,Jan Bachleda,PL,1,Slalom
+1976-01-18,Thomas Hauser,AT,19,Giant Slalom
+1976-01-18,Steve Podborski,CA,10,Combined
+1976-01-18,Stig Strand,SE,2,Slalom
+1976-01-18,Gustav Thoeni,IT,85,Giant Slalom
+1976-01-18,Hansi Hinterseer,AT,80,Slalom
+1976-01-18,Rene Berthod,CH,2,Downhill
+1976-01-18,Martin Berthod,CH,1,Downhill
+1976-01-18,Arnold Senoner,IT,6,Giant Slalom
+1976-01-18,Peter Luescher,CH,20,Combined
+1976-01-18,Fausto Radici,IT,47,Slalom
+1976-01-18,Werner Grissmann,AT,28,Downhill
+1976-01-18,Phil Mahre,US,9,Giant Slalom
+1976-01-18,Wolfgang Junginger,DE,5,Slalom
 1976-01-18,Philippe Hardy,FR,1,Slalom
+1976-01-18,Jan Bachleda,PL,1,Slalom
 1976-01-18,Diego Amplatz,IT,12,Slalom
+1976-01-18,Andy Mill,US,0,Combined
+1976-01-18,Masami Ichimura,JP,0,Slalom
 1976-01-18,Dave Irwin,CA,47,Downhill
 1976-01-18,Paolo De Chiesa,IT,5,Slalom
-1976-01-18,Masami Ichimura,JP,0,Slalom
-1976-01-18,Thomas Hauser,AT,19,Giant Slalom
-1976-01-18,Sepp Oberfrank,IT,2,Slalom
 1976-01-18,Franco Bieler,IT,48,Giant Slalom
 1976-01-18,Odd Sorli,NO,11,Slalom
 1976-01-18,Patrice Pellat Finet,FR,7,Downhill
 1976-01-18,Engelhard Pargaetzi,CH,41,Giant Slalom
-1976-01-18,Ken Read,CA,25,Downhill
+1976-01-18,Dave Murray,CA,13,Downhill
 1976-01-18,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-18,Ingemar Stenmark,SE,141,Slalom
 1976-01-18,Hans Enn,AT,2,Downhill
@@ -1046,208 +1046,208 @@ date,name,ath_country,value,specialty
 1976-01-18,Alois Morgenstern,AT,13,Slalom
 1976-01-18,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-18,Cary Adgate,US,0,Slalom
+1976-01-18,Greg Jones,US,8,Giant Slalom
 1976-01-18,Heini Hemmi,CH,8,Giant Slalom
 1976-01-18,Bartl Gensbichler,AT,0,Combined
-1976-01-18,Greg Jones,US,8,Giant Slalom
 1976-01-18,Bernard Russi,CH,64,Downhill
 1976-01-18,Peter Fischer,DE,3,Combined
 1976-01-18,Christian Neureuther,DE,30,Slalom
-1976-01-18,Walter Vesti,CH,0,Downhill
+1976-01-18,Ken Read,CA,25,Downhill
+1976-01-18,Josef Walcher,AT,1,Downhill
 1976-01-18,Walter Tresch,CH,63,Combined
-1976-01-18,Dave Murray,CA,13,Downhill
-1976-01-18,Sepp Ferstl,DE,11,Combined
-1976-01-18,Rene Berthod,CH,2,Downhill
+1976-01-18,Sigbert Prestl,DE,3,Combined
+1976-01-18,Jim Hunter,CA,24,Downhill
 1976-01-18,Bogumir Zeman,SK,6,Combined
 1976-01-18,Herbert Plank,IT,71,Downhill
 1976-01-18,Albert Burger,DE,3,Giant Slalom
 1976-01-18,Franz Klammer,AT,131,Downhill
 1976-01-18,Piero Gros,IT,140,Slalom
-1976-01-18,Sigbert Prestl,DE,3,Combined
-1976-01-18,Josef Walcher,AT,1,Downhill
+1976-01-18,Sepp Ferstl,DE,11,Combined
 1976-01-18,Bruno Noeckler,IT,9,Slalom
 1976-01-18,Pete Patterson,US,0,Combined
-1976-01-18,Willi Frommelt,LI,0,Slalom
+1976-01-18,Walter Vesti,CH,0,Downhill
 1976-01-18,Erik Haaker,NO,15,Downhill
 1976-01-18,Erwin Stricker,IT,8,Combined
-1976-01-18,Klaus Eberhard,AT,35,Downhill
 1976-01-18,Anton Steiner,AT,33,Combined
+1976-01-18,Klaus Eberhard,AT,35,Downhill
+1976-01-18,Willi Frommelt,LI,0,Slalom
+1976-01-24,Peter Luescher,CH,20,Combined
+1976-01-24,Ingemar Stenmark,SE,166,Slalom
 1976-01-24,Peter Schwendener,CH,1,Slalom
 1976-01-24,Greg Jones,US,8,Giant Slalom
-1976-01-24,Paolo De Chiesa,IT,5,Slalom
 1976-01-24,Christian Neureuther,DE,30,Slalom
-1976-01-24,Ingemar Stenmark,SE,166,Slalom
-1976-01-24,Peter Luescher,CH,20,Combined
 1976-01-24,Sepp Oberfrank,IT,2,Slalom
+1976-01-24,Paolo De Chiesa,IT,5,Slalom
 1976-01-24,Patrice Pellat Finet,FR,7,Downhill
-1976-01-24,Bogumir Zeman,SK,7,Combined
-1976-01-24,Ernst Winkler,AT,9,Downhill
-1976-01-24,Wolfgang Junginger,DE,9,Slalom
-1976-01-24,Karl Cordin,AT,7,Downhill
-1976-01-24,Paul Frommelt,LI,2,Slalom
-1976-01-24,Heini Hemmi,CH,8,Giant Slalom
 1976-01-24,Rene Berthod,CH,2,Downhill
-1976-01-24,Josef Walcher,AT,1,Downhill
-1976-01-24,Engelhard Pargaetzi,CH,41,Giant Slalom
-1976-01-24,Gustav Thoeni,IT,125,Giant Slalom
-1976-01-24,Thomas Hauser,AT,19,Giant Slalom
-1976-01-24,Dave Murray,CA,13,Downhill
+1976-01-24,Wolfgang Junginger,DE,9,Slalom
+1976-01-24,Ernst Winkler,AT,9,Downhill
+1976-01-24,Karl Cordin,AT,7,Downhill
+1976-01-24,Heini Hemmi,CH,8,Giant Slalom
+1976-01-24,Jim Hunter,CA,24,Downhill
+1976-01-24,Paul Frommelt,LI,2,Slalom
 1976-01-24,Walter Vesti,CH,0,Downhill
-1976-01-24,Hans Enn,AT,2,Downhill
+1976-01-24,Bogumir Zeman,SK,7,Combined
+1976-01-24,Gustav Thoeni,IT,105,Giant Slalom
+1976-01-24,Thomas Hauser,AT,19,Giant Slalom
 1976-01-24,Dave Irwin,CA,47,Downhill
+1976-01-24,Dave Murray,CA,13,Downhill
+1976-01-24,Engelhard Pargaetzi,CH,41,Giant Slalom
+1976-01-24,Hans Enn,AT,2,Downhill
 1976-01-24,Jan Bachleda,PL,3,Slalom
 1976-01-24,Anton Steiner,AT,33,Combined
-1976-01-24,Steve Mahre,US,0,Slalom
+1976-01-24,Josef Walcher,AT,1,Downhill
 1976-01-24,Philippe Roux,CH,69,Downhill
 1976-01-24,Herbert Plank,IT,71,Downhill
-1976-01-24,Steve Podborski,CA,10,Combined
-1976-01-24,Cary Adgate,US,8,Slalom
-1976-01-24,Pete Patterson,US,0,Combined
 1976-01-24,Ken Read,CA,25,Downhill
+1976-01-24,Sepp Ferstl,DE,11,Combined
+1976-01-24,Steve Podborski,CA,10,Combined
+1976-01-24,Pete Patterson,US,0,Combined
+1976-01-24,Erwin Stricker,IT,8,Combined
+1976-01-24,Bernard Russi,CH,64,Downhill
 1976-01-24,Philippe Barroso,FR,2,Giant Slalom
 1976-01-24,Ernst Good,CH,30,Giant Slalom
-1976-01-24,Michael Veith,DE,20,Downhill
-1976-01-24,Bernard Russi,CH,64,Downhill
-1976-01-24,Francisco Fernandez Ochoa,ES,1,Combined
+1976-01-24,Miroslav Sochor,SK,2,Giant Slalom
 1976-01-24,Walter Tresch,CH,63,Combined
+1976-01-24,Michael Veith,DE,20,Downhill
+1976-01-24,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-24,Bartl Gensbichler,AT,0,Combined
+1976-01-24,Fausto Radici,IT,47,Slalom
+1976-01-24,Alois Morgenstern,AT,13,Slalom
 1976-01-24,Andy Mill,US,0,Combined
 1976-01-24,Klaus Heidegger,AT,0,Giant Slalom
-1976-01-24,Miroslav Sochor,SK,2,Giant Slalom
-1976-01-24,Fausto Radici,IT,47,Slalom
-1976-01-24,Sepp Ferstl,DE,11,Combined
-1976-01-24,Willi Frommelt,LI,0,Slalom
-1976-01-24,Erik Haaker,NO,15,Downhill
-1976-01-24,Klaus Eberhard,AT,35,Downhill
-1976-01-24,Alois Morgenstern,AT,13,Slalom
+1976-01-24,Phil Mahre,US,15,Giant Slalom
+1976-01-24,Cary Adgate,US,8,Slalom
 1976-01-24,Peter Fischer,DE,3,Combined
-1976-01-24,Erwin Stricker,IT,8,Combined
 1976-01-24,Philippe Hardy,FR,1,Slalom
 1976-01-24,Franz Klammer,AT,131,Downhill
 1976-01-24,Masami Ichimura,JP,4,Slalom
+1976-01-24,Klaus Eberhard,AT,35,Downhill
+1976-01-24,Steve Mahre,US,0,Slalom
 1976-01-24,Werner Grissmann,AT,28,Downhill
 1976-01-24,Albert Burger,DE,3,Giant Slalom
 1976-01-24,Piero Gros,IT,155,Slalom
 1976-01-24,Bruno Noeckler,IT,9,Slalom
 1976-01-24,Diego Amplatz,IT,12,Slalom
-1976-01-24,Stig Strand,SE,2,Slalom
+1976-01-24,Franco Bieler,IT,59,Giant Slalom
 1976-01-24,Sigbert Prestl,DE,3,Combined
 1976-01-24,Arnold Senoner,IT,6,Giant Slalom
-1976-01-24,Franco Bieler,IT,59,Giant Slalom
+1976-01-24,Stig Strand,SE,2,Slalom
+1976-01-24,Willi Frommelt,LI,0,Slalom
 1976-01-24,Odd Sorli,NO,11,Slalom
 1976-01-24,Martin Berthod,CH,1,Downhill
-1976-01-24,Jim Hunter,CA,32,Combined
 1976-01-24,Hansi Hinterseer,AT,80,Slalom
-1976-01-24,Phil Mahre,US,15,Giant Slalom
-1976-01-25,Peter Fischer,DE,3,Combined
-1976-01-25,Sigbert Prestl,DE,3,Combined
+1976-01-24,Erik Haaker,NO,15,Downhill
+1976-01-25,Miroslav Sochor,SK,2,Giant Slalom
 1976-01-25,Walter Tresch,CH,65,Combined
-1976-01-25,Miroslav Sochor,SK,2,Giant Slalom
-1976-01-25,Herbert Plank,IT,71,Downhill
+1976-01-25,Fausto Radici,IT,47,Slalom
+1976-01-25,Fausto Radici,IT,47,Slalom
+1976-01-25,Wolfgang Junginger,DE,9,Slalom
+1976-01-25,Hans Enn,AT,2,Downhill
+1976-01-25,Andy Mill,US,2,Combined
+1976-01-25,Bartl Gensbichler,AT,0,Combined
+1976-01-25,Bartl Gensbichler,AT,3,Combined
 1976-01-25,Sigbert Prestl,DE,3,Combined
-1976-01-25,Bartl Gensbichler,AT,3,Combined
+1976-01-25,Sigbert Prestl,DE,3,Combined
 1976-01-25,Greg Jones,US,8,Giant Slalom
-1976-01-25,Fausto Radici,IT,47,Slalom
-1976-01-25,Fausto Radici,IT,47,Slalom
-1976-01-25,Hans Enn,AT,2,Downhill
-1976-01-25,Hans Enn,AT,2,Downhill
-1976-01-25,Andy Mill,US,2,Combined
+1976-01-25,Peter Fischer,DE,3,Combined
 1976-01-25,Jan Bachleda,PL,3,Slalom
-1976-01-25,Bartl Gensbichler,AT,3,Combined
-1976-01-25,Walter Tresch,CH,90,Combined
-1976-01-25,Wolfgang Junginger,DE,9,Slalom
-1976-01-25,Klaus Heidegger,AT,0,Giant Slalom
+1976-01-25,Herbert Plank,IT,71,Downhill
+1976-01-25,Hans Enn,AT,2,Downhill
 1976-01-25,Ingemar Stenmark,SE,166,Slalom
+1976-01-25,Klaus Heidegger,AT,0,Giant Slalom
+1976-01-25,Peter Fischer,DE,4,Combined
 1976-01-25,Dave Irwin,CA,47,Downhill
-1976-01-25,Stig Strand,SE,2,Slalom
-1976-01-25,Stig Strand,SE,2,Slalom
 1976-01-25,Sepp Oberfrank,IT,2,Slalom
+1976-01-25,Sepp Oberfrank,IT,2,Slalom
+1976-01-25,Stig Strand,SE,2,Slalom
 1976-01-25,Franz Klammer,AT,131,Downhill
-1976-01-25,Sepp Oberfrank,IT,2,Slalom
+1976-01-25,Stig Strand,SE,2,Slalom
 1976-01-25,Herbert Plank,IT,71,Downhill
 1976-01-25,Dave Irwin,CA,47,Downhill
 1976-01-25,Masami Ichimura,JP,4,Slalom
 1976-01-25,Masami Ichimura,JP,4,Slalom
+1976-01-25,Walter Tresch,CH,65,Combined
 1976-01-25,Franco Bieler,IT,59,Giant Slalom
 1976-01-25,Franco Bieler,IT,59,Giant Slalom
 1976-01-25,Philippe Barroso,FR,2,Giant Slalom
 1976-01-25,Philippe Barroso,FR,2,Giant Slalom
 1976-01-25,Hansi Hinterseer,AT,80,Slalom
+1976-01-25,Paul Frommelt,LI,2,Slalom
+1976-01-25,Paul Frommelt,LI,2,Slalom
 1976-01-25,Hansi Hinterseer,AT,80,Slalom
-1976-01-25,Paul Frommelt,LI,2,Slalom
-1976-01-25,Paul Frommelt,LI,2,Slalom
-1976-01-25,Engelhard Pargaetzi,CH,41,Giant Slalom
 1976-01-25,Andy Mill,US,2,Combined
-1976-01-25,Willi Frommelt,LI,0,Slalom
+1976-01-25,Engelhard Pargaetzi,CH,41,Giant Slalom
 1976-01-25,Patrice Pellat Finet,FR,7,Downhill
 1976-01-25,Patrice Pellat Finet,FR,7,Downhill
 1976-01-25,Wolfgang Junginger,DE,9,Slalom
 1976-01-25,Klaus Heidegger,AT,0,Giant Slalom
 1976-01-25,Miroslav Sochor,SK,2,Giant Slalom
 1976-01-25,Willi Frommelt,LI,0,Slalom
+1976-01-25,Willi Frommelt,LI,0,Slalom
 1976-01-25,Engelhard Pargaetzi,CH,41,Giant Slalom
 1976-01-25,Ingemar Stenmark,SE,166,Slalom
-1976-01-25,Peter Fischer,DE,4,Combined
 1976-01-25,Greg Jones,US,8,Giant Slalom
 1976-01-25,Jan Bachleda,PL,3,Slalom
 1976-01-25,Steve Podborski,CA,10,Combined
-1976-01-25,Jim Hunter,CA,36,Combined
+1976-01-25,Rene Berthod,CH,2,Downhill
 1976-01-25,Philippe Hardy,FR,1,Slalom
+1976-01-25,Bruno Noeckler,IT,9,Slalom
 1976-01-25,Arnold Senoner,IT,6,Giant Slalom
 1976-01-25,Arnold Senoner,IT,6,Giant Slalom
-1976-01-25,Jim Hunter,CA,56,Combined
-1976-01-25,Gustav Thoeni,IT,125,Giant Slalom
+1976-01-25,Bruno Noeckler,IT,9,Slalom
 1976-01-25,Thomas Hauser,AT,19,Giant Slalom
 1976-01-25,Thomas Hauser,AT,19,Giant Slalom
-1976-01-25,Michael Veith,DE,20,Downhill
-1976-01-25,Steve Mahre,US,0,Slalom
-1976-01-25,Steve Mahre,US,0,Slalom
-1976-01-25,Gustav Thoeni,IT,140,Giant Slalom
+1976-01-25,Rene Berthod,CH,2,Downhill
+1976-01-25,Peter Luescher,CH,20,Combined
+1976-01-25,Gustav Thoeni,IT,105,Giant Slalom
+1976-01-25,Gustav Thoeni,IT,120,Giant Slalom
 1976-01-25,Michael Veith,DE,20,Downhill
 1976-01-25,Albert Burger,DE,3,Giant Slalom
 1976-01-25,Ernst Winkler,AT,9,Downhill
-1976-01-25,Piero Gros,IT,155,Slalom
+1976-01-25,Martin Berthod,CH,1,Downhill
+1976-01-25,Albert Burger,DE,3,Giant Slalom
 1976-01-25,Piero Gros,IT,155,Slalom
 1976-01-25,Philippe Roux,CH,69,Downhill
 1976-01-25,Paolo De Chiesa,IT,5,Slalom
-1976-01-25,Peter Luescher,CH,20,Combined
-1976-01-25,Bruno Noeckler,IT,9,Slalom
-1976-01-25,Bruno Noeckler,IT,9,Slalom
+1976-01-25,Michael Veith,DE,20,Downhill
+1976-01-25,Paolo De Chiesa,IT,5,Slalom
 1976-01-25,Steve Podborski,CA,10,Combined
+1976-01-25,Peter Luescher,CH,20,Combined
 1976-01-25,Sepp Ferstl,DE,11,Combined
 1976-01-25,Sepp Ferstl,DE,11,Combined
 1976-01-25,Klaus Eberhard,AT,41,Downhill
-1976-01-25,Odd Sorli,NO,11,Slalom
+1976-01-25,Martin Berthod,CH,1,Downhill
 1976-01-25,Odd Sorli,NO,11,Slalom
 1976-01-25,Ken Read,CA,25,Downhill
-1976-01-25,Werner Grissmann,AT,28,Downhill
+1976-01-25,Odd Sorli,NO,11,Slalom
 1976-01-25,Philippe Hardy,FR,1,Slalom
-1976-01-25,Martin Berthod,CH,1,Downhill
-1976-01-25,Paolo De Chiesa,IT,5,Slalom
-1976-01-25,Phil Mahre,US,15,Giant Slalom
+1976-01-25,Werner Grissmann,AT,28,Downhill
+1976-01-25,Diego Amplatz,IT,12,Slalom
+1976-01-25,Alois Morgenstern,AT,13,Slalom
 1976-01-25,Ernst Good,CH,30,Giant Slalom
 1976-01-25,Alois Morgenstern,AT,13,Slalom
-1976-01-25,Alois Morgenstern,AT,13,Slalom
-1976-01-25,Phil Mahre,US,15,Giant Slalom
 1976-01-25,Klaus Eberhard,AT,41,Downhill
-1976-01-25,Diego Amplatz,IT,12,Slalom
+1976-01-25,Steve Mahre,US,0,Slalom
+1976-01-25,Steve Mahre,US,0,Slalom
+1976-01-25,Phil Mahre,US,15,Giant Slalom
 1976-01-25,Werner Grissmann,AT,39,Downhill
+1976-01-25,Phil Mahre,US,15,Giant Slalom
 1976-01-25,Diego Amplatz,IT,12,Slalom
-1976-01-25,Peter Luescher,CH,20,Combined
 1976-01-25,Ernst Good,CH,30,Giant Slalom
+1976-01-25,Piero Gros,IT,155,Slalom
+1976-01-25,Ernst Winkler,AT,9,Downhill
 1976-01-25,Bernard Russi,CH,72,Downhill
-1976-01-25,Albert Burger,DE,3,Giant Slalom
-1976-01-25,Dave Murray,CA,16,Downhill
 1976-01-25,Franz Klammer,AT,156,Downhill
 1976-01-25,Erwin Stricker,IT,8,Combined
-1976-01-25,Heini Hemmi,CH,8,Giant Slalom
-1976-01-25,Ernst Winkler,AT,9,Downhill
+1976-01-25,Dave Murray,CA,16,Downhill
 1976-01-25,Anton Steiner,AT,33,Combined
 1976-01-25,Christian Neureuther,DE,30,Slalom
 1976-01-25,Dave Murray,CA,16,Downhill
 1976-01-25,Christian Neureuther,DE,30,Slalom
 1976-01-25,Erik Haaker,NO,35,Downhill
+1976-01-25,Bernard Russi,CH,72,Downhill
 1976-01-25,Pete Patterson,US,8,Combined
-1976-01-25,Peter Schwendener,CH,1,Slalom
 1976-01-25,Peter Schwendener,CH,1,Slalom
 1976-01-25,Francisco Fernandez Ochoa,ES,1,Combined
 1976-01-25,Francisco Fernandez Ochoa,ES,1,Combined
@@ -1256,70 +1256,71 @@ date,name,ath_country,value,specialty
 1976-01-25,Bogumir Zeman,SK,7,Combined
 1976-01-25,Cary Adgate,US,8,Slalom
 1976-01-25,Anton Steiner,AT,44,Combined
-1976-01-25,Bernard Russi,CH,72,Downhill
+1976-01-25,Peter Schwendener,CH,1,Slalom
 1976-01-25,Pete Patterson,US,8,Combined
-1976-01-25,Martin Berthod,CH,1,Downhill
-1976-01-25,Josef Walcher,AT,16,Downhill
-1976-01-25,Rene Berthod,CH,2,Downhill
-1976-01-25,Walter Vesti,CH,0,Downhill
-1976-01-25,Walter Vesti,CH,0,Downhill
-1976-01-25,Philippe Roux,CH,71,Downhill
-1976-01-25,Erik Haaker,NO,35,Downhill
-1976-01-25,Rene Berthod,CH,2,Downhill
 1976-01-25,Heini Hemmi,CH,8,Giant Slalom
-1976-01-25,Karl Cordin,AT,7,Downhill
-1976-01-25,Erwin Stricker,IT,12,Combined
-1976-01-25,Karl Cordin,AT,7,Downhill
 1976-01-25,Josef Walcher,AT,16,Downhill
+1976-01-25,Erwin Stricker,IT,12,Combined
+1976-01-25,Josef Walcher,AT,16,Downhill
+1976-01-25,Karl Cordin,AT,7,Downhill
+1976-01-25,Karl Cordin,AT,7,Downhill
+1976-01-25,Erik Haaker,NO,35,Downhill
 1976-01-25,Ken Read,CA,31,Downhill
-1976-01-27,Piero Gros,IT,163,Slalom
-1976-01-27,Francisco Fernandez Ochoa,ES,1,Combined
-1976-01-27,Cary Adgate,US,8,Slalom
-1976-01-27,Miroslav Sochor,SK,2,Giant Slalom
-1976-01-27,Alois Morgenstern,AT,13,Slalom
-1976-01-27,Willi Frommelt,LI,0,Slalom
+1976-01-25,Philippe Roux,CH,71,Downhill
+1976-01-25,Walter Vesti,CH,0,Downhill
+1976-01-25,Jim Hunter,CA,28,Downhill
+1976-01-25,Walter Vesti,CH,0,Downhill
+1976-01-25,Jim Hunter,CA,28,Downhill
+1976-01-25,Heini Hemmi,CH,8,Giant Slalom
 1976-01-27,Sigbert Prestl,DE,3,Combined
+1976-01-27,Willi Frommelt,LI,0,Slalom
+1976-01-27,Cary Adgate,US,8,Slalom
 1976-01-27,Odd Sorli,NO,11,Slalom
 1976-01-27,Albert Burger,DE,3,Giant Slalom
+1976-01-27,Alois Morgenstern,AT,13,Slalom
+1976-01-27,Francisco Fernandez Ochoa,ES,1,Combined
+1976-01-27,Michael Veith,DE,20,Downhill
 1976-01-27,Engelhard Pargaetzi,CH,52,Giant Slalom
-1976-01-27,Fausto Radici,IT,47,Slalom
 1976-01-27,Pete Patterson,US,8,Combined
 1976-01-27,Klaus Eberhard,AT,41,Downhill
-1976-01-27,Jim Hunter,CA,56,Combined
+1976-01-27,Phil Mahre,US,15,Giant Slalom
 1976-01-27,Erwin Stricker,IT,12,Combined
-1976-01-27,Peter Fischer,DE,4,Combined
-1976-01-27,Philippe Barroso,FR,2,Giant Slalom
+1976-01-27,Herbert Plank,IT,71,Downhill
 1976-01-27,Erik Haaker,NO,35,Downhill
+1976-01-27,Peter Fischer,DE,4,Combined
+1976-01-27,Piero Gros,IT,163,Slalom
+1976-01-27,Philippe Barroso,FR,2,Giant Slalom
+1976-01-27,Andy Mill,US,2,Combined
 1976-01-27,Diego Amplatz,IT,12,Slalom
 1976-01-27,Bruno Noeckler,IT,9,Slalom
-1976-01-27,Herbert Plank,IT,71,Downhill
 1976-01-27,Bernard Russi,CH,72,Downhill
-1976-01-27,Michael Veith,DE,20,Downhill
-1976-01-27,Andy Mill,US,2,Combined
+1976-01-27,Fausto Radici,IT,47,Slalom
+1976-01-27,Miroslav Sochor,SK,2,Giant Slalom
 1976-01-27,Bartl Gensbichler,AT,3,Combined
-1976-01-27,Martin Berthod,CH,1,Downhill
-1976-01-27,Steve Podborski,CA,10,Combined
 1976-01-27,Steve Mahre,US,2,Slalom
-1976-01-27,Arnold Senoner,IT,6,Giant Slalom
+1976-01-27,Steve Podborski,CA,10,Combined
+1976-01-27,Josef Walcher,AT,16,Downhill
 1976-01-27,Thomas Hauser,AT,19,Giant Slalom
+1976-01-27,Arnold Senoner,IT,6,Giant Slalom
 1976-01-27,Franco Bieler,IT,62,Giant Slalom
 1976-01-27,Ken Read,CA,31,Downhill
-1976-01-27,Gustav Thoeni,IT,160,Giant Slalom
+1976-01-27,Rene Berthod,CH,2,Downhill
 1976-01-27,Dave Murray,CA,16,Downhill
-1976-01-27,Sepp Oberfrank,IT,2,Slalom
-1976-01-27,Patrice Pellat Finet,FR,7,Downhill
-1976-01-27,Paul Frommelt,LI,2,Slalom
+1976-01-27,Masami Ichimura,JP,4,Slalom
+1976-01-27,Gustav Thoeni,IT,140,Giant Slalom
+1976-01-27,Ernst Winkler,AT,9,Downhill
 1976-01-27,Wolfgang Junginger,DE,9,Slalom
 1976-01-27,Philippe Roux,CH,71,Downhill
 1976-01-27,Paolo De Chiesa,IT,5,Slalom
+1976-01-27,Paul Frommelt,LI,2,Slalom
 1976-01-27,Hans Enn,AT,2,Downhill
 1976-01-27,Walter Vesti,CH,0,Downhill
 1976-01-27,Karl Cordin,AT,7,Downhill
-1976-01-27,Rene Berthod,CH,2,Downhill
-1976-01-27,Ernst Winkler,AT,9,Downhill
-1976-01-27,Peter Luescher,CH,20,Combined
-1976-01-27,Masami Ichimura,JP,4,Slalom
+1976-01-27,Patrice Pellat Finet,FR,7,Downhill
+1976-01-27,Sepp Oberfrank,IT,2,Slalom
 1976-01-27,Ingemar Stenmark,SE,191,Slalom
+1976-01-27,Christian Neureuther,DE,30,Slalom
+1976-01-27,Martin Berthod,CH,1,Downhill
 1976-01-27,Sepp Ferstl,DE,11,Combined
 1976-01-27,Stig Strand,SE,2,Slalom
 1976-01-27,Anton Steiner,AT,45,Combined
@@ -1327,47 +1328,46 @@ date,name,ath_country,value,specialty
 1976-01-27,Werner Grissmann,AT,39,Downhill
 1976-01-27,Philippe Hardy,FR,1,Slalom
 1976-01-27,Jan Bachleda,PL,3,Slalom
+1976-01-27,Peter Luescher,CH,20,Combined
 1976-01-27,Hansi Hinterseer,AT,95,Slalom
-1976-01-27,Franz Klammer,AT,156,Downhill
+1976-01-27,Jim Hunter,CA,28,Downhill
 1976-01-27,Ernst Good,CH,30,Giant Slalom
-1976-01-27,Bogumir Zeman,SK,7,Combined
-1976-01-27,Josef Walcher,AT,16,Downhill
-1976-01-27,Phil Mahre,US,15,Giant Slalom
-1976-01-27,Heini Hemmi,CH,14,Giant Slalom
+1976-01-27,Franz Klammer,AT,156,Downhill
 1976-01-27,Peter Schwendener,CH,1,Slalom
 1976-01-27,Dave Irwin,CA,47,Downhill
+1976-01-27,Heini Hemmi,CH,14,Giant Slalom
 1976-01-27,Klaus Heidegger,AT,4,Giant Slalom
-1976-01-27,Christian Neureuther,DE,30,Slalom
-1976-01-27,Walter Tresch,CH,90,Combined
-1976-03-05,Christian Neureuther,DE,30,Slalom
-1976-03-05,Erwin Stricker,IT,12,Combined
+1976-01-27,Walter Tresch,CH,65,Combined
+1976-01-27,Bogumir Zeman,SK,7,Combined
 1976-03-05,Francisco Fernandez Ochoa,ES,1,Combined
-1976-03-05,Erik Haaker,NO,35,Downhill
-1976-03-05,Walter Vesti,CH,0,Downhill
-1976-03-05,Jan Bachleda,PL,3,Slalom
-1976-03-05,Rene Berthod,CH,2,Downhill
+1976-03-05,Erwin Stricker,IT,12,Combined
 1976-03-05,Anton Steiner,AT,48,Combined
+1976-03-05,Walter Vesti,CH,0,Downhill
+1976-03-05,Jim Hunter,CA,28,Downhill
+1976-03-05,Christian Neureuther,DE,30,Slalom
+1976-03-05,Erik Haaker,NO,35,Downhill
+1976-03-05,Jan Bachleda,PL,3,Slalom
 1976-03-05,Hans Enn,AT,2,Downhill
 1976-03-05,Michael Veith,DE,20,Downhill
 1976-03-05,Ingemar Stenmark,SE,191,Slalom
 1976-03-05,Martin Berthod,CH,1,Downhill
 1976-03-05,Stig Strand,SE,2,Slalom
 1976-03-05,Werner Grissmann,AT,39,Downhill
-1976-03-05,Odd Sorli,NO,11,Slalom
 1976-03-05,Hansi Hinterseer,AT,96,Slalom
+1976-03-05,Odd Sorli,NO,11,Slalom
 1976-03-05,Dave Irwin,CA,47,Downhill
-1976-03-05,Jim Hunter,CA,56,Combined
 1976-03-05,Peter Luescher,CH,20,Combined
 1976-03-05,Philippe Barroso,FR,2,Giant Slalom
-1976-03-05,Diego Amplatz,IT,12,Slalom
 1976-03-05,Sepp Oberfrank,IT,2,Slalom
-1976-03-05,Steve Mahre,US,8,Slalom
-1976-03-05,Thomas Hauser,AT,21,Giant Slalom
+1976-03-05,Diego Amplatz,IT,12,Slalom
 1976-03-05,Phil Mahre,US,35,Giant Slalom
+1976-03-05,Rene Berthod,CH,2,Downhill
+1976-03-05,Thomas Hauser,AT,21,Giant Slalom
+1976-03-05,Steve Mahre,US,8,Slalom
 1976-03-05,Ernst Winkler,AT,9,Downhill
 1976-03-05,Paul Frommelt,LI,2,Slalom
 1976-03-05,Andy Mill,US,2,Combined
-1976-03-05,Gustav Thoeni,IT,160,Giant Slalom
+1976-03-05,Gustav Thoeni,IT,140,Giant Slalom
 1976-03-05,Willi Frommelt,LI,0,Slalom
 1976-03-05,Josef Walcher,AT,16,Downhill
 1976-03-05,Bogumir Zeman,SK,7,Combined
@@ -1377,10 +1377,10 @@ date,name,ath_country,value,specialty
 1976-03-05,Paolo De Chiesa,IT,5,Slalom
 1976-03-05,Wolfgang Junginger,DE,9,Slalom
 1976-03-05,Albert Burger,DE,11,Giant Slalom
-1976-03-05,Klaus Heidegger,AT,4,Giant Slalom
-1976-03-05,Ken Read,CA,31,Downhill
+1976-03-05,Sepp Ferstl,DE,11,Combined
 1976-03-05,Piero Gros,IT,167,Slalom
 1976-03-05,Herbert Plank,IT,71,Downhill
+1976-03-05,Ken Read,CA,31,Downhill
 1976-03-05,Ernst Good,CH,41,Giant Slalom
 1976-03-05,Sigbert Prestl,DE,3,Combined
 1976-03-05,Peter Fischer,DE,4,Combined
@@ -1388,252 +1388,252 @@ date,name,ath_country,value,specialty
 1976-03-05,Masami Ichimura,JP,4,Slalom
 1976-03-05,Franz Klammer,AT,156,Downhill
 1976-03-05,Klaus Eberhard,AT,41,Downhill
-1976-03-05,Alois Morgenstern,AT,13,Slalom
 1976-03-05,Bartl Gensbichler,AT,3,Combined
-1976-03-05,Walter Tresch,CH,90,Combined
+1976-03-05,Alois Morgenstern,AT,13,Slalom
+1976-03-05,Walter Tresch,CH,65,Combined
 1976-03-05,Philippe Hardy,FR,1,Slalom
 1976-03-05,Miroslav Sochor,SK,2,Giant Slalom
 1976-03-05,Bruno Noeckler,IT,9,Slalom
 1976-03-05,Franco Bieler,IT,62,Giant Slalom
-1976-03-05,Sepp Ferstl,DE,11,Combined
+1976-03-05,Klaus Heidegger,AT,4,Giant Slalom
 1976-03-05,Karl Cordin,AT,7,Downhill
 1976-03-05,Engelhard Pargaetzi,CH,67,Giant Slalom
-1976-03-05,Fausto Radici,IT,47,Slalom
 1976-03-05,Bernard Russi,CH,72,Downhill
+1976-03-05,Fausto Radici,IT,47,Slalom
 1976-03-05,Peter Schwendener,CH,1,Slalom
 1976-03-05,Greg Jones,US,33,Giant Slalom
 1976-03-05,Pete Patterson,US,8,Combined
 1976-03-05,Patrice Pellat Finet,FR,7,Downhill
 1976-03-05,Dave Murray,CA,16,Downhill
 1976-03-05,Cary Adgate,US,8,Slalom
+1976-03-07,Sepp Oberfrank,IT,2,Slalom
 1976-03-07,Dave Murray,CA,16,Downhill
 1976-03-07,Sepp Ferstl,DE,11,Combined
 1976-03-07,Masami Ichimura,JP,4,Slalom
 1976-03-07,Ingemar Stenmark,SE,216,Slalom
-1976-03-07,Peter Luescher,CH,20,Combined
-1976-03-07,Stig Strand,SE,2,Slalom
 1976-03-07,Bogumir Zeman,SK,7,Combined
+1976-03-07,Stig Strand,SE,2,Slalom
 1976-03-07,Christian Neureuther,DE,30,Slalom
-1976-03-07,Phil Mahre,US,35,Giant Slalom
-1976-03-07,Werner Grissmann,AT,39,Downhill
+1976-03-07,Martin Berthod,CH,1,Downhill
 1976-03-07,Miroslav Sochor,SK,2,Giant Slalom
+1976-03-07,Werner Grissmann,AT,39,Downhill
 1976-03-07,Philippe Hardy,FR,1,Slalom
 1976-03-07,Greg Jones,US,33,Giant Slalom
-1976-03-07,Walter Tresch,CH,90,Combined
+1976-03-07,Walter Tresch,CH,65,Combined
 1976-03-07,Ernst Good,CH,41,Giant Slalom
-1976-03-07,Steve Mahre,US,28,Slalom
+1976-03-07,Peter Luescher,CH,20,Combined
+1976-03-07,Peter Schwendener,CH,1,Slalom
 1976-03-07,Steve Podborski,CA,10,Combined
-1976-03-07,Sepp Oberfrank,IT,2,Slalom
-1976-03-07,Rene Berthod,CH,2,Downhill
-1976-03-07,Josef Walcher,AT,16,Downhill
+1976-03-07,Jim Hunter,CA,28,Downhill
 1976-03-07,Karl Cordin,AT,7,Downhill
+1976-03-07,Josef Walcher,AT,16,Downhill
 1976-03-07,Heini Hemmi,CH,14,Giant Slalom
 1976-03-07,Engelhard Pargaetzi,CH,67,Giant Slalom
-1976-03-07,Paolo De Chiesa,IT,5,Slalom
 1976-03-07,Paul Frommelt,LI,2,Slalom
+1976-03-07,Paolo De Chiesa,IT,5,Slalom
 1976-03-07,Patrice Pellat Finet,FR,7,Downhill
 1976-03-07,Walter Vesti,CH,0,Downhill
 1976-03-07,Jan Bachleda,PL,3,Slalom
 1976-03-07,Wolfgang Junginger,DE,9,Slalom
 1976-03-07,Thomas Hauser,AT,27,Giant Slalom
 1976-03-07,Philippe Roux,CH,71,Downhill
-1976-03-07,Ken Read,CA,31,Downhill
+1976-03-07,Gustav Thoeni,IT,155,Giant Slalom
+1976-03-07,Rene Berthod,CH,2,Downhill
 1976-03-07,Hans Enn,AT,2,Downhill
+1976-03-07,Ken Read,CA,31,Downhill
 1976-03-07,Anton Steiner,AT,48,Combined
 1976-03-07,Franco Bieler,IT,63,Giant Slalom
 1976-03-07,Arnold Senoner,IT,6,Giant Slalom
-1976-03-07,Gustav Thoeni,IT,175,Giant Slalom
-1976-03-07,Peter Schwendener,CH,1,Slalom
 1976-03-07,Ernst Winkler,AT,9,Downhill
 1976-03-07,Bartl Gensbichler,AT,3,Combined
 1976-03-07,Dave Irwin,CA,47,Downhill
-1976-03-07,Franz Klammer,AT,156,Downhill
-1976-03-07,Klaus Eberhard,AT,41,Downhill
-1976-03-07,Bernard Russi,CH,72,Downhill
-1976-03-07,Philippe Barroso,FR,2,Giant Slalom
-1976-03-07,Peter Fischer,DE,4,Combined
-1976-03-07,Diego Amplatz,IT,12,Slalom
-1976-03-07,Erik Haaker,NO,35,Downhill
-1976-03-07,Erwin Stricker,IT,12,Combined
-1976-03-07,Piero Gros,IT,178,Slalom
-1976-03-07,Bruno Noeckler,IT,13,Slalom
-1976-03-07,Sigbert Prestl,DE,3,Combined
 1976-03-07,Pete Patterson,US,8,Combined
-1976-03-07,Albert Burger,DE,11,Giant Slalom
-1976-03-07,Michael Veith,DE,20,Downhill
-1976-03-07,Fausto Radici,IT,55,Slalom
-1976-03-07,Herbert Plank,IT,71,Downhill
-1976-03-07,Jim Hunter,CA,56,Combined
+1976-03-07,Klaus Eberhard,AT,41,Downhill
+1976-03-07,Phil Mahre,US,35,Giant Slalom
+1976-03-07,Bernard Russi,CH,72,Downhill
+1976-03-07,Bruno Noeckler,IT,13,Slalom
+1976-03-07,Erwin Stricker,IT,12,Combined
 1976-03-07,Andy Mill,US,2,Combined
-1976-03-07,Alois Morgenstern,AT,13,Slalom
-1976-03-07,Martin Berthod,CH,1,Downhill
+1976-03-07,Sigbert Prestl,DE,3,Combined
+1976-03-07,Piero Gros,IT,178,Slalom
+1976-03-07,Albert Burger,DE,11,Giant Slalom
 1976-03-07,Francisco Fernandez Ochoa,ES,1,Combined
 1976-03-07,Odd Sorli,NO,11,Slalom
-1976-03-07,Klaus Heidegger,AT,4,Giant Slalom
-1976-03-07,Willi Frommelt,LI,3,Slalom
-1976-03-07,Cary Adgate,US,8,Slalom
+1976-03-07,Herbert Plank,IT,71,Downhill
+1976-03-07,Philippe Barroso,FR,2,Giant Slalom
+1976-03-07,Alois Morgenstern,AT,13,Slalom
 1976-03-07,Hansi Hinterseer,AT,98,Slalom
-1976-03-12,Anton Steiner,AT,50,Combined
-1976-03-12,Sigbert Prestl,DE,3,Combined
+1976-03-07,Willi Frommelt,LI,3,Slalom
+1976-03-07,Diego Amplatz,IT,12,Slalom
+1976-03-07,Peter Fischer,DE,4,Combined
+1976-03-07,Klaus Heidegger,AT,4,Giant Slalom
+1976-03-07,Fausto Radici,IT,55,Slalom
+1976-03-07,Erik Haaker,NO,35,Downhill
+1976-03-07,Steve Mahre,US,28,Slalom
+1976-03-07,Cary Adgate,US,8,Slalom
+1976-03-07,Michael Veith,DE,20,Downhill
+1976-03-07,Franz Klammer,AT,156,Downhill
+1976-03-12,Ken Read,CA,34,Downhill
+1976-03-12,Werner Grissmann,AT,39,Downhill
 1976-03-12,Franco Bieler,IT,63,Giant Slalom
-1976-03-12,Bogumir Zeman,SK,7,Combined
-1976-03-12,Erwin Stricker,IT,12,Combined
-1976-03-12,Christian Neureuther,DE,30,Slalom
-1976-03-12,Bartl Gensbichler,AT,3,Combined
 1976-03-12,Willi Frommelt,LI,3,Slalom
 1976-03-12,Ingemar Stenmark,SE,216,Slalom
-1976-03-12,Heini Hemmi,CH,14,Giant Slalom
-1976-03-12,Andy Mill,US,2,Combined
 1976-03-12,Ernst Winkler,AT,24,Downhill
-1976-03-12,Ken Read,CA,34,Downhill
+1976-03-12,Andy Mill,US,2,Combined
+1976-03-12,Heini Hemmi,CH,14,Giant Slalom
+1976-03-12,Sigbert Prestl,DE,3,Combined
 1976-03-12,Erik Haaker,NO,35,Downhill
-1976-03-12,Engelhard Pargaetzi,CH,67,Giant Slalom
-1976-03-12,Francisco Fernandez Ochoa,ES,1,Combined
-1976-03-12,Franz Klammer,AT,181,Downhill
-1976-03-12,Greg Jones,US,33,Giant Slalom
-1976-03-12,Josef Walcher,AT,20,Downhill
 1976-03-12,Karl Cordin,AT,7,Downhill
-1976-03-12,Patrice Pellat Finet,FR,7,Downhill
-1976-03-12,Paolo De Chiesa,IT,5,Slalom
-1976-03-12,Herbert Plank,IT,77,Downhill
-1976-03-12,Dave Murray,CA,16,Downhill
-1976-03-12,Hans Enn,AT,2,Downhill
-1976-03-12,Fausto Radici,IT,55,Slalom
-1976-03-12,Jan Bachleda,PL,3,Slalom
-1976-03-12,Peter Schwendener,CH,1,Slalom
+1976-03-12,Jim Hunter,CA,28,Downhill
+1976-03-12,Bartl Gensbichler,AT,3,Combined
+1976-03-12,Bogumir Zeman,SK,7,Combined
+1976-03-12,Anton Steiner,AT,50,Combined
+1976-03-12,Christian Neureuther,DE,30,Slalom
 1976-03-12,Cary Adgate,US,8,Slalom
-1976-03-12,Werner Grissmann,AT,39,Downhill
-1976-03-12,Wolfgang Junginger,DE,9,Slalom
-1976-03-12,Gustav Thoeni,IT,175,Giant Slalom
+1976-03-12,Greg Jones,US,33,Giant Slalom
+1976-03-12,Dave Murray,CA,16,Downhill
+1976-03-12,Fausto Radici,IT,55,Slalom
+1976-03-12,Francisco Fernandez Ochoa,ES,1,Combined
+1976-03-12,Erwin Stricker,IT,12,Combined
+1976-03-12,Peter Schwendener,CH,1,Slalom
+1976-03-12,Jan Bachleda,PL,3,Slalom
+1976-03-12,Hans Enn,AT,2,Downhill
+1976-03-12,Herbert Plank,IT,77,Downhill
+1976-03-12,Patrice Pellat Finet,FR,7,Downhill
+1976-03-12,Josef Walcher,AT,20,Downhill
+1976-03-12,Franz Klammer,AT,181,Downhill
+1976-03-12,Engelhard Pargaetzi,CH,67,Giant Slalom
+1976-03-12,Paolo De Chiesa,IT,5,Slalom
+1976-03-12,Piero Gros,IT,178,Slalom
+1976-03-12,Gustav Thoeni,IT,155,Giant Slalom
 1976-03-12,Paul Frommelt,LI,2,Slalom
-1976-03-12,Masami Ichimura,JP,4,Slalom
-1976-03-12,Klaus Eberhard,AT,41,Downhill
 1976-03-12,Walter Vesti,CH,1,Downhill
+1976-03-12,Rene Berthod,CH,22,Downhill
+1976-03-12,Martin Berthod,CH,1,Downhill
 1976-03-12,Phil Mahre,US,35,Giant Slalom
-1976-03-12,Jim Hunter,CA,56,Combined
 1976-03-12,Miroslav Sochor,SK,2,Giant Slalom
-1976-03-12,Bruno Noeckler,IT,13,Slalom
 1976-03-12,Odd Sorli,NO,11,Slalom
-1976-03-12,Alois Morgenstern,AT,13,Slalom
+1976-03-12,Masami Ichimura,JP,4,Slalom
+1976-03-12,Dave Irwin,CA,47,Downhill
+1976-03-12,Walter Tresch,CH,73,Combined
 1976-03-12,Ernst Good,CH,41,Giant Slalom
-1976-03-12,Walter Tresch,CH,98,Combined
-1976-03-12,Sepp Ferstl,DE,11,Combined
+1976-03-12,Alois Morgenstern,AT,13,Slalom
 1976-03-12,Philippe Hardy,FR,1,Slalom
 1976-03-12,Stig Strand,SE,2,Slalom
+1976-03-12,Sepp Ferstl,DE,11,Combined
 1976-03-12,Klaus Heidegger,AT,4,Giant Slalom
-1976-03-12,Dave Irwin,CA,47,Downhill
-1976-03-12,Philippe Barroso,FR,2,Giant Slalom
-1976-03-12,Bernard Russi,CH,72,Downhill
-1976-03-12,Peter Fischer,DE,4,Combined
-1976-03-12,Pete Patterson,US,8,Combined
-1976-03-12,Piero Gros,IT,178,Slalom
-1976-03-12,Martin Berthod,CH,1,Downhill
-1976-03-12,Michael Veith,DE,20,Downhill
-1976-03-12,Hansi Hinterseer,AT,98,Slalom
-1976-03-12,Rene Berthod,CH,22,Downhill
-1976-03-12,Philippe Roux,CH,71,Downhill
-1976-03-12,Sepp Oberfrank,IT,2,Slalom
-1976-03-12,Albert Burger,DE,11,Giant Slalom
 1976-03-12,Steve Mahre,US,28,Slalom
-1976-03-12,Thomas Hauser,AT,27,Giant Slalom
-1976-03-12,Diego Amplatz,IT,12,Slalom
-1976-03-12,Peter Luescher,CH,31,Combined
-1976-03-12,Steve Podborski,CA,10,Combined
+1976-03-12,Klaus Eberhard,AT,41,Downhill
+1976-03-12,Bernard Russi,CH,72,Downhill
 1976-03-12,Arnold Senoner,IT,6,Giant Slalom
+1976-03-12,Albert Burger,DE,11,Giant Slalom
+1976-03-12,Diego Amplatz,IT,12,Slalom
+1976-03-12,Bruno Noeckler,IT,13,Slalom
+1976-03-12,Peter Fischer,DE,4,Combined
+1976-03-12,Thomas Hauser,AT,27,Giant Slalom
+1976-03-12,Philippe Roux,CH,71,Downhill
+1976-03-12,Michael Veith,DE,20,Downhill
+1976-03-12,Pete Patterson,US,8,Combined
+1976-03-12,Steve Podborski,CA,10,Combined
+1976-03-12,Peter Luescher,CH,31,Combined
+1976-03-12,Sepp Oberfrank,IT,2,Slalom
+1976-03-12,Philippe Barroso,FR,2,Giant Slalom
+1976-03-12,Wolfgang Junginger,DE,9,Slalom
+1976-03-12,Hansi Hinterseer,AT,98,Slalom
+1976-03-14,Andy Mill,US,2,Combined
+1976-03-14,Walter Vesti,CH,1,Downhill
+1976-03-14,Philippe Hardy,FR,1,Slalom
+1976-03-14,Franz Klammer,AT,181,Downhill
 1976-03-14,Francisco Fernandez Ochoa,ES,1,Combined
+1976-03-14,Gustav Thoeni,IT,170,Giant Slalom
 1976-03-14,Martin Berthod,CH,1,Downhill
-1976-03-14,Ken Read,CA,34,Downhill
 1976-03-14,Jan Bachleda,PL,3,Slalom
 1976-03-14,Miroslav Sochor,SK,2,Giant Slalom
-1976-03-14,Andy Mill,US,2,Combined
-1976-03-14,Philippe Hardy,FR,1,Slalom
-1976-03-14,Gustav Thoeni,IT,190,Giant Slalom
-1976-03-14,Franz Klammer,AT,181,Downhill
-1976-03-14,Walter Vesti,CH,1,Downhill
+1976-03-14,Ken Read,CA,34,Downhill
 1976-03-14,Peter Schwendener,CH,1,Slalom
 1976-03-14,Christian Neureuther,DE,30,Slalom
 1976-03-14,Herbert Plank,IT,77,Downhill
 1976-03-14,Piero Gros,IT,189,Slalom
-1976-03-14,Diego Amplatz,IT,12,Slalom
 1976-03-14,Sepp Ferstl,DE,11,Combined
-1976-03-14,Bartl Gensbichler,AT,3,Combined
+1976-03-14,Diego Amplatz,IT,12,Slalom
 1976-03-14,Greg Jones,US,33,Giant Slalom
+1976-03-14,Bartl Gensbichler,AT,3,Combined
+1976-03-14,Phil Mahre,US,55,Giant Slalom
 1976-03-14,Fausto Radici,IT,55,Slalom
 1976-03-14,Bogumir Zeman,SK,7,Combined
 1976-03-14,Erik Haaker,NO,35,Downhill
 1976-03-14,Michael Veith,DE,20,Downhill
 1976-03-14,Sigbert Prestl,DE,3,Combined
 1976-03-14,Philippe Roux,CH,71,Downhill
+1976-03-14,Willi Frommelt,LI,3,Slalom
 1976-03-14,Patrice Pellat Finet,FR,7,Downhill
-1976-03-14,Alois Morgenstern,AT,13,Slalom
 1976-03-14,Peter Fischer,DE,4,Combined
 1976-03-14,Klaus Eberhard,AT,41,Downhill
 1976-03-14,Erwin Stricker,IT,12,Combined
 1976-03-14,Wolfgang Junginger,DE,13,Slalom
 1976-03-14,Cary Adgate,US,10,Slalom
 1976-03-14,Klaus Heidegger,AT,4,Giant Slalom
-1976-03-14,Walter Tresch,CH,98,Combined
+1976-03-14,Walter Tresch,CH,73,Combined
 1976-03-14,Bernard Russi,CH,72,Downhill
 1976-03-14,Pete Patterson,US,8,Combined
 1976-03-14,Franco Bieler,IT,63,Giant Slalom
 1976-03-14,Albert Burger,DE,11,Giant Slalom
 1976-03-14,Masami Ichimura,JP,4,Slalom
-1976-03-14,Willi Frommelt,LI,3,Slalom
-1976-03-14,Jim Hunter,CA,56,Combined
+1976-03-14,Alois Morgenstern,AT,13,Slalom
 1976-03-14,Odd Sorli,NO,11,Slalom
-1976-03-14,Steve Podborski,CA,10,Combined
+1976-03-14,Bruno Noeckler,IT,13,Slalom
+1976-03-14,Werner Grissmann,AT,39,Downhill
 1976-03-14,Ingemar Stenmark,SE,241,Slalom
 1976-03-14,Paolo De Chiesa,IT,11,Slalom
 1976-03-14,Anton Steiner,AT,50,Combined
 1976-03-14,Karl Cordin,AT,7,Downhill
-1976-03-14,Engelhard Pargaetzi,CH,67,Giant Slalom
-1976-03-14,Rene Berthod,CH,22,Downhill
-1976-03-14,Hans Enn,AT,2,Downhill
+1976-03-14,Jim Hunter,CA,28,Downhill
 1976-03-14,Josef Walcher,AT,20,Downhill
+1976-03-14,Hans Enn,AT,2,Downhill
+1976-03-14,Engelhard Pargaetzi,CH,67,Giant Slalom
 1976-03-14,Arnold Senoner,IT,6,Giant Slalom
 1976-03-14,Ernst Winkler,AT,24,Downhill
 1976-03-14,Paul Frommelt,LI,2,Slalom
-1976-03-14,Thomas Hauser,AT,35,Giant Slalom
-1976-03-14,Phil Mahre,US,55,Giant Slalom
-1976-03-14,Dave Irwin,CA,47,Downhill
+1976-03-14,Steve Podborski,CA,10,Combined
 1976-03-14,Sepp Oberfrank,IT,2,Slalom
-1976-03-14,Heini Hemmi,CH,16,Giant Slalom
-1976-03-14,Werner Grissmann,AT,39,Downhill
-1976-03-14,Hansi Hinterseer,AT,98,Slalom
-1976-03-14,Philippe Barroso,FR,2,Giant Slalom
-1976-03-14,Dave Murray,CA,16,Downhill
+1976-03-14,Thomas Hauser,AT,35,Giant Slalom
 1976-03-14,Stig Strand,SE,2,Slalom
-1976-03-14,Bruno Noeckler,IT,13,Slalom
 1976-03-14,Steve Mahre,US,28,Slalom
+1976-03-14,Hansi Hinterseer,AT,98,Slalom
 1976-03-14,Ernst Good,CH,44,Giant Slalom
+1976-03-14,Rene Berthod,CH,22,Downhill
 1976-03-14,Peter Luescher,CH,31,Combined
-1976-03-18,Klaus Eberhard,AT,41,Downhill
-1976-03-18,Ernst Good,CH,59,Giant Slalom
-1976-03-18,Philippe Roux,CH,71,Downhill
-1976-03-18,Bruno Noeckler,IT,13,Slalom
-1976-03-18,Sepp Ferstl,DE,11,Combined
+1976-03-14,Dave Irwin,CA,47,Downhill
+1976-03-14,Heini Hemmi,CH,16,Giant Slalom
+1976-03-14,Dave Murray,CA,16,Downhill
+1976-03-14,Philippe Barroso,FR,2,Giant Slalom
 1976-03-18,Steve Podborski,CA,10,Combined
+1976-03-18,Bruno Noeckler,IT,13,Slalom
+1976-03-18,Ernst Good,CH,59,Giant Slalom
 1976-03-18,Alois Morgenstern,AT,13,Slalom
+1976-03-18,Philippe Roux,CH,71,Downhill
 1976-03-18,Philippe Hardy,FR,1,Slalom
+1976-03-18,Klaus Eberhard,AT,41,Downhill
+1976-03-18,Sepp Ferstl,DE,11,Combined
 1976-03-18,Engelhard Pargaetzi,CH,67,Giant Slalom
 1976-03-18,Albert Burger,DE,12,Giant Slalom
 1976-03-18,Christian Neureuther,DE,30,Slalom
 1976-03-18,Anton Steiner,AT,50,Combined
-1976-03-18,Rene Berthod,CH,22,Downhill
 1976-03-18,Josef Walcher,AT,20,Downhill
+1976-03-18,Jim Hunter,CA,30,Downhill
 1976-03-18,Ernst Winkler,AT,24,Downhill
 1976-03-18,Thomas Hauser,AT,41,Giant Slalom
-1976-03-18,Steve Mahre,US,28,Slalom
+1976-03-18,Rene Berthod,CH,22,Downhill
 1976-03-18,Peter Luescher,CH,31,Combined
 1976-03-18,Martin Berthod,CH,1,Downhill
-1976-03-18,Phil Mahre,US,55,Giant Slalom
+1976-03-18,Steve Mahre,US,28,Slalom
 1976-03-18,Werner Grissmann,AT,39,Downhill
 1976-03-18,Odd Sorli,NO,11,Slalom
+1976-03-18,Phil Mahre,US,55,Giant Slalom
 1976-03-18,Diego Amplatz,IT,12,Slalom
-1976-03-18,Jim Hunter,CA,58,Combined
 1976-03-18,Erik Haaker,NO,35,Downhill
 1976-03-18,Michael Veith,DE,20,Downhill
-1976-03-18,Gustav Thoeni,IT,190,Giant Slalom
+1976-03-18,Gustav Thoeni,IT,170,Giant Slalom
 1976-03-18,Erwin Stricker,IT,15,Combined
 1976-03-18,Walter Vesti,CH,1,Downhill
 1976-03-18,Francisco Fernandez Ochoa,ES,1,Combined
@@ -1644,64 +1644,65 @@ date,name,ath_country,value,specialty
 1976-03-18,Ken Read,CA,34,Downhill
 1976-03-18,Arnold Senoner,IT,6,Giant Slalom
 1976-03-18,Paolo De Chiesa,IT,11,Slalom
-1976-03-18,Philippe Barroso,FR,2,Giant Slalom
-1976-03-18,Miroslav Sochor,SK,2,Giant Slalom
-1976-03-18,Hansi Hinterseer,AT,98,Slalom
-1976-03-18,Stig Strand,SE,2,Slalom
-1976-03-18,Masami Ichimura,JP,4,Slalom
-1976-03-18,Bartl Gensbichler,AT,3,Combined
-1976-03-18,Wolfgang Junginger,DE,13,Slalom
-1976-03-18,Franco Bieler,IT,63,Giant Slalom
-1976-03-18,Herbert Plank,IT,77,Downhill
 1976-03-18,Dave Irwin,CA,47,Downhill
+1976-03-18,Franco Bieler,IT,63,Giant Slalom
+1976-03-18,Wolfgang Junginger,DE,13,Slalom
+1976-03-18,Masami Ichimura,JP,4,Slalom
+1976-03-18,Stig Strand,SE,2,Slalom
+1976-03-18,Miroslav Sochor,SK,2,Giant Slalom
+1976-03-18,Walter Tresch,CH,73,Combined
+1976-03-18,Klaus Heidegger,AT,4,Giant Slalom
+1976-03-18,Philippe Barroso,FR,2,Giant Slalom
+1976-03-18,Hansi Hinterseer,AT,98,Slalom
+1976-03-18,Herbert Plank,IT,77,Downhill
+1976-03-18,Peter Fischer,DE,4,Combined
+1976-03-18,Sigbert Prestl,DE,3,Combined
+1976-03-18,Franz Klammer,AT,181,Downhill
+1976-03-18,Willi Frommelt,LI,3,Slalom
+1976-03-18,Andy Mill,US,2,Combined
+1976-03-18,Fausto Radici,IT,55,Slalom
 1976-03-18,Greg Jones,US,44,Giant Slalom
 1976-03-18,Sepp Oberfrank,IT,2,Slalom
-1976-03-18,Patrice Pellat Finet,FR,7,Downhill
-1976-03-18,Klaus Heidegger,AT,4,Giant Slalom
-1976-03-18,Bogumir Zeman,SK,7,Combined
-1976-03-18,Peter Fischer,DE,4,Combined
-1976-03-18,Willi Frommelt,LI,3,Slalom
-1976-03-18,Fausto Radici,IT,55,Slalom
-1976-03-18,Karl Cordin,AT,7,Downhill
-1976-03-18,Hans Enn,AT,2,Downhill
+1976-03-18,Bartl Gensbichler,AT,3,Combined
 1976-03-18,Peter Schwendener,CH,1,Slalom
-1976-03-18,Paul Frommelt,LI,2,Slalom
-1976-03-18,Franz Klammer,AT,181,Downhill
-1976-03-18,Walter Tresch,CH,98,Combined
+1976-03-18,Patrice Pellat Finet,FR,7,Downhill
 1976-03-18,Dave Murray,CA,16,Downhill
-1976-03-18,Sigbert Prestl,DE,3,Combined
 1976-03-18,Ingemar Stenmark,SE,249,Slalom
-1976-03-18,Andy Mill,US,2,Combined
 1976-03-18,Heini Hemmi,CH,41,Giant Slalom
+1976-03-18,Hans Enn,AT,2,Downhill
+1976-03-18,Karl Cordin,AT,7,Downhill
 1976-03-18,Jan Bachleda,PL,3,Slalom
-1976-03-20,Andy Mill,US,2,Combined
-1976-03-20,Odd Sorli,NO,11,Slalom
-1976-03-20,Fausto Radici,IT,66,Slalom
-1976-03-20,Hansi Hinterseer,AT,98,Slalom
-1976-03-20,Willi Frommelt,LI,3,Slalom
-1976-03-20,Bartl Gensbichler,AT,3,Combined
-1976-03-20,Werner Grissmann,AT,39,Downhill
-1976-03-20,Stig Strand,SE,2,Slalom
-1976-03-20,Phil Mahre,US,55,Giant Slalom
+1976-03-18,Paul Frommelt,LI,2,Slalom
+1976-03-18,Bogumir Zeman,SK,7,Combined
 1976-03-20,Ingemar Stenmark,SE,269,Slalom
-1976-03-20,Hans Enn,AT,2,Downhill
+1976-03-20,Fausto Radici,IT,66,Slalom
+1976-03-20,Phil Mahre,US,55,Giant Slalom
+1976-03-20,Werner Grissmann,AT,39,Downhill
 1976-03-20,Anton Steiner,AT,50,Combined
+1976-03-20,Willi Frommelt,LI,3,Slalom
 1976-03-20,Christian Neureuther,DE,34,Slalom
-1976-03-20,Rene Berthod,CH,22,Downhill
+1976-03-20,Odd Sorli,NO,11,Slalom
+1976-03-20,Andy Mill,US,2,Combined
+1976-03-20,Hans Enn,AT,2,Downhill
+1976-03-20,Jim Hunter,CA,45,Downhill
 1976-03-20,Jan Bachleda,PL,3,Slalom
-1976-03-20,Paul Frommelt,LI,2,Slalom
-1976-03-20,Josef Walcher,AT,20,Downhill
-1976-03-20,Sepp Oberfrank,IT,2,Slalom
-1976-03-20,Ernst Winkler,AT,24,Downhill
 1976-03-20,Steve Mahre,US,28,Slalom
-1976-03-20,Dave Irwin,CA,47,Downhill
-1976-03-20,Thomas Hauser,AT,41,Giant Slalom
-1976-03-20,Peter Luescher,CH,34,Combined
-1976-03-20,Philippe Barroso,FR,2,Giant Slalom
 1976-03-20,Martin Berthod,CH,1,Downhill
-1976-03-20,Diego Amplatz,IT,12,Slalom
+1976-03-20,Philippe Barroso,FR,2,Giant Slalom
+1976-03-20,Josef Walcher,AT,20,Downhill
+1976-03-20,Gustav Thoeni,IT,176,Giant Slalom
+1976-03-20,Paul Frommelt,LI,2,Slalom
+1976-03-20,Peter Luescher,CH,34,Combined
+1976-03-20,Thomas Hauser,AT,41,Giant Slalom
+1976-03-20,Bartl Gensbichler,AT,3,Combined
+1976-03-20,Dave Irwin,CA,47,Downhill
+1976-03-20,Sepp Oberfrank,IT,2,Slalom
+1976-03-20,Rene Berthod,CH,22,Downhill
+1976-03-20,Ernst Winkler,AT,24,Downhill
+1976-03-20,Hansi Hinterseer,AT,98,Slalom
+1976-03-20,Stig Strand,SE,2,Slalom
 1976-03-20,Michael Veith,DE,20,Downhill
-1976-03-20,Gustav Thoeni,IT,196,Giant Slalom
+1976-03-20,Engelhard Pargaetzi,CH,69,Giant Slalom
 1976-03-20,Klaus Eberhard,AT,41,Downhill
 1976-03-20,Patrice Pellat Finet,FR,7,Downhill
 1976-03-20,Philippe Hardy,FR,1,Slalom
@@ -1719,10 +1720,9 @@ date,name,ath_country,value,specialty
 1976-03-20,Arnold Senoner,IT,6,Giant Slalom
 1976-03-20,Paolo De Chiesa,IT,11,Slalom
 1976-03-20,Dave Murray,CA,16,Downhill
+1976-03-20,Diego Amplatz,IT,12,Slalom
 1976-03-20,Wolfgang Junginger,DE,13,Slalom
-1976-03-20,Franco Bieler,IT,88,Giant Slalom
 1976-03-20,Albert Burger,DE,12,Giant Slalom
-1976-03-20,Jim Hunter,CA,73,Combined
 1976-03-20,Erik Haaker,NO,35,Downhill
 1976-03-20,Sigbert Prestl,DE,3,Combined
 1976-03-20,Franz Klammer,AT,181,Downhill
@@ -1730,8 +1730,8 @@ date,name,ath_country,value,specialty
 1976-03-20,Peter Fischer,DE,4,Combined
 1976-03-20,Francisco Fernandez Ochoa,ES,1,Combined
 1976-03-20,Herbert Plank,IT,77,Downhill
+1976-03-20,Franco Bieler,IT,88,Giant Slalom
 1976-03-20,Erwin Stricker,IT,15,Combined
-1976-03-20,Walter Tresch,CH,106,Combined
 1976-03-20,Klaus Heidegger,AT,4,Giant Slalom
 1976-03-20,Bernard Russi,CH,72,Downhill
 1976-03-20,Cary Adgate,US,14,Slalom
@@ -1739,5 +1739,5 @@ date,name,ath_country,value,specialty
 1976-03-20,Pete Patterson,US,8,Combined
 1976-03-20,Miroslav Sochor,SK,2,Giant Slalom
 1976-03-20,Piero Gros,IT,209,Slalom
-1976-03-20,Engelhard Pargaetzi,CH,69,Giant Slalom
+1976-03-20,Walter Tresch,CH,81,Combined
 1976-03-20,Walter Vesti,CH,1,Downhill

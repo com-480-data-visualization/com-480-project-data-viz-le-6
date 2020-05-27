@@ -1,18 +1,21 @@
 date,name,ath_country,value,specialty
 2008-12-19,Anja Paerson,SE,100,Super G
+2008-12-19,Carolina Ruiz Castillo,ES,0,Downhill
+2008-12-19,Sanni Leinonen,FI,2,Slalom
+2008-12-19,Kaylin L Richardson,US,0,Combined
 2008-12-19,Marion Rolland,FR,3,Downhill
 2008-12-19,Karoline Trojer,IT,0,Combined
 2008-12-19,Chelsea Marshall,US,1,Downhill
 2008-12-19,Larisa Yurkiw,CA,5,Downhill
 2008-12-19,Stacey J Cook,US,0,Combined
 2008-12-19,Susanne Riesch,DE,6,Slalom
-2008-12-19,Leanne Smith,US,0,Super G
 2008-12-19,Nike Bent,SE,8,Combined
 2008-12-19,Fraenzi Aufdenblatten,CH,0,Super G
 2008-12-19,Vanja Brodnik,SK,9,Combined
-2008-12-19,Sandrine Aubert,FR,0,Slalom
-2008-12-19,Kaylin L Richardson,US,0,Combined
+2008-12-19,Nadia Fanchini,IT,0,Super G
+2008-12-19,Margret Altacher,AT,7,Combined
 2008-12-19,Marusa Ferk,SK,11,Slalom
+2008-12-19,Julia Mancuso,US,0,Giant Slalom
 2008-12-19,Eva-Maria Brem,AT,12,Giant Slalom
 2008-12-19,Kajsa Kling,SE,0,Combined
 2008-12-19,Denise Feierabend,CH,13,Slalom
@@ -23,11 +26,10 @@ date,name,ath_country,value,specialty
 2008-12-19,Dominique Gisin,CH,0,Downhill
 2008-12-19,Andrea Fischbacher,AT,0,Downhill
 2008-12-19,Stefanie Koehle,AT,18,Giant Slalom
+2008-12-19,Sandrine Aubert,FR,0,Slalom
 2008-12-19,Ingrid Jacquemod,FR,4,Super G
-2008-12-19,Julia Mancuso,US,0,Giant Slalom
-2008-12-19,Frida Hansdotter,SE,20,Slalom
-2008-12-19,Sanni Leinonen,FI,2,Slalom
-2008-12-19,Nadia Fanchini,IT,0,Super G
+2008-12-19,Tessa Worley,FR,0,Giant Slalom
+2008-12-19,Keely Blair Kelleher,US,0,Super G
 2008-12-19,Stefanie Moser,AT,0,Combined
 2008-12-19,Marine Gauthier,FR,0,Downhill
 2008-12-19,Megan McJames,US,0,Giant Slalom
@@ -39,9 +41,9 @@ date,name,ath_country,value,specialty
 2008-12-19,Isabelle Stiepel,DE,0,Combined
 2008-12-19,Camilla Alfieri,IT,0,Giant Slalom
 2008-12-19,Caroline Lalive,US,0,Combined
-2008-12-19,Carolina Ruiz Castillo,ES,0,Downhill
 2008-12-19,Britt Janyk,CA,0,Super G
-2008-12-19,Dana Markova,CZ,0,Combined
+2008-12-19,Aurelie Revillet,FR,0,Downhill
+2008-12-19,Nadia Styger,CH,0,Super G
 2008-12-19,Edith Miklos,RO,0,Super G
 2008-12-19,Marion Pellissier,FR,0,Combined
 2008-12-19,Wendy Siorpaes,IT,0,Downhill
@@ -52,153 +54,185 @@ date,name,ath_country,value,specialty
 2008-12-19,Emilie Desforges,CA,0,Combined
 2008-12-19,Petra Robnik,SK,0,Combined
 2008-12-19,Lucie Hrstkova,CZ,0,Combined
-2008-12-19,Nadia Styger,CH,0,Super G
+2008-12-19,Simone Streng,AT,0,Slalom
+2008-12-19,Macarena Simari-Birkner,AR,0,Combined
+2008-12-19,Dana Markova,CZ,0,Combined
+2008-12-19,Frida Hansdotter,SE,20,Slalom
+2008-12-19,Leanne Smith,US,0,Super G
 2008-12-19,Chemmy Alcott,GB,0,Giant Slalom
-2008-12-19,Margret Altacher,AT,7,Combined
-2008-12-19,Kathrin Zettel,AT,22,Giant Slalom
-2008-12-19,Sarka Strachova Zahrobska,CZ,40,Slalom
-2008-12-19,Johanna Schnarf,IT,15,Combined
-2008-12-19,Nadja Kamer,CH,0,Super G
-2008-12-19,Elisabeth Goergl,AT,36,Giant Slalom
-2008-12-19,Lara Gut,CH,45,Giant Slalom
+2008-12-19,Daniela Merighetti,IT,26,Downhill
+2008-12-19,Andrea Dettling,CH,0,Super G
 2008-12-19,Marie Marchand-Arvier,FR,24,Downhill
-2008-12-19,Rabea Grand,CH,10,Combined
+2008-12-19,Johanna Schnarf,IT,15,Combined
+2008-12-19,Anna Veith Fenninger,AT,32,Super G
+2008-12-19,Elisabeth Goergl,AT,36,Giant Slalom
+2008-12-19,Emily Brydon,CA,29,Downhill
+2008-12-19,Lara Gut,CH,45,Giant Slalom
 2008-12-19,Michaela Kirchgasser,AT,0,Giant Slalom
 2008-12-19,Fabienne Suter,CH,60,Super G
-2008-12-19,Andrea Dettling,CH,0,Super G
-2008-12-19,Daniela Merighetti,IT,26,Downhill
+2008-12-19,Kathrin Zettel,AT,22,Giant Slalom
 2008-12-19,Nicole Hosp,AT,80,Slalom
-2008-12-19,Emily Brydon,CA,29,Downhill
 2008-12-19,Maria Riesch Hoefl,DE,50,Slalom
-2008-12-19,Anna Veith Fenninger,AT,32,Super G
-2008-12-19,Tina Maze,SK,0,Giant Slalom
 2008-12-19,Lindsey Vonn,US,0,Downhill
+2008-12-19,Rabea Grand,CH,10,Combined
+2008-12-19,Tina Maze,SK,0,Giant Slalom
+2008-12-19,Sarka Strachova Zahrobska,CZ,40,Slalom
+2008-12-19,Nadja Kamer,CH,0,Super G
+2009-01-17,Jessica Lindell-Vikarby,SE,16,Super G
+2009-01-17,Alexandra Coletti,MC,0,Combined
+2009-01-17,Camilla Borsotti,IT,0,Combined
+2009-01-17,Emilie Desforges,CA,0,Combined
+2009-01-17,Stefanie Koehle,AT,32,Giant Slalom
+2009-01-17,Petra Robnik,SK,0,Combined
 2009-01-17,Rabea Grand,CH,10,Combined
 2009-01-17,Lucie Hrstkova,CZ,0,Combined
-2009-01-17,Anja Paerson,SE,160,Super G
-2009-01-17,Nadia Fanchini,IT,1,Super G
+2009-01-17,Simone Streng,AT,0,Slalom
+2009-01-17,Macarena Simari-Birkner,AR,0,Combined
 2009-01-17,Lara Gut,CH,45,Giant Slalom
+2009-01-17,Mateja Robnik,SK,16,Giant Slalom
+2009-01-17,Elisabeth Goergl,AT,81,Giant Slalom
+2009-01-17,Aurelie Revillet,FR,0,Downhill
+2009-01-17,Andrea Fischbacher,AT,18,Downhill
+2009-01-17,Tessa Worley,FR,0,Giant Slalom
+2009-01-17,Chemmy Alcott,GB,0,Giant Slalom
+2009-01-17,Nadia Fanchini,IT,1,Super G
+2009-01-17,Sarka Strachova Zahrobska,CZ,55,Slalom
 2009-01-17,Carolina Ruiz Castillo,ES,2,Downhill
 2009-01-17,Sanni Leinonen,FI,2,Slalom
-2009-01-17,Elisabeth Goergl,AT,81,Giant Slalom
 2009-01-17,Kaylin L Richardson,US,0,Combined
-2009-01-17,Stefanie Moser,AT,0,Combined
-2009-01-17,Tessa Worley,FR,0,Giant Slalom
-2009-01-17,Karoline Trojer,IT,0,Combined
-2009-01-17,Keely Blair Kelleher,US,0,Super G
-2009-01-17,Macarena Simari-Birkner,AR,0,Combined
-2009-01-17,Sarka Strachova Zahrobska,CZ,55,Slalom
-2009-01-17,Chelsea Marshall,US,6,Downhill
 2009-01-17,Anna Veith Fenninger,AT,72,Super G
-2009-01-17,Stacey J Cook,US,6,Combined
-2009-01-17,Petra Robnik,SK,0,Combined
+2009-01-17,Nadja Kamer,CH,0,Super G
+2009-01-17,Giulia Gianesini,IT,0,Giant Slalom
+2009-01-17,Michaela Kirchgasser,AT,50,Giant Slalom
+2009-01-17,Jessica Puenchera,CH,0,Combined
+2009-01-17,Anja Paerson,SE,160,Super G
 2009-01-17,Marine Gauthier,FR,0,Downhill
-2009-01-17,Enrica Cipriani,IT,0,Super G
-2009-01-17,Alexandra Coletti,MC,0,Combined
+2009-01-17,Megan McJames,US,0,Giant Slalom
+2009-01-17,Lindsey Vonn,US,100,Downhill
+2009-01-17,Anne-Sophie Koehn,CH,0,Combined
+2009-01-17,Helena Prosteva,RU,0,Combined
+2009-01-17,Frida Hansdotter,SE,21,Slalom
 2009-01-17,Christina Staudinger,AT,0,Combined
+2009-01-17,Margot Bailet,FR,0,Combined
+2009-01-17,Enrica Cipriani,IT,0,Super G
 2009-01-17,Maria Riesch Hoefl,DE,50,Slalom
+2009-01-17,Marion Rolland,FR,3,Downhill
 2009-01-17,Isabelle Stiepel,DE,0,Combined
 2009-01-17,Camilla Alfieri,IT,0,Giant Slalom
 2009-01-17,Nicole Hosp,AT,80,Slalom
-2009-01-17,Helena Prosteva,RU,0,Combined
 2009-01-17,Caroline Lalive,US,0,Combined
 2009-01-17,Britt Janyk,CA,0,Super G
-2009-01-17,Margot Bailet,FR,0,Combined
 2009-01-17,Kathrin Zettel,AT,102,Giant Slalom
-2009-01-17,Anne-Sophie Koehn,CH,0,Combined
-2009-01-17,Susanne Riesch,DE,6,Slalom
-2009-01-17,Lindsey Vonn,US,100,Downhill
+2009-01-17,Nadia Styger,CH,0,Super G
+2009-01-17,Dana Markova,CZ,0,Combined
+2009-01-17,Edith Miklos,RO,0,Super G
+2009-01-17,Marion Pellissier,FR,0,Combined
 2009-01-17,Fabienne Suter,CH,84,Super G
 2009-01-17,Wendy Siorpaes,IT,0,Downhill
-2009-01-17,Michaela Kirchgasser,AT,50,Giant Slalom
-2009-01-17,Giulia Gianesini,IT,0,Giant Slalom
-2009-01-17,Megan McJames,US,0,Giant Slalom
-2009-01-17,Nadia Styger,CH,0,Super G
-2009-01-17,Nadja Kamer,CH,0,Super G
-2009-01-17,Marion Rolland,FR,3,Downhill
-2009-01-17,Gina Stechert,DE,4,Downhill
-2009-01-17,Julia Mancuso,US,0,Giant Slalom
-2009-01-17,Marusa Ferk,SK,11,Slalom
-2009-01-17,Eva-Maria Brem,AT,24,Giant Slalom
-2009-01-17,Mateja Robnik,SK,16,Giant Slalom
-2009-01-17,Sandrine Aubert,FR,11,Slalom
-2009-01-17,Andrea Fischbacher,AT,18,Downhill
-2009-01-17,Daniela Merighetti,IT,58,Downhill
-2009-01-17,Jessica Lindell-Vikarby,SE,16,Super G
-2009-01-17,Marie Marchand-Arvier,FR,60,Downhill
-2009-01-17,Stefanie Koehle,AT,32,Giant Slalom
-2009-01-17,Margret Altacher,AT,17,Combined
-2009-01-17,Simone Streng,AT,0,Slalom
-2009-01-17,Tina Maze,SK,26,Giant Slalom
-2009-01-17,Emily Brydon,CA,58,Downhill
-2009-01-17,Johanna Schnarf,IT,23,Combined
-2009-01-17,Andrea Dettling,CH,22,Super G
-2009-01-17,Leanne Smith,US,7,Super G
-2009-01-17,Denise Feierabend,CH,13,Slalom
-2009-01-17,Nike Bent,SE,8,Combined
-2009-01-17,Vanja Brodnik,SK,9,Combined
-2009-01-17,Regina Mader Sterz,AT,17,Super G
-2009-01-17,Chemmy Alcott,GB,0,Giant Slalom
-2009-01-17,Frida Hansdotter,SE,21,Slalom
-2009-01-17,Fraenzi Aufdenblatten,CH,9,Super G
 2009-01-17,Ingrid Jacquemod,FR,24,Super G
+2009-01-17,Karoline Trojer,IT,0,Combined
+2009-01-17,Keely Blair Kelleher,US,0,Super G
+2009-01-17,Daniela Merighetti,IT,58,Downhill
+2009-01-17,Vanja Brodnik,SK,9,Combined
+2009-01-17,Eva-Maria Brem,AT,24,Giant Slalom
+2009-01-17,Denise Feierabend,CH,13,Slalom
+2009-01-17,Marusa Ferk,SK,11,Slalom
+2009-01-17,Nike Bent,SE,8,Combined
+2009-01-17,Emily Brydon,CA,58,Downhill
+2009-01-17,Leanne Smith,US,7,Super G
+2009-01-17,Stefanie Moser,AT,0,Combined
+2009-01-17,Marie Marchand-Arvier,FR,60,Downhill
+2009-01-17,Kajsa Kling,SE,0,Combined
+2009-01-17,Andrea Dettling,CH,22,Super G
+2009-01-17,Margret Altacher,AT,17,Combined
+2009-01-17,Susanne Riesch,DE,6,Slalom
+2009-01-17,Gina Stechert,DE,4,Downhill
+2009-01-17,Fraenzi Aufdenblatten,CH,9,Super G
+2009-01-17,Johanna Schnarf,IT,23,Combined
 2009-01-17,Dominique Gisin,CH,13,Downhill
-2009-02-20,Jessica Lindell-Vikarby,SE,16,Super G
+2009-01-17,Larisa Yurkiw,CA,5,Downhill
+2009-01-17,Regina Mader Sterz,AT,17,Super G
+2009-01-17,Tina Maze,SK,26,Giant Slalom
+2009-01-17,Stacey J Cook,US,6,Combined
+2009-01-17,Chelsea Marshall,US,6,Downhill
+2009-01-17,Sandrine Aubert,FR,11,Slalom
+2009-01-17,Julia Mancuso,US,0,Giant Slalom
+2009-02-20,Daniela Merighetti,IT,74,Downhill
+2009-02-20,Edith Miklos,RO,0,Super G
+2009-02-20,Caroline Lalive,US,0,Combined
+2009-02-20,Chemmy Alcott,GB,22,Giant Slalom
+2009-02-20,Nadja Kamer,CH,26,Super G
+2009-02-20,Dana Markova,CZ,0,Combined
+2009-02-20,Eva-Maria Brem,AT,24,Giant Slalom
+2009-02-20,Julia Mancuso,US,12,Giant Slalom
+2009-02-20,Nadia Styger,CH,0,Super G
+2009-02-20,Kathrin Zettel,AT,162,Giant Slalom
 2009-02-20,Nicole Hosp,AT,80,Slalom
 2009-02-20,Britt Janyk,CA,0,Super G
-2009-02-20,Daniela Merighetti,IT,74,Downhill
-2009-02-20,Gina Stechert,DE,18,Downhill
-2009-02-20,Mateja Robnik,SK,22,Giant Slalom
-2009-02-20,Caroline Lalive,US,0,Combined
-2009-02-20,Leanne Smith,US,7,Super G
-2009-02-20,Maria Riesch Hoefl,DE,150,Slalom
-2009-02-20,Emily Brydon,CA,69,Downhill
-2009-02-20,Andrea Fischbacher,AT,27,Downhill
-2009-02-20,Stefanie Koehle,AT,33,Giant Slalom
-2009-02-20,Megan McJames,US,0,Giant Slalom
-2009-02-20,Anja Paerson,SE,205,Super G
-2009-02-20,Marine Gauthier,FR,0,Downhill
+2009-02-20,Anna Veith Fenninger,AT,101,Super G
 2009-02-20,Tina Maze,SK,26,Giant Slalom
-2009-02-20,Stefanie Moser,AT,0,Combined
-2009-02-20,Tessa Worley,FR,0,Giant Slalom
-2009-02-20,Nadja Kamer,CH,26,Super G
-2009-02-20,Chemmy Alcott,GB,22,Giant Slalom
-2009-02-20,Macarena Simari-Birkner,AR,0,Combined
-2009-02-20,Dominique Gisin,CH,31,Downhill
+2009-02-20,Mateja Robnik,SK,22,Giant Slalom
+2009-02-20,Marine Gauthier,FR,0,Downhill
+2009-02-20,Jessica Lindell-Vikarby,SE,16,Super G
+2009-02-20,Anja Paerson,SE,205,Super G
+2009-02-20,Megan McJames,US,0,Giant Slalom
+2009-02-20,Anne-Sophie Koehn,CH,0,Combined
+2009-02-20,Regina Mader Sterz,AT,17,Super G
 2009-02-20,Lindsey Vonn,US,180,Downhill
+2009-02-20,Camilla Alfieri,IT,0,Giant Slalom
+2009-02-20,Helena Prosteva,RU,0,Combined
+2009-02-20,Christina Staudinger,AT,0,Combined
+2009-02-20,Emily Brydon,CA,69,Downhill
+2009-02-20,Maria Riesch Hoefl,DE,150,Slalom
+2009-02-20,Margot Bailet,FR,0,Combined
+2009-02-20,Frida Hansdotter,SE,21,Slalom
+2009-02-20,Denise Feierabend,CH,13,Slalom
+2009-02-20,Isabelle Stiepel,DE,0,Combined
 2009-02-20,Kajsa Kling,SE,13,Combined
-2009-02-20,Kathrin Zettel,AT,162,Giant Slalom
+2009-02-20,Gina Stechert,DE,18,Downhill
+2009-02-20,Enrica Cipriani,IT,0,Super G
+2009-02-20,Sandrine Aubert,FR,21,Slalom
+2009-02-20,Marion Pellissier,FR,0,Combined
+2009-02-20,Nike Bent,SE,8,Combined
+2009-02-20,Keely Blair Kelleher,US,0,Super G
+2009-02-20,Aurelie Revillet,FR,0,Downhill
+2009-02-20,Leanne Smith,US,7,Super G
+2009-02-20,Tessa Worley,FR,0,Giant Slalom
+2009-02-20,Susanne Riesch,DE,10,Slalom
+2009-02-20,Elisabeth Goergl,AT,113,Giant Slalom
+2009-02-20,Nadia Fanchini,IT,1,Super G
+2009-02-20,Macarena Simari-Birkner,AR,0,Combined
 2009-02-20,Carolina Ruiz Castillo,ES,2,Downhill
 2009-02-20,Sanni Leinonen,FI,2,Slalom
-2009-02-20,Margret Altacher,AT,19,Combined
-2009-02-20,Vanja Brodnik,SK,9,Combined
-2009-02-20,Kaylin L Richardson,US,3,Combined
-2009-02-20,Elisabeth Goergl,AT,113,Giant Slalom
-2009-02-20,Lara Gut,CH,52,Giant Slalom
-2009-02-20,Fraenzi Aufdenblatten,CH,17,Super G
-2009-02-20,Karoline Trojer,IT,5,Combined
-2009-02-20,Chelsea Marshall,US,6,Downhill
-2009-02-20,Nike Bent,SE,8,Combined
-2009-02-20,Larisa Yurkiw,CA,5,Downhill
 2009-02-20,Sarka Strachova Zahrobska,CZ,70,Slalom
-2009-02-20,Anna Veith Fenninger,AT,101,Super G
+2009-02-20,Larisa Yurkiw,CA,5,Downhill
+2009-02-20,Kaylin L Richardson,US,3,Combined
+2009-02-20,Marion Rolland,FR,3,Downhill
 2009-02-20,Johanna Schnarf,IT,63,Combined
-2009-02-20,Nadia Styger,CH,0,Super G
-2009-02-20,Nadia Fanchini,IT,1,Super G
-2009-02-20,Lucie Hrstkova,CZ,0,Combined
-2009-02-20,Dana Markova,CZ,0,Combined
-2009-02-20,Denise Feierabend,CH,13,Slalom
-2009-02-20,Marion Pellissier,FR,0,Combined
-2009-02-20,Susanne Riesch,DE,10,Slalom
+2009-02-20,Andrea Fischbacher,AT,27,Downhill
+2009-02-20,Chelsea Marshall,US,6,Downhill
+2009-02-20,Stacey J Cook,US,6,Combined
+2009-02-20,Lara Gut,CH,52,Giant Slalom
+2009-02-20,Dominique Gisin,CH,31,Downhill
+2009-02-20,Simone Streng,AT,0,Slalom
+2009-02-20,Marusa Ferk,SK,11,Slalom
 2009-02-20,Wendy Siorpaes,IT,0,Downhill
 2009-02-20,Fabienne Suter,CH,108,Super G
-2009-02-20,Sandrine Aubert,FR,21,Slalom
-2009-02-20,Andrea Dettling,CH,58,Super G
-2009-02-20,Julia Mancuso,US,12,Giant Slalom
-2009-02-20,Alexandra Coletti,MC,0,Combined
-2009-02-20,Marie Marchand-Arvier,FR,80,Downhill
-2009-02-20,Michaela Kirchgasser,AT,50,Giant Slalom
-2009-02-20,Rabea Grand,CH,60,Combined
-2009-02-20,Marusa Ferk,SK,11,Slalom
+2009-02-20,Jessica Puenchera,CH,0,Combined
+2009-02-20,Karoline Trojer,IT,5,Combined
 2009-02-20,Giulia Gianesini,IT,0,Giant Slalom
-2009-02-20,Simone Streng,AT,0,Slalom
+2009-02-20,Alexandra Coletti,MC,0,Combined
+2009-02-20,Margret Altacher,AT,19,Combined
+2009-02-20,Michaela Kirchgasser,AT,50,Giant Slalom
+2009-02-20,Camilla Borsotti,IT,0,Combined
+2009-02-20,Andrea Dettling,CH,58,Super G
+2009-02-20,Rabea Grand,CH,60,Combined
+2009-02-20,Emilie Desforges,CA,0,Combined
+2009-02-20,Vanja Brodnik,SK,9,Combined
+2009-02-20,Petra Robnik,SK,0,Combined
+2009-02-20,Fraenzi Aufdenblatten,CH,17,Super G
+2009-02-20,Lucie Hrstkova,CZ,0,Combined
+2009-02-20,Marie Marchand-Arvier,FR,80,Downhill
+2009-02-20,Stefanie Koehle,AT,33,Giant Slalom
+2009-02-20,Ingrid Jacquemod,FR,24,Super G
+2009-02-20,Stefanie Moser,AT,0,Combined

@@ -34,7 +34,7 @@ date,name,ath_country,value,specialty
 2008-11-16,Alexandr Horoshilov,RU,0,Combined
 2008-11-16,Patrick Thaler,IT,0,Slalom
 2008-11-16,Truls Ove Karlsen,NO,0,Giant Slalom
-2008-11-16,Silvan Zurbriggen,CH,50,Combined
+2008-11-16,Silvan Zurbriggen,CH,50,Slalom
 2008-11-16,Petteri Kantola,FI,0,Combined
 2008-11-16,Hossein Kalhor,IR,0,Combined
 2008-11-16,Iver Bjerkestrand,NO,0,Combined
@@ -60,12 +60,12 @@ date,name,ath_country,value,specialty
 2008-11-16,Hannes Wagner,DE,0,Combined
 2008-11-16,Urs Imboden,MD,0,Slalom
 2008-11-16,Krystof Kryzl,CZ,0,Combined
-2008-11-16,Carlo Janka,CH,0,Combined
+2008-11-16,Carlo Janka,CH,0,Giant Slalom
 2008-11-16,Alexander Koll,AT,0,Slalom
 2008-11-16,Brad Spence,CA,0,Slalom
 2008-11-16,Sandro Viletta,CH,0,Combined
 2008-11-16,Anze Mravlja,SK,0,Combined
-2008-11-16,Ales Gorza,SK,0,Combined
+2008-11-16,Ales Gorza,SK,0,Giant Slalom
 2008-11-16,Tim Jitloff,US,0,Giant Slalom
 2008-11-16,Stefan Kogler,DE,15,Slalom
 2008-11-16,Akira Sasaki,JP,0,Slalom
@@ -170,7 +170,7 @@ date,name,ath_country,value,specialty
 2008-12-22,Paul Stutz,CA,0,Combined
 2008-12-22,Krystof Kryzl,CZ,0,Combined
 2008-12-22,Ivica Kostelic,HR,145,Slalom
-2008-12-22,Carlo Janka,CH,0,Combined
+2008-12-22,Carlo Janka,CH,0,Giant Slalom
 2008-12-22,Alexander Koll,AT,0,Slalom
 2008-12-22,Thomas Grandi,CA,6,Slalom
 2008-12-22,Brad Spence,CA,0,Slalom
@@ -180,7 +180,7 @@ date,name,ath_country,value,specialty
 2008-12-22,Danko Marinelli,HR,0,Combined
 2008-12-22,Jean-Baptiste Grange,FR,180,Slalom
 2008-12-22,Anze Mravlja,SK,0,Combined
-2008-12-22,Ales Gorza,SK,0,Combined
+2008-12-22,Ales Gorza,SK,0,Giant Slalom
 2008-12-22,Akira Sasaki,JP,0,Slalom
 2008-12-22,Sandro Viletta,CH,5,Combined
 2008-12-22,Kilian Albrecht,BG,0,Slalom
@@ -230,7 +230,7 @@ date,name,ath_country,value,specialty
 2008-12-22,Bode Miller,US,80,Downhill
 2008-12-22,Thomas Fanara,FR,0,Giant Slalom
 2008-12-22,Giorgio Rocca,IT,50,Slalom
-2008-12-22,Silvan Zurbriggen,CH,50,Combined
+2008-12-22,Silvan Zurbriggen,CH,50,Slalom
 2008-12-22,Hans Olsson,SE,0,Downhill
 2008-12-22,Benjamin Raich,AT,60,Giant Slalom
 2008-12-22,Matts Olsson,SE,0,Giant Slalom
@@ -270,7 +270,7 @@ date,name,ath_country,value,specialty
 2009-01-06,Fredrik Nordh,SE,0,Combined
 2009-01-06,Danko Marinelli,HR,0,Combined
 2009-01-06,Filip Trejbal,CZ,14,Slalom
-2009-01-06,Ales Gorza,SK,0,Combined
+2009-01-06,Ales Gorza,SK,0,Giant Slalom
 2009-01-06,Andreas Romar,FI,0,Combined
 2009-01-06,Matic Skube,SK,0,Combined
 2009-01-06,Truls Ove Karlsen,NO,0,Giant Slalom
@@ -360,8 +360,8 @@ date,name,ath_country,value,specialty
 2009-01-06,Manfred Moelgg,IT,95,Slalom
 2009-01-06,Didier Defago,CH,0,Downhill
 2009-01-06,Andre Myhrer,SE,67,Slalom
-2009-01-06,Silvan Zurbriggen,CH,50,Combined
-2009-01-06,Carlo Janka,CH,0,Combined
+2009-01-06,Silvan Zurbriggen,CH,50,Slalom
+2009-01-06,Carlo Janka,CH,0,Giant Slalom
 2009-01-06,Noel Baxter,GB,0,Combined
 2009-01-06,Joery Rooij Van,NL,0,Combined
 2009-01-06,Marcel Hirscher,AT,36,Slalom
@@ -457,7 +457,7 @@ date,name,ath_country,value,specialty
 2009-01-11,Alexandre Anselmet,FR,22,Slalom
 2009-01-11,Iver Bjerkestrand,NO,0,Combined
 2009-01-11,Daniel Albrecht,CH,11,Giant Slalom
-2009-01-11,Silvan Zurbriggen,CH,50,Combined
+2009-01-11,Silvan Zurbriggen,CH,50,Slalom
 2009-01-11,Scott Barrett,CA,0,Combined
 2009-01-11,Andre Myhrer,SE,117,Slalom
 2009-01-11,Niklas Rainer,SE,0,Combined
@@ -476,7 +476,7 @@ date,name,ath_country,value,specialty
 2009-01-11,Jukka Rajala,FI,0,Combined
 2009-01-11,Ivan Ratkic,HR,0,Combined
 2009-01-11,Manfred Moelgg,IT,140,Slalom
-2009-01-11,Carlo Janka,CH,0,Combined
+2009-01-11,Carlo Janka,CH,0,Giant Slalom
 2009-01-11,Reinfried Herbst,AT,136,Slalom
 2009-01-11,Kilian Albrecht,BG,0,Slalom
 2009-01-11,Ivica Kostelic,HR,245,Slalom
@@ -514,7 +514,7 @@ date,name,ath_country,value,specialty
 2009-01-11,Thomas Mermillod,FR,13,Slalom
 2009-01-11,Marcus Sandell,FI,0,Giant Slalom
 2009-01-11,Paul Stutz,CA,0,Combined
-2009-01-11,Ales Gorza,SK,0,Combined
+2009-01-11,Ales Gorza,SK,0,Giant Slalom
 2009-01-11,Giorgio Rocca,IT,90,Slalom
 2009-01-11,Mitja Dragsic,SK,42,Slalom
 2009-01-11,Bjoergvin Bjoergvinnson,IS,6,Slalom
@@ -557,7 +557,7 @@ date,name,ath_country,value,specialty
 2009-01-18,Bernard Vajdic,SK,34,Slalom
 2009-01-18,Petter Robertsson,SE,0,Combined
 2009-01-18,Cristian Javier Simari Birkner,AR,0,Combined
-2009-01-18,Ales Gorza,SK,0,Combined
+2009-01-18,Ales Gorza,SK,0,Giant Slalom
 2009-01-18,Bjoergvin Bjoergvinnson,IS,6,Slalom
 2009-01-18,Lars Elton Myhre,NO,36,Combined
 2009-01-18,Anthony Obert,FR,0,Combined
@@ -605,7 +605,7 @@ date,name,ath_country,value,specialty
 2009-01-18,Matic Skube,SK,0,Combined
 2009-01-18,Magnus Andersson,SE,0,Combined
 2009-01-18,Fredrik Nordh,SE,0,Combined
-2009-01-18,Silvan Zurbriggen,CH,50,Combined
+2009-01-18,Silvan Zurbriggen,CH,50,Slalom
 2009-01-18,Scott Barrett,CA,0,Combined
 2009-01-18,Noel Baxter,GB,0,Combined
 2009-01-18,Manfred Moelgg,IT,150,Slalom
@@ -653,7 +653,7 @@ date,name,ath_country,value,specialty
 2009-01-18,Thomas Grandi,CA,20,Slalom
 2009-01-18,Paul McDonald,US,0,Combined
 2009-01-18,Kilian Albrecht,BG,0,Slalom
-2009-01-18,Carlo Janka,CH,0,Combined
+2009-01-18,Carlo Janka,CH,0,Giant Slalom
 2009-01-18,Jukka Leino,FI,13,Slalom
 2009-01-18,Calle Lindh,SE,0,Combined
 2009-01-18,Jimmy Cochran,US,18,Slalom
@@ -709,7 +709,7 @@ date,name,ath_country,value,specialty
 2009-01-25,Giorgio Rocca,IT,116,Slalom
 2009-01-25,Dalibor Samsal,HR,9,Slalom
 2009-01-25,Marc Berthod,CH,0,Giant Slalom
-2009-01-25,Carlo Janka,CH,0,Combined
+2009-01-25,Carlo Janka,CH,0,Giant Slalom
 2009-01-25,Georgi Georgiev,BG,0,Combined
 2009-01-25,John Kucera,CA,0,Downhill
 2009-01-25,Andreas Romar,FI,0,Combined
@@ -730,7 +730,7 @@ date,name,ath_country,value,specialty
 2009-01-25,Tim Jitloff,US,16,Giant Slalom
 2009-01-25,Bjoergvin Bjoergvinnson,IS,6,Slalom
 2009-01-25,Danko Marinelli,HR,0,Combined
-2009-01-25,Ales Gorza,SK,0,Combined
+2009-01-25,Ales Gorza,SK,0,Giant Slalom
 2009-01-25,Jeroen Van Den Bogaert,BE,0,Combined
 2009-01-25,Jean-Baptiste Grange,FR,429,Slalom
 2009-01-25,Marc Gini,CH,28,Slalom
@@ -795,7 +795,7 @@ date,name,ath_country,value,specialty
 2009-01-25,Patrick Biggs,CA,17,Slalom
 2009-01-25,Peter Fill,IT,0,Downhill
 2009-01-25,Georg Streitberger,AT,0,Downhill
-2009-01-25,Silvan Zurbriggen,CH,74,Combined
+2009-01-25,Silvan Zurbriggen,CH,74,Slalom
 2009-01-25,Romed Baumann,AT,0,Giant Slalom
 2009-01-25,Maxime Tissot,FR,0,Combined
 2009-01-25,Patrick Thaler,IT,142,Slalom
@@ -843,7 +843,7 @@ date,name,ath_country,value,specialty
 2009-01-27,Jukka Rajala,FI,0,Combined
 2009-01-27,Tuukka Kaukoniemi,FI,0,Combined
 2009-01-27,Tim Jitloff,US,16,Giant Slalom
-2009-01-27,Ales Gorza,SK,0,Combined
+2009-01-27,Ales Gorza,SK,0,Giant Slalom
 2009-01-27,Bernard Vajdic,SK,119,Slalom
 2009-01-27,Bjoergvin Bjoergvinnson,IS,6,Slalom
 2009-01-27,Danko Marinelli,HR,0,Combined
@@ -896,7 +896,7 @@ date,name,ath_country,value,specialty
 2009-01-27,Philipp Schmid,DE,0,Combined
 2009-01-27,Giuliano Razzoli,IT,82,Slalom
 2009-01-27,Romed Baumann,AT,0,Giant Slalom
-2009-01-27,Silvan Zurbriggen,CH,119,Combined
+2009-01-27,Silvan Zurbriggen,CH,119,Slalom
 2009-01-27,Jens Byggmark,SE,36,Slalom
 2009-01-27,Matts Olsson,SE,0,Giant Slalom
 2009-01-27,Pierre Paquin,FR,0,Combined
@@ -914,7 +914,7 @@ date,name,ath_country,value,specialty
 2009-01-27,Natko Zrncic-Dim,HR,11,Combined
 2009-01-27,Thomas Fanara,FR,0,Giant Slalom
 2009-01-27,Miha Kuerner,SK,0,Combined
-2009-01-27,Carlo Janka,CH,0,Combined
+2009-01-27,Carlo Janka,CH,0,Giant Slalom
 2009-01-27,Cristian Deville,IT,59,Slalom
 2009-01-27,Steve Missillier,FR,49,Slalom
 2009-01-27,Magnus Andersson,SE,0,Combined
@@ -946,7 +946,7 @@ date,name,ath_country,value,specialty
 2009-02-01,Paul McDonald,US,0,Combined
 2009-02-01,Stephan Thanei,IT,0,Downhill
 2009-02-01,John Kucera,CA,0,Downhill
-2009-02-01,Carlo Janka,CH,0,Combined
+2009-02-01,Carlo Janka,CH,0,Giant Slalom
 2009-02-01,Mauro Caviezel,CH,0,Combined
 2009-02-01,Maxime Tissot,FR,0,Combined
 2009-02-01,Hannes Wagner,DE,0,Combined
@@ -960,7 +960,7 @@ date,name,ath_country,value,specialty
 2009-02-01,Hossein Kalhor,IR,0,Combined
 2009-02-01,Didier Defago,CH,0,Downhill
 2009-02-01,Hans Olsson,SE,0,Downhill
-2009-02-01,Ales Gorza,SK,0,Combined
+2009-02-01,Ales Gorza,SK,0,Giant Slalom
 2009-02-01,Andrej Jerman,SK,0,Downhill
 2009-02-01,Joery Rooij Van,NL,0,Combined
 2009-02-01,Hannes Brenner,AT,0,Combined
@@ -1056,7 +1056,7 @@ date,name,ath_country,value,specialty
 2009-02-01,Paul Stutz,CA,0,Combined
 2009-02-01,Jakub Ilewicz,PL,0,Combined
 2009-02-01,Scott Barrett,CA,0,Combined
-2009-02-01,Silvan Zurbriggen,CH,119,Combined
+2009-02-01,Silvan Zurbriggen,CH,119,Slalom
 2009-02-01,Jean-Baptiste Grange,FR,479,Slalom
 2009-02-01,Iver Bjerkestrand,NO,0,Combined
 2009-02-01,Petteri Kantola,FI,0,Combined
@@ -1076,7 +1076,7 @@ date,name,ath_country,value,specialty
 2009-03-01,Krystof Kryzl,CZ,31,Combined
 2009-03-01,Jean-Baptiste Grange,FR,481,Slalom
 2009-03-01,Manfred Pranger,AT,389,Slalom
-2009-03-01,Carlo Janka,CH,0,Combined
+2009-03-01,Carlo Janka,CH,0,Giant Slalom
 2009-03-01,Jeroen Van Den Bogaert,BE,0,Combined
 2009-03-01,Ivica Kostelic,HR,432,Slalom
 2009-03-01,Anze Mravlja,SK,0,Combined
@@ -1084,7 +1084,7 @@ date,name,ath_country,value,specialty
 2009-03-01,Marc Gini,CH,62,Slalom
 2009-03-01,Reinfried Herbst,AT,376,Slalom
 2009-03-01,Tim Jitloff,US,16,Giant Slalom
-2009-03-01,Ales Gorza,SK,0,Combined
+2009-03-01,Ales Gorza,SK,0,Giant Slalom
 2009-03-01,Didier Defago,CH,0,Downhill
 2009-03-01,Cristian Deville,IT,59,Slalom
 2009-03-01,Brad Spence,CA,20,Slalom
@@ -1093,7 +1093,7 @@ date,name,ath_country,value,specialty
 2009-03-01,Georg Streitberger,AT,0,Downhill
 2009-03-01,Marcel Hirscher,AT,208,Slalom
 2009-03-01,Johan Brolenius,SE,167,Slalom
-2009-03-01,Silvan Zurbriggen,CH,132,Combined
+2009-03-01,Silvan Zurbriggen,CH,132,Slalom
 2009-03-01,Bernard Vajdic,SK,169,Slalom
 2009-03-01,Patrick Thaler,IT,160,Slalom
 2009-03-01,Mattias Hargin,SE,229,Slalom
@@ -1262,7 +1262,7 @@ date,name,ath_country,value,specialty
 2009-03-14,Benjamin Raich,AT,239,Giant Slalom
 2009-03-14,Felix Neureuther,DE,171,Slalom
 2009-03-14,Patrick Thaler,IT,174,Slalom
-2009-03-14,Silvan Zurbriggen,CH,156,Combined
+2009-03-14,Silvan Zurbriggen,CH,156,Slalom
 2009-03-14,Andre Myhrer,SE,239,Slalom
 2009-03-14,Marcel Hirscher,AT,253,Slalom
 2009-03-14,Johan Brolenius,SE,167,Slalom
@@ -1299,8 +1299,8 @@ date,name,ath_country,value,specialty
 2009-03-14,Georgi Georgiev,BG,0,Combined
 2009-03-14,Paul McDonald,US,0,Combined
 2009-03-14,Hannes Wagner,DE,0,Combined
-2009-03-14,Ales Gorza,SK,0,Combined
-2009-03-14,Carlo Janka,CH,0,Combined
+2009-03-14,Ales Gorza,SK,0,Giant Slalom
+2009-03-14,Carlo Janka,CH,0,Giant Slalom
 2009-03-14,John Kucera,CA,0,Downhill
 2009-03-14,Joery Rooij Van,NL,0,Combined
 2009-03-14,Stephan Thanei,IT,0,Downhill

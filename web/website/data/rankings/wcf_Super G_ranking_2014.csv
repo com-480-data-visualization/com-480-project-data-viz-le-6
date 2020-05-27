@@ -1,424 +1,505 @@
 date,name,ath_country,value,specialty
 2013-11-30,Lara Gut,CH,100,Super G
-2013-11-30,Jennifer Piot,FR,0,Super G
-2013-11-30,Stefanie Moser,AT,12,Downhill
-2013-11-30,Priska Nufer,CH,0,Combined
-2013-11-30,Nadia Fanchini,IT,45,Giant Slalom
-2013-11-30,Ramona Siebenhofer,AT,9,Combined
-2013-11-30,Nicole Schmidhofer,AT,0,Downhill
-2013-11-30,Chemmy Alcott,GB,0,Super G
-2013-11-30,Verena Stuffer,IT,1,Super G
-2013-11-30,Stephanie Venier,AT,4,Super G
-2013-11-30,Jacqueline Wiles,US,0,Downhill
-2013-11-30,Viktoria Rebensburg,DE,20,Giant Slalom
-2013-11-30,Sara Hector,SE,0,Giant Slalom
-2013-11-30,Anna Marno,US,0,Combined
-2013-11-30,Ilka Stuhec,SK,50,Super G
-2013-11-30,Maria Belen Simari-Birkner,AR,0,Combined
-2013-11-30,Tina Maze,SK,18,Downhill
-2013-11-30,Marine Gauthier,FR,0,Downhill
-2013-11-30,Elena Curtoni,IT,13,Super G
-2013-11-30,Lindsey Vonn,US,0,Super G
-2013-11-30,Francesca Marsaglia,IT,0,Giant Slalom
-2013-11-30,Andrea Fischbacher,AT,14,Downhill
-2013-11-30,Julia Mancuso,US,2,Downhill
-2013-11-30,Cornelia Huetter,AT,10,Downhill
-2013-11-30,Fabienne Suter,CH,29,Downhill
-2013-11-30,Tessa Worley,FR,26,Giant Slalom
-2013-11-30,Sofia Goggia,IT,36,Super G
-2013-11-30,Stacey J Cook,US,3,Downhill
-2013-11-30,Marie-Michele Gagnon,CA,0,Slalom
-2013-11-30,Lotte Smiseth Sejersted,NO,26,Downhill
-2013-11-30,Romane Miradoli,FR,0,Combined
-2013-11-30,Ragnhild Mowinckel,NO,5,Super G
+2013-11-30,Marie-Pier Prefontaine,CA,0,Giant Slalom
+2013-11-30,Greta Small,AU,0,Combined
 2013-11-30,Stefanie Koehle,AT,22,Super G
+2013-11-30,Ragnhild Mowinckel,NO,5,Super G
+2013-11-30,Edith Miklos,HU,0,Downhill
+2013-11-30,Lotte Smiseth Sejersted,NO,26,Downhill
+2013-11-30,Marie Marchand-Arvier,FR,0,Downhill
+2013-11-30,Federica Brignone,IT,0,Giant Slalom
+2013-11-30,Stacey J Cook,US,3,Downhill
+2013-11-30,Michaela Wenig,DE,0,Downhill
+2013-11-30,Tessa Worley,FR,26,Giant Slalom
+2013-11-30,Denise Feierabend,CH,0,Slalom
+2013-11-30,Fabienne Suter,CH,29,Downhill
 2013-11-30,Daniela Merighetti,IT,0,Downhill
-2013-11-30,Carolina Ruiz Castillo,ES,6,Downhill
+2013-11-30,Cornelia Huetter,AT,10,Downhill
+2013-11-30,Julia Mancuso,US,2,Downhill
+2013-11-30,Viktoria Rebensburg,DE,20,Giant Slalom
+2013-11-30,Macarena Simari-Birkner,AR,0,Combined
+2013-11-30,Sofia Goggia,IT,36,Super G
+2013-11-30,Anne Sophie Barthet,FR,0,Slalom
+2013-11-30,Marie-Michele Gagnon,CA,0,Slalom
+2013-11-30,Leanne Smith,US,8,Super G
+2013-11-30,Anna Hofer,IT,0,Combined
+2013-11-30,Sara Hector,SE,0,Giant Slalom
 2013-11-30,Dominique Gisin,CH,40,Downhill
 2013-11-30,Regina Mader Sterz,AT,12,Downhill
-2013-11-30,Fraenzi Aufdenblatten,CH,7,Downhill
-2013-11-30,Larisa Yurkiw,CA,16,Downhill
-2013-11-30,Veronique Hronek,DE,15,Super G
-2013-11-30,Leanne Smith,US,8,Super G
-2013-11-30,Vanja Brodnik,SK,0,Combined
-2013-11-30,Anne Sophie Barthet,FR,0,Slalom
-2013-11-30,Anna Hofer,IT,0,Combined
-2013-11-30,Patrizia Dorsch,DE,0,Combined
-2013-11-30,Tina Weirather,LI,0,Downhill
-2013-11-30,Johanna Schnarf,IT,0,Downhill
-2013-11-30,Karoline Pichler,IT,0,Combined
-2013-11-30,Kajsa Kling,SE,0,Super G
-2013-11-30,Marie-Pier Prefontaine,CA,0,Giant Slalom
-2013-11-30,Federica Brignone,IT,0,Giant Slalom
-2013-11-30,Ania Monica Cail,RO,0,Combined
-2013-11-30,Maria Bedareva,RU,0,Combined
-2013-11-30,Maria Riesch Hoefl,DE,32,Downhill
 2013-11-30,Andrea Dettling,CH,0,Combined
-2013-11-30,Anna Veith Fenninger,AT,80,Giant Slalom
-2013-11-30,Denise Feierabend,CH,0,Slalom
-2013-11-30,Nicole Hosp,AT,60,Super G
-2013-11-30,Alexandra Coletti,MC,0,Combined
-2013-11-30,Elisabeth Goergl,AT,0,Downhill
-2013-11-30,Karolina Chrapek,PL,0,Downhill
-2013-11-30,Jasmine Flury,CH,0,Combined
+2013-11-30,Anna Marno,US,0,Combined
+2013-11-30,Julia Roth,CA,0,Combined
+2013-11-30,Carolina Ruiz Castillo,ES,6,Downhill
+2013-11-30,Elena Yakovishina,RU,0,Combined
+2013-11-30,Jessica Lindell-Vikarby,SE,0,Giant Slalom
+2013-11-30,Stephanie Venier,AT,4,Super G
+2013-11-30,Patrizia Dorsch,DE,0,Combined
+2013-11-30,Nadja Kamer,CH,0,Downhill
+2013-11-30,Jacqueline Wiles,US,0,Downhill
+2013-11-30,Chemmy Alcott,GB,0,Super G
+2013-11-30,Klara Krizova,CZ,0,Downhill
+2013-11-30,Marusa Ferk,SK,0,Downhill
+2013-11-30,Laurenne Ross,US,0,Downhill
+2013-11-30,Ramona Siebenhofer,AT,9,Combined
+2013-11-30,Marianne Abderhalden,CH,0,Downhill
+2013-11-30,Lisa Magdalena Agerer,IT,0,Combined
+2013-11-30,Priska Nufer,CH,0,Combined
+2013-11-30,Ania Monica Cail,RO,0,Combined
+2013-11-30,Stefanie Moser,AT,12,Downhill
+2013-11-30,Julia Ford,US,0,Downhill
+2013-11-30,Elena Fanchini,IT,0,Downhill
+2013-11-30,Jennifer Piot,FR,0,Super G
+2013-11-30,Joana Haehlen,CH,0,Downhill
+2013-11-30,Elena Curtoni,IT,13,Super G
+2013-11-30,Francesca Marsaglia,IT,0,Giant Slalom
+2013-11-30,Johanna Schnarf,IT,0,Downhill
+2013-11-30,Camilla Borsotti,IT,0,Combined
+2013-11-30,Andrea Fischbacher,AT,14,Downhill
+2013-11-30,Karoline Pichler,IT,0,Combined
+2013-11-30,Lena Duerr,DE,0,Slalom
+2013-11-30,Veronique Hronek,DE,15,Super G
+2013-11-30,Larisa Yurkiw,CA,16,Downhill
+2013-11-30,Megan McJames,US,0,Giant Slalom
+2013-11-30,Fraenzi Aufdenblatten,CH,7,Downhill
+2013-11-30,Lindsey Vonn,US,0,Super G
+2013-11-30,Nadia Fanchini,IT,45,Giant Slalom
+2013-11-30,Agnieszka Gasienica Daniel,PL,0,Combined
 2013-11-30,Corinne Suter,CH,0,Combined
-2013-12-08,Daniela Merighetti,IT,0,Downhill
+2013-11-30,Maria Bedareva,RU,0,Combined
+2013-11-30,Romane Miradoli,FR,0,Combined
+2013-11-30,Anna Veith Fenninger,AT,80,Giant Slalom
+2013-11-30,Marine Gauthier,FR,0,Downhill
+2013-11-30,Kajsa Kling,SE,0,Super G
+2013-11-30,Vanja Brodnik,SK,0,Combined
+2013-11-30,Elisabeth Goergl,AT,0,Downhill
+2013-11-30,Ilka Stuhec,SK,50,Super G
+2013-11-30,Maria Riesch Hoefl,DE,32,Downhill
+2013-11-30,Verena Stuffer,IT,1,Super G
+2013-11-30,Tina Weirather,LI,0,Downhill
+2013-11-30,Tina Maze,SK,18,Downhill
+2013-11-30,Jasmine Flury,CH,0,Combined
+2013-11-30,Nicole Hosp,AT,60,Super G
+2013-11-30,Nicole Schmidhofer,AT,0,Downhill
+2013-11-30,Karolina Chrapek,PL,0,Combined
+2013-11-30,Maria Belen Simari-Birkner,AR,0,Combined
+2013-11-30,Alexandra Coletti,MC,0,Combined
 2013-12-08,Stefanie Koehle,AT,28,Super G
-2013-12-08,Jasmine Flury,CH,0,Combined
-2013-12-08,Anna Hofer,IT,0,Combined
-2013-12-08,Ragnhild Mowinckel,NO,5,Super G
-2013-12-08,Maria Bedareva,RU,0,Combined
-2013-12-08,Corinne Suter,CH,0,Combined
-2013-12-08,Jessica Lindell-Vikarby,SE,18,Giant Slalom
-2013-12-08,Lena Duerr,DE,0,Slalom
-2013-12-08,Megan McJames,US,0,Giant Slalom
-2013-12-08,Stacey J Cook,US,16,Downhill
-2013-12-08,Elena Yakovishina,RU,0,Combined
-2013-12-08,Tessa Worley,FR,26,Giant Slalom
-2013-12-08,Greta Small,AU,0,Combined
-2013-12-08,Fabienne Suter,CH,44,Downhill
-2013-12-08,Agnieszka Gasienica Daniel,PL,0,Combined
-2013-12-08,Cornelia Huetter,AT,17,Downhill
-2013-12-08,Julia Roth,CA,0,Combined
-2013-12-08,Macarena Simari-Birkner,AR,0,Downhill
-2013-12-08,Lotte Smiseth Sejersted,NO,36,Downhill
-2013-12-08,Marie Marchand-Arvier,FR,5,Downhill
-2013-12-08,Marie-Pier Prefontaine,CA,0,Giant Slalom
-2013-12-08,Fraenzi Aufdenblatten,CH,9,Downhill
-2013-12-08,Maria Belen Simari-Birkner,AR,0,Combined
-2013-12-08,Karolina Chrapek,PL,0,Downhill
-2013-12-08,Anna Marno,US,0,Combined
-2013-12-08,Alexandra Coletti,MC,0,Combined
-2013-12-08,Sara Hector,SE,0,Giant Slalom
-2013-12-08,Anne Sophie Barthet,FR,0,Slalom
-2013-12-08,Andrea Dettling,CH,0,Combined
-2013-12-08,Nadja Kamer,CH,0,Downhill
-2013-12-08,Federica Brignone,IT,0,Giant Slalom
-2013-12-08,Chemmy Alcott,GB,0,Super G
-2013-12-08,Marusa Ferk,SK,0,Downhill
-2013-12-08,Ramona Siebenhofer,AT,9,Combined
-2013-12-08,Johanna Schnarf,IT,0,Downhill
-2013-12-08,Priska Nufer,CH,0,Combined
-2013-12-08,Patrizia Dorsch,DE,0,Combined
-2013-12-08,Elena Fanchini,IT,0,Downhill
-2013-12-08,Ania Monica Cail,RO,0,Combined
 2013-12-08,Karoline Pichler,IT,0,Combined
-2013-12-08,Francesca Marsaglia,IT,10,Giant Slalom
-2013-12-08,Veronique Hronek,DE,18,Super G
+2013-12-08,Lena Duerr,DE,0,Slalom
+2013-12-08,Marie Marchand-Arvier,FR,5,Downhill
 2013-12-08,Larisa Yurkiw,CA,16,Downhill
-2013-12-08,Denise Feierabend,CH,0,Slalom
-2013-12-08,Julia Mancuso,US,16,Downhill
-2013-12-08,Jennifer Piot,FR,1,Super G
-2013-12-08,Lara Gut,CH,200,Super G
+2013-12-08,Nicole Hosp,AT,82,Super G
+2013-12-08,Edith Miklos,HU,0,Downhill
+2013-12-08,Fraenzi Aufdenblatten,CH,9,Downhill
+2013-12-08,Vanja Brodnik,SK,0,Combined
+2013-12-08,Romane Miradoli,FR,0,Combined
+2013-12-08,Federica Brignone,IT,0,Giant Slalom
+2013-12-08,Lotte Smiseth Sejersted,NO,36,Downhill
+2013-12-08,Jessica Lindell-Vikarby,SE,18,Giant Slalom
+2013-12-08,Carolina Ruiz Castillo,ES,6,Downhill
+2013-12-08,Elena Yakovishina,RU,0,Combined
+2013-12-08,Daniela Merighetti,IT,0,Downhill
+2013-12-08,Veronique Hronek,DE,18,Super G
+2013-12-08,Ragnhild Mowinckel,NO,5,Super G
 2013-12-08,Maria Riesch Hoefl,DE,44,Downhill
+2013-12-08,Marie-Pier Prefontaine,CA,0,Giant Slalom
+2013-12-08,Greta Small,AU,0,Combined
+2013-12-08,Megan McJames,US,0,Giant Slalom
 2013-12-08,Kajsa Kling,SE,36,Super G
-2013-12-08,Tina Maze,SK,38,Downhill
-2013-12-08,Regina Mader Sterz,AT,28,Downhill
-2013-12-08,Lindsey Vonn,US,45,Super G
-2013-12-08,Anna Veith Fenninger,AT,140,Giant Slalom
-2013-12-08,Tina Weirather,LI,80,Downhill
 2013-12-08,Nicole Schmidhofer,AT,11,Downhill
+2013-12-08,Andrea Fischbacher,AT,14,Downhill
+2013-12-08,Lara Gut,CH,200,Super G
+2013-12-08,Patrizia Dorsch,DE,0,Combined
+2013-12-08,Nadja Kamer,CH,0,Downhill
+2013-12-08,Karolina Chrapek,PL,0,Combined
+2013-12-08,Jacqueline Wiles,US,0,Downhill
+2013-12-08,Chemmy Alcott,GB,0,Super G
+2013-12-08,Klara Krizova,CZ,0,Downhill
+2013-12-08,Marusa Ferk,SK,0,Downhill
+2013-12-08,Tina Weirather,LI,80,Downhill
+2013-12-08,Laurenne Ross,US,0,Downhill
+2013-12-08,Ramona Siebenhofer,AT,9,Combined
+2013-12-08,Marianne Abderhalden,CH,0,Downhill
+2013-12-08,Lisa Magdalena Agerer,IT,0,Combined
+2013-12-08,Alexandra Coletti,MC,0,Combined
+2013-12-08,Priska Nufer,CH,0,Combined
+2013-12-08,Stefanie Moser,AT,12,Downhill
+2013-12-08,Ania Monica Cail,RO,0,Combined
+2013-12-08,Maria Bedareva,RU,0,Combined
+2013-12-08,Elena Fanchini,IT,0,Downhill
+2013-12-08,Julia Ford,US,0,Downhill
+2013-12-08,Corinne Suter,CH,0,Combined
+2013-12-08,Jennifer Piot,FR,1,Super G
+2013-12-08,Johanna Schnarf,IT,0,Downhill
+2013-12-08,Elena Curtoni,IT,13,Super G
+2013-12-08,Joana Haehlen,CH,0,Downhill
+2013-12-08,Anna Veith Fenninger,AT,140,Giant Slalom
+2013-12-08,Francesca Marsaglia,IT,10,Giant Slalom
+2013-12-08,Camilla Borsotti,IT,0,Combined
+2013-12-08,Elisabeth Goergl,AT,50,Downhill
+2013-12-08,Stacey J Cook,US,16,Downhill
+2013-12-08,Stephanie Venier,AT,4,Super G
+2013-12-08,Julia Mancuso,US,16,Downhill
+2013-12-08,Sara Hector,SE,0,Giant Slalom
+2013-12-08,Leanne Smith,US,48,Super G
+2013-12-08,Cornelia Huetter,AT,17,Downhill
+2013-12-08,Fabienne Suter,CH,44,Downhill
+2013-12-08,Dominique Gisin,CH,64,Downhill
 2013-12-08,Sofia Goggia,IT,36,Super G
+2013-12-08,Andrea Dettling,CH,0,Combined
+2013-12-08,Michaela Wenig,DE,0,Downhill
+2013-12-08,Ilka Stuhec,SK,58,Super G
+2013-12-08,Maria Belen Simari-Birkner,AR,0,Combined
+2013-12-08,Denise Feierabend,CH,0,Slalom
 2013-12-08,Marie-Michele Gagnon,CA,26,Slalom
 2013-12-08,Verena Stuffer,IT,30,Super G
-2013-12-08,Leanne Smith,US,48,Super G
-2013-12-08,Elisabeth Goergl,AT,50,Downhill
-2013-12-08,Nadia Fanchini,IT,49,Giant Slalom
-2013-12-08,Ilka Stuhec,SK,58,Super G
-2013-12-08,Dominique Gisin,CH,64,Downhill
-2013-12-08,Nicole Hosp,AT,82,Super G
+2013-12-08,Tina Maze,SK,38,Downhill
+2013-12-08,Anne Sophie Barthet,FR,0,Slalom
 2013-12-08,Viktoria Rebensburg,DE,56,Giant Slalom
-2013-12-14,Ania Monica Cail,RO,0,Combined
-2013-12-14,Kajsa Kling,SE,116,Super G
-2013-12-14,Lindsey Vonn,US,45,Super G
-2013-12-14,Lara Gut,CH,236,Super G
-2013-12-14,Fraenzi Aufdenblatten,CH,27,Downhill
-2013-12-14,Megan McJames,US,0,Giant Slalom
-2013-12-14,Greta Small,AU,0,Combined
-2013-12-14,Dominique Gisin,CH,80,Downhill
-2013-12-14,Carolina Ruiz Castillo,ES,26,Downhill
-2013-12-14,Stephanie Venier,AT,7,Super G
-2013-12-14,Chemmy Alcott,GB,0,Super G
-2013-12-14,Regina Mader Sterz,AT,50,Downhill
-2013-12-14,Corinne Suter,CH,0,Combined
-2013-12-14,Marusa Ferk,SK,0,Downhill
-2013-12-14,Stefanie Moser,AT,15,Downhill
+2013-12-08,Marine Gauthier,FR,0,Downhill
+2013-12-08,Tessa Worley,FR,26,Giant Slalom
+2013-12-08,Nadia Fanchini,IT,49,Giant Slalom
+2013-12-08,Julia Roth,CA,0,Combined
+2013-12-08,Anna Marno,US,0,Combined
+2013-12-08,Macarena Simari-Birkner,AR,0,Combined
+2013-12-08,Anna Hofer,IT,0,Combined
+2013-12-08,Jasmine Flury,CH,0,Combined
+2013-12-08,Agnieszka Gasienica Daniel,PL,0,Combined
+2013-12-08,Lindsey Vonn,US,45,Super G
+2013-12-08,Regina Mader Sterz,AT,28,Downhill
 2013-12-14,Elisabeth Goergl,AT,100,Downhill
-2013-12-14,Anna Hofer,IT,0,Combined
-2013-12-14,Jennifer Piot,FR,14,Super G
-2013-12-14,Priska Nufer,CH,10,Combined
-2013-12-14,Elena Curtoni,IT,13,Super G
-2013-12-14,Marie-Pier Prefontaine,CA,0,Giant Slalom
-2013-12-14,Jasmine Flury,CH,0,Combined
-2013-12-14,Vanja Brodnik,SK,0,Combined
-2013-12-14,Francesca Marsaglia,IT,14,Giant Slalom
-2013-12-14,Karoline Pichler,IT,0,Combined
-2013-12-14,Anna Veith Fenninger,AT,200,Giant Slalom
-2013-12-14,Nicole Schmidhofer,AT,35,Downhill
-2013-12-14,Ramona Siebenhofer,AT,9,Combined
-2013-12-14,Andrea Fischbacher,AT,22,Downhill
-2013-12-14,Agnieszka Gasienica Daniel,PL,0,Combined
-2013-12-14,Veronique Hronek,DE,30,Super G
-2013-12-14,Tina Weirather,LI,180,Downhill
-2013-12-14,Nadia Fanchini,IT,56,Giant Slalom
-2013-12-14,Jacqueline Wiles,US,0,Downhill
-2013-12-14,Denise Feierabend,CH,0,Slalom
-2013-12-14,Nicole Hosp,AT,127,Super G
-2013-12-14,Cornelia Huetter,AT,26,Downhill
-2013-12-14,Laurenne Ross,US,0,Downhill
-2013-12-14,Lisa Magdalena Agerer,IT,0,Combined
-2013-12-14,Alexandra Coletti,MC,0,Combined
-2013-12-14,Karolina Chrapek,PL,0,Downhill
-2013-12-14,Tessa Worley,FR,55,Giant Slalom
+2013-12-14,Stefanie Moser,AT,15,Downhill
 2013-12-14,Stacey J Cook,US,31,Downhill
-2013-12-14,Maria Belen Simari-Birkner,AR,0,Combined
-2013-12-14,Anna Marno,US,0,Combined
-2013-12-14,Julia Ford,US,0,Downhill
-2013-12-14,Fabienne Suter,CH,49,Downhill
-2013-12-14,Tina Maze,SK,38,Downhill
-2013-12-14,Sofia Goggia,IT,36,Super G
-2013-12-14,Camilla Borsotti,IT,0,Combined
-2013-12-14,Ilka Stuhec,SK,64,Super G
-2013-12-14,Marie Marchand-Arvier,FR,6,Downhill
-2013-12-14,Viktoria Rebensburg,DE,56,Giant Slalom
-2013-12-14,Maria Bedareva,RU,0,Combined
-2013-12-14,Stefanie Koehle,AT,42,Super G
-2013-12-14,Julia Roth,CA,0,Combined
-2013-12-14,Anne Sophie Barthet,FR,0,Slalom
 2013-12-14,Leanne Smith,US,48,Super G
+2013-12-14,Ania Monica Cail,RO,0,Combined
+2013-12-14,Julia Ford,US,0,Downhill
+2013-12-14,Anne Sophie Barthet,FR,0,Slalom
 2013-12-14,Marie-Michele Gagnon,CA,66,Slalom
-2013-12-14,Romane Miradoli,FR,0,Combined
+2013-12-14,Elena Curtoni,IT,13,Super G
+2013-12-14,Andrea Dettling,CH,0,Combined
 2013-12-14,Joana Haehlen,CH,0,Downhill
-2013-12-14,Ragnhild Mowinckel,NO,31,Super G
-2013-12-14,Michaela Wenig,DE,0,Downhill
-2013-12-14,Macarena Simari-Birkner,AR,0,Downhill
+2013-12-14,Marine Gauthier,FR,0,Downhill
+2013-12-14,Francesca Marsaglia,IT,14,Giant Slalom
+2013-12-14,Elena Fanchini,IT,0,Downhill
+2013-12-14,Jennifer Piot,FR,14,Super G
+2013-12-14,Lisa Magdalena Agerer,IT,0,Combined
+2013-12-14,Priska Nufer,CH,10,Combined
+2013-12-14,Karolina Chrapek,PL,0,Combined
+2013-12-14,Anna Marno,US,0,Combined
+2013-12-14,Nadja Kamer,CH,0,Downhill
+2013-12-14,Nadia Fanchini,IT,56,Giant Slalom
+2013-12-14,Lara Gut,CH,236,Super G
+2013-12-14,Patrizia Dorsch,DE,0,Combined
+2013-12-14,Jacqueline Wiles,US,0,Downhill
+2013-12-14,Chemmy Alcott,GB,0,Super G
+2013-12-14,Lindsey Vonn,US,45,Super G
+2013-12-14,Tina Weirather,LI,180,Downhill
+2013-12-14,Marusa Ferk,SK,0,Downhill
+2013-12-14,Maria Belen Simari-Birkner,AR,0,Combined
+2013-12-14,Klara Krizova,CZ,0,Downhill
+2013-12-14,Anna Hofer,IT,0,Combined
+2013-12-14,Regina Mader Sterz,AT,50,Downhill
+2013-12-14,Ramona Siebenhofer,AT,9,Combined
+2013-12-14,Sara Hector,SE,0,Giant Slalom
+2013-12-14,Laurenne Ross,US,0,Downhill
+2013-12-14,Marianne Abderhalden,CH,0,Downhill
+2013-12-14,Corinne Suter,CH,0,Combined
+2013-12-14,Verena Stuffer,IT,30,Super G
+2013-12-14,Dominique Gisin,CH,80,Downhill
+2013-12-14,Maria Bedareva,RU,0,Combined
+2013-12-14,Johanna Schnarf,IT,0,Downhill
+2013-12-14,Anna Veith Fenninger,AT,200,Giant Slalom
+2013-12-14,Sofia Goggia,IT,36,Super G
+2013-12-14,Nicole Schmidhofer,AT,35,Downhill
 2013-12-14,Julia Mancuso,US,27,Downhill
+2013-12-14,Tina Maze,SK,38,Downhill
+2013-12-14,Carolina Ruiz Castillo,ES,26,Downhill
+2013-12-14,Elena Yakovishina,RU,0,Combined
+2013-12-14,Stephanie Venier,AT,7,Super G
+2013-12-14,Cornelia Huetter,AT,26,Downhill
 2013-12-14,Maria Riesch Hoefl,DE,76,Downhill
-2014-01-23,Marianne Abderhalden,CH,10,Downhill
-2014-01-23,Tina Maze,SK,78,Downhill
-2014-01-23,Stefanie Moser,AT,17,Downhill
-2014-01-23,Maria Bedareva,RU,0,Combined
-2014-01-23,Maria Belen Simari-Birkner,AR,0,Combined
-2014-01-23,Maria Riesch Hoefl,DE,156,Downhill
+2013-12-14,Federica Brignone,IT,0,Giant Slalom
+2013-12-14,Stefanie Koehle,AT,42,Super G
+2013-12-14,Fabienne Suter,CH,49,Downhill
+2013-12-14,Alexandra Coletti,MC,0,Combined
+2013-12-14,Greta Small,AU,0,Combined
+2013-12-14,Romane Miradoli,FR,0,Combined
+2013-12-14,Ragnhild Mowinckel,NO,31,Super G
+2013-12-14,Marie-Pier Prefontaine,CA,0,Giant Slalom
+2013-12-14,Lotte Smiseth Sejersted,NO,36,Downhill
+2013-12-14,Tessa Worley,FR,55,Giant Slalom
+2013-12-14,Nicole Hosp,AT,127,Super G
+2013-12-14,Marie Marchand-Arvier,FR,6,Downhill
+2013-12-14,Edith Miklos,HU,0,Downhill
+2013-12-14,Agnieszka Gasienica Daniel,PL,0,Combined
+2013-12-14,Jasmine Flury,CH,0,Combined
+2013-12-14,Michaela Wenig,DE,0,Downhill
+2013-12-14,Jessica Lindell-Vikarby,SE,18,Giant Slalom
+2013-12-14,Daniela Merighetti,IT,0,Downhill
+2013-12-14,Andrea Fischbacher,AT,22,Downhill
+2013-12-14,Viktoria Rebensburg,DE,56,Giant Slalom
+2013-12-14,Ilka Stuhec,SK,64,Super G
+2013-12-14,Lena Duerr,DE,0,Slalom
+2013-12-14,Vanja Brodnik,SK,0,Combined
+2013-12-14,Karoline Pichler,IT,0,Combined
+2013-12-14,Larisa Yurkiw,CA,16,Downhill
+2013-12-14,Veronique Hronek,DE,30,Super G
+2013-12-14,Macarena Simari-Birkner,AR,0,Combined
+2013-12-14,Julia Roth,CA,0,Combined
+2013-12-14,Denise Feierabend,CH,0,Slalom
+2013-12-14,Fraenzi Aufdenblatten,CH,27,Downhill
+2013-12-14,Camilla Borsotti,IT,0,Combined
+2013-12-14,Megan McJames,US,0,Giant Slalom
+2013-12-14,Kajsa Kling,SE,116,Super G
+2014-01-23,Camilla Borsotti,IT,0,Combined
+2014-01-23,Jacqueline Wiles,US,0,Downhill
+2014-01-23,Megan McJames,US,0,Giant Slalom
+2014-01-23,Alexandra Coletti,MC,0,Combined
+2014-01-23,Agnieszka Gasienica Daniel,PL,0,Combined
+2014-01-23,Joana Haehlen,CH,0,Downhill
+2014-01-23,Edith Miklos,HU,0,Downhill
 2014-01-23,Anna Marno,US,0,Combined
-2014-01-23,Verena Stuffer,IT,62,Super G
+2014-01-23,Marine Gauthier,FR,0,Downhill
+2014-01-23,Vanja Brodnik,SK,0,Combined
+2014-01-23,Julia Ford,US,0,Downhill
 2014-01-23,Andrea Dettling,CH,0,Combined
-2014-01-23,Kajsa Kling,SE,142,Super G
-2014-01-23,Anne Sophie Barthet,FR,0,Slalom
-2014-01-23,Johanna Schnarf,IT,0,Downhill
-2014-01-23,Nadja Kamer,CH,7,Downhill
-2014-01-23,Karolina Chrapek,PL,0,Downhill
-2014-01-23,Patrizia Dorsch,DE,0,Combined
-2014-01-23,Sara Hector,SE,0,Giant Slalom
-2014-01-23,Nicole Schmidhofer,AT,50,Downhill
-2014-01-23,Nicole Hosp,AT,187,Super G
+2014-01-23,Lisa Magdalena Agerer,IT,0,Combined
 2014-01-23,Federica Brignone,IT,0,Giant Slalom
-2014-01-23,Anna Veith Fenninger,AT,245,Giant Slalom
-2014-01-23,Ramona Siebenhofer,AT,9,Combined
-2014-01-23,Ania Monica Cail,RO,0,Combined
-2014-01-23,Marusa Ferk,SK,9,Downhill
-2014-01-23,Ilka Stuhec,SK,64,Super G
-2014-01-23,Nadia Fanchini,IT,61,Giant Slalom
-2014-01-23,Dominique Gisin,CH,106,Downhill
-2014-01-23,Carolina Ruiz Castillo,ES,27,Downhill
+2014-01-23,Lena Duerr,DE,0,Slalom
+2014-01-23,Julia Roth,CA,0,Combined
+2014-01-23,Maria Belen Simari-Birkner,AR,0,Combined
+2014-01-23,Johanna Schnarf,IT,0,Downhill
 2014-01-23,Greta Small,AU,0,Combined
-2014-01-23,Elena Fanchini,IT,0,Downhill
+2014-01-23,Elena Yakovishina,RU,0,Combined
+2014-01-23,Maria Bedareva,RU,0,Combined
+2014-01-23,Michaela Wenig,DE,0,Downhill
+2014-01-23,Romane Miradoli,FR,0,Combined
+2014-01-23,Anne Sophie Barthet,FR,0,Slalom
+2014-01-23,Klara Krizova,CZ,0,Downhill
+2014-01-23,Sara Hector,SE,0,Giant Slalom
+2014-01-23,Laurenne Ross,US,0,Downhill
+2014-01-23,Macarena Simari-Birkner,AR,0,Combined
+2014-01-23,Francesca Marsaglia,IT,25,Giant Slalom
+2014-01-23,Stacey J Cook,US,60,Downhill
+2014-01-23,Ilka Stuhec,SK,64,Super G
+2014-01-23,Andrea Fischbacher,AT,22,Downhill
+2014-01-23,Verena Stuffer,IT,62,Super G
+2014-01-23,Larisa Yurkiw,CA,16,Downhill
+2014-01-23,Fraenzi Aufdenblatten,CH,30,Downhill
+2014-01-23,Nicole Schmidhofer,AT,50,Downhill
+2014-01-23,Karoline Pichler,IT,0,Combined
+2014-01-23,Jessica Lindell-Vikarby,SE,31,Giant Slalom
+2014-01-23,Nadia Fanchini,IT,61,Giant Slalom
+2014-01-23,Lindsey Vonn,US,45,Super G
+2014-01-23,Carolina Ruiz Castillo,ES,27,Downhill
+2014-01-23,Anna Hofer,IT,0,Combined
 2014-01-23,Daniela Merighetti,IT,22,Downhill
 2014-01-23,Stefanie Koehle,AT,42,Super G
+2014-01-23,Regina Mader Sterz,AT,66,Downhill
 2014-01-23,Ragnhild Mowinckel,NO,51,Super G
-2014-01-23,Macarena Simari-Birkner,AR,0,Downhill
-2014-01-23,Leanne Smith,US,48,Super G
+2014-01-23,Dominique Gisin,CH,106,Downhill
 2014-01-23,Lotte Smiseth Sejersted,NO,50,Downhill
+2014-01-23,Marie-Pier Prefontaine,CA,0,Giant Slalom
 2014-01-23,Marie Marchand-Arvier,FR,13,Downhill
+2014-01-23,Leanne Smith,US,48,Super G
 2014-01-23,Marie-Michele Gagnon,CA,66,Slalom
-2014-01-23,Lisa Magdalena Agerer,IT,0,Combined
-2014-01-23,Stacey J Cook,US,60,Downhill
+2014-01-23,Stephanie Venier,AT,7,Super G
+2014-01-23,Sofia Goggia,IT,36,Super G
 2014-01-23,Tessa Worley,FR,55,Giant Slalom
 2014-01-23,Fabienne Suter,CH,49,Downhill
-2014-01-23,Joana Haehlen,CH,0,Downhill
-2014-01-23,Sofia Goggia,IT,36,Super G
 2014-01-23,Cornelia Huetter,AT,34,Downhill
-2014-01-23,Camilla Borsotti,IT,0,Combined
+2014-01-23,Denise Feierabend,CH,0,Slalom
 2014-01-23,Viktoria Rebensburg,DE,74,Giant Slalom
-2014-01-23,Michaela Wenig,DE,0,Downhill
-2014-01-23,Julia Mancuso,US,63,Downhill
-2014-01-23,Jessica Lindell-Vikarby,SE,31,Giant Slalom
-2014-01-23,Elena Yakovishina,RU,0,Combined
-2014-01-23,Agnieszka Gasienica Daniel,PL,0,Combined
-2014-01-23,Regina Mader Sterz,AT,66,Downhill
-2014-01-23,Elena Curtoni,IT,17,Super G
-2014-01-23,Elisabeth Goergl,AT,200,Downhill
-2014-01-23,Francesca Marsaglia,IT,25,Giant Slalom
-2014-01-23,Lindsey Vonn,US,45,Super G
-2014-01-23,Jasmine Flury,CH,0,Combined
-2014-01-23,Tina Weirather,LI,230,Downhill
-2014-01-23,Lara Gut,CH,248,Super G
-2014-01-23,Andrea Fischbacher,AT,22,Downhill
-2014-01-23,Corinne Suter,CH,0,Combined
+2014-01-23,Tina Maze,SK,78,Downhill
+2014-01-23,Karolina Chrapek,PL,0,Combined
 2014-01-23,Veronique Hronek,DE,30,Super G
-2014-01-23,Lena Duerr,DE,0,Slalom
-2014-01-23,Vanja Brodnik,SK,0,Combined
-2014-01-23,Fraenzi Aufdenblatten,CH,30,Downhill
-2014-01-23,Megan McJames,US,0,Giant Slalom
-2014-01-26,Maria Riesch Hoefl,DE,216,Downhill
-2014-01-26,Johanna Schnarf,IT,0,Downhill
-2014-01-26,Joana Haehlen,CH,0,Downhill
-2014-01-26,Patrizia Dorsch,DE,0,Combined
-2014-01-26,Anna Hofer,IT,0,Combined
-2014-01-26,Camilla Borsotti,IT,0,Combined
+2014-01-23,Elena Curtoni,IT,17,Super G
+2014-01-23,Corinne Suter,CH,0,Combined
+2014-01-23,Nadja Kamer,CH,7,Downhill
+2014-01-23,Chemmy Alcott,GB,0,Super G
+2014-01-23,Lara Gut,CH,248,Super G
+2014-01-23,Tina Weirather,LI,230,Downhill
+2014-01-23,Patrizia Dorsch,DE,0,Combined
+2014-01-23,Marusa Ferk,SK,9,Downhill
+2014-01-23,Elisabeth Goergl,AT,200,Downhill
+2014-01-23,Anna Veith Fenninger,AT,245,Giant Slalom
+2014-01-23,Ramona Siebenhofer,AT,9,Combined
+2014-01-23,Jasmine Flury,CH,0,Combined
+2014-01-23,Marianne Abderhalden,CH,10,Downhill
+2014-01-23,Maria Riesch Hoefl,DE,156,Downhill
+2014-01-23,Priska Nufer,CH,10,Combined
+2014-01-23,Kajsa Kling,SE,142,Super G
+2014-01-23,Julia Mancuso,US,63,Downhill
+2014-01-23,Nicole Hosp,AT,187,Super G
+2014-01-23,Jennifer Piot,FR,14,Super G
+2014-01-23,Ania Monica Cail,RO,0,Combined
+2014-01-23,Elena Fanchini,IT,0,Downhill
+2014-01-23,Stefanie Moser,AT,17,Downhill
+2014-01-26,Marine Gauthier,FR,0,Downhill
+2014-01-26,Tina Maze,SK,123,Downhill
 2014-01-26,Nicole Hosp,AT,213,Super G
-2014-01-26,Maria Bedareva,RU,0,Combined
-2014-01-26,Marie-Pier Prefontaine,CA,0,Giant Slalom
-2014-01-26,Elisabeth Goergl,AT,240,Downhill
-2014-01-26,Michaela Wenig,DE,0,Downhill
-2014-01-26,Denise Feierabend,CH,0,Slalom
-2014-01-26,Vanja Brodnik,SK,0,Combined
-2014-01-26,Karoline Pichler,IT,0,Combined
-2014-01-26,Megan McJames,US,0,Giant Slalom
-2014-01-26,Karolina Chrapek,PL,0,Downhill
-2014-01-26,Lara Gut,CH,348,Super G
-2014-01-26,Julia Ford,US,0,Downhill
-2014-01-26,Lisa Magdalena Agerer,IT,0,Combined
-2014-01-26,Greta Small,AU,0,Combined
+2014-01-26,Anne Sophie Barthet,FR,0,Slalom
 2014-01-26,Tina Weirather,LI,310,Downhill
-2014-01-26,Kajsa Kling,SE,147,Super G
-2014-01-26,Federica Brignone,IT,0,Giant Slalom
-2014-01-26,Macarena Simari-Birkner,AR,0,Downhill
-2014-01-26,Corinne Suter,CH,0,Combined
-2014-01-26,Ania Monica Cail,RO,0,Combined
-2014-01-26,Lena Duerr,DE,0,Slalom
+2014-01-26,Lara Gut,CH,348,Super G
+2014-01-26,Macarena Simari-Birkner,AR,0,Combined
+2014-01-26,Marie-Michele Gagnon,CA,66,Slalom
+2014-01-26,Maria Bedareva,RU,0,Combined
+2014-01-26,Ilka Stuhec,SK,64,Super G
+2014-01-26,Leanne Smith,US,48,Super G
 2014-01-26,Julia Roth,CA,0,Combined
-2014-01-26,Agnieszka Gasienica Daniel,PL,0,Combined
-2014-01-26,Andrea Dettling,CH,0,Combined
+2014-01-26,Denise Feierabend,CH,0,Slalom
+2014-01-26,Sofia Goggia,IT,36,Super G
+2014-01-26,Anna Marno,US,0,Combined
+2014-01-26,Elisabeth Goergl,AT,240,Downhill
+2014-01-26,Romane Miradoli,FR,0,Combined
+2014-01-26,Anna Hofer,IT,0,Combined
+2014-01-26,Maria Riesch Hoefl,DE,216,Downhill
+2014-01-26,Nadia Fanchini,IT,97,Giant Slalom
+2014-01-26,Nicole Schmidhofer,AT,72,Downhill
+2014-01-26,Kajsa Kling,SE,147,Super G
+2014-01-26,Lindsey Vonn,US,45,Super G
+2014-01-26,Sara Hector,SE,0,Giant Slalom
+2014-01-26,Jasmine Flury,CH,0,Combined
+2014-01-26,Regina Mader Sterz,AT,84,Downhill
+2014-01-26,Vanja Brodnik,SK,0,Combined
 2014-01-26,Anna Veith Fenninger,AT,277,Giant Slalom
-2014-01-26,Alexandra Coletti,MC,0,Combined
 2014-01-26,Viktoria Rebensburg,DE,74,Giant Slalom
+2014-01-26,Maria Belen Simari-Birkner,AR,0,Combined
+2014-01-26,Dominique Gisin,CH,106,Downhill
+2014-01-26,Verena Stuffer,IT,112,Super G
+2014-01-26,Alexandra Coletti,MC,0,Combined
+2014-01-26,Stephanie Venier,AT,13,Super G
+2014-01-26,Cornelia Huetter,AT,46,Downhill
+2014-01-26,Camilla Borsotti,IT,0,Combined
+2014-01-26,Veronique Hronek,DE,30,Super G
+2014-01-26,Andrea Fischbacher,AT,22,Downhill
+2014-01-26,Francesca Marsaglia,IT,39,Giant Slalom
+2014-01-26,Joana Haehlen,CH,0,Downhill
+2014-01-26,Ania Monica Cail,RO,0,Combined
 2014-01-26,Elena Curtoni,IT,27,Super G
-2014-01-26,Marie Marchand-Arvier,FR,42,Downhill
-2014-01-26,Nadja Kamer,CH,14,Downhill
-2014-01-26,Lotte Smiseth Sejersted,NO,50,Downhill
-2014-01-26,Larisa Yurkiw,CA,16,Downhill
-2014-01-26,Chemmy Alcott,GB,8,Super G
-2014-01-26,Marusa Ferk,SK,33,Downhill
-2014-01-26,Ramona Siebenhofer,AT,9,Combined
+2014-01-26,Julia Ford,US,0,Downhill
+2014-01-26,Jennifer Piot,FR,23,Super G
+2014-01-26,Elena Fanchini,IT,13,Downhill
+2014-01-26,Lisa Magdalena Agerer,IT,0,Combined
+2014-01-26,Julia Mancuso,US,78,Downhill
+2014-01-26,Stefanie Moser,AT,17,Downhill
+2014-01-26,Laurenne Ross,US,0,Downhill
 2014-01-26,Marianne Abderhalden,CH,10,Downhill
+2014-01-26,Corinne Suter,CH,0,Combined
+2014-01-26,Ramona Siebenhofer,AT,9,Combined
+2014-01-26,Johanna Schnarf,IT,0,Downhill
+2014-01-26,Patrizia Dorsch,DE,0,Combined
+2014-01-26,Marusa Ferk,SK,33,Downhill
+2014-01-26,Klara Krizova,CZ,1,Downhill
+2014-01-26,Chemmy Alcott,GB,8,Super G
+2014-01-26,Nadja Kamer,CH,14,Downhill
+2014-01-26,Jacqueline Wiles,US,2,Downhill
+2014-01-26,Priska Nufer,CH,10,Combined
+2014-01-26,Larisa Yurkiw,CA,16,Downhill
+2014-01-26,Karolina Chrapek,PL,0,Combined
+2014-01-26,Marie Marchand-Arvier,FR,42,Downhill
+2014-01-26,Stacey J Cook,US,80,Downhill
+2014-01-26,Marie-Pier Prefontaine,CA,0,Giant Slalom
+2014-01-26,Edith Miklos,HU,0,Downhill
+2014-01-26,Lena Duerr,DE,0,Slalom
+2014-01-26,Lotte Smiseth Sejersted,NO,50,Downhill
+2014-01-26,Greta Small,AU,0,Combined
 2014-01-26,Ragnhild Mowinckel,NO,62,Super G
 2014-01-26,Stefanie Koehle,AT,42,Super G
-2014-01-26,Nadia Fanchini,IT,97,Giant Slalom
-2014-01-26,Daniela Merighetti,IT,38,Downhill
-2014-01-26,Dominique Gisin,CH,106,Downhill
-2014-01-26,Stefanie Moser,AT,17,Downhill
-2014-01-26,Elena Fanchini,IT,13,Downhill
-2014-01-26,Edith Miklos,HU,0,Downhill
-2014-01-26,Jennifer Piot,FR,23,Super G
-2014-01-26,Carolina Ruiz Castillo,ES,27,Downhill
-2014-01-26,Jessica Lindell-Vikarby,SE,31,Giant Slalom
-2014-01-26,Francesca Marsaglia,IT,39,Giant Slalom
-2014-01-26,Fraenzi Aufdenblatten,CH,34,Downhill
-2014-01-26,Andrea Fischbacher,AT,22,Downhill
-2014-01-26,Lindsey Vonn,US,45,Super G
-2014-01-26,Veronique Hronek,DE,30,Super G
-2014-01-26,Regina Mader Sterz,AT,84,Downhill
-2014-01-26,Stephanie Venier,AT,13,Super G
-2014-01-26,Stacey J Cook,US,80,Downhill
-2014-01-26,Nicole Schmidhofer,AT,72,Downhill
-2014-01-26,Jacqueline Wiles,US,2,Downhill
-2014-01-26,Sofia Goggia,IT,36,Super G
-2014-01-26,Maria Belen Simari-Birkner,AR,0,Combined
-2014-01-26,Sara Hector,SE,0,Giant Slalom
+2014-01-26,Agnieszka Gasienica Daniel,PL,0,Combined
+2014-01-26,Elena Yakovishina,RU,0,Combined
 2014-01-26,Fabienne Suter,CH,52,Downhill
-2014-01-26,Anne Sophie Barthet,FR,0,Slalom
-2014-01-26,Marine Gauthier,FR,0,Downhill
-2014-01-26,Cornelia Huetter,AT,46,Downhill
-2014-01-26,Ilka Stuhec,SK,64,Super G
-2014-01-26,Verena Stuffer,IT,112,Super G
-2014-01-26,Anna Marno,US,0,Combined
+2014-01-26,Carolina Ruiz Castillo,ES,27,Downhill
+2014-01-26,Karoline Pichler,IT,0,Combined
+2014-01-26,Michaela Wenig,DE,0,Downhill
+2014-01-26,Megan McJames,US,0,Giant Slalom
+2014-01-26,Jessica Lindell-Vikarby,SE,31,Giant Slalom
+2014-01-26,Fraenzi Aufdenblatten,CH,34,Downhill
+2014-01-26,Andrea Dettling,CH,0,Combined
+2014-01-26,Federica Brignone,IT,0,Giant Slalom
+2014-01-26,Daniela Merighetti,IT,38,Downhill
 2014-01-26,Tessa Worley,FR,55,Giant Slalom
-2014-01-26,Julia Mancuso,US,78,Downhill
-2014-01-26,Tina Maze,SK,123,Downhill
-2014-01-26,Klara Krizova,CZ,1,Downhill
-2014-01-26,Romane Miradoli,FR,0,Combined
-2014-03-13,Dominique Gisin,CH,122,Downhill
-2014-03-13,Daniela Merighetti,IT,38,Downhill
-2014-03-13,Cornelia Huetter,AT,82,Downhill
-2014-03-13,Michaela Wenig,DE,0,Downhill
-2014-03-13,Julia Mancuso,US,104,Downhill
-2014-03-13,Fraenzi Aufdenblatten,CH,34,Downhill
-2014-03-13,Megan McJames,US,0,Giant Slalom
-2014-03-13,Carolina Ruiz Castillo,ES,27,Downhill
-2014-03-13,Elena Yakovishina,RU,0,Combined
-2014-03-13,Viktoria Rebensburg,DE,106,Giant Slalom
-2014-03-13,Camilla Borsotti,IT,0,Combined
-2014-03-13,Jessica Lindell-Vikarby,SE,31,Giant Slalom
-2014-03-13,Joana Haehlen,CH,0,Downhill
-2014-03-13,Lara Gut,CH,448,Super G
-2014-03-13,Marie-Michele Gagnon,CA,66,Slalom
-2014-03-13,Stacey J Cook,US,104,Downhill
-2014-03-13,Laurenne Ross,US,0,Downhill
-2014-03-13,Tessa Worley,FR,55,Giant Slalom
-2014-03-13,Macarena Simari-Birkner,AR,0,Downhill
-2014-03-13,Marie Marchand-Arvier,FR,42,Downhill
-2014-03-13,Julia Ford,US,0,Downhill
-2014-03-13,Greta Small,AU,0,Combined
-2014-03-13,Lotte Smiseth Sejersted,NO,50,Downhill
-2014-03-13,Julia Roth,CA,0,Combined
-2014-03-13,Ragnhild Mowinckel,NO,62,Super G
-2014-03-13,Fabienne Suter,CH,52,Downhill
-2014-03-13,Agnieszka Gasienica Daniel,PL,0,Combined
-2014-03-13,Stefanie Koehle,AT,42,Super G
-2014-03-13,Lisa Magdalena Agerer,IT,0,Combined
-2014-03-13,Sofia Goggia,IT,36,Super G
-2014-03-13,Leanne Smith,US,66,Super G
-2014-03-13,Lena Duerr,DE,0,Slalom
-2014-03-13,Vanja Brodnik,SK,0,Combined
-2014-03-13,Regina Mader Sterz,AT,129,Downhill
-2014-03-13,Chemmy Alcott,GB,8,Super G
-2014-03-13,Kajsa Kling,SE,176,Super G
 2014-03-13,Johanna Schnarf,IT,0,Downhill
-2014-03-13,Verena Stuffer,IT,132,Super G
-2014-03-13,Nadja Kamer,CH,14,Downhill
-2014-03-13,Stephanie Venier,AT,13,Super G
-2014-03-13,Federica Brignone,IT,0,Giant Slalom
-2014-03-13,Jacqueline Wiles,US,2,Downhill
-2014-03-13,Klara Krizova,CZ,1,Downhill
 2014-03-13,Andrea Dettling,CH,0,Combined
-2014-03-13,Nicole Schmidhofer,AT,122,Downhill
-2014-03-13,Anne Sophie Barthet,FR,0,Slalom
-2014-03-13,Sara Hector,SE,0,Giant Slalom
-2014-03-13,Maria Riesch Hoefl,DE,216,Downhill
-2014-03-13,Ilka Stuhec,SK,86,Super G
-2014-03-13,Karolina Chrapek,PL,0,Downhill
-2014-03-13,Anna Marno,US,0,Combined
-2014-03-13,Maria Belen Simari-Birkner,AR,0,Combined
-2014-03-13,Maria Bedareva,RU,0,Combined
-2014-03-13,Marine Gauthier,FR,0,Downhill
-2014-03-13,Romane Miradoli,FR,0,Combined
-2014-03-13,Nicole Hosp,AT,213,Super G
-2014-03-13,Alexandra Coletti,MC,0,Combined
-2014-03-13,Larisa Yurkiw,CA,16,Downhill
+2014-03-13,Anna Hofer,IT,0,Combined
+2014-03-13,Marie-Pier Prefontaine,CA,0,Giant Slalom
+2014-03-13,Jasmine Flury,CH,0,Combined
 2014-03-13,Patrizia Dorsch,DE,0,Combined
-2014-03-13,Ramona Siebenhofer,AT,9,Combined
+2014-03-13,Karoline Pichler,IT,0,Combined
+2014-03-13,Ania Monica Cail,RO,0,Combined
+2014-03-13,Alexandra Coletti,MC,0,Combined
+2014-03-13,Denise Feierabend,CH,0,Slalom
+2014-03-13,Federica Brignone,IT,0,Giant Slalom
+2014-03-13,Marianne Abderhalden,CH,10,Downhill
+2014-03-13,Maria Bedareva,RU,0,Combined
+2014-03-13,Viktoria Rebensburg,DE,106,Giant Slalom
+2014-03-13,Julia Mancuso,US,104,Downhill
+2014-03-13,Cornelia Huetter,AT,82,Downhill
+2014-03-13,Fabienne Suter,CH,52,Downhill
+2014-03-13,Tessa Worley,FR,55,Giant Slalom
+2014-03-13,Stacey J Cook,US,104,Downhill
+2014-03-13,Sofia Goggia,IT,36,Super G
+2014-03-13,Marie Marchand-Arvier,FR,42,Downhill
+2014-03-13,Ragnhild Mowinckel,NO,62,Super G
+2014-03-13,Stefanie Koehle,AT,42,Super G
+2014-03-13,Daniela Merighetti,IT,38,Downhill
+2014-03-13,Carolina Ruiz Castillo,ES,27,Downhill
+2014-03-13,Jessica Lindell-Vikarby,SE,31,Giant Slalom
+2014-03-13,Fraenzi Aufdenblatten,CH,34,Downhill
+2014-03-13,Lotte Smiseth Sejersted,NO,50,Downhill
+2014-03-13,Larisa Yurkiw,CA,16,Downhill
+2014-03-13,Marie-Michele Gagnon,CA,66,Slalom
+2014-03-13,Dominique Gisin,CH,122,Downhill
+2014-03-13,Lara Gut,CH,448,Super G
+2014-03-13,Tina Weirather,LI,310,Downhill
+2014-03-13,Elisabeth Goergl,AT,240,Downhill
+2014-03-13,Anna Veith Fenninger,AT,357,Giant Slalom
+2014-03-13,Kajsa Kling,SE,176,Super G
+2014-03-13,Maria Riesch Hoefl,DE,216,Downhill
+2014-03-13,Leanne Smith,US,66,Super G
+2014-03-13,Nicole Hosp,AT,213,Super G
+2014-03-13,Ilka Stuhec,SK,86,Super G
+2014-03-13,Verena Stuffer,IT,132,Super G
+2014-03-13,Nicole Schmidhofer,AT,122,Downhill
+2014-03-13,Nadia Fanchini,IT,137,Giant Slalom
 2014-03-13,Lindsey Vonn,US,45,Super G
-2014-03-13,Corinne Suter,CH,0,Combined
+2014-03-13,Regina Mader Sterz,AT,129,Downhill
+2014-03-13,Tina Maze,SK,183,Downhill
 2014-03-13,Veronique Hronek,DE,30,Super G
 2014-03-13,Andrea Fischbacher,AT,22,Downhill
-2014-03-13,Jasmine Flury,CH,0,Combined
 2014-03-13,Francesca Marsaglia,IT,39,Giant Slalom
-2014-03-13,Tina Weirather,LI,310,Downhill
-2014-03-13,Tina Maze,SK,183,Downhill
-2014-03-13,Anna Hofer,IT,0,Combined
+2014-03-13,Elena Yakovishina,RU,0,Combined
+2014-03-13,Greta Small,AU,0,Combined
+2014-03-13,Edith Miklos,HU,0,Downhill
+2014-03-13,Agnieszka Gasienica Daniel,PL,0,Combined
+2014-03-13,Michaela Wenig,DE,0,Downhill
+2014-03-13,Julia Roth,CA,0,Combined
+2014-03-13,Megan McJames,US,0,Giant Slalom
+2014-03-13,Macarena Simari-Birkner,AR,0,Combined
+2014-03-13,Sara Hector,SE,0,Giant Slalom
+2014-03-13,Anna Marno,US,0,Combined
+2014-03-13,Maria Belen Simari-Birkner,AR,0,Combined
+2014-03-13,Marine Gauthier,FR,0,Downhill
+2014-03-13,Romane Miradoli,FR,0,Combined
+2014-03-13,Vanja Brodnik,SK,0,Combined
+2014-03-13,Anne Sophie Barthet,FR,0,Slalom
+2014-03-13,Lena Duerr,DE,0,Slalom
+2014-03-13,Camilla Borsotti,IT,0,Combined
+2014-03-13,Joana Haehlen,CH,0,Downhill
 2014-03-13,Elena Curtoni,IT,27,Super G
-2014-03-13,Marusa Ferk,SK,33,Downhill
 2014-03-13,Jennifer Piot,FR,23,Super G
 2014-03-13,Elena Fanchini,IT,13,Downhill
-2014-03-13,Elisabeth Goergl,AT,240,Downhill
-2014-03-13,Marie-Pier Prefontaine,CA,0,Giant Slalom
 2014-03-13,Stefanie Moser,AT,17,Downhill
-2014-03-13,Anna Veith Fenninger,AT,357,Giant Slalom
-2014-03-13,Nadia Fanchini,IT,137,Giant Slalom
-2014-03-13,Karoline Pichler,IT,0,Combined
 2014-03-13,Priska Nufer,CH,10,Combined
-2014-03-13,Marianne Abderhalden,CH,10,Downhill
-2014-03-13,Ania Monica Cail,RO,0,Combined
-2014-03-13,Denise Feierabend,CH,0,Slalom
-2014-03-13,Edith Miklos,HU,0,Downhill
+2014-03-13,Ramona Siebenhofer,AT,9,Combined
+2014-03-13,Marusa Ferk,SK,33,Downhill
+2014-03-13,Chemmy Alcott,GB,8,Super G
+2014-03-13,Nadja Kamer,CH,14,Downhill
+2014-03-13,Stephanie Venier,AT,13,Super G
+2014-03-13,Jacqueline Wiles,US,2,Downhill
+2014-03-13,Klara Krizova,CZ,1,Downhill
+2014-03-13,Laurenne Ross,US,0,Downhill
+2014-03-13,Lisa Magdalena Agerer,IT,0,Combined
+2014-03-13,Julia Ford,US,0,Downhill
+2014-03-13,Karolina Chrapek,PL,0,Combined
+2014-03-13,Corinne Suter,CH,0,Combined

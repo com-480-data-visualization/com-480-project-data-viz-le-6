@@ -1,7 +1,7 @@
 date,name,ath_country,value,specialty
 1996-11-30,Katja Seizinger,DE,100,Super G
 1996-11-30,Brigitte Obermoser,AT,4,Downhill
-1996-11-30,Florence Masnada,FR,22,Super G
+1996-11-30,Florence Masnada,FR,22,Downhill
 1996-11-30,Sovrana Welf,IT,5,Downhill
 1996-11-30,Marianne Brechu,FR,1,Super G
 1996-11-30,Kate Pace,CA,13,Downhill
@@ -37,13 +37,13 @@ date,name,ath_country,value,specialty
 1996-11-30,Ingeborg H. Marken,NO,26,Downhill
 1996-11-30,Heidi Zurbriggen,CH,45,Downhill
 1996-11-30,Elisabeth Brandner,DE,2,Downhill
-1996-11-30,Svetlana Gladishiva,RU,9,Super G
+1996-11-30,Svetlana Gladishiva,RU,9,Downhill
 1996-11-30,Regine Cavagnoud,FR,12,Downhill
 1996-11-30,Melanie Turgeon,CA,18,Downhill
 1996-11-30,Sylviane Berthod,CH,0,Super G
-1996-11-30,Barbara Merlin,IT,18,Super G
+1996-11-30,Barbara Merlin,IT,18,Downhill
 1996-11-30,Patrizia Bassis,IT,3,Downhill
-1996-11-30,Sibylle Brauner,DE,0,Combined
+1996-11-30,Sibylle Brauner,DE,0,Downhill
 1996-11-30,Martina Ertl,DE,0,Super G
 1996-11-30,Katharina Gutensohn,DE,20,Downhill
 1996-12-07,Picabo Street,US,50,Downhill
@@ -52,13 +52,13 @@ date,name,ath_country,value,specialty
 1996-12-07,Melanie Turgeon,CA,18,Downhill
 1996-12-07,Alexandra Meissnitzer,AT,65,Downhill
 1996-12-07,Spela Bracun,SK,12,Super G
-1996-12-07,Barbara Merlin,IT,38,Super G
+1996-12-07,Barbara Merlin,IT,38,Downhill
 1996-12-07,Ingeborg H. Marken,NO,58,Downhill
 1996-12-07,Alessandra Merlin,IT,11,Downhill
 1996-12-07,Brigitte Obermoser,AT,9,Downhill
 1996-12-07,Catherine Borghi,CH,7,Super G
 1996-12-07,Michaela Dorfmeister,AT,0,Super G
-1996-12-07,Svetlana Gladishiva,RU,23,Super G
+1996-12-07,Svetlana Gladishiva,RU,23,Downhill
 1996-12-07,Regina Haeusl,DE,66,Downhill
 1996-12-07,Regine Cavagnoud,FR,23,Downhill
 1996-12-07,Anita Wachter,AT,22,Giant Slalom
@@ -67,8 +67,8 @@ date,name,ath_country,value,specialty
 1996-12-07,Marianne Brechu,FR,1,Super G
 1996-12-07,Martina Ertl,DE,16,Super G
 1996-12-07,Svetlana Novikova,RU,0,Downhill
-1996-12-07,Florence Masnada,FR,51,Super G
-1996-12-07,Sibylle Brauner,DE,4,Combined
+1996-12-07,Florence Masnada,FR,51,Downhill
+1996-12-07,Sibylle Brauner,DE,4,Downhill
 1996-12-07,Bibiana Perez,IT,45,Downhill
 1996-12-07,Megan Gerety,US,56,Downhill
 1996-12-07,Stefanie Schuster,AT,50,Downhill
@@ -95,12 +95,12 @@ date,name,ath_country,value,specialty
 1996-12-07,Elisabeth Brandner,DE,2,Downhill
 1997-01-11,Stefanie Schuster,AT,110,Downhill
 1997-01-11,Sovrana Welf,IT,7,Downhill
-1997-01-11,Barbara Merlin,IT,45,Super G
+1997-01-11,Barbara Merlin,IT,45,Downhill
 1997-01-11,Brigitte Obermoser,AT,9,Downhill
 1997-01-11,Elisabeth Brandner,DE,2,Downhill
 1997-01-11,Laetitia Dalloz,FR,1,Super G
 1997-01-11,Isolde Kostner,IT,96,Downhill
-1997-01-11,Sibylle Brauner,DE,4,Combined
+1997-01-11,Sibylle Brauner,DE,4,Downhill
 1997-01-11,Ingeborg H. Marken,NO,58,Downhill
 1997-01-11,Renate Goetschl,AT,182,Downhill
 1997-01-11,Grete Stroem,NO,3,Downhill
@@ -110,13 +110,13 @@ date,name,ath_country,value,specialty
 1997-01-11,Sylviane Berthod,CH,0,Super G
 1997-01-11,Elena Bresciani,IT,3,Downhill
 1997-01-11,Regine Cavagnoud,FR,39,Downhill
-1997-01-11,Svetlana Gladishiva,RU,35,Super G
+1997-01-11,Svetlana Gladishiva,RU,35,Downhill
 1997-01-11,Heidi Zurbriggen,CH,169,Downhill
 1997-01-11,Catherine Borghi,CH,7,Super G
 1997-01-11,Katharina Gutensohn,DE,49,Downhill
 1997-01-11,Bibiana Perez,IT,55,Downhill
 1997-01-11,Warwara Zelenskaja,RU,73,Downhill
-1997-01-11,Florence Masnada,FR,91,Super G
+1997-01-11,Florence Masnada,FR,91,Downhill
 1997-01-11,Ingrid Stoeckl,AT,8,Downhill
 1997-01-11,Alexandra Meissnitzer,AT,85,Downhill
 1997-01-11,Alessandra Merlin,IT,20,Downhill
@@ -148,7 +148,7 @@ date,name,ath_country,value,specialty
 1997-01-24,Spela Bracun,SK,12,Super G
 1997-01-24,Melanie Suchet,FR,0,Downhill
 1997-01-24,Anna Larionova,RU,0,Downhill
-1997-01-24,Svetlana Gladishiva,RU,47,Super G
+1997-01-24,Svetlana Gladishiva,RU,47,Downhill
 1997-01-24,Monika Tschirky,CH,7,Downhill
 1997-01-24,Ingrid Stoeckl,AT,8,Downhill
 1997-01-24,Marianne Brechu,FR,7,Super G
@@ -157,7 +157,7 @@ date,name,ath_country,value,specialty
 1997-01-24,Mojca Suhadolc,SK,14,Super G
 1997-01-24,Brigitte Obermoser,AT,18,Downhill
 1997-01-24,Grete Stroem,NO,3,Downhill
-1997-01-24,Sibylle Brauner,DE,4,Combined
+1997-01-24,Sibylle Brauner,DE,4,Downhill
 1997-01-24,Laetitia Dalloz,FR,1,Super G
 1997-01-24,Trude Gimle,NO,0,Combined
 1997-01-24,Martina Ertl,DE,34,Super G
@@ -165,7 +165,7 @@ date,name,ath_country,value,specialty
 1997-01-24,Sylviane Berthod,CH,0,Super G
 1997-01-24,Alessandra Merlin,IT,25,Downhill
 1997-01-24,Anita Wachter,AT,22,Giant Slalom
-1997-01-24,Barbara Merlin,IT,61,Super G
+1997-01-24,Barbara Merlin,IT,61,Downhill
 1997-01-24,Catherine Borghi,CH,11,Super G
 1997-01-24,Miriam Vogt,DE,93,Downhill
 1997-01-24,Heidi Zurbriggen,CH,269,Downhill
@@ -180,7 +180,7 @@ date,name,ath_country,value,specialty
 1997-01-24,Hilde Gerg,DE,135,Super G
 1997-01-24,Renate Goetschl,AT,227,Downhill
 1997-01-24,Megan Gerety,US,71,Downhill
-1997-01-24,Florence Masnada,FR,109,Super G
+1997-01-24,Florence Masnada,FR,109,Downhill
 1997-01-24,Stefanie Schuster,AT,132,Downhill
 1997-01-24,Isolde Kostner,IT,196,Downhill
 1997-01-24,Hilary Lindh,US,51,Downhill
@@ -215,7 +215,7 @@ date,name,ath_country,value,specialty
 1997-02-01,Brigitte Obermoser,AT,25,Downhill
 1997-02-01,Megan Gerety,US,86,Downhill
 1997-02-01,Hilde Gerg,DE,159,Super G
-1997-02-01,Florence Masnada,FR,121,Super G
+1997-02-01,Florence Masnada,FR,121,Downhill
 1997-02-01,Marianne Brechu,FR,7,Super G
 1997-02-01,Catherine Borghi,CH,27,Super G
 1997-02-01,Regine Cavagnoud,FR,104,Downhill
@@ -227,13 +227,13 @@ date,name,ath_country,value,specialty
 1997-02-01,Elisabeth Brandner,DE,2,Downhill
 1997-02-01,Bibiana Perez,IT,95,Downhill
 1997-02-01,Ingeborg H. Marken,NO,75,Downhill
-1997-02-01,Barbara Merlin,IT,93,Super G
+1997-02-01,Barbara Merlin,IT,93,Downhill
 1997-02-01,Katharina Gutensohn,DE,111,Downhill
 1997-02-01,Ingrid Stoeckl,AT,14,Downhill
-1997-02-01,Sibylle Brauner,DE,8,Combined
+1997-02-01,Sibylle Brauner,DE,8,Downhill
 1997-02-01,Patrizia Bassis,IT,27,Downhill
 1997-02-01,Elena Bresciani,IT,3,Downhill
-1997-02-01,Svetlana Gladishiva,RU,52,Super G
+1997-02-01,Svetlana Gladishiva,RU,52,Downhill
 1997-02-28,Catherine Borghi,CH,49,Super G
 1997-02-28,Warwara Zelenskaja,RU,323,Downhill
 1997-02-28,Katharina Gutensohn,DE,135,Downhill
@@ -251,7 +251,7 @@ date,name,ath_country,value,specialty
 1997-02-28,Monika Tschirky,CH,8,Downhill
 1997-02-28,Hilde Gerg,DE,175,Super G
 1997-02-28,Svetlana Novikova,RU,12,Downhill
-1997-02-28,Barbara Merlin,IT,93,Super G
+1997-02-28,Barbara Merlin,IT,93,Downhill
 1997-02-28,Heidi Zurbriggen,CH,389,Downhill
 1997-02-28,Sovrana Welf,IT,8,Downhill
 1997-02-28,Elisabeth Brandner,DE,2,Downhill
@@ -262,8 +262,8 @@ date,name,ath_country,value,specialty
 1997-02-28,Bibiana Perez,IT,108,Downhill
 1997-02-28,Elena Bresciani,IT,3,Downhill
 1997-02-28,Marianne Brechu,FR,21,Super G
-1997-02-28,Sibylle Brauner,DE,18,Combined
-1997-02-28,Florence Masnada,FR,153,Super G
+1997-02-28,Sibylle Brauner,DE,18,Downhill
+1997-02-28,Florence Masnada,FR,153,Downhill
 1997-02-28,Miriam Vogt,DE,101,Downhill
 1997-02-28,Pernilla Wiberg,SE,232,Slalom
 1997-02-28,Mojca Suhadolc,SK,19,Super G
@@ -278,7 +278,7 @@ date,name,ath_country,value,specialty
 1997-02-28,Grete Stroem,NO,3,Downhill
 1997-02-28,Megan Gerety,US,86,Downhill
 1997-02-28,Michaela Dorfmeister,AT,42,Super G
-1997-02-28,Svetlana Gladishiva,RU,64,Super G
+1997-02-28,Svetlana Gladishiva,RU,64,Downhill
 1997-02-28,Laetitia Dalloz,FR,4,Super G
 1997-02-28,Regine Cavagnoud,FR,104,Downhill
 1997-03-02,Mojca Suhadolc,SK,19,Super G
@@ -296,21 +296,21 @@ date,name,ath_country,value,specialty
 1997-03-02,Patrizia Bassis,IT,59,Downhill
 1997-03-02,Svetlana Novikova,RU,12,Downhill
 1997-03-02,Marianne Brechu,FR,31,Super G
-1997-03-02,Florence Masnada,FR,173,Super G
+1997-03-02,Florence Masnada,FR,173,Downhill
 1997-03-02,Brigitte Obermoser,AT,49,Downhill
 1997-03-02,Bibiana Perez,IT,111,Downhill
-1997-03-02,Sibylle Brauner,DE,36,Combined
+1997-03-02,Sibylle Brauner,DE,36,Downhill
 1997-03-02,Elena Bresciani,IT,3,Downhill
 1997-03-02,Martina Ertl,DE,34,Super G
 1997-03-02,Heidi Zurbriggen,CH,421,Downhill
 1997-03-02,Regine Cavagnoud,FR,117,Downhill
 1997-03-02,Katharina Gutensohn,DE,171,Downhill
-1997-03-02,Svetlana Gladishiva,RU,86,Super G
+1997-03-02,Svetlana Gladishiva,RU,86,Downhill
 1997-03-02,Catherine Borghi,CH,51,Super G
 1997-03-02,Elisabeth Brandner,DE,2,Downhill
 1997-03-02,Ingeborg H. Marken,NO,124,Downhill
 1997-03-02,Melanie Turgeon,CA,66,Downhill
-1997-03-02,Barbara Merlin,IT,93,Super G
+1997-03-02,Barbara Merlin,IT,93,Downhill
 1997-03-02,Katja Seizinger,DE,325,Super G
 1997-03-02,Miriam Vogt,DE,101,Downhill
 1997-03-02,Laetitia Dalloz,FR,9,Super G
@@ -342,12 +342,12 @@ date,name,ath_country,value,specialty
 1997-03-12,Marianne Brechu,FR,31,Super G
 1997-03-12,Miriam Vogt,DE,117,Downhill
 1997-03-12,Brigitte Obermoser,AT,49,Downhill
-1997-03-12,Florence Masnada,FR,191,Super G
-1997-03-12,Sibylle Brauner,DE,36,Combined
+1997-03-12,Florence Masnada,FR,191,Downhill
+1997-03-12,Sibylle Brauner,DE,36,Downhill
 1997-03-12,Bibiana Perez,IT,123,Downhill
 1997-03-12,Martina Ertl,DE,42,Super G
 1997-03-12,Regine Cavagnoud,FR,137,Downhill
-1997-03-12,Svetlana Gladishiva,RU,97,Super G
+1997-03-12,Svetlana Gladishiva,RU,97,Downhill
 1997-03-12,Katharina Gutensohn,DE,207,Downhill
 1997-03-12,Catherine Borghi,CH,61,Super G
 1997-03-12,Ingeborg H. Marken,NO,139,Downhill
@@ -369,7 +369,7 @@ date,name,ath_country,value,specialty
 1997-03-12,Svetlana Novikova,RU,12,Downhill
 1997-03-12,Stefanie Schuster,AT,212,Downhill
 1997-03-12,Melanie Suchet,FR,15,Downhill
-1997-03-12,Barbara Merlin,IT,93,Super G
+1997-03-12,Barbara Merlin,IT,93,Downhill
 1997-03-12,Picabo Street,US,50,Downhill
 1997-03-12,Alexandra Meissnitzer,AT,195,Downhill
 1997-03-12,Alessandra Merlin,IT,43,Downhill

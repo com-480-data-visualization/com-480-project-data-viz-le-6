@@ -1,31 +1,23 @@
 date,name,ath_country,value,specialty
-1997-01-12,Guenther Mader,AT,100,Giant Slalom
+1997-01-12,Bruno Kernen,CH,60,Downhill
+1997-01-12,Markus Herrmann,CH,0,Downhill
 1997-01-12,Ales Brezavsek,SK,26,Combined
 1997-01-12,Josef Strobl,AT,0,Downhill
 1997-01-12,Andreas Schifferer,AT,32,Super G
-1997-01-12,Kristian Ghedina,IT,36,Downhill
-1997-01-12,Fritz Strobl,AT,0,Downhill
-1997-01-12,Fredrik Nyberg,SE,40,Giant Slalom
 1997-01-12,Hans Knauss,AT,0,Giant Slalom
-1997-01-12,Finn Chr. Jagge,NO,50,Slalom
+1997-01-12,Fritz Strobl,AT,0,Downhill
+1997-01-12,Kristian Ghedina,IT,36,Downhill
+1997-01-12,Fredrik Nyberg,SE,40,Giant Slalom
 1997-01-12,Paul Accola,CH,45,Giant Slalom
-1997-01-12,Markus Herrmann,CH,0,Downhill
-1997-01-12,Bruno Kernen,CH,60,Downhill
-1997-01-12,Lasse Kjus,NO,0,Super G
 1997-01-12,Werner Franz,AT,29,Downhill
-1997-01-12,Kjetil Andre Aamodt,NO,80,Giant Slalom
-1997-01-26,Ales Brezavsek,SK,26,Combined
-1997-01-26,Guenther Mader,AT,100,Giant Slalom
-1997-01-26,Lasse Kjus,NO,100,Super G
-1997-01-26,Josef Strobl,AT,32,Downhill
-1997-01-26,Andreas Schifferer,AT,61,Super G
-1997-01-26,Kristian Ghedina,IT,72,Downhill
-1997-01-26,Werner Franz,AT,89,Downhill
-1997-01-26,Fredrik Nyberg,SE,40,Giant Slalom
+1997-01-26,Fritz Strobl,AT,40,Downhill
 1997-01-26,Paul Accola,CH,90,Giant Slalom
+1997-01-26,Kristian Ghedina,IT,72,Downhill
+1997-01-26,Andreas Schifferer,AT,61,Super G
+1997-01-26,Josef Strobl,AT,32,Downhill
+1997-01-26,Werner Franz,AT,89,Downhill
+1997-01-26,Ales Brezavsek,SK,26,Combined
 1997-01-26,Markus Herrmann,CH,26,Downhill
 1997-01-26,Bruno Kernen,CH,60,Downhill
+1997-01-26,Fredrik Nyberg,SE,40,Giant Slalom
 1997-01-26,Hans Knauss,AT,50,Giant Slalom
-1997-01-26,Finn Chr. Jagge,NO,50,Slalom
-1997-01-26,Fritz Strobl,AT,40,Downhill
-1997-01-26,Kjetil Andre Aamodt,NO,160,Giant Slalom

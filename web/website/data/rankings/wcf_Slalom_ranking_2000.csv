@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
 1999-11-20,Spela Pretnar,SK,100,Slalom
-1999-11-20,Caroline Lalive,US,0,Combined
+1999-11-20,Caroline Lalive,US,0,Slalom
 1999-11-20,Leila Piccard,FR,14,Slalom
 1999-11-20,Eveline Rohregger,AT,3,Giant Slalom
 1999-11-20,Hedda Berntsen,NO,0,Slalom
@@ -71,7 +71,7 @@ date,name,ath_country,value,specialty
 1999-12-05,Christel Pascal,FR,136,Slalom
 1999-12-05,Monika Bergmann,DE,16,Slalom
 1999-12-05,Helene Richard,FR,49,Slalom
-1999-12-05,Caroline Lalive,US,0,Combined
+1999-12-05,Caroline Lalive,US,0,Slalom
 1999-12-05,Ylva Nowen,SE,0,Slalom
 1999-12-05,Anna Ottosson,SE,8,Giant Slalom
 1999-12-05,Urska Hrovat,SK,16,Slalom
@@ -152,7 +152,7 @@ date,name,ath_country,value,specialty
 1999-12-12,Annemarie Gerg,DE,0,Slalom
 1999-12-12,Ingrid Salvenmoser,AT,23,Slalom
 1999-12-12,Monika Bergmann,DE,25,Slalom
-1999-12-12,Caroline Lalive,US,0,Combined
+1999-12-12,Caroline Lalive,US,0,Slalom
 1999-12-12,Ylva Nowen,SE,0,Slalom
 1999-12-12,Spela Pretnar,SK,126,Slalom
 1999-12-12,Leila Piccard,FR,33,Slalom
@@ -187,7 +187,7 @@ date,name,ath_country,value,specialty
 1999-12-29,Ylva Nowen,SE,15,Slalom
 1999-12-29,Eveline Rohregger,AT,25,Giant Slalom
 1999-12-29,Sabine Egger,AT,222,Slalom
-1999-12-29,Caroline Lalive,US,0,Combined
+1999-12-29,Caroline Lalive,US,0,Slalom
 1999-12-29,Monika Bergmann,DE,38,Slalom
 1999-12-29,Trine Bakke Rognmo,NO,230,Slalom
 1999-12-29,Hedda Berntsen,NO,0,Slalom
@@ -237,7 +237,7 @@ date,name,ath_country,value,specialty
 2000-01-06,Janica Kostelic,HR,250,Slalom
 2000-01-06,Annemarie Gerg,DE,7,Slalom
 2000-01-06,Monika Bergmann,DE,48,Slalom
-2000-01-06,Caroline Lalive,US,9,Combined
+2000-01-06,Caroline Lalive,US,9,Slalom
 2000-01-06,Ingrid Salvenmoser,AT,28,Slalom
 2000-01-06,Vicky Grau,AD,0,Slalom
 2000-01-06,Marina Huber,DE,0,Slalom
@@ -321,7 +321,7 @@ date,name,ath_country,value,specialty
 2000-01-09,Ylva Nowen,SE,15,Slalom
 2000-01-09,Laure Pequegnot,FR,104,Slalom
 2000-01-09,Marlies Oester,CH,6,Slalom
-2000-01-09,Caroline Lalive,US,21,Combined
+2000-01-09,Caroline Lalive,US,21,Slalom
 2000-01-09,Karin Truppe,AT,0,Slalom
 2000-01-09,Urska Hrovat,SK,100,Slalom
 2000-01-09,Stephanie Clement-Guy,FR,15,Slalom
@@ -369,7 +369,7 @@ date,name,ath_country,value,specialty
 2000-02-12,Kristina Koznick,US,148,Slalom
 2000-02-12,Anna Ottosson,SE,92,Giant Slalom
 2000-02-12,Monika Bergmann,DE,70,Slalom
-2000-02-12,Caroline Lalive,US,27,Combined
+2000-02-12,Caroline Lalive,US,27,Slalom
 2000-02-12,Silke Bachmann,IT,0,Giant Slalom
 2000-02-12,Kumiko Kashiwagi,JP,4,Slalom
 2000-02-12,Sonja Nef,CH,155,Giant Slalom
@@ -454,7 +454,7 @@ date,name,ath_country,value,specialty
 2000-02-20,Pernilla Wiberg,SE,69,Downhill
 2000-02-20,Ylva Nowen,SE,40,Slalom
 2000-02-20,Karen Putzer,IT,5,Giant Slalom
-2000-02-20,Caroline Lalive,US,42,Combined
+2000-02-20,Caroline Lalive,US,42,Slalom
 2000-03-10,Anna Ottosson,SE,92,Giant Slalom
 2000-03-10,Kumiko Kashiwagi,JP,16,Slalom
 2000-03-10,Urska Hrovat,SK,171,Slalom
@@ -486,7 +486,7 @@ date,name,ath_country,value,specialty
 2000-03-10,Monika Bergmann,DE,88,Slalom
 2000-03-10,Hedda Berntsen,NO,32,Slalom
 2000-03-10,Janica Kostelic,HR,250,Slalom
-2000-03-10,Caroline Lalive,US,62,Combined
+2000-03-10,Caroline Lalive,US,62,Slalom
 2000-03-10,Helene Richard,FR,189,Slalom
 2000-03-10,Ylva Nowen,SE,46,Slalom
 2000-03-10,Leila Piccard,FR,82,Slalom
@@ -536,7 +536,7 @@ date,name,ath_country,value,specialty
 2000-03-19,Ingrid Salvenmoser,AT,58,Slalom
 2000-03-19,Sonja Nef,CH,187,Giant Slalom
 2000-03-19,Monika Bergmann,DE,88,Slalom
-2000-03-19,Caroline Lalive,US,62,Combined
+2000-03-19,Caroline Lalive,US,62,Slalom
 2000-03-19,Hedda Berntsen,NO,32,Slalom
 2000-03-19,Helene Richard,FR,202,Slalom
 2000-03-19,Ylva Nowen,SE,46,Slalom

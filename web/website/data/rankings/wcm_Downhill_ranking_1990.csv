@@ -12,7 +12,7 @@ date,name,ath_country,value,specialty
 1989-12-16,Peter Rzehak,AT,0,Downhill
 1989-12-16,Alexej Maslov,RU,0,Downhill
 1989-12-16,Berni Huber,DE,0,Downhill
-1989-12-16,Markus Wasmeier,DE,0,Super G
+1989-12-16,Markus Wasmeier,DE,0,Combined
 1989-12-16,Bill Hudson,US,0,Combined
 1989-12-16,Luigi Colturi,IT,0,Downhill
 1989-12-16,Roman Rupp,AT,0,Downhill
@@ -78,10 +78,10 @@ date,name,ath_country,value,specialty
 1990-01-11,Leonhard Stock,AT,0,Downhill
 1990-01-11,Peter Rzehak,AT,8,Downhill
 1990-01-11,William Besse,CH,17,Downhill
-1990-01-11,Markus Wasmeier,DE,7,Super G
+1990-01-11,Markus Wasmeier,DE,7,Combined
 1990-01-20,Peter Wirnsberger,AT,9,Downhill
 1990-01-20,Lars Boerje Eriksson,SE,0,Super G
-1990-01-20,Markus Wasmeier,DE,7,Super G
+1990-01-20,Markus Wasmeier,DE,7,Combined
 1990-01-20,Danilo Sbardellotto,IT,0,Downhill
 1990-01-20,Karl Alpiger,CH,7,Super G
 1990-01-20,Hans-Joerg Tauscher,DE,7,Super G
@@ -123,7 +123,7 @@ date,name,ath_country,value,specialty
 1990-01-27,Peter Runggaldier,IT,10,Super G
 1990-01-27,Stefan Krauss,DE,10,Downhill
 1990-01-27,Hannes Zehentner,DE,8,Downhill
-1990-01-27,Markus Wasmeier,DE,7,Super G
+1990-01-27,Markus Wasmeier,DE,7,Combined
 1990-01-27,Urs Lehmann,CH,1,Downhill
 1990-01-27,Leonhard Stock,AT,0,Downhill
 1990-01-27,Alexej Maslov,RU,1,Downhill
@@ -167,7 +167,7 @@ date,name,ath_country,value,specialty
 1990-01-29,Rob Boyd,CA,7,Downhill
 1990-01-29,Hannes Zehentner,DE,16,Downhill
 1990-01-29,Lars Boerje Eriksson,SE,0,Super G
-1990-01-29,Markus Wasmeier,DE,8,Super G
+1990-01-29,Markus Wasmeier,DE,8,Combined
 1990-01-29,Pietro Vitalini,IT,3,Downhill
 1990-01-29,Lasse Arnesen,NO,0,Downhill
 1990-01-29,Franz Heinzer,CH,43,Downhill
@@ -208,7 +208,7 @@ date,name,ath_country,value,specialty
 1990-02-03,Leonhard Stock,AT,0,Downhill
 1990-02-03,Mario Summermatter,CH,19,Downhill
 1990-02-03,Pirmin Zurbriggen,CH,82,Downhill
-1990-02-03,Markus Wasmeier,DE,8,Super G
+1990-02-03,Markus Wasmeier,DE,8,Combined
 1990-02-03,Erwin Resch,AT,16,Downhill
 1990-02-03,Niklas Henning,SE,0,Super G
 1990-02-03,Urs Lehmann,CH,1,Downhill
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 1990-02-04,Pietro Vitalini,IT,6,Downhill
 1990-02-04,Peter Rzehak,AT,8,Downhill
 1990-02-04,Leonhard Stock,AT,4,Downhill
-1990-02-04,Markus Wasmeier,DE,8,Super G
+1990-02-04,Markus Wasmeier,DE,8,Combined
 1990-02-04,Helmut Hoeflehner,AT,131,Downhill
 1990-02-04,Erwin Resch,AT,16,Downhill
 1990-02-04,Daniel Mahrer,CH,77,Downhill
@@ -311,7 +311,7 @@ date,name,ath_country,value,specialty
 1990-03-15,Karl Alpiger,CH,17,Super G
 1990-03-15,Helmut Hoeflehner,AT,146,Downhill
 1990-03-15,Pirmin Zurbriggen,CH,100,Downhill
-1990-03-15,Markus Wasmeier,DE,14,Super G
+1990-03-15,Markus Wasmeier,DE,14,Combined
 1990-03-15,Erwin Resch,AT,16,Downhill
 1990-03-15,Xavier Gigandet,CH,9,Downhill
 1990-03-15,Niklas Henning,SE,2,Super G
@@ -341,7 +341,7 @@ date,name,ath_country,value,specialty
 1990-03-17,Peter Runggaldier,IT,10,Super G
 1990-03-17,Lars Boerje Eriksson,SE,4,Super G
 1990-03-17,Erwin Resch,AT,16,Downhill
-1990-03-17,Markus Wasmeier,DE,20,Super G
+1990-03-17,Markus Wasmeier,DE,20,Combined
 1990-03-17,Karl Alpiger,CH,17,Super G
 1990-03-17,Rob Boyd,CA,24,Downhill
 1990-03-17,Lasse Arnesen,NO,8,Downhill

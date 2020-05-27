@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
-1983-01-09,Irene Epple,DE,25,Combined
-1983-01-09,Christin Cooper,US,0,Combined
+1983-01-09,Irene Epple,DE,25,Super G
+1983-01-09,Christin Cooper,US,0,Giant Slalom
 1983-01-09,Perrine Pelen,FR,6,Slalom
 1983-01-09,Anni Kronbichler,AT,2,Slalom
 1983-01-09,Debbie Armstrong,US,0,Downhill
@@ -24,7 +24,7 @@ date,name,ath_country,value,specialty
 1983-01-10,Ursula Konzett,LI,4,Slalom
 1983-01-10,Michaela Gerg-Leitner,DE,1,Downhill
 1983-01-10,Heidi Preuss,US,1,Giant Slalom
-1983-01-10,Christin Cooper,US,5,Combined
+1983-01-10,Christin Cooper,US,5,Giant Slalom
 1983-01-10,Daniela Zini,IT,2,Slalom
 1983-01-10,Anni Kronbichler,AT,9,Slalom
 1983-01-10,Maria Walliser,CH,6,Downhill
@@ -38,6 +38,6 @@ date,name,ath_country,value,specialty
 1983-01-10,Zoe Haas,CH,24,Super G
 1983-01-10,Hanni Wenzel,LI,31,Slalom
 1983-01-10,Cindy Nelson,US,37,Giant Slalom
-1983-01-10,Irene Epple,DE,40,Combined
+1983-01-10,Irene Epple,DE,40,Super G
 1983-01-10,Elisabeth Kirchler,AT,5,Downhill
 1983-01-10,Debbie Armstrong,US,3,Downhill

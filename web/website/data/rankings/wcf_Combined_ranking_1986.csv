@@ -1,191 +1,146 @@
 date,name,ath_country,value,specialty
-1985-12-12,Erika Hess,CH,25,Slalom
-1985-12-12,Anita Wachter,AT,0,Giant Slalom
-1985-12-12,Heidi Zeller - Baehler,CH,0,Downhill
-1985-12-12,Vreni Schneider,CH,12,Giant Slalom
-1985-12-12,Michaela Gerg-Leitner,DE,0,Downhill
-1985-12-12,Eva Twardokens,US,3,Slalom
-1985-12-12,Nadia Bonfini,IT,2,Slalom
-1985-12-12,Katharina Gutensohn,AT,8,Downhill
-1985-12-12,Sylvia Eder,AT,11,Downhill
-1985-12-12,Olga Charvatova,SK,9,Giant Slalom
-1985-12-12,Christa Kinshofer,NL,0,Super G
-1985-12-12,Karin Dedler,DE,0,Super G
-1985-12-12,Debbie Armstrong,US,5,Downhill
-1985-12-12,Perrine Pelen,FR,0,Slalom
-1985-12-12,Sigrid Wolf,AT,0,Downhill
-1985-12-12,Zoe Haas,CH,0,Downhill
-1985-12-12,Karla Delago,IT,0,Downhill
-1985-12-12,Malgorzata Tlalka - Mogore,FR,0,Slalom
-1985-12-12,Holly Beth Flanders,US,0,Downhill
-1985-12-12,Heidi Wiesler,DE,0,Downhill
-1985-12-12,Blanca Fernandez Ochoa,ES,0,Giant Slalom
-1985-12-12,Karen Percy,CA,0,Downhill
-1985-12-12,Tamara McKinney,US,7,Slalom
-1985-12-12,Mateja Svet,SK,0,Giant Slalom
-1985-12-12,Anne Flore Rey,FR,1,Super G
-1985-12-12,Regine Moesenlechner,DE,6,Downhill
-1985-12-12,Miriam Vogt,DE,0,Combined
-1985-12-12,Liisa Savijarvi,CA,0,Downhill
-1985-12-12,Marina Kiehl,DE,4,Super G
-1985-12-12,Traudl Haecher,DE,0,Giant Slalom
-1985-12-12,Pam Fletcher,US,0,Downhill
-1985-12-12,Corinne Schmidhauser,CH,0,Slalom
-1985-12-12,Katrin Stotz,DE,0,Giant Slalom
-1985-12-12,Elisabeth Kirchler,AT,0,Giant Slalom
 1985-12-12,Brigitte Oertli,CH,20,Downhill
-1985-12-12,Michela Figini,CH,10,Giant Slalom
-1985-12-12,Monika Hess,CH,0,Combined
-1985-12-12,Maria Walliser,CH,15,Downhill
-1986-01-06,Debbie Armstrong,US,15,Downhill
-1986-01-06,Monika Hess,CH,0,Combined
-1986-01-06,Christa Kinshofer,NL,0,Super G
-1986-01-06,Olga Charvatova,SK,11,Giant Slalom
-1986-01-06,Pam Fletcher,US,0,Downhill
-1986-01-06,Sylvia Eder,AT,11,Downhill
-1986-01-06,Regine Moesenlechner,DE,12,Downhill
-1986-01-06,Katharina Gutensohn,AT,11,Downhill
-1986-01-06,Karin Dedler,DE,0,Super G
-1986-01-06,Erika Hess,CH,32,Slalom
-1986-01-06,Michela Figini,CH,35,Giant Slalom
-1986-01-06,Anne Flore Rey,FR,5,Super G
-1986-01-06,Perrine Pelen,FR,0,Slalom
-1986-01-06,Sigrid Wolf,AT,0,Downhill
-1986-01-06,Zoe Haas,CH,9,Downhill
-1986-01-06,Tamara McKinney,US,8,Slalom
-1986-01-06,Maria Walliser,CH,35,Downhill
-1986-01-06,Karla Delago,IT,0,Downhill
+1985-12-12,Liisa Savijarvi,CA,0,Downhill
+1985-12-12,Tamara McKinney,US,7,Slalom
+1985-12-12,Regine Moesenlechner,DE,0,Downhill
+1985-12-12,Olga Charvatova,SK,9,Giant Slalom
+1985-12-12,Debbie Armstrong,US,0,Downhill
+1985-12-12,Anne Flore Rey,FR,1,Super G
+1985-12-12,Elisabeth Kirchler,AT,0,Giant Slalom
+1985-12-12,Zoe Haas,CH,0,Downhill
+1985-12-12,Katrin Stotz,DE,0,Giant Slalom
+1985-12-12,Nadia Bonfini,IT,2,Slalom
+1985-12-12,Karla Delago,IT,0,Downhill
+1985-12-12,Michaela Gerg-Leitner,DE,0,Downhill
+1985-12-12,Karin Dedler,DE,0,Super G
+1985-12-12,Heidi Wiesler,DE,0,Downhill
+1985-12-12,Eva Twardokens,US,3,Slalom
+1985-12-12,Christa Kinshofer,NL,0,Super G
+1985-12-12,Blanca Fernandez Ochoa,ES,0,Giant Slalom
+1985-12-12,Heidi Zeller - Baehler,CH,0,Downhill
+1985-12-12,Miriam Vogt,DE,0,Combined
+1985-12-12,Sylvia Eder,AT,11,Downhill
+1985-12-12,Marina Kiehl,DE,0,Super G
+1985-12-12,Katharina Gutensohn,AT,0,Downhill
+1985-12-12,Holly Beth Flanders,US,0,Downhill
+1985-12-12,Michela Figini,CH,0,Giant Slalom
+1985-12-12,Pam Fletcher,US,0,Downhill
+1985-12-12,Traudl Haecher,DE,0,Giant Slalom
+1985-12-12,Vreni Schneider,CH,12,Giant Slalom
+1985-12-12,Karen Percy,CA,0,Downhill
+1986-01-06,Heidi Zeller - Baehler,CH,0,Downhill
 1986-01-06,Holly Beth Flanders,US,0,Downhill
-1986-01-06,Malgorzata Tlalka - Mogore,FR,0,Slalom
-1986-01-06,Karen Percy,CA,0,Downhill
-1986-01-06,Heidi Wiesler,DE,0,Downhill
-1986-01-06,Mateja Svet,SK,0,Giant Slalom
+1986-01-06,Eva Twardokens,US,3,Slalom
+1986-01-06,Pam Fletcher,US,0,Downhill
+1986-01-06,Karin Dedler,DE,0,Super G
+1986-01-06,Michaela Gerg-Leitner,DE,0,Downhill
+1986-01-06,Traudl Haecher,DE,0,Giant Slalom
 1986-01-06,Katrin Stotz,DE,0,Giant Slalom
 1986-01-06,Blanca Fernandez Ochoa,ES,0,Giant Slalom
-1986-01-06,Nadia Bonfini,IT,2,Slalom
-1986-01-06,Eva Twardokens,US,3,Slalom
-1986-01-06,Corinne Schmidhauser,CH,0,Slalom
-1986-01-06,Michaela Gerg-Leitner,DE,12,Downhill
-1986-01-06,Liisa Savijarvi,CA,5,Downhill
-1986-01-06,Anita Wachter,AT,0,Giant Slalom
 1986-01-06,Elisabeth Kirchler,AT,0,Giant Slalom
+1986-01-06,Michela Figini,CH,0,Giant Slalom
+1986-01-06,Anne Flore Rey,FR,5,Super G
+1986-01-06,Debbie Armstrong,US,10,Downhill
+1986-01-06,Marina Kiehl,DE,0,Super G
 1986-01-06,Miriam Vogt,DE,0,Combined
-1986-01-06,Traudl Haecher,DE,0,Giant Slalom
-1986-01-06,Heidi Zeller - Baehler,CH,8,Downhill
+1986-01-06,Liisa Savijarvi,CA,5,Downhill
+1986-01-06,Karen Percy,CA,0,Downhill
+1986-01-06,Regine Moesenlechner,DE,6,Downhill
+1986-01-06,Nadia Bonfini,IT,2,Slalom
+1986-01-06,Christa Kinshofer,NL,0,Super G
+1986-01-06,Olga Charvatova,SK,9,Giant Slalom
+1986-01-06,Tamara McKinney,US,8,Slalom
 1986-01-06,Brigitte Oertli,CH,20,Downhill
-1986-01-06,Marina Kiehl,DE,19,Super G
-1986-01-06,Vreni Schneider,CH,23,Giant Slalom
-1986-01-12,Tamara McKinney,US,8,Slalom
-1986-01-12,Erika Hess,CH,52,Slalom
-1986-01-12,Sigrid Wolf,AT,0,Downhill
-1986-01-12,Holly Beth Flanders,US,0,Downhill
-1986-01-12,Anita Wachter,AT,0,Giant Slalom
-1986-01-12,Zoe Haas,CH,9,Downhill
-1986-01-12,Eva Twardokens,US,3,Slalom
+1986-01-06,Karla Delago,IT,0,Downhill
+1986-01-06,Heidi Wiesler,DE,0,Downhill
+1986-01-06,Katharina Gutensohn,AT,3,Downhill
+1986-01-06,Sylvia Eder,AT,11,Downhill
+1986-01-06,Vreni Schneider,CH,12,Giant Slalom
+1986-01-06,Zoe Haas,CH,9,Downhill
 1986-01-12,Katrin Stotz,DE,2,Giant Slalom
-1986-01-12,Pam Fletcher,US,0,Downhill
-1986-01-12,Marina Kiehl,DE,23,Super G
-1986-01-12,Karen Percy,CA,0,Downhill
-1986-01-12,Corinne Schmidhauser,CH,0,Slalom
-1986-01-12,Malgorzata Tlalka - Mogore,FR,0,Slalom
-1986-01-12,Maria Walliser,CH,60,Downhill
-1986-01-12,Traudl Haecher,DE,0,Giant Slalom
-1986-01-12,Heidi Wiesler,DE,0,Downhill
-1986-01-12,Blanca Fernandez Ochoa,ES,8,Giant Slalom
-1986-01-12,Karla Delago,IT,9,Downhill
-1986-01-12,Anne Flore Rey,FR,5,Super G
-1986-01-12,Perrine Pelen,FR,0,Slalom
-1986-01-12,Michela Figini,CH,35,Giant Slalom
-1986-01-12,Michaela Gerg-Leitner,DE,22,Downhill
-1986-01-12,Sylvia Eder,AT,11,Downhill
-1986-01-12,Olga Charvatova,SK,22,Giant Slalom
-1986-01-12,Nadia Bonfini,IT,3,Slalom
-1986-01-12,Elisabeth Kirchler,AT,0,Giant Slalom
-1986-01-12,Brigitte Oertli,CH,35,Downhill
+1986-01-12,Marina Kiehl,DE,4,Super G
+1986-01-12,Zoe Haas,CH,9,Downhill
+1986-01-12,Katharina Gutensohn,AT,3,Downhill
 1986-01-12,Miriam Vogt,DE,6,Combined
-1986-01-12,Regine Moesenlechner,DE,12,Downhill
-1986-01-12,Monika Hess,CH,0,Combined
-1986-01-12,Vreni Schneider,CH,35,Giant Slalom
-1986-01-12,Debbie Armstrong,US,15,Downhill
-1986-01-12,Mateja Svet,SK,0,Giant Slalom
-1986-01-12,Karin Dedler,DE,3,Super G
-1986-01-12,Heidi Zeller - Baehler,CH,15,Downhill
+1986-01-12,Regine Moesenlechner,DE,6,Downhill
+1986-01-12,Blanca Fernandez Ochoa,ES,8,Giant Slalom
+1986-01-12,Sylvia Eder,AT,11,Downhill
+1986-01-12,Olga Charvatova,SK,9,Giant Slalom
+1986-01-12,Debbie Armstrong,US,10,Downhill
 1986-01-12,Liisa Savijarvi,CA,10,Downhill
+1986-01-12,Tamara McKinney,US,8,Slalom
+1986-01-12,Elisabeth Kirchler,AT,0,Giant Slalom
+1986-01-12,Anne Flore Rey,FR,5,Super G
+1986-01-12,Michela Figini,CH,0,Giant Slalom
+1986-01-12,Nadia Bonfini,IT,3,Slalom
+1986-01-12,Holly Beth Flanders,US,0,Downhill
+1986-01-12,Heidi Zeller - Baehler,CH,7,Downhill
+1986-01-12,Brigitte Oertli,CH,20,Downhill
+1986-01-12,Heidi Wiesler,DE,0,Downhill
+1986-01-12,Eva Twardokens,US,3,Slalom
+1986-01-12,Pam Fletcher,US,0,Downhill
+1986-01-12,Karin Dedler,DE,3,Super G
+1986-01-12,Karen Percy,CA,0,Downhill
 1986-01-12,Christa Kinshofer,NL,0,Super G
-1986-01-12,Katharina Gutensohn,AT,11,Downhill
-1986-01-26,Michela Figini,CH,43,Giant Slalom
-1986-01-26,Anne Flore Rey,FR,5,Super G
-1986-01-26,Tamara McKinney,US,8,Slalom
+1986-01-12,Karla Delago,IT,9,Downhill
+1986-01-12,Michaela Gerg-Leitner,DE,10,Downhill
+1986-01-12,Traudl Haecher,DE,0,Giant Slalom
+1986-01-12,Vreni Schneider,CH,12,Giant Slalom
 1986-01-26,Karen Percy,CA,0,Downhill
-1986-01-26,Miriam Vogt,DE,6,Combined
-1986-01-26,Erika Hess,CH,52,Slalom
 1986-01-26,Liisa Savijarvi,CA,10,Downhill
-1986-01-26,Pam Fletcher,US,0,Downhill
-1986-01-26,Regine Moesenlechner,DE,12,Downhill
-1986-01-26,Mateja Svet,SK,7,Giant Slalom
-1986-01-26,Traudl Haecher,DE,5,Giant Slalom
-1986-01-26,Blanca Fernandez Ochoa,ES,12,Giant Slalom
-1986-01-26,Marina Kiehl,DE,23,Super G
-1986-01-26,Anita Wachter,AT,15,Giant Slalom
-1986-01-26,Nadia Bonfini,IT,3,Slalom
-1986-01-26,Heidi Zeller - Baehler,CH,15,Downhill
-1986-01-26,Corinne Schmidhauser,CH,20,Slalom
-1986-01-26,Vreni Schneider,CH,35,Giant Slalom
-1986-01-26,Michaela Gerg-Leitner,DE,25,Downhill
-1986-01-26,Brigitte Oertli,CH,35,Downhill
-1986-01-26,Eva Twardokens,US,15,Slalom
-1986-01-26,Katharina Gutensohn,AT,12,Downhill
-1986-01-26,Sylvia Eder,AT,17,Downhill
-1986-01-26,Karin Dedler,DE,3,Super G
 1986-01-26,Christa Kinshofer,NL,11,Super G
-1986-01-26,Katrin Stotz,DE,2,Giant Slalom
-1986-01-26,Zoe Haas,CH,9,Downhill
+1986-01-26,Vreni Schneider,CH,12,Giant Slalom
+1986-01-26,Sylvia Eder,AT,17,Downhill
+1986-01-26,Pam Fletcher,US,0,Downhill
+1986-01-26,Blanca Fernandez Ochoa,ES,12,Giant Slalom
+1986-01-26,Katharina Gutensohn,AT,4,Downhill
+1986-01-26,Michela Figini,CH,8,Giant Slalom
+1986-01-26,Traudl Haecher,DE,5,Giant Slalom
+1986-01-26,Miriam Vogt,DE,6,Combined
+1986-01-26,Marina Kiehl,DE,4,Super G
+1986-01-26,Brigitte Oertli,CH,20,Downhill
+1986-01-26,Tamara McKinney,US,8,Slalom
+1986-01-26,Regine Moesenlechner,DE,6,Downhill
 1986-01-26,Heidi Wiesler,DE,0,Downhill
-1986-01-26,Elisabeth Kirchler,AT,2,Giant Slalom
-1986-01-26,Malgorzata Tlalka - Mogore,FR,9,Slalom
+1986-01-26,Heidi Zeller - Baehler,CH,7,Downhill
+1986-01-26,Eva Twardokens,US,3,Slalom
+1986-01-26,Karin Dedler,DE,3,Super G
+1986-01-26,Michaela Gerg-Leitner,DE,13,Downhill
 1986-01-26,Karla Delago,IT,9,Downhill
-1986-01-26,Debbie Armstrong,US,15,Downhill
-1986-01-26,Sigrid Wolf,AT,0,Downhill
-1986-01-26,Olga Charvatova,SK,22,Giant Slalom
 1986-01-26,Holly Beth Flanders,US,0,Downhill
-1986-01-26,Monika Hess,CH,25,Combined
-1986-01-26,Perrine Pelen,FR,10,Slalom
-1986-01-26,Maria Walliser,CH,60,Downhill
-1986-03-09,Karin Dedler,DE,3,Super G
-1986-03-09,Katrin Stotz,DE,3,Giant Slalom
-1986-03-09,Nadia Bonfini,IT,3,Slalom
-1986-03-09,Holly Beth Flanders,US,4,Downhill
-1986-03-09,Anne Flore Rey,FR,5,Super G
-1986-03-09,Perrine Pelen,FR,10,Slalom
-1986-03-09,Liisa Savijarvi,CA,10,Downhill
-1986-03-09,Erika Hess,CH,63,Slalom
-1986-03-09,Michela Figini,CH,43,Giant Slalom
-1986-03-09,Maria Walliser,CH,85,Downhill
-1986-03-09,Monika Hess,CH,25,Combined
-1986-03-09,Brigitte Oertli,CH,41,Downhill
-1986-03-09,Corinne Schmidhauser,CH,20,Slalom
-1986-03-09,Traudl Haecher,DE,25,Giant Slalom
-1986-03-09,Marina Kiehl,DE,23,Super G
-1986-03-09,Anita Wachter,AT,18,Giant Slalom
-1986-03-09,Heidi Zeller - Baehler,CH,30,Downhill
-1986-03-09,Vreni Schneider,CH,35,Giant Slalom
-1986-03-09,Michaela Gerg-Leitner,DE,25,Downhill
-1986-03-09,Eva Twardokens,US,15,Slalom
-1986-03-09,Katharina Gutensohn,AT,24,Downhill
-1986-03-09,Sylvia Eder,AT,19,Downhill
-1986-03-09,Olga Charvatova,SK,22,Giant Slalom
-1986-03-09,Christa Kinshofer,NL,11,Super G
-1986-03-09,Debbie Armstrong,US,15,Downhill
-1986-03-09,Sigrid Wolf,AT,10,Downhill
-1986-03-09,Zoe Haas,CH,16,Downhill
-1986-03-09,Karla Delago,IT,9,Downhill
-1986-03-09,Malgorzata Tlalka - Mogore,FR,9,Slalom
-1986-03-09,Heidi Wiesler,DE,9,Downhill
-1986-03-09,Blanca Fernandez Ochoa,ES,12,Giant Slalom
-1986-03-09,Karen Percy,CA,8,Downhill
-1986-03-09,Tamara McKinney,US,8,Slalom
-1986-03-09,Mateja Svet,SK,7,Giant Slalom
-1986-03-09,Regine Moesenlechner,DE,12,Downhill
+1986-01-26,Zoe Haas,CH,9,Downhill
+1986-01-26,Katrin Stotz,DE,2,Giant Slalom
+1986-01-26,Elisabeth Kirchler,AT,2,Giant Slalom
+1986-01-26,Nadia Bonfini,IT,3,Slalom
+1986-01-26,Anne Flore Rey,FR,5,Super G
+1986-01-26,Debbie Armstrong,US,10,Downhill
+1986-01-26,Olga Charvatova,SK,9,Giant Slalom
 1986-03-09,Miriam Vogt,DE,6,Combined
+1986-03-09,Tamara McKinney,US,8,Slalom
+1986-03-09,Liisa Savijarvi,CA,10,Downhill
+1986-03-09,Christa Kinshofer,NL,11,Super G
 1986-03-09,Pam Fletcher,US,5,Downhill
+1986-03-09,Heidi Zeller - Baehler,CH,7,Downhill
+1986-03-09,Debbie Armstrong,US,10,Downhill
+1986-03-09,Eva Twardokens,US,3,Slalom
+1986-03-09,Brigitte Oertli,CH,20,Downhill
+1986-03-09,Karen Percy,CA,8,Downhill
+1986-03-09,Heidi Wiesler,DE,9,Downhill
+1986-03-09,Karla Delago,IT,9,Downhill
+1986-03-09,Karin Dedler,DE,3,Super G
+1986-03-09,Traudl Haecher,DE,5,Giant Slalom
+1986-03-09,Blanca Fernandez Ochoa,ES,12,Giant Slalom
+1986-03-09,Michaela Gerg-Leitner,DE,13,Downhill
+1986-03-09,Vreni Schneider,CH,12,Giant Slalom
+1986-03-09,Anne Flore Rey,FR,5,Super G
+1986-03-09,Michela Figini,CH,8,Giant Slalom
+1986-03-09,Regine Moesenlechner,DE,6,Downhill
+1986-03-09,Katharina Gutensohn,AT,16,Downhill
+1986-03-09,Nadia Bonfini,IT,3,Slalom
+1986-03-09,Marina Kiehl,DE,4,Super G
+1986-03-09,Olga Charvatova,SK,9,Giant Slalom
+1986-03-09,Katrin Stotz,DE,2,Giant Slalom
+1986-03-09,Sylvia Eder,AT,19,Downhill
+1986-03-09,Zoe Haas,CH,16,Downhill
 1986-03-09,Elisabeth Kirchler,AT,2,Giant Slalom
+1986-03-09,Holly Beth Flanders,US,4,Downhill

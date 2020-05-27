@@ -29,7 +29,7 @@ date,name,ath_country,value,specialty
 2007-11-11,Oscar Andersson,SE,0,Slalom
 2007-11-11,Scott Barrett,CA,0,Combined
 2007-11-11,Cody B Marshall,US,0,Slalom
-2007-11-11,Rainer Schoenfelder,AT,29,Combined
+2007-11-11,Rainer Schoenfelder,AT,29,Slalom
 2007-11-11,Julien Cousineau,CA,0,Combined
 2007-11-11,Calle Enocson,SE,0,Combined
 2007-11-11,Ivica Kostelic,HR,11,Slalom
@@ -266,7 +266,7 @@ date,name,ath_country,value,specialty
 2007-12-09,Marc Gini,CH,113,Slalom
 2007-12-09,Marcel Hirscher,AT,7,Slalom
 2007-12-09,Matija Zavirsek,SK,0,Combined
-2007-12-09,Rainer Schoenfelder,AT,29,Combined
+2007-12-09,Rainer Schoenfelder,AT,29,Slalom
 2007-12-09,Jens Byggmark,SE,80,Slalom
 2007-12-09,Mario Scheiber,AT,0,Super G
 2007-12-09,Benjamin Raich,AT,136,Giant Slalom
@@ -323,7 +323,7 @@ date,name,ath_country,value,specialty
 2007-12-17,Christof Innerhofer,IT,0,Super G
 2007-12-17,Filip Trejbal,CZ,0,Slalom
 2007-12-17,Fritzi Dopfer,DE,0,Combined
-2007-12-17,Rainer Schoenfelder,AT,29,Combined
+2007-12-17,Rainer Schoenfelder,AT,29,Slalom
 2007-12-17,Alexandr Horoshilov,RU,0,Combined
 2007-12-17,Romed Baumann,AT,26,Combined
 2007-12-17,Daniel Albrecht,CH,29,Giant Slalom
@@ -542,7 +542,7 @@ date,name,ath_country,value,specialty
 2008-01-06,Mario Matt,AT,145,Slalom
 2008-01-06,Jimmy Cochran,US,82,Slalom
 2008-01-06,Giuliano Razzoli,IT,18,Slalom
-2008-01-06,Rainer Schoenfelder,AT,79,Combined
+2008-01-06,Rainer Schoenfelder,AT,79,Slalom
 2008-01-06,Alexandr Horoshilov,RU,0,Combined
 2008-01-06,Christian Wanninger,DE,0,Slalom
 2008-01-06,Martin Vrablik,CZ,0,Combined
@@ -634,7 +634,7 @@ date,name,ath_country,value,specialty
 2008-01-12,Andre Myhrer,SE,99,Slalom
 2008-01-12,Aksel-Lund Svindal,NO,20,Giant Slalom
 2008-01-12,Fritzi Dopfer,DE,0,Combined
-2008-01-12,Rainer Schoenfelder,AT,94,Combined
+2008-01-12,Rainer Schoenfelder,AT,94,Slalom
 2008-01-12,Andrej Sporn,SK,0,Combined
 2008-01-12,Romed Baumann,AT,26,Combined
 2008-01-12,Cristian Deville,IT,104,Slalom
@@ -786,7 +786,7 @@ date,name,ath_country,value,specialty
 2008-01-20,Patrick Thaler,IT,89,Slalom
 2008-01-20,Kilian Albrecht,BG,7,Slalom
 2008-01-20,Daniel Albrecht,CH,65,Giant Slalom
-2008-01-20,Rainer Schoenfelder,AT,139,Combined
+2008-01-20,Rainer Schoenfelder,AT,139,Slalom
 2008-01-20,Cody B Marshall,US,12,Slalom
 2008-01-20,Lars Elton Myhre,NO,7,Combined
 2008-01-20,Ivica Kostelic,HR,160,Slalom
@@ -847,7 +847,7 @@ date,name,ath_country,value,specialty
 2008-01-22,Truls Ove Karlsen,NO,18,Giant Slalom
 2008-01-22,Alois Vogl,DE,0,Combined
 2008-01-22,Patrick Thaler,IT,103,Slalom
-2008-01-22,Rainer Schoenfelder,AT,159,Combined
+2008-01-22,Rainer Schoenfelder,AT,159,Slalom
 2008-01-22,Jeroen Van Den Bogaert,BE,0,Combined
 2008-01-22,Mario Scheiber,AT,0,Super G
 2008-01-22,Pierre Paquin,FR,22,Combined
@@ -1060,7 +1060,7 @@ date,name,ath_country,value,specialty
 2008-02-09,Alexandru Barbu,RO,0,Combined
 2008-02-09,Dalibor Samsal,HR,0,Combined
 2008-02-09,Ryan Semple,CA,0,Combined
-2008-02-09,Rainer Schoenfelder,AT,159,Combined
+2008-02-09,Rainer Schoenfelder,AT,159,Slalom
 2008-02-09,Jeroen Van Den Bogaert,BE,0,Combined
 2008-02-09,Truls Ove Karlsen,NO,18,Giant Slalom
 2008-02-09,Jukka Leino,FI,8,Giant Slalom
@@ -1123,7 +1123,7 @@ date,name,ath_country,value,specialty
 2008-02-17,Mitja Valencic,SK,43,Slalom
 2008-02-17,Jacopo Di Ronco,IT,0,Combined
 2008-02-17,Benjamin Raich,AT,313,Giant Slalom
-2008-02-17,Rainer Schoenfelder,AT,159,Combined
+2008-02-17,Rainer Schoenfelder,AT,159,Slalom
 2008-02-17,Kristian Haug,NO,0,Combined
 2008-02-17,Julien Lizeroux,FR,320,Slalom
 2008-02-17,Tim Jitloff,US,0,Combined
@@ -1258,7 +1258,7 @@ date,name,ath_country,value,specialty
 2008-03-09,Martin Hansson,SE,31,Slalom
 2008-03-09,Mario Scheiber,AT,0,Super G
 2008-03-09,Jonathon Brauer,AU,0,Combined
-2008-03-09,Rainer Schoenfelder,AT,159,Combined
+2008-03-09,Rainer Schoenfelder,AT,159,Slalom
 2008-03-09,Alois Vogl,DE,0,Combined
 2008-03-09,Julien Lizeroux,FR,349,Slalom
 2008-03-09,Paul McDonald,US,0,Combined
@@ -1427,7 +1427,7 @@ date,name,ath_country,value,specialty
 2008-03-15,Cody B Marshall,US,20,Slalom
 2008-03-15,Timothy Kelley,US,0,Combined
 2008-03-15,Yasuhiro Ikuta,JP,0,Combined
-2008-03-15,Rainer Schoenfelder,AT,159,Combined
+2008-03-15,Rainer Schoenfelder,AT,159,Slalom
 2008-03-15,Stefan Georgiev,BG,0,Combined
 2008-03-15,Alois Vogl,DE,0,Combined
 2008-03-15,Anton Lahdenperae,SE,54,Slalom

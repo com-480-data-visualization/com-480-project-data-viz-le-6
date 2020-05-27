@@ -39,10 +39,10 @@ date,name,ath_country,value,specialty
 1983-12-01,Andreja Leskovsek,,0,Giant Slalom
 1983-12-01,Anja Zavadlav,,9,Slalom
 1983-12-01,Mateja Svet,SK,0,Slalom
-1983-12-01,Olga Charvatova,SK,12,Combined
+1983-12-01,Olga Charvatova,SK,12,Slalom
 1983-12-01,Christelle Guignard,FR,0,Slalom
 1983-12-01,Monika Hess,CH,1,Slalom
-1983-12-14,Olga Charvatova,SK,17,Combined
+1983-12-14,Olga Charvatova,SK,17,Slalom
 1983-12-14,Christin Cooper,US,19,Giant Slalom
 1983-12-14,Lea Soelkner,AT,0,Downhill
 1983-12-14,Helene Barbier,FR,0,Giant Slalom
@@ -104,7 +104,7 @@ date,name,ath_country,value,specialty
 1983-12-17,Erika Hess,CH,48,Slalom
 1983-12-17,Andreja Leskovsek,,0,Giant Slalom
 1983-12-17,Christin Cooper,US,19,Giant Slalom
-1983-12-17,Olga Charvatova,SK,23,Combined
+1983-12-17,Olga Charvatova,SK,23,Slalom
 1983-12-17,Paoletta Magoni,IT,6,Slalom
 1983-12-17,Christelle Guignard,FR,8,Slalom
 1983-12-17,Alexandra Marasova,SK,0,Slalom
@@ -136,7 +136,7 @@ date,name,ath_country,value,specialty
 1984-01-14,Lea Soelkner,AT,0,Downhill
 1984-01-14,Andreja Leskovsek,,0,Giant Slalom
 1984-01-14,Sylvia Eder,AT,0,Downhill
-1984-01-14,Olga Charvatova,SK,29,Combined
+1984-01-14,Olga Charvatova,SK,29,Slalom
 1984-01-14,Karen Lancaster,US,0,Slalom
 1984-01-14,Alexandra Marasova,SK,0,Slalom
 1984-01-14,Nadezda Patrakjeva-andreeva,RU,0,Slalom
@@ -201,7 +201,7 @@ date,name,ath_country,value,specialty
 1984-01-15,Paoletta Magoni,IT,6,Slalom
 1984-01-15,Catherine Andeer,CH,0,Giant Slalom
 1984-01-15,Irene Epple,DE,0,Downhill
-1984-01-15,Olga Charvatova,SK,37,Combined
+1984-01-15,Olga Charvatova,SK,37,Slalom
 1984-01-15,Anni Kronbichler,AT,24,Slalom
 1984-01-15,Andreja Leskovsek,,0,Giant Slalom
 1984-01-15,Tamara McKinney,US,62,Slalom
@@ -247,7 +247,7 @@ date,name,ath_country,value,specialty
 1984-01-22,Erika Hess,CH,96,Slalom
 1984-01-22,Dorota Tlalka,PL,66,Slalom
 1984-01-22,Anja Zavadlav,,20,Slalom
-1984-01-22,Olga Charvatova,SK,37,Combined
+1984-01-22,Olga Charvatova,SK,37,Slalom
 1984-01-22,Christin Cooper,US,44,Giant Slalom
 1984-01-22,Karen Lancaster,US,0,Slalom
 1984-01-22,Christelle Guignard,FR,18,Slalom
@@ -290,7 +290,7 @@ date,name,ath_country,value,specialty
 1984-01-23,Nusa Tome,,29,Slalom
 1984-01-23,Petra Wenzel,LI,12,Slalom
 1984-01-23,Karen Lancaster,US,1,Slalom
-1984-01-23,Olga Charvatova,SK,46,Combined
+1984-01-23,Olga Charvatova,SK,46,Slalom
 1984-01-23,Catherine Andeer,CH,0,Giant Slalom
 1984-01-23,Irene Epple,DE,3,Downhill
 1984-01-23,Mateja Svet,SK,1,Slalom
@@ -317,7 +317,7 @@ date,name,ath_country,value,specialty
 1984-03-10,Paoletta Magoni,IT,16,Slalom
 1984-03-10,Christin Cooper,US,69,Giant Slalom
 1984-03-10,Irene Epple,DE,3,Downhill
-1984-03-10,Olga Charvatova,SK,52,Combined
+1984-03-10,Olga Charvatova,SK,52,Slalom
 1984-03-10,Roswitha Steiner,AT,65,Slalom
 1984-03-10,Catherine Andeer,CH,0,Giant Slalom
 1984-03-10,Ursula Konzett,LI,15,Slalom
@@ -346,7 +346,7 @@ date,name,ath_country,value,specialty
 1984-03-18,Catherine Andeer,CH,0,Giant Slalom
 1984-03-18,Malgorzata Tlalka,PL,50,Slalom
 1984-03-18,Anni Kronbichler,AT,53,Slalom
-1984-03-18,Olga Charvatova,SK,52,Combined
+1984-03-18,Olga Charvatova,SK,52,Slalom
 1984-03-18,Ivana Valesova,SK,13,Slalom
 1984-03-18,Eva Grabowska,PL,19,Slalom
 1984-03-18,Karin Buder,AT,3,Slalom
@@ -419,7 +419,7 @@ date,name,ath_country,value,specialty
 1984-03-20,Andreja Leskovsek,,1,Giant Slalom
 1984-03-20,Irene Epple,DE,3,Downhill
 1984-03-20,Christin Cooper,US,69,Giant Slalom
-1984-03-20,Olga Charvatova,SK,57,Combined
+1984-03-20,Olga Charvatova,SK,57,Slalom
 1984-03-20,Karin Buder,AT,3,Slalom
 1984-03-20,Anni Kronbichler,AT,59,Slalom
 1984-03-20,Maria Epple,DE,37,Giant Slalom
@@ -439,7 +439,7 @@ date,name,ath_country,value,specialty
 1984-03-24,Monika Hess,CH,47,Slalom
 1984-03-24,Erika Hess,CH,141,Slalom
 1984-03-24,Brigitte Oertli,CH,34,Slalom
-1984-03-24,Olga Charvatova,SK,62,Combined
+1984-03-24,Olga Charvatova,SK,62,Slalom
 1984-03-24,Christin Cooper,US,69,Giant Slalom
 1984-03-24,Paoletta Magoni,IT,34,Slalom
 1984-03-24,Dorota Tlalka,PL,119,Slalom

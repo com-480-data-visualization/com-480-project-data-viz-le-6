@@ -8,7 +8,7 @@ date,name,ath_country,value,specialty
 1979-12-07,Josef Walcher,AT,10,Downhill
 1979-12-07,Dave Murray,CA,7,Downhill
 1979-12-07,Werner Grissmann,AT,12,Downhill
-1979-12-07,Anton Steiner,AT,0,Combined
+1979-12-07,Anton Steiner,AT,0,Slalom
 1979-12-07,Valeri Tsiganov,RU,6,Combined
 1979-12-07,Steve Podborski,CA,0,Downhill
 1979-12-07,Tim Gilhooly,CA,0,Downhill
@@ -26,23 +26,23 @@ date,name,ath_country,value,specialty
 1979-12-07,Karl Anderson,US,0,Downhill
 1979-12-07,Philip Pugnat,FR,0,Downhill
 1979-12-07,Peter Mueller,CH,0,Downhill
-1979-12-07,Urs Raeber,CH,1,Combined
+1979-12-07,Urs Raeber,CH,1,Downhill
 1979-12-07,Herbert Plank,IT,20,Downhill
 1979-12-07,Mikio Katagiri,JP,0,Downhill
 1979-12-07,Andy Mill,US,0,Combined
 1979-12-07,Ken Read,CA,0,Downhill
-1979-12-07,Arnt Erik Dale,NO,0,Combined
+1979-12-07,Arnt Erik Dale,NO,0,Downhill
 1979-12-07,Danilo Sbardellotto,IT,0,Downhill
-1979-12-16,Anton Steiner,AT,0,Combined
+1979-12-16,Anton Steiner,AT,0,Slalom
 1979-12-16,Valeri Tsiganov,RU,6,Combined
-1979-12-16,Urs Raeber,CH,6,Combined
+1979-12-16,Urs Raeber,CH,6,Downhill
 1979-12-16,Franz Klammer,AT,11,Downhill
 1979-12-16,Erwin Josi,CH,0,Downhill
 1979-12-16,Dave Irwin,CA,2,Downhill
 1979-12-16,Philip Pugnat,FR,0,Downhill
 1979-12-16,Uli Spiess,AT,16,Downhill
 1979-12-16,Peter Wirnsberger,AT,25,Downhill
-1979-12-16,Arnt Erik Dale,NO,3,Combined
+1979-12-16,Arnt Erik Dale,NO,3,Downhill
 1979-12-16,Toni Buergler,CH,8,Downhill
 1979-12-16,Andreas Wenzel,LI,0,Giant Slalom
 1979-12-16,Sepp Ferstl,DE,9,Downhill
@@ -74,16 +74,16 @@ date,name,ath_country,value,specialty
 1980-01-06,Erwin Josi,CH,0,Downhill
 1980-01-06,Pete Patterson,US,0,Combined
 1980-01-06,Toni Buergler,CH,8,Downhill
-1980-01-06,Arnt Erik Dale,NO,3,Combined
+1980-01-06,Arnt Erik Dale,NO,3,Downhill
 1980-01-06,Tim Gilhooly,CA,8,Downhill
 1980-01-06,Valeri Tsiganov,RU,14,Combined
-1980-01-06,Anton Steiner,AT,0,Combined
+1980-01-06,Anton Steiner,AT,0,Slalom
 1980-01-06,Dave Murray,CA,13,Downhill
 1980-01-06,Danilo Sbardellotto,IT,0,Downhill
 1980-01-06,Karl Anderson,US,7,Downhill
 1980-01-06,Ernst Winkler,AT,7,Downhill
 1980-01-06,Michael Veith,DE,10,Downhill
-1980-01-06,Urs Raeber,CH,6,Combined
+1980-01-06,Urs Raeber,CH,6,Downhill
 1980-01-06,Rune Saefvenberg,SE,6,Combined
 1980-01-06,Sepp Ferstl,DE,9,Downhill
 1980-01-06,Philip Pugnat,FR,0,Downhill
@@ -114,12 +114,12 @@ date,name,ath_country,value,specialty
 1980-01-12,Ernst Winkler,AT,7,Downhill
 1980-01-12,Valeri Tsiganov,RU,19,Combined
 1980-01-12,Werner Grissmann,AT,38,Downhill
-1980-01-12,Anton Steiner,AT,8,Combined
+1980-01-12,Anton Steiner,AT,8,Slalom
 1980-01-12,Karl Anderson,US,7,Downhill
 1980-01-12,Erik Haaker,NO,57,Downhill
 1980-01-12,Sepp Ferstl,DE,14,Downhill
 1980-01-12,Josef Walcher,AT,29,Downhill
-1980-01-12,Urs Raeber,CH,6,Combined
+1980-01-12,Urs Raeber,CH,6,Downhill
 1980-01-12,Andy Mill,US,0,Combined
 1980-01-12,Dave Irwin,CA,13,Downhill
 1980-01-12,Leonhard Stock,AT,0,Downhill
@@ -130,7 +130,7 @@ date,name,ath_country,value,specialty
 1980-01-12,Peter Mueller,CH,59,Downhill
 1980-01-12,Ken Read,CA,36,Downhill
 1980-01-12,Franz Klammer,AT,25,Downhill
-1980-01-12,Arnt Erik Dale,NO,3,Combined
+1980-01-12,Arnt Erik Dale,NO,3,Downhill
 1980-01-12,Philip Pugnat,FR,1,Downhill
 1980-01-12,Erwin Josi,CH,0,Downhill
 1980-01-12,Helmut Hoeflehner,AT,3,Downhill
@@ -138,7 +138,7 @@ date,name,ath_country,value,specialty
 1980-01-18,Rune Saefvenberg,SE,6,Combined
 1980-01-18,Dave Murray,CA,13,Downhill
 1980-01-18,Andy Mill,US,0,Combined
-1980-01-18,Urs Raeber,CH,6,Combined
+1980-01-18,Urs Raeber,CH,6,Downhill
 1980-01-18,Peter Wirnsberger,AT,48,Downhill
 1980-01-18,Mikio Katagiri,JP,3,Downhill
 1980-01-18,Karl Anderson,US,7,Downhill
@@ -148,7 +148,7 @@ date,name,ath_country,value,specialty
 1980-01-18,Danilo Sbardellotto,IT,0,Downhill
 1980-01-18,Ernst Winkler,AT,7,Downhill
 1980-01-18,Michael Veith,DE,16,Downhill
-1980-01-18,Arnt Erik Dale,NO,3,Combined
+1980-01-18,Arnt Erik Dale,NO,3,Downhill
 1980-01-18,Peter Mueller,CH,71,Downhill
 1980-01-18,Erik Haaker,NO,64,Downhill
 1980-01-18,Philip Pugnat,FR,1,Downhill
@@ -167,7 +167,7 @@ date,name,ath_country,value,specialty
 1980-01-18,Toni Buergler,CH,12,Downhill
 1980-01-18,Franz Klammer,AT,25,Downhill
 1980-01-18,Werner Grissmann,AT,43,Downhill
-1980-01-18,Anton Steiner,AT,8,Combined
+1980-01-18,Anton Steiner,AT,8,Slalom
 1980-01-18,Leonhard Stock,AT,11,Downhill
 1980-01-19,Peter Mueller,CH,96,Downhill
 1980-01-19,Dave Irwin,CA,13,Downhill
@@ -175,7 +175,7 @@ date,name,ath_country,value,specialty
 1980-01-19,Herbert Plank,IT,56,Downhill
 1980-01-19,Sepp Ferstl,DE,14,Downhill
 1980-01-19,Helmut Hoeflehner,AT,3,Downhill
-1980-01-19,Urs Raeber,CH,6,Combined
+1980-01-19,Urs Raeber,CH,6,Downhill
 1980-01-19,Peter Wirnsberger,AT,57,Downhill
 1980-01-19,Ken Read,CA,81,Downhill
 1980-01-19,Danilo Sbardellotto,IT,0,Downhill
@@ -185,7 +185,7 @@ date,name,ath_country,value,specialty
 1980-01-19,Pete Patterson,US,7,Combined
 1980-01-19,Leonhard Stock,AT,11,Downhill
 1980-01-19,Walter Vesti,CH,17,Downhill
-1980-01-19,Arnt Erik Dale,NO,3,Combined
+1980-01-19,Arnt Erik Dale,NO,3,Downhill
 1980-01-19,Franz Klammer,AT,27,Downhill
 1980-01-19,Philip Pugnat,FR,1,Downhill
 1980-01-19,Andy Mill,US,3,Combined
@@ -201,16 +201,16 @@ date,name,ath_country,value,specialty
 1980-01-19,Josef Walcher,AT,60,Downhill
 1980-01-19,Erik Haaker,NO,68,Downhill
 1980-01-19,Dave Murray,CA,13,Downhill
-1980-01-19,Anton Steiner,AT,8,Combined
+1980-01-19,Anton Steiner,AT,8,Slalom
 1980-01-19,Uli Spiess,AT,27,Downhill
 1980-03-04,Franz Klammer,AT,27,Downhill
 1980-03-04,Peter Wirnsberger,AT,66,Downhill
 1980-03-04,Dave Murray,CA,13,Downhill
 1980-03-04,Leonhard Stock,AT,11,Downhill
 1980-03-04,Dave Irwin,CA,17,Downhill
-1980-03-04,Anton Steiner,AT,14,Combined
+1980-03-04,Anton Steiner,AT,14,Slalom
 1980-03-04,Valeri Tsiganov,RU,19,Combined
-1980-03-04,Arnt Erik Dale,NO,3,Combined
+1980-03-04,Arnt Erik Dale,NO,3,Downhill
 1980-03-04,Karl Anderson,US,7,Downhill
 1980-03-04,Walter Vesti,CH,17,Downhill
 1980-03-04,Mikio Katagiri,JP,3,Downhill
@@ -226,7 +226,7 @@ date,name,ath_country,value,specialty
 1980-03-04,Andy Mill,US,3,Combined
 1980-03-04,Erik Haaker,NO,68,Downhill
 1980-03-04,Steve Podborski,CA,35,Downhill
-1980-03-04,Urs Raeber,CH,6,Combined
+1980-03-04,Urs Raeber,CH,6,Downhill
 1980-03-04,Ken Read,CA,89,Downhill
 1980-03-04,Tim Gilhooly,CA,8,Downhill
 1980-03-04,Andreas Wenzel,LI,23,Giant Slalom

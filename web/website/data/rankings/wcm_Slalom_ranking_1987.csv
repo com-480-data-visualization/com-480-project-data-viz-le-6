@@ -4,7 +4,7 @@ date,name,ath_country,value,specialty
 1986-11-29,Peter Roth,DE,0,Super G
 1986-11-29,Dietmar Koehlbichler,AT,0,Slalom
 1986-11-29,Ole Kristian Furuseth,NO,0,Slalom
-1986-11-29,Andreas Wenzel,LI,0,Combined
+1986-11-29,Andreas Wenzel,LI,0,Super G
 1986-11-29,Rok Petrovic,SK,0,Slalom
 1986-11-29,Mathias Berthold,AT,2,Slalom
 1986-11-29,Stefan Pistor,DE,0,Slalom
@@ -74,7 +74,7 @@ date,name,ath_country,value,specialty
 1986-12-16,Christian Orlainsky,AT,1,Slalom
 1986-12-16,Finn Chr. Jagge,NO,7,Slalom
 1986-12-16,Mathias Berthold,AT,2,Slalom
-1986-12-16,Andreas Wenzel,LI,0,Combined
+1986-12-16,Andreas Wenzel,LI,0,Super G
 1986-12-16,Jonas Nilsson,SE,20,Slalom
 1986-12-16,Armin Bittner,DE,14,Slalom
 1986-12-16,Daniel Mougel,FR,0,Slalom
@@ -112,7 +112,7 @@ date,name,ath_country,value,specialty
 1986-12-20,Peter Roth,DE,0,Super G
 1986-12-20,Pirmin Zurbriggen,CH,8,Downhill
 1986-12-20,Ole Kristian Furuseth,NO,6,Slalom
-1986-12-20,Andreas Wenzel,LI,4,Combined
+1986-12-20,Andreas Wenzel,LI,4,Super G
 1986-12-20,Carlo Gerosa,IT,4,Slalom
 1986-12-20,Gunnar Neuriesser,SE,1,Slalom
 1986-12-20,Heinz Holzer,IT,1,Super G
@@ -169,7 +169,7 @@ date,name,ath_country,value,specialty
 1986-12-21,Jonas Nilsson,SE,31,Slalom
 1986-12-21,Michael Tritscher,AT,0,Slalom
 1986-12-21,Didier Bouvet,FR,14,Slalom
-1986-12-21,Andreas Wenzel,LI,4,Combined
+1986-12-21,Andreas Wenzel,LI,4,Super G
 1986-12-21,Bernhard Gstrein,AT,3,Slalom
 1986-12-21,Stefan Pistor,DE,5,Slalom
 1986-12-21,Heinz Holzer,IT,1,Super G
@@ -187,7 +187,7 @@ date,name,ath_country,value,specialty
 1986-12-21,Marc Girardelli,LU,0,Giant Slalom
 1986-12-21,Marco Tonazzi,IT,0,Giant Slalom
 1986-12-21,Peter Roth,DE,0,Super G
-1987-01-18,Andreas Wenzel,LI,4,Combined
+1987-01-18,Andreas Wenzel,LI,4,Super G
 1987-01-18,Florian Beck,DE,3,Slalom
 1987-01-18,Daniel Mougel,FR,0,Slalom
 1987-01-18,Rok Petrovic,SK,27,Slalom
@@ -273,7 +273,7 @@ date,name,ath_country,value,specialty
 1987-01-25,Christian Orlainsky,AT,15,Slalom
 1987-01-25,Hubert Strolz,AT,12,Giant Slalom
 1987-01-25,Bernhard Gstrein,AT,14,Slalom
-1987-01-25,Andreas Wenzel,LI,10,Combined
+1987-01-25,Andreas Wenzel,LI,10,Super G
 1987-01-25,Guenther Mader,AT,27,Slalom
 1987-01-25,Thomas Stangassinger,AT,8,Slalom
 1987-01-25,Ole Kristian Furuseth,NO,6,Slalom
@@ -303,7 +303,7 @@ date,name,ath_country,value,specialty
 1987-02-14,Hubert Strolz,AT,12,Giant Slalom
 1987-02-14,Franck Woerndl,DE,24,Giant Slalom
 1987-02-14,Pirmin Zurbriggen,CH,14,Downhill
-1987-02-14,Andreas Wenzel,LI,10,Combined
+1987-02-14,Andreas Wenzel,LI,10,Super G
 1987-02-14,Stefan Pistor,DE,5,Slalom
 1987-02-14,Ingemar Stenmark,SE,106,Slalom
 1987-02-14,Ole Kristian Furuseth,NO,6,Slalom
@@ -339,7 +339,7 @@ date,name,ath_country,value,specialty
 1987-03-21,Franck Woerndl,DE,24,Giant Slalom
 1987-03-21,Alberto Tomba,IT,12,Giant Slalom
 1987-03-21,Rudolph Nierlich,AT,29,Giant Slalom
-1987-03-21,Andreas Wenzel,LI,10,Combined
+1987-03-21,Andreas Wenzel,LI,10,Super G
 1987-03-21,Guenther Mader,AT,42,Slalom
 1987-03-21,Richard Pramotton,IT,26,Giant Slalom
 1987-03-21,Grega Benedik,SK,55,Slalom

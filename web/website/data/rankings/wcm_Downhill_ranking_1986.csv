@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1985-08-17,Rudolf Huber,AT,0,Downhill
 1985-08-17,Martin Bell,GB,0,Downhill
 1985-08-17,Stefan Niederseer,AT,0,Downhill
-1985-08-17,Frank Piccard,FR,11,Combined
+1985-08-17,Frank Piccard,FR,11,Downhill
 1985-08-17,Daniel Mahrer,CH,0,Downhill
 1985-08-17,Philip Verneret,FR,0,Downhill
 1985-08-17,Gerhard Pfaffenbichler,AT,0,Downhill
@@ -39,8 +39,8 @@ date,name,ath_country,value,specialty
 1985-08-17,Mathias Haas,AT,0,Downhill
 1985-08-17,Michael Mair,IT,0,Downhill
 1985-08-17,Mike Brown,US,0,Downhill
-1985-08-17,Andreas Wenzel,LI,0,Combined
-1985-08-17,Ivan Marzola,IT,0,Combined
+1985-08-17,Andreas Wenzel,LI,0,Slalom
+1985-08-17,Ivan Marzola,IT,0,Downhill
 1985-08-17,Brian Stemmle,CA,0,Downhill
 1985-08-17,Harti Weirather,AT,0,Downhill
 1985-08-17,Silvano Meli,CH,0,Downhill
@@ -75,11 +75,11 @@ date,name,ath_country,value,specialty
 1985-08-18,Rudolf Huber,AT,10,Downhill
 1985-08-18,Mike Brown,US,0,Downhill
 1985-08-18,Stefan Niederseer,AT,6,Downhill
-1985-08-18,Frank Piccard,FR,11,Combined
-1985-08-18,Andreas Wenzel,LI,0,Combined
+1985-08-18,Frank Piccard,FR,11,Downhill
+1985-08-18,Andreas Wenzel,LI,0,Slalom
 1985-08-18,Daniel Mahrer,CH,11,Downhill
 1985-08-18,Gerhard Pfaffenbichler,AT,8,Downhill
-1985-08-18,Ivan Marzola,IT,0,Combined
+1985-08-18,Ivan Marzola,IT,0,Downhill
 1985-08-18,Marc Girardelli,LU,13,Downhill
 1985-08-18,Martin Bell,GB,0,Downhill
 1985-08-18,Peter Mueller,CH,32,Downhill
@@ -93,14 +93,14 @@ date,name,ath_country,value,specialty
 1985-12-07,Mike Brown,US,0,Downhill
 1985-12-07,Daniel Mahrer,CH,11,Downhill
 1985-12-07,Philip Verneret,FR,9,Downhill
-1985-12-07,Frank Piccard,FR,13,Combined
+1985-12-07,Frank Piccard,FR,13,Downhill
 1985-12-07,Stefan Niederseer,AT,17,Downhill
 1985-12-07,Gustav Oehrli,CH,0,Downhill
-1985-12-07,Ivan Marzola,IT,0,Combined
+1985-12-07,Ivan Marzola,IT,0,Downhill
 1985-12-07,Karl Alpiger,CH,54,Downhill
 1985-12-07,Brian Stemmle,CA,0,Downhill
 1985-12-07,Silvano Meli,CH,0,Downhill
-1985-12-07,Andreas Wenzel,LI,0,Combined
+1985-12-07,Andreas Wenzel,LI,0,Slalom
 1985-12-07,Felix Belczyk,CA,0,Downhill
 1985-12-07,Helmut Hoeflehner,AT,30,Downhill
 1985-12-07,Peter Mueller,CH,44,Downhill
@@ -148,7 +148,7 @@ date,name,ath_country,value,specialty
 1985-12-14,Franck Pons,FR,0,Downhill
 1985-12-14,Rob Boyd,CA,6,Downhill
 1985-12-14,Armin Assinger,AT,2,Downhill
-1985-12-14,Ivan Marzola,IT,0,Combined
+1985-12-14,Ivan Marzola,IT,0,Downhill
 1985-12-14,Silvano Meli,CH,0,Downhill
 1985-12-14,Conradin Cathomen,CH,10,Downhill
 1985-12-14,Bruno Kernen I,CH,14,Downhill
@@ -164,10 +164,10 @@ date,name,ath_country,value,specialty
 1985-12-14,Felix Belczyk,CA,0,Downhill
 1985-12-14,Rudolf Huber,AT,10,Downhill
 1985-12-14,Sepp Wildgruber,DE,18,Downhill
-1985-12-14,Frank Piccard,FR,13,Combined
+1985-12-14,Frank Piccard,FR,13,Downhill
 1985-12-14,Luc Genolet,CH,0,Combined
 1985-12-14,Doug Lewis,US,21,Downhill
-1985-12-14,Andreas Wenzel,LI,0,Combined
+1985-12-14,Andreas Wenzel,LI,0,Slalom
 1985-12-14,Helmut Hoeflehner,AT,30,Downhill
 1985-12-14,Erwin Resch,AT,12,Downhill
 1985-12-14,Leonhard Stock,AT,19,Downhill
@@ -188,17 +188,17 @@ date,name,ath_country,value,specialty
 1985-12-31,Werner Marti,CH,1,Downhill
 1985-12-31,Bill Johnson,US,0,Downhill
 1985-12-31,Silvano Meli,CH,0,Downhill
-1985-12-31,Andreas Wenzel,LI,0,Combined
+1985-12-31,Andreas Wenzel,LI,0,Slalom
 1985-12-31,Brian Stemmle,CA,0,Downhill
 1985-12-31,Peter Mueller,CH,84,Downhill
 1985-12-31,Helmut Hoeflehner,AT,39,Downhill
 1985-12-31,Franz Heinzer,CH,23,Downhill
 1985-12-31,Felix Belczyk,CA,0,Downhill
 1985-12-31,Mike Brown,US,0,Downhill
-1985-12-31,Frank Piccard,FR,13,Combined
+1985-12-31,Frank Piccard,FR,13,Downhill
 1985-12-31,Giorgio Piantanida,IT,3,Downhill
 1985-12-31,Stefan Niederseer,AT,17,Downhill
-1985-12-31,Ivan Marzola,IT,0,Combined
+1985-12-31,Ivan Marzola,IT,0,Downhill
 1985-12-31,Gustav Oehrli,CH,8,Downhill
 1985-12-31,Leonhard Stock,AT,19,Downhill
 1985-12-31,Gerhard Pfaffenbichler,AT,8,Downhill
@@ -228,7 +228,7 @@ date,name,ath_country,value,specialty
 1986-01-17,Philip Verneret,FR,12,Downhill
 1986-01-17,Daniel Mahrer,CH,21,Downhill
 1986-01-17,Franck Pons,FR,0,Downhill
-1986-01-17,Frank Piccard,FR,13,Combined
+1986-01-17,Frank Piccard,FR,13,Downhill
 1986-01-17,Anton Steiner,AT,17,Downhill
 1986-01-17,Rob Boyd,CA,6,Downhill
 1986-01-17,Niklas Henning,SE,9,Combined
@@ -245,7 +245,7 @@ date,name,ath_country,value,specialty
 1986-01-17,Marc Girardelli,LU,44,Downhill
 1986-01-17,Martin Bell,GB,8,Downhill
 1986-01-17,Bill Johnson,US,0,Downhill
-1986-01-17,Ivan Marzola,IT,8,Combined
+1986-01-17,Ivan Marzola,IT,8,Downhill
 1986-01-17,Peter Wirnsberger,AT,111,Downhill
 1986-01-17,Igor Cigolla,IT,4,Downhill
 1986-01-17,Stefan Niederseer,AT,17,Downhill
@@ -267,7 +267,7 @@ date,name,ath_country,value,specialty
 1986-01-17,Helmut Hoeflehner,AT,42,Downhill
 1986-01-17,Mathias Haas,AT,4,Downhill
 1986-01-17,Felix Belczyk,CA,12,Downhill
-1986-01-17,Andreas Wenzel,LI,0,Combined
+1986-01-17,Andreas Wenzel,LI,0,Slalom
 1986-01-17,Pirmin Zurbriggen,CH,22,Slalom
 1986-01-18,Todd Brooker,CA,10,Downhill
 1986-01-18,Rudolf Huber,AT,16,Downhill
@@ -296,10 +296,10 @@ date,name,ath_country,value,specialty
 1986-01-18,Franz Heinzer,CH,35,Downhill
 1986-01-18,Franck Pons,FR,0,Downhill
 1986-01-18,Gerhard Pfaffenbichler,AT,8,Downhill
-1986-01-18,Frank Piccard,FR,13,Combined
+1986-01-18,Frank Piccard,FR,13,Downhill
 1986-01-18,Doug Lewis,US,32,Downhill
 1986-01-18,Giorgio Piantanida,IT,3,Downhill
-1986-01-18,Ivan Marzola,IT,8,Combined
+1986-01-18,Ivan Marzola,IT,8,Downhill
 1986-01-18,Leonhard Stock,AT,19,Downhill
 1986-01-18,Markus Wasmeier,DE,34,Super G
 1986-01-18,Sepp Wildgruber,DE,20,Downhill
@@ -310,7 +310,7 @@ date,name,ath_country,value,specialty
 1986-01-18,Donald Stevens,CA,0,Downhill
 1986-01-18,Philip Verneret,FR,14,Downhill
 1986-01-18,Felix Belczyk,CA,12,Downhill
-1986-01-18,Andreas Wenzel,LI,0,Combined
+1986-01-18,Andreas Wenzel,LI,0,Slalom
 1986-01-18,Gustav Oehrli,CH,26,Downhill
 1986-01-18,Rob Boyd,CA,6,Downhill
 1986-01-18,Brian Stemmle,CA,0,Downhill
@@ -331,16 +331,16 @@ date,name,ath_country,value,specialty
 1986-02-07,Todd Brooker,CA,10,Downhill
 1986-02-07,Karl Alpiger,CH,55,Downhill
 1986-02-07,Doug Lewis,US,32,Downhill
-1986-02-07,Ivan Marzola,IT,8,Combined
+1986-02-07,Ivan Marzola,IT,8,Downhill
 1986-02-07,Martin Bell,GB,8,Downhill
 1986-02-07,Mike Brown,US,0,Downhill
 1986-02-07,Stefan Niederseer,AT,17,Downhill
 1986-02-07,Felix Belczyk,CA,12,Downhill
-1986-02-07,Andreas Wenzel,LI,0,Combined
+1986-02-07,Andreas Wenzel,LI,0,Slalom
 1986-02-07,Gustav Oehrli,CH,46,Downhill
 1986-02-07,Armin Assinger,AT,3,Downhill
 1986-02-07,Silvano Meli,CH,8,Downhill
-1986-02-07,Frank Piccard,FR,13,Combined
+1986-02-07,Frank Piccard,FR,13,Downhill
 1986-02-07,Franz Heinzer,CH,35,Downhill
 1986-02-07,Peter Mueller,CH,98,Downhill
 1986-02-07,Brian Stemmle,CA,0,Downhill
@@ -359,7 +359,7 @@ date,name,ath_country,value,specialty
 1986-02-07,Marc Girardelli,LU,44,Downhill
 1986-02-07,Michael Mair,IT,72,Downhill
 1986-02-07,Gerhard Pfaffenbichler,AT,20,Downhill
-1986-02-08,Ivan Marzola,IT,8,Combined
+1986-02-08,Ivan Marzola,IT,8,Downhill
 1986-02-08,Michael Mair,IT,80,Downhill
 1986-02-08,Giorgio Piantanida,IT,3,Downhill
 1986-02-08,Mike Brown,US,7,Downhill
@@ -371,7 +371,7 @@ date,name,ath_country,value,specialty
 1986-02-08,Bill Johnson,US,15,Downhill
 1986-02-08,Niklas Henning,SE,9,Combined
 1986-02-08,Bruno Kernen I,CH,23,Downhill
-1986-02-08,Andreas Wenzel,LI,0,Combined
+1986-02-08,Andreas Wenzel,LI,0,Slalom
 1986-02-08,Mathias Haas,AT,4,Downhill
 1986-02-08,Danilo Sbardellotto,IT,34,Downhill
 1986-02-08,Werner Marti,CH,1,Downhill
@@ -391,7 +391,7 @@ date,name,ath_country,value,specialty
 1986-02-08,Atle Skaardal,NO,21,Downhill
 1986-02-08,Igor Cigolla,IT,10,Downhill
 1986-02-08,Markus Wasmeier,DE,34,Super G
-1986-02-08,Frank Piccard,FR,13,Combined
+1986-02-08,Frank Piccard,FR,13,Downhill
 1986-02-08,Erwin Resch,AT,81,Downhill
 1986-02-08,Marc Girardelli,LU,44,Downhill
 1986-02-08,Gerhard Pfaffenbichler,AT,32,Downhill
@@ -419,10 +419,10 @@ date,name,ath_country,value,specialty
 1986-02-21,Daniel Mahrer,CH,28,Downhill
 1986-02-21,Atle Skaardal,NO,21,Downhill
 1986-02-21,Armin Assinger,AT,12,Downhill
-1986-02-21,Ivan Marzola,IT,8,Combined
+1986-02-21,Ivan Marzola,IT,8,Downhill
 1986-02-21,Michael Mair,IT,100,Downhill
-1986-02-21,Frank Piccard,FR,14,Combined
-1986-02-21,Andreas Wenzel,LI,0,Combined
+1986-02-21,Frank Piccard,FR,14,Downhill
+1986-02-21,Andreas Wenzel,LI,0,Slalom
 1986-02-21,Silvano Meli,CH,8,Downhill
 1986-02-21,Bruno Kernen I,CH,23,Downhill
 1986-02-21,Gerhard Pfaffenbichler,AT,32,Downhill
@@ -472,7 +472,7 @@ date,name,ath_country,value,specialty
 1986-02-22,Mathias Haas,AT,4,Downhill
 1986-02-22,Armin Assinger,AT,27,Downhill
 1986-02-22,Franck Pons,FR,0,Downhill
-1986-02-22,Andreas Wenzel,LI,6,Combined
+1986-02-22,Andreas Wenzel,LI,6,Slalom
 1986-02-22,Bruno Kernen I,CH,23,Downhill
 1986-02-22,Donald Stevens,CA,0,Downhill
 1986-02-22,Gerhard Pfaffenbichler,AT,32,Downhill
@@ -483,11 +483,11 @@ date,name,ath_country,value,specialty
 1986-02-22,Michael Mair,IT,105,Downhill
 1986-02-22,Stefan Niederseer,AT,28,Downhill
 1986-02-22,Luc Genolet,CH,10,Combined
-1986-02-22,Frank Piccard,FR,14,Combined
+1986-02-22,Frank Piccard,FR,14,Downhill
 1986-02-22,Danilo Sbardellotto,IT,42,Downhill
 1986-02-22,Igor Cigolla,IT,20,Downhill
 1986-02-22,Niklas Henning,SE,9,Combined
-1986-02-22,Ivan Marzola,IT,8,Combined
+1986-02-22,Ivan Marzola,IT,8,Downhill
 1986-02-22,Peter Wirnsberger,AT,155,Downhill
 1986-02-22,Philip Verneret,FR,14,Downhill
 1986-02-22,Rob Boyd,CA,16,Downhill
@@ -521,14 +521,14 @@ date,name,ath_country,value,specialty
 1986-03-08,Gerhard Pfaffenbichler,AT,32,Downhill
 1986-03-08,Donald Stevens,CA,0,Downhill
 1986-03-08,Armin Assinger,AT,27,Downhill
-1986-03-08,Ivan Marzola,IT,8,Combined
+1986-03-08,Ivan Marzola,IT,8,Downhill
 1986-03-08,Felix Belczyk,CA,17,Downhill
 1986-03-08,Franck Pons,FR,0,Downhill
-1986-03-08,Frank Piccard,FR,14,Combined
+1986-03-08,Frank Piccard,FR,14,Downhill
 1986-03-08,Atle Skaardal,NO,25,Downhill
 1986-03-08,Mike Brown,US,7,Downhill
 1986-03-08,Stefan Niederseer,AT,28,Downhill
-1986-03-08,Andreas Wenzel,LI,6,Combined
+1986-03-08,Andreas Wenzel,LI,6,Slalom
 1986-03-08,Peter Mueller,CH,173,Downhill
 1986-03-08,Bill Johnson,US,22,Downhill
 1986-03-08,Daniel Mahrer,CH,44,Downhill
@@ -558,7 +558,7 @@ date,name,ath_country,value,specialty
 1986-03-16,Doug Lewis,US,40,Downhill
 1986-03-16,Rob Boyd,CA,16,Downhill
 1986-03-16,Martin Bell,GB,37,Downhill
-1986-03-16,Andreas Wenzel,LI,6,Combined
+1986-03-16,Andreas Wenzel,LI,6,Slalom
 1986-03-16,Markus Wasmeier,DE,42,Super G
 1986-03-16,Bill Johnson,US,31,Downhill
 1986-03-16,Bruno Kernen I,CH,23,Downhill
@@ -578,9 +578,9 @@ date,name,ath_country,value,specialty
 1986-03-16,Atle Skaardal,NO,25,Downhill
 1986-03-16,Karl Alpiger,CH,81,Downhill
 1986-03-16,Leonhard Stock,AT,94,Downhill
-1986-03-16,Ivan Marzola,IT,8,Combined
+1986-03-16,Ivan Marzola,IT,8,Downhill
 1986-03-16,Todd Brooker,CA,10,Downhill
 1986-03-16,Luc Genolet,CH,10,Combined
 1986-03-16,Anton Steiner,AT,81,Downhill
-1986-03-16,Frank Piccard,FR,21,Combined
+1986-03-16,Frank Piccard,FR,21,Downhill
 1986-03-16,Gustav Oehrli,CH,63,Downhill

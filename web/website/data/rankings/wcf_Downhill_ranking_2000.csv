@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 1999-11-27,Silvia Berger,AT,0,Giant Slalom
 1999-11-27,Anja Kalan,SK,4,Downhill
 1999-11-27,Barbara Merlin,IT,0,Downhill
-1999-11-27,Caroline Lalive,US,0,Combined
+1999-11-27,Caroline Lalive,US,0,Slalom
 1999-11-27,Jeanette Collenberg,CH,5,Downhill
 1999-11-27,Katia Santus,IT,0,Downhill
 1999-11-27,Laetitia Dalloz,FR,0,Super G
@@ -106,7 +106,7 @@ date,name,ath_country,value,specialty
 1999-12-17,Regine Cavagnoud,FR,29,Downhill
 1999-12-17,Jeanette Collenberg,CH,8,Downhill
 1999-12-17,Ingeborg H. Marken,NO,14,Downhill
-1999-12-17,Caroline Lalive,US,0,Combined
+1999-12-17,Caroline Lalive,US,0,Slalom
 1999-12-17,Kristine Kristiansen,NO,12,Downhill
 1999-12-17,Lucia Recchia,IT,0,Downhill
 1999-12-17,Pia Kaeyhkoe,FI,0,Downhill
@@ -148,7 +148,7 @@ date,name,ath_country,value,specialty
 1999-12-18,Spela Bracun,SK,68,Downhill
 1999-12-18,Melanie Turgeon,CA,81,Super G
 1999-12-18,Jeanette Collenberg,CH,8,Downhill
-1999-12-18,Caroline Lalive,US,0,Combined
+1999-12-18,Caroline Lalive,US,0,Slalom
 1999-12-18,Janette Hargin,SE,19,Combined
 1999-12-18,Emily Brydon,CA,1,Super G
 1999-12-18,Sibylle Brauner,DE,70,Downhill
@@ -237,7 +237,7 @@ date,name,ath_country,value,specialty
 2000-01-15,Michaela Kofler,AT,3,Downhill
 2000-01-15,Melanie Turgeon,CA,91,Super G
 2000-01-15,Warwara Zelenskaja,RU,46,Downhill
-2000-01-15,Caroline Lalive,US,2,Combined
+2000-01-15,Caroline Lalive,US,2,Slalom
 2000-01-15,Ingeborg H. Marken,NO,50,Downhill
 2000-01-15,Carole Montillet,FR,16,Downhill
 2000-01-15,Patrizia Bassis,IT,0,Downhill
@@ -279,7 +279,7 @@ date,name,ath_country,value,specialty
 2000-01-22,Bibiana Perez,IT,101,Downhill
 2000-01-22,Anja Kalan,SK,4,Downhill
 2000-01-22,Martina Ertl,DE,148,Downhill
-2000-01-22,Caroline Lalive,US,2,Combined
+2000-01-22,Caroline Lalive,US,2,Slalom
 2000-01-22,Fujiko Sekino,FR,1,Super G
 2000-01-22,Jeanette Collenberg,CH,8,Downhill
 2000-01-22,Michaela Kofler,AT,3,Downhill
@@ -367,7 +367,7 @@ date,name,ath_country,value,specialty
 2000-02-10,Jeanette Collenberg,CH,9,Downhill
 2000-02-10,Ingrid Jacquemod,FR,30,Downhill
 2000-02-10,Daniela Ceccarelli,IT,15,Super G
-2000-02-10,Caroline Lalive,US,7,Combined
+2000-02-10,Caroline Lalive,US,7,Slalom
 2000-02-10,Jenny Owens,AU,2,Downhill
 2000-02-10,Carole Montillet,FR,79,Downhill
 2000-02-10,Alessandra Merlin,IT,43,Super G
@@ -406,7 +406,7 @@ date,name,ath_country,value,specialty
 2000-02-19,Silvia Berger,AT,8,Giant Slalom
 2000-02-19,Monika Tschirky,CH,32,Downhill
 2000-02-19,Melanie Suchet,FR,98,Super G
-2000-02-19,Caroline Lalive,US,7,Combined
+2000-02-19,Caroline Lalive,US,7,Slalom
 2000-02-19,Ingrid Jacquemod,FR,75,Downhill
 2000-02-19,Jenny Owens,AU,2,Downhill
 2000-02-19,Isolde Kostner,IT,382,Downhill
@@ -443,7 +443,7 @@ date,name,ath_country,value,specialty
 2000-02-25,Pia Kaeyhkoe,FI,4,Downhill
 2000-02-25,Emily Brydon,CA,1,Super G
 2000-02-25,Barbara Merlin,IT,5,Downhill
-2000-02-25,Caroline Lalive,US,7,Combined
+2000-02-25,Caroline Lalive,US,7,Slalom
 2000-02-25,Kristine Kristiansen,NO,12,Downhill
 2000-02-25,Anja Kalan,SK,4,Downhill
 2000-02-25,Isolde Kostner,IT,432,Downhill
@@ -543,7 +543,7 @@ date,name,ath_country,value,specialty
 2000-03-05,Janica Kostelic,HR,36,Slalom
 2000-03-05,Melanie Suchet,FR,117,Super G
 2000-03-05,Michaela Kofler,AT,5,Downhill
-2000-03-05,Caroline Lalive,US,14,Combined
+2000-03-05,Caroline Lalive,US,14,Slalom
 2000-03-05,Alison Powers,US,24,Downhill
 2000-03-05,Carole Montillet,FR,102,Downhill
 2000-03-05,Jeanette Collenberg,CH,16,Downhill
@@ -593,7 +593,7 @@ date,name,ath_country,value,specialty
 2000-03-15,Janica Kostelic,HR,36,Slalom
 2000-03-15,Bibiana Perez,IT,196,Downhill
 2000-03-15,Barbara Merlin,IT,5,Downhill
-2000-03-15,Caroline Lalive,US,14,Combined
+2000-03-15,Caroline Lalive,US,14,Slalom
 2000-03-15,Jeanette Collenberg,CH,16,Downhill
 2000-03-15,Katia Santus,IT,9,Downhill
 2000-03-15,Laetitia Dalloz,FR,9,Super G

@@ -22,7 +22,7 @@ date,name,ath_country,value,specialty
 1975-12-05,Miroslav Sochor,SK,1,Giant Slalom
 1975-12-05,Franco Bieler,IT,4,Giant Slalom
 1975-12-05,Engelhard Pargaetzi,CH,0,Giant Slalom
-1975-12-05,Jim Hunter,CA,0,Combined
+1975-12-05,Jim Hunter,CA,0,Downhill
 1975-12-05,Phil Mahre,US,6,Giant Slalom
 1975-12-14,Erwin Stricker,IT,0,Combined
 1975-12-14,Miroslav Sochor,SK,1,Giant Slalom
@@ -42,7 +42,7 @@ date,name,ath_country,value,specialty
 1975-12-14,Hansi Hinterseer,AT,2,Slalom
 1975-12-14,Arnold Senoner,IT,0,Giant Slalom
 1975-12-14,Greg Jones,US,0,Giant Slalom
-1975-12-14,Jim Hunter,CA,0,Combined
+1975-12-14,Jim Hunter,CA,0,Downhill
 1975-12-14,Albert Burger,DE,3,Giant Slalom
 1975-12-14,Anton Steiner,AT,0,Combined
 1975-12-14,Peter Luescher,CH,6,Combined
@@ -62,7 +62,7 @@ date,name,ath_country,value,specialty
 1976-01-12,Gustav Thoeni,IT,54,Giant Slalom
 1976-01-12,Miroslav Sochor,SK,2,Giant Slalom
 1976-01-12,Engelhard Pargaetzi,CH,40,Giant Slalom
-1976-01-12,Jim Hunter,CA,0,Combined
+1976-01-12,Jim Hunter,CA,0,Downhill
 1976-01-12,Philippe Barroso,FR,2,Giant Slalom
 1976-01-12,Franco Bieler,IT,15,Giant Slalom
 1976-01-12,Erwin Stricker,IT,0,Combined
@@ -76,7 +76,7 @@ date,name,ath_country,value,specialty
 1976-01-12,Ernst Good,CH,30,Giant Slalom
 1976-01-18,Miroslav Sochor,SK,2,Giant Slalom
 1976-01-18,Cary Adgate,US,0,Slalom
-1976-01-18,Jim Hunter,CA,0,Combined
+1976-01-18,Jim Hunter,CA,0,Downhill
 1976-01-18,Steve Mahre,US,0,Slalom
 1976-01-18,Philippe Barroso,FR,2,Giant Slalom
 1976-01-18,Arnold Senoner,IT,6,Giant Slalom
@@ -116,7 +116,7 @@ date,name,ath_country,value,specialty
 1976-01-27,Gustav Thoeni,IT,82,Giant Slalom
 1976-01-27,Albert Burger,DE,3,Giant Slalom
 1976-01-27,Arnold Senoner,IT,6,Giant Slalom
-1976-01-27,Jim Hunter,CA,0,Combined
+1976-01-27,Jim Hunter,CA,0,Downhill
 1976-01-27,Heini Hemmi,CH,14,Giant Slalom
 1976-01-27,Engelhard Pargaetzi,CH,52,Giant Slalom
 1976-01-27,Thomas Hauser,AT,19,Giant Slalom
@@ -127,7 +127,7 @@ date,name,ath_country,value,specialty
 1976-03-05,Ingemar Stenmark,SE,81,Slalom
 1976-03-05,Engelhard Pargaetzi,CH,67,Giant Slalom
 1976-03-05,Philippe Barroso,FR,2,Giant Slalom
-1976-03-05,Jim Hunter,CA,0,Combined
+1976-03-05,Jim Hunter,CA,0,Downhill
 1976-03-05,Gustav Thoeni,IT,82,Giant Slalom
 1976-03-05,Anton Steiner,AT,6,Combined
 1976-03-05,Fausto Radici,IT,3,Slalom
@@ -149,7 +149,7 @@ date,name,ath_country,value,specialty
 1976-03-05,Phil Mahre,US,29,Giant Slalom
 1976-03-05,Walter Tresch,CH,6,Combined
 1976-03-05,Klaus Heidegger,AT,4,Giant Slalom
-1976-03-18,Jim Hunter,CA,2,Combined
+1976-03-18,Jim Hunter,CA,2,Downhill
 1976-03-18,Engelhard Pargaetzi,CH,67,Giant Slalom
 1976-03-18,Heini Hemmi,CH,39,Giant Slalom
 1976-03-18,Philippe Barroso,FR,2,Giant Slalom

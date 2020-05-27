@@ -29,7 +29,7 @@ date,name,ath_country,value,specialty
 1978-12-09,Loni Klettl,CA,0,Downhill
 1978-12-09,Marie Lucie Waldmeier,FR,0,Downhill
 1978-12-09,Claudia Giordani,IT,0,Slalom
-1978-12-09,Martine Liouche,FR,0,Combined
+1978-12-09,Martine Liouche,FR,0,Downhill
 1978-12-09,Edith Lindner,AT,0,Downhill
 1978-12-09,Nicola Spiss,AT,0,Downhill
 1978-12-09,Jamie Kurlander,US,0,Downhill
@@ -55,7 +55,7 @@ date,name,ath_country,value,specialty
 1978-12-17,Danielle Debernard,FR,17,Downhill
 1978-12-17,Christine Klossner,CH,0,Downhill
 1978-12-17,Cornelia Proell,AT,0,Downhill
-1978-12-17,Martine Liouche,FR,0,Combined
+1978-12-17,Martine Liouche,FR,0,Downhill
 1978-12-17,Dianne Lehodey,CA,0,Downhill
 1978-12-17,Monika Bader,DE,0,Downhill
 1978-12-17,Loni Klettl,CA,0,Downhill
@@ -103,7 +103,7 @@ date,name,ath_country,value,specialty
 1979-01-12,Edith Lindner,AT,0,Downhill
 1979-01-12,Elisabeth Kraml,AT,19,Downhill
 1979-01-12,Caroline Attia,FR,35,Downhill
-1979-01-12,Martine Liouche,FR,0,Combined
+1979-01-12,Martine Liouche,FR,0,Downhill
 1979-01-12,Kathy Kreiner,CA,0,Combined
 1979-01-12,Evi Mittermaier,DE,48,Downhill
 1979-01-12,Dianne Lehodey,CA,0,Downhill
@@ -179,7 +179,7 @@ date,name,ath_country,value,specialty
 1979-01-17,Danielle Debernard,FR,17,Downhill
 1979-01-17,Jamie Kurlander,US,0,Downhill
 1979-01-17,Annemarie Proell,AT,100,Downhill
-1979-01-17,Martine Liouche,FR,0,Combined
+1979-01-17,Martine Liouche,FR,0,Downhill
 1979-01-17,Kathy Kreiner,CA,17,Combined
 1979-01-17,Gabi Infanger,CH,18,Downhill
 1979-01-17,Zoe Haas,CH,0,Downhill
@@ -195,7 +195,7 @@ date,name,ath_country,value,specialty
 1979-01-26,Annemarie Proell,AT,125,Downhill
 1979-01-26,Fabienne Serrat,FR,0,Slalom
 1979-01-26,Roxanne Toly,US,0,Downhill
-1979-01-26,Martine Liouche,FR,6,Combined
+1979-01-26,Martine Liouche,FR,6,Downhill
 1979-01-26,Edith Lindner,AT,10,Downhill
 1979-01-26,Catherine Gonseth,FR,0,Downhill
 1979-01-26,Christin Cooper,US,0,Slalom
@@ -259,7 +259,7 @@ date,name,ath_country,value,specialty
 1979-02-04,Doris De Agostini,CH,24,Downhill
 1979-02-04,Kathy Kreiner,CA,17,Combined
 1979-02-04,Danielle Debernard,FR,17,Downhill
-1979-02-04,Martine Liouche,FR,15,Combined
+1979-02-04,Martine Liouche,FR,15,Downhill
 1979-02-04,Petra Wenzel,LI,0,Giant Slalom
 1979-02-04,Annemarie Bischofberger,CH,29,Downhill
 1979-02-04,Gabi Infanger,CH,18,Downhill
@@ -308,7 +308,7 @@ date,name,ath_country,value,specialty
 1979-03-02,Maggie Crane,US,2,Downhill
 1979-03-02,Claudia Giordani,IT,3,Slalom
 1979-03-02,Christine Klossner,CH,5,Downhill
-1979-03-02,Martine Liouche,FR,15,Combined
+1979-03-02,Martine Liouche,FR,15,Downhill
 1979-03-02,Edith Lindner,AT,10,Downhill
 1979-03-02,Nicola Spiss,AT,11,Downhill
 1979-03-02,Jamie Kurlander,US,24,Downhill

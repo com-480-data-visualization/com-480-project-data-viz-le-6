@@ -2,7 +2,7 @@ date,name,ath_country,value,specialty
 1985-12-01,Rok Petrovic,SK,25,Slalom
 1985-12-01,Thomas Buergler,CH,9,Slalom
 1985-12-01,Markus Wasmeier,DE,0,Super G
-1985-12-01,Andreas Wenzel,LI,0,Combined
+1985-12-01,Andreas Wenzel,LI,0,Slalom
 1985-12-01,Chiaki Ishioka,JP,0,Slalom
 1985-12-01,Jean Daniel Deleze,CH,0,Slalom
 1985-12-01,Dietmar Koehlbichler,AT,11,Slalom
@@ -93,7 +93,7 @@ date,name,ath_country,value,specialty
 1985-12-17,Mathias Berthold,AT,8,Slalom
 1985-12-17,Thomas Buergler,CH,9,Slalom
 1985-12-17,Markus Wasmeier,DE,0,Super G
-1985-12-17,Andreas Wenzel,LI,0,Combined
+1985-12-17,Andreas Wenzel,LI,0,Slalom
 1985-12-17,Franck Woerndl,DE,2,Slalom
 1985-12-17,Marco Tonazzi,IT,10,Slalom
 1985-12-17,Bernhard Gstrein,AT,1,Slalom
@@ -140,7 +140,7 @@ date,name,ath_country,value,specialty
 1985-12-22,Johan Wallner,SE,8,Slalom
 1985-12-22,Marc Girardelli,LU,0,Downhill
 1985-12-22,Armin Bittner,DE,0,Slalom
-1985-12-22,Andreas Wenzel,LI,0,Combined
+1985-12-22,Andreas Wenzel,LI,0,Slalom
 1985-12-22,Robert Zoller,AT,6,Slalom
 1985-12-22,Markus Wasmeier,DE,1,Super G
 1985-12-22,Klaus Heidegger,AT,16,Slalom
@@ -210,7 +210,7 @@ date,name,ath_country,value,specialty
 1986-01-12,Gunnar Neuriesser,SE,0,Slalom
 1986-01-12,Robert Zoller,AT,6,Slalom
 1986-01-12,Klaus Heidegger,AT,23,Slalom
-1986-01-12,Andreas Wenzel,LI,11,Combined
+1986-01-12,Andreas Wenzel,LI,11,Slalom
 1986-01-12,Lars Goeran Halvarsson,SE,9,Slalom
 1986-01-12,Ingemar Stenmark,SE,20,Slalom
 1986-01-12,Luis Fernandez Ochoa,ES,0,Slalom
@@ -276,7 +276,7 @@ date,name,ath_country,value,specialty
 1986-01-19,Luis Fernandez Ochoa,ES,0,Slalom
 1986-01-19,Chiaki Ishioka,JP,5,Slalom
 1986-01-19,Johan Wallner,SE,33,Slalom
-1986-01-19,Andreas Wenzel,LI,26,Combined
+1986-01-19,Andreas Wenzel,LI,26,Slalom
 1986-01-19,Markus Wasmeier,DE,1,Super G
 1986-01-19,Franck Woerndl,DE,2,Slalom
 1986-01-19,Felix McGrath,US,12,Slalom
@@ -362,7 +362,7 @@ date,name,ath_country,value,specialty
 1986-01-21,Marc Girardelli,LU,6,Downhill
 1986-01-21,Ivano Edalini,IT,35,Slalom
 1986-01-21,Didier Bouvet,FR,32,Slalom
-1986-01-21,Andreas Wenzel,LI,26,Combined
+1986-01-21,Andreas Wenzel,LI,26,Slalom
 1986-01-21,Marco Tonazzi,IT,22,Slalom
 1986-01-21,Thomas Buergler,CH,25,Slalom
 1986-01-21,Guenther Mader,AT,34,Slalom
@@ -414,7 +414,7 @@ date,name,ath_country,value,specialty
 1986-01-25,Markus Wasmeier,DE,1,Super G
 1986-01-25,Alberto Tomba,IT,0,Giant Slalom
 1986-01-25,Max Julen,CH,10,Giant Slalom
-1986-01-25,Andreas Wenzel,LI,29,Combined
+1986-01-25,Andreas Wenzel,LI,29,Slalom
 1986-01-25,Roland Pfeifer,AT,2,Giant Slalom
 1986-01-25,Michael Frost,US,0,Slalom
 1986-01-25,Rok Petrovic,SK,70,Slalom
@@ -439,7 +439,7 @@ date,name,ath_country,value,specialty
 1986-02-02,Naomine Iwaya,JP,1,Slalom
 1986-02-02,Peter Jurko,SK,1,Combined
 1986-02-02,Mathias Berthold,AT,24,Slalom
-1986-02-02,Andreas Wenzel,LI,32,Combined
+1986-02-02,Andreas Wenzel,LI,32,Slalom
 1986-02-02,Florian Beck,DE,3,Slalom
 1986-02-02,Richard Pramotton,IT,18,Giant Slalom
 1986-02-02,Daniel Mougel,FR,16,Slalom
@@ -495,7 +495,7 @@ date,name,ath_country,value,specialty
 1986-02-02,Gunnar Neuriesser,SE,13,Slalom
 1986-02-02,Max Julen,CH,10,Giant Slalom
 1986-02-02,Alberto Tomba,IT,0,Giant Slalom
-1986-02-23,Andreas Wenzel,LI,32,Combined
+1986-02-23,Andreas Wenzel,LI,32,Slalom
 1986-02-23,Chiaki Ishioka,JP,5,Slalom
 1986-02-23,Michael Frost,US,0,Slalom
 1986-02-23,Rok Petrovic,SK,95,Slalom
@@ -567,7 +567,7 @@ date,name,ath_country,value,specialty
 1986-02-25,Ivano Edalini,IT,53,Slalom
 1986-02-25,Torjus Berge,NO,2,Slalom
 1986-02-25,Bernhard Gstrein,AT,1,Slalom
-1986-02-25,Andreas Wenzel,LI,32,Combined
+1986-02-25,Andreas Wenzel,LI,32,Slalom
 1986-02-25,Mathias Berthold,AT,25,Slalom
 1986-02-25,Martin Hangl,CH,6,Super G
 1986-02-25,Ingemar Stenmark,SE,105,Slalom
@@ -659,7 +659,7 @@ date,name,ath_country,value,specialty
 1986-03-02,Markus Wasmeier,DE,3,Super G
 1986-03-02,Petar Popangelov,BG,15,Slalom
 1986-03-02,Daniel Fontaine,FR,0,Slalom
-1986-03-02,Andreas Wenzel,LI,32,Combined
+1986-03-02,Andreas Wenzel,LI,32,Slalom
 1986-03-02,Peter Jurko,SK,1,Combined
 1986-03-02,Thomas Stangassinger,AT,15,Slalom
 1986-03-02,Daniel Mougel,FR,17,Slalom
@@ -715,7 +715,7 @@ date,name,ath_country,value,specialty
 1986-03-11,Dietmar Koehlbichler,AT,50,Slalom
 1986-03-11,Naomine Iwaya,JP,1,Slalom
 1986-03-11,Petar Popangelov,BG,15,Slalom
-1986-03-11,Andreas Wenzel,LI,32,Combined
+1986-03-11,Andreas Wenzel,LI,32,Slalom
 1986-03-11,Markus Wasmeier,DE,9,Super G
 1986-03-11,Bengt Fjaellberg,SE,6,Slalom
 1986-03-11,Daniel Mougel,FR,17,Slalom
@@ -760,7 +760,7 @@ date,name,ath_country,value,specialty
 1986-03-21,Richard Pramotton,IT,38,Giant Slalom
 1986-03-21,Marc Girardelli,LU,45,Downhill
 1986-03-21,Thomas Buergler,CH,35,Slalom
-1986-03-21,Andreas Wenzel,LI,43,Combined
+1986-03-21,Andreas Wenzel,LI,43,Slalom
 1986-03-21,Dietmar Koehlbichler,AT,50,Slalom
 1986-03-21,Daniel Mougel,FR,18,Slalom
 1986-03-21,Thomas Stangassinger,AT,15,Slalom

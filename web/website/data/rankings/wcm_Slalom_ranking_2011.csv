@@ -1,7 +1,7 @@
 date,name,ath_country,value,specialty
 2010-11-14,Jean-Baptiste Grange,FR,100,Slalom
 2010-11-14,Markus Vogel,CH,0,Slalom
-2010-11-14,Matteo Marsaglia,IT,0,Combined
+2010-11-14,Matteo Marsaglia,IT,0,Downhill
 2010-11-14,Justin Murisier,CH,0,Slalom
 2010-11-14,Romed Baumann,AT,0,Downhill
 2010-11-14,Reto Schmidiger,CH,0,Slalom
@@ -190,7 +190,7 @@ date,name,ath_country,value,specialty
 2010-12-12,Leif Kristian Haugen,NO,3,Giant Slalom
 2010-12-12,Paul Stutz,CA,0,Slalom
 2010-12-12,Reinfried Herbst,AT,0,Slalom
-2010-12-12,Matteo Marsaglia,IT,0,Combined
+2010-12-12,Matteo Marsaglia,IT,0,Downhill
 2010-12-12,Brad Spence,CA,15,Slalom
 2010-12-12,Will Brandenburg,US,0,Combined
 2010-12-12,Mitja Dragsic,SK,0,Combined
@@ -416,7 +416,7 @@ date,name,ath_country,value,specialty
 2011-01-06,Markus Vogel,CH,20,Slalom
 2011-01-06,Ryan Semple,CA,0,Combined
 2011-01-06,Victor Muffat Jeandet,FR,0,Combined
-2011-01-06,Matteo Marsaglia,IT,0,Combined
+2011-01-06,Matteo Marsaglia,IT,0,Downhill
 2011-01-06,Santeri Paloniemi,FI,0,Combined
 2011-01-06,Patrick Jazbec,SK,0,Combined
 2011-01-06,Christoph Dreier,AT,26,Slalom
@@ -486,7 +486,7 @@ date,name,ath_country,value,specialty
 2011-01-09,Jeroen Van Den Bogaert,BE,0,Combined
 2011-01-09,Axel Baeck,SE,34,Slalom
 2011-01-09,Markus Vogel,CH,20,Slalom
-2011-01-09,Matteo Marsaglia,IT,0,Combined
+2011-01-09,Matteo Marsaglia,IT,0,Downhill
 2011-01-09,Justin Murisier,CH,41,Slalom
 2011-01-09,Stefan Georgiev,BG,0,Combined
 2011-01-09,Romed Baumann,AT,0,Downhill
@@ -642,7 +642,7 @@ date,name,ath_country,value,specialty
 2011-01-16,Jeroen Van Den Bogaert,BE,0,Combined
 2011-01-16,Igor Laikert,BA,0,Combined
 2011-01-16,Cristian Javier Simari Birkner,AR,0,Combined
-2011-01-16,Matteo Marsaglia,IT,0,Combined
+2011-01-16,Matteo Marsaglia,IT,0,Downhill
 2011-01-16,Ryan Semple,CA,0,Combined
 2011-01-16,Tin Siroki,HR,0,Combined
 2011-01-16,Stefan Georgiev,BG,0,Combined
@@ -823,7 +823,7 @@ date,name,ath_country,value,specialty
 2011-01-23,Miha Kuerner,SK,0,Combined
 2011-01-23,Mattias Hargin,SE,166,Slalom
 2011-01-23,Riccardo Tonetti,IT,0,Combined
-2011-01-23,Matteo Marsaglia,IT,0,Combined
+2011-01-23,Matteo Marsaglia,IT,0,Downhill
 2011-01-23,Andreas Romar,FI,0,Combined
 2011-01-23,Bode Miller,US,0,Downhill
 2011-01-23,Jeroen Van Den Bogaert,BE,0,Combined
@@ -901,7 +901,7 @@ date,name,ath_country,value,specialty
 2011-01-25,Ondrej Berndt,CZ,0,Combined
 2011-01-25,Dominik Stehle,DE,0,Combined
 2011-01-25,Julien Cousineau,CA,107,Slalom
-2011-01-25,Matteo Marsaglia,IT,0,Combined
+2011-01-25,Matteo Marsaglia,IT,0,Downhill
 2011-01-25,Lars Elton Myhre,NO,36,Slalom
 2011-01-25,Tin Siroki,HR,0,Combined
 2011-01-25,Mario Matt,AT,127,Slalom
@@ -1026,7 +1026,7 @@ date,name,ath_country,value,specialty
 2011-02-27,Markus Vogel,CH,60,Slalom
 2011-02-27,Joonas Rasanen,FI,0,Combined
 2011-02-27,Adrien Theaux,FR,0,Downhill
-2011-02-27,Matteo Marsaglia,IT,0,Combined
+2011-02-27,Matteo Marsaglia,IT,0,Downhill
 2011-02-27,Santeri Paloniemi,FI,0,Combined
 2011-02-27,Giovanni Borsotti,IT,0,Giant Slalom
 2011-02-27,Andreas Romar,FI,0,Combined
@@ -1250,7 +1250,7 @@ date,name,ath_country,value,specialty
 2011-03-06,Matej Falat,SK,0,Combined
 2011-03-06,Romed Baumann,AT,0,Downhill
 2011-03-06,Justin Murisier,CH,62,Slalom
-2011-03-06,Matteo Marsaglia,IT,0,Combined
+2011-03-06,Matteo Marsaglia,IT,0,Downhill
 2011-03-06,Benjamin Raich,AT,180,Super G
 2011-03-06,Markus Vogel,CH,96,Slalom
 2011-03-06,Jeroen Van Den Bogaert,BE,0,Combined
@@ -1422,7 +1422,7 @@ date,name,ath_country,value,specialty
 2011-03-19,Reto Schmidiger,CH,41,Slalom
 2011-03-19,Justin Murisier,CH,62,Slalom
 2011-03-19,Romed Baumann,AT,0,Downhill
-2011-03-19,Matteo Marsaglia,IT,0,Combined
+2011-03-19,Matteo Marsaglia,IT,0,Downhill
 2011-03-19,Markus Vogel,CH,107,Slalom
 2011-03-19,Jens Byggmark,SE,173,Slalom
 2011-03-19,Jeroen Van Den Bogaert,BE,0,Combined

@@ -1,351 +1,271 @@
 date,name,ath_country,value,specialty
 2011-01-14,Ivica Kostelic,HR,100,Slalom
-2011-01-14,Marc Digruber,AT,0,Combined
-2011-01-14,Manfred Moelgg,IT,0,Slalom
-2011-01-14,Johan Clarey,FR,0,Downhill
-2011-01-14,Matteo Marsaglia,IT,12,Combined
-2011-01-14,Stephan Thanei,IT,10,Combined
-2011-01-14,Tim Jitloff,US,7,Combined
-2011-01-14,Daniel Albrecht,CH,0,Giant Slalom
-2011-01-14,Ami Oreiller,CH,0,Combined
-2011-01-14,Paolo Pangrazzi,IT,9,Combined
-2011-01-14,Max Franz,AT,0,Combined
-2011-01-14,Michal Klusak,PL,0,Combined
-2011-01-14,Kelby Halbert,CA,0,Combined
-2011-01-14,Wiley Maple,US,0,Combined
-2011-01-14,Georgi Georgiev,BG,0,Combined
-2011-01-14,Dominik Paris,IT,0,Downhill
-2011-01-14,Brice Roger,FR,0,Combined
-2011-01-14,Andreas Romar,FI,14,Combined
-2011-01-14,Will Brandenburg,US,0,Combined
-2011-01-14,Adrien Theaux,FR,36,Downhill
-2011-01-14,Ondrej Bank,CZ,26,Giant Slalom
-2011-01-14,Colby Granstrom,US,0,Combined
-2011-01-14,Matts Olsson,SE,0,Giant Slalom
-2011-01-14,Bjoern Sieber,AT,16,Combined
-2011-01-14,Didier Cuche,CH,0,Downhill
-2011-01-14,Beat Feuz,CH,22,Downhill
-2011-01-14,Andreas Sander,DE,0,Downhill
+2011-01-14,Alexandre Bouillot,FR,0,Combined
 2011-01-14,Sandro Viletta,CH,15,Giant Slalom
-2011-01-14,Philipp Schoerghofer,AT,0,Giant Slalom
-2011-01-14,David Poisson,FR,0,Downhill
-2011-01-14,Hagen Patscheider,IT,0,Downhill
-2011-01-14,Lars Elton Myhre,NO,0,Slalom
-2011-01-14,Marc Berthod,CH,0,Giant Slalom
-2011-01-14,Mario Scheiber,AT,0,Downhill
-2011-01-14,Marc Gisin,CH,0,Downhill
-2011-01-14,Mathieu Faivre,FR,0,Combined
-2011-01-14,Tin Siroki,HR,5,Combined
-2011-01-14,Steven Nyman,US,0,Downhill
-2011-01-14,Christian Spescha,CH,0,Combined
-2011-01-14,Martin Vrablik,CZ,2,Combined
-2011-01-14,Reto Schmidiger,CH,0,Slalom
-2011-01-14,Siegmar Klotz,IT,13,Combined
-2011-01-14,Patrick Staudacher,IT,0,Super G
-2011-01-14,Hans Olsson,SE,0,Downhill
-2011-01-14,Tobias Gruenenfelder,CH,0,Super G
-2011-01-14,Joachim Puchner,AT,11,Downhill
-2011-01-14,Alexis Pinturault,FR,0,Giant Slalom
-2011-01-14,Ferran Terra,ES,0,Combined
-2011-01-14,Ryan Semple,CA,8,Combined
-2011-01-14,Miha Kuerner,SK,0,Combined
+2011-01-14,Andreas Romar,FI,14,Combined
 2011-01-14,Kevin Esteve Rigail,AD,0,Combined
-2011-01-14,Bode Miller,US,40,Downhill
+2011-01-14,Philipp Schoerghofer,AT,0,Giant Slalom
 2011-01-14,Mirko Deflorian,MD,0,Combined
+2011-01-14,Matteo Marsaglia,IT,12,Downhill
+2011-01-14,Kelby Halbert,CA,0,Combined
+2011-01-14,Lars Elton Myhre,NO,0,Slalom
+2011-01-14,Daniel Albrecht,CH,0,Giant Slalom
+2011-01-14,Marc Gisin,CH,0,Downhill
+2011-01-14,Didier Cuche,CH,0,Downhill
+2011-01-14,Reto Schmidiger,CH,0,Slalom
+2011-01-14,Tobias Gruenenfelder,CH,0,Super G
+2011-01-14,Hans Olsson,SE,0,Downhill
+2011-01-14,Steven Nyman,US,0,Downhill
+2011-01-14,Alexis Pinturault,FR,0,Giant Slalom
+2011-01-14,Andy Plank,IT,0,Combined
+2011-01-14,Peter Fill,IT,24,Downhill
+2011-01-14,Romed Baumann,AT,20,Downhill
+2011-01-14,David Poisson,FR,0,Downhill
+2011-01-14,Beat Feuz,CH,22,Downhill
+2011-01-14,Mario Scheiber,AT,0,Downhill
+2011-01-14,Stephan Keppler,DE,0,Super G
+2011-01-14,Manfred Moelgg,IT,0,Slalom
+2011-01-14,Marc Berthod,CH,0,Giant Slalom
+2011-01-14,Mathieu Faivre,FR,0,Combined
+2011-01-14,Dalibor Samsal,HR,0,Combined
 2011-01-14,Krystof Kryzl,CZ,0,Combined
-2011-01-14,Frederic Berthold,AT,0,Combined
-2011-01-14,Cristian Deville,IT,0,Slalom
+2011-01-14,Alexandr Horoshilov,RU,0,Slalom
+2011-01-14,Ryan Semple,CA,8,Combined
 2011-01-14,Vitus Lueoend,CH,0,Downhill
-2011-01-14,Nikola Chongarov,BG,0,Combined
-2011-01-14,Aksel-Lund Svindal,NO,60,Giant Slalom
-2011-01-14,Hannes Reichelt,AT,0,Super G
-2011-01-14,Felix Neureuther,DE,0,Slalom
-2011-01-14,Christoph Dreier,AT,0,Slalom
+2011-01-14,Matts Olsson,SE,0,Giant Slalom
+2011-01-14,Tin Siroki,HR,5,Combined
+2011-01-14,Will Brandenburg,US,0,Combined
 2011-01-14,Edward Drake,GB,0,Combined
-2011-01-14,Natko Zrncic-Dim,HR,0,Combined
+2011-01-14,Georgi Georgiev,BG,0,Combined
 2011-01-14,Maciej Bydlinski,PL,4,Combined
-2011-01-14,Matej Falat,SK,0,Combined
-2011-01-14,Silvan Zurbriggen,CH,18,Downhill
-2011-01-14,Frederik Van Buynder,BE,1,Combined
-2011-01-14,Svetoslav Georgiev,BG,0,Combined
+2011-01-14,Max Franz,AT,0,Combined
 2011-01-14,Guillermo Fayed,FR,0,Downhill
+2011-01-14,Dustin Cook,CA,3,Combined
+2011-01-14,Stephan Thanei,IT,10,Combined
+2011-01-14,Marc Digruber,AT,0,Combined
+2011-01-14,Martin Vrablik,CZ,2,Combined
+2011-01-14,Miha Kuerner,SK,0,Combined
+2011-01-14,Benjamin Thomsen,CA,0,Downhill
+2011-01-14,Joachim Puchner,AT,11,Downhill
+2011-01-14,Frederik Van Buynder,BE,1,Combined
+2011-01-14,Siegmar Klotz,IT,13,Combined
+2011-01-14,Hannes Reichelt,AT,0,Super G
+2011-01-14,Frederic Berthold,AT,0,Combined
+2011-01-14,Christian Spescha,CH,0,Combined
+2011-01-14,Hagen Patscheider,IT,0,Downhill
+2011-01-14,Tim Jitloff,US,7,Combined
+2011-01-14,Bode Miller,US,40,Downhill
+2011-01-14,Silvan Zurbriggen,CH,18,Downhill
+2011-01-14,Brice Roger,FR,0,Combined
+2011-01-14,Colby Granstrom,US,0,Combined
+2011-01-14,Ted Ligety,US,29,Giant Slalom
+2011-01-14,Nikola Chongarov,BG,0,Combined
+2011-01-14,Kjetil Jansrud,NO,32,Giant Slalom
+2011-01-14,Jean-Baptiste Grange,FR,0,Slalom
+2011-01-14,Thomas Mermillod,FR,6,Combined
+2011-01-14,Manuel Wieser,AT,0,Combined
+2011-01-14,Justin Murisier,CH,0,Slalom
+2011-01-14,Aksel-Lund Svindal,NO,60,Giant Slalom
+2011-01-14,Felix Neureuther,DE,0,Slalom
+2011-01-14,Cristian Deville,IT,0,Slalom
+2011-01-14,Natko Zrncic-Dim,HR,0,Combined
+2011-01-14,Christoph Dreier,AT,0,Slalom
+2011-01-14,Matej Falat,SK,0,Combined
 2011-01-14,Carlo Janka,CH,80,Giant Slalom
 2011-01-14,Christof Innerhofer,IT,50,Downhill
-2011-01-14,Dustin Cook,CA,3,Combined
+2011-01-14,Svetoslav Georgiev,BG,0,Combined
 2011-01-14,Nolan Kasper,US,0,Slalom
-2011-01-14,Benjamin Thomsen,CA,0,Downhill
-2011-01-14,Romed Baumann,AT,20,Downhill
-2011-01-14,Justin Murisier,CH,0,Slalom
-2011-01-14,Andy Plank,IT,0,Combined
+2011-01-14,Wiley Maple,US,0,Combined
+2011-01-14,Ami Oreiller,CH,0,Combined
 2011-01-14,Benjamin Raich,AT,45,Super G
-2011-01-14,Thomas Mermillod,FR,6,Combined
-2011-01-14,Alexandr Horoshilov,RU,0,Slalom
-2011-01-14,Stephan Keppler,DE,0,Super G
-2011-01-14,Alexandre Bouillot,FR,0,Combined
-2011-01-14,Jean-Baptiste Grange,FR,0,Slalom
-2011-01-14,Peter Fill,IT,24,Downhill
-2011-01-14,Dalibor Samsal,HR,0,Combined
-2011-01-14,Ted Ligety,US,29,Giant Slalom
-2011-01-14,Kjetil Jansrud,NO,32,Giant Slalom
 2011-01-14,Maxime Tissot,FR,0,Slalom
-2011-01-14,Manuel Wieser,AT,0,Combined
-2011-01-23,Frederik Van Buynder,BE,1,Combined
-2011-01-23,Mathieu Faivre,FR,0,Combined
-2011-01-23,Will Brandenburg,US,0,Combined
-2011-01-23,Steven Nyman,US,0,Downhill
-2011-01-23,Stephan Thanei,IT,10,Combined
-2011-01-23,Guillermo Fayed,FR,0,Downhill
-2011-01-23,Benjamin Thomsen,CA,0,Downhill
-2011-01-23,Kevin Esteve Rigail,AD,0,Combined
-2011-01-23,Krystof Kryzl,CZ,0,Combined
-2011-01-23,Hagen Patscheider,IT,0,Downhill
-2011-01-23,Dustin Cook,CA,3,Combined
-2011-01-23,Sandro Viletta,CH,15,Giant Slalom
-2011-01-23,Matts Olsson,SE,0,Giant Slalom
-2011-01-23,Alexandre Bouillot,FR,0,Combined
-2011-01-23,Marc Berthod,CH,0,Giant Slalom
-2011-01-23,Edward Drake,GB,0,Combined
-2011-01-23,Mirko Deflorian,MD,0,Combined
-2011-01-23,Daniel Albrecht,CH,0,Giant Slalom
-2011-01-23,Alexandr Horoshilov,RU,0,Slalom
-2011-01-23,Marc Digruber,AT,0,Combined
-2011-01-23,Frederic Berthold,AT,0,Combined
-2011-01-23,Kelby Halbert,CA,0,Combined
-2011-01-23,Dalibor Samsal,HR,0,Combined
-2011-01-23,Max Franz,AT,0,Combined
-2011-01-23,Maciej Bydlinski,PL,4,Combined
-2011-01-23,Vitus Lueoend,CH,0,Downhill
-2011-01-23,Didier Cuche,CH,0,Downhill
-2011-01-23,Joachim Puchner,AT,11,Downhill
-2011-01-23,Stephan Keppler,DE,0,Super G
-2011-01-23,Maxime Tissot,FR,0,Slalom
-2011-01-23,Georgi Georgiev,BG,0,Combined
-2011-01-23,Tobias Gruenenfelder,CH,0,Super G
-2011-01-23,Siegmar Klotz,IT,13,Combined
-2011-01-23,Hannes Reichelt,AT,0,Super G
-2011-01-23,Miha Kuerner,SK,0,Combined
-2011-01-23,Reto Schmidiger,CH,0,Slalom
-2011-01-23,Andy Plank,IT,0,Combined
-2011-01-23,Dominik Paris,IT,0,Downhill
-2011-01-23,Wiley Maple,US,0,Combined
-2011-01-23,Brice Roger,FR,0,Combined
-2011-01-23,Adrien Theaux,FR,72,Downhill
-2011-01-23,Andreas Romar,FI,14,Combined
-2011-01-23,Colby Granstrom,US,0,Combined
-2011-01-23,Bode Miller,US,40,Downhill
-2011-01-23,Nikola Chongarov,BG,0,Combined
-2011-01-23,Peter Fill,IT,69,Downhill
-2011-01-23,Benjamin Raich,AT,45,Super G
-2011-01-23,Jean-Baptiste Grange,FR,0,Slalom
-2011-01-23,Ted Ligety,US,29,Giant Slalom
-2011-01-23,Manuel Wieser,AT,0,Combined
-2011-01-23,Kjetil Jansrud,NO,82,Giant Slalom
-2011-01-23,Thomas Mermillod,FR,6,Combined
-2011-01-23,Justin Murisier,CH,0,Slalom
-2011-01-23,Romed Baumann,AT,80,Downhill
-2011-01-23,Aksel-Lund Svindal,NO,60,Giant Slalom
-2011-01-23,Cristian Deville,IT,0,Slalom
-2011-01-23,Felix Neureuther,DE,0,Slalom
-2011-01-23,Natko Zrncic-Dim,HR,0,Combined
-2011-01-23,Christoph Dreier,AT,0,Slalom
-2011-01-23,Matej Falat,SK,0,Combined
-2011-01-23,Silvan Zurbriggen,CH,98,Downhill
-2011-01-23,Carlo Janka,CH,112,Giant Slalom
-2011-01-23,Svetoslav Georgiev,BG,0,Combined
-2011-01-23,Christof Innerhofer,IT,90,Downhill
-2011-01-23,Nolan Kasper,US,0,Slalom
-2011-01-23,Ivica Kostelic,HR,200,Slalom
-2011-01-23,Bjoern Sieber,AT,16,Combined
-2011-01-23,Ami Oreiller,CH,0,Combined
-2011-01-23,Ondrej Bank,CZ,26,Giant Slalom
-2011-01-23,Martin Vrablik,CZ,2,Combined
-2011-01-23,Tin Siroki,HR,25,Combined
-2011-01-23,Hans Olsson,SE,22,Downhill
-2011-01-23,Paolo Pangrazzi,IT,9,Combined
-2011-01-23,Alexis Pinturault,FR,0,Giant Slalom
-2011-01-23,Mario Scheiber,AT,0,Downhill
-2011-01-23,Marc Gisin,CH,18,Downhill
-2011-01-23,Ferran Terra,ES,0,Combined
-2011-01-23,Ryan Semple,CA,32,Combined
-2011-01-23,Andreas Sander,DE,0,Downhill
-2011-01-23,Christian Spescha,CH,0,Combined
-2011-01-23,Beat Feuz,CH,48,Downhill
-2011-01-23,Patrick Staudacher,IT,0,Super G
-2011-01-23,Lars Elton Myhre,NO,0,Slalom
-2011-01-23,Manfred Moelgg,IT,0,Slalom
-2011-01-23,Michal Klusak,PL,0,Combined
-2011-01-23,Johan Clarey,FR,0,Downhill
-2011-01-23,Philipp Schoerghofer,AT,0,Giant Slalom
-2011-01-23,David Poisson,FR,0,Downhill
-2011-01-23,Matteo Marsaglia,IT,41,Combined
-2011-01-23,Tim Jitloff,US,7,Combined
-2011-01-30,Matej Falat,SK,0,Combined
-2011-01-30,Benjamin Thomsen,CA,2,Downhill
+2011-01-14,Michal Klusak,PL,0,Combined
+2011-01-14,Paolo Pangrazzi,IT,9,Combined
+2011-01-14,Johan Clarey,FR,0,Downhill
+2011-01-14,Bjoern Sieber,AT,16,Combined
+2011-01-14,Dominik Paris,IT,0,Downhill
+2011-01-14,Ferran Terra,ES,0,Combined
+2011-01-14,Ondrej Bank,CZ,26,Giant Slalom
+2011-01-14,Andreas Sander,DE,0,Downhill
+2011-01-14,Patrick Staudacher,IT,0,Super G
+2011-01-14,Adrien Theaux,FR,36,Downhill
+2011-01-30,Justin Murisier,CH,0,Slalom
 2011-01-30,Cristian Deville,IT,0,Slalom
+2011-01-30,Andy Plank,IT,0,Combined
+2011-01-30,Maciej Bydlinski,PL,4,Combined
+2011-01-30,Ferran Terra,ES,0,Combined
+2011-01-30,Guillermo Fayed,FR,4,Downhill
+2011-01-30,Christoph Dreier,AT,0,Slalom
+2011-01-30,Dustin Cook,CA,3,Combined
+2011-01-30,Tin Siroki,HR,8,Combined
+2011-01-30,David Poisson,FR,0,Downhill
+2011-01-30,Matej Falat,SK,0,Combined
+2011-01-30,Patrick Staudacher,IT,0,Super G
+2011-01-30,Vitus Lueoend,CH,6,Downhill
+2011-01-30,Alexandr Horoshilov,RU,0,Slalom
 2011-01-30,Mario Scheiber,AT,0,Downhill
 2011-01-30,Svetoslav Georgiev,BG,0,Combined
-2011-01-30,Hannes Reichelt,AT,1,Super G
-2011-01-30,Christoph Dreier,AT,0,Slalom
-2011-01-30,Steven Nyman,US,0,Downhill
-2011-01-30,Andy Plank,IT,0,Combined
+2011-01-30,Edward Drake,GB,5,Combined
 2011-01-30,Hagen Patscheider,IT,0,Downhill
-2011-01-30,David Poisson,FR,0,Downhill
 2011-01-30,Kelby Halbert,CA,0,Combined
-2011-01-30,Tobias Gruenenfelder,CH,0,Super G
-2011-01-30,Johan Clarey,FR,0,Downhill
+2011-01-30,Martin Vrablik,CZ,2,Combined
+2011-01-30,Daniel Albrecht,CH,0,Giant Slalom
 2011-01-30,Ami Oreiller,CH,0,Combined
 2011-01-30,Mirko Deflorian,MD,0,Combined
-2011-01-30,Wiley Maple,US,0,Combined
 2011-01-30,Kevin Esteve Rigail,AD,0,Combined
-2011-01-30,Brice Roger,FR,0,Combined
-2011-01-30,Daniel Albrecht,CH,0,Giant Slalom
-2011-01-30,Justin Murisier,CH,0,Slalom
-2011-01-30,Colby Granstrom,US,0,Combined
-2011-01-30,Nikola Chongarov,BG,0,Combined
-2011-01-30,Ferran Terra,ES,0,Combined
+2011-01-30,Wiley Maple,US,0,Combined
 2011-01-30,Didier Cuche,CH,0,Downhill
-2011-01-30,Stephan Keppler,DE,0,Super G
-2011-01-30,Jean-Baptiste Grange,FR,0,Slalom
-2011-01-30,Frederic Berthold,AT,0,Combined
-2011-01-30,Manuel Wieser,AT,0,Combined
 2011-01-30,Alexandre Bouillot,FR,0,Combined
-2011-01-30,Patrick Staudacher,IT,0,Super G
-2011-01-30,Krystof Kryzl,CZ,8,Combined
-2011-01-30,Lars Elton Myhre,NO,13,Slalom
-2011-01-30,Will Brandenburg,US,9,Combined
-2011-01-30,Georgi Georgiev,BG,0,Combined
-2011-01-30,Hans Olsson,SE,44,Downhill
-2011-01-30,Bode Miller,US,40,Downhill
-2011-01-30,Sandro Viletta,CH,15,Giant Slalom
-2011-01-30,Max Franz,AT,10,Combined
-2011-01-30,Romed Baumann,AT,80,Downhill
-2011-01-30,Dominik Paris,IT,36,Downhill
-2011-01-30,Stephan Thanei,IT,10,Combined
-2011-01-30,Marc Digruber,AT,0,Combined
-2011-01-30,Aksel-Lund Svindal,NO,120,Giant Slalom
-2011-01-30,Reto Schmidiger,CH,0,Slalom
-2011-01-30,Miha Kuerner,SK,0,Combined
-2011-01-30,Kjetil Jansrud,NO,132,Giant Slalom
-2011-01-30,Matteo Marsaglia,IT,59,Combined
-2011-01-30,Joachim Puchner,AT,23,Downhill
-2011-01-30,Tin Siroki,HR,28,Combined
-2011-01-30,Siegmar Klotz,IT,13,Combined
-2011-01-30,Ted Ligety,US,29,Giant Slalom
-2011-01-30,Mathieu Faivre,FR,0,Combined
-2011-01-30,Benjamin Raich,AT,45,Super G
-2011-01-30,Marc Berthod,CH,0,Giant Slalom
-2011-01-30,Thomas Mermillod,FR,20,Combined
-2011-01-30,Marc Gisin,CH,38,Downhill
-2011-01-30,Felix Neureuther,DE,0,Slalom
-2011-01-30,Matts Olsson,SE,0,Giant Slalom
-2011-01-30,Dustin Cook,CA,3,Combined
-2011-01-30,Ivica Kostelic,HR,300,Slalom
-2011-01-30,Manfred Moelgg,IT,0,Slalom
-2011-01-30,Guillermo Fayed,FR,4,Downhill
-2011-01-30,Ondrej Bank,CZ,66,Giant Slalom
-2011-01-30,Beat Feuz,CH,74,Downhill
-2011-01-30,Christof Innerhofer,IT,119,Downhill
-2011-01-30,Edward Drake,GB,5,Combined
-2011-01-30,Carlo Janka,CH,112,Giant Slalom
-2011-01-30,Philipp Schoerghofer,AT,15,Giant Slalom
-2011-01-30,Alexis Pinturault,FR,0,Giant Slalom
-2011-01-30,Andreas Romar,FI,30,Combined
-2011-01-30,Alexandr Horoshilov,RU,0,Slalom
-2011-01-30,Silvan Zurbriggen,CH,143,Downhill
-2011-01-30,Ryan Semple,CA,32,Combined
+2011-01-30,Brice Roger,FR,0,Combined
+2011-01-30,Michal Klusak,PL,0,Combined
+2011-01-30,Stephan Keppler,DE,0,Super G
+2011-01-30,Manuel Wieser,AT,0,Combined
+2011-01-30,Christian Spescha,CH,0,Combined
+2011-01-30,Frederic Berthold,AT,0,Combined
+2011-01-30,Tobias Gruenenfelder,CH,0,Super G
+2011-01-30,Nikola Chongarov,BG,0,Combined
+2011-01-30,Andreas Sander,DE,0,Downhill
+2011-01-30,Hannes Reichelt,AT,1,Super G
+2011-01-30,Frederik Van Buynder,BE,1,Combined
+2011-01-30,Steven Nyman,US,0,Downhill
+2011-01-30,Jean-Baptiste Grange,FR,0,Slalom
+2011-01-30,Benjamin Thomsen,CA,2,Downhill
+2011-01-30,Johan Clarey,FR,0,Downhill
+2011-01-30,Colby Granstrom,US,0,Combined
 2011-01-30,Dalibor Samsal,HR,7,Combined
 2011-01-30,Maxime Tissot,FR,0,Slalom
-2011-01-30,Paolo Pangrazzi,IT,41,Combined
-2011-01-30,Natko Zrncic-Dim,HR,80,Combined
-2011-01-30,Bjoern Sieber,AT,27,Combined
+2011-01-30,Ted Ligety,US,29,Giant Slalom
+2011-01-30,Dominik Paris,IT,36,Downhill
+2011-01-30,Joachim Puchner,AT,23,Downhill
+2011-01-30,Thomas Mermillod,FR,20,Combined
+2011-01-30,Kjetil Jansrud,NO,82,Giant Slalom
+2011-01-30,Siegmar Klotz,IT,13,Combined
+2011-01-30,Mathieu Faivre,FR,0,Combined
+2011-01-30,Alexis Pinturault,FR,0,Giant Slalom
+2011-01-30,Hans Olsson,SE,22,Downhill
+2011-01-30,Marc Berthod,CH,0,Giant Slalom
+2011-01-30,Tim Jitloff,US,7,Combined
+2011-01-30,Benjamin Raich,AT,45,Super G
+2011-01-30,Sandro Viletta,CH,15,Giant Slalom
+2011-01-30,Adrien Theaux,FR,36,Downhill
+2011-01-30,Andreas Romar,FI,30,Combined
+2011-01-30,Philipp Schoerghofer,AT,15,Giant Slalom
+2011-01-30,Silvan Zurbriggen,CH,63,Downhill
+2011-01-30,Reto Schmidiger,CH,0,Slalom
+2011-01-30,Marc Gisin,CH,20,Downhill
+2011-01-30,Bode Miller,US,40,Downhill
+2011-01-30,Matteo Marsaglia,IT,30,Downhill
+2011-01-30,Lars Elton Myhre,NO,13,Slalom
+2011-01-30,Miha Kuerner,SK,0,Combined
+2011-01-30,Aksel-Lund Svindal,NO,120,Giant Slalom
 2011-01-30,Nolan Kasper,US,0,Slalom
-2011-01-30,Adrien Theaux,FR,72,Downhill
-2011-01-30,Vitus Lueoend,CH,6,Downhill
-2011-01-30,Peter Fill,IT,93,Downhill
-2011-02-26,Adrien Theaux,FR,72,Downhill
-2011-02-26,Dustin Cook,CA,3,Combined
-2011-02-26,Dominik Paris,IT,41,Downhill
-2011-02-26,Ondrej Bank,CZ,106,Giant Slalom
-2011-02-26,Ami Oreiller,CH,0,Combined
-2011-02-26,Paolo Pangrazzi,IT,41,Combined
-2011-02-26,Johan Clarey,FR,0,Downhill
-2011-02-26,Tim Jitloff,US,39,Combined
-2011-02-26,Wiley Maple,US,0,Combined
+2011-01-30,Marc Digruber,AT,0,Combined
+2011-01-30,Ivica Kostelic,HR,200,Slalom
+2011-01-30,Krystof Kryzl,CZ,8,Combined
+2011-01-30,Manfred Moelgg,IT,0,Slalom
+2011-01-30,Ryan Semple,CA,8,Combined
+2011-01-30,Matts Olsson,SE,0,Giant Slalom
+2011-01-30,Beat Feuz,CH,48,Downhill
+2011-01-30,Christof Innerhofer,IT,79,Downhill
+2011-01-30,Carlo Janka,CH,80,Giant Slalom
+2011-01-30,Paolo Pangrazzi,IT,41,Combined
+2011-01-30,Will Brandenburg,US,9,Combined
+2011-01-30,Felix Neureuther,DE,0,Slalom
+2011-01-30,Georgi Georgiev,BG,0,Combined
+2011-01-30,Ondrej Bank,CZ,66,Giant Slalom
+2011-01-30,Bjoern Sieber,AT,27,Combined
+2011-01-30,Natko Zrncic-Dim,HR,80,Combined
+2011-01-30,Max Franz,AT,10,Combined
+2011-01-30,Romed Baumann,AT,20,Downhill
+2011-01-30,Peter Fill,IT,48,Downhill
+2011-01-30,Stephan Thanei,IT,10,Combined
+2011-02-26,Ferran Terra,ES,0,Combined
 2011-02-26,Bjoern Sieber,AT,63,Combined
-2011-02-26,Kjetil Jansrud,NO,145,Giant Slalom
-2011-02-26,Bode Miller,US,40,Downhill
-2011-02-26,Ivica Kostelic,HR,345,Slalom
+2011-02-26,Ondrej Bank,CZ,106,Giant Slalom
+2011-02-26,Andreas Sander,DE,0,Downhill
+2011-02-26,Johan Clarey,FR,0,Downhill
+2011-02-26,Patrick Staudacher,IT,0,Super G
+2011-02-26,Paolo Pangrazzi,IT,41,Combined
+2011-02-26,Dominik Paris,IT,41,Downhill
+2011-02-26,Adrien Theaux,FR,36,Downhill
+2011-02-26,Michal Klusak,PL,0,Combined
+2011-02-26,Maxime Tissot,FR,8,Slalom
+2011-02-26,Ami Oreiller,CH,0,Combined
 2011-02-26,Svetoslav Georgiev,BG,0,Combined
-2011-02-26,Christof Innerhofer,IT,219,Downhill
+2011-02-26,Ivica Kostelic,HR,245,Slalom
+2011-02-26,Christof Innerhofer,IT,179,Downhill
 2011-02-26,Matej Falat,SK,0,Combined
-2011-02-26,Carlo Janka,CH,112,Giant Slalom
-2011-02-26,Silvan Zurbriggen,CH,143,Downhill
 2011-02-26,Christoph Dreier,AT,0,Slalom
+2011-02-26,Carlo Janka,CH,80,Giant Slalom
+2011-02-26,Cristian Deville,IT,0,Slalom
 2011-02-26,Natko Zrncic-Dim,HR,96,Combined
 2011-02-26,Felix Neureuther,DE,80,Slalom
-2011-02-26,Cristian Deville,IT,0,Slalom
-2011-02-26,Aksel-Lund Svindal,NO,120,Giant Slalom
 2011-02-26,Justin Murisier,CH,0,Slalom
-2011-02-26,Romed Baumann,AT,106,Downhill
-2011-02-26,Thomas Mermillod,FR,80,Combined
+2011-02-26,Bode Miller,US,40,Downhill
 2011-02-26,Manuel Wieser,AT,0,Combined
+2011-02-26,Thomas Mermillod,FR,80,Combined
 2011-02-26,Jean-Baptiste Grange,FR,0,Slalom
+2011-02-26,Nikola Chongarov,BG,0,Combined
+2011-02-26,Kjetil Jansrud,NO,95,Giant Slalom
 2011-02-26,Ted Ligety,US,79,Giant Slalom
-2011-02-26,Benjamin Raich,AT,45,Super G
-2011-02-26,Peter Fill,IT,96,Downhill
+2011-02-26,Colby Granstrom,US,0,Combined
 2011-02-26,Brice Roger,FR,0,Combined
-2011-02-26,Matteo Marsaglia,IT,63,Combined
-2011-02-26,Reto Schmidiger,CH,22,Slalom
+2011-02-26,Benjamin Raich,AT,45,Super G
+2011-02-26,Wiley Maple,US,0,Combined
+2011-02-26,Silvan Zurbriggen,CH,63,Downhill
+2011-02-26,Aksel-Lund Svindal,NO,120,Giant Slalom
+2011-02-26,Tim Jitloff,US,39,Combined
+2011-02-26,Peter Fill,IT,51,Downhill
 2011-02-26,Manfred Moelgg,IT,29,Slalom
+2011-02-26,Hannes Reichelt,AT,1,Super G
+2011-02-26,Frederik Van Buynder,BE,1,Combined
+2011-02-26,Siegmar Klotz,IT,13,Combined
+2011-02-26,Benjamin Thomsen,CA,2,Downhill
+2011-02-26,Joachim Puchner,AT,29,Downhill
+2011-02-26,Miha Kuerner,SK,12,Combined
+2011-02-26,Martin Vrablik,CZ,2,Combined
 2011-02-26,Marc Digruber,AT,11,Combined
-2011-02-26,Kelby Halbert,CA,0,Combined
+2011-02-26,Dustin Cook,CA,3,Combined
+2011-02-26,Guillermo Fayed,FR,4,Downhill
 2011-02-26,Stephan Thanei,IT,10,Combined
+2011-02-26,Maciej Bydlinski,PL,4,Combined
 2011-02-26,Max Franz,AT,10,Combined
-2011-02-26,Mirko Deflorian,MD,0,Combined
 2011-02-26,Georgi Georgiev,BG,10,Combined
-2011-02-26,Kevin Esteve Rigail,AD,0,Combined
+2011-02-26,Edward Drake,GB,5,Combined
+2011-02-26,Tin Siroki,HR,8,Combined
 2011-02-26,Will Brandenburg,US,9,Combined
 2011-02-26,Matts Olsson,SE,9,Giant Slalom
-2011-02-26,Alexandre Bouillot,FR,0,Combined
-2011-02-26,Krystof Kryzl,CZ,8,Combined
-2011-02-26,Maxime Tissot,FR,8,Slalom
-2011-02-26,Stephan Keppler,DE,0,Super G
-2011-02-26,Dalibor Samsal,HR,7,Combined
-2011-02-26,Alexandr Horoshilov,RU,7,Slalom
-2011-02-26,Frederic Berthold,AT,1,Combined
-2011-02-26,Hannes Reichelt,AT,1,Super G
 2011-02-26,Vitus Lueoend,CH,6,Downhill
-2011-02-26,Edward Drake,GB,5,Combined
-2011-02-26,Frederik Van Buynder,BE,1,Combined
-2011-02-26,Maciej Bydlinski,PL,4,Combined
-2011-02-26,Benjamin Thomsen,CA,2,Downhill
-2011-02-26,Guillermo Fayed,FR,4,Downhill
-2011-02-26,Daniel Albrecht,CH,0,Giant Slalom
-2011-02-26,Michal Klusak,PL,0,Combined
-2011-02-26,Miha Kuerner,SK,12,Combined
-2011-02-26,Didier Cuche,CH,0,Downhill
-2011-02-26,Andreas Sander,DE,0,Downhill
-2011-02-26,Beat Feuz,CH,76,Downhill
-2011-02-26,Ferran Terra,ES,0,Combined
-2011-02-26,Ryan Semple,CA,32,Combined
-2011-02-26,Alexis Pinturault,FR,24,Giant Slalom
-2011-02-26,Patrick Staudacher,IT,0,Super G
-2011-02-26,Hans Olsson,SE,44,Downhill
+2011-02-26,Ryan Semple,CA,8,Combined
+2011-02-26,Alexandr Horoshilov,RU,7,Slalom
+2011-02-26,Dalibor Samsal,HR,7,Combined
+2011-02-26,Krystof Kryzl,CZ,8,Combined
+2011-02-26,Frederic Berthold,AT,1,Combined
 2011-02-26,Christian Spescha,CH,0,Combined
-2011-02-26,Martin Vrablik,CZ,2,Combined
-2011-02-26,Mario Scheiber,AT,0,Downhill
-2011-02-26,Marc Gisin,CH,38,Downhill
-2011-02-26,David Poisson,FR,0,Downhill
-2011-02-26,Lars Elton Myhre,NO,33,Slalom
-2011-02-26,Philipp Schoerghofer,AT,33,Giant Slalom
-2011-02-26,Andy Plank,IT,0,Combined
-2011-02-26,Andreas Romar,FI,30,Combined
-2011-02-26,Hagen Patscheider,IT,0,Downhill
-2011-02-26,Sandro Viletta,CH,15,Giant Slalom
-2011-02-26,Marc Berthod,CH,15,Giant Slalom
-2011-02-26,Steven Nyman,US,0,Downhill
 2011-02-26,Mathieu Faivre,FR,14,Combined
+2011-02-26,Sandro Viletta,CH,15,Giant Slalom
+2011-02-26,Mario Scheiber,AT,0,Downhill
+2011-02-26,David Poisson,FR,0,Downhill
+2011-02-26,Beat Feuz,CH,50,Downhill
+2011-02-26,Romed Baumann,AT,46,Downhill
+2011-02-26,Andy Plank,IT,0,Combined
+2011-02-26,Hagen Patscheider,IT,0,Downhill
+2011-02-26,Alexis Pinturault,FR,24,Giant Slalom
+2011-02-26,Steven Nyman,US,0,Downhill
 2011-02-26,Tobias Gruenenfelder,CH,0,Super G
-2011-02-26,Siegmar Klotz,IT,13,Combined
-2011-02-26,Joachim Puchner,AT,29,Downhill
+2011-02-26,Hans Olsson,SE,22,Downhill
+2011-02-26,Reto Schmidiger,CH,22,Slalom
+2011-02-26,Didier Cuche,CH,0,Downhill
+2011-02-26,Daniel Albrecht,CH,0,Giant Slalom
+2011-02-26,Marc Gisin,CH,20,Downhill
+2011-02-26,Lars Elton Myhre,NO,33,Slalom
+2011-02-26,Kelby Halbert,CA,0,Combined
+2011-02-26,Mirko Deflorian,MD,0,Combined
+2011-02-26,Matteo Marsaglia,IT,34,Downhill
+2011-02-26,Philipp Schoerghofer,AT,33,Giant Slalom
+2011-02-26,Kevin Esteve Rigail,AD,0,Combined
+2011-02-26,Alexandre Bouillot,FR,0,Combined
+2011-02-26,Andreas Romar,FI,30,Combined
+2011-02-26,Stephan Keppler,DE,0,Super G
+2011-02-26,Marc Berthod,CH,15,Giant Slalom
 2011-02-26,Nolan Kasper,US,0,Slalom

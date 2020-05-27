@@ -38,7 +38,7 @@ date,name,ath_country,value,specialty
 1981-12-12,Sylvia Eder,AT,0,Downhill
 1981-12-12,Alexandra Marasova,SK,0,Slalom
 1981-12-12,Ursula Konzett,LI,15,Slalom
-1981-12-12,Abbi Fisher,US,0,Combined
+1981-12-12,Abbi Fisher,US,0,Giant Slalom
 1981-12-12,Heidi Preuss,US,0,Giant Slalom
 1981-12-13,Anja Zavadlav,,5,Slalom
 1981-12-13,Hanni Wenzel,LI,45,Slalom
@@ -68,7 +68,7 @@ date,name,ath_country,value,specialty
 1981-12-13,Brigitte Glur,CH,0,Slalom
 1981-12-13,Anne Flore Rey,FR,0,Giant Slalom
 1981-12-13,Nadezda Patrakjeva-andreeva,RU,4,Slalom
-1981-12-13,Abbi Fisher,US,0,Combined
+1981-12-13,Abbi Fisher,US,0,Giant Slalom
 1981-12-13,Cindy Nelson,US,0,Downhill
 1981-12-13,Wanda Bieler,IT,0,Slalom
 1981-12-13,Maria Rosa Quario,IT,26,Slalom
@@ -88,7 +88,7 @@ date,name,ath_country,value,specialty
 1981-12-21,Heidi Preuss,US,0,Giant Slalom
 1981-12-21,Malgorzata Tlalka,PL,16,Slalom
 1981-12-21,Dorota Tlalka,PL,10,Slalom
-1981-12-21,Abbi Fisher,US,3,Combined
+1981-12-21,Abbi Fisher,US,3,Giant Slalom
 1981-12-21,Tamara McKinney,US,0,Giant Slalom
 1981-12-21,Alexandra Marasova,SK,0,Slalom
 1981-12-21,Brigitte Glur,CH,0,Slalom
@@ -132,7 +132,7 @@ date,name,ath_country,value,specialty
 1982-01-03,Cindy Nelson,US,2,Downhill
 1982-01-03,Maria Epple,DE,0,Giant Slalom
 1982-01-03,Daniela Zini,IT,30,Slalom
-1982-01-03,Abbi Fisher,US,3,Combined
+1982-01-03,Abbi Fisher,US,3,Giant Slalom
 1982-01-03,Brigitte Nansoz,CH,0,Slalom
 1982-01-03,Ursula Konzett,LI,30,Slalom
 1982-01-03,Paoletta Magoni,IT,3,Slalom
@@ -202,7 +202,7 @@ date,name,ath_country,value,specialty
 1982-01-20,Hanni Wenzel,LI,45,Slalom
 1982-01-20,Ingrid Eberle,AT,1,Downhill
 1982-01-20,Brigitte Nansoz,CH,0,Slalom
-1982-01-20,Abbi Fisher,US,3,Combined
+1982-01-20,Abbi Fisher,US,3,Giant Slalom
 1982-01-20,Heidi Preuss,US,0,Giant Slalom
 1982-01-22,Lorena Frigo,IT,5,Slalom
 1982-01-22,Irene Epple,DE,8,Giant Slalom
@@ -221,7 +221,7 @@ date,name,ath_country,value,specialty
 1982-01-22,Ursula Konzett,LI,75,Slalom
 1982-01-22,Sylvia Eder,AT,5,Downhill
 1982-01-22,Cindy Nelson,US,6,Downhill
-1982-01-22,Abbi Fisher,US,3,Combined
+1982-01-22,Abbi Fisher,US,3,Giant Slalom
 1982-01-22,Nadezda Patrakjeva-andreeva,RU,4,Slalom
 1982-01-22,Paoletta Magoni,IT,3,Slalom
 1982-01-22,Anni Kronbichler,AT,62,Slalom
@@ -262,7 +262,7 @@ date,name,ath_country,value,specialty
 1982-01-23,Maria Epple,DE,20,Giant Slalom
 1982-01-23,Piera Macchi,IT,28,Slalom
 1982-01-23,Anne Flore Rey,FR,0,Giant Slalom
-1982-01-23,Abbi Fisher,US,3,Combined
+1982-01-23,Abbi Fisher,US,3,Giant Slalom
 1982-01-23,Brigitte Nansoz,CH,0,Slalom
 1982-01-23,Lorena Frigo,IT,6,Slalom
 1982-01-23,Heidi Preuss,US,0,Giant Slalom
@@ -297,7 +297,7 @@ date,name,ath_country,value,specialty
 1982-03-03,Hanni Wenzel,LI,45,Slalom
 1982-03-03,Claudia Riedl,AT,2,Giant Slalom
 1982-03-03,Ingrid Eberle,AT,1,Downhill
-1982-03-03,Abbi Fisher,US,3,Combined
+1982-03-03,Abbi Fisher,US,3,Giant Slalom
 1982-03-03,Fabienne Serrat,FR,31,Giant Slalom
 1982-03-03,Anne Flore Rey,FR,0,Giant Slalom
 1982-03-03,Brigitte Oertli,CH,3,Combined
@@ -359,7 +359,7 @@ date,name,ath_country,value,specialty
 1982-03-21,Maria Walliser,CH,4,Downhill
 1982-03-21,Perrine Pelen,FR,78,Slalom
 1982-03-21,Roswitha Steiner,AT,30,Slalom
-1982-03-21,Abbi Fisher,US,3,Combined
+1982-03-21,Abbi Fisher,US,3,Giant Slalom
 1982-03-21,Heidi Preuss,US,5,Giant Slalom
 1982-03-21,Nadezda Patrakjeva-andreeva,RU,4,Slalom
 1982-03-21,Irene Epple,DE,19,Giant Slalom
@@ -392,7 +392,7 @@ date,name,ath_country,value,specialty
 1982-03-27,Brigitte Nansoz,CH,11,Slalom
 1982-03-27,Maria Epple,DE,56,Giant Slalom
 1982-03-27,Nadezda Patrakjeva-andreeva,RU,4,Slalom
-1982-03-27,Abbi Fisher,US,3,Combined
+1982-03-27,Abbi Fisher,US,3,Giant Slalom
 1982-03-27,Daniela Zini,IT,91,Slalom
 1982-03-27,Malgorzata Tlalka,PL,47,Slalom
 1982-03-27,Anni Kronbichler,AT,62,Slalom

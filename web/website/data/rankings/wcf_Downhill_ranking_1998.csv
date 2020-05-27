@@ -24,7 +24,7 @@ date,name,ath_country,value,specialty
 1997-12-04,Picabo Street,US,0,Downhill
 1997-12-04,Stefanie Schuster,AT,13,Giant Slalom
 1997-12-04,Carole Montillet,FR,14,Downhill
-1997-12-04,Heidi Zurbriggen,CH,29,Super G
+1997-12-04,Heidi Zurbriggen,CH,29,Downhill
 1997-12-04,Elisabeth Brandner,DE,0,Downhill
 1997-12-04,Laetitia Dalloz,FR,0,Super G
 1997-12-04,Barbara Merlin,IT,6,Super G
@@ -35,10 +35,10 @@ date,name,ath_country,value,specialty
 1997-12-04,Sylviane Berthod,CH,1,Giant Slalom
 1997-12-04,Marianna Salchinger,AT,0,Super G
 1997-12-04,Daniela Ceccarelli,IT,3,Downhill
-1997-12-04,Katharina Gutensohn,DE,80,Super G
+1997-12-04,Katharina Gutensohn,DE,80,Downhill
 1997-12-04,Tanja Schneider,AT,0,Super G
 1997-12-04,Sibylle Brauner,DE,0,Super G
-1997-12-04,Miriam Vogt,DE,0,Combined
+1997-12-04,Miriam Vogt,DE,0,Super G
 1997-12-04,Elena Bresciani,IT,0,Downhill
 1997-12-04,Kristine Kristiansen,NO,2,Super G
 1997-12-04,Kate Pace,CA,8,Downhill
@@ -59,7 +59,7 @@ date,name,ath_country,value,specialty
 1997-12-05,Kristine Kristiansen,NO,2,Super G
 1997-12-05,Bibiana Perez,IT,39,Downhill
 1997-12-05,Sylviane Berthod,CH,8,Giant Slalom
-1997-12-05,Miriam Vogt,DE,0,Combined
+1997-12-05,Miriam Vogt,DE,0,Super G
 1997-12-05,Barbara Merlin,IT,11,Super G
 1997-12-05,Grete Stroem,NO,0,Downhill
 1997-12-05,Svetlana Gladishiva,RU,1,Super G
@@ -86,8 +86,8 @@ date,name,ath_country,value,specialty
 1997-12-05,Renate Goetschl,AT,100,Downhill
 1997-12-05,Marianna Salchinger,AT,0,Super G
 1997-12-05,Brigitte Obermoser,AT,86,Downhill
-1997-12-05,Katharina Gutensohn,DE,80,Super G
-1997-12-05,Heidi Zurbriggen,CH,65,Super G
+1997-12-05,Katharina Gutensohn,DE,80,Downhill
+1997-12-05,Heidi Zurbriggen,CH,65,Downhill
 1997-12-05,Melanie Suchet,FR,95,Downhill
 1997-12-05,Michaela Dorfmeister,AT,100,Downhill
 1997-12-05,Jennifer Mickelson,CA,1,Downhill
@@ -117,19 +117,19 @@ date,name,ath_country,value,specialty
 1997-12-17,Tanja Schneider,AT,0,Super G
 1997-12-17,Kristine Kristiansen,NO,2,Super G
 1997-12-17,Renate Goetschl,AT,132,Downhill
-1997-12-17,Miriam Vogt,DE,7,Combined
+1997-12-17,Miriam Vogt,DE,7,Super G
 1997-12-17,Kirsten L Clark,US,10,Super G
 1997-12-17,Daniela Ceccarelli,IT,16,Downhill
 1997-12-17,Isolde Kostner,IT,120,Downhill
 1997-12-17,Sibylle Brauner,DE,4,Super G
-1997-12-17,Katharina Gutensohn,DE,93,Super G
+1997-12-17,Katharina Gutensohn,DE,93,Downhill
 1997-12-17,Elena Tagliabue,IT,4,Super G
 1997-12-17,Melanie Suchet,FR,145,Downhill
 1997-12-17,Sylviane Berthod,CH,8,Giant Slalom
 1997-12-17,Grete Stroem,NO,0,Downhill
 1997-12-17,Pernilla Wiberg,SE,0,Slalom
 1997-12-17,Regine Cavagnoud,FR,92,Downhill
-1997-12-17,Heidi Zurbriggen,CH,89,Super G
+1997-12-17,Heidi Zurbriggen,CH,89,Downhill
 1997-12-17,Kathleen Monahan,US,0,Super G
 1997-12-17,Elisabeth Brandner,DE,2,Downhill
 1997-12-17,Florence Masnada,FR,46,Downhill
@@ -146,7 +146,7 @@ date,name,ath_country,value,specialty
 1998-01-18,Sylviane Berthod,CH,8,Giant Slalom
 1998-01-18,Kathleen Monahan,US,0,Super G
 1998-01-18,Pernilla Wiberg,SE,0,Slalom
-1998-01-18,Miriam Vogt,DE,7,Combined
+1998-01-18,Miriam Vogt,DE,7,Super G
 1998-01-18,Kristine Kristiansen,NO,11,Super G
 1998-01-18,Stefanie Schuster,AT,65,Giant Slalom
 1998-01-18,Patrizia Bassis,IT,25,Downhill
@@ -157,7 +157,7 @@ date,name,ath_country,value,specialty
 1998-01-18,Melanie Suchet,FR,190,Downhill
 1998-01-18,Regina Haeusl,DE,81,Super G
 1998-01-18,Isolde Kostner,IT,156,Downhill
-1998-01-18,Katharina Gutensohn,DE,101,Super G
+1998-01-18,Katharina Gutensohn,DE,101,Downhill
 1998-01-18,Elena Tagliabue,IT,4,Super G
 1998-01-18,Grete Stroem,NO,4,Downhill
 1998-01-18,Marianna Salchinger,AT,1,Super G
@@ -168,7 +168,7 @@ date,name,ath_country,value,specialty
 1998-01-18,Bibiana Perez,IT,107,Downhill
 1998-01-18,Elena Bresciani,IT,4,Downhill
 1998-01-18,Marianne Brechu,FR,7,Downhill
-1998-01-18,Heidi Zurbriggen,CH,111,Super G
+1998-01-18,Heidi Zurbriggen,CH,111,Downhill
 1998-01-18,Melanie Turgeon,CA,37,Downhill
 1998-01-18,Laetitia Dalloz,FR,44,Super G
 1998-01-18,Regine Cavagnoud,FR,107,Downhill
@@ -200,13 +200,13 @@ date,name,ath_country,value,specialty
 1998-01-22,Kate Pace,CA,14,Downhill
 1998-01-22,Katja Seizinger,DE,420,Downhill
 1998-01-22,Isolde Kostner,IT,256,Downhill
-1998-01-22,Miriam Vogt,DE,13,Combined
+1998-01-22,Miriam Vogt,DE,13,Super G
 1998-01-22,Elisabeth Brandner,DE,2,Downhill
 1998-01-22,Renate Goetschl,AT,312,Downhill
-1998-01-22,Heidi Zurbriggen,CH,135,Super G
+1998-01-22,Heidi Zurbriggen,CH,135,Downhill
 1998-01-22,Kristine Kristiansen,NO,11,Super G
 1998-01-22,Svetlana Gladishiva,RU,27,Super G
-1998-01-22,Katharina Gutensohn,DE,116,Super G
+1998-01-22,Katharina Gutensohn,DE,116,Downhill
 1998-01-22,Spela Bracun,SK,53,Super G
 1998-01-22,Regine Cavagnoud,FR,143,Downhill
 1998-01-22,Warwara Zelenskaja,RU,36,Super G
@@ -251,7 +251,7 @@ date,name,ath_country,value,specialty
 1998-01-31,Stefanie Schuster,AT,123,Giant Slalom
 1998-01-31,Carole Montillet,FR,139,Downhill
 1998-01-31,Regine Cavagnoud,FR,167,Downhill
-1998-01-31,Heidi Zurbriggen,CH,185,Super G
+1998-01-31,Heidi Zurbriggen,CH,185,Downhill
 1998-01-31,Picabo Street,US,102,Downhill
 1998-01-31,Brigitte Obermoser,AT,150,Downhill
 1998-01-31,Michaela Dorfmeister,AT,112,Downhill
@@ -260,7 +260,7 @@ date,name,ath_country,value,specialty
 1998-01-31,Ingeborg H. Marken,NO,135,Downhill
 1998-01-31,Hilde Gerg,DE,224,Slalom
 1998-01-31,Melanie Suchet,FR,237,Downhill
-1998-01-31,Katharina Gutensohn,DE,130,Super G
+1998-01-31,Katharina Gutensohn,DE,130,Downhill
 1998-01-31,Isolde Kostner,IT,292,Downhill
 1998-01-31,Renate Goetschl,AT,392,Downhill
 1998-01-31,Katja Seizinger,DE,520,Downhill
@@ -270,7 +270,7 @@ date,name,ath_country,value,specialty
 1998-01-31,Laetitia Dalloz,FR,74,Super G
 1998-01-31,Tanja Schneider,AT,15,Super G
 1998-01-31,Kristine Kristiansen,NO,11,Super G
-1998-01-31,Miriam Vogt,DE,23,Combined
+1998-01-31,Miriam Vogt,DE,23,Super G
 1998-01-31,Kirsten L Clark,US,10,Super G
 1998-01-31,Daniela Ceccarelli,IT,16,Downhill
 1998-01-31,Sibylle Brauner,DE,20,Super G

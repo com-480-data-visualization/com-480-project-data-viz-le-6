@@ -4,8 +4,8 @@ date,name,ath_country,value,specialty
 1979-12-08,Jacques Luethy,CH,11,Giant Slalom
 1979-12-08,Steve Mahre,US,0,Slalom
 1979-12-08,Torsten Jakobsson,SE,4,Giant Slalom
-1979-12-08,Phil Mahre,US,2,Combined
-1979-12-08,Anton Steiner,AT,0,Combined
+1979-12-08,Phil Mahre,US,2,Giant Slalom
+1979-12-08,Anton Steiner,AT,0,Slalom
 1979-12-08,Petar Popangelov,BG,0,Slalom
 1979-12-08,Joel Gaspoz,CH,3,Giant Slalom
 1979-12-08,Leonhard Stock,AT,0,Downhill
@@ -64,14 +64,14 @@ date,name,ath_country,value,specialty
 1979-12-12,Andreas Wenzel,LI,8,Giant Slalom
 1979-12-12,Steve Mahre,US,4,Slalom
 1979-12-12,Torsten Jakobsson,SE,9,Giant Slalom
-1979-12-12,Phil Mahre,US,2,Combined
+1979-12-12,Phil Mahre,US,2,Giant Slalom
 1979-12-12,Albert Burger,DE,5,Giant Slalom
-1979-12-12,Anton Steiner,AT,3,Combined
+1979-12-12,Anton Steiner,AT,3,Slalom
 1979-12-12,Petar Popangelov,BG,0,Slalom
 1979-12-12,Marc Girardelli,LU,0,Giant Slalom
 1979-12-12,Joel Gaspoz,CH,3,Giant Slalom
 1979-12-12,Leonhard Stock,AT,0,Downhill
-1980-01-21,Anton Steiner,AT,3,Combined
+1980-01-21,Anton Steiner,AT,3,Slalom
 1980-01-21,Alex Giorgi,IT,0,Giant Slalom
 1980-01-21,Jure Franko,SK,0,Giant Slalom
 1980-01-21,Peter Luescher,CH,10,Giant Slalom
@@ -105,7 +105,7 @@ date,name,ath_country,value,specialty
 1980-01-21,Hannes Spiss,AT,0,Giant Slalom
 1980-01-21,Hans Enn,AT,27,Giant Slalom
 1980-01-21,Bogumir Zeman,SK,9,Giant Slalom
-1980-01-21,Phil Mahre,US,2,Combined
+1980-01-21,Phil Mahre,US,2,Giant Slalom
 1980-01-21,Joel Gaspoz,CH,18,Giant Slalom
 1980-02-26,Christian Orlainsky,AT,6,Slalom
 1980-02-26,Jean Luc Fournier,CH,11,Giant Slalom
@@ -130,13 +130,13 @@ date,name,ath_country,value,specialty
 1980-02-26,Torsten Jakobsson,SE,14,Giant Slalom
 1980-02-26,Werner Rhyner,CH,2,Giant Slalom
 1980-02-26,Ingemar Stenmark,SE,75,Giant Slalom
-1980-02-26,Phil Mahre,US,9,Combined
+1980-02-26,Phil Mahre,US,9,Giant Slalom
 1980-02-26,Jacques Luethy,CH,59,Giant Slalom
 1980-02-26,Peter Luescher,CH,15,Giant Slalom
 1980-02-26,Steve Mahre,US,8,Slalom
 1980-02-26,Hannes Spiss,AT,10,Giant Slalom
 1980-02-26,Joze Kuralt,SK,11,Giant Slalom
-1980-02-26,Anton Steiner,AT,3,Combined
+1980-02-26,Anton Steiner,AT,3,Slalom
 1980-02-26,Bruno Noeckler,IT,27,Giant Slalom
 1980-02-26,Jure Franko,SK,0,Giant Slalom
 1980-02-26,Albert Burger,DE,15,Giant Slalom
@@ -155,7 +155,7 @@ date,name,ath_country,value,specialty
 1980-03-01,Christian Orlainsky,AT,6,Slalom
 1980-03-01,Jacques Luethy,CH,70,Giant Slalom
 1980-03-01,Leonhard Stock,AT,7,Downhill
-1980-03-01,Phil Mahre,US,29,Combined
+1980-03-01,Phil Mahre,US,29,Giant Slalom
 1980-03-01,Jure Franko,SK,10,Giant Slalom
 1980-03-01,Andreas Wenzel,LI,34,Giant Slalom
 1980-03-01,Franck Woerndl,DE,7,Slalom
@@ -176,7 +176,7 @@ date,name,ath_country,value,specialty
 1980-03-01,Albert Burger,DE,15,Giant Slalom
 1980-03-01,Piero Gros,IT,10,Slalom
 1980-03-01,Tiziano Bieller,IT,0,Giant Slalom
-1980-03-01,Anton Steiner,AT,3,Combined
+1980-03-01,Anton Steiner,AT,3,Slalom
 1980-03-01,Bogumir Zeman,SK,24,Giant Slalom
 1980-03-01,Joze Kuralt,SK,12,Giant Slalom
 1980-03-08,Ingemar Stenmark,SE,115,Giant Slalom
@@ -195,8 +195,8 @@ date,name,ath_country,value,specialty
 1980-03-08,Bojan Krizaj,SK,37,Slalom
 1980-03-08,Tiziano Bieller,IT,4,Giant Slalom
 1980-03-08,Torsten Jakobsson,SE,14,Giant Slalom
-1980-03-08,Phil Mahre,US,35,Combined
-1980-03-08,Anton Steiner,AT,15,Combined
+1980-03-08,Phil Mahre,US,35,Giant Slalom
+1980-03-08,Anton Steiner,AT,15,Slalom
 1980-03-08,Piero Gros,IT,10,Slalom
 1980-03-08,Christian Orlainsky,AT,13,Slalom
 1980-03-08,Jarle Halsnes,NO,52,Giant Slalom
@@ -231,7 +231,7 @@ date,name,ath_country,value,specialty
 1980-03-11,Peter Luescher,CH,27,Giant Slalom
 1980-03-11,Franz Gruber,AT,1,Slalom
 1980-03-11,Ingemar Stenmark,SE,140,Giant Slalom
-1980-03-11,Anton Steiner,AT,15,Combined
+1980-03-11,Anton Steiner,AT,15,Slalom
 1980-03-11,Hannes Spiss,AT,22,Giant Slalom
 1980-03-11,Jure Franko,SK,10,Giant Slalom
 1980-03-11,Odd Sorli,NO,19,Giant Slalom
@@ -248,7 +248,7 @@ date,name,ath_country,value,specialty
 1980-03-11,Joel Gaspoz,CH,53,Giant Slalom
 1980-03-11,Piero Gros,IT,10,Slalom
 1980-03-11,Torsten Jakobsson,SE,19,Giant Slalom
-1980-03-11,Phil Mahre,US,43,Combined
+1980-03-11,Phil Mahre,US,43,Giant Slalom
 1980-03-11,Alex Giorgi,IT,4,Giant Slalom
 1980-03-11,Leonhard Stock,AT,7,Downhill
 1980-03-13,Jacques Luethy,CH,110,Giant Slalom
@@ -261,9 +261,9 @@ date,name,ath_country,value,specialty
 1980-03-13,Torsten Jakobsson,SE,19,Giant Slalom
 1980-03-13,Petar Popangelov,BG,6,Slalom
 1980-03-13,Franz Gruber,AT,1,Slalom
-1980-03-13,Anton Steiner,AT,15,Combined
+1980-03-13,Anton Steiner,AT,15,Slalom
 1980-03-13,Joel Gaspoz,CH,73,Giant Slalom
-1980-03-13,Phil Mahre,US,43,Combined
+1980-03-13,Phil Mahre,US,43,Giant Slalom
 1980-03-13,Ingemar Stenmark,SE,165,Giant Slalom
 1980-03-13,Hannes Spiss,AT,27,Giant Slalom
 1980-03-13,Christian Orlainsky,AT,13,Slalom

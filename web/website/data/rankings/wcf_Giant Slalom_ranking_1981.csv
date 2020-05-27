@@ -26,7 +26,7 @@ date,name,ath_country,value,specialty
 1980-12-04,Erika Hess,CH,6,Slalom
 1980-12-04,Heidi Wiesler,DE,0,Combined
 1980-12-04,Brigitte Glur,CH,0,Slalom
-1980-12-04,Zoe Haas,CH,0,Combined
+1980-12-04,Zoe Haas,CH,0,Downhill
 1980-12-04,Anni Kronbichler,AT,0,Giant Slalom
 1980-12-04,Paola Marciandi,IT,0,Slalom
 1980-12-04,Claudia Giordani,IT,0,Slalom
@@ -50,7 +50,7 @@ date,name,ath_country,value,specialty
 1980-12-07,Hanni Wenzel,LI,0,Giant Slalom
 1980-12-07,Karen Lancaster,US,3,Giant Slalom
 1980-12-07,Brigitte Glur,CH,0,Slalom
-1980-12-07,Zoe Haas,CH,6,Combined
+1980-12-07,Zoe Haas,CH,6,Downhill
 1980-12-07,Anni Kronbichler,AT,0,Giant Slalom
 1980-12-07,Nadezda Patrakjeva-andreeva,RU,0,Slalom
 1980-12-07,Inge Krenn,AT,0,Combined
@@ -118,7 +118,7 @@ date,name,ath_country,value,specialty
 1981-01-22,Erika Gfrerer,AT,0,Downhill
 1981-01-22,Fabienne Serrat,FR,27,Slalom
 1981-01-22,Kathy Kreiner,CA,2,Downhill
-1981-01-22,Zoe Haas,CH,7,Combined
+1981-01-22,Zoe Haas,CH,7,Downhill
 1981-01-24,Anne Flore Rey,FR,0,Slalom
 1981-01-24,Heidi Wiesler,DE,0,Combined
 1981-01-24,Inge Krenn,AT,0,Combined
@@ -133,7 +133,7 @@ date,name,ath_country,value,specialty
 1981-01-24,Michaela Gerg-Leitner,DE,5,Giant Slalom
 1981-01-24,Anni Kronbichler,AT,7,Giant Slalom
 1981-01-24,Brigitte Glur,CH,0,Slalom
-1981-01-24,Zoe Haas,CH,7,Combined
+1981-01-24,Zoe Haas,CH,7,Downhill
 1981-01-24,Claudia Giordani,IT,18,Slalom
 1981-01-24,Elisabeth Chaud,FR,0,Downhill
 1981-01-24,Lea Soelkner,AT,6,Downhill
@@ -164,7 +164,7 @@ date,name,ath_country,value,specialty
 1981-02-04,Corinne Eugster,CH,0,Giant Slalom
 1981-02-04,Blanca Fernandez Ochoa,ES,1,Giant Slalom
 1981-02-04,Anne Flore Rey,FR,0,Slalom
-1981-02-04,Zoe Haas,CH,7,Combined
+1981-02-04,Zoe Haas,CH,7,Downhill
 1981-02-04,Irene Epple,DE,45,Giant Slalom
 1981-02-04,Fabienne Serrat,FR,39,Slalom
 1981-02-04,Maria Epple,DE,38,Giant Slalom
@@ -227,7 +227,7 @@ date,name,ath_country,value,specialty
 1981-02-10,Wanda Bieler,IT,45,Giant Slalom
 1981-02-10,Anne Flore Rey,FR,6,Slalom
 1981-02-10,Christin Cooper,US,42,Slalom
-1981-02-10,Zoe Haas,CH,14,Combined
+1981-02-10,Zoe Haas,CH,14,Downhill
 1981-02-10,Hanni Wenzel,LI,51,Giant Slalom
 1981-02-10,Maria Epple,DE,58,Giant Slalom
 1981-02-10,Heidi Wiesler,DE,6,Combined
@@ -272,7 +272,7 @@ date,name,ath_country,value,specialty
 1981-03-08,Brigitte Glur,CH,0,Slalom
 1981-03-08,Olga Charvatova,SK,14,Giant Slalom
 1981-03-08,Inge Krenn,AT,0,Combined
-1981-03-08,Zoe Haas,CH,14,Combined
+1981-03-08,Zoe Haas,CH,14,Downhill
 1981-03-08,Anni Kronbichler,AT,10,Giant Slalom
 1981-03-08,Claudia Giordani,IT,18,Slalom
 1981-03-08,Elisabeth Chaud,FR,0,Downhill
@@ -290,7 +290,7 @@ date,name,ath_country,value,specialty
 1981-03-13,Brigitte Glur,CH,7,Slalom
 1981-03-13,Christin Cooper,US,59,Slalom
 1981-03-13,Perrine Pelen,FR,70,Slalom
-1981-03-13,Zoe Haas,CH,14,Combined
+1981-03-13,Zoe Haas,CH,14,Downhill
 1981-03-13,Anni Kronbichler,AT,10,Giant Slalom
 1981-03-13,Daniela Zini,IT,56,Slalom
 1981-03-13,Claudia Giordani,IT,18,Slalom
@@ -347,7 +347,7 @@ date,name,ath_country,value,specialty
 1981-03-25,Heidi Preuss,US,2,Downhill
 1981-03-25,Fabienne Serrat,FR,54,Slalom
 1981-03-25,Heidi Wiesler,DE,6,Combined
-1981-03-25,Zoe Haas,CH,14,Combined
+1981-03-25,Zoe Haas,CH,14,Downhill
 1981-03-25,Gerry Sorensen,CA,2,Downhill
 1981-03-25,Claudia Giordani,IT,18,Slalom
 1981-03-25,Elisabeth Chaud,FR,8,Downhill

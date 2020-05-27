@@ -1,524 +1,681 @@
 date,name,ath_country,value,specialty
 2009-12-04,Lindsey Vonn,US,100,Downhill
-2009-12-04,Anna Veith Fenninger,AT,2,Super G
-2009-12-04,Martina Schild,CH,12,Super G
-2009-12-04,Kelly Vanderbeek,CA,20,Downhill
-2009-12-04,Gina Stechert,DE,11,Downhill
-2009-12-04,Tina Maze,SK,24,Giant Slalom
-2009-12-04,Chelsea Marshall,US,5,Downhill
-2009-12-04,Alice Mckennis,US,13,Downhill
-2009-12-04,Stacey J Cook,US,8,Downhill
-2009-12-04,Aurelie Revillet,FR,29,Downhill
-2009-12-04,Andrea Fischbacher,AT,22,Super G
-2009-12-04,Fraenzi Aufdenblatten,CH,32,Super G
-2009-12-04,Nadia Styger,CH,20,Super G
+2009-12-04,Larisa Yurkiw,CA,7,Downhill
+2009-12-04,Marine Gauthier,FR,0,Super G
 2009-12-04,Marie Marchand-Arvier,FR,3,Super G
+2009-12-04,Francesca Marsaglia,IT,0,Combined
+2009-12-04,Jeromine Geroudet,FR,0,Downhill
+2009-12-04,Leyre Morlans,ES,0,Combined
+2009-12-04,Nadia Styger,CH,20,Super G
+2009-12-04,Britt Janyk,CA,50,Downhill
+2009-12-04,Isabelle Stiepel,DE,0,Combined
+2009-12-04,Nicole Schmidhofer,AT,0,Super G
+2009-12-04,Edith Miklos,RO,0,Super G
+2009-12-04,Laurenne Ross,US,0,Downhill
+2009-12-04,Marianne Abderhalden,CH,0,Downhill
+2009-12-04,Klara Krizova,CZ,0,Downhill
+2009-12-04,Karin Hackl,AT,0,Giant Slalom
+2009-12-04,Carolina Ruiz Castillo,ES,0,Downhill
+2009-12-04,Marion Pellissier,FR,0,Combined
+2009-12-04,Lucia Recchia,IT,0,Downhill
+2009-12-04,Fraenzi Aufdenblatten,CH,32,Super G
+2009-12-04,Helena Prosteva,RU,0,Combined
+2009-12-04,Johanna Schnarf,IT,0,Downhill
+2009-12-04,Nadia Fanchini,IT,0,Super G
+2009-12-04,Enrica Cipriani,IT,0,Combined
+2009-12-04,Jessica Lindell-Vikarby,SE,0,Super G
 2009-12-04,Daniela Merighetti,IT,14,Downhill
-2009-12-04,Elisabeth Goergl,AT,10,Super G
+2009-12-04,Lucia Mazzotti,IT,0,Super G
+2009-12-04,Stefanie Moser,AT,0,Combined
+2009-12-04,Keely Blair Kelleher,US,0,Super G
+2009-12-04,Christina Staudinger,AT,0,Super G
 2009-12-04,Julia Mancuso,US,26,Downhill
 2009-12-04,Dominique Gisin,CH,40,Super G
-2009-12-04,Maria Holaus,AT,45,Downhill
-2009-12-04,Marusa Ferk,SK,0,Downhill
-2009-12-04,Marion Rolland,FR,16,Downhill
-2009-12-04,Britt Janyk,CA,50,Downhill
-2009-12-04,Andrea Dettling,CH,9,Super G
-2009-12-04,Rabea Grand,CH,0,Slalom
-2009-12-04,Tina Weirather,LI,2,Super G
+2009-12-04,Chelsea Marshall,US,5,Downhill
+2009-12-04,Shona Rubens,CA,0,Combined
+2009-12-04,Wendy Siorpaes,IT,0,Downhill
+2009-12-04,Daniela Ceccarelli,IT,0,Combined
 2009-12-04,Lotte Smiseth Sejersted,NO,0,Downhill
-2009-12-04,Dana Markova,CZ,0,Combined
-2009-12-04,Mona Loeseth,NO,0,Slalom
-2009-12-04,Eva-Maria Brem,AT,0,Giant Slalom
-2009-12-04,Clothilde Weyrich,FR,0,Combined
-2009-12-04,Margot Bailet,FR,0,Combined
-2009-12-04,Katharina Duerr,DE,0,Slalom
-2009-12-04,Kaylin L Richardson,US,0,Combined
-2009-12-04,Mariella Voglreiter,AT,0,Combined
-2009-12-04,Maria Belen Simari-Birkner,AR,0,Combined
-2009-12-04,Macarena Simari-Birkner,AR,0,Combined
-2009-12-04,Marianne Abderhalden,CH,0,Downhill
-2009-12-04,Camilla Borsotti,IT,0,Combined
-2009-12-04,Kathrin Fuhrer,CH,0,Combined
-2009-12-04,Helena Prosteva,RU,0,Combined
-2009-12-04,Marion Pellissier,FR,0,Combined
-2009-12-04,Karin Hackl,AT,0,Giant Slalom
-2009-12-04,Edith Miklos,RO,0,Super G
-2009-12-04,Isabelle Stiepel,DE,0,Combined
+2009-12-04,Monika Dumermuth,CH,0,Super G
+2009-12-04,Georgia Simmerling,CA,0,Super G
+2009-12-04,Elisabeth Goergl,AT,10,Super G
+2009-12-04,Margret Altacher,AT,0,Combined
+2009-12-04,Kajsa Kling,SE,0,Downhill
+2009-12-04,Marusa Ferk,SK,0,Downhill
 2009-12-04,Michaela Kirchgasser,AT,0,Giant Slalom
+2009-12-04,Alexandra Coletti,MC,0,Combined
 2009-12-04,Chemmy Alcott,GB,6,Super G
-2009-12-04,Larisa Yurkiw,CA,7,Downhill
-2009-12-04,Jeromine Geroudet,FR,0,Downhill
-2009-12-04,Pamela Thorburn,GB,0,Combined
-2009-12-04,Johanna Schnarf,IT,0,Downhill
-2009-12-04,Verena Stuffer,IT,0,Downhill
+2009-12-04,Stefanie Koehle,AT,0,Giant Slalom
+2009-12-04,Marion Rolland,FR,16,Downhill
+2009-12-04,Maria Holaus,AT,45,Downhill
+2009-12-04,Kathrin Fuhrer,CH,0,Combined
+2009-12-04,Fabienne Suter,CH,0,Super G
+2009-12-04,Viktoria Rebensburg,DE,0,Giant Slalom
+2009-12-04,Martina Schild,CH,12,Super G
+2009-12-04,Gina Stechert,DE,11,Downhill
+2009-12-04,Andrea Dettling,CH,9,Super G
+2009-12-04,Mariella Voglreiter,AT,0,Combined
 2009-12-04,Anja Paerson,SE,40,Downhill
-2009-12-04,Emily Brydon,CA,80,Downhill
+2009-12-04,Eva-Maria Brem,AT,0,Giant Slalom
 2009-12-04,Maria Riesch Hoefl,DE,60,Downhill
+2009-12-04,Maria Belen Simari-Birkner,AR,0,Combined
+2009-12-04,Kaylin L Richardson,US,0,Combined
+2009-12-04,Tina Weirather,LI,2,Super G
+2009-12-04,Anna Veith Fenninger,AT,2,Super G
+2009-12-04,Regina Mader Sterz,AT,0,Super G
+2009-12-04,Katharina Duerr,DE,0,Slalom
+2009-12-04,Clothilde Weyrich,FR,0,Combined
+2009-12-04,Emily Brydon,CA,80,Downhill
+2009-12-04,Margot Bailet,FR,0,Combined
+2009-12-04,Kelly Vanderbeek,CA,20,Downhill
+2009-12-04,Aurelie Revillet,FR,29,Downhill
+2009-12-04,Stacey J Cook,US,8,Downhill
+2009-12-04,Elena Fanchini,IT,0,Downhill
+2009-12-04,Rabea Grand,CH,0,Slalom
+2009-12-04,Camilla Borsotti,IT,0,Combined
+2009-12-04,Alice Mckennis,US,13,Downhill
+2009-12-04,Leanne Smith,US,0,Downhill
+2009-12-04,Dana Markova,CZ,0,Combined
 2009-12-04,Ingrid Jacquemod,FR,5,Downhill
+2009-12-04,Andrea Fischbacher,AT,22,Super G
+2009-12-04,Pamela Thorburn,GB,0,Combined
+2009-12-04,Tina Maze,SK,24,Giant Slalom
+2009-12-04,Mona Loeseth,NO,0,Slalom
+2009-12-04,Macarena Simari-Birkner,AR,0,Combined
+2009-12-04,Verena Stuffer,IT,0,Downhill
 2009-12-04,Nadja Kamer,CH,16,Downhill
-2009-12-05,Maria Belen Simari-Birkner,AR,0,Combined
-2009-12-05,Viktoria Rebensburg,DE,0,Giant Slalom
-2009-12-05,Stacey J Cook,US,32,Downhill
-2009-12-05,Mariella Voglreiter,AT,0,Combined
-2009-12-05,Francesca Marsaglia,IT,0,Combined
-2009-12-05,Alice Mckennis,US,39,Downhill
-2009-12-05,Mona Loeseth,NO,0,Slalom
-2009-12-05,Dominique Gisin,CH,85,Super G
+2009-12-05,Kajsa Kling,SE,0,Downhill
 2009-12-05,Michaela Kirchgasser,AT,0,Giant Slalom
-2009-12-05,Dana Markova,CZ,0,Combined
-2009-12-05,Kaylin L Richardson,US,0,Combined
-2009-12-05,Chelsea Marshall,US,11,Downhill
-2009-12-05,Marie Marchand-Arvier,FR,21,Super G
-2009-12-05,Maria Holaus,AT,48,Downhill
-2009-12-05,Aurelie Revillet,FR,38,Downhill
-2009-12-05,Andrea Fischbacher,AT,33,Super G
-2009-12-05,Macarena Simari-Birkner,AR,0,Combined
-2009-12-05,Larisa Yurkiw,CA,22,Downhill
-2009-12-05,Nadia Styger,CH,34,Super G
-2009-12-05,Kathrin Fuhrer,CH,0,Combined
-2009-12-05,Helena Prosteva,RU,0,Combined
-2009-12-05,Marion Pellissier,FR,0,Combined
+2009-12-05,Tina Maze,SK,24,Giant Slalom
 2009-12-05,Keely Blair Kelleher,US,0,Super G
-2009-12-05,Lucia Recchia,IT,7,Downhill
-2009-12-05,Daniela Merighetti,IT,19,Downhill
+2009-12-05,Gina Stechert,DE,13,Downhill
+2009-12-05,Wendy Siorpaes,IT,0,Downhill
+2009-12-05,Alice Mckennis,US,39,Downhill
+2009-12-05,Elena Fanchini,IT,12,Downhill
+2009-12-05,Monika Dumermuth,CH,0,Super G
 2009-12-05,Julia Mancuso,US,48,Downhill
+2009-12-05,Elisabeth Goergl,AT,50,Super G
+2009-12-05,Stacey J Cook,US,32,Downhill
+2009-12-05,Tina Weirather,LI,13,Super G
+2009-12-05,Chemmy Alcott,GB,6,Super G
+2009-12-05,Rabea Grand,CH,0,Slalom
+2009-12-05,Lotte Smiseth Sejersted,NO,0,Downhill
+2009-12-05,Fraenzi Aufdenblatten,CH,32,Super G
+2009-12-05,Lucia Recchia,IT,7,Downhill
+2009-12-05,Viktoria Rebensburg,DE,0,Giant Slalom
+2009-12-05,Carolina Ruiz Castillo,ES,0,Downhill
+2009-12-05,Verena Stuffer,IT,0,Downhill
+2009-12-05,Andrea Fischbacher,AT,33,Super G
+2009-12-05,Klara Krizova,CZ,0,Downhill
+2009-12-05,Laurenne Ross,US,0,Downhill
+2009-12-05,Kelly Vanderbeek,CA,40,Downhill
+2009-12-05,Nadia Styger,CH,34,Super G
+2009-12-05,Nicole Schmidhofer,AT,0,Super G
+2009-12-05,Marie Marchand-Arvier,FR,21,Super G
+2009-12-05,Aurelie Revillet,FR,38,Downhill
+2009-12-05,Jeromine Geroudet,FR,0,Downhill
+2009-12-05,Andrea Dettling,CH,25,Super G
+2009-12-05,Anna Veith Fenninger,AT,2,Super G
+2009-12-05,Larisa Yurkiw,CA,22,Downhill
+2009-12-05,Jessica Lindell-Vikarby,SE,0,Super G
+2009-12-05,Regina Mader Sterz,AT,0,Super G
+2009-12-05,Martina Schild,CH,16,Super G
+2009-12-05,Leanne Smith,US,8,Downhill
+2009-12-05,Daniela Merighetti,IT,19,Downhill
+2009-12-05,Dominique Gisin,CH,85,Super G
+2009-12-05,Marion Pellissier,FR,0,Combined
+2009-12-05,Leyre Morlans,ES,0,Combined
+2009-12-05,Britt Janyk,CA,82,Downhill
+2009-12-05,Isabelle Stiepel,DE,0,Combined
+2009-12-05,Marianne Abderhalden,CH,0,Downhill
+2009-12-05,Edith Miklos,RO,0,Super G
+2009-12-05,Karin Hackl,AT,0,Giant Slalom
+2009-12-05,Fabienne Suter,CH,13,Super G
+2009-12-05,Lucia Mazzotti,IT,0,Super G
+2009-12-05,Helena Prosteva,RU,0,Combined
+2009-12-05,Johanna Schnarf,IT,0,Downhill
+2009-12-05,Kathrin Fuhrer,CH,0,Combined
+2009-12-05,Ingrid Jacquemod,FR,41,Downhill
 2009-12-05,Pamela Thorburn,GB,0,Combined
 2009-12-05,Camilla Borsotti,IT,0,Combined
-2009-12-05,Karin Hackl,AT,0,Giant Slalom
-2009-12-05,Stefanie Koehle,AT,0,Giant Slalom
-2009-12-05,Maria Riesch Hoefl,DE,140,Downhill
-2009-12-05,Edith Miklos,RO,0,Super G
-2009-12-05,Elisabeth Goergl,AT,50,Super G
-2009-12-05,Emily Brydon,CA,140,Downhill
-2009-12-05,Rabea Grand,CH,0,Slalom
-2009-12-05,Lindsey Vonn,US,200,Downhill
 2009-12-05,Nadja Kamer,CH,18,Downhill
-2009-12-05,Clothilde Weyrich,FR,0,Combined
-2009-12-05,Lotte Smiseth Sejersted,NO,0,Downhill
+2009-12-05,Macarena Simari-Birkner,AR,0,Combined
+2009-12-05,Maria Belen Simari-Birkner,AR,0,Combined
+2009-12-05,Mariella Voglreiter,AT,0,Combined
 2009-12-05,Anja Paerson,SE,90,Downhill
-2009-12-05,Martina Schild,CH,16,Super G
+2009-12-05,Kaylin L Richardson,US,0,Combined
 2009-12-05,Katharina Duerr,DE,0,Slalom
-2009-12-05,Andrea Dettling,CH,25,Super G
-2009-12-05,Marianne Abderhalden,CH,0,Downhill
-2009-12-05,Eva-Maria Brem,AT,0,Giant Slalom
-2009-12-05,Britt Janyk,CA,82,Downhill
-2009-12-05,Kelly Vanderbeek,CA,40,Downhill
-2009-12-05,Jeromine Geroudet,FR,0,Downhill
-2009-12-05,Fabienne Suter,CH,13,Super G
-2009-12-05,Tina Weirather,LI,13,Super G
-2009-12-05,Marusa Ferk,SK,0,Downhill
-2009-12-05,Johanna Schnarf,IT,0,Downhill
-2009-12-05,Elena Fanchini,IT,12,Downhill
-2009-12-05,Gina Stechert,DE,13,Downhill
-2009-12-05,Ingrid Jacquemod,FR,41,Downhill
-2009-12-05,Leanne Smith,US,8,Downhill
-2009-12-05,Marion Rolland,FR,45,Downhill
 2009-12-05,Margot Bailet,FR,0,Combined
-2010-01-08,Lindsey Vonn,US,300,Downhill
-2010-01-08,Marine Gauthier,FR,0,Super G
-2010-01-08,Fraenzi Aufdenblatten,CH,32,Super G
-2010-01-08,Anja Paerson,SE,170,Downhill
-2010-01-08,Andrea Dettling,CH,35,Super G
-2010-01-08,Andrea Fischbacher,AT,65,Super G
-2010-01-08,Rabea Grand,CH,0,Slalom
-2010-01-08,Daniela Ceccarelli,IT,0,Combined
-2010-01-08,Tina Weirather,LI,18,Super G
-2010-01-08,Leanne Smith,US,8,Downhill
-2010-01-08,Elena Fanchini,IT,25,Downhill
-2010-01-08,Stefanie Koehle,AT,0,Giant Slalom
-2010-01-08,Leyre Morlans,ES,0,Combined
-2010-01-08,Tina Maze,SK,35,Giant Slalom
-2010-01-08,Larisa Yurkiw,CA,22,Downhill
-2010-01-08,Jeromine Geroudet,FR,0,Downhill
-2010-01-08,Gina Stechert,DE,25,Downhill
-2010-01-08,Alice Mckennis,US,49,Downhill
-2010-01-08,Kajsa Kling,SE,1,Downhill
-2010-01-08,Monika Dumermuth,CH,3,Super G
-2010-01-08,Stacey J Cook,US,52,Downhill
-2010-01-08,Kelly Vanderbeek,CA,40,Downhill
-2010-01-08,Lucia Mazzotti,IT,0,Super G
-2010-01-08,Regina Mader Sterz,AT,2,Super G
-2010-01-08,Laurenne Ross,US,0,Downhill
-2010-01-08,Martina Schild,CH,32,Super G
-2010-01-08,Emily Brydon,CA,166,Downhill
-2010-01-08,Isabelle Stiepel,DE,0,Combined
-2010-01-08,Nadja Kamer,CH,47,Downhill
-2010-01-08,Anna Veith Fenninger,AT,16,Super G
-2010-01-08,Jessica Lindell-Vikarby,SE,4,Super G
-2010-01-08,Lucia Recchia,IT,13,Downhill
-2010-01-08,Dominique Gisin,CH,85,Super G
-2010-01-08,Marion Rolland,FR,90,Downhill
-2010-01-08,Nadia Fanchini,IT,50,Super G
-2010-01-08,Kaylin L Richardson,US,0,Combined
-2010-01-08,Clothilde Weyrich,FR,0,Combined
-2010-01-08,Margot Bailet,FR,0,Combined
-2010-01-08,Macarena Simari-Birkner,AR,0,Combined
-2010-01-08,Julia Mancuso,US,66,Downhill
-2010-01-08,Dana Markova,CZ,0,Combined
-2010-01-08,Elisabeth Goergl,AT,57,Super G
-2010-01-08,Daniela Merighetti,IT,59,Downhill
-2010-01-08,Viktoria Rebensburg,DE,15,Giant Slalom
-2010-01-08,Mariella Voglreiter,AT,0,Combined
-2010-01-08,Marianne Abderhalden,CH,0,Downhill
-2010-01-08,Maria Belen Simari-Birkner,AR,0,Combined
+2009-12-05,Emily Brydon,CA,140,Downhill
+2009-12-05,Clothilde Weyrich,FR,0,Combined
+2009-12-05,Maria Riesch Hoefl,DE,140,Downhill
+2009-12-05,Eva-Maria Brem,AT,0,Giant Slalom
+2009-12-05,Mona Loeseth,NO,0,Slalom
+2009-12-05,Dana Markova,CZ,0,Combined
+2009-12-05,Lindsey Vonn,US,200,Downhill
+2009-12-05,Francesca Marsaglia,IT,0,Combined
+2009-12-05,Marine Gauthier,FR,0,Super G
+2009-12-05,Chelsea Marshall,US,11,Downhill
+2009-12-05,Georgia Simmerling,CA,0,Super G
+2009-12-05,Shona Rubens,CA,0,Combined
+2009-12-05,Maria Holaus,AT,48,Downhill
+2009-12-05,Stefanie Moser,AT,0,Combined
+2009-12-05,Nadia Fanchini,IT,0,Super G
+2009-12-05,Enrica Cipriani,IT,0,Combined
+2009-12-05,Margret Altacher,AT,0,Combined
+2009-12-05,Christina Staudinger,AT,0,Super G
+2009-12-05,Alexandra Coletti,MC,0,Combined
+2009-12-05,Stefanie Koehle,AT,0,Giant Slalom
+2009-12-05,Daniela Ceccarelli,IT,0,Combined
+2009-12-05,Marusa Ferk,SK,0,Downhill
+2009-12-05,Marion Rolland,FR,45,Downhill
+2010-01-08,Shona Rubens,CA,0,Combined
 2010-01-08,Katharina Duerr,DE,0,Slalom
-2010-01-08,Ingrid Jacquemod,FR,49,Downhill
+2010-01-08,Anna Veith Fenninger,AT,16,Super G
+2010-01-08,Daniela Ceccarelli,IT,0,Combined
+2010-01-08,Monika Dumermuth,CH,3,Super G
+2010-01-08,Mariella Voglreiter,AT,0,Combined
+2010-01-08,Andrea Dettling,CH,35,Super G
+2010-01-08,Kaylin L Richardson,US,0,Combined
+2010-01-08,Martina Schild,CH,32,Super G
+2010-01-08,Marine Gauthier,FR,0,Super G
+2010-01-08,Margot Bailet,FR,0,Combined
+2010-01-08,Maria Belen Simari-Birkner,AR,0,Combined
+2010-01-08,Clothilde Weyrich,FR,0,Combined
+2010-01-08,Wendy Siorpaes,IT,0,Downhill
+2010-01-08,Gina Stechert,DE,25,Downhill
 2010-01-08,Eva-Maria Brem,AT,0,Giant Slalom
-2010-01-08,Marie Marchand-Arvier,FR,61,Super G
-2010-01-08,Fabienne Suter,CH,37,Super G
-2010-01-08,Maria Riesch Hoefl,DE,200,Downhill
-2010-01-08,Camilla Borsotti,IT,0,Combined
-2010-01-08,Maria Holaus,AT,48,Downhill
-2010-01-08,Nadia Styger,CH,56,Super G
+2010-01-08,Stefanie Moser,AT,0,Combined
 2010-01-08,Mona Loeseth,NO,0,Slalom
-2010-01-09,Gina Stechert,DE,26,Downhill
-2010-01-09,Margot Bailet,FR,0,Combined
-2010-01-09,Marion Rolland,FR,140,Downhill
-2010-01-09,Kaylin L Richardson,US,0,Combined
-2010-01-09,Larisa Yurkiw,CA,22,Downhill
-2010-01-09,Elena Fanchini,IT,45,Downhill
-2010-01-09,Jeromine Geroudet,FR,0,Downhill
-2010-01-09,Katharina Duerr,DE,0,Slalom
-2010-01-09,Maria Holaus,AT,48,Downhill
-2010-01-09,Nadia Styger,CH,96,Super G
-2010-01-09,Martina Schild,CH,38,Super G
-2010-01-09,Nadia Fanchini,IT,57,Super G
-2010-01-09,Johanna Schnarf,IT,4,Downhill
-2010-01-09,Verena Stuffer,IT,11,Downhill
+2010-01-08,Elena Fanchini,IT,25,Downhill
+2010-01-08,Dana Markova,CZ,0,Combined
+2010-01-08,Tina Maze,SK,35,Giant Slalom
+2010-01-08,Keely Blair Kelleher,US,0,Super G
+2010-01-08,Chelsea Marshall,US,11,Downhill
+2010-01-08,Kelly Vanderbeek,CA,40,Downhill
+2010-01-08,Christina Staudinger,AT,0,Super G
+2010-01-08,Leanne Smith,US,8,Downhill
+2010-01-08,Kajsa Kling,SE,1,Downhill
+2010-01-08,Enrica Cipriani,IT,0,Combined
+2010-01-08,Francesca Marsaglia,IT,0,Combined
+2010-01-08,Nicole Schmidhofer,AT,0,Super G
+2010-01-08,Larisa Yurkiw,CA,22,Downhill
+2010-01-08,Leyre Morlans,ES,0,Combined
+2010-01-08,Laurenne Ross,US,0,Downhill
+2010-01-08,Isabelle Stiepel,DE,0,Combined
+2010-01-08,Stefanie Koehle,AT,0,Giant Slalom
+2010-01-08,Edith Miklos,RO,0,Super G
+2010-01-08,Carolina Ruiz Castillo,ES,0,Downhill
+2010-01-08,Jessica Lindell-Vikarby,SE,4,Super G
+2010-01-08,Karin Hackl,AT,0,Giant Slalom
+2010-01-08,Alexandra Coletti,MC,0,Combined
+2010-01-08,Lotte Smiseth Sejersted,NO,0,Downhill
+2010-01-08,Marion Pellissier,FR,0,Combined
+2010-01-08,Chemmy Alcott,GB,6,Super G
+2010-01-08,Helena Prosteva,RU,0,Combined
+2010-01-08,Margret Altacher,AT,0,Combined
+2010-01-08,Tina Weirather,LI,18,Super G
+2010-01-08,Kathrin Fuhrer,CH,0,Combined
+2010-01-08,Rabea Grand,CH,0,Slalom
+2010-01-08,Michaela Kirchgasser,AT,0,Giant Slalom
+2010-01-08,Pamela Thorburn,GB,0,Combined
+2010-01-08,Verena Stuffer,IT,0,Downhill
+2010-01-08,Camilla Borsotti,IT,0,Combined
+2010-01-08,Georgia Simmerling,CA,0,Super G
+2010-01-08,Jeromine Geroudet,FR,0,Downhill
+2010-01-08,Macarena Simari-Birkner,AR,0,Combined
+2010-01-08,Lucia Mazzotti,IT,0,Super G
+2010-01-08,Klara Krizova,CZ,0,Downhill
+2010-01-08,Daniela Merighetti,IT,59,Downhill
+2010-01-08,Fabienne Suter,CH,37,Super G
+2010-01-08,Julia Mancuso,US,66,Downhill
+2010-01-08,Nadja Kamer,CH,47,Downhill
+2010-01-08,Maria Riesch Hoefl,DE,200,Downhill
+2010-01-08,Andrea Fischbacher,AT,65,Super G
+2010-01-08,Regina Mader Sterz,AT,2,Super G
+2010-01-08,Elisabeth Goergl,AT,57,Super G
+2010-01-08,Fraenzi Aufdenblatten,CH,32,Super G
+2010-01-08,Stacey J Cook,US,52,Downhill
+2010-01-08,Marion Rolland,FR,90,Downhill
+2010-01-08,Marusa Ferk,SK,0,Downhill
+2010-01-08,Aurelie Revillet,FR,38,Downhill
+2010-01-08,Emily Brydon,CA,166,Downhill
+2010-01-08,Dominique Gisin,CH,85,Super G
+2010-01-08,Lucia Recchia,IT,13,Downhill
+2010-01-08,Nadia Fanchini,IT,50,Super G
+2010-01-08,Johanna Schnarf,IT,0,Downhill
+2010-01-08,Maria Holaus,AT,48,Downhill
+2010-01-08,Ingrid Jacquemod,FR,49,Downhill
+2010-01-08,Viktoria Rebensburg,DE,15,Giant Slalom
+2010-01-08,Britt Janyk,CA,82,Downhill
+2010-01-08,Alice Mckennis,US,49,Downhill
+2010-01-08,Nadia Styger,CH,56,Super G
+2010-01-08,Marie Marchand-Arvier,FR,61,Super G
+2010-01-08,Anja Paerson,SE,170,Downhill
+2010-01-08,Marianne Abderhalden,CH,0,Downhill
+2010-01-08,Lindsey Vonn,US,300,Downhill
+2010-01-09,Wendy Siorpaes,IT,3,Downhill
 2010-01-09,Rabea Grand,CH,0,Slalom
-2010-01-09,Tina Weirather,LI,32,Super G
-2010-01-09,Eva-Maria Brem,AT,0,Giant Slalom
-2010-01-09,Fabienne Suter,CH,59,Super G
-2010-01-09,Lindsey Vonn,US,400,Downhill
-2010-01-09,Mona Loeseth,NO,0,Slalom
-2010-01-09,Andrea Dettling,CH,51,Super G
-2010-01-09,Marianne Abderhalden,CH,0,Downhill
-2010-01-09,Marine Gauthier,FR,0,Super G
-2010-01-09,Anna Veith Fenninger,AT,26,Super G
-2010-01-09,Clothilde Weyrich,FR,0,Combined
-2010-01-09,Britt Janyk,CA,108,Downhill
-2010-01-09,Lucia Mazzotti,IT,0,Super G
-2010-01-09,Laurenne Ross,US,0,Downhill
-2010-01-09,Kelly Vanderbeek,CA,40,Downhill
+2010-01-09,Fraenzi Aufdenblatten,CH,50,Super G
 2010-01-09,Anja Paerson,SE,215,Downhill
 2010-01-09,Jessica Lindell-Vikarby,SE,19,Super G
-2010-01-09,Leyre Morlans,ES,0,Combined
-2010-01-09,Emily Brydon,CA,176,Downhill
-2010-01-09,Dana Markova,CZ,0,Combined
-2010-01-09,Macarena Simari-Birkner,AR,0,Combined
+2010-01-09,Monika Dumermuth,CH,3,Super G
 2010-01-09,Nadja Kamer,CH,127,Downhill
-2010-01-09,Andrea Fischbacher,AT,73,Super G
-2010-01-09,Julia Mancuso,US,90,Downhill
-2010-01-09,Ingrid Jacquemod,FR,109,Downhill
-2010-01-09,Christina Staudinger,AT,0,Super G
-2010-01-09,Fraenzi Aufdenblatten,CH,50,Super G
-2010-01-09,Karin Hackl,AT,0,Giant Slalom
-2010-01-09,Maria Riesch Hoefl,DE,236,Downhill
-2010-01-09,Lucia Recchia,IT,26,Downhill
-2010-01-09,Marie Marchand-Arvier,FR,66,Super G
-2010-01-09,Enrica Cipriani,IT,0,Combined
-2010-01-09,Helena Prosteva,RU,0,Combined
-2010-01-09,Daniela Merighetti,IT,91,Downhill
-2010-01-09,Stacey J Cook,US,81,Downhill
-2010-01-09,Isabelle Stiepel,DE,0,Combined
-2010-01-09,Wendy Siorpaes,IT,3,Downhill
-2010-01-09,Michaela Kirchgasser,AT,0,Giant Slalom
-2010-01-09,Mariella Voglreiter,AT,0,Combined
-2010-01-09,Viktoria Rebensburg,DE,17,Giant Slalom
-2010-01-09,Francesca Marsaglia,IT,0,Combined
-2010-01-09,Dominique Gisin,CH,85,Super G
 2010-01-09,Maria Belen Simari-Birkner,AR,0,Combined
+2010-01-09,Andrea Fischbacher,AT,73,Super G
+2010-01-09,Marion Pellissier,FR,0,Combined
+2010-01-09,Larisa Yurkiw,CA,22,Downhill
+2010-01-09,Julia Mancuso,US,90,Downhill
+2010-01-09,Verena Stuffer,IT,11,Downhill
 2010-01-09,Chelsea Marshall,US,23,Downhill
-2010-01-23,Rabea Grand,CH,0,Slalom
-2010-01-23,Keely Blair Kelleher,US,0,Super G
-2010-01-23,Clothilde Weyrich,FR,0,Combined
-2010-01-23,Mariella Voglreiter,AT,0,Combined
-2010-01-23,Karin Hackl,AT,0,Giant Slalom
-2010-01-23,Maria Riesch Hoefl,DE,316,Downhill
-2010-01-23,Larisa Yurkiw,CA,22,Downhill
-2010-01-23,Kathrin Fuhrer,CH,0,Combined
-2010-01-23,Helena Prosteva,RU,0,Combined
-2010-01-23,Marion Pellissier,FR,0,Combined
-2010-01-23,Francesca Marsaglia,IT,0,Combined
+2010-01-09,Kajsa Kling,SE,1,Downhill
+2010-01-09,Tina Weirather,LI,32,Super G
+2010-01-09,Maria Holaus,AT,48,Downhill
+2010-01-09,Klara Krizova,CZ,0,Downhill
+2010-01-09,Leyre Morlans,ES,0,Combined
+2010-01-09,Kathrin Fuhrer,CH,0,Combined
+2010-01-09,Lucia Recchia,IT,26,Downhill
+2010-01-09,Britt Janyk,CA,108,Downhill
+2010-01-09,Pamela Thorburn,GB,0,Combined
+2010-01-09,Carolina Ruiz Castillo,ES,0,Downhill
+2010-01-09,Michaela Kirchgasser,AT,0,Giant Slalom
+2010-01-09,Johanna Schnarf,IT,4,Downhill
+2010-01-09,Francesca Marsaglia,IT,0,Combined
+2010-01-09,Lotte Smiseth Sejersted,NO,0,Downhill
+2010-01-09,Ingrid Jacquemod,FR,109,Downhill
+2010-01-09,Laurenne Ross,US,0,Downhill
+2010-01-09,Elisabeth Goergl,AT,57,Super G
+2010-01-09,Camilla Borsotti,IT,0,Combined
+2010-01-09,Leanne Smith,US,8,Downhill
+2010-01-09,Daniela Merighetti,IT,91,Downhill
+2010-01-09,Macarena Simari-Birkner,AR,0,Combined
+2010-01-09,Marine Gauthier,FR,0,Super G
+2010-01-09,Mariella Voglreiter,AT,0,Combined
+2010-01-09,Stefanie Koehle,AT,0,Giant Slalom
+2010-01-09,Nadia Fanchini,IT,57,Super G
+2010-01-09,Stacey J Cook,US,81,Downhill
+2010-01-09,Gina Stechert,DE,26,Downhill
+2010-01-09,Stefanie Moser,AT,0,Combined
+2010-01-09,Jeromine Geroudet,FR,0,Downhill
+2010-01-09,Margret Altacher,AT,0,Combined
+2010-01-09,Marusa Ferk,SK,0,Downhill
+2010-01-09,Eva-Maria Brem,AT,0,Giant Slalom
+2010-01-09,Dominique Gisin,CH,85,Super G
+2010-01-09,Christina Staudinger,AT,0,Super G
+2010-01-09,Mona Loeseth,NO,0,Slalom
+2010-01-09,Karin Hackl,AT,0,Giant Slalom
+2010-01-09,Elena Fanchini,IT,45,Downhill
+2010-01-09,Georgia Simmerling,CA,0,Super G
+2010-01-09,Fabienne Suter,CH,59,Super G
+2010-01-09,Lindsey Vonn,US,400,Downhill
+2010-01-09,Tina Maze,SK,35,Giant Slalom
+2010-01-09,Shona Rubens,CA,0,Combined
+2010-01-09,Alice Mckennis,US,49,Downhill
+2010-01-09,Edith Miklos,RO,0,Super G
+2010-01-09,Dana Markova,CZ,0,Combined
+2010-01-09,Daniela Ceccarelli,IT,0,Combined
+2010-01-09,Clothilde Weyrich,FR,0,Combined
+2010-01-09,Enrica Cipriani,IT,0,Combined
+2010-01-09,Kelly Vanderbeek,CA,40,Downhill
+2010-01-09,Anna Veith Fenninger,AT,26,Super G
+2010-01-09,Nadia Styger,CH,96,Super G
+2010-01-09,Nicole Schmidhofer,AT,0,Super G
+2010-01-09,Kaylin L Richardson,US,0,Combined
+2010-01-09,Helena Prosteva,RU,0,Combined
+2010-01-09,Keely Blair Kelleher,US,0,Super G
+2010-01-09,Marion Rolland,FR,140,Downhill
+2010-01-09,Andrea Dettling,CH,51,Super G
+2010-01-09,Aurelie Revillet,FR,38,Downhill
+2010-01-09,Katharina Duerr,DE,0,Slalom
+2010-01-09,Marianne Abderhalden,CH,0,Downhill
+2010-01-09,Marie Marchand-Arvier,FR,66,Super G
+2010-01-09,Chemmy Alcott,GB,6,Super G
+2010-01-09,Viktoria Rebensburg,DE,17,Giant Slalom
+2010-01-09,Regina Mader Sterz,AT,2,Super G
+2010-01-09,Emily Brydon,CA,176,Downhill
+2010-01-09,Margot Bailet,FR,0,Combined
+2010-01-09,Martina Schild,CH,38,Super G
+2010-01-09,Lucia Mazzotti,IT,0,Super G
+2010-01-09,Alexandra Coletti,MC,0,Combined
+2010-01-09,Maria Riesch Hoefl,DE,236,Downhill
+2010-01-09,Isabelle Stiepel,DE,0,Combined
+2010-01-23,Daniela Merighetti,IT,117,Downhill
+2010-01-23,Jessica Lindell-Vikarby,SE,19,Super G
+2010-01-23,Isabelle Stiepel,DE,0,Combined
+2010-01-23,Marianne Abderhalden,CH,0,Downhill
+2010-01-23,Julia Mancuso,US,122,Downhill
+2010-01-23,Leyre Morlans,ES,0,Combined
+2010-01-23,Shona Rubens,CA,0,Combined
+2010-01-23,Daniela Ceccarelli,IT,0,Combined
+2010-01-23,Marusa Ferk,SK,1,Downhill
+2010-01-23,Georgia Simmerling,CA,0,Super G
+2010-01-23,Christina Staudinger,AT,0,Super G
+2010-01-23,Stefanie Moser,AT,0,Combined
+2010-01-23,Dominique Gisin,CH,85,Super G
+2010-01-23,Margret Altacher,AT,0,Combined
+2010-01-23,Alexandra Coletti,MC,0,Combined
+2010-01-23,Lucia Mazzotti,IT,0,Super G
+2010-01-23,Viktoria Rebensburg,DE,17,Giant Slalom
 2010-01-23,Chemmy Alcott,GB,6,Super G
-2010-01-23,Eva-Maria Brem,AT,0,Giant Slalom
-2010-01-23,Pamela Thorburn,GB,0,Combined
-2010-01-23,Tina Weirather,LI,32,Super G
-2010-01-23,Lotte Smiseth Sejersted,NO,2,Downhill
-2010-01-23,Camilla Borsotti,IT,0,Combined
-2010-01-23,Emily Brydon,CA,185,Downhill
+2010-01-23,Marion Rolland,FR,140,Downhill
 2010-01-23,Stefanie Koehle,AT,0,Giant Slalom
-2010-01-23,Margot Bailet,FR,0,Combined
 2010-01-23,Wendy Siorpaes,IT,7,Downhill
+2010-01-23,Enrica Cipriani,IT,0,Combined
+2010-01-23,Nadia Fanchini,IT,65,Super G
+2010-01-23,Monika Dumermuth,CH,3,Super G
+2010-01-23,Marine Gauthier,FR,0,Super G
+2010-01-23,Britt Janyk,CA,108,Downhill
+2010-01-23,Kajsa Kling,SE,6,Downhill
+2010-01-23,Francesca Marsaglia,IT,0,Combined
+2010-01-23,Michaela Kirchgasser,AT,0,Giant Slalom
+2010-01-23,Elisabeth Goergl,AT,57,Super G
+2010-01-23,Keely Blair Kelleher,US,0,Super G
+2010-01-23,Edith Miklos,RO,0,Super G
+2010-01-23,Maria Holaus,AT,48,Downhill
+2010-01-23,Marie Marchand-Arvier,FR,88,Super G
+2010-01-23,Eva-Maria Brem,AT,0,Giant Slalom
+2010-01-23,Tina Weirather,LI,32,Super G
+2010-01-23,Fraenzi Aufdenblatten,CH,86,Super G
+2010-01-23,Macarena Simari-Birkner,AR,0,Combined
+2010-01-23,Rabea Grand,CH,0,Slalom
+2010-01-23,Stacey J Cook,US,87,Downhill
+2010-01-23,Nadja Kamer,CH,187,Downhill
+2010-01-23,Maria Riesch Hoefl,DE,316,Downhill
+2010-01-23,Maria Belen Simari-Birkner,AR,0,Combined
+2010-01-23,Verena Stuffer,IT,11,Downhill
+2010-01-23,Andrea Fischbacher,AT,85,Super G
+2010-01-23,Larisa Yurkiw,CA,22,Downhill
+2010-01-23,Gina Stechert,DE,44,Downhill
+2010-01-23,Mariella Voglreiter,AT,0,Combined
+2010-01-23,Clothilde Weyrich,FR,0,Combined
+2010-01-23,Kelly Vanderbeek,CA,40,Downhill
+2010-01-23,Aurelie Revillet,FR,67,Downhill
+2010-01-23,Anja Paerson,SE,275,Downhill
+2010-01-23,Leanne Smith,US,24,Downhill
+2010-01-23,Kaylin L Richardson,US,0,Combined
+2010-01-23,Andrea Dettling,CH,51,Super G
+2010-01-23,Emily Brydon,CA,185,Downhill
 2010-01-23,Katharina Duerr,DE,0,Slalom
-2010-01-23,Mona Loeseth,NO,0,Slalom
+2010-01-23,Anna Veith Fenninger,AT,40,Super G
+2010-01-23,Martina Schild,CH,58,Super G
+2010-01-23,Regina Mader Sterz,AT,2,Super G
+2010-01-23,Camilla Borsotti,IT,0,Combined
+2010-01-23,Margot Bailet,FR,0,Combined
+2010-01-23,Nadia Styger,CH,111,Super G
+2010-01-23,Fabienne Suter,CH,104,Super G
+2010-01-23,Tina Maze,SK,45,Giant Slalom
+2010-01-23,Nicole Schmidhofer,AT,0,Super G
+2010-01-23,Marion Pellissier,FR,0,Combined
+2010-01-23,Chelsea Marshall,US,24,Downhill
 2010-01-23,Laurenne Ross,US,0,Downhill
-2010-01-23,Dana Markova,CZ,0,Combined
+2010-01-23,Lotte Smiseth Sejersted,NO,2,Downhill
+2010-01-23,Helena Prosteva,RU,0,Combined
 2010-01-23,Lindsey Vonn,US,500,Downhill
 2010-01-23,Jeromine Geroudet,FR,0,Downhill
-2010-01-23,Klara Krizova,CZ,0,Downhill
-2010-01-23,Isabelle Stiepel,DE,0,Combined
-2010-01-23,Johanna Schnarf,IT,11,Downhill
-2010-01-23,Carolina Ruiz Castillo,ES,13,Downhill
-2010-01-23,Lucia Mazzotti,IT,0,Super G
-2010-01-23,Kajsa Kling,SE,6,Downhill
-2010-01-23,Michaela Kirchgasser,AT,0,Giant Slalom
-2010-01-23,Kaylin L Richardson,US,0,Combined
-2010-01-23,Anja Paerson,SE,275,Downhill
-2010-01-23,Andrea Dettling,CH,51,Super G
 2010-01-23,Alice Mckennis,US,52,Downhill
-2010-01-23,Marion Rolland,FR,140,Downhill
-2010-01-23,Gina Stechert,DE,44,Downhill
+2010-01-23,Klara Krizova,CZ,0,Downhill
+2010-01-23,Kathrin Fuhrer,CH,0,Combined
 2010-01-23,Elena Fanchini,IT,69,Downhill
-2010-01-23,Tina Maze,SK,45,Giant Slalom
-2010-01-23,Chelsea Marshall,US,24,Downhill
-2010-01-23,Leyre Morlans,ES,0,Combined
-2010-01-23,Marusa Ferk,SK,1,Downhill
-2010-01-23,Nadja Kamer,CH,187,Downhill
-2010-01-23,Stacey J Cook,US,87,Downhill
-2010-01-23,Maria Holaus,AT,48,Downhill
-2010-01-23,Georgia Simmerling,CA,0,Super G
-2010-01-23,Kelly Vanderbeek,CA,40,Downhill
-2010-01-23,Dominique Gisin,CH,85,Super G
-2010-01-23,Aurelie Revillet,FR,67,Downhill
-2010-01-23,Andrea Fischbacher,AT,85,Super G
-2010-01-23,Fraenzi Aufdenblatten,CH,86,Super G
-2010-01-23,Viktoria Rebensburg,DE,17,Giant Slalom
-2010-01-23,Stefanie Moser,AT,0,Combined
-2010-01-23,Julia Mancuso,US,122,Downhill
+2010-01-23,Dana Markova,CZ,0,Combined
 2010-01-23,Lucia Recchia,IT,37,Downhill
+2010-01-23,Pamela Thorburn,GB,0,Combined
+2010-01-23,Carolina Ruiz Castillo,ES,13,Downhill
+2010-01-23,Mona Loeseth,NO,0,Slalom
 2010-01-23,Ingrid Jacquemod,FR,154,Downhill
-2010-01-23,Nadia Styger,CH,111,Super G
-2010-01-23,Enrica Cipriani,IT,0,Combined
-2010-01-23,Marie Marchand-Arvier,FR,88,Super G
-2010-01-23,Christina Staudinger,AT,0,Super G
-2010-01-23,Nadia Fanchini,IT,65,Super G
-2010-01-23,Daniela Merighetti,IT,117,Downhill
-2010-01-23,Leanne Smith,US,24,Downhill
-2010-01-23,Martina Schild,CH,58,Super G
-2010-01-23,Anna Veith Fenninger,AT,40,Super G
-2010-01-23,Margret Altacher,AT,0,Combined
-2010-01-23,Fabienne Suter,CH,104,Super G
-2010-01-23,Marianne Abderhalden,CH,0,Downhill
-2010-01-23,Marine Gauthier,FR,0,Super G
-2010-01-30,Karin Hackl,AT,0,Giant Slalom
-2010-01-30,Fraenzi Aufdenblatten,CH,86,Super G
-2010-01-30,Rabea Grand,CH,5,Slalom
-2010-01-30,Alexandra Coletti,MC,0,Combined
-2010-01-30,Edith Miklos,RO,0,Super G
-2010-01-30,Christina Staudinger,AT,0,Super G
-2010-01-30,Laurenne Ross,US,3,Downhill
-2010-01-30,Maria Riesch Hoefl,DE,416,Downhill
-2010-01-30,Isabelle Stiepel,DE,0,Combined
-2010-01-30,Andrea Fischbacher,AT,85,Super G
-2010-01-30,Aurelie Revillet,FR,99,Downhill
-2010-01-30,Marianne Abderhalden,CH,2,Downhill
-2010-01-30,Dominique Gisin,CH,99,Super G
-2010-01-30,Britt Janyk,CA,108,Downhill
-2010-01-30,Stefanie Moser,AT,0,Combined
-2010-01-30,Tina Weirather,LI,32,Super G
-2010-01-30,Fabienne Suter,CH,164,Super G
-2010-01-30,Stefanie Koehle,AT,0,Giant Slalom
-2010-01-30,Pamela Thorburn,GB,0,Combined
-2010-01-30,Ingrid Jacquemod,FR,234,Downhill
-2010-01-30,Daniela Merighetti,IT,124,Downhill
+2010-01-23,Johanna Schnarf,IT,11,Downhill
+2010-01-23,Karin Hackl,AT,0,Giant Slalom
+2010-01-30,Marion Rolland,FR,176,Downhill
+2010-01-30,Margot Bailet,FR,0,Combined
+2010-01-30,Dana Markova,CZ,0,Combined
+2010-01-30,Lindsey Vonn,US,545,Downhill
 2010-01-30,Daniela Ceccarelli,IT,0,Combined
-2010-01-30,Camilla Borsotti,IT,0,Combined
+2010-01-30,Marusa Ferk,SK,1,Downhill
+2010-01-30,Clothilde Weyrich,FR,0,Combined
+2010-01-30,Mona Loeseth,NO,0,Slalom
+2010-01-30,Maria Riesch Hoefl,DE,416,Downhill
+2010-01-30,Georgia Simmerling,CA,0,Super G
+2010-01-30,Margret Altacher,AT,0,Combined
+2010-01-30,Eva-Maria Brem,AT,0,Giant Slalom
+2010-01-30,Maria Belen Simari-Birkner,AR,0,Combined
+2010-01-30,Katharina Duerr,DE,0,Slalom
+2010-01-30,Marianne Abderhalden,CH,2,Downhill
+2010-01-30,Edith Miklos,RO,0,Super G
+2010-01-30,Isabelle Stiepel,DE,0,Combined
+2010-01-30,Karin Hackl,AT,0,Giant Slalom
+2010-01-30,Fabienne Suter,CH,164,Super G
+2010-01-30,Marion Pellissier,FR,0,Combined
+2010-01-30,Helena Prosteva,RU,0,Combined
+2010-01-30,Leyre Morlans,ES,0,Combined
 2010-01-30,Kathrin Fuhrer,CH,0,Combined
-2010-01-30,Verena Stuffer,IT,27,Downhill
+2010-01-30,Francesca Marsaglia,IT,0,Combined
+2010-01-30,Pamela Thorburn,GB,0,Combined
+2010-01-30,Alexandra Coletti,MC,0,Combined
+2010-01-30,Ingrid Jacquemod,FR,234,Downhill
 2010-01-30,Nadja Kamer,CH,187,Downhill
+2010-01-30,Britt Janyk,CA,108,Downhill
+2010-01-30,Marine Gauthier,FR,0,Super G
+2010-01-30,Macarena Simari-Birkner,AR,0,Combined
+2010-01-30,Nadia Fanchini,IT,81,Super G
+2010-01-30,Enrica Cipriani,IT,0,Combined
+2010-01-30,Anja Paerson,SE,325,Downhill
+2010-01-30,Mariella Voglreiter,AT,0,Combined
+2010-01-30,Stefanie Koehle,AT,0,Giant Slalom
+2010-01-30,Kaylin L Richardson,US,0,Combined
+2010-01-30,Emily Brydon,CA,195,Downhill
+2010-01-30,Camilla Borsotti,IT,0,Combined
+2010-01-30,Johanna Schnarf,IT,17,Downhill
+2010-01-30,Christina Staudinger,AT,0,Super G
+2010-01-30,Daniela Merighetti,IT,124,Downhill
+2010-01-30,Gina Stechert,DE,68,Downhill
+2010-01-30,Monika Dumermuth,CH,3,Super G
+2010-01-30,Julia Mancuso,US,131,Downhill
+2010-01-30,Elisabeth Goergl,AT,65,Super G
+2010-01-30,Kajsa Kling,SE,6,Downhill
+2010-01-30,Michaela Kirchgasser,AT,0,Giant Slalom
+2010-01-30,Chemmy Alcott,GB,10,Super G
+2010-01-30,Stacey J Cook,US,109,Downhill
+2010-01-30,Kelly Vanderbeek,CA,40,Downhill
+2010-01-30,Jessica Lindell-Vikarby,SE,19,Super G
+2010-01-30,Larisa Yurkiw,CA,22,Downhill
+2010-01-30,Regina Mader Sterz,AT,2,Super G
+2010-01-30,Jeromine Geroudet,FR,0,Downhill
+2010-01-30,Martina Schild,CH,58,Super G
+2010-01-30,Elena Fanchini,IT,70,Downhill
 2010-01-30,Marie Marchand-Arvier,FR,88,Super G
 2010-01-30,Nadia Styger,CH,123,Super G
-2010-01-30,Dana Markova,CZ,0,Combined
-2010-01-30,Helena Prosteva,RU,0,Combined
-2010-01-30,Elisabeth Goergl,AT,65,Super G
-2010-01-30,Lucia Recchia,IT,77,Downhill
-2010-01-30,Julia Mancuso,US,131,Downhill
-2010-01-30,Eva-Maria Brem,AT,0,Giant Slalom
-2010-01-30,Marion Pellissier,FR,0,Combined
-2010-01-30,Leanne Smith,US,37,Downhill
-2010-01-30,Monika Dumermuth,CH,3,Super G
-2010-01-30,Stacey J Cook,US,109,Downhill
-2010-01-30,Johanna Schnarf,IT,17,Downhill
-2010-01-30,Jeromine Geroudet,FR,0,Downhill
-2010-01-30,Elena Fanchini,IT,70,Downhill
-2010-01-30,Larisa Yurkiw,CA,22,Downhill
-2010-01-30,Marion Rolland,FR,176,Downhill
-2010-01-30,Francesca Marsaglia,IT,0,Combined
-2010-01-30,Gina Stechert,DE,68,Downhill
-2010-01-30,Carolina Ruiz Castillo,ES,31,Downhill
-2010-01-30,Marusa Ferk,SK,1,Downhill
-2010-01-30,Martina Schild,CH,58,Super G
-2010-01-30,Clothilde Weyrich,FR,0,Combined
-2010-01-30,Georgia Simmerling,CA,0,Super G
-2010-01-30,Chelsea Marshall,US,50,Downhill
-2010-01-30,Leyre Morlans,ES,0,Combined
-2010-01-30,Mona Loeseth,NO,0,Slalom
-2010-01-30,Klara Krizova,CZ,11,Downhill
-2010-01-30,Emily Brydon,CA,195,Downhill
-2010-01-30,Lindsey Vonn,US,545,Downhill
-2010-01-30,Anja Paerson,SE,325,Downhill
-2010-01-30,Maria Holaus,AT,48,Downhill
-2010-01-30,Lotte Smiseth Sejersted,NO,2,Downhill
-2010-01-30,Margot Bailet,FR,0,Combined
-2010-01-30,Michaela Kirchgasser,AT,0,Giant Slalom
-2010-01-30,Alice Mckennis,US,81,Downhill
-2010-01-30,Chemmy Alcott,GB,10,Super G
-2010-01-30,Kelly Vanderbeek,CA,40,Downhill
 2010-01-30,Anna Veith Fenninger,AT,60,Super G
-2010-01-30,Nadia Fanchini,IT,81,Super G
-2010-01-30,Kajsa Kling,SE,6,Downhill
+2010-01-30,Laurenne Ross,US,3,Downhill
+2010-01-30,Lucia Recchia,IT,77,Downhill
+2010-01-30,Klara Krizova,CZ,11,Downhill
+2010-01-30,Carolina Ruiz Castillo,ES,31,Downhill
+2010-01-30,Andrea Dettling,CH,51,Super G
+2010-01-30,Lotte Smiseth Sejersted,NO,2,Downhill
+2010-01-30,Fraenzi Aufdenblatten,CH,86,Super G
+2010-01-30,Tina Weirather,LI,32,Super G
+2010-01-30,Leanne Smith,US,37,Downhill
+2010-01-30,Rabea Grand,CH,5,Slalom
+2010-01-30,Aurelie Revillet,FR,99,Downhill
+2010-01-30,Andrea Fischbacher,AT,85,Super G
+2010-01-30,Nicole Schmidhofer,AT,0,Super G
+2010-01-30,Wendy Siorpaes,IT,7,Downhill
+2010-01-30,Verena Stuffer,IT,27,Downhill
+2010-01-30,Tina Maze,SK,45,Giant Slalom
+2010-01-30,Shona Rubens,CA,0,Combined
+2010-01-30,Stefanie Moser,AT,0,Combined
+2010-01-30,Viktoria Rebensburg,DE,17,Giant Slalom
+2010-01-30,Maria Holaus,AT,48,Downhill
+2010-01-30,Dominique Gisin,CH,99,Super G
+2010-01-30,Keely Blair Kelleher,US,0,Super G
+2010-01-30,Chelsea Marshall,US,50,Downhill
+2010-01-30,Alice Mckennis,US,81,Downhill
 2010-01-30,Lucia Mazzotti,IT,0,Super G
-2010-03-06,Camilla Borsotti,IT,0,Combined
-2010-03-06,Marion Rolland,FR,176,Downhill
-2010-03-06,Nadia Fanchini,IT,81,Super G
-2010-03-06,Lindsey Vonn,US,645,Downhill
-2010-03-06,Mariella Voglreiter,AT,0,Combined
-2010-03-06,Katharina Duerr,DE,0,Slalom
-2010-03-06,Julia Mancuso,US,131,Downhill
-2010-03-06,Georgia Simmerling,CA,0,Super G
-2010-03-06,Macarena Simari-Birkner,AR,0,Combined
-2010-03-06,Maria Holaus,AT,48,Downhill
-2010-03-06,Viktoria Rebensburg,DE,62,Giant Slalom
-2010-03-06,Maria Belen Simari-Birkner,AR,0,Combined
-2010-03-06,Kaylin L Richardson,US,0,Combined
-2010-03-06,Enrica Cipriani,IT,0,Combined
-2010-03-06,Stefanie Moser,AT,0,Combined
-2010-03-06,Ingrid Jacquemod,FR,247,Downhill
-2010-03-06,Marianne Abderhalden,CH,62,Downhill
-2010-03-06,Johanna Schnarf,IT,97,Downhill
-2010-03-06,Alexandra Coletti,MC,0,Combined
-2010-03-06,Marusa Ferk,SK,51,Downhill
-2010-03-06,Rabea Grand,CH,21,Slalom
-2010-03-06,Michaela Kirchgasser,AT,6,Giant Slalom
-2010-03-06,Daniela Merighetti,IT,150,Downhill
-2010-03-06,Chelsea Marshall,US,61,Downhill
-2010-03-06,Anja Paerson,SE,325,Downhill
-2010-03-06,Jessica Lindell-Vikarby,SE,26,Super G
-2010-03-06,Larisa Yurkiw,CA,22,Downhill
-2010-03-06,Tina Maze,SK,45,Giant Slalom
-2010-03-06,Elena Fanchini,IT,74,Downhill
-2010-03-06,Jeromine Geroudet,FR,0,Downhill
-2010-03-06,Gina Stechert,DE,72,Downhill
-2010-03-06,Francesca Marsaglia,IT,0,Combined
-2010-03-06,Nicole Schmidhofer,AT,8,Super G
-2010-03-06,Kelly Vanderbeek,CA,40,Downhill
-2010-03-06,Marine Gauthier,FR,0,Super G
 2010-03-06,Laurenne Ross,US,13,Downhill
 2010-03-06,Klara Krizova,CZ,11,Downhill
-2010-03-06,Carolina Ruiz Castillo,ES,32,Downhill
-2010-03-06,Martina Schild,CH,58,Super G
-2010-03-06,Lotte Smiseth Sejersted,NO,16,Downhill
-2010-03-06,Lucia Mazzotti,IT,0,Super G
-2010-03-06,Tina Weirather,LI,32,Super G
-2010-03-06,Anna Veith Fenninger,AT,65,Super G
-2010-03-06,Leanne Smith,US,39,Downhill
-2010-03-06,Daniela Ceccarelli,IT,0,Combined
-2010-03-06,Emily Brydon,CA,219,Downhill
-2010-03-06,Alice Mckennis,US,103,Downhill
-2010-03-06,Christina Staudinger,AT,0,Super G
 2010-03-06,Karin Hackl,AT,0,Giant Slalom
-2010-03-06,Marion Pellissier,FR,0,Combined
-2010-03-06,Nadia Styger,CH,132,Super G
-2010-03-06,Lucia Recchia,IT,113,Downhill
+2010-03-06,Anna Veith Fenninger,AT,65,Super G
+2010-03-06,Regina Mader Sterz,AT,34,Super G
+2010-03-06,Johanna Schnarf,IT,97,Downhill
 2010-03-06,Helena Prosteva,RU,0,Combined
-2010-03-06,Kajsa Kling,SE,24,Downhill
+2010-03-06,Dana Markova,CZ,0,Combined
+2010-03-06,Katharina Duerr,DE,0,Slalom
+2010-03-06,Nadia Styger,CH,132,Super G
+2010-03-06,Marion Pellissier,FR,0,Combined
+2010-03-06,Nicole Schmidhofer,AT,8,Super G
+2010-03-06,Tina Maze,SK,45,Giant Slalom
+2010-03-06,Stefanie Moser,AT,0,Combined
+2010-03-06,Emily Brydon,CA,219,Downhill
+2010-03-06,Martina Schild,CH,58,Super G
+2010-03-06,Marusa Ferk,SK,51,Downhill
+2010-03-06,Georgia Simmerling,CA,0,Super G
+2010-03-06,Chelsea Marshall,US,61,Downhill
+2010-03-06,Christina Staudinger,AT,0,Super G
 2010-03-06,Kathrin Fuhrer,CH,0,Combined
-2010-03-06,Marie Marchand-Arvier,FR,104,Super G
+2010-03-06,Maria Belen Simari-Birkner,AR,0,Combined
+2010-03-06,Andrea Fischbacher,AT,97,Super G
+2010-03-06,Verena Stuffer,IT,27,Downhill
+2010-03-06,Rabea Grand,CH,21,Slalom
+2010-03-06,Maria Holaus,AT,48,Downhill
+2010-03-06,Leanne Smith,US,39,Downhill
+2010-03-06,Mariella Voglreiter,AT,0,Combined
+2010-03-06,Macarena Simari-Birkner,AR,0,Combined
+2010-03-06,Daniela Ceccarelli,IT,0,Combined
 2010-03-06,Fraenzi Aufdenblatten,CH,86,Super G
 2010-03-06,Nadja Kamer,CH,216,Downhill
-2010-03-06,Maria Riesch Hoefl,DE,456,Downhill
-2010-03-06,Edith Miklos,RO,0,Super G
-2010-03-06,Isabelle Stiepel,DE,0,Combined
-2010-03-06,Aurelie Revillet,FR,121,Downhill
-2010-03-06,Regina Mader Sterz,AT,34,Super G
-2010-03-06,Wendy Siorpaes,IT,7,Downhill
-2010-03-06,Monika Dumermuth,CH,3,Super G
+2010-03-06,Camilla Borsotti,IT,0,Combined
+2010-03-06,Tina Weirather,LI,32,Super G
+2010-03-06,Andrea Dettling,CH,51,Super G
+2010-03-06,Lotte Smiseth Sejersted,NO,16,Downhill
+2010-03-06,Lucia Recchia,IT,113,Downhill
 2010-03-06,Pamela Thorburn,GB,0,Combined
+2010-03-06,Kaylin L Richardson,US,0,Combined
+2010-03-06,Ingrid Jacquemod,FR,247,Downhill
+2010-03-06,Dominique Gisin,CH,99,Super G
+2010-03-06,Aurelie Revillet,FR,121,Downhill
+2010-03-06,Carolina Ruiz Castillo,ES,32,Downhill
+2010-03-06,Jeromine Geroudet,FR,0,Downhill
+2010-03-06,Shona Rubens,CA,0,Combined
 2010-03-06,Leyre Morlans,ES,0,Combined
-2010-03-06,Andrea Fischbacher,AT,97,Super G
+2010-03-06,Elena Fanchini,IT,74,Downhill
+2010-03-06,Marion Rolland,FR,176,Downhill
+2010-03-06,Michaela Kirchgasser,AT,6,Giant Slalom
+2010-03-06,Gina Stechert,DE,72,Downhill
+2010-03-06,Clothilde Weyrich,FR,0,Combined
 2010-03-06,Keely Blair Kelleher,US,0,Super G
-2010-03-10,Daniela Ceccarelli,IT,0,Combined
-2010-03-10,Enrica Cipriani,IT,0,Combined
-2010-03-10,Lucia Mazzotti,IT,0,Super G
-2010-03-10,Stefanie Koehle,AT,0,Giant Slalom
-2010-03-10,Christina Staudinger,AT,0,Super G
-2010-03-10,Keely Blair Kelleher,US,0,Super G
-2010-03-10,Francesca Marsaglia,IT,0,Combined
-2010-03-10,Georgia Simmerling,CA,0,Super G
-2010-03-10,Marine Gauthier,FR,0,Super G
-2010-03-10,Stefanie Moser,AT,0,Combined
-2010-03-10,Mona Loeseth,NO,0,Slalom
-2010-03-10,Leyre Morlans,ES,0,Combined
-2010-03-10,Margret Altacher,AT,0,Combined
-2010-03-10,Dana Markova,CZ,0,Combined
-2010-03-10,Carolina Ruiz Castillo,ES,32,Downhill
-2010-03-10,Clothilde Weyrich,FR,0,Combined
-2010-03-10,Anna Veith Fenninger,AT,74,Super G
-2010-03-10,Martina Schild,CH,58,Super G
-2010-03-10,Kelly Vanderbeek,CA,40,Downhill
-2010-03-10,Gina Stechert,DE,92,Downhill
-2010-03-10,Elena Fanchini,IT,87,Downhill
-2010-03-10,Tina Maze,SK,67,Giant Slalom
-2010-03-10,Chelsea Marshall,US,61,Downhill
-2010-03-10,Alice Mckennis,US,118,Downhill
-2010-03-10,Nadja Kamer,CH,266,Downhill
-2010-03-10,Stacey J Cook,US,119,Downhill
-2010-03-10,Regina Mader Sterz,AT,34,Super G
-2010-03-10,Aurelie Revillet,FR,147,Downhill
-2010-03-10,Andrea Fischbacher,AT,113,Super G
-2010-03-10,Fraenzi Aufdenblatten,CH,86,Super G
-2010-03-10,Lucia Recchia,IT,124,Downhill
-2010-03-10,Nadia Styger,CH,168,Super G
-2010-03-10,Marie Marchand-Arvier,FR,118,Super G
-2010-03-10,Johanna Schnarf,IT,137,Downhill
-2010-03-10,Fabienne Suter,CH,200,Super G
-2010-03-10,Marianne Abderhalden,CH,62,Downhill
-2010-03-10,Britt Janyk,CA,120,Downhill
-2010-03-10,Nadia Fanchini,IT,81,Super G
-2010-03-10,Marion Rolland,FR,176,Downhill
-2010-03-10,Anja Paerson,SE,385,Downhill
-2010-03-10,Marusa Ferk,SK,51,Downhill
-2010-03-10,Ingrid Jacquemod,FR,271,Downhill
-2010-03-10,Dominique Gisin,CH,117,Super G
-2010-03-10,Viktoria Rebensburg,DE,62,Giant Slalom
-2010-03-10,Julia Mancuso,US,176,Downhill
-2010-03-10,Elisabeth Goergl,AT,65,Super G
-2010-03-10,Daniela Merighetti,IT,179,Downhill
-2010-03-10,Maria Holaus,AT,48,Downhill
-2010-03-10,Andrea Dettling,CH,51,Super G
-2010-03-10,Leanne Smith,US,39,Downhill
-2010-03-10,Alexandra Coletti,MC,0,Combined
-2010-03-10,Karin Hackl,AT,0,Giant Slalom
-2010-03-10,Marion Pellissier,FR,0,Combined
-2010-03-10,Helena Prosteva,RU,0,Combined
-2010-03-10,Kathrin Fuhrer,CH,0,Combined
-2010-03-10,Pamela Thorburn,GB,0,Combined
-2010-03-10,Camilla Borsotti,IT,0,Combined
-2010-03-10,Edith Miklos,RO,0,Super G
-2010-03-10,Macarena Simari-Birkner,AR,0,Combined
-2010-03-10,Maria Belen Simari-Birkner,AR,0,Combined
+2010-03-06,Francesca Marsaglia,IT,0,Combined
+2010-03-06,Elisabeth Goergl,AT,65,Super G
+2010-03-06,Fabienne Suter,CH,164,Super G
+2010-03-06,Enrica Cipriani,IT,0,Combined
+2010-03-06,Lucia Mazzotti,IT,0,Super G
+2010-03-06,Lindsey Vonn,US,645,Downhill
+2010-03-06,Monika Dumermuth,CH,3,Super G
+2010-03-06,Alexandra Coletti,MC,0,Combined
+2010-03-06,Julia Mancuso,US,131,Downhill
+2010-03-06,Britt Janyk,CA,108,Downhill
+2010-03-06,Viktoria Rebensburg,DE,62,Giant Slalom
+2010-03-06,Chemmy Alcott,GB,10,Super G
+2010-03-06,Marine Gauthier,FR,0,Super G
+2010-03-06,Kajsa Kling,SE,24,Downhill
+2010-03-06,Alice Mckennis,US,103,Downhill
+2010-03-06,Stacey J Cook,US,109,Downhill
+2010-03-06,Edith Miklos,RO,0,Super G
+2010-03-06,Marie Marchand-Arvier,FR,104,Super G
+2010-03-06,Margret Altacher,AT,0,Combined
+2010-03-06,Larisa Yurkiw,CA,22,Downhill
+2010-03-06,Stefanie Koehle,AT,0,Giant Slalom
+2010-03-06,Marianne Abderhalden,CH,62,Downhill
+2010-03-06,Wendy Siorpaes,IT,7,Downhill
+2010-03-06,Jessica Lindell-Vikarby,SE,26,Super G
+2010-03-06,Margot Bailet,FR,0,Combined
+2010-03-06,Eva-Maria Brem,AT,0,Giant Slalom
+2010-03-06,Isabelle Stiepel,DE,0,Combined
+2010-03-06,Anja Paerson,SE,325,Downhill
+2010-03-06,Daniela Merighetti,IT,150,Downhill
+2010-03-06,Mona Loeseth,NO,0,Slalom
+2010-03-06,Kelly Vanderbeek,CA,40,Downhill
+2010-03-06,Nadia Fanchini,IT,81,Super G
+2010-03-06,Maria Riesch Hoefl,DE,456,Downhill
 2010-03-10,Mariella Voglreiter,AT,0,Combined
-2010-03-10,Kaylin L Richardson,US,0,Combined
-2010-03-10,Lindsey Vonn,US,725,Downhill
+2010-03-10,Anja Paerson,SE,385,Downhill
+2010-03-10,Eva-Maria Brem,AT,0,Giant Slalom
+2010-03-10,Mona Loeseth,NO,0,Slalom
+2010-03-10,Emily Brydon,CA,219,Downhill
+2010-03-10,Gina Stechert,DE,92,Downhill
+2010-03-10,Kelly Vanderbeek,CA,40,Downhill
+2010-03-10,Martina Schild,CH,58,Super G
 2010-03-10,Katharina Duerr,DE,0,Slalom
 2010-03-10,Margot Bailet,FR,0,Combined
+2010-03-10,Anna Veith Fenninger,AT,74,Super G
+2010-03-10,Regina Mader Sterz,AT,34,Super G
+2010-03-10,Elena Fanchini,IT,87,Downhill
+2010-03-10,Clothilde Weyrich,FR,0,Combined
+2010-03-10,Kaylin L Richardson,US,0,Combined
+2010-03-10,Aurelie Revillet,FR,147,Downhill
+2010-03-10,Stacey J Cook,US,119,Downhill
+2010-03-10,Tina Maze,SK,67,Giant Slalom
+2010-03-10,Chelsea Marshall,US,61,Downhill
 2010-03-10,Maria Riesch Hoefl,DE,556,Downhill
-2010-03-10,Eva-Maria Brem,AT,0,Giant Slalom
-2010-03-10,Isabelle Stiepel,DE,0,Combined
-2010-03-10,Monika Dumermuth,CH,3,Super G
-2010-03-10,Verena Stuffer,IT,27,Downhill
-2010-03-10,Rabea Grand,CH,21,Slalom
-2010-03-10,Tina Weirather,LI,32,Super G
-2010-03-10,Emily Brydon,CA,219,Downhill
-2010-03-10,Lotte Smiseth Sejersted,NO,16,Downhill
+2010-03-10,Alice Mckennis,US,118,Downhill
+2010-03-10,Andrea Dettling,CH,51,Super G
+2010-03-10,Lindsey Vonn,US,725,Downhill
 2010-03-10,Klara Krizova,CZ,11,Downhill
-2010-03-10,Wendy Siorpaes,IT,7,Downhill
-2010-03-10,Laurenne Ross,US,13,Downhill
-2010-03-10,Jeromine Geroudet,FR,8,Downhill
-2010-03-10,Larisa Yurkiw,CA,22,Downhill
-2010-03-10,Jessica Lindell-Vikarby,SE,26,Super G
+2010-03-10,Maria Belen Simari-Birkner,AR,0,Combined
+2010-03-10,Leyre Morlans,ES,0,Combined
 2010-03-10,Chemmy Alcott,GB,10,Super G
+2010-03-10,Britt Janyk,CA,120,Downhill
+2010-03-10,Elisabeth Goergl,AT,65,Super G
+2010-03-10,Francesca Marsaglia,IT,0,Combined
 2010-03-10,Michaela Kirchgasser,AT,6,Giant Slalom
 2010-03-10,Kajsa Kling,SE,24,Downhill
-2010-03-10,Nicole Schmidhofer,AT,8,Super G
+2010-03-10,Marine Gauthier,FR,0,Super G
+2010-03-10,Enrica Cipriani,IT,0,Combined
+2010-03-10,Monika Dumermuth,CH,3,Super G
+2010-03-10,Julia Mancuso,US,176,Downhill
+2010-03-10,Nadia Fanchini,IT,81,Super G
+2010-03-10,Stefanie Koehle,AT,0,Giant Slalom
+2010-03-10,Wendy Siorpaes,IT,7,Downhill
+2010-03-10,Viktoria Rebensburg,DE,62,Giant Slalom
+2010-03-10,Keely Blair Kelleher,US,0,Super G
+2010-03-10,Alexandra Coletti,MC,0,Combined
+2010-03-10,Marion Rolland,FR,176,Downhill
+2010-03-10,Lucia Mazzotti,IT,0,Super G
+2010-03-10,Margret Altacher,AT,0,Combined
+2010-03-10,Dominique Gisin,CH,117,Super G
+2010-03-10,Stefanie Moser,AT,0,Combined
+2010-03-10,Georgia Simmerling,CA,0,Super G
+2010-03-10,Christina Staudinger,AT,0,Super G
+2010-03-10,Marusa Ferk,SK,51,Downhill
+2010-03-10,Maria Holaus,AT,48,Downhill
+2010-03-10,Daniela Ceccarelli,IT,0,Combined
+2010-03-10,Marianne Abderhalden,CH,62,Downhill
+2010-03-10,Leanne Smith,US,39,Downhill
+2010-03-10,Daniela Merighetti,IT,179,Downhill
+2010-03-10,Isabelle Stiepel,DE,0,Combined
+2010-03-10,Verena Stuffer,IT,27,Downhill
+2010-03-10,Nadja Kamer,CH,266,Downhill
+2010-03-10,Macarena Simari-Birkner,AR,0,Combined
+2010-03-10,Andrea Fischbacher,AT,113,Super G
+2010-03-10,Rabea Grand,CH,21,Slalom
+2010-03-10,Fraenzi Aufdenblatten,CH,86,Super G
+2010-03-10,Camilla Borsotti,IT,0,Combined
+2010-03-10,Tina Weirather,LI,32,Super G
+2010-03-10,Pamela Thorburn,GB,0,Combined
+2010-03-10,Lotte Smiseth Sejersted,NO,16,Downhill
+2010-03-10,Lucia Recchia,IT,124,Downhill
+2010-03-10,Carolina Ruiz Castillo,ES,32,Downhill
+2010-03-10,Ingrid Jacquemod,FR,271,Downhill
+2010-03-10,Kathrin Fuhrer,CH,0,Combined
+2010-03-10,Johanna Schnarf,IT,137,Downhill
+2010-03-10,Helena Prosteva,RU,0,Combined
 2010-03-10,Shona Rubens,CA,0,Combined
+2010-03-10,Nadia Styger,CH,168,Super G
+2010-03-10,Marion Pellissier,FR,0,Combined
+2010-03-10,Laurenne Ross,US,13,Downhill
+2010-03-10,Nicole Schmidhofer,AT,8,Super G
+2010-03-10,Jeromine Geroudet,FR,8,Downhill
+2010-03-10,Karin Hackl,AT,0,Giant Slalom
+2010-03-10,Marie Marchand-Arvier,FR,118,Super G
+2010-03-10,Fabienne Suter,CH,200,Super G
+2010-03-10,Edith Miklos,RO,0,Super G
+2010-03-10,Larisa Yurkiw,CA,22,Downhill
+2010-03-10,Jessica Lindell-Vikarby,SE,26,Super G
+2010-03-10,Dana Markova,CZ,0,Combined

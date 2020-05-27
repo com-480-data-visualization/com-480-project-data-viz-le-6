@@ -6,7 +6,7 @@ date,name,ath_country,value,specialty
 1986-02-03,Anton Steiner,AT,0,Downhill
 1986-02-03,Richard Pramotton,IT,0,Giant Slalom
 1986-02-03,Leonhard Stock,AT,9,Downhill
-1986-02-03,Andreas Wenzel,LI,0,Combined
+1986-02-03,Andreas Wenzel,LI,0,Slalom
 1986-02-03,Josef Schick,DE,8,Slalom
 1986-02-03,Martin Hangl,CH,6,Super G
 1986-02-03,Peter Roth,DE,0,Super G
@@ -21,35 +21,35 @@ date,name,ath_country,value,specialty
 1986-02-03,Robert Erlacher,IT,0,Giant Slalom
 1986-02-03,Daniel Mahrer,CH,0,Downhill
 1986-02-03,Hubert Strolz,AT,7,Giant Slalom
-1986-02-03,Frank Piccard,FR,3,Combined
-1986-02-03,Guido Hinterseer,AT,0,Super G
-1986-02-03,Konrad Walk,AT,1,Super G
-1986-02-03,Guenther Marxer,LI,0,Super G
+1986-02-03,Sepp Wildgruber,DE,4,Downhill
 1986-02-03,Stefan Niederseer,AT,3,Downhill
-1986-02-03,Ivan Marzola,IT,0,Combined
+1986-02-03,Konrad Walk,AT,1,Super G
+1986-02-03,Guido Hinterseer,AT,0,Super G
+1986-02-03,Frank Piccard,FR,3,Downhill
+1986-02-03,Ivan Marzola,IT,0,Downhill
+1986-02-03,Guenther Marxer,LI,0,Super G
 1986-02-03,Markus Wasmeier,DE,15,Super G
 1986-02-03,Pirmin Zurbriggen,CH,20,Slalom
-1986-02-03,Sepp Wildgruber,DE,4,Downhill
 1986-02-03,Heinz Holzer,IT,0,Super G
 1986-02-03,Marc Girardelli,LU,0,Downhill
-1986-02-04,Michael Eder,DE,11,Super G
+1986-02-04,Ivan Marzola,IT,0,Downhill
+1986-02-04,Karl Alpiger,CH,20,Downhill
 1986-02-04,Konrad Walk,AT,1,Super G
 1986-02-04,Michael Mair,IT,10,Downhill
-1986-02-04,Karl Alpiger,CH,20,Downhill
 1986-02-04,Heinz Holzer,IT,0,Super G
 1986-02-04,Hans Stuffer,DE,0,Giant Slalom
+1986-02-04,Frank Piccard,FR,5,Downhill
+1986-02-04,Michael Eder,DE,11,Super G
 1986-02-04,Stefan Niederseer,AT,3,Downhill
-1986-02-04,Ivan Marzola,IT,0,Combined
-1986-02-04,Guido Hinterseer,AT,0,Super G
 1986-02-04,Daniel Mahrer,CH,0,Downhill
 1986-02-04,Josef Schick,DE,16,Slalom
-1986-02-04,Andreas Wenzel,LI,0,Combined
-1986-02-04,Guenther Marxer,LI,4,Super G
+1986-02-04,Guido Hinterseer,AT,0,Super G
+1986-02-04,Andreas Wenzel,LI,0,Slalom
 1986-02-04,Richard Pramotton,IT,0,Giant Slalom
-1986-02-04,Sepp Wildgruber,DE,4,Downhill
 1986-02-04,Anton Steiner,AT,0,Downhill
+1986-02-04,Guenther Marxer,LI,4,Super G
 1986-02-04,Thomas Buergler,CH,0,Slalom
-1986-02-04,Frank Piccard,FR,5,Combined
+1986-02-04,Sepp Wildgruber,DE,4,Downhill
 1986-02-04,Gerhard Pfaffenbichler,AT,5,Downhill
 1986-02-04,Robert Erlacher,IT,0,Giant Slalom
 1986-02-04,Hans Enn,AT,6,Super G
@@ -62,84 +62,84 @@ date,name,ath_country,value,specialty
 1986-02-04,Hubert Strolz,AT,14,Giant Slalom
 1986-02-04,Markus Wasmeier,DE,35,Super G
 1986-02-04,Leonhard Stock,AT,20,Downhill
-1986-02-04,Pirmin Zurbriggen,CH,25,Slalom
 1986-02-04,Franz Heinzer,CH,24,Downhill
 1986-02-04,Herbert Renoth,DE,0,Super G
-1986-02-09,Andreas Wenzel,LI,0,Combined
+1986-02-04,Pirmin Zurbriggen,CH,25,Slalom
+1986-02-09,Konrad Walk,AT,1,Super G
+1986-02-09,Andreas Wenzel,LI,0,Slalom
 1986-02-09,Marc Girardelli,LU,45,Downhill
 1986-02-09,Richard Pramotton,IT,6,Giant Slalom
 1986-02-09,Josef Schick,DE,16,Slalom
 1986-02-09,Peter Roth,DE,4,Super G
-1986-02-09,Konrad Walk,AT,1,Super G
-1986-02-09,Heinz Holzer,IT,2,Super G
+1986-02-09,Leonhard Stock,AT,28,Downhill
 1986-02-09,Hubert Strolz,AT,29,Giant Slalom
-1986-02-09,Stefan Niederseer,AT,3,Downhill
+1986-02-09,Frank Piccard,FR,5,Downhill
 1986-02-09,Thomas Buergler,CH,0,Slalom
 1986-02-09,Gerhard Pfaffenbichler,AT,5,Downhill
 1986-02-09,Martin Hangl,CH,14,Super G
 1986-02-09,Daniel Mahrer,CH,0,Downhill
-1986-02-09,Guido Hinterseer,AT,0,Super G
-1986-02-09,Markus Wasmeier,DE,60,Super G
-1986-02-09,Frank Piccard,FR,5,Combined
-1986-02-09,Pirmin Zurbriggen,CH,35,Slalom
+1986-02-09,Stefan Niederseer,AT,3,Downhill
 1986-02-09,Sepp Wildgruber,DE,4,Downhill
+1986-02-09,Markus Wasmeier,DE,60,Super G
+1986-02-09,Pirmin Zurbriggen,CH,35,Slalom
+1986-02-09,Guenther Marxer,LI,4,Super G
 1986-02-09,Anton Steiner,AT,0,Downhill
 1986-02-09,Robert Erlacher,IT,3,Giant Slalom
-1986-02-09,Leonhard Stock,AT,28,Downhill
+1986-02-09,Heinz Holzer,IT,2,Super G
 1986-02-09,Guenther Mader,AT,16,Slalom
 1986-02-09,Hans Enn,AT,17,Super G
 1986-02-09,Herbert Renoth,DE,0,Super G
 1986-02-09,Karl Alpiger,CH,20,Downhill
 1986-02-09,Peter Mueller,CH,40,Downhill
 1986-02-09,Michael Eder,DE,16,Super G
-1986-02-09,Ivan Marzola,IT,2,Combined
+1986-02-09,Ivan Marzola,IT,2,Downhill
 1986-02-09,Michael Mair,IT,10,Downhill
 1986-02-09,Hans Stuffer,DE,9,Giant Slalom
-1986-02-09,Guenther Marxer,LI,4,Super G
+1986-02-09,Guido Hinterseer,AT,0,Super G
 1986-02-09,Alberto Tomba,IT,0,Giant Slalom
 1986-02-09,Franz Heinzer,CH,24,Downhill
 1986-02-28,Franz Heinzer,CH,24,Downhill
 1986-02-28,Gerhard Pfaffenbichler,AT,5,Downhill
 1986-02-28,Daniel Mahrer,CH,5,Downhill
 1986-02-28,Heinz Holzer,IT,2,Super G
-1986-02-28,Guido Hinterseer,AT,0,Super G
 1986-02-28,Karl Alpiger,CH,20,Downhill
+1986-02-28,Stefan Niederseer,AT,3,Downhill
 1986-02-28,Guenther Mader,AT,18,Slalom
 1986-02-28,Herbert Renoth,DE,12,Super G
-1986-02-28,Frank Piccard,FR,5,Combined
+1986-02-28,Hans Enn,AT,17,Super G
 1986-02-28,Alberto Tomba,IT,0,Giant Slalom
+1986-02-28,Guenther Marxer,LI,8,Super G
 1986-02-28,Pirmin Zurbriggen,CH,60,Slalom
 1986-02-28,Peter Roth,DE,4,Super G
-1986-02-28,Sepp Wildgruber,DE,4,Downhill
+1986-02-28,Guido Hinterseer,AT,0,Super G
 1986-02-28,Markus Wasmeier,DE,80,Super G
-1986-02-28,Guenther Marxer,LI,8,Super G
-1986-02-28,Hans Enn,AT,17,Super G
-1986-02-28,Ivan Marzola,IT,3,Combined
+1986-02-28,Sepp Wildgruber,DE,4,Downhill
+1986-02-28,Ivan Marzola,IT,3,Downhill
 1986-02-28,Konrad Walk,AT,1,Super G
 1986-02-28,Thomas Buergler,CH,0,Slalom
 1986-02-28,Peter Mueller,CH,40,Downhill
-1986-02-28,Andreas Wenzel,LI,8,Combined
+1986-02-28,Andreas Wenzel,LI,8,Slalom
 1986-02-28,Richard Pramotton,IT,13,Giant Slalom
 1986-02-28,Hans Stuffer,DE,19,Giant Slalom
 1986-02-28,Leonhard Stock,AT,43,Downhill
-1986-02-28,Martin Hangl,CH,14,Super G
-1986-02-28,Stefan Niederseer,AT,3,Downhill
-1986-02-28,Anton Steiner,AT,6,Downhill
-1986-02-28,Michael Mair,IT,10,Downhill
 1986-02-28,Marc Girardelli,LU,56,Downhill
+1986-02-28,Anton Steiner,AT,6,Downhill
+1986-02-28,Martin Hangl,CH,14,Super G
+1986-02-28,Robert Erlacher,IT,12,Giant Slalom
+1986-02-28,Michael Mair,IT,10,Downhill
+1986-02-28,Frank Piccard,FR,5,Downhill
 1986-02-28,Josef Schick,DE,16,Slalom
 1986-02-28,Michael Eder,DE,19,Super G
 1986-02-28,Hubert Strolz,AT,29,Giant Slalom
-1986-02-28,Robert Erlacher,IT,12,Giant Slalom
 1986-03-16,Peter Mueller,CH,40,Downhill
 1986-03-16,Stefan Niederseer,AT,3,Downhill
-1986-03-16,Markus Wasmeier,DE,105,Super G
-1986-03-16,Ivan Marzola,IT,3,Combined
+1986-03-16,Ivan Marzola,IT,3,Downhill
 1986-03-16,Konrad Walk,AT,1,Super G
-1986-03-16,Guido Hinterseer,AT,4,Super G
+1986-03-16,Markus Wasmeier,DE,105,Super G
 1986-03-16,Marc Girardelli,LU,56,Downhill
+1986-03-16,Frank Piccard,FR,5,Downhill
 1986-03-16,Hans Enn,AT,29,Super G
-1986-03-16,Sepp Wildgruber,DE,4,Downhill
+1986-03-16,Guenther Marxer,LI,8,Super G
 1986-03-16,Karl Alpiger,CH,20,Downhill
 1986-03-16,Guenther Mader,AT,22,Slalom
 1986-03-16,Michael Eder,DE,30,Super G
@@ -150,9 +150,9 @@ date,name,ath_country,value,specialty
 1986-03-16,Heinz Holzer,IT,2,Super G
 1986-03-16,Robert Erlacher,IT,21,Giant Slalom
 1986-03-16,Peter Roth,DE,19,Super G
-1986-03-16,Guenther Marxer,LI,8,Super G
+1986-03-16,Guido Hinterseer,AT,4,Super G
 1986-03-16,Josef Schick,DE,16,Slalom
-1986-03-16,Andreas Wenzel,LI,8,Combined
+1986-03-16,Andreas Wenzel,LI,8,Slalom
 1986-03-16,Richard Pramotton,IT,13,Giant Slalom
 1986-03-16,Hubert Strolz,AT,29,Giant Slalom
 1986-03-16,Herbert Renoth,DE,14,Super G
@@ -160,7 +160,7 @@ date,name,ath_country,value,specialty
 1986-03-16,Gerhard Pfaffenbichler,AT,5,Downhill
 1986-03-16,Martin Hangl,CH,34,Super G
 1986-03-16,Daniel Mahrer,CH,5,Downhill
-1986-03-16,Frank Piccard,FR,10,Combined
-1986-03-16,Pirmin Zurbriggen,CH,67,Slalom
-1986-03-16,Leonhard Stock,AT,52,Downhill
+1986-03-16,Pirmin Zurbriggen,CH,60,Slalom
+1986-03-16,Sepp Wildgruber,DE,4,Downhill
+1986-03-16,Leonhard Stock,AT,43,Downhill
 1986-03-16,Anton Steiner,AT,6,Downhill

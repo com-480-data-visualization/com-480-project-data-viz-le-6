@@ -1,231 +1,176 @@
 date,name,ath_country,value,specialty
-1983-12-10,Franz Heinzer,CH,25,Downhill
-1983-12-10,Urs Raeber,CH,9,Downhill
-1983-12-10,Silvano Meli,CH,0,Downhill
-1983-12-10,Joze Kuralt,SK,0,Slalom
-1983-12-10,Bojan Krizaj,SK,0,Slalom
-1983-12-10,Peter Duerr,DE,3,Downhill
-1983-12-10,Ivan Marzola,IT,11,Combined
-1983-12-10,Helmut Hoeflehner,AT,0,Downhill
-1983-12-10,Guido Hinterseer,AT,0,Giant Slalom
-1983-12-10,Miroslav Kolar,SK,0,Combined
-1983-12-10,Franz Gruber,AT,0,Slalom
-1983-12-10,Chris Kent,CA,2,Combined
 1983-12-10,Bruno Kernen I,CH,12,Downhill
-1983-12-10,Peter Mueller,CH,0,Downhill
-1983-12-10,Phil Mahre,US,0,Slalom
-1983-12-10,Tomaz Cerkovnik,SK,0,Slalom
+1983-12-10,Urs Raeber,CH,9,Downhill
+1983-12-10,Bernd Felbinger,DE,1,Combined
+1983-12-10,Philip Verneret,FR,7,Combined
+1983-12-10,Mike Brown,US,0,Combined
 1983-12-10,Mitko Hadiev,BG,0,Combined
+1983-12-10,Helmut Hoeflehner,AT,0,Downhill
+1983-12-10,Chris Kent,CA,2,Combined
+1983-12-10,Anton Steiner,AT,0,Downhill
+1983-12-10,Peter Duerr,DE,3,Downhill
+1983-12-10,Joze Kuralt,SK,0,Slalom
+1983-12-10,Hubertus von Hohenlohe,MX,0,Combined
 1983-12-10,Klaus Gattermann,DE,4,Downhill
-1983-12-10,Peter Soltys,SK,0,Combined
 1983-12-10,Markus Wasmeier,DE,0,Super G
+1983-12-10,Frederic Ancey,FR,8,Combined
+1983-12-10,Peter Soltys,SK,0,Combined
 1983-12-10,Oskar Delago,IT,6,Combined
 1983-12-10,Daniel Mahrer,CH,0,Combined
-1983-12-10,Marc Girardelli,LU,5,Slalom
-1983-12-10,Jure Franko,SK,0,Giant Slalom
-1983-12-10,Philip Verneret,FR,7,Combined
-1983-12-10,Martin Hangl,CH,0,Super G
-1983-12-10,Shinya Chiba,JP,0,Combined
 1983-12-10,Robert Erlacher,IT,0,Giant Slalom
-1983-12-10,Frederic Ancey,FR,8,Combined
-1983-12-10,Andreas Voelgyesi,HU,0,Combined
-1983-12-10,Hubertus von Hohenlohe,MX,0,Combined
-1983-12-10,Stefan Niederseer,AT,0,Downhill
-1983-12-10,Peter Roth,DE,0,Super G
-1983-12-10,Petar Popangelov,BG,0,Slalom
-1983-12-10,Peter Luescher,CH,0,Combined
-1983-12-10,Guenther Mader,AT,0,Super G
-1983-12-10,Mike Brown,US,0,Combined
-1983-12-10,Bernd Felbinger,DE,1,Combined
-1983-12-10,Anton Steiner,AT,0,Downhill
-1983-12-10,Thomas Buergler,CH,0,Giant Slalom
-1983-12-10,Andreas Wenzel,LI,10,Combined
-1983-12-10,Herbert Renoth,DE,0,Downhill
-1983-12-10,Alex Giorgi,IT,0,Giant Slalom
+1983-12-10,Jure Franko,SK,0,Giant Slalom
 1983-12-10,Boris Strel,SK,0,Giant Slalom
-1983-12-10,Leonhard Stock,AT,15,Super G
-1983-12-10,Pirmin Zurbriggen,CH,20,Giant Slalom
+1983-12-10,Silvano Meli,CH,0,Downhill
+1983-12-10,Shinya Chiba,JP,0,Combined
+1983-12-10,Andreas Voelgyesi,HU,0,Combined
+1983-12-10,Andreas Wenzel,LI,0,Slalom
+1983-12-10,Miroslav Kolar,SK,0,Combined
+1983-12-10,Thomas Buergler,CH,0,Giant Slalom
+1983-12-10,Herbert Renoth,DE,0,Downhill
+1983-12-10,Martin Hangl,CH,0,Super G
+1983-12-10,Peter Roth,DE,0,Super G
+1983-12-10,Ivan Marzola,IT,11,Combined
+1983-12-10,Peter Luescher,CH,0,Combined
+1983-12-10,Guido Hinterseer,AT,0,Giant Slalom
+1983-12-10,Stefan Niederseer,AT,0,Downhill
+1983-12-10,Pirmin Zurbriggen,CH,0,Giant Slalom
 1983-12-20,Andreas Voelgyesi,HU,0,Combined
-1983-12-20,Boris Strel,SK,1,Giant Slalom
-1983-12-20,Peter Duerr,DE,3,Downhill
-1983-12-20,Guenther Mader,AT,11,Super G
-1983-12-20,Peter Soltys,SK,0,Combined
-1983-12-20,Shinya Chiba,JP,0,Combined
-1983-12-20,Petar Popangelov,BG,5,Slalom
-1983-12-20,Peter Roth,DE,0,Super G
-1983-12-20,Anton Steiner,AT,9,Downhill
-1983-12-20,Martin Hangl,CH,10,Super G
-1983-12-20,Bernd Felbinger,DE,1,Combined
-1983-12-20,Silvano Meli,CH,0,Downhill
-1983-12-20,Joze Kuralt,SK,4,Slalom
-1983-12-20,Robert Erlacher,IT,8,Giant Slalom
-1983-12-20,Philip Verneret,FR,7,Combined
-1983-12-20,Klaus Gattermann,DE,4,Downhill
-1983-12-20,Pirmin Zurbriggen,CH,20,Giant Slalom
-1983-12-20,Helmut Hoeflehner,AT,0,Downhill
-1983-12-20,Frederic Ancey,FR,8,Combined
-1983-12-20,Hubertus von Hohenlohe,MX,0,Combined
-1983-12-20,Thomas Buergler,CH,20,Giant Slalom
-1983-12-20,Urs Raeber,CH,9,Downhill
-1983-12-20,Ivan Marzola,IT,11,Combined
-1983-12-20,Chris Kent,CA,2,Combined
-1983-12-20,Peter Luescher,CH,0,Combined
-1983-12-20,Bojan Krizaj,SK,6,Slalom
 1983-12-20,Herbert Renoth,DE,0,Downhill
-1983-12-20,Mike Brown,US,0,Combined
-1983-12-20,Phil Mahre,US,0,Slalom
-1983-12-20,Oskar Delago,IT,6,Combined
-1983-12-20,Mitko Hadiev,BG,2,Combined
-1983-12-20,Franz Heinzer,CH,25,Downhill
-1983-12-20,Peter Mueller,CH,0,Downhill
-1983-12-20,Markus Wasmeier,DE,0,Super G
-1983-12-20,Alex Giorgi,IT,15,Giant Slalom
-1983-12-20,Guido Hinterseer,AT,0,Giant Slalom
-1983-12-20,Bruno Kernen I,CH,12,Downhill
-1983-12-20,Daniel Mahrer,CH,0,Combined
+1983-12-20,Peter Soltys,SK,0,Combined
 1983-12-20,Stefan Niederseer,AT,0,Downhill
-1983-12-20,Miroslav Kolar,SK,0,Combined
-1983-12-20,Franz Gruber,AT,12,Slalom
-1983-12-20,Tomaz Cerkovnik,SK,3,Slalom
-1983-12-20,Leonhard Stock,AT,15,Super G
-1983-12-20,Andreas Wenzel,LI,35,Combined
+1983-12-20,Peter Roth,DE,0,Super G
 1983-12-20,Jure Franko,SK,7,Giant Slalom
-1983-12-20,Marc Girardelli,LU,5,Slalom
-1984-01-17,Marc Girardelli,LU,5,Slalom
-1984-01-17,Andreas Wenzel,LI,60,Combined
+1983-12-20,Philip Verneret,FR,7,Combined
+1983-12-20,Oskar Delago,IT,6,Combined
+1983-12-20,Daniel Mahrer,CH,0,Combined
+1983-12-20,Joze Kuralt,SK,4,Slalom
+1983-12-20,Klaus Gattermann,DE,4,Downhill
+1983-12-20,Pirmin Zurbriggen,CH,0,Giant Slalom
+1983-12-20,Peter Duerr,DE,3,Downhill
+1983-12-20,Peter Luescher,CH,0,Combined
+1983-12-20,Chris Kent,CA,2,Combined
+1983-12-20,Mitko Hadiev,BG,2,Combined
+1983-12-20,Martin Hangl,CH,10,Super G
+1983-12-20,Thomas Buergler,CH,20,Giant Slalom
+1983-12-20,Bernd Felbinger,DE,1,Combined
+1983-12-20,Boris Strel,SK,1,Giant Slalom
+1983-12-20,Andreas Wenzel,LI,0,Slalom
+1983-12-20,Mike Brown,US,0,Combined
+1983-12-20,Markus Wasmeier,DE,0,Super G
+1983-12-20,Anton Steiner,AT,9,Downhill
+1983-12-20,Bruno Kernen I,CH,12,Downhill
+1983-12-20,Hubertus von Hohenlohe,MX,0,Combined
+1983-12-20,Frederic Ancey,FR,8,Combined
+1983-12-20,Miroslav Kolar,SK,0,Combined
+1983-12-20,Helmut Hoeflehner,AT,0,Downhill
+1983-12-20,Silvano Meli,CH,0,Downhill
+1983-12-20,Guido Hinterseer,AT,0,Giant Slalom
+1983-12-20,Shinya Chiba,JP,0,Combined
+1983-12-20,Urs Raeber,CH,9,Downhill
+1983-12-20,Robert Erlacher,IT,8,Giant Slalom
+1983-12-20,Ivan Marzola,IT,11,Combined
+1984-01-17,Shinya Chiba,JP,0,Combined
+1984-01-17,Bernd Felbinger,DE,1,Combined
+1984-01-17,Mike Brown,US,0,Combined
+1984-01-17,Mitko Hadiev,BG,2,Combined
+1984-01-17,Helmut Hoeflehner,AT,0,Downhill
+1984-01-17,Peter Duerr,DE,3,Downhill
+1984-01-17,Chris Kent,CA,2,Combined
+1984-01-17,Boris Strel,SK,1,Giant Slalom
+1984-01-17,Thomas Buergler,CH,20,Giant Slalom
+1984-01-17,Herbert Renoth,DE,0,Downhill
+1984-01-17,Joze Kuralt,SK,4,Slalom
+1984-01-17,Ivan Marzola,IT,11,Combined
+1984-01-17,Martin Hangl,CH,10,Super G
+1984-01-17,Guido Hinterseer,AT,0,Giant Slalom
+1984-01-17,Peter Luescher,CH,15,Combined
+1984-01-17,Pirmin Zurbriggen,CH,0,Giant Slalom
+1984-01-17,Andreas Wenzel,LI,0,Slalom
+1984-01-17,Miroslav Kolar,SK,12,Combined
+1984-01-17,Andreas Voelgyesi,HU,0,Combined
+1984-01-17,Bruno Kernen I,CH,12,Downhill
+1984-01-17,Stefan Niederseer,AT,0,Downhill
+1984-01-17,Peter Roth,DE,0,Super G
+1984-01-17,Silvano Meli,CH,11,Downhill
+1984-01-17,Anton Steiner,AT,29,Downhill
+1984-01-17,Urs Raeber,CH,9,Downhill
+1984-01-17,Klaus Gattermann,DE,4,Downhill
+1984-01-17,Jure Franko,SK,7,Giant Slalom
 1984-01-17,Hubertus von Hohenlohe,MX,9,Combined
 1984-01-17,Oskar Delago,IT,6,Combined
-1984-01-17,Shinya Chiba,JP,0,Combined
-1984-01-17,Anton Steiner,AT,29,Downhill
-1984-01-17,Robert Erlacher,IT,8,Giant Slalom
-1984-01-17,Franz Heinzer,CH,25,Downhill
-1984-01-17,Jure Franko,SK,7,Giant Slalom
-1984-01-17,Daniel Mahrer,CH,0,Combined
-1984-01-17,Petar Popangelov,BG,5,Slalom
 1984-01-17,Frederic Ancey,FR,8,Combined
-1984-01-17,Markus Wasmeier,DE,0,Super G
-1984-01-17,Boris Strel,SK,1,Giant Slalom
-1984-01-17,Herbert Renoth,DE,0,Downhill
 1984-01-17,Philip Verneret,FR,7,Combined
-1984-01-17,Bernd Felbinger,DE,1,Combined
-1984-01-17,Andreas Voelgyesi,HU,0,Combined
-1984-01-17,Stefan Niederseer,AT,0,Downhill
-1984-01-17,Guido Hinterseer,AT,0,Giant Slalom
-1984-01-17,Peter Duerr,DE,3,Downhill
-1984-01-17,Leonhard Stock,AT,15,Super G
-1984-01-17,Miroslav Kolar,SK,12,Combined
-1984-01-17,Tomaz Cerkovnik,SK,3,Slalom
-1984-01-17,Thomas Buergler,CH,20,Giant Slalom
-1984-01-17,Franz Gruber,AT,12,Slalom
-1984-01-17,Bruno Kernen I,CH,12,Downhill
-1984-01-17,Chris Kent,CA,2,Combined
-1984-01-17,Peter Mueller,CH,0,Downhill
-1984-01-17,Phil Mahre,US,0,Slalom
-1984-01-17,Alex Giorgi,IT,15,Giant Slalom
-1984-01-17,Mitko Hadiev,BG,2,Combined
-1984-01-17,Mike Brown,US,0,Combined
-1984-01-17,Guenther Mader,AT,11,Super G
-1984-01-17,Ivan Marzola,IT,11,Combined
-1984-01-17,Bojan Krizaj,SK,6,Slalom
-1984-01-17,Joze Kuralt,SK,4,Slalom
-1984-01-17,Silvano Meli,CH,11,Downhill
-1984-01-17,Pirmin Zurbriggen,CH,20,Giant Slalom
-1984-01-17,Klaus Gattermann,DE,4,Downhill
 1984-01-17,Peter Soltys,SK,10,Combined
-1984-01-17,Peter Roth,DE,0,Super G
-1984-01-17,Urs Raeber,CH,9,Downhill
-1984-01-17,Martin Hangl,CH,10,Super G
-1984-01-17,Helmut Hoeflehner,AT,0,Downhill
-1984-01-17,Peter Luescher,CH,15,Combined
-1984-01-22,Mitko Hadiev,BG,2,Combined
-1984-01-22,Bojan Krizaj,SK,6,Slalom
-1984-01-22,Bernd Felbinger,DE,1,Combined
-1984-01-22,Chris Kent,CA,2,Combined
-1984-01-22,Peter Roth,DE,0,Super G
-1984-01-22,Joze Kuralt,SK,4,Slalom
-1984-01-22,Boris Strel,SK,1,Giant Slalom
-1984-01-22,Tomaz Cerkovnik,SK,3,Slalom
-1984-01-22,Andreas Voelgyesi,HU,5,Combined
-1984-01-22,Petar Popangelov,BG,5,Slalom
-1984-01-22,Peter Duerr,DE,3,Downhill
-1984-01-22,Klaus Gattermann,DE,4,Downhill
-1984-01-22,Marc Girardelli,LU,5,Slalom
-1984-01-22,Mike Brown,US,0,Combined
-1984-01-22,Markus Wasmeier,DE,0,Super G
-1984-01-22,Herbert Renoth,DE,0,Downhill
-1984-01-22,Ivan Marzola,IT,11,Combined
-1984-01-22,Franz Gruber,AT,12,Slalom
-1984-01-22,Peter Soltys,SK,16,Combined
-1984-01-22,Leonhard Stock,AT,15,Super G
-1984-01-22,Martin Hangl,CH,10,Super G
-1984-01-22,Helmut Hoeflehner,AT,0,Downhill
-1984-01-22,Alex Giorgi,IT,15,Giant Slalom
-1984-01-22,Pirmin Zurbriggen,CH,40,Giant Slalom
-1984-01-22,Urs Raeber,CH,20,Downhill
-1984-01-22,Guenther Mader,AT,11,Super G
-1984-01-22,Peter Luescher,CH,15,Combined
-1984-01-22,Phil Mahre,US,15,Slalom
-1984-01-22,Guido Hinterseer,AT,12,Giant Slalom
-1984-01-22,Miroslav Kolar,SK,12,Combined
-1984-01-22,Peter Mueller,CH,0,Downhill
-1984-01-22,Silvano Meli,CH,20,Downhill
-1984-01-22,Stefan Niederseer,AT,0,Downhill
+1984-01-17,Daniel Mahrer,CH,0,Combined
+1984-01-17,Markus Wasmeier,DE,0,Super G
+1984-01-17,Robert Erlacher,IT,8,Giant Slalom
+1984-01-22,Daniel Mahrer,CH,0,Combined
 1984-01-22,Thomas Buergler,CH,20,Giant Slalom
 1984-01-22,Frederic Ancey,FR,8,Combined
-1984-01-22,Oskar Delago,IT,6,Combined
-1984-01-22,Daniel Mahrer,CH,0,Combined
-1984-01-22,Franz Heinzer,CH,25,Downhill
+1984-01-22,Klaus Gattermann,DE,4,Downhill
+1984-01-22,Silvano Meli,CH,20,Downhill
+1984-01-22,Ivan Marzola,IT,11,Combined
+1984-01-22,Martin Hangl,CH,10,Super G
+1984-01-22,Guido Hinterseer,AT,12,Giant Slalom
 1984-01-22,Jure Franko,SK,7,Giant Slalom
-1984-01-22,Hubertus von Hohenlohe,MX,9,Combined
-1984-01-22,Philip Verneret,FR,7,Combined
-1984-01-22,Andreas Wenzel,LI,70,Combined
-1984-01-22,Bruno Kernen I,CH,19,Downhill
-1984-01-22,Anton Steiner,AT,54,Downhill
+1984-01-22,Boris Strel,SK,1,Giant Slalom
+1984-01-22,Pirmin Zurbriggen,CH,20,Giant Slalom
+1984-01-22,Miroslav Kolar,SK,12,Combined
+1984-01-22,Andreas Wenzel,LI,10,Slalom
 1984-01-22,Robert Erlacher,IT,8,Giant Slalom
+1984-01-22,Philip Verneret,FR,7,Combined
+1984-01-22,Andreas Voelgyesi,HU,5,Combined
+1984-01-22,Stefan Niederseer,AT,0,Downhill
 1984-01-22,Shinya Chiba,JP,8,Combined
-1984-01-29,Leonhard Stock,AT,15,Super G
-1984-01-29,Franz Heinzer,CH,37,Downhill
-1984-01-29,Pirmin Zurbriggen,CH,65,Giant Slalom
-1984-01-29,Peter Mueller,CH,15,Downhill
-1984-01-29,Chris Kent,CA,2,Combined
-1984-01-29,Bernd Felbinger,DE,1,Combined
-1984-01-29,Phil Mahre,US,15,Slalom
-1984-01-29,Peter Luescher,CH,15,Combined
-1984-01-29,Herbert Renoth,DE,1,Downhill
-1984-01-29,Anton Steiner,AT,54,Downhill
-1984-01-29,Mitko Hadiev,BG,2,Combined
-1984-01-29,Boris Strel,SK,1,Giant Slalom
-1984-01-29,Alex Giorgi,IT,15,Giant Slalom
-1984-01-29,Andreas Wenzel,LI,90,Combined
-1984-01-29,Thomas Buergler,CH,28,Giant Slalom
-1984-01-29,Mike Brown,US,2,Combined
-1984-01-29,Bojan Krizaj,SK,6,Slalom
-1984-01-29,Tomaz Cerkovnik,SK,3,Slalom
-1984-01-29,Markus Wasmeier,DE,6,Super G
-1984-01-29,Daniel Mahrer,CH,7,Combined
-1984-01-29,Jure Franko,SK,7,Giant Slalom
-1984-01-29,Philip Verneret,FR,7,Combined
-1984-01-29,Shinya Chiba,JP,8,Combined
-1984-01-29,Marc Girardelli,LU,5,Slalom
-1984-01-29,Robert Erlacher,IT,8,Giant Slalom
-1984-01-29,Frederic Ancey,FR,8,Combined
-1984-01-29,Petar Popangelov,BG,5,Slalom
-1984-01-29,Stefan Niederseer,AT,10,Downhill
-1984-01-29,Andreas Voelgyesi,HU,5,Combined
-1984-01-29,Peter Roth,DE,5,Super G
-1984-01-29,Bruno Kernen I,CH,19,Downhill
-1984-01-29,Peter Soltys,SK,16,Combined
-1984-01-29,Klaus Gattermann,DE,7,Downhill
-1984-01-29,Helmut Hoeflehner,AT,11,Downhill
-1984-01-29,Urs Raeber,CH,24,Downhill
-1984-01-29,Silvano Meli,CH,20,Downhill
-1984-01-29,Guenther Mader,AT,11,Super G
-1984-01-29,Joze Kuralt,SK,4,Slalom
-1984-01-29,Ivan Marzola,IT,11,Combined
-1984-01-29,Oskar Delago,IT,6,Combined
-1984-01-29,Guido Hinterseer,AT,21,Giant Slalom
+1984-01-22,Bruno Kernen I,CH,19,Downhill
+1984-01-22,Peter Luescher,CH,15,Combined
+1984-01-22,Oskar Delago,IT,6,Combined
+1984-01-22,Herbert Renoth,DE,0,Downhill
+1984-01-22,Chris Kent,CA,2,Combined
+1984-01-22,Peter Duerr,DE,3,Downhill
+1984-01-22,Hubertus von Hohenlohe,MX,9,Combined
+1984-01-22,Anton Steiner,AT,29,Downhill
+1984-01-22,Mike Brown,US,0,Combined
+1984-01-22,Mitko Hadiev,BG,2,Combined
+1984-01-22,Helmut Hoeflehner,AT,0,Downhill
+1984-01-22,Markus Wasmeier,DE,0,Super G
+1984-01-22,Peter Soltys,SK,16,Combined
+1984-01-22,Bernd Felbinger,DE,1,Combined
+1984-01-22,Joze Kuralt,SK,4,Slalom
+1984-01-22,Peter Roth,DE,0,Super G
+1984-01-22,Urs Raeber,CH,20,Downhill
 1984-01-29,Peter Duerr,DE,3,Downhill
 1984-01-29,Miroslav Kolar,SK,12,Combined
-1984-01-29,Franz Gruber,AT,12,Slalom
-1984-01-29,Martin Hangl,CH,10,Super G
+1984-01-29,Philip Verneret,FR,7,Combined
+1984-01-29,Andreas Wenzel,LI,10,Slalom
+1984-01-29,Silvano Meli,CH,20,Downhill
+1984-01-29,Klaus Gattermann,DE,7,Downhill
+1984-01-29,Robert Erlacher,IT,8,Giant Slalom
+1984-01-29,Joze Kuralt,SK,4,Slalom
+1984-01-29,Stefan Niederseer,AT,10,Downhill
+1984-01-29,Anton Steiner,AT,29,Downhill
+1984-01-29,Shinya Chiba,JP,8,Combined
+1984-01-29,Andreas Voelgyesi,HU,5,Combined
+1984-01-29,Bruno Kernen I,CH,19,Downhill
+1984-01-29,Helmut Hoeflehner,AT,11,Downhill
+1984-01-29,Chris Kent,CA,2,Combined
+1984-01-29,Bernd Felbinger,DE,1,Combined
+1984-01-29,Boris Strel,SK,1,Giant Slalom
+1984-01-29,Herbert Renoth,DE,1,Downhill
+1984-01-29,Urs Raeber,CH,24,Downhill
+1984-01-29,Ivan Marzola,IT,11,Combined
 1984-01-29,Hubertus von Hohenlohe,MX,9,Combined
+1984-01-29,Thomas Buergler,CH,20,Giant Slalom
+1984-01-29,Peter Soltys,SK,16,Combined
+1984-01-29,Pirmin Zurbriggen,CH,20,Giant Slalom
+1984-01-29,Mike Brown,US,2,Combined
+1984-01-29,Martin Hangl,CH,10,Super G
+1984-01-29,Frederic Ancey,FR,8,Combined
+1984-01-29,Guido Hinterseer,AT,12,Giant Slalom
+1984-01-29,Daniel Mahrer,CH,7,Combined
+1984-01-29,Markus Wasmeier,DE,6,Super G
+1984-01-29,Peter Luescher,CH,15,Combined
+1984-01-29,Jure Franko,SK,7,Giant Slalom
+1984-01-29,Oskar Delago,IT,6,Combined
+1984-01-29,Mitko Hadiev,BG,2,Combined
+1984-01-29,Peter Roth,DE,5,Super G

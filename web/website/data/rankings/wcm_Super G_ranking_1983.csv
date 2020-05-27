@@ -23,7 +23,7 @@ date,name,ath_country,value,specialty
 1982-12-12,Pirmin Zurbriggen,CH,15,Giant Slalom
 1982-12-12,Michael Mair,IT,0,Downhill
 1982-12-12,Hans Enn,AT,10,Giant Slalom
-1982-12-12,Franz Heinzer,CH,12,Combined
+1982-12-12,Franz Heinzer,CH,12,Super G
 1982-12-22,Hans Enn,AT,30,Giant Slalom
 1982-12-22,Boris Strel,SK,0,Giant Slalom
 1982-12-22,Grega Benedik,SK,7,Giant Slalom
@@ -43,7 +43,7 @@ date,name,ath_country,value,specialty
 1982-12-22,Max Julen,CH,0,Giant Slalom
 1982-12-22,Hubert Strolz,AT,16,Super G
 1982-12-22,Franz Gruber,AT,3,Slalom
-1982-12-22,Franz Heinzer,CH,24,Combined
+1982-12-22,Franz Heinzer,CH,24,Super G
 1982-12-22,Jacques Luethy,CH,0,Slalom
 1982-12-22,Siegfried Kerschbaumer,IT,9,Super G
 1982-12-22,Pirmin Zurbriggen,CH,30,Giant Slalom
@@ -58,7 +58,7 @@ date,name,ath_country,value,specialty
 1983-02-09,Michael Mair,IT,25,Downhill
 1983-02-09,Grega Benedik,SK,8,Giant Slalom
 1983-02-09,Robert Erlacher,IT,15,Giant Slalom
-1983-02-09,Franz Heinzer,CH,24,Combined
+1983-02-09,Franz Heinzer,CH,24,Super G
 1983-02-09,Thomas Buergler,CH,11,Giant Slalom
 1983-02-09,Hubert Strolz,AT,27,Super G
 1983-02-09,Jure Franko,SK,27,Giant Slalom

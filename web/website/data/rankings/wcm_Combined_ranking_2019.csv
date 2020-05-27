@@ -1,5 +1,7 @@
 date,name,ath_country,value,specialty
 2019-01-18,Marco Schwarz,AT,100,Slalom
+2019-01-18,Alexander Koell,SE,0,Combined
+2019-01-18,Sebastian-Foss Solevaag,NO,0,Slalom
 2019-01-18,Aleksandr Andrienko,RU,0,Combined
 2019-01-18,Andreas Romar,FI,1,Downhill
 2019-01-18,Mattias Roenngren,SE,0,Giant Slalom
@@ -8,9 +10,10 @@ date,name,ath_country,value,specialty
 2019-01-18,Mattia Casse,IT,3,Downhill
 2019-01-18,Jan Zabystran,CZ,4,Combined
 2019-01-18,Felix Monsen,SE,0,Downhill
-2019-01-18,Gilles Roulin,CH,5,Downhill
+2019-01-18,Christian Walder,AT,0,Super G
 2019-01-18,Jared Goldberg,US,6,Downhill
 2019-01-18,Valentin Giraud Moine,FR,7,Combined
+2019-01-18,Marco Odermatt,CH,0,Giant Slalom
 2019-01-18,Nils Allegre,FR,9,Super G
 2019-01-18,Maxence Muzaton,FR,11,Downhill
 2019-01-18,Miha Hrobat,SK,0,Super G
@@ -18,12 +21,10 @@ date,name,ath_country,value,specialty
 2019-01-18,Stefan Rogentin,CH,8,Combined
 2019-01-18,Ryan Cochran-Siegle,US,0,Giant Slalom
 2019-01-18,Luca Aerni,CH,14,Slalom
-2019-01-18,Henrik Kristoffersen,NO,0,Giant Slalom
+2019-01-18,Marko Vukicevic,RS,0,Combined
+2019-01-18,Ondrej Berndt,CZ,0,Combined
+2019-01-18,Martin Bendik,SK,0,Combined
 2019-01-18,Tilen Debelak,SK,0,Combined
-2019-01-18,Simon Breitfuss Kammerlander,BO,0,Combined
-2019-01-18,Christoffer Faarup,DK,0,Combined
-2019-01-18,Bostjan Kline,SK,0,Super G
-2019-01-18,Christian Walder,AT,0,Super G
 2019-01-18,Dominik Schwaiger,DE,0,Downhill
 2019-01-18,Hannes Reichelt,AT,0,Downhill
 2019-01-18,Willis Feasey,NZ,0,Combined
@@ -32,10 +33,10 @@ date,name,ath_country,value,specialty
 2019-01-18,Dustin Cook,CA,0,Super G
 2019-01-18,Adrian Smiseth Sejersted,NO,0,Super G
 2019-01-18,Daniel Danklmaier,AT,0,Downhill
-2019-01-18,Carlo Janka,CH,15,Downhill
 2019-01-18,Christopher Neumayer,AT,0,Super G
+2019-01-18,Yoan Todorov,BG,0,Combined
+2019-01-18,Henrik Kristoffersen,NO,0,Giant Slalom
 2019-01-18,Maarten Meiners,NL,0,Combined
-2019-01-18,Natko Zrncic-Dim,HR,0,Combined
 2019-01-18,Alexander Prast,IT,0,Combined
 2019-01-18,Henrik Von Appen,CL,0,Combined
 2019-01-18,Istok Rodes,HR,0,Slalom
@@ -43,98 +44,108 @@ date,name,ath_country,value,specialty
 2019-01-18,Matthias Mayer,AT,0,Super G
 2019-01-18,Nils Mani,CH,0,Downhill
 2019-01-18,Ivan Kuznetsov,RU,0,Combined
-2019-01-18,Yoan Todorov,BG,0,Combined
-2019-01-18,Gino Caviezel,CH,0,Giant Slalom
-2019-01-18,Marco Odermatt,CH,0,Giant Slalom
-2019-01-18,Rasmus Windingstad,NO,0,Giant Slalom
-2019-01-18,Pavel Trikhichev,RU,40,Combined
-2019-01-18,Bryce Bennett,US,16,Downhill
-2019-01-18,Trevor Philp,CA,0,Giant Slalom
-2019-01-18,Filip Zubcic,HR,10,Giant Slalom
-2019-01-18,Vincent Kriechmayr,AT,29,Super G
-2019-01-18,Linus Strasser,DE,0,Combined
-2019-01-18,Romed Baumann,AT,45,Combined
-2019-01-18,Riccardo Tonetti,IT,32,Giant Slalom
-2019-01-18,Christof Innerhofer,IT,26,Downhill
-2019-01-18,Mauro Caviezel,CH,50,Super G
-2019-01-18,Stefan Hadalin,SK,13,Slalom
-2019-01-18,Loic Meillard,CH,0,Giant Slalom
+2019-01-18,Bostjan Kline,SK,0,Super G
+2019-01-18,Christoffer Faarup,DK,0,Combined
+2019-01-18,Simon Breitfuss Kammerlander,BO,0,Combined
+2019-01-18,Natko Zrncic-Dim,HR,0,Combined
+2019-01-18,Carlo Janka,CH,15,Downhill
+2019-01-18,Gilles Roulin,CH,5,Downhill
 2019-01-18,Marcel Hirscher,AT,0,Slalom
-2019-01-18,Martin Cater,SK,22,Downhill
+2019-01-18,Loic Meillard,CH,0,Giant Slalom
+2019-01-18,Romed Baumann,AT,45,Combined
+2019-01-18,Christof Innerhofer,IT,26,Downhill
 2019-01-18,Sandro Simonet,CH,24,Slalom
 2019-01-18,Kjetil Jansrud,NO,36,Super G
-2019-01-18,Alexis Pinturault,FR,60,Giant Slalom
-2019-01-18,Thomas Mermillod,FR,20,Combined
-2019-01-18,Victor Muffat Jeandet,FR,80,Slalom
+2019-01-18,Martin Cater,SK,22,Downhill
+2019-01-18,Mauro Caviezel,CH,50,Super G
+2019-01-18,Stefan Hadalin,SK,13,Slalom
+2019-01-18,Linus Strasser,DE,0,Combined
 2019-01-18,Johannes Strolz,AT,0,Slalom
+2019-01-18,Thomas Mermillod,FR,20,Combined
+2019-01-18,Trevor Philp,CA,0,Giant Slalom
+2019-01-18,Vincent Kriechmayr,AT,29,Super G
+2019-01-18,Riccardo Tonetti,IT,32,Giant Slalom
 2019-01-18,Ted Ligety,US,18,Giant Slalom
+2019-01-18,Filip Zubcic,HR,10,Giant Slalom
+2019-01-18,Victor Muffat Jeandet,FR,80,Slalom
+2019-01-18,Rasmus Windingstad,NO,0,Giant Slalom
+2019-01-18,Pavel Trikhichev,RU,40,Combined
 2019-01-18,Aleksander Aamodt Kilde,NO,0,Super G
-2019-02-22,Matthias Mayer,AT,0,Super G
-2019-02-22,Alexander Koell,SE,0,Combined
-2019-02-22,Sebastian-Foss Solevaag,NO,0,Slalom
-2019-02-22,Marko Vukicevic,RS,0,Combined
-2019-02-22,Trevor Philp,CA,45,Giant Slalom
-2019-02-22,Nils Mani,CH,0,Downhill
+2019-01-18,Alexis Pinturault,FR,60,Giant Slalom
+2019-01-18,Bryce Bennett,US,16,Downhill
+2019-01-18,Gino Caviezel,CH,0,Giant Slalom
+2019-02-22,Bostjan Kline,SK,0,Super G
 2019-02-22,Pavel Trikhichev,RU,47,Combined
-2019-02-22,Christian Walder,AT,0,Super G
+2019-02-22,Ivan Kuznetsov,RU,0,Combined
 2019-02-22,Istok Rodes,HR,0,Slalom
 2019-02-22,Romed Baumann,AT,54,Combined
-2019-02-22,Henrik Von Appen,CL,0,Combined
 2019-02-22,Dominik Paris,IT,0,Downhill
-2019-02-22,Mathieu Faivre,FR,0,Giant Slalom
-2019-02-22,Dominik Schwaiger,DE,0,Downhill
+2019-02-22,Trevor Philp,CA,45,Giant Slalom
+2019-02-22,Henrik Von Appen,CL,0,Combined
+2019-02-22,Matthias Mayer,AT,0,Super G
+2019-02-22,Nils Mani,CH,0,Downhill
+2019-02-22,Carlo Janka,CH,15,Downhill
+2019-02-22,Maarten Meiners,NL,0,Combined
 2019-02-22,Riccardo Tonetti,IT,82,Giant Slalom
-2019-02-22,Mauro Caviezel,CH,90,Super G
+2019-02-22,Dominik Schwaiger,DE,0,Downhill
+2019-02-22,Marco Schwarz,AT,100,Slalom
 2019-02-22,Hannes Reichelt,AT,0,Downhill
-2019-02-22,Christopher Neumayer,AT,0,Super G
-2019-02-22,Daniel Danklmaier,AT,0,Downhill
-2019-02-22,Ivan Kuznetsov,RU,0,Combined
-2019-02-22,Stefan Hadalin,SK,73,Slalom
-2019-02-22,Adrian Smiseth Sejersted,NO,0,Super G
-2019-02-22,Dustin Cook,CA,0,Super G
+2019-02-22,Alexis Pinturault,FR,160,Giant Slalom
 2019-02-22,Willis Feasey,NZ,0,Combined
-2019-02-22,Marcel Hirscher,AT,80,Slalom
+2019-02-22,Mathieu Faivre,FR,0,Giant Slalom
 2019-02-22,Luca De Aliprandini,IT,0,Giant Slalom
 2019-02-22,Victor Muffat Jeandet,FR,80,Slalom
-2019-02-22,Marco Schwarz,AT,100,Slalom
-2019-02-22,Alexis Pinturault,FR,160,Giant Slalom
-2019-02-22,Bryce Bennett,US,22,Downhill
-2019-02-22,Kjetil Jansrud,NO,36,Super G
+2019-02-22,Dustin Cook,CA,0,Super G
+2019-02-22,Marcel Hirscher,AT,80,Slalom
+2019-02-22,Adrian Smiseth Sejersted,NO,0,Super G
+2019-02-22,Daniel Danklmaier,AT,0,Downhill
+2019-02-22,Stefan Hadalin,SK,73,Slalom
+2019-02-22,Christopher Neumayer,AT,0,Super G
+2019-02-22,Yoan Todorov,BG,0,Combined
+2019-02-22,Mauro Caviezel,CH,90,Super G
+2019-02-22,Natko Zrncic-Dim,HR,0,Combined
+2019-02-22,Alexander Prast,IT,0,Combined
+2019-02-22,Christoffer Faarup,DK,0,Combined
+2019-02-22,Filip Zubcic,HR,42,Giant Slalom
+2019-02-22,Simon Breitfuss Kammerlander,BO,0,Combined
+2019-02-22,Jared Goldberg,US,6,Downhill
+2019-02-22,Johannes Strolz,AT,22,Slalom
+2019-02-22,Valentin Giraud Moine,FR,7,Combined
 2019-02-22,Marco Odermatt,CH,10,Giant Slalom
+2019-02-22,Thomas Mermillod,FR,20,Combined
 2019-02-22,Nils Allegre,FR,20,Super G
 2019-02-22,Maxence Muzaton,FR,11,Downhill
-2019-02-22,Martin Cater,SK,22,Downhill
-2019-02-22,Johannes Strolz,AT,22,Slalom
+2019-02-22,Ted Ligety,US,38,Giant Slalom
 2019-02-22,Miha Hrobat,SK,12,Super G
 2019-02-22,Niels Hintermann,CH,16,Downhill
-2019-02-22,Ondrej Berndt,CZ,0,Combined
+2019-02-22,Aleksander Aamodt Kilde,NO,18,Super G
 2019-02-22,Stefan Rogentin,CH,21,Combined
 2019-02-22,Ryan Cochran-Siegle,US,14,Giant Slalom
 2019-02-22,Luca Aerni,CH,14,Slalom
-2019-02-22,Ted Ligety,US,38,Giant Slalom
-2019-02-22,Henrik Kristoffersen,NO,15,Giant Slalom
-2019-02-22,Carlo Janka,CH,15,Downhill
-2019-02-22,Aleksander Aamodt Kilde,NO,18,Super G
+2019-02-22,Bryce Bennett,US,22,Downhill
 2019-02-22,Gino Caviezel,CH,16,Giant Slalom
-2019-02-22,Thomas Mermillod,FR,20,Combined
-2019-02-22,Bostjan Kline,SK,0,Super G
+2019-02-22,Henrik Kristoffersen,NO,15,Giant Slalom
+2019-02-22,Martin Cater,SK,22,Downhill
+2019-02-22,Gilles Roulin,CH,5,Downhill
+2019-02-22,Felix Monsen,SE,5,Downhill
 2019-02-22,Sandro Simonet,CH,24,Slalom
-2019-02-22,Jared Goldberg,US,6,Downhill
-2019-02-22,Christoffer Faarup,DK,0,Combined
 2019-02-22,Rasmus Windingstad,NO,36,Giant Slalom
-2019-02-22,Simon Breitfuss Kammerlander,BO,0,Combined
-2019-02-22,Filip Zubcic,HR,42,Giant Slalom
-2019-02-22,Aleksandr Andrienko,RU,1,Combined
-2019-02-22,Andreas Romar,FI,1,Downhill
+2019-02-22,Tilen Debelak,SK,0,Combined
+2019-02-22,Martin Bendik,SK,0,Combined
+2019-02-22,Ondrej Berndt,CZ,0,Combined
+2019-02-22,Marko Vukicevic,RS,0,Combined
+2019-02-22,Alexander Koell,SE,0,Combined
 2019-02-22,Vincent Kriechmayr,AT,53,Super G
-2019-02-22,Valentin Giraud Moine,FR,7,Combined
+2019-02-22,Sebastian-Foss Solevaag,NO,0,Slalom
+2019-02-22,Kjetil Jansrud,NO,36,Super G
+2019-02-22,Linus Strasser,DE,29,Combined
+2019-02-22,Andreas Romar,FI,1,Downhill
+2019-02-22,Christof Innerhofer,IT,34,Downhill
 2019-02-22,Mattias Roenngren,SE,2,Giant Slalom
+2019-02-22,Klemen Kosi,SK,2,Super G
+2019-02-22,Loic Meillard,CH,26,Giant Slalom
 2019-02-22,Blaise Giezendanner,FR,3,Super G
 2019-02-22,Mattia Casse,IT,3,Downhill
 2019-02-22,Jan Zabystran,CZ,4,Combined
-2019-02-22,Christof Innerhofer,IT,34,Downhill
-2019-02-22,Loic Meillard,CH,26,Giant Slalom
-2019-02-22,Felix Monsen,SE,5,Downhill
-2019-02-22,Gilles Roulin,CH,5,Downhill
-2019-02-22,Linus Strasser,DE,29,Combined
-2019-02-22,Martin Bendik,SK,0,Combined
+2019-02-22,Aleksandr Andrienko,RU,1,Combined
+2019-02-22,Christian Walder,AT,0,Super G

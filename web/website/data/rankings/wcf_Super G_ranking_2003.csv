@@ -1,555 +1,681 @@
 date,name,ath_country,value,specialty
 2002-11-29,Hilde Gerg,DE,100,Super G
+2002-11-29,Janette Hargin,SE,0,Downhill
+2002-11-29,Anastasij Popkova,RU,0,Downhill
+2002-11-29,Michaela Dorfmeister,AT,36,Downhill
+2002-11-29,Britt Janyk,CA,0,Giant Slalom
+2002-11-29,Alexandra Kolier,DE,0,Downhill
+2002-11-29,Maria Riesch Hoefl,DE,0,Downhill
+2002-11-29,Olesja Alieva,RU,0,Giant Slalom
+2002-11-29,Melanie Suchet,FR,0,Super G
+2002-11-29,Fabienne Suter,CH,0,Giant Slalom
+2002-11-29,Ingrid Rumpfhuber,AT,0,Downhill
+2002-11-29,Kathleen Monahan,US,0,Super G
+2002-11-29,Isolde Kostner,IT,60,Super G
+2002-11-29,Lucia Recchia,IT,0,Super G
+2002-11-29,Manuela Moelgg,IT,1,Slalom
+2002-11-29,Corinne Imlig,CH,0,Downhill
+2002-11-29,Genevieve Simard,CA,0,Giant Slalom
+2002-11-29,Ingrid Jacquemod,FR,16,Downhill
+2002-11-29,Sibylle Brauner,DE,0,Downhill
+2002-11-29,Daniela Ceccarelli,IT,24,Super G
+2002-11-29,Tanja Pieren,CH,0,Super G
+2002-11-29,Regina Haeusl,DE,10,Downhill
+2002-11-29,Magda Mattel,FR,0,Downhill
+2002-11-29,Alexandra Meissnitzer,AT,0,Super G
+2002-11-29,Carolina Ruiz Castillo,ES,0,Super G
+2002-11-29,Sophie Splawinski,CA,0,Downhill
+2002-11-29,Daniela Merighetti,IT,0,Giant Slalom
+2002-11-29,Fujiko Sekino,FR,0,Downhill
+2002-11-29,Lindsey Vonn,US,0,Downhill
+2002-11-29,Martina Schild,CH,0,Downhill
+2002-11-29,Fraenzi Aufdenblatten,CH,0,Super G
+2002-11-29,Emily Brydon,CA,0,Super G
+2002-11-29,Jenny Owens,AU,0,Downhill
+2002-11-29,Caroline Lalive,US,29,Super G
+2002-11-29,Christina Risler,CA,0,Downhill
+2002-11-29,Bryna McCarty,US,0,Downhill
+2002-11-29,Spela Bracun,SK,0,Downhill
+2002-11-29,Melanie Turgeon,CA,13,Super G
+2002-11-29,Jonna Mendes,US,26,Super G
+2002-11-29,Tina Maze,SK,0,Giant Slalom
+2002-11-29,Alison Powers,US,0,Downhill
+2002-11-29,Eveline Rohregger,AT,15,Giant Slalom
+2002-11-29,Tamara Mueller,CH,5,Super G
+2002-11-29,Petra Haltmayr,DE,0,Downhill
+2002-11-29,Alexandra Coletti,IT,0,Downhill
+2002-11-29,Mojca Suhadolc,SK,22,Super G
+2002-11-29,Kelly Vanderbeek,CA,0,Downhill
+2002-11-29,Sylviane Berthod,CH,20,Downhill
+2002-11-29,Kirsten L Clark,US,50,Downhill
+2002-11-29,Corinne Rey Bellet,CH,45,Downhill
+2002-11-29,Anne Laure Givelet,FR,0,Super G
+2002-11-29,Jessica Lindell-Vikarby,SE,0,Downhill
+2002-11-29,Martina Ertl,DE,32,Giant Slalom
+2002-11-29,Martina Lechner,AT,0,Super G
+2002-11-29,Tatiana Blagouliak,RU,0,Downhill
+2002-11-29,Katrin Wilhelm,AT,5,Downhill
+2002-11-29,Tanja Schneider,AT,11,Super G
+2002-11-29,Karen Putzer,IT,40,Giant Slalom
 2002-11-29,Nadia Styger,CH,0,Downhill
+2002-11-29,Renate Goetschl,AT,0,Super G
+2002-11-29,Chemmy Alcott,GB,0,Super G
+2002-11-29,Maria Belen Simari-Birkner,AR,0,Downhill
+2002-11-29,Julia Mancuso,US,14,Super G
 2002-11-29,Catherine Borghi,CH,0,Downhill
 2002-11-29,Anja Paerson,SE,8,Giant Slalom
-2002-11-29,Martina Lechner,AT,0,Super G
-2002-11-29,Monika Dumermuth,CH,9,Super G
-2002-11-29,Silvia Berger,AT,13,Giant Slalom
-2002-11-29,Julia Mancuso,US,14,Super G
-2002-11-29,Libby Ludlow,US,2,Super G
-2002-11-29,Anna Ottosson,SE,0,Giant Slalom
-2002-11-29,Tanja Schneider,AT,11,Super G
-2002-11-29,Patrizia Bassis,IT,6,Super G
-2002-11-29,Selina Heregger,AT,3,Super G
-2002-11-29,Katja Wirth,AT,0,Downhill
-2002-11-29,Regina Haeusl,DE,10,Downhill
-2002-11-29,Katrin Wilhelm,AT,5,Downhill
-2002-11-29,Ingrid Jacquemod,FR,16,Downhill
-2002-11-29,Melanie Suchet,FR,0,Super G
-2002-11-29,Maria Riesch Hoefl,DE,0,Downhill
-2002-11-29,Sylviane Berthod,CH,20,Downhill
-2002-11-29,Mojca Suhadolc,SK,22,Super G
-2002-11-29,Eveline Rohregger,AT,15,Giant Slalom
-2002-11-29,Jonna Mendes,US,26,Super G
-2002-11-29,Caroline Lalive,US,29,Super G
-2002-11-29,Emily Brydon,CA,0,Super G
-2002-11-29,Fraenzi Aufdenblatten,CH,0,Super G
-2002-11-29,Corinne Rey Bellet,CH,45,Downhill
-2002-11-29,Tamara Mueller,CH,5,Super G
-2002-11-29,Kirsten L Clark,US,50,Downhill
-2002-11-29,Melanie Turgeon,CA,13,Super G
-2002-11-29,Michaela Dorfmeister,AT,36,Downhill
-2002-11-29,Lucia Recchia,IT,0,Super G
-2002-11-29,Isolde Kostner,IT,60,Super G
-2002-11-29,Chiara May,IT,0,Super G
-2002-11-29,Anne Laure Givelet,FR,0,Super G
-2002-11-29,Julie Duvillard,FR,0,Combined
-2002-11-29,Maria Belen Simari-Birkner,AR,0,Combined
-2002-11-29,Tatiana Blagouliak,RU,0,Combined
-2002-11-29,Macarena Simari-Birkner,AR,0,Combined
-2002-11-29,Chemmy Alcott,GB,0,Super G
-2002-11-29,Verena Stuffer,IT,0,Combined
-2002-11-29,Floriane Paturel,FR,0,Combined
 2002-11-29,Ella Alpiger,CH,0,Downhill
-2002-11-29,Magda Mattel,FR,0,Combined
-2002-11-29,Sibylle Brauner,DE,0,Combined
-2002-11-29,Corinne Imlig,CH,0,Downhill
-2002-11-29,Fabienne Suter,CH,0,Giant Slalom
-2002-11-29,Alexandra Kolier,DE,0,Combined
-2002-11-29,Janette Hargin,SE,0,Downhill
-2002-11-29,Elena Tagliabue,IT,0,Super G
-2002-11-29,Daniela Merighetti,IT,0,Giant Slalom
-2002-11-29,Alison Powers,US,0,Downhill
-2002-11-29,Spela Bracun,SK,0,Downhill
-2002-11-29,Jenny Owens,AU,0,Combined
-2002-11-29,Lindsey Vonn,US,0,Downhill
-2002-11-29,Fujiko Sekino,FR,0,Combined
-2002-11-29,Martina Schild,CH,0,Downhill
-2002-11-29,Christina Risler,CA,0,Combined
-2002-11-29,Bryna McCarty,US,0,Downhill
-2002-11-29,Tina Maze,SK,0,Giant Slalom
-2002-11-29,Petra Haltmayr,DE,0,Downhill
-2002-11-29,Manuela Moelgg,IT,1,Slalom
-2002-11-29,Jessica Lindell-Vikarby,SE,0,Downhill
-2002-11-29,Tanja Pieren,CH,0,Super G
-2002-11-29,Carolina Ruiz Castillo,ES,0,Super G
-2002-11-29,Alexandra Coletti,IT,0,Combined
-2002-11-29,Alexandra Meissnitzer,AT,0,Super G
-2002-11-29,Barbara Kleon,IT,0,Super G
-2002-11-29,Karen Putzer,IT,40,Giant Slalom
-2002-11-29,Daniela Ceccarelli,IT,24,Super G
+2002-11-29,Anna Ottosson,SE,0,Giant Slalom
+2002-11-29,Macarena Simari-Birkner,AR,0,Downhill
 2002-11-29,Carole Montillet,FR,18,Super G
-2002-11-29,Janica Kostelic,HR,80,Slalom
-2002-11-29,Martina Ertl,DE,32,Giant Slalom
-2002-11-29,Renate Goetschl,AT,0,Super G
+2002-11-29,Karine Meilleur,FR,0,Downhill
+2002-11-29,Verena Stuffer,IT,0,Downhill
 2002-11-29,Brigitte Obermoser,AT,7,Super G
-2002-12-08,Sibylle Brauner,DE,0,Combined
+2002-11-29,Libby Ludlow,US,2,Super G
+2002-11-29,Isabelle Huber,DE,0,Downhill
+2002-11-29,Selina Heregger,AT,3,Super G
+2002-11-29,Chiara May,IT,0,Super G
+2002-11-29,Julie Duvillard,FR,0,Downhill
+2002-11-29,Floriane Paturel,FR,0,Downhill
+2002-11-29,Katja Wirth,AT,0,Downhill
+2002-11-29,Elena Tagliabue,IT,0,Super G
+2002-11-29,Barbara Kleon,IT,0,Super G
+2002-11-29,Silvia Berger,AT,13,Giant Slalom
+2002-11-29,Janica Kostelic,HR,80,Slalom
+2002-11-29,Patrizia Bassis,IT,6,Super G
+2002-11-29,Monika Dumermuth,CH,9,Super G
+2002-12-08,Barbara Kleon,IT,0,Super G
+2002-12-08,Anja Paerson,SE,8,Giant Slalom
+2002-12-08,Libby Ludlow,US,2,Super G
 2002-12-08,Emily Brydon,CA,32,Super G
-2002-12-08,Lucia Recchia,IT,22,Super G
-2002-12-08,Magda Mattel,FR,0,Combined
-2002-12-08,Renate Goetschl,AT,18,Super G
-2002-12-08,Nadia Styger,CH,5,Downhill
-2002-12-08,Corinne Imlig,CH,0,Downhill
-2002-12-08,Fraenzi Aufdenblatten,CH,0,Super G
-2002-12-08,Ella Alpiger,CH,0,Downhill
-2002-12-08,Floriane Paturel,FR,0,Combined
-2002-12-08,Elena Tagliabue,IT,3,Super G
-2002-12-08,Corinne Rey Bellet,CH,65,Downhill
-2002-12-08,Verena Stuffer,IT,0,Combined
-2002-12-08,Genevieve Simard,CA,40,Giant Slalom
-2002-12-08,Karen Putzer,IT,140,Giant Slalom
-2002-12-08,Fabienne Suter,CH,0,Giant Slalom
-2002-12-08,Melanie Suchet,FR,0,Super G
-2002-12-08,Mojca Suhadolc,SK,27,Super G
-2002-12-08,Carole Montillet,FR,78,Super G
-2002-12-08,Lindsey Vonn,US,0,Downhill
-2002-12-08,Kathleen Monahan,US,1,Super G
+2002-12-08,Kelly Vanderbeek,CA,0,Downhill
 2002-12-08,Eveline Rohregger,AT,25,Giant Slalom
+2002-12-08,Bryna McCarty,US,0,Downhill
+2002-12-08,Petra Haltmayr,DE,0,Downhill
+2002-12-08,Silvia Berger,AT,13,Giant Slalom
 2002-12-08,Tina Maze,SK,0,Giant Slalom
-2002-12-08,Alexandra Coletti,IT,0,Combined
-2002-12-08,Martina Ertl,DE,112,Giant Slalom
-2002-12-08,Daniela Merighetti,IT,0,Giant Slalom
-2002-12-08,Jonna Mendes,US,55,Super G
-2002-12-08,Janette Hargin,SE,0,Downhill
-2002-12-08,Manuela Moelgg,IT,1,Slalom
-2002-12-08,Jessica Lindell-Vikarby,SE,0,Downhill
-2002-12-08,Alexandra Kolier,DE,0,Combined
+2002-12-08,Christina Risler,CA,0,Downhill
+2002-12-08,Julia Mancuso,US,25,Super G
+2002-12-08,Monika Dumermuth,CH,9,Super G
+2002-12-08,Martina Lechner,AT,0,Super G
 2002-12-08,Caroline Lalive,US,42,Super G
+2002-12-08,Martina Schild,CH,0,Downhill
+2002-12-08,Jonna Mendes,US,55,Super G
+2002-12-08,Anastasij Popkova,RU,0,Downhill
+2002-12-08,Karine Meilleur,FR,7,Downhill
+2002-12-08,Anne Laure Givelet,FR,0,Super G
+2002-12-08,Carolina Ruiz Castillo,ES,0,Super G
+2002-12-08,Regina Haeusl,DE,10,Downhill
+2002-12-08,Katja Wirth,AT,0,Downhill
 2002-12-08,Tanja Pieren,CH,0,Super G
-2002-12-08,Maria Riesch Hoefl,DE,0,Downhill
-2002-12-08,Daniela Ceccarelli,IT,50,Super G
+2002-12-08,Elena Tagliabue,IT,3,Super G
 2002-12-08,Ingrid Jacquemod,FR,30,Downhill
-2002-12-08,Hilde Gerg,DE,100,Super G
-2002-12-08,Melanie Turgeon,CA,29,Super G
-2002-12-08,Julie Duvillard,FR,0,Combined
 2002-12-08,Selina Heregger,AT,3,Super G
 2002-12-08,Chiara May,IT,0,Super G
-2002-12-08,Britt Janyk,CA,0,Giant Slalom
+2002-12-08,Jessica Lindell-Vikarby,SE,0,Downhill
 2002-12-08,Patrizia Bassis,IT,21,Super G
-2002-12-08,Sophie Splawinski,CA,0,Combined
-2002-12-08,Michaela Dorfmeister,AT,81,Downhill
-2002-12-08,Kelly Vanderbeek,CA,0,Combined
-2002-12-08,Silvia Berger,AT,13,Giant Slalom
-2002-12-08,Isolde Kostner,IT,60,Super G
-2002-12-08,Julia Mancuso,US,25,Super G
-2002-12-08,Janica Kostelic,HR,116,Slalom
-2002-12-08,Alexandra Meissnitzer,AT,3,Super G
-2002-12-08,Anna Ottosson,SE,0,Giant Slalom
-2002-12-08,Isabelle Huber,DE,10,Downhill
-2002-12-08,Maria Belen Simari-Birkner,AR,0,Combined
-2002-12-08,Barbara Kleon,IT,0,Super G
-2002-12-08,Sylviane Berthod,CH,44,Downhill
-2002-12-08,Chemmy Alcott,GB,0,Super G
-2002-12-08,Regina Haeusl,DE,10,Downhill
-2002-12-08,Kirsten L Clark,US,100,Downhill
-2002-12-08,Karine Meilleur,FR,7,Downhill
-2002-12-08,Tatiana Blagouliak,RU,0,Combined
+2002-12-08,Manuela Moelgg,IT,1,Slalom
+2002-12-08,Mojca Suhadolc,SK,27,Super G
+2002-12-08,Lucia Recchia,IT,22,Super G
+2002-12-08,Ingrid Rumpfhuber,AT,0,Downhill
+2002-12-08,Melanie Suchet,FR,0,Super G
+2002-12-08,Olesja Alieva,RU,0,Giant Slalom
+2002-12-08,Maria Riesch Hoefl,DE,0,Downhill
+2002-12-08,Tanja Schneider,AT,11,Super G
+2002-12-08,Britt Janyk,CA,0,Giant Slalom
+2002-12-08,Nadia Styger,CH,5,Downhill
 2002-12-08,Catherine Borghi,CH,6,Downhill
-2002-12-08,Brigitte Obermoser,AT,20,Super G
-2002-12-08,Macarena Simari-Birkner,AR,0,Combined
+2002-12-08,Kathleen Monahan,US,1,Super G
+2002-12-08,Sophie Splawinski,CA,0,Downhill
+2002-12-08,Anna Ottosson,SE,0,Giant Slalom
+2002-12-08,Sylviane Berthod,CH,44,Downhill
+2002-12-08,Katrin Wilhelm,AT,5,Downhill
+2002-12-08,Fujiko Sekino,FR,0,Downhill
+2002-12-08,Isabelle Huber,DE,10,Downhill
+2002-12-08,Carole Montillet,FR,78,Super G
+2002-12-08,Melanie Turgeon,CA,29,Super G
+2002-12-08,Macarena Simari-Birkner,AR,0,Downhill
+2002-12-08,Alison Powers,US,0,Downhill
 2002-12-08,Tamara Mueller,CH,13,Super G
-2002-12-13,Martina Ertl,DE,126,Giant Slalom
-2002-12-13,Petra Haltmayr,DE,0,Downhill
-2002-12-13,Chiara May,IT,0,Super G
-2002-12-13,Julia Mancuso,US,25,Super G
-2002-12-13,Kathleen Monahan,US,25,Super G
-2002-12-13,Bryna McCarty,US,0,Downhill
-2002-12-13,Regina Haeusl,DE,30,Downhill
-2002-12-13,Sylviane Berthod,CH,50,Downhill
-2002-12-13,Tanja Schneider,AT,13,Super G
-2002-12-13,Libby Ludlow,US,15,Super G
-2002-12-13,Tina Maze,SK,0,Giant Slalom
-2002-12-13,Christina Risler,CA,0,Combined
-2002-12-13,Brigitte Obermoser,AT,20,Super G
-2002-12-13,Silvia Berger,AT,25,Giant Slalom
-2002-12-13,Lucia Recchia,IT,33,Super G
-2002-12-13,Monika Dumermuth,CH,16,Super G
-2002-12-13,Carolina Ruiz Castillo,ES,0,Super G
-2002-12-13,Barbara Kleon,IT,0,Super G
-2002-12-13,Melanie Suchet,FR,0,Super G
-2002-12-13,Catherine Borghi,CH,7,Downhill
-2002-12-13,Maria Riesch Hoefl,DE,0,Downhill
-2002-12-13,Anne Laure Givelet,FR,3,Super G
-2002-12-13,Renate Goetschl,AT,68,Super G
-2002-12-13,Ingrid Jacquemod,FR,52,Downhill
-2002-12-13,Janica Kostelic,HR,134,Slalom
-2002-12-13,Jessica Lindell-Vikarby,SE,0,Downhill
-2002-12-13,Elena Tagliabue,IT,3,Super G
-2002-12-13,Katja Wirth,AT,5,Downhill
-2002-12-13,Tanja Pieren,CH,4,Super G
-2002-12-13,Patrizia Bassis,IT,21,Super G
-2002-12-13,Alison Powers,US,0,Downhill
-2002-12-13,Fujiko Sekino,FR,0,Combined
-2002-12-13,Sibylle Brauner,DE,0,Combined
-2002-12-13,Magda Mattel,FR,0,Combined
-2002-12-13,Genevieve Simard,CA,55,Giant Slalom
+2002-12-08,Alexandra Kolier,DE,0,Downhill
+2002-12-08,Chemmy Alcott,GB,0,Super G
+2002-12-08,Michaela Dorfmeister,AT,81,Downhill
+2002-12-08,Renate Goetschl,AT,18,Super G
+2002-12-08,Magda Mattel,FR,0,Downhill
+2002-12-08,Ella Alpiger,CH,0,Downhill
+2002-12-08,Martina Ertl,DE,112,Giant Slalom
+2002-12-08,Corinne Imlig,CH,0,Downhill
+2002-12-08,Verena Stuffer,IT,0,Downhill
+2002-12-08,Brigitte Obermoser,AT,20,Super G
+2002-12-08,Kirsten L Clark,US,100,Downhill
+2002-12-08,Daniela Merighetti,IT,0,Giant Slalom
+2002-12-08,Janette Hargin,SE,0,Downhill
+2002-12-08,Janica Kostelic,HR,116,Slalom
+2002-12-08,Alexandra Coletti,IT,0,Downhill
+2002-12-08,Spela Bracun,SK,0,Downhill
+2002-12-08,Floriane Paturel,FR,0,Downhill
+2002-12-08,Karen Putzer,IT,140,Giant Slalom
+2002-12-08,Sibylle Brauner,DE,0,Downhill
+2002-12-08,Lindsey Vonn,US,0,Downhill
+2002-12-08,Tatiana Blagouliak,RU,0,Downhill
+2002-12-08,Daniela Ceccarelli,IT,50,Super G
+2002-12-08,Fabienne Suter,CH,0,Giant Slalom
+2002-12-08,Jenny Owens,AU,0,Downhill
+2002-12-08,Hilde Gerg,DE,100,Super G
+2002-12-08,Maria Belen Simari-Birkner,AR,0,Downhill
+2002-12-08,Genevieve Simard,CA,40,Giant Slalom
+2002-12-08,Julie Duvillard,FR,0,Downhill
+2002-12-08,Isolde Kostner,IT,60,Super G
+2002-12-08,Corinne Rey Bellet,CH,65,Downhill
+2002-12-08,Alexandra Meissnitzer,AT,3,Super G
+2002-12-08,Fraenzi Aufdenblatten,CH,0,Super G
 2002-12-13,Ella Alpiger,CH,0,Downhill
-2002-12-13,Fraenzi Aufdenblatten,CH,45,Super G
-2002-12-13,Corinne Rey Bellet,CH,81,Downhill
+2002-12-13,Elena Tagliabue,IT,3,Super G
+2002-12-13,Janica Kostelic,HR,134,Slalom
+2002-12-13,Fujiko Sekino,FR,0,Downhill
+2002-12-13,Carolina Ruiz Castillo,ES,0,Super G
+2002-12-13,Tanja Pieren,CH,4,Super G
+2002-12-13,Katja Wirth,AT,5,Downhill
+2002-12-13,Anne Laure Givelet,FR,3,Super G
+2002-12-13,Sibylle Brauner,DE,0,Downhill
+2002-12-13,Regina Haeusl,DE,30,Downhill
+2002-12-13,Martina Ertl,DE,126,Giant Slalom
+2002-12-13,Magda Mattel,FR,0,Downhill
+2002-12-13,Daniela Ceccarelli,IT,130,Super G
+2002-12-13,Corinne Imlig,CH,0,Downhill
+2002-12-13,Ingrid Jacquemod,FR,52,Downhill
+2002-12-13,Nadia Styger,CH,5,Downhill
+2002-12-13,Chiara May,IT,0,Super G
+2002-12-13,Julie Duvillard,FR,0,Downhill
+2002-12-13,Silvia Berger,AT,25,Giant Slalom
+2002-12-13,Isabelle Huber,DE,10,Downhill
 2002-12-13,Hilde Gerg,DE,100,Super G
-2002-12-13,Verena Stuffer,IT,0,Combined
+2002-12-13,Monika Dumermuth,CH,16,Super G
+2002-12-13,Maria Belen Simari-Birkner,AR,0,Downhill
+2002-12-13,Julia Mancuso,US,25,Super G
+2002-12-13,Karen Putzer,IT,176,Giant Slalom
+2002-12-13,Martina Lechner,AT,0,Super G
+2002-12-13,Tatiana Blagouliak,RU,0,Downhill
+2002-12-13,Carole Montillet,FR,178,Super G
+2002-12-13,Anja Paerson,SE,8,Giant Slalom
+2002-12-13,Libby Ludlow,US,15,Super G
+2002-12-13,Macarena Simari-Birkner,AR,0,Downhill
+2002-12-13,Karine Meilleur,FR,7,Downhill
 2002-12-13,Chemmy Alcott,GB,0,Super G
-2002-12-13,Macarena Simari-Birkner,AR,0,Combined
-2002-12-13,Tatiana Blagouliak,RU,0,Combined
-2002-12-13,Kirsten L Clark,US,140,Downhill
+2002-12-13,Catherine Borghi,CH,7,Downhill
+2002-12-13,Anna Ottosson,SE,9,Giant Slalom
+2002-12-13,Renate Goetschl,AT,68,Super G
+2002-12-13,Tanja Schneider,AT,13,Super G
+2002-12-13,Verena Stuffer,IT,0,Downhill
+2002-12-13,Katrin Wilhelm,AT,5,Downhill
+2002-12-13,Brigitte Obermoser,AT,20,Super G
+2002-12-13,Patrizia Bassis,IT,21,Super G
+2002-12-13,Floriane Paturel,FR,0,Downhill
+2002-12-13,Selina Heregger,AT,3,Super G
+2002-12-13,Jessica Lindell-Vikarby,SE,0,Downhill
+2002-12-13,Bryna McCarty,US,0,Downhill
+2002-12-13,Caroline Lalive,US,68,Super G
+2002-12-13,Fraenzi Aufdenblatten,CH,45,Super G
+2002-12-13,Petra Haltmayr,DE,0,Downhill
+2002-12-13,Corinne Rey Bellet,CH,81,Downhill
+2002-12-13,Daniela Merighetti,IT,0,Giant Slalom
+2002-12-13,Kathleen Monahan,US,25,Super G
+2002-12-13,Anastasij Popkova,RU,0,Downhill
+2002-12-13,Barbara Kleon,IT,0,Super G
+2002-12-13,Sylviane Berthod,CH,50,Downhill
 2002-12-13,Melanie Turgeon,CA,37,Super G
-2002-12-13,Maria Belen Simari-Birkner,AR,0,Combined
-2002-12-13,Julie Duvillard,FR,0,Combined
 2002-12-13,Britt Janyk,CA,0,Giant Slalom
-2002-12-13,Michaela Dorfmeister,AT,141,Downhill
+2002-12-13,Kirsten L Clark,US,140,Downhill
+2002-12-13,Jenny Owens,AU,0,Downhill
+2002-12-13,Alexandra Coletti,IT,0,Downhill
+2002-12-13,Tina Maze,SK,0,Giant Slalom
+2002-12-13,Kelly Vanderbeek,CA,0,Downhill
+2002-12-13,Mojca Suhadolc,SK,56,Super G
+2002-12-13,Spela Bracun,SK,0,Downhill
+2002-12-13,Eveline Rohregger,AT,25,Giant Slalom
+2002-12-13,Alison Powers,US,0,Downhill
+2002-12-13,Tamara Mueller,CH,13,Super G
+2002-12-13,Sophie Splawinski,CA,0,Downhill
+2002-12-13,Janette Hargin,SE,0,Downhill
+2002-12-13,Jonna Mendes,US,65,Super G
+2002-12-13,Lindsey Vonn,US,0,Downhill
+2002-12-13,Genevieve Simard,CA,55,Giant Slalom
+2002-12-13,Melanie Suchet,FR,0,Super G
+2002-12-13,Manuela Moelgg,IT,1,Slalom
 2002-12-13,Isolde Kostner,IT,60,Super G
 2002-12-13,Ingrid Rumpfhuber,AT,0,Downhill
-2002-12-13,Olesja Alieva,RU,0,Giant Slalom
-2002-12-13,Alexandra Meissnitzer,AT,35,Super G
-2002-12-13,Corinne Imlig,CH,0,Downhill
 2002-12-13,Fabienne Suter,CH,0,Giant Slalom
-2002-12-13,Floriane Paturel,FR,0,Combined
-2002-12-13,Daniela Ceccarelli,IT,130,Super G
-2002-12-13,Janette Hargin,SE,0,Downhill
-2002-12-13,Lindsey Vonn,US,0,Downhill
-2002-12-13,Spela Bracun,SK,0,Downhill
-2002-12-13,Carole Montillet,FR,178,Super G
-2002-12-13,Jonna Mendes,US,65,Super G
-2002-12-13,Alexandra Kolier,DE,0,Combined
-2002-12-13,Karen Putzer,IT,176,Giant Slalom
-2002-12-13,Caroline Lalive,US,68,Super G
-2002-12-13,Anna Ottosson,SE,9,Giant Slalom
-2002-12-13,Mojca Suhadolc,SK,56,Super G
-2003-01-15,Bryna McCarty,US,0,Downhill
-2003-01-15,Julie Duvillard,FR,0,Combined
+2002-12-13,Emily Brydon,CA,32,Super G
+2002-12-13,Alexandra Kolier,DE,0,Downhill
+2002-12-13,Alexandra Meissnitzer,AT,35,Super G
+2002-12-13,Christina Risler,CA,0,Downhill
+2002-12-13,Michaela Dorfmeister,AT,141,Downhill
+2002-12-13,Olesja Alieva,RU,0,Giant Slalom
+2002-12-13,Maria Riesch Hoefl,DE,0,Downhill
+2002-12-13,Lucia Recchia,IT,33,Super G
+2002-12-13,Martina Schild,CH,0,Downhill
+2003-01-15,Martina Schild,CH,0,Downhill
+2003-01-15,Julie Duvillard,FR,0,Downhill
+2003-01-15,Anja Paerson,SE,8,Giant Slalom
+2003-01-15,Spela Bracun,SK,0,Downhill
 2003-01-15,Lindsey Vonn,US,0,Downhill
-2003-01-15,Hilde Gerg,DE,160,Super G
-2003-01-15,Britt Janyk,CA,0,Giant Slalom
-2003-01-15,Sophie Splawinski,CA,0,Combined
+2003-01-15,Jenny Owens,AU,0,Downhill
+2003-01-15,Tina Maze,SK,0,Giant Slalom
+2003-01-15,Monika Dumermuth,CH,16,Super G
+2003-01-15,Tatiana Blagouliak,RU,0,Downhill
+2003-01-15,Isabelle Huber,DE,10,Downhill
+2003-01-15,Martina Lechner,AT,0,Super G
+2003-01-15,Christina Risler,CA,0,Downhill
+2003-01-15,Bryna McCarty,US,0,Downhill
+2003-01-15,Maria Belen Simari-Birkner,AR,0,Downhill
+2003-01-15,Macarena Simari-Birkner,AR,0,Downhill
+2003-01-15,Fabienne Suter,CH,0,Giant Slalom
+2003-01-15,Alexandra Coletti,IT,0,Downhill
+2003-01-15,Chemmy Alcott,GB,0,Super G
+2003-01-15,Corinne Imlig,CH,0,Downhill
+2003-01-15,Manuela Moelgg,IT,1,Slalom
+2003-01-15,Alexandra Kolier,DE,0,Downhill
 2003-01-15,Tanja Pieren,CH,6,Super G
-2003-01-15,Barbara Kleon,IT,0,Super G
-2003-01-15,Kelly Vanderbeek,CA,0,Combined
+2003-01-15,Sibylle Brauner,DE,0,Downhill
 2003-01-15,Ingrid Rumpfhuber,AT,0,Downhill
-2003-01-15,Julia Mancuso,US,39,Super G
-2003-01-15,Fujiko Sekino,FR,0,Combined
-2003-01-15,Libby Ludlow,US,26,Super G
-2003-01-15,Olesja Alieva,RU,0,Giant Slalom
-2003-01-15,Anastasij Popkova,RU,0,Combined
-2003-01-15,Christina Risler,CA,0,Combined
-2003-01-15,Janica Kostelic,HR,170,Slalom
-2003-01-15,Silvia Berger,AT,30,Giant Slalom
-2003-01-15,Maria Belen Simari-Birkner,AR,0,Combined
-2003-01-15,Tatiana Blagouliak,RU,0,Combined
-2003-01-15,Carole Montillet,FR,278,Super G
-2003-01-15,Alexandra Kolier,DE,0,Combined
-2003-01-15,Sibylle Brauner,DE,0,Combined
-2003-01-15,Magda Mattel,FR,0,Combined
 2003-01-15,Carolina Ruiz Castillo,ES,3,Super G
 2003-01-15,Anne Laure Givelet,FR,3,Super G
-2003-01-15,Karen Putzer,IT,202,Giant Slalom
+2003-01-15,Magda Mattel,FR,0,Downhill
+2003-01-15,Olesja Alieva,RU,0,Giant Slalom
 2003-01-15,Janette Hargin,SE,0,Downhill
-2003-01-15,Ella Alpiger,CH,0,Downhill
 2003-01-15,Elena Tagliabue,IT,3,Super G
-2003-01-15,Martina Schild,CH,0,Downhill
-2003-01-15,Floriane Paturel,FR,0,Combined
+2003-01-15,Petra Haltmayr,DE,0,Downhill
+2003-01-15,Ella Alpiger,CH,0,Downhill
 2003-01-15,Daniela Merighetti,IT,0,Giant Slalom
-2003-01-15,Alexandra Coletti,IT,0,Combined
-2003-01-15,Verena Stuffer,IT,0,Combined
-2003-01-15,Renate Goetschl,AT,148,Super G
-2003-01-15,Chemmy Alcott,GB,0,Super G
+2003-01-15,Chiara May,IT,0,Super G
+2003-01-15,Anastasij Popkova,RU,0,Downhill
+2003-01-15,Floriane Paturel,FR,0,Downhill
+2003-01-15,Katrin Wilhelm,AT,5,Downhill
+2003-01-15,Sophie Splawinski,CA,0,Downhill
+2003-01-15,Nadia Styger,CH,5,Downhill
+2003-01-15,Jessica Lindell-Vikarby,SE,0,Downhill
+2003-01-15,Verena Stuffer,IT,0,Downhill
+2003-01-15,Alison Powers,US,0,Downhill
 2003-01-15,Catherine Borghi,CH,11,Downhill
-2003-01-15,Macarena Simari-Birkner,AR,0,Combined
-2003-01-15,Tina Maze,SK,0,Giant Slalom
-2003-01-15,Brigitte Obermoser,AT,20,Super G
-2003-01-15,Anna Ottosson,SE,11,Giant Slalom
-2003-01-15,Alexandra Meissnitzer,AT,80,Super G
-2003-01-15,Kathleen Monahan,US,25,Super G
-2003-01-15,Daniela Ceccarelli,IT,154,Super G
-2003-01-15,Genevieve Simard,CA,62,Giant Slalom
-2003-01-15,Regina Haeusl,DE,30,Downhill
+2003-01-15,Kelly Vanderbeek,CA,0,Downhill
+2003-01-15,Britt Janyk,CA,0,Giant Slalom
+2003-01-15,Fujiko Sekino,FR,0,Downhill
+2003-01-15,Karine Meilleur,FR,7,Downhill
 2003-01-15,Isolde Kostner,IT,66,Super G
-2003-01-15,Martina Ertl,DE,139,Giant Slalom
-2003-01-15,Kirsten L Clark,US,158,Downhill
-2003-01-15,Mojca Suhadolc,SK,85,Super G
-2003-01-15,Katja Wirth,AT,17,Downhill
-2003-01-15,Ingrid Jacquemod,FR,61,Downhill
-2003-01-15,Patrizia Bassis,IT,21,Super G
-2003-01-15,Jonna Mendes,US,81,Super G
-2003-01-15,Corinne Rey Bellet,CH,101,Downhill
-2003-01-15,Eveline Rohregger,AT,33,Giant Slalom
-2003-01-15,Lucia Recchia,IT,44,Super G
-2003-01-15,Melanie Turgeon,CA,77,Super G
-2003-01-15,Tanja Schneider,AT,28,Super G
+2003-01-15,Carole Montillet,FR,278,Super G
 2003-01-15,Michaela Dorfmeister,AT,163,Downhill
-2003-01-15,Caroline Lalive,US,100,Super G
+2003-01-15,Jonna Mendes,US,81,Super G
+2003-01-15,Anna Ottosson,SE,11,Giant Slalom
+2003-01-15,Eveline Rohregger,AT,33,Giant Slalom
+2003-01-15,Mojca Suhadolc,SK,85,Super G
+2003-01-15,Alexandra Meissnitzer,AT,80,Super G
+2003-01-15,Tanja Schneider,AT,28,Super G
+2003-01-15,Sylviane Berthod,CH,50,Downhill
+2003-01-15,Kathleen Monahan,US,25,Super G
+2003-01-15,Libby Ludlow,US,26,Super G
+2003-01-15,Renate Goetschl,AT,148,Super G
+2003-01-15,Daniela Ceccarelli,IT,154,Super G
+2003-01-15,Patrizia Bassis,IT,21,Super G
+2003-01-15,Selina Heregger,AT,3,Super G
+2003-01-15,Melanie Suchet,FR,0,Super G
+2003-01-15,Lucia Recchia,IT,44,Super G
+2003-01-15,Katja Wirth,AT,17,Downhill
+2003-01-15,Martina Ertl,DE,139,Giant Slalom
+2003-01-15,Ingrid Jacquemod,FR,61,Downhill
+2003-01-15,Brigitte Obermoser,AT,20,Super G
+2003-01-15,Regina Haeusl,DE,30,Downhill
 2003-01-15,Maria Riesch Hoefl,DE,0,Downhill
-2003-01-15,Tamara Mueller,CH,63,Super G
+2003-01-15,Caroline Lalive,US,100,Super G
+2003-01-15,Janica Kostelic,HR,170,Slalom
+2003-01-15,Corinne Rey Bellet,CH,101,Downhill
+2003-01-15,Hilde Gerg,DE,160,Super G
+2003-01-15,Genevieve Simard,CA,62,Giant Slalom
+2003-01-15,Melanie Turgeon,CA,77,Super G
+2003-01-15,Silvia Berger,AT,30,Giant Slalom
+2003-01-15,Fraenzi Aufdenblatten,CH,45,Super G
+2003-01-15,Julia Mancuso,US,39,Super G
+2003-01-15,Kirsten L Clark,US,158,Downhill
+2003-01-15,Barbara Kleon,IT,0,Super G
 2003-01-15,Emily Brydon,CA,32,Super G
+2003-01-15,Karen Putzer,IT,202,Giant Slalom
+2003-01-15,Tamara Mueller,CH,63,Super G
+2003-01-17,Sibylle Brauner,DE,0,Downhill
+2003-01-17,Olesja Alieva,RU,0,Giant Slalom
+2003-01-17,Lindsey Vonn,US,0,Downhill
+2003-01-17,Daniela Ceccarelli,IT,190,Super G
+2003-01-17,Ingrid Rumpfhuber,AT,0,Downhill
+2003-01-17,Alison Powers,US,0,Downhill
+2003-01-17,Maria Riesch Hoefl,DE,24,Downhill
+2003-01-17,Daniela Merighetti,IT,0,Giant Slalom
+2003-01-17,Martina Ertl,DE,149,Giant Slalom
+2003-01-17,Corinne Imlig,CH,0,Downhill
+2003-01-17,Lucia Recchia,IT,44,Super G
+2003-01-17,Corinne Rey Bellet,CH,125,Downhill
+2003-01-17,Jessica Lindell-Vikarby,SE,0,Downhill
+2003-01-17,Magda Mattel,FR,0,Downhill
+2003-01-17,Jenny Owens,AU,0,Downhill
+2003-01-17,Ingrid Jacquemod,FR,61,Downhill
+2003-01-17,Tanja Pieren,CH,7,Super G
+2003-01-17,Ella Alpiger,CH,0,Downhill
+2003-01-17,Tamara Mueller,CH,63,Super G
 2003-01-17,Regina Haeusl,DE,30,Downhill
-2003-01-17,Catherine Borghi,CH,23,Downhill
+2003-01-17,Melanie Suchet,FR,0,Super G
+2003-01-17,Alexandra Meissnitzer,AT,160,Super G
+2003-01-17,Kirsten L Clark,US,176,Downhill
+2003-01-17,Fraenzi Aufdenblatten,CH,45,Super G
 2003-01-17,Caroline Lalive,US,126,Super G
+2003-01-17,Bryna McCarty,US,0,Downhill
+2003-01-17,Barbara Kleon,IT,0,Super G
+2003-01-17,Melanie Turgeon,CA,137,Super G
+2003-01-17,Christina Risler,CA,0,Downhill
+2003-01-17,Jonna Mendes,US,113,Super G
+2003-01-17,Michaela Dorfmeister,AT,163,Downhill
+2003-01-17,Tina Maze,SK,0,Giant Slalom
+2003-01-17,Janette Hargin,SE,0,Downhill
+2003-01-17,Emily Brydon,CA,43,Super G
+2003-01-17,Petra Haltmayr,DE,0,Downhill
 2003-01-17,Isolde Kostner,IT,66,Super G
 2003-01-17,Kathleen Monahan,US,25,Super G
-2003-01-17,Katrin Wilhelm,AT,5,Downhill
-2003-01-17,Daniela Ceccarelli,IT,190,Super G
-2003-01-17,Alexandra Meissnitzer,AT,160,Super G
-2003-01-17,Chiara May,IT,5,Super G
-2003-01-17,Melanie Turgeon,CA,137,Super G
-2003-01-17,Emily Brydon,CA,43,Super G
-2003-01-17,Michaela Dorfmeister,AT,163,Downhill
-2003-01-17,Kirsten L Clark,US,176,Downhill
-2003-01-17,Ingrid Jacquemod,FR,61,Downhill
-2003-01-17,Genevieve Simard,CA,62,Giant Slalom
+2003-01-17,Martina Schild,CH,0,Downhill
 2003-01-17,Carolina Ruiz Castillo,ES,6,Super G
-2003-01-17,Lucia Recchia,IT,44,Super G
-2003-01-17,Julie Duvillard,FR,0,Combined
-2003-01-17,Corinne Imlig,CH,0,Downhill
-2003-01-17,Renate Goetschl,AT,248,Super G
-2003-01-17,Tanja Pieren,CH,7,Super G
-2003-01-17,Macarena Simari-Birkner,AR,0,Combined
-2003-01-17,Britt Janyk,CA,0,Giant Slalom
-2003-01-17,Karen Putzer,IT,252,Giant Slalom
-2003-01-17,Brigitte Obermoser,AT,33,Super G
-2003-01-17,Elena Tagliabue,IT,3,Super G
-2003-01-17,Sophie Splawinski,CA,0,Combined
-2003-01-17,Sylviane Berthod,CH,50,Downhill
-2003-01-17,Bryna McCarty,US,0,Downhill
-2003-01-17,Tina Maze,SK,0,Giant Slalom
-2003-01-17,Alexandra Kolier,DE,0,Combined
-2003-01-17,Anna Ottosson,SE,26,Giant Slalom
-2003-01-17,Magda Mattel,FR,0,Combined
-2003-01-17,Maria Riesch Hoefl,DE,24,Downhill
-2003-01-17,Lindsey Vonn,US,0,Downhill
-2003-01-17,Barbara Kleon,IT,0,Super G
-2003-01-17,Tatiana Blagouliak,RU,0,Combined
-2003-01-17,Chemmy Alcott,GB,0,Super G
-2003-01-17,Tanja Schneider,AT,28,Super G
-2003-01-17,Hilde Gerg,DE,200,Super G
-2003-01-17,Janica Kostelic,HR,215,Slalom
-2003-01-17,Olesja Alieva,RU,0,Giant Slalom
-2003-01-17,Alison Powers,US,0,Downhill
-2003-01-17,Daniela Merighetti,IT,0,Giant Slalom
-2003-01-17,Julia Mancuso,US,53,Super G
-2003-01-17,Tamara Mueller,CH,63,Super G
-2003-01-17,Martina Ertl,DE,149,Giant Slalom
-2003-01-17,Libby Ludlow,US,28,Super G
-2003-01-17,Patrizia Bassis,IT,21,Super G
-2003-01-17,Selina Heregger,AT,19,Super G
-2003-01-17,Corinne Rey Bellet,CH,125,Downhill
+2003-01-17,Alexandra Kolier,DE,0,Downhill
+2003-01-17,Kelly Vanderbeek,CA,0,Downhill
 2003-01-17,Eveline Rohregger,AT,33,Giant Slalom
-2003-01-17,Anastasij Popkova,RU,0,Combined
-2003-01-17,Carole Montillet,FR,307,Super G
-2003-01-17,Fraenzi Aufdenblatten,CH,45,Super G
-2003-01-17,Isabelle Huber,DE,16,Downhill
-2003-01-17,Fujiko Sekino,FR,0,Combined
-2003-01-17,Katja Wirth,AT,24,Downhill
-2003-01-17,Anja Paerson,SE,13,Giant Slalom
-2003-01-17,Maria Belen Simari-Birkner,AR,0,Combined
+2003-01-17,Genevieve Simard,CA,62,Giant Slalom
 2003-01-17,Mojca Suhadolc,SK,109,Super G
+2003-01-17,Sophie Splawinski,CA,0,Downhill
+2003-01-17,Fabienne Suter,CH,0,Giant Slalom
+2003-01-17,Anastasij Popkova,RU,0,Downhill
+2003-01-17,Fujiko Sekino,FR,0,Downhill
+2003-01-17,Sylviane Berthod,CH,50,Downhill
+2003-01-17,Britt Janyk,CA,0,Giant Slalom
+2003-01-17,Alexandra Coletti,IT,0,Downhill
+2003-01-17,Manuela Moelgg,IT,1,Slalom
+2003-01-17,Spela Bracun,SK,0,Downhill
+2003-01-17,Janica Kostelic,HR,215,Slalom
+2003-01-17,Katrin Wilhelm,AT,5,Downhill
+2003-01-17,Patrizia Bassis,IT,21,Super G
+2003-01-17,Chemmy Alcott,GB,0,Super G
+2003-01-17,Nadia Styger,CH,5,Downhill
+2003-01-17,Tanja Schneider,AT,28,Super G
+2003-01-17,Renate Goetschl,AT,248,Super G
+2003-01-17,Carole Montillet,FR,307,Super G
+2003-01-17,Anna Ottosson,SE,26,Giant Slalom
+2003-01-17,Macarena Simari-Birkner,AR,0,Downhill
+2003-01-17,Karine Meilleur,FR,7,Downhill
+2003-01-17,Chiara May,IT,5,Super G
+2003-01-17,Libby Ludlow,US,28,Super G
+2003-01-17,Tatiana Blagouliak,RU,0,Downhill
+2003-01-17,Julia Mancuso,US,53,Super G
+2003-01-17,Karen Putzer,IT,252,Giant Slalom
 2003-01-17,Martina Lechner,AT,9,Super G
-2003-01-17,Ingrid Rumpfhuber,AT,0,Downhill
+2003-01-17,Maria Belen Simari-Birkner,AR,0,Downhill
 2003-01-17,Monika Dumermuth,CH,24,Super G
-2003-01-17,Jonna Mendes,US,113,Super G
-2003-02-28,Renate Goetschl,AT,348,Super G
-2003-02-28,Alison Powers,US,0,Downhill
-2003-02-28,Kathleen Monahan,US,25,Super G
-2003-02-28,Karen Putzer,IT,268,Giant Slalom
-2003-02-28,Eveline Rohregger,AT,55,Giant Slalom
-2003-02-28,Hilde Gerg,DE,245,Super G
-2003-02-28,Julie Duvillard,FR,0,Combined
-2003-02-28,Melanie Turgeon,CA,163,Super G
-2003-02-28,Alexandra Kolier,DE,0,Combined
-2003-02-28,Daniela Merighetti,IT,0,Giant Slalom
-2003-02-28,Spela Bracun,SK,0,Downhill
-2003-02-28,Carole Montillet,FR,387,Super G
-2003-02-28,Jenny Owens,AU,0,Combined
-2003-02-28,Jonna Mendes,US,145,Super G
-2003-02-28,Bryna McCarty,US,0,Downhill
-2003-02-28,Mojca Suhadolc,SK,109,Super G
-2003-02-28,Christina Risler,CA,0,Combined
-2003-02-28,Maria Belen Simari-Birkner,AR,0,Combined
-2003-02-28,Caroline Lalive,US,136,Super G
-2003-02-28,Tina Maze,SK,0,Giant Slalom
-2003-02-28,Anna Ottosson,SE,32,Giant Slalom
-2003-02-28,Lucia Recchia,IT,44,Super G
-2003-02-28,Daniela Ceccarelli,IT,219,Super G
-2003-02-28,Fabienne Suter,CH,0,Giant Slalom
-2003-02-28,Anja Paerson,SE,21,Giant Slalom
-2003-02-28,Fraenzi Aufdenblatten,CH,46,Super G
+2003-01-17,Hilde Gerg,DE,200,Super G
+2003-01-17,Silvia Berger,AT,30,Giant Slalom
+2003-01-17,Julie Duvillard,FR,0,Downhill
+2003-01-17,Isabelle Huber,DE,16,Downhill
+2003-01-17,Anja Paerson,SE,13,Giant Slalom
+2003-01-17,Verena Stuffer,IT,0,Downhill
+2003-01-17,Catherine Borghi,CH,23,Downhill
+2003-01-17,Floriane Paturel,FR,0,Downhill
+2003-01-17,Katja Wirth,AT,24,Downhill
+2003-01-17,Anne Laure Givelet,FR,3,Super G
+2003-01-17,Selina Heregger,AT,19,Super G
+2003-01-17,Elena Tagliabue,IT,3,Super G
+2003-01-17,Brigitte Obermoser,AT,33,Super G
+2003-02-28,Ingrid Jacquemod,FR,61,Downhill
+2003-02-28,Christina Risler,CA,0,Downhill
 2003-02-28,Martina Lechner,AT,9,Super G
-2003-02-28,Janica Kostelic,HR,231,Slalom
-2003-02-28,Ingrid Rumpfhuber,AT,0,Downhill
-2003-02-28,Ella Alpiger,CH,0,Downhill
-2003-02-28,Isolde Kostner,IT,88,Super G
+2003-02-28,Tatiana Blagouliak,RU,0,Downhill
+2003-02-28,Anja Paerson,SE,21,Giant Slalom
+2003-02-28,Daniela Merighetti,IT,0,Giant Slalom
+2003-02-28,Bryna McCarty,US,0,Downhill
+2003-02-28,Tanja Pieren,CH,7,Super G
+2003-02-28,Caroline Lalive,US,136,Super G
 2003-02-28,Selina Heregger,AT,22,Super G
-2003-02-28,Patrizia Bassis,IT,21,Super G
-2003-02-28,Silvia Berger,AT,40,Giant Slalom
-2003-02-28,Floriane Paturel,FR,0,Combined
-2003-02-28,Olesja Alieva,RU,0,Giant Slalom
-2003-02-28,Tanja Schneider,AT,41,Super G
+2003-02-28,Melanie Turgeon,CA,163,Super G
+2003-02-28,Karen Putzer,IT,268,Giant Slalom
+2003-02-28,Carole Montillet,FR,387,Super G
+2003-02-28,Tina Maze,SK,0,Giant Slalom
+2003-02-28,Jonna Mendes,US,145,Super G
+2003-02-28,Martina Ertl,DE,173,Giant Slalom
+2003-02-28,Karine Meilleur,FR,7,Downhill
+2003-02-28,Melanie Suchet,FR,12,Super G
+2003-02-28,Petra Haltmayr,DE,0,Downhill
+2003-02-28,Macarena Simari-Birkner,AR,0,Downhill
+2003-02-28,Michaela Dorfmeister,AT,213,Downhill
+2003-02-28,Janica Kostelic,HR,231,Slalom
 2003-02-28,Libby Ludlow,US,33,Super G
+2003-02-28,Julia Mancuso,US,53,Super G
+2003-02-28,Eveline Rohregger,AT,55,Giant Slalom
 2003-02-28,Corinne Rey Bellet,CH,161,Downhill
 2003-02-28,Tamara Mueller,CH,63,Super G
-2003-02-28,Alexandra Meissnitzer,AT,220,Super G
-2003-02-28,Verena Stuffer,IT,0,Combined
-2003-02-28,Karine Meilleur,FR,7,Downhill
-2003-02-28,Katja Wirth,AT,42,Downhill
-2003-02-28,Alexandra Coletti,IT,0,Combined
-2003-02-28,Kelly Vanderbeek,CA,0,Combined
+2003-02-28,Julie Duvillard,FR,0,Downhill
+2003-02-28,Jenny Owens,AU,0,Downhill
+2003-02-28,Anne Laure Givelet,FR,3,Super G
+2003-02-28,Isabelle Huber,DE,16,Downhill
 2003-02-28,Kirsten L Clark,US,187,Downhill
-2003-02-28,Michaela Dorfmeister,AT,213,Downhill
-2003-02-28,Sophie Splawinski,CA,0,Combined
-2003-02-28,Britt Janyk,CA,0,Giant Slalom
-2003-02-28,Martina Ertl,DE,173,Giant Slalom
-2003-02-28,Chiara May,IT,5,Super G
+2003-02-28,Hilde Gerg,DE,245,Super G
+2003-02-28,Alison Powers,US,0,Downhill
+2003-02-28,Lindsey Vonn,US,0,Downhill
 2003-02-28,Carolina Ruiz Castillo,ES,6,Super G
-2003-02-28,Emily Brydon,CA,57,Super G
-2003-02-28,Brigitte Obermoser,AT,73,Super G
-2003-02-28,Nadia Styger,CH,9,Downhill
+2003-02-28,Fraenzi Aufdenblatten,CH,46,Super G
+2003-02-28,Silvia Berger,AT,40,Giant Slalom
+2003-02-28,Fujiko Sekino,FR,0,Downhill
+2003-02-28,Monika Dumermuth,CH,24,Super G
 2003-02-28,Genevieve Simard,CA,70,Giant Slalom
+2003-02-28,Maria Belen Simari-Birkner,AR,0,Downhill
+2003-02-28,Ella Alpiger,CH,0,Downhill
+2003-02-28,Katja Wirth,AT,42,Downhill
+2003-02-28,Alexandra Coletti,IT,0,Downhill
+2003-02-28,Martina Schild,CH,0,Downhill
+2003-02-28,Emily Brydon,CA,57,Super G
+2003-02-28,Floriane Paturel,FR,0,Downhill
+2003-02-28,Janette Hargin,SE,0,Downhill
+2003-02-28,Anna Ottosson,SE,32,Giant Slalom
+2003-02-28,Elena Tagliabue,IT,3,Super G
+2003-02-28,Sylviane Berthod,CH,50,Downhill
+2003-02-28,Nadia Styger,CH,9,Downhill
+2003-02-28,Alexandra Meissnitzer,AT,220,Super G
+2003-02-28,Britt Janyk,CA,0,Giant Slalom
+2003-02-28,Renate Goetschl,AT,348,Super G
+2003-02-28,Kathleen Monahan,US,25,Super G
+2003-02-28,Patrizia Bassis,IT,21,Super G
+2003-02-28,Corinne Imlig,CH,0,Downhill
+2003-02-28,Lucia Recchia,IT,44,Super G
+2003-02-28,Olesja Alieva,RU,0,Giant Slalom
 2003-02-28,Maria Riesch Hoefl,DE,24,Downhill
+2003-02-28,Daniela Ceccarelli,IT,219,Super G
+2003-02-28,Verena Stuffer,IT,0,Downhill
+2003-02-28,Ingrid Rumpfhuber,AT,0,Downhill
+2003-02-28,Chiara May,IT,5,Super G
+2003-02-28,Sibylle Brauner,DE,0,Downhill
+2003-02-28,Brigitte Obermoser,AT,73,Super G
+2003-02-28,Manuela Moelgg,IT,1,Slalom
+2003-02-28,Spela Bracun,SK,0,Downhill
+2003-02-28,Katrin Wilhelm,AT,5,Downhill
+2003-02-28,Tanja Schneider,AT,41,Super G
+2003-02-28,Barbara Kleon,IT,0,Super G
 2003-02-28,Jessica Lindell-Vikarby,SE,2,Downhill
-2003-02-28,Melanie Suchet,FR,12,Super G
-2003-03-02,Jonna Mendes,US,167,Super G
-2003-03-02,Tatiana Blagouliak,RU,0,Combined
-2003-03-02,Alexandra Kolier,DE,0,Combined
-2003-03-02,Floriane Paturel,FR,0,Combined
+2003-02-28,Fabienne Suter,CH,0,Giant Slalom
+2003-02-28,Anastasij Popkova,RU,0,Downhill
+2003-02-28,Chemmy Alcott,GB,0,Super G
+2003-02-28,Kelly Vanderbeek,CA,0,Downhill
+2003-02-28,Alexandra Kolier,DE,0,Downhill
+2003-02-28,Isolde Kostner,IT,88,Super G
+2003-02-28,Mojca Suhadolc,SK,109,Super G
+2003-02-28,Catherine Borghi,CH,23,Downhill
+2003-02-28,Magda Mattel,FR,0,Downhill
+2003-02-28,Regina Haeusl,DE,30,Downhill
+2003-02-28,Sophie Splawinski,CA,0,Downhill
 2003-03-02,Fabienne Suter,CH,0,Giant Slalom
-2003-03-02,Fraenzi Aufdenblatten,CH,59,Super G
-2003-03-02,Corinne Rey Bellet,CH,177,Downhill
-2003-03-02,Daniela Merighetti,IT,0,Giant Slalom
-2003-03-02,Karen Putzer,IT,294,Giant Slalom
-2003-03-02,Ella Alpiger,CH,0,Downhill
-2003-03-02,Emily Brydon,CA,77,Super G
-2003-03-02,Genevieve Simard,CA,70,Giant Slalom
-2003-03-02,Sibylle Brauner,DE,0,Combined
-2003-03-02,Chemmy Alcott,GB,4,Super G
-2003-03-02,Daniela Ceccarelli,IT,269,Super G
-2003-03-02,Hilde Gerg,DE,281,Super G
-2003-03-02,Magda Mattel,FR,0,Combined
-2003-03-02,Caroline Lalive,US,136,Super G
-2003-03-02,Corinne Imlig,CH,0,Downhill
-2003-03-02,Kirsten L Clark,US,216,Downhill
-2003-03-02,Tina Maze,SK,0,Giant Slalom
-2003-03-02,Tamara Mueller,CH,63,Super G
-2003-03-02,Melanie Suchet,FR,36,Super G
 2003-03-02,Michaela Dorfmeister,AT,253,Downhill
-2003-03-02,Britt Janyk,CA,0,Giant Slalom
-2003-03-02,Julia Mancuso,US,53,Super G
-2003-03-02,Lucia Recchia,IT,44,Super G
-2003-03-02,Alexandra Coletti,IT,0,Combined
-2003-03-02,Brigitte Obermoser,AT,173,Super G
-2003-03-02,Sophie Splawinski,CA,0,Combined
-2003-03-02,Chiara May,IT,5,Super G
-2003-03-02,Regina Haeusl,DE,35,Downhill
-2003-03-02,Patrizia Bassis,IT,21,Super G
-2003-03-02,Katrin Wilhelm,AT,6,Downhill
-2003-03-02,Alexandra Meissnitzer,AT,270,Super G
-2003-03-02,Nadia Styger,CH,15,Downhill
-2003-03-02,Kelly Vanderbeek,CA,0,Combined
-2003-03-02,Catherine Borghi,CH,25,Downhill
-2003-03-02,Silvia Berger,AT,49,Giant Slalom
-2003-03-02,Karine Meilleur,FR,7,Downhill
-2003-03-02,Katja Wirth,AT,52,Downhill
-2003-03-02,Barbara Kleon,IT,13,Super G
-2003-03-02,Anja Paerson,SE,30,Giant Slalom
-2003-03-02,Isolde Kostner,IT,106,Super G
-2003-03-02,Ingrid Rumpfhuber,AT,0,Downhill
-2003-03-02,Maria Riesch Hoefl,DE,24,Downhill
-2003-03-02,Anastasij Popkova,RU,0,Combined
-2003-03-02,Olesja Alieva,RU,0,Giant Slalom
-2003-03-02,Renate Goetschl,AT,408,Super G
-2003-03-02,Melanie Turgeon,CA,163,Super G
-2003-03-02,Alison Powers,US,0,Downhill
-2003-03-02,Eveline Rohregger,AT,66,Giant Slalom
-2003-03-02,Anna Ottosson,SE,32,Giant Slalom
-2003-03-02,Spela Bracun,SK,0,Downhill
-2003-03-02,Jenny Owens,AU,0,Combined
-2003-03-02,Carole Montillet,FR,467,Super G
-2003-03-02,Libby Ludlow,US,48,Super G
-2003-03-02,Lindsey Vonn,US,0,Downhill
-2003-03-02,Fujiko Sekino,FR,0,Combined
-2003-03-02,Mojca Suhadolc,SK,109,Super G
-2003-03-02,Tanja Schneider,AT,44,Super G
 2003-03-02,Janica Kostelic,HR,263,Slalom
-2003-03-02,Christina Risler,CA,0,Combined
+2003-03-02,Janette Hargin,SE,0,Downhill
+2003-03-02,Alison Powers,US,0,Downhill
+2003-03-02,Brigitte Obermoser,AT,173,Super G
+2003-03-02,Sibylle Brauner,DE,0,Downhill
+2003-03-02,Daniela Ceccarelli,IT,269,Super G
+2003-03-02,Spela Bracun,SK,0,Downhill
+2003-03-02,Magda Mattel,FR,0,Downhill
+2003-03-02,Verena Stuffer,IT,0,Downhill
+2003-03-02,Maria Belen Simari-Birkner,AR,0,Downhill
+2003-03-02,Hilde Gerg,DE,281,Super G
+2003-03-02,Tatiana Blagouliak,RU,0,Downhill
+2003-03-02,Daniela Merighetti,IT,0,Giant Slalom
+2003-03-02,Floriane Paturel,FR,0,Downhill
+2003-03-02,Alexandra Meissnitzer,AT,270,Super G
+2003-03-02,Carole Montillet,FR,467,Super G
+2003-03-02,Alexandra Coletti,IT,0,Downhill
+2003-03-02,Isolde Kostner,IT,106,Super G
+2003-03-02,Chemmy Alcott,GB,4,Super G
+2003-03-02,Renate Goetschl,AT,408,Super G
+2003-03-02,Karen Putzer,IT,294,Giant Slalom
 2003-03-02,Martina Ertl,DE,187,Giant Slalom
-2003-03-02,Sylviane Berthod,CH,57,Downhill
-2003-03-02,Bryna McCarty,US,0,Downhill
-2003-03-02,Verena Stuffer,IT,0,Combined
-2003-03-02,Kathleen Monahan,US,25,Super G
+2003-03-02,Alexandra Kolier,DE,0,Downhill
+2003-03-02,Kirsten L Clark,US,216,Downhill
+2003-03-02,Corinne Imlig,CH,0,Downhill
+2003-03-02,Macarena Simari-Birkner,AR,0,Downhill
+2003-03-02,Ella Alpiger,CH,0,Downhill
+2003-03-02,Melanie Turgeon,CA,163,Super G
+2003-03-02,Caroline Lalive,US,136,Super G
+2003-03-02,Anne Laure Givelet,FR,3,Super G
+2003-03-02,Jonna Mendes,US,167,Super G
+2003-03-02,Libby Ludlow,US,48,Super G
 2003-03-02,Petra Haltmayr,DE,0,Downhill
-2003-03-02,Julie Duvillard,FR,0,Combined
-2003-03-02,Manuela Moelgg,IT,1,Slalom
+2003-03-02,Lucia Recchia,IT,44,Super G
+2003-03-02,Anna Ottosson,SE,32,Giant Slalom
 2003-03-02,Jessica Lindell-Vikarby,SE,2,Downhill
-2003-03-13,Olesja Alieva,RU,0,Giant Slalom
-2003-03-13,Alexandra Meissnitzer,AT,350,Super G
-2003-03-13,Tatiana Blagouliak,RU,0,Combined
-2003-03-13,Ingrid Rumpfhuber,AT,0,Downhill
-2003-03-13,Isolde Kostner,IT,119,Super G
-2003-03-13,Kelly Vanderbeek,CA,0,Combined
-2003-03-13,Sophie Splawinski,CA,0,Combined
-2003-03-13,Britt Janyk,CA,0,Giant Slalom
-2003-03-13,Macarena Simari-Birkner,AR,0,Combined
-2003-03-13,Julie Duvillard,FR,0,Combined
-2003-03-13,Maria Belen Simari-Birkner,AR,0,Combined
-2003-03-13,Kirsten L Clark,US,252,Downhill
-2003-03-13,Melanie Turgeon,CA,177,Super G
-2003-03-13,Daniela Ceccarelli,IT,289,Super G
-2003-03-13,Chemmy Alcott,GB,4,Super G
-2003-03-13,Michaela Dorfmeister,AT,298,Downhill
-2003-03-13,Jenny Owens,AU,0,Combined
-2003-03-13,Tamara Mueller,CH,63,Super G
-2003-03-13,Tanja Pieren,CH,7,Super G
-2003-03-13,Renate Goetschl,AT,458,Super G
-2003-03-13,Melanie Suchet,FR,36,Super G
-2003-03-13,Carolina Ruiz Castillo,ES,6,Super G
-2003-03-13,Anne Laure Givelet,FR,3,Super G
-2003-03-13,Lucia Recchia,IT,44,Super G
-2003-03-13,Elena Tagliabue,IT,3,Super G
-2003-03-13,Ingrid Jacquemod,FR,83,Downhill
-2003-03-13,Martina Ertl,DE,267,Giant Slalom
-2003-03-13,Chiara May,IT,5,Super G
+2003-03-02,Eveline Rohregger,AT,66,Giant Slalom
+2003-03-02,Julie Duvillard,FR,0,Downhill
+2003-03-02,Kelly Vanderbeek,CA,0,Downhill
+2003-03-02,Karine Meilleur,FR,7,Downhill
+2003-03-02,Sophie Splawinski,CA,0,Downhill
+2003-03-02,Tamara Mueller,CH,63,Super G
+2003-03-02,Maria Riesch Hoefl,DE,24,Downhill
+2003-03-02,Catherine Borghi,CH,25,Downhill
+2003-03-02,Selina Heregger,AT,22,Super G
+2003-03-02,Manuela Moelgg,IT,1,Slalom
+2003-03-02,Sylviane Berthod,CH,57,Downhill
+2003-03-02,Anastasij Popkova,RU,0,Downhill
+2003-03-02,Nadia Styger,CH,15,Downhill
+2003-03-02,Britt Janyk,CA,0,Giant Slalom
+2003-03-02,Tanja Schneider,AT,44,Super G
+2003-03-02,Kathleen Monahan,US,25,Super G
+2003-03-02,Melanie Suchet,FR,36,Super G
+2003-03-02,Olesja Alieva,RU,0,Giant Slalom
+2003-03-02,Katrin Wilhelm,AT,6,Downhill
+2003-03-02,Patrizia Bassis,IT,21,Super G
+2003-03-02,Mojca Suhadolc,SK,109,Super G
+2003-03-02,Tina Maze,SK,0,Giant Slalom
+2003-03-02,Chiara May,IT,5,Super G
+2003-03-02,Anja Paerson,SE,30,Giant Slalom
+2003-03-02,Regina Haeusl,DE,35,Downhill
+2003-03-02,Barbara Kleon,IT,13,Super G
+2003-03-02,Katja Wirth,AT,52,Downhill
+2003-03-02,Jenny Owens,AU,0,Downhill
+2003-03-02,Corinne Rey Bellet,CH,177,Downhill
+2003-03-02,Fraenzi Aufdenblatten,CH,59,Super G
+2003-03-02,Isabelle Huber,DE,16,Downhill
+2003-03-02,Lindsey Vonn,US,0,Downhill
+2003-03-02,Carolina Ruiz Castillo,ES,6,Super G
+2003-03-02,Silvia Berger,AT,49,Giant Slalom
+2003-03-02,Julia Mancuso,US,53,Super G
+2003-03-02,Monika Dumermuth,CH,24,Super G
+2003-03-02,Fujiko Sekino,FR,0,Downhill
+2003-03-02,Martina Schild,CH,0,Downhill
+2003-03-02,Bryna McCarty,US,0,Downhill
+2003-03-02,Martina Lechner,AT,9,Super G
+2003-03-02,Christina Risler,CA,0,Downhill
+2003-03-02,Ingrid Jacquemod,FR,61,Downhill
+2003-03-02,Emily Brydon,CA,77,Super G
+2003-03-02,Tanja Pieren,CH,7,Super G
+2003-03-02,Genevieve Simard,CA,70,Giant Slalom
+2003-03-02,Elena Tagliabue,IT,3,Super G
+2003-03-02,Ingrid Rumpfhuber,AT,0,Downhill
 2003-03-13,Katrin Wilhelm,AT,6,Downhill
-2003-03-13,Brigitte Obermoser,AT,213,Super G
-2003-03-13,Nadia Styger,CH,15,Downhill
-2003-03-13,Catherine Borghi,CH,25,Downhill
-2003-03-13,Maria Riesch Hoefl,DE,24,Downhill
-2003-03-13,Regina Haeusl,DE,35,Downhill
-2003-03-13,Anja Paerson,SE,30,Giant Slalom
-2003-03-13,Martina Lechner,AT,9,Super G
-2003-03-13,Monika Dumermuth,CH,24,Super G
-2003-03-13,Katja Wirth,AT,52,Downhill
-2003-03-13,Isabelle Huber,DE,16,Downhill
-2003-03-13,Barbara Kleon,IT,13,Super G
-2003-03-13,Janica Kostelic,HR,281,Slalom
 2003-03-13,Selina Heregger,AT,22,Super G
-2003-03-13,Silvia Berger,AT,49,Giant Slalom
+2003-03-13,Floriane Paturel,FR,0,Downhill
+2003-03-13,Elena Tagliabue,IT,3,Super G
+2003-03-13,Verena Stuffer,IT,0,Downhill
+2003-03-13,Katja Wirth,AT,52,Downhill
+2003-03-13,Chiara May,IT,5,Super G
+2003-03-13,Brigitte Obermoser,AT,213,Super G
+2003-03-13,Tamara Mueller,CH,63,Super G
 2003-03-13,Patrizia Bassis,IT,21,Super G
+2003-03-13,Barbara Kleon,IT,13,Super G
+2003-03-13,Silvia Berger,AT,49,Giant Slalom
+2003-03-13,Isabelle Huber,DE,16,Downhill
+2003-03-13,Maria Belen Simari-Birkner,AR,0,Downhill
+2003-03-13,Monika Dumermuth,CH,24,Super G
+2003-03-13,Hilde Gerg,DE,281,Super G
+2003-03-13,Karen Putzer,IT,394,Giant Slalom
 2003-03-13,Julia Mancuso,US,63,Super G
-2003-03-13,Libby Ludlow,US,48,Super G
+2003-03-13,Tatiana Blagouliak,RU,0,Downhill
+2003-03-13,Renate Goetschl,AT,458,Super G
+2003-03-13,Martina Lechner,AT,9,Super G
+2003-03-13,Anja Paerson,SE,30,Giant Slalom
 2003-03-13,Anna Ottosson,SE,32,Giant Slalom
+2003-03-13,Macarena Simari-Birkner,AR,0,Downhill
+2003-03-13,Regina Haeusl,DE,35,Downhill
+2003-03-13,Catherine Borghi,CH,25,Downhill
+2003-03-13,Carole Montillet,FR,493,Super G
 2003-03-13,Tanja Schneider,AT,44,Super G
+2003-03-13,Chemmy Alcott,GB,4,Super G
+2003-03-13,Nadia Styger,CH,15,Downhill
+2003-03-13,Libby Ludlow,US,48,Super G
 2003-03-13,Karine Meilleur,FR,7,Downhill
 2003-03-13,Jessica Lindell-Vikarby,SE,2,Downhill
-2003-03-13,Manuela Moelgg,IT,1,Slalom
-2003-03-13,Kathleen Monahan,US,25,Super G
-2003-03-13,Corinne Rey Bellet,CH,206,Downhill
-2003-03-13,Floriane Paturel,FR,0,Combined
-2003-03-13,Hilde Gerg,DE,281,Super G
 2003-03-13,Ella Alpiger,CH,0,Downhill
-2003-03-13,Fraenzi Aufdenblatten,CH,70,Super G
-2003-03-13,Magda Mattel,FR,0,Combined
-2003-03-13,Genevieve Simard,CA,85,Giant Slalom
-2003-03-13,Karen Putzer,IT,394,Giant Slalom
-2003-03-13,Sibylle Brauner,DE,0,Combined
-2003-03-13,Corinne Imlig,CH,0,Downhill
-2003-03-13,Fabienne Suter,CH,0,Giant Slalom
-2003-03-13,Emily Brydon,CA,89,Super G
-2003-03-13,Alexandra Kolier,DE,0,Combined
+2003-03-13,Michaela Dorfmeister,AT,298,Downhill
 2003-03-13,Janette Hargin,SE,0,Downhill
+2003-03-13,Petra Haltmayr,DE,0,Downhill
+2003-03-13,Jonna Mendes,US,191,Super G
+2003-03-13,Tina Maze,SK,0,Giant Slalom
 2003-03-13,Caroline Lalive,US,136,Super G
 2003-03-13,Daniela Merighetti,IT,0,Giant Slalom
-2003-03-13,Jonna Mendes,US,191,Super G
-2003-03-13,Petra Haltmayr,DE,0,Downhill
-2003-03-13,Tina Maze,SK,0,Giant Slalom
 2003-03-13,Bryna McCarty,US,0,Downhill
-2003-03-13,Sylviane Berthod,CH,73,Downhill
-2003-03-13,Christina Risler,CA,0,Combined
-2003-03-13,Carole Montillet,FR,493,Super G
-2003-03-13,Verena Stuffer,IT,0,Combined
-2003-03-13,Mojca Suhadolc,SK,109,Super G
-2003-03-13,Fujiko Sekino,FR,0,Combined
-2003-03-13,Lindsey Vonn,US,0,Downhill
-2003-03-13,Spela Bracun,SK,0,Downhill
-2003-03-13,Alison Powers,US,0,Downhill
+2003-03-13,Emily Brydon,CA,89,Super G
+2003-03-13,Christina Risler,CA,0,Downhill
 2003-03-13,Eveline Rohregger,AT,98,Giant Slalom
-2003-03-13,Alexandra Coletti,IT,0,Combined
+2003-03-13,Melanie Turgeon,CA,177,Super G
 2003-03-13,Martina Schild,CH,0,Downhill
-2003-03-13,Anastasij Popkova,RU,0,Combined
+2003-03-13,Kirsten L Clark,US,252,Downhill
+2003-03-13,Genevieve Simard,CA,85,Giant Slalom
+2003-03-13,Fujiko Sekino,FR,0,Downhill
+2003-03-13,Alison Powers,US,0,Downhill
+2003-03-13,Fraenzi Aufdenblatten,CH,70,Super G
+2003-03-13,Lindsey Vonn,US,0,Downhill
+2003-03-13,Jenny Owens,AU,0,Downhill
+2003-03-13,Spela Bracun,SK,0,Downhill
+2003-03-13,Corinne Rey Bellet,CH,206,Downhill
+2003-03-13,Alexandra Coletti,IT,0,Downhill
+2003-03-13,Kelly Vanderbeek,CA,0,Downhill
+2003-03-13,Sophie Splawinski,CA,0,Downhill
+2003-03-13,Alexandra Kolier,DE,0,Downhill
+2003-03-13,Carolina Ruiz Castillo,ES,6,Super G
+2003-03-13,Janica Kostelic,HR,281,Slalom
+2003-03-13,Martina Ertl,DE,267,Giant Slalom
+2003-03-13,Tanja Pieren,CH,7,Super G
+2003-03-13,Magda Mattel,FR,0,Downhill
+2003-03-13,Ingrid Jacquemod,FR,83,Downhill
+2003-03-13,Lucia Recchia,IT,44,Super G
+2003-03-13,Melanie Suchet,FR,36,Super G
+2003-03-13,Sibylle Brauner,DE,0,Downhill
+2003-03-13,Manuela Moelgg,IT,1,Slalom
+2003-03-13,Maria Riesch Hoefl,DE,24,Downhill
+2003-03-13,Ingrid Rumpfhuber,AT,0,Downhill
+2003-03-13,Daniela Ceccarelli,IT,289,Super G
+2003-03-13,Corinne Imlig,CH,0,Downhill
+2003-03-13,Olesja Alieva,RU,0,Giant Slalom
+2003-03-13,Kathleen Monahan,US,25,Super G
+2003-03-13,Alexandra Meissnitzer,AT,350,Super G
+2003-03-13,Britt Janyk,CA,0,Giant Slalom
+2003-03-13,Fabienne Suter,CH,0,Giant Slalom
+2003-03-13,Anastasij Popkova,RU,0,Downhill
+2003-03-13,Sylviane Berthod,CH,73,Downhill
+2003-03-13,Mojca Suhadolc,SK,109,Super G
+2003-03-13,Isolde Kostner,IT,119,Super G
+2003-03-13,Anne Laure Givelet,FR,3,Super G
+2003-03-13,Julie Duvillard,FR,0,Downhill

@@ -49,7 +49,7 @@ date,name,ath_country,value,specialty
 2014-11-16,Daniel Yule,CH,26,Slalom
 2014-11-16,Anthony Bonvin,CH,0,Combined
 2014-11-16,Luca Aerni,CH,0,Slalom
-2014-11-16,Ondrej Bank,CZ,0,Combined
+2014-11-16,Ondrej Bank,CZ,0,Downhill
 2014-11-16,Alexis Pinturault,FR,0,Giant Slalom
 2014-11-16,Filip Zubcic,HR,0,Giant Slalom
 2014-11-16,Pawel Starzyk,PL,0,Combined
@@ -169,7 +169,7 @@ date,name,ath_country,value,specialty
 2014-12-14,AJ Ginnis,US,0,Combined
 2014-12-14,Benjamin Raich,AT,16,Giant Slalom
 2014-12-14,Aleksandr Andrienko,RU,0,Giant Slalom
-2014-12-14,Ondrej Bank,CZ,0,Combined
+2014-12-14,Ondrej Bank,CZ,0,Downhill
 2014-12-14,Andreas Zampa,SK,0,Combined
 2014-12-14,Naoki Yuasa,JP,0,Slalom
 2014-12-14,Adam Zampa,SK,3,Slalom
@@ -255,7 +255,7 @@ date,name,ath_country,value,specialty
 2014-12-14,Joonas Rasanen,FI,0,Combined
 2014-12-22,Mark Engel,US,0,Combined
 2014-12-22,Kristaps Zvejnieks,LV,0,Combined
-2014-12-22,Ondrej Bank,CZ,0,Combined
+2014-12-22,Ondrej Bank,CZ,0,Downhill
 2014-12-22,Nicholas Moynihan,GB,0,Combined
 2014-12-22,Justin Murisier,CH,9,Giant Slalom
 2014-12-22,Giordano Ronci,IT,0,Combined
@@ -468,7 +468,7 @@ date,name,ath_country,value,specialty
 2015-01-06,Matej Falat,SK,0,Combined
 2015-01-06,Reinfried Herbst,AT,11,Slalom
 2015-01-06,Giovanni Borsotti,IT,0,Giant Slalom
-2015-01-06,Ondrej Bank,CZ,0,Combined
+2015-01-06,Ondrej Bank,CZ,0,Downhill
 2015-01-06,Naoki Yuasa,JP,18,Slalom
 2015-01-06,Adam Zampa,SK,24,Slalom
 2015-01-06,Andreas Zampa,SK,0,Combined
@@ -521,7 +521,7 @@ date,name,ath_country,value,specialty
 2015-01-11,Giovanni Borsotti,IT,0,Giant Slalom
 2015-01-11,Jaba Gelashvili,GE,0,Combined
 2015-01-11,Johnatan Longhi,BR,0,Combined
-2015-01-11,Ondrej Bank,CZ,0,Combined
+2015-01-11,Ondrej Bank,CZ,0,Downhill
 2015-01-11,Justin Murisier,CH,9,Giant Slalom
 2015-01-11,Matej Vidovic,HR,0,Combined
 2015-01-11,Kai Alaerts,BE,0,Combined
@@ -687,7 +687,7 @@ date,name,ath_country,value,specialty
 2015-01-17,Patrick Thaler,IT,93,Slalom
 2015-01-17,Ted Ligety,US,26,Giant Slalom
 2015-01-17,Michael Rishworth,AU,0,Combined
-2015-01-17,Ondrej Bank,CZ,0,Combined
+2015-01-17,Ondrej Bank,CZ,0,Downhill
 2015-01-17,Aleksandr Andrienko,RU,0,Giant Slalom
 2015-01-17,Ivica Kostelic,HR,31,Combined
 2015-01-17,Julien Cousineau,CA,15,Slalom
@@ -800,7 +800,7 @@ date,name,ath_country,value,specialty
 2015-01-25,Victor Muffat Jeandet,FR,111,Giant Slalom
 2015-01-25,Naoki Yuasa,JP,32,Slalom
 2015-01-25,Matej Vidovic,HR,0,Combined
-2015-01-25,Ondrej Bank,CZ,0,Combined
+2015-01-25,Ondrej Bank,CZ,0,Downhill
 2015-01-25,Maciej Bydlinski,PL,0,Combined
 2015-01-25,Linus Strasser,DE,50,Slalom
 2015-01-25,Adam Zampa,SK,37,Slalom
@@ -965,7 +965,7 @@ date,name,ath_country,value,specialty
 2015-01-27,Jakob Spik,SK,0,Combined
 2015-01-27,Riccardo Tonetti,IT,14,Slalom
 2015-01-27,Michael Rishworth,AU,0,Combined
-2015-01-27,Ondrej Bank,CZ,0,Combined
+2015-01-27,Ondrej Bank,CZ,0,Downhill
 2015-01-27,Max Luukko,FI,0,Combined
 2015-01-27,Alexis Pinturault,FR,138,Giant Slalom
 2015-01-27,Benjamin Raich,AT,73,Giant Slalom
@@ -1094,7 +1094,7 @@ date,name,ath_country,value,specialty
 2015-03-15,Santeri Paloniemi,FI,0,Combined
 2015-03-15,Aleksandr Andrienko,RU,0,Giant Slalom
 2015-03-15,Michael Matt,AT,15,Slalom
-2015-03-15,Ondrej Bank,CZ,0,Combined
+2015-03-15,Ondrej Bank,CZ,0,Downhill
 2015-03-15,Nolan Kasper,US,0,Combined
 2015-03-15,Adam Zampa,SK,55,Slalom
 2015-03-15,Erik Read,CA,7,Slalom
@@ -1255,7 +1255,7 @@ date,name,ath_country,value,specialty
 2015-03-22,Giovanni Borsotti,IT,0,Giant Slalom
 2015-03-22,Sebastiano Gastaldi,AR,0,Combined
 2015-03-22,Naoki Yuasa,JP,47,Slalom
-2015-03-22,Ondrej Bank,CZ,0,Combined
+2015-03-22,Ondrej Bank,CZ,0,Downhill
 2015-03-22,Adam Zampa,SK,55,Slalom
 2015-03-22,Aleksandr Andrienko,RU,0,Giant Slalom
 2015-03-22,Benjamin Raich,AT,92,Giant Slalom

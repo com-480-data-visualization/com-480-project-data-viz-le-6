@@ -5,6 +5,7 @@ date,name,ath_country,value,specialty
 2013-01-18,Peter Fill,IT,14,Downhill
 2013-01-18,Victor Muffat Jeandet,FR,13,Giant Slalom
 2013-01-18,Silvan Zurbriggen,CH,12,Downhill
+2013-01-18,Cristian Javier Simari Birkner,AR,0,Combined
 2013-01-18,Brice Roger,FR,8,Downhill
 2013-01-18,Maxence Muzaton,FR,7,Downhill
 2013-01-18,Ryan Cochran-Siegle,US,6,Super G
@@ -14,6 +15,8 @@ date,name,ath_country,value,specialty
 2013-01-18,Adam Zampa,SK,2,Giant Slalom
 2013-01-18,Adrien Theaux,FR,20,Downhill
 2013-01-18,Josef Ferstl,DE,1,Downhill
+2013-01-18,Svetoslav Georgiev,BG,0,Combined
+2013-01-18,Jared Goldberg,US,0,Super G
 2013-01-18,Nikola Chongarov,BG,0,Combined
 2013-01-18,Yuri Danilochkin,BY,0,Combined
 2013-01-18,Frederic Berthold,AT,0,Downhill
@@ -25,68 +28,68 @@ date,name,ath_country,value,specialty
 2013-01-18,Martin Vrablik,CZ,0,Combined
 2013-01-18,Georgi Georgiev,BG,0,Combined
 2013-01-18,Doglas Hedin,SE,0,Super G
-2013-01-18,Cristian Javier Simari Birkner,AR,0,Combined
-2013-01-18,Jared Goldberg,US,0,Super G
+2013-01-18,Daniel Ericsson,SE,0,Combined
 2013-01-18,Hannes Reichelt,AT,22,Downhill
 2013-01-18,Joachim Puchner,AT,10,Super G
-2013-01-18,Carlo Janka,CH,60,Combined
-2013-01-18,Thomas Mermillod,FR,36,Combined
-2013-01-18,Matthias Mayer,AT,11,Super G
-2013-01-18,Christof Innerhofer,IT,45,Downhill
-2013-01-18,Marc Berthod,CH,32,Combined
-2013-01-18,Kjetil Jansrud,NO,0,Downhill
-2013-01-18,Ivica Kostelic,HR,80,Slalom
-2013-01-18,Benjamin Raich,AT,50,Slalom
-2013-01-18,Dominik Paris,IT,40,Downhill
-2013-01-18,Sandro Viletta,CH,29,Combined
-2013-01-18,Romed Baumann,AT,9,Downhill
-2013-01-18,Aksel-Lund Svindal,NO,18,Super G
 2013-01-18,Siegmar Klotz,IT,26,Super G
+2013-01-18,Dominik Paris,IT,40,Downhill
+2013-01-18,Christof Innerhofer,IT,45,Downhill
+2013-01-18,Kjetil Jansrud,NO,0,Downhill
+2013-01-18,Thomas Mermillod,FR,36,Super G
+2013-01-18,Romed Baumann,AT,9,Downhill
+2013-01-18,Matthias Mayer,AT,11,Super G
+2013-01-18,Marc Berthod,CH,32,Combined
+2013-01-18,Benjamin Raich,AT,50,Slalom
+2013-01-18,Carlo Janka,CH,60,Combined
+2013-01-18,Aksel-Lund Svindal,NO,18,Super G
+2013-01-18,Sandro Viletta,CH,29,Combined
+2013-01-18,Maciej Bydlinski,PL,0,Combined
 2013-01-18,Andreas Romar,FI,24,Super G
-2013-01-27,Yuri Danilochkin,BY,0,Combined
-2013-01-27,Romed Baumann,AT,59,Downhill
-2013-01-27,Frederic Berthold,AT,0,Downhill
-2013-01-27,Benjamin Raich,AT,50,Slalom
-2013-01-27,Ted Ligety,US,0,Giant Slalom
-2013-01-27,Nikola Chongarov,BG,0,Combined
-2013-01-27,Siegmar Klotz,IT,26,Super G
-2013-01-27,Marc Gisin,CH,0,Combined
-2013-01-27,Thomas Mermillod,FR,96,Combined
-2013-01-27,Marvin Van Heek,NL,0,Downhill
-2013-01-27,Carlo Janka,CH,86,Combined
+2013-01-18,Ivica Kostelic,HR,80,Slalom
 2013-01-27,Matteo Marsaglia,IT,0,Super G
-2013-01-27,Martin Vrablik,CZ,0,Combined
-2013-01-27,Georgi Georgiev,BG,0,Combined
-2013-01-27,Ivica Kostelic,HR,180,Slalom
 2013-01-27,Doglas Hedin,SE,0,Super G
-2013-01-27,Alexis Pinturault,FR,180,Giant Slalom
-2013-01-27,Cristian Javier Simari Birkner,AR,0,Combined
-2013-01-27,Will Brandenburg,US,0,Slalom
+2013-01-27,Aksel-Lund Svindal,NO,63,Super G
 2013-01-27,Jared Goldberg,US,0,Super G
-2013-01-27,Adam Zampa,SK,2,Giant Slalom
+2013-01-27,Christof Innerhofer,IT,45,Downhill
+2013-01-27,Nikola Chongarov,BG,0,Combined
+2013-01-27,Alexis Pinturault,FR,100,Giant Slalom
+2013-01-27,Yuri Danilochkin,BY,0,Combined
+2013-01-27,Georgi Georgiev,BG,0,Combined
+2013-01-27,Frederic Berthold,AT,0,Downhill
+2013-01-27,Ted Ligety,US,0,Giant Slalom
+2013-01-27,Benjamin Raich,AT,50,Slalom
+2013-01-27,Martin Vrablik,CZ,0,Combined
+2013-01-27,Svetoslav Georgiev,BG,0,Combined
+2013-01-27,Ivica Kostelic,HR,80,Slalom
+2013-01-27,Marc Gisin,CH,0,Combined
+2013-01-27,Carlo Janka,CH,86,Combined
+2013-01-27,Marvin Van Heek,NL,0,Downhill
+2013-01-27,Romed Baumann,AT,59,Downhill
+2013-01-27,Will Brandenburg,US,0,Slalom
+2013-01-27,Dominik Paris,IT,40,Downhill
 2013-01-27,Josef Ferstl,DE,1,Downhill
-2013-01-27,Maciej Bydlinski,PL,29,Combined
 2013-01-27,Hannes Reichelt,AT,22,Downhill
-2013-01-27,Sandro Viletta,CH,29,Combined
 2013-01-27,Adrien Theaux,FR,20,Downhill
+2013-01-27,Maciej Bydlinski,PL,29,Combined
 2013-01-27,Klemen Kosi,SK,18,Combined
+2013-01-27,Sandro Viletta,CH,29,Combined
 2013-01-27,Sebastien Pichot,FR,15,Combined
-2013-01-27,Andreas Romar,FI,56,Super G
 2013-01-27,Peter Fill,IT,14,Downhill
-2013-01-27,Marc Berthod,CH,32,Combined
 2013-01-27,Victor Muffat Jeandet,FR,13,Giant Slalom
+2013-01-27,Andreas Romar,FI,56,Super G
 2013-01-27,Silvan Zurbriggen,CH,12,Downhill
-2013-01-27,Daniel Ericsson,SE,0,Combined
+2013-01-27,Marc Berthod,CH,32,Combined
 2013-01-27,Joachim Puchner,AT,10,Super G
 2013-01-27,Brice Roger,FR,8,Downhill
-2013-01-27,Matthias Mayer,AT,47,Super G
 2013-01-27,Maxence Muzaton,FR,7,Downhill
+2013-01-27,Matthias Mayer,AT,47,Super G
 2013-01-27,Ryan Cochran-Siegle,US,6,Super G
-2013-01-27,Kjetil Jansrud,NO,40,Downhill
+2013-01-27,Thomas Mermillod,FR,36,Super G
 2013-01-27,Alexandr Horoshilov,RU,5,Slalom
-2013-01-27,Dominik Paris,IT,40,Downhill
 2013-01-27,Andreas Sander,DE,4,Downhill
 2013-01-27,Florian Scheiber,AT,3,Downhill
-2013-01-27,Aksel-Lund Svindal,NO,63,Super G
-2013-01-27,Christof Innerhofer,IT,45,Downhill
-2013-01-27,Svetoslav Georgiev,BG,0,Combined
+2013-01-27,Kjetil Jansrud,NO,40,Downhill
+2013-01-27,Adam Zampa,SK,2,Giant Slalom
+2013-01-27,Siegmar Klotz,IT,26,Super G
+2013-01-27,Daniel Ericsson,SE,0,Combined
+2013-01-27,Cristian Javier Simari Birkner,AR,0,Combined

@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1991-11-23,Tobias Barnerssoi,DE,37,Giant Slalom
 1991-11-23,Roberto Spampatti,IT,60,Giant Slalom
 1991-11-23,Kjetil Andre Aamodt,NO,0,Super G
-1991-11-23,Stephan Eberharter,AT,0,Combined
+1991-11-23,Stephan Eberharter,AT,0,Super G
 1991-11-23,Luca Pesando,IT,26,Giant Slalom
 1991-11-23,Hans Pieren,CH,43,Giant Slalom
 1991-11-23,Joe Levins,US,10,Slalom
@@ -88,7 +88,7 @@ date,name,ath_country,value,specialty
 1991-11-29,Joe Levins,US,10,Slalom
 1991-11-29,Hans Pieren,CH,83,Giant Slalom
 1991-11-29,Didrik Marksten,NO,30,Giant Slalom
-1991-11-29,Stephan Eberharter,AT,0,Combined
+1991-11-29,Stephan Eberharter,AT,0,Super G
 1991-11-29,Armin Bittner,DE,4,Slalom
 1991-11-29,Kjetil Andre Aamodt,NO,0,Super G
 1991-11-29,Tobias Barnerssoi,DE,53,Giant Slalom
@@ -127,7 +127,7 @@ date,name,ath_country,value,specialty
 1991-12-15,Michel Lucatelli,FR,0,Giant Slalom
 1991-12-15,Patrick Staub,CH,0,Slalom
 1991-12-15,Kjetil Andre Aamodt,NO,0,Super G
-1991-12-15,Stephan Eberharter,AT,0,Combined
+1991-12-15,Stephan Eberharter,AT,0,Super G
 1991-12-15,Hans Pieren,CH,138,Giant Slalom
 1991-12-15,Joe Levins,US,10,Slalom
 1991-12-15,Matthew Grosjean,US,8,Slalom
@@ -173,7 +173,7 @@ date,name,ath_country,value,specialty
 1992-01-04,Matthew Grosjean,US,8,Slalom
 1992-01-04,Joe Levins,US,10,Slalom
 1992-01-04,Helmut Mayer,AT,23,Giant Slalom
-1992-01-04,Stephan Eberharter,AT,0,Combined
+1992-01-04,Stephan Eberharter,AT,0,Super G
 1992-01-04,Luca Pesando,IT,63,Giant Slalom
 1992-01-04,Marco Hangl,CH,66,Super G
 1992-01-04,Richard Kroell,AT,0,Giant Slalom
@@ -218,7 +218,7 @@ date,name,ath_country,value,specialty
 1992-01-22,Markus Wasmeier,DE,10,Downhill
 1992-01-22,Richard Kroell,AT,24,Giant Slalom
 1992-01-22,Urs Kaelin,CH,55,Super G
-1992-01-22,Stephan Eberharter,AT,0,Combined
+1992-01-22,Stephan Eberharter,AT,0,Super G
 1992-01-22,Kjetil Andre Aamodt,NO,73,Super G
 1992-01-22,Josef Polig,IT,148,Giant Slalom
 1992-01-22,Fredrik Nyberg,SE,136,Giant Slalom
@@ -283,7 +283,7 @@ date,name,ath_country,value,specialty
 1992-02-02,Joe Levins,US,10,Slalom
 1992-02-02,Hans Pieren,CH,349,Giant Slalom
 1992-02-02,Kjetil Andre Aamodt,NO,116,Super G
-1992-02-02,Stephan Eberharter,AT,7,Combined
+1992-02-02,Stephan Eberharter,AT,7,Super G
 1992-02-02,Patrick Staub,CH,26,Slalom
 1992-02-02,Michel Lucatelli,FR,14,Giant Slalom
 1992-02-02,Steve Locher,CH,221,Giant Slalom
@@ -355,7 +355,7 @@ date,name,ath_country,value,specialty
 1992-03-20,Patrick Staub,CH,32,Slalom
 1992-03-20,Frank Piccard,FR,205,Giant Slalom
 1992-03-20,Johan Wallner,SE,238,Giant Slalom
-1992-03-20,Stephan Eberharter,AT,19,Combined
+1992-03-20,Stephan Eberharter,AT,19,Super G
 1992-03-20,Richard Pramotton,IT,54,Slalom
 1992-03-20,Kjetil Andre Aamodt,NO,196,Super G
 1992-03-20,Josef Polig,IT,167,Giant Slalom

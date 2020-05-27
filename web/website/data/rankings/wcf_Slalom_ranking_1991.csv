@@ -13,7 +13,7 @@ date,name,ath_country,value,specialty
 1990-12-02,Diann Roffe Steinrotter,US,10,Super G
 1990-12-02,Karin Buder,AT,11,Slalom
 1990-12-02,Katjusa Pusnik,SK,0,Slalom
-1990-12-02,Florence Masnada,FR,0,Combined
+1990-12-02,Florence Masnada,FR,0,Slalom
 1990-12-02,Anita Wachter,AT,0,Giant Slalom
 1990-12-02,Kristina Andersson,SE,0,Slalom
 1990-12-02,Veronika Sarec,SK,4,Slalom
@@ -34,11 +34,11 @@ date,name,ath_country,value,specialty
 1990-12-02,Beatrice Filliol,FR,0,Slalom
 1990-12-02,Pernilla Wiberg,SE,0,Slalom
 1990-12-02,Elfi Eder,AT,2,Slalom
-1990-12-02,Ingrid Stoeckl,AT,0,Combined
+1990-12-02,Ingrid Stoeckl,AT,0,Downhill
 1990-12-22,Veronika Sarec,SK,11,Slalom
-1990-12-22,Ingrid Stoeckl,AT,3,Combined
+1990-12-22,Ingrid Stoeckl,AT,3,Downhill
 1990-12-22,Giovanna Gianera,IT,3,Slalom
-1990-12-22,Florence Masnada,FR,12,Combined
+1990-12-22,Florence Masnada,FR,12,Slalom
 1990-12-22,Beatrice Filliol,FR,0,Slalom
 1990-12-22,Sabine Ginther,AT,0,Downhill
 1990-12-22,Tanis Hunt,US,0,Slalom
@@ -102,9 +102,9 @@ date,name,ath_country,value,specialty
 1991-01-07,Petra Kronberger,AT,37,Downhill
 1991-01-07,Tanis Hunt,US,0,Slalom
 1991-01-07,Veronika Sarec,SK,19,Slalom
-1991-01-07,Florence Masnada,FR,22,Combined
+1991-01-07,Florence Masnada,FR,22,Slalom
 1991-01-07,Beatrice Filliol,FR,0,Slalom
-1991-01-07,Ingrid Stoeckl,AT,3,Combined
+1991-01-07,Ingrid Stoeckl,AT,3,Downhill
 1991-01-07,Giovanna Gianera,IT,3,Slalom
 1991-01-07,Patricia Chauvet,FR,23,Slalom
 1991-01-12,Annette Gersch,DE,7,Slalom
@@ -133,9 +133,9 @@ date,name,ath_country,value,specialty
 1991-01-12,Diann Roffe Steinrotter,US,10,Super G
 1991-01-12,Kristina Andersson,SE,10,Slalom
 1991-01-12,Petra Kronberger,AT,43,Downhill
-1991-01-12,Florence Masnada,FR,31,Combined
+1991-01-12,Florence Masnada,FR,31,Slalom
 1991-01-12,Claudia Strobl,AT,25,Slalom
-1991-01-12,Ingrid Stoeckl,AT,3,Combined
+1991-01-12,Ingrid Stoeckl,AT,3,Downhill
 1991-01-12,Ingrid Salvenmoser,AT,35,Slalom
 1991-01-12,Renate Oberhofer,IT,0,Slalom
 1991-01-12,Gabriela Zingre-Graf,CH,0,Slalom
@@ -151,7 +151,7 @@ date,name,ath_country,value,specialty
 1991-01-13,Gaby May,CH,5,Slalom
 1991-01-13,Beatrice Filliol,FR,3,Slalom
 1991-01-13,Elfi Eder,AT,4,Slalom
-1991-01-13,Ingrid Stoeckl,AT,3,Combined
+1991-01-13,Ingrid Stoeckl,AT,3,Downhill
 1991-01-13,Giovanna Gianera,IT,3,Slalom
 1991-01-13,Gabriela Zingre-Graf,CH,2,Slalom
 1991-01-13,Blanca Fernandez Ochoa,ES,57,Slalom
@@ -168,7 +168,7 @@ date,name,ath_country,value,specialty
 1991-01-13,Eva Twardokens,US,21,Giant Slalom
 1991-01-13,Vreni Schneider,CH,27,Giant Slalom
 1991-01-13,Kristina Andersson,SE,17,Slalom
-1991-01-13,Florence Masnada,FR,31,Combined
+1991-01-13,Florence Masnada,FR,31,Slalom
 1991-01-13,Annette Gersch,DE,7,Slalom
 1991-01-13,Lara Magoni,IT,1,Slalom
 1991-01-13,Veronika Sarec,SK,49,Slalom
@@ -184,9 +184,9 @@ date,name,ath_country,value,specialty
 1991-03-11,Lara Magoni,IT,1,Slalom
 1991-03-11,Giovanna Gianera,IT,3,Slalom
 1991-03-11,Gabriela Zingre-Graf,CH,2,Slalom
-1991-03-11,Florence Masnada,FR,31,Combined
+1991-03-11,Florence Masnada,FR,31,Slalom
 1991-03-11,Kristina Andersson,SE,37,Slalom
-1991-03-11,Ingrid Stoeckl,AT,3,Combined
+1991-03-11,Ingrid Stoeckl,AT,3,Downhill
 1991-03-11,Anita Wachter,AT,28,Giant Slalom
 1991-03-11,Veronika Sarec,SK,49,Slalom
 1991-03-11,Patricia Chauvet,FR,47,Slalom
@@ -220,7 +220,7 @@ date,name,ath_country,value,specialty
 1991-03-20,Gabriela Zingre-Graf,CH,2,Slalom
 1991-03-20,Elfi Eder,AT,4,Slalom
 1991-03-20,Anouk Barnier,FR,10,Slalom
-1991-03-20,Ingrid Stoeckl,AT,3,Combined
+1991-03-20,Ingrid Stoeckl,AT,3,Downhill
 1991-03-20,Petra Kronberger,AT,83,Downhill
 1991-03-20,Blanca Fernandez Ochoa,ES,76,Slalom
 1991-03-20,Pernilla Wiberg,SE,79,Slalom
@@ -233,7 +233,7 @@ date,name,ath_country,value,specialty
 1991-03-20,Christine von Gruenigen,CH,61,Slalom
 1991-03-20,Veronika Sarec,SK,60,Slalom
 1991-03-20,Anita Wachter,AT,28,Giant Slalom
-1991-03-20,Florence Masnada,FR,31,Combined
+1991-03-20,Florence Masnada,FR,31,Slalom
 1991-03-20,Beatrice Filliol,FR,3,Slalom
 1991-03-20,Katjusa Pusnik,SK,28,Slalom
 1991-03-20,Diann Roffe Steinrotter,US,10,Super G

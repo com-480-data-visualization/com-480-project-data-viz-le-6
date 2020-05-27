@@ -80,7 +80,7 @@ date,name,ath_country,value,specialty
 2011-10-23,Tim Lindgren,SE,0,Combined
 2011-10-23,Massimiliano Blardone,IT,13,Giant Slalom
 2011-10-23,Dominik Schwaiger,DE,0,Combined
-2011-10-23,Silvan Zurbriggen,CH,0,Combined
+2011-10-23,Silvan Zurbriggen,CH,0,Downhill
 2011-10-23,Tim Jitloff,US,0,Giant Slalom
 2011-10-23,Dustin Cook,CA,0,Combined
 2011-10-23,Marcel Hirscher,AT,40,Giant Slalom
@@ -163,7 +163,7 @@ date,name,ath_country,value,specialty
 2011-12-04,Mattias Hargin,SE,0,Slalom
 2011-12-04,Adrien Theaux,FR,0,Downhill
 2011-12-04,Dominik Schwaiger,DE,0,Combined
-2011-12-04,Silvan Zurbriggen,CH,0,Combined
+2011-12-04,Silvan Zurbriggen,CH,0,Downhill
 2011-12-04,Dustin Cook,CA,0,Combined
 2011-12-04,Daniel Albrecht,CH,0,Giant Slalom
 2011-12-04,Jon Olsson,SE,0,Combined
@@ -350,7 +350,7 @@ date,name,ath_country,value,specialty
 2011-12-06,Johnatan Longhi,BR,0,Combined
 2011-12-06,Yuri Danilochkin,BY,0,Combined
 2011-12-06,Romed Baumann,AT,52,Downhill
-2011-12-06,Silvan Zurbriggen,CH,0,Combined
+2011-12-06,Silvan Zurbriggen,CH,0,Downhill
 2011-12-06,Klemen Kosi,SK,0,Combined
 2011-12-06,Marcel Hirscher,AT,220,Giant Slalom
 2011-12-06,Dustin Cook,CA,0,Combined
@@ -375,7 +375,7 @@ date,name,ath_country,value,specialty
 2011-12-06,Jaba Gelashvili,GE,0,Combined
 2011-12-06,Manuel Pleisch,CH,0,Combined
 2011-12-18,Alberto Schieppati,IT,0,Combined
-2011-12-18,Silvan Zurbriggen,CH,0,Combined
+2011-12-18,Silvan Zurbriggen,CH,0,Downhill
 2011-12-18,Robbie Dixon,CA,0,Super G
 2011-12-18,Sandro Viletta,CH,6,Super G
 2011-12-18,Mattias Hargin,SE,0,Slalom
@@ -620,7 +620,7 @@ date,name,ath_country,value,specialty
 2012-01-07,Hannes Reichelt,AT,152,Downhill
 2012-01-07,Tommy Ford,US,25,Giant Slalom
 2012-01-07,Marc Berthod,CH,17,Giant Slalom
-2012-01-07,Silvan Zurbriggen,CH,0,Combined
+2012-01-07,Silvan Zurbriggen,CH,0,Downhill
 2012-01-07,Gauthier De Tessieres,FR,31,Giant Slalom
 2012-01-07,Ted Ligety,US,380,Giant Slalom
 2012-01-07,Florian Eisath,IT,18,Giant Slalom
@@ -726,7 +726,7 @@ date,name,ath_country,value,specialty
 2012-02-18,Alexis Pinturault,FR,210,Giant Slalom
 2012-02-18,Ondrej Berndt,CZ,0,Combined
 2012-02-18,Hannes Reichelt,AT,197,Downhill
-2012-02-18,Silvan Zurbriggen,CH,0,Combined
+2012-02-18,Silvan Zurbriggen,CH,0,Downhill
 2012-02-18,Samu Torsti,FI,0,Combined
 2012-02-18,Alex Benianidze,GE,0,Combined
 2012-02-18,Adam Zika,CZ,0,Combined
@@ -821,7 +821,7 @@ date,name,ath_country,value,specialty
 2012-02-26,Adam Zampa,SK,0,Combined
 2012-02-26,Christof Innerhofer,IT,3,Super G
 2012-02-26,Dustin Cook,CA,0,Combined
-2012-02-26,Silvan Zurbriggen,CH,0,Combined
+2012-02-26,Silvan Zurbriggen,CH,0,Downhill
 2012-02-26,Charles Christianson,US,0,Combined
 2012-02-26,Alberto Schieppati,IT,0,Combined
 2012-02-26,Reto Schmidiger,CH,0,Slalom
@@ -992,7 +992,7 @@ date,name,ath_country,value,specialty
 2012-03-10,Aksel-Lund Svindal,NO,205,Super G
 2012-03-10,Reto Schmidiger,CH,0,Slalom
 2012-03-10,Tim Lindgren,SE,0,Combined
-2012-03-10,Silvan Zurbriggen,CH,0,Combined
+2012-03-10,Silvan Zurbriggen,CH,0,Downhill
 2012-03-10,Ondrej Berndt,CZ,0,Combined
 2012-03-10,Bode Miller,US,46,Downhill
 2012-03-10,Mauro Caviezel,CH,0,Combined
@@ -1021,7 +1021,7 @@ date,name,ath_country,value,specialty
 2012-03-17,Alexis Pinturault,FR,364,Giant Slalom
 2012-03-17,Ondrej Berndt,CZ,0,Combined
 2012-03-17,Jon Olsson,SE,0,Combined
-2012-03-17,Silvan Zurbriggen,CH,0,Combined
+2012-03-17,Silvan Zurbriggen,CH,0,Downhill
 2012-03-17,Hannes Reichelt,AT,337,Downhill
 2012-03-17,Dustin Cook,CA,0,Combined
 2012-03-17,Adrien Theaux,FR,0,Downhill

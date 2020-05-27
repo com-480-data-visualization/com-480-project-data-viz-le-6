@@ -1,393 +1,457 @@
 date,name,ath_country,value,specialty
 2018-12-02,Mikaela Shiffrin,US,100,Slalom
-2018-12-02,Sabrina Simader,KE,0,Combined
-2018-12-02,Stephanie Venier,AT,29,Downhill
-2018-12-02,Nadia Delago,IT,0,Combined
-2018-12-02,Corinne Suter,CH,12,Downhill
-2018-12-02,Macarena Simari-Birkner,AR,0,Combined
-2018-12-02,Wendy Holdener,CH,0,Slalom
-2018-12-02,Francesca Marsaglia,IT,6,Super G
-2018-12-02,Madeleine Chirat,FR,0,Combined
-2018-12-02,Marie-Michele Gagnon,CA,11,Super G
-2018-12-02,Nathalie Groebli,CH,0,Combined
-2018-12-02,Anna Veith Fenninger,AT,40,Giant Slalom
-2018-12-02,Ann Katrin Magg,DE,0,Combined
-2018-12-02,Romane Miradoli,FR,40,Downhill
-2018-12-02,Katerina Paulathova,CZ,0,Combined
-2018-12-02,Michelle Gisin,CH,18,Downhill
-2018-12-02,Valerie Grenier,CA,45,Super G
-2018-12-02,Helena Rapaport,SE,0,Combined
-2018-12-02,Jasmine Flury,CH,5,Super G
-2018-12-02,Federica Sosio,IT,0,Combined
-2018-12-02,Ramona Siebenhofer,AT,50,Downhill
-2018-12-02,Federica Brignone,IT,22,Giant Slalom
-2018-12-02,Kajsa Vickhoff Lie,NO,8,Super G
-2018-12-02,Ania Monica Cail,RO,0,Combined
-2018-12-02,Marta Bassino,IT,0,Giant Slalom
-2018-12-02,Maryna Gasienica Daniel,PL,0,Giant Slalom
 2018-12-02,Hannah Saethereng,NO,0,Super G
-2018-12-02,Veronique Hronek,DE,0,Super G
 2018-12-02,Mirjam Puchner,AT,0,Downhill
-2018-12-02,Tiffany Gauthier,FR,9,Downhill
 2018-12-02,Priska Nufer,CH,2,Combined
-2018-12-02,Ricarda Haaser,AT,7,Giant Slalom
+2018-12-02,Katerina Paulathova,CZ,0,Combined
 2018-12-02,Nicole Delago,IT,13,Downhill
 2018-12-02,Laurenne Ross,US,0,Downhill
-2018-12-02,Michaela Wenig,DE,0,Downhill
 2018-12-02,Nina Ortlieb,AT,0,Downhill
-2018-12-02,Lindsey Vonn,US,0,Downhill
-2018-12-02,Jennifer Piot,FR,3,Super G
+2018-12-02,Elena Curtoni,IT,20,Super G
 2018-12-02,Joana Haehlen,CH,10,Downhill
 2018-12-02,Ariane Raedler,AT,0,Super G
-2018-12-02,Meike Pfister,DE,0,Downhill
+2018-12-02,Helena Rapaport,SE,0,Combined
 2018-12-02,Cornelia Huetter,AT,14,Downhill
-2018-12-02,Stephanie Brunner,AT,0,Giant Slalom
-2018-12-02,Christine Scheyer,AT,0,Downhill
-2018-12-02,Ester Ledecka,CZ,4,Downhill
-2018-12-02,Christina Ager,AT,0,Downhill
-2018-12-02,Tessa Worley,FR,0,Giant Slalom
-2018-12-02,Nadia Fanchini,IT,15,Downhill
-2018-12-02,Elena Curtoni,IT,20,Super G
-2018-12-02,Tamara Tippler,AT,1,Super G
+2018-12-02,Lisa Hoernblad,SE,0,Downhill
 2018-12-02,Jasmina Suter,CH,0,Super G
-2018-12-02,Ragnhild Mowinckel,NO,80,Giant Slalom
-2018-12-02,Lara Gut,CH,32,Super G
-2018-12-02,Viktoria Rebensburg,DE,60,Giant Slalom
-2018-12-02,Tina Weirather,LI,16,Super G
-2018-12-02,Luana Fluetsch,CH,0,Downhill
-2018-12-02,Sofia Goggia,IT,0,Downhill
-2018-12-02,Ilka Stuhec,SK,26,Downhill
-2018-12-02,Nicole Schmidhofer,AT,24,Downhill
+2018-12-02,Ester Ledecka,CZ,4,Downhill
+2018-12-02,Nadia Fanchini,IT,15,Downhill
+2018-12-02,Marta Bassino,IT,0,Giant Slalom
+2018-12-02,Kajsa Vickhoff Lie,NO,8,Super G
+2018-12-02,Federica Sosio,IT,0,Combined
+2018-12-02,Stephanie Venier,AT,29,Downhill
+2018-12-02,Corinne Suter,CH,12,Downhill
+2018-12-02,Wendy Holdener,CH,0,Slalom
+2018-12-02,Francesca Marsaglia,IT,6,Super G
+2018-12-02,Marie-Michele Gagnon,CA,11,Super G
+2018-12-02,Lindsey Vonn,US,0,Downhill
+2018-12-02,Anna Veith Fenninger,AT,40,Giant Slalom
+2018-12-02,Romane Miradoli,FR,40,Downhill
+2018-12-02,Michelle Gisin,CH,18,Downhill
+2018-12-02,Christina Ager,AT,0,Downhill
+2018-12-02,Valerie Grenier,CA,45,Super G
+2018-12-02,Kira Weidle,DE,0,Downhill
+2018-12-02,Tiffany Gauthier,FR,9,Downhill
+2018-12-02,Sabrina Simader,KE,0,Combined
+2018-12-02,Ania Monica Cail,RO,0,Combined
+2018-12-02,Maryna Gasienica Daniel,PL,0,Giant Slalom
+2018-12-02,Tessa Worley,FR,0,Giant Slalom
+2018-12-02,Christine Scheyer,AT,0,Downhill
+2018-12-02,Stephanie Brunner,AT,0,Giant Slalom
+2018-12-02,Macarena Simari-Birkner,AR,0,Combined
+2018-12-02,Patricia Mangan,US,0,Combined
+2018-12-02,Greta Small,AU,0,Combined
+2018-12-02,Lin Ivarsson,SE,0,Combined
+2018-12-02,Margot Bailet,FR,0,Combined
+2018-12-02,Rahel Kopp,CH,0,Combined
+2018-12-02,Aleksandra Prokopyeva,RU,0,Combined
+2018-12-02,Veronique Hronek,DE,0,Super G
+2018-12-02,Madeleine Chirat,FR,0,Combined
+2018-12-02,Esther Paslier,FR,0,Combined
+2018-12-02,Nadine Fest,AT,0,Downhill
+2018-12-02,Alice Merryweather,US,0,Downhill
+2018-12-02,Meike Pfister,DE,0,Downhill
+2018-12-02,Roni Remme,CA,0,Slalom
+2018-12-02,Nathalie Groebli,CH,0,Combined
+2018-12-02,Jennifer Piot,FR,3,Super G
+2018-12-02,Anna Hofer,IT,0,Super G
+2018-12-02,Michaela Wenig,DE,0,Downhill
+2018-12-02,Patrizia Dorsch,DE,0,Combined
+2018-12-02,Laura Gauche,FR,0,Super G
+2018-12-02,Ricarda Haaser,AT,7,Giant Slalom
+2018-12-02,Ann Katrin Magg,DE,0,Combined
+2018-12-02,Alexandra Coletti,MC,0,Combined
+2018-12-02,Jasmine Flury,CH,5,Super G
+2018-12-02,Nadia Delago,IT,0,Combined
+2018-12-02,Federica Brignone,IT,22,Giant Slalom
 2018-12-02,Anne Sophie Barthet,FR,0,Combined
-2018-12-08,Ricarda Haaser,AT,12,Giant Slalom
-2018-12-08,Ester Ledecka,CZ,6,Downhill
-2018-12-08,Hannah Saethereng,NO,0,Super G
-2018-12-08,Christine Scheyer,AT,0,Downhill
-2018-12-08,Christina Ager,AT,0,Downhill
-2018-12-08,Viktoria Rebensburg,DE,92,Giant Slalom
-2018-12-08,Nadia Fanchini,IT,15,Downhill
-2018-12-08,Tessa Worley,FR,0,Giant Slalom
-2018-12-08,Aleksandra Prokopyeva,RU,0,Combined
-2018-12-08,Margot Bailet,FR,0,Combined
-2018-12-08,Marta Bassino,IT,15,Giant Slalom
-2018-12-08,Ania Monica Cail,RO,0,Combined
-2018-12-08,Kajsa Vickhoff Lie,NO,8,Super G
-2018-12-08,Sabrina Simader,KE,0,Combined
-2018-12-08,Stephanie Venier,AT,55,Downhill
-2018-12-08,Alexandra Coletti,MC,0,Combined
-2018-12-08,Lara Gut,CH,112,Super G
-2018-12-08,Corinne Suter,CH,26,Downhill
-2018-12-08,Nadia Delago,IT,0,Combined
-2018-12-08,Veronique Hronek,DE,11,Super G
-2018-12-08,Ragnhild Mowinckel,NO,130,Giant Slalom
-2018-12-08,Lisa Hoernblad,SE,22,Downhill
-2018-12-08,Mikaela Shiffrin,US,200,Slalom
-2018-12-08,Stephanie Brunner,AT,0,Giant Slalom
-2018-12-08,Nicole Delago,IT,21,Downhill
-2018-12-08,Tiffany Gauthier,FR,16,Downhill
-2018-12-08,Patrizia Dorsch,DE,6,Combined
-2018-12-08,Ilka Stuhec,SK,44,Downhill
-2018-12-08,Laurenne Ross,US,4,Downhill
-2018-12-08,Michaela Wenig,DE,0,Downhill
-2018-12-08,Patricia Mangan,US,0,Combined
-2018-12-08,Greta Small,AU,0,Combined
-2018-12-08,Elena Curtoni,IT,40,Super G
-2018-12-08,Joana Haehlen,CH,46,Downhill
-2018-12-08,Jennifer Piot,FR,3,Super G
-2018-12-08,Mirjam Puchner,AT,1,Downhill
-2018-12-08,Roni Remme,CA,3,Slalom
+2018-12-02,Nicole Schmidhofer,AT,24,Downhill
+2018-12-02,Ramona Siebenhofer,AT,50,Downhill
+2018-12-02,Lara Gut,CH,32,Super G
+2018-12-02,Sofia Goggia,IT,0,Downhill
+2018-12-02,Luana Fluetsch,CH,0,Downhill
+2018-12-02,Viktoria Rebensburg,DE,60,Giant Slalom
+2018-12-02,Tamara Tippler,AT,1,Super G
+2018-12-02,Ilka Stuhec,SK,26,Downhill
+2018-12-02,Tina Weirather,LI,16,Super G
+2018-12-02,Ragnhild Mowinckel,NO,80,Giant Slalom
 2018-12-08,Ariane Raedler,AT,0,Super G
-2018-12-08,Lin Ivarsson,SE,0,Combined
+2018-12-08,Aleksandra Prokopyeva,RU,0,Combined
+2018-12-08,Alexandra Coletti,MC,0,Combined
 2018-12-08,Nicole Schmidhofer,AT,53,Downhill
-2018-12-08,Meike Pfister,DE,0,Downhill
+2018-12-08,Joana Haehlen,CH,46,Downhill
+2018-12-08,Elena Curtoni,IT,40,Super G
+2018-12-08,Luana Fluetsch,CH,0,Downhill
+2018-12-08,Sofia Goggia,IT,0,Downhill
+2018-12-08,Ragnhild Mowinckel,NO,130,Giant Slalom
+2018-12-08,Rahel Kopp,CH,0,Combined
+2018-12-08,Lisa Hoernblad,SE,22,Downhill
+2018-12-08,Ester Ledecka,CZ,6,Downhill
+2018-12-08,Margot Bailet,FR,0,Combined
+2018-12-08,Christina Ager,AT,0,Downhill
+2018-12-08,Nadia Fanchini,IT,15,Downhill
+2018-12-08,Lin Ivarsson,SE,0,Combined
+2018-12-08,Anne Sophie Barthet,FR,0,Combined
+2018-12-08,Greta Small,AU,0,Combined
+2018-12-08,Marta Bassino,IT,15,Giant Slalom
 2018-12-08,Macarena Simari-Birkner,AR,0,Combined
 2018-12-08,Cornelia Huetter,AT,30,Downhill
-2018-12-08,Priska Nufer,CH,11,Combined
-2018-12-08,Jasmina Suter,CH,12,Super G
-2018-12-08,Tamara Tippler,AT,11,Super G
-2018-12-08,Wendy Holdener,CH,24,Slalom
-2018-12-08,Michelle Gisin,CH,63,Downhill
-2018-12-08,Luana Fluetsch,CH,0,Downhill
-2018-12-08,Ann Katrin Magg,DE,0,Combined
-2018-12-08,Tina Weirather,LI,76,Super G
-2018-12-08,Valerie Grenier,CA,45,Super G
-2018-12-08,Romane Miradoli,FR,40,Downhill
-2018-12-08,Sofia Goggia,IT,0,Downhill
-2018-12-08,Helena Rapaport,SE,0,Combined
-2018-12-08,Anna Veith Fenninger,AT,40,Giant Slalom
-2018-12-08,Nathalie Groebli,CH,0,Combined
-2018-12-08,Marie-Michele Gagnon,CA,51,Super G
-2018-12-08,Federica Sosio,IT,0,Combined
-2018-12-08,Ramona Siebenhofer,AT,50,Downhill
-2018-12-08,Katerina Paulathova,CZ,0,Combined
-2018-12-08,Francesca Marsaglia,IT,19,Super G
-2018-12-08,Federica Brignone,IT,22,Giant Slalom
-2018-12-08,Esther Paslier,FR,0,Combined
 2018-12-08,Madeleine Chirat,FR,0,Combined
-2018-12-08,Anne Sophie Barthet,FR,0,Combined
+2018-12-08,Laurenne Ross,US,4,Downhill
+2018-12-08,Kajsa Vickhoff Lie,NO,8,Super G
+2018-12-08,Laura Gauche,FR,0,Super G
+2018-12-08,Ricarda Haaser,AT,12,Giant Slalom
+2018-12-08,Michaela Wenig,DE,0,Downhill
+2018-12-08,Tiffany Gauthier,FR,16,Downhill
+2018-12-08,Ann Katrin Magg,DE,0,Combined
+2018-12-08,Anna Hofer,IT,0,Super G
+2018-12-08,Lara Gut,CH,112,Super G
+2018-12-08,Veronique Hronek,DE,11,Super G
+2018-12-08,Nathalie Groebli,CH,0,Combined
+2018-12-08,Kira Weidle,DE,0,Downhill
+2018-12-08,Jennifer Piot,FR,3,Super G
+2018-12-08,Ramona Siebenhofer,AT,50,Downhill
+2018-12-08,Jasmina Suter,CH,12,Super G
+2018-12-08,Roni Remme,CA,3,Slalom
+2018-12-08,Viktoria Rebensburg,DE,92,Giant Slalom
+2018-12-08,Hannah Saethereng,NO,0,Super G
+2018-12-08,Mirjam Puchner,AT,1,Downhill
+2018-12-08,Meike Pfister,DE,0,Downhill
+2018-12-08,Alice Merryweather,US,0,Downhill
+2018-12-08,Priska Nufer,CH,11,Combined
+2018-12-08,Nicole Delago,IT,21,Downhill
+2018-12-08,Katerina Paulathova,CZ,0,Combined
+2018-12-08,Tina Weirather,LI,76,Super G
+2018-12-08,Nadine Fest,AT,0,Downhill
+2018-12-08,Nina Ortlieb,AT,0,Downhill
+2018-12-08,Esther Paslier,FR,0,Combined
+2018-12-08,Ilka Stuhec,SK,44,Downhill
+2018-12-08,Helena Rapaport,SE,0,Combined
+2018-12-08,Patrizia Dorsch,DE,6,Combined
+2018-12-08,Valerie Grenier,CA,45,Super G
+2018-12-08,Stephanie Brunner,AT,0,Giant Slalom
+2018-12-08,Ania Monica Cail,RO,0,Combined
+2018-12-08,Michelle Gisin,CH,63,Downhill
+2018-12-08,Wendy Holdener,CH,24,Slalom
+2018-12-08,Christine Scheyer,AT,0,Downhill
+2018-12-08,Corinne Suter,CH,26,Downhill
+2018-12-08,Francesca Marsaglia,IT,19,Super G
 2018-12-08,Lindsey Vonn,US,0,Downhill
-2018-12-19,Ramona Siebenhofer,AT,79,Downhill
-2018-12-19,Joana Haehlen,CH,64,Downhill
-2018-12-19,Roni Remme,CA,3,Slalom
-2018-12-19,Ariane Raedler,AT,0,Super G
-2018-12-19,Hannah Saethereng,NO,0,Super G
-2018-12-19,Lindsey Vonn,US,0,Downhill
+2018-12-08,Romane Miradoli,FR,40,Downhill
+2018-12-08,Tessa Worley,FR,0,Giant Slalom
+2018-12-08,Anna Veith Fenninger,AT,40,Giant Slalom
+2018-12-08,Maryna Gasienica Daniel,PL,0,Giant Slalom
+2018-12-08,Tamara Tippler,AT,11,Super G
+2018-12-08,Federica Brignone,IT,22,Giant Slalom
+2018-12-08,Jasmine Flury,CH,5,Super G
+2018-12-08,Marie-Michele Gagnon,CA,51,Super G
+2018-12-08,Nadia Delago,IT,0,Combined
+2018-12-08,Mikaela Shiffrin,US,200,Slalom
+2018-12-08,Federica Sosio,IT,0,Combined
+2018-12-08,Patricia Mangan,US,0,Combined
+2018-12-08,Sabrina Simader,KE,0,Combined
+2018-12-08,Stephanie Venier,AT,55,Downhill
 2018-12-19,Meike Pfister,DE,3,Downhill
-2018-12-19,Katerina Paulathova,CZ,0,Combined
-2018-12-19,Cornelia Huetter,AT,30,Downhill
-2018-12-19,Lara Gut,CH,118,Super G
+2018-12-19,Michaela Wenig,DE,6,Downhill
+2018-12-19,Patrizia Dorsch,DE,6,Combined
+2018-12-19,Maryna Gasienica Daniel,PL,0,Giant Slalom
+2018-12-19,Romane Miradoli,FR,41,Downhill
+2018-12-19,Alice Merryweather,US,0,Downhill
+2018-12-19,Viktoria Rebensburg,DE,128,Giant Slalom
+2018-12-19,Jasmine Flury,CH,55,Super G
+2018-12-19,Ragnhild Mowinckel,NO,175,Giant Slalom
+2018-12-19,Federica Brignone,IT,31,Giant Slalom
+2018-12-19,Nicole Delago,IT,32,Downhill
+2018-12-19,Anna Veith Fenninger,AT,54,Giant Slalom
+2018-12-19,Laurenne Ross,US,4,Downhill
+2018-12-19,Laura Gauche,FR,0,Super G
+2018-12-19,Priska Nufer,CH,24,Combined
+2018-12-19,Tina Weirather,LI,156,Super G
+2018-12-19,Ricarda Haaser,AT,12,Giant Slalom
+2018-12-19,Roni Remme,CA,3,Slalom
+2018-12-19,Veronique Hronek,DE,11,Super G
+2018-12-19,Ramona Siebenhofer,AT,79,Downhill
+2018-12-19,Ann Katrin Magg,DE,0,Combined
+2018-12-19,Tiffany Gauthier,FR,16,Downhill
+2018-12-19,Kira Weidle,DE,0,Downhill
 2018-12-19,Valerie Grenier,CA,45,Super G
-2018-12-19,Mikaela Shiffrin,US,200,Slalom
-2018-12-19,Nicole Schmidhofer,AT,133,Downhill
-2018-12-19,Ilka Stuhec,SK,144,Downhill
-2018-12-19,Lin Ivarsson,SE,0,Combined
+2018-12-19,Ania Monica Cail,RO,0,Combined
+2018-12-19,Jennifer Piot,FR,3,Super G
+2018-12-19,Anna Hofer,IT,4,Super G
+2018-12-19,Nathalie Groebli,CH,0,Combined
+2018-12-19,Katerina Paulathova,CZ,0,Combined
+2018-12-19,Michelle Gisin,CH,70,Downhill
+2018-12-19,Nadia Delago,IT,0,Combined
+2018-12-19,Hannah Saethereng,NO,0,Super G
+2018-12-19,Sabrina Simader,KE,0,Combined
+2018-12-19,Lindsey Vonn,US,0,Downhill
+2018-12-19,Lara Gut,CH,118,Super G
+2018-12-19,Mirjam Puchner,AT,1,Downhill
+2018-12-19,Jasmina Suter,CH,12,Super G
+2018-12-19,Kajsa Vickhoff Lie,NO,23,Super G
+2018-12-19,Lisa Hoernblad,SE,33,Downhill
+2018-12-19,Wendy Holdener,CH,24,Slalom
+2018-12-19,Sofia Goggia,IT,0,Downhill
+2018-12-19,Rahel Kopp,CH,0,Combined
+2018-12-19,Madeleine Chirat,FR,0,Combined
 2018-12-19,Helena Rapaport,SE,0,Combined
+2018-12-19,Luana Fluetsch,CH,0,Downhill
+2018-12-19,Ilka Stuhec,SK,144,Downhill
+2018-12-19,Federica Sosio,IT,0,Combined
+2018-12-19,Margot Bailet,FR,0,Combined
+2018-12-19,Ester Ledecka,CZ,30,Downhill
+2018-12-19,Anne Sophie Barthet,FR,0,Combined
+2018-12-19,Christina Ager,AT,26,Downhill
+2018-12-19,Corinne Suter,CH,34,Downhill
+2018-12-19,Stephanie Venier,AT,87,Downhill
+2018-12-19,Nadia Fanchini,IT,27,Downhill
+2018-12-19,Lin Ivarsson,SE,0,Combined
+2018-12-19,Macarena Simari-Birkner,AR,0,Combined
+2018-12-19,Patricia Mangan,US,0,Combined
+2018-12-19,Marta Bassino,IT,15,Giant Slalom
+2018-12-19,Greta Small,AU,0,Combined
+2018-12-19,Tamara Tippler,AT,33,Super G
+2018-12-19,Stephanie Brunner,AT,0,Giant Slalom
+2018-12-19,Cornelia Huetter,AT,30,Downhill
+2018-12-19,Nadine Fest,AT,0,Downhill
+2018-12-19,Esther Paslier,FR,0,Combined
+2018-12-19,Aleksandra Prokopyeva,RU,0,Combined
+2018-12-19,Francesca Marsaglia,IT,59,Super G
+2018-12-19,Mikaela Shiffrin,US,200,Slalom
+2018-12-19,Alexandra Coletti,MC,0,Combined
+2018-12-19,Joana Haehlen,CH,64,Downhill
 2018-12-19,Elena Curtoni,IT,42,Super G
 2018-12-19,Nina Ortlieb,AT,20,Downhill
-2018-12-19,Anna Hofer,IT,4,Super G
-2018-12-19,Michelle Gisin,CH,70,Downhill
-2018-12-19,Federica Brignone,IT,31,Giant Slalom
-2018-12-19,Priska Nufer,CH,24,Combined
-2018-12-19,Sofia Goggia,IT,0,Downhill
-2018-12-19,Patricia Mangan,US,0,Combined
-2018-12-19,Michaela Wenig,DE,6,Downhill
-2018-12-19,Anne Sophie Barthet,FR,0,Combined
-2018-12-19,Federica Sosio,IT,0,Combined
-2018-12-19,Nicole Delago,IT,32,Downhill
-2018-12-19,Jasmine Flury,CH,55,Super G
-2018-12-19,Macarena Simari-Birkner,AR,0,Combined
-2018-12-19,Ragnhild Mowinckel,NO,175,Giant Slalom
-2018-12-19,Stephanie Venier,AT,87,Downhill
-2018-12-19,Tina Weirather,LI,156,Super G
-2018-12-19,Marie-Michele Gagnon,CA,67,Super G
-2018-12-19,Corinne Suter,CH,34,Downhill
-2018-12-19,Ania Monica Cail,RO,0,Combined
-2018-12-19,Kajsa Vickhoff Lie,NO,23,Super G
-2018-12-19,Nathalie Groebli,CH,0,Combined
-2018-12-19,Tamara Tippler,AT,33,Super G
-2018-12-19,Viktoria Rebensburg,DE,128,Giant Slalom
-2018-12-19,Francesca Marsaglia,IT,59,Super G
-2018-12-19,Madeleine Chirat,FR,0,Combined
-2018-12-19,Alexandra Coletti,MC,0,Combined
-2018-12-19,Nadia Fanchini,IT,27,Downhill
-2018-12-19,Anna Veith Fenninger,AT,54,Giant Slalom
 2018-12-19,Tessa Worley,FR,0,Giant Slalom
-2018-12-19,Christina Ager,AT,26,Downhill
-2018-12-19,Lisa Hoernblad,SE,33,Downhill
-2018-12-19,Stephanie Brunner,AT,0,Giant Slalom
-2018-12-19,Nadia Delago,IT,0,Combined
-2018-12-19,Romane Miradoli,FR,41,Downhill
+2018-12-19,Marie-Michele Gagnon,CA,67,Super G
+2018-12-19,Ariane Raedler,AT,0,Super G
 2018-12-19,Christine Scheyer,AT,0,Downhill
-2018-12-19,Wendy Holdener,CH,24,Slalom
-2018-12-19,Luana Fluetsch,CH,0,Downhill
-2018-12-19,Ester Ledecka,CZ,30,Downhill
-2018-12-19,Ann Katrin Magg,DE,0,Combined
-2018-12-19,Esther Paslier,FR,0,Combined
-2019-01-20,Veronique Hronek,DE,11,Super G
-2019-01-20,Kira Weidle,DE,12,Downhill
-2019-01-20,Luana Fluetsch,CH,0,Downhill
+2018-12-19,Nicole Schmidhofer,AT,133,Downhill
+2019-01-20,Nicole Schmidhofer,AT,153,Downhill
+2019-01-20,Nadia Delago,IT,0,Combined
 2019-01-20,Patricia Mangan,US,0,Combined
-2019-01-20,Tiffany Gauthier,FR,16,Downhill
-2019-01-20,Lindsey Vonn,US,0,Downhill
-2019-01-20,Federica Sosio,IT,0,Combined
-2019-01-20,Nadine Fest,AT,0,Downhill
-2019-01-20,Rahel Kopp,CH,0,Combined
-2019-01-20,Madeleine Chirat,FR,0,Combined
-2019-01-20,Ricarda Haaser,AT,12,Giant Slalom
-2019-01-20,Alice Merryweather,US,0,Downhill
-2019-01-20,Sabrina Simader,KE,0,Combined
-2019-01-20,Ann Katrin Magg,DE,0,Combined
-2019-01-20,Stephanie Brunner,AT,0,Giant Slalom
-2019-01-20,Katerina Paulathova,CZ,0,Combined
-2019-01-20,Christine Scheyer,AT,0,Downhill
-2019-01-20,Roni Remme,CA,3,Slalom
-2019-01-20,Aleksandra Prokopyeva,RU,0,Combined
-2019-01-20,Anne Sophie Barthet,FR,0,Combined
-2019-01-20,Laura Gauche,FR,6,Super G
-2019-01-20,Tessa Worley,FR,0,Giant Slalom
-2019-01-20,Helena Rapaport,SE,0,Combined
-2019-01-20,Anna Hofer,IT,4,Super G
-2019-01-20,Nathalie Groebli,CH,0,Combined
 2019-01-20,Michaela Wenig,DE,6,Downhill
-2019-01-20,Margot Bailet,FR,0,Combined
-2019-01-20,Ania Monica Cail,RO,0,Combined
+2019-01-20,Esther Paslier,FR,0,Combined
+2019-01-20,Nathalie Groebli,CH,0,Combined
+2019-01-20,Sabrina Simader,KE,0,Combined
+2019-01-20,Greta Small,AU,0,Combined
+2019-01-20,Lin Ivarsson,SE,0,Combined
+2019-01-20,Tessa Worley,FR,0,Giant Slalom
+2019-01-20,Nadine Fest,AT,0,Downhill
+2019-01-20,Patrizia Dorsch,DE,6,Combined
+2019-01-20,Roni Remme,CA,3,Slalom
+2019-01-20,Madeleine Chirat,FR,0,Combined
+2019-01-20,Macarena Simari-Birkner,AR,0,Combined
+2019-01-20,Aleksandra Prokopyeva,RU,0,Combined
+2019-01-20,Stephanie Brunner,AT,0,Giant Slalom
+2019-01-20,Maryna Gasienica Daniel,PL,0,Giant Slalom
+2019-01-20,Mikaela Shiffrin,US,300,Slalom
+2019-01-20,Meike Pfister,DE,3,Downhill
+2019-01-20,Christine Scheyer,AT,0,Downhill
+2019-01-20,Ilka Stuhec,SK,144,Downhill
+2019-01-20,Viktoria Rebensburg,DE,157,Giant Slalom
 2019-01-20,Alexandra Coletti,MC,0,Combined
 2019-01-20,Jennifer Piot,FR,6,Super G
-2019-01-20,Meike Pfister,DE,3,Downhill
-2019-01-20,Nicole Delago,IT,32,Downhill
+2019-01-20,Alice Merryweather,US,0,Downhill
+2019-01-20,Margot Bailet,FR,0,Combined
+2019-01-20,Ania Monica Cail,RO,0,Combined
+2019-01-20,Anna Hofer,IT,4,Super G
+2019-01-20,Rahel Kopp,CH,0,Combined
+2019-01-20,Luana Fluetsch,CH,0,Downhill
 2019-01-20,Ramona Siebenhofer,AT,79,Downhill
-2019-01-20,Francesca Marsaglia,IT,73,Super G
-2019-01-20,Nina Ortlieb,AT,21,Downhill
-2019-01-20,Sofia Goggia,IT,0,Downhill
-2019-01-20,Nadia Fanchini,IT,31,Downhill
-2019-01-20,Wendy Holdener,CH,64,Slalom
-2019-01-20,Nicole Schmidhofer,AT,153,Downhill
-2019-01-20,Elena Curtoni,IT,60,Super G
-2019-01-20,Jasmina Suter,CH,12,Super G
-2019-01-20,Joana Haehlen,CH,80,Downhill
+2019-01-20,Laura Gauche,FR,6,Super G
 2019-01-20,Marie-Michele Gagnon,CA,77,Super G
-2019-01-20,Viktoria Rebensburg,DE,157,Giant Slalom
-2019-01-20,Corinne Suter,CH,39,Downhill
-2019-01-20,Stephanie Venier,AT,116,Downhill
-2019-01-20,Tina Weirather,LI,236,Super G
-2019-01-20,Cornelia Huetter,AT,52,Downhill
-2019-01-20,Lisa Hoernblad,SE,35,Downhill
-2019-01-20,Kajsa Vickhoff Lie,NO,59,Super G
-2019-01-20,Ragnhild Mowinckel,NO,211,Giant Slalom
+2019-01-20,Marta Bassino,IT,15,Giant Slalom
 2019-01-20,Lara Gut,CH,118,Super G
-2019-01-20,Ester Ledecka,CZ,45,Downhill
-2019-01-20,Ariane Raedler,AT,7,Super G
-2019-01-20,Laurenne Ross,US,12,Downhill
-2019-01-20,Christina Ager,AT,37,Downhill
-2019-01-20,Mirjam Puchner,AT,14,Downhill
-2019-01-20,Valerie Grenier,CA,95,Super G
-2019-01-20,Anna Veith Fenninger,AT,54,Giant Slalom
 2019-01-20,Tamara Tippler,AT,93,Super G
-2019-01-20,Romane Miradoli,FR,50,Downhill
-2019-01-20,Ilka Stuhec,SK,144,Downhill
-2019-01-20,Jasmine Flury,CH,100,Super G
+2019-01-20,Mirjam Puchner,AT,14,Downhill
+2019-01-20,Ariane Raedler,AT,7,Super G
+2019-01-20,Francesca Marsaglia,IT,73,Super G
+2019-01-20,Priska Nufer,CH,24,Combined
+2019-01-20,Kajsa Vickhoff Lie,NO,59,Super G
+2019-01-20,Anne Sophie Barthet,FR,0,Combined
+2019-01-20,Helena Rapaport,SE,0,Combined
+2019-01-20,Tina Weirather,LI,236,Super G
+2019-01-20,Wendy Holdener,CH,64,Slalom
+2019-01-20,Laurenne Ross,US,12,Downhill
+2019-01-20,Federica Sosio,IT,0,Combined
+2019-01-20,Joana Haehlen,CH,80,Downhill
+2019-01-20,Corinne Suter,CH,39,Downhill
+2019-01-20,Nina Ortlieb,AT,21,Downhill
+2019-01-20,Stephanie Venier,AT,116,Downhill
+2019-01-20,Katerina Paulathova,CZ,0,Combined
+2019-01-20,Nicole Delago,IT,32,Downhill
+2019-01-20,Ann Katrin Magg,DE,0,Combined
 2019-01-20,Federica Brignone,IT,55,Giant Slalom
+2019-01-20,Lindsey Vonn,US,0,Downhill
+2019-01-20,Jasmine Flury,CH,100,Super G
+2019-01-20,Ester Ledecka,CZ,45,Downhill
+2019-01-20,Sofia Goggia,IT,0,Downhill
+2019-01-20,Christina Ager,AT,37,Downhill
+2019-01-20,Ricarda Haaser,AT,12,Giant Slalom
+2019-01-20,Nadia Fanchini,IT,31,Downhill
+2019-01-20,Ragnhild Mowinckel,NO,211,Giant Slalom
+2019-01-20,Valerie Grenier,CA,95,Super G
+2019-01-20,Tiffany Gauthier,FR,16,Downhill
 2019-01-20,Hannah Saethereng,NO,0,Super G
-2019-01-20,Mikaela Shiffrin,US,300,Slalom
 2019-01-20,Michelle Gisin,CH,70,Downhill
-2019-01-26,Jasmine Flury,CH,114,Super G
-2019-01-26,Ania Monica Cail,RO,0,Combined
-2019-01-26,Kajsa Vickhoff Lie,NO,75,Super G
-2019-01-26,Luana Fluetsch,CH,0,Downhill
-2019-01-26,Tina Weirather,LI,268,Super G
+2019-01-20,Elena Curtoni,IT,60,Super G
+2019-01-20,Lisa Hoernblad,SE,35,Downhill
+2019-01-20,Cornelia Huetter,AT,52,Downhill
+2019-01-20,Romane Miradoli,FR,50,Downhill
+2019-01-20,Kira Weidle,DE,12,Downhill
+2019-01-20,Anna Veith Fenninger,AT,54,Giant Slalom
+2019-01-20,Jasmina Suter,CH,12,Super G
+2019-01-20,Veronique Hronek,DE,11,Super G
 2019-01-26,Helena Rapaport,SE,0,Combined
-2019-01-26,Tessa Worley,FR,0,Giant Slalom
-2019-01-26,Lara Gut,CH,178,Super G
+2019-01-26,Greta Small,AU,0,Combined
+2019-01-26,Kajsa Vickhoff Lie,NO,75,Super G
 2019-01-26,Nadia Fanchini,IT,55,Downhill
 2019-01-26,Marta Bassino,IT,44,Giant Slalom
 2019-01-26,Stephanie Venier,AT,136,Downhill
-2019-01-26,Lindsey Vonn,US,0,Downhill
-2019-01-26,Sabrina Simader,KE,0,Combined
-2019-01-26,Madeleine Chirat,FR,0,Combined
-2019-01-26,Francesca Marsaglia,IT,99,Super G
-2019-01-26,Tamara Tippler,AT,103,Super G
-2019-01-26,Romane Miradoli,FR,95,Downhill
-2019-01-26,Ann Katrin Magg,DE,0,Combined
-2019-01-26,Federica Brignone,IT,105,Giant Slalom
-2019-01-26,Federica Sosio,IT,0,Combined
-2019-01-26,Sofia Goggia,IT,80,Downhill
-2019-01-26,Anne Sophie Barthet,FR,0,Combined
-2019-01-26,Nadia Delago,IT,0,Combined
-2019-01-26,Corinne Suter,CH,79,Downhill
-2019-01-26,Valerie Grenier,CA,95,Super G
-2019-01-26,Katerina Paulathova,CZ,0,Combined
-2019-01-26,Anna Veith Fenninger,AT,54,Giant Slalom
-2019-01-26,Michelle Gisin,CH,70,Downhill
-2019-01-26,Macarena Simari-Birkner,AR,0,Combined
-2019-01-26,Wendy Holdener,CH,64,Slalom
-2019-01-26,Christine Scheyer,AT,0,Downhill
-2019-01-26,Elena Curtoni,IT,65,Super G
-2019-01-26,Esther Paslier,FR,0,Combined
-2019-01-26,Michaela Wenig,DE,6,Downhill
-2019-01-26,Nina Ortlieb,AT,22,Downhill
-2019-01-26,Nicole Schmidhofer,AT,253,Downhill
-2019-01-26,Laurenne Ross,US,30,Downhill
-2019-01-26,Nicole Delago,IT,36,Downhill
-2019-01-26,Laura Gauche,FR,13,Super G
-2019-01-26,Anna Hofer,IT,4,Super G
-2019-01-26,Ricarda Haaser,AT,12,Giant Slalom
+2019-01-26,Lin Ivarsson,SE,0,Combined
 2019-01-26,Ilka Stuhec,SK,153,Downhill
-2019-01-26,Priska Nufer,CH,27,Combined
 2019-01-26,Mikaela Shiffrin,US,300,Slalom
-2019-01-26,Tiffany Gauthier,FR,16,Downhill
 2019-01-26,Patricia Mangan,US,0,Combined
-2019-01-26,Mirjam Puchner,AT,22,Downhill
-2019-01-26,Kira Weidle,DE,12,Downhill
-2019-01-26,Hannah Saethereng,NO,0,Super G
-2019-01-26,Rahel Kopp,CH,0,Combined
-2019-01-26,Joana Haehlen,CH,95,Downhill
-2019-01-26,Christina Ager,AT,43,Downhill
-2019-01-26,Alice Merryweather,US,2,Downhill
-2019-01-26,Lisa Hoernblad,SE,47,Downhill
+2019-01-26,Lindsey Vonn,US,0,Downhill
+2019-01-26,Jasmine Flury,CH,114,Super G
+2019-01-26,Ramona Siebenhofer,AT,90,Downhill
+2019-01-26,Ania Monica Cail,RO,0,Combined
+2019-01-26,Valerie Grenier,CA,95,Super G
+2019-01-26,Michelle Gisin,CH,70,Downhill
+2019-01-26,Maryna Gasienica Daniel,PL,0,Giant Slalom
+2019-01-26,Romane Miradoli,FR,95,Downhill
+2019-01-26,Anna Veith Fenninger,AT,54,Giant Slalom
+2019-01-26,Tessa Worley,FR,0,Giant Slalom
+2019-01-26,Marie-Michele Gagnon,CA,77,Super G
+2019-01-26,Francesca Marsaglia,IT,99,Super G
+2019-01-26,Nadia Delago,IT,0,Combined
+2019-01-26,Christine Scheyer,AT,0,Downhill
+2019-01-26,Federica Sosio,IT,0,Combined
+2019-01-26,Federica Brignone,IT,105,Giant Slalom
 2019-01-26,Stephanie Brunner,AT,0,Giant Slalom
-2019-01-26,Ragnhild Mowinckel,NO,247,Giant Slalom
-2019-01-26,Meike Pfister,DE,3,Downhill
+2019-01-26,Wendy Holdener,CH,64,Slalom
+2019-01-26,Corinne Suter,CH,79,Downhill
+2019-01-26,Tamara Tippler,AT,103,Super G
+2019-01-26,Christina Ager,AT,43,Downhill
+2019-01-26,Nicole Schmidhofer,AT,253,Downhill
 2019-01-26,Ester Ledecka,CZ,45,Downhill
-2019-01-26,Alexandra Coletti,MC,0,Combined
+2019-01-26,Margot Bailet,FR,0,Combined
+2019-01-26,Madeleine Chirat,FR,0,Combined
+2019-01-26,Meike Pfister,DE,3,Downhill
+2019-01-26,Mirjam Puchner,AT,22,Downhill
+2019-01-26,Roni Remme,CA,3,Slalom
+2019-01-26,Ann Katrin Magg,DE,0,Combined
+2019-01-26,Hannah Saethereng,NO,0,Super G
+2019-01-26,Jennifer Piot,FR,6,Super G
+2019-01-26,Luana Fluetsch,CH,0,Downhill
+2019-01-26,Anne Sophie Barthet,FR,0,Combined
+2019-01-26,Lara Gut,CH,178,Super G
+2019-01-26,Kira Weidle,DE,12,Downhill
+2019-01-26,Anna Hofer,IT,4,Super G
+2019-01-26,Veronique Hronek,DE,11,Super G
+2019-01-26,Ragnhild Mowinckel,NO,247,Giant Slalom
+2019-01-26,Tiffany Gauthier,FR,16,Downhill
+2019-01-26,Michaela Wenig,DE,6,Downhill
+2019-01-26,Ricarda Haaser,AT,12,Giant Slalom
+2019-01-26,Patrizia Dorsch,DE,6,Combined
+2019-01-26,Laura Gauche,FR,13,Super G
 2019-01-26,Viktoria Rebensburg,DE,157,Giant Slalom
+2019-01-26,Priska Nufer,CH,27,Combined
+2019-01-26,Alice Merryweather,US,2,Downhill
+2019-01-26,Nicole Delago,IT,36,Downhill
+2019-01-26,Macarena Simari-Birkner,AR,0,Combined
+2019-01-26,Rahel Kopp,CH,0,Combined
+2019-01-26,Lisa Hoernblad,SE,47,Downhill
+2019-01-26,Nathalie Groebli,CH,0,Combined
+2019-01-26,Aleksandra Prokopyeva,RU,0,Combined
 2019-01-26,Cornelia Huetter,AT,65,Downhill
 2019-01-26,Ariane Raedler,AT,29,Super G
-2019-01-26,Roni Remme,CA,3,Slalom
-2019-01-26,Ramona Siebenhofer,AT,90,Downhill
-2019-01-26,Aleksandra Prokopyeva,RU,0,Combined
-2019-03-14,Patricia Mangan,US,0,Combined
-2019-03-14,Nadine Fest,AT,0,Downhill
-2019-03-14,Esther Paslier,FR,0,Combined
-2019-03-14,Luana Fluetsch,CH,0,Downhill
+2019-01-26,Sofia Goggia,IT,80,Downhill
+2019-01-26,Alexandra Coletti,MC,0,Combined
+2019-01-26,Katerina Paulathova,CZ,0,Combined
+2019-01-26,Jasmina Suter,CH,12,Super G
+2019-01-26,Joana Haehlen,CH,95,Downhill
+2019-01-26,Esther Paslier,FR,0,Combined
+2019-01-26,Elena Curtoni,IT,65,Super G
+2019-01-26,Sabrina Simader,KE,0,Combined
+2019-01-26,Nina Ortlieb,AT,22,Downhill
+2019-01-26,Laurenne Ross,US,30,Downhill
+2019-01-26,Nadine Fest,AT,0,Downhill
+2019-01-26,Tina Weirather,LI,268,Super G
+2019-03-14,Lindsey Vonn,US,0,Downhill
+2019-03-14,Nathalie Groebli,CH,0,Combined
+2019-03-14,Helena Rapaport,SE,0,Combined
 2019-03-14,Federica Sosio,IT,0,Combined
-2019-03-14,Mikaela Shiffrin,US,350,Slalom
+2019-03-14,Macarena Simari-Birkner,AR,0,Combined
+2019-03-14,Ann Katrin Magg,DE,0,Combined
+2019-03-14,Madeleine Chirat,FR,0,Combined
+2019-03-14,Nadia Delago,IT,0,Combined
+2019-03-14,Anne Sophie Barthet,FR,0,Combined
+2019-03-14,Katerina Paulathova,CZ,0,Combined
+2019-03-14,Jasmina Suter,CH,12,Super G
+2019-03-14,Ania Monica Cail,RO,0,Combined
+2019-03-14,Ariane Raedler,AT,29,Super G
+2019-03-14,Cornelia Huetter,AT,65,Downhill
+2019-03-14,Lisa Hoernblad,SE,47,Downhill
+2019-03-14,Ester Ledecka,CZ,45,Downhill
+2019-03-14,Christina Ager,AT,43,Downhill
+2019-03-14,Nadia Fanchini,IT,84,Downhill
+2019-03-14,Marta Bassino,IT,44,Giant Slalom
+2019-03-14,Kajsa Vickhoff Lie,NO,107,Super G
+2019-03-14,Stephanie Venier,AT,156,Downhill
+2019-03-14,Corinne Suter,CH,105,Downhill
+2019-03-14,Wendy Holdener,CH,80,Slalom
+2019-03-14,Francesca Marsaglia,IT,114,Super G
+2019-03-14,Marie-Michele Gagnon,CA,91,Super G
+2019-03-14,Anna Veith Fenninger,AT,54,Giant Slalom
+2019-03-14,Romane Miradoli,FR,119,Downhill
+2019-03-14,Michelle Gisin,CH,70,Downhill
+2019-03-14,Valerie Grenier,CA,95,Super G
+2019-03-14,Jasmine Flury,CH,154,Super G
+2019-03-14,Ramona Siebenhofer,AT,90,Downhill
+2019-03-14,Federica Brignone,IT,165,Giant Slalom
+2019-03-14,Tamara Tippler,AT,183,Super G
+2019-03-14,Sofia Goggia,IT,116,Downhill
+2019-03-14,Tina Weirather,LI,268,Super G
+2019-03-14,Lara Gut,CH,178,Super G
 2019-03-14,Ragnhild Mowinckel,NO,247,Giant Slalom
 2019-03-14,Viktoria Rebensburg,DE,257,Giant Slalom
-2019-03-14,Federica Brignone,IT,165,Giant Slalom
+2019-03-14,Nicole Schmidhofer,AT,303,Downhill
+2019-03-14,Ilka Stuhec,SK,153,Downhill
+2019-03-14,Mikaela Shiffrin,US,350,Slalom
+2019-03-14,Joana Haehlen,CH,117,Downhill
+2019-03-14,Sabrina Simader,KE,0,Combined
+2019-03-14,Elena Curtoni,IT,83,Super G
+2019-03-14,Laurenne Ross,US,30,Downhill
+2019-03-14,Maryna Gasienica Daniel,PL,0,Giant Slalom
+2019-03-14,Tessa Worley,FR,0,Giant Slalom
+2019-03-14,Christine Scheyer,AT,0,Downhill
+2019-03-14,Stephanie Brunner,AT,0,Giant Slalom
+2019-03-14,Patricia Mangan,US,0,Combined
+2019-03-14,Greta Small,AU,0,Combined
+2019-03-14,Lin Ivarsson,SE,0,Combined
+2019-03-14,Margot Bailet,FR,0,Combined
+2019-03-14,Rahel Kopp,CH,0,Combined
 2019-03-14,Aleksandra Prokopyeva,RU,0,Combined
 2019-03-14,Alexandra Coletti,MC,0,Combined
-2019-03-14,Greta Small,AU,0,Combined
-2019-03-14,Ilka Stuhec,SK,153,Downhill
-2019-03-14,Lin Ivarsson,SE,0,Combined
-2019-03-14,Lindsey Vonn,US,0,Downhill
-2019-03-14,Tamara Tippler,AT,183,Super G
-2019-03-14,Tina Weirather,LI,268,Super G
-2019-03-14,Nicole Schmidhofer,AT,303,Downhill
-2019-03-14,Anne Sophie Barthet,FR,0,Combined
-2019-03-14,Margot Bailet,FR,0,Combined
-2019-03-14,Lara Gut,CH,178,Super G
-2019-03-14,Sofia Goggia,IT,116,Downhill
-2019-03-14,Jasmina Suter,CH,12,Super G
-2019-03-14,Helena Rapaport,SE,0,Combined
-2019-03-14,Lisa Hoernblad,SE,47,Downhill
+2019-03-14,Esther Paslier,FR,0,Combined
+2019-03-14,Nadine Fest,AT,0,Downhill
 2019-03-14,Alice Merryweather,US,2,Downhill
 2019-03-14,Meike Pfister,DE,3,Downhill
-2019-03-14,Cornelia Huetter,AT,65,Downhill
 2019-03-14,Roni Remme,CA,3,Slalom
-2019-03-14,Ariane Raedler,AT,29,Super G
-2019-03-14,Joana Haehlen,CH,117,Downhill
 2019-03-14,Jennifer Piot,FR,6,Super G
-2019-03-14,Elena Curtoni,IT,83,Super G
 2019-03-14,Anna Hofer,IT,4,Super G
 2019-03-14,Michaela Wenig,DE,6,Downhill
-2019-03-14,Nina Ortlieb,AT,22,Downhill
 2019-03-14,Patrizia Dorsch,DE,6,Combined
-2019-03-14,Laurenne Ross,US,30,Downhill
 2019-03-14,Laura Gauche,FR,13,Super G
 2019-03-14,Ricarda Haaser,AT,12,Giant Slalom
-2019-03-14,Nicole Delago,IT,36,Downhill
 2019-03-14,Tiffany Gauthier,FR,16,Downhill
-2019-03-14,Priska Nufer,CH,27,Combined
 2019-03-14,Veronique Hronek,DE,11,Super G
-2019-03-14,Mirjam Puchner,AT,22,Downhill
-2019-03-14,Hannah Saethereng,NO,13,Super G
 2019-03-14,Kira Weidle,DE,12,Downhill
-2019-03-14,Ester Ledecka,CZ,45,Downhill
-2019-03-14,Ramona Siebenhofer,AT,90,Downhill
-2019-03-14,Stephanie Brunner,AT,0,Giant Slalom
-2019-03-14,Christine Scheyer,AT,0,Downhill
-2019-03-14,Jasmine Flury,CH,154,Super G
-2019-03-14,Katerina Paulathova,CZ,0,Combined
-2019-03-14,Valerie Grenier,CA,95,Super G
-2019-03-14,Ann Katrin Magg,DE,0,Combined
-2019-03-14,Michelle Gisin,CH,70,Downhill
-2019-03-14,Romane Miradoli,FR,119,Downhill
-2019-03-14,Nathalie Groebli,CH,0,Combined
-2019-03-14,Anna Veith Fenninger,AT,54,Giant Slalom
-2019-03-14,Marie-Michele Gagnon,CA,91,Super G
-2019-03-14,Madeleine Chirat,FR,0,Combined
-2019-03-14,Francesca Marsaglia,IT,114,Super G
-2019-03-14,Macarena Simari-Birkner,AR,0,Combined
-2019-03-14,Wendy Holdener,CH,80,Slalom
-2019-03-14,Nadia Delago,IT,0,Combined
-2019-03-14,Corinne Suter,CH,105,Downhill
-2019-03-14,Sabrina Simader,KE,0,Combined
-2019-03-14,Stephanie Venier,AT,156,Downhill
-2019-03-14,Ania Monica Cail,RO,0,Combined
-2019-03-14,Kajsa Vickhoff Lie,NO,107,Super G
-2019-03-14,Maryna Gasienica Daniel,PL,0,Giant Slalom
-2019-03-14,Marta Bassino,IT,44,Giant Slalom
-2019-03-14,Tessa Worley,FR,0,Giant Slalom
-2019-03-14,Nadia Fanchini,IT,84,Downhill
-2019-03-14,Christina Ager,AT,43,Downhill
-2019-03-14,Rahel Kopp,CH,0,Combined
+2019-03-14,Hannah Saethereng,NO,13,Super G
+2019-03-14,Mirjam Puchner,AT,22,Downhill
+2019-03-14,Priska Nufer,CH,27,Combined
+2019-03-14,Nicole Delago,IT,36,Downhill
+2019-03-14,Nina Ortlieb,AT,22,Downhill
+2019-03-14,Luana Fluetsch,CH,0,Downhill

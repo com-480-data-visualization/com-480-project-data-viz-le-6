@@ -64,7 +64,7 @@ date,name,ath_country,value,specialty
 2013-10-27,Tomoya Ishii,JP,0,Combined
 2013-10-27,Stepan Zuev,RU,0,Combined
 2013-10-27,Aleksander Aamodt Kilde,NO,0,Super G
-2013-10-27,Cristian Javier Simari Birkner,AR,0,Downhill
+2013-10-27,Cristian Javier Simari Birkner,AR,0,Combined
 2013-10-27,Gabriel Rivas,FR,0,Slalom
 2013-10-27,Janez Jazbec,SK,0,Combined
 2013-10-27,Adam Zampa,SK,0,Slalom
@@ -118,7 +118,7 @@ date,name,ath_country,value,specialty
 2013-10-27,Jonas Fabre,FR,0,Combined
 2013-10-27,Benjamin Raich,AT,20,Giant Slalom
 2013-10-27,Stefano Baruffaldi,IT,0,Combined
-2013-10-27,Jared Goldberg,US,0,Combined
+2013-10-27,Jared Goldberg,US,0,Downhill
 2013-10-27,Stefan Luitz,DE,9,Giant Slalom
 2013-10-27,Steve Missillier,FR,50,Giant Slalom
 2013-10-27,Paul De La Cuesta,ES,0,Combined
@@ -135,7 +135,7 @@ date,name,ath_country,value,specialty
 2013-12-08,Stefan Hadalin,SK,0,Combined
 2013-12-08,Benjamin Raich,AT,36,Giant Slalom
 2013-12-08,Michal Klusak,PL,0,Combined
-2013-12-08,Jared Goldberg,US,0,Combined
+2013-12-08,Jared Goldberg,US,0,Downhill
 2013-12-08,Dong-Hyun Jung,KR,0,Combined
 2013-12-08,Justin Murisier,CH,0,Combined
 2013-12-08,Ola Buer Johansen,NO,0,Combined
@@ -198,7 +198,7 @@ date,name,ath_country,value,specialty
 2013-12-08,Andrew Weibrecht,US,0,Super G
 2013-12-08,Maarten Meiners,NL,0,Combined
 2013-12-08,Krystof Kryzl,CZ,0,Giant Slalom
-2013-12-08,Cristian Javier Simari Birkner,AR,0,Downhill
+2013-12-08,Cristian Javier Simari Birkner,AR,0,Combined
 2013-12-08,Benjamin Gardet,FR,0,Combined
 2013-12-08,Matthias Mayer,AT,0,Downhill
 2013-12-08,Matic Skube,SK,0,Combined
@@ -272,7 +272,7 @@ date,name,ath_country,value,specialty
 2013-12-14,Mattia Casse,IT,0,Super G
 2013-12-14,Dmitriy Koshkin,KZ,0,Combined
 2013-12-14,Dustin Cook,CA,0,Combined
-2013-12-14,Cristian Javier Simari Birkner,AR,0,Downhill
+2013-12-14,Cristian Javier Simari Birkner,AR,0,Combined
 2013-12-14,Victor Muffat Jeandet,FR,28,Giant Slalom
 2013-12-14,Dominik Schwaiger,DE,0,Giant Slalom
 2013-12-14,Aksel-Lund Svindal,NO,74,Downhill
@@ -385,7 +385,7 @@ date,name,ath_country,value,specialty
 2013-12-14,Alex Zingerle,IT,13,Giant Slalom
 2013-12-14,Gabriel Rivas,FR,0,Slalom
 2013-12-14,Adam Kotzmann,CZ,0,Combined
-2013-12-14,Jared Goldberg,US,0,Combined
+2013-12-14,Jared Goldberg,US,0,Downhill
 2013-12-14,Luc Henri Chevalier,AU,0,Combined
 2013-12-14,Johnatan Longhi,BR,0,Combined
 2013-12-14,Benjamin Gardet,FR,0,Combined
@@ -397,7 +397,7 @@ date,name,ath_country,value,specialty
 2013-12-22,Janez Jazbec,SK,0,Combined
 2013-12-22,Aleksander Aamodt Kilde,NO,0,Super G
 2013-12-22,Romed Baumann,AT,0,Downhill
-2013-12-22,Cristian Javier Simari Birkner,AR,0,Downhill
+2013-12-22,Cristian Javier Simari Birkner,AR,0,Combined
 2013-12-22,Stefan Hadalin,SK,0,Combined
 2013-12-22,Victor Malmstrom,FI,0,Combined
 2013-12-22,Ola Buer Johansen,NO,0,Combined
@@ -413,7 +413,7 @@ date,name,ath_country,value,specialty
 2013-12-22,Eugenio Claro,CL,0,Combined
 2013-12-22,Antonio Villaroger Ristevski,MK,0,Combined
 2013-12-22,Kieffer Christianson,US,0,Combined
-2013-12-22,Jared Goldberg,US,0,Combined
+2013-12-22,Jared Goldberg,US,0,Downhill
 2013-12-22,Luc Henri Chevalier,AU,0,Combined
 2013-12-22,David Donaldson,CA,0,Combined
 2013-12-22,Dong-Hyun Jung,KR,0,Combined
@@ -611,8 +611,8 @@ date,name,ath_country,value,specialty
 2014-01-11,Ola Buer Johansen,NO,0,Combined
 2014-01-11,Benjamin Raich,AT,114,Giant Slalom
 2014-01-11,Matic Skube,SK,0,Combined
-2014-01-11,Jared Goldberg,US,0,Combined
-2014-01-11,Cristian Javier Simari Birkner,AR,0,Downhill
+2014-01-11,Jared Goldberg,US,0,Downhill
+2014-01-11,Cristian Javier Simari Birkner,AR,0,Combined
 2014-01-11,Jean-Baptiste Grange,FR,0,Slalom
 2014-01-11,Segei Maitakov,RU,0,Combined
 2014-01-11,Ted Ligety,US,260,Giant Slalom
@@ -697,7 +697,7 @@ date,name,ath_country,value,specialty
 2014-02-02,Benjamin Griffin,NZ,0,Combined
 2014-02-02,Manuel Feller,AT,0,Slalom
 2014-02-02,Victor Malmstrom,FI,0,Combined
-2014-02-02,Cristian Javier Simari Birkner,AR,0,Downhill
+2014-02-02,Cristian Javier Simari Birkner,AR,0,Combined
 2014-02-02,Philipp Schoerghofer,AT,111,Giant Slalom
 2014-02-02,Tyler Werry,CA,0,Combined
 2014-02-02,Kjetil Jansrud,NO,34,Downhill
@@ -724,7 +724,7 @@ date,name,ath_country,value,specialty
 2014-02-02,Ondrej Bank,CZ,13,Combined
 2014-02-02,Alexandru Barbu,RO,0,Combined
 2014-02-02,Misel Zerak,SK,0,Combined
-2014-02-02,Jared Goldberg,US,0,Combined
+2014-02-02,Jared Goldberg,US,0,Downhill
 2014-02-02,Krystof Kryzl,CZ,11,Giant Slalom
 2014-02-02,Benjamin Gardet,FR,0,Combined
 2014-02-02,Aksel-Lund Svindal,NO,116,Downhill
@@ -820,7 +820,7 @@ date,name,ath_country,value,specialty
 2014-03-08,Luca De Aliprandini,IT,90,Giant Slalom
 2014-03-08,Ola Buer Johansen,NO,0,Combined
 2014-03-08,Benjamin Raich,AT,218,Giant Slalom
-2014-03-08,Jared Goldberg,US,0,Combined
+2014-03-08,Jared Goldberg,US,0,Downhill
 2014-03-08,Felix Neureuther,DE,203,Slalom
 2014-03-08,Misel Zerak,SK,0,Combined
 2014-03-08,Aksel-Lund Svindal,NO,130,Downhill
@@ -873,7 +873,7 @@ date,name,ath_country,value,specialty
 2014-03-08,Gabriel Rivas,FR,2,Slalom
 2014-03-08,Janez Jazbec,SK,0,Combined
 2014-03-08,Gauthier De Tessieres,FR,2,Giant Slalom
-2014-03-08,Cristian Javier Simari Birkner,AR,0,Downhill
+2014-03-08,Cristian Javier Simari Birkner,AR,0,Combined
 2014-03-08,Robert Kelley,US,3,Giant Slalom
 2014-03-08,Aleksander Aamodt Kilde,NO,0,Super G
 2014-03-08,Filip Zubcic,HR,0,Combined
@@ -932,7 +932,7 @@ date,name,ath_country,value,specialty
 2014-03-15,Benedikt Staubitzer,DE,6,Giant Slalom
 2014-03-15,Thomas Fanara,FR,278,Giant Slalom
 2014-03-15,Tomoya Ishii,JP,0,Combined
-2014-03-15,Jared Goldberg,US,0,Combined
+2014-03-15,Jared Goldberg,US,0,Downhill
 2014-03-15,Ondrej Bank,CZ,13,Combined
 2014-03-15,Thomas Mermillod,FR,33,Super G
 2014-03-15,Dries Van Den Broecke,BE,0,Combined
@@ -970,7 +970,7 @@ date,name,ath_country,value,specialty
 2014-03-15,Andrew Weibrecht,US,0,Super G
 2014-03-15,Tim Jitloff,US,127,Giant Slalom
 2014-03-15,Robert Kelley,US,3,Giant Slalom
-2014-03-15,Cristian Javier Simari Birkner,AR,0,Downhill
+2014-03-15,Cristian Javier Simari Birkner,AR,0,Combined
 2014-03-15,Luc Henri Chevalier,AU,0,Combined
 2014-03-15,Rasmus Windingstad,NO,0,Combined
 2014-03-15,Felix Neureuther,DE,263,Slalom

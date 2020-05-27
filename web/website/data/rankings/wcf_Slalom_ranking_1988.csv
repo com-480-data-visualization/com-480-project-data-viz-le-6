@@ -9,7 +9,7 @@ date,name,ath_country,value,specialty
 1987-11-26,Veronika Sarec,SK,0,Slalom
 1987-11-26,Katja Lesjak,SK,7,Slalom
 1987-11-26,Roswitha Steiner,AT,11,Slalom
-1987-11-26,Lucia Medzihradska,SK,0,Combined
+1987-11-26,Lucia Medzihradska,SK,0,Slalom
 1987-11-26,Adelheid Gapp,AT,1,Slalom
 1987-11-26,Mateja Svet,SK,20,Giant Slalom
 1987-11-26,Monique Pelletier,US,0,Slalom
@@ -80,7 +80,7 @@ date,name,ath_country,value,specialty
 1987-11-30,Katja Lesjak,SK,7,Slalom
 1987-11-30,Christa Kinshofer,DE,12,Slalom
 1987-11-30,Mateja Svet,SK,20,Giant Slalom
-1987-11-30,Lucia Medzihradska,SK,4,Combined
+1987-11-30,Lucia Medzihradska,SK,4,Slalom
 1987-11-30,Roswitha Steiner,AT,11,Slalom
 1987-11-30,Monique Pelletier,US,0,Slalom
 1987-11-30,Camilla Nilsson,SE,18,Slalom
@@ -98,7 +98,7 @@ date,name,ath_country,value,specialty
 1987-12-13,Nicole Linneberg,CL,0,Slalom
 1987-12-13,Mateja Svet,SK,20,Giant Slalom
 1987-12-13,Beth Madsen,US,0,Slalom
-1987-12-13,Lucia Medzihradska,SK,5,Combined
+1987-12-13,Lucia Medzihradska,SK,5,Slalom
 1987-12-13,Karin Buder,AT,4,Slalom
 1987-12-13,Josee Lacasse,CA,0,Slalom
 1987-12-13,Pascaline Freiher,FR,0,Slalom
@@ -151,7 +151,7 @@ date,name,ath_country,value,specialty
 1987-12-19,Heidi Dahlgren,US,0,Slalom
 1987-12-19,Mojca Dezman,SK,6,Slalom
 1987-12-19,Katja Lesjak,SK,7,Slalom
-1987-12-19,Lucia Medzihradska,SK,5,Combined
+1987-12-19,Lucia Medzihradska,SK,5,Slalom
 1987-12-19,Lenka Kebrlova,SK,8,Slalom
 1987-12-19,Adelheid Gapp,AT,8,Slalom
 1987-12-19,Karen Percy,CA,0,Downhill
@@ -187,7 +187,7 @@ date,name,ath_country,value,specialty
 1988-01-18,Katja Lesjak,SK,7,Slalom
 1988-01-18,Ulla Carlsson,SE,2,Slalom
 1988-01-18,Ulrike Maier,AT,35,Slalom
-1988-01-18,Lucia Medzihradska,SK,5,Combined
+1988-01-18,Lucia Medzihradska,SK,5,Slalom
 1988-01-18,Heidi Voelker,US,1,Slalom
 1988-01-18,Roswitha Steiner,AT,42,Slalom
 1988-01-18,Camilla Nilsson,SE,38,Slalom
@@ -258,7 +258,7 @@ date,name,ath_country,value,specialty
 1988-01-24,Ulrike Maier,AT,43,Slalom
 1988-01-24,Christelle Guignard,FR,13,Slalom
 1988-01-24,Beth Madsen,US,0,Slalom
-1988-01-24,Lucia Medzihradska,SK,5,Combined
+1988-01-24,Lucia Medzihradska,SK,5,Slalom
 1988-01-24,Patricia Chauvet,FR,48,Slalom
 1988-01-24,Monika Maierhofer,AT,10,Slalom
 1988-01-24,Nicole Linneberg,CL,0,Slalom
@@ -276,7 +276,7 @@ date,name,ath_country,value,specialty
 1988-01-24,Roswitha Steiner,AT,42,Slalom
 1988-01-24,Anni Kronbichler,AT,12,Slalom
 1988-01-31,Lesley Beck,GB,3,Slalom
-1988-01-31,Lucia Medzihradska,SK,5,Combined
+1988-01-31,Lucia Medzihradska,SK,5,Slalom
 1988-01-31,Chantal Knapp,US,0,Slalom
 1988-01-31,Sari Skaling,US,0,Slalom
 1988-01-31,Ulla Carlsson,SE,2,Slalom
@@ -348,7 +348,7 @@ date,name,ath_country,value,specialty
 1988-03-06,Katja Lesjak,SK,7,Slalom
 1988-03-06,Heidi Voelker,US,9,Slalom
 1988-03-06,Christelle Guignard,FR,21,Slalom
-1988-03-06,Lucia Medzihradska,SK,5,Combined
+1988-03-06,Lucia Medzihradska,SK,5,Slalom
 1988-03-06,Paoletta Magoni,IT,8,Slalom
 1988-03-06,Annette Gersch,DE,8,Slalom
 1988-03-06,Veronika Sarec,SK,15,Slalom

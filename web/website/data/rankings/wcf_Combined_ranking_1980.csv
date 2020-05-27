@@ -1,121 +1,97 @@
 date,name,ath_country,value,specialty
-1979-12-06,Marie Therese Nadig,CH,25,Downhill
-1979-12-06,Cornelia Proell,AT,2,Downhill
 1979-12-06,Cindy Nelson,US,11,Downhill
-1979-12-06,Heidi Wiesler,DE,4,Combined
-1979-12-06,Perrine Pelen,FR,12,Slalom
-1979-12-06,Jamie Kurlander,US,0,Combined
-1979-12-06,Holly Beth Flanders,US,0,Downhill
-1979-12-06,Ingrid Eberle,AT,0,Slalom
-1979-12-06,Torill Fjelstadt,NO,7,Combined
-1979-12-06,Laurie Graham,CA,1,Downhill
-1979-12-06,Andrea Haaser,AT,3,Combined
-1979-12-06,Heidi Preuss,US,6,Downhill
-1979-12-06,Elisabeth Kraml,AT,0,Combined
-1979-12-06,Lenka Vlckova,SK,0,Slalom
-1979-12-06,Irene Epple,DE,9,Giant Slalom
-1979-12-06,Ariane Ehrat,CH,0,Combined
-1979-12-06,Kathy Kreiner,CA,0,Combined
-1979-12-06,Caroline Attia,FR,0,Downhill
-1979-12-06,Jana Soltysova,SK,5,Downhill
-1979-12-06,Cindy Oak,US,0,Combined
-1979-12-06,Fabienne Serrat,FR,10,Slalom
-1979-12-06,Catherine Quittet,FR,0,Combined
-1979-12-06,Annemarie Proell,AT,15,Downhill
-1979-12-06,Marianne Zechmeister,DE,0,Combined
-1979-12-06,Olga Charvatova,SK,0,Slalom
-1979-12-06,Anna Archibald,NZ,0,Combined
 1979-12-06,Sophie Caprio,FR,0,Combined
-1979-12-06,Wiki Fleckenstein,US,8,Combined
-1979-12-06,Hanni Wenzel,LI,20,Giant Slalom
+1979-12-06,Laurie Graham,CA,1,Downhill
+1979-12-06,Cornelia Proell,AT,2,Downhill
+1979-12-06,Jamie Kurlander,US,0,Combined
 1979-12-06,Maria Maricich,US,0,Combined
-1979-12-14,Cornelia Proell,AT,6,Downhill
-1979-12-14,Andrea Haaser,AT,13,Combined
-1979-12-14,Marianne Zechmeister,DE,0,Combined
-1979-12-14,Wiki Fleckenstein,US,8,Combined
-1979-12-14,Anna Archibald,NZ,0,Combined
-1979-12-14,Olga Charvatova,SK,0,Slalom
-1979-12-14,Holly Beth Flanders,US,0,Downhill
-1979-12-14,Caroline Attia,FR,0,Downhill
-1979-12-14,Heidi Wiesler,DE,12,Combined
-1979-12-14,Kathy Kreiner,CA,9,Combined
-1979-12-14,Laurie Graham,CA,6,Downhill
-1979-12-14,Catherine Quittet,FR,7,Combined
-1979-12-14,Heidi Preuss,US,6,Downhill
-1979-12-14,Sophie Caprio,FR,2,Combined
-1979-12-14,Marie Therese Nadig,CH,25,Downhill
-1979-12-14,Hanni Wenzel,LI,45,Giant Slalom
-1979-12-14,Maria Maricich,US,1,Combined
-1979-12-14,Annemarie Proell,AT,35,Downhill
-1979-12-14,Cindy Oak,US,0,Combined
-1979-12-14,Fabienne Serrat,FR,25,Slalom
-1979-12-14,Ingrid Eberle,AT,6,Slalom
-1979-12-14,Jana Soltysova,SK,16,Downhill
-1979-12-14,Jamie Kurlander,US,0,Combined
-1979-12-14,Elisabeth Kraml,AT,0,Combined
-1979-12-14,Perrine Pelen,FR,12,Slalom
-1979-12-14,Irene Epple,DE,9,Giant Slalom
-1979-12-14,Lenka Vlckova,SK,0,Slalom
-1979-12-14,Torill Fjelstadt,NO,19,Combined
-1979-12-14,Ariane Ehrat,CH,3,Combined
+1979-12-06,Ariane Ehrat,CH,0,Combined
+1979-12-06,Anna Archibald,NZ,0,Combined
+1979-12-06,Andrea Haaser,AT,3,Downhill
+1979-12-06,Lenka Vlckova,SK,0,Slalom
+1979-12-06,Fabienne Serrat,FR,0,Slalom
+1979-12-06,Kathy Kreiner,CA,0,Giant Slalom
+1979-12-06,Jana Soltysova,SK,5,Downhill
+1979-12-06,Caroline Attia,FR,0,Downhill
+1979-12-06,Elisabeth Kraml,AT,0,Combined
+1979-12-06,Ingrid Eberle,AT,0,Slalom
+1979-12-06,Heidi Wiesler,DE,4,Combined
+1979-12-06,Irene Epple,DE,0,Giant Slalom
+1979-12-06,Marianne Zechmeister,DE,0,Combined
+1979-12-06,Heidi Preuss,US,6,Downhill
+1979-12-06,Olga Charvatova,SK,0,Slalom
+1979-12-06,Torill Fjelstadt,NO,7,Combined
+1979-12-06,Cindy Oak,US,0,Combined
+1979-12-06,Catherine Quittet,FR,0,Combined
 1979-12-14,Cindy Nelson,US,11,Downhill
+1979-12-14,Sophie Caprio,FR,2,Combined
+1979-12-14,Marianne Zechmeister,DE,0,Combined
+1979-12-14,Laurie Graham,CA,1,Downhill
+1979-12-14,Cornelia Proell,AT,2,Downhill
+1979-12-14,Jamie Kurlander,US,0,Combined
+1979-12-14,Maria Maricich,US,1,Combined
+1979-12-14,Elisabeth Kraml,AT,0,Combined
+1979-12-14,Heidi Preuss,US,6,Downhill
+1979-12-14,Ariane Ehrat,CH,3,Combined
+1979-12-14,Anna Archibald,NZ,0,Combined
+1979-12-14,Andrea Haaser,AT,3,Downhill
+1979-12-14,Caroline Attia,FR,0,Downhill
+1979-12-14,Cindy Oak,US,0,Combined
+1979-12-14,Kathy Kreiner,CA,9,Giant Slalom
+1979-12-14,Catherine Quittet,FR,7,Combined
+1979-12-14,Jana Soltysova,SK,5,Downhill
+1979-12-14,Ingrid Eberle,AT,6,Slalom
+1979-12-14,Fabienne Serrat,FR,15,Slalom
+1979-12-14,Olga Charvatova,SK,0,Slalom
+1979-12-14,Torill Fjelstadt,NO,7,Combined
+1979-12-14,Irene Epple,DE,0,Giant Slalom
+1979-12-14,Lenka Vlckova,SK,0,Slalom
+1979-12-14,Heidi Wiesler,DE,12,Combined
 1980-01-15,Maria Maricich,US,1,Combined
-1980-01-15,Marianne Zechmeister,DE,0,Combined
-1980-01-15,Laurie Graham,CA,6,Downhill
+1980-01-15,Olga Charvatova,SK,0,Slalom
+1980-01-15,Fabienne Serrat,FR,15,Slalom
+1980-01-15,Laurie Graham,CA,1,Downhill
+1980-01-15,Elisabeth Kraml,AT,8,Combined
+1980-01-15,Irene Epple,DE,0,Giant Slalom
+1980-01-15,Kathy Kreiner,CA,9,Giant Slalom
+1980-01-15,Cindy Oak,US,0,Combined
+1980-01-15,Anna Archibald,NZ,0,Combined
+1980-01-15,Jamie Kurlander,US,0,Combined
+1980-01-15,Jana Soltysova,SK,5,Downhill
+1980-01-15,Heidi Wiesler,DE,12,Combined
+1980-01-15,Catherine Quittet,FR,7,Combined
+1980-01-15,Torill Fjelstadt,NO,7,Combined
 1980-01-15,Lenka Vlckova,SK,0,Slalom
+1980-01-15,Andrea Haaser,AT,3,Downhill
+1980-01-15,Ingrid Eberle,AT,21,Slalom
+1980-01-15,Heidi Preuss,US,6,Downhill
+1980-01-15,Caroline Attia,FR,0,Downhill
+1980-01-15,Marianne Zechmeister,DE,0,Combined
+1980-01-15,Cornelia Proell,AT,2,Downhill
+1980-01-15,Cindy Nelson,US,11,Downhill
 1980-01-15,Sophie Caprio,FR,2,Combined
 1980-01-15,Ariane Ehrat,CH,3,Combined
-1980-01-15,Catherine Quittet,FR,7,Combined
-1980-01-15,Caroline Attia,FR,0,Downhill
-1980-01-15,Jamie Kurlander,US,0,Combined
-1980-01-15,Cindy Oak,US,0,Combined
-1980-01-15,Cornelia Proell,AT,6,Downhill
-1980-01-15,Anna Archibald,NZ,0,Combined
-1980-01-15,Heidi Preuss,US,18,Downhill
-1980-01-15,Torill Fjelstadt,NO,19,Combined
-1980-01-15,Ingrid Eberle,AT,21,Slalom
-1980-01-15,Irene Epple,DE,9,Giant Slalom
-1980-01-15,Fabienne Serrat,FR,25,Slalom
-1980-01-15,Jana Soltysova,SK,16,Downhill
-1980-01-15,Andrea Haaser,AT,13,Combined
-1980-01-15,Cindy Nelson,US,22,Downhill
-1980-01-15,Holly Beth Flanders,US,10,Downhill
-1980-01-15,Hanni Wenzel,LI,65,Giant Slalom
-1980-01-15,Annemarie Proell,AT,60,Downhill
-1980-01-15,Heidi Wiesler,DE,12,Combined
-1980-01-15,Elisabeth Kraml,AT,8,Combined
-1980-01-15,Marie Therese Nadig,CH,25,Downhill
-1980-01-15,Wiki Fleckenstein,US,8,Combined
-1980-01-15,Olga Charvatova,SK,0,Slalom
-1980-01-15,Perrine Pelen,FR,12,Slalom
-1980-01-15,Kathy Kreiner,CA,18,Combined
-1980-01-21,Annemarie Proell,AT,80,Downhill
-1980-01-21,Hanni Wenzel,LI,90,Giant Slalom
-1980-01-21,Sophie Caprio,FR,2,Combined
-1980-01-21,Fabienne Serrat,FR,25,Slalom
-1980-01-21,Maria Maricich,US,1,Combined
-1980-01-21,Ingrid Eberle,AT,21,Slalom
-1980-01-21,Marie Therese Nadig,CH,25,Downhill
-1980-01-21,Cindy Nelson,US,37,Downhill
-1980-01-21,Anna Archibald,NZ,1,Combined
-1980-01-21,Cindy Oak,US,2,Combined
-1980-01-21,Marianne Zechmeister,DE,8,Combined
-1980-01-21,Ariane Ehrat,CH,3,Combined
-1980-01-21,Wiki Fleckenstein,US,8,Combined
+1980-01-21,Heidi Preuss,US,17,Downhill
 1980-01-21,Olga Charvatova,SK,9,Slalom
+1980-01-21,Irene Epple,DE,12,Giant Slalom
+1980-01-21,Cindy Nelson,US,11,Downhill
 1980-01-21,Catherine Quittet,FR,7,Combined
-1980-01-21,Caroline Attia,FR,6,Downhill
-1980-01-21,Heidi Wiesler,DE,22,Combined
-1980-01-21,Holly Beth Flanders,US,10,Downhill
-1980-01-21,Andrea Haaser,AT,13,Combined
-1980-01-21,Jamie Kurlander,US,3,Combined
-1980-01-21,Laurie Graham,CA,6,Downhill
-1980-01-21,Cornelia Proell,AT,6,Downhill
-1980-01-21,Lenka Vlckova,SK,4,Slalom
-1980-01-21,Irene Epple,DE,21,Giant Slalom
-1980-01-21,Heidi Preuss,US,29,Downhill
+1980-01-21,Ingrid Eberle,AT,21,Slalom
 1980-01-21,Elisabeth Kraml,AT,8,Combined
-1980-01-21,Torill Fjelstadt,NO,26,Combined
-1980-01-21,Perrine Pelen,FR,12,Slalom
-1980-01-21,Jana Soltysova,SK,21,Downhill
-1980-01-21,Kathy Kreiner,CA,18,Combined
+1980-01-21,Torill Fjelstadt,NO,14,Combined
+1980-01-21,Sophie Caprio,FR,2,Combined
+1980-01-21,Kathy Kreiner,CA,9,Giant Slalom
+1980-01-21,Jana Soltysova,SK,10,Downhill
+1980-01-21,Cindy Oak,US,2,Combined
+1980-01-21,Fabienne Serrat,FR,15,Slalom
+1980-01-21,Heidi Wiesler,DE,22,Combined
+1980-01-21,Lenka Vlckova,SK,4,Slalom
+1980-01-21,Andrea Haaser,AT,3,Downhill
+1980-01-21,Anna Archibald,NZ,1,Combined
+1980-01-21,Maria Maricich,US,1,Combined
+1980-01-21,Ariane Ehrat,CH,3,Combined
+1980-01-21,Jamie Kurlander,US,3,Combined
+1980-01-21,Laurie Graham,CA,1,Downhill
+1980-01-21,Cornelia Proell,AT,2,Downhill
+1980-01-21,Caroline Attia,FR,6,Downhill
+1980-01-21,Marianne Zechmeister,DE,8,Combined

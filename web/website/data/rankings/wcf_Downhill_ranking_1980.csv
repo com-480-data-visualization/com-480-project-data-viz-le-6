@@ -20,11 +20,11 @@ date,name,ath_country,value,specialty
 1979-12-05,Evi Mittermaier,DE,6,Downhill
 1979-12-05,Jamie Kurlander,US,0,Combined
 1979-12-05,Marianne Zechmeister,DE,0,Combined
-1979-12-05,Kathy Kreiner,CA,5,Combined
+1979-12-05,Kathy Kreiner,CA,5,Giant Slalom
 1979-12-05,Marie Lucie Waldmeier,FR,0,Downhill
 1979-12-05,Torill Fjelstadt,NO,0,Combined
 1979-12-05,Loni Klettl,CA,1,Downhill
-1979-12-05,Andrea Haaser,AT,0,Combined
+1979-12-05,Andrea Haaser,AT,0,Downhill
 1979-12-05,Evelyne Dirren,CH,0,Downhill
 1979-12-05,Annemarie Proell,AT,11,Downhill
 1979-12-05,Doris De Agostini,CH,0,Downhill
@@ -38,13 +38,13 @@ date,name,ath_country,value,specialty
 1979-12-14,Monika Bader,DE,12,Downhill
 1979-12-14,Christa Puschmann,AT,0,Downhill
 1979-12-14,Bernadette Zurbriggen,CH,0,Downhill
-1979-12-14,Kathy Kreiner,CA,5,Combined
+1979-12-14,Kathy Kreiner,CA,5,Giant Slalom
 1979-12-14,Irene Epple,DE,12,Giant Slalom
 1979-12-14,Marianne Zechmeister,DE,5,Combined
 1979-12-14,Martine Ellmer,AT,0,Downhill
 1979-12-14,Cristina Gravina,IT,0,Downhill
 1979-12-14,Doris De Agostini,CH,0,Downhill
-1979-12-14,Andrea Haaser,AT,6,Combined
+1979-12-14,Andrea Haaser,AT,6,Downhill
 1979-12-14,Marie Cecile Gros - Gaudenier,FR,4,Downhill
 1979-12-14,Caroline Attia,FR,0,Downhill
 1979-12-14,Evelyne Dirren,CH,7,Downhill
@@ -78,7 +78,7 @@ date,name,ath_country,value,specialty
 1979-12-19,Holly Beth Flanders,US,10,Downhill
 1979-12-19,Evi Mittermaier,DE,24,Downhill
 1979-12-19,Annemarie Bischofberger,CH,13,Downhill
-1979-12-19,Kathy Kreiner,CA,5,Combined
+1979-12-19,Kathy Kreiner,CA,5,Giant Slalom
 1979-12-19,Cindy Nelson,US,36,Downhill
 1979-12-19,Doris De Agostini,CH,5,Downhill
 1979-12-19,Elena Matous,,0,Downhill
@@ -94,15 +94,15 @@ date,name,ath_country,value,specialty
 1979-12-19,Loni Klettl,CA,1,Downhill
 1979-12-19,Irene Epple,DE,23,Giant Slalom
 1979-12-19,Laurie Graham,CA,30,Downhill
-1979-12-19,Andrea Haaser,AT,6,Combined
+1979-12-19,Andrea Haaser,AT,6,Downhill
 1980-01-06,Marie Therese Nadig,CH,95,Downhill
 1980-01-06,Marie Lucie Waldmeier,FR,6,Downhill
 1980-01-06,Evelyne Dirren,CH,7,Downhill
 1980-01-06,Torill Fjelstadt,NO,2,Combined
 1980-01-06,Annemarie Proell,AT,71,Downhill
 1980-01-06,Bernadette Zurbriggen,CH,0,Downhill
-1980-01-06,Kathy Kreiner,CA,5,Combined
-1980-01-06,Andrea Haaser,AT,6,Combined
+1980-01-06,Kathy Kreiner,CA,5,Giant Slalom
+1980-01-06,Andrea Haaser,AT,6,Downhill
 1980-01-06,Marianne Zechmeister,DE,5,Combined
 1980-01-06,Loni Klettl,CA,1,Downhill
 1980-01-06,Doris De Agostini,CH,12,Downhill
@@ -131,7 +131,7 @@ date,name,ath_country,value,specialty
 1980-01-07,Marie Cecile Gros - Gaudenier,FR,4,Downhill
 1980-01-07,Marianne Zechmeister,DE,5,Combined
 1980-01-07,Cristina Gravina,IT,5,Downhill
-1980-01-07,Kathy Kreiner,CA,5,Combined
+1980-01-07,Kathy Kreiner,CA,5,Giant Slalom
 1980-01-07,Elena Matous,,4,Downhill
 1980-01-07,Elisabeth Kraml,AT,4,Combined
 1980-01-07,Martine Ellmer,AT,7,Downhill
@@ -154,7 +154,7 @@ date,name,ath_country,value,specialty
 1980-01-07,Loni Klettl,CA,1,Downhill
 1980-01-07,Marie Lucie Waldmeier,FR,9,Downhill
 1980-01-07,Marie Therese Nadig,CH,120,Downhill
-1980-01-07,Andrea Haaser,AT,6,Combined
+1980-01-07,Andrea Haaser,AT,6,Downhill
 1980-01-07,Jamie Kurlander,US,1,Combined
 1980-01-07,Evelyne Dirren,CH,8,Downhill
 1980-01-07,Bernadette Zurbriggen,CH,0,Downhill
@@ -173,7 +173,7 @@ date,name,ath_country,value,specialty
 1980-01-15,Marie Lucie Waldmeier,FR,9,Downhill
 1980-01-15,Martine Ellmer,AT,7,Downhill
 1980-01-15,Heidi Preuss,US,36,Downhill
-1980-01-15,Andrea Haaser,AT,6,Combined
+1980-01-15,Andrea Haaser,AT,6,Downhill
 1980-01-15,Evelyne Dirren,CH,8,Downhill
 1980-01-15,Jamie Kurlander,US,1,Combined
 1980-01-15,Marianne Zechmeister,DE,5,Combined
@@ -188,7 +188,7 @@ date,name,ath_country,value,specialty
 1980-01-15,Caroline Attia,FR,13,Downhill
 1980-01-15,Irene Epple,DE,50,Giant Slalom
 1980-01-15,Monika Bader,DE,22,Downhill
-1980-01-15,Kathy Kreiner,CA,6,Combined
+1980-01-15,Kathy Kreiner,CA,6,Giant Slalom
 1980-01-15,Holly Beth Flanders,US,25,Downhill
 1980-01-15,Torill Fjelstadt,NO,2,Combined
 1980-01-20,Loni Klettl,CA,1,Downhill
@@ -212,9 +212,9 @@ date,name,ath_country,value,specialty
 1980-01-20,Holly Beth Flanders,US,34,Downhill
 1980-01-20,Evi Mittermaier,DE,42,Downhill
 1980-01-20,Evelyne Dirren,CH,14,Downhill
-1980-01-20,Andrea Haaser,AT,6,Combined
+1980-01-20,Andrea Haaser,AT,6,Downhill
 1980-01-20,Marie Lucie Waldmeier,FR,9,Downhill
-1980-01-20,Kathy Kreiner,CA,6,Combined
+1980-01-20,Kathy Kreiner,CA,6,Giant Slalom
 1980-01-20,Marianne Zechmeister,DE,5,Combined
 1980-01-20,Cristina Gravina,IT,5,Downhill
 1980-01-20,Marie Cecile Gros - Gaudenier,FR,4,Downhill

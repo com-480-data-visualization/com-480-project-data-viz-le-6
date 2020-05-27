@@ -1,6 +1,6 @@
 date,name,ath_country,value,specialty
 1996-11-24,Thomas Sykora,AT,100,Slalom
-1996-11-24,Lasse Kjus,NO,0,Super G
+1996-11-24,Lasse Kjus,NO,0,Downhill
 1996-11-24,Eric Rolland,FR,0,Slalom
 1996-11-24,Fabio De Crignis,IT,24,Slalom
 1996-11-24,Fabrizio Tescari,IT,10,Slalom
@@ -66,7 +66,7 @@ date,name,ath_country,value,specialty
 1996-12-01,Kiminobu Kimura,JP,51,Slalom
 1996-12-01,Eric Rolland,FR,0,Slalom
 1996-12-01,Thomas Stangassinger,AT,140,Slalom
-1996-12-01,Lasse Kjus,NO,0,Super G
+1996-12-01,Lasse Kjus,NO,0,Downhill
 1996-12-01,Michael von Gruenigen,CH,27,Giant Slalom
 1996-12-01,Mika Marila,FI,26,Slalom
 1996-12-01,Kevin Page,FR,0,Slalom
@@ -178,7 +178,7 @@ date,name,ath_country,value,specialty
 1996-12-17,Michael Tritscher,AT,85,Slalom
 1996-12-17,Gerhard Speiser,DE,7,Slalom
 1996-12-17,Thomas Sykora,AT,280,Slalom
-1996-12-17,Lasse Kjus,NO,0,Super G
+1996-12-17,Lasse Kjus,NO,0,Downhill
 1996-12-17,Eric Rolland,FR,0,Slalom
 1996-12-17,Gaku Hirasawa,JP,18,Slalom
 1996-12-17,Pierre Violon,FR,11,Slalom
@@ -198,7 +198,7 @@ date,name,ath_country,value,specialty
 1997-01-06,Kilian Albrecht,AT,0,Slalom
 1997-01-06,Manfred Kleinlercher,AT,4,Slalom
 1997-01-06,Mario Reiter,AT,74,Slalom
-1997-01-06,Lasse Kjus,NO,0,Super G
+1997-01-06,Lasse Kjus,NO,0,Downhill
 1997-01-06,Harald Chr. Strand Nilsen,NO,0,Giant Slalom
 1997-01-06,Alois Vogl,DE,10,Giant Slalom
 1997-01-06,Kevin Page,FR,20,Slalom
@@ -248,7 +248,7 @@ date,name,ath_country,value,specialty
 1997-01-12,Tom Stiansen,NO,178,Slalom
 1997-01-12,Michael von Gruenigen,CH,117,Giant Slalom
 1997-01-12,Stanley Hayer,CA,0,Slalom
-1997-01-12,Lasse Kjus,NO,0,Super G
+1997-01-12,Lasse Kjus,NO,0,Downhill
 1997-01-12,Gerhard Speiser,DE,7,Slalom
 1997-01-12,Harald Chr. Strand Nilsen,NO,0,Giant Slalom
 1997-01-12,Johan Wallner,SE,8,Slalom
@@ -357,7 +357,7 @@ date,name,ath_country,value,specialty
 1997-01-19,Matteo Belfrond,IT,5,Giant Slalom
 1997-01-19,Sergio Bergamelli,IT,0,Slalom
 1997-01-19,Rene Mlekuz,SK,54,Slalom
-1997-01-19,Lasse Kjus,NO,0,Super G
+1997-01-19,Lasse Kjus,NO,0,Downhill
 1997-01-19,Didier Plaschy,CH,11,Slalom
 1997-01-19,Sven Schnitzenbaumer,DE,0,Slalom
 1997-01-19,Gerhard Speiser,DE,7,Slalom
@@ -401,7 +401,7 @@ date,name,ath_country,value,specialty
 1997-01-26,Matteo Belfrond,IT,5,Giant Slalom
 1997-01-26,Andrej Miklavc,SK,128,Slalom
 1997-01-26,Kiminobu Kimura,JP,194,Slalom
-1997-01-26,Lasse Kjus,NO,11,Super G
+1997-01-26,Lasse Kjus,NO,11,Downhill
 1997-01-26,Harald Chr. Strand Nilsen,NO,0,Giant Slalom
 1997-01-26,Eric Rolland,FR,18,Slalom
 1997-01-26,Alois Vogl,DE,36,Giant Slalom
@@ -447,7 +447,7 @@ date,name,ath_country,value,specialty
 1997-01-30,Mario Reiter,AT,222,Slalom
 1997-01-30,Stanley Hayer,CA,0,Slalom
 1997-01-30,Kevin Page,FR,46,Slalom
-1997-01-30,Lasse Kjus,NO,24,Super G
+1997-01-30,Lasse Kjus,NO,24,Downhill
 1997-01-30,Eric Rolland,FR,18,Slalom
 1997-01-30,Alberto Tomba,IT,292,Slalom
 1997-01-30,Matjaz Vrhovnik,SK,54,Slalom
@@ -535,7 +535,7 @@ date,name,ath_country,value,specialty
 1997-03-09,Harald Chr. Strand Nilsen,NO,9,Giant Slalom
 1997-03-09,Thomas Grandi,CA,21,Giant Slalom
 1997-03-09,Manfred Kleinlercher,AT,13,Slalom
-1997-03-09,Lasse Kjus,NO,24,Super G
+1997-03-09,Lasse Kjus,NO,24,Downhill
 1997-03-09,Giorgio Rocca,IT,8,Slalom
 1997-03-09,Chip Knight,US,37,Slalom
 1997-03-09,Thomas Sykora,AT,666,Slalom
@@ -555,7 +555,7 @@ date,name,ath_country,value,specialty
 1997-03-16,Guenther Mader,AT,64,Giant Slalom
 1997-03-16,Siegfried Voglreiter,AT,180,Giant Slalom
 1997-03-16,Matej Jovan,SK,11,Slalom
-1997-03-16,Lasse Kjus,NO,48,Super G
+1997-03-16,Lasse Kjus,NO,48,Downhill
 1997-03-16,Stanley Hayer,CA,11,Slalom
 1997-03-16,Chip Knight,US,37,Slalom
 1997-03-16,Leo Puentener,CH,4,Slalom

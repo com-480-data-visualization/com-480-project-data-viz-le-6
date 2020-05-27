@@ -1,802 +1,812 @@
 date,name,ath_country,value,specialty
 2017-12-03,Marcel Hirscher,AT,100,Slalom
-2017-12-03,Marco Odermatt,CH,0,Super G
-2017-12-03,Stefan Hadalin,SK,15,Slalom
-2017-12-03,Pavel Trikhichev,RU,0,Combined
-2017-12-03,Bjoernar Neteland,NO,14,Giant Slalom
-2017-12-03,Marco Schwarz,AT,0,Slalom
-2017-12-03,Thibaut Favrot,FR,0,Giant Slalom
-2017-12-03,Elia Zurbriggen,CH,8,Giant Slalom
-2017-12-03,Luca Aerni,CH,0,Slalom
-2017-12-03,Andreas Zampa,SK,0,Giant Slalom
-2017-12-03,Giulio Bosca,IT,0,Giant Slalom
-2017-12-03,Linus Strasser,DE,0,Slalom
-2017-12-03,Markus Monsen,NO,0,Giant Slalom
-2017-12-03,Johannes Strolz,AT,0,Giant Slalom
-2017-12-03,Michael Matt,AT,0,Slalom
-2017-12-03,Marcel Mathis,AT,4,Giant Slalom
-2017-12-03,Christian Hirschbuehel,AT,0,Slalom
-2017-12-03,David Chodounsky,US,0,Slalom
-2017-12-03,Marcus Sandell,FI,0,Combined
-2017-12-03,River Radamus,US,0,Combined
-2017-12-03,Gilles Roulin,CH,0,Downhill
-2017-12-03,Krystof Kryzl,CZ,0,Combined
-2017-12-03,Adam Zampa,SK,0,Slalom
-2017-12-03,Simon Maurberger,IT,0,Combined
-2017-12-03,Kjetil Jansrud,NO,0,Super G
-2017-12-03,Tim Jitloff,US,0,Giant Slalom
-2017-12-03,Alexander Schmid,DE,0,Giant Slalom
-2017-12-03,Andre Myhrer,SE,13,Slalom
-2017-12-03,Manfred Moelgg,IT,20,Slalom
-2017-12-03,Florian Eisath,IT,10,Giant Slalom
-2017-12-03,Thomas Fanara,FR,3,Giant Slalom
-2017-12-03,Filip Zubcic,HR,32,Giant Slalom
-2017-12-03,Riccardo Tonetti,IT,12,Giant Slalom
+2017-12-03,Aljaz Dvornik,SK,0,Combined
+2017-12-03,Andrea Ballerin,IT,0,Combined
 2017-12-03,Rasmus Windingstad,NO,0,Giant Slalom
+2017-12-03,Hig Roberts,US,0,Combined
 2017-12-03,Tommy Ford,US,26,Giant Slalom
+2017-12-03,Thomas Tumler,CH,0,Super G
+2017-12-03,Hannes Reichelt,AT,0,Downhill
 2017-12-03,Roberto Nani,IT,6,Giant Slalom
-2017-12-03,Ryan Cochran-Siegle,US,0,Giant Slalom
+2017-12-03,Riccardo Tonetti,IT,12,Giant Slalom
+2017-12-03,Dustin Cook,CA,0,Super G
 2017-12-03,Trevor Philp,CA,24,Giant Slalom
+2017-12-03,William Duke,AR,0,Combined
+2017-12-03,Joan Verdu Sanchez,AD,0,Combined
+2017-12-03,Peder Dahlum Eide,NO,0,Combined
 2017-12-03,Samu Torsti,FI,0,Giant Slalom
+2017-12-03,Aksel Patricksson,NO,0,Combined
 2017-12-03,Roland Leitinger,AT,0,Giant Slalom
 2017-12-03,Matthias Mayer,AT,0,Downhill
-2017-12-03,Stefan Brennsteiner,AT,0,Giant Slalom
-2017-12-03,Erik Read,CA,0,Giant Slalom
-2017-12-03,Gino Caviezel,CH,7,Giant Slalom
-2017-12-03,Fritz Dopfer,DE,11,Slalom
-2017-12-03,Magnus Walch,AT,0,Giant Slalom
-2017-12-03,Giovanni Borsotti,IT,0,Giant Slalom
-2017-12-03,Aleksandr Andrienko,RU,0,Giant Slalom
+2017-12-03,Ryan Cochran-Siegle,US,0,Giant Slalom
+2017-12-03,Dominic Demschar,AU,0,Combined
+2017-12-03,Robin Buffet,FR,0,Slalom
+2017-12-03,Thomas Fanara,FR,3,Giant Slalom
+2017-12-03,James Crawford,CA,0,Combined
+2017-12-03,Luca De Aliprandini,IT,16,Giant Slalom
+2017-12-03,Marc Rochat,CH,0,Slalom
+2017-12-03,Adam Kotzmann,CZ,0,Combined
+2017-12-03,Leif Kristian Haugen,NO,9,Giant Slalom
+2017-12-03,Elias Kolega,HR,0,Slalom
 2017-12-03,Loic Meillard,CH,40,Giant Slalom
-2017-12-03,Brian Mclaughlin,US,0,Combined
+2017-12-03,Simon Breitfuss Kammerlander,BO,0,Combined
+2017-12-03,Filip Zubcic,HR,32,Giant Slalom
+2017-12-03,Alexander Schmid,DE,0,Giant Slalom
+2017-12-03,Andre Myhrer,SE,13,Slalom
+2017-12-03,Dan Axel Grahn,SE,0,Combined
+2017-12-03,Manfred Moelgg,IT,20,Slalom
+2017-12-03,Maarten Meiners,NL,0,Combined
+2017-12-03,Filip Forejtek,CZ,0,Combined
+2017-12-03,Florian Eisath,IT,10,Giant Slalom
+2017-12-03,Ryuunosuke Ohkoshi,JP,0,Slalom
+2017-12-03,Tomoya Ishii,JP,0,Combined
+2017-12-03,Juan Del Campo,ES,0,Combined
+2017-12-03,Aleksander Aamodt Kilde,NO,5,Downhill
+2017-12-03,Albin Tahiri,XK,0,Combined
+2017-12-03,Stefan Rogentin,CH,0,Combined
+2017-12-03,David Chodounsky,US,0,Slalom
+2017-12-03,Stefan Hadalin,SK,15,Slalom
+2017-12-03,Philip Brown,CA,0,Slalom
+2017-12-03,Pavel Trikhichev,RU,0,Combined
+2017-12-03,Christian Hirschbuehel,AT,0,Slalom
+2017-12-03,Bjoernar Neteland,NO,14,Giant Slalom
+2017-12-03,Marcel Mathis,AT,4,Giant Slalom
+2017-12-03,Fabio Gstrein,AT,0,Combined
+2017-12-03,Marco Odermatt,CH,0,Super G
+2017-12-03,Marco Schwarz,AT,0,Slalom
+2017-12-03,Thibaut Favrot,FR,0,Giant Slalom
+2017-12-03,Johannes Strolz,AT,0,Giant Slalom
+2017-12-03,Zan Groselj,SK,0,Combined
+2017-12-03,Elia Zurbriggen,CH,8,Giant Slalom
+2017-12-03,Markus Monsen,NO,0,Giant Slalom
+2017-12-03,Luca Aerni,CH,0,Slalom
+2017-12-03,Linus Strasser,DE,0,Slalom
+2017-12-03,Andreas Zampa,SK,0,Giant Slalom
+2017-12-03,Michael Matt,AT,0,Slalom
+2017-12-03,Stefan Brennsteiner,AT,0,Giant Slalom
+2017-12-03,Marcus Sandell,FI,0,Combined
+2017-12-03,Adam Zampa,SK,0,Slalom
+2017-12-03,Erik Read,CA,0,Giant Slalom
+2017-12-03,Dominik Paris,IT,0,Downhill
+2017-12-03,Gino Caviezel,CH,7,Giant Slalom
+2017-12-03,Willis Feasey,NZ,0,Combined
 2017-12-03,Dominik Schwaiger,DE,0,Downhill
+2017-12-03,Fritz Dopfer,DE,11,Slalom
+2017-12-03,Adam Barwood,NZ,0,Combined
+2017-12-03,Magnus Walch,AT,0,Giant Slalom
+2017-12-03,River Radamus,US,0,Combined
+2017-12-03,Brian Mclaughlin,US,0,Combined
+2017-12-03,Giovanni Borsotti,IT,0,Giant Slalom
+2017-12-03,Simon Maurberger,IT,0,Combined
+2017-12-03,Tim Jitloff,US,0,Giant Slalom
+2017-12-03,Krystof Kryzl,CZ,0,Combined
+2017-12-03,Aleksandr Andrienko,RU,0,Giant Slalom
+2017-12-03,Borut Bozic,SK,0,Combined
+2017-12-03,Kjetil Jansrud,NO,0,Super G
+2017-12-03,Gilles Roulin,CH,0,Downhill
+2017-12-03,Frederik Norys,DE,0,Combined
+2017-12-03,Greg Galeotti,FR,0,Combined
+2017-12-03,Giulio Bosca,IT,0,Giant Slalom
+2017-12-03,Ted Ligety,US,36,Giant Slalom
+2017-12-03,Alexis Pinturault,FR,22,Giant Slalom
+2017-12-03,Massimiliano Valcareggi,GR,0,Combined
 2017-12-03,Victor Guillot,FR,0,Combined
+2017-12-03,Mathieu Faivre,FR,0,Giant Slalom
+2017-12-03,Matts Olsson,SE,29,Giant Slalom
+2017-12-03,Manuel Feller,AT,50,Giant Slalom
+2017-12-03,Albert Popov,BG,0,Combined
+2017-12-03,Alex Hofer,IT,0,Combined
+2017-12-03,Sandro Jenal,CH,0,Combined
+2017-12-03,Pierre Bugnard,CH,0,Combined
+2017-12-03,Alex Zingerle,IT,0,Combined
+2017-12-03,Victor Muffat Jeandet,FR,0,Slalom
+2017-12-03,Ivan Kuznetsov,RU,0,Combined
+2017-12-03,Stefan Luitz,DE,60,Giant Slalom
+2017-12-03,Henrik Kristoffersen,NO,80,Slalom
+2017-12-03,Justin Murisier,CH,45,Giant Slalom
+2017-12-03,Adam Chrapek,PL,0,Combined
+2017-12-03,Dominik Raschner,AT,0,Combined
+2017-12-03,Zan Kranjec,SK,18,Giant Slalom
 2017-12-03,Miha Hrobat,SK,0,Combined
 2017-12-03,Kristoffer Jakobsen,SE,0,Slalom
-2017-12-03,Sandro Jenal,CH,0,Combined
-2017-12-03,Alex Zingerle,IT,0,Combined
-2017-12-03,Alex Hofer,IT,0,Combined
-2017-12-03,Adam Chrapek,PL,0,Combined
 2017-12-03,Julian Rauchfuss,DE,0,Combined
-2017-12-03,Dominik Raschner,AT,0,Combined
-2017-12-03,Ivan Kuznetsov,RU,0,Combined
-2017-12-03,James Crawford,CA,0,Combined
-2017-12-03,Tomoya Ishii,JP,0,Combined
-2017-12-03,Peder Dahlum Eide,NO,0,Combined
-2017-12-03,Frederik Norys,DE,0,Combined
-2017-12-03,Fabio Gstrein,AT,0,Combined
-2017-12-03,Zan Groselj,SK,0,Combined
-2017-12-03,Borut Bozic,SK,0,Combined
-2017-12-03,Albin Tahiri,XK,0,Combined
-2017-12-03,Aljaz Dvornik,SK,0,Combined
-2017-12-03,Adam Kotzmann,CZ,0,Combined
-2017-12-03,Albert Popov,BG,0,Combined
-2017-12-03,Pierre Bugnard,CH,0,Combined
-2017-12-03,Adam Barwood,NZ,0,Combined
-2017-12-03,Massimiliano Valcareggi,GR,0,Combined
-2017-12-03,Greg Galeotti,FR,0,Combined
-2017-12-03,Willis Feasey,NZ,0,Combined
-2017-12-03,Dominik Paris,IT,0,Downhill
-2017-12-03,Stefan Rogentin,CH,0,Combined
-2017-12-03,Dominic Demschar,AU,0,Combined
-2017-12-03,Aksel Patricksson,NO,0,Combined
-2017-12-03,Joan Verdu Sanchez,AD,0,Combined
-2017-12-03,William Duke,AR,0,Combined
-2017-12-03,Dustin Cook,CA,0,Super G
-2017-12-03,Hannes Reichelt,AT,0,Downhill
-2017-12-03,Thomas Tumler,CH,0,Super G
-2017-12-03,Hig Roberts,US,0,Combined
-2017-12-03,Andrea Ballerin,IT,0,Combined
-2017-12-03,Robin Buffet,FR,0,Slalom
-2017-12-03,Ryuunosuke Ohkoshi,JP,0,Slalom
-2017-12-03,Filip Forejtek,CZ,0,Combined
-2017-12-03,Maarten Meiners,NL,0,Combined
-2017-12-03,Dan Axel Grahn,SE,0,Combined
-2017-12-03,Juan Del Campo,ES,0,Combined
-2017-12-03,Simon Breitfuss Kammerlander,BO,0,Combined
-2017-12-03,Elias Kolega,HR,0,Slalom
-2017-12-03,Marc Rochat,CH,0,Slalom
 2017-12-03,Charlie Raposo,GB,0,Combined
-2017-12-03,Leif Kristian Haugen,NO,9,Giant Slalom
-2017-12-03,Philip Brown,CA,0,Slalom
-2017-12-03,Matts Olsson,SE,29,Giant Slalom
-2017-12-03,Henrik Kristoffersen,NO,80,Slalom
-2017-12-03,Manuel Feller,AT,50,Giant Slalom
-2017-12-03,Ted Ligety,US,36,Giant Slalom
-2017-12-03,Stefan Luitz,DE,60,Giant Slalom
-2017-12-03,Aleksander Aamodt Kilde,NO,5,Downhill
-2017-12-03,Mathieu Faivre,FR,0,Giant Slalom
-2017-12-03,Victor Muffat Jeandet,FR,0,Slalom
-2017-12-03,Luca De Aliprandini,IT,16,Giant Slalom
-2017-12-03,Zan Kranjec,SK,18,Giant Slalom
-2017-12-03,Justin Murisier,CH,45,Giant Slalom
-2017-12-03,Alexis Pinturault,FR,22,Giant Slalom
-2017-12-09,Massimiliano Valcareggi,GR,0,Combined
-2017-12-09,James Crawford,CA,0,Combined
-2017-12-09,Trevor Philp,CA,24,Giant Slalom
-2017-12-09,Thibaut Favrot,FR,0,Giant Slalom
-2017-12-09,Charlie Raposo,GB,0,Combined
-2017-12-09,Justin Murisier,CH,69,Giant Slalom
-2017-12-09,Samu Torsti,FI,0,Giant Slalom
-2017-12-09,Thomas Tumler,CH,0,Super G
-2017-12-09,Victor Muffat Jeandet,FR,18,Slalom
-2017-12-09,Hannes Reichelt,AT,0,Downhill
-2017-12-09,Peder Dahlum Eide,NO,0,Combined
-2017-12-09,Borut Bozic,SK,0,Combined
-2017-12-09,Ryan Cochran-Siegle,US,0,Giant Slalom
-2017-12-09,Aksel Patricksson,NO,0,Combined
-2017-12-09,Linus Strasser,DE,0,Slalom
 2017-12-09,Giulio Bosca,IT,0,Giant Slalom
-2017-12-09,Joan Verdu Sanchez,AD,0,Combined
-2017-12-09,Tommy Ford,US,35,Giant Slalom
-2017-12-09,Victor Guillot,FR,0,Combined
-2017-12-09,Elia Zurbriggen,CH,18,Giant Slalom
-2017-12-09,Matts Olsson,SE,58,Giant Slalom
-2017-12-09,Adam Kotzmann,CZ,0,Combined
-2017-12-09,Roberto Nani,IT,14,Giant Slalom
-2017-12-09,Dustin Cook,CA,0,Super G
-2017-12-09,Pierre Bugnard,CH,0,Combined
-2017-12-09,Luca Aerni,CH,5,Slalom
-2017-12-09,Marco Schwarz,AT,14,Slalom
-2017-12-09,William Duke,AR,0,Combined
-2017-12-09,Bjoernar Neteland,NO,14,Giant Slalom
-2017-12-09,Simon Maurberger,IT,0,Combined
-2017-12-09,Roland Leitinger,AT,0,Giant Slalom
-2017-12-09,Giovanni Borsotti,IT,13,Giant Slalom
-2017-12-09,Tomoya Ishii,JP,0,Combined
-2017-12-09,Dan Axel Grahn,SE,0,Combined
-2017-12-09,Maarten Meiners,NL,0,Combined
-2017-12-09,Tim Jitloff,US,11,Giant Slalom
-2017-12-09,Henrik Kristoffersen,NO,125,Slalom
-2017-12-09,Magnus Walch,AT,0,Giant Slalom
-2017-12-09,Juan Del Campo,ES,0,Combined
 2017-12-09,Fritz Dopfer,DE,11,Slalom
-2017-12-09,Aleksandr Andrienko,RU,0,Giant Slalom
-2017-12-09,Simon Breitfuss Kammerlander,BO,0,Combined
-2017-12-09,Filip Forejtek,CZ,0,Combined
-2017-12-09,Stefan Luitz,DE,140,Giant Slalom
-2017-12-09,Kjetil Jansrud,NO,0,Super G
-2017-12-09,Albin Tahiri,XK,0,Combined
-2017-12-09,Gino Caviezel,CH,23,Giant Slalom
-2017-12-09,Elias Kolega,HR,0,Slalom
-2017-12-09,Greg Galeotti,FR,0,Combined
-2017-12-09,Rasmus Windingstad,NO,0,Giant Slalom
-2017-12-09,Andrea Ballerin,IT,0,Combined
-2017-12-09,Matthias Mayer,AT,0,Downhill
-2017-12-09,Stefan Hadalin,SK,19,Slalom
-2017-12-09,Marc Rochat,CH,0,Slalom
-2017-12-09,Hig Roberts,US,0,Combined
-2017-12-09,Robin Buffet,FR,0,Slalom
-2017-12-09,Marco Odermatt,CH,0,Super G
-2017-12-09,Adam Zampa,SK,1,Slalom
-2017-12-09,Ryuunosuke Ohkoshi,JP,0,Slalom
-2017-12-09,Erik Read,CA,0,Giant Slalom
-2017-12-09,Mathieu Faivre,FR,50,Giant Slalom
-2017-12-09,Aljaz Dvornik,SK,0,Combined
-2017-12-09,Stefan Brennsteiner,AT,0,Giant Slalom
-2017-12-09,Pavel Trikhichev,RU,0,Combined
-2017-12-09,Andreas Zampa,SK,0,Giant Slalom
-2017-12-09,Markus Monsen,NO,0,Giant Slalom
-2017-12-09,Thomas Fanara,FR,29,Giant Slalom
-2017-12-09,Adam Barwood,NZ,0,Combined
-2017-12-09,Marcel Mathis,AT,4,Giant Slalom
-2017-12-09,Loic Meillard,CH,40,Giant Slalom
-2017-12-09,Dominik Paris,IT,0,Downhill
-2017-12-09,Florian Eisath,IT,32,Giant Slalom
-2017-12-09,Alexander Schmid,DE,40,Giant Slalom
-2017-12-09,Alex Zingerle,IT,0,Combined
-2017-12-09,River Radamus,US,0,Combined
-2017-12-09,Manuel Feller,AT,82,Giant Slalom
-2017-12-09,Frederik Norys,DE,0,Combined
-2017-12-09,Manfred Moelgg,IT,27,Slalom
-2017-12-09,Christian Hirschbuehel,AT,0,Slalom
-2017-12-09,Adam Chrapek,PL,0,Combined
-2017-12-09,Miha Hrobat,SK,0,Combined
-2017-12-09,Philip Brown,CA,0,Slalom
-2017-12-09,Ivan Kuznetsov,RU,0,Combined
-2017-12-09,Marcus Sandell,FI,0,Combined
 2017-12-09,Dominik Schwaiger,DE,0,Downhill
-2017-12-09,Albert Popov,BG,0,Combined
-2017-12-09,Alex Hofer,IT,0,Combined
-2017-12-09,Willis Feasey,NZ,0,Combined
-2017-12-09,David Chodounsky,US,0,Slalom
-2017-12-09,Alexis Pinturault,FR,122,Giant Slalom
+2017-12-09,Hannes Reichelt,AT,0,Downhill
 2017-12-09,Sandro Jenal,CH,0,Combined
-2017-12-09,Marcel Hirscher,AT,160,Slalom
+2017-12-09,Miha Hrobat,SK,0,Combined
+2017-12-09,Gino Caviezel,CH,23,Giant Slalom
+2017-12-09,Willis Feasey,NZ,0,Combined
+2017-12-09,Dustin Cook,CA,0,Super G
+2017-12-09,Albert Popov,BG,0,Combined
+2017-12-09,Erik Read,CA,0,Giant Slalom
+2017-12-09,Adam Barwood,NZ,0,Combined
 2017-12-09,Kristoffer Jakobsen,SE,0,Slalom
-2017-12-09,Luca De Aliprandini,IT,28,Giant Slalom
-2017-12-09,Riccardo Tonetti,IT,15,Giant Slalom
-2017-12-09,Dominik Raschner,AT,0,Combined
-2017-12-09,Krystof Kryzl,CZ,0,Combined
-2017-12-09,Fabio Gstrein,AT,0,Combined
+2017-12-09,Dominik Paris,IT,0,Downhill
+2017-12-09,Ryan Cochran-Siegle,US,0,Giant Slalom
+2017-12-09,Peder Dahlum Eide,NO,0,Combined
+2017-12-09,Aksel Patricksson,NO,0,Combined
+2017-12-09,Samu Torsti,FI,0,Giant Slalom
+2017-12-09,Roland Leitinger,AT,0,Giant Slalom
+2017-12-09,Albin Tahiri,XK,0,Combined
+2017-12-09,Joan Verdu Sanchez,AD,0,Combined
 2017-12-09,Dominic Demschar,AU,0,Combined
-2017-12-09,Brian Mclaughlin,US,0,Combined
-2017-12-09,Ted Ligety,US,51,Giant Slalom
-2017-12-09,Filip Zubcic,HR,34,Giant Slalom
+2017-12-09,Magnus Walch,AT,0,Giant Slalom
+2017-12-09,Manuel Feller,AT,82,Giant Slalom
+2017-12-09,Trevor Philp,CA,24,Giant Slalom
+2017-12-09,Matthias Mayer,AT,0,Downhill
 2017-12-09,Zan Kranjec,SK,54,Giant Slalom
-2017-12-09,Johannes Strolz,AT,0,Giant Slalom
-2017-12-09,Zan Groselj,SK,0,Combined
-2017-12-09,Leif Kristian Haugen,NO,29,Giant Slalom
-2017-12-09,Andre Myhrer,SE,13,Slalom
 2017-12-09,Stefan Rogentin,CH,0,Combined
-2017-12-09,Julian Rauchfuss,DE,0,Combined
+2017-12-09,Stefan Brennsteiner,AT,0,Giant Slalom
+2017-12-09,William Duke,AR,0,Combined
+2017-12-09,Ivan Kuznetsov,RU,0,Combined
+2017-12-09,Brian Mclaughlin,US,0,Combined
+2017-12-09,Greg Galeotti,FR,0,Combined
+2017-12-09,Henrik Kristoffersen,NO,125,Slalom
+2017-12-09,Marcel Mathis,AT,4,Giant Slalom
+2017-12-09,Bjoernar Neteland,NO,14,Giant Slalom
+2017-12-09,Marco Schwarz,AT,14,Slalom
 2017-12-09,Michael Matt,AT,6,Slalom
+2017-12-09,Fabio Gstrein,AT,0,Combined
+2017-12-09,Zan Groselj,SK,0,Combined
+2017-12-09,Alexis Pinturault,FR,122,Giant Slalom
+2017-12-09,Thibaut Favrot,FR,0,Giant Slalom
+2017-12-09,Johannes Strolz,AT,0,Giant Slalom
+2017-12-09,Julian Rauchfuss,DE,0,Combined
+2017-12-09,Marcel Hirscher,AT,160,Slalom
+2017-12-09,Elia Zurbriggen,CH,18,Giant Slalom
+2017-12-09,Markus Monsen,NO,0,Giant Slalom
+2017-12-09,Luca Aerni,CH,5,Slalom
+2017-12-09,Linus Strasser,DE,0,Slalom
+2017-12-09,Dominik Raschner,AT,0,Combined
+2017-12-09,Andreas Zampa,SK,0,Giant Slalom
+2017-12-09,Adam Chrapek,PL,0,Combined
+2017-12-09,Christian Hirschbuehel,AT,0,Slalom
+2017-12-09,Pavel Trikhichev,RU,0,Combined
+2017-12-09,Philip Brown,CA,0,Slalom
+2017-12-09,Giovanni Borsotti,IT,13,Giant Slalom
+2017-12-09,Simon Maurberger,IT,0,Combined
+2017-12-09,Thomas Tumler,CH,0,Super G
+2017-12-09,Tim Jitloff,US,11,Giant Slalom
+2017-12-09,Krystof Kryzl,CZ,0,Combined
+2017-12-09,Borut Bozic,SK,0,Combined
+2017-12-09,Alex Zingerle,IT,0,Combined
+2017-12-09,Aleksandr Andrienko,RU,0,Giant Slalom
+2017-12-09,Stefan Luitz,DE,140,Giant Slalom
 2017-12-09,Gilles Roulin,CH,0,Downhill
+2017-12-09,River Radamus,US,0,Combined
+2017-12-09,Matts Olsson,SE,58,Giant Slalom
+2017-12-09,Marcus Sandell,FI,0,Combined
+2017-12-09,Adam Zampa,SK,1,Slalom
+2017-12-09,Alex Hofer,IT,0,Combined
+2017-12-09,Marco Odermatt,CH,0,Super G
+2017-12-09,David Chodounsky,US,0,Slalom
+2017-12-09,Stefan Hadalin,SK,19,Slalom
+2017-12-09,Kjetil Jansrud,NO,0,Super G
+2017-12-09,Frederik Norys,DE,0,Combined
+2017-12-09,Roberto Nani,IT,14,Giant Slalom
+2017-12-09,Riccardo Tonetti,IT,15,Giant Slalom
+2017-12-09,James Crawford,CA,0,Combined
+2017-12-09,Ryuunosuke Ohkoshi,JP,0,Slalom
+2017-12-09,Andrea Ballerin,IT,0,Combined
+2017-12-09,Thomas Fanara,FR,29,Giant Slalom
+2017-12-09,Massimiliano Valcareggi,GR,0,Combined
+2017-12-09,Victor Guillot,FR,0,Combined
+2017-12-09,Elias Kolega,HR,0,Slalom
+2017-12-09,Filip Zubcic,HR,34,Giant Slalom
+2017-12-09,Luca De Aliprandini,IT,28,Giant Slalom
+2017-12-09,Leif Kristian Haugen,NO,29,Giant Slalom
+2017-12-09,Pierre Bugnard,CH,0,Combined
+2017-12-09,Aljaz Dvornik,SK,0,Combined
+2017-12-09,Mathieu Faivre,FR,50,Giant Slalom
+2017-12-09,Victor Muffat Jeandet,FR,18,Slalom
+2017-12-09,Simon Breitfuss Kammerlander,BO,0,Combined
+2017-12-09,Juan Del Campo,ES,0,Combined
+2017-12-09,Alexander Schmid,DE,40,Giant Slalom
+2017-12-09,Robin Buffet,FR,0,Slalom
+2017-12-09,Tomoya Ishii,JP,0,Combined
+2017-12-09,Adam Kotzmann,CZ,0,Combined
+2017-12-09,Loic Meillard,CH,40,Giant Slalom
+2017-12-09,Marc Rochat,CH,0,Slalom
+2017-12-09,Manfred Moelgg,IT,27,Slalom
+2017-12-09,Filip Forejtek,CZ,0,Combined
 2017-12-09,Aleksander Aamodt Kilde,NO,5,Downhill
-2017-12-17,River Radamus,US,0,Combined
-2017-12-17,Fabio Gstrein,AT,0,Combined
-2017-12-17,Krystof Kryzl,CZ,0,Combined
-2017-12-17,David Chodounsky,US,0,Slalom
-2017-12-17,Dominik Schwaiger,DE,0,Downhill
-2017-12-17,Zan Kranjec,SK,114,Giant Slalom
-2017-12-17,Adam Zampa,SK,1,Slalom
-2017-12-17,Marco Odermatt,CH,0,Super G
-2017-12-17,Albin Tahiri,XK,0,Combined
-2017-12-17,Marcus Sandell,FI,0,Combined
+2017-12-09,Maarten Meiners,NL,0,Combined
+2017-12-09,Tommy Ford,US,35,Giant Slalom
+2017-12-09,Ted Ligety,US,51,Giant Slalom
+2017-12-09,Hig Roberts,US,0,Combined
+2017-12-09,Justin Murisier,CH,69,Giant Slalom
+2017-12-09,Charlie Raposo,GB,0,Combined
+2017-12-09,Dan Axel Grahn,SE,0,Combined
+2017-12-09,Rasmus Windingstad,NO,0,Giant Slalom
+2017-12-09,Florian Eisath,IT,32,Giant Slalom
+2017-12-09,Andre Myhrer,SE,13,Slalom
 2017-12-17,Mathieu Faivre,FR,74,Giant Slalom
-2017-12-17,Adam Barwood,NZ,0,Combined
-2017-12-17,Brian Mclaughlin,US,0,Combined
-2017-12-17,Ryuunosuke Ohkoshi,JP,0,Slalom
-2017-12-17,Aleksandr Andrienko,RU,16,Giant Slalom
+2017-12-17,Marco Odermatt,CH,0,Super G
+2017-12-17,Albert Popov,BG,0,Combined
+2017-12-17,Juan Del Campo,ES,0,Combined
+2017-12-17,Borut Bozic,SK,0,Combined
+2017-12-17,Frederik Norys,DE,0,Combined
+2017-12-17,Marcus Sandell,FI,0,Combined
+2017-12-17,Henrik Kristoffersen,NO,205,Slalom
 2017-12-17,Gilles Roulin,CH,0,Downhill
-2017-12-17,Kjetil Jansrud,NO,0,Super G
+2017-12-17,Aleksandr Andrienko,RU,16,Giant Slalom
+2017-12-17,Alex Zingerle,IT,0,Combined
+2017-12-17,Andre Myhrer,SE,22,Slalom
+2017-12-17,Alexander Schmid,DE,45,Giant Slalom
+2017-12-17,Adam Zampa,SK,1,Slalom
+2017-12-17,Massimiliano Valcareggi,GR,0,Combined
 2017-12-17,Tim Jitloff,US,11,Giant Slalom
-2017-12-17,Tomoya Ishii,JP,0,Combined
-2017-12-17,Filip Forejtek,CZ,0,Combined
-2017-12-17,Hig Roberts,US,0,Combined
-2017-12-17,Robin Buffet,FR,0,Slalom
-2017-12-17,Michael Matt,AT,6,Slalom
-2017-12-17,Luca Aerni,CH,15,Slalom
-2017-12-17,Stefan Rogentin,CH,0,Combined
-2017-12-17,Peder Dahlum Eide,NO,0,Combined
-2017-12-17,William Duke,AR,0,Combined
-2017-12-17,Johannes Strolz,AT,0,Giant Slalom
-2017-12-17,Maarten Meiners,NL,0,Combined
-2017-12-17,Andreas Zampa,SK,0,Giant Slalom
-2017-12-17,Joan Verdu Sanchez,AD,0,Combined
-2017-12-17,Zan Groselj,SK,0,Combined
-2017-12-17,Giulio Bosca,IT,0,Giant Slalom
-2017-12-17,Dominic Demschar,AU,0,Combined
-2017-12-17,Aksel Patricksson,NO,0,Combined
-2017-12-17,Linus Strasser,DE,0,Slalom
+2017-12-17,Kjetil Jansrud,NO,0,Super G
+2017-12-17,Krystof Kryzl,CZ,0,Combined
+2017-12-17,Dan Axel Grahn,SE,0,Combined
+2017-12-17,River Radamus,US,0,Combined
+2017-12-17,David Chodounsky,US,0,Slalom
+2017-12-17,Thomas Tumler,CH,0,Super G
+2017-12-17,Pavel Trikhichev,RU,0,Combined
+2017-12-17,Alex Hofer,IT,0,Combined
+2017-12-17,Luca De Aliprandini,IT,60,Giant Slalom
+2017-12-17,Fabio Gstrein,AT,0,Combined
+2017-12-17,Marc Rochat,CH,0,Slalom
+2017-12-17,Julian Rauchfuss,DE,0,Combined
 2017-12-17,Markus Monsen,NO,0,Giant Slalom
 2017-12-17,Elia Zurbriggen,CH,18,Giant Slalom
-2017-12-17,Dustin Cook,CA,0,Super G
-2017-12-17,Manuel Feller,AT,118,Giant Slalom
-2017-12-17,Borut Bozic,SK,0,Combined
-2017-12-17,Victor Muffat Jeandet,FR,26,Slalom
-2017-12-17,Stefan Luitz,DE,140,Giant Slalom
-2017-12-17,Stefan Hadalin,SK,19,Slalom
-2017-12-17,Andrea Ballerin,IT,0,Combined
-2017-12-17,Philip Brown,CA,0,Slalom
-2017-12-17,Pavel Trikhichev,RU,0,Combined
-2017-12-17,Willis Feasey,NZ,0,Combined
-2017-12-17,Frederik Norys,DE,0,Combined
-2017-12-17,Christian Hirschbuehel,AT,0,Slalom
-2017-12-17,Marco Schwarz,AT,14,Slalom
-2017-12-17,Thomas Tumler,CH,0,Super G
-2017-12-17,Dominik Paris,IT,0,Downhill
-2017-12-17,Marcel Mathis,AT,4,Giant Slalom
-2017-12-17,Thibaut Favrot,FR,7,Giant Slalom
-2017-12-17,Hannes Reichelt,AT,0,Downhill
-2017-12-17,Ted Ligety,US,96,Giant Slalom
-2017-12-17,Bjoernar Neteland,NO,14,Giant Slalom
-2017-12-17,Giovanni Borsotti,IT,13,Giant Slalom
-2017-12-17,Simon Maurberger,IT,0,Combined
-2017-12-17,Aleksander Aamodt Kilde,NO,5,Downhill
-2017-12-17,Justin Murisier,CH,119,Giant Slalom
-2017-12-17,Florian Eisath,IT,47,Giant Slalom
-2017-12-17,Erik Read,CA,4,Giant Slalom
-2017-12-17,Alexander Schmid,DE,45,Giant Slalom
-2017-12-17,Riccardo Tonetti,IT,18,Giant Slalom
-2017-12-17,Ryan Cochran-Siegle,US,0,Giant Slalom
-2017-12-17,James Crawford,CA,0,Combined
-2017-12-17,Aljaz Dvornik,SK,0,Combined
-2017-12-17,Miha Hrobat,SK,0,Combined
-2017-12-17,Henrik Kristoffersen,NO,205,Slalom
-2017-12-17,Albert Popov,BG,0,Combined
-2017-12-17,Andre Myhrer,SE,22,Slalom
-2017-12-17,Kristoffer Jakobsen,SE,0,Slalom
-2017-12-17,Stefan Brennsteiner,AT,20,Giant Slalom
-2017-12-17,Massimiliano Valcareggi,GR,0,Combined
-2017-12-17,Marc Rochat,CH,0,Slalom
-2017-12-17,Filip Zubcic,HR,40,Giant Slalom
-2017-12-17,Alex Hofer,IT,0,Combined
-2017-12-17,Trevor Philp,CA,24,Giant Slalom
-2017-12-17,Alex Zingerle,IT,0,Combined
-2017-12-17,Charlie Raposo,GB,0,Combined
-2017-12-17,Matthias Mayer,AT,0,Downhill
-2017-12-17,Marcel Hirscher,AT,260,Slalom
-2017-12-17,Greg Galeotti,FR,0,Combined
-2017-12-17,Victor Guillot,FR,0,Combined
-2017-12-17,Elias Kolega,HR,0,Slalom
-2017-12-17,Alexis Pinturault,FR,151,Giant Slalom
+2017-12-17,Johannes Strolz,AT,0,Giant Slalom
 2017-12-17,Adam Kotzmann,CZ,0,Combined
-2017-12-17,Thomas Fanara,FR,47,Giant Slalom
-2017-12-17,Dan Axel Grahn,SE,0,Combined
+2017-12-17,Linus Strasser,DE,0,Slalom
+2017-12-17,Aleksander Aamodt Kilde,NO,5,Downhill
 2017-12-17,Dominik Raschner,AT,0,Combined
-2017-12-17,Tommy Ford,US,35,Giant Slalom
-2017-12-17,Magnus Walch,AT,0,Giant Slalom
-2017-12-17,Roland Leitinger,AT,22,Giant Slalom
-2017-12-17,Leif Kristian Haugen,NO,55,Giant Slalom
-2017-12-17,Juan Del Campo,ES,0,Combined
-2017-12-17,Sandro Jenal,CH,0,Combined
-2017-12-17,Roberto Nani,IT,29,Giant Slalom
-2017-12-17,Gino Caviezel,CH,34,Giant Slalom
-2017-12-17,Samu Torsti,FI,0,Giant Slalom
-2017-12-17,Julian Rauchfuss,DE,0,Combined
-2017-12-17,Simon Breitfuss Kammerlander,BO,0,Combined
-2017-12-17,Luca De Aliprandini,IT,60,Giant Slalom
-2017-12-17,Matts Olsson,SE,98,Giant Slalom
+2017-12-17,Marcel Hirscher,AT,260,Slalom
+2017-12-17,Andreas Zampa,SK,0,Giant Slalom
+2017-12-17,Giulio Bosca,IT,0,Giant Slalom
+2017-12-17,Luca Aerni,CH,15,Slalom
+2017-12-17,Thibaut Favrot,FR,7,Giant Slalom
+2017-12-17,Charlie Raposo,GB,0,Combined
+2017-12-17,Elias Kolega,HR,0,Slalom
 2017-12-17,Loic Meillard,CH,53,Giant Slalom
-2017-12-17,Rasmus Windingstad,NO,0,Giant Slalom
-2017-12-17,Pierre Bugnard,CH,0,Combined
+2017-12-17,Stefan Hadalin,SK,19,Slalom
+2017-12-17,Philip Brown,CA,0,Slalom
+2017-12-17,Christian Hirschbuehel,AT,0,Slalom
+2017-12-17,Simon Breitfuss Kammerlander,BO,0,Combined
+2017-12-17,James Crawford,CA,0,Combined
+2017-12-17,Marcel Mathis,AT,4,Giant Slalom
+2017-12-17,Justin Murisier,CH,119,Giant Slalom
+2017-12-17,Bjoernar Neteland,NO,14,Giant Slalom
 2017-12-17,Adam Chrapek,PL,0,Combined
-2017-12-17,Ivan Kuznetsov,RU,0,Combined
-2017-12-17,Fritz Dopfer,DE,11,Slalom
+2017-12-17,Alexis Pinturault,FR,151,Giant Slalom
+2017-12-17,Zan Groselj,SK,0,Combined
+2017-12-17,Leif Kristian Haugen,NO,55,Giant Slalom
+2017-12-17,Marco Schwarz,AT,14,Slalom
+2017-12-17,Michael Matt,AT,6,Slalom
+2017-12-17,Matts Olsson,SE,98,Giant Slalom
+2017-12-17,Giovanni Borsotti,IT,13,Giant Slalom
+2017-12-17,Maarten Meiners,NL,0,Combined
+2017-12-17,Simon Maurberger,IT,0,Combined
+2017-12-17,Robin Buffet,FR,0,Slalom
+2017-12-17,Stefan Brennsteiner,AT,20,Giant Slalom
+2017-12-17,Stefan Rogentin,CH,0,Combined
+2017-12-17,Greg Galeotti,FR,0,Combined
+2017-12-17,Peder Dahlum Eide,NO,0,Combined
 2017-12-17,Manfred Moelgg,IT,39,Slalom
-2017-12-18,Michael Matt,AT,6,Slalom
-2017-12-18,Ivan Kuznetsov,RU,0,Combined
-2017-12-18,Filip Zubcic,HR,72,Giant Slalom
-2017-12-18,Giovanni Borsotti,IT,13,Giant Slalom
-2017-12-18,Stefan Rogentin,CH,0,Combined
-2017-12-18,Johannes Strolz,AT,0,Giant Slalom
-2017-12-18,Miha Hrobat,SK,0,Combined
-2017-12-18,Riccardo Tonetti,IT,20,Giant Slalom
-2017-12-18,Zan Groselj,SK,0,Combined
-2017-12-18,Dominic Demschar,AU,0,Combined
+2017-12-17,Matthias Mayer,AT,0,Downhill
+2017-12-17,Filip Zubcic,HR,40,Giant Slalom
+2017-12-17,Dominic Demschar,AU,0,Combined
+2017-12-17,Andrea Ballerin,IT,0,Combined
+2017-12-17,Victor Guillot,FR,0,Combined
+2017-12-17,Roland Leitinger,AT,22,Giant Slalom
+2017-12-17,Albin Tahiri,XK,0,Combined
+2017-12-17,Aksel Patricksson,NO,0,Combined
+2017-12-17,Samu Torsti,FI,0,Giant Slalom
+2017-12-17,Zan Kranjec,SK,114,Giant Slalom
+2017-12-17,Ivan Kuznetsov,RU,0,Combined
+2017-12-17,Ted Ligety,US,96,Giant Slalom
+2017-12-17,Tommy Ford,US,35,Giant Slalom
+2017-12-17,Hannes Reichelt,AT,0,Downhill
+2017-12-17,Roberto Nani,IT,29,Giant Slalom
+2017-12-17,Dustin Cook,CA,0,Super G
+2017-12-17,Hig Roberts,US,0,Combined
+2017-12-17,Dominik Paris,IT,0,Downhill
+2017-12-17,Miha Hrobat,SK,0,Combined
+2017-12-17,Ryan Cochran-Siegle,US,0,Giant Slalom
+2017-12-17,William Duke,AR,0,Combined
+2017-12-17,Tomoya Ishii,JP,0,Combined
+2017-12-17,Trevor Philp,CA,24,Giant Slalom
+2017-12-17,Joan Verdu Sanchez,AD,0,Combined
+2017-12-17,Riccardo Tonetti,IT,18,Giant Slalom
+2017-12-17,Rasmus Windingstad,NO,0,Giant Slalom
+2017-12-17,Erik Read,CA,4,Giant Slalom
+2017-12-17,Manuel Feller,AT,118,Giant Slalom
+2017-12-17,Kristoffer Jakobsen,SE,0,Slalom
+2017-12-17,Adam Barwood,NZ,0,Combined
+2017-12-17,Pierre Bugnard,CH,0,Combined
+2017-12-17,Florian Eisath,IT,47,Giant Slalom
+2017-12-17,Stefan Luitz,DE,140,Giant Slalom
+2017-12-17,Sandro Jenal,CH,0,Combined
+2017-12-17,Ryuunosuke Ohkoshi,JP,0,Slalom
+2017-12-17,Dominik Schwaiger,DE,0,Downhill
+2017-12-17,Victor Muffat Jeandet,FR,26,Slalom
+2017-12-17,Aljaz Dvornik,SK,0,Combined
+2017-12-17,Magnus Walch,AT,0,Giant Slalom
+2017-12-17,Gino Caviezel,CH,34,Giant Slalom
+2017-12-17,Fritz Dopfer,DE,11,Slalom
+2017-12-17,Willis Feasey,NZ,0,Combined
+2017-12-17,Filip Forejtek,CZ,0,Combined
+2017-12-17,Brian Mclaughlin,US,0,Combined
+2017-12-17,Thomas Fanara,FR,47,Giant Slalom
 2017-12-18,Linus Strasser,DE,0,Slalom
-2017-12-18,Rasmus Windingstad,NO,0,Giant Slalom
-2017-12-18,Ted Ligety,US,104,Giant Slalom
-2017-12-18,Victor Guillot,FR,0,Combined
-2017-12-18,Aksel Patricksson,NO,0,Combined
-2017-12-18,Adam Kotzmann,CZ,0,Combined
-2017-12-18,Giulio Bosca,IT,0,Giant Slalom
-2017-12-18,Kristoffer Jakobsen,SE,0,Slalom
-2017-12-18,Markus Monsen,NO,0,Giant Slalom
-2017-12-18,Christian Hirschbuehel,AT,0,Slalom
-2017-12-18,Sandro Jenal,CH,0,Combined
-2017-12-18,Alexander Schmid,DE,54,Giant Slalom
-2017-12-18,Fabio Gstrein,AT,0,Combined
-2017-12-18,Albert Popov,BG,0,Combined
-2017-12-18,Adam Chrapek,PL,0,Combined
-2017-12-18,River Radamus,US,0,Combined
-2017-12-18,Loic Meillard,CH,77,Giant Slalom
-2017-12-18,Adam Barwood,NZ,0,Combined
-2017-12-18,Luca De Aliprandini,IT,78,Giant Slalom
-2017-12-18,Brian Mclaughlin,US,0,Combined
-2017-12-18,Julian Rauchfuss,DE,0,Combined
-2017-12-18,Leif Kristian Haugen,NO,100,Giant Slalom
-2017-12-18,Marcel Hirscher,AT,320,Slalom
-2017-12-18,Krystof Kryzl,CZ,0,Combined
-2017-12-18,Simon Maurberger,IT,0,Combined
-2017-12-18,Gilles Roulin,CH,0,Downhill
-2017-12-18,Marcus Sandell,FI,0,Combined
-2017-12-18,Alexis Pinturault,FR,180,Giant Slalom
-2017-12-18,Manuel Feller,AT,118,Giant Slalom
-2017-12-18,Florian Eisath,IT,58,Giant Slalom
-2017-12-18,Marcel Mathis,AT,4,Giant Slalom
-2017-12-18,Dominik Paris,IT,0,Downhill
-2017-12-18,Manfred Moelgg,IT,40,Slalom
-2017-12-18,Alex Zingerle,IT,0,Combined
-2017-12-18,Willis Feasey,NZ,0,Combined
-2017-12-18,Dominik Raschner,AT,0,Combined
-2017-12-18,Matts Olsson,SE,198,Giant Slalom
-2017-12-18,Philip Brown,CA,0,Slalom
-2017-12-18,Alex Hofer,IT,0,Combined
-2017-12-18,Frederik Norys,DE,0,Combined
-2017-12-18,Zan Kranjec,SK,124,Giant Slalom
-2017-12-18,David Chodounsky,US,0,Slalom
-2017-12-18,Dominik Schwaiger,DE,0,Downhill
-2017-12-18,Andre Myhrer,SE,62,Slalom
-2017-12-18,Thomas Fanara,FR,51,Giant Slalom
-2017-12-18,Aleksander Aamodt Kilde,NO,55,Downhill
 2017-12-18,Filip Forejtek,CZ,0,Combined
-2017-12-18,Joan Verdu Sanchez,AD,0,Combined
-2017-12-18,Marco Schwarz,AT,14,Slalom
-2017-12-18,Thomas Tumler,CH,0,Super G
-2017-12-18,Kjetil Jansrud,NO,16,Super G
-2017-12-18,Gino Caviezel,CH,37,Giant Slalom
-2017-12-18,Bjoernar Neteland,NO,14,Giant Slalom
-2017-12-18,Roland Leitinger,AT,36,Giant Slalom
+2017-12-18,Simon Maurberger,IT,0,Combined
 2017-12-18,Greg Galeotti,FR,0,Combined
-2017-12-18,Victor Muffat Jeandet,FR,38,Slalom
-2017-12-18,Hig Roberts,US,0,Combined
-2017-12-18,Tomoya Ishii,JP,0,Combined
-2017-12-18,Pavel Trikhichev,RU,0,Combined
-2017-12-18,James Crawford,CA,0,Combined
-2017-12-18,Matthias Mayer,AT,22,Downhill
-2017-12-18,Tommy Ford,US,40,Giant Slalom
-2017-12-18,Stefan Luitz,DE,140,Giant Slalom
-2017-12-18,Justin Murisier,CH,155,Giant Slalom
-2017-12-18,Andrea Ballerin,IT,0,Combined
-2017-12-18,Ryuunosuke Ohkoshi,JP,0,Slalom
-2017-12-18,Stefan Hadalin,SK,19,Slalom
-2017-12-18,Elias Kolega,HR,0,Slalom
-2017-12-18,Marc Rochat,CH,0,Slalom
-2017-12-18,Aljaz Dvornik,SK,0,Combined
-2017-12-18,Stefan Brennsteiner,AT,35,Giant Slalom
-2017-12-18,Robin Buffet,FR,0,Slalom
-2017-12-18,Marco Odermatt,CH,0,Super G
-2017-12-18,Henrik Kristoffersen,NO,285,Slalom
-2017-12-18,Adam Zampa,SK,1,Slalom
-2017-12-18,Borut Bozic,SK,0,Combined
-2017-12-18,Aleksandr Andrienko,RU,17,Giant Slalom
-2017-12-18,Samu Torsti,FI,0,Giant Slalom
-2017-12-18,Simon Breitfuss Kammerlander,BO,0,Combined
-2017-12-18,Mathieu Faivre,FR,81,Giant Slalom
-2017-12-18,Andreas Zampa,SK,0,Giant Slalom
-2017-12-18,Roberto Nani,IT,55,Giant Slalom
-2017-12-18,Maarten Meiners,NL,0,Combined
-2017-12-18,William Duke,AR,0,Combined
-2017-12-18,Dan Axel Grahn,SE,0,Combined
-2017-12-18,Peder Dahlum Eide,NO,0,Combined
-2017-12-18,Pierre Bugnard,CH,0,Combined
-2017-12-18,Magnus Walch,AT,0,Giant Slalom
-2017-12-18,Thibaut Favrot,FR,13,Giant Slalom
-2017-12-18,Tim Jitloff,US,11,Giant Slalom
-2017-12-18,Elia Zurbriggen,CH,18,Giant Slalom
-2017-12-18,Ryan Cochran-Siegle,US,0,Giant Slalom
-2017-12-18,Dustin Cook,CA,0,Super G
-2017-12-18,Luca Aerni,CH,28,Slalom
-2017-12-18,Albin Tahiri,XK,0,Combined
 2017-12-18,Hannes Reichelt,AT,0,Downhill
-2017-12-18,Charlie Raposo,GB,0,Combined
+2017-12-18,Joan Verdu Sanchez,AD,0,Combined
+2017-12-18,Miha Hrobat,SK,0,Combined
+2017-12-18,Hig Roberts,US,0,Combined
+2017-12-18,Giulio Bosca,IT,0,Giant Slalom
+2017-12-18,Ivan Kuznetsov,RU,0,Combined
 2017-12-18,Massimiliano Valcareggi,GR,0,Combined
-2017-12-18,Trevor Philp,CA,24,Giant Slalom
-2017-12-18,Erik Read,CA,24,Giant Slalom
-2017-12-18,Fritz Dopfer,DE,11,Slalom
+2017-12-18,William Duke,AR,0,Combined
+2017-12-18,Brian Mclaughlin,US,0,Combined
+2017-12-18,Thomas Tumler,CH,0,Super G
+2017-12-18,Maarten Meiners,NL,0,Combined
+2017-12-18,Krystof Kryzl,CZ,0,Combined
+2017-12-18,Johannes Strolz,AT,0,Giant Slalom
+2017-12-18,Fabio Gstrein,AT,0,Combined
+2017-12-18,Tomoya Ishii,JP,0,Combined
+2017-12-18,Marc Rochat,CH,0,Slalom
+2017-12-18,Dustin Cook,CA,0,Super G
+2017-12-18,Markus Monsen,NO,0,Giant Slalom
+2017-12-18,Julian Rauchfuss,DE,0,Combined
+2017-12-18,Robin Buffet,FR,0,Slalom
+2017-12-18,Elias Kolega,HR,0,Slalom
 2017-12-18,Juan Del Campo,ES,0,Combined
-2018-01-06,Julian Rauchfuss,DE,0,Combined
-2018-01-06,Elias Kolega,HR,0,Slalom
-2018-01-06,Brian Mclaughlin,US,0,Combined
-2018-01-06,Tomoya Ishii,JP,0,Combined
-2018-01-06,Henrik Kristoffersen,NO,365,Slalom
-2018-01-06,Simon Maurberger,IT,0,Combined
-2018-01-06,Adam Barwood,NZ,0,Combined
-2018-01-06,Adam Chrapek,PL,0,Combined
-2018-01-06,Filip Forejtek,CZ,0,Combined
-2018-01-06,Dan Axel Grahn,SE,0,Combined
-2018-01-06,Juan Del Campo,ES,0,Combined
-2018-01-06,Ryuunosuke Ohkoshi,JP,0,Slalom
-2018-01-06,Simon Breitfuss Kammerlander,BO,0,Combined
-2018-01-06,Zan Kranjec,SK,169,Giant Slalom
-2018-01-06,Maarten Meiners,NL,0,Combined
-2018-01-06,Willis Feasey,NZ,0,Combined
-2018-01-06,Alex Hofer,IT,0,Combined
-2018-01-06,Aksel Patricksson,NO,0,Combined
-2018-01-06,Peder Dahlum Eide,NO,0,Combined
-2018-01-06,Pierre Bugnard,CH,0,Combined
-2018-01-06,Victor Guillot,FR,0,Combined
-2018-01-06,William Duke,AR,0,Combined
-2018-01-06,Manuel Feller,AT,163,Giant Slalom
-2018-01-06,Dominic Demschar,AU,0,Combined
-2018-01-06,Matts Olsson,SE,214,Giant Slalom
-2018-01-06,Massimiliano Valcareggi,GR,0,Combined
-2018-01-06,Miha Hrobat,SK,0,Combined
+2017-12-18,James Crawford,CA,0,Combined
+2017-12-18,Marcus Sandell,FI,0,Combined
+2017-12-18,Dominik Paris,IT,0,Downhill
+2017-12-18,David Chodounsky,US,0,Slalom
+2017-12-18,Peder Dahlum Eide,NO,0,Combined
+2017-12-18,Willis Feasey,NZ,0,Combined
+2017-12-18,Pierre Bugnard,CH,0,Combined
+2017-12-18,Kristoffer Jakobsen,SE,0,Slalom
+2017-12-18,Philip Brown,CA,0,Slalom
+2017-12-18,Stefan Rogentin,CH,0,Combined
+2017-12-18,Alex Hofer,IT,0,Combined
+2017-12-18,Christian Hirschbuehel,AT,0,Slalom
+2017-12-18,River Radamus,US,0,Combined
+2017-12-18,Simon Breitfuss Kammerlander,BO,0,Combined
+2017-12-18,Frederik Norys,DE,0,Combined
+2017-12-18,Alex Zingerle,IT,0,Combined
+2017-12-18,Charlie Raposo,GB,0,Combined
+2017-12-18,Marcel Mathis,AT,4,Giant Slalom
+2017-12-18,Andrea Ballerin,IT,0,Combined
+2017-12-18,Dominik Schwaiger,DE,0,Downhill
+2017-12-18,Dominic Demschar,AU,0,Combined
+2017-12-18,Dan Axel Grahn,SE,0,Combined
+2017-12-18,Michael Matt,AT,6,Slalom
+2017-12-18,Adam Barwood,NZ,0,Combined
+2017-12-18,Aksel Patricksson,NO,0,Combined
+2017-12-18,Adam Chrapek,PL,0,Combined
+2017-12-18,Gilles Roulin,CH,0,Downhill
+2017-12-18,Sandro Jenal,CH,0,Combined
+2017-12-18,Ryuunosuke Ohkoshi,JP,0,Slalom
+2017-12-18,Victor Guillot,FR,0,Combined
+2017-12-18,Dominik Raschner,AT,0,Combined
+2017-12-18,Roberto Nani,IT,55,Giant Slalom
+2017-12-18,Albin Tahiri,XK,0,Combined
+2017-12-18,Trevor Philp,CA,24,Giant Slalom
+2017-12-18,Bjoernar Neteland,NO,14,Giant Slalom
+2017-12-18,Mathieu Faivre,FR,81,Giant Slalom
+2017-12-18,Giovanni Borsotti,IT,13,Giant Slalom
+2017-12-18,Justin Murisier,CH,155,Giant Slalom
+2017-12-18,Adam Kotzmann,CZ,0,Combined
+2017-12-18,Ryan Cochran-Siegle,US,0,Giant Slalom
+2017-12-18,Aleksander Aamodt Kilde,NO,55,Downhill
+2017-12-18,Pavel Trikhichev,RU,0,Combined
+2017-12-18,Luca De Aliprandini,IT,78,Giant Slalom
+2017-12-18,Leif Kristian Haugen,NO,100,Giant Slalom
+2017-12-18,Tim Jitloff,US,11,Giant Slalom
+2017-12-18,Stefan Hadalin,SK,19,Slalom
+2017-12-18,Loic Meillard,CH,77,Giant Slalom
+2017-12-18,Alexander Schmid,DE,54,Giant Slalom
+2017-12-18,Tommy Ford,US,40,Giant Slalom
+2017-12-18,Gino Caviezel,CH,37,Giant Slalom
+2017-12-18,Marco Odermatt,CH,0,Super G
+2017-12-18,Andre Myhrer,SE,62,Slalom
+2017-12-18,Rasmus Windingstad,NO,0,Giant Slalom
+2017-12-18,Aleksandr Andrienko,RU,17,Giant Slalom
+2017-12-18,Kjetil Jansrud,NO,16,Super G
+2017-12-18,Manfred Moelgg,IT,40,Slalom
+2017-12-18,Aljaz Dvornik,SK,0,Combined
+2017-12-18,Riccardo Tonetti,IT,20,Giant Slalom
+2017-12-18,Florian Eisath,IT,58,Giant Slalom
+2017-12-18,Thomas Fanara,FR,51,Giant Slalom
+2017-12-18,Adam Zampa,SK,1,Slalom
+2017-12-18,Victor Muffat Jeandet,FR,38,Slalom
+2017-12-18,Marco Schwarz,AT,14,Slalom
+2017-12-18,Zan Groselj,SK,0,Combined
+2017-12-18,Samu Torsti,FI,0,Giant Slalom
+2017-12-18,Andreas Zampa,SK,0,Giant Slalom
+2017-12-18,Marcel Hirscher,AT,320,Slalom
+2017-12-18,Erik Read,CA,24,Giant Slalom
+2017-12-18,Alexis Pinturault,FR,180,Giant Slalom
+2017-12-18,Stefan Brennsteiner,AT,35,Giant Slalom
+2017-12-18,Matts Olsson,SE,198,Giant Slalom
+2017-12-18,Albert Popov,BG,0,Combined
+2017-12-18,Fritz Dopfer,DE,11,Slalom
+2017-12-18,Luca Aerni,CH,28,Slalom
+2017-12-18,Borut Bozic,SK,0,Combined
+2017-12-18,Elia Zurbriggen,CH,18,Giant Slalom
+2017-12-18,Stefan Luitz,DE,140,Giant Slalom
+2017-12-18,Matthias Mayer,AT,22,Downhill
+2017-12-18,Henrik Kristoffersen,NO,285,Slalom
+2017-12-18,Thibaut Favrot,FR,13,Giant Slalom
+2017-12-18,Ted Ligety,US,104,Giant Slalom
+2017-12-18,Zan Kranjec,SK,124,Giant Slalom
+2017-12-18,Magnus Walch,AT,0,Giant Slalom
+2017-12-18,Roland Leitinger,AT,36,Giant Slalom
+2017-12-18,Manuel Feller,AT,118,Giant Slalom
+2017-12-18,Filip Zubcic,HR,72,Giant Slalom
 2018-01-06,Stefan Rogentin,CH,0,Combined
-2018-01-06,Ivan Kuznetsov,RU,0,Combined
-2018-01-06,Dustin Cook,CA,0,Super G
-2018-01-06,Charlie Raposo,GB,0,Combined
-2018-01-06,Kristoffer Jakobsen,SE,0,Slalom
-2018-01-06,Hannes Reichelt,AT,0,Downhill
-2018-01-06,Alexis Pinturault,FR,240,Giant Slalom
-2018-01-06,Greg Galeotti,FR,0,Combined
-2018-01-06,Thomas Tumler,CH,0,Super G
-2018-01-06,Sandro Jenal,CH,0,Combined
-2018-01-06,Stefan Luitz,DE,140,Giant Slalom
-2018-01-06,Dominik Paris,IT,0,Downhill
-2018-01-06,Hig Roberts,US,0,Combined
-2018-01-06,Alex Zingerle,IT,0,Combined
-2018-01-06,Andrea Ballerin,IT,0,Combined
-2018-01-06,Marc Rochat,CH,0,Slalom
-2018-01-06,Dominik Schwaiger,DE,0,Downhill
-2018-01-06,James Crawford,CA,0,Combined
-2018-01-06,Robin Buffet,FR,0,Slalom
-2018-01-06,Frederik Norys,DE,0,Combined
-2018-01-06,Joan Verdu Sanchez,AD,0,Combined
-2018-01-06,Dominik Raschner,AT,0,Combined
-2018-01-06,Tim Jitloff,US,11,Giant Slalom
-2018-01-06,Victor Muffat Jeandet,FR,49,Slalom
-2018-01-06,Riccardo Tonetti,IT,52,Giant Slalom
 2018-01-06,Filip Zubcic,HR,72,Giant Slalom
-2018-01-06,Bjoernar Neteland,NO,14,Giant Slalom
-2018-01-06,Borut Bozic,SK,0,Combined
-2018-01-06,Marco Schwarz,AT,14,Slalom
-2018-01-06,Thibaut Favrot,FR,13,Giant Slalom
-2018-01-06,Thomas Fanara,FR,51,Giant Slalom
-2018-01-06,Elia Zurbriggen,CH,30,Giant Slalom
-2018-01-06,Aleksander Aamodt Kilde,NO,55,Downhill
-2018-01-06,Luca Aerni,CH,28,Slalom
-2018-01-06,Florian Eisath,IT,72,Giant Slalom
-2018-01-06,Andreas Zampa,SK,13,Giant Slalom
-2018-01-06,Ted Ligety,US,104,Giant Slalom
-2018-01-06,Giulio Bosca,IT,0,Giant Slalom
-2018-01-06,Linus Strasser,DE,0,Slalom
-2018-01-06,Manfred Moelgg,IT,76,Slalom
-2018-01-06,Zan Groselj,SK,0,Combined
-2018-01-06,Andre Myhrer,SE,62,Slalom
-2018-01-06,Markus Monsen,NO,0,Giant Slalom
-2018-01-06,Alexander Schmid,DE,54,Giant Slalom
-2018-01-06,Pavel Trikhichev,RU,15,Combined
-2018-01-06,Luca De Aliprandini,IT,128,Giant Slalom
-2018-01-06,Stefan Hadalin,SK,19,Slalom
-2018-01-06,Marco Odermatt,CH,0,Super G
-2018-01-06,Roland Leitinger,AT,45,Giant Slalom
-2018-01-06,Aljaz Dvornik,SK,0,Combined
-2018-01-06,Matthias Mayer,AT,22,Downhill
-2018-01-06,Stefan Brennsteiner,AT,57,Giant Slalom
-2018-01-06,Trevor Philp,CA,32,Giant Slalom
-2018-01-06,Justin Murisier,CH,179,Giant Slalom
-2018-01-06,Erik Read,CA,24,Giant Slalom
 2018-01-06,Gino Caviezel,CH,57,Giant Slalom
-2018-01-06,Marcel Hirscher,AT,420,Slalom
-2018-01-06,Ryan Cochran-Siegle,US,10,Giant Slalom
-2018-01-06,Fritz Dopfer,DE,11,Slalom
-2018-01-06,Roberto Nani,IT,55,Giant Slalom
-2018-01-06,Magnus Walch,AT,18,Giant Slalom
-2018-01-06,Tommy Ford,US,40,Giant Slalom
-2018-01-06,Giovanni Borsotti,IT,13,Giant Slalom
-2018-01-06,Albin Tahiri,XK,0,Combined
-2018-01-06,Rasmus Windingstad,NO,0,Giant Slalom
-2018-01-06,Aleksandr Andrienko,RU,24,Giant Slalom
-2018-01-06,Mathieu Faivre,FR,113,Giant Slalom
-2018-01-06,Kjetil Jansrud,NO,16,Super G
-2018-01-06,Adam Zampa,SK,1,Slalom
-2018-01-06,Adam Kotzmann,CZ,0,Combined
-2018-01-06,Johannes Strolz,AT,0,Giant Slalom
+2018-01-06,Aksel Patricksson,NO,0,Combined
+2018-01-06,Willis Feasey,NZ,0,Combined
+2018-01-06,Riccardo Tonetti,IT,52,Giant Slalom
+2018-01-06,Peder Dahlum Eide,NO,0,Combined
+2018-01-06,Roland Leitinger,AT,45,Giant Slalom
+2018-01-06,Erik Read,CA,24,Giant Slalom
+2018-01-06,Hig Roberts,US,0,Combined
 2018-01-06,Samu Torsti,FI,0,Giant Slalom
-2018-01-06,Michael Matt,AT,6,Slalom
-2018-01-06,Christian Hirschbuehel,AT,0,Slalom
-2018-01-06,River Radamus,US,0,Combined
-2018-01-06,Marcus Sandell,FI,0,Combined
-2018-01-06,Gilles Roulin,CH,0,Downhill
-2018-01-06,Loic Meillard,CH,77,Giant Slalom
+2018-01-06,William Duke,AR,0,Combined
+2018-01-06,Dominik Paris,IT,0,Downhill
+2018-01-06,Rasmus Windingstad,NO,0,Giant Slalom
+2018-01-06,Joan Verdu Sanchez,AD,0,Combined
+2018-01-06,Ryan Cochran-Siegle,US,10,Giant Slalom
+2018-01-06,Dominic Demschar,AU,0,Combined
+2018-01-06,Thomas Tumler,CH,0,Super G
+2018-01-06,Andrea Ballerin,IT,0,Combined
+2018-01-06,Trevor Philp,CA,32,Giant Slalom
+2018-01-06,Tomoya Ishii,JP,0,Combined
+2018-01-06,Hannes Reichelt,AT,0,Downhill
+2018-01-06,Stefan Brennsteiner,AT,57,Giant Slalom
+2018-01-06,Tommy Ford,US,40,Giant Slalom
+2018-01-06,Roberto Nani,IT,55,Giant Slalom
+2018-01-06,Matthias Mayer,AT,22,Downhill
+2018-01-06,Dustin Cook,CA,0,Super G
+2018-01-06,Albin Tahiri,XK,0,Combined
+2018-01-06,Dan Axel Grahn,SE,0,Combined
+2018-01-06,Robin Buffet,FR,0,Slalom
+2018-01-06,Pierre Bugnard,CH,0,Combined
+2018-01-06,Ivan Kuznetsov,RU,0,Combined
+2018-01-06,Ted Ligety,US,104,Giant Slalom
+2018-01-06,Victor Guillot,FR,0,Combined
+2018-01-06,Miha Hrobat,SK,0,Combined
+2018-01-06,Zan Kranjec,SK,169,Giant Slalom
+2018-01-06,Manuel Feller,AT,163,Giant Slalom
+2018-01-06,Kristoffer Jakobsen,SE,0,Slalom
+2018-01-06,Stefan Luitz,DE,140,Giant Slalom
+2018-01-06,Victor Muffat Jeandet,FR,49,Slalom
+2018-01-06,Sandro Jenal,CH,0,Combined
+2018-01-06,Alex Zingerle,IT,0,Combined
+2018-01-06,Matts Olsson,SE,214,Giant Slalom
+2018-01-06,Alex Hofer,IT,0,Combined
+2018-01-06,Albert Popov,BG,0,Combined
+2018-01-06,Adam Chrapek,PL,0,Combined
+2018-01-06,Alexis Pinturault,FR,240,Giant Slalom
+2018-01-06,Julian Rauchfuss,DE,0,Combined
+2018-01-06,Dominik Raschner,AT,0,Combined
+2018-01-06,Marcel Hirscher,AT,420,Slalom
+2018-01-06,Henrik Kristoffersen,NO,365,Slalom
+2018-01-06,Thomas Fanara,FR,51,Giant Slalom
+2018-01-06,Massimiliano Valcareggi,GR,0,Combined
+2018-01-06,Charlie Raposo,GB,0,Combined
+2018-01-06,Florian Eisath,IT,72,Giant Slalom
+2018-01-06,Ryuunosuke Ohkoshi,JP,0,Slalom
+2018-01-06,Filip Forejtek,CZ,0,Combined
+2018-01-06,Aljaz Dvornik,SK,0,Combined
+2018-01-06,Manfred Moelgg,IT,76,Slalom
+2018-01-06,Maarten Meiners,NL,0,Combined
+2018-01-06,Andre Myhrer,SE,62,Slalom
+2018-01-06,James Crawford,CA,0,Combined
+2018-01-06,Alexander Schmid,DE,54,Giant Slalom
+2018-01-06,Mathieu Faivre,FR,113,Giant Slalom
+2018-01-06,Juan Del Campo,ES,0,Combined
+2018-01-06,Simon Breitfuss Kammerlander,BO,0,Combined
 2018-01-06,Leif Kristian Haugen,NO,126,Giant Slalom
-2018-01-06,Krystof Kryzl,CZ,0,Combined
+2018-01-06,Elias Kolega,HR,0,Slalom
+2018-01-06,Luca De Aliprandini,IT,128,Giant Slalom
+2018-01-06,Marc Rochat,CH,0,Slalom
+2018-01-06,Aleksander Aamodt Kilde,NO,55,Downhill
+2018-01-06,Greg Galeotti,FR,0,Combined
+2018-01-06,Justin Murisier,CH,179,Giant Slalom
+2018-01-06,Adam Kotzmann,CZ,0,Combined
+2018-01-06,Loic Meillard,CH,77,Giant Slalom
+2018-01-06,Dominik Schwaiger,DE,0,Downhill
+2018-01-06,Giulio Bosca,IT,0,Giant Slalom
+2018-01-06,Marco Odermatt,CH,0,Super G
+2018-01-06,Brian Mclaughlin,US,0,Combined
+2018-01-06,Magnus Walch,AT,18,Giant Slalom
+2018-01-06,Johannes Strolz,AT,0,Giant Slalom
+2018-01-06,Marco Schwarz,AT,14,Slalom
+2018-01-06,Simon Maurberger,IT,0,Combined
+2018-01-06,Michael Matt,AT,6,Slalom
+2018-01-06,Giovanni Borsotti,IT,13,Giant Slalom
 2018-01-06,Marcel Mathis,AT,4,Giant Slalom
+2018-01-06,Krystof Kryzl,CZ,0,Combined
+2018-01-06,Pavel Trikhichev,RU,15,Combined
+2018-01-06,Thibaut Favrot,FR,13,Giant Slalom
+2018-01-06,Zan Groselj,SK,0,Combined
+2018-01-06,Tim Jitloff,US,11,Giant Slalom
+2018-01-06,Aleksandr Andrienko,RU,24,Giant Slalom
+2018-01-06,Stefan Hadalin,SK,19,Slalom
 2018-01-06,Philip Brown,CA,0,Slalom
 2018-01-06,David Chodounsky,US,0,Slalom
+2018-01-06,Gilles Roulin,CH,0,Downhill
+2018-01-06,Kjetil Jansrud,NO,16,Super G
+2018-01-06,River Radamus,US,0,Combined
+2018-01-06,Adam Zampa,SK,1,Slalom
+2018-01-06,Marcus Sandell,FI,0,Combined
+2018-01-06,Christian Hirschbuehel,AT,0,Slalom
+2018-01-06,Markus Monsen,NO,0,Giant Slalom
+2018-01-06,Bjoernar Neteland,NO,14,Giant Slalom
+2018-01-06,Frederik Norys,DE,0,Combined
+2018-01-06,Andreas Zampa,SK,13,Giant Slalom
+2018-01-06,Adam Barwood,NZ,0,Combined
 2018-01-06,Fabio Gstrein,AT,0,Combined
-2018-01-06,Albert Popov,BG,0,Combined
-2018-01-28,Adam Zampa,SK,1,Slalom
-2018-01-28,River Radamus,US,0,Combined
-2018-01-28,Maarten Meiners,NL,0,Combined
-2018-01-28,Tommy Ford,US,44,Giant Slalom
-2018-01-28,Tomoya Ishii,JP,0,Combined
-2018-01-28,Tim Jitloff,US,22,Giant Slalom
-2018-01-28,Rasmus Windingstad,NO,0,Giant Slalom
-2018-01-28,Marcus Sandell,FI,0,Combined
-2018-01-28,Filip Forejtek,CZ,0,Combined
-2018-01-28,Miha Hrobat,SK,0,Combined
-2018-01-28,Mathieu Faivre,FR,145,Giant Slalom
-2018-01-28,Aleksandr Andrienko,RU,24,Giant Slalom
-2018-01-28,Victor Guillot,FR,0,Combined
-2018-01-28,Albert Popov,BG,0,Combined
-2018-01-28,Adam Barwood,NZ,0,Combined
-2018-01-28,Giovanni Borsotti,IT,31,Giant Slalom
-2018-01-28,Johannes Strolz,AT,1,Giant Slalom
-2018-01-28,Ryuunosuke Ohkoshi,JP,0,Slalom
-2018-01-28,Kjetil Jansrud,NO,16,Super G
-2018-01-28,Aleksander Aamodt Kilde,NO,95,Downhill
-2018-01-28,Robin Buffet,FR,0,Slalom
-2018-01-28,Zan Kranjec,SK,182,Giant Slalom
-2018-01-28,Riccardo Tonetti,IT,58,Giant Slalom
-2018-01-28,Henrik Kristoffersen,NO,415,Slalom
-2018-01-28,Frederik Norys,DE,0,Combined
-2018-01-28,Magnus Walch,AT,18,Giant Slalom
-2018-01-28,Greg Galeotti,FR,0,Combined
-2018-01-28,Trevor Philp,CA,32,Giant Slalom
-2018-01-28,Luca De Aliprandini,IT,128,Giant Slalom
-2018-01-28,Aljaz Dvornik,SK,0,Combined
-2018-01-28,Roland Leitinger,AT,45,Giant Slalom
-2018-01-28,Krystof Kryzl,CZ,0,Combined
-2018-01-28,Charlie Raposo,GB,0,Combined
-2018-01-28,Marc Rochat,CH,0,Slalom
-2018-01-28,Simon Maurberger,IT,0,Combined
-2018-01-28,Matthias Mayer,AT,22,Downhill
-2018-01-28,Stefan Brennsteiner,AT,57,Giant Slalom
-2018-01-28,Alexis Pinturault,FR,269,Giant Slalom
-2018-01-28,Elias Kolega,HR,0,Slalom
+2018-01-06,Fritz Dopfer,DE,11,Slalom
+2018-01-06,Linus Strasser,DE,0,Slalom
+2018-01-06,Borut Bozic,SK,0,Combined
+2018-01-06,Luca Aerni,CH,28,Slalom
+2018-01-06,Elia Zurbriggen,CH,30,Giant Slalom
 2018-01-28,Dominik Raschner,AT,0,Combined
-2018-01-28,Erik Read,CA,26,Giant Slalom
-2018-01-28,Gilles Roulin,CH,0,Downhill
-2018-01-28,Marcel Hirscher,AT,520,Slalom
-2018-01-28,Andrea Ballerin,IT,0,Combined
-2018-01-28,Dan Axel Grahn,SE,0,Combined
-2018-01-28,Pierre Bugnard,CH,0,Combined
-2018-01-28,Roberto Nani,IT,62,Giant Slalom
-2018-01-28,Julian Rauchfuss,DE,0,Combined
-2018-01-28,Brian Mclaughlin,US,0,Combined
-2018-01-28,Albin Tahiri,XK,0,Combined
-2018-01-28,Fritz Dopfer,DE,27,Slalom
-2018-01-28,Massimiliano Valcareggi,GR,0,Combined
-2018-01-28,Justin Murisier,CH,199,Giant Slalom
-2018-01-28,Ryan Cochran-Siegle,US,10,Giant Slalom
-2018-01-28,Gino Caviezel,CH,57,Giant Slalom
+2018-01-28,Leif Kristian Haugen,NO,126,Giant Slalom
 2018-01-28,Simon Breitfuss Kammerlander,BO,0,Combined
-2018-01-28,James Crawford,CA,0,Combined
-2018-01-28,Juan Del Campo,ES,0,Combined
-2018-01-28,David Chodounsky,US,0,Slalom
-2018-01-28,Marco Odermatt,CH,0,Super G
-2018-01-28,Ivan Kuznetsov,RU,0,Combined
-2018-01-28,Elia Zurbriggen,CH,38,Giant Slalom
-2018-01-28,Sandro Jenal,CH,0,Combined
-2018-01-28,Adam Chrapek,PL,0,Combined
-2018-01-28,Luca Aerni,CH,28,Slalom
-2018-01-28,Stefan Hadalin,SK,19,Slalom
-2018-01-28,Ted Ligety,US,164,Giant Slalom
-2018-01-28,Matts Olsson,SE,259,Giant Slalom
-2018-01-28,Christian Hirschbuehel,AT,3,Slalom
-2018-01-28,Andreas Zampa,SK,18,Giant Slalom
-2018-01-28,Manuel Feller,AT,243,Giant Slalom
-2018-01-28,Florian Eisath,IT,108,Giant Slalom
-2018-01-28,Joan Verdu Sanchez,AD,0,Combined
-2018-01-28,Alex Zingerle,IT,0,Combined
-2018-01-28,Willis Feasey,NZ,0,Combined
-2018-01-28,Peder Dahlum Eide,NO,0,Combined
-2018-01-28,Aksel Patricksson,NO,0,Combined
 2018-01-28,Giulio Bosca,IT,0,Giant Slalom
-2018-01-28,Zan Groselj,SK,0,Combined
 2018-01-28,Linus Strasser,DE,11,Slalom
-2018-01-28,Marcel Mathis,AT,4,Giant Slalom
-2018-01-28,Andre Myhrer,SE,62,Slalom
-2018-01-28,Dominic Demschar,AU,0,Combined
-2018-01-28,Dominik Paris,IT,0,Downhill
-2018-01-28,Alexander Schmid,DE,63,Giant Slalom
-2018-01-28,Markus Monsen,NO,0,Giant Slalom
-2018-01-28,Michael Matt,AT,6,Slalom
-2018-01-28,Alex Hofer,IT,0,Combined
-2018-01-28,Stefan Rogentin,CH,0,Combined
-2018-01-28,Manfred Moelgg,IT,100,Slalom
-2018-01-28,Dustin Cook,CA,0,Super G
-2018-01-28,William Duke,AR,0,Combined
-2018-01-28,Marco Schwarz,AT,14,Slalom
-2018-01-28,Loic Meillard,CH,103,Giant Slalom
-2018-01-28,Thomas Tumler,CH,0,Super G
-2018-01-28,Bjoernar Neteland,NO,14,Giant Slalom
-2018-01-28,Filip Zubcic,HR,84,Giant Slalom
 2018-01-28,Philip Brown,CA,0,Slalom
-2018-01-28,Borut Bozic,SK,0,Combined
-2018-01-28,Samu Torsti,FI,0,Giant Slalom
-2018-01-28,Kristoffer Jakobsen,SE,0,Slalom
-2018-01-28,Pavel Trikhichev,RU,15,Combined
-2018-01-28,Stefan Luitz,DE,140,Giant Slalom
-2018-01-28,Fabio Gstrein,AT,0,Combined
-2018-01-28,Thomas Fanara,FR,66,Giant Slalom
-2018-01-28,Hannes Reichelt,AT,0,Downhill
-2018-01-28,Dominik Schwaiger,DE,0,Downhill
-2018-01-28,Victor Muffat Jeandet,FR,71,Slalom
+2018-01-28,Juan Del Campo,ES,0,Combined
+2018-01-28,Alexander Schmid,DE,63,Giant Slalom
+2018-01-28,Marco Odermatt,CH,0,Super G
+2018-01-28,Dan Axel Grahn,SE,0,Combined
+2018-01-28,Gino Caviezel,CH,57,Giant Slalom
+2018-01-28,Adam Chrapek,PL,0,Combined
+2018-01-28,Loic Meillard,CH,103,Giant Slalom
+2018-01-28,Albert Popov,BG,0,Combined
+2018-01-28,David Chodounsky,US,0,Slalom
+2018-01-28,Marcus Sandell,FI,0,Combined
+2018-01-28,Marcel Hirscher,AT,520,Slalom
+2018-01-28,Ryuunosuke Ohkoshi,JP,0,Slalom
+2018-01-28,Andreas Zampa,SK,18,Giant Slalom
+2018-01-28,Florian Eisath,IT,108,Giant Slalom
+2018-01-28,Adam Zampa,SK,1,Slalom
+2018-01-28,Julian Rauchfuss,DE,0,Combined
+2018-01-28,Filip Forejtek,CZ,0,Combined
+2018-01-28,Zan Groselj,SK,0,Combined
+2018-01-28,Manfred Moelgg,IT,100,Slalom
+2018-01-28,Frederik Norys,DE,0,Combined
+2018-01-28,Aljaz Dvornik,SK,0,Combined
+2018-01-28,Maarten Meiners,NL,0,Combined
+2018-01-28,James Crawford,CA,0,Combined
+2018-01-28,Andre Myhrer,SE,62,Slalom
+2018-01-28,Stefan Hadalin,SK,19,Slalom
+2018-01-28,Elias Kolega,HR,0,Slalom
+2018-01-28,Markus Monsen,NO,0,Giant Slalom
+2018-01-28,Alexis Pinturault,FR,269,Giant Slalom
+2018-01-28,Elia Zurbriggen,CH,38,Giant Slalom
 2018-01-28,Adam Kotzmann,CZ,0,Combined
+2018-01-28,Marco Schwarz,AT,14,Slalom
+2018-01-28,Johannes Strolz,AT,1,Giant Slalom
+2018-01-28,Victor Guillot,FR,0,Combined
+2018-01-28,Ted Ligety,US,164,Giant Slalom
+2018-01-28,Pierre Bugnard,CH,0,Combined
+2018-01-28,Henrik Kristoffersen,NO,415,Slalom
+2018-01-28,Zan Kranjec,SK,182,Giant Slalom
 2018-01-28,Thibaut Favrot,FR,27,Giant Slalom
+2018-01-28,Miha Hrobat,SK,0,Combined
+2018-01-28,Kristoffer Jakobsen,SE,0,Slalom
+2018-01-28,Manuel Feller,AT,243,Giant Slalom
+2018-01-28,Stefan Luitz,DE,140,Giant Slalom
+2018-01-28,Sandro Jenal,CH,0,Combined
+2018-01-28,Bjoernar Neteland,NO,14,Giant Slalom
+2018-01-28,Alex Zingerle,IT,0,Combined
+2018-01-28,Victor Muffat Jeandet,FR,71,Slalom
+2018-01-28,Alex Hofer,IT,0,Combined
+2018-01-28,Luca Aerni,CH,28,Slalom
+2018-01-28,Aleksander Aamodt Kilde,NO,95,Downhill
+2018-01-28,Pavel Trikhichev,RU,15,Combined
+2018-01-28,Justin Murisier,CH,199,Giant Slalom
+2018-01-28,Christian Hirschbuehel,AT,3,Slalom
+2018-01-28,Greg Galeotti,FR,0,Combined
+2018-01-28,Marcel Mathis,AT,4,Giant Slalom
+2018-01-28,Charlie Raposo,GB,0,Combined
+2018-01-28,Mathieu Faivre,FR,145,Giant Slalom
+2018-01-28,Matts Olsson,SE,259,Giant Slalom
+2018-01-28,Thomas Fanara,FR,66,Giant Slalom
+2018-01-28,Massimiliano Valcareggi,GR,0,Combined
+2018-01-28,Ivan Kuznetsov,RU,0,Combined
+2018-01-28,Michael Matt,AT,6,Slalom
+2018-01-28,Luca De Aliprandini,IT,128,Giant Slalom
+2018-01-28,Marc Rochat,CH,0,Slalom
+2018-01-28,Dominik Schwaiger,DE,0,Downhill
+2018-01-28,Fabio Gstrein,AT,0,Combined
+2018-01-28,Thomas Tumler,CH,0,Super G
+2018-01-28,Gilles Roulin,CH,0,Downhill
+2018-01-28,Stefan Brennsteiner,AT,57,Giant Slalom
+2018-01-28,Fritz Dopfer,DE,27,Slalom
+2018-01-28,Stefan Rogentin,CH,0,Combined
+2018-01-28,Giovanni Borsotti,IT,31,Giant Slalom
+2018-01-28,Aleksandr Andrienko,RU,24,Giant Slalom
+2018-01-28,Matthias Mayer,AT,22,Downhill
+2018-01-28,Hannes Reichelt,AT,0,Downhill
+2018-01-28,Albin Tahiri,XK,0,Combined
+2018-01-28,Roberto Nani,IT,62,Giant Slalom
+2018-01-28,Tomoya Ishii,JP,0,Combined
+2018-01-28,Dominik Paris,IT,0,Downhill
+2018-01-28,Roland Leitinger,AT,45,Giant Slalom
+2018-01-28,Tim Jitloff,US,22,Giant Slalom
+2018-01-28,Brian Mclaughlin,US,0,Combined
+2018-01-28,Dominic Demschar,AU,0,Combined
+2018-01-28,Krystof Kryzl,CZ,0,Combined
+2018-01-28,Samu Torsti,FI,0,Giant Slalom
+2018-01-28,Magnus Walch,AT,18,Giant Slalom
+2018-01-28,William Duke,AR,0,Combined
+2018-01-28,Aksel Patricksson,NO,0,Combined
+2018-01-28,Robin Buffet,FR,0,Slalom
+2018-01-28,Ryan Cochran-Siegle,US,10,Giant Slalom
+2018-01-28,Simon Maurberger,IT,0,Combined
+2018-01-28,Trevor Philp,CA,32,Giant Slalom
+2018-01-28,Dustin Cook,CA,0,Super G
+2018-01-28,Rasmus Windingstad,NO,0,Giant Slalom
+2018-01-28,Tommy Ford,US,44,Giant Slalom
+2018-01-28,River Radamus,US,0,Combined
+2018-01-28,Peder Dahlum Eide,NO,0,Combined
+2018-01-28,Borut Bozic,SK,0,Combined
+2018-01-28,Filip Zubcic,HR,84,Giant Slalom
+2018-01-28,Erik Read,CA,26,Giant Slalom
+2018-01-28,Andrea Ballerin,IT,0,Combined
+2018-01-28,Willis Feasey,NZ,0,Combined
+2018-01-28,Adam Barwood,NZ,0,Combined
+2018-01-28,Riccardo Tonetti,IT,58,Giant Slalom
+2018-01-28,Kjetil Jansrud,NO,16,Super G
+2018-01-28,Joan Verdu Sanchez,AD,0,Combined
 2018-01-28,Hig Roberts,US,0,Combined
-2018-03-03,Riccardo Tonetti,IT,67,Giant Slalom
-2018-03-03,Filip Zubcic,HR,89,Giant Slalom
-2018-03-03,Charlie Raposo,GB,0,Combined
-2018-03-03,Alexander Schmid,DE,74,Giant Slalom
-2018-03-03,Luca De Aliprandini,IT,128,Giant Slalom
-2018-03-03,Andre Myhrer,SE,62,Slalom
-2018-03-03,Alex Hofer,IT,0,Combined
-2018-03-03,Miha Hrobat,SK,0,Combined
-2018-03-03,Matts Olsson,SE,259,Giant Slalom
-2018-03-03,Rasmus Windingstad,NO,32,Giant Slalom
-2018-03-03,Samu Torsti,FI,24,Giant Slalom
-2018-03-03,Trevor Philp,CA,35,Giant Slalom
-2018-03-03,Florian Eisath,IT,108,Giant Slalom
-2018-03-03,Loic Meillard,CH,125,Giant Slalom
-2018-03-03,Leif Kristian Haugen,NO,176,Giant Slalom
-2018-03-03,Tommy Ford,US,73,Giant Slalom
-2018-03-03,Adam Chrapek,PL,0,Combined
-2018-03-03,Pierre Bugnard,CH,0,Combined
-2018-03-03,Dominik Raschner,AT,0,Combined
-2018-03-03,Sandro Jenal,CH,0,Combined
-2018-03-03,Justin Murisier,CH,199,Giant Slalom
-2018-03-03,Thomas Fanara,FR,66,Giant Slalom
-2018-03-03,Kristoffer Jakobsen,SE,0,Slalom
-2018-03-03,Roberto Nani,IT,62,Giant Slalom
-2018-03-03,Ryan Cochran-Siegle,US,36,Giant Slalom
-2018-03-03,Julian Rauchfuss,DE,0,Combined
-2018-03-03,Massimiliano Valcareggi,GR,0,Combined
-2018-03-03,Manfred Moelgg,IT,112,Slalom
-2018-03-03,Victor Guillot,FR,0,Combined
-2018-03-03,Aleksander Aamodt Kilde,NO,95,Downhill
-2018-03-03,Adam Kotzmann,CZ,0,Combined
-2018-03-03,Ivan Kuznetsov,RU,0,Combined
-2018-03-03,Alex Zingerle,IT,0,Combined
-2018-03-03,Albert Popov,BG,0,Combined
-2018-03-03,Hannes Reichelt,AT,0,Downhill
-2018-03-03,Adam Barwood,NZ,0,Combined
-2018-03-03,Marcus Sandell,FI,0,Combined
-2018-03-03,Luca Aerni,CH,28,Slalom
-2018-03-03,William Duke,AR,0,Combined
-2018-03-03,Brian Mclaughlin,US,0,Combined
-2018-03-03,Victor Muffat Jeandet,FR,107,Slalom
-2018-03-03,Dustin Cook,CA,0,Super G
-2018-03-03,Elia Zurbriggen,CH,52,Giant Slalom
-2018-03-03,Stefan Luitz,DE,140,Giant Slalom
-2018-03-03,Thibaut Favrot,FR,27,Giant Slalom
-2018-03-03,Greg Galeotti,FR,0,Combined
-2018-03-03,Marco Schwarz,AT,14,Slalom
-2018-03-03,Thomas Tumler,CH,0,Super G
-2018-03-03,River Radamus,US,0,Combined
-2018-03-03,Bjoernar Neteland,NO,20,Giant Slalom
-2018-03-03,Ted Ligety,US,164,Giant Slalom
-2018-03-03,Joan Verdu Sanchez,AD,0,Combined
-2018-03-03,Andreas Zampa,SK,18,Giant Slalom
-2018-03-03,Zan Groselj,SK,0,Combined
-2018-03-03,Willis Feasey,NZ,0,Combined
-2018-03-03,Philip Brown,CA,0,Slalom
-2018-03-03,Marcel Mathis,AT,4,Giant Slalom
-2018-03-03,Dominik Paris,IT,0,Downhill
-2018-03-03,Michael Matt,AT,6,Slalom
-2018-03-03,Dominik Schwaiger,DE,0,Downhill
-2018-03-03,Johannes Strolz,AT,10,Giant Slalom
-2018-03-03,Pavel Trikhichev,RU,15,Combined
-2018-03-03,Stefan Rogentin,CH,0,Combined
-2018-03-03,Manuel Feller,AT,283,Giant Slalom
-2018-03-03,Markus Monsen,NO,11,Giant Slalom
 2018-03-03,Dominic Demschar,AU,0,Combined
-2018-03-03,Peder Dahlum Eide,NO,0,Combined
+2018-03-03,Alex Zingerle,IT,0,Combined
+2018-03-03,Marcel Hirscher,AT,620,Slalom
+2018-03-03,Alex Hofer,IT,0,Combined
+2018-03-03,Adam Kotzmann,CZ,0,Combined
+2018-03-03,Victor Guillot,FR,0,Combined
+2018-03-03,Magnus Walch,AT,18,Giant Slalom
+2018-03-03,Marco Schwarz,AT,14,Slalom
 2018-03-03,Linus Strasser,DE,11,Slalom
-2018-03-03,Aksel Patricksson,NO,0,Combined
-2018-03-03,Giulio Bosca,IT,13,Giant Slalom
-2018-03-03,David Chodounsky,US,0,Slalom
-2018-03-03,Hig Roberts,US,0,Combined
-2018-03-03,Tomoya Ishii,JP,0,Combined
-2018-03-03,Borut Bozic,SK,0,Combined
-2018-03-03,Albin Tahiri,XK,0,Combined
-2018-03-03,Mathieu Faivre,FR,145,Giant Slalom
-2018-03-03,Juan Del Campo,ES,0,Combined
-2018-03-03,James Crawford,CA,0,Combined
-2018-03-03,Henrik Kristoffersen,NO,495,Slalom
-2018-03-03,Fritz Dopfer,DE,47,Slalom
-2018-03-03,Krystof Kryzl,CZ,0,Combined
 2018-03-03,Simon Maurberger,IT,0,Combined
 2018-03-03,Gino Caviezel,CH,57,Giant Slalom
-2018-03-03,Erik Read,CA,41,Giant Slalom
-2018-03-03,Elias Kolega,HR,0,Slalom
-2018-03-03,Stefan Brennsteiner,AT,57,Giant Slalom
+2018-03-03,Ted Ligety,US,164,Giant Slalom
+2018-03-03,Aksel Patricksson,NO,0,Combined
+2018-03-03,Samu Torsti,FI,24,Giant Slalom
+2018-03-03,Julian Rauchfuss,DE,0,Combined
+2018-03-03,Pierre Bugnard,CH,0,Combined
+2018-03-03,Dominik Paris,IT,0,Downhill
+2018-03-03,Dominik Schwaiger,DE,0,Downhill
+2018-03-03,Andreas Zampa,SK,18,Giant Slalom
+2018-03-03,Victor Muffat Jeandet,FR,107,Slalom
+2018-03-03,Trevor Philp,CA,35,Giant Slalom
+2018-03-03,Borut Bozic,SK,0,Combined
+2018-03-03,Fritz Dopfer,DE,47,Slalom
+2018-03-03,Luca Aerni,CH,28,Slalom
+2018-03-03,Miha Hrobat,SK,0,Combined
+2018-03-03,Sandro Jenal,CH,0,Combined
 2018-03-03,Matthias Mayer,AT,22,Downhill
-2018-03-03,Marc Rochat,CH,0,Slalom
-2018-03-03,Roland Leitinger,AT,45,Giant Slalom
-2018-03-03,Aljaz Dvornik,SK,0,Combined
-2018-03-03,Simon Breitfuss Kammerlander,BO,0,Combined
-2018-03-03,Christian Hirschbuehel,AT,3,Slalom
-2018-03-03,Alexis Pinturault,FR,329,Giant Slalom
-2018-03-03,Magnus Walch,AT,18,Giant Slalom
-2018-03-03,Andrea Ballerin,IT,0,Combined
-2018-03-03,Stefan Hadalin,SK,23,Slalom
-2018-03-03,Marco Odermatt,CH,0,Super G
-2018-03-03,Gilles Roulin,CH,0,Downhill
-2018-03-03,Robin Buffet,FR,0,Slalom
-2018-03-03,Marcel Hirscher,AT,620,Slalom
-2018-03-03,Adam Zampa,SK,17,Slalom
-2018-03-03,Dan Axel Grahn,SE,0,Combined
-2018-03-03,Kjetil Jansrud,NO,16,Super G
-2018-03-03,Aleksandr Andrienko,RU,24,Giant Slalom
-2018-03-03,Filip Forejtek,CZ,0,Combined
-2018-03-03,Zan Kranjec,SK,227,Giant Slalom
-2018-03-03,Tim Jitloff,US,40,Giant Slalom
-2018-03-03,Giovanni Borsotti,IT,38,Giant Slalom
-2018-03-03,Maarten Meiners,NL,0,Combined
-2018-03-03,Frederik Norys,DE,0,Combined
-2018-03-03,Ryuunosuke Ohkoshi,JP,0,Slalom
+2018-03-03,Adam Barwood,NZ,0,Combined
+2018-03-03,Dominik Raschner,AT,0,Combined
+2018-03-03,Stefan Rogentin,CH,0,Combined
+2018-03-03,Matts Olsson,SE,259,Giant Slalom
 2018-03-03,Fabio Gstrein,AT,0,Combined
-2018-03-17,Aljaz Dvornik,SK,0,Combined
-2018-03-17,Dominik Raschner,AT,0,Combined
-2018-03-17,Peder Dahlum Eide,NO,0,Combined
-2018-03-17,Adam Kotzmann,CZ,0,Combined
-2018-03-17,Zan Groselj,SK,0,Combined
-2018-03-17,Marcel Hirscher,AT,720,Slalom
+2018-03-03,Stefan Luitz,DE,140,Giant Slalom
+2018-03-03,Brian Mclaughlin,US,0,Combined
+2018-03-03,Alexis Pinturault,FR,329,Giant Slalom
+2018-03-03,Henrik Kristoffersen,NO,495,Slalom
+2018-03-03,Kristoffer Jakobsen,SE,0,Slalom
+2018-03-03,Elia Zurbriggen,CH,52,Giant Slalom
+2018-03-03,Peder Dahlum Eide,NO,0,Combined
+2018-03-03,Johannes Strolz,AT,10,Giant Slalom
+2018-03-03,Manuel Feller,AT,283,Giant Slalom
+2018-03-03,Willis Feasey,NZ,0,Combined
+2018-03-03,Thibaut Favrot,FR,27,Giant Slalom
+2018-03-03,Markus Monsen,NO,11,Giant Slalom
+2018-03-03,Adam Chrapek,PL,0,Combined
+2018-03-03,Zan Kranjec,SK,227,Giant Slalom
+2018-03-03,Stefan Brennsteiner,AT,57,Giant Slalom
+2018-03-03,Roland Leitinger,AT,45,Giant Slalom
+2018-03-03,Erik Read,CA,41,Giant Slalom
+2018-03-03,Robin Buffet,FR,0,Slalom
+2018-03-03,Massimiliano Valcareggi,GR,0,Combined
+2018-03-03,Joan Verdu Sanchez,AD,0,Combined
+2018-03-03,Aljaz Dvornik,SK,0,Combined
+2018-03-03,Juan Del Campo,ES,0,Combined
+2018-03-03,Albin Tahiri,XK,0,Combined
+2018-03-03,Philip Brown,CA,0,Slalom
+2018-03-03,Alexander Schmid,DE,74,Giant Slalom
+2018-03-03,Frederik Norys,DE,0,Combined
+2018-03-03,Marco Odermatt,CH,0,Super G
+2018-03-03,Dan Axel Grahn,SE,0,Combined
+2018-03-03,Thomas Tumler,CH,0,Super G
+2018-03-03,Aleksandr Andrienko,RU,24,Giant Slalom
+2018-03-03,Rasmus Windingstad,NO,32,Giant Slalom
+2018-03-03,Andre Myhrer,SE,62,Slalom
+2018-03-03,Maarten Meiners,NL,0,Combined
+2018-03-03,Loic Meillard,CH,125,Giant Slalom
+2018-03-03,Hig Roberts,US,0,Combined
+2018-03-03,Riccardo Tonetti,IT,67,Giant Slalom
+2018-03-03,River Radamus,US,0,Combined
+2018-03-03,James Crawford,CA,0,Combined
+2018-03-03,Filip Forejtek,CZ,0,Combined
+2018-03-03,Zan Groselj,SK,0,Combined
+2018-03-03,Manfred Moelgg,IT,112,Slalom
+2018-03-03,Andrea Ballerin,IT,0,Combined
+2018-03-03,Filip Zubcic,HR,89,Giant Slalom
+2018-03-03,Ryuunosuke Ohkoshi,JP,0,Slalom
+2018-03-03,Kjetil Jansrud,NO,16,Super G
+2018-03-03,Thomas Fanara,FR,66,Giant Slalom
+2018-03-03,Marcus Sandell,FI,0,Combined
+2018-03-03,Florian Eisath,IT,108,Giant Slalom
+2018-03-03,Adam Zampa,SK,17,Slalom
+2018-03-03,David Chodounsky,US,0,Slalom
+2018-03-03,Gilles Roulin,CH,0,Downhill
+2018-03-03,Tommy Ford,US,73,Giant Slalom
+2018-03-03,Simon Breitfuss Kammerlander,BO,0,Combined
+2018-03-03,Stefan Hadalin,SK,23,Slalom
+2018-03-03,Justin Murisier,CH,199,Giant Slalom
+2018-03-03,Tomoya Ishii,JP,0,Combined
+2018-03-03,William Duke,AR,0,Combined
+2018-03-03,Greg Galeotti,FR,0,Combined
+2018-03-03,Marcel Mathis,AT,4,Giant Slalom
+2018-03-03,Ryan Cochran-Siegle,US,36,Giant Slalom
+2018-03-03,Krystof Kryzl,CZ,0,Combined
+2018-03-03,Tim Jitloff,US,40,Giant Slalom
+2018-03-03,Charlie Raposo,GB,0,Combined
+2018-03-03,Ivan Kuznetsov,RU,0,Combined
+2018-03-03,Bjoernar Neteland,NO,20,Giant Slalom
+2018-03-03,Giovanni Borsotti,IT,38,Giant Slalom
+2018-03-03,Michael Matt,AT,6,Slalom
+2018-03-03,Pavel Trikhichev,RU,15,Combined
+2018-03-03,Roberto Nani,IT,62,Giant Slalom
+2018-03-03,Mathieu Faivre,FR,145,Giant Slalom
+2018-03-03,Albert Popov,BG,0,Combined
+2018-03-03,Dustin Cook,CA,0,Super G
+2018-03-03,Aleksander Aamodt Kilde,NO,95,Downhill
+2018-03-03,Christian Hirschbuehel,AT,3,Slalom
+2018-03-03,Luca De Aliprandini,IT,128,Giant Slalom
+2018-03-03,Elias Kolega,HR,0,Slalom
+2018-03-03,Marc Rochat,CH,0,Slalom
+2018-03-03,Hannes Reichelt,AT,0,Downhill
+2018-03-03,Giulio Bosca,IT,13,Giant Slalom
+2018-03-03,Leif Kristian Haugen,NO,176,Giant Slalom
 2018-03-17,Tomoya Ishii,JP,0,Combined
+2018-03-17,Zan Groselj,SK,0,Combined
+2018-03-17,Peder Dahlum Eide,NO,0,Combined
+2018-03-17,Aljaz Dvornik,SK,0,Combined
 2018-03-17,Borut Bozic,SK,0,Combined
-2018-03-17,Ivan Kuznetsov,RU,0,Combined
-2018-03-17,James Crawford,CA,0,Combined
-2018-03-17,Albin Tahiri,XK,0,Combined
 2018-03-17,Fabio Gstrein,AT,0,Combined
 2018-03-17,Frederik Norys,DE,0,Combined
-2018-03-17,Luca De Aliprandini,IT,143,Giant Slalom
+2018-03-17,Ivan Kuznetsov,RU,0,Combined
+2018-03-17,Dominik Raschner,AT,0,Combined
+2018-03-17,Albin Tahiri,XK,0,Combined
+2018-03-17,James Crawford,CA,0,Combined
+2018-03-17,Adam Kotzmann,CZ,0,Combined
+2018-03-17,Christian Hirschbuehel,AT,3,Slalom
 2018-03-17,Adam Chrapek,PL,0,Combined
+2018-03-17,Ryan Cochran-Siegle,US,36,Giant Slalom
+2018-03-17,Trevor Philp,CA,35,Giant Slalom
+2018-03-17,Samu Torsti,FI,24,Giant Slalom
+2018-03-17,Roland Leitinger,AT,45,Giant Slalom
+2018-03-17,Matthias Mayer,AT,22,Downhill
+2018-03-17,Stefan Brennsteiner,AT,57,Giant Slalom
+2018-03-17,Erik Read,CA,41,Giant Slalom
+2018-03-17,Gino Caviezel,CH,57,Giant Slalom
+2018-03-17,Fritz Dopfer,DE,47,Slalom
+2018-03-17,Magnus Walch,AT,18,Giant Slalom
 2018-03-17,Giovanni Borsotti,IT,38,Giant Slalom
 2018-03-17,Tim Jitloff,US,40,Giant Slalom
 2018-03-17,Aleksandr Andrienko,RU,24,Giant Slalom
@@ -806,51 +816,44 @@ date,name,ath_country,value,specialty
 2018-03-17,Stefan Hadalin,SK,23,Slalom
 2018-03-17,Pavel Trikhichev,RU,15,Combined
 2018-03-17,Bjoernar Neteland,NO,20,Giant Slalom
-2018-03-17,Magnus Walch,AT,18,Giant Slalom
 2018-03-17,Marco Schwarz,AT,14,Slalom
-2018-03-17,Elia Zurbriggen,CH,52,Giant Slalom
-2018-03-17,Victor Muffat Jeandet,FR,167,Slalom
-2018-03-17,Luca Aerni,CH,28,Slalom
-2018-03-17,Andreas Zampa,SK,18,Giant Slalom
-2018-03-17,Giulio Bosca,IT,13,Giant Slalom
-2018-03-17,Linus Strasser,DE,11,Slalom
-2018-03-17,Ted Ligety,US,178,Giant Slalom
-2018-03-17,Markus Monsen,NO,11,Giant Slalom
-2018-03-17,Johannes Strolz,AT,10,Giant Slalom
 2018-03-17,Thibaut Favrot,FR,27,Giant Slalom
-2018-03-17,Fritz Dopfer,DE,47,Slalom
-2018-03-17,Gino Caviezel,CH,57,Giant Slalom
+2018-03-17,Roberto Nani,IT,73,Giant Slalom
+2018-03-17,Elia Zurbriggen,CH,52,Giant Slalom
+2018-03-17,Tommy Ford,US,105,Giant Slalom
+2018-03-17,Riccardo Tonetti,IT,79,Giant Slalom
+2018-03-17,Marcel Hirscher,AT,720,Slalom
+2018-03-17,Alexis Pinturault,FR,329,Giant Slalom
+2018-03-17,Matts Olsson,SE,299,Giant Slalom
+2018-03-17,Henrik Kristoffersen,NO,575,Slalom
+2018-03-17,Stefan Luitz,DE,140,Giant Slalom
+2018-03-17,Manuel Feller,AT,309,Giant Slalom
+2018-03-17,Zan Kranjec,SK,272,Giant Slalom
+2018-03-17,Ted Ligety,US,178,Giant Slalom
+2018-03-17,Victor Muffat Jeandet,FR,167,Slalom
 2018-03-17,Mathieu Faivre,FR,145,Giant Slalom
+2018-03-17,Justin Murisier,CH,228,Giant Slalom
+2018-03-17,Aleksander Aamodt Kilde,NO,95,Downhill
+2018-03-17,Luca De Aliprandini,IT,143,Giant Slalom
 2018-03-17,Leif Kristian Haugen,NO,198,Giant Slalom
 2018-03-17,Loic Meillard,CH,175,Giant Slalom
 2018-03-17,Alexander Schmid,DE,92,Giant Slalom
-2018-03-17,Aleksander Aamodt Kilde,NO,95,Downhill
 2018-03-17,Andre Myhrer,SE,62,Slalom
 2018-03-17,Manfred Moelgg,IT,132,Slalom
 2018-03-17,Florian Eisath,IT,134,Giant Slalom
 2018-03-17,Thomas Fanara,FR,102,Giant Slalom
 2018-03-17,Filip Zubcic,HR,102,Giant Slalom
-2018-03-17,Riccardo Tonetti,IT,79,Giant Slalom
 2018-03-17,Rasmus Windingstad,NO,32,Giant Slalom
-2018-03-17,Tommy Ford,US,105,Giant Slalom
-2018-03-17,Roberto Nani,IT,73,Giant Slalom
-2018-03-17,Ryan Cochran-Siegle,US,36,Giant Slalom
-2018-03-17,Trevor Philp,CA,35,Giant Slalom
-2018-03-17,Samu Torsti,FI,24,Giant Slalom
-2018-03-17,Justin Murisier,CH,228,Giant Slalom
-2018-03-17,Roland Leitinger,AT,45,Giant Slalom
-2018-03-17,Matthias Mayer,AT,22,Downhill
-2018-03-17,Stefan Brennsteiner,AT,57,Giant Slalom
-2018-03-17,Erik Read,CA,41,Giant Slalom
-2018-03-17,Michael Matt,AT,6,Slalom
-2018-03-17,Marcel Mathis,AT,4,Giant Slalom
-2018-03-17,Christian Hirschbuehel,AT,3,Slalom
-2018-03-17,Philip Brown,CA,0,Slalom
+2018-03-17,Julian Rauchfuss,DE,0,Combined
+2018-03-17,Luca Aerni,CH,28,Slalom
+2018-03-17,Giulio Bosca,IT,13,Giant Slalom
+2018-03-17,Hig Roberts,US,0,Combined
+2018-03-17,Andrea Ballerin,IT,0,Combined
+2018-03-17,Robin Buffet,FR,0,Slalom
 2018-03-17,Ryuunosuke Ohkoshi,JP,0,Slalom
 2018-03-17,Filip Forejtek,CZ,0,Combined
 2018-03-17,Maarten Meiners,NL,0,Combined
 2018-03-17,Dan Axel Grahn,SE,0,Combined
-2018-03-17,Henrik Kristoffersen,NO,575,Slalom
 2018-03-17,Juan Del Campo,ES,0,Combined
 2018-03-17,Simon Breitfuss Kammerlander,BO,0,Combined
 2018-03-17,Elias Kolega,HR,0,Slalom
@@ -861,36 +864,34 @@ date,name,ath_country,value,specialty
 2018-03-17,Pierre Bugnard,CH,0,Combined
 2018-03-17,Victor Guillot,FR,0,Combined
 2018-03-17,Miha Hrobat,SK,0,Combined
-2018-03-17,Matts Olsson,SE,299,Giant Slalom
 2018-03-17,Kristoffer Jakobsen,SE,0,Slalom
 2018-03-17,Sandro Jenal,CH,0,Combined
 2018-03-17,Alex Zingerle,IT,0,Combined
 2018-03-17,Alex Hofer,IT,0,Combined
-2018-03-17,Alexis Pinturault,FR,329,Giant Slalom
-2018-03-17,Robin Buffet,FR,0,Slalom
-2018-03-17,Julian Rauchfuss,DE,0,Combined
-2018-03-17,Andrea Ballerin,IT,0,Combined
 2018-03-17,Thomas Tumler,CH,0,Super G
+2018-03-17,Andreas Zampa,SK,18,Giant Slalom
+2018-03-17,Hannes Reichelt,AT,0,Downhill
+2018-03-17,William Duke,AR,0,Combined
+2018-03-17,Linus Strasser,DE,11,Slalom
+2018-03-17,Markus Monsen,NO,11,Giant Slalom
+2018-03-17,Johannes Strolz,AT,10,Giant Slalom
+2018-03-17,Michael Matt,AT,6,Slalom
+2018-03-17,Marcel Mathis,AT,4,Giant Slalom
+2018-03-17,Philip Brown,CA,0,Slalom
 2018-03-17,David Chodounsky,US,0,Slalom
 2018-03-17,Marcus Sandell,FI,0,Combined
 2018-03-17,River Radamus,US,0,Combined
 2018-03-17,Gilles Roulin,CH,0,Downhill
-2018-03-17,Zan Kranjec,SK,272,Giant Slalom
 2018-03-17,Krystof Kryzl,CZ,0,Combined
 2018-03-17,Simon Maurberger,IT,0,Combined
 2018-03-17,Brian Mclaughlin,US,0,Combined
 2018-03-17,Adam Barwood,NZ,0,Combined
 2018-03-17,Dominik Schwaiger,DE,0,Downhill
-2018-03-17,Manuel Feller,AT,309,Giant Slalom
 2018-03-17,Willis Feasey,NZ,0,Combined
 2018-03-17,Dominik Paris,IT,0,Downhill
 2018-03-17,Stefan Rogentin,CH,0,Combined
 2018-03-17,Dominic Demschar,AU,0,Combined
 2018-03-17,Aksel Patricksson,NO,0,Combined
 2018-03-17,Joan Verdu Sanchez,AD,0,Combined
-2018-03-17,William Duke,AR,0,Combined
-2018-03-17,Stefan Luitz,DE,140,Giant Slalom
 2018-03-17,Dustin Cook,CA,0,Super G
-2018-03-17,Hannes Reichelt,AT,0,Downhill
-2018-03-17,Hig Roberts,US,0,Combined
 2018-03-17,Albert Popov,BG,0,Combined

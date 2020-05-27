@@ -1,35 +1,33 @@
 date,name,ath_country,value,specialty
-2000-01-09,Kjetil Andre Aamodt,NO,100,Slalom
+2000-01-09,Hermann Maier,AT,80,Downhill
 2000-01-09,Patrik Jaerbyn,SE,15,Downhill
+2000-01-09,Fredrik Nyberg,SE,22,Giant Slalom
 2000-01-09,Antoine Deneriaz,FR,20,Combined
 2000-01-09,Ed Podivinsky,CA,24,Downhill
 2000-01-09,Hannes Trinkl,AT,18,Downhill
 2000-01-09,Andreas Schifferer,AT,26,Downhill
 2000-01-09,Marco Buechel,LI,0,Giant Slalom
-2000-01-09,Kristian Ghedina,IT,29,Downhill
 2000-01-09,Didier Cuche,CH,16,Downhill
-2000-01-09,Bruno Kernen,CH,36,Downhill
-2000-01-09,Werner Franz,AT,45,Super G
 2000-01-09,Josef Strobl,AT,40,Downhill
-2000-01-09,Fredrik Nyberg,SE,22,Giant Slalom
-2000-01-09,Hermann Maier,AT,80,Downhill
-2000-01-09,Stephan Eberharter,AT,50,Downhill
-2000-01-09,Paul Accola,CH,60,Giant Slalom
+2000-01-09,Bruno Kernen,CH,36,Downhill
+2000-01-09,Kristian Ghedina,IT,29,Downhill
+2000-01-09,Werner Franz,AT,45,Super G
 2000-01-09,Fritz Strobl,AT,32,Downhill
-2000-01-23,Kjetil Andre Aamodt,NO,200,Slalom
+2000-01-09,Paul Accola,CH,60,Giant Slalom
+2000-01-09,Stephan Eberharter,AT,50,Downhill
+2000-01-23,Werner Franz,AT,74,Super G
+2000-01-23,Hermann Maier,AT,140,Downhill
 2000-01-23,Patrik Jaerbyn,SE,37,Downhill
+2000-01-23,Fredrik Nyberg,SE,22,Giant Slalom
+2000-01-23,Paul Accola,CH,100,Giant Slalom
 2000-01-23,Antoine Deneriaz,FR,44,Combined
 2000-01-23,Ed Podivinsky,CA,24,Downhill
-2000-01-23,Hermann Maier,AT,140,Downhill
-2000-01-23,Fredrik Nyberg,SE,102,Giant Slalom
+2000-01-23,Stephan Eberharter,AT,50,Downhill
 2000-01-23,Hannes Trinkl,AT,44,Downhill
+2000-01-23,Andreas Schifferer,AT,26,Downhill
 2000-01-23,Fritz Strobl,AT,82,Downhill
 2000-01-23,Marco Buechel,LI,32,Giant Slalom
-2000-01-23,Paul Accola,CH,100,Giant Slalom
 2000-01-23,Kristian Ghedina,IT,65,Downhill
 2000-01-23,Josef Strobl,AT,40,Downhill
-2000-01-23,Stephan Eberharter,AT,50,Downhill
 2000-01-23,Bruno Kernen,CH,81,Downhill
-2000-01-23,Werner Franz,AT,74,Super G
-2000-01-23,Andreas Schifferer,AT,26,Downhill
 2000-01-23,Didier Cuche,CH,16,Downhill

@@ -27,7 +27,7 @@ date,name,ath_country,value,specialty
 1978-12-13,Marc Garcia,FR,0,Slalom
 1978-12-13,Petar Popangelov,BG,22,Slalom
 1978-12-13,Mauro Bernardi,IT,0,Giant Slalom
-1978-12-13,Andreas Wenzel,LI,0,Combined
+1978-12-13,Andreas Wenzel,LI,0,Slalom
 1978-12-13,Jostein Masdal,NO,0,Slalom
 1978-12-13,Helmuth Gstrein,AT,0,Slalom
 1978-12-13,Bogumir Zeman,SK,0,Combined
@@ -53,7 +53,7 @@ date,name,ath_country,value,specialty
 1978-12-21,Franck Woerndl,DE,18,Slalom
 1978-12-21,Aleksandr Zhirov,RU,0,Slalom
 1978-12-21,Klaus Heidegger,AT,20,Giant Slalom
-1978-12-21,Andreas Wenzel,LI,0,Combined
+1978-12-21,Andreas Wenzel,LI,0,Slalom
 1978-12-21,Tor Melander,SE,0,Slalom
 1978-12-21,Anton Steiner,AT,17,Slalom
 1978-12-21,Torsten Jakobsson,SE,0,Slalom
@@ -122,7 +122,7 @@ date,name,ath_country,value,specialty
 1979-01-09,Manabu Sawaguchi,JP,0,Slalom
 1979-01-09,Torsten Jakobsson,SE,0,Slalom
 1979-01-09,Bogumir Zeman,SK,0,Combined
-1979-01-09,Andreas Wenzel,LI,19,Combined
+1979-01-09,Andreas Wenzel,LI,19,Slalom
 1979-01-09,Peter Wirnsberger,AT,0,Downhill
 1979-01-09,Franck Woerndl,DE,18,Slalom
 1979-01-09,Klaus Heidegger,AT,20,Giant Slalom
@@ -190,7 +190,7 @@ date,name,ath_country,value,specialty
 1979-01-15,Karl Trojer,IT,39,Slalom
 1979-01-15,Steve Mahre,US,0,Slalom
 1979-01-15,Phil Mahre,US,38,Slalom
-1979-01-15,Andreas Wenzel,LI,43,Combined
+1979-01-15,Andreas Wenzel,LI,43,Slalom
 1979-01-15,Gustav Thoeni,IT,34,Slalom
 1979-01-15,Klaus Heidegger,AT,20,Giant Slalom
 1979-01-15,Peter Luescher,CH,42,Giant Slalom
@@ -206,7 +206,7 @@ date,name,ath_country,value,specialty
 1979-01-21,Mauro Bernardi,IT,0,Giant Slalom
 1979-01-21,Ingemar Stenmark,SE,72,Giant Slalom
 1979-01-21,Leonhard Stock,AT,0,Giant Slalom
-1979-01-21,Andreas Wenzel,LI,59,Combined
+1979-01-21,Andreas Wenzel,LI,59,Slalom
 1979-01-21,Jacques Luethy,CH,0,Giant Slalom
 1979-01-21,Petar Popangelov,BG,46,Slalom
 1979-01-21,Franz Gruber,AT,0,Slalom
@@ -272,7 +272,7 @@ date,name,ath_country,value,specialty
 1979-01-28,Aleksandr Zhirov,RU,0,Slalom
 1979-01-28,Osamu Kodama,JP,0,Slalom
 1979-01-28,Phil Mahre,US,85,Slalom
-1979-01-28,Andreas Wenzel,LI,79,Combined
+1979-01-28,Andreas Wenzel,LI,79,Slalom
 1979-01-28,Vladimir Andreev,RU,0,Slalom
 1979-01-28,Ingemar Stenmark,SE,94,Giant Slalom
 1979-01-28,Peter Luescher,CH,67,Giant Slalom
@@ -309,7 +309,7 @@ date,name,ath_country,value,specialty
 1979-02-05,Osamu Kodama,JP,0,Slalom
 1979-02-05,Mauro Bernardi,IT,0,Giant Slalom
 1979-02-05,Bruno Noeckler,IT,17,Slalom
-1979-02-05,Andreas Wenzel,LI,79,Combined
+1979-02-05,Andreas Wenzel,LI,79,Slalom
 1979-02-05,Jacques Luethy,CH,17,Giant Slalom
 1979-02-05,Steve Mahre,US,20,Slalom
 1979-02-05,Marc Garcia,FR,0,Slalom
@@ -393,7 +393,7 @@ date,name,ath_country,value,specialty
 1979-02-07,Petar Popangelov,BG,106,Slalom
 1979-02-07,Ingemar Stenmark,SE,141,Giant Slalom
 1979-02-07,Bruno Noeckler,IT,17,Slalom
-1979-02-07,Andreas Wenzel,LI,79,Combined
+1979-02-07,Andreas Wenzel,LI,79,Slalom
 1979-02-07,Jacques Luethy,CH,31,Giant Slalom
 1979-02-07,Marc Garcia,FR,1,Slalom
 1979-02-07,Wolfram Ortner,AT,17,Giant Slalom
@@ -419,7 +419,7 @@ date,name,ath_country,value,specialty
 1979-02-11,Jacques Luethy,CH,31,Giant Slalom
 1979-02-11,Bojan Krizaj,SK,67,Giant Slalom
 1979-02-11,Hiroaki Ohtaka,JP,0,Slalom
-1979-02-11,Andreas Wenzel,LI,87,Combined
+1979-02-11,Andreas Wenzel,LI,87,Slalom
 1979-02-11,Christian Neureuther,DE,94,Slalom
 1979-02-11,Aleksandr Zhirov,RU,5,Slalom
 1979-02-11,Piero Gros,IT,138,Slalom
@@ -503,7 +503,7 @@ date,name,ath_country,value,specialty
 1979-03-17,Bogumir Zeman,SK,25,Combined
 1979-03-17,Marc Garcia,FR,1,Slalom
 1979-03-17,Leonhard Stock,AT,17,Giant Slalom
-1979-03-17,Andreas Wenzel,LI,87,Combined
+1979-03-17,Andreas Wenzel,LI,87,Slalom
 1979-03-17,Tor Melander,SE,4,Slalom
 1979-03-17,Karl Trojer,IT,54,Slalom
 1979-03-17,Jostein Masdal,NO,5,Slalom

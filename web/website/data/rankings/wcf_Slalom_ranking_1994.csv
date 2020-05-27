@@ -10,7 +10,7 @@ date,name,ath_country,value,specialty
 1993-11-28,Astrid Plank,IT,0,Slalom
 1993-11-28,Veronika Kappaurer,AT,12,Slalom
 1993-11-28,Morena Gallizio Tescari,IT,29,Slalom
-1993-11-28,Erika Hansson,SE,0,Combined
+1993-11-28,Erika Hansson,SE,0,Slalom
 1993-11-28,Ulrike Maier,AT,26,Giant Slalom
 1993-11-28,Elfi Eder,AT,22,Slalom
 1993-11-28,Christiane Abenthung,AT,0,Slalom
@@ -63,7 +63,7 @@ date,name,ath_country,value,specialty
 1993-12-12,Alenka Dovzan,SK,9,Super G
 1993-12-12,Spela Pretnar,SK,0,Giant Slalom
 1993-12-12,Marianne Kjoerstad,NO,31,Slalom
-1993-12-12,Erika Hansson,SE,16,Combined
+1993-12-12,Erika Hansson,SE,16,Slalom
 1993-12-12,Eva Twardokens,US,0,Giant Slalom
 1993-12-12,Beatrice Filliol,FR,20,Slalom
 1993-12-12,Leila Piccard,FR,0,Giant Slalom
@@ -169,7 +169,7 @@ date,name,ath_country,value,specialty
 1993-12-19,Renate Goetschl,AT,82,Downhill
 1993-12-19,Kerstin Riediger,DE,13,Slalom
 1993-12-19,Katja Seizinger,DE,0,Downhill
-1993-12-19,Erika Hansson,SE,16,Combined
+1993-12-19,Erika Hansson,SE,16,Slalom
 1994-01-06,Lara Magoni,IT,68,Slalom
 1994-01-06,Manuela Lieb,AT,52,Slalom
 1994-01-06,Natasa Bokal,SK,8,Slalom
@@ -177,7 +177,7 @@ date,name,ath_country,value,specialty
 1994-01-06,Katja Seizinger,DE,0,Downhill
 1994-01-06,Ingrid Salvenmoser,AT,40,Slalom
 1994-01-06,Leila Piccard,FR,0,Giant Slalom
-1994-01-06,Erika Hansson,SE,25,Combined
+1994-01-06,Erika Hansson,SE,25,Slalom
 1994-01-06,Eva Twardokens,US,22,Giant Slalom
 1994-01-06,Claudia Strobl,AT,0,Slalom
 1994-01-06,Titti Rodling,SE,0,Slalom
@@ -239,7 +239,7 @@ date,name,ath_country,value,specialty
 1994-01-09,Kristina Andersson,SE,145,Slalom
 1994-01-09,Claudia Strobl,AT,7,Slalom
 1994-01-09,Julie M. J. Parisien,US,70,Slalom
-1994-01-09,Erika Hansson,SE,25,Combined
+1994-01-09,Erika Hansson,SE,25,Slalom
 1994-01-09,Gabriela Zingre-Graf,CH,79,Slalom
 1994-01-09,Christine von Gruenigen,CH,158,Slalom
 1994-01-09,Roberta Serra,IT,66,Slalom
@@ -301,7 +301,7 @@ date,name,ath_country,value,specialty
 1994-01-22,Titti Rodling,SE,0,Slalom
 1994-01-22,Deborah Compagnoni,IT,90,Giant Slalom
 1994-01-22,Anne Berge,NO,20,Giant Slalom
-1994-01-22,Erika Hansson,SE,25,Combined
+1994-01-22,Erika Hansson,SE,25,Slalom
 1994-01-22,Veronika Kappaurer,AT,12,Slalom
 1994-01-22,Beatrice Filliol,FR,100,Slalom
 1994-01-22,Eva Twardokens,US,22,Giant Slalom
@@ -365,7 +365,7 @@ date,name,ath_country,value,specialty
 1994-01-23,Kristi Terzian,US,0,Slalom
 1994-01-23,Elisabetta Biavaschi,IT,5,Slalom
 1994-01-23,Veronika Kappaurer,AT,12,Slalom
-1994-01-23,Erika Hansson,SE,25,Combined
+1994-01-23,Erika Hansson,SE,25,Slalom
 1994-01-23,Edda Mutter,DE,56,Slalom
 1994-01-23,Karin Lambrigger,CH,11,Slalom
 1994-01-23,Lucia Medzihradska,SK,14,Slalom
@@ -453,7 +453,7 @@ date,name,ath_country,value,specialty
 1994-02-05,Christina Riegel,AT,12,Slalom
 1994-02-05,Miriam Vogt,DE,54,Giant Slalom
 1994-02-05,Urska Hrovat,SK,310,Slalom
-1994-02-05,Erika Hansson,SE,37,Combined
+1994-02-05,Erika Hansson,SE,37,Slalom
 1994-02-05,Martina Ertl,DE,192,Giant Slalom
 1994-03-10,Veronika Kappaurer,AT,12,Slalom
 1994-03-10,Vreni Schneider,CH,760,Slalom
@@ -508,7 +508,7 @@ date,name,ath_country,value,specialty
 1994-03-10,Katja Seizinger,DE,15,Downhill
 1994-03-10,Spela Pretnar,SK,109,Giant Slalom
 1994-03-10,Ingrid Salvenmoser,AT,52,Slalom
-1994-03-10,Erika Hansson,SE,37,Combined
+1994-03-10,Erika Hansson,SE,37,Slalom
 1994-03-10,Martina Accola,CH,117,Slalom
 1994-03-10,Patricia Chauvet,FR,202,Slalom
 1994-03-10,Natasa Bokal,SK,36,Slalom
@@ -535,7 +535,7 @@ date,name,ath_country,value,specialty
 1994-03-20,Elfi Eder,AT,142,Slalom
 1994-03-20,Eva Twardokens,US,43,Giant Slalom
 1994-03-20,Beatrice Filliol,FR,176,Slalom
-1994-03-20,Erika Hansson,SE,37,Combined
+1994-03-20,Erika Hansson,SE,37,Slalom
 1994-03-20,Natasa Bokal,SK,36,Slalom
 1994-03-20,Katja Seizinger,DE,30,Downhill
 1994-03-20,Patricia Chauvet,FR,234,Slalom

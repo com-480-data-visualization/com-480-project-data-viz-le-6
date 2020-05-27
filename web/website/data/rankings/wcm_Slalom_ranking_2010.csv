@@ -75,7 +75,7 @@ date,name,ath_country,value,specialty
 2009-11-15,Didier Cuche,CH,0,Downhill
 2009-11-15,Markus Larsson,SE,14,Slalom
 2009-11-15,Ryuunosuke Ohkoshi,JP,0,Combined
-2009-11-15,Ondrej Bank,CZ,0,Combined
+2009-11-15,Ondrej Bank,CZ,0,Giant Slalom
 2009-11-15,Joachim Puchner,AT,0,Combined
 2009-11-15,Steve Missillier,FR,15,Slalom
 2009-11-15,Thomas Mermillod,FR,0,Giant Slalom
@@ -223,7 +223,7 @@ date,name,ath_country,value,specialty
 2009-12-21,Alexis Pinturault,FR,0,Combined
 2009-12-21,David Chodounsky,US,0,Combined
 2009-12-21,Alexandr Horoshilov,RU,2,Combined
-2009-12-21,Ondrej Bank,CZ,0,Combined
+2009-12-21,Ondrej Bank,CZ,0,Giant Slalom
 2009-12-21,Ryuunosuke Ohkoshi,JP,0,Combined
 2009-12-21,Stephane Tissot,FR,0,Combined
 2009-12-21,Cristian Javier Simari Birkner,AR,0,Combined
@@ -396,7 +396,7 @@ date,name,ath_country,value,specialty
 2010-01-06,Wolfgang Hoerl,AT,0,Slalom
 2010-01-06,Steve Missillier,FR,41,Slalom
 2010-01-06,Mattia Casse,IT,0,Downhill
-2010-01-06,Ondrej Bank,CZ,0,Combined
+2010-01-06,Ondrej Bank,CZ,0,Giant Slalom
 2010-01-06,Maxime Tissot,FR,16,Slalom
 2010-01-06,Joachim Puchner,AT,0,Combined
 2010-01-06,Jaroslav Babusiak,SK,0,Combined
@@ -581,7 +581,7 @@ date,name,ath_country,value,specialty
 2010-01-10,Ion Nan,RO,0,Combined
 2010-01-10,David Ryding,GB,0,Combined
 2010-01-10,Ted Ligety,US,13,Giant Slalom
-2010-01-10,Ondrej Bank,CZ,16,Combined
+2010-01-10,Ondrej Bank,CZ,16,Giant Slalom
 2010-01-10,Michael Rishworth,AU,0,Combined
 2010-01-10,Cristian Javier Simari Birkner,AR,0,Combined
 2010-01-10,Nikola Chongarov,BG,0,Combined
@@ -729,7 +729,7 @@ date,name,ath_country,value,specialty
 2010-01-17,Ion Nan,RO,0,Combined
 2010-01-17,Filip Trejbal,CZ,41,Slalom
 2010-01-17,Giuliano Razzoli,IT,148,Slalom
-2010-01-17,Ondrej Bank,CZ,16,Combined
+2010-01-17,Ondrej Bank,CZ,16,Giant Slalom
 2010-01-17,Miha Kuerner,SK,0,Combined
 2010-01-17,Reinfried Herbst,AT,305,Slalom
 2010-01-17,Jean-Baptiste Grange,FR,60,Slalom
@@ -750,7 +750,7 @@ date,name,ath_country,value,specialty
 2010-01-17,Maxime Tissot,FR,32,Slalom
 2010-01-17,Noel Baxter,GB,0,Combined
 2010-01-24,Michael Rishworth,AU,0,Combined
-2010-01-24,Ondrej Bank,CZ,16,Combined
+2010-01-24,Ondrej Bank,CZ,16,Giant Slalom
 2010-01-24,Andrej Sporn,SK,0,Downhill
 2010-01-24,Aksel-Lund Svindal,NO,9,Super G
 2010-01-24,Mauro Caviezel,CH,0,Combined
@@ -1043,7 +1043,7 @@ date,name,ath_country,value,specialty
 2010-01-26,Andrej Sporn,SK,0,Downhill
 2010-01-26,Aksel-Lund Svindal,NO,9,Super G
 2010-01-26,Cristian Javier Simari Birkner,AR,0,Combined
-2010-01-26,Ondrej Bank,CZ,16,Combined
+2010-01-26,Ondrej Bank,CZ,16,Giant Slalom
 2010-01-26,Stefano Gross,IT,0,Slalom
 2010-01-26,Dominik Stehle,DE,0,Combined
 2010-01-26,Maciej Bydlinski,PL,0,Combined
@@ -1181,7 +1181,7 @@ date,name,ath_country,value,specialty
 2010-01-31,Jukka Leino,FI,0,Combined
 2010-01-31,Markus Larsson,SE,61,Slalom
 2010-01-31,Danko Marinelli,HR,0,Combined
-2010-01-31,Ondrej Bank,CZ,16,Combined
+2010-01-31,Ondrej Bank,CZ,16,Giant Slalom
 2010-01-31,Patrick Bechter,AT,14,Slalom
 2010-01-31,Natko Zrncic-Dim,HR,13,Combined
 2010-01-31,Ryuunosuke Ohkoshi,JP,0,Combined
@@ -1219,7 +1219,7 @@ date,name,ath_country,value,specialty
 2010-03-13,Trevor White,CA,27,Slalom
 2010-03-13,Marc Berthod,CH,33,Giant Slalom
 2010-03-13,Maxime Tissot,FR,32,Slalom
-2010-03-13,Ondrej Bank,CZ,16,Combined
+2010-03-13,Ondrej Bank,CZ,16,Giant Slalom
 2010-03-13,Markus Larsson,SE,61,Slalom
 2010-03-13,Patrick Biggs,CA,24,Slalom
 2010-03-13,Patrick Bechter,AT,14,Slalom

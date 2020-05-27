@@ -28,7 +28,7 @@ date,name,ath_country,value,specialty
 1996-10-26,Alexandra Meissnitzer,AT,26,Downhill
 1996-10-26,Tiziana De Martin,IT,0,Giant Slalom
 1996-10-26,Ingrid Jacquemod,FR,0,Giant Slalom
-1996-10-26,Florence Masnada,FR,0,Super G
+1996-10-26,Florence Masnada,FR,0,Downhill
 1996-10-26,Kazuko Ikeda,JP,0,Giant Slalom
 1996-10-26,Martina Fortkord,SE,16,Giant Slalom
 1996-10-26,Katrin Neuenschwander,CH,0,Giant Slalom
@@ -50,7 +50,7 @@ date,name,ath_country,value,specialty
 1996-10-26,Kirsten L Clark,US,0,Super G
 1996-10-26,Anita Wachter,AT,0,Giant Slalom
 1996-10-26,Eveline Rohregger,AT,0,Giant Slalom
-1996-10-26,Barbara Merlin,IT,0,Super G
+1996-10-26,Barbara Merlin,IT,0,Downhill
 1996-10-26,Deborah Compagnoni,IT,80,Giant Slalom
 1996-10-26,Caroline Dummer Waidhofer,AT,15,Giant Slalom
 1996-10-26,Fujiko Sekino,FR,14,Giant Slalom
@@ -80,7 +80,7 @@ date,name,ath_country,value,specialty
 1996-11-21,Alexandra Meissnitzer,AT,26,Downhill
 1996-11-21,Maria Jose Rienda Contreras,ES,0,Giant Slalom
 1996-11-21,Ingrid Jacquemod,FR,0,Giant Slalom
-1996-11-21,Florence Masnada,FR,0,Super G
+1996-11-21,Florence Masnada,FR,0,Downhill
 1996-11-21,Catherine Borghi,CH,11,Super G
 1996-11-21,Martina Ertl,DE,45,Super G
 1996-11-21,Ingeborg H. Marken,NO,0,Downhill
@@ -101,7 +101,7 @@ date,name,ath_country,value,specialty
 1996-11-21,Marianne Kjoerstad,NO,32,Slalom
 1996-11-21,Urska Hrovat,SK,72,Slalom
 1996-11-21,Anita Wachter,AT,80,Giant Slalom
-1996-11-21,Barbara Merlin,IT,12,Super G
+1996-11-21,Barbara Merlin,IT,12,Downhill
 1996-11-21,Tiziana De Martin,IT,0,Giant Slalom
 1996-11-21,Isolde Kostner,IT,32,Downhill
 1996-11-21,Marlies Oester,CH,18,Slalom
@@ -113,11 +113,11 @@ date,name,ath_country,value,specialty
 1997-01-03,Eveline Rohregger,AT,0,Giant Slalom
 1997-01-03,Madlen Summermatter,CH,11,Super G
 1997-01-03,Gro Kvinlog,NO,10,Giant Slalom
-1997-01-03,Barbara Merlin,IT,32,Super G
+1997-01-03,Barbara Merlin,IT,32,Downhill
 1997-01-03,Birgit Heeb-Batliner,LI,56,Giant Slalom
 1997-01-03,Karen Putzer,IT,51,Giant Slalom
 1997-01-03,Erika Hansson,SE,18,Giant Slalom
-1997-01-03,Florence Masnada,FR,0,Super G
+1997-01-03,Florence Masnada,FR,0,Downhill
 1997-01-03,Alexandra Meissnitzer,AT,37,Downhill
 1997-01-03,Renate Goetschl,AT,5,Downhill
 1997-01-03,Katrin Neuenschwander,CH,4,Giant Slalom
@@ -166,7 +166,7 @@ date,name,ath_country,value,specialty
 1997-01-03,Hilde Gerg,DE,100,Super G
 1997-01-17,Fujiko Sekino,FR,23,Giant Slalom
 1997-01-17,Regine Cavagnoud,FR,0,Downhill
-1997-01-17,Barbara Merlin,IT,32,Super G
+1997-01-17,Barbara Merlin,IT,32,Downhill
 1997-01-17,Anita Wachter,AT,240,Giant Slalom
 1997-01-17,Renate Goetschl,AT,5,Downhill
 1997-01-17,Marlies Oester,CH,18,Slalom
@@ -191,7 +191,7 @@ date,name,ath_country,value,specialty
 1997-01-17,Birgit Heeb-Batliner,LI,56,Giant Slalom
 1997-01-17,Andrine Flemmen,NO,68,Giant Slalom
 1997-01-17,Caroline Dummer Waidhofer,AT,15,Giant Slalom
-1997-01-17,Florence Masnada,FR,0,Super G
+1997-01-17,Florence Masnada,FR,0,Downhill
 1997-01-17,Anna Ottosson,SE,16,Giant Slalom
 1997-01-17,Karen Putzer,IT,54,Giant Slalom
 1997-01-17,Sophie Lefranc Duvillard,FR,58,Giant Slalom
@@ -225,7 +225,7 @@ date,name,ath_country,value,specialty
 1997-01-18,Ingeborg H. Marken,NO,2,Downhill
 1997-01-18,Kirsten L Clark,US,2,Super G
 1997-01-18,Gro Kvinlog,NO,10,Giant Slalom
-1997-01-18,Florence Masnada,FR,0,Super G
+1997-01-18,Florence Masnada,FR,0,Downhill
 1997-01-18,Ingrid Jacquemod,FR,10,Giant Slalom
 1997-01-18,Katrin Neuenschwander,CH,21,Giant Slalom
 1997-01-18,Kazuko Ikeda,JP,8,Giant Slalom
@@ -272,10 +272,10 @@ date,name,ath_country,value,specialty
 1997-01-18,Isolde Kostner,IT,63,Downhill
 1997-01-18,Urska Hrovat,SK,191,Slalom
 1997-01-18,Katja Koren,SK,31,Giant Slalom
-1997-01-18,Barbara Merlin,IT,39,Super G
+1997-01-18,Barbara Merlin,IT,39,Downhill
 1997-01-18,Heidi Zurbriggen,CH,101,Downhill
 1997-01-26,Urska Hrovat,SK,191,Slalom
-1997-01-26,Florence Masnada,FR,0,Super G
+1997-01-26,Florence Masnada,FR,0,Downhill
 1997-01-26,Ana Galindo Santolaria,ES,132,Giant Slalom
 1997-01-26,Pernilla Wiberg,SE,184,Slalom
 1997-01-26,Ingeborg H. Marken,NO,2,Downhill
@@ -304,7 +304,7 @@ date,name,ath_country,value,specialty
 1997-01-26,Deborah Compagnoni,IT,460,Giant Slalom
 1997-01-26,Madlen Summermatter,CH,63,Super G
 1997-01-26,Eveline Rohregger,AT,19,Giant Slalom
-1997-01-26,Barbara Merlin,IT,57,Super G
+1997-01-26,Barbara Merlin,IT,57,Downhill
 1997-01-26,Regine Cavagnoud,FR,8,Downhill
 1997-01-26,Renate Goetschl,AT,18,Downhill
 1997-01-26,Sabina Panzanini,IT,229,Giant Slalom
@@ -355,7 +355,7 @@ date,name,ath_country,value,specialty
 1997-03-15,Renate Goetschl,AT,31,Downhill
 1997-03-15,Michaela Dorfmeister,AT,38,Super G
 1997-03-15,Eveline Rohregger,AT,19,Giant Slalom
-1997-03-15,Barbara Merlin,IT,57,Super G
+1997-03-15,Barbara Merlin,IT,57,Downhill
 1997-03-15,Fujiko Sekino,FR,37,Giant Slalom
 1997-03-15,Katja Koren,SK,37,Giant Slalom
 1997-03-15,Maria Jose Rienda Contreras,ES,27,Giant Slalom
@@ -381,6 +381,6 @@ date,name,ath_country,value,specialty
 1997-03-15,Birgit Heeb-Batliner,LI,71,Giant Slalom
 1997-03-15,Karen Putzer,IT,69,Giant Slalom
 1997-03-15,Alexandra Meissnitzer,AT,55,Downhill
-1997-03-15,Florence Masnada,FR,11,Super G
+1997-03-15,Florence Masnada,FR,11,Downhill
 1997-03-15,Sophie Lefranc Duvillard,FR,164,Giant Slalom
 1997-03-15,Anna Ottosson,SE,16,Giant Slalom

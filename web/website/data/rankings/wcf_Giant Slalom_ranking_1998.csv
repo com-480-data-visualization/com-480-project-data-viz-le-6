@@ -33,7 +33,7 @@ date,name,ath_country,value,specialty
 1997-10-25,Alenka Dovzan,SK,0,Slalom
 1997-10-25,Christiane Mitterwallner,AT,0,Giant Slalom
 1997-10-25,Ainhoa Ibarra Astelarra,ES,22,Giant Slalom
-1997-10-25,Heidi Zurbriggen,CH,16,Super G
+1997-10-25,Heidi Zurbriggen,CH,16,Downhill
 1997-10-25,Kristina Duvillard,FR,0,Giant Slalom
 1997-10-25,Sabina Panzanini,IT,0,Giant Slalom
 1997-10-25,Corinne Rey Bellet,CH,11,Super G
@@ -56,7 +56,7 @@ date,name,ath_country,value,specialty
 1997-10-25,Alexandra Meissnitzer,AT,16,Giant Slalom
 1997-11-21,Kristina Duvillard,FR,0,Giant Slalom
 1997-11-21,Linda Ydeskog,SE,1,Slalom
-1997-11-21,Heidi Zurbriggen,CH,42,Super G
+1997-11-21,Heidi Zurbriggen,CH,42,Downhill
 1997-11-21,Tanja Schneider,AT,11,Super G
 1997-11-21,Ainhoa Ibarra Astelarra,ES,34,Giant Slalom
 1997-11-21,Karin Roten Meier,CH,68,Slalom
@@ -129,7 +129,7 @@ date,name,ath_country,value,specialty
 1997-12-19,Ainhoa Ibarra Astelarra,ES,34,Giant Slalom
 1997-12-19,Bibiana Perez,IT,6,Downhill
 1997-12-19,Christiane Mitterwallner,AT,4,Giant Slalom
-1997-12-19,Heidi Zurbriggen,CH,52,Super G
+1997-12-19,Heidi Zurbriggen,CH,52,Downhill
 1997-12-19,Kristina Duvillard,FR,0,Giant Slalom
 1997-12-19,Sabina Panzanini,IT,0,Giant Slalom
 1997-12-19,Martina Ertl,DE,131,Giant Slalom
@@ -198,7 +198,7 @@ date,name,ath_country,value,specialty
 1998-01-06,Edith Rozsa,CA,0,Giant Slalom
 1998-01-06,Hilde Gerg,DE,85,Slalom
 1998-01-06,Linda Ydeskog,SE,1,Slalom
-1998-01-06,Heidi Zurbriggen,CH,67,Super G
+1998-01-06,Heidi Zurbriggen,CH,67,Downhill
 1998-01-06,Alexandra Shaffer,US,5,Giant Slalom
 1998-01-06,Anita Wachter,AT,132,Giant Slalom
 1998-01-06,Birgit Heeb-Batliner,LI,52,Giant Slalom
@@ -245,7 +245,7 @@ date,name,ath_country,value,specialty
 1998-01-10,Ainhoa Ibarra Astelarra,ES,49,Giant Slalom
 1998-01-10,Urska Hrovat,SK,104,Slalom
 1998-01-10,Alexandra Meissnitzer,AT,276,Giant Slalom
-1998-01-10,Heidi Zurbriggen,CH,87,Super G
+1998-01-10,Heidi Zurbriggen,CH,87,Downhill
 1998-01-10,Anita Wachter,AT,132,Giant Slalom
 1998-01-10,Sabina Panzanini,IT,24,Giant Slalom
 1998-01-10,Katja Seizinger,DE,175,Downhill
@@ -311,7 +311,7 @@ date,name,ath_country,value,specialty
 1998-01-25,Alexandra Shaffer,US,5,Giant Slalom
 1998-01-25,Deborah Compagnoni,IT,505,Giant Slalom
 1998-01-25,Karen Putzer,IT,62,Super G
-1998-01-25,Heidi Zurbriggen,CH,109,Super G
+1998-01-25,Heidi Zurbriggen,CH,109,Downhill
 1998-01-25,Bibiana Perez,IT,6,Downhill
 1998-01-25,Alexandra Meissnitzer,AT,305,Giant Slalom
 1998-01-25,Sylviane Berthod,CH,29,Giant Slalom
@@ -352,7 +352,7 @@ date,name,ath_country,value,specialty
 1998-01-28,Sabina Panzanini,IT,38,Giant Slalom
 1998-01-28,Sandra Haelldahl,SE,5,Slalom
 1998-01-28,Kristina Duvillard,FR,20,Giant Slalom
-1998-01-28,Heidi Zurbriggen,CH,125,Super G
+1998-01-28,Heidi Zurbriggen,CH,125,Downhill
 1998-01-28,Ainhoa Ibarra Astelarra,ES,57,Giant Slalom
 1998-01-28,Christiane Mitterwallner,AT,34,Giant Slalom
 1998-01-28,Alenka Dovzan,SK,61,Slalom
@@ -437,5 +437,5 @@ date,name,ath_country,value,specialty
 1998-03-15,Isolde Kostner,IT,88,Downhill
 1998-03-15,Sabine Egger,AT,20,Slalom
 1998-03-15,Alenka Dovzan,SK,74,Slalom
-1998-03-15,Heidi Zurbriggen,CH,149,Super G
+1998-03-15,Heidi Zurbriggen,CH,149,Downhill
 1998-03-15,Linda Ydeskog,SE,1,Slalom

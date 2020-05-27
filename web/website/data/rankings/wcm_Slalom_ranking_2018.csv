@@ -54,7 +54,7 @@ date,name,ath_country,value,specialty
 2017-11-12,Sandro Simonet,CH,0,Slalom
 2017-11-12,Anton Tremmel,DE,0,Combined
 2017-11-12,Marco Schwarz,AT,20,Slalom
-2017-11-12,Natko Zrncic-Dim,HR,0,Downhill
+2017-11-12,Natko Zrncic-Dim,HR,0,Combined
 2017-11-12,Richard Leitgeb,AT,0,Combined
 2017-11-12,Iason Abramashvili,GE,0,Combined
 2017-11-12,Kamen Zlatkov,BG,0,Combined
@@ -170,7 +170,7 @@ date,name,ath_country,value,specialty
 2017-12-10,Marco Schwarz,AT,49,Slalom
 2017-12-10,Philip Brown,CA,0,Slalom
 2017-12-10,Robin Back,FI,0,Combined
-2017-12-10,Natko Zrncic-Dim,HR,0,Downhill
+2017-12-10,Natko Zrncic-Dim,HR,0,Combined
 2017-12-10,Joaquim Salarich,ES,0,Combined
 2017-12-10,Matthias Bruegger,CH,0,Combined
 2017-12-10,Robert Kelley,US,0,Combined
@@ -396,7 +396,7 @@ date,name,ath_country,value,specialty
 2017-12-22,Manfred Moelgg,IT,65,Slalom
 2017-12-22,Emir Lokmic,BA,0,Combined
 2017-12-22,Leif Kristian Haugen,NO,46,Giant Slalom
-2017-12-22,Natko Zrncic-Dim,HR,0,Downhill
+2017-12-22,Natko Zrncic-Dim,HR,0,Combined
 2017-12-22,Richard Leitgeb,AT,0,Combined
 2017-12-22,Robin Back,FI,0,Combined
 2017-12-22,Samuel Kolega,HR,0,Combined
@@ -452,7 +452,7 @@ date,name,ath_country,value,specialty
 2018-01-01,Victor Malmstrom,FI,0,Combined
 2018-01-01,Marco Schwarz,AT,49,Slalom
 2018-01-01,Gustav Lundbaeck,SE,0,Combined
-2018-01-01,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-01,Natko Zrncic-Dim,HR,0,Combined
 2018-01-01,Ivan Kuznetsov,RU,0,Combined
 2018-01-01,Pirmin Hacker,AT,0,Combined
 2018-01-01,Istok Rodes,HR,0,Combined
@@ -614,7 +614,7 @@ date,name,ath_country,value,specialty
 2018-01-04,Trevor Philp,CA,0,Giant Slalom
 2018-01-04,Hannes Zingerle,IT,0,Combined
 2018-01-04,Marco Schwarz,AT,71,Slalom
-2018-01-04,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-04,Natko Zrncic-Dim,HR,0,Combined
 2018-01-04,Anton Tremmel,DE,0,Combined
 2018-01-04,Manuel Feller,AT,95,Giant Slalom
 2018-01-04,Iason Abramashvili,GE,0,Combined
@@ -745,7 +745,7 @@ date,name,ath_country,value,specialty
 2018-01-07,Anton Tremmel,DE,0,Combined
 2018-01-07,Bjoern Brudevoll,NO,0,Combined
 2018-01-07,Justin Murisier,CH,0,Giant Slalom
-2018-01-07,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-07,Natko Zrncic-Dim,HR,0,Combined
 2018-01-07,Tommaso Sala,IT,0,Slalom
 2018-01-07,Steffan Winkelhorst,NL,0,Combined
 2018-01-07,Marko Sljivic,BA,0,Combined
@@ -868,7 +868,7 @@ date,name,ath_country,value,specialty
 2018-01-14,Mark Engel,US,12,Slalom
 2018-01-14,Pavel Trikhichev,RU,14,Combined
 2018-01-14,Laurie Taylor,GB,0,Combined
-2018-01-14,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-14,Natko Zrncic-Dim,HR,0,Combined
 2018-01-14,Nolan Kasper,US,11,Slalom
 2018-01-14,Federico Liberatore,IT,0,Combined
 2018-01-14,Juan Del Campo,ES,0,Combined
@@ -976,7 +976,7 @@ date,name,ath_country,value,specialty
 2018-01-21,Alex Vinatzer,IT,0,Combined
 2018-01-21,Semyel Bissig,CH,0,Combined
 2018-01-21,Luca Aerni,CH,229,Slalom
-2018-01-21,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-21,Natko Zrncic-Dim,HR,0,Combined
 2018-01-21,Hig Roberts,US,0,Combined
 2018-01-21,Ramon Zenhaeusern,CH,146,Slalom
 2018-01-21,Ryuunosuke Ohkoshi,JP,12,Slalom
@@ -1125,7 +1125,7 @@ date,name,ath_country,value,specialty
 2018-01-23,Marko Sljivic,BA,0,Combined
 2018-01-23,Marco Schwarz,AT,146,Slalom
 2018-01-23,Fritz Dopfer,DE,114,Slalom
-2018-01-23,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-23,Natko Zrncic-Dim,HR,0,Combined
 2018-01-23,Frederik Norys,DE,0,Combined
 2018-01-23,Michael Matt,AT,348,Slalom
 2018-01-23,Sandro Simonet,CH,6,Slalom
@@ -1357,7 +1357,7 @@ date,name,ath_country,value,specialty
 2018-01-30,Henrik Kristoffersen,NO,658,Slalom
 2018-01-30,Marco Schwarz,AT,175,Slalom
 2018-01-30,Laurie Taylor,GB,0,Combined
-2018-01-30,Natko Zrncic-Dim,HR,0,Downhill
+2018-01-30,Natko Zrncic-Dim,HR,0,Combined
 2018-01-30,Sandro Simonet,CH,6,Slalom
 2018-01-30,Mark Engel,US,17,Slalom
 2018-01-30,Anthony Bonvin,CH,0,Combined
@@ -1420,7 +1420,7 @@ date,name,ath_country,value,specialty
 2018-03-04,Ryuunosuke Ohkoshi,JP,12,Slalom
 2018-03-04,Kjetil Jansrud,NO,29,Super G
 2018-03-04,Laurie Taylor,GB,0,Combined
-2018-03-04,Natko Zrncic-Dim,HR,0,Downhill
+2018-03-04,Natko Zrncic-Dim,HR,0,Combined
 2018-03-04,Teddy Takki,FI,0,Combined
 2018-03-04,Sandro Simonet,CH,38,Slalom
 2018-03-04,Anton Tremmel,DE,0,Combined

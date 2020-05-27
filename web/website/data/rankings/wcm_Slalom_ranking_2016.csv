@@ -62,8 +62,8 @@ date,name,ath_country,value,specialty
 2015-12-13,Reto Schmidiger,CH,14,Slalom
 2015-12-13,Leif Kristian Haugen,NO,0,Giant Slalom
 2015-12-13,David Ryding,GB,22,Slalom
-2015-12-13,Klemen Kosi,SK,0,Combined
-2015-12-13,Adam Zampa,SK,0,Combined
+2015-12-13,Klemen Kosi,SK,0,Super G
+2015-12-13,Adam Zampa,SK,0,Slalom
 2015-12-13,Trevor Philp,CA,0,Slalom
 2015-12-13,Timothy Kelley,US,0,Slalom
 2015-12-13,Anton Lahdenperae,SE,18,Slalom
@@ -167,9 +167,9 @@ date,name,ath_country,value,specialty
 2015-12-22,Reto Schmidiger,CH,14,Slalom
 2015-12-22,Willis Feasey,NZ,0,Combined
 2015-12-22,Kjetil Jansrud,NO,0,Downhill
-2015-12-22,Klemen Kosi,SK,0,Combined
+2015-12-22,Klemen Kosi,SK,0,Super G
 2015-12-22,Kyohsuke Kohno,JP,0,Combined
-2015-12-22,Adam Zampa,SK,16,Combined
+2015-12-22,Adam Zampa,SK,16,Slalom
 2015-12-22,David Ryding,GB,29,Slalom
 2015-12-22,Trevor Philp,CA,0,Slalom
 2015-12-22,Anton Lahdenperae,SE,18,Slalom
@@ -274,7 +274,7 @@ date,name,ath_country,value,specialty
 2016-01-06,Francois Place,FR,0,Combined
 2016-01-06,Trevor Philp,CA,0,Slalom
 2016-01-06,Hideyuki Narita,JP,0,Combined
-2016-01-06,Adam Zampa,SK,16,Combined
+2016-01-06,Adam Zampa,SK,16,Slalom
 2016-01-06,Leif Kristian Haugen,NO,20,Giant Slalom
 2016-01-06,Willis Feasey,NZ,0,Combined
 2016-01-06,Sebastiano Gastaldi,AR,0,Combined
@@ -358,7 +358,7 @@ date,name,ath_country,value,specialty
 2016-01-06,Marcel Hirscher,AT,260,Slalom
 2016-01-06,Robin Buffet,FR,17,Slalom
 2016-01-06,Jonathan Nordbotten,NO,15,Slalom
-2016-01-06,Klemen Kosi,SK,0,Combined
+2016-01-06,Klemen Kosi,SK,0,Super G
 2016-01-06,Sebastian-Foss Solevaag,NO,26,Slalom
 2016-01-06,Victor Muffat Jeandet,FR,66,Giant Slalom
 2016-01-06,Manuel Feller,AT,25,Giant Slalom
@@ -394,7 +394,7 @@ date,name,ath_country,value,specialty
 2016-01-10,Kieran Norris,IE,0,Combined
 2016-01-10,Zan Groselj,SK,0,Combined
 2016-01-10,Espen Lysdahl,NO,0,Slalom
-2016-01-10,Klemen Kosi,SK,0,Combined
+2016-01-10,Klemen Kosi,SK,0,Super G
 2016-01-10,Stefano Gross,IT,81,Slalom
 2016-01-10,Shun Nakamura,JP,0,Combined
 2016-01-10,Manuel Feller,AT,65,Giant Slalom
@@ -453,7 +453,7 @@ date,name,ath_country,value,specialty
 2016-01-10,Aljaz Dvornik,SK,0,Combined
 2016-01-10,Alexis Pinturault,FR,87,Giant Slalom
 2016-01-10,Tommaso Sala,IT,0,Combined
-2016-01-10,Adam Zampa,SK,16,Combined
+2016-01-10,Adam Zampa,SK,16,Slalom
 2016-01-10,Erjon Tola,AL,0,Combined
 2016-01-10,Adam Chrapek,PL,0,Combined
 2016-01-10,Roberto Nani,IT,0,Giant Slalom
@@ -590,7 +590,7 @@ date,name,ath_country,value,specialty
 2016-01-17,Aljaz Dvornik,SK,0,Combined
 2016-01-17,Sebastiano Gastaldi,AR,0,Combined
 2016-01-17,David Ryding,GB,68,Slalom
-2016-01-17,Adam Zampa,SK,16,Combined
+2016-01-17,Adam Zampa,SK,16,Slalom
 2016-01-17,Tommaso Sala,IT,0,Combined
 2016-01-17,Leif Kristian Haugen,NO,34,Giant Slalom
 2016-01-17,Thomas Fanara,FR,0,Giant Slalom
@@ -632,7 +632,7 @@ date,name,ath_country,value,specialty
 2016-01-17,Thomas Mermillod,FR,12,Combined
 2016-01-17,Giuliano Razzoli,IT,156,Slalom
 2016-01-17,Ryuunosuke Ohkoshi,JP,0,Combined
-2016-01-17,Klemen Kosi,SK,0,Combined
+2016-01-17,Klemen Kosi,SK,0,Super G
 2016-01-17,Johnatan Longhi,BR,0,Combined
 2016-01-17,Michael Ankeny,US,10,Slalom
 2016-01-17,Andres Figueroa,CL,0,Combined
@@ -694,7 +694,7 @@ date,name,ath_country,value,specialty
 2016-01-24,David Chodounsky,US,125,Slalom
 2016-01-24,Juan Del Campo,ES,0,Combined
 2016-01-24,Fabian Bacher,IT,0,Combined
-2016-01-24,Klemen Kosi,SK,0,Combined
+2016-01-24,Klemen Kosi,SK,0,Super G
 2016-01-24,Ramon Zenhaeusern,CH,48,Slalom
 2016-01-24,Naoki Yuasa,JP,0,Slalom
 2016-01-24,AJ Ginnis,US,0,Combined
@@ -716,7 +716,7 @@ date,name,ath_country,value,specialty
 2016-01-24,David Ryding,GB,68,Slalom
 2016-01-24,Hyeon-Tae Kim,KR,0,Combined
 2016-01-24,Aljaz Dvornik,SK,0,Combined
-2016-01-24,Adam Zampa,SK,27,Combined
+2016-01-24,Adam Zampa,SK,27,Slalom
 2016-01-24,Adam Chrapek,PL,0,Combined
 2016-01-24,Adam Barwood,NZ,0,Combined
 2016-01-24,Leif Kristian Haugen,NO,34,Giant Slalom
@@ -848,7 +848,7 @@ date,name,ath_country,value,specialty
 2016-01-26,Loic Meillard,CH,0,Giant Slalom
 2016-01-26,Patrick Thaler,IT,183,Slalom
 2016-01-26,Wolfgang Hoerl,AT,0,Combined
-2016-01-26,Klemen Kosi,SK,0,Combined
+2016-01-26,Klemen Kosi,SK,0,Super G
 2016-01-26,Tomas Birkner De Miguel,AR,0,Combined
 2016-01-26,Marc Digruber,AT,98,Slalom
 2016-01-26,Michael Matt,AT,23,Slalom
@@ -858,7 +858,7 @@ date,name,ath_country,value,specialty
 2016-01-26,Cristian Javier Simari Birkner,AR,0,Combined
 2016-01-26,Kristaps Zvejnieks,LV,5,Slalom
 2016-01-26,Jonathan Nordbotten,NO,84,Slalom
-2016-01-26,Adam Zampa,SK,27,Combined
+2016-01-26,Adam Zampa,SK,27,Slalom
 2016-01-26,Leif Kristian Haugen,NO,34,Giant Slalom
 2016-01-26,Krystof Kryzl,CZ,0,Giant Slalom
 2016-01-26,Dalibor Samsal,HU,9,Slalom
@@ -969,7 +969,7 @@ date,name,ath_country,value,specialty
 2016-02-14,Marc Gini,CH,17,Slalom
 2016-02-14,Linus Strasser,DE,13,Slalom
 2016-02-14,Ted Ligety,US,11,Giant Slalom
-2016-02-14,Klemen Kosi,SK,0,Combined
+2016-02-14,Klemen Kosi,SK,0,Super G
 2016-02-14,Philip Brown,CA,0,Giant Slalom
 2016-02-14,Armand Marchant,BE,0,Combined
 2016-02-14,Michal Jasiczek,PL,0,Combined
@@ -1019,7 +1019,7 @@ date,name,ath_country,value,specialty
 2016-02-14,Cristian Javier Simari Birkner,AR,0,Combined
 2016-02-14,Kyohsuke Kohno,JP,0,Combined
 2016-02-14,Steven Theolier,FR,0,Combined
-2016-02-14,Adam Zampa,SK,27,Combined
+2016-02-14,Adam Zampa,SK,27,Slalom
 2016-02-14,David Chodounsky,US,149,Slalom
 2016-02-14,Marc Rochat,CH,4,Slalom
 2016-02-14,Trevor Philp,CA,25,Slalom
@@ -1112,7 +1112,7 @@ date,name,ath_country,value,specialty
 2016-02-23,Adam Barwood,NZ,0,Combined
 2016-02-23,Ondrej Berndt,CZ,0,Combined
 2016-02-23,Manuel Feller,AT,85,Giant Slalom
-2016-02-23,Adam Zampa,SK,27,Combined
+2016-02-23,Adam Zampa,SK,27,Slalom
 2016-02-23,Daniel Yule,CH,162,Slalom
 2016-02-23,Sebastiano Gastaldi,AR,0,Combined
 2016-02-23,Roland Leitinger,AT,0,Giant Slalom
@@ -1148,7 +1148,7 @@ date,name,ath_country,value,specialty
 2016-02-23,Reinfried Herbst,AT,13,Slalom
 2016-02-23,Trevor Philp,CA,25,Slalom
 2016-02-23,Aleksandr Andrienko,RU,0,Combined
-2016-02-23,Klemen Kosi,SK,0,Combined
+2016-02-23,Klemen Kosi,SK,0,Super G
 2016-02-23,Andrea Ballerin,IT,6,Giant Slalom
 2016-02-23,Ryuunosuke Ohkoshi,JP,0,Combined
 2016-03-06,Leif Kristian Haugen,NO,61,Giant Slalom
@@ -1158,7 +1158,7 @@ date,name,ath_country,value,specialty
 2016-03-06,Henrik Kristoffersen,NO,811,Slalom
 2016-03-06,Adam Barwood,NZ,0,Combined
 2016-03-06,Kjetil Jansrud,NO,32,Downhill
-2016-03-06,Adam Zampa,SK,27,Combined
+2016-03-06,Adam Zampa,SK,27,Slalom
 2016-03-06,David Ryding,GB,99,Slalom
 2016-03-06,Bennett Norbury,AU,0,Combined
 2016-03-06,Trevor Philp,CA,25,Slalom
@@ -1231,7 +1231,7 @@ date,name,ath_country,value,specialty
 2016-03-06,Tomas Birkner De Miguel,AR,0,Combined
 2016-03-06,Hig Roberts,US,0,Combined
 2016-03-06,Luca Aerni,CH,75,Slalom
-2016-03-06,Klemen Kosi,SK,0,Combined
+2016-03-06,Klemen Kosi,SK,0,Super G
 2016-03-06,Krystof Kryzl,CZ,0,Giant Slalom
 2016-03-06,Francois Place,FR,0,Combined
 2016-03-06,Jean-Baptiste Grange,FR,156,Slalom
@@ -1283,7 +1283,7 @@ date,name,ath_country,value,specialty
 2016-03-20,Marko Sljivic,BA,0,Combined
 2016-03-20,AJ Ginnis,US,0,Combined
 2016-03-20,Loic Meillard,CH,0,Giant Slalom
-2016-03-20,Klemen Kosi,SK,0,Combined
+2016-03-20,Klemen Kosi,SK,0,Super G
 2016-03-20,Hyeon-Tae Kim,KR,0,Combined
 2016-03-20,Roland Leitinger,AT,0,Giant Slalom
 2016-03-20,Ryuunosuke Ohkoshi,JP,0,Combined
@@ -1296,7 +1296,7 @@ date,name,ath_country,value,specialty
 2016-03-20,Riccardo Tonetti,IT,46,Giant Slalom
 2016-03-20,Anton Lahdenperae,SE,78,Slalom
 2016-03-20,Trevor Philp,CA,25,Slalom
-2016-03-20,Adam Zampa,SK,27,Combined
+2016-03-20,Adam Zampa,SK,27,Slalom
 2016-03-20,Leif Kristian Haugen,NO,61,Giant Slalom
 2016-03-20,Reto Schmidiger,CH,14,Slalom
 2016-03-20,Linus Strasser,DE,27,Slalom

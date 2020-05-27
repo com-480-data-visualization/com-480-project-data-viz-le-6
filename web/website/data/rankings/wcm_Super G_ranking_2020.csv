@@ -1,456 +1,571 @@
 date,name,ath_country,value,specialty
 2019-12-01,Matthias Mayer,AT,100,Downhill
-2019-12-01,Nicolas Raffort,FR,0,Downhill
-2019-12-01,Adrian Smiseth Sejersted,NO,3,Downhill
-2019-12-01,Riccardo Tonetti,IT,0,Combined
-2019-12-01,Nils Allegre,FR,8,Downhill
-2019-12-01,Manuel Schmid,DE,0,Downhill
-2019-12-01,Andreas Sander,DE,14,Super G
-2019-12-01,Filip Zubcic,HR,0,Giant Slalom
-2019-12-01,Adam Zampa,SK,0,Giant Slalom
-2019-12-01,Johan Clarey,FR,6,Downhill
-2019-12-01,Adrien Theaux,FR,29,Downhill
-2019-12-01,Loic Meillard,CH,0,Giant Slalom
-2019-12-01,Christopher Neumayer,AT,0,Downhill
-2019-12-01,Willis Feasey,NZ,0,Combined
-2019-12-01,River Radamus,US,0,Parallel
-2019-12-01,Hannes Reichelt,AT,12,Super G
-2019-12-01,Simon Maurberger,IT,0,Slalom
-2019-12-01,Travis Ganong,US,22,Downhill
-2019-12-01,Tommy Ford,US,0,Giant Slalom
-2019-12-01,Beat Feuz,CH,16,Downhill
-2019-12-01,Stefan Hadalin,SK,0,Slalom
-2019-12-01,Alexis Pinturault,FR,0,Giant Slalom
-2019-12-01,Sam Mulligan,CA,0,Combined
 2019-12-01,Emanuele Buzzi,IT,20,Super G
-2019-12-01,Ted Ligety,US,0,Giant Slalom
-2019-12-01,Bostjan Kline,SK,2,Super G
-2019-12-01,Stefan Rogentin,CH,4,Super G
-2019-12-01,Carlo Janka,CH,13,Downhill
-2019-12-01,Peter Fill,IT,2,Super G
-2019-12-01,Ryan Cochran-Siegle,US,10,Downhill
-2019-12-01,Pavel Trikhichev,RU,0,Combined
-2019-12-01,Matteo Marsaglia,IT,0,Downhill
-2019-12-01,Brodie Seger,CA,15,Downhill
-2019-12-01,Brice Roger,FR,5,Downhill
-2019-12-01,Christof Innerhofer,IT,0,Downhill
-2019-12-01,Josef Ferstl,DE,7,Downhill
-2019-12-01,Henrik Kristoffersen,NO,0,Slalom
-2019-12-01,Steven Nyman,US,9,Downhill
-2019-12-01,Johannes Kroell,AT,0,Downhill
-2019-12-01,Raphael Haaser,AT,0,Super G
-2019-12-01,Christian Walder,AT,20,Super G
 2019-12-01,Matthieu Bailet,FR,0,Downhill
+2019-12-01,Christoph Krenn,AT,0,Super G
+2019-12-01,Stian Saugestad,NO,0,Super G
+2019-12-01,Adrien Theaux,FR,29,Downhill
 2019-12-01,Florian Schieder,IT,0,Combined
-2019-12-01,Thomas Tumler,CH,11,Parallel
-2019-12-01,Max Franz,AT,24,Super G
-2019-12-01,Gino Caviezel,CH,0,Giant Slalom
-2019-12-01,Ralph Weber,CH,0,Downhill
-2019-12-01,Mattia Casse,IT,45,Super G
+2019-12-01,Adrian Smiseth Sejersted,NO,3,Downhill
+2019-12-01,Roy Piccard,FR,0,Downhill
+2019-12-01,Dominik Schwaiger,DE,0,Downhill
+2019-12-01,Nils Allegre,FR,8,Downhill
+2019-12-01,Ted Ligety,US,0,Giant Slalom
+2019-12-01,Urs Kryenbuehl,CH,0,Downhill
+2019-12-01,Raphael Haaser,AT,0,Super G
+2019-12-01,Thomas Biesemeyer,US,0,Combined
+2019-12-01,Othmar Striedinger,AT,0,Downhill
+2019-12-01,Alexander Koell,SE,0,Downhill
+2019-12-01,Johan Clarey,FR,6,Downhill
+2019-12-01,Bryce Bennett,US,0,Downhill
+2019-12-01,Niels Hintermann,CH,0,Downhill
+2019-12-01,Alexis Pinturault,FR,0,Giant Slalom
+2019-12-01,Benjamin Thomsen,CA,0,Downhill
+2019-12-01,Jeffrey Read,CA,0,Combined
+2019-12-01,Dustin Cook,CA,0,Combined
+2019-12-01,Hannes Reichelt,AT,12,Super G
+2019-12-01,Tilen Debelak,SK,0,Combined
+2019-12-01,Klaus Brandner,DE,0,Combined
+2019-12-01,Andreas Sander,DE,14,Super G
+2019-12-01,Travis Ganong,US,22,Downhill
+2019-12-01,Johannes Kroell,AT,0,Downhill
+2019-12-01,Samuel Dupratt,US,0,Super G
+2019-12-01,Brodie Seger,CA,15,Downhill
+2019-12-01,Josef Ferstl,DE,7,Downhill
+2019-12-01,Miha Hrobat,SK,0,Super G
+2019-12-01,Blaise Giezendanner,FR,0,Super G
+2019-12-01,Steven Nyman,US,9,Downhill
+2019-12-01,Ryan Cochran-Siegle,US,10,Downhill
+2019-12-01,Gilles Roulin,CH,0,Combined
+2019-12-01,Carlo Janka,CH,13,Downhill
+2019-12-01,Christian Walder,AT,20,Super G
+2019-12-01,Rasmus Windingstad,NO,0,Parallel
+2019-12-01,James Crawford,CA,0,Super G
 2019-12-01,Felix Monsen,SE,0,Downhill
+2019-12-01,Henrik Kristoffersen,NO,0,Slalom
+2019-12-01,Bostjan Kline,SK,2,Super G
+2019-12-01,Daniel Danklmaier,AT,0,Downhill
+2019-12-01,Romed Baumann,DE,0,Downhill
+2019-12-01,Klemen Kosi,SK,0,Combined
+2019-12-01,Stefan Babinsky,AT,0,Super G
+2019-12-01,Peter Fill,IT,2,Super G
+2019-12-01,Thomas Tumler,CH,11,Parallel
+2019-12-01,Pavel Trikhichev,RU,0,Combined
+2019-12-01,Martin Cater,SK,0,Combined
+2019-12-01,Max Franz,AT,24,Super G
+2019-12-01,Matteo Marsaglia,IT,0,Downhill
+2019-12-01,Brice Roger,FR,5,Downhill
+2019-12-01,Gino Caviezel,CH,0,Giant Slalom
+2019-12-01,Stefan Rogentin,CH,4,Super G
+2019-12-01,Kyle Negomir,US,0,Combined
+2019-12-01,Maxence Muzaton,FR,0,Downhill
 2019-12-01,Dominik Paris,IT,80,Downhill
-2019-12-01,Victor Schuller,FR,0,Combined
+2019-12-01,River Radamus,US,0,Parallel
 2019-12-01,Mauro Caviezel,CH,60,Super G
-2019-12-01,Ivan Kuznetsov,RU,0,Combined
-2019-12-01,Mattias Roenngren,SE,0,Parallel
-2019-12-01,Cameron Alexander,CA,0,Downhill
-2019-12-01,Marco Odermatt,CH,36,Giant Slalom
-2019-12-01,Kjetil Jansrud,NO,32,Super G
-2019-12-01,Vincent Kriechmayr,AT,60,Downhill
-2019-12-01,Davide Cazzaniga,IT,0,Downhill
-2019-12-01,Trevor Philp,CA,0,Giant Slalom
+2019-12-01,Simon Maurberger,IT,0,Slalom
+2019-12-01,Tommy Ford,US,0,Giant Slalom
+2019-12-01,Stefan Hadalin,SK,0,Slalom
+2019-12-01,Ralph Weber,CH,0,Downhill
+2019-12-01,Sam Mulligan,CA,0,Combined
 2019-12-01,Jared Goldberg,US,0,Downhill
-2019-12-01,Victor Muffat Jeandet,FR,0,Giant Slalom
 2019-12-01,Aleksander Aamodt Kilde,NO,40,Downhill
-2019-12-01,Jan Zabystran,CZ,0,Combined
+2019-12-01,Victor Schuller,FR,0,Combined
+2019-12-01,Mattias Roenngren,SE,0,Parallel
+2019-12-01,Kjetil Jansrud,NO,32,Super G
+2019-12-01,Cameron Alexander,CA,0,Downhill
 2019-12-01,Guglielmo Bosca,IT,0,Combined
-2019-12-01,Thomas Dressen,DE,26,Downhill
+2019-12-01,Davide Cazzaniga,IT,0,Downhill
+2019-12-01,Vincent Kriechmayr,AT,60,Downhill
+2019-12-01,Victor Muffat Jeandet,FR,0,Giant Slalom
 2019-12-01,Mathieu Faivre,FR,0,Giant Slalom
-2019-12-06,Ivan Kuznetsov,RU,0,Combined
-2019-12-06,Miha Hrobat,SK,15,Super G
-2019-12-06,Matteo Marsaglia,IT,2,Downhill
-2019-12-06,Nils Allegre,FR,22,Downhill
-2019-12-06,Martin Cater,SK,5,Combined
-2019-12-06,Ted Ligety,US,3,Giant Slalom
-2019-12-06,Emanuele Buzzi,IT,20,Super G
+2019-12-01,Trevor Philp,CA,0,Giant Slalom
+2019-12-01,Marco Odermatt,CH,36,Giant Slalom
+2019-12-01,Jan Zabystran,CZ,0,Combined
+2019-12-01,Ivan Kuznetsov,RU,0,Combined
+2019-12-01,Willis Feasey,NZ,0,Combined
+2019-12-01,Christopher Neumayer,AT,0,Downhill
+2019-12-01,Thomas Dressen,DE,26,Downhill
+2019-12-01,Christof Innerhofer,IT,0,Downhill
+2019-12-01,Loic Meillard,CH,0,Giant Slalom
+2019-12-01,Mattia Casse,IT,45,Super G
+2019-12-01,Riccardo Tonetti,IT,0,Combined
+2019-12-01,Filip Zubcic,HR,0,Giant Slalom
+2019-12-01,Nicolas Raffort,FR,0,Downhill
+2019-12-01,Adam Zampa,SK,0,Giant Slalom
+2019-12-01,Manuel Schmid,DE,0,Downhill
+2019-12-01,Beat Feuz,CH,16,Downhill
+2019-12-06,Dustin Cook,CA,0,Combined
+2019-12-06,Bostjan Kline,SK,2,Super G
+2019-12-06,Stefan Rogentin,CH,4,Super G
+2019-12-06,Davide Cazzaniga,IT,0,Downhill
+2019-12-06,Romed Baumann,DE,0,Downhill
+2019-12-06,Klemen Kosi,SK,11,Combined
 2019-12-06,Guglielmo Bosca,IT,0,Combined
+2019-12-06,Jeffrey Read,CA,0,Combined
+2019-12-06,Stefan Babinsky,AT,0,Super G
+2019-12-06,Cameron Alexander,CA,0,Downhill
+2019-12-06,Riccardo Tonetti,IT,0,Combined
+2019-12-06,Felix Monsen,SE,0,Downhill
+2019-12-06,Mathieu Faivre,FR,0,Giant Slalom
+2019-12-06,Nicolas Raffort,FR,0,Downhill
+2019-12-06,Willis Feasey,NZ,0,Combined
+2019-12-06,Brodie Seger,CA,15,Downhill
+2019-12-06,Sam Mulligan,CA,0,Combined
+2019-12-06,Miha Hrobat,SK,15,Super G
+2019-12-06,Ivan Kuznetsov,RU,0,Combined
+2019-12-06,Klaus Brandner,DE,0,Combined
+2019-12-06,Victor Muffat Jeandet,FR,0,Giant Slalom
+2019-12-06,Blaise Giezendanner,FR,0,Super G
+2019-12-06,Ryan Cochran-Siegle,US,23,Downhill
+2019-12-06,Gilles Roulin,CH,10,Combined
+2019-12-06,Trevor Philp,CA,0,Giant Slalom
+2019-12-06,Carlo Janka,CH,13,Downhill
+2019-12-06,Rasmus Windingstad,NO,13,Parallel
+2019-12-06,Tilen Debelak,SK,0,Combined
+2019-12-06,Jan Zabystran,CZ,0,Combined
+2019-12-06,Peter Fill,IT,2,Super G
+2019-12-06,Benjamin Thomsen,CA,0,Downhill
+2019-12-06,Thomas Biesemeyer,US,0,Combined
+2019-12-06,Christof Innerhofer,IT,0,Downhill
+2019-12-06,Stian Saugestad,NO,0,Super G
+2019-12-06,Simon Maurberger,IT,0,Slalom
+2019-12-06,Florian Schieder,IT,0,Combined
+2019-12-06,Alexander Koell,SE,0,Downhill
+2019-12-06,Roy Piccard,FR,0,Downhill
+2019-12-06,Tommy Ford,US,0,Giant Slalom
+2019-12-06,River Radamus,US,0,Parallel
+2019-12-06,Adam Zampa,SK,0,Giant Slalom
+2019-12-06,Ted Ligety,US,3,Giant Slalom
+2019-12-06,Christopher Neumayer,AT,0,Downhill
+2019-12-06,Othmar Striedinger,AT,0,Downhill
+2019-12-06,Urs Kryenbuehl,CH,0,Downhill
+2019-12-06,Loic Meillard,CH,0,Giant Slalom
+2019-12-06,Dominik Schwaiger,DE,0,Downhill
+2019-12-06,Christoph Krenn,AT,0,Super G
+2019-12-06,Maxence Muzaton,FR,0,Downhill
+2019-12-06,Matthieu Bailet,FR,0,Downhill
+2019-12-06,Martin Cater,SK,5,Combined
+2019-12-06,Mattias Roenngren,SE,0,Parallel
+2019-12-06,Matteo Marsaglia,IT,2,Downhill
+2019-12-06,Manuel Schmid,DE,0,Downhill
+2019-12-06,Victor Schuller,FR,0,Combined
+2019-12-06,Brice Roger,FR,5,Downhill
+2019-12-06,Jared Goldberg,US,0,Downhill
+2019-12-06,Niels Hintermann,CH,0,Downhill
+2019-12-06,Samuel Dupratt,US,0,Super G
+2019-12-06,Filip Zubcic,HR,0,Giant Slalom
+2019-12-06,Ralph Weber,CH,0,Downhill
+2019-12-06,Johannes Kroell,AT,0,Downhill
+2019-12-06,Bryce Bennett,US,0,Downhill
+2019-12-06,Raphael Haaser,AT,0,Super G
+2019-12-06,Stefan Hadalin,SK,0,Slalom
+2019-12-06,Pavel Trikhichev,RU,10,Combined
+2019-12-06,Kyle Negomir,US,0,Combined
+2019-12-06,Henrik Kristoffersen,NO,0,Slalom
+2019-12-06,Travis Ganong,US,62,Downhill
+2019-12-06,Johan Clarey,FR,6,Downhill
+2019-12-06,Thomas Dressen,DE,30,Downhill
+2019-12-06,Christian Walder,AT,20,Super G
+2019-12-06,Andreas Sander,DE,32,Super G
+2019-12-06,Nils Allegre,FR,22,Downhill
+2019-12-06,Thomas Tumler,CH,33,Parallel
+2019-12-06,Adrian Smiseth Sejersted,NO,35,Downhill
+2019-12-06,James Crawford,CA,10,Super G
+2019-12-06,Mauro Caviezel,CH,105,Super G
+2019-12-06,Adrien Theaux,FR,29,Downhill
+2019-12-06,Dominik Paris,IT,100,Downhill
+2019-12-06,Daniel Danklmaier,AT,0,Downhill
+2019-12-06,Emanuele Buzzi,IT,20,Super G
+2019-12-06,Vincent Kriechmayr,AT,96,Downhill
+2019-12-06,Gino Caviezel,CH,6,Giant Slalom
+2019-12-06,Aleksander Aamodt Kilde,NO,120,Downhill
 2019-12-06,Kjetil Jansrud,NO,56,Super G
 2019-12-06,Marco Odermatt,CH,136,Giant Slalom
-2019-12-06,Sam Mulligan,CA,0,Combined
-2019-12-06,Gino Caviezel,CH,6,Giant Slalom
-2019-12-06,Niels Hintermann,CH,0,Downhill
-2019-12-06,Davide Cazzaniga,IT,0,Downhill
-2019-12-06,Max Franz,AT,25,Super G
-2019-12-06,Victor Muffat Jeandet,FR,0,Giant Slalom
-2019-12-06,Henrik Kristoffersen,NO,0,Slalom
 2019-12-06,Steven Nyman,US,16,Downhill
-2019-12-06,Bryce Bennett,US,0,Downhill
-2019-12-06,Johannes Kroell,AT,0,Downhill
-2019-12-06,Christof Innerhofer,IT,0,Downhill
-2019-12-06,Thomas Biesemeyer,US,0,Combined
-2019-12-06,Florian Schieder,IT,0,Combined
-2019-12-06,Jan Zabystran,CZ,0,Combined
-2019-12-06,Raphael Haaser,AT,0,Super G
-2019-12-06,James Crawford,CA,10,Super G
-2019-12-06,Brice Roger,FR,5,Downhill
-2019-12-06,Matthieu Bailet,FR,0,Downhill
-2019-12-06,Mathieu Faivre,FR,0,Giant Slalom
-2019-12-06,Adrien Theaux,FR,29,Downhill
-2019-12-06,Thomas Tumler,CH,33,Parallel
-2019-12-06,Vincent Kriechmayr,AT,96,Downhill
-2019-12-06,Othmar Striedinger,AT,0,Downhill
-2019-12-06,Pavel Trikhichev,RU,10,Combined
-2019-12-06,Tilen Debelak,SK,0,Combined
-2019-12-06,Victor Schuller,FR,0,Combined
-2019-12-06,Klemen Kosi,SK,11,Combined
-2019-12-06,Mauro Caviezel,CH,105,Super G
-2019-12-06,Romed Baumann,DE,0,Downhill
-2019-12-06,Hannes Reichelt,AT,41,Super G
-2019-12-06,Rasmus Windingstad,NO,13,Parallel
-2019-12-06,Matthias Mayer,AT,160,Downhill
-2019-12-06,Aleksander Aamodt Kilde,NO,120,Downhill
-2019-12-06,Jared Goldberg,US,0,Downhill
-2019-12-06,Travis Ganong,US,62,Downhill
-2019-12-06,Beat Feuz,CH,32,Downhill
-2019-12-06,Stefan Hadalin,SK,0,Slalom
-2019-12-06,Alexander Koell,SE,0,Downhill
-2019-12-06,Mattia Casse,IT,71,Super G
-2019-12-06,Thomas Dressen,DE,30,Downhill
-2019-12-06,Ralph Weber,CH,0,Downhill
-2019-12-06,Tommy Ford,US,0,Giant Slalom
-2019-12-06,Willis Feasey,NZ,0,Combined
-2019-12-06,Trevor Philp,CA,0,Giant Slalom
-2019-12-06,Klaus Brandner,DE,0,Combined
-2019-12-06,Urs Kryenbuehl,CH,0,Downhill
-2019-12-06,Maxence Muzaton,FR,0,Downhill
-2019-12-06,Adrian Smiseth Sejersted,NO,35,Downhill
-2019-12-06,Blaise Giezendanner,FR,0,Super G
-2019-12-06,Cameron Alexander,CA,0,Downhill
+2019-12-06,Max Franz,AT,25,Super G
 2019-12-06,Alexis Pinturault,FR,50,Giant Slalom
-2019-12-06,Andreas Sander,DE,32,Super G
 2019-12-06,Josef Ferstl,DE,7,Downhill
-2019-12-06,Dominik Paris,IT,100,Downhill
-2019-12-06,Mattias Roenngren,SE,0,Parallel
-2019-12-06,Gilles Roulin,CH,10,Combined
-2019-12-06,Ryan Cochran-Siegle,US,23,Downhill
-2019-12-20,Peter Fill,IT,2,Super G
-2019-12-20,Mathieu Faivre,FR,0,Giant Slalom
-2019-12-20,Stefan Babinsky,AT,11,Super G
-2019-12-20,Stefan Rogentin,CH,16,Super G
-2019-12-20,Trevor Philp,CA,0,Giant Slalom
-2019-12-20,Brice Roger,FR,14,Downhill
-2019-12-20,Pavel Trikhichev,RU,10,Combined
-2019-12-20,Samuel Dupratt,US,9,Super G
-2019-12-20,Klemen Kosi,SK,14,Combined
-2019-12-20,Othmar Striedinger,AT,0,Downhill
-2019-12-20,Ralph Weber,CH,0,Downhill
-2019-12-20,Victor Muffat Jeandet,FR,0,Giant Slalom
-2019-12-20,Manuel Schmid,DE,0,Downhill
-2019-12-20,Filip Zubcic,HR,0,Giant Slalom
-2019-12-20,Mattias Roenngren,SE,0,Parallel
-2019-12-20,Adam Zampa,SK,0,Giant Slalom
-2019-12-20,Willis Feasey,NZ,0,Combined
-2019-12-20,Loic Meillard,CH,0,Giant Slalom
-2019-12-20,Alexander Koell,SE,0,Downhill
-2019-12-20,Victor Schuller,FR,0,Combined
-2019-12-20,River Radamus,US,0,Parallel
-2019-12-20,Simon Maurberger,IT,0,Slalom
-2019-12-20,Jared Goldberg,US,0,Downhill
-2019-12-20,Tommy Ford,US,0,Giant Slalom
-2019-12-20,Ivan Kuznetsov,RU,0,Combined
-2019-12-20,Stefan Hadalin,SK,0,Slalom
-2019-12-20,Christopher Neumayer,AT,0,Downhill
-2019-12-20,Thomas Biesemeyer,US,0,Combined
-2019-12-20,Riccardo Tonetti,IT,0,Combined
-2019-12-20,Nicolas Raffort,FR,0,Downhill
-2019-12-20,Henrik Kristoffersen,NO,0,Slalom
-2019-12-20,Johannes Kroell,AT,0,Downhill
-2019-12-20,Raphael Haaser,AT,0,Super G
-2019-12-20,Davide Cazzaniga,IT,0,Downhill
+2019-12-06,Beat Feuz,CH,32,Downhill
+2019-12-06,Matthias Mayer,AT,160,Downhill
+2019-12-06,Mattia Casse,IT,71,Super G
+2019-12-06,Hannes Reichelt,AT,41,Super G
 2019-12-20,Matthieu Bailet,FR,0,Downhill
-2019-12-20,Christoph Krenn,AT,6,Super G
-2019-12-20,Cameron Alexander,CA,0,Downhill
-2019-12-20,Stian Saugestad,NO,6,Super G
-2019-12-20,Roy Piccard,FR,0,Downhill
-2019-12-20,Dominik Schwaiger,DE,2,Downhill
-2019-12-20,Ted Ligety,US,3,Giant Slalom
-2019-12-20,Urs Kryenbuehl,CH,0,Downhill
-2019-12-20,Sam Mulligan,CA,0,Combined
-2019-12-20,Jan Zabystran,CZ,0,Combined
-2019-12-20,Florian Schieder,IT,0,Combined
-2019-12-20,Guglielmo Bosca,IT,0,Combined
-2019-12-20,Romed Baumann,DE,0,Downhill
-2019-12-20,Hannes Reichelt,AT,81,Super G
-2019-12-20,Maxence Muzaton,FR,0,Downhill
-2019-12-20,Mattia Casse,IT,87,Super G
-2019-12-20,Kjetil Jansrud,NO,136,Super G
-2019-12-20,Adrian Smiseth Sejersted,NO,51,Downhill
-2019-12-20,Brodie Seger,CA,15,Downhill
-2019-12-20,Adrien Theaux,FR,55,Downhill
-2019-12-20,Jeffrey Read,CA,0,Combined
-2019-12-20,Christof Innerhofer,IT,0,Downhill
-2019-12-20,Niels Hintermann,CH,0,Downhill
+2019-12-20,Tommy Ford,US,0,Giant Slalom
+2019-12-20,Raphael Haaser,AT,0,Super G
 2019-12-20,Tilen Debelak,SK,0,Combined
-2019-12-20,Thomas Dressen,DE,90,Downhill
-2019-12-20,Aleksander Aamodt Kilde,NO,156,Downhill
-2019-12-20,Gino Caviezel,CH,24,Giant Slalom
-2019-12-20,Dominik Paris,IT,145,Downhill
-2019-12-20,Steven Nyman,US,36,Downhill
-2019-12-20,Bryce Bennett,US,0,Downhill
-2019-12-20,Christian Walder,AT,31,Super G
-2019-12-20,Mauro Caviezel,CH,155,Super G
-2019-12-20,James Crawford,CA,24,Super G
+2019-12-20,Stefan Hadalin,SK,0,Slalom
+2019-12-20,Christoph Krenn,AT,6,Super G
+2019-12-20,Travis Ganong,US,62,Downhill
+2019-12-20,Johannes Kroell,AT,0,Downhill
+2019-12-20,Dustin Cook,CA,0,Combined
 2019-12-20,Kyle Negomir,US,0,Combined
-2019-12-20,Josef Ferstl,DE,11,Downhill
-2019-12-20,Beat Feuz,CH,61,Downhill
-2019-12-20,Daniel Danklmaier,AT,0,Downhill
-2019-12-20,Andreas Sander,DE,54,Super G
-2019-12-20,Alexis Pinturault,FR,50,Giant Slalom
-2019-12-20,Johan Clarey,FR,42,Downhill
-2019-12-20,Matthias Mayer,AT,184,Downhill
-2019-12-20,Vincent Kriechmayr,AT,196,Downhill
+2019-12-20,Hannes Reichelt,AT,81,Super G
+2019-12-20,Henrik Kristoffersen,NO,0,Slalom
+2019-12-20,Ralph Weber,CH,0,Downhill
+2019-12-20,Aleksander Aamodt Kilde,NO,156,Downhill
+2019-12-20,Jared Goldberg,US,0,Downhill
+2019-12-20,Sam Mulligan,CA,0,Combined
+2019-12-20,Samuel Dupratt,US,9,Super G
+2019-12-20,Brice Roger,FR,14,Downhill
+2019-12-20,Matteo Marsaglia,IT,2,Downhill
+2019-12-20,Gino Caviezel,CH,24,Giant Slalom
+2019-12-20,Victor Schuller,FR,0,Combined
+2019-12-20,Martin Cater,SK,5,Combined
 2019-12-20,Klaus Brandner,DE,0,Combined
-2019-12-20,Marco Odermatt,CH,143,Giant Slalom
-2019-12-20,Rasmus Windingstad,NO,14,Parallel
+2019-12-20,Mattias Roenngren,SE,0,Parallel
+2019-12-20,Pavel Trikhichev,RU,10,Combined
+2019-12-20,Max Franz,AT,25,Super G
+2019-12-20,Dominik Paris,IT,145,Downhill
+2019-12-20,Stian Saugestad,NO,6,Super G
+2019-12-20,Simon Maurberger,IT,0,Slalom
+2019-12-20,River Radamus,US,0,Parallel
+2019-12-20,Manuel Schmid,DE,0,Downhill
+2019-12-20,Bryce Bennett,US,0,Downhill
+2019-12-20,Johan Clarey,FR,42,Downhill
+2019-12-20,Alexis Pinturault,FR,50,Giant Slalom
+2019-12-20,Maxence Muzaton,FR,0,Downhill
+2019-12-20,Filip Zubcic,HR,0,Giant Slalom
+2019-12-20,Alexander Koell,SE,0,Downhill
+2019-12-20,Niels Hintermann,CH,0,Downhill
+2019-12-20,Riccardo Tonetti,IT,0,Combined
+2019-12-20,Othmar Striedinger,AT,0,Downhill
+2019-12-20,Adam Zampa,SK,0,Giant Slalom
+2019-12-20,Thomas Biesemeyer,US,0,Combined
+2019-12-20,Andreas Sander,DE,54,Super G
+2019-12-20,Adrien Theaux,FR,55,Downhill
+2019-12-20,Benjamin Thomsen,CA,0,Downhill
+2019-12-20,Urs Kryenbuehl,CH,0,Downhill
+2019-12-20,Mattia Casse,IT,87,Super G
+2019-12-20,Thomas Dressen,DE,90,Downhill
+2019-12-20,Ted Ligety,US,3,Giant Slalom
+2019-12-20,Nicolas Raffort,FR,0,Downhill
+2019-12-20,Christopher Neumayer,AT,0,Downhill
+2019-12-20,Jeffrey Read,CA,0,Combined
+2019-12-20,Dominik Schwaiger,DE,2,Downhill
+2019-12-20,Mauro Caviezel,CH,155,Super G
+2019-12-20,Roy Piccard,FR,0,Downhill
+2019-12-20,Beat Feuz,CH,61,Downhill
+2019-12-20,Adrian Smiseth Sejersted,NO,51,Downhill
+2019-12-20,Florian Schieder,IT,0,Combined
+2019-12-20,Loic Meillard,CH,0,Giant Slalom
+2019-12-20,Nils Allegre,FR,22,Downhill
+2019-12-20,Emanuele Buzzi,IT,20,Super G
 2019-12-20,Felix Monsen,SE,13,Downhill
-2020-01-24,Klaus Brandner,DE,0,Combined
-2020-01-24,Ivan Kuznetsov,RU,0,Combined
-2020-01-24,Daniel Danklmaier,AT,22,Downhill
-2020-01-24,Stian Saugestad,NO,6,Super G
-2020-01-24,Alexis Pinturault,FR,79,Giant Slalom
-2020-01-24,Christopher Neumayer,AT,0,Downhill
-2020-01-24,Roy Piccard,FR,4,Downhill
-2020-01-24,Urs Kryenbuehl,CH,0,Downhill
-2020-01-24,Simon Maurberger,IT,0,Slalom
-2020-01-24,Florian Schieder,IT,0,Combined
-2020-01-24,Max Franz,AT,32,Super G
-2020-01-24,Hannes Reichelt,AT,81,Super G
-2020-01-24,Thomas Tumler,CH,33,Parallel
-2020-01-24,Mauro Caviezel,CH,205,Super G
+2019-12-20,Ryan Cochran-Siegle,US,23,Downhill
+2019-12-20,Klemen Kosi,SK,14,Combined
+2019-12-20,Guglielmo Bosca,IT,0,Combined
+2019-12-20,Vincent Kriechmayr,AT,196,Downhill
+2019-12-20,Bostjan Kline,SK,2,Super G
+2019-12-20,Christof Innerhofer,IT,0,Downhill
+2019-12-20,Josef Ferstl,DE,11,Downhill
+2019-12-20,James Crawford,CA,24,Super G
+2019-12-20,Romed Baumann,DE,0,Downhill
+2019-12-20,Rasmus Windingstad,NO,14,Parallel
+2019-12-20,Stefan Rogentin,CH,16,Super G
+2019-12-20,Carlo Janka,CH,13,Downhill
+2019-12-20,Gilles Roulin,CH,10,Combined
+2019-12-20,Willis Feasey,NZ,0,Combined
+2019-12-20,Christian Walder,AT,31,Super G
+2019-12-20,Daniel Danklmaier,AT,0,Downhill
+2019-12-20,Trevor Philp,CA,0,Giant Slalom
+2019-12-20,Victor Muffat Jeandet,FR,0,Giant Slalom
+2019-12-20,Davide Cazzaniga,IT,0,Downhill
+2019-12-20,Blaise Giezendanner,FR,0,Super G
+2019-12-20,Stefan Babinsky,AT,11,Super G
+2019-12-20,Peter Fill,IT,2,Super G
+2019-12-20,Ivan Kuznetsov,RU,0,Combined
+2019-12-20,Thomas Tumler,CH,33,Parallel
+2019-12-20,Marco Odermatt,CH,143,Giant Slalom
+2019-12-20,Miha Hrobat,SK,15,Super G
+2019-12-20,Kjetil Jansrud,NO,136,Super G
+2019-12-20,Brodie Seger,CA,15,Downhill
+2019-12-20,Cameron Alexander,CA,0,Downhill
+2019-12-20,Jan Zabystran,CZ,0,Combined
+2019-12-20,Mathieu Faivre,FR,0,Giant Slalom
+2019-12-20,Steven Nyman,US,36,Downhill
+2019-12-20,Matthias Mayer,AT,184,Downhill
 2020-01-24,Loic Meillard,CH,0,Giant Slalom
-2020-01-24,Niels Hintermann,CH,0,Downhill
-2020-01-24,Ted Ligety,US,3,Giant Slalom
-2020-01-24,Manuel Schmid,DE,0,Downhill
-2020-01-24,Beat Feuz,CH,97,Downhill
-2020-01-24,Andreas Sander,DE,86,Super G
-2020-01-24,Filip Zubcic,HR,0,Giant Slalom
-2020-01-24,Riccardo Tonetti,IT,0,Combined
-2020-01-24,Willis Feasey,NZ,0,Combined
-2020-01-24,Nils Allegre,FR,40,Downhill
-2020-01-24,Stefan Hadalin,SK,0,Slalom
-2020-01-24,Emanuele Buzzi,IT,31,Super G
-2020-01-24,Tommy Ford,US,0,Giant Slalom
-2020-01-24,Adrian Smiseth Sejersted,NO,51,Downhill
-2020-01-24,Adam Zampa,SK,0,Giant Slalom
-2020-01-24,Mattia Casse,IT,132,Super G
-2020-01-24,Sam Mulligan,CA,0,Combined
-2020-01-24,Travis Ganong,US,88,Downhill
-2020-01-24,Adrien Theaux,FR,55,Downhill
-2020-01-24,Johan Clarey,FR,66,Downhill
-2020-01-24,Thomas Dressen,DE,104,Downhill
-2020-01-24,Christoph Krenn,AT,6,Super G
-2020-01-24,Felix Monsen,SE,13,Downhill
-2020-01-24,Nicolas Raffort,FR,0,Downhill
-2020-01-24,Bryce Bennett,US,0,Downhill
-2020-01-24,Victor Muffat Jeandet,FR,0,Giant Slalom
+2020-01-24,Mathieu Faivre,FR,0,Giant Slalom
+2020-01-24,Christopher Neumayer,AT,0,Downhill
 2020-01-24,Carlo Janka,CH,13,Downhill
-2020-01-24,Trevor Philp,CA,0,Giant Slalom
-2020-01-24,Benjamin Thomsen,CA,0,Downhill
-2020-01-24,Guglielmo Bosca,IT,0,Combined
-2020-01-24,Matteo Marsaglia,IT,4,Downhill
-2020-01-24,Marco Odermatt,CH,163,Giant Slalom
-2020-01-24,Martin Cater,SK,5,Combined
-2020-01-24,Brice Roger,FR,14,Downhill
-2020-01-24,Miha Hrobat,SK,27,Super G
-2020-01-24,Kjetil Jansrud,NO,236,Super G
-2020-01-24,Pavel Trikhichev,RU,10,Combined
-2020-01-24,Davide Cazzaniga,IT,0,Downhill
-2020-01-24,Gilles Roulin,CH,13,Combined
+2020-01-24,Ted Ligety,US,3,Giant Slalom
+2020-01-24,Nils Allegre,FR,40,Downhill
+2020-01-24,Hannes Reichelt,AT,81,Super G
+2020-01-24,Dominik Schwaiger,DE,2,Downhill
+2020-01-24,Christian Walder,AT,44,Super G
+2020-01-24,Urs Kryenbuehl,CH,0,Downhill
+2020-01-24,Brodie Seger,CA,15,Downhill
+2020-01-24,Mauro Caviezel,CH,205,Super G
+2020-01-24,Rasmus Windingstad,NO,14,Parallel
+2020-01-24,Beat Feuz,CH,97,Downhill
+2020-01-24,Niels Hintermann,CH,0,Downhill
 2020-01-24,Blaise Giezendanner,FR,15,Super G
-2020-01-24,Vincent Kriechmayr,AT,236,Downhill
-2020-01-24,Ryan Cochran-Siegle,US,28,Downhill
-2020-01-24,Peter Fill,IT,13,Super G
-2020-01-24,Kyle Negomir,US,0,Combined
-2020-01-24,Aleksander Aamodt Kilde,NO,236,Downhill
-2020-01-24,Romed Baumann,DE,9,Downhill
+2020-01-24,Ivan Kuznetsov,RU,0,Combined
+2020-01-24,Jan Zabystran,CZ,0,Combined
+2020-01-24,Bryce Bennett,US,0,Downhill
+2020-01-24,Manuel Schmid,DE,0,Downhill
+2020-01-24,Benjamin Thomsen,CA,0,Downhill
+2020-01-24,Maxence Muzaton,FR,0,Downhill
+2020-01-24,Johan Clarey,FR,66,Downhill
 2020-01-24,Christof Innerhofer,IT,16,Downhill
-2020-01-24,River Radamus,US,0,Parallel
-2020-01-24,Bostjan Kline,SK,10,Super G
-2020-01-24,Matthias Mayer,AT,264,Downhill
+2020-01-24,Mattia Casse,IT,132,Super G
+2020-01-24,Marco Odermatt,CH,163,Giant Slalom
+2020-01-24,Ryan Cochran-Siegle,US,28,Downhill
+2020-01-24,Filip Zubcic,HR,0,Giant Slalom
+2020-01-24,Nicolas Raffort,FR,0,Downhill
+2020-01-24,Steven Nyman,US,37,Downhill
+2020-01-24,Trevor Philp,CA,0,Giant Slalom
+2020-01-24,Othmar Striedinger,AT,0,Downhill
+2020-01-24,Gilles Roulin,CH,13,Combined
+2020-01-24,Adam Zampa,SK,0,Giant Slalom
+2020-01-24,Miha Hrobat,SK,27,Super G
+2020-01-24,Thomas Biesemeyer,US,0,Combined
+2020-01-24,Jeffrey Read,CA,0,Combined
+2020-01-24,Thomas Dressen,DE,104,Downhill
+2020-01-24,Alexander Koell,SE,0,Downhill
+2020-01-24,Andreas Sander,DE,86,Super G
 2020-01-24,Dustin Cook,CA,0,Combined
+2020-01-24,Roy Piccard,FR,4,Downhill
+2020-01-24,Guglielmo Bosca,IT,0,Combined
+2020-01-24,Ralph Weber,CH,0,Downhill
+2020-01-24,Daniel Danklmaier,AT,22,Downhill
+2020-01-24,Aleksander Aamodt Kilde,NO,236,Downhill
+2020-01-24,Samuel Dupratt,US,9,Super G
+2020-01-24,Jared Goldberg,US,0,Downhill
+2020-01-24,Travis Ganong,US,88,Downhill
+2020-01-24,Brice Roger,FR,14,Downhill
+2020-01-24,Gino Caviezel,CH,24,Giant Slalom
+2020-01-24,Kjetil Jansrud,NO,236,Super G
+2020-01-24,Klemen Kosi,SK,14,Combined
+2020-01-24,James Crawford,CA,31,Super G
+2020-01-24,Josef Ferstl,DE,11,Downhill
+2020-01-24,Matteo Marsaglia,IT,4,Downhill
+2020-01-24,Cameron Alexander,CA,0,Downhill
+2020-01-24,Victor Schuller,FR,0,Combined
+2020-01-24,Martin Cater,SK,5,Combined
+2020-01-24,Thomas Tumler,CH,33,Parallel
+2020-01-24,Max Franz,AT,32,Super G
+2020-01-24,Stefan Babinsky,AT,11,Super G
+2020-01-24,Kyle Negomir,US,0,Combined
+2020-01-24,Pavel Trikhichev,RU,10,Combined
+2020-01-24,Peter Fill,IT,13,Super G
+2020-01-24,Mattias Roenngren,SE,0,Parallel
+2020-01-24,Klaus Brandner,DE,0,Combined
+2020-01-24,Willis Feasey,NZ,0,Combined
+2020-01-24,Henrik Kristoffersen,NO,0,Slalom
+2020-01-24,Romed Baumann,DE,9,Downhill
+2020-01-24,Felix Monsen,SE,13,Downhill
+2020-01-24,Florian Schieder,IT,0,Combined
+2020-01-24,Adrian Smiseth Sejersted,NO,51,Downhill
+2020-01-24,Victor Muffat Jeandet,FR,0,Giant Slalom
+2020-01-24,River Radamus,US,0,Parallel
+2020-01-24,Riccardo Tonetti,IT,0,Combined
+2020-01-24,Stian Saugestad,NO,6,Super G
+2020-01-24,Bostjan Kline,SK,10,Super G
+2020-01-24,Simon Maurberger,IT,0,Slalom
+2020-01-24,Sam Mulligan,CA,0,Combined
+2020-01-24,Tilen Debelak,SK,0,Combined
+2020-01-24,Adrien Theaux,FR,55,Downhill
+2020-01-24,Christoph Krenn,AT,6,Super G
+2020-01-24,Alexis Pinturault,FR,79,Giant Slalom
+2020-01-24,Matthias Mayer,AT,264,Downhill
+2020-01-24,Vincent Kriechmayr,AT,236,Downhill
+2020-01-24,Tommy Ford,US,0,Giant Slalom
 2020-01-24,Dominik Paris,IT,145,Downhill
 2020-01-24,Raphael Haaser,AT,0,Super G
-2020-01-24,James Crawford,CA,31,Super G
+2020-01-24,Stefan Rogentin,CH,16,Super G
 2020-01-24,Johannes Kroell,AT,0,Downhill
-2020-01-24,Christian Walder,AT,44,Super G
-2020-01-24,Jan Zabystran,CZ,0,Combined
-2020-01-24,Henrik Kristoffersen,NO,0,Slalom
-2020-01-24,Steven Nyman,US,37,Downhill
-2020-01-24,Thomas Biesemeyer,US,0,Combined
-2020-01-24,Cameron Alexander,CA,0,Downhill
-2020-01-24,Rasmus Windingstad,NO,14,Parallel
-2020-01-24,Mathieu Faivre,FR,0,Giant Slalom
-2020-01-24,Othmar Striedinger,AT,0,Downhill
-2020-02-14,Mathieu Faivre,FR,0,Giant Slalom
-2020-02-14,Matthias Mayer,AT,264,Downhill
-2020-02-14,Travis Ganong,US,124,Downhill
-2020-02-14,Marco Odermatt,CH,185,Giant Slalom
-2020-02-14,Simon Maurberger,IT,0,Slalom
-2020-02-14,Beat Feuz,CH,97,Downhill
-2020-02-14,Victor Muffat Jeandet,FR,0,Giant Slalom
-2020-02-14,Jan Zabystran,CZ,0,Combined
-2020-02-14,Benjamin Thomsen,CA,0,Downhill
-2020-02-14,Victor Schuller,FR,0,Combined
-2020-02-14,Mauro Caviezel,CH,285,Super G
-2020-02-14,Dominik Paris,IT,145,Downhill
-2020-02-14,Mattias Roenngren,SE,0,Parallel
-2020-02-14,Jared Goldberg,US,0,Downhill
-2020-02-14,Kyle Negomir,US,0,Combined
-2020-02-14,Thomas Dressen,DE,164,Downhill
-2020-02-14,Tommy Ford,US,0,Giant Slalom
-2020-02-14,Cameron Alexander,CA,0,Downhill
-2020-02-14,Ralph Weber,CH,0,Downhill
-2020-02-14,Kjetil Jansrud,NO,265,Super G
-2020-02-14,Mattia Casse,IT,177,Super G
-2020-02-14,Guglielmo Bosca,IT,0,Combined
-2020-02-14,Vincent Kriechmayr,AT,262,Downhill
-2020-02-14,Klaus Brandner,DE,0,Combined
-2020-02-14,Davide Cazzaniga,IT,0,Downhill
-2020-02-14,Aleksander Aamodt Kilde,NO,336,Downhill
-2020-02-14,Stefan Hadalin,SK,0,Slalom
-2020-02-14,Felix Monsen,SE,13,Downhill
-2020-02-14,River Radamus,US,0,Parallel
+2020-01-24,Matthieu Bailet,FR,0,Downhill
+2020-01-24,Davide Cazzaniga,IT,0,Downhill
+2020-01-24,Emanuele Buzzi,IT,31,Super G
+2020-01-24,Stefan Hadalin,SK,0,Slalom
 2020-02-14,Ivan Kuznetsov,RU,0,Combined
-2020-02-14,Johannes Kroell,AT,8,Downhill
-2020-02-14,Henrik Kristoffersen,NO,0,Slalom
-2020-02-14,Steven Nyman,US,37,Downhill
-2020-02-14,Samuel Dupratt,US,9,Super G
-2020-02-14,Dustin Cook,CA,0,Combined
-2020-02-14,Brice Roger,FR,14,Downhill
-2020-02-14,Christof Innerhofer,IT,16,Downhill
-2020-02-14,Maxence Muzaton,FR,0,Downhill
+2020-02-14,Beat Feuz,CH,97,Downhill
+2020-02-14,Nicolas Raffort,FR,0,Downhill
+2020-02-14,Sam Mulligan,CA,0,Combined
+2020-02-14,Kyle Negomir,US,0,Combined
+2020-02-14,Mattias Roenngren,SE,0,Parallel
+2020-02-14,Jan Zabystran,CZ,0,Combined
+2020-02-14,Kjetil Jansrud,NO,265,Super G
+2020-02-14,Victor Schuller,FR,0,Combined
+2020-02-14,Cameron Alexander,CA,0,Downhill
+2020-02-14,Aleksander Aamodt Kilde,NO,336,Downhill
+2020-02-14,Jared Goldberg,US,0,Downhill
+2020-02-14,Vincent Kriechmayr,AT,262,Downhill
+2020-02-14,Ralph Weber,CH,0,Downhill
+2020-02-14,Guglielmo Bosca,IT,0,Combined
+2020-02-14,Stefan Hadalin,SK,0,Slalom
+2020-02-14,Tommy Ford,US,0,Giant Slalom
+2020-02-14,Davide Cazzaniga,IT,0,Downhill
+2020-02-14,Dominik Paris,IT,145,Downhill
+2020-02-14,Simon Maurberger,IT,0,Slalom
+2020-02-14,Mauro Caviezel,CH,285,Super G
+2020-02-14,River Radamus,US,0,Parallel
+2020-02-14,Victor Muffat Jeandet,FR,0,Giant Slalom
+2020-02-14,Christopher Neumayer,AT,0,Downhill
+2020-02-14,Mathieu Faivre,FR,0,Giant Slalom
+2020-02-14,Loic Meillard,CH,0,Giant Slalom
+2020-02-14,Thomas Dressen,DE,164,Downhill
+2020-02-14,Marco Odermatt,CH,185,Giant Slalom
+2020-02-14,Adam Zampa,SK,0,Giant Slalom
+2020-02-14,Filip Zubcic,HR,0,Giant Slalom
+2020-02-14,Trevor Philp,CA,0,Giant Slalom
+2020-02-14,Mattia Casse,IT,177,Super G
+2020-02-14,Manuel Schmid,DE,0,Downhill
+2020-02-14,Matthias Mayer,AT,264,Downhill
+2020-02-14,Riccardo Tonetti,IT,0,Combined
+2020-02-14,Josef Ferstl,DE,11,Downhill
+2020-02-14,Johan Clarey,FR,86,Downhill
+2020-02-14,Nils Allegre,FR,53,Downhill
+2020-02-14,Romed Baumann,DE,21,Downhill
+2020-02-14,Christoph Krenn,AT,6,Super G
+2020-02-14,Stefan Rogentin,CH,27,Super G
+2020-02-14,Stian Saugestad,NO,6,Super G
+2020-02-14,Bostjan Kline,SK,10,Super G
+2020-02-14,Florian Schieder,IT,6,Combined
+2020-02-14,Adrien Theaux,FR,55,Downhill
+2020-02-14,Adrian Smiseth Sejersted,NO,51,Downhill
+2020-02-14,Dominik Schwaiger,DE,6,Downhill
+2020-02-14,Felix Monsen,SE,13,Downhill
+2020-02-14,Pavel Trikhichev,RU,10,Combined
+2020-02-14,Ted Ligety,US,3,Giant Slalom
+2020-02-14,Urs Kryenbuehl,CH,0,Downhill
+2020-02-14,Rasmus Windingstad,NO,14,Parallel
+2020-02-14,Roy Piccard,FR,4,Downhill
+2020-02-14,James Crawford,CA,31,Super G
+2020-02-14,Daniel Danklmaier,AT,38,Downhill
+2020-02-14,Raphael Haaser,AT,0,Super G
+2020-02-14,Max Franz,AT,56,Super G
 2020-02-14,Matteo Marsaglia,IT,5,Downhill
-2020-02-14,Brodie Seger,CA,19,Downhill
+2020-02-14,Gino Caviezel,CH,24,Giant Slalom
+2020-02-14,Brice Roger,FR,14,Downhill
+2020-02-14,Peter Fill,IT,13,Super G
+2020-02-14,Samuel Dupratt,US,9,Super G
+2020-02-14,Matthieu Bailet,FR,7,Downhill
+2020-02-14,Stefan Babinsky,AT,11,Super G
+2020-02-14,Emanuele Buzzi,IT,49,Super G
+2020-02-14,Willis Feasey,NZ,0,Combined
+2020-02-14,Travis Ganong,US,124,Downhill
+2020-02-14,Henrik Kristoffersen,NO,0,Slalom
+2020-02-14,Johannes Kroell,AT,8,Downhill
+2020-02-14,Klemen Kosi,SK,16,Combined
+2020-02-14,Thomas Tumler,CH,33,Parallel
 2020-02-14,Thomas Biesemeyer,US,0,Combined
 2020-02-14,Martin Cater,SK,15,Combined
-2020-02-14,Raphael Haaser,AT,0,Super G
-2020-02-14,Pavel Trikhichev,RU,10,Combined
-2020-02-14,Blaise Giezendanner,FR,24,Super G
-2020-02-14,Ryan Cochran-Siegle,US,43,Downhill
-2020-02-14,Peter Fill,IT,13,Super G
-2020-02-14,Stefan Babinsky,AT,11,Super G
-2020-02-14,Gilles Roulin,CH,27,Combined
-2020-02-14,Klemen Kosi,SK,16,Combined
-2020-02-14,Othmar Striedinger,AT,0,Downhill
-2020-02-14,Carlo Janka,CH,18,Downhill
-2020-02-14,Romed Baumann,DE,21,Downhill
-2020-02-14,Stefan Rogentin,CH,27,Super G
-2020-02-14,Rasmus Windingstad,NO,14,Parallel
-2020-02-14,Bostjan Kline,SK,10,Super G
-2020-02-14,Alexander Koell,SE,0,Downhill
-2020-02-14,Miha Hrobat,SK,27,Super G
-2020-02-14,Matthieu Bailet,FR,7,Downhill
-2020-02-14,Christian Walder,AT,94,Super G
-2020-02-14,Daniel Danklmaier,AT,38,Downhill
+2020-02-14,Dustin Cook,CA,0,Combined
+2020-02-14,Bryce Bennett,US,0,Downhill
+2020-02-14,Jeffrey Read,CA,0,Combined
 2020-02-14,Hannes Reichelt,AT,81,Super G
-2020-02-14,Christopher Neumayer,AT,0,Downhill
-2020-02-14,Alexis Pinturault,FR,119,Giant Slalom
-2020-02-14,Loic Meillard,CH,0,Giant Slalom
-2020-02-14,Johan Clarey,FR,86,Downhill
-2020-02-14,Adam Zampa,SK,0,Giant Slalom
-2020-02-14,Andreas Sander,DE,122,Super G
-2020-02-14,Filip Zubcic,HR,0,Giant Slalom
-2020-02-14,Willis Feasey,NZ,0,Combined
-2020-02-14,Tilen Debelak,SK,0,Combined
-2020-02-14,Riccardo Tonetti,IT,0,Combined
-2020-02-14,Nils Allegre,FR,53,Downhill
-2020-02-14,Nicolas Raffort,FR,0,Downhill
-2020-02-14,Trevor Philp,CA,0,Giant Slalom
-2020-02-14,Dominik Schwaiger,DE,6,Downhill
-2020-02-14,Christoph Krenn,AT,6,Super G
-2020-02-14,Sam Mulligan,CA,0,Combined
-2020-02-14,Adrien Theaux,FR,55,Downhill
 2020-02-14,Niels Hintermann,CH,0,Downhill
-2020-02-14,Ted Ligety,US,3,Giant Slalom
-2020-02-14,Stian Saugestad,NO,6,Super G
-2020-02-14,Urs Kryenbuehl,CH,0,Downhill
-2020-02-14,Emanuele Buzzi,IT,49,Super G
-2020-02-14,Adrian Smiseth Sejersted,NO,51,Downhill
-2020-02-14,Max Franz,AT,56,Super G
-2020-02-14,Florian Schieder,IT,6,Combined
-2020-02-29,Urs Kryenbuehl,CH,0,Downhill
-2020-02-29,Othmar Striedinger,AT,0,Downhill
-2020-02-29,Thomas Biesemeyer,US,0,Combined
-2020-02-29,Tilen Debelak,SK,0,Combined
-2020-02-29,Benjamin Thomsen,CA,0,Downhill
-2020-02-29,Alexander Koell,SE,0,Downhill
-2020-02-29,Bryce Bennett,US,0,Downhill
-2020-02-29,Klaus Brandner,DE,0,Combined
-2020-02-29,Maxence Muzaton,FR,0,Downhill
-2020-02-29,Willis Feasey,NZ,0,Combined
-2020-02-29,Brice Roger,FR,14,Downhill
-2020-02-29,Davide Cazzaniga,IT,0,Downhill
-2020-02-29,Blaise Giezendanner,FR,26,Super G
-2020-02-29,Miha Hrobat,SK,27,Super G
-2020-02-29,Christof Innerhofer,IT,16,Downhill
-2020-02-29,Josef Ferstl,DE,31,Downhill
-2020-02-29,Steven Nyman,US,49,Downhill
-2020-02-29,Christian Walder,AT,94,Super G
-2020-02-29,James Crawford,CA,53,Super G
-2020-02-29,Daniel Danklmaier,AT,52,Downhill
-2020-02-29,Max Franz,AT,80,Super G
-2020-02-29,Gino Caviezel,CH,50,Giant Slalom
-2020-02-29,Emanuele Buzzi,IT,78,Super G
-2020-02-29,Adrien Theaux,FR,55,Downhill
-2020-02-29,Adrian Smiseth Sejersted,NO,51,Downhill
-2020-02-29,Nils Allegre,FR,89,Downhill
-2020-02-29,Andreas Sander,DE,122,Super G
-2020-02-29,Johan Clarey,FR,89,Downhill
-2020-02-29,Alexis Pinturault,FR,169,Giant Slalom
-2020-02-29,Hannes Reichelt,AT,81,Super G
-2020-02-29,Travis Ganong,US,140,Downhill
-2020-02-29,Beat Feuz,CH,142,Downhill
-2020-02-29,Mattia Casse,IT,209,Super G
-2020-02-29,Thomas Dressen,DE,164,Downhill
-2020-02-29,Mauro Caviezel,CH,365,Super G
-2020-02-29,Dominik Paris,IT,145,Downhill
-2020-02-29,Aleksander Aamodt Kilde,NO,336,Downhill
-2020-02-29,Kjetil Jansrud,NO,305,Super G
-2020-02-29,Vincent Kriechmayr,AT,362,Downhill
-2020-02-29,Marco Odermatt,CH,203,Giant Slalom
-2020-02-29,Matthias Mayer,AT,324,Downhill
-2020-02-29,Ryan Cochran-Siegle,US,58,Downhill
-2020-02-29,Victor Muffat Jeandet,FR,1,Giant Slalom
-2020-02-29,Rasmus Windingstad,NO,14,Parallel
-2020-02-29,Bostjan Kline,SK,23,Super G
+2020-02-14,Blaise Giezendanner,FR,24,Super G
+2020-02-14,Miha Hrobat,SK,27,Super G
+2020-02-14,Tilen Debelak,SK,0,Combined
+2020-02-14,Andreas Sander,DE,122,Super G
+2020-02-14,Brodie Seger,CA,19,Downhill
+2020-02-14,Maxence Muzaton,FR,0,Downhill
+2020-02-14,Gilles Roulin,CH,27,Combined
+2020-02-14,Alexander Koell,SE,0,Downhill
+2020-02-14,Christian Walder,AT,94,Super G
+2020-02-14,Alexis Pinturault,FR,119,Giant Slalom
+2020-02-14,Christof Innerhofer,IT,16,Downhill
+2020-02-14,Klaus Brandner,DE,0,Combined
+2020-02-14,Benjamin Thomsen,CA,0,Downhill
+2020-02-14,Carlo Janka,CH,18,Downhill
+2020-02-14,Othmar Striedinger,AT,0,Downhill
+2020-02-14,Ryan Cochran-Siegle,US,43,Downhill
+2020-02-14,Steven Nyman,US,37,Downhill
 2020-02-29,Cameron Alexander,CA,0,Downhill
-2020-02-29,Mattias Roenngren,SE,0,Parallel
-2020-02-29,Victor Schuller,FR,0,Combined
-2020-02-29,Jared Goldberg,US,0,Downhill
-2020-02-29,Ralph Weber,CH,0,Downhill
-2020-02-29,Tommy Ford,US,0,Giant Slalom
-2020-02-29,Simon Maurberger,IT,0,Slalom
-2020-02-29,River Radamus,US,0,Parallel
-2020-02-29,Christopher Neumayer,AT,0,Downhill
-2020-02-29,Loic Meillard,CH,0,Giant Slalom
-2020-02-29,Adam Zampa,SK,0,Giant Slalom
-2020-02-29,Filip Zubcic,HR,0,Giant Slalom
-2020-02-29,Manuel Schmid,DE,0,Downhill
-2020-02-29,Nicolas Raffort,FR,0,Downhill
-2020-02-29,Sam Mulligan,CA,0,Combined
-2020-02-29,Ted Ligety,US,3,Giant Slalom
-2020-02-29,Florian Schieder,IT,6,Combined
-2020-02-29,Stian Saugestad,NO,6,Super G
-2020-02-29,Christoph Krenn,AT,6,Super G
-2020-02-29,Raphael Haaser,AT,8,Super G
-2020-02-29,Henrik Kristoffersen,NO,9,Slalom
-2020-02-29,Samuel Dupratt,US,9,Super G
-2020-02-29,Matteo Marsaglia,IT,15,Downhill
-2020-02-29,Martin Cater,SK,21,Combined
-2020-02-29,Pavel Trikhichev,RU,14,Combined
-2020-02-29,Peter Fill,IT,13,Super G
+2020-02-29,Miha Hrobat,SK,27,Super G
+2020-02-29,Mathieu Faivre,FR,0,Giant Slalom
 2020-02-29,Stefan Babinsky,AT,16,Super G
+2020-02-29,Ivan Kuznetsov,RU,0,Combined
+2020-02-29,Brodie Seger,CA,19,Downhill
+2020-02-29,Kjetil Jansrud,NO,305,Super G
+2020-02-29,Mattias Roenngren,SE,0,Parallel
+2020-02-29,Christof Innerhofer,IT,16,Downhill
+2020-02-29,Peter Fill,IT,13,Super G
+2020-02-29,Pavel Trikhichev,RU,14,Combined
+2020-02-29,Josef Ferstl,DE,31,Downhill
+2020-02-29,Thomas Tumler,CH,33,Parallel
+2020-02-29,Guglielmo Bosca,IT,0,Combined
 2020-02-29,Klemen Kosi,SK,23,Combined
-2020-02-29,Stefan Rogentin,CH,38,Super G
+2020-02-29,Carlo Janka,CH,18,Downhill
+2020-02-29,Gilles Roulin,CH,27,Combined
+2020-02-29,Christian Walder,AT,94,Super G
+2020-02-29,Rasmus Windingstad,NO,14,Parallel
+2020-02-29,Marco Odermatt,CH,203,Giant Slalom
+2020-02-29,Victor Muffat Jeandet,FR,1,Giant Slalom
 2020-02-29,Felix Monsen,SE,13,Downhill
+2020-02-29,Bostjan Kline,SK,23,Super G
+2020-02-29,Trevor Philp,CA,0,Giant Slalom
+2020-02-29,James Crawford,CA,53,Super G
+2020-02-29,Steven Nyman,US,49,Downhill
+2020-02-29,Ryan Cochran-Siegle,US,58,Downhill
+2020-02-29,Vincent Kriechmayr,AT,362,Downhill
+2020-02-29,Davide Cazzaniga,IT,0,Downhill
+2020-02-29,Stefan Rogentin,CH,38,Super G
+2020-02-29,Blaise Giezendanner,FR,26,Super G
+2020-02-29,Daniel Danklmaier,AT,52,Downhill
+2020-02-29,Jan Zabystran,CZ,0,Combined
+2020-02-29,Romed Baumann,DE,21,Downhill
+2020-02-29,Matthias Mayer,AT,324,Downhill
+2020-02-29,Klaus Brandner,DE,0,Combined
+2020-02-29,Aleksander Aamodt Kilde,NO,336,Downhill
+2020-02-29,Victor Schuller,FR,0,Combined
+2020-02-29,Andreas Sander,DE,122,Super G
+2020-02-29,Adam Zampa,SK,0,Giant Slalom
+2020-02-29,Thomas Biesemeyer,US,0,Combined
+2020-02-29,Thomas Dressen,DE,164,Downhill
+2020-02-29,Filip Zubcic,HR,0,Giant Slalom
+2020-02-29,Othmar Striedinger,AT,0,Downhill
+2020-02-29,Johan Clarey,FR,89,Downhill
+2020-02-29,Alexander Koell,SE,0,Downhill
+2020-02-29,Manuel Schmid,DE,0,Downhill
+2020-02-29,Maxence Muzaton,FR,0,Downhill
+2020-02-29,Alexis Pinturault,FR,169,Giant Slalom
+2020-02-29,Mattia Casse,IT,209,Super G
+2020-02-29,Bryce Bennett,US,0,Downhill
+2020-02-29,Riccardo Tonetti,IT,0,Combined
+2020-02-29,Niels Hintermann,CH,0,Downhill
+2020-02-29,Beat Feuz,CH,142,Downhill
+2020-02-29,Nicolas Raffort,FR,0,Downhill
+2020-02-29,Benjamin Thomsen,CA,0,Downhill
+2020-02-29,Hannes Reichelt,AT,81,Super G
+2020-02-29,Jeffrey Read,CA,0,Combined
+2020-02-29,Sam Mulligan,CA,0,Combined
 2020-02-29,Dustin Cook,CA,0,Combined
+2020-02-29,Tilen Debelak,SK,0,Combined
+2020-02-29,Travis Ganong,US,140,Downhill
+2020-02-29,Kyle Negomir,US,0,Combined
+2020-02-29,Urs Kryenbuehl,CH,0,Downhill
+2020-02-29,Nils Allegre,FR,89,Downhill
+2020-02-29,Ted Ligety,US,3,Giant Slalom
+2020-02-29,Loic Meillard,CH,0,Giant Slalom
+2020-02-29,Max Franz,AT,80,Super G
+2020-02-29,Matteo Marsaglia,IT,15,Downhill
+2020-02-29,Jared Goldberg,US,0,Downhill
+2020-02-29,Brice Roger,FR,14,Downhill
+2020-02-29,Gino Caviezel,CH,50,Giant Slalom
+2020-02-29,Samuel Dupratt,US,9,Super G
+2020-02-29,Ralph Weber,CH,0,Downhill
+2020-02-29,Henrik Kristoffersen,NO,9,Slalom
+2020-02-29,Stefan Hadalin,SK,0,Slalom
+2020-02-29,Johannes Kroell,AT,8,Downhill
+2020-02-29,Raphael Haaser,AT,8,Super G
+2020-02-29,Emanuele Buzzi,IT,78,Super G
+2020-02-29,Martin Cater,SK,21,Combined
+2020-02-29,Tommy Ford,US,0,Giant Slalom
+2020-02-29,Matthieu Bailet,FR,7,Downhill
+2020-02-29,Dominik Paris,IT,145,Downhill
+2020-02-29,Simon Maurberger,IT,0,Slalom
+2020-02-29,Christoph Krenn,AT,6,Super G
+2020-02-29,Adrian Smiseth Sejersted,NO,51,Downhill
+2020-02-29,Mauro Caviezel,CH,365,Super G
+2020-02-29,River Radamus,US,0,Parallel
+2020-02-29,Stian Saugestad,NO,6,Super G
+2020-02-29,Florian Schieder,IT,6,Combined
+2020-02-29,Christopher Neumayer,AT,0,Downhill
+2020-02-29,Roy Piccard,FR,4,Downhill
+2020-02-29,Dominik Schwaiger,DE,6,Downhill
+2020-02-29,Adrien Theaux,FR,55,Downhill
+2020-02-29,Willis Feasey,NZ,0,Combined

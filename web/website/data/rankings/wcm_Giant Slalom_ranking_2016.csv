@@ -31,7 +31,7 @@ date,name,ath_country,value,specialty
 2015-10-25,Ryan Cochran-Siegle,US,0,Giant Slalom
 2015-10-25,Philipp Schoerghofer,AT,18,Giant Slalom
 2015-10-25,Samuel Dupratt,US,0,Combined
-2015-10-25,Klemen Kosi,SK,0,Combined
+2015-10-25,Klemen Kosi,SK,0,Super G
 2015-10-25,Andre Myhrer,SE,11,Slalom
 2015-10-25,Elia Zurbriggen,CH,1,Giant Slalom
 2015-10-25,Adam Kotzmann,CZ,0,Combined
@@ -44,7 +44,7 @@ date,name,ath_country,value,specialty
 2015-10-25,Loic Meillard,CH,0,Giant Slalom
 2015-10-25,Victor Malmstrom,FI,0,Combined
 2015-10-25,Axel Esteve Jordana,AD,0,Combined
-2015-10-25,Adam Zampa,SK,2,Combined
+2015-10-25,Adam Zampa,SK,2,Slalom
 2015-10-25,Hyeon-Tae Kim,KR,0,Combined
 2015-10-25,Amaury Genoud,CH,0,Combined
 2015-10-25,Aksel Patricksson,NO,0,Giant Slalom
@@ -214,7 +214,7 @@ date,name,ath_country,value,specialty
 2015-12-06,Manuel Feller,AT,0,Giant Slalom
 2015-12-06,Sandro Jenal,CH,0,Combined
 2015-12-06,Mattias Roenngren,SE,0,Combined
-2015-12-06,Klemen Kosi,SK,0,Combined
+2015-12-06,Klemen Kosi,SK,0,Super G
 2015-12-06,Mattia Casse,IT,0,Super G
 2015-12-06,Felix Neureuther,DE,85,Slalom
 2015-12-06,Francois Place,FR,0,Combined
@@ -239,7 +239,7 @@ date,name,ath_country,value,specialty
 2015-12-06,Roberto Nani,IT,50,Giant Slalom
 2015-12-06,Daniel Paulus,CZ,0,Combined
 2015-12-06,Axel Esteve Jordana,AD,0,Combined
-2015-12-06,Adam Zampa,SK,2,Combined
+2015-12-06,Adam Zampa,SK,2,Slalom
 2015-12-06,Takashi Shioiri,JP,0,Combined
 2015-12-06,Adam Kotzmann,CZ,0,Combined
 2015-12-06,Cyprien Sarrazin,FR,0,Combined
@@ -284,7 +284,7 @@ date,name,ath_country,value,specialty
 2015-12-12,Tommy Ford,US,0,Giant Slalom
 2015-12-12,Elia Zurbriggen,CH,1,Giant Slalom
 2015-12-12,Carlo Janka,CH,0,Downhill
-2015-12-12,Klemen Kosi,SK,0,Combined
+2015-12-12,Klemen Kosi,SK,0,Super G
 2015-12-12,Stefan Brennsteiner,AT,0,Giant Slalom
 2015-12-12,Tomoya Ishii,JP,0,Combined
 2015-12-12,Erik Read,CA,0,Slalom
@@ -325,7 +325,7 @@ date,name,ath_country,value,specialty
 2015-12-12,Hannes Reichelt,AT,15,Downhill
 2015-12-12,Adam Barwood,NZ,0,Combined
 2015-12-12,Victor Malmstrom,FI,0,Combined
-2015-12-12,Adam Zampa,SK,2,Combined
+2015-12-12,Adam Zampa,SK,2,Slalom
 2015-12-12,David Chodounsky,US,15,Slalom
 2015-12-12,Mattia Casse,IT,0,Super G
 2015-12-12,Greg Galeotti,FR,0,Combined
@@ -414,7 +414,7 @@ date,name,ath_country,value,specialty
 2015-12-20,Andre Myhrer,SE,68,Slalom
 2015-12-20,Roland Leitinger,AT,66,Giant Slalom
 2015-12-20,Roberto Nani,IT,106,Giant Slalom
-2015-12-20,Klemen Kosi,SK,0,Combined
+2015-12-20,Klemen Kosi,SK,0,Super G
 2015-12-20,Loic Meillard,CH,0,Giant Slalom
 2015-12-20,Florian Eisath,IT,98,Giant Slalom
 2015-12-20,Igor Laikert,BA,0,Combined
@@ -456,7 +456,7 @@ date,name,ath_country,value,specialty
 2015-12-20,Rasmus Windingstad,NO,7,Giant Slalom
 2015-12-20,Aksel-Lund Svindal,NO,10,Downhill
 2015-12-20,Thomas Tumler,CH,0,Super G
-2015-12-20,Adam Zampa,SK,2,Combined
+2015-12-20,Adam Zampa,SK,2,Slalom
 2015-12-20,Victor Malmstrom,FI,0,Combined
 2015-12-20,Samuel Dupratt,US,0,Combined
 2015-12-20,Stefan Luitz,DE,84,Giant Slalom
@@ -547,7 +547,7 @@ date,name,ath_country,value,specialty
 2015-12-21,Tyler Werry,CA,0,Combined
 2015-12-21,Emir Lokmic,BA,0,Combined
 2015-12-21,Philipp Schoerghofer,AT,98,Giant Slalom
-2015-12-21,Klemen Kosi,SK,0,Combined
+2015-12-21,Klemen Kosi,SK,0,Super G
 2015-12-21,Daniel Paulus,CZ,0,Combined
 2015-12-21,Ted Ligety,US,157,Giant Slalom
 2015-12-21,Samuel Kolega,HR,0,Combined
@@ -645,7 +645,7 @@ date,name,ath_country,value,specialty
 2015-12-21,Manuel Feller,AT,69,Giant Slalom
 2015-12-21,Francois Place,FR,0,Combined
 2015-12-21,Victor Malmstrom,FI,0,Combined
-2015-12-21,Adam Zampa,SK,2,Combined
+2015-12-21,Adam Zampa,SK,2,Slalom
 2015-12-21,Stefan Brennsteiner,AT,0,Giant Slalom
 2015-12-21,Axel Esteve Jordana,AD,0,Combined
 2015-12-21,Roberto Nani,IT,121,Giant Slalom
@@ -712,7 +712,7 @@ date,name,ath_country,value,specialty
 2016-02-13,Tomoya Ishii,JP,0,Combined
 2016-02-13,Igor Laikert,BA,0,Combined
 2016-02-13,Axel Esteve Jordana,AD,0,Combined
-2016-02-13,Klemen Kosi,SK,0,Combined
+2016-02-13,Klemen Kosi,SK,0,Super G
 2016-02-13,Daniel Paulus,CZ,0,Combined
 2016-02-13,Tommaso Sala,IT,0,Combined
 2016-02-13,Albert Popov,BG,0,Combined
@@ -777,7 +777,7 @@ date,name,ath_country,value,specialty
 2016-02-13,Eemeli Pirinen,FI,0,Giant Slalom
 2016-02-13,Florian Eisath,IT,125,Giant Slalom
 2016-02-13,Leif Kristian Haugen,NO,79,Giant Slalom
-2016-02-13,Adam Zampa,SK,4,Combined
+2016-02-13,Adam Zampa,SK,4,Slalom
 2016-02-13,Marcus Sandell,FI,88,Giant Slalom
 2016-02-13,Manuel Pleisch,CH,16,Giant Slalom
 2016-02-13,Kjetil Jansrud,NO,122,Downhill
@@ -813,13 +813,13 @@ date,name,ath_country,value,specialty
 2016-02-26,Gino Caviezel,CH,102,Giant Slalom
 2016-02-26,Manuel Pleisch,CH,16,Giant Slalom
 2016-02-26,Riccardo Tonetti,IT,98,Giant Slalom
-2016-02-26,Klemen Kosi,SK,0,Combined
+2016-02-26,Klemen Kosi,SK,0,Super G
 2016-02-26,Armand Marchant,BE,0,Combined
 2016-02-26,Erjon Tola,AL,0,Combined
 2016-02-26,Daniele Sorio,IT,0,Combined
 2016-02-26,Masanori Shin,JP,0,Combined
 2016-02-26,Tim Jitloff,US,97,Giant Slalom
-2016-02-26,Adam Zampa,SK,4,Combined
+2016-02-26,Adam Zampa,SK,4,Slalom
 2016-02-26,Robin Buffet,FR,0,Slalom
 2016-02-26,Justin Murisier,CH,110,Giant Slalom
 2016-02-26,Andrew Weibrecht,US,3,Super G
@@ -1038,7 +1038,7 @@ date,name,ath_country,value,specialty
 2016-02-28,Aksel Patricksson,NO,11,Giant Slalom
 2016-02-28,Marco Odermatt,CH,0,Giant Slalom
 2016-02-28,Marco Schwarz,AT,15,Slalom
-2016-02-28,Klemen Kosi,SK,0,Combined
+2016-02-28,Klemen Kosi,SK,0,Super G
 2016-02-28,Bjoernar Neteland,NO,0,Super G
 2016-02-28,Kamiljon Tukhtaev,UZ,0,Combined
 2016-02-28,Elia Zurbriggen,CH,1,Giant Slalom
@@ -1073,7 +1073,7 @@ date,name,ath_country,value,specialty
 2016-02-28,Eemeli Pirinen,FI,0,Giant Slalom
 2016-02-28,Victor Malmstrom,FI,0,Combined
 2016-02-28,Krystof Kryzl,CZ,27,Giant Slalom
-2016-02-28,Adam Zampa,SK,10,Combined
+2016-02-28,Adam Zampa,SK,10,Slalom
 2016-02-28,Greg Galeotti,FR,0,Combined
 2016-02-28,Aleksandr Andrienko,RU,0,Combined
 2016-02-28,Alexander Schmid,DE,0,Combined
@@ -1096,10 +1096,10 @@ date,name,ath_country,value,specialty
 2016-03-04,Hyeon-Tae Kim,KR,0,Combined
 2016-03-04,Manuel Pleisch,CH,16,Giant Slalom
 2016-03-04,Tomoya Ishii,JP,0,Combined
-2016-03-04,Adam Zampa,SK,20,Combined
+2016-03-04,Adam Zampa,SK,20,Slalom
 2016-03-04,Daniele Sorio,IT,0,Combined
 2016-03-04,Tim Jitloff,US,105,Giant Slalom
-2016-03-04,Klemen Kosi,SK,0,Combined
+2016-03-04,Klemen Kosi,SK,0,Super G
 2016-03-04,Masanori Shin,JP,0,Combined
 2016-03-04,Andrew Weibrecht,US,3,Super G
 2016-03-04,Justin Murisier,CH,136,Giant Slalom
@@ -1302,7 +1302,7 @@ date,name,ath_country,value,specialty
 2016-03-05,Manfred Moelgg,IT,129,Slalom
 2016-03-05,Marcel Hirscher,AT,721,Slalom
 2016-03-05,Aleksandr Andrienko,RU,0,Combined
-2016-03-05,Adam Zampa,SK,24,Combined
+2016-03-05,Adam Zampa,SK,24,Slalom
 2016-03-05,Tyler Werry,CA,0,Combined
 2016-03-05,Marco Schwarz,AT,15,Slalom
 2016-03-05,Sebastiano Gastaldi,AR,0,Combined
@@ -1340,7 +1340,7 @@ date,name,ath_country,value,specialty
 2016-03-05,Martin Cater,SK,0,Super G
 2016-03-05,Masanori Shin,JP,0,Combined
 2016-03-05,Alexis Pinturault,FR,610,Giant Slalom
-2016-03-05,Klemen Kosi,SK,0,Combined
+2016-03-05,Klemen Kosi,SK,0,Super G
 2016-03-05,William Vukelic,HR,0,Combined
 2016-03-05,Roland Leitinger,AT,96,Giant Slalom
 2016-03-05,Kjetil Jansrud,NO,131,Downhill
@@ -1398,7 +1398,7 @@ date,name,ath_country,value,specialty
 2016-03-19,Alexander Schmid,DE,0,Combined
 2016-03-19,Robin Buffet,FR,0,Slalom
 2016-03-19,Andrew Weibrecht,US,3,Super G
-2016-03-19,Klemen Kosi,SK,0,Combined
+2016-03-19,Klemen Kosi,SK,0,Super G
 2016-03-19,Tim Jitloff,US,116,Giant Slalom
 2016-03-19,Masanori Shin,JP,0,Combined
 2016-03-19,Giovanni Borsotti,IT,71,Giant Slalom
@@ -1428,7 +1428,7 @@ date,name,ath_country,value,specialty
 2016-03-19,Riccardo Tonetti,IT,151,Giant Slalom
 2016-03-19,Mattias Roenngren,SE,0,Combined
 2016-03-19,Eemeli Pirinen,FI,14,Giant Slalom
-2016-03-19,Adam Zampa,SK,24,Combined
+2016-03-19,Adam Zampa,SK,24,Slalom
 2016-03-19,Filip Zubcic,HR,85,Giant Slalom
 2016-03-19,Daniele Sorio,IT,0,Combined
 2016-03-19,Francois Place,FR,0,Combined

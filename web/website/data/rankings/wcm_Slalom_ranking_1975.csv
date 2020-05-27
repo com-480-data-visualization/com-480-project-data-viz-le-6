@@ -13,7 +13,7 @@ date,name,ath_country,value,specialty
 1974-12-17,Thomas Hauser,AT,0,Giant Slalom
 1974-12-17,Willi Frommelt,LI,6,Slalom
 1974-12-17,Otto Berger,DE,8,Slalom
-1974-12-17,Francisco Fernandez Ochoa,ES,3,Combined
+1974-12-17,Francisco Fernandez Ochoa,ES,3,Slalom
 1974-12-17,Jan Bachleda,PL,0,Slalom
 1974-12-17,Hansjoerg Schlager,DE,0,Slalom
 1974-12-17,Christian Neureuther,DE,4,Slalom
@@ -36,7 +36,7 @@ date,name,ath_country,value,specialty
 1975-01-06,Otto Berger,DE,8,Slalom
 1975-01-06,Jan Bachleda,PL,11,Slalom
 1975-01-06,Hubert Berchtold,AT,0,Giant Slalom
-1975-01-06,Francisco Fernandez Ochoa,ES,9,Combined
+1975-01-06,Francisco Fernandez Ochoa,ES,9,Slalom
 1975-01-06,Ingemar Stenmark,SE,25,Slalom
 1975-01-06,Wolfgang Junginger,DE,0,Giant Slalom
 1975-01-06,Hansjoerg Schlager,DE,4,Slalom
@@ -60,7 +60,7 @@ date,name,ath_country,value,specialty
 1975-01-12,Cary Adgate,US,0,Slalom
 1975-01-12,Wolfgang Junginger,DE,0,Giant Slalom
 1975-01-12,Walter Tresch,CH,1,Combined
-1975-01-12,Francisco Fernandez Ochoa,ES,17,Combined
+1975-01-12,Francisco Fernandez Ochoa,ES,17,Slalom
 1975-01-12,Hubert Berchtold,AT,0,Giant Slalom
 1975-01-12,Hansjoerg Schlager,DE,7,Slalom
 1975-01-12,Claude Perrot,FR,0,Slalom
@@ -96,7 +96,7 @@ date,name,ath_country,value,specialty
 1975-01-19,Ingemar Stenmark,SE,70,Slalom
 1975-01-19,Otto Berger,DE,8,Slalom
 1975-01-19,Hubert Berchtold,AT,0,Giant Slalom
-1975-01-19,Francisco Fernandez Ochoa,ES,20,Combined
+1975-01-19,Francisco Fernandez Ochoa,ES,20,Slalom
 1975-01-19,Hansjoerg Schlager,DE,7,Slalom
 1975-01-19,Willi Frommelt,LI,8,Slalom
 1975-01-30,Wolfgang Junginger,DE,1,Giant Slalom
@@ -104,7 +104,7 @@ date,name,ath_country,value,specialty
 1975-01-30,Hansjoerg Schlager,DE,11,Slalom
 1975-01-30,Fausto Radici,IT,33,Slalom
 1975-01-30,Cary Adgate,US,1,Slalom
-1975-01-30,Francisco Fernandez Ochoa,ES,28,Combined
+1975-01-30,Francisco Fernandez Ochoa,ES,28,Slalom
 1975-01-30,Roman Derezinski,PL,2,Slalom
 1975-01-30,Max Rieger,DE,2,Slalom
 1975-01-30,Hansi Hinterseer,AT,27,Giant Slalom
@@ -133,7 +133,7 @@ date,name,ath_country,value,specialty
 1975-02-21,Hansjoerg Schlager,DE,22,Slalom
 1975-02-21,Christian Neureuther,DE,36,Slalom
 1975-02-21,Hubert Berchtold,AT,1,Giant Slalom
-1975-02-21,Francisco Fernandez Ochoa,ES,28,Combined
+1975-02-21,Francisco Fernandez Ochoa,ES,28,Slalom
 1975-02-21,Willi Frommelt,LI,8,Slalom
 1975-02-21,Thomas Hauser,AT,12,Giant Slalom
 1975-02-21,Cary Adgate,US,1,Slalom
@@ -156,7 +156,7 @@ date,name,ath_country,value,specialty
 1975-03-15,Paolo De Chiesa,IT,61,Slalom
 1975-03-15,Gustav Thoeni,IT,89,Slalom
 1975-03-15,Hansjoerg Schlager,DE,22,Slalom
-1975-03-15,Francisco Fernandez Ochoa,ES,39,Combined
+1975-03-15,Francisco Fernandez Ochoa,ES,39,Slalom
 1975-03-15,Jan Bachleda,PL,21,Slalom
 1975-03-15,Geoff Bruce,US,19,Slalom
 1975-03-15,Otto Berger,DE,8,Slalom

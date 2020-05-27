@@ -1,292 +1,317 @@
 date,name,ath_country,value,specialty
 2009-12-04,Carlo Janka,CH,100,Downhill
-2009-12-04,Stephan Keppler,DE,4,Super G
-2009-12-04,Alexandr Horoshilov,RU,6,Combined
-2009-12-04,Felix Neureuther,DE,9,Slalom
-2009-12-04,Patrick Kueng,CH,0,Downhill
-2009-12-04,Stephan Thanei,IT,8,Downhill
-2009-12-04,Aronne Pieruz,IT,0,Combined
-2009-12-04,Frederik Van Buynder,BE,0,Combined
-2009-12-04,Guillermo Fayed,FR,0,Downhill
-2009-12-04,Michael Walchhofer,AT,0,Super G
-2009-12-04,Andrej Sporn,SK,0,Downhill
-2009-12-04,Johan Clarey,FR,14,Downhill
-2009-12-04,Joachim Puchner,AT,11,Combined
-2009-12-04,Andrej Krizaj,SK,3,Super G
-2009-12-04,Niklas Rainer,SE,0,Combined
-2009-12-04,Dominik Paris,IT,5,Combined
-2009-12-04,Thomas Mermillod,FR,18,Giant Slalom
-2009-12-04,Didier Cuche,CH,13,Downhill
-2009-12-04,Sebastien Pichot,FR,10,Combined
-2009-12-04,Adrien Theaux,FR,0,Super G
-2009-12-04,Beat Feuz,CH,15,Combined
 2009-12-04,Werner Heel,IT,22,Downhill
-2009-12-04,Ryan Semple,CA,0,Combined
-2009-12-04,Philipp Schoerghofer,AT,0,Giant Slalom
-2009-12-04,Christof Innerhofer,IT,20,Super G
-2009-12-04,Lars Elton Myhre,NO,29,Slalom
-2009-12-04,Ondrej Bank,CZ,0,Combined
-2009-12-04,Hans Olsson,SE,0,Downhill
-2009-12-04,Alexandre Bouillot,FR,0,Combined
-2009-12-04,Gasper Markic,SK,2,Combined
-2009-12-04,Truls Ove Karlsen,NO,0,Giant Slalom
-2009-12-04,Mattia Casse,IT,0,Downhill
-2009-12-04,Tim Jitloff,US,0,Giant Slalom
-2009-12-04,Hannes Wagner,DE,0,Combined
-2009-12-04,Stepan Zuev,RU,0,Combined
-2009-12-04,Andreas Strodl,DE,0,Super G
-2009-12-04,Georg Streitberger,AT,0,Super G
-2009-12-04,Olivier Jenot,MC,0,Combined
-2009-12-04,Jens Byggmark,SE,0,Slalom
-2009-12-04,Massimiliano Blardone,IT,0,Giant Slalom
-2009-12-04,Roger Vidosa,AD,0,Combined
-2009-12-04,Bostjan Kline,SK,0,Combined
-2009-12-04,Filip Trejbal,CZ,0,Slalom
-2009-12-04,Krystof Kryzl,CZ,0,Giant Slalom
-2009-12-04,Marc Berthod,CH,0,Giant Slalom
-2009-12-04,Michael Janyk,CA,0,Slalom
-2009-12-04,Ralph Kreuzer,CH,0,Downhill
-2009-12-04,Cristian Javier Simari Birkner,AR,0,Combined
-2009-12-04,Dalibor Samsal,HR,0,Combined
-2009-12-04,Andrej Jerman,SK,0,Downhill
-2009-12-04,Andre Myhrer,SE,0,Slalom
-2009-12-04,Louis-Pierre Helie,CA,0,Downhill
-2009-12-04,Jeremie Durand,FR,0,Combined
-2009-12-04,Douglas Crawford,GB,0,Combined
-2009-12-04,Mikhail Taranenko,RU,0,Combined
-2009-12-04,Florian Scheiber,AT,0,Super G
 2009-12-04,Ivan Ratkic,HR,1,Combined
-2009-12-04,Patrick Staudacher,IT,0,Super G
-2009-12-04,Sandro Viletta,CH,26,Giant Slalom
+2009-12-04,Philipp Schoerghofer,AT,0,Giant Slalom
+2009-12-04,Florian Scheiber,AT,0,Super G
+2009-12-04,Daniel Ericsson,SE,0,Combined
 2009-12-04,Kjetil Jansrud,NO,24,Giant Slalom
-2009-12-04,Andrew Weibrecht,US,12,Downhill
-2009-12-04,Benjamin Raich,AT,36,Giant Slalom
-2009-12-04,Bode Miller,US,0,Combined
+2009-12-04,Jaroslav Babusiak,SK,0,Combined
+2009-12-04,Christof Innerhofer,IT,20,Super G
+2009-12-04,Maciej Bydlinski,PL,0,Combined
+2009-12-04,Stefan Georgiev,BG,0,Combined
+2009-12-04,Lars Elton Myhre,NO,29,Slalom
+2009-12-04,Mikhail Taranenko,RU,0,Combined
 2009-12-04,Julien Lizeroux,FR,32,Slalom
-2009-12-04,Ted Ligety,US,0,Giant Slalom
-2009-12-04,Silvan Zurbriggen,CH,0,Slalom
-2009-12-04,Aksel-Lund Svindal,NO,40,Super G
-2009-12-04,Marcel Hirscher,AT,0,Giant Slalom
-2009-12-04,Jean-Baptiste Grange,FR,50,Slalom
-2009-12-04,Manfred Moelgg,IT,7,Slalom
-2009-12-04,Markus Larsson,SE,16,Slalom
-2009-12-04,Natko Zrncic-Dim,HR,60,Combined
+2009-12-04,Douglas Crawford,GB,0,Combined
+2009-12-04,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-04,Jeremie Durand,FR,0,Combined
+2009-12-04,Louis-Pierre Helie,CA,0,Downhill
+2009-12-04,Sandro Viletta,CH,26,Giant Slalom
+2009-12-04,Andre Myhrer,SE,0,Slalom
 2009-12-04,Ivica Kostelic,HR,0,Slalom
+2009-12-04,Andrej Jerman,SK,0,Downhill
+2009-12-04,Patrick Staudacher,IT,0,Super G
+2009-12-04,Dalibor Samsal,HR,0,Combined
+2009-12-04,Truls Ove Karlsen,NO,0,Giant Slalom
+2009-12-04,Gasper Markic,SK,2,Combined
+2009-12-04,Andrej Sporn,SK,0,Downhill
+2009-12-04,Michael Walchhofer,AT,0,Super G
+2009-12-04,Guillermo Fayed,FR,0,Downhill
+2009-12-04,Andrew Weibrecht,US,12,Downhill
+2009-12-04,Johan Clarey,FR,14,Downhill
+2009-12-04,Aronne Pieruz,IT,0,Combined
+2009-12-04,Niklas Rainer,SE,0,Combined
+2009-12-04,Joachim Puchner,AT,11,Combined
+2009-12-04,Hans Olsson,SE,0,Downhill
+2009-12-04,Stephan Thanei,IT,8,Downhill
+2009-12-04,Patrick Kueng,CH,0,Downhill
+2009-12-04,Dominik Paris,IT,5,Combined
+2009-12-04,Felix Neureuther,DE,9,Slalom
+2009-12-04,Ryan Semple,CA,0,Combined
+2009-12-04,Thomas Mermillod,FR,18,Giant Slalom
+2009-12-04,Alexandr Horoshilov,RU,6,Combined
+2009-12-04,Adrien Theaux,FR,0,Super G
+2009-12-04,Stephan Keppler,DE,4,Super G
+2009-12-04,Andrej Krizaj,SK,3,Super G
+2009-12-04,Sebastien Pichot,FR,10,Combined
+2009-12-04,Alexandre Bouillot,FR,0,Combined
+2009-12-04,Beat Feuz,CH,15,Combined
+2009-12-04,Markus Larsson,SE,16,Slalom
+2009-12-04,Didier Cuche,CH,13,Downhill
+2009-12-04,Cristian Javier Simari Birkner,AR,0,Combined
+2009-12-04,Natko Zrncic-Dim,HR,60,Combined
+2009-12-04,Krystof Kryzl,CZ,0,Giant Slalom
+2009-12-04,Bode Miller,US,0,Combined
+2009-12-04,Filip Trejbal,CZ,0,Slalom
+2009-12-04,Manfred Moelgg,IT,7,Slalom
 2009-12-04,Didier Defago,CH,80,Downhill
+2009-12-04,Andreas Strodl,DE,0,Super G
+2009-12-04,Bostjan Kline,SK,0,Combined
+2009-12-04,Roger Vidosa,AD,0,Combined
 2009-12-04,Romed Baumann,AT,45,Giant Slalom
-2009-12-11,Stepan Zuev,RU,0,Combined
-2009-12-11,Massimiliano Blardone,IT,0,Giant Slalom
-2009-12-11,Johan Clarey,FR,14,Downhill
-2009-12-11,Silvan Zurbriggen,CH,26,Slalom
-2009-12-11,Joachim Puchner,AT,19,Combined
-2009-12-11,Ivan Ratkic,HR,1,Combined
-2009-12-11,Bode Miller,US,45,Combined
-2009-12-11,Andrej Krizaj,SK,3,Super G
-2009-12-11,Stephan Keppler,DE,4,Super G
-2009-12-11,Hannes Wagner,DE,0,Combined
-2009-12-11,Niklas Rainer,SE,15,Combined
-2009-12-11,Florian Scheiber,AT,1,Super G
-2009-12-11,Alexandr Horoshilov,RU,13,Combined
-2009-12-11,Hans Olsson,SE,0,Downhill
-2009-12-11,Julien Lizeroux,FR,38,Slalom
-2009-12-11,Felix Neureuther,DE,9,Slalom
-2009-12-11,Carlo Janka,CH,100,Downhill
-2009-12-11,Romed Baumann,AT,105,Giant Slalom
-2009-12-11,Andrej Sporn,SK,5,Downhill
-2009-12-11,Alexandre Bouillot,FR,3,Combined
-2009-12-11,Stephan Thanei,IT,19,Downhill
-2009-12-11,Georg Streitberger,AT,0,Super G
-2009-12-11,Natko Zrncic-Dim,HR,82,Combined
-2009-12-11,Aronne Pieruz,IT,12,Combined
-2009-12-11,Jens Byggmark,SE,0,Slalom
-2009-12-11,Ivica Kostelic,HR,32,Slalom
-2009-12-11,Manfred Moelgg,IT,67,Slalom
-2009-12-11,Gasper Markic,SK,2,Combined
-2009-12-11,Andreas Strodl,DE,0,Super G
-2009-12-11,Guillermo Fayed,FR,0,Downhill
-2009-12-11,Patrick Kueng,CH,0,Downhill
+2009-12-04,Georg Streitberger,AT,0,Super G
+2009-12-04,Massimiliano Blardone,IT,0,Giant Slalom
+2009-12-04,Marcel Hirscher,AT,0,Giant Slalom
+2009-12-04,Jens Byggmark,SE,0,Slalom
+2009-12-04,Olivier Jenot,MC,0,Combined
+2009-12-04,Silvan Zurbriggen,CH,0,Slalom
+2009-12-04,Jean-Baptiste Grange,FR,50,Slalom
+2009-12-04,Stepan Zuev,RU,0,Combined
+2009-12-04,Michael Janyk,CA,0,Slalom
+2009-12-04,Frederik Van Buynder,BE,0,Combined
+2009-12-04,Hannes Wagner,DE,0,Combined
+2009-12-04,Benjamin Raich,AT,36,Giant Slalom
+2009-12-04,Marc Berthod,CH,0,Giant Slalom
+2009-12-04,Mattia Casse,IT,0,Downhill
+2009-12-04,Ralph Kreuzer,CH,0,Downhill
+2009-12-04,Ted Ligety,US,0,Giant Slalom
+2009-12-04,Aksel-Lund Svindal,NO,40,Super G
+2009-12-04,Tim Jitloff,US,0,Giant Slalom
+2009-12-11,Mattia Casse,IT,0,Downhill
+2009-12-11,Tim Jitloff,US,0,Giant Slalom
 2009-12-11,Olivier Jenot,MC,0,Combined
-2009-12-11,Jean-Baptiste Grange,FR,50,Slalom
-2009-12-11,Michael Walchhofer,AT,13,Super G
-2009-12-11,Benjamin Raich,AT,136,Giant Slalom
-2009-12-11,Truls Ove Karlsen,NO,2,Giant Slalom
-2009-12-11,Dominik Paris,IT,15,Combined
+2009-12-11,Alexandr Horoshilov,RU,13,Combined
+2009-12-11,Guillermo Fayed,FR,0,Downhill
+2009-12-11,Joachim Puchner,AT,19,Combined
+2009-12-11,Georg Streitberger,AT,0,Super G
+2009-12-11,Stepan Zuev,RU,0,Combined
 2009-12-11,Andrew Weibrecht,US,12,Downhill
-2009-12-11,Mikhail Taranenko,RU,0,Combined
+2009-12-11,Patrick Kueng,CH,0,Downhill
+2009-12-11,Hannes Wagner,DE,0,Combined
+2009-12-11,Aronne Pieruz,IT,12,Combined
+2009-12-11,Andreas Strodl,DE,0,Super G
+2009-12-11,Stephan Thanei,IT,19,Downhill
 2009-12-11,Ryan Semple,CA,0,Combined
-2009-12-11,Aksel-Lund Svindal,NO,69,Super G
-2009-12-11,Roger Vidosa,AD,0,Combined
+2009-12-11,Stephan Keppler,DE,4,Super G
+2009-12-11,Truls Ove Karlsen,NO,2,Giant Slalom
+2009-12-11,Andrej Krizaj,SK,3,Super G
+2009-12-11,Andrej Jerman,SK,0,Downhill
+2009-12-11,Cristian Javier Simari Birkner,AR,0,Combined
 2009-12-11,Andre Myhrer,SE,0,Slalom
-2009-12-11,Filip Trejbal,CZ,0,Slalom
-2009-12-11,Jaroslav Babusiak,SK,0,Combined
-2009-12-11,Philipp Schoerghofer,AT,24,Giant Slalom
-2009-12-11,Werner Heel,IT,37,Downhill
-2009-12-11,Didier Defago,CH,80,Downhill
-2009-12-11,Markus Larsson,SE,56,Slalom
-2009-12-11,Lars Elton Myhre,NO,33,Slalom
-2009-12-11,Ondrej Bank,CZ,0,Combined
+2009-12-11,Louis-Pierre Helie,CA,0,Downhill
+2009-12-11,Ralph Kreuzer,CH,0,Downhill
+2009-12-11,Jeremie Durand,FR,0,Combined
+2009-12-11,Michael Janyk,CA,0,Slalom
+2009-12-11,Michael Walchhofer,AT,13,Super G
+2009-12-11,Marc Berthod,CH,0,Giant Slalom
+2009-12-11,Mikhail Taranenko,RU,0,Combined
+2009-12-11,Stefan Georgiev,BG,0,Combined
+2009-12-11,Frederik Van Buynder,BE,0,Combined
+2009-12-11,Jens Byggmark,SE,0,Slalom
 2009-12-11,Maciej Bydlinski,PL,0,Combined
 2009-12-11,Krystof Kryzl,CZ,0,Giant Slalom
-2009-12-11,Sandro Viletta,CH,62,Giant Slalom
-2009-12-11,Kjetil Jansrud,NO,24,Giant Slalom
-2009-12-11,Christof Innerhofer,IT,38,Super G
-2009-12-11,Louis-Pierre Helie,CA,0,Downhill
-2009-12-11,Marcel Hirscher,AT,80,Giant Slalom
 2009-12-11,Daniel Ericsson,SE,0,Combined
-2009-12-11,Douglas Crawford,GB,0,Combined
-2009-12-11,Mattia Casse,IT,0,Downhill
-2009-12-11,Sebastien Pichot,FR,30,Combined
-2009-12-11,Ted Ligety,US,0,Giant Slalom
-2009-12-11,Thomas Mermillod,FR,18,Giant Slalom
-2009-12-11,Adrien Theaux,FR,16,Super G
-2009-12-11,Didier Cuche,CH,13,Downhill
-2009-12-11,Beat Feuz,CH,24,Combined
-2009-12-11,Tim Jitloff,US,0,Giant Slalom
+2009-12-11,Filip Trejbal,CZ,0,Slalom
+2009-12-11,Florian Scheiber,AT,1,Super G
+2009-12-11,Ivan Ratkic,HR,1,Combined
 2009-12-11,Bostjan Kline,SK,0,Combined
-2009-12-11,Jeremie Durand,FR,0,Combined
-2010-01-15,Ivica Kostelic,HR,72,Slalom
-2010-01-15,Jens Byggmark,SE,0,Slalom
-2010-01-15,Stephan Keppler,DE,8,Super G
-2010-01-15,Mikhail Taranenko,RU,0,Combined
-2010-01-15,Silvan Zurbriggen,CH,86,Slalom
-2010-01-15,Krystof Kryzl,CZ,0,Giant Slalom
-2010-01-15,Andrej Krizaj,SK,3,Super G
-2010-01-15,Michael Janyk,CA,0,Slalom
-2010-01-15,Bostjan Kline,SK,0,Combined
-2010-01-15,Dalibor Samsal,HR,0,Combined
-2010-01-15,Douglas Crawford,GB,0,Combined
-2010-01-15,Patrick Staudacher,IT,2,Super G
-2010-01-15,Marcel Hirscher,AT,80,Giant Slalom
-2010-01-15,Alexandre Bouillot,FR,3,Combined
-2010-01-15,Bode Miller,US,145,Combined
-2010-01-15,Gasper Markic,SK,2,Combined
-2010-01-15,Andre Myhrer,SE,0,Slalom
-2010-01-15,Jeremie Durand,FR,0,Combined
-2010-01-15,Truls Ove Karlsen,NO,2,Giant Slalom
-2010-01-15,Louis-Pierre Helie,CA,0,Downhill
-2010-01-15,Massimiliano Blardone,IT,0,Giant Slalom
-2010-01-15,Didier Defago,CH,109,Downhill
-2010-01-15,Florian Scheiber,AT,1,Super G
-2010-01-15,Kjetil Jansrud,NO,48,Giant Slalom
-2010-01-15,Felix Neureuther,DE,9,Slalom
-2010-01-15,Dominik Paris,IT,33,Combined
-2010-01-15,Olivier Jenot,MC,0,Combined
-2010-01-15,Ted Ligety,US,45,Giant Slalom
-2010-01-15,Didier Cuche,CH,13,Downhill
-2010-01-15,Carlo Janka,CH,180,Downhill
-2010-01-15,Sebastien Pichot,FR,31,Combined
-2010-01-15,Adrien Theaux,FR,36,Super G
-2010-01-15,Mattia Casse,IT,0,Downhill
-2010-01-15,Beat Feuz,CH,46,Combined
-2010-01-15,Werner Heel,IT,37,Downhill
-2010-01-15,Aksel-Lund Svindal,NO,101,Super G
-2010-01-15,Ryan Semple,CA,8,Combined
-2010-01-15,Daniel Ericsson,SE,0,Combined
-2010-01-15,Philipp Schoerghofer,AT,24,Giant Slalom
-2010-01-15,Jaroslav Babusiak,SK,0,Combined
-2010-01-15,Christof Innerhofer,IT,64,Super G
-2010-01-15,Lars Elton Myhre,NO,48,Slalom
+2009-12-11,Patrick Staudacher,IT,0,Super G
+2009-12-11,Roger Vidosa,AD,0,Combined
+2009-12-11,Dalibor Samsal,HR,0,Combined
+2009-12-11,Gasper Markic,SK,2,Combined
+2009-12-11,Massimiliano Blardone,IT,0,Giant Slalom
+2009-12-11,Alexandre Bouillot,FR,3,Combined
+2009-12-11,Jaroslav Babusiak,SK,0,Combined
+2009-12-11,Douglas Crawford,GB,0,Combined
+2009-12-11,Felix Neureuther,DE,9,Slalom
+2009-12-11,Bode Miller,US,45,Combined
+2009-12-11,Dominik Paris,IT,15,Combined
+2009-12-11,Sandro Viletta,CH,62,Giant Slalom
+2009-12-11,Manfred Moelgg,IT,67,Slalom
+2009-12-11,Natko Zrncic-Dim,HR,82,Combined
+2009-12-11,Thomas Mermillod,FR,18,Giant Slalom
+2009-12-11,Ondrej Bank,CZ,0,Giant Slalom
+2009-12-11,Didier Cuche,CH,13,Downhill
+2009-12-11,Adrien Theaux,FR,16,Super G
+2009-12-11,Ivica Kostelic,HR,32,Slalom
+2009-12-11,Julien Lizeroux,FR,38,Slalom
+2009-12-11,Didier Defago,CH,80,Downhill
+2009-12-11,Sebastien Pichot,FR,30,Combined
+2009-12-11,Lars Elton Myhre,NO,33,Slalom
+2009-12-11,Beat Feuz,CH,24,Combined
+2009-12-11,Christof Innerhofer,IT,38,Super G
+2009-12-11,Marcel Hirscher,AT,80,Giant Slalom
+2009-12-11,Werner Heel,IT,37,Downhill
+2009-12-11,Kjetil Jansrud,NO,24,Giant Slalom
+2009-12-11,Romed Baumann,AT,105,Giant Slalom
+2009-12-11,Hans Olsson,SE,0,Downhill
+2009-12-11,Philipp Schoerghofer,AT,24,Giant Slalom
+2009-12-11,Jean-Baptiste Grange,FR,50,Slalom
+2009-12-11,Carlo Janka,CH,100,Downhill
+2009-12-11,Niklas Rainer,SE,15,Combined
+2009-12-11,Silvan Zurbriggen,CH,26,Slalom
+2009-12-11,Markus Larsson,SE,56,Slalom
+2009-12-11,Johan Clarey,FR,14,Downhill
+2009-12-11,Benjamin Raich,AT,136,Giant Slalom
+2009-12-11,Andrej Sporn,SK,5,Downhill
+2009-12-11,Ted Ligety,US,0,Giant Slalom
+2009-12-11,Aksel-Lund Svindal,NO,69,Super G
 2010-01-15,Markus Larsson,SE,56,Slalom
-2010-01-15,Ondrej Bank,CZ,36,Combined
+2010-01-15,Frederik Van Buynder,BE,0,Combined
+2010-01-15,Roger Vidosa,AD,0,Combined
 2010-01-15,Maciej Bydlinski,PL,0,Combined
-2010-01-15,Sandro Viletta,CH,69,Giant Slalom
+2010-01-15,Ted Ligety,US,45,Giant Slalom
+2010-01-15,Christof Innerhofer,IT,64,Super G
+2010-01-15,Ralph Kreuzer,CH,0,Downhill
+2010-01-15,Michael Janyk,CA,0,Slalom
+2010-01-15,Natko Zrncic-Dim,HR,82,Combined
+2010-01-15,Daniel Ericsson,SE,0,Combined
+2010-01-15,Massimiliano Blardone,IT,0,Giant Slalom
+2010-01-15,Kjetil Jansrud,NO,48,Giant Slalom
+2010-01-15,Florian Scheiber,AT,1,Super G
+2010-01-15,Jaroslav Babusiak,SK,0,Combined
+2010-01-15,Lars Elton Myhre,NO,48,Slalom
 2010-01-15,Julien Lizeroux,FR,38,Slalom
+2010-01-15,Stefan Georgiev,BG,0,Combined
+2010-01-15,Ivica Kostelic,HR,72,Slalom
+2010-01-15,Manfred Moelgg,IT,76,Slalom
+2010-01-15,Andre Myhrer,SE,0,Slalom
+2010-01-15,Filip Trejbal,CZ,0,Slalom
+2010-01-15,Louis-Pierre Helie,CA,0,Downhill
+2010-01-15,Dalibor Samsal,HR,0,Combined
+2010-01-15,Sandro Viletta,CH,69,Giant Slalom
+2010-01-15,Krystof Kryzl,CZ,0,Giant Slalom
+2010-01-15,Silvan Zurbriggen,CH,86,Slalom
+2010-01-15,Jeremie Durand,FR,0,Combined
+2010-01-15,Ondrej Bank,CZ,36,Giant Slalom
+2010-01-15,Bostjan Kline,SK,0,Combined
+2010-01-15,Douglas Crawford,GB,0,Combined
+2010-01-15,Cristian Javier Simari Birkner,AR,0,Combined
+2010-01-15,Mikhail Taranenko,RU,0,Combined
+2010-01-15,Andrej Jerman,SK,0,Downhill
+2010-01-15,Romed Baumann,AT,105,Giant Slalom
+2010-01-15,Aksel-Lund Svindal,NO,101,Super G
+2010-01-15,Didier Cuche,CH,13,Downhill
+2010-01-15,Philipp Schoerghofer,AT,24,Giant Slalom
+2010-01-15,Ryan Semple,CA,8,Combined
+2010-01-15,Andreas Strodl,DE,0,Super G
+2010-01-15,Ivan Ratkic,HR,1,Combined
+2010-01-15,Felix Neureuther,DE,9,Slalom
+2010-01-15,Mattia Casse,IT,0,Downhill
+2010-01-15,Dominik Paris,IT,33,Combined
+2010-01-15,Bode Miller,US,145,Combined
+2010-01-15,Stepan Zuev,RU,0,Combined
+2010-01-15,Patrick Kueng,CH,11,Downhill
+2010-01-15,Stephan Thanei,IT,25,Downhill
 2010-01-15,Hans Olsson,SE,16,Downhill
 2010-01-15,Thomas Mermillod,FR,29,Giant Slalom
-2010-01-15,Stefan Georgiev,BG,0,Combined
-2010-01-15,Romed Baumann,AT,105,Giant Slalom
-2010-01-15,Patrick Kueng,CH,11,Downhill
 2010-01-15,Benjamin Raich,AT,186,Giant Slalom
-2010-01-15,Stephan Thanei,IT,25,Downhill
-2010-01-15,Manfred Moelgg,IT,76,Slalom
+2010-01-15,Hannes Wagner,DE,0,Combined
+2010-01-15,Niklas Rainer,SE,15,Combined
 2010-01-15,Aronne Pieruz,IT,15,Combined
-2010-01-15,Georg Streitberger,AT,0,Super G
 2010-01-15,Andrew Weibrecht,US,12,Downhill
-2010-01-15,Joachim Puchner,AT,31,Combined
-2010-01-15,Frederik Van Buynder,BE,0,Combined
-2010-01-15,Guillermo Fayed,FR,13,Downhill
-2010-01-15,Marc Berthod,CH,0,Giant Slalom
-2010-01-15,Michael Walchhofer,AT,18,Super G
-2010-01-15,Stepan Zuev,RU,0,Combined
-2010-01-15,Jean-Baptiste Grange,FR,50,Slalom
-2010-01-15,Andrej Sporn,SK,19,Downhill
 2010-01-15,Johan Clarey,FR,14,Downhill
-2010-01-24,Benjamin Raich,AT,246,Giant Slalom
-2010-01-24,Maciej Bydlinski,PL,0,Combined
-2010-01-24,Stepan Zuev,RU,0,Combined
-2010-01-24,Jens Byggmark,SE,0,Slalom
-2010-01-24,Olivier Jenot,MC,0,Combined
-2010-01-24,Roger Vidosa,AD,0,Combined
-2010-01-24,Jaroslav Babusiak,SK,0,Combined
-2010-01-24,Krystof Kryzl,CZ,0,Giant Slalom
-2010-01-24,Carlo Janka,CH,216,Downhill
-2010-01-24,Ivica Kostelic,HR,172,Slalom
-2010-01-24,Filip Trejbal,CZ,0,Slalom
-2010-01-24,Daniel Ericsson,SE,0,Combined
-2010-01-24,Bostjan Kline,SK,0,Combined
-2010-01-24,Bode Miller,US,145,Combined
-2010-01-24,Tim Jitloff,US,0,Giant Slalom
-2010-01-24,Georg Streitberger,AT,0,Super G
-2010-01-24,Mattia Casse,IT,0,Downhill
-2010-01-24,Massimiliano Blardone,IT,0,Giant Slalom
-2010-01-24,Andreas Strodl,DE,0,Super G
+2010-01-15,Tim Jitloff,US,0,Giant Slalom
+2010-01-15,Andrej Sporn,SK,19,Downhill
+2010-01-15,Guillermo Fayed,FR,13,Downhill
+2010-01-15,Michael Walchhofer,AT,18,Super G
+2010-01-15,Carlo Janka,CH,180,Downhill
+2010-01-15,Joachim Puchner,AT,31,Combined
+2010-01-15,Alexandr Horoshilov,RU,13,Combined
+2010-01-15,Marc Berthod,CH,0,Giant Slalom
+2010-01-15,Werner Heel,IT,37,Downhill
+2010-01-15,Patrick Staudacher,IT,2,Super G
+2010-01-15,Alexandre Bouillot,FR,3,Combined
+2010-01-15,Olivier Jenot,MC,0,Combined
+2010-01-15,Beat Feuz,CH,46,Combined
+2010-01-15,Andrej Krizaj,SK,3,Super G
+2010-01-15,Truls Ove Karlsen,NO,2,Giant Slalom
+2010-01-15,Sebastien Pichot,FR,31,Combined
+2010-01-15,Jens Byggmark,SE,0,Slalom
+2010-01-15,Adrien Theaux,FR,36,Super G
+2010-01-15,Gasper Markic,SK,2,Combined
+2010-01-15,Jean-Baptiste Grange,FR,50,Slalom
+2010-01-15,Stephan Keppler,DE,8,Super G
+2010-01-15,Didier Defago,CH,109,Downhill
+2010-01-15,Georg Streitberger,AT,0,Super G
+2010-01-15,Marcel Hirscher,AT,80,Giant Slalom
 2010-01-24,Hannes Wagner,DE,0,Combined
-2010-01-24,Andrej Krizaj,SK,3,Super G
-2010-01-24,Michael Janyk,CA,0,Slalom
-2010-01-24,Guillermo Fayed,FR,13,Downhill
-2010-01-24,Michael Walchhofer,AT,18,Super G
-2010-01-24,Andrej Sporn,SK,19,Downhill
-2010-01-24,Johan Clarey,FR,14,Downhill
-2010-01-24,Jean-Baptiste Grange,FR,50,Slalom
-2010-01-24,Julien Lizeroux,FR,88,Slalom
-2010-01-24,Joachim Puchner,AT,46,Combined
-2010-01-24,Niklas Rainer,SE,15,Combined
-2010-01-24,Hans Olsson,SE,16,Downhill
-2010-01-24,Dominik Paris,IT,51,Combined
-2010-01-24,Thomas Mermillod,FR,29,Giant Slalom
-2010-01-24,Ted Ligety,US,71,Giant Slalom
-2010-01-24,Didier Cuche,CH,33,Downhill
-2010-01-24,Sebastien Pichot,FR,47,Combined
-2010-01-24,Adrien Theaux,FR,58,Super G
-2010-01-24,Beat Feuz,CH,60,Combined
-2010-01-24,Werner Heel,IT,37,Downhill
-2010-01-24,Ryan Semple,CA,32,Combined
-2010-01-24,Philipp Schoerghofer,AT,24,Giant Slalom
-2010-01-24,Aksel-Lund Svindal,NO,101,Super G
-2010-01-24,Christof Innerhofer,IT,64,Super G
-2010-01-24,Lars Elton Myhre,NO,48,Slalom
-2010-01-24,Ondrej Bank,CZ,68,Combined
-2010-01-24,Sandro Viletta,CH,69,Giant Slalom
-2010-01-24,Markus Larsson,SE,56,Slalom
-2010-01-24,Frederik Van Buynder,BE,13,Combined
+2010-01-24,Bode Miller,US,145,Combined
+2010-01-24,Frederik Van Buynder,BE,0,Combined
+2010-01-24,Massimiliano Blardone,IT,0,Giant Slalom
+2010-01-24,Tim Jitloff,US,0,Giant Slalom
+2010-01-24,Silvan Zurbriggen,CH,86,Slalom
+2010-01-24,Carlo Janka,CH,180,Downhill
+2010-01-24,Jens Byggmark,SE,0,Slalom
+2010-01-24,Krystof Kryzl,CZ,0,Giant Slalom
+2010-01-24,Bostjan Kline,SK,0,Combined
+2010-01-24,Benjamin Raich,AT,186,Giant Slalom
 2010-01-24,Manfred Moelgg,IT,76,Slalom
-2010-01-24,Andrew Weibrecht,US,12,Downhill
-2010-01-24,Aronne Pieruz,IT,15,Combined
-2010-01-24,Ralph Kreuzer,CH,0,Downhill
-2010-01-24,Cristian Javier Simari Birkner,AR,0,Combined
-2010-01-24,Dalibor Samsal,HR,0,Combined
-2010-01-24,Andrej Jerman,SK,0,Downhill
+2010-01-24,Roger Vidosa,AD,0,Combined
+2010-01-24,Olivier Jenot,MC,0,Combined
+2010-01-24,Stepan Zuev,RU,0,Combined
 2010-01-24,Didier Defago,CH,109,Downhill
-2010-01-24,Andre Myhrer,SE,0,Slalom
-2010-01-24,Louis-Pierre Helie,CA,0,Downhill
-2010-01-24,Jeremie Durand,FR,0,Combined
-2010-01-24,Douglas Crawford,GB,0,Combined
+2010-01-24,Filip Trejbal,CZ,0,Slalom
+2010-01-24,Georg Streitberger,AT,0,Super G
+2010-01-24,Romed Baumann,AT,105,Giant Slalom
+2010-01-24,Andreas Strodl,DE,0,Super G
+2010-01-24,Natko Zrncic-Dim,HR,82,Combined
 2010-01-24,Marcel Hirscher,AT,80,Giant Slalom
-2010-01-24,Mikhail Taranenko,RU,0,Combined
-2010-01-24,Silvan Zurbriggen,CH,166,Slalom
-2010-01-24,Marc Berthod,CH,0,Giant Slalom
-2010-01-24,Florian Scheiber,AT,1,Super G
-2010-01-24,Patrick Staudacher,IT,2,Super G
-2010-01-24,Truls Ove Karlsen,NO,2,Giant Slalom
+2010-01-24,Ondrej Bank,CZ,36,Giant Slalom
+2010-01-24,Jean-Baptiste Grange,FR,50,Slalom
 2010-01-24,Gasper Markic,SK,2,Combined
-2010-01-24,Natko Zrncic-Dim,HR,127,Combined
 2010-01-24,Alexandre Bouillot,FR,3,Combined
-2010-01-24,Kjetil Jansrud,NO,88,Giant Slalom
+2010-01-24,Beat Feuz,CH,46,Combined
+2010-01-24,Andrej Krizaj,SK,3,Super G
+2010-01-24,Sebastien Pichot,FR,31,Combined
 2010-01-24,Stephan Keppler,DE,8,Super G
 2010-01-24,Alexandr Horoshilov,RU,13,Combined
-2010-01-24,Romed Baumann,AT,134,Giant Slalom
+2010-01-24,Adrien Theaux,FR,36,Super G
+2010-01-24,Ryan Semple,CA,8,Combined
+2010-01-24,Thomas Mermillod,FR,29,Giant Slalom
 2010-01-24,Felix Neureuther,DE,9,Slalom
+2010-01-24,Werner Heel,IT,37,Downhill
 2010-01-24,Patrick Kueng,CH,11,Downhill
 2010-01-24,Stephan Thanei,IT,25,Downhill
-2010-01-24,Ivan Ratkic,HR,1,Combined
+2010-01-24,Joachim Puchner,AT,31,Combined
+2010-01-24,Hans Olsson,SE,16,Downhill
+2010-01-24,Aronne Pieruz,IT,15,Combined
+2010-01-24,Niklas Rainer,SE,15,Combined
+2010-01-24,Andrew Weibrecht,US,12,Downhill
+2010-01-24,Guillermo Fayed,FR,13,Downhill
+2010-01-24,Johan Clarey,FR,14,Downhill
+2010-01-24,Michael Walchhofer,AT,18,Super G
+2010-01-24,Andrej Sporn,SK,19,Downhill
+2010-01-24,Didier Cuche,CH,13,Downhill
+2010-01-24,Dominik Paris,IT,33,Combined
+2010-01-24,Truls Ove Karlsen,NO,2,Giant Slalom
+2010-01-24,Philipp Schoerghofer,AT,24,Giant Slalom
+2010-01-24,Patrick Staudacher,IT,2,Super G
+2010-01-24,Michael Janyk,CA,0,Slalom
+2010-01-24,Ralph Kreuzer,CH,0,Downhill
+2010-01-24,Ted Ligety,US,45,Giant Slalom
+2010-01-24,Cristian Javier Simari Birkner,AR,0,Combined
+2010-01-24,Aksel-Lund Svindal,NO,101,Super G
+2010-01-24,Dalibor Samsal,HR,0,Combined
+2010-01-24,Andrej Jerman,SK,0,Downhill
+2010-01-24,Markus Larsson,SE,56,Slalom
+2010-01-24,Andre Myhrer,SE,0,Slalom
+2010-01-24,Ivica Kostelic,HR,72,Slalom
+2010-01-24,Louis-Pierre Helie,CA,0,Downhill
+2010-01-24,Jeremie Durand,FR,0,Combined
+2010-01-24,Sandro Viletta,CH,69,Giant Slalom
+2010-01-24,Douglas Crawford,GB,0,Combined
+2010-01-24,Mikhail Taranenko,RU,0,Combined
 2010-01-24,Stefan Georgiev,BG,0,Combined
+2010-01-24,Julien Lizeroux,FR,38,Slalom
+2010-01-24,Maciej Bydlinski,PL,0,Combined
+2010-01-24,Lars Elton Myhre,NO,48,Slalom
+2010-01-24,Jaroslav Babusiak,SK,0,Combined
+2010-01-24,Daniel Ericsson,SE,0,Combined
+2010-01-24,Christof Innerhofer,IT,64,Super G
+2010-01-24,Florian Scheiber,AT,1,Super G
+2010-01-24,Kjetil Jansrud,NO,48,Giant Slalom
+2010-01-24,Ivan Ratkic,HR,1,Combined
+2010-01-24,Marc Berthod,CH,0,Giant Slalom
+2010-01-24,Mattia Casse,IT,0,Downhill

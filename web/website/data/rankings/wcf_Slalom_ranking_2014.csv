@@ -75,7 +75,7 @@ date,name,ath_country,value,specialty
 2013-11-16,Katerina Paulathova,CZ,0,Combined
 2013-11-16,Veronika Staber,DE,0,Slalom
 2013-11-16,Bernadette Schild,AT,0,Slalom
-2013-11-16,Macarena Simari-Birkner,AR,0,Downhill
+2013-11-16,Macarena Simari-Birkner,AR,0,Combined
 2013-11-16,Triin Tobi,EE,0,Combined
 2013-11-16,Marlies Schild,AT,0,Slalom
 2013-11-16,Nicole Agnelli,IT,0,Giant Slalom
@@ -103,7 +103,7 @@ date,name,ath_country,value,specialty
 2013-11-16,Sara Hector,SE,0,Giant Slalom
 2013-11-16,Anna Swenn-Larsson,SE,29,Slalom
 2013-11-16,Rahel Kopp,CH,0,Combined
-2013-11-16,Barbara Kantorova,SK,0,Downhill
+2013-11-16,Barbara Kantorova,SK,0,Combined
 2013-11-16,Helena Prosteva,RU,0,Combined
 2013-11-16,Maria Belen Simari-Birkner,AR,0,Combined
 2013-11-16,Sabina Majerczyk,PL,0,Combined
@@ -126,7 +126,7 @@ date,name,ath_country,value,specialty
 2013-12-17,Brittany Phelan,CA,4,Slalom
 2013-12-17,Susanne Riesch,DE,0,Slalom
 2013-12-17,Veronika Staber,DE,0,Slalom
-2013-12-17,Barbara Kantorova,SK,0,Downhill
+2013-12-17,Barbara Kantorova,SK,0,Combined
 2013-12-17,Mona Loeseth,NO,0,Giant Slalom
 2013-12-17,Resi Stiegler,US,10,Slalom
 2013-12-17,Charlotta Saefvenberg,SE,21,Slalom
@@ -137,7 +137,7 @@ date,name,ath_country,value,specialty
 2013-12-17,Marija Shkanova,BY,0,Combined
 2013-12-17,Eli Plut,SK,0,Combined
 2013-12-17,Sabina Majerczyk,PL,0,Combined
-2013-12-17,Macarena Simari-Birkner,AR,0,Downhill
+2013-12-17,Macarena Simari-Birkner,AR,0,Combined
 2013-12-17,Lavinia Chrystal,AU,0,Combined
 2013-12-17,Rosina Schneeberger,AT,0,Combined
 2013-12-17,Tanja Poutiainen,FI,0,Giant Slalom
@@ -317,9 +317,9 @@ date,name,ath_country,value,specialty
 2013-12-29,Michela Azzola,IT,0,Slalom
 2013-12-29,Eli Plut,SK,0,Combined
 2013-12-29,Alexandra Daum,AT,52,Slalom
-2013-12-29,Macarena Simari-Birkner,AR,0,Downhill
+2013-12-29,Macarena Simari-Birkner,AR,0,Combined
 2013-12-29,Frida Hansdotter,SE,152,Slalom
-2013-12-29,Barbara Kantorova,SK,0,Downhill
+2013-12-29,Barbara Kantorova,SK,0,Combined
 2013-12-29,Marina Wallner,DE,23,Slalom
 2013-12-29,Denise Feierabend,CH,48,Slalom
 2013-12-29,Sabina Majerczyk,PL,0,Combined
@@ -384,7 +384,7 @@ date,name,ath_country,value,specialty
 2014-01-05,Eli Plut,SK,0,Combined
 2014-01-05,Barbora Lukacova,SK,0,Combined
 2014-01-05,Ricarda Haaser,AT,0,Combined
-2014-01-05,Barbara Kantorova,SK,0,Downhill
+2014-01-05,Barbara Kantorova,SK,0,Combined
 2014-01-05,Martina Dubovska,CZ,3,Slalom
 2014-01-05,Paula Moltzan,US,0,Combined
 2014-01-05,Emelie Wikstroem,SE,62,Slalom
@@ -424,7 +424,7 @@ date,name,ath_country,value,specialty
 2014-01-05,Lena Duerr,DE,6,Slalom
 2014-01-05,Marina Wallner,DE,23,Slalom
 2014-01-05,Paulina Grassl,SE,0,Combined
-2014-01-05,Macarena Simari-Birkner,AR,0,Downhill
+2014-01-05,Macarena Simari-Birkner,AR,0,Combined
 2014-01-05,Lavinia Chrystal,AU,0,Combined
 2014-01-05,Ksenia Alopina,RU,0,Combined
 2014-01-05,Anemone Marmottan,FR,13,Giant Slalom
@@ -471,7 +471,7 @@ date,name,ath_country,value,specialty
 2014-01-14,Marie-Michele Gagnon,CA,206,Slalom
 2014-01-14,Ramona Siebenhofer,AT,0,Combined
 2014-01-14,Sofija Novoselic,HR,0,Combined
-2014-01-14,Macarena Simari-Birkner,AR,0,Downhill
+2014-01-14,Macarena Simari-Birkner,AR,0,Combined
 2014-01-14,Maria Pietilae-Holmner,SE,151,Giant Slalom
 2014-01-14,Paula Moltzan,US,0,Combined
 2014-01-14,Emi Hasegawa,JP,0,Giant Slalom
@@ -498,7 +498,7 @@ date,name,ath_country,value,specialty
 2014-01-14,Tina Maze,SK,119,Downhill
 2014-01-14,Susanne Weinbuchner,DE,0,Combined
 2014-01-14,Emiko Kiyosawa,JP,0,Combined
-2014-01-14,Barbara Kantorova,SK,0,Downhill
+2014-01-14,Barbara Kantorova,SK,0,Combined
 2014-01-14,Paulina Grassl,SE,0,Combined
 2014-01-14,Charlotte Guest,GB,0,Combined
 2014-01-14,Marija Shkanova,BY,0,Combined
@@ -591,7 +591,7 @@ date,name,ath_country,value,specialty
 2014-02-02,Marion Bertrand,FR,13,Giant Slalom
 2014-02-02,Maria Riesch Hoefl,DE,198,Downhill
 2014-02-02,Barbara Wirth,DE,82,Slalom
-2014-02-02,Macarena Simari-Birkner,AR,0,Downhill
+2014-02-02,Macarena Simari-Birkner,AR,0,Combined
 2014-02-02,Madison Irwin,CA,0,Combined
 2014-02-02,Mona Loeseth,NO,12,Giant Slalom
 2014-02-02,Anemone Marmottan,FR,13,Giant Slalom
@@ -629,7 +629,7 @@ date,name,ath_country,value,specialty
 2014-02-02,Carmen Geyr,IT,0,Combined
 2014-02-02,Emiko Kiyosawa,JP,0,Combined
 2014-02-02,Mireia Gutierrez,AD,0,Combined
-2014-02-02,Barbara Kantorova,SK,0,Downhill
+2014-02-02,Barbara Kantorova,SK,0,Combined
 2014-02-02,Christina Ager,AT,50,Slalom
 2014-02-02,Michela Azzola,IT,24,Slalom
 2014-02-02,Paula Moltzan,US,0,Combined
@@ -704,7 +704,7 @@ date,name,ath_country,value,specialty
 2014-03-08,Frida Hansdotter,SE,408,Slalom
 2014-03-08,Resi Stiegler,US,43,Slalom
 2014-03-08,Susanne Weinbuchner,DE,0,Combined
-2014-03-08,Barbara Kantorova,SK,0,Downhill
+2014-03-08,Barbara Kantorova,SK,0,Combined
 2014-03-08,Erin Mielzynski,CA,42,Slalom
 2014-03-08,Alexandra Daum,AT,72,Slalom
 2014-03-08,Charlotte Guest,GB,0,Combined
@@ -718,7 +718,7 @@ date,name,ath_country,value,specialty
 2014-03-08,Maria Belen Simari-Birkner,AR,0,Combined
 2014-03-08,Emelie Wikstroem,SE,96,Slalom
 2014-03-08,Elli Terwiel,CA,24,Slalom
-2014-03-08,Macarena Simari-Birkner,AR,0,Downhill
+2014-03-08,Macarena Simari-Birkner,AR,0,Combined
 2014-03-08,Carmen Geyr,IT,0,Combined
 2014-03-08,Mizue Hoshi,JP,0,Combined
 2014-03-08,Sandra Holm,FI,0,Combined
@@ -798,7 +798,7 @@ date,name,ath_country,value,specialty
 2014-03-08,Irene Curtoni,IT,0,Combined
 2014-03-08,Sarka Strachova Zahrobska,CZ,134,Slalom
 2014-03-15,Sasa Brezovnik,SK,0,Combined
-2014-03-15,Macarena Simari-Birkner,AR,0,Downhill
+2014-03-15,Macarena Simari-Birkner,AR,0,Combined
 2014-03-15,Eli Plut,SK,0,Combined
 2014-03-15,Ieva Januskeviciute,LT,0,Combined
 2014-03-15,Dominique Gisin,CH,0,Downhill
@@ -882,7 +882,7 @@ date,name,ath_country,value,specialty
 2014-03-15,Veronika Staber,DE,7,Slalom
 2014-03-15,Monica Huebner,DE,0,Combined
 2014-03-15,Sabina Majerczyk,PL,0,Combined
-2014-03-15,Barbara Kantorova,SK,0,Downhill
+2014-03-15,Barbara Kantorova,SK,0,Combined
 2014-03-15,Helena Prosteva,RU,0,Combined
 2014-03-15,Rahel Kopp,CH,0,Combined
 2014-03-15,Lelde Gasuna,LV,0,Combined

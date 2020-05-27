@@ -5,7 +5,7 @@ date,name,ath_country,value,specialty
 2013-10-26,Kajsa Kling,SE,0,Super G
 2013-10-26,Yina Moe Lange,DK,0,Combined
 2013-10-26,Denise Karbon,IT,12,Giant Slalom
-2013-10-26,Andrea Komsic,HR,0,Downhill
+2013-10-26,Andrea Komsic,HR,0,Combined
 2013-10-26,Veronique Hronek,DE,24,Super G
 2013-10-26,Romane Miradoli,FR,0,Combined
 2013-10-26,Marie-Michele Gagnon,CA,26,Slalom
@@ -76,7 +76,7 @@ date,name,ath_country,value,specialty
 2013-10-26,Simona Hoesl,DE,0,Combined
 2013-10-26,Jennifer Piot,FR,0,Super G
 2013-10-26,Moe Hanaoka,JP,0,Combined
-2013-10-26,Barbara Kantorova,SK,0,Downhill
+2013-10-26,Barbara Kantorova,SK,0,Combined
 2013-10-26,Wendy Holdener,CH,0,Slalom
 2013-10-26,Greta Small,AU,0,Combined
 2013-10-26,Carmen Thalmann,AT,0,Slalom
@@ -123,7 +123,7 @@ date,name,ath_country,value,specialty
 2013-12-01,Veronique Hronek,DE,24,Super G
 2013-12-01,Marta Bassino,IT,0,Giant Slalom
 2013-12-01,Sakurako Mukohgawa,JP,0,Combined
-2013-12-01,Andrea Komsic,HR,0,Downhill
+2013-12-01,Andrea Komsic,HR,0,Combined
 2013-12-01,Adeline Baud,FR,22,Giant Slalom
 2013-12-01,Irene Curtoni,IT,0,Combined
 2013-12-01,Anemone Marmottan,FR,62,Giant Slalom
@@ -136,7 +136,7 @@ date,name,ath_country,value,specialty
 2013-12-01,Maria Belen Simari-Birkner,AR,0,Combined
 2013-12-01,Merle Soppela,FI,0,Combined
 2013-12-01,Elisabeth Goergl,AT,21,Downhill
-2013-12-01,Barbara Kantorova,SK,0,Downhill
+2013-12-01,Barbara Kantorova,SK,0,Combined
 2013-12-01,Maryna Gasienica Daniel,PL,0,Combined
 2013-12-01,Katarina Lavtar,SK,2,Giant Slalom
 2013-12-01,Mona Loeseth,NO,0,Giant Slalom
@@ -223,7 +223,7 @@ date,name,ath_country,value,specialty
 2013-12-01,Nicole Agnelli,IT,0,Giant Slalom
 2013-12-15,Brittany Phelan,CA,0,Slalom
 2013-12-15,Anne Sophie Barthet,FR,16,Slalom
-2013-12-15,Barbara Kantorova,SK,0,Downhill
+2013-12-15,Barbara Kantorova,SK,0,Combined
 2013-12-15,Mona Loeseth,NO,0,Giant Slalom
 2013-12-15,Rahel Kopp,CH,0,Combined
 2013-12-15,Magdalena Fjaellstroem,SE,0,Slalom
@@ -282,7 +282,7 @@ date,name,ath_country,value,specialty
 2013-12-15,Yina Moe Lange,DK,0,Combined
 2013-12-15,Andrea Ellenberger,CH,0,Combined
 2013-12-15,Denise Karbon,IT,30,Giant Slalom
-2013-12-15,Andrea Komsic,HR,0,Downhill
+2013-12-15,Andrea Komsic,HR,0,Combined
 2013-12-15,Anemone Marmottan,FR,107,Giant Slalom
 2013-12-15,Veronique Hronek,DE,24,Super G
 2013-12-15,Mikaela Shiffrin,US,120,Slalom
@@ -335,7 +335,7 @@ date,name,ath_country,value,specialty
 2013-12-22,Sofia Goggia,IT,0,Super G
 2013-12-22,Ania Monica Cail,RO,0,Combined
 2013-12-22,Marija Shkanova,BY,0,Combined
-2013-12-22,Barbara Kantorova,SK,0,Downhill
+2013-12-22,Barbara Kantorova,SK,0,Combined
 2013-12-22,Patrizia Dorsch,DE,0,Combined
 2013-12-22,Rosina Schneeberger,AT,0,Combined
 2013-12-22,Rebecca Buehler,LI,0,Combined
@@ -368,7 +368,7 @@ date,name,ath_country,value,specialty
 2013-12-22,Lisa Magdalena Agerer,IT,0,Combined
 2013-12-22,Charlotte Techen Lemgart,DK,0,Combined
 2013-12-22,Merle Soppela,FI,0,Combined
-2013-12-22,Andrea Komsic,HR,0,Downhill
+2013-12-22,Andrea Komsic,HR,0,Combined
 2013-12-22,Andrea Ellenberger,CH,0,Combined
 2013-12-22,Resi Stiegler,US,0,Slalom
 2013-12-22,Agnieszka Gasienica Daniel,PL,0,Combined
@@ -461,7 +461,7 @@ date,name,ath_country,value,specialty
 2013-12-28,Greta Small,AU,0,Combined
 2013-12-28,Rosina Schneeberger,AT,0,Combined
 2013-12-28,Mona Loeseth,NO,19,Giant Slalom
-2013-12-28,Barbara Kantorova,SK,0,Downhill
+2013-12-28,Barbara Kantorova,SK,0,Combined
 2013-12-28,Eva-Maria Brem,AT,65,Giant Slalom
 2013-12-28,Moe Hanaoka,JP,0,Combined
 2013-12-28,Ramona Siebenhofer,AT,23,Combined
@@ -512,7 +512,7 @@ date,name,ath_country,value,specialty
 2013-12-28,Veronique Hronek,DE,24,Super G
 2013-12-28,Romane Miradoli,FR,0,Combined
 2013-12-28,Adriana Jelinkova,NL,0,Combined
-2013-12-28,Andrea Komsic,HR,0,Downhill
+2013-12-28,Andrea Komsic,HR,0,Combined
 2013-12-28,Jana Gantnerova,SK,0,Combined
 2013-12-28,Denise Karbon,IT,68,Giant Slalom
 2013-12-28,Maria Riesch Hoefl,DE,130,Downhill
@@ -575,7 +575,7 @@ date,name,ath_country,value,specialty
 2014-03-06,Yina Moe Lange,DK,0,Combined
 2014-03-06,Sofija Novoselic,HR,0,Combined
 2014-03-06,Nicole Agnelli,IT,0,Giant Slalom
-2014-03-06,Andrea Komsic,HR,0,Downhill
+2014-03-06,Andrea Komsic,HR,0,Combined
 2014-03-06,Romane Miradoli,FR,0,Combined
 2014-03-06,Jana Gantnerova,SK,0,Combined
 2014-03-06,Marta Bassino,IT,0,Giant Slalom
@@ -658,7 +658,7 @@ date,name,ath_country,value,specialty
 2014-03-06,Resi Stiegler,US,0,Slalom
 2014-03-06,Bernadette Schild,AT,0,Slalom
 2014-03-06,Agnieszka Gasienica Daniel,PL,0,Combined
-2014-03-06,Barbara Kantorova,SK,0,Downhill
+2014-03-06,Barbara Kantorova,SK,0,Combined
 2014-03-06,Mona Loeseth,NO,19,Giant Slalom
 2014-03-06,Michaela Kirchgasser,AT,30,Slalom
 2014-03-06,Carmen Thalmann,AT,20,Slalom
@@ -697,7 +697,7 @@ date,name,ath_country,value,specialty
 2014-03-07,Sarka Strachova Zahrobska,CZ,0,Slalom
 2014-03-07,Federica Brignone,IT,193,Giant Slalom
 2014-03-07,Susanne Weinbuchner,DE,0,Combined
-2014-03-07,Barbara Kantorova,SK,0,Downhill
+2014-03-07,Barbara Kantorova,SK,0,Combined
 2014-03-07,Ylva Staalnacke,SE,0,Combined
 2014-03-07,Carmen Thalmann,AT,20,Slalom
 2014-03-07,Frida Hansdotter,SE,26,Slalom
@@ -729,7 +729,7 @@ date,name,ath_country,value,specialty
 2014-03-07,Tessa Worley,FR,139,Giant Slalom
 2014-03-07,Jessica Lindell-Vikarby,SE,432,Giant Slalom
 2014-03-07,Adeline Baud,FR,45,Giant Slalom
-2014-03-07,Andrea Komsic,HR,0,Downhill
+2014-03-07,Andrea Komsic,HR,0,Combined
 2014-03-07,Mirjam Puchner,AT,0,Downhill
 2014-03-07,Maryna Gasienica Daniel,PL,0,Combined
 2014-03-07,Agnieszka Gasienica Daniel,PL,0,Combined
@@ -805,7 +805,7 @@ date,name,ath_country,value,specialty
 2014-03-16,Wendy Holdener,CH,26,Slalom
 2014-03-16,Greta Small,AU,0,Combined
 2014-03-16,Mona Loeseth,NO,19,Giant Slalom
-2014-03-16,Barbara Kantorova,SK,0,Downhill
+2014-03-16,Barbara Kantorova,SK,0,Combined
 2014-03-16,Sabrina Fanchini,IT,15,Giant Slalom
 2014-03-16,Ramona Siebenhofer,AT,23,Combined
 2014-03-16,Anne Sophie Barthet,FR,25,Slalom
@@ -878,7 +878,7 @@ date,name,ath_country,value,specialty
 2014-03-16,Maria Bedareva,RU,0,Combined
 2014-03-16,Romane Miradoli,FR,0,Combined
 2014-03-16,Denise Karbon,IT,83,Giant Slalom
-2014-03-16,Andrea Komsic,HR,0,Downhill
+2014-03-16,Andrea Komsic,HR,0,Combined
 2014-03-16,Kajsa Kling,SE,100,Super G
 2014-03-16,Yina Moe Lange,DK,0,Combined
 2014-03-16,Ana Drev,SK,0,Combined
