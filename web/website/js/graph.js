@@ -99,7 +99,8 @@ function create_graph(container, detailContainer,dataFile) {
 
         loadAthlete(d.name,get_current_year())
     }
-
+    const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
+    const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
     function getNodeClass(d){
         switch(d.group){
             case 0: return "athlete"
@@ -116,11 +117,11 @@ function create_graph(container, detailContainer,dataFile) {
     function colorNodes(){
         d3.selectAll('.nodes>g>circle.athlete').style('fill', 'black')
         d3.selectAll('.nodes>g>circle.overall').style('fill', 'red')
-        d3.selectAll('.nodes>g>circle.downhill').style('fill', 'blue')
-        d3.selectAll('.nodes>g>circle.super-g').style('fill', 'purple')
-        d3.selectAll('.nodes>g>circle.giant-slalom').style('fill', 'yellow')
-        d3.selectAll('.nodes>g>circle.slalom').style('fill', 'orange')
-        d3.selectAll('.nodes>g>circle.combined').style('fill', 'green')
-        d3.selectAll('.nodes>g>circle.parallel').style('fill', 'gray')
+        d3.selectAll('.nodes>g>circle.downhill').style('fill', colors('Downhill'))
+        d3.selectAll('.nodes>g>circle.super-g').style('fill', colors('Super G'))
+        d3.selectAll('.nodes>g>circle.giant-slalom').style('fill', colors('Giant Slalom'))
+        d3.selectAll('.nodes>g>circle.slalom').style('fill', colors('Slalom'))
+        d3.selectAll('.nodes>g>circle.combined').style('fill', colors('Combined'))
+        d3.selectAll('.nodes>g>circle.parallel').style('fill', colors('Parallel'))
     }
 }
