@@ -57,3 +57,11 @@
 #interactive-rankings path.domain {
     display: none;
 }
+
+#interactive-rankings .bar{
+    cursor: pointer;
+}
+
+#interactive-rankings text.label{
+    cursor: pointer;
+}

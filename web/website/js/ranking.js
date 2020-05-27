@@ -178,7 +178,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .attr('y', d => y(d.rank) + 5)
             .attr('height', y(1) - y(0) - barPadding)
             .style('fill', d => d.colour)
-            .on('click', d => console.log(d.name))
+            .on('click', d => loadAthlete(d.name, get_current_year()))
         ;
     
         svg.selectAll('text.label')
@@ -190,7 +190,7 @@ function create_ranking(rankingId, dataFile, year, locations){
             .attr('y', d => y(d.rank) + 5 + ((y(1) - y(0)) / 2) + 1)
             .style('text-anchor', 'end')
             .text(d => getName(d.name, x(d.value) - x(0) - 1))
-            .on('click', d => console.log(d.name));
+            .on('click', d => loadAthlete(d.name, get_current_year()));
 
         svg.selectAll('text.valueLabel')
             .data(yearSlice, d => d.name)
