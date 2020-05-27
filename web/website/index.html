@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="./css/graph.css">
     <link rel="stylesheet" href="./css/map.css">
     <link rel="stylesheet" href="./css/ranking.css">
+    <link rel="stylesheet" href="./css/race.css">
 
     <title>Evolution dashboard</title>
 </head>
@@ -97,6 +98,18 @@
             <div class="full_height col-3">
                 <div class="full_height col-12 border rounded mx-2">
                     <p>RACE INFO</p>
+                    <div id="container">
+                        <div id="race">
+                            <div id="venue"></div>
+                            <div id="event"></div>
+                        </div>
+                        <div id="country">
+                            <div id="country_name"></div>
+                            <div id="flag"></div>
+                        </div>
+                        <div id="image"></div>
+                    </div>
+                    <div id="viz"></div>
                 </div>
             </div>
         </div>
@@ -169,6 +182,7 @@
     <script src="./js/map.js"></script>
     <script src="./js/graph.js"></script>
     <script src="js/ranking.js"></script>
+   <script src="js/race.js"></script>
 
     <script>
         var currentRanking = ''
@@ -238,6 +252,8 @@
            refresh_ranking(currentRanking,get_current_year())
            refresh_graph(get_current_year())
         })
+
+        setup("2020-03-07", "data/race_results_wcm.csv", true);
     </script>
 </body>
 

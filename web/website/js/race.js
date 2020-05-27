@@ -1,4 +1,3 @@
-
 function setup(date, file, isMen) {
 
     function centisToMinutesAndSeconds(centis) {
@@ -17,7 +16,7 @@ function setup(date, file, isMen) {
     const rowTemplate = (d) => {
         return `
   <td>${d.ath_rank}</td>
-  <td> <img src=${'"' + d.photo + '"'}  height=100 width = 100 </td>
+  <td> <img class="ath-img" src=${'"' + d.photo + '"'}  height=100 width = 100 </td>
   <td>${d.ath_name}</td>
   <td>${d.ath_country_name}</td>
   <td>${centisToMinutesAndSeconds(d.ath_time)}</td>
@@ -44,7 +43,7 @@ function setup(date, file, isMen) {
         d3.select("#event").text(filtered[0].event);
         d3.select("#country_name").text(filtered[0].country_name);
         var img = document.createElement("img");
-        img.src = "./data/event_images/" + venueImage(filtered[0].venue);
+        img.src = "./img/events/" + venueImage(filtered[0].venue);
         var src = document.getElementById("image");
         src.appendChild(img);
 
