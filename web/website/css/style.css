@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
     font-family: Open Sans, sans-serif;
+    background-color: #eeeeff;
 }
 
 .full_height{
@@ -22,4 +23,3 @@ html, body {
 .timeline_row{
     height: 5%;
 }
-
