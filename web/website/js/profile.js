@@ -110,7 +110,7 @@ function drawGraphEvent(data, categories, colors, maxPoints) {
         .join('rect')
         .attr('y', d => yScale(d.event))
         .attr('x', d => margin.left)
-        .attr('width', d => xScale(d.value | 0))
+        .attr('width', d => xScale(d.value | 0) - xScale(0))
         .attr('height', yScale.bandwidth())
         .style('fill', d => colors(d.event));
 
@@ -199,7 +199,7 @@ function loadAthlete(name, currentYear = 2020) {
             }
         }
         for (const key of categories) {
-            data.push({ "event": key, "value": [[(data_tmp[key][1] == 0 ? 0 : data_tmp[key][0] / data_tmp[key][1])]] });
+            data.push({ "event": key, "value": [(data_tmp[key][1] == 0 ? 0 : data_tmp[key][0] / data_tmp[key][1])] });
         }
         drawGraphEvent(data, categories, colors, maxPoints);
     });
