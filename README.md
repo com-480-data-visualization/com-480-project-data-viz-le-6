@@ -12,103 +12,63 @@
 
 - **10% of the final grade**
 
-### 1.1 Dataset
-
-Our work will focus on the international ski federation (FIS, *fédération internationale de ski*) alpine skiing (AS) world cup (WC) results for both men and women, from 1966 until 2020.
-
-The data is directly extracted from [Ski-DB](https://www.ski-db.com/).
-This site provides all results of every AS-WC race, following the data found directly on the [FIS website](https://www.fis-ski.com/DB/general/calendar-results.html?eventselection=results&sectorcode=AL&categorycode=WC).
-We preferred using the former site rather than the latter for the [scraping part](/parser/parser.ipynb); indeed, the first site has a simpler layout that allows for easier work on the data, while remaining clean and exact.
-You can see the manual corrections in the notebook.
-All the data is already present in our repository - for both [men](/data/wcm.csv) and [women](/data/wcf.csv).
-
-An example entry:
-
-| season | date | venue | country | event | ath_rank | ath_name | ath_country | ath_time_run_1 | ath_time_run_2 | ath_time | ath_time_diff | ath_ski | ath_id |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020 | 2020-01-12 | Adelboden | SUI | Slalom | 1 | Daniel Yule | SUI | 5315 | 5558 | 10873 | 0 | Fischer | daniel_yule_sui_511996 |
-
-An entry is uniquely indexable using the *gender*, the *date* of the race, its *event type* (Slalom, Downhill, etc.) and the *name* of the athlete.
-If a run was cancelled for one reason or another, it is still present with a (unique) blank athlete name.
-The times are in hundredths of seconds to keep them as integers.
-Times taken for the 1st and 2nd runs (for relevant events) always equal the total time.
-`ath_diff` refers to the time difference w.r.t the race winner.
-The `ath_ski` column refers to the ski brand used by the athlete, if the data exists.
-The `ath_id` links back to the [athlete's profile](https://ski-db.com/db/profiles/daniel_yule_sui_511996.php) on Ski-DB, which provides additional information (birth date, etc.)
-
-### 1.2 Problematic
-
-We want to explore the evolution of the FIS AS-WC.
-Since its opening season in 1966, a lot of evolution has taken place in alpine skiing.
-Indeed, the sport has evolved over the years.
-It has grown to now have several kind of events all around the world.
-With our historical dataset, we would like to visualize:
-
-- The results of all ski races over the years.
-- Skier profiles (i.e. in which events they participated) and their evolution through the years.
-- The geographical representation of the WC races.
-- The evolutive global ranking through seasons, using WC-points won by the athletes.
-- Direct comparisons between any skier/races of any era.
-- The evolution of the typical profile (age, type of events, etc.) of a race/World Cup winner.
-- Race times over events and years: is there any correlation?
-
-The web is full of sports-related visualizations, but almost nothing exists for skiing in general.
-With our project, we plan on filling this gap by providing fans and enthusiasts a complete visualization of the AS-WC over the years, full with interesting developments and insights.
-
-### 1.3 Exploratory data analysis
-
-We scraped the data from the women and men world cup, getting those entities:
-
-- Number of seasons: 54 (all seasons since the beginning of the AS-WC)
-- Number of races: 3477
-- Number of athletes: 3137
-- Number of countries: 77
-
-For each race, we have the rankings and the time measurements for each athlete.
-However, we only have detailed time measurements for both runs (for events that require two runs) only from 1998.
-
-Plotting the number of races per season shows that the ski world cup has evolved and is still evolving during the recent years.
-The number of races grew during the first 10 seasons but still continues to fluctuate as new events and new ephemeral locations are added to and removed from the FIS calendar.
-
-![races per year](./preprocessing/analysis/races_per_year.png)
-
-Distribution of AS events for both genders, per decade, from 1970 to 2019:
-
-![events per decades](./preprocessing/analysis/events_per_decades.png)
-
-We can see that the types of events and their proportion evolved over the years.
-The three classic types of events (downhill, giant slalom and slalom) were always there, whereas super Gs only emerged during the 80s and the parallel slalom even disappeared for a time during the 00s.
-
-The exploratory data analyis is available in this [Jupyter notebook](/analysis/data_exploratory.ipynb).
-
-### 1.4 Related work
-
-There is data available for results, rankings and athletes profiles.
-However, they are only shown as static tables and charts which are not really reader-friendly.
-We did not find anything similar to what we want to do.
-We would like to create dynamic visualizations that smoothly explore our data.
-
-- https://www.fis-ski.com : the FIS records all results, rankings and athlete information since the beginning of the AS-WC competitions (there are also various other winter sports).
-- https://www.ski-db.com/ : the website on which we scraped the data also shows cool stats and rankings.
-  For example: all-time greatest skier ranking.
-- http://ski-reference.com/ : a website that allows to query FIS website to compare two athletes or analyse the results of one run.
-  It unfortunately does not work for old races (60s-90s).
-- https://openaccess.city.ac.uk/id/eprint/19857/ : State of the Art of Sports Data Visualization.
-  Paper with numerous sports-related visualizations.
-- https://github.com/INRIA/atable : visualization of football league rankings.
+[Milestone 1 report](doc/milestone1.md)
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
 - **10% of the final grade**
 
-[Report](/doc/milestone2.pdf)
-
-Our mockup website is available under [this link](https://com-480-project-data-viz-le-6.github.io/).
-
-If you want to run our website locally (present under `web/website`), you can enable a webserver using e.g. the following command:
-
-    python -m http.server <port number> --bind 127.0.0.1
+[Milestone 2 report](/doc/milestone2.pdf)
 
 ## Milestone 3 (Thursday 28th May, 5pm)
 
 - **80% of the final grade**
+
+[Process book](/doc/process_book.pdf)
+
+[Screencast](/doc/screencast.mp4)
+
+### Installation
+
+Our website is available under [this link](https://com-480-project-data-viz-le-6.github.io/).
+
+If you would rather run our website locally (present under `web/website`), you can enable a webserver using e.g. the following command:
+
+    python -m http.server <port number> --bind 127.0.0.1
+
+### Repository structure
+
+- `data`: contains our main datasets
+- `doc`: contains our reports and other deliverables (screencast)
+- `preprocessing`: contains all our Python notebooks, used to preprocess all of our data
+- `web`: contains the main code of our website
+
+### Usage
+
+This text is also present on our webpage and explains how to use our website.
+
+#### Tout Schuss - explore the history of World Cup results
+
+Dear alpine skiing fans, have you ever wondered who performed best in the World Cup during their times, and how they compare to today's top athletes? Whether athletes are more or less versatile than before? Or are you just looking for an easy way to review the complete history of the World Cup? Well, wonder no more, as we will accompany you and show you the features we have brought to shed some light on these questions!
+
+These visualizations allow you to bring your own conclusions about the evolution of the sport and its athletes. A wide variety of chopice awaits you, and here is a short presentation of everything that is available.
+
+##### Parameters
+
+Before diving into all the different components, take some time to set your parameters. Choose your year using the slider at the bottom and whether you would like to look at the women's or men's results, and you are then good to go!
+
+##### Dynamic rankings
+
+The top-left component allows you the relive the World Cup ranking evolution as they happened at the time! Who was a main contender? Why did this slalom specialist suddenly participate in downhill events? This visualization tells you everything you need and want to know. Skiers have also the color of their favorite type of event, computed for each season. Instead of letting the animation play out for you, you can simply control it using the slider in the control box.
+
+##### Event map & race results<
+
+The map shows all events of a given season. It evolves according to the progression of the season in the bar chart race. When you click on a given event, you can choose which race results you want to display in the top-right panel.
+
+##### Similarity graph
+
+The graph (bottom-middle component) shows how skiers are *linked* between each other during a given season. You can generally notice a group of technicians and another one of speed specialists. Every skier in-between is versatile and competes in all types of events.
+
+##### Skier profile
+
+Finally, the bottom-right component links everything together. It displays the information we have about a specific athlete, and shows graphs about the mean number of points he gathers per event, and all his World Cup points during his whole career. Each component is linked to the profile, so you can always know more about this one skier who almost won the Wolrd Cup. There is also a search bar with autocomplete available!
