@@ -10,8 +10,6 @@ function drawGraphCareer(data, stack, colors, maxPoints) {
     // Graph constants
     const width = 500
     const height = 500
-    //var width = $('#career_graph').width()
-    //var height = $('#career_graph').height()
     const margin = { top: 10, right: 0, bottom: 50, left: 50 };
     const chartData = stack(data);
     const xScale = d3.scaleBand()
@@ -237,5 +235,4 @@ whenDocumentLoaded(() => {
             },
         });
     });
-    //loadAthlete(selectedAthlete);
 });
