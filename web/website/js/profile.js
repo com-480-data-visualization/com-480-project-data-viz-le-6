@@ -76,7 +76,7 @@ function drawGraphEvent(data, categories, colors, maxPoints) {
     // Graph constants
     const width = 500
     const height = 200
-  
+
 
     const margin = { top: 10, right: 20, bottom: 50, left: 100 };
     const stack = d3.stack().keys(categories);
@@ -128,7 +128,11 @@ function loadAthlete(name, currentYear = 2020) {
     // Modify biography
     d3.json("./data/ath.json").then(function (data) {
         const photo = $(".ath_photo");
-        photo.attr('src', data[name]['photo']);
+        let photoLink = data[name]['photo'];
+        if (photoLink == "") {
+            photoLink = 'img/placeholder_male.jpg'
+        }
+        photo.attr('src', photoLink);
         const nameEl = $(".ath_name");
         nameEl.html(name);
         $(".ath_details").html("") ;
