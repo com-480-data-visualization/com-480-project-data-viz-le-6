@@ -33,10 +33,12 @@ var markersList = {};
 
 var markers = L.layerGroup().addTo(mymap);
 
-
+function help(){
+    console.log("dab");
+}
 
 function getPopup(venue, type) {
-    console.log(type);
+    //console.log(type);
 
     var links = '<div style=\"text-align: center;\">';
 
@@ -45,13 +47,14 @@ function getPopup(venue, type) {
         var date = type[i].date;
         //Do something
         var className = "click" + event + date;
-        links += '<a class="'+className+'" href="#">'+ event +'</a> <br>';
+        links += '<a onclick="help()" class="'+className+'" href="#"  id="'+className+'">'+ event +'</a> <br>';
+        //links += '<script> $(".'+ className + '").on("click", function(){console.log("dab"); </script>'
 
-        jQuery("body").on('click','a.'+className, function(e){
-            e.preventDefault();
-            console.log(className);
-            console.log(event, date);
-        });
+        //jQuery("body").on('click','a.'+className, function(e){
+        //    e.preventDefault();
+        //    console.log(className);
+        //    console.log(event, date);
+        //});
     }
 
     links+= "</div>";
@@ -80,13 +83,14 @@ function load_new_events(locations){
 
         }
     }
-    console.log(venueEvents);
+
 
     for(var key in venueEvents) {
         if( ! (key in markersList)) {
             var event = key;
-            var marker = L.marker(events_location[event], {icon: fisIcon}).bindPopup(getPopup(event, venueEvents[key])).on('click', function (e) {
-                mymap.flyTo(e.latlng, 6, {
+            var marker = L.marker(events_location[event]).bindPopup(getPopup(event, venueEvents[key])).on('click', function (e) {
+                console.log(e.latlng);
+                mymap.flyTo([e.latlng.lat + 1.5, e.latlng.lng], 6, {
                     duration: 2, // in seconds
                     noMoveStart: true
                 });
@@ -94,15 +98,18 @@ function load_new_events(locations){
 
             markers.addLayer(marker);
             markersList[event] = marker;
+
         }
     }
+    
+    console.log(document.getElementById("clickDownhill1967-03-03"));
 }
 
 
 
 function go_to_point(event) {
 
-    mymap.flyTo(markersList[event[0]]._latlng, 6, {
+    mymap.flyTo([markersList[event[0]]._latlng.lat + 1.5, markersList[event[0]]._latlng.lng], 6, {
         duration: 2, // in seconds
         noMoveStart: true
     });
