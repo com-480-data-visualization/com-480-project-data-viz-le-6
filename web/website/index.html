@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css"/>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.1/css/ion.rangeSlider.min.css" />
 
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/graph.css">
@@ -96,21 +97,21 @@
                 </div>
             </div>
             <div class="full_height col-3">
-                <div class="full_height col-12 border rounded mx-2">
-                    <p>RACE INFO</p>
-                    <div id="container">
+                <div class="full_height col-12 border rounded mx-2">     
+                    <div id="race-title">
                         <div id="race">
-                            <div id="venue"></div>
-                            <div id="event"></div>
+                            <h1 id="venue"></h1>
+                            <h3 id="event"></h3>
                         </div>
-                        <div id="country">
-                            <div id="country_name"></div>
+                        <div id="race-country">
+                            <h4 id="country_name"></h4>
                             <div id="flag"></div>
                         </div>
-                        <div id="image"></div>
                     </div>
-                    <div id="viz"></div>
+                    <div id="race-image"></div>
+                    <div id="race-table"></div>
                 </div>
+
             </div>
         </div>
         <div class="second_row row my-2">
@@ -124,12 +125,12 @@
                     <button type="button" id="stop">stop</button>
                     <div class="btn-group btn-group-toggle" data-toggle="buttons">
                         <label class="btn btn-secondary active">
-                          <input type="radio" name="options" id="women" checked> Women
+                            <input type="radio" name="options" id="women" checked> Women
                         </label>
                         <label class="btn btn-secondary">
-                          <input type="radio" name="options" id="men"> Men
+                            <input type="radio" name="options" id="men"> Men
                         </label>
-                      </div>
+                    </div>
                 </div>
             </div>
             <div class="full_height col-6">
@@ -147,7 +148,7 @@
                             <h5 class="mt-0" id="athlete">Unknown</h5>
                         </div>
                     </div>
-                    <img class="img-fluid" src="img/sketch_personal info.png" style="width:200px">
+                    <!--<img class="img-fluid" src="img/sketch_personal info.png" style="width:200px">-->
                 </div>
             </div>
         </div>
@@ -182,7 +183,7 @@
     <script src="./js/map.js"></script>
     <script src="./js/graph.js"></script>
     <script src="js/ranking.js"></script>
-   <script src="js/race.js"></script>
+    <script src="js/race.js"></script>
 
     <script>
         var currentRanking = ''
@@ -192,7 +193,7 @@
 
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
             currentRanking = tabToRaceType[e.target.id]
-            refresh_ranking(currentRanking,get_current_year())
+            refresh_ranking(currentRanking, get_current_year())
         })
 
         function refresh_ranking(ranking, year) {
@@ -200,24 +201,24 @@
             $('#' + ranking + '-rank-box').html('<div id="' + ranking + '-rank"></div>')
             $('#slider-step').remove()
             $('#slider-box').html('<div id="slider-step"></div>')
-            create_ranking('#' + ranking + '-rank', '../data/rankings/'+get_prefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations(year))
+            create_ranking('#' + ranking + '-rank', '../data/rankings/' + get_prefix() + raceTypeToDatafileSuffix[currentRanking] + 'ranking_' + year + '.csv', year, get_locations(year))
         }
 
-        function refresh_graph(year){
+        function refresh_graph(year) {
             $('#graph').remove()
             $('#graph-box').html('<svg id="graph"></svg>')
-            create_graph("#graph", "#athlete", "./data/similarity/"+get_prefix()+"graph_" + year + ".json")
+            create_graph("#graph", "#athlete", "./data/similarity/" + get_prefix() + "graph_" + year + ".json")
         }
 
-        function get_current_year(){
+        function get_current_year() {
             return $("#timeline").data("ionRangeSlider").result.from
         }
 
-        function get_prefix(){
+        function get_prefix() {
             return isMen ? 'wcm_' : 'wcf_';
         }
 
-        function get_locations(year){
+        function get_locations(year) {
             return isMen ? wcm_events[year] : wcf_events[year];
         }
 
@@ -229,7 +230,7 @@
             grid: true,
             prettify_enabled: false,
             grid_snap: true,
-            onStart:function(data){
+            onStart: function (data) {
                 tabToRaceType = { 'nav-overall-tab': 'overall', 'nav-dh-tab': 'downhill', 'nav-sg-tab': 'superg', 'nav-gs-tab': 'giant', 'nav-sl-tab': 'slalom', 'nav-ac-tab': 'combined', 'nav-par-tab': 'parallel' }
                 raceTypeToDatafileSuffix = { 'overall': '', 'downhill': 'Downhill_', 'superg': 'Super G_', 'giant': 'Giant Slalom_', 'slalom': 'Slalom_', 'combined': 'Combined_', 'parallel': 'Parallel_' }
                 refresh_graph(data.from)
@@ -242,15 +243,15 @@
             }
         });
 
-        $('#women').on("click",function(e){
-           isMen = false
-           refresh_ranking(currentRanking,get_current_year())
-           refresh_graph(get_current_year())
+        $('#women').on("click", function (e) {
+            isMen = false
+            refresh_ranking(currentRanking, get_current_year())
+            refresh_graph(get_current_year())
         })
-        $('#men').on("click",function(e){
-           isMen = true
-           refresh_ranking(currentRanking,get_current_year())
-           refresh_graph(get_current_year())
+        $('#men').on("click", function (e) {
+            isMen = true
+            refresh_ranking(currentRanking, get_current_year())
+            refresh_graph(get_current_year())
         })
 
         setup("2020-03-07", "data/race_results_wcm.csv", true);
