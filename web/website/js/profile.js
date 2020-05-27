@@ -10,6 +10,8 @@ function drawGraphCareer(data, stack, colors, maxPoints) {
     // Graph constants
     const width = 500
     const height = 500
+    //var width = $('#career_graph').width()
+    //var height = $('#career_graph').height()
     const margin = { top: 10, right: 0, bottom: 50, left: 50 };
     const chartData = stack(data);
     const xScale = d3.scaleBand()
@@ -66,7 +68,7 @@ function drawGraphCareer(data, stack, colors, maxPoints) {
         html_id: "#legend_career_graph",
         title: "Type of events",
         tickSize: 0,
-        width: 500,
+        width: width,
     })
 }
 
@@ -74,6 +76,8 @@ function drawGraphEvent(data, categories, colors, maxPoints) {
     // Graph constants
     const width = 500
     const height = 200
+  
+
     const margin = { top: 10, right: 20, bottom: 50, left: 100 };
     const stack = d3.stack().keys(categories);
     const xScale = d3.scaleLinear()
@@ -122,15 +126,14 @@ function drawGraphEvent(data, categories, colors, maxPoints) {
 function loadAthlete(name, currentYear = 2020) {
     // Modify biography
     d3.json("./data/ath.json").then(function (data) {
-        const photo = document.getElementById("ath_photo");
-        photo.src = data[name]['photo'];
-        const nameEl = document.getElementById("ath_name");
-        nameEl.innerHTML = name;
-        const details = document.getElementById("ath_details");
-        details.innerHTML = "";
-        details.append(document.createElement("p"), "Date of birth: " + data[name]['bd']);
-        details.append(document.createElement("p"), "Club: " + data[name]['club']);
-        details.append(document.createElement("p"), "Country: " + data[name]['country']);
+        const photo = $(".ath_photo");
+        photo.attr('src', data[name]['photo']);
+        const nameEl = $(".ath_name");
+        nameEl.html(name);
+        $(".ath_details").html("") ;
+        $(".ath_details").append("<p>Date of birth: " + data[name]['bd']+"</p>");
+        $(".ath_details").append("<p>Club: " + data[name]['club']+"</p>");
+        $(".ath_details").append("<p>Country: " + data[name]['country']+"</p>");
     });
 
     // Add graph 1

@@ -16,10 +16,10 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/graph.css">
     <link rel="stylesheet" href="./css/map.css">
-    <link rel="stylesheet" href="./css/ranking.css">
+    <!--<link rel="stylesheet" href="./css/ranking.css">-->
     <link rel="stylesheet" href="./css/race.css">
     <link rel="stylesheet" href="./css/auto-complete.css">
-
+    <link rel="stylesheet" href="./css/profile.css">
     <title>Evolution dashboard</title>
 </head>
 
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div class="full_height col-3">
-                <div class="full_height col-12 border rounded mx-2">     
+                <div class="full_height col-12 border rounded mx-2">
                     <div id="race-title">
                         <div id="race">
                             <h1 id="venue"></h1>
@@ -141,40 +141,40 @@
             </div>
             <div class="full_height col-3">
                 <div class="full_height col-12 border rounded mx-2">
-                    <div class="media">
-                        <!--<img class="align-self-start mr-3 img-thumbnail" id="athtlete_img" src="./img/placeholder.png"
-                            alt="">-->
-                        <div class="media-body">
-                            <h5 class="mt-0" id="athlete">Unknown</h5>
-                        </div>
-                    </div>
                     <div class="ath_profile">
-                        <div class="time">
-                          <input type="radio" id="career" name="time" value="career" checked="checked">
-                          <label for="male">Career</label><br>
-                          <input type="radio" id="until" name="time" value="until">
-                          <label for="female">Career until...</label><br>
-                          <input type="radio" id="season" name="time" value="season">
-                          <label for="other">Season</label>
+                        <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                            <label class="btn btn-secondary active">
+                                <input type="radio" id="career" name="time" value="career" checked="checked"> Career
+                            </label>
+                            <label class="btn btn-secondary">
+                                <input type="radio" id="until" name="time" value="until"> Career until...
+                            </label>
+                            <label class="btn btn-secondary">
+                                <input type="radio" id="season" name="time" value="season">Season
+                            </label>
                         </div>
-                        <div class="search">
-                          <input id="ath_search" type="text" placeholder="Athlete name...">
-                          <button id="search_button" type="button">Update</button> 
-                        </div>
-                        <div class="header">
-                          <img id="ath_photo" src="./img/placeholder.png" style="width:auto;height:100px;">
-                          <div class="ath_info">
-                            <div id="ath_name">No skier selected</div>
-                            <div id="ath_details">
+
+                        <div class="input-group mb-3">
+                            <input id="ath_search" type="text" class="form-control" placeholder="Athlete name..."
+                                aria-label="Athlete name..." aria-describedby="button-addon2">
+                            <div class="input-group-append">
+                                <button class="btn btn-dark" type="button" id="search_button">Update</button>
                             </div>
-                          </div>
                         </div>
-                        <h3>Mean points per event</h3>
-                        <svg id="mean_graph"/>
-                        <h3>Points per season, per event</h3>
-                        <svg id="legend_career_graph"/>
-                        <svg id="career_graph"/>
-                      </div>
+                        <div class="media ">
+                            <img id="ath_photo" src="./img/placeholder.png"
+                                class="ath_photo align-self-start mr-3 img-thumbnail">
+                            <div class="media-body">
+                                <h5 class="ath_name mt-0">No skier selected</h5>
+                                <div class="ath_details">
+                                </div>
+                            </div>
+                        </div>
+
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#profile-modal">
+                            See stats
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -183,6 +183,52 @@
                 <input id="timeline" type="text" class="js-range-slider" name="my_range" value="" />
             </div>
         </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="profile-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="media ">
+                        <img src="./img/placeholder.png" class="ath_photo align-self-start mr-3 img-thumbnail">
+                        <div class="media-body">
+                            <h5 class="ath_name mt-0">No skier selected</h5>
+                            <div class="ath_details">
+                            </div>
+                        </div>
+                    </div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-12">
+                                <h4>Mean number of points per event</h4>
+                                <div class="stats-graph">
+                                    <svg id="mean_graph" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <h4>Points per season, per event</h4>
+                                <div class="stats-graph">
+                                    <svg id="legend_career_graph" style="display: inline;"/>
+                                    <svg id="career_graph" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"
         integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous">
