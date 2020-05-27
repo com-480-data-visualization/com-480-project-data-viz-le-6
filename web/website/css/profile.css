@@ -12,3 +12,16 @@
 .stats-graph {
   text-align: center;
 }
+
+.ath_profile{
+  margin-top: 15px;
+}
+
+#ath_photo{
+  max-width: 100px;
+  max-height: 100px;
+}
+
+#select-profile-chart{
+  margin-bottom: 15px;
+}

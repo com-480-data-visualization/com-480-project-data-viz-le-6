@@ -97,7 +97,7 @@ function create_graph(container, detailContainer,dataFile) {
         d3.select(this).select("circle")
                        .style("fill", "pink")
 
-        $(detailContainer).html('<h1>'+d.id+'</h1>')
+        loadAthlete(d.name,get_current_year())
     }
 
     function getNodeClass(d){

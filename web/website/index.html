@@ -142,23 +142,11 @@
             <div class="full_height col-3">
                 <div class="full_height col-12 border rounded mx-2">
                     <div class="ath_profile">
-                        <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                            <label class="btn btn-secondary active">
-                                <input type="radio" id="career" name="time" value="career" checked="checked"> Career
-                            </label>
-                            <label class="btn btn-secondary">
-                                <input type="radio" id="until" name="time" value="until"> Career until...
-                            </label>
-                            <label class="btn btn-secondary">
-                                <input type="radio" id="season" name="time" value="season">Season
-                            </label>
-                        </div>
-
                         <div class="input-group mb-3">
                             <input id="ath_search" type="text" class="form-control" placeholder="Athlete name..."
                                 aria-label="Athlete name..." aria-describedby="button-addon2">
                             <div class="input-group-append">
-                                <button class="btn btn-dark" type="button" id="search_button">Update</button>
+                                <button class="btn btn-dark" type="button" id="search_button">Search</button>
                             </div>
                         </div>
                         <div class="media ">
@@ -171,7 +159,7 @@
                             </div>
                         </div>
 
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#profile-modal">
+                        <button type="button" class="btn btn-primary btn-block" data-toggle="modal" data-target="#profile-modal">
                             See stats
                         </button>
                     </div>
@@ -206,6 +194,22 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-12">
+                                <div class="btn-group btn-group-toggle" data-toggle="buttons" id="select-profile-chart">
+                                    <label class="btn btn-secondary active">
+                                        <input type="radio" id="career" name="time" value="career" checked="checked">
+                                        Career
+                                    </label>
+                                    <label class="btn btn-secondary">
+                                        <input type="radio" id="until" name="time" value="until"> Career until <span class="season-year"></span>
+                                    </label>
+                                    <label class="btn btn-secondary">
+                                        <input type="radio" id="season" name="time" value="season">Season (<span class="season-year"></span>)
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
                                 <h4>Mean number of points per event</h4>
                                 <div class="stats-graph">
                                     <svg id="mean_graph" />
@@ -216,7 +220,7 @@
                             <div class="col-12">
                                 <h4>Points per season, per event</h4>
                                 <div class="stats-graph">
-                                    <svg id="legend_career_graph" style="display: inline;"/>
+                                    <svg id="legend_career_graph" style="display: inline;" />
                                     <svg id="career_graph" />
                                 </div>
                             </div>
@@ -253,18 +257,20 @@
 
     <script type="text/javascript" src="./js/oam_head.js"></script>
     <script src="./js/map.js"></script>
+    <script src="./js/profile.js"></script>
     <script src="./js/graph.js"></script>
     <script src="./js/ranking.js"></script>
     <script src="./js/race.js"></script>
     <script src="./js/auto-complete.min.js"></script>
     <script src="./js/legend.js"></script>
-    <script src="./js/profile.js"></script>
+
 
     <script>
         var currentRanking = ''
         var isMen = false;
         var tabToRaceType = {}
         var raceTypeToDatafileSuffix = {}
+        var selectedAthlete = 'Beat Feuz'
 
         $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
             currentRanking = tabToRaceType[e.target.id]
@@ -315,6 +321,7 @@
             onFinish: function (data) {
                 refresh_graph(data.from)
                 refresh_ranking(currentRanking, data.from)
+                update_season()
             }
         });
 
@@ -329,7 +336,28 @@
             refresh_graph(get_current_year())
         })
 
+        $('#career').on("click", function(){
+            loadAthlete(selectedAthlete, get_current_year())
+        })
+
+        $('#until').on("click", function(){
+            loadAthlete(selectedAthlete, get_current_year())
+        })
+
+        $('#season').on("click", function(){
+            loadAthlete(selectedAthlete, get_current_year())
+        })
+
+        function update_season(){
+            $('.season-year').html(get_current_year())
+        }
+
+        $('#profile-modal').on('show.bs.modal', function (event) {
+            $('#career').click()
+        })
+
         setup("2020-03-07", "data/race_results_wcm.csv", true);
+        update_season()
     </script>
 </body>
 
