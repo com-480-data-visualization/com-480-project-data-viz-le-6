@@ -1,5 +1,3 @@
-
-
 #race-table{
 	text-align: center;
 	margin:0 0 0 0;
@@ -12,4 +10,15 @@
 
 #race-table tr{
 	cursor: pointer;
+}
+.race-country-flag{
+	max-width: 20px;
+}
+
+.race-ath-photo{
+	max-width: 50px;
+}
+
+.race-event-photo{
+	margin-top: 5px;
 }
