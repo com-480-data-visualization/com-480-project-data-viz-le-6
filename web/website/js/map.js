@@ -34,13 +34,58 @@ var markersList = {};
 var markers = L.layerGroup().addTo(mymap);
 
 
+
+function getPopup(venue, type) {
+    console.log(type);
+
+    var links = '<div style=\"text-align: center;\">';
+
+    for (var i = 0; i < type.length; i++) {
+        var event = type[i].event;
+        var date = type[i].date;
+        //Do something
+        var className = "click" + event + date;
+        links += '<a class="'+className+'" href="#">'+ event +'</a> <br>';
+
+        jQuery("body").on('click','a.'+className, function(e){
+            e.preventDefault();
+            console.log(className);
+            console.log(event, date);
+        });
+    }
+
+    links+= "</div>";
+
+    html_text = "<h3>"+venue+"</h3> <br>" +
+        '<div style="text-align: center;"><img src="./img/events/' + venueImage(venue)  + '"  width="150px" /></div><br>'+links;
+
+
+
+
+
+
+    return html_text;
+}
+
 function load_new_events(locations){
     markers.clearLayers();
     markersList = {};
+    venueEvents = {};
     for(var key in locations) {
+        if( ! (locations[key][0] in venueEvents)) {
+            venueEvents[locations[key][0]] = [{"event":locations[key][1], "date" :key}];
+        } else {
+
+            venueEvents[locations[key][0]] = venueEvents[locations[key][0]].concat([{"event":locations[key][1], "date" :key}]);
+
+        }
+    }
+    console.log(venueEvents);
+
+    for(var key in venueEvents) {
         if( ! (key in markersList)) {
-            var event = locations[key];
-            var marker = L.marker(events_location[event], {icon: fisIcon}).bindPopup(event).on('click', function (e) {
+            var event = key;
+            var marker = L.marker(events_location[event], {icon: fisIcon}).bindPopup(getPopup(event, venueEvents[key])).on('click', function (e) {
                 mymap.flyTo(e.latlng, 6, {
                     duration: 2, // in seconds
                     noMoveStart: true
@@ -56,6 +101,13 @@ function load_new_events(locations){
 
 
 function go_to_point(event) {
-    markersList[event].fire("click",{latlng:events_location[event]});
+
+    mymap.flyTo(markersList[event[0]]._latlng, 6, {
+        duration: 2, // in seconds
+        noMoveStart: true
+    });
+
+    markersList[event[0]].openPopup();
+
 }
 

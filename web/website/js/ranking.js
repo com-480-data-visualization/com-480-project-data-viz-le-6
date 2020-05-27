@@ -34,6 +34,10 @@ function create_ranking(rankingId, dataFile, year, locations){
     }
 
 
+    function get_suffix() {
+        return isMen ? 'wcm' : 'wcf';
+    }
+
 
     function get_color(specialty) {
 
@@ -239,6 +243,7 @@ function create_ranking(rankingId, dataFile, year, locations){
 
 
             go_to_point(locations[formatDate(datevalues[index][0], false)]);
+            setup(formatDate(datevalues[index][0], false), "data/race_results_"+get_suffix()+".csv", true);
 
             yearSlice = datevalues[index][1]
             yearSlice.forEach((d, i) => d.rank = i);
