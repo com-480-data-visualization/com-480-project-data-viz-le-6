@@ -47,7 +47,7 @@ function setup(date, file, isMen) {
 
         d3.select("#venue").text(filtered[0].venue);
         d3.select("#event").text(filtered[0].event);
-        d3.select("#country_name").text(filtered[0].country_name);
+        d3.select("#country_name").text(date);
         var src = "./img/events/" + venueImage(filtered[0].venue);
         console.log(encodeURI(src));
         $("#race-image").html('<img class="img-fluid rounded" src='+encodeURI(src)+'>');
@@ -72,7 +72,7 @@ function setup(date, file, isMen) {
             .enter()
             .append("tr")
             .html(rowTemplate)
-            .on("click", d => console.log(d.ath_name));
+            .on("click", d => loadAthlete(d.ath_name, get_current_year()));
 
     });
 }

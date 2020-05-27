@@ -9,3 +9,7 @@
 	overflow: auto;
 	display: block;
 }
+
+#race-table tr{
+	cursor: pointer;
+}
