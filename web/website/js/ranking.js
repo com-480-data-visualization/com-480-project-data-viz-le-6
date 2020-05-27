@@ -37,7 +37,10 @@ function create_ranking(rankingId, dataFile, year, locations){
 
     }
 
+    const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
+    const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
 
+    //console.log(colors("Downhill"));
 
     function get_color(specialty) {
 
@@ -110,7 +113,7 @@ function create_ranking(rankingId, dataFile, year, locations){
                 d.lastValue = +d.value,
                 d.value = isNaN(d.value) ? 0 : d.value,
                 d.date = d.date,
-                d.colour = get_color(d.specialty)
+                d.colour = colors(d.specialty)
                 //d.colour = d3.hsl(Math.random() * 360, 0.75, 0.75)
         });
     
