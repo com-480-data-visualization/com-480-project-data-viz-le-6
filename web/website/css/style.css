@@ -23,3 +23,11 @@ html, body {
 .timeline_row{
     height: 5%;
 }
+
+#back{
+    text-align: center;
+}
+
+#exlanations{
+    background-color: white;
+}

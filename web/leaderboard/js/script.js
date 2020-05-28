@@ -39,7 +39,6 @@ function setup(date, file, isMen) {
 
         var filtered = data.filter(d => d.date === date);
         // select viz and append table
-        console.log(filtered[0]);
         d3.select("#venue").text(filtered[0].venue);
         d3.select("#event").text(filtered[0].event);
         d3.select("#country_name").text(filtered[0].country_name);
@@ -72,7 +71,5 @@ function setup(date, file, isMen) {
             .enter()
             .append("tr")
             .html(rowTemplate)
-            .on("click", d => console.log(d.ath_name));
-
     });
 }

@@ -31,23 +31,13 @@ function load_race(date){
 }
 
 function getPopup(venue, type) {
-    //console.log(type);
-
     var links = '<div style=\"text-align: center;\">';
 
     for (var i = 0; i < type.length; i++) {
         var event = type[i].event;
         var date = type[i].date;
-        //Do something
         var className = "click" + event + date;
         links += '<a onclick="load_race('+"'"+ date +"'" +')" class="'+className+'" href="#" >'+ event +'</a> <br>';
-        //links += '<script> $(".'+ className + '").on("click", function(){console.log("dab"); </script>'
-
-        //jQuery("body").on('click','a.'+className, function(e){
-        //    e.preventDefault();
-        //    console.log(className);
-        //    console.log(event, date);
-        //});
     }
 
     links+= "</div>";
@@ -78,7 +68,7 @@ function load_new_events(locations){
         if( ! (key in markersList)) {
             var event = key;
             var marker = L.marker(events_location[event]).bindPopup(getPopup(event, venueEvents[key])).on('click', function (e) {
-                console.log(e.latlng);
+                //console.log(e.latlng);
                 mymap.flyTo([e.latlng.lat + 1.5, e.latlng.lng], 6, {
                     duration: 2, // in seconds
                     noMoveStart: true
@@ -91,7 +81,7 @@ function load_new_events(locations){
         }
     }
     
-    console.log(document.getElementById("clickDownhill1967-03-03"));
+   // console.log(document.getElementById("clickDownhill1967-03-03"));
 }
 
 

@@ -6,7 +6,6 @@ function create_graph(container, detailContainer,dataFile) {
     var svg = d3.select(container)
     var width = $(container).width()
     var height = $(container).height()
-    console.log(width + " "+ height)
     var radius = 7
 
    // var color = d3.scaleOrdinal(d3.schemeCategory20);

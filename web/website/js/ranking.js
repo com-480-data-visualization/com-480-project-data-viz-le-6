@@ -413,7 +413,6 @@ function create_ranking(rankingId, dataFile, year, locations) {
 
         var myTimer;
         d3.select("#start").on("click", function () {
-            console.log(sliderStep.value())
             if (sliderStep.value() < datevalues.length) {
                 sliderStep.value((sliderStep.value() + 1));
                 callback(sliderStep.value() - 1);
