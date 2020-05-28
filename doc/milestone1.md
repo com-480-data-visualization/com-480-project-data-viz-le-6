@@ -58,11 +58,11 @@ However, we only have detailed time measurements for both runs (for events that 
 Plotting the number of races per season shows that the ski world cup has evolved and is still evolving during the recent years.
 The number of races grew during the first 10 seasons but still continues to fluctuate as new events and new ephemeral locations are added to and removed from the FIS calendar.
 
-![races per year](./preprocessing/analysis/races_per_year.png)
+![races per year](races_per_year.png)
 
 Distribution of AS events for both genders, per decade, from 1970 to 2019:
 
-![events per decades](./preprocessing/analysis/events_per_decades.png)
+![events per decades](events_per_decades.png)
 
 We can see that the types of events and their proportion evolved over the years.
 The three classic types of events (downhill, giant slalom and slalom) were always there, whereas super Gs only emerged during the 80s and the parallel slalom even disappeared for a time during the 00s.
