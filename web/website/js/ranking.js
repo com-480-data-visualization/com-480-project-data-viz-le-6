@@ -197,9 +197,6 @@ function create_ranking(rankingId, dataFile, year, locations) {
         function callback(index) {
 
 
-            go_to_point(locations[formatDate(datevalues[index][0], false)]);
-            setup(formatDate(datevalues[index][0], false), "data/race_results_" + get_suffix() + ".csv", true);
-
             yearSlice = datevalues[index][1]
             yearSlice.forEach((d, i) => d.rank = i);
 
@@ -363,7 +360,10 @@ function create_ranking(rankingId, dataFile, year, locations) {
 
             yearText.html(formatDate(datevalues[index][0], false));
             event_name.html(locations[formatDate(datevalues[index][0], false)][0]);
-            
+
+            go_to_point(locations[formatDate(datevalues[index][0], false)]);
+            setup(formatDate(datevalues[index][0], false), "data/race_results_" + get_suffix() + ".csv", true);
+
             //------NEW SLIDER begin------
             $('#event-slider').ionRangeSlider();
             let event_slider = $("#event-slider").data("ionRangeSlider");
