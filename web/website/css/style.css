@@ -17,14 +17,21 @@ html, body {
 }
 
 .second_row{
-    height: 40%;
+    height: 37%;
 }
 
 .timeline_row{
     height: 5%;
 }
 
+.navdown_row{
+    height: 3%;
+}
 #back{
+    text-align: center;
+}
+
+#go{
     text-align: center;
 }
 
