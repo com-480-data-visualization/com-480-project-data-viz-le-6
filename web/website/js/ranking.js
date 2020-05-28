@@ -319,6 +319,7 @@ function create_ranking(rankingId, dataFile, year, locations) {
                 .on('onchange', val => {
                     d3.select('p#value-step').text(d3.format('.2%')(val));
                 });
+
             let valueLabels = svg.selectAll('.valueLabel').data(yearSlice, d => d.name);
 
             valueLabels
@@ -357,7 +358,33 @@ function create_ranking(rankingId, dataFile, year, locations) {
 
             yearText.html(formatDate(datevalues[index][0]));
             event_name.html(locations[formatDate(datevalues[index][0], false)][0]);
+            
+            //------NEW SLIDER begin------
+            $('#event-slider').ionRangeSlider();
+            let event_slider = $("#event-slider").data("ionRangeSlider");
+            event_slider.update({from:index+1})
+            //------NEW SLIDER end------
         }
+
+//------NEW SLIDER begin------
+        $('#event-slider-container').html('<input id="event-slider" type="text" class="js-range-slider" name="event-slider" value="" />')
+        $("#event-slider").ionRangeSlider({
+            type: "single",
+            min: 1,
+            max: datevalues.length,
+            from: 1,
+            grid: true,
+            prettify_enabled: false,
+            grid_snap: true,
+            onFinish: function (data) {
+                sliderStep.value(data.from)
+            },
+            onChange: function (data) {
+                callback(data.from - 1);
+
+            }
+        });
+//------NEW SLIDER end------
 
         var sliderStep = d3
             .sliderBottom()
@@ -371,7 +398,8 @@ function create_ranking(rankingId, dataFile, year, locations) {
                 callback(val - 1);
             });
 
-        var gStep = d3
+            //LEGACY SLIDER
+      /*var gStep = d3
             .select('div#slider-step')
             .append('svg')
             .attr('width', 500)
@@ -379,10 +407,13 @@ function create_ranking(rankingId, dataFile, year, locations) {
             .append('g')
             .attr('transform', 'translate(30,30)');
 
-        gStep.call(sliderStep);
+        gStep.call(sliderStep);*/
+
+        
 
         var myTimer;
         d3.select("#start").on("click", function () {
+            console.log(sliderStep.value())
             if (sliderStep.value() < datevalues.length) {
                 sliderStep.value((sliderStep.value() + 1));
                 callback(sliderStep.value() - 1);

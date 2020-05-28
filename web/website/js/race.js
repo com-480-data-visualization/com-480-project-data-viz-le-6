@@ -48,7 +48,7 @@ function setup(date, file, isMen) {
         d3.select("#event").text(filtered[0].event);
         d3.select("#country_name").text(date);
         var src = "./img/events/" + venueImage(filtered[0].venue);
-        console.log(encodeURI(src));
+       
         $("#race-image").html('<img class="img-fluid rounded race-event-photo" src='+encodeURI(src)+'>');
 
         var src = "https://www.countryflags.io/" + filtered[0].country + "/flat/64.png";
