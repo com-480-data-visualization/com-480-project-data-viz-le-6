@@ -442,7 +442,7 @@ function create_ranking(rankingId, dataFile, year, locations) {
     legend({
         color: colors,
         html_id: "#legend_graph",
-        title: "Favorite type of events",
+        title: "Favorite type of event",
         tickSize: 0,
         width: width,
     })
