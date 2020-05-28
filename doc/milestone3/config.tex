@@ -1,0 +1,105 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[T1]{fontenc}                % Font encoding
+\usepackage[dvipsnames]{xcolor}         % Custom colors
+\usepackage[english]{babel}             % English language features
+\usepackage[yyyymmdd]{datetime}         % Reformatting dates
+\usepackage[margin=2.0cm]{geometry}     % Margin tweaking
+\usepackage{graphicx}                   % Images (maybe not necessary)
+\usepackage{parskip}                    % Paragraph spacing
+\usepackage{setspace}                   % Line spacing
+\usepackage{hyperref}                   % Hyper links
+\usepackage[super]{natbib}              % Reference numbers in exponent form
+\usepackage[super]{nth}                 % Ordinals with exponent
+\usepackage{fontspec}                   % Specific fonts
+\usepackage{pdfpages}                   % Image spanning entire page
+\usepackage[explicit]{titlesec}         % Redefine titles
+\usepackage{setspace}                   % Line spacing
+\usepackage{titling}                    % Title macros
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{enumitem}                   % List tools
+\usepackage{indentfirst}                % Indent first paragraph of sections
+
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=blue
+}
+
+\setmainfont{Open Sans}                 % Main font
+
+\renewcommand{\dateseparator}{--}       % Change the date sperator to --
+
+\setlist{noitemsep}                     % No huge separation between list points
+
+\definecolor{skiblue}{RGB}{0,134,255}
+
+\renewcommand{\maketitle}{
+\begin{titlepage}
+	\includepdf[pagecommand={
+		\color{white}
+		\vspace*{-1.0cm}
+		\begin{spacing}{3.0}
+			\begin{center}
+				{\fontsize{32}{38}\selectfont
+					\thetitle}
+			\end{center}
+		\end{spacing}
+		\vspace*{5cm}
+		\begin{spacing}{1.5}
+			\begin{center}
+				\theauthor
+				\vspace*{0.5cm}\\
+				\thedate
+			\end{center}
+		\end{spacing}
+	}]
+	{img/title.png}
+\end{titlepage}
+}
+
+%% SECTION FORMAT
+\titleformat{\section}
+{\normalfont
+	\Large
+	\bfseries
+	\color{white}}
+{{\color{skiblue}\thesection{}}}              %% Caption before the name
+{2em}                        %% Space between the caption and the name
+{\colorbox{skiblue}{#1}}     %% Name of section
+
+\titlespacing{\section}      %% Space around the title
+{0pt}{12pt}{12pt}
+
+%% SUBSECTION FORMAT
+\titleformat{\subsection}
+{\normalfont
+	\large
+	\bfseries
+	\color{skiblue}}
+{\thesubsection{}}           %% Caption before the name
+{2em}                        %% Space between the caption and the name
+{#1}                         %% Name of section
+
+\titlespacing{\subsection}   %% Space around the title
+{0pt}{12pt}{12pt}
+
+%% SUBSUBSECTION FORMAT
+\titleformat{\subsubsection}
+{\normalfont
+	\bfseries
+	\color{skiblue}}
+{\thesubsubsection{}}        %% Caption before the name
+{2em}                        %% Space between the caption and the name
+{#1}                         %% Name of section
+
+\titlespacing{\subsection}   %% Space around the title
+{0pt}{12pt}{12pt}
+
+%% PARAGRAPHS
+\setlength{\parskip}{1em}      %% Small space between paragraphs
+\setlength{\parindent}{0.5cm}  %% No indent at the beginning of paragraphs
+\leftskip=0.21cm               %% Small space left of paragraphs
