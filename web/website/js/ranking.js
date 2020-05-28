@@ -3,6 +3,10 @@ function get_suffix() {
     return isMen ? 'wcm' : 'wcf';
 }
 
+const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
+const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
+
+
 function create_ranking(rankingId, dataFile, year, locations) {
 
     load_new_events(locations);
@@ -37,8 +41,6 @@ function create_ranking(rankingId, dataFile, year, locations) {
 
     }
 
-    const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
-    const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
 
     var tickDuration = 2000;
 
@@ -109,7 +111,7 @@ function create_ranking(rankingId, dataFile, year, locations) {
 
         let x = d3.scaleLinear()
             .domain([0, d3.max(yearSlice, d => d.value)])
-            .range([margin.left + 30, width - margin.right - 45]);
+            .range([margin.left + 30, width - margin.right - 50]);
 
         let y = d3.scaleLinear()
             .domain([top_n, 0])
@@ -120,6 +122,9 @@ function create_ranking(rankingId, dataFile, year, locations) {
             .ticks(width > 500 ? 5 : 2)
             .tickSize(-(height - margin.top - margin.bottom))
             .tickFormat(d => d3.format(',')(d));
+
+
+        go_to_point(locations[formatDate(datevalues[index][0], false)]);
 
         svg.append('g')
             .attr('class', 'axis xAxis')
@@ -178,16 +183,16 @@ function create_ranking(rankingId, dataFile, year, locations) {
             .attr('x', width - margin.right)
             .attr('y', height - 5)
             .style('text-anchor', 'end')
-            .html(formatDate(datevalues[index][0]))
-            .style("font-size", `${width / 10}px`)
+            .html(formatDate(datevalues[index][0], false))
+            .style("font-size", `${width / 15}px`)
 
         let event_name = svg.append('text')
             .attr('class', 'eventName')
             .attr('x', width - margin.right)
-            .attr('y', height - 60)
+            .attr('y', height - (width / 15))
             .style('text-anchor', 'end')
             .html(locations[formatDate(datevalues[index][0], false)][0])
-            .style("font-size", `${width / 15}px`)
+            .style("font-size", `${width / 20}px`)
 
         function callback(index) {
 
@@ -356,7 +361,7 @@ function create_ranking(rankingId, dataFile, year, locations) {
                 .attr('y', d => y(top_n + 1) + 5)
                 .remove();
 
-            yearText.html(formatDate(datevalues[index][0]));
+            yearText.html(formatDate(datevalues[index][0], false));
             event_name.html(locations[formatDate(datevalues[index][0], false)][0]);
             
             //------NEW SLIDER begin------
@@ -433,5 +438,13 @@ function create_ranking(rankingId, dataFile, year, locations) {
             clearInterval(myTimer);
         });
     });
+
+    legend({
+        color: colors,
+        html_id: "#legend_graph",
+        title: "Favorite type of events",
+        tickSize: 0,
+        width: width,
+    })
 }
 

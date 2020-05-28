@@ -7,7 +7,7 @@ var oa_winter = oam.api.tilelayer(L, 'oa_map_winter');
 
 var mymap = L.map('mapid', {
     center: [46, 8],
-    zoom: 7,
+    zoom: 6,
     layers: [oa_winter]
 });
 
