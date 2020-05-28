@@ -46,12 +46,12 @@
                             aria-controls="nav-dh" aria-selected="false">DH</a>
                         <a class="nav-item nav-link" id="nav-sg-tab" data-toggle="tab" href="#nav-sg" role="tab"
                             aria-controls="nav-sg" aria-selected="false">SG</a>
+                        <a class="nav-item nav-link" id="nav-ac-tab" data-toggle="tab" href="#nav-ac" role="tab"
+                           aria-controls="nav-ac" aria-selected="false">AC</a>
                         <a class="nav-item nav-link" id="nav-gs-tab" data-toggle="tab" href="#nav-gs" role="tab"
                             aria-controls="nav-gs" aria-selected="false">GS</a>
                         <a class="nav-item nav-link" id="nav-sl-tab" data-toggle="tab" href="#nav-sl" role="tab"
                             aria-controls="nav-sl" aria-selected="false">SL</a>
-                        <a class="nav-item nav-link" id="nav-ac-tab" data-toggle="tab" href="#nav-ac" role="tab"
-                            aria-controls="nav-ac" aria-selected="false">AC</a>
                         <a class="nav-item nav-link" id="nav-par-tab" data-toggle="tab" href="#nav-par" role="tab"
                             aria-controls="nav-par" aria-selected="false">PAR</a>
                     </div>
@@ -74,6 +74,11 @@
                                 <div id="superg-rank"></div>
                             </div>
                         </div>
+                        <div class="full_height tab-pane fade" id="nav-ac" role="tabpanel" aria-labelledby="nav-ac-tab">
+                            <div class="full_height" id="combined-rank-box">
+                                <div id="combined-rank"></div>
+                            </div>
+                        </div>
                         <div class="full_height tab-pane fade" id="nav-gs" role="tabpanel" aria-labelledby="nav-gs-tab">
                             <div class="full_height" id="giant-rank-box">
                                 <div id="giant-rank"></div>
@@ -82,11 +87,6 @@
                         <div class="full_height tab-pane fade" id="nav-sl" role="tabpanel" aria-labelledby="nav-sl-tab">
                             <div class="full_height" id="slalom-rank-box">
                                 <div id="slalom-rank"></div>
-                            </div>
-                        </div>
-                        <div class="full_height tab-pane fade" id="nav-ac" role="tabpanel" aria-labelledby="nav-ac-tab">
-                            <div class="full_height" id="combined-rank-box">
-                                <div id="combined-rank"></div>
                             </div>
                         </div>
                         <div class="full_height tab-pane fade" id="nav-par" role="tabpanel"
@@ -314,6 +314,21 @@
             specific athlete, and shows graphs about the mean number of points he gathers per event, and all his World
             Cup points during his whole career. Each component is linked to the profile, so you can always know more
             about this one skier who almost won the Wolrd Cup. There is also a search bar with autocomplete available!
+        </p>
+
+        <h3>More help</h3>
+
+        <p>To non-specialists, here is a small dictionary:
+            <ul>
+                <li><b>DH</b>: Downhill</li>
+                <li><b>SG</b>: Super G</li>
+                <li><b>GS</b>: Giant Slalom</li>
+                <li><b>SL</b>: Slalom</li>
+                <li><b>AC</b>: (Alpine) Combined</li>
+                <li><b>PAR</b>: Parallel</li>
+                <li><b>NQ</b>: Not qualified</li>
+                <li><b>AB</b>: Abandon</li>
+            </ul>
         </p>
         <div id="back">
             <a href="#dashboard">Back to "Tout Schuss" !</a>
