@@ -37,7 +37,7 @@ function getPopup(venue, type) {
         var event = type[i].event;
         var date = type[i].date;
         var className = "click" + event + date;
-        links += '<a style="font-size: 17px;" onclick="load_race('+"'"+ date +"'" +')" class="'+className+'" href="#" > '+ event +'</a> <br>';
+        links += '<a style="font-size: 15px;" onclick="load_race('+"'"+ date +"'" +')" class="'+className+'" href="#" > '+ event +'</a> <br>';
     }
 
 
