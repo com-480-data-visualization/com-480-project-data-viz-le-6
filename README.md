@@ -61,7 +61,7 @@ Before diving into all the different components, take some time to set your para
 
 The top-left component allows you the relive the World Cup ranking evolution as they happened at the time! Who was a main contender? Why did this slalom specialist suddenly participate in downhill events? This visualization tells you everything you need and want to know. Skiers have also the color of their favorite type of event, computed for each season. Instead of letting the animation play out for you, you can simply control it using the slider in the control box.
 
-##### Event map & race results<
+##### Event map & race results
 
 The map shows all events of a given season. It evolves according to the progression of the season in the bar chart race. When you click on a given event, you can choose which race results you want to display in the top-right panel.
 
