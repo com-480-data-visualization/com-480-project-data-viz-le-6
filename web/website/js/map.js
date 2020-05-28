@@ -31,19 +31,19 @@ function load_race(date){
 }
 
 function getPopup(venue, type) {
-    var links = '<div style=\"text-align: center;\">';
+    var links = '';
 
     for (var i = 0; i < type.length; i++) {
         var event = type[i].event;
         var date = type[i].date;
         var className = "click" + event + date;
-        links += '<a onclick="load_race('+"'"+ date +"'" +')" class="'+className+'" href="#" >'+ event +'</a> <br>';
+        links += '<a style="font-size: 17px;" onclick="load_race('+"'"+ date +"'" +')" class="'+className+'" href="#" > '+ event +'</a> <br>';
     }
 
-    links+= "</div>";
 
-    html_text = "<h3>"+venue+"</h3> <br>" +
-        '<div style="text-align: center;"><img src="./img/events/' + venueImage(venue)  + '"  width="150px" /></div><br>'+links;
+    html_text = '<div style="text-align: center;">' +
+        "<h3>"+venue+"</h3> " +
+        '<img src="./img/events/' + venueImage(venue)  + '"  width="150px" /><br> <br>'+links + "</div>";
 
 
     return html_text;
