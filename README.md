@@ -32,7 +32,7 @@
 
 Our website is available under [this link](https://com-480-project-data-viz-le-6.github.io/).
 
-If you would rather run our website locally (present under `web/website`), you can enable a webserver using e.g. the following command:
+If you would rather run our website locally (present under the `web` folder), you can enable a webserver using e.g. the following command:
 
     python -m http.server <port number> --bind 127.0.0.1
 
@@ -41,7 +41,7 @@ If you would rather run our website locally (present under `web/website`), you c
 - `data`: contains our main datasets
 - `doc`: contains our reports and other deliverables (screencast)
 - `preprocessing`: contains all our Python notebooks, used to preprocess all of our data
-- `web`: contains the main code of our website under `web/website`, other subfolders were part of the early development
+- `web`: contains the main code of our website
 
 ### Usage
 
