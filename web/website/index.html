@@ -103,7 +103,7 @@
                 </div>
             </div>
             <div class="full_height col-3">
-                <div class="full_height col-12 border rounded mx-2">
+                <div class="full_height col-12 border rounded mx-2" style="height: 138%;">
                     <div id="race-title" class="row">
                         <div id="race" class="col-5">
                             <h2 id="venue"></h2>
@@ -118,7 +118,29 @@
                     </div>
                     <div id="race-table" class="full_height row"></div>
                 </div>
+                <div class="ath_profile border rounded m-2 p-3">
+                    <div class="input-group mb-3">
+                        <input id="ath_search" type="text" class="form-control" placeholder="Athlete name..."
+                            aria-label="Athlete name..." aria-describedby="button-addon2">
+                        <div class="input-group-append">
+                            <button class="btn btn-dark" type="button" id="search_button">Search</button>
+                        </div>
+                    </div>
+                    <div class="media ">
+                        <img id="ath_photo" src="./img/placeholder.png"
+                            class="ath_photo align-self-start mr-3 img-thumbnail">
+                        <div class="media-body">
+                            <h5 class="ath_name mt-0">No skier selected</h5>
+                            <div class="ath_details">
+                            </div>
+                        </div>
+                    </div>
 
+                    <button type="button" class="btn btn-primary btn-block mt-2" data-toggle="modal"
+                        data-target="#profile-modal" id="see-stats" disabled>
+                        See stats
+                    </button>
+                </div>
             </div>
         </div>
         <div class="second_row row my-2">
@@ -143,33 +165,6 @@
             <div class="full_height col-6">
                 <div class="full_height col-12 border rounded mx-2" id="graph-box">
                     <svg id="graph"></svg>
-                </div>
-            </div>
-            <div class="full_height col-3">
-                <div class="full_height col-12 border rounded mx-2">
-                    <div class="ath_profile">
-                        <div class="input-group mb-3">
-                            <input id="ath_search" type="text" class="form-control" placeholder="Athlete name..."
-                                aria-label="Athlete name..." aria-describedby="button-addon2">
-                            <div class="input-group-append">
-                                <button class="btn btn-dark" type="button" id="search_button">Search</button>
-                            </div>
-                        </div>
-                        <div class="media ">
-                            <img id="ath_photo" src="./img/placeholder.png"
-                                class="ath_photo align-self-start mr-3 img-thumbnail">
-                            <div class="media-body">
-                                <h5 class="ath_name mt-0">No skier selected</h5>
-                                <div class="ath_details">
-                                </div>
-                            </div>
-                        </div>
-
-                        <button type="button" class="btn btn-primary btn-block" data-toggle="modal"
-                            data-target="#profile-modal" id="see-stats" disabled>
-                            See stats
-                        </button>
-                    </div>
                 </div>
             </div>
         </div>

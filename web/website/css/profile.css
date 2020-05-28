@@ -2,9 +2,6 @@
   font-weight: bold;
 }
 
-.ath_details {
-  margin-top: 10px;
-}
 .ath_details p {
   margin: 0;
 }
@@ -14,12 +11,12 @@
 }
 
 .ath_profile{
-  margin-top: 15px;
+  width:100%;
 }
 
 #ath_photo{
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 102px;
+  max-height: 102px;
 }
 
 #select-profile-chart{

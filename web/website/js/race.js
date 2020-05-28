@@ -54,7 +54,7 @@ function setup(date, file, isMen) {
         var src = "https://www.countryflags.io/" + filtered[0].country + "/flat/64.png";
         $('#flag').html('<img src="'+src+'" class="img-fluid rounded">')
 
-        const table = d3.select("#race-table").append("table").attr('class', 'table table-striped table-hover');
+        const table = d3.select("#race-table").append("table").attr('class', 'table table-striped table-hover mt-2');
 
         // append headers
         const header = table.append("thead").attr('class', 'thead-dark')
