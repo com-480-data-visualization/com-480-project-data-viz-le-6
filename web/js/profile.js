@@ -122,7 +122,7 @@ function drawGraphEvent(data, categories, colors, maxPoints) {
 }
 
 function loadAthlete(name, currentYear = 2020) {
-    selectedAthlete=name
+    selectedAthlete = name
     // Modify biography
     d3.json("./data/ath.json").then(function (data) {
         const photo = $(".ath_photo");
@@ -135,10 +135,10 @@ function loadAthlete(name, currentYear = 2020) {
         nameEl.html(name);
         $(".ath_details").html("");
         const birthdate = data[name]['bd'];
-        $(".ath_details").append("<p>Date of birth: " + (birthdate ? birthdate : "") +"</p>");
+        $(".ath_details").append("<p>Date of birth: " + (birthdate ? birthdate : "") + "</p>");
         const club = data[name]['club'];
-        $(".ath_details").append("<p>Club: " + (club ? club : "") +"</p>");
-        $(".ath_details").append("<p>Country: " + data[name]['country']+"</p>");
+        $(".ath_details").append("<p>Club: " + (club ? club : "") + "</p>");
+        $(".ath_details").append("<p>Country: " + data[name]['country'] + "</p>");
     });
 
     // Add graph 1

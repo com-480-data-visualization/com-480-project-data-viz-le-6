@@ -50,7 +50,7 @@
     stroke: #dddddd;
 }
 
-#interactive-rankings  .tick line.origin {
+#interactive-rankings .tick line.origin {
     stroke: #aaaaaa;
 }
 
@@ -58,10 +58,10 @@
     display: none;
 }
 
-#interactive-rankings .bar{
+#interactive-rankings .bar {
     cursor: pointer;
 }
 
-#interactive-rankings text.label{
+#interactive-rankings text.label {
     cursor: pointer;
 }

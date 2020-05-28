@@ -10,15 +10,15 @@
   text-align: center;
 }
 
-.ath_profile{
-  width:100%;
+.ath_profile {
+  width: 100%;
 }
 
-#ath_photo{
+#ath_photo {
   max-width: 102px;
   max-height: 102px;
 }
 
-#select-profile-chart{
+#select-profile-chart {
   margin-bottom: 15px;
 }

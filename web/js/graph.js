@@ -1,14 +1,13 @@
 // code based on https://bl.ocks.org/heybignick/3faf257bbbbc7743bb72310d03b86ee8
-function create_graph(container, detailContainer,dataFile) {
+function create_graph(container, detailContainer, dataFile) {
     $(container).width($(container).parent().width())
     $(container).height($(container).parent().height())
-    
+
     var svg = d3.select(container)
     var width = $(container).width()
     var height = $(container).height()
     var radius = 7
 
-   // var color = d3.scaleOrdinal(d3.schemeCategory20);
     var simulation = d3.forceSimulation()
         .force("link", d3.forceLink().id(function (d) { return d.id; }))
         .force("charge", d3.forceManyBody())
@@ -38,14 +37,8 @@ function create_graph(container, detailContainer,dataFile) {
                 .on("start", dragstarted)
                 .on("drag", dragged)
                 .on("end", dragended))
-            
+
         colorNodes()
-        /*var labels = node.append("text")
-            .text(function (d) {
-                return d.name;
-            })
-            .attr('x', 6)
-            .attr('y', 3);*/
 
         node.append("title")
             .text(function (d) { return d.name; });
@@ -68,8 +61,8 @@ function create_graph(container, detailContainer,dataFile) {
                 .attr("transform", function (d) {
                     return "translate(" + d.x + "," + d.y + ")";
                 })
-                .attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
-                .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
+                .attr("cx", function (d) { return d.x = Math.max(radius, Math.min(width - radius, d.x)); })
+                .attr("cy", function (d) { return d.y = Math.max(radius, Math.min(height - radius, d.y)); });
         }
     });
 
@@ -90,18 +83,18 @@ function create_graph(container, detailContainer,dataFile) {
         d.fy = null;
     }
 
-    function showInfos(d){
+    function showInfos(d) {
 
         colorNodes()
         d3.select(this).select("circle")
-                       .style("fill", "pink")
+            .style("fill", "pink")
 
-        loadAthlete(d.name,get_current_year())
+        loadAthlete(d.name, get_current_year())
     }
     const categories = ['Downhill', 'Super G', 'Combined', 'Giant Slalom', 'Slalom', 'Parallel'];
     const colors = d3.scaleOrdinal(d3.schemeSet3).domain(categories);
-    function getNodeClass(d){
-        switch(d.group){
+    function getNodeClass(d) {
+        switch (d.group) {
             case 0: return "athlete"
             case 1: return "overall"
             case 2: return "downhill"
@@ -113,7 +106,7 @@ function create_graph(container, detailContainer,dataFile) {
         }
     }
 
-    function colorNodes(){
+    function colorNodes() {
         d3.selectAll('.nodes>g>circle.athlete').style('fill', 'black')
         d3.selectAll('.nodes>g>circle.overall').style('fill', 'red')
         d3.selectAll('.nodes>g>circle.downhill').style('fill', colors('Downhill'))

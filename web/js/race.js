@@ -6,11 +6,11 @@ function venueImage(venue) {
 }
 
 function setup(date, file, isMen) {
-    $('#venue').html('')    
-    $('#event').html('')   
-    $('#country_name').html('')   
-    $('#flag').html('') 
-    $('#race-image').html('')  
+    $('#venue').html('')
+    $('#event').html('')
+    $('#country_name').html('')
+    $('#flag').html('')
+    $('#race-image').html('')
     $('#race-table').html('')
 
     function centisToMinutesAndSeconds(centis) {
@@ -24,8 +24,8 @@ function setup(date, file, isMen) {
 
 
     var header_name = ["#", "", "Name", "", "Time"];
-    function getPhoto(photo){
-        return photo===''?'./img/placeholder_male.jpg':photo
+    function getPhoto(photo) {
+        return photo === '' ? './img/placeholder_male.jpg' : photo
     }
     // use es6 string templates to populate rows
     const rowTemplate = (d) => {
@@ -43,7 +43,7 @@ function setup(date, file, isMen) {
     d3.csv(file).then(function (data) {
         var filtered = data.filter(d => d.date === date);
         // select viz and append table
-        if (filtered.length===0){
+        if (filtered.length === 0) {
             d3.select("#venue").text("Race cancelled");
             return;
         }
@@ -51,11 +51,11 @@ function setup(date, file, isMen) {
         d3.select("#event").text(filtered[0].event);
         d3.select("#country_name").text(date);
         var src = "./img/events/" + venueImage(filtered[0].venue);
-       
-        $("#race-image").html('<img class="img-fluid rounded race-event-photo" src='+encodeURI(src)+'>');
+
+        $("#race-image").html('<img class="img-fluid rounded race-event-photo" src=' + encodeURI(src) + '>');
 
         var src = "https://www.countryflags.io/" + filtered[0].country + "/flat/64.png";
-        $('#flag').html('<img src="'+src+'" class="img-fluid rounded">')
+        $('#flag').html('<img src="' + src + '" class="img-fluid rounded">')
 
         const table = d3.select("#race-table").append("table").attr('class', 'table table-striped table-hover mt-2');
 
@@ -75,6 +75,5 @@ function setup(date, file, isMen) {
             .append("tr")
             .html(rowTemplate)
             .on("click", d => loadAthlete(d.ath_name, get_current_year()));
-
     });
 }

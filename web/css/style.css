@@ -4,37 +4,38 @@ html, body {
     background-color: #eeeeff;
 }
 
-.full_height{
+.full_height {
     height: 100%;
 }
 
-.headline{
+.headline {
     height: 5%;
 }
 
-.first_row{
+.first_row {
     height: 40%;
 }
 
-.second_row{
+.second_row {
     height: 38%;
 }
 
-.timeline_row{
+.timeline_row {
     height: 5%;
 }
 
-.navdown_row{
+.navdown_row {
     height: 2%;
 }
-#back{
+
+#back {
     text-align: center;
 }
 
-#go{
+#go {
     text-align: center;
 }
 
-#exlanations{
+#exlanations {
     background-color: white;
 }

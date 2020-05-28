@@ -1,24 +1,25 @@
-#race-table{
+#race-table {
 	text-align: center;
-	margin:0 0 0 0;
-  	width: 100%;
-  	height: 70%;
+	margin: 0 0 0 0;
+	width: 100%;
+	height: 70%;
 	position: relative;
 	overflow: auto;
 	display: block;
 }
 
-#race-table tr{
+#race-table tr {
 	cursor: pointer;
 }
-.race-country-flag{
+
+.race-country-flag {
 	max-width: 20px;
 }
 
-.race-ath-photo{
+.race-ath-photo {
 	max-width: 30px;
 }
 
-.race-event-photo{
+.race-event-photo {
 	margin-top: 5px;
 }

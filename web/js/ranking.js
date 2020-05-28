@@ -94,8 +94,8 @@ function create_ranking(rankingId, dataFile, year, locations) {
                 d.date = d.date,
                 d.colour = colors(d.specialty)
         });
-        
-       setup(data[0].date, "data/race_results_" + get_suffix() + ".csv", true);
+
+        setup(data[0].date, "data/race_results_" + get_suffix() + ".csv", true);
 
         var datevalues = d3.nest()
             .key(function (d) { return d.date; })
@@ -364,14 +364,11 @@ function create_ranking(rankingId, dataFile, year, locations) {
             go_to_point(locations[formatDate(datevalues[index][0], false)]);
             setup(formatDate(datevalues[index][0], false), "data/race_results_" + get_suffix() + ".csv", true);
 
-            //------NEW SLIDER begin------
             $('#event-slider').ionRangeSlider();
             let event_slider = $("#event-slider").data("ionRangeSlider");
-            event_slider.update({from:index+1})
-            //------NEW SLIDER end------
+            event_slider.update({ from: index + 1 })
         }
 
-//------NEW SLIDER begin------
         $('#event-slider-container').html('<input id="event-slider" type="text" class="js-range-slider" name="event-slider" value="" />')
         $("#event-slider").ionRangeSlider({
             type: "single",
@@ -389,7 +386,6 @@ function create_ranking(rankingId, dataFile, year, locations) {
 
             }
         });
-//------NEW SLIDER end------
 
         var sliderStep = d3
             .sliderBottom()
@@ -402,19 +398,6 @@ function create_ranking(rankingId, dataFile, year, locations) {
             .on('onchange', val => {
                 callback(val - 1);
             });
-
-            //LEGACY SLIDER
-      /*var gStep = d3
-            .select('div#slider-step')
-            .append('svg')
-            .attr('width', 500)
-            .attr('height', 100)
-            .append('g')
-            .attr('transform', 'translate(30,30)');
-
-        gStep.call(sliderStep);*/
-
-        
 
         var myTimer;
         d3.select("#start").on("click", function () {
