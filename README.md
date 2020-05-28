@@ -26,7 +26,7 @@
 
 [Process book](/doc/process_book.pdf)
 
-[Screencast](/doc/screencast.mp4)
+[Screencast](/doc/screencast.mp4) ([YouTube link](https://youtu.be/lzl6EIbHbIo))
 
 ### Installation
 
