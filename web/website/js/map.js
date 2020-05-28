@@ -69,7 +69,7 @@ function load_new_events(locations){
             var event = key;
             var marker = L.marker(events_location[event]).bindPopup(getPopup(event, venueEvents[key])).on('click', function (e) {
                 //console.log(e.latlng);
-                mymap.flyTo([e.latlng.lat + 1.5, e.latlng.lng], 6, {
+                mymap.flyTo([e.latlng.lat + 1.7, e.latlng.lng], 6, {
                     duration: 2, // in seconds
                     noMoveStart: true
                 });
