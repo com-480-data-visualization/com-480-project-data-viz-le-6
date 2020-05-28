@@ -41,7 +41,7 @@ If you would rather run our website locally (present under `web/website`), you c
 - `data`: contains our main datasets
 - `doc`: contains our reports and other deliverables (screencast)
 - `preprocessing`: contains all our Python notebooks, used to preprocess all of our data
-- `web`: contains the main code of our website
+- `web`: contains the main code of our website under `web/website`, other subfolders were part of the early development
 
 ### Usage
 
