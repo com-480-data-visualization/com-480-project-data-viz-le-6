@@ -43,7 +43,10 @@ function setup(date, file, isMen) {
     d3.csv(file).then(function (data) {
         var filtered = data.filter(d => d.date === date);
         // select viz and append table
-
+        if (filtered.length===0){
+            d3.select("#venue").text("Race cancelled");
+            return;
+        }
         d3.select("#venue").text(filtered[0].venue);
         d3.select("#event").text(filtered[0].event);
         d3.select("#country_name").text(date);
